@@ -1,0 +1,4899 @@
+
+                 
+
+          
+
+                       
+
+                   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+3 KEVIN LOUGHRIN,  : 
+
+4  Petitioner  :  No. 13­316 
+
+5  v.  : 
+
+6 UNITED STATES  : 
+
+7 ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+8  Washington, D.C. 
+
+9  Tuesday, April 1, 2014 
+
+10 
+
+11  The above­entitled matter came on for oral 
+
+12 argument before the Supreme Court of the United States 
+
+13 at 10:04 a.m. 
+
+14 APPEARANCES: 
+
+15 KEVIN K. RUSSELL, ESQ., Washington, D.C.; on behalf 
+
+16  of Petitioner. 
+
+17 ANTHONY A. YANG, ESQ., Assistant to the Solicitor 
+
+18  General, Department of Justice, Washington, D.C.; on 
+
+19  behalf of Respondent. 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+1
+ 
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                    
+
+                    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF  PAGE 
+
+3 KEVIN K. RUSSELL, ESQ. 
+
+4  On behalf of the Petitioner  3 
+
+5 ORAL ARGUMENT OF 
+
+6 ANTHONY A. YANG, ESQ. 
+
+7  On behalf of the Respondent  27 
+
+8 REBUTTAL ARGUMENT OF 
+
+9 KEVIN K. RUSSELL, ESQ. 
+
+10  On behalf of the Petitioner  56 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+2
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (10:04 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS:  We'll hear argument 
+
+4 this morning in case 13­316, Loughrin v. United States. 
+
+5  Mr. Russell. 
+
+6  ORAL ARGUMENT OF KEVIN K. RUSSELL 
+
+7  ON BEHALF OF THE PETITIONER 
+
+8  MR. RUSSELL:  Mr. Chief Justice, and may it 
+
+9 please the Court: 
+
+10  This case presents the question whether to 
+
+11 commit Federal bank fraud, the defendant must intend to 
+
+12 defraud a bank, or whether, as the Tenth Circuit held, 
+
+13 it's enough that the defendant intended to defraud 
+
+14 someone in order to obtain money the victim keeps in a 
+
+15 bank account.  Applying the Tenth Circuit's 
+
+16 interpretation, the government has prosecuted people 
+
+17 whose only relationship to a bank is that they tricked a 
+
+18 third party into issuing them a perfectly valid check, 
+
+19 which the defendant then cashed at a bank. 
+
+20  Such a broad interpretation of the Federal 
+
+21 bank fraud statute threatens to sweep in a garden 
+
+22 variety State law crime ­­ a broad sweep of the sort 
+
+23 that this Court has refused to give to Federal criminal 
+
+24 statutes absent a clear statement of congressional 
+
+25 intent.  And that ­­
+
+3
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  JUSTICE GINSBURG:  But it fits – it fits the 
+
+2 words Congress used, "obtained funds owned or controlled 
+
+3 by financial ­­ a financial institution by means of 
+
+4 false representation." 
+
+5  MR. RUSSELL:  Well, the problem is there is 
+
+6 an ambiguity in Subsection 2 about to whom the false 
+
+7 representation must be directed.  Now, I acknowledge 
+
+8 that ordinarily, you would construe that silence in 
+
+9 favor of breadth that ­­ in favor breadth that a false 
+
+10 statement to anyone would do.  But there are compelling 
+
+11 reasons not to give that ambiguity, that interpretation 
+
+12 in this case. 
+
+13  And one is the breadth that I mentioned.  It 
+
+14 enabled the government to bring cases like United States 
+
+15 v. Rodriguez where the government prosecuted a 
+
+16 bookkeeper who filed false invoices with her employer 
+
+17 that led the employer then to issue perfectly valid 
+
+18 checks to people who didn't do the work. 
+
+19  CHIEF JUSTICE ROBERTS:  Well, but the 
+
+20 breadth is confined ­­ given the development of the 
+
+21 banking system, it may not seem as significant a 
+
+22 limitation today as in years past.  But, nonetheless, 
+
+23 the definition of a financial institution is ­­ in 
+
+24 18 U.S.C. 20 is limited to institutions with a 
+
+25 particular Federal nexus.  Federal Deposit Insurance, 
+
+4
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 Federal Home Loan Bank, Small Business Investment Act. 
+
+2 It isn't any financial institution, but institutions in 
+
+3 which the Federal Government has a particular interest. 
+
+4  MR. RUSSELL:  That's true.  But nonetheless, 
+
+5 for precisely the reason you identified, it ­­ it covers 
+
+6 an awful lot of banks.  And if you read the statute ­­
+
+7  JUSTICE SOTOMAYOR:  But not in this case, 
+
+8 and that's where I'm having difficulty.  Why is it 
+
+9 illogical to think that a falsehood rendered through a 
+
+10 third party that might affect a bank, a false check, as 
+
+11 your client was charged with, that that would be the 
+
+12 very case Congress would have wanted covered? 
+
+13  MR. RUSSELL:  So that's a question about, I 
+
+14 think, whether intent to defraud a bank could be 
+
+15 satisfied in a case like this.  And I think that the 
+
+16 answer to that is possibly it could.  So the government, 
+
+17 I think, tries to put you to a false choice between 
+
+18 saying you either have to accept the Tenth Circuit's 
+
+19 interpretation that sweeps in cases like United States 
+
+20 v. Rodriguez, perfectly valid checks that don't 
+
+21 implicate either of the core interests in a bank fraud 
+
+22 case, which is protecting the bank from financial harm 
+
+23 or protecting the bank from being lied to.  You either 
+
+24 have to accept that or you have to leave unprosecutable 
+
+25 cases like this one.  But that's not true. 
+
+5
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  JUSTICE ALITO:  How would that ­­ how would 
+
+2 that work?  Would the jury have to be instructed about 
+
+3 the U.C.C. and be asked to determine whether the bank or 
+
+4 Target, in this case, would be liable for the funds if 
+
+5 the bank had honored a forged check? 
+
+6  MR. RUSSELL:  So that gets the ­­ we have 
+
+7 two theories.  We have the theory that intent to defraud 
+
+8 a bank is required and under that theory, the U.C.C. 
+
+9 doesn't matter.  We also argue, though, if you don't 
+
+10 require intent to defraud a bank ­­
+
+11  JUSTICE ALITO:  Why would it not matter? 
+
+12  MR. RUSSELL:  Because under the 
+
+13 government ­­ it doesn't matter under the government's 
+
+14 view or ours, so ­­
+
+15  JUSTICE ALITO:  No, under your view.  Under 
+
+16 your view that there has to be an intent to defraud a 
+
+17 bank.  Why would it not matter from ­­ who would 
+
+18 ultimately be liable for the ­­ for the money ­­ for the 
+
+19 amount of the check? 
+
+20  MR. RUSSELL:  Under our view, all the 
+
+21 government has to show is that the defendant intended to 
+
+22 deceive a bank in order to obtain property that is owned 
+
+23 by or in the custody of a bank.  So in a bank account. 
+
+24 So a traditional altered check case ­­
+
+25  JUSTICE SCALIA:  I think on anybody's 
+
+6
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 theory, you ­­ you have to show that ­­ that the monies, 
+
+2 funds, credits, assets, securities or other property was 
+
+3 owned by or under the custody or control of the 
+
+4 financial institution. 
+
+5  MR. RUSSELL:  That's right. 
+
+6  JUSTICE SCALIA:  Doesn't either side have to 
+
+7 prove that? 
+
+8  MR. RUSSELL:  That's correct.  So the point 
+
+9 of departure is to whom the false statement has to be 
+
+10 directed. 
+
+11  JUSTICE SCALIA:  But ­­ but the jury has to 
+
+12 be instructed that the money's coming out of the bank. 
+
+13  MR. RUSSELL:  That's correct.  That's 
+
+14 correct.  And so that's ­­ to the extent you think the 
+
+15 U.C.C. is implicated in that inquiry, that ­­ that is 
+
+16 true under either one.  I don't think that it is.  I 
+
+17 think it's just going to be a question of, you know, 
+
+18 whose money are you trying to get and is it in a bank 
+
+19 account. 
+
+20  JUSTICE GINSBURG:  Two of the ­­ two of the 
+
+21 six checks involved were paid by the drawing bank. 
+
+22 Isn't that so? 
+
+23  MR. RUSSELL:  That is correct.  And so ­­
+
+24 but under our principal view that the problem here is 
+
+25 that the government ­­ that the jury wasn't instructed 
+
+7
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 that Petitioner had to intend to defraud a bank as 
+
+2 opposed to Target.  And so it doesn't matter whether the 
+
+3 checks were cashed or not.  And it doesn't even matter 
+
+4 under the risk of loss theory because it only has to be 
+
+5 a risk of loss, not an actual loss. 
+
+6  JUSTICE ALITO:  I think you have a ­­ you 
+
+7 have a credible textual argument, but you run into the 
+
+8 problem that your interpretation makes Section ­­
+
+9 Subsection 1 surplusage.  How do you get around that? 
+
+10  MR. RUSSELL:  I don't know that we do, but 
+
+11 the Tenth Circuit's interpretation doesn't either, 
+
+12 because under the Tenth Circuit's interpretation, one is 
+
+13 rendered surplusage because any prosecution that could 
+
+14 be brought under (1) could also be brought under (2). 
+
+15 If it's enough under (2) that you intend to defraud 
+
+16 someone, it's surely enough that you intended to defraud 
+
+17 a bank. 
+
+18  JUSTICE ALITO:  Well, under the alternative, 
+
+19 there is certainly overlap, but (2) reaches a much 
+
+20 broader category or it reaches a broader category.  So 
+
+21 it's not useless. 
+
+22  MR. RUSSELL:  No, that's true.  And ­­
+
+23  JUSTICE ALITO:  Representation doesn't have 
+
+24 to be made to the bank under (2).  (2) covers those 
+
+25 instances where the representation is made to somebody 
+
+8
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 else.  (1) would be limited to those, perhaps, in which 
+
+2 the representation is made to the bank.  But under your 
+
+3 interpretation where (2) requires that the 
+
+4 representation be made to the bank, there is no point in 
+
+5 having two subsections.  You might as well just have 
+
+6 one. 
+
+7  MR. RUSSELL:  Well, I have two things to say 
+
+8 to that.  One is Congress may have thought that what 
+
+9 they were doing in (2) is making clear that the statute 
+
+10 encompasses the broad range of particular kinds of 
+
+11 property interests that are unique or ­­ or at least 
+
+12 common in the banking context.  And in that way it 
+
+13 serves the same function as the second clause in the 
+
+14 mail fraud statute upon which this statute is premised. 
+
+15  JUSTICE GINSBURG:  It doesn't have the two 
+
+16 subparts.  But here you are essentially asking us to 
+
+17 read the word "or," "(1) or (2)" to mean (1) including 
+
+18 (2). 
+
+19  MR. RUSSELL:  Well, that's the same way that 
+
+20 this Court has repeatedly read the two parallel clauses 
+
+21 of the bank fraud statute.  The only difference being, 
+
+22 you know, the difference in hardware terms and numerals. 
+
+23 But I don't think ­­
+
+24  JUSTICE SOTOMAYOR:  What this Court did 
+
+25 after the ­­ after ­­ or before this statute ­­ this 
+
+9
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 statute was passed before the Court's interpretation of 
+
+2 the mail fraud statute. 
+
+3  MR. RUSSELL:  That's right. 
+
+4  JUSTICE SOTOMAYOR:  Every court that had 
+
+5 looked at it at the time the statute was passed had 
+
+6 determined there were two separate provisions.  So why 
+
+7 would Congress have any reason to believe they were 
+
+8 passing a singular case, a singular charge? 
+
+9  MR. RUSSELL:  I think what Congress would 
+
+10 have intended is simply that when it uses the 
+
+11 identical ­­ materially identical language and structure 
+
+12 in two statutes, that they would have the same meaning 
+
+13 as determined by this Court. 
+
+14  The interpretive principle that the 
+
+15 government relies on that identically­worded statutes 
+
+16 can mean very different things depending on the state of 
+
+17 the circuit law at the time Congress copies the language 
+
+18 is really untenable.  And it requires a criminal 
+
+19 defendant, for example, to know what that circuit 
+
+20 precedent was and not be able to simply rely on this 
+
+21 Court's decisions interpreting the identical language in 
+
+22 another statute. 
+
+23  JUSTICE GINSBURG:  But it's not identical 
+
+24 because in the bank fraud statute, Congress broke out 
+
+25 and separately numbered (1) and (2) and they didn't do 
+
+10
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 that in the mail fraud. 
+
+2  MR. RUSSELL:  Now, I understand that.  But I 
+
+3 don't think that if Congress intended this statute to 
+
+4 operate dramatically different from the mail fraud 
+
+5 statute, the only change it would have made was as those 
+
+6 sort of typographical changes.  I don't think that's the 
+
+7 way Congress conveys that kind of intent. 
+
+8  But again, even if you think that Subsection 
+
+9 (2) creates an independent offense, it's susceptible of 
+
+10 the interpretation that we give you, which avoids having 
+
+11 to federalize the kinds of cases that are at issue in 
+
+12 United States v. Rodriguez. 
+
+13  JUSTICE KAGAN:  One understanding of what 
+
+14 led to this statute is this Court's decision in Maze, 
+
+15 which actually seems on all fours with this case, right? 
+
+16 Use of a fraudulent credit card to a merchant who then 
+
+17 asks for money from the bank.  Essentially the same case 
+
+18 as this with a fraudulent credit card as opposed to a 
+
+19 fraudulent check.  So if we understand this statute as 
+
+20 arising from Congress's desire to make that bank fraud, 
+
+21 why should we rule for you here? 
+
+22  MR. RUSSELL:  Well, I guess I have to just 
+
+23 dispute the premise.  I think Congress was reacting to 
+
+24 the rule, the principle of law that Maze adopted, which 
+
+25 made it impossible to use the wire fraud statute and 
+
+11
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 mail fraud statute to prosecute a case even when 
+
+2 somebody goes into a bank and cashes a counterfeit check 
+
+3 because the then use of the mail to settle the account 
+
+4 afterwards wasn't good enough.  And that's what Congress 
+
+5 was concerned of. 
+
+6  In this Court's own decision in Maze, the 
+
+7 Court noted that Congress had dealt with the specific 
+
+8 factual problem in Maze through an amendment, then 
+
+9 recent amendment to the Truth­in­Lending Act, which 
+
+10 prohibited credit card fraud.  Congress added to those 
+
+11 remedies in another section of the same statute that 
+
+12 enacted the bank fraud statute and then dealt with the 
+
+13 parallel problem with respect to altered checks in 
+
+14 Section 513, which is also part of that same statute, which 
+
+15 criminalizes any use of an altered check to deceive 
+
+16 anyone without regard to whose property the defendant is 
+
+17 intending to obtain. 
+
+18  So when you're worried about altered check 
+
+19 cases here, and we need to not just be worried about 
+
+20 these cases because this decision will implicate a whole host 
+
+21 of other cases.  But if you're thinking just about 
+
+22 altered check cases, Congress dealt with altered check 
+
+23 cases in Section 513.  And that's important because the 
+
+24 penalties under 513 and 31 ­­ and the bank fraud 
+
+25 provision are very different.  It's a 30­year sentence 
+
+12
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 for bank fraud and a 10­year sentence for a Section 513. 
+
+2 And more importantly, the bank fraud statute is a 
+
+3 predicate for aggravated identity theft, which imposes a 
+
+4 mandatory 2­year minimum sentence that must be served 
+
+5 consecutive to any other sentence. 
+
+6  And so in a petty case like this, the 
+
+7 difference between somebody being charged for the bank fraud 
+
+8 and being charged under 513 for a first­time offender 
+
+9 can be the difference between zero to 6 months and 2 to 
+
+10 2 and a half years.  And that gives the government 
+
+11 enormous plea bargaining leverage.  So you can 
+
+12 understand why the government wants a broad 
+
+13 interpretation here. 
+
+14  But it's also equally understandable that 
+
+15 Congress would have thought that cases in which 
+
+16 somebody's using an altered check in a way that 
+
+17 negligently or knowingly poses some risk to a bank is ­­
+
+18 warrants less punishment than when somebody directly 
+
+19 targets the bank itself for deception in order to obtain 
+
+20 bank property. 
+
+21  JUSTICE KENNEDY:  Why ­­ why is that?  Why 
+
+22 would Congress have wanted to make that difference? 
+
+23  MR. RUSSELL:  Well, because I think 
+
+24 Congress ­­
+
+25  JUSTICE KENNEDY:  I agree with you that the 
+
+13
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 disparity in ­­ in punishment is quite substantial. 
+
+2  MR. RUSSELL:  Yeah.  I think that Congress 
+
+3 would have thought it's more serious for somebody to 
+
+4 target a bank than it is for somebody to use an altered 
+
+5 check that has a risk to a bank.  Because as this case 
+
+6 illustrates, using an altered check doesn't necessarily 
+
+7 impose a financial cost on the bank.  Here Target 
+
+8 intercepted most ­­ most ­­ we have a disagreement with 
+
+9 the government whether it was three or four of the 
+
+10 checks, but ­­ and the bank itself made ­­ discovered 
+
+11 the alteration and refused to honor the check.  But when 
+
+12 you are intending to defraud the bank, that's ­­ the 
+
+13 Congress could think that's a much more serious thing. 
+
+14 And I do think that, you know ­­
+
+15  JUSTICE KENNEDY:  It does ­­ it does seem to 
+
+16 me that this case can be distinguished from the example 
+
+17 you gave in your yellow brief of the person that sells a 
+
+18 magazine subscription and he gets the check and he never 
+
+19 intends to deliver the magazines.  In that case, the 
+
+20 bank will ­­ will honor the check, I assume. 
+
+21  MR. RUSSELL:  Yes. 
+
+22  JUSTICE KENNEY:  And must.  And must do so. 
+
+23  MR. RUSSELL:  That's correct.  And so ­­
+
+24  JUSTICE KENNEDY:  And that's quite different 
+
+25 than this case. 
+
+14
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. RUSSELL:  So the question is how to get 
+
+2 rid of those cases while preserving the government's 
+
+3 ability to prosecute. 
+
+4  JUSTICE KENNEDY:  Well, you can do so, I 
+
+5 suppose, through the government's proposed fallback 
+
+6 position. 
+
+7  MR. RUSSELL:  Yes. 
+
+8  JUSTICE KENNEDY:  ­­ at page 40 of its brief 
+
+9 which talks about a risk of loss. 
+
+10  MR. RUSSELL:  So there are ­­ there are 
+
+11 several things wrong with the government's fallback 
+
+12 position and it leads in most cases to the same result 
+
+13 as intent to defraud.  So in paradigmatic bank fraud 
+
+14 cases, both our rule and their fallback rule permits 
+
+15 prosecution. 
+
+16  The only real difference is that their rule 
+
+17 is ­­ is designed to permit prosecution in third­party 
+
+18 check fraud cases like ours.  Because if it's an altered 
+
+19 check that's presented to the bank, we acknowledge that 
+
+20 shows intent to defraud the bank.  So we're only talking 
+
+21 about cases like ours where an altered check is 
+
+22 presented to a third party and the government's rule 
+
+23 permits them to continue to prosecute those cases. 
+
+24  Now, even if you agree with them that those 
+
+25 kinds of cases fall within the scope of the statute, 
+
+15
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 that ­­ all you need to do then is to say, look, those 
+
+2 cases aren't materially different than when you submit 
+
+3 the check to the bank in the first place, that the 
+
+4 altered check shows intent to defraud the bank in 
+
+5 third­party cases just like it does in a first­party 
+
+6 case.  Now, we think that they're wrong about whether or 
+
+7 not these kinds of cases are covered.  And if we're 
+
+8 right about that, then there's obviously no reason to 
+
+9 adopt, you know, a rule that they made up just to deal 
+
+10 with those kinds of cases. 
+
+11  And maybe I could turn to that argument just 
+
+12 for a second. 
+
+13  JUSTICE ALITO:  Well, could I ask you this 
+
+14 question?  Suppose the defendant testifies and suppose 
+
+15 the jury believes the defendant.  The defendant 
+
+16 testifies as follows:  I never intended to defraud the 
+
+17 bank.  I knew that the cashiers at this particular 
+
+18 retail establishment were incredibly careful ­­ careless 
+
+19 and so I got these checks and they were made out to my 
+
+20 neighbor John Doe.  I stole them from his mailbox.  I 
+
+21 crossed out his name and I wrote in the name of the 
+
+22 retail establishment and I knew these cashiers were so 
+
+23 careless that they would honor the check.  However, I 
+
+24 never thought any bank would do that.  So I didn't 
+
+25 intend to defraud the bank.  I intended to defraud the 
+
+16
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 retail establishment. 
+
+2  Now, under your theory that ­­ that if the 
+
+3 jury believed that, the person would not be guilty of 
+
+4 the offense. 
+
+5  MR. RUSSELL:  That's right.  And I don't 
+
+6 think that those cases are covered for an additional 
+
+7 reason as well.  And that is, the fraud there is not 
+
+8 intended to obtain bank property.  Under Subsection (2), 
+
+9 it's not any fraud that implicates bank property.  The 
+
+10 object of the fraud must be to obtain the property that 
+
+11 is owned by or in the custody or control of the ­­ of 
+
+12 the bank. 
+
+13  And in a case like this, what my client 
+
+14 obtained was DVD players and groceries and a printer, 
+
+15 and those were not property owned by or in the custody 
+
+16 or control of the bank. 
+
+17  JUSTICE SCALIA:  Well, why doesn't that 
+
+18 principle cover most of the cases you're worried about? 
+
+19  MR. RUSSELL:  Well, it doesn't cover the 
+
+20 cases like Rodriguez, because the government can argue 
+
+21 there that ­­ so, I don't know if I've finished the 
+
+22 description of Rodriguez, but in that case, a bookkeeper 
+
+23 submitted false invoices to her employer.  The employer 
+
+24 issued valid checks to a third party, who then cashed 
+
+25 it.  And the government can say in a case like that, 
+
+17
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 cashing the check results in you obtaining money in the 
+
+2 custody or control of the bank.  That's what you get in 
+
+3 exchange for the check.  And you obtained it by means of 
+
+4 a false statement to someone, i.e., the false invoice 
+
+5 submitted to the employer.  And so it doesn't ­­
+
+6 adopting our view of what bank property is doesn't 
+
+7 completely eliminate the problem.  We would win the 
+
+8 case.  But it doesn't ­­
+
+9  JUSTICE SCALIA:  Why ­­ why wouldn't your 
+
+10 view have enabled you to win this case? 
+
+11  MR. RUSSELL:  It would ­­ it should have.  I 
+
+12 mean, we've brought a sufficiency of the evidence 
+
+13 challenge with respect to whether ­­ whose property this 
+
+14 is.  And the jury ­­
+
+15  JUSTICE SCALIA:  So if we think that was 
+
+16 wrong, there's a lot less to this case than meets the 
+
+17 eye. 
+
+18  MR. RUSSELL:  There is ­­ that could be the 
+
+19 end of this case.  It doesn't resolve the circuit 
+
+20 conflict, which there is still a circuit conflict about 
+
+21 whether intent to defraud a bank is required in cases 
+
+22 not involving this circumstance of a third party. 
+
+23  But we do think that you shouldn't believe 
+
+24 that just because ­­ if you agree with the government 
+
+25 that third­party altered check cases fall within the 
+
+18
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 scope of the statute, that's not a reason to forego 
+
+2 requiring the government to prove intent to defraud the 
+
+3 bank.  It's just a reason to say that, as a number of 
+
+4 circuits have, that use of that altered check shows 
+
+5 intent to defraud a bank. 
+
+6  The government has been able to prosecute 
+
+7 altered check cases, including altered third­party 
+
+8 check ­­ altered check cases to third parties, in 
+
+9 circuits that require intent to defraud the bank. 
+
+10  The other thing that's wrong ­­
+
+11  JUSTICE KAGAN:  What's the theory behind 
+
+12 that?  Why would presenting an altered check to a third 
+
+13 party constitute sufficient evidence of intent to 
+
+14 defraud a bank? 
+
+15  MR. RUSSELL:  Well, I think the theory is 
+
+16 that the use of an altered check shows intent to deceive 
+
+17 the bank.  And then these courts simply view obtaining 
+
+18 the property of a third party using that check as 
+
+19 materially identical to obtaining that property directly 
+
+20 from a bank, I think is the theory. 
+
+21  JUSTICE ALITO:  Usually there won't be 
+
+22 evidence, direct evidence of the defendant's intent.  So 
+
+23 the defendant's intent will be inferred from objective 
+
+24 evidence ­­ will be inferred from other evidence, and 
+
+25 then you will get into the question of whether the 
+
+19
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 retailer who initially accepts the check or the bank is 
+
+2 ultimately going to be liable for the amount of that 
+
+3 check.  If you're ­­ if you're in a situation in which 
+
+4 the ­­ the retailer is going to be liable, that ­­ maybe 
+
+5 that supports the ­­ the inference that the defendant 
+
+6 never intended to defraud the bank.  If you're in a 
+
+7 situation where the bank is going to be liable, it 
+
+8 supports the inference that the defendant intended to 
+
+9 defraud the bank. 
+
+10  So won't you get into this somewhat 
+
+11 complicated UCC question about who is ultimately going 
+
+12 to be liable for the amount?  I think that's a problem 
+
+13 with your argument, but maybe there's an answer to it. 
+
+14  MR. RUSSELL:  Well, I think that there is 
+
+15 and maybe I'm not explaining it very well.  So there's 
+
+16 two pieces of intent to defraud the bank.  There's 
+
+17 intent to deceive the bank and intent thereby to obtain 
+
+18 bank property.  With respect to intent to deceive the 
+
+19 bank, I think the courts have uniformly found in ­­ in 
+
+20 cases, at least first party cases, that use of an 
+
+21 altered check is sufficient evidence to show that you 
+
+22 intend to deceive the bank.  And when you intend ­­
+
+23 whether you intend to deceive the bank, it doesn't 
+
+24 matter who's going to end up bearing the cost at the 
+
+25 end.  It's just a question ­­
+
+20
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  JUSTICE SCALIA:  Doesn't ­­ doesn't that 
+
+2 U.C.C. question arise anyway under the requirement that 
+
+3 you have to ­­ you have to obtain bank property? 
+
+4  MR. RUSSELL:  It ­­ it potentially does if 
+
+5 you're willing to ­­
+
+6  JUSTICE SCALIA:  Doesn't it require you to 
+
+7 ultimately decide who's ­­ who's going to be stuck with 
+
+8 the ­­ with the empty bag? 
+
+9  MR. RUSSELL:  It ­­ it potentially could if 
+
+10 you're willing to say that somebody who obtains property 
+
+11 from Target potentially is obtaining bank property 
+
+12 because of reasons relating to the U.C.C.  We don't 
+
+13 think you even need to go that far.  We think it's 
+
+14 sufficient to say that in these third­party cases, what 
+
+15 you're obtaining is the property of somebody else.  And 
+
+16 that doesn't mean that it's not a crime, and it doesn't 
+
+17 even mean that it's not a Federal crime.  It simply 
+
+18 means it's a Section 513 crime. 
+
+19  JUSTICE SCALIA:  I understand that.  But ­­
+
+20 but if you accept the government's view ­­
+
+21  MR. RUSSELL:  Yes. 
+
+22  JUSTICE SCALIA:  ­­ of how these third­party 
+
+23 cases ought to ­­ ought to be resolved, you have to get 
+
+24 into the U.C.C., don't you. 
+
+25  MR. RUSSELL:  I don't know.  I mean, maybe 
+
+21
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 they can ­­ they're the better people to answer that 
+
+2 question for you.  But I think that, at least to finish 
+
+3 the answer to Justice Alito, use of an altered check 
+
+4 which says ­­ when you've written, you know, your name 
+
+5 on the check rather than the person who authored it, is 
+
+6 an attempt to deceive a bank.  We don't disagree with 
+
+7 that. 
+
+8  And so then the question in these 
+
+9 third­party cases is:  Are you attempting to obtain 
+
+10 property of the bank?  And we don't think that the 
+
+11 U.C.C. comes into that.  It's just a simple common sense 
+
+12 thing that a DVD player on Target's shelves is not 
+
+13 property owned by or in the custody or control of a 
+
+14 bank.  And so ­­
+
+15  JUSTICE BREYER:  How does it work ­­ how 
+
+16 does it work if you have Mr. Crook, Mr. Crook has a bank 
+
+17 account at Bank of America, he has $32 in it.  He writes 
+
+18 a check for 5,000.  He sees somebody on the street whom 
+
+19 he vaguely knows and says, here, take my check; go to 
+
+20 the bank; give me $200 or give me 1,000.  Now, he's got 
+
+21 the money from Mr. Smith.  He didn't obtain money from 
+
+22 the bank.  It was Mr. Smith who did or did not go into 
+
+23 the bank to get the money.  Does that fall within the 
+
+24 statute? 
+
+25  MR. RUSSELL:  No.  I mean, what that is is a 
+
+22
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 typical bad check case.  It's the equivalent ­­
+
+2  JUSTICE BREYER:  So this doesn’t fall within the 
+
+3 statute at all.  In fact ­­ in other words, have we got 
+
+4 some cases on that? 
+
+5  MR. RUSSELL:  We don't have this Court's 
+
+6 cases.  I mean ­­
+
+7  JUSTICE BREYER:  No, no.  This is not good, 
+
+8 but I mean, you know, what you tried ­­ you didn't get 
+
+9 the money from the bank.  What you did was just write a 
+
+10 false check, knowing that in all likelihood the guy you 
+
+11 give the check to is going to go right to the bank and 
+
+12 get the money.  Now, I just wonder is there some 
+
+13 authority as to whether that falls within these statutes 
+
+14 or not. 
+
+15  MR. RUSSELL:  So the government has brought 
+
+16 those kinds of not­sufficient­funds cases.  Ordinarily, 
+
+17 it goes down somewhat differently, that you've presented 
+
+18 the check that you know is going to bounce to a 
+
+19 merchant, not to some guy in the street.  And the 
+
+20 government's theory is that thereby you're obtaining 
+
+21 bank property.  But most of the cases say that that's 
+
+22 not actually bank fraud because you're not intending to 
+
+23 deceive a bank.  And that's perfectly fine. 
+
+24  JUSTICE BREYER:  It wouldn't matter.  Look, 
+
+25 I don't think you have to ­­ when you say "intend," 
+
+23
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 "intend" can encompass a known but undesired consequence 
+
+2 of an intentional act.  And so you may not care ­­ you 
+
+3 couldn't care less when the money comes from the bank or 
+
+4 not, but you know that the bank is likely to pay it. 
+
+5  MR. RUSSELL:  But ­­
+
+6  JUSTICE BREYER:  So therefore, you have the 
+
+7 requisite intent.  But what I'm trying to figure out 
+
+8 here is what's the case law on what should be a very 
+
+9 common situation.  If you give it to a third party, your 
+
+10 fake check, insufficient funds.  You just want the money 
+
+11 from the third party.  But you know the bank is likely 
+
+12 to honor it. 
+
+13  MR. RUSSELL:  Well, if ­­ if I can quibble 
+
+14 with that last piece of the sentence.  Ordinarily, if 
+
+15 you give a check that goes to a bank and there's not 
+
+16 sufficient funds, they bounce the check.  They don't 
+
+17 honor it.  So ­­
+
+18  JUSTICE BREYER:  All right.  Try two ­­
+
+19  JUSTICE SCALIA:  That's certainly been my 
+
+20 experience. 
+
+21  (Laughter.) 
+
+22  JUSTICE BREYER:  Try two ­­ two different 
+
+23 paths here.  Path A, he believes that the bank will 
+
+24 honor Smith's, his check, when presented by Jones.  I 
+
+25 got my names mixed up. 
+
+24
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. RUSSELL:  Sure. 
+
+2  JUSTICE BREYER:  Mr. Crook believes that the 
+
+3 bank will honor his check when Mr. Smith presents it. 
+
+4 And the second is the one Justice Scalia said, is being 
+
+5 sophisticated about these matters, Mr. Crook believes 
+
+6 that the bank will never own ­­ never, never pay the 
+
+7 check when presented by Smith.  I just want to know the 
+
+8 state of the law on those two situations. 
+
+9  MR. RUSSELL:  So the state of the law ­­ and 
+
+10 there's only a handful of these not­sufficient­fund 
+
+11 cases is that most of the circuits have said they do not 
+
+12 fall within the statute.  The ones that have said that 
+
+13 they do, it's usually because the defendant has some ­­
+
+14 told some additional lie to the bank.  They've opened 
+
+15 the account under a false name, for example.  And so 
+
+16 that's the state of law. 
+
+17  This Court in United States v. Williams, 
+
+18 though, said we should go to great lengths ­­
+
+19  JUSTICE SOTOMAYOR:  What is the thinking of 
+
+20 those courts? 
+
+21  MR. RUSSELL:  What's that? 
+
+22  JUSTICE SOTOMAYOR:  What's the thinking of 
+
+23 those courts?  What's the rationale? 
+
+24  MR. RUSSELL:  So the rationale is that in a 
+
+25 case where you submit ­­ I guess they have two.  Some of 
+
+25
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 them are applying the risk of loss test and say that 
+
+2 there's not a sufficient risk of loss.  I believe some 
+
+3 of them are saying that there's no intent to defraud the 
+
+4 bank there because the target of the fraud ­­
+
+5  JUSTICE SOTOMAYOR:  And the courts don't 
+
+6 hold this way, but hold, as the court did below, that 
+
+7 it's an intent to deceive anyone so long as the scheme 
+
+8 is ­­
+
+9  MR. RUSSELL:  Yeah.  Those ­­ I don't know 
+
+10 that this case has come up in those circuits, but I 
+
+11 think the answer is quite clear that those circuits 
+
+12 would say they're covered.  But in United States v. 
+
+13 Williams, this Court said we should go to great lengths 
+
+14 to avoid interpreting a Federal criminal statute to 
+
+15 criminalize Federally every insufficient funds check 
+
+16 case. 
+
+17  JUSTICE BREYER:  You come back to those 
+
+18 general statements, you do have the language of the 
+
+19 statutes which favors you this question.  But I guess 
+
+20 the theory would simply be where Mr. Crook gives him a 
+
+21 bad check, to Mr. Smith, he couldn't care less whether 
+
+22 Smith presents it to the bank, and he, as far as he's 
+
+23 fairly sophisticated, thinks probably Smith won't 
+
+24 present it to the bank.  He may to an insurance company 
+
+25 or something and, therefore, he did not either obtain or 
+
+26
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 try to obtain or believe he would obtain money from the 
+
+2 bank. 
+
+3  MR. RUSSELL:  That's right. 
+
+4  JUSTICE BREYER:  Whether it's money that the 
+
+5 bank itself owns or whether it's money of which the bank 
+
+6 has custody.  That would seem to me the simplest theory. 
+
+7 And I wonder, is that what courts have said? 
+
+8  MR. RUSSELL:  I think what courts have said 
+
+9 is that those kinds of schemes are directed at 
+
+10 victimizing the third party, not a bank, and that leaves 
+
+11 to the States their traditional authority to prosecute 
+
+12 bad check cases, which I don't think should be 
+
+13 troublesome. 
+
+14  If I could reserve the remainder of my 
+
+15 time. 
+
+16  CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+17  Mr. Yang. 
+
+18  ORAL ARGUMENT OF ANTHONY A. YANG 
+
+19  ON BEHALF OF THE RESPONDENT 
+
+20  MR. YANG:  Mr. Chief Justice, and may it 
+
+21 please the Court: 
+
+22  Congress drafted Section 1344 with two 
+
+23 separate clauses, each of which serves a distinct 
+
+24 function.  The first clause targets schemes to defraud a 
+
+25 bank.  That requires intent that the scheme have the 
+
+27
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 purpose of defrauding a bank. 
+
+2  Clause (2) ­­ and this is at page 5a of the 
+
+3 government's brief, you can see the structural 
+
+4 difference quite plainly.  Clause (2) targets schemes to 
+
+5 obtain property that's either owned by or under the 
+
+6 custody or control of a bank.  And Congress enacted 
+
+7 these broad disjunctive clauses in response to this 
+
+8 Court's decision in Maze as well as in Williams, which 
+
+9 had curtailed the Government's ability to prosecute 
+
+10 precisely these types of fraud. 
+
+11  JUSTICE KAGAN:  But, Mr. Yang, your 
+
+12 interpretation of the statute goes far beyond Maze. 
+
+13 Maze was something with a fraudulent credit card or 
+
+14 forged check or something like that, but if I understand 
+
+15 your interpretation of the statute, you know, if I sell 
+
+16 a painting to somebody and I represent it to be by a 
+
+17 famous artist and in fact I've just made it in my 
+
+18 kitchen, and that person pays me with a check and it's a 
+
+19 perfectly valid check, it's a good check, the fraud is 
+
+20 obviously as to the person who's just bought the 
+
+21 painting.  It has nothing to do with the bank.  But your 
+
+22 interpretation would cover that case as well. 
+
+23  MR. YANG:  That is correct.  Our 
+
+24 understanding of the text, and the reason why that is 
+
+25 the case is because Congress specified in clause (2) 
+
+28
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 that the scheme to obtain money or property from the 
+
+2 bank has to be by means of a false or fraudulent 
+
+3 pretense, but it doesn't specify to whom that false or 
+
+4 fraudulent pretense must be made. 
+
+5  Now, we understand that that sweeps in 
+
+6 broader than what Maze ­­
+
+7  JUSTICE KAGAN:  And it's just a little bit 
+
+8 peculiar, right?  I mean, if somebody pays me in cash, 
+
+9 the government can't prosecute the person.  If somebody 
+
+10 pulls out a check, the government can, but that doesn't 
+
+11 seem to make a whole lot of sense in terms of what the 
+
+12 statute is about. 
+
+13  MR. YANG:  Well, we think that the text 
+
+14 suggests that what Congress was doing was enacting a 
+
+15 broad prophylactic, because what Congress was 
+
+16 addressing, remember, were situations where this Court 
+
+17 had construed narrowly statutes which addressed 
+
+18 situations like this where banks were the inherent 
+
+19 second­line victims, and so what Congress wanted to 
+
+20 avoid is ­­
+
+21  JUSTICE SOTOMAYOR:  But here the bank is not 
+
+22 the victim.  That's the whole point.  In these con 
+
+23 ­artist cases, the bank is incidental and ­­
+
+24  MR. YANG:  That's exactly right.  That's why 
+
+25 Congress was not intending specifically to get those, 
+
+29
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 but enacted a broader statute so we wouldn't have 
+
+2 debates about this.  Look at the debate that we're 
+
+3 having in this case.  I think everyone can agree that 
+
+4 the banks are, just like the banks in Maze, they're 
+
+5 second­line victims.  There's an order to the bank. 
+
+6 It's a check.  A check is simply an order to the bank to 
+
+7 pay a specified sum ­­
+
+8  JUSTICE KENNEDY:  But in Justice Kagan's 
+
+9 hypothetical, the bank didn't have to refund the money. 
+
+10 And we could sit around here all day with examples, but 
+
+11 suppose you have a contractor on a cost plus fixed fee 
+
+12 and he inflates the cost.  This would be ­­ to the 
+
+13 owner.  This would be a violation of the statute.  This 
+
+14 is a sweeping interpretation you're offering us. 
+
+15  MR. YANG:  We think that that is the 
+
+16 interpretation reflected in the text, for the following 
+
+17 reason.  Although it doesn't fall within the core of 
+
+18 what Congress was trying to protect, it avoids the 
+
+19 problems, the kind of debate that we're having here 
+
+20 about situations that do fall within the core, because 
+
+21 remember, now we're talking about, Petitioner says, 
+
+22 well, you know, it wasn't sufficiently targeted, He 
+
+23 didn't really victimize or harm the bank.  Congress was 
+
+24 trying to get away from that type of inquiry.  And they 
+
+25 said, look, if the scheme has the intent of obtaining 
+
+30
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 property either owned by or in the custody or control of 
+
+2 the bank, so that means it can either be controlled by 
+
+3 the bank, its own property or custody, property it's 
+
+4 holding, or it's in the custody or control of others, 
+
+5 but it's owned by the bank, a very broad coverage.  And 
+
+6 if you try to obtain that property by means of false or 
+
+7 fraudulent pretenses, we avoid this kind of discussion 
+
+8 about were you sufficiently targeting, do you really 
+
+9 intend to ­­
+
+10  JUSTICE SCALIA:  You do indeed, but you 
+
+11 extend Federal law enormously into the kind of stuff 
+
+12 that we've usually left to the States. 
+
+13  MR. YANG:  I'm not sure that that's actually 
+
+14 true.  It's a very strange federalism argument the 
+
+15 Petitioner is making.  The Petitioner is saying, my 
+
+16 conduct is a Federal crime.  It's a Federal crime under 
+
+17 this.  It could be a Federal crime under that.  It's 
+
+18 just not a FEDERAL crime under the bank fraud statute. 
+
+19 That is a very strange federalism argument because 
+
+20 Congress has already put its hands all over the subject. 
+
+21 And what Congress is trying to do here was to respond to 
+
+22 cases like Maze by enacting a broad statute.  Congress 
+
+23 couldn't ­­
+
+24  JUSTICE BREYER:  If I have it right, I just 
+
+25 want to be sure, in my Crook case, which you may or may 
+
+31
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 not remember, you're reading the word "obtained" to mean 
+
+2 whoever knowingly executes a scheme or artifice to 
+
+3 obtain.  It doesn't mean for him to obtain.  It means 
+
+4 for anybody to obtain.  That's how you read it. 
+
+5  MR. YANG:  That's correct because ­­
+
+6  JUSTICE BREYER:  And that has been ­­ and 
+
+7 that has been pretty much the universal ­­
+
+8  MR. YANG:  Understanding of obtain.  This 
+
+9 Court ­­
+
+10  JUSTICE BREYER:  Okay, okay, okay.  You 
+
+11 don't have to argue it.  I just wanted to know now ­­
+
+12  MR. YANG:  That's just the uniform 
+
+13 understanding of the dictionary as well as this Court's 
+
+14 cases. 
+
+15  JUSTICE BREYER:  Fine, fine, fine, then is 
+
+16 the way you see the statute. 
+
+17  MR. YANG:  That's correct. 
+
+18  JUSTICE BREYER:  That Mr. Crook goes to 
+
+19 Mr. Smith and says, dear Mr. Smith, here is my check for 
+
+20 $50,000, knowing he only has $3 in his account.  All 
+
+21 right.  Now, case one is Mr. Smith, not too bright, 
+
+22 gives him $500.  Now, he might, Mr. Crook, think that 
+
+23 Smith will then go and present the check to the bank and 
+
+24 maybe get some money.  In that case, he has violated 
+
+25 this, in your view, because Mr. Smith obtained money 
+
+32
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 from the bank and that was part of Mr. Crook's idea as 
+
+2 what was likely to happen whether he'd wanted it to or 
+
+3 not. 
+
+4  MR. YANG:  Partially correct. 
+
+5  JUSTICE BREYER:  All right. 
+
+6  MR. YANG:  I would ­­
+
+7  JUSTICE BREYER:  There's also Justice 
+
+8 Scalia's point which is an important matter to me, and 
+
+9 that is that there also is the case when Mr. Crook 
+
+10 doesn't know how the banking system works at all and he 
+
+11 has no idea that the bank will, in fact, give any money 
+
+12 or whether it will give any money.  Those are the two 
+
+13 cases. 
+
+14  MR. YANG:  I have at least two responses. 
+
+15 The first is ­­
+
+16  JUSTICE BREYER:  It doesn't need a response. 
+
+17 All I want is explanation. 
+
+18  MR. YANG:  Well, two explanations about that 
+
+19 one. 
+
+20  JUSTICE SCALIA:  Give an explanation rather 
+
+21 than a response. 
+
+22  MR. YANG:  I will give an explanation that 
+
+23 will be connected to the question.  The explanation is, 
+
+24 I think, twofold.  First, as the Court explained in 
+
+25 Neder, the gravamen of this statute, just like the 
+
+33
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 gravamen of the mail fraud or the wire fraud is not the 
+
+2 particular acts or that the particular acts are done 
+
+3 well or have any likelihood of success.  It is the 
+
+4 scheme.  And so therefore questions about reliance ­­
+
+5 the bank doesn't have to believe it or rely on it; 
+
+6 damages that result don't have to rely.  This is a 
+
+7 scheme.  It is criminalizing the scheme to obtain ­­
+
+8  JUSTICE SOTOMAYOR:  So what do you do with 
+
+9 the case, the second part of the hypothetical that 
+
+10 Justice Breyer didn't repeat where the person knows the 
+
+11 bank is not going to pay a cent because there's no money 
+
+12 in this account. 
+
+13  MR. YANG:  I think that ­­
+
+14  JUSTICE SOTOMAYOR:  And so there is no part 
+
+15 of the scheme to obtain funds from the bank because they 
+
+16 know that the bank won't pay it. 
+
+17  MR. YANG:  Well, they may ­­ they may 
+
+18 suspect that the bank may not pay it.  Banks sometimes 
+
+19 in fact do pay checks on insufficient funds.  Banks have 
+
+20 only 24 hours after receipt of a check to dishonor it or 
+
+21 not and if they don't then they are stuck in the UCC and 
+
+22 have to bring lawsuits.  I mean the practical impact of 
+
+23 this type of situation is significant.  About a billion 
+
+24 dollars a year ­­
+
+25  JUSTICE BREYER:  Answer ­­ what's the answer 
+
+34
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 to Justice Sotomayor's question? 
+
+2  MR. YANG:  Well, it depends on ­­
+
+3  JUSTICE BREYER:  Mr.Crook is not too bright 
+
+4 and Mr. Crook doesn't even know what a bank is and all 
+
+5 he knows is he's can get $500 from this other not­genius 
+
+6 Mr. Smith.  So he does not care about banks.  He doesn't 
+
+7 know how they work.  He has no idea if they pay or don't 
+
+8 pay.  What's the result? 
+
+9  MR. YANG:  I think it would be very hard for 
+
+10 the government to prove that your inept bank ­­
+
+11 thief had a scheme to obtain money or property from the 
+
+12 bank, but the government might be able to prove it 
+
+13 circumstantially because, just as Justice Alito 
+
+14 explained, you rarely have insight into the heart of 
+
+15 hearts of criminals.  You need to have circumstantial 
+
+16 evidence. 
+
+17  JUSTICE SOTOMAYOR:  In what case, what 
+
+18 Federal statute criminalizes a con game? 
+
+19  JUSTICE SCALIA:  Criminalizes what?  I 
+
+20 didn't ­­
+
+21  JUSTICE SOTOMAYOR:  A con game.  What 
+
+22 Federal statute ­­ 513 criminalizes altering checks, but 
+
+23 what other Federal statute makes it a Federal crime to 
+
+24 engage in a con game without a check? 
+
+25  MR. YANG:  I'm not sure exactly what you 
+
+35
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 mean by a con game the there are plenty of Federal 
+
+2 statutes that address ­­
+
+3  JUSTICE SOTOMAYOR:  Well, somebody says I'm 
+
+4 going to paint your house and takes a check for $100 and 
+
+5 doesn't paint the house. 
+
+6  MR. YANG:  Well, the answer is that Congress 
+
+7 has addressed false statements, schemes to defraud, 
+
+8 schemes to obtain money or property through all kinds of 
+
+9 various statutes, mail fraud, wire fraud, false 
+
+10 statements, bank fraud.  It just is done so in 
+
+11 particular areas where there is a Federal interest 
+
+12 implicated.  And it ­­ actually, those areas are quite 
+
+13 sweeping and bank fraud ­­
+
+14  JUSTICE SCALIA:  And that would be one of 
+
+15 them, if you ­­ if you accept a check, right?  If ­­ if 
+
+16 you promise to paint the house, you have no intention of 
+
+17 doing it, so it's fraud, and ­­ and you accept the 
+
+18 check.  That's it.  You're under the statute, right? 
+
+19  MR. YANG:  The government would have to 
+
+20 prove that the scheme was intended to obtain money or 
+
+21 property from the bank.  If that was shown, and it was 
+
+22 shown that that was ­­
+
+23  JUSTICE KAGAN:  And what does that mean, 
+
+24 Mr. Yang?  I mean, it could mean that the ­­ that the 
+
+25 defendant intends that the money come from the bank, or 
+
+36
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 you could mean that the defendant intends to obtain 
+
+2 money which he knows may or is reasonably likely to or 
+
+3 is foreseeable to come from the bank.  Which do you 
+
+4 mean? 
+
+5  MR. YANG:  I think we kind of mean both. 
+
+6 And let me explain why.  As Justice Alito, I think, kind 
+
+7 of alluded to, as a practical matter, the way you prove 
+
+8 these cases is you prove that a defendant generally 
+
+9 intends the natural consequences of his or her acts. 
+
+10 And so if, for instance, you have a case like this where 
+
+11 you have a fraudulent check which is directed to a bank, 
+
+12 it says, bank, pay the payee this sum of money, that the 
+
+13 defendant is going to intend, when they tendered that to 
+
+14 the ­­ to the merchant, that that check is going to be 
+
+15 sent to the bank and that the bank is going to ­­ you 
+
+16 know, has a reasonable chance of paying it. 
+
+17  JUSTICE KAGAN:  Well, I think this does go 
+
+18 back to Justice Alito's question, because the person can 
+
+19 say ­­ the defendant here could have said, I really 
+
+20 don't care whether the bank ends up paying Target.  I 
+
+21 don't know whether the bank will end up paying Target. 
+
+22 I don't know how these things work and how often the 
+
+23 bank honors it and how often the bank doesn't honor it. 
+
+24 And I really could not care less as long as I get my 
+
+25 money from Target. 
+
+37
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. YANG:  Right.  But in our legal system, 
+
+2 I don't think it's ­­ let me give you another example. 
+
+3 Let's say you want to kill somebody and you put a car ­­
+
+4 a bomb in their car.  All right?  And there are two 
+
+5 people in the car.  You see the target go in and you see 
+
+6 someone else go in, and you detonate the bomb.  You 
+
+7 can't say I was really indifferent about the second 
+
+8 person being there. 
+
+9  JUSTICE KAGAN:  No, but ­­ so you're saying 
+
+10 that my person ­­ forget the other examples.  I mean, 
+
+11 you're saying that this person who could not care less 
+
+12 if the money comes from the bank and actually thinks 
+
+13 that the money may not come from the bank because it's 
+
+14 quite likely that the bank is not going to honor this, 
+
+15 you think, nonetheless, that that person has intended to 
+
+16 obtain bank property? 
+
+17  MR. YANG:  Has ­­ yes, by the virtue of the 
+
+18 scheme.  The scheme used ­­
+
+19  JUSTICE SCALIA:  But wait.  I thought ­­ I 
+
+20 thought you said earlier, and ­­ and I was going to ask 
+
+21 you about that, that he does not have to personally 
+
+22 receive bank property. 
+
+23  MR. YANG:  Right. 
+
+24  JUSTICE SCALIA:  He just intends that bank 
+
+25 property be given to somebody. 
+
+38
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. YANG:  To be transferred per his 
+
+2 direction. 
+
+3  JUSTICE SCALIA:  Yes. 
+
+4  MR. YANG:  Yes, that's exactly right. 
+
+5  JUSTICE KENNEDY:  And ­­ and you've been 
+
+6 slipping back into the hypotheticals where the bank is 
+
+7 going to bear the loss.  But your position also covers 
+
+8 instances where the bank does not bear any loss, the 
+
+9 fraudulent contractor that ­­ Justice Kagan's 
+
+10 hypothetical about the phony painting, the bank is not 
+
+11 going to give that money back. 
+
+12  MR. YANG:  And ­­ and for good reason, for 
+
+13 multiple reasons.  One, this is prohibiting the scheme, 
+
+14 not a good scheme, not a completed scheme, not an 
+
+15 effective scheme and ­­
+
+16  JUSTICE KENNEDY:  So you have federalized 
+
+17 every fraudulent transaction in the economy whenever a 
+
+18 check is involved. 
+
+19  JUSTICE SCALIA:  Absolutely. 
+
+20  MR. YANG:  Not whenever a check is involved. 
+
+21 The government would still have to show that the scheme 
+
+22 itself was intended to obtain money or property from the 
+
+23 bank and did so by ­­
+
+24  JUSTICE KENNEDY:  Well, I mean, I can think 
+
+25 about it tonight, but I'd like an example of a check 
+
+39
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 where the money doesn't come from a bank. 
+
+2  MR. YANG:  Well, in the check context, I 
+
+3 think there is none.  I mean, what you have, if you're 
+
+4 obtaining that check in order to get the money from ­­
+
+5 or property from the bank, I think it would fall within. 
+
+6 And again, we understand this is a broad reading.  We ­­
+
+7 we own ­­ own up with ­­ for that. 
+
+8  JUSTICE KAGAN:  Can I just make sure I ­­ I 
+
+9 understand your ­­ your answer to my question.  Suppose 
+
+10 that this defendant did not return the merchandise for 
+
+11 cash.  In other words, suppose he just wanted an Xbox 
+
+12 and he did the exact same thing.  So he never himself 
+
+13 wanted cash and, again, could not have cared at all 
+
+14 whether the bank was going to give the vendor cash. 
+
+15 Still, you would say that person intended to obtain bank 
+
+16 property? 
+
+17  MR. YANG:  By virtue ­­ yes, we would say 
+
+18 that by virtue of the scheme ­­ remember, he's not just 
+
+19 walking in and saying, you know, I'll pay you tomorrow 
+
+20 if you give me a hamburger today.  The ­­ he's going in 
+
+21 with a check.  A check is ­­ everyone knows what a check 
+
+22 is.  It is an order to a bank to pay money.  He's giving 
+
+23 it to the ­­ to the bank or to the merchant ­­
+
+24  JUSTICE SCALIA:  But he's ­­ he's not 
+
+25 obtaining the bank's money.  You ­­ you read to 
+
+40
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 obtain ­­ a scheme or artifice to obtain, you read that 
+
+2 for anybody to obtain.  I would read it to mean for him 
+
+3 to obtain.  But that's not how you read it.  And you say 
+
+4 that's ­­ everybody reads it the way you do? 
+
+5  MR. YANG:  Well, this ­­ this Court has long 
+
+6 recognized that the word "obtain" not only means that 
+
+7 you obtain it for yourself, but you can obtain something 
+
+8 by directing the transfer of ­­ of property to someone 
+
+9 else.  And that's exactly what a check does.  You are 
+
+10 directing the ­­
+
+11  JUSTICE GINSBURG:  Mr. Yang, before you 
+
+12 finish, Mr. Russell pointed out ­­ and I think Justice 
+
+13 Sotomayor ­­ that there is Section 513.  It deals 
+
+14 with ­­ expressly with altered checks, but the penalty 
+
+15 is much, much less.  Is everything that is covered by 
+
+16 513 covered by 1344, too? 
+
+17  MR. YANG:  Well, I think the answer is that 
+
+18 has not been decided.  And let me just explain in ­­ in 
+
+19 a few ways.  One, Section 513 deals with securities, 
+
+20 which includes checks of States or organizations, and 
+
+21 then it defines organizations.  There is a substantial 
+
+22 question whether that applies to personal checks.  One 
+
+23 court of appeals has said it has.  The Department of 
+
+24 Justice's Criminal Resource Manual says it does not 
+
+25 apply to personal checks. 
+
+41
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  So there is a real question about whether 
+
+2 this Section 513 would apply.  But even if it were to 
+
+3 apply, it applies to protect the integrity of certain 
+
+4 writings.  It is a different provision than a 
+
+5 scheme­based provision like Section 1344, which more 
+
+6 broadly prohibits types of schemes to obtain money or 
+
+7 property from banks. 
+
+8  JUSTICE KENNEDY:  And is it ­­ is it true 
+
+9 that there's a 2­year mandatory minimum? 
+
+10  MR. YANG:  Not for bank fraud.  There is 
+
+11 aggravated identity theft for which ­­
+
+12  JUSTICE KENNEDY:  Under this statute, is 
+
+13 there ­­ is there a mandatory minimum? 
+
+14  MR. YANG:  No.  Well, this ­­ this statute, 
+
+15 the bank fraud statute has a punishment of up to 30 
+
+16 years to reflect that frauds come in various sizes. 
+
+17 It's not a mandatory minimum.  It's just a maximum.  And 
+
+18 in this case, the defendant actually got 1 year for this 
+
+19 bank fraud.  He got a ­­ a stacked sentence of 2 years 
+
+20 for identity theft, which is separate from this 
+
+21 provision. 
+
+22  JUSTICE SOTOMAYOR:  Mr. Yang, if we are 
+
+23 concerned about federalizing every case involving a 
+
+24 check, okay, you ­­ your brief does give us an 
+
+25 alternative. 
+
+42
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. YANG:  Yes. 
+
+2  JUSTICE SOTOMAYOR:  My problem is, I can't 
+
+3 locate that alternative in the language of the statute. 
+
+4  MR. YANG:  Well, I think ­­
+
+5  JUSTICE SOTOMAYOR:  So are you asking us 
+
+6 just to make it up?  Or if not, how do we reach it? 
+
+7  MR. YANG:  We're not asking you actually 
+
+8 to ­­ to make that interpretation.  It would be if the 
+
+9 Court concludes that our first interpretation is somehow 
+
+10 problematic, then we think that that is a superior 
+
+11 reading than Petitioner's for the following reason: 
+
+12 Congress addressed ­­
+
+13  JUSTICE SOTOMAYOR:  No, no, no.  Please 
+
+14 answer, how do we get to your reading from the text of 
+
+15 the statute. 
+
+16  MR. YANG:  I will.  The way you get there is 
+
+17 that Congress, in Clause 2, again, remember, specifies 
+
+18 you have intent to obtain money or property from a bank 
+
+19 by means of false or fraudulent pretenses, 
+
+20 representations, or promises.  It does leave silent to 
+
+21 whom those false or fraudulent representations must be 
+
+22 made. 
+
+23  Now, if you look at the legislative history, 
+
+24 it's very clear that Congress was at least concerned 
+
+25 with situations like Maze where a bank would be a victim 
+
+43
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 of a fraud.  And those ­­ and Maze involved a situation 
+
+2 precisely like what we have here, where the reason that 
+
+3 the bank is a secondary victim is because that false 
+
+4 signature, the false charge slip ­­
+
+5  JUSTICE SOTOMAYOR:  So far I'm with you, but 
+
+6 you haven't answered my question. 
+
+7  MR. YANG:  But the way it is in that 
+
+8 context, the reason that the bank is the victim of the 
+
+9 scheme is because the fraudulent method is actually 
+
+10 transferred to the bank as an inherent part of the 
+
+11 scheme itself.  And so ­­
+
+12  JUSTICE KENNEDY:  I ­­ I agree that that 
+
+13 interpretation substantially narrows the statute because 
+
+14 the altered check, the bank is going to be certainly at 
+
+15 risk of loss.  If ­­ if we were to agree with that 
+
+16 suggestion and were inclined to read the statute that 
+
+17 way, is there a case that you can cite to us that says 
+
+18 we have a duty to save poorly drawn statutes by a 
+
+19 sensible amendment? 
+
+20  MR. YANG:  No.  No, I don't think we ­­
+
+21  JUSTICE KENNEDY:  I mean, what ­­ what case 
+
+22 do you ­­ what case do you want me to cite if I adopt 
+
+23 your alternate ­­ your fallback position? 
+
+24  MR. YANG:  I don't think we are relying on 
+
+25 the idea that the ­­ what the Court is ­­ would be doing 
+
+44
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 is construing the statute in light of, presumably, some 
+
+2 good reason to reject what we think is what the statute 
+
+3 normally says. 
+
+4  JUSTICE SCALIA:  Why don't you try the rule 
+
+5 of lenity. Why don’t you try the rule of lenity? 
+
+6  MR. YANG:  We think that the rule of lenity 
+
+7 doesn't apply for the reasons that we said on our 
+
+8 broader argument.  If the Court rejects that, that might 
+
+9 be a reason but, again, it's construing the term 
+
+10 "means." 
+
+11  JUSTICE KENNEDY:  Does the rule of lenity 
+
+12 provide a precedent for us to adopt the narrowing 
+
+13 interpretation, your fallback position? 
+
+14  MR. YANG:  I think just in any context where 
+
+15 you might have constitutional doubt, the Court 
+
+16 sometimes, you know, construes a statute in a way that 
+
+17 it might not otherwise do. 
+
+18  And here what we're giving you the hook for 
+
+19 this is that the means specified leaves open to whom 
+
+20 that false or fraudulent communication must be directed. 
+
+21 You could read, in light of the history and in light of 
+
+22 what Congress's main intent was here, to read the 
+
+23 statute as saying, ah, Congress actually in clause 2 was 
+
+24 concerned with the specific type of means, that is the 
+
+25 means that are directed to the bank. 
+
+45
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  And the reason I think this is far superior 
+
+2 than what Petitioner suggests is because we are at least 
+
+3 construing silence in the statute.  Congress 
+
+4 specifically addressed intent already in clause 1, that 
+
+5 is intent to defraud a bank, which is what Petitioner 
+
+6 says clause 2 does.  But clause 2 says there's intent to 
+
+7 obtain money or property from the bank.  There's no 
+
+8 reason to run over Congress's choice about what types of 
+
+9 schemes have to be intended in order to achieve this 
+
+10 result.  Again, this is our fallback position ­­
+
+11  JUSTICE SCALIA:  If ­­ if we adopt your 
+
+12 fallback position, does (2) do anything that (1) doesn't 
+
+13 do?  I mean, if you made ­­ if you made your false or 
+
+14 fraudulent representations to the bank, surely you 
+
+15 intend to defraud the bank. 
+
+16  MR. YANG:  Both clauses, actually, under our 
+
+17 fallback or our main position cover things that the 
+
+18 others will not.  And I'll give you two examples.  On 
+
+19 clause 1, clause 1 covers what's called bare check 
+
+20 kiting, where you write a check, it hasn't sufficient 
+
+21 funds, you withdraw the money, then you write another 
+
+22 check to cover it and another check and you play the 
+
+23 float.  Nine courts of appeals have addressed this 
+
+24 question.  All of them have concluded that it falls 
+
+25 under clause 1.  Six of them have concluded it doesn't 
+
+46
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 fall under clause 2, and the additional three court of 
+
+2 appeals that have criminal jurisdiction in either 
+
+3 unpublished or in dictum have suggested agreement. 
+
+4  So it's pretty well established check kiting 
+
+5 falls under (1), not (2). 
+
+6  With respect to (2), it covers schemes like 
+
+7 this, where you can argue maybe you didn't intend to 
+
+8 defraud the bank itself, but you used false or 
+
+9 fraudulent means that would inherently go to the bank 
+
+10 because of the nature of the means themselves.  Here 
+
+11 where you direct a check, it's a financial instrument. 
+
+12 It is ordering a bank to pay money.  It goes to the 
+
+13 bank, and one normally intends the natural consequences 
+
+14 of their acts.  It goes to the bank in the ordinary 
+
+15 course. 
+
+16  JUSTICE SOTOMAYOR:  Which part of the 
+
+17 statute are you interpreting with this limiting 
+
+18 principle, the "obtain" part? 
+
+19  MR. YANG:  "By means of." 
+
+20  JUSTICE SOTOMAYOR:  "By means of." 
+
+21  MR. YANG:  By means of the false or 
+
+22 fraudulent pretenses in this, understanding these false 
+
+23 or fraudulent pretenses to be ones which are directed to 
+
+24 the bank as an inherent consequence of the scheme 
+
+25 itself. 
+
+47
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  JUSTICE KAGAN:  Mr. Yang, your first order 
+
+2 argument, which is, you know, the natural way one would 
+
+3 read a statute that says "(1) or (2)," is to interpret 
+
+4 it as meaning two different things. 
+
+5  MR. YANG:  Yes. 
+
+6  JUSTICE KAGAN:  But that requires us to read 
+
+7 it differently from the way we read the exact same 
+
+8 words, without the numbers, but the exact same words in 
+
+9 McNally.  And we know that Congress wanted the bank 
+
+10 fraud statutes to mirror the mail and wire fraud 
+
+11 statutes.  So we end up with this ­­ you know, if we ­­
+
+12 if we go with your friend over there, we read a statute 
+
+13 in a way we wouldn't normally.  But if we go with you, 
+
+14 we have to read these two statutes that say the same 
+
+15 thing and that we know Congress meant to say the same 
+
+16 thing differently. 
+
+17  MR. YANG:  Right.  And I think that there 
+
+18 are very sound reasons for doing that and I'll explain 
+
+19 why.  First, when you look at the statute, Section 1344, 
+
+20 this is on page 5A in the bank frauds ­­ or the mail 
+
+21 fraud statute is 1341 on 2A, they are quite different. 
+
+22 I mean, even when we just look at the statutory 
+
+23 structure alone, Congress broke these clauses up, put 
+
+24 them on different lines, numbered them, indented them 
+
+25 equally.  One would not naturally say you have the 
+
+48
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 option of one, Option A, or two, Option B ­­
+
+2  JUSTICE SOTOMAYOR:  I take your point that 
+
+3 the words on the page look very good for you.  But we 
+
+4 also know that Congress didn't intend for those 
+
+5 differences in spacing and numerology to have a 
+
+6 difference in meaning, don't we? 
+
+7  MR. YANG:  No, no.  Congress modeled ­­ it's 
+
+8 certainly true that Congress modeled the bank fraud 
+
+9 statute on the mail fraud statute.  But that doesn't 
+
+10 mean that Congress wanted the two statutes to be 
+
+11 coterminous.  In fact, Congress not only expressed its 
+
+12 understanding that these were disjunctive for the 
+
+13 various structural reasons, which I think are 
+
+14 inescapable from the text.  But also Congress modified 
+
+15 the text itself.  Congress didn't simply say a scheme to 
+
+16 defraud.  It requires a scheme to defraud a financial 
+
+17 institution.  Congress did not say a scheme to obtain 
+
+18 money or property.  It specified that it's not only 
+
+19 property of the bank, owned by the bank; it is property 
+
+20 under the bank's custody that the bank doesn't own and 
+
+21 bank ­­ property that the bank owns, but is not even 
+
+22 under its custody or control, it's under the custody or 
+
+23 control of others. 
+
+24  This is a different statute, of course 
+
+25 modeled on the mail fraud statute, but it's different. 
+
+49
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 And Congress I don't think in 1984 could have been more 
+
+2 clear about its intent to make these two provisions, 
+
+3 that is the intent to defraud and the intent to obtain 
+
+4 provisions, distinct based on the choices that it made 
+
+5 in text. 
+
+6  It's just, I think, impossible to read the 
+
+7 text and come away with the conclusion that in 1984 what 
+
+8 Congress intended, regardless of what happened in the 
+
+9 mail fraud statute in 1987, that Congress intended that, 
+
+10 or notwithstanding the only reading of "or" in this 
+
+11 context that makes any textual sense, since it's not 
+
+12 even defended in the textual argument on the other side, 
+
+13 that Congress meant that "or" in that structure to mean 
+
+14 anything but "or."  That is, a disjunctive, two separate 
+
+15 clauses having independent meaning. 
+
+16  And in fact, it would be anomalous to do so 
+
+17 because Section (2) covers, for instance, bank­owned 
+
+18 property that's not under the custody or the control of 
+
+19 the bank.  So why would you intend to defraud the bank 
+
+20 when you're trying to really get it from the custodian 
+
+21 of the bank's property?  The idea would be that the 
+
+22 means obtained, at the very least, would probably be 
+
+23 directed to the custodian of the property, not ­­ which 
+
+24 is not always the bank under clause 2. 
+
+25  JUSTICE GINSBURG:  Is the government still 
+
+50
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 taking the position that it took in the district court, 
+
+2 that 1344(1) also covers this case? 
+
+3  MR. YANG:  Well, we disagree with the court 
+
+4 of appeals precedent which says you need a risk of loss 
+
+5 under clause 1.  But the government acquiesced to the 
+
+6 district court's narrowing of this to clause 2. 
+
+7  JUSTICE ALITO:  Along those lines, if we 
+
+8 were to agree that under sub (2) it was necessary to 
+
+9 show an intent to defraud the bank, what would the 
+
+10 government have to prove in an altered check case? 
+
+11  MR. YANG:  Well, I guess you've ­­
+
+12  JUSTICE ALITO:  Or what would you have had 
+
+13 to prove under sub (1) if this case could properly be 
+
+14 prosecuted under sub (1)? 
+
+15  MR. YANG:  Well, you'd have to show that the 
+
+16 scheme was actually intended to obtain, to deceive the 
+
+17 bank, as well as obtain its property, as opposed to a ­­
+
+18 and that intent difference can be significant in cases. 
+
+19 What we will have to show in here ­­
+
+20  JUSTICE KAGAN:  Well, how can that intent 
+
+21 difference be significant?  I mean, I would have thought 
+
+22 that you would said the same proof that goes to whether 
+
+23 you intend to obtain bank property, even though you're 
+
+24 presenting this check only to a third party, and the 
+
+25 check may or may not be honored by the bank.  You could 
+
+51
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 say the exact same thing about whether you intend to 
+
+2 defraud the bank. 
+
+3  MR. YANG:  We certainly would probably rely 
+
+4 on the same types of evidence.  We would then have the 
+
+5 additional burden of having to show that the intent was 
+
+6 to deceive the bank specifically. 
+
+7  JUSTICE ALITO:  What I'm getting at is would 
+
+8 this require delving into the defendant's knowledge of 
+
+9 the legal relationship between the merchant here and the 
+
+10 bank? 
+
+11  MR. YANG:  I think it inevitable is going to 
+
+12 come to that, and you're going to throw to juries these 
+
+13 questions of, like, you know, despite the fact that the 
+
+14 defendant has used a check, did the defendant really 
+
+15 know what a check was or did the defendant ­­ what is a 
+
+16 check ­­
+
+17  JUSTICE KAGAN:  But why isn't that the 
+
+18 same under the intent to obtain bank property?  Where 
+
+19 you also, the defendant, might say:  No, I really didn't 
+
+20 intend to obtain property, because I didn't really know 
+
+21 whether the bank would honor the check and, in fact, I 
+
+22 thought it wouldn't. 
+
+23  MR. YANG:  Well, the scheme would be to 
+
+24 obtain.  You don't have to necessarily show that the 
+
+25 specific means that you were using were intended to 
+
+52
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 deceive the bank, because that requires a lot more 
+
+2 inquiry ­­
+
+3  JUSTICE KAGAN:  But even on the obtain 
+
+4 property wing, it's obtain property from the bank, isn't 
+
+5 it? 
+
+6  MR. YANG:  Not obtain property from the 
+
+7 bank.  It is obtain property that is ­­
+
+8  JUSTICE KAGAN:  Well, in the custody of the 
+
+9 bank? 
+
+10  MR. YANG:  It doesn't have to be in the 
+
+11 custody of the bank.  It can be bank­owned property in 
+
+12 the custody of others.  So, for instance, banks have a 
+
+13 lot of assets.  For instance, they can foreclose on 
+
+14 houses and such.  In those contexts, you might have 
+
+15 someone who is scheming to obtain bank property by 
+
+16 directing their fraud to a third party to whom the bank 
+
+17 has entrusted their assets. 
+
+18  JUSTICE KAGAN:  No, but in a case like this, 
+
+19 wouldn't the difficulties of proof be the same?  The 
+
+20 person ­­ whether you charge somebody with trying to 
+
+21 defraud the bank or with trying to obtain property owned 
+
+22 by or in the custody of the bank.  If Justice Alito is 
+
+23 right as to the one, that all these questions about the 
+
+24 relationship between a bank and a retailer are going to 
+
+25 come in, isn't he also right as to the other? 
+
+53
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. YANG:  I'm not quite ­­ I don't think 
+
+2 that's quite right.  And the reason is that whenever you 
+
+3 have to show an additional intent requirement, it ups 
+
+4 the ante.  Just like in homicide, you have various 
+
+5 gradations of a homicide including up to murder.  When 
+
+6 you have an additional ­­
+
+7  JUSTICE ALITO:  Doesn't the answer depend on 
+
+8 from whom ­­ for whom the money, either owned or 
+
+9 under ­­ in the custody of the bank has to be obtained? 
+
+10 If it ­­ if it doesn't have to be obtained by the 
+
+11 defendant, then it wouldn't seem to me that there would 
+
+12 be much of a question.  Because even if the only thing 
+
+13 that the defendant obtains from the merchant is an Xbox, 
+
+14 if the ­­ if the check is honored, it is going to be 
+
+15 obtained by the merchant.  Somebody is going to be 
+
+16 obtaining money from the bank if the check is ultimately 
+
+17 honored. 
+
+18  MR. YANG:  May I just ­­ I would just 
+
+19 qualify that by saying that the defendant is obtaining 
+
+20 the money.  It's obtaining it through the check to be 
+
+21 paid to the merchant.  That's ­­
+
+22  JUSTICE ALITO:  Right.  The ultimate ­­
+
+23  JUSTICE SCALIA:  Excuse me.  You have ­­ you 
+
+24 have to posit his expectation that the check will be 
+
+25 honored, don't you? 
+
+54
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. YANG:  It has to ­­ the scheme has to 
+
+2 contemplate that. 
+
+3  JUSTICE SCALIA:  Exactly. 
+
+4  MR. YANG:  The scheme has to contemplate 
+
+5 that. 
+
+6  JUSTICE SCALIA:  And if it's a scheme 
+
+7 that ­­ that's making alterations that no reasonable 
+
+8 person would expect the bank to honor, it seems to me 
+
+9 you're out of luck. 
+
+10  MR. YANG:  Well, I don't ­­ if I might 
+
+11 respond, Mr. Chief Justice. 
+
+12  CHIEF JUSTICE ROBERTS:  Sure. 
+
+13  MR. YANG:  The ­­ I don't think that 
+
+14 actually plays out in fact.  Banks suffer about a 
+
+15 billion dollars in check fraud a year.  There are $10 
+
+16 billion that banks put into check fraud prevention. 
+
+17 There are so many checks that fly through, including the 
+
+18 checks here.  If you look at the checks here, the ones 
+
+19 that he got caught for, not the ones that he might have 
+
+20 washed and dried, weren't artfully done.  But some still 
+
+21 go through.  And the transaction costs that it imposes 
+
+22 on the financial system is something that Congress could 
+
+23 have been concerned with.  In fact, we think it was. 
+
+24  CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+25  Five minutes, Mr. Russell. 
+
+55
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  REBUTTAL ARGUMENT OF KEVIN K. RUSSELL 
+
+2  ON BEHALF OF PETITIONER 
+
+3  MR. RUSSELL:  Thank you.  Congress was 
+
+4 concerned about the ­­ the risks to banks of altered 
+
+5 checks, but it dealt with that in Section 513, not 
+
+6 Section 1344. 
+
+7  JUSTICE GINSBURG:  Mr. Yang said it 
+
+8 wasn't ­­ wasn't ­­ the scope of 513 wasn't clear. 
+
+9  MR. RUSSELL:  I don't think that that's 
+
+10 correct.  I mean, we cited a case in our brief in which 
+
+11 the government actually succeeded in prosecuting someone 
+
+12 for an altered check under Section 513.  I don't 
+
+13 understand the argument that checks aren't encompassed 
+
+14 within 513.  We've reproduced the language at 10­A of 
+
+15 the blue brief.  And what it says is that it 
+
+16 criminalizes the use of a forged security.  And it 
+
+17 defines "forged" to mean altered.  It defines "security" 
+
+18 to mean check.  And then it has to be a forged security 
+
+19 of an organization.  And it defines "organization" to 
+
+20 mean any legal entity other than a government 
+
+21 established or organized for any purpose and includes 
+
+22 any corporation, company, association, firm, et cetera. 
+
+23  I just don't understand what the argument is 
+
+24 that Section 513 doesn't cover some species of altered 
+
+25 checks.  But at the very least, if you thought that 
+
+56
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 Congress must have intended to Federally criminalize use 
+
+2 of all altered checks, it's an easier interpretation to 
+
+3 say that 513 covers it than the bank fraud statute. 
+
+4  The government's argument here today makes 
+
+5 utterly clear how broad the Federal bank fraud statute 
+
+6 will be if you adopt their interpretation.  They're 
+
+7 going ­­ it encompasses the fake Renoir example and all 
+
+8 of the ones in our briefs and it includes every 
+
+9 not­sufficient­funds case.  And ­­ and the government 
+
+10 acknowledges ­­
+
+11  JUSTICE SOTOMAYOR:  Could you please tell me 
+
+12 why ­­ what your objections are to the "by means of 
+
+13 limiting principle" the government gives as an 
+
+14 alternative? 
+
+15  MR. RUSSELL:  So there's ­­ there's several 
+
+16 objections.  One is the one that you raised.  There's no 
+
+17 basis for it in the text.  It is a limitation on what 
+
+18 the ­­ the statute says.  Any false representation, then 
+
+19 they say no, only those false representations that would 
+
+20 foreseeably go to a bank and might fool them into paying 
+
+21 a check. 
+
+22  Second, it doesn't do any useful work 
+
+23 because all it does is ­­ the only difference between 
+
+24 their fallback position and intent to defraud a bank is 
+
+25 two things.  One is it permits them to bring cases in 
+
+57
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 these third­party altered check cases, and we've argued 
+
+2 we don't think that those fall under the statute anyway. 
+
+3  But even if you think that they do, the much 
+
+4 easier thing to say is they fall under the statute. 
+
+5 Intent to require ­­ you know, defraud a bank is 
+
+6 required, but the use of the altered check is sufficient 
+
+7 evidence. 
+
+8  JUSTICE KENNEDY:  Well, I think it does a 
+
+9 lot of work because it ­­ it takes out of the equation 
+
+10 schemes to defraud where the bank is not going to be 
+
+11 liable. 
+
+12  MR. RUSSELL:  Right.  I'm ­­ I'm saying it 
+
+13 doesn't do any work that intent to defraud a bank 
+
+14 doesn't already do.  So if you're choosing between our 
+
+15 test and their test, both tests allow prosecutions of 
+
+16 paradigmatic fraud cases.  Both cases, both tests 
+
+17 eliminate the Renoir example.  But their test permits ­­
+
+18 the only difference, practical difference, is their case 
+
+19 facilitates prosecution in these third­party cases that 
+
+20 we don't think are covered by the statute anyway, but 
+
+21 even if there are, you don't have to adopt this extra 
+
+22 textual interpretation.  Instead ­­
+
+23  JUSTICE SOTOMAYOR:  But I don't understand 
+
+24 how, if the falsehood is made to Target, who gives the 
+
+25 person the DVD off the shelf, how you prove that that's 
+
+58
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 an intent to defraud the bank as opposed to defraud 
+
+2 Target. 
+
+3  MR. RUSSELL:  Well, so there's the ­­
+
+4  JUSTICE SOTOMAYOR:  So what's the charge you 
+
+5 give to the jury to get to that?  I think the limiting 
+
+6 principle is the charge that they want to get. 
+
+7  MR. RUSSELL:  You say that they have to show 
+
+8 that the defendant intended to deceive a bank, and the 
+
+9 government can argue ­­ and the government has 
+
+10 successfully argued in many cases that use of an altered 
+
+11 check shows that the defendant intended to deceive a 
+
+12 bank. 
+
+13  And the government raises ­­ you know, the 
+
+14 government never likes to have to prove intent.  But the 
+
+15 government raises these theoretical difficulties in 
+
+16 proving intent, but it hasn't shown that this actually 
+
+17 ever arises.  In fact, the government routinely convicts 
+
+18 people in circumstances like this case, even in circuits 
+
+19 where intent to defraud a bank is required.  It's just 
+
+20 they didn't try to do that here because they didn't ask 
+
+21 the jury to make that finding. 
+
+22  In addition, the difficulty of their test is 
+
+23 it's just plain strange.  They say you should adopt 
+
+24 their test because Congress didn't care about intent to 
+
+25 defraud a bank.  Then they adopt a rule that looks very 
+
+59
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 much like the kind of rule you would adopt if you 
+
+2 thought Congress cared about intent to defraud a bank. 
+
+3 It's simply substituting some circumstantial evidence 
+
+4 that one could argue to a jury shows intent to defraud a 
+
+5 bank and saying that's all the government has to prove. 
+
+6  JUSTICE ALITO:  Your textual hook is that 
+
+7 there ­­ that the representation has to be made to the 
+
+8 bank, right?  That's the only way you can get this 
+
+9 within the statute. 
+
+10  MR. RUSSELL:  That's correct. 
+
+11  JUSTICE ALITO:  But that's different from an 
+
+12 intent to defraud the bank, isn't it? 
+
+13  MR. RUSSELL:  I think ­­ well, that's the 
+
+14 first half.  So there's two pieces:  Intent to deceive 
+
+15 the bank, intent to obtain bank property. 
+
+16  We say that you can read the statute to 
+
+17 require intent to deceive the bank because there's a 
+
+18 statutory silence.  And then the government has to prove 
+
+19 intent to obtain bank property.  That's easily proven 
+
+20 when the check is directly presented to a bank.  We 
+
+21 don't think it can be proven in a case like this because 
+
+22 our client intended to obtain Target's property, not the 
+
+23 bank's. 
+
+24  JUSTICE ALITO:  But where is the textual 
+
+25 silence about ­­ where do you get intent to deceive the 
+
+60
+ 
+
+Alderson Reporting Company 
+
+
+
+ 
+ 
+
+Official 
+
+1 bank into this? 
+
+2  MR. RUSSELL:  I think that's what ­­ I get 
+
+3 it from this Court's decision, for example, in McNally 
+
+4 where it said ­­
+
+5  JUSTICE ALITO:  Where do you get it the from 
+
+6 the text?  I understand the argument.  It's a ­­ it's a 
+
+7 very credible argument.  It doesn't say to whom the 
+
+8 representations have to be made.  So you put in to the 
+
+9 bank. 
+
+10  MR. RUSSELL:  Right. 
+
+11  JUSTICE ALITO:  I don't see how you get from 
+
+12 there to defrauding the bank. 
+
+13  MR. RUSSELL:  So if you read it to mean that 
+
+14 you have to direct the false statement to the bank, that 
+
+15 is the first half of what McNally said intent to deceive 
+
+16 a bank ­­ or intent to defraud a bank is, you have to 
+
+17 intend to deceive a bank.  And the second half is you 
+
+18 have to get ­­ intend the deceit to obtain bank 
+
+19 property, which is on the face of Subsection (2). 
+
+20  CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+21  The case is submitted. 
+
+22  (Whereupon, at 11:06 a.m., the case in the 
+
+23 above­entitled matter was submitted.) 
+
+24 
+
+25 
+
+61 
+
+Alderson Reporting Company 
+
+
+
+OfficialOfficial 
+
+Page 62 
+
+A agreement 47:3 anyway 21:2 58:2 b 49:1 47:12,13,14,24 
+
+ability 15:3 28:9 ah 45:23 58:20 back 26:17 37:18 48:9,20 49:8,19 
+
+able 10:20 19:6 alito 6:1,11,15 8:6 appeals 41:23 39:6,11 49:19,20,21,21 
+
+35:12 8:18,23 16:13 46:23 47:2 51:4 bad 23:1 26:21 50:19,19,24 51:9 
+
+aboveentitled 1:11 19:21 22:3 35:13 appearances 1:14 27:12 51:17,23,25 52:2 
+
+61:23 37:6 51:7,12 52:7 applies 41:22 42:3 bag 21:8 52:6,10,18,21 
+
+absent 3:24 53:22 54:7,22 apply 41:25 42:2,3 bank 3:11,12,15,17 53:1,4,7,9,11,15 
+
+absolutely 39:19 60:6,11,24 61:5 45:7 3:19,21 5:1,10,14 53:16,21,22,24 
+
+accept 5:18,24 61:11 applying 3:15 26:1 5:21,22,23 6:3,5,8 54:9,16 55:8 57:3 
+
+21:20 36:15,17 alitos 37:18 april 1:9 6:10,17,22,23,23 57:5,20,24 58:5 
+
+accepts 20:1 allow 58:15 areas 36:11,12 7:12,18,21 8:1,17 58:10,13 59:1,8 
+
+account 3:15 6:23 alluded 37:7 arent 16:2 56:13 8:24 9:2,4,21 59:12,19,25 60:2 
+
+7:19 12:3 22:17 alteration 14:11 argue 6:9 17:20 10:24 11:17,20 60:5,8,12,15,15 
+
+25:15 32:20 34:12 alterations 55:7 32:11 47:7 59:9 12:2,12,24 13:1,2 60:17,19,20 61:1 
+
+achieve 46:9 altered 6:24 12:13 60:4 13:7,17,19,20 61:9,12,14,16,16 
+
+acknowledge 4:7 12:15,18,22,22 argued 58:1 59:10 14:4,5,7,10,12,20 61:17,18 
+
+15:19 13:16 14:4,6 argument 1:12 2:2 15:13,19,20 16:3 banking 4:21 9:12 
+
+acknowledges 15:18,21 16:4 2:5,8 3:3,6 8:7 16:4,17,24,25 33:10 
+
+57:10 18:25 19:4,7,7,8 16:11 20:13 27:18 17:8,9,12,16 18:2 bankowned 50:17 
+
+acquiesced 51:5 19:12,16 20:21 31:14,19 45:8 18:6,21 19:3,5,9 53:11 
+
+act 5:1 12:9 24:2 22:3 41:14 44:14 48:2 50:12 56:1 19:14,17,20 20:1 banks 5:6 29:18 
+
+acts 34:2,2 37:9 51:10 56:4,12,17 56:13,23 57:4 20:6,7,9,16,17,18 30:4,4 34:18,19 
+
+47:14 56:24 57:2 58:1,6 61:6,7 20:19,22,23 21:3 35:6 40:25 42:7 
+
+actual 8:5 59:10 arises 59:17 21:11 22:6,10,14 49:20 50:21 53:12 
+
+added 12:10 altering 35:22 arising 11:20 22:16,17,20,22,23 55:14,16 56:4 
+
+addition 59:22 alternate 44:23 artfully 55:20 23:9,11,21,22,23 60:23 
+
+additional 17:6 alternative 8:18 artifice 32:2 41:1 24:3,4,11,15,23 bare 46:19 
+
+25:14 47:1 52:5 42:25 43:3 57:14 artist 28:17 29:23 25:3,6,14 26:4,22 bargaining 13:11 
+
+54:3,6 ambiguity 4:6,11 asked 6:3 26:24 27:2,5,5,10 based 50:4 
+
+address 36:2 amendment 12:8,9 asking 9:16 43:5,7 27:25 28:1,6,21 basis 57:17 
+
+addressed 29:17 44:19 asks 11:17 29:2,21,23 30:5,6 bear 39:7,8 
+
+36:7 43:12 46:4 america 22:17 assets 7:2 53:13,17 30:9,23 31:2,3,5 bearing 20:24 
+
+46:23 amount 6:19 20:2 assistant 1:17 31:18 32:23 33:1 behalf 1:15,19 2:4 
+
+addressing 29:16 20:12 association 56:22 33:11 34:5,11,15 2:7,10 3:7 27:19 
+
+adopt 16:9 44:22 anomalous 50:16 assume 14:20 34:16,18 35:4,10 56:2 
+
+45:12 46:11 57:6 answer 5:16 20:13 attempt 22:6 35:12 36:10,13,21 believe 10:7 18:23 
+
+58:21 59:23,25 22:1,3 26:11 attempting 22:9 36:25 37:3,11,12 26:2 27:1 34:5 
+
+60:1 34:25,25 36:6 authored 22:5 37:15,15,20,21,23 believed 17:3 
+
+adopted 11:24 40:9 41:17 43:14 authority 23:13 37:23 38:12,13,14 believes 16:15 
+
+adopting 18:6 54:7 27:11 38:16,22,24 39:6 24:23 25:2,5 
+
+affect 5:10 answered 44:6 avoid 26:14 29:20 39:8,10,23 40:1,5 better 22:1 
+
+aggravated 13:3 ante 54:4 31:7 40:14,15,22,23 beyond 28:12 
+
+42:11 anthony 1:17 2:6 avoids 11:10 30:18 42:10,15,19 43:18 billion 34:23 55:15 
+
+agree 13:25 15:24 27:18 awful 5:6 43:25 44:3,8,10 55:16 
+
+18:24 30:3 44:12 
+
+44:15 51:8 
+
+anybody 32:4 41:2 
+
+anybodys 6:25 B 
+44:14 45:25 46:5 
+
+46:7,14,15 47:8,9 
+
+bit 29:7 
+
+blue 56:15 
+
+Alderson Reporting CompanyAlderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 63 
+
+bomb 38:4,6 careful 16:18 52:3 27:16,20 55:11,12 56:22 
+
+bookkeeper 4:16 careless 16:18,23 cetera 56:22 55:24 61:20 compelling 4:10 
+
+17:22 case 3:4,10 4:12 5:7 challenge 18:13 choice 5:17 46:8 completed 39:14 
+
+bought 28:20 5:12,15,22 6:4,24 chance 37:16 choices 50:4 completely 18:7 
+
+bounce 23:18 24:16 10:8 11:15,17 change 11:5 choosing 58:14 complicated 20:11 
+
+breadth 4:9,9,13,20 12:1 13:6 14:5,16 changes 11:6 circuit 3:12 10:17 con 29:22 35:18,21 
+
+breyer 22:15 23:2,7 14:19,25 16:6 charge 10:8 44:4 10:19 18:19,20 35:24 36:1 
+
+23:24 24:6,18,22 17:13,22,25 18:8 53:20 59:4,6 circuits 3:15 5:18 concerned 12:5 
+
+25:2 26:17 27:4 18:10,16,19 23:1 charged 5:11 13:7 8:11,12 19:4,9 42:23 43:24 45:24 
+
+31:24 32:6,10,15 24:8 25:25 26:10 13:8 25:11 26:10,11 55:23 56:4 
+
+32:18 33:5,7,16 26:16 28:22,25 check 3:18 5:10 6:5 59:18 concluded 46:24,25 
+
+34:10,25 35:3 30:3 31:25 32:21 6:19,24 11:19 circumstance 18:22 concludes 43:9 
+
+brief 14:17 15:8 32:24 33:9 34:9 12:2,15,18,22,22 circumstances conclusion 50:7 
+
+28:3 42:24 56:10 35:17 37:10 42:18 13:16 14:5,6,11 59:18 conduct 31:16 
+
+56:15 42:23 44:17,21,22 14:18,20 15:18,19 circumstantial confined 4:20 
+
+briefs 57:8 51:2,10,13 53:18 15:21 16:3,4,23 35:15 60:3 conflict 18:20,20 
+
+bright 32:21 35:3 56:10 57:9 58:18 18:1,3,25 19:4,7,8 circumstantially congress 4:2 5:12 
+
+bring 4:14 34:22 59:18 60:21 61:21 19:8,12,16,18 35:13 9:8 10:7,9,17,24 
+
+57:25 61:22 20:1,3,21 22:3,5 cite 44:17,22 11:3,7,23 12:4,7 
+
+broad 3:20,22 9:10 cases 4:14 5:19,25 22:18,19 23:1,10 cited 56:10 12:10,22 13:15,22 
+
+13:12 28:7 29:15 11:11 12:19,20,21 23:11,18 24:10,15 clause 9:13 27:24 13:24 14:2,13 
+
+31:5,22 40:6 57:5 12:22,23 13:15 24:16,24 25:3,7 28:2,4,25 43:17 27:22 28:6,25 
+
+broader 8:20,20 15:2,12,14,18,21 26:15,21 27:12 45:23 46:4,6,6,19 29:14,15,19,25 
+
+29:6 30:1 45:8 15:23,25 16:2,5,7 28:14,18,19,19 46:19,25 47:1 30:18,23 31:20,21 
+
+broadly 42:6 16:10 17:6,18,20 29:10 30:6,6 50:24 51:5,6 31:22 36:6 43:12 
+
+broke 10:24 48:23 18:21,25 19:7,8 32:19,23 34:20 clauses 9:20 27:23 43:17,24 45:23 
+
+brought 8:14,14 20:20,20 21:14,23 35:24 36:4,15,18 28:7 46:16 48:23 46:3 48:9,15,23 
+
+18:12 23:15 22:9 23:4,6,16,21 37:11,14 39:18,20 50:15 49:4,7,8,10,11,14 
+
+burden 52:5 25:11 27:12 29:23 39:25 40:2,4,21 clear 3:24 9:9 49:15,17 50:1,8,9 
+
+business 5:1 31:22 32:14 33:13 40:21,21 41:9 26:11 43:24 50:2 50:13 55:22 56:3 
+
+37:8 51:18 57:25 42:24 44:14 46:19 56:8 57:5 57:1 59:24 60:2 
+C 58:1,16,16,19 46:20,22,22 47:4 client 5:11 17:13 congressional 3:24 
+
+c 1:8,15,18 2:1 3:1 59:10 47:11 51:10,24,25 60:22 congresss 11:20 
+4:24 6:3,3,8,8 cash 29:8 40:11,13 52:14,15,16,21 come 26:10,17 45:22 46:8 
+7:15,15 21:2,2,12 40:14 54:14,16,20,24 36:25 37:3 38:13 connected 33:23 
+21:12,24,24 22:11 cashed 3:19 8:3 55:15,16 56:12,18 40:1 42:16 50:7 consecutive 13:5 
+22:11 17:24 57:21 58:1,6 52:12 53:25 consequence 24:1 
+
+called 46:19 cashes 12:2 59:11 60:20 comes 22:11 24:3 47:24 
+cant 29:9 38:7 43:2 cashiers 16:17,22 checks 4:18 5:20 38:12 consequences 37:9 
+car 38:3,4,5 cashing 18:1 7:21 8:3 12:13 coming 7:12 47:13 
+card 11:16,18 category 8:20,20 14:10 16:19 17:24 commit 3:11 constitute 19:13 
+12:10 28:13 caught 55:19 34:19 35:22 41:14 common 9:12 constitutional 
+
+care 24:2,3 26:21 cent 34:11 41:20,22,25 55:17 22:11 24:9 45:15 
+35:6 37:20,24 certain 42:3 55:18,18 56:5,13 communication construe 4:8 
+38:11 59:24 certainly 8:19 56:25 57:2 45:20 construed 29:17 
+
+cared 40:13 60:2 24:19 44:14 49:8 chief 3:3,8 4:19 company 26:24 construes 45:16 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 64 
+
+construing 45:1,9 51:6 61:3 deal 16:9 57:24 58:5,10,13 direct 19:22 47:11 
+
+46:3 cover 17:18,19 deals 41:13,19 59:1,1,19,25 60:2 61:14 
+
+contemplate 55:2,4 28:22 46:17,22 dealt 12:7,12,22 60:4,12 61:16 directed 4:7 7:10 
+
+context 9:12 40:2 56:24 56:5 defrauding 28:1 27:9 37:11 45:20 
+
+44:8 45:14 50:11 coverage 31:5 dear 32:19 61:12 45:25 47:23 50:23 
+
+contexts 53:14 covered 5:12 16:7 debate 30:2,19 deliver 14:19 directing 41:8,10 
+
+continue 15:23 17:6 26:12 41:15 debates 30:2 delving 52:8 53:16 
+
+contractor 30:11 41:16 58:20 deceit 61:18 department 1:18 direction 39:2 
+
+39:9 covers 5:5 8:24 deceive 6:22 12:15 41:23 directly 13:18 
+
+control 7:3 17:11 39:7 46:19 47:6 19:16 20:17,18,22 departure 7:9 19:19 60:20 
+
+17:16 18:2 22:13 50:17 51:2 57:3 20:23 22:6 23:23 depend 54:7 disagree 22:6 51:3 
+
+28:6 31:1,4 49:22 creates 11:9 26:7 51:16 52:6 depending 10:16 disagreement 14:8 
+
+49:23 50:18 credible 8:7 61:7 53:1 59:8,11 depends 35:2 discovered 14:10 
+
+controlled 4:2 31:2 credit 11:16,18 60:14,17,25 61:15 deposit 4:25 discussion 31:7 
+
+conveys 11:7 12:10 28:13 61:17 description 17:22 dishonor 34:20 
+
+convicts 59:17 credits 7:2 deception 13:19 designed 15:17 disjunctive 28:7 
+
+copies 10:17 crime 3:22 21:16 decide 21:7 desire 11:20 49:12 50:14 
+
+core 5:21 30:17,20 21:17,18 31:16,16 decided 41:18 despite 52:13 disparity 14:1 
+
+corporation 56:22 31:17,18 35:23 decision 11:14 12:6 determine 6:3 dispute 11:23 
+
+correct 7:8,13,14 criminal 3:23 10:18 12:20 28:8 61:3 determined 10:6,13 distinct 27:23 50:4 
+
+7:23 14:23 28:23 26:14 41:24 47:2 decisions 10:21 detonate 38:6 distinguished 
+
+32:5,17 33:4 criminalize 26:15 defendant 3:11,13 development 4:20 14:16 
+
+56:10 60:10 57:1 3:19 6:21 10:19 dictionary 32:13 district 51:1,6 
+
+cost 14:7 20:24 criminalizes 12:15 12:16 16:14,15,15 dictum 47:3 doe 16:20 
+
+30:11,12 35:18,19,22 56:16 20:5,8 25:13 didnt 4:18 10:25 doesn 23:2 
+
+costs 55:21 criminalizing 34:7 36:25 37:1,8,13 16:24 22:21 23:8 doesnt 6:9,13 7:6 
+
+coterminous 49:11 criminals 35:15 37:19 40:10 42:18 30:9,23 34:10 8:2,3,11,23 9:15 
+
+couldnt 24:3 26:21 crook 22:16,16 52:14,14,15,19 35:20 47:7 49:4 14:6 17:17,19 
+
+31:23 25:2,5 26:20 54:11,13,19 59:8 49:15 52:19,20 18:5,6,8,19 20:23 
+
+counsel 27:16 31:25 32:18,22 59:11 59:20,20,24 21:1,1,6,16,16 
+
+55:24 61:20 33:9 35:3,4 defendants 19:22 difference 9:21,22 29:3,10 30:17 
+
+counterfeit 12:2 crooks 33:1 19:23 52:8 13:7,9,22 15:16 32:3 33:10,16 
+
+course 47:15 49:24 crossed 16:21 defended 50:12 28:4 49:6 51:18 34:5 35:4,6 36:5 
+
+court 1:1,12 3:9,23 curtailed 28:9 defines 41:21 56:17 51:21 57:23 58:18 37:23 40:1 45:7 
+
+9:20,24 10:4,13 custodian 50:20,23 56:17,19 58:18 46:12,25 49:9,20 
+
+12:7 25:17 26:6 custody 6:23 7:3 definition 4:23 differences 49:5 53:10 54:7,10 
+
+26:13 27:21 29:16 17:11,15 18:2 defraud 3:12,13 different 10:16 56:24 57:22 58:13 
+
+32:9 33:24 41:5 22:13 27:6 28:6 5:14 6:7,10,16 8:1 11:4 12:25 14:24 58:14 61:7 
+
+41:23 43:9 44:25 31:1,3,4 49:20,22 8:15,16 14:12 16:2 24:22 42:4 doing 9:9 29:14 
+
+45:8,15 47:1 51:1 49:22 50:18 53:8 15:13,20 16:4,16 48:4,21,24 49:24 36:17 44:25 48:18 
+
+51:3 53:11,12,22 54:9 16:25,25 18:21 49:25 60:11 dollars 34:24 55:15 
+
+courts 10:1,21 19:2,5,9,14 20:6,9 differently 23:17 don 45:5 
+
+11:14 12:6 19:17 D 20:16 26:3 27:24 48:7,16 dont 5:20 6:9 7:16 
+
+20:19 23:5 25:20 d 1:8,15,18 3:1 36:7 46:5,15 47:8 difficulties 53:19 8:10 9:23 11:3,6 
+
+25:23 26:5 27:7,8 damages 34:6 49:16,16 50:3,19 59:15 17:5,21 21:12,24 
+
+28:8 32:13 46:23 day 30:10 51:9 52:2 53:21 difficulty 5:8 59:22 21:25 22:6,10 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 65 
+
+23:5,25 24:16 engage 35:24 expressly 41:14 31:19 12:10,12,24 13:1 
+
+26:5,9 27:12 enormous 13:11 extend 31:11 federalize 11:11 13:2,7 15:13,18 
+
+32:11 34:6,21 enormously 31:11 extent 7:14 federalized 39:16 17:7,9,10 23:22 
+
+35:7 37:20,21,22 entity 56:20 extra 58:21 federalizing 42:23 26:4 28:10,19 
+
+38:2 44:20,24 entrusted 53:17 eye 18:17 federally 26:15 31:18 34:1,1 36:9 
+
+45:4 49:6 50:1 equally 13:14 48:25 57:1 36:9,10,13,17 
+
+52:24 54:1,25 equation 58:9 F fee 30:11 42:10,15,19 44:1 
+
+55:10,13 56:9,12 equivalent 23:1 face 61:19 figure 24:7 48:10,10,21 49:8 
+
+56:23 58:2,20,21 esq 1:15,17 2:3,6,9 facilitates 58:19 filed 4:16 49:9,25 50:9 
+
+58:23 60:21 61:11 essentially 9:16 fact 23:3 28:17 financial 4:3,3,23 53:16 55:15,16 
+
+doubt 45:15 11:17 33:11 34:19 49:11 5:2,22 7:4 14:7 57:3,5 58:16 
+
+drafted 27:22 established 47:4 50:16 52:13,21 47:11 49:16 55:22 frauds 42:16 48:20 
+
+dramatically 11:4 56:21 55:14,23 59:17 finding 59:21 fraudulent 11:16 
+
+drawing 7:21 establishment factual 12:8 fine 23:23 32:15,15 11:18,19 28:13 
+
+drawn 44:18 16:18,22 17:1 fairly 26:23 32:15 29:2,4 31:7 37:11 
+
+dried 55:20 et 56:22 fake 24:10 57:7 finish 22:2 41:12 39:9,17 43:19,21 
+
+duty 44:18 everybody 41:4 fall 15:25 18:25 finished 17:21 44:9 45:20 46:14 
+
+dvd 17:14 22:12 evidence 18:12 22:23 23:2 25:12 firm 56:22 47:9,22,23 
+
+58:25 19:13,22,22,24,24 30:17,20 40:5 first 16:3 20:20 friend 48:12 
+
+20:21 35:16 52:4 47:1 58:2,4 27:24 33:15,24 function 9:13 27:24 
+E 58:7 60:3 fallback 15:5,11,14 43:9 48:1,19 funds 4:2 6:4 7:2 
+
+e 2:1 3:1,1 18:4 exact 40:12 48:7,8 44:23 45:13 46:10 60:14 61:15 24:10,16 26:15 
+earlier 38:20 52:1 46:12,17 57:24 firstparty 16:5 34:15,19 46:21 
+easier 57:2 58:4 exactly 29:24 35:25 falls 23:13 46:24 firsttime 13:8 
+easily 60:19 39:4 41:9 55:3 47:5 fits 4:1,1 G 
+
+economy 39:17 example 10:19 false 4:4,6,9,16 five 55:25 g 3:1 
+
+effective 39:15 14:16 25:15 38:2 5:10,17 7:9 17:23 fixed 30:11 game 35:18,21,24 
+
+either 5:18,21,23 39:25 57:7 58:17 18:4,4 23:10 float 46:23 36:1 
+
+7:6,16 8:11 26:25 61:3 25:15 29:2,3 31:6 fly 55:17 garden 3:21 
+
+28:5 31:1,2 47:2 examples 30:10 36:7,9 43:19,21 following 30:16 general 1:18 26:18 
+
+54:8 38:10 46:18 44:3,4 45:20 43:11 generally 37:8 
+
+eliminate 18:7 exchange 18:3 46:13 47:8,21,22 follows 16:16 getting 52:7 
+
+58:17 excuse 54:23 57:18,19 61:14 fool 57:20 ginsburg 4:1 7:20 
+
+employer 4:16,17 executes 32:2 falsehood 5:9 58:24 foreclose 53:13 9:15 10:23 41:11 
+
+17:23,23 18:5 expect 55:8 famous 28:17 forego 19:1 50:25 56:7 
+
+empty 21:8 expectation 54:24 far 21:13 26:22 foreseeable 37:3 give 3:23 4:11 
+
+enabled 4:14 18:10 experience 24:20 28:12 44:5 46:1 foreseeably 57:20 11:10 22:20,20 
+
+enacted 12:12 28:6 explain 37:6 41:18 favor 4:9,9 forged 6:5 28:14 23:11 24:9,15 
+
+30:1 48:18 favors 26:19 56:16,17,18 33:11,12,20,22 
+
+enacting 29:14 explained 33:24 federal 3:11,20,23 forget 38:10 38:2 39:11 40:14 
+
+31:22 35:14 4:25,25 5:1,3 found 20:19 40:20 42:24 46:18 
+
+encompass 24:1 explaining 20:15 21:17 26:14 31:11 four 14:9 59:5 
+
+encompassed 56:13 explanation 33:17 31:16,16,17,18 fours 11:15 given 4:20 38:25 
+
+encompasses 9:10 33:20,22,23 35:18,22,23,23 fraud 3:11,21 5:21 gives 13:10 26:20 
+
+57:7 explanations 33:18 36:1,11 57:5 9:14,21 10:2,24 32:22 57:13 58:24 
+
+ends 37:20 expressed 49:11 federalism 31:14 11:1,4,20,25 12:1 giving 40:22 45:18 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 66 
+
+go 21:13 22:19,22 H identical 10:11,11 44:10 47:24 26:3,7 27:25 
+
+23:11 25:18 26:13 half 13:10 60:14 10:21,23 19:19 inherently 47:9 30:25 43:18 45:22 
+
+32:23 37:17 38:5 61:15,17 identicallyworded initially 20:1 46:4,5,6 50:2,3,3 
+
+38:6 47:9 48:12 hamburger 40:20 10:15 inquiry 7:15 30:24 51:9,18,20 52:5 
+
+48:13 55:21 57:20 handful 25:10 identified 5:5 53:2 52:18 54:3 57:24 
+
+goes 12:2 23:17 hands 31:20 identity 13:3 42:11 insight 35:14 58:5,13 59:1,14 
+
+24:15 28:12 32:18 happen 33:2 42:20 instance 37:10 59:16,19,24 60:2 
+
+47:12,14 51:22 happened 50:8 ill 40:19 46:18 50:17 53:12,13 60:4,12,14,15,17 
+
+going 7:17 20:2,4,7 hard 35:9 48:18 instances 8:25 39:8 60:19,25 61:15,16 
+
+20:11,24 21:7 hardware 9:22 illogical 5:9 institution 4:3,23 intention 36:16 
+
+23:11,18 34:11 harm 5:22 30:23 illustrates 14:6 5:2 7:4 49:17 intentional 24:2 
+
+36:4 37:13,14,15 hasnt 46:20 59:16 im 5:8 20:15 24:7 institutions 4:24 intercepted 14:8 
+
+38:14,20 39:7,11 havent 44:6 31:13 35:25 36:3 5:2 interest 5:3 36:11 
+
+40:14,20 44:14 hear 3:3 44:5 52:7 54:1 instructed 6:2 7:12 interests 5:21 9:11 
+
+52:11,12 53:24 heart 35:14 58:12,12 7:25 interpret 48:3 
+
+54:14,15 57:7 hearts 35:15 impact 34:22 instrument 47:11 interpretation 3:16 
+
+58:10 hed 33:2 implicate 5:21 insufficient 24:10 3:20 4:11 5:19 
+
+good 12:4 23:7 held 3:12 12:20 26:15 34:19 8:8,11,12 9:3 10:1 
+
+28:19 39:12,14 hes 22:20 26:22 implicated 7:15 insurance 4:25 11:10 13:13 28:12 
+
+45:2 49:3 35:5 40:18,20,22 36:12 26:24 28:15,22 30:14,16 
+
+government 3:16 40:24,24 implicates 17:9 integrity 42:3 43:8,9 44:13 
+
+4:14,15 5:3,16 history 43:23 45:21 important 12:23 intend 3:11 8:1,15 45:13 57:2,6 
+
+6:13,21 7:25 hold 26:6,6 33:8 16:25 20:22,22,23 58:22 
+
+10:15 13:10,12 holding 31:4 importantly 13:2 23:25 24:1 31:9 interpreting 10:21 
+
+14:9 17:20,25 home 5:1 impose 14:7 37:13 46:15 47:7 26:14 47:17 
+
+18:24 19:2,6 homicide 54:4,5 imposes 13:3 55:21 49:4 50:19 51:23 interpretive 10:14 
+
+23:15 29:9,10 honor 14:11,20 impossible 11:25 52:1,20 61:17,18 investment 5:1 
+
+35:10,12 36:19 16:23 24:12,17,24 50:6 intended 3:13 6:21 invoice 18:4 
+
+39:21 50:25 51:5 25:3 37:23 38:14 incidental 29:23 8:16 10:10 11:3 invoices 4:16 17:23 
+
+51:10 56:11,20 52:21 55:8 inclined 44:16 16:16,25 17:8 involved 7:21 39:18 
+
+57:9,13 59:9,9,13 honored 6:5 51:25 includes 41:20 20:6,8 36:20 39:20 44:1 
+
+59:14,15,17 60:5 54:14,17,25 56:21 57:8 38:15 39:22 40:15 involving 18:22 
+
+60:18 honors 37:23 including 9:17 19:7 46:9 50:8,9 51:16 42:23 
+
+governments 6:13 hook 45:18 60:6 54:5 55:17 52:25 57:1 59:8 isnt 5:2 7:22 52:17 
+
+15:2,5,11,22 host 12:20 incredibly 16:18 59:11 60:22 53:4,25 60:12 
+
+21:20 23:20 28:3 hours 34:20 indented 48:24 intending 12:17 issue 4:17 11:11 
+
+28:9 57:4 house 36:4,5,16 independent 11:9 14:12 23:22 29:25 issued 17:24 
+
+gradations 54:5 houses 53:14 50:15 intends 14:19 36:25 issuing 3:18 
+
+gravamen 33:25 hypothetical 30:9 indifferent 38:7 37:1,9 38:24 ive 17:21 28:17 
+
+34:1 
+
+great 25:18 26:13 
+34:9 39:10 
+
+hypotheticals 39:6 
+
+inept 35:10 
+
+inescapable 49:14 
+
+47:13 
+
+intent 3:25 5:14 6:7 J 
+
+groceries 17:14 inevitable 52:11 6:10,16 11:7 john 16:20 
+
+guess 11:22 25:25 I inference 20:5,8 15:13,20 16:4 jones 24:24 
+
+26:19 51:11 id 39:25 inferred 19:23,24 18:21 19:2,5,9,13 juries 52:12 
+
+guilty 17:3 idea 33:1,11 35:7 inflates 30:12 19:16,22,23 20:16 jurisdiction 47:2 
+
+guy 23:10,19 44:25 50:21 inherent 29:18 20:17,17,18 24:7 jury 6:2 7:11,25 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 67 
+
+16:15 17:3 18:14 37:17 38:9 40:8 10:21 26:18 43:3 lot 5:6 18:16 29:11 48:4 49:6 50:15 
+
+59:5,21 60:4 48:1,6 51:20 56:14 53:1,13 58:9 means 4:3 18:3 
+
+justice 1:18 3:3,8 52:17 53:3,8,18 laughter 24:21 loughrin 1:3 3:4 21:18 29:2 31:2,6 
+
+4:1,19 5:7 6:1,11 kagans 30:8 39:9 law 3:22 10:17 luck 55:9 32:3 41:6 43:19 
+
+6:15,25 7:6,11,20 keeps 3:14 11:24 24:8 25:8,9 45:10,19,24,25 
+
+8:6,18,23 9:15,24 kennedy 13:21,25 25:16 31:11 M 47:9,10,19,20,21 
+
+10:4,23 11:13 14:15,24 15:4,8 lawsuits 34:22 m 1:13 3:2 61:22 50:22 52:25 57:12 
+
+13:21,25 14:15,22 30:8 39:5,16,24 leads 15:12 magazine 14:18 meant 48:15 50:13 
+
+14:24 15:4,8 42:8,12 44:12,21 leave 5:24 43:20 magazines 14:19 meets 18:16 
+
+16:13 17:17 18:9 45:11 58:8 leaves 27:10 45:19 mail 9:14 10:2 11:1 mentioned 4:13 
+
+18:15 19:11,21 kenney 14:22 led 4:17 11:14 11:4 12:1,3 34:1 merchandise 40:10 
+
+21:1,6,19,22 22:3 kevin 1:3,15 2:3,9 left 31:12 36:9 48:10,20 merchant 11:16 
+
+22:15 23:2,7,24 3:6 56:1 legal 38:1 52:9 49:9,25 50:9 23:19 37:14 40:23 
+
+24:6,18,19,22 kill 38:3 56:20 mailbox 16:20 52:9 54:13,15,21 
+
+25:2,4,19,22 26:5 kind 11:7 30:19 legislative 43:23 main 45:22 46:17 method 44:9 
+
+26:17 27:4,16,20 31:7,11 37:5,6 lengths 25:18 26:13 making 9:9 31:15 minimum 13:4 
+
+28:11 29:7,21 60:1 lenity 45:5,5,6,11 55:7 42:9,13,17 
+
+30:8,8 31:10,24 kinds 9:10 11:11 leverage 13:11 mandatory 13:4 minutes 55:25 
+
+32:6,10,15,18 15:25 16:7,10 liable 6:4,18 20:2,4 42:9,13,17 mirror 48:10 
+
+33:5,7,7,16,20 23:16 27:9 36:8 20:7,12 58:11 manual 41:24 mixed 24:25 
+
+34:8,10,14,25 kitchen 28:18 lie 25:14 materially 10:11 modeled 49:7,8,25 
+
+35:1,3,13,17,19 kiting 46:20 47:4 lied 5:23 16:2 19:19 modified 49:14 
+
+35:21 36:3,14,23 knew 16:17,22 light 45:1,21,21 matter 1:11 6:9,11 money 3:14 6:18 
+
+37:6,17,18 38:9 know 7:17 8:10 likelihood 23:10 6:13,17 8:2,3 7:18 11:17 18:1 
+
+38:19,24 39:3,5,9 9:22 10:19 14:14 34:3 20:24 23:24 33:8 22:21,21,23 23:9 
+
+39:16,19,24 40:8 16:9 17:21 21:25 likes 59:14 37:7 61:23 23:12 24:3,10 
+
+40:24 41:11,12 22:4 23:8,18 24:4 limitation 4:22 matters 25:5 27:1,4,5 29:1 30:9 
+
+42:8,12,22 43:2,5 24:11 25:7 26:9 57:17 maximum 42:17 32:24,25 33:11,12 
+
+43:13 44:5,12,21 28:15 30:22 32:11 limited 4:24 9:1 maze 11:14,24 12:6 34:11 35:11 36:8 
+
+45:4,11 46:11 33:10 34:16 35:4 limiting 47:17 12:8 28:8,12,13 36:20,25 37:2,12 
+
+47:16,20 48:1,6 35:7 37:16,21,22 57:13 59:5 29:6 30:4 31:22 37:25 38:12,13 
+
+49:2 50:25 51:7 40:19 45:16 48:2 lines 48:24 51:7 43:25 44:1 39:11,22 40:1,4 
+
+51:12,20 52:7,17 48:9,11,15 49:4 little 29:7 mcnally 48:9 61:3 40:22,25 42:6 
+
+53:3,8,18,22 54:7 52:13,15,20 58:5 loan 5:1 61:15 43:18 46:7,21 
+
+54:22,23 55:3,6 59:13 locate 43:3 mean 9:17 10:16 47:12 49:18 54:8 
+
+55:11,12,24 56:7 knowing 23:10 long 26:7 37:24 18:12 21:16,17,25 54:16,20 
+
+57:11 58:8,23 32:20 41:5 22:25 23:6,8 29:8 moneys 7:12 
+
+59:4 60:6,11,24 knowingly 13:17 look 16:1 23:24 32:1,3 34:22 36:1 monies 7:1 
+
+61:5,11,20 32:2 30:2,25 43:23 36:23,24,24 37:1 months 13:9 
+
+justices 41:24 knowledge 52:8 48:19,22 49:3 37:4,5 38:10 morning 3:4 
+
+known 24:1 55:18 39:24 40:3 41:2 multiple 39:13 
+K knows 22:19 34:10 looked 10:5 44:21 46:13 48:22 murder 54:5 
+
+k 1:15 2:3,9 3:6 35:5 37:2 40:21 looks 59:25 49:10 50:13 51:21 
+
+56:1 loss 8:4,5,5 15:9 56:10,17,18,20 N 
+
+kagan 11:13 19:11 L 26:1,2 39:7,8 61:13 n 2:1,1 3:1 
+
+28:11 29:7 36:23 language 10:11,17 44:15 51:4 meaning 10:12 name 16:21,21 22:4 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 68 
+
+25:15 obtain 3:14 6:22 23:16 24:14 35:7,8 37:12 33:8 49:2 
+
+names 24:25 12:17 13:19 17:8 ordinary 47:14 40:19,22 47:12 pointed 41:12 
+
+narrowing 45:12 17:10 20:17 21:3 organization 56:19 payee 37:12 poorly 44:18 
+
+51:6 22:9,21 26:25 56:19 paying 37:16,20,21 poses 13:17 
+
+narrowly 29:17 27:1,1 28:5 29:1 organizations 57:20 posit 54:24 
+
+narrows 44:13 31:6 32:3,3,4,8 41:20,21 pays 28:18 29:8 position 15:6,12 
+
+natural 37:9 47:13 34:7,15 35:11 organized 56:21 peculiar 29:8 39:7 44:23 45:13 
+
+48:2 36:8,20 37:1 ought 21:23,23 penalties 12:24 46:10,12,17 51:1 
+
+naturally 48:25 38:16 39:22 40:15 overlap 8:19 penalty 41:14 57:24 
+
+nature 47:10 41:1,1,2,3,6,7,7 owned 4:2 6:22 7:3 people 3:16 4:18 possibly 5:16 
+
+necessarily 14:6 42:6 43:18 46:7 17:11,15 22:13 22:1 38:5 59:18 potentially 21:4,9 
+
+52:24 47:18 49:17 50:3 28:5 31:1,5 49:19 perfectly 3:18 4:17 21:11 
+
+necessary 51:8 51:16,17,23 52:18 53:21 54:8 5:20 23:23 28:19 practical 34:22 
+
+neder 33:25 52:20,24 53:3,4,6 owner 30:13 permit 15:17 37:7 58:18 
+
+need 12:19 16:1 53:7,15,21 60:15 owns 27:5 49:21 permits 15:14,23 precedent 10:20 
+
+21:13 33:16 35:15 60:19,22 61:18 57:25 58:17 45:12 51:4 
+
+51:4 obtained 4:2 17:14 P person 14:17 17:3 precisely 5:5 28:10 
+
+negligently 13:17 18:3 32:1,25 p 3:1 22:5 28:18,20 44:2 
+
+neighbor 16:20 50:22 54:9,10,15 page 2:2 15:8 28:2 29:9 34:10 37:18 predicate 13:3 
+
+never 14:18 16:16 obtaining 18:1 48:20 49:3 38:8,10,11,15 premise 11:23 
+
+16:24 20:6 25:6,6 19:17,19 21:11,15 paid 7:21 54:21 40:15 53:20 55:8 premised 9:14 
+
+25:6 40:12 59:14 23:20 30:25 40:4 paint 36:4,5,16 58:25 present 26:24 
+
+nexus 4:25 40:25 54:16,19,20 painting 28:16,21 personal 41:22,25 32:23 
+
+nine 46:23 obtains 21:10 54:13 39:10 personally 38:21 presented 15:19,22 
+
+normally 45:3 obviously 16:8 paradigmatic petitioner 1:4,16 23:17 24:24 25:7 
+
+47:13 48:13 28:20 15:13 58:16 2:4,10 3:7 8:1 60:20 
+
+noted 12:7 offender 13:8 parallel 9:20 12:13 30:21 31:15,15 presenting 19:12 
+
+notgenius 35:5 offense 11:9 17:4 part 12:14 33:1 46:2,5 56:2 51:24 
+
+notsufficientfund offering 30:14 34:9,14 44:10 petitioners 43:11 presents 3:10 25:3 
+
+25:10 okay 32:10,10,10 47:16,18 petty 13:6 26:22 
+
+notsufficientfunds 42:24 partially 33:4 phony 39:10 preserving 15:2 
+
+23:16 57:9 ones 25:12 47:23 particular 4:25 5:3 piece 24:14 presumably 45:1 
+
+notwithstanding 55:18,19 57:8 9:10 16:17 34:2,2 pieces 20:16 60:14 pretense 29:3,4 
+
+50:10 open 45:19 36:11 place 16:3 pretenses 31:7 
+
+number 19:3 opened 25:14 parties 19:8 plain 59:23 43:19 47:22,23 
+
+numbered 10:25 operate 11:4 party 3:18 5:10 plainly 28:4 pretty 32:7 47:4 
+
+48:24 opposed 8:2 11:18 15:22 17:24 18:22 play 46:22 prevention 55:16 
+
+numbers 48:8 51:17 59:1 19:13,18 20:20 player 22:12 principal 7:24 
+
+numerals 9:22 option 49:1,1,1 24:9,11 27:10 players 17:14 principle 10:14 
+
+numerology 49:5 oral 1:11 2:2,5 3:6 51:24 53:16 plays 55:14 11:24 17:18 47:18 
+
+27:18 passed 10:1,5 plea 13:11 57:13 59:6 
+O order 3:14 6:22 passing 10:8 please 3:9 27:21 printer 17:14 
+
+o 2:1 3:1 13:19 30:5,6 40:4 path 24:23 43:13 57:11 probably 26:23 
+object 17:10 40:22 46:9 48:1 paths 24:23 plenty 36:1 50:22 52:3 
+objections 57:12,16 ordering 47:12 pay 24:4 25:6 30:7 plus 30:11 problem 4:5 7:24 
+objective 19:23 ordinarily 4:8 34:11,16,18,19 point 7:8 9:4 29:22 8:8 12:8,13 18:7 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 69 
+
+20:12 43:2 provide 45:12 43:11,14 50:10 repeatedly 9:20 32:21 33:5 36:15 
+
+problematic 43:10 proving 59:16 reads 41:4 represent 28:16 36:18 38:1,4,23 
+
+problems 30:19 provision 12:25 real 15:16 42:1 representation 4:4 39:4 48:17 53:23 
+
+prohibited 12:10 42:4,5,21 really 10:18 30:23 4:7 8:23,25 9:2,4 53:25 54:2,22 
+
+prohibiting 39:13 provisions 10:6 31:8 37:19,24 57:18 60:7 58:12 60:8 61:10 
+
+prohibits 42:6 50:2,4 38:7 50:20 52:14 representations risk 8:4,5 13:17 
+
+promise 36:16 pulls 29:10 52:19,20 43:20,21 46:14 14:5 15:9 26:1,2 
+
+promises 43:20 punishment 13:18 reason 5:5 10:7 57:19 61:8 44:15 51:4 
+
+proof 51:22 53:19 14:1 42:15 16:8 17:7 19:1,3 reproduced 56:14 risks 56:4 
+
+properly 51:13 purpose 28:1 56:21 28:24 30:17 39:12 require 6:10 19:9 roberts 3:3 4:19 
+
+property 6:22 7:2 put 5:17 31:20 38:3 43:11 44:2,8 45:2 21:6 52:8 58:5 27:16 55:12,24 
+
+9:11 12:16 13:20 48:23 55:16 61:8 45:9 46:1,8 54:2 60:17 61:20 
+
+17:8,9,10,15 18:6 reasonable 37:16 required 6:8 18:21 rodriguez 4:15 
+
+18:13 19:18,19 Q 55:7 58:6 59:19 5:20 11:12 17:20 
+
+20:18 21:3,10,11 qualify 54:19 reasonably 37:2 requirement 21:2 17:22 
+
+21:15 22:10,13 question 3:10 5:13 reasons 4:11 21:12 54:3 routinely 59:17 
+
+23:21 28:5 29:1 7:17 15:1 16:14 39:13 45:7 48:18 requires 9:3 10:18 rule 11:21,24 15:14 
+
+31:1,3,3,6 35:11 19:25 20:11,25 49:13 27:25 48:6 49:16 15:14,16,22 16:9 
+
+36:8,21 38:16,22 21:2 22:2,8 26:19 rebuttal 2:8 56:1 53:1 45:4,5,6,11 59:25 
+
+38:25 39:22 40:5 33:23 35:1 37:18 receipt 34:20 requiring 19:2 60:1 
+
+40:16 41:8 42:7 40:9 41:22 42:1 receive 38:22 requisite 24:7 run 8:7 46:8 
+
+43:18 46:7 49:18 44:6 46:24 54:12 recognized 41:6 reserve 27:14 russell 1:15 2:3,9 
+
+49:19,19,21 50:18 questions 34:4 reflect 42:16 resolve 18:19 3:5,6,8 4:5 5:4,13 
+
+50:21,23 51:17,23 52:13 53:23 reflected 30:16 resolved 21:23 6:6,12,20 7:5,8,13 
+
+52:18,20 53:4,4,6 quibble 24:13 refund 30:9 resource 41:24 7:23 8:10,22 9:7 
+
+53:7,11,15,21 quite 14:1,24 26:11 refused 3:23 14:11 respect 12:13 18:13 9:19 10:3,9 11:2 
+
+60:15,19,22 61:19 28:4 36:12 38:14 regard 12:16 20:18 47:6 11:22 13:23 14:2 
+
+prophylactic 29:15 48:21 54:1,2 regardless 50:8 respond 31:21 14:21,23 15:1,7 
+
+proposed 15:5 reject 45:2 55:11 15:10 17:5,19 
+
+prosecute 12:1 15:3 
+R 
+
+rejects 45:8 respondent 1:19 18:11,18 19:15 
+
+15:23 19:6 27:11 r 3:1 relating 21:12 2:7 27:19 20:14 21:4,9,21 
+
+28:9 29:9 raised 57:16 relationship 3:17 response 28:7 21:25 22:25 23:5 
+
+prosecuted 3:16 raises 59:13,15 52:9 53:24 33:16,21 23:15 24:5,13 
+
+4:15 51:14 range 9:10 reliance 34:4 responses 33:14 25:1,9,21,24 26:9 
+
+prosecuting 56:11 rarely 35:14 relies 10:15 result 15:12 34:6 27:3,8 41:12 
+
+prosecution 8:13 rationale 25:23,24 rely 10:20 34:5,6 35:8 46:10 55:25 56:1,3,9 
+
+15:15,17 58:19 reach 43:6 52:3 results 18:1 57:15 58:12 59:3 
+
+prosecutions 58:15 reaches 8:19,20 relying 44:24 retail 16:18,22 17:1 59:7 60:10,13 
+
+protect 30:18 42:3 reacting 11:23 remainder 27:14 retailer 20:1,4 61:2,10,13 
+
+protecting 5:22,23 read 5:6 9:17,20 remedies 12:11 53:24 
+
+prove 7:7 19:2 32:4 40:25 41:1,2 remember 29:16 return 40:10 S 
+
+35:10,12 36:20 41:3 44:16 45:21 30:21 32:1 40:18 rid 15:2 s 2:1 3:1 4:24 
+
+37:7,8 51:10,13 45:22 48:3,6,7,12 43:17 right 7:5 10:3 satisfied 5:15 
+
+58:25 59:14 60:5 48:14 50:6 60:16 rendered 5:9 8:13 11:15 16:8 17:5 save 44:18 
+
+60:18 61:13 renoir 57:7 58:17 23:11 24:18 27:3 saying 5:18 26:3 
+
+proven 60:19,21 reading 32:1 40:6 repeat 34:10 29:8,24 31:24 31:15 38:9,11 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 70 
+
+40:19 45:23 54:19 56:18 situation 20:3,7 specifies 43:17 structure 10:11 
+
+58:12 60:5 see 28:3 32:16 38:5 24:9 34:23 44:1 specify 29:3 48:23 50:13 
+
+says 22:4,19 30:21 38:5 61:11 situations 25:8 stacked 42:19 stuck 21:7 34:21 
+
+32:19 36:3 37:12 sees 22:18 29:16,18 30:20 state 3:22 10:16 stuff 31:11 
+
+41:24 44:17 45:3 sell 28:15 43:25 25:8,9,16 sub 51:8,13,14 
+
+46:6,6 48:3 51:4 sells 14:17 six 7:21 46:25 statement 3:24 subject 31:20 
+
+56:15 57:18 sense 22:11 29:11 sizes 42:16 4:10 7:9 18:4 submit 16:2 25:25 
+
+scalia 6:25 7:6,11 50:11 slip 44:4 61:14 submitted 17:23 
+
+17:17 18:9,15 sensible 44:19 slipping 39:6 statements 26:18 18:5 61:21,23 
+
+21:1,6,19,22 sent 37:15 small 5:1 36:7,10 subparts 9:16 
+
+24:19 25:4 31:10 sentence 12:25 13:1 smith 22:21,22 states 1:1,6,12 3:4 subscription 14:18 
+
+33:20 35:19 36:14 13:4,5 24:14 25:3,7 26:21,22 4:14 5:19 11:12 subsection 4:6 8:9 
+
+38:19,24 39:3,19 42:19 26:23 32:19,19,21 25:17 26:12 27:11 11:8 17:8 61:19 
+
+40:24 45:4 46:11 separate 10:6 27:23 32:23,25 35:6 31:12 41:20 subsections 9:5 
+
+54:23 55:3,6 42:20 50:14 smiths 24:24 statute 3:21 5:6 9:9 substantial 14:1 
+
+scalias 33:8 separately 10:25 solicitor 1:17 9:14,14,21,25 41:21 
+
+scheme 26:7 27:25 serious 14:3,13 somebody 8:25 10:1,2,5,22,24 substantially 44:13 
+
+29:1 30:25 32:2 served 13:4 12:2 13:7,18 14:3 11:3,5,14,19,25 substituting 60:3 
+
+34:4,7,7,15 35:11 serves 9:13 27:23 14:4 21:10,15 12:1,11,12,14 succeeded 56:11 
+
+36:20 38:18,18 settle 12:3 22:18 28:16 29:8 13:2 15:25 19:1 success 34:3 
+
+39:13,14,14,15,21 shelf 58:25 29:9 36:3 38:3,25 22:24 23:3 25:12 successfully 59:10 
+
+40:18 41:1 44:9 shelves 22:12 53:20 54:15 26:14 28:12,15 suffer 55:14 
+
+44:11 47:24 49:15 shouldnt 18:23 somebodys 13:16 29:12 30:1,13 sufficiency 18:12 
+
+49:16,17 51:16 show 6:21 7:1 somewhat 20:10 31:18,22 32:16 sufficient 19:13 
+
+52:23 55:1,4,6 20:21 39:21 51:9 23:17 33:25 35:18,22,23 20:21 21:14 24:16 
+
+schemebased 42:5 51:15,19 52:5,24 sophisticated 25:5 36:18 42:12,14,15 26:2 46:20 58:6 
+
+schemes 27:9,24 54:3 59:7 26:23 43:3,15 44:13,16 sufficiently 30:22 
+
+28:4 36:7,8 42:6 shown 36:21,22 sort 3:22 11:6 45:1,2,16,23 46:3 31:8 
+
+46:9 47:6 58:10 59:16 sotomayor 5:7 9:24 47:17 48:3,12,19 suggested 47:3 
+
+scheming 53:15 shows 15:20 16:4 10:4 25:19,22 48:21 49:9,9,24 suggestion 44:16 
+
+scope 15:25 19:1 19:4,16 59:11 26:5 29:21 34:8 49:25 50:9 57:3,5 suggests 29:14 46:2 
+
+56:8 60:4 34:14 35:17,21 57:18 58:2,4,20 sum 30:7 37:12 
+
+second 9:13 16:12 side 7:6 50:12 36:3 41:13 42:22 60:9,16 superior 43:10 46:1 
+
+25:4 34:9 38:7 signature 44:4 43:2,5,13 44:5 statutes 3:24 10:12 supports 20:5,8 
+
+57:22 61:17 significant 4:21 47:16,20 49:2 10:15 23:13 26:19 suppose 15:5 16:14 
+
+secondary 44:3 34:23 51:18,21 57:11 58:23 59:4 29:17 36:2,9 16:14 30:11 40:9 
+
+secondline 29:19 silence 4:8 46:3 sotomayors 35:1 44:18 48:10,11,14 40:11 
+
+30:5 60:18,25 sound 48:18 49:10 supreme 1:1,12 
+
+section 8:8 12:11 silent 43:20 spacing 49:5 statutory 48:22 sure 25:1 31:13,25 
+
+12:14,23 13:1 simple 22:11 species 56:24 60:18 35:25 40:8 55:12 
+
+21:18 27:22 41:13 simplest 27:6 specific 12:7 45:24 stole 16:20 surely 8:16 46:14 
+
+41:19 42:2,5 simply 10:10,20 52:25 strange 31:14,19 surplusage 8:9,13 
+
+48:19 50:17 56:5 19:17 21:17 26:20 specifically 29:25 59:23 susceptible 11:9 
+
+56:6,12,24 30:6 49:15 60:3 46:4 52:6 street 22:18 23:19 suspect 34:18 
+
+securities 7:2 41:19 singular 10:8,8 specified 28:25 structural 28:3 sweep 3:21,22 
+
+security 56:16,17 sit 30:10 30:7 45:19 49:18 49:13 sweeping 30:14 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 71 
+
+36:13 25:16 27:3 28:5 40:3,5 41:12,17 49:8 unique 9:11 
+
+sweeps 5:19 29:5 29:22,24,24 31:13 43:4,10 44:20,24 truthinlending united 1:1,6,12 3:4 
+
+system 4:21 33:10 32:4,5,12,17 45:2,6,14 46:1 12:9 4:14 5:19 11:12 
+
+38:1 55:22 36:18 39:4 41:3,4 48:17 49:13 50:1 try 24:18,22 27:1 25:17 26:12 
+
+41:9 50:18 54:2 50:6 52:11 54:1 31:6 45:4,5 59:20 universal 32:7 
+T 54:21 55:7 56:9 55:13,23 56:9 trying 7:18 24:7 unprosecutable 
+
+t 2:1,1 23:2 45:5 58:25 60:5,8,10 58:2,3,8,20 59:5 30:18,24 31:21 5:24 
+take 22:19 49:2 60:11,13,19 61:2 60:13,21 61:2 50:20 53:20,21 unpublished 47:3 
+takes 36:4 58:9 theft 13:3 42:11,20 thinking 12:21 tuesday 1:9 untenable 10:18 
+talking 15:20 30:21 theoretical 59:15 25:19,22 turn 16:11 ups 54:3 
+talks 15:9 theories 6:7 thinks 26:23 38:12 two 6:7 7:20,20 9:5 use 11:16,25 12:3 
+target 6:4 8:2 14:4 theory 6:7,8 7:1 8:4 third 3:18 5:10 9:7,15,20 10:6,12 12:15 14:4 19:4 
+14:7 21:11 26:4 17:2 19:11,15,20 15:22 17:24 18:22 20:16 24:18,22,22 19:16 20:20 22:3 
+37:20,21,25 38:5 23:20 26:20 27:6 19:8,12,18 24:9 25:8,25 27:22 56:16 57:1 58:6 
+58:24 59:2 theres 16:8 18:16 24:11 27:10 51:24 33:12,14,18 38:4 59:10 
+
+targeted 30:22 20:13,15,16 24:15 53:16 46:18 48:4,14 useful 57:22 
+targeting 31:8 25:10 26:2,3 30:5 thirdparty 15:17 49:1,10 50:2,14 useless 8:21 
+targets 13:19 22:12 33:7 34:11 42:9 16:5 18:25 19:7 57:25 60:14 uses 10:10 
+27:24 28:4 60:22 46:6,7 57:15,15 21:14,22 22:9 twofold 33:24 usually 19:21 25:13 
+
+tell 57:11 57:16 59:3 60:14 58:1,19 type 30:24 34:23 31:12 
+tendered 37:13 60:17 thought 9:8 13:15 45:24 utterly 57:5 
+tenth 3:12,15 5:18 theyre 16:6 22:1 14:3 16:24 38:19 types 28:10 42:6 
+8:11,12 26:12 30:4 57:6 38:20 51:21 52:22 46:8 52:4 V 
+
+term 45:9 theyve 25:14 56:25 60:2 typical 23:1 v 1:5 3:4 4:15 5:20 
+
+terms 9:22 29:11 thief 35:11 threatens 3:21 typographical 11:6 11:12 25:17 26:12 
+
+test 26:1 58:15,15 thing 14:13 19:10 three 14:9 47:1 vaguely 22:19 
+
+58:17 59:22,24 22:12 40:12 48:15 throw 52:12 U valid 3:18 4:17 
+
+testifies 16:14,16 48:16 52:1 54:12 time 10:5,17 27:15 u 4:24 6:3,8 7:15 5:20 17:24 28:19 
+
+tests 58:15,16 58:4 today 4:22 40:20 21:2,12,24 22:11 variety 3:22 
+
+text 28:24 29:13 things 9:7 10:16 57:4 ucc 20:11 34:21 various 36:9 42:16 
+
+30:16 43:14 49:14 15:11 37:22 46:17 told 25:14 ultimate 54:22 49:13 54:4 
+
+49:15 50:5,7 48:4 57:25 tomorrow 40:19 ultimately 6:18 vendor 40:14 
+
+57:17 61:6 think 5:9,14,15,17 tonight 39:25 20:2,11 21:7 victim 3:14 29:22 
+
+textual 8:7 50:11 6:25 7:14,16,17 traditional 6:24 54:16 43:25 44:3,8 
+
+50:12 58:22 60:6 8:6 9:23 10:9 27:11 understand 11:2,19 victimize 30:23 
+
+60:24 11:3,6,8,23 13:23 transaction 39:17 13:12 21:19 28:14 victimizing 27:10 
+
+thank 27:16 55:24 14:2,13,14 16:6 55:21 29:5 40:6,9 56:13 victims 29:19 30:5 
+
+56:3 61:20 17:6 18:15,23 transfer 41:8 56:23 58:23 61:6 view 6:14,15,16,20 
+
+thats 5:4,8,13,25 19:15,20 20:12,14 transferred 39:1 understandable 7:24 18:6,10 
+
+7:5,8,13,13,14 20:19 21:13,13 44:10 13:14 19:17 21:20 32:25 
+
+8:22 9:19 10:3 22:2,10 23:25 tricked 3:17 understanding violated 32:24 
+
+11:6 12:4,23 26:11 27:8,12 tried 23:8 11:13 28:24 32:8 violation 30:13 
+
+14:12,13,23,24 29:13 30:3,15 tries 5:17 32:13 47:22 49:12 virtue 38:17 40:17 
+
+15:19 17:5 18:2 32:22 33:24 34:13 troublesome 27:13 undesired 24:1 40:18 
+
+19:1,10 20:12 35:9 37:5,6,17 true 5:4,25 7:16 uniform 32:12 
+
+23:21,23 24:19 38:2,15 39:24 8:22 31:14 42:8 uniformly 20:19 
+W 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 72 
+
+wait 38:19 37:22 57:22 58:9 yellow 14:17 47:1,5,6 48:3 
+
+walking 40:19 58:13 youd 51:15 50:17,24 51:6,8 
+
+want 24:10 25:7 works 33:10 youre 12:18,21 61:19 
+
+31:25 33:17 38:3 worried 12:18,19 17:18 20:3,3,6 20 4:24 
+
+44:22 59:6 17:18 21:5,10,15 23:20 200 22:20 
+
+wanted 5:12 13:22 wouldnt 18:9 23:24 23:22 30:14 32:1 2014 1:9 
+
+29:19 32:11 33:2 30:1 48:13 52:22 36:18 38:9,11 24 34:20 
+
+40:11,13 48:9 53:19 54:11 40:3 50:20 51:23 27 2:7 
+
+49:10 write 23:9 46:20,21 52:12 55:9 58:14 2a 48:21 
+
+wants 13:12 writes 22:17 youve 22:4 23:17 2year 13:4 42:9 
+
+warrants 13:18 writings 42:4 39:5 51:11 
+
+washed 55:20 written 22:4 3 
+
+washington 1:8,15 wrong 15:11 16:6 Z 3 2:4 32:20 
+
+1:18 18:16 19:10 zero 13:9 30 42:15 
+
+wasnt 7:25 12:4 wrote 16:21 30year 12:25 
+
+30:22 56:8,8,8 
+0 31 12:24 
+
+way 9:12,19 11:7 X 000 22:18,20 32:20 32 22:17 
+
+13:16 26:6 32:16 x 1:2,7 04 1:13 3:2 
+
+37:7 41:4 43:16 xbox 40:11 54:13 06 61:22 
+4 
+
+44:7,17 45:16 
+
+48:2,7,13 60:8 
+
+ways 41:19 
+
+weve 18:12 31:12 
+
+56:14 58:1 
+
+whats 19:11 24:8 
+
+25:21,22,23 34:25 
+
+35:8 46:19 59:4 
+
+whos 20:24 21:7,7 
+
+28:20 
+
+williams 25:17 
+
+26:13 28:8 
+
+willing 21:5,10 
+
+win 18:7,10 
+
+wing 53:4 
+
+wire 11:25 34:1 
+
+36:9 48:10 
+
+withdraw 46:21 
+
+wonder 23:12 27:7 
+
+wont 19:21 20:10 
+
+Y 
+
+yang 1:17 2:6 27:17 
+
+27:18,20 28:11,23 
+
+29:13,24 30:15 
+
+31:13 32:5,8,12 
+
+32:17 33:4,6,14 
+
+33:18,22 34:13,17 
+
+35:2,9,25 36:6,19 
+
+36:24 37:5 38:1 
+
+38:17,23 39:1,4 
+
+39:12,20 40:2,17 
+
+41:5,11,17 42:10 
+
+42:14,22 43:1,4,7 
+
+43:16 44:7,20,24 
+
+45:6,14 46:16 
+
+47:19,21 48:1,5 
+
+48:17 49:7 51:3 
+
+51:11,15 52:3,11 
+
+52:23 53:6,10 
+
+1 
+
+1 1:9 8:9,14 9:1,17 
+
+9:17 10:25 22:20 
+
+42:18 46:4,12,19 
+
+46:19,25 47:5 
+
+48:3 51:2,5,13,14 
+
+10 1:13 3:2 55:15 
+
+100 36:4 
+
+10a 56:14 
+
+10year 13:1 
+
+11 61:22 
+
+13316 1:4 3:4 
+
+1341 48:21 
+
+1344 27:22 41:16 
+
+42:5 48:19 51:2 
+
+56:6 
+
+18 4:24 
+
+1984 50:1,7 
+
+1987 50:9 
+
+40 15:8 
+
+5 
+
+5 22:18 
+
+50 32:20 
+
+500 32:22 35:5 
+
+513 12:14,23,24 
+
+13:1,8 21:18 
+
+35:22 41:13,16,19 
+
+42:2 56:5,8,12,14 
+
+56:24 57:3 
+
+56 2:10 
+
+5a 28:2 48:20 
+
+6 
+
+6 13:9 
+
+7 
+
+8 
+
+26:23 34:16 
+
+word 9:17 32:1 
+
+41:6 
+
+words 4:2 23:3 
+
+40:11 48:8,8 49:3 
+
+work 4:18 6:2 
+
+22:15,16 35:7 
+
+54:1,18 55:1,4,10 
+
+55:13 56:7 
+
+yeah 14:2 26:9 
+
+year 34:24 42:18 
+
+55:15 
+
+years 4:22 13:10 
+
+42:16,19 
+
+2 
+
+2 4:6 8:14,15,19,24 
+
+8:24 9:3,9,17,18 
+
+10:25 11:9 13:9 
+
+13:10 17:8 28:2,4 
+
+28:25 42:19 43:17 
+
+45:23 46:6,6,12 
+
+9 
+
+Alderson Reporting Company
+ 
+
+

@@ -1,0 +1,7879 @@
+
+  
+
+   
+
+      
+
+           
+
+                             
+
+  
+
+     
+
+    
+
+                 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+BP AMERICAN PRODUCTION COMPANY, 
+
+SUCCESSOR IN INTEREST TO AMOCO 
+
+: 
+
+: 
+
+PRODUCTION COMPANY, ET AL., 
+
+Petitioners, 
+
+v. 
+
+:
+
+:
+
+: No.05-669 
+
+REJANE BURTON, ACTING ASSISTANT 
+
+SECRETARY, LAND AND MINERALS 
+
+MANAGEMENT, DEPARTMENT OF THE 
+
+INTERIOR, ET AL. 
+
+: 
+
+: 
+
+: 
+
+:
+
+ - - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Wednesday, October 4, 2006
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:06 a.m. 
+
+APPEARANCES: 
+
+JEFFREY A. LAMKEN, ESQ., Washington, D.C.; on behalf of
+
+ the Petitioners. 
+
+DARYL JOSEFFER, ESQ., Assistant to the Solicitor General,
+
+ Department of Justice, Washington, D.C.; on behalf of
+
+ the Respondents. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                    
+
+                      
+
+                     
+
+                     
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+
+JEFFREY A. LAMKEN, ESQ.
+
+ On behalf of the Petitioners 3 
+
+ORAL ARGUMENT OF 
+
+DARYL JOSEFFER, ESQ.
+
+ On behalf of the Respondents 22 
+
+REBUTTAL ARGUMENT OF 
+
+JEFFREY A. LAMKEN, ESQ.
+
+ On behalf of the Petitioners 49 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+P R O C E E D I N G S
+
+ [11:06 a.m.]
+
+ JUSTICE STEVENS: We'll hear argument in BP 
+
+America Production Company against the Secretary.
+
+ Mr. Lamken.
+
+ ORAL ARGUMENT OF JEFFREY A. LAMKEN
+
+ ON BEHALF OF PETITIONER 
+
+MR. LAMKEN: Thank you, Justice Stevens, and may 
+
+it please the Court:
+
+ Section 2415(a) established a limitations period 
+
+for every action for money damages by the Government which 
+
+is founded on any contract. That provision, by its terms, 
+
+applies to every contract action, every adversary 
+
+adjudication seeking monetary compensation for breach, 
+
+whether pursued before a court or an agency.
+
+ The contention that every action encompasses 
+
+only civil actions or judicial actions is incorrect for 
+
+three reasons. First, it is inconsistent with the broad 
+
+language that Congress used. It is inconsistent with the 
+
+statutory structure, in that it renders another provision, 
+
+the exception for administrative offset, totally 
+
+superfluous. It also creates an irrationality in the 
+
+hierarchy of the Government's claims. Finally, it robs 
+
+Section 2415(a) of its intended effect.
+
+ Turning to the text, Congress 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+and agencies regularly use the term "action" to refer to 
+
+adversary adjudications before administrative agencies and 
+
+before the judiciary. The term --
+
+JUSTICE SOUTER: What --
+
+MR. LAMKEN: -- denotes --
+
+JUSTICE SOUTER: May I ask you, on that point --
+
+I understand what you're saying, and I've looked at your 
+
+authority, but, right in the provision itself, there is a 
+
+verbal distinction made between actions for money damages, 
+
+and what, at the end of the provision, they refer to as 
+
+"administrative proceedings" in providing for the 1-year 
+
+supplementary rule. Doesn't the statute, in effect, say, 
+
+"We don't mean, by 'action,' what we would possibly --
+
+what possibly might be included as an administrative 
+
+proceeding"? If they had wanted an administrative 
+
+proceeding to be a subset of the actions for money 
+
+damages, wouldn't it have been sensible for Congress to 
+
+say in -- to refer, instead of to "administrative 
+
+proceedings," to "administrative actions"?
+
+ MR. LAMKEN: Well, in fact, the -- it refers to 
+
+"administrative proceedings required by contract or law." 
+
+And that clause applies in the particular circumstance 
+
+where a law or a contract requires some sort of 
+
+administrative proceeding as a condition precedent to the 
+
+action for money damages. So, if you can bring your 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+money-damages action without any prior administrative 
+
+proceeding, regardless of where you bring --
+
+JUSTICE SCALIA: I think your point has to be 
+
+that there are administrative proceedings that are not 
+
+actions.
+
+ MR. LAMKEN: That is absolutely correct. 
+
+Nonadversarial administrative proceedings would, 
+
+themselves, not be actions.
+
+ JUSTICE SCALIA: Right.
+
+ MR. LAMKEN: And they also wouldn't be money-
+
+damages actions. So, the distinction the statute draws is 
+
+not between money-damages actions in court and money-
+
+damages actions before agencies; it's before money-damages 
+
+actions, wherever brought, and the administrative 
+
+proceedings that have to be brought as a condition 
+
+precedent.
+
+ JUSTICE SCALIA: You contend that what commenced 
+
+the action here was the order demanding payment.
+
+ MR. LAMKEN: That is correct. That is the --
+
+JUSTICE SCALIA: That's a very weird 
+
+commencement of an action, where what then follows is what 
+
+is referred to as an "appeal," within the agency.
+
+ MR. LAMKEN: For historical reasons, the 
+
+denominations are quite strange, but for Grisa, quoted --
+
+on subsections 1702 and 1724, quoted on pages 5 and 6 of 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14 --
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+our reply brief, specifically state that the order to pay 
+
+commences the proceedings. And so, since that is the --
+
+JUSTICE SCALIA: Which says that?
+
+ MR. LAMKEN: It's on page 5-6 of our brief. 
+
+It's Section 1702 of our --
+
+JUSTICE SCALIA: What page of your brief?
+
+ MR. LAMKEN: 5 and 6 of the reply brief.
+
+ JUSTICE SCALIA: Of the reply.
+
+ MR. LAMKEN: Yes. And it's 13 U.S.C. 1724, and 
+
+it talks -- or it defines the "demand" as the order to 
+
+pay. And then, the definitional provisions, in turn --
+
+when they're talking about what commences the action, it 
+
+says that the order to pay "commences" the action. And so 
+
+JUSTICE SCALIA: I'm not finding it. Where is 
+
+it, again?
+
+ MR. LAMKEN: Page 6 of the reply, Your Honor, 
+
+very top. The citation says "13 U.S.C. 1724(b), emphasis 
+
+added." It defines "demand" to include an order to pay 
+
+issued by the Secretary. And, in the next line down, we 
+
+say, "For Grisa thus recognizes that the so-call order to 
+
+pay, far from concluding the action, in fact, commences 
+
+it," because the statute of limitations prepared -- uses 
+
+the word "commenced" to describe what the action -- the 
+
+order to pay does. 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SCALIA: Why is -- why doesn't it make 
+
+much more sense -- as I understand the proceeding, this 
+
+order doesn't come out of the blue. As required, there 
+
+has to be a letter to the -- to the payee saying, "We 
+
+think -- we think you owe so much money." He is allowed 
+
+to respond, right? 
+
+MR. LAMKEN: That --
+
+JUSTICE SCALIA: And then, after considering the 
+
+response, the order issues. Now, I would consider that a 
+
+-- you know, an -- that sounds to me like a complaint and 
+
+an opportunity to respond to it. And then, finally, the 
+
+first decision of the agency, which is then appealed --
+
+and CFR provides for an -- what he calls an appeal. And 
+
+it seems to me the final opinion of the agency is the 
+
+opinion on the appeal.
+
+ MR. LAMKEN: In fact, that process, which isn't 
+
+even mentioned in the regulations, doesn't have any legal 
+
+operative effect. It's more like a demand letter. If the 
+
+lessee doesn't respond to the letter, he doesn't waive any 
+
+of his rights. If the Government fails to include a claim 
+
+in its demand letter, in the -- well, in the audit letter 
+
+-- it doesn't waive any of its rights. The --
+
+JUSTICE SCALIA: Well, it doesn't --
+
+MR. LAMKEN: -- first document --
+
+JUSTICE SCALIA: -- waive it, but it can't issue 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+the order without having issued the letter first, giving --
+
+MR. LAMKEN: I --
+
+JUSTICE SCALIA: -- giving the party an 
+
+opportunity to say why this amount isn't owed.
+
+ MR. LAMKEN: Well, in fact, there's nothing in 
+
+the regulations -- and I think the Solicitor General would 
+
+concede -- that actually requires this informal process. 
+
+It happens to be typically done. And the SG uses the word 
+
+"typically" in the brief. But there's nothing that 
+
+requires it. And if you don't respond, there are no 
+
+consequences to failure to respond.
+
+ JUSTICE SCALIA: Is there anything that requires 
+
+the order?
+
+ MR. LAMKEN: The -- anything that requires the 
+
+Secretary to proceed by order?
+
+ JUSTICE SCALIA: Yes.
+
+ MR. LAMKEN: That is the Secretary's traditional 
+
+way of doing things --
+
+JUSTICE SCALIA: Well --
+
+MR. LAMKEN: -- yes, but --
+
+JUSTICE SCALIA: So, you could say the same for 
+
+the other.
+
+ MR. LAMKEN: Oh, but it -- but there is no 
+
+liability if the order fails to issue. The order, if it 
+
+were the first salvo, you still would be required to 
+
+8 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+respond. And so, your failure to respond is very much a 
+
+default. The failure to respond to the letter, the audit 
+
+letter, has no legal operative effect --
+
+JUSTICE SCALIA: You don't -- you don't -- but 
+
+you don't respond to the order; you take an appeal from 
+
+the order.
+
+ MR. LAMKEN: That's correct. You file a --
+
+JUSTICE SCALIA: It seems to me crazy to call 
+
+that order a complaint. I -- even if I grant your other 
+
+argument, that an administrative proceeding can be 
+
+commenced by a complaint -- or that the term "complaint" 
+
+can apply to administrative proceedings, I don't think 
+
+that what you've hung your hat on here -- namely, the 
+
+order -- seems to me to fit that description.
+
+ MR. LAMKEN: Well, Justice Scalia, it is the 
+
+first document, which is recognized in the regulations, 
+
+which provides the lessor of the notice of claims against 
+
+it, the first one that's required by the regulations in 
+
+order to commence the proceedings.
+
+ JUSTICE SOUTER: You mean --
+
+MR. LAMKEN: It's recognized --
+
+JUSTICE SOUTER: -- the regulations don't refer 
+
+to the initial letter?
+
+ MR. LAMKEN: No. They don't -- the regulations 
+
+don't require this informal process. It's typically done 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1 --
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SOUTER: So, they literally could start, 
+
+absolutely out of the blue, by issuing the order?
+
+ MR. LAMKEN: I think that's correct. That is 
+
+the way that it could be done. There's an informal 
+
+process that's typically followed; but you could ignore 
+
+it, and there's no legal operative effect. So, that --
+
+JUSTICE SCALIA: I doubt whether --
+
+MR. LAMKEN: -- informal process --
+
+JUSTICE SCALIA: -- that would --
+
+MR. LAMKEN: -- can't be a complaint.
+
+ JUSTICE SCALIA: I doubt whether that would 
+
+conform with the Administrative Procedure Act. I mean, 
+
+either -- even at the first level of agency decision --
+
+MR. LAMKEN: Well --
+
+JUSTICE SCALIA: -- it seems to me you have to 
+
+give the individual an opportunity to reply.
+
+ MR. LAMKEN: Well, that is perhaps why the 
+
+agency tries this -- to do the informal process. But, in 
+
+fact, it does not have legal operative effect. There --
+
+you could completely ignore that initial demand letter, 
+
+and say, "Sorry, Agency, I'm not responding." The agency 
+
+then files its order. And that's the first time you must 
+
+register your defenses, upon failure or forfeiture --
+
+JUSTICE SCALIA: Of course you can ignore it. 
+
+10
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20 --
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+That doesn't prove anything. You could ignore an agency 
+
+complaint, too --
+
+MR. LAMKEN: Right. 
+
+JUSTICE SCALIA: -- I mean, a formal complaint, 
+
+in which case you'll be found liable. What does --
+
+MR. LAMKEN: That's the --
+
+JUSTICE SCALIA: -- the fact that you don't have 
+
+to respond have to do with anything?
+
+ MR. LAMKEN: The legal consequences. It's 
+
+exactly right, Justice Scalia. If you don't respond to 
+
+the demand letter, there are no legal consequences. If 
+
+you don't respond to the letter by filing what's called an 
+
+"appeal," you lose. And so, it's just like a complaint; 
+
+you default if you fail to raise your defenses at that 
+
+point. In addition, Section 2415 --
+
+JUSTICE STEVENS: And it's also, I assume, true 
+
+that the demand letter would not toll a statute.
+
+ MR. LAMKEN: No, we don't believe a demand 
+
+letter would toll a statute, because it's not required by 
+
+JUSTICE SCALIA: Well, you --
+
+MR. LAMKEN: -- by law.
+
+ JUSTICE SCALIA: -- you'd win in this case even 
+
+if it did. I don't think that the difference between the 
+
+initial letter giving you an opportunity to reply, and the 
+
+11
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+-- what you call the "complaint," the order -- that time 
+
+period doesn't put you out of -- out of the permissible 
+
+period.
+
+ MR. LAMKEN: Oh, I certainly hope --
+
+JUSTICE SCALIA: Right.
+
+ MR. LAMKEN: -- hope not.
+
+ JUSTICE SCALIA: Yes.
+
+ MR. LAMKEN: But, in fact, Section 2415(f), 
+
+which is on page 4 and 5 of the appendix to our brief, 
+
+makes it clear that whether something is denominated a 
+
+complaint or not does not determine whether or not it's 
+
+covered by the limitations period. 2415(f) is an 
+
+exception for counterclaims and offsets by the Government 
+
+where a private party brings an action against the 
+
+Government. But counterclaims and offsets typically 
+
+aren't brought by complaint; they're brought in the 
+
+answer, they're submitted in the answer. Therefore, 
+
+whether it's denominated an "order," an "answer," or 
+
+something else, doesn't control whether or not 2415 
+
+applies. 2415 applies to any action for money damages 
+
+founded on a contract, however you might denominate the 
+
+initial filing which commences the proceedings. In --
+
+JUSTICE GINSBURG: Mr. Lamken, the point has 
+
+been made that there are many indications that what 
+
+Congress had in mind was ordinary civil action in a court. 
+
+12
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+In addition to finding this provision solely in title 28, 
+
+the judiciary code, and not in title 5, there's also, if 
+
+you read the following provision, 2416, time for 
+
+commencing actions brought by the United States. And then 
+
+it tells us the tolling periods. And, in doing that, it 
+
+refers twice to the "defendant," which is a term that's 
+
+used in civil proceedings, not administrative proceedings.
+
+ MR. LAMKEN: Well, starting at 28 U.S.C., why 
+
+it's there, it, in fact, applies both to administrative 
+
+agency actions and actions in courts. And sometimes in 28 
+
+U.S.C. there are provisions that apply to both. The 
+
+Federal Tort Claims Act, for example, is in 28 U.S.C., and 
+
+it has a provision for administrative adjustment of claims. 
+
+People must file their claims before an agency first, and 
+
+then the agency can do administrative adjustment. That's 
+
+entirely separate from the attorney general's ability to 
+
+compromise the claim once it's filed in court.
+
+ Section -- title 5 also contains things that 
+
+apply to courts and agencies -- the right to judicial 
+
+review of agency actions, the waiver of immunity that's 
+
+necessary for those -- in addition to standards that 
+
+govern judicial review of agency actions. Those were all 
+
+in title 5, but they actually apply to courts. These --
+
+JUSTICE SCALIA: Well, 2415(a), (i), we -- you, 
+
+you cannot possibly say that that only applies to judicial 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+actions, can you?
+
+ MR. LAMKEN: Oh, no. That's --
+
+JUSTICE SCALIA: Yes. 
+
+MR. LAMKEN: -- actually completely --
+
+JUSTICE SCALIA: And that's in --
+
+MR. LAMKEN: -- superfluous.
+
+ JUSTICE SCALIA: -- and that's in title 28.
+
+ MR. LAMKEN: And that's in -- yes, that's in 
+
+title 28, as well.
+
+ And with respect to the term "defendants," 
+
+Justice Ginsburg, Congress has often used the term 
+
+"defendants" even in the context of administrative 
+
+actions. The Stockyard and Packers Act of 1921 -- it's in 
+
+7 U.S.C. 210 -- actually talks about a complaint against a 
+
+defendant for damages, all adjudicated before the 
+
+Secretary of Agriculture, and that was 85 years ago. It 
+
+seems a little late in the day now to debate whether one 
+
+can be a defendant, the person who defends before an 
+
+agency, as well as the defendant --
+
+JUSTICE GINSBURG: It's not the typical term 
+
+used in agency proceedings to designate the responding 
+
+party.
+
+ MR. LAMKEN: Well, you can talk about the 
+
+"responding party," or the "defendant," but the term 
+
+"defendant" is sufficiently broad to include one who 
+
+14
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+defends or denies, and that would be a term -- and it's 
+
+been used in the past, as long as 85 years ago -- to 
+
+discuss the person who might be liable for damages in --
+
+JUSTICE GINSBURG: And the content --
+
+MR. LAMKEN: -- an adversary --
+
+JUSTICE GINSBURG: -- the content of the tolling 
+
+provision, as well, seems geared -- seems geared to a 
+
+civil lawsuit. It talks about a person being outside the 
+
+United States; therefore, they wouldn't be amenable to 
+
+service of process.
+
+ MR. LAMKEN: That's certainly right. These are 
+
+all things that would apply, we would expect, both to 
+
+a civil action in court and an administrative-agency 
+
+action, as well. They may work better for one or 
+
+the other in different particular circumstances, but they 
+
+are all sufficiently broad that they can be used in both 
+
+circumstances. And the one the Government, in the 
+
+administrative context, would be most interested in would 
+
+be subsection C. When the Government just doesn't know 
+
+the facts, or the Government reasonably couldn't know the 
+
+facts, it gets an exception, just tolling, until it 
+
+reasonably could have known of the fact. And that's just 
+
+as applicable in an action before an agency as it would be 
+
+in an action before a court.
+
+ In addition, the Government's contrary 
+
+15
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+construction renders an entire provision superfluous. And 
+
+that is the one that Justice Scalia mentioned, Section 
+
+2415(i), which is an exception for administrative offsets. 
+
+That exception for administrative offsets would do no work 
+
+at all if --
+
+JUSTICE GINSBURG: That wasn't part of the 
+
+original statute, was it?
+
+ MR. LAMKEN: No, that was added about 16 years 
+
+later, Your Honor. And it was added, but it clarifies the 
+
+scope of the statute. And, as this Court admitted in --
+
+pointed out in cases like Fausto and LaFranca, the later 
+
+amendment to a statute can clarify its meaning; and, 
+
+indeed, statutes are ordinarily read, once amended, as if 
+
+they existed in their amended form from the offset.
+
+ JUSTICE GINSBURG: I thought that (i) was added 
+
+because it's -- for a very specific reason, that there was 
+
+a debate between the Department of Justice and -- I forgot 
+
+the other agency --
+
+MR. LAMKEN: The Comptroller, Your Honor.
+
+ JUSTICE SCALIA: Yes.
+
+ JUSTICE GINSBURG: -- yes -- about whether an 
+
+offset would be subject to the time limit.
+
+ MR. LAMKEN: That's exactly right. And Congress 
+
+resolved that debate by providing an exception for 
+
+administrative offsets, and no other exception for any --
+
+16
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SCALIA: What --
+
+MR. LAMKEN: -- sort of administrative 
+
+proceeding. And that raises the strong inference that, in 
+
+fact, this applies to administrative proceedings, and it 
+
+simply doesn't apply to administrative offsets, because 
+
+they're an exception.
+
+ JUSTICE SCALIA: They could have said -- if the 
+
+other interpretation of 2415(a), as not applying to 
+
+administrative proceedings, were correct, they could have 
+
+said the provisions of this section do not apply to 
+
+administrative proceedings --
+
+MR. LAMKEN: That's --
+
+JUSTICE SCALIA: -- which would have -- which 
+
+would have handled the offset --
+
+MR. LAMKEN: Yes. It would have --
+
+JUSTICE SCALIA: -- but would have been well 
+
+beyond the offset. And the fact --
+
+MR. LAMKEN: That's exactly right.
+
+ JUSTICE SCALIA: -- that they only focus on the 
+
+offset certainly suggests that when you're not talking 
+
+about offset, it does apply to administrative proceedings.
+
+ MR. LAMKEN: I could not have said it better, 
+
+and I will not attempt to. In fact, in addition, it 
+
+raises another anomaly in the statute, the Government's 
+
+contrary construction. And that is, it creates sort of an 
+
+17
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+irrationality in the hierarchy of claims for the 
+
+Government. Offensive judicial actions to extract money 
+
+from private individuals must be brought within 6 years. 
+
+Administrative offsets for the Government to try and avoid 
+
+paying money, those must be brought within 10 years, under 
+
+the administrative offset provision that was enacted 
+
+together with the exception in (i). However, offensive 
+
+administrative actions to extract money may be brought in 
+
+perpetuity, forever. It simply strains credulity to 
+
+believe that Congress, at the same time it was saying the 
+
+Government has only 10 years to assert administrative 
+
+offsets to avoid paying money, instead intended 
+
+administrative agencies to be able to extract money on 
+
+that very same claim --
+
+JUSTICE SCALIA: I can believe that they do --
+
+MR. LAMKEN: -- in perpetuity.
+
+ JUSTICE SCALIA: -- I can -- I can believe that 
+
+they do that.
+
+ [Laughter.]
+
+ JUSTICE SCALIA: But --
+
+MR. LAMKEN: Well, Justice --
+
+JUSTICE SCALIA: By mistake. But I would not 
+
+assume a mistake unless it's very clear.
+
+ MR. LAMKEN: I think that's exactly right, 
+
+Justice Scalia. And that's, again, going back to Fausto, 
+
+18
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+where there is a sensible hierarchy of claims, or a 
+
+sensible hierarchy of preferences. The Court doesn't 
+
+ordinarily presume that Congress put in a structure that 
+
+doesn't respect that ordinary hierarchy. And the 
+
+Government's construction here is inconsistent with the 
+
+ordinary hierarchy which allows the Government to avoid 
+
+making payment on more favorable terms; then the 
+
+Government gets to go in and forcibly extract money from 
+
+private individuals.
+
+ Finally, the Government's construction also 
+
+undermines the intended effect of the statute. The effect 
+
+of statute -- the purpose of statutes of limitations --
+
+and this one, in particular -- is to provide repose -- to 
+
+allow the individual to know that he will no longer 
+
+confront Government claims, to dispose of his documents, 
+
+and also to encourage the Government to be diligent in 
+
+pursuing its claims. None of those purposes are achieved, 
+
+all of those purposes are defeated, if -- once the statute 
+
+of limitations period expires --
+
+JUSTICE KENNEDY: Mr. Lamken --
+
+MR. LAMKEN: Yes.
+
+ JUSTICE KENNEDY: -- could we go back to Section 
+
+(i) for a second more? Is it also possible to say that 
+
+there was this disagreement between the Department of 
+
+Justice and the Comptroller General, and Congress decided 
+
+19
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+that the Comptroller General was right? And, if that's 
+
+true, should we not accept the Comptroller General's 
+
+reading of the entire statute?
+
+ MR. LAMKEN: Well, if Congress had decided the 
+
+Comptroller General is right, and had done that in 
+
+subsection (i), it would have written subsection (i) the 
+
+way Justice Scalia proposed, which is to say this doesn't 
+
+apply to administrative claims at all. What it did is, it 
+
+said, "Ooh, this appears to apply to administrative claims 
+
+and the Comptroller thinks these administrative offsets are 
+
+important, so we will give a special statute of 
+
+limitations period in 31 U.S.C. for those, and exempt them 
+
+from the more general statute of limitations period in 
+
+section 28 U.S.C. 2415." So, I don't believe that it 
+
+should be read that way. Is it frivolous to suggest that 
+
+that's the reading? No, the Government --
+
+JUSTICE STEVENS: Does the --
+
+MR. LAMKEN: -- got it's --
+
+JUSTICE STEVENS: -- legislative history tell us 
+
+how detailed the congressional examination of the 
+
+particular issue was?
+
+ MR. LAMKEN: Well, indeed, the legislative 
+
+history mentions -- and there is a battle of letters 
+
+between --
+
+JUSTICE STEVENS: That's about all --
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. LAMKEN: -- the Office of Legal Counsel and 
+
+the Comptroller on this issue. And Congress actually 
+
+stepped into the fray and created an exception. But it 
+
+created a limited exception --
+
+JUSTICE STEVENS: Okay.
+
+ MR. LAMKEN: -- an exception that applies only 
+
+to one context, and that's administrative offsets. And 
+
+that certainly raises a very strong inference that, where 
+
+there isn't such an exception, the statute applies to 
+
+administrative proceedings, more generally.
+
+ JUSTICE ALITO: Isn't the most likely answer 
+
+that they just -- they saw a small problem, and they 
+
+rendered a decision on the small problem, and they didn't 
+
+think about it any further than that?
+
+ MR. LAMKEN: Well, I have a hard time 
+
+psychoanalyzing Congress, because it's sort of a corporate 
+
+body, and I can't tell what Member of Member of Congress 
+
+is saying what. But when the Court of these statutes, it 
+
+generally reads them -- and it, in fact, avoids, whenever 
+
+possible, superfluity. And if this provision applies to 
+
+administrative proceedings from the outset, subsection (i) 
+
+is superfluous, it's -- does no work whatsoever. And so, 
+
+the -- when Congress amended this statute, it certainly 
+
+clarified that, where there is no exception, this statute 
+
+applies to actions filed in administrative proceedings. 
+
+21
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+If there are no further questions, I'll reserve 
+
+the remainder of my time for rebuttal.
+
+ JUSTICE STEVENS: Thank you.
+
+ Mr. Joseffer.
+
+ ORAL ARGUMENT OF DARYL JOSEFFER
+
+ ON BEHALF OF RESPONDENT
+
+ MR. JOSEFFER: Justice Stevens, and may it 
+
+please the Court:
+
+ The presumption is that the Government is not 
+
+bound by a statute of limitations. And, when read as a 
+
+whole, Section 2415(a) does not overcome that presumption, 
+
+but instead makes clear that it applies only to suits in 
+
+court. There are several reasons for that. First, the 
+
+ordinary meanings of all of the key statutory terms refer 
+
+to suits in court. Second, the statute expressly 
+
+distinguishes between administrative proceedings and 
+
+actions. Third the statute's located in the judicial 
+
+code. Fourth, the committee reports, for those who are 
+
+inclined to consider them, strongly support the statute's 
+
+ordinary meaning. And, fifth, even if some administrative 
+
+proceedings were governed by Section 2415(a), these would 
+
+not, because they do not involve a complaint.
+
+ Now, on the first of those points, the term 
+
+"action" ordinarily refers to the pursuit of a right in 
+
+court, which just is why, just 7 years ago, in West v. 
+
+22
+
+Alderson Reporting Company 
+
+
+
+ 
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Gibson, every member of this Court agreed that the term 
+
+"action" often refers only to suits in court, and not to 
+
+administrative proceedings.
+
+ JUSTICE SCALIA: It often does. It often does. 
+
+But it does not, universally. And there are a number of 
+
+instances cited by the Petitioner that -- where this Court 
+
+and -- and statutes use the term in context where it 
+
+clearly applies to administrative proceedings.
+
+ MR. JOSEFFER: Well --
+
+JUSTICE SCALIA: So, the question is, How -- you 
+
+know, how absurd is it not to read it to apply to 
+
+administrative proceedings in this case? And I find it 
+
+pretty absurd, because you assume, if you read that it 
+
+way, that there is effectively no statute of limitations 
+
+whatever for the Government in these cases.
+
+ MR. JOSEFFER: Well, the structure of the law 
+
+here is that in those instances where Congress does 
+
+authorize administrative recovery, it ordinarily provides 
+
+a context-specific administrative limitations period, such 
+
+as in the Contract Disputes Act, which governs almost all 
+
+of the contract claims the Government can pursue 
+
+administratively. Congress specifically enacted a 6-year 
+
+limitations period for the submission of a claim to a 
+
+contracting officer. 
+
+In this unique context, however, Congress had 
+
+23
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+very good reasons for not applying a limitations period 
+
+until it prospectively enacted a partial one in 1996. The 
+
+reason is that what Congress found here, in context of 
+
+mineral leasing, based on the findings of an independent 
+
+commission, was that the companies were historically on an 
+
+honors system and had abused that by underpaying royalties 
+
+of up to half a billion dollars annually. So, what 
+
+Congress directed the agency to do is to audit all current 
+
+and past lease accounts. One of the committee reports 
+
+said to focus on old accounts, because this was a Congress 
+
+that was not concerned with repose, but with getting some 
+
+of those vast underpayments back from the companies.
+
+ Now, when we fast-forward to 1996 --
+
+JUSTICE SCALIA: Wait.
+
+ MR. JOSEFFER: -- at that point --
+
+JUSTICE SCALIA: Excuse me. And this was the 
+
+Congress that enacted what?
+
+ MR. JOSEFFER: No, I -- agreed. What I'm 
+
+referring to now is the Congress that enacted the mineral 
+
+leasing provisions.
+
+ JUSTICE SCALIA: Oh.
+
+ MR. JOSEFFER: -- which is not a good --
+
+JUSTICE SCALIA: Which is not what we're talking 
+
+about here.
+
+ MR. JOSEFFER: No, but -- well, we are, because 
+
+24
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+the structure of the law here is that Section 2415(a), as 
+
+we see it, governs court suits. And that works, because, 
+
+when Congress authorizes administrative recovery, it 
+
+almost always provides a specific -- context-specific 
+
+administrative limitations period.
+
+ Also, when Congress was telling the agency to 
+
+focus on old accounts, it certainly wasn't thinking that a 
+
+statute of limitations applied to that, and the agency, in 
+
+that contemporary context, did not understand that there 
+
+was a limitations period, either, because the orders that 
+
+issued in the aftermath of the 1982 Act went back 7, 8, 9, 
+
+sometimes more, years than that.
+
+ JUSTICE SCALIA: As late as 1978, the Justice 
+
+Department didn't think that way, did it?
+
+ MR. JOSEFFER: No, the Justice Department--
+
+JUSTICE SCALIA: The opinion of the Office of 
+
+Legal Counsel, in '78, was exactly what the Petitioner 
+
+here would urge.
+
+ MR. JOSEFFER: No, the OLC opinion was limited, 
+
+by both its terms and its reasoning, to administrative 
+
+offsets, not to administrative adjudications. And if I 
+
+could explain that, an administrative offset occurs in the 
+
+situation -- this is what OLC was looking at -- where the 
+
+Government, by statute, owed retirement benefits to a 
+
+person, and, because it thought that person owed it money, 
+
+25
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+what the Government did was to unilaterally reduce the 
+
+retirement benefits. What OLC opined is that that is a --
+
+nothing more than a prejudgment attachment. And OLC 
+
+thought that if the Government is time-barred from 
+
+obtaining a judgment, it should be time-barred from 
+
+obtaining a prejudgment attachment.
+
+ An administrative adjudication is significantly 
+
+different, because it does provide an actual judgment. 
+
+So, there are a couple of important points from that.
+
+ First is that the dispute between OLC and the 
+
+Comptroller General was limited by its terms to 
+
+administrative offsets, although, Justice Stevens, the 
+
+Comptroller General did opine beyond that, that the 
+
+statute specifically applies only to suits in court. But 
+
+the actual dispute was as to administrative offsets. So, 
+
+when Congress addressed that specific dispute, as Justice 
+
+Alito pointed out, it resolved only that specific dispute.
+
+ JUSTICE SCALIA: But -- excuse me -- how could 
+
+OLC possibly think that it applied to administrative 
+
+offsets if it didn't apply to administrative proceedings? 
+
+I mean, it was a contradiction of the proposition, which 
+
+you're urging here, which is that this statute applies 
+
+only to judicial proceedings. I mean, that's the point. 
+
+Whether they spoke just to offsets or not, the position 
+
+taken by the Justice Department was that this statute 
+
+26
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+relates to administrative proceedings.
+
+ MR. JOSEFFER: No, the position of OLC was 
+
+limited to administrative offsets, and it did not -- the 
+
+important thing is, OLC opinion did not interpret the 
+
+statutory term "action," or, frankly, any other statutory 
+
+term. Instead, it had a theory, which was probably wrong, 
+
+that administrative offsets are unique because they are 
+
+prejudgment attachment devices. That's the dispute that 
+
+went to Congress, and that's the dispute that Congress 
+
+actually resolved.
+
+ And, in any event, going forward --
+
+JUSTICE SOUTER: Well, on that theory, then, 
+
+there was -- there was no time issue with respect to the 
+
+right to offset, then, in the OLC's position.
+
+ MR. JOSEFFER: No, the OLC's view is that if the 
+
+Government was time-barred from obtaining a judgment under 
+
+Section 2415(a), then it would be time-barred from 
+
+obtaining a prejudgment attachment.
+
+ JUSTICE SOUTER: No, but I thought your -- in 
+
+answer to Justice Scalia, you said what was essential to 
+
+the -- to OLC's position was that the offset is like a 
+
+prejudgment attachment, and, in effect, it's an attachment 
+
+without process. If that's the case, then timing should 
+
+have nothing to do with it. Conversely, as Justice Scalia 
+
+said, if timing does have something to do with it, timing 
+
+27
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+presumably derives from this provision; this provision, 
+
+therefore, must have been assumed to apply to 
+
+administrative proceedings.
+
+ So, either there's no time question with respect 
+
+to the offsets, or, if there is a time question with 
+
+respect to the offsets, it implies an OLC position that 
+
+this provision applies to administrative proceedings.
+
+ MR. JOSEFFER: Well --
+
+JUSTICE SOUTER: What's wrong with that logic?
+
+ MR. JOSEFFER: I think what's wrong with the 
+
+logic is what was wrong with the logic of the OLC opinion. 
+
+We don't mean to defend the --
+
+JUSTICE SOUTER: You put me --
+
+MR. JOSEFFER: -- reasoning of the OLC opinion --
+
+JUSTICE SOUTER: -- in good company, but --
+
+MR. JOSEFFER: -- but what OLC really did say --
+
+and Comptroller General and Congress promptly disagreed --
+
+was that -- it didn't see a problem -- OLC didn't see a 
+
+problem with procedurally imposing an administrative 
+
+offset. What it saw a problem with was, it thought if an 
+
+-- a judgment would be time-barred, then a prejudgment 
+
+attachment should be time-barred, as well. I mean, that 
+
+was the reasoning of the --
+
+JUSTICE SOUTER: No, but if it was --
+
+MR. JOSEFFER: -- OLC opinion, which --
+
+28 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SOUTER: -- a prejudgment --
+
+MR. JOSEFFER: -- I agree was --
+
+JUSTICE SOUTER: It was a prejudgment attachment 
+
+in aid of what could be accomplished administratively by, 
+
+ultimately, an administrative judgment.
+
+ MR. JOSEFFER: No, the -- I guess it was another 
+
+point. The OLC opinion was -- arose in the context where 
+
+a judgment could be obtained at all only in court.
+
+ JUSTICE SCALIA: Do we have --
+
+MR. JOSEFFER: In the context of --
+
+JUSTICE SCALIA: -- that opinion, by the way? 
+
+Both sides cited it. The -- is it -- it was unpublished.
+
+ MR JOSEFFER: It was unpublished, and --
+
+JUSTICE SCALIA: Does anybody give it to us?
+
+ MR. JOSEFFER: Petitioners offered to lodge it 
+
+with the Court--
+
+JUSTICE SCALIA: Yes, I know they did offer, but 
+
+nobody did it.
+
+ MR. JOSEFFER: I'll -- we'll do it this 
+
+afternoon.
+
+ JUSTICE SCALIA: Good. I would like that.
+
+ MR. JOSEFFER: The point's just -- the OLC 
+
+reasoning was admittedly somewhat odd, but that was the 
+
+context in which Congress was responding to. And, going 
+
+forward, it is not surplusage, because the issue still 
+
+29
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+arises. If the Government could pursue its suit only in 
+
+court, it would be time-barred from pursuing a suit in 
+
+court. The question would then still arise, under the OLC 
+
+opinion, unless it had been overruled, whether the 
+
+Government could, nonetheless, obtain a prejudgment 
+
+attachment, even though it cannot obtain judgment. That's 
+
+all that Congress was looking at there. And, as this 
+
+Court's recognized in cases like O'Gilvie and Vonn, when 
+
+Congress amends a statue to resolve a specific dispute, 
+
+oftentimes its amendments should be read as doing no more 
+
+than that.
+
+ We -- I agree, though, that terms -- to get back 
+
+to the beginning of this discussion -- terms do not always 
+
+have their ordinary meanings, but they presumptively do, 
+
+especially when a statute must be strictly construed. And 
+
+here, the context confirms that "action" does have its 
+
+ordinary meaning, for several reasons.
+
+ First, the ordinary meanings of the other key 
+
+statutory terms, such as "right of action," "complaint," 
+
+and "defendant," as Justice Ginsberg pointed out, all 
+
+ordinarily refer to aspects of suits in court. A "right 
+
+of action" is the right to bring a suit in court; a 
+
+"defendant" is the person defending in court ordinarily; 
+
+and a "complaint" is the document that initiates 
+
+proceedings by stating a claim that's seeking relief in a 
+
+30
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+civil action, which is a suit in court. Especially when 
+
+those terms are used together, this Court recognized, in 
+
+Unexcelled Chemical, that a reference to commencing a 
+
+action by filing a complaint ordinarily refers to filing a 
+
+suit in court, not a pleading before an administrative 
+
+agency. The statute then goes on to expressly juxtapose 
+
+an action against an administrative proceeding by saying 
+
+that the time to file an action does not run until after 
+
+the administrative proceedings have concluded, which 
+
+certainly gives weight to the point that the action is --
+
+an administrative proceeding is not an action.
+
+ JUSTICE SOUTER: Would the -- at the time that 
+
+4515 -- is that the --
+
+MR. JOSEFFER: It's 2415.
+
+ JUSTICE SOUTER: 20- -- I'm sorry. At the time 
+
+that was enacted, were there any limitations in other 
+
+statutes on the commencement of administrative 
+
+proceedings?
+
+ MR. JOSEFFER: The ones that we have found were 
+
+-- I'm not 100-percent sure, but the ones that we -- that 
+
+we have found and cited in our brief do appear to be 
+
+enacted after that time. I think the reason is that -- I 
+
+mean, historically, administrative -- obviously, court 
+
+suits have been around a lot longer than administrative 
+
+adjudications. And, as Congress has authorized 
+
+31
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15 --
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+administrative adjudications, it's dealt with them on a 
+
+case-by-case basis. And every time that it enacted a 
+
+context-specific administrative adjudications period since 
+
+1966 -- in theory, it could have just done an 
+
+across-the-board one for all agency adjudications, but, 
+
+instead, it's chosen to deal with the context-specific; in 
+
+part, because of the great variety of administrative 
+
+procedure. 
+
+I mean, as this case illustrates, a statute of 
+
+limitations that governs a complaint in an action is just 
+
+not going to work in a lot of administrative contexts. 
+
+Here, there's no complaint. An "order" is a legally 
+
+binding order. It doesn't seek relief, it imposes it. 
+
+And unless it is both appealed and stayed pending appeal 
+
+JUSTICE SCALIA: How about the initial letter 
+
+that, in the agency practice, precedes the order? I 
+
+gather there's a letter to the --
+
+MR. JOSEFFER: Right. There's -- there are 
+
+basically three steps here. First, there's an audit. 
+
+Then, if the audit reveals an apparent discrepancy, the 
+
+agency or a State with delegate authority would send an 
+
+issue letter requesting an explanation.
+
+ JUSTICE STEVENS: An issue letter.
+
+ MR. JOSEFFER: Yes. It's called an "issue 
+
+32
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+letter." And then would basically request an explanation 
+
+of the apparent discrepancy. And then, if the agency then 
+
+decides, after consideration of the audit and the issue 
+
+letter, that it's appropriate to issue an order to pay it, 
+
+will do so. It --
+
+JUSTICE SCALIA: Sounds to me like a complaint, 
+
+a response --
+
+MR. JOSEFFER: An issue letter?
+
+ JUSTICE SCALIA: -- and an adjudication. I 
+
+mean, you know --
+
+MR. JOSEFFER: I don't know whether you mean the 
+
+audit --
+
+JUSTICE SCALIA: -- "We think you owe this."
+
+ MR. JOSEFFER: -- or the issue letter, but 
+
+either way --
+
+JUSTICE SCALIA: The response comes back, "I 
+
+don't think we owe it, and here's why." And then there's 
+
+a ruling, "You do owe it." And that's the order. And 
+
+then you can appeal it. And the CFR refers to it as an 
+
+appeal.
+
+ MR. JOSEFFER: Yes. Well, there are a few 
+
+things. First, on the -- with respect to the issue letter 
+
+-- I mean, a complaint, functionally, is a document that 
+
+initiates proceedings, stating it -- by stating the claim 
+
+for relief, is seeking relief in a civil action. With 
+
+33
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+respect to the second of those, an issue letter does not 
+
+-- is not an allegation of wrongdoing, and it does not 
+
+seek relief; it seeks information so that the agency can 
+
+determine whether or not an apparent discrepancy raised by 
+
+an audit is, in fact, a discrepancy. But there's --
+
+JUSTICE SCALIA: It does not --
+
+MR. JOSEFFER: -- no claim.
+
+ JUSTICE SCALIA: -- assert that there's a 
+
+discrepancy?
+
+ MR. JOSEFFER: Well, what it -- what it asserts 
+
+is that, "We've done an audit, and the audit has raised 
+
+the following issues" -- that's why it's called an "issue 
+
+letter" -- "Please provide an explanation." And it -- so, 
+
+at that point, the agency has not decided yet whether it 
+
+is, in fact, asserting a claim. It's not -- and it's not 
+
+requesting relief, which a complaint definitely does. All 
+
+it's requesting is information to help the agency assess 
+
+the issue.
+
+ JUSTICE SCALIA: Do we have an example of issue 
+
+letters anywhere? That's not in the materials either, is 
+
+it? In the --
+
+MR. JOSEFFER: No, in fact, it's not even -- in 
+
+fact, it's not even in the administrative record --
+
+JUSTICE SCALIA: Right.
+
+ MR. JOSEFFER: -- which is one of the reasons 
+
+34
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+it's not in the issue --
+
+JUSTICE STEVENS: Do we know --
+
+MR. JOSEFFER: -- record of the case --
+
+JUSTICE STEVENS: -- what time lapse --
+
+MR. JOSEFFER: -- which also reflects that it's 
+
+not a formal complaint, or it would be in the record.
+
+ JUSTICE STEVENS: Do we know, in this case, what 
+
+time lapse there was between the issue letter and the 
+
+order?
+
+ MR. JOSEFFER: I don't think it was more than a 
+
+year or two.
+
+ JUSTICE STEVENS: But --
+
+MR. JOSEFFER: And there was --
+
+JUSTICE STEVENS: -- would that -- if you took 
+
+the issue letter as the day, wouldn't all of the -- all of 
+
+the Government's claims be timely? Because we're only 
+
+talking about part of the claim, anyway, as I understand 
+
+it. Is that correct?
+
+ MR. JOSEFFER: Here, I think if you ran --
+
+JUSTICE SCALIA: I don't think so. I tried to 
+
+figure that out. I think --
+
+MR. JOSEFFER: Yes, if it ran from the --
+
+JUSTICE SCALIA: I think --
+
+MR. JOSEFFER: -- if it ran from the issue 
+
+letter --
+
+35
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SCALIA: Okay.
+
+ MR. JOSEFFER: -- I think there would still be 
+
+about a year in dispute here.
+
+ JUSTICE STEVENS: There would be some in dispute.
+
+ JUSTICE ALITO: Going forward, if we --
+
+MR. JOSEFFER: But --
+
+JUSTICE ALITO: -- if we agree with your 
+
+position, the result will be that there will be a 7-year 
+
+limitations period for oil and gas leases, but, for Indian 
+
+claims and for minerals, there'll be no statute of 
+
+limitations?
+
+ MR. JOSEFFER: Yes, and the reason is that 
+
+that's what Congress chose to do. I mean, in the 
+
+prospective 1996 Act, it --
+
+JUSTICE ALITO: Did they --
+
+MR. JOSEFFER: -- enacted the limitations --
+
+JUSTICE ALITO: When they enacted the 7-year 
+
+limitation period, did they explain why they would treat 
+
+those two situations so differently?
+
+ MR. JOSEFFER: No, there's no explanation. As a 
+
+practical matter, though, the prospective 1996 legislation 
+
+governs a wide variety of aspects of the -- of the 
+
+relationship between the Federal Government and the 
+
+lessees. And, on balance, that package was pretty 
+
+favorable to the oil companies, and I think Congress 
+
+36
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+probably just decided not to -- to apply that to itself, 
+
+but not to the Indians.
+
+ Getting back to the order, though, it's not only 
+
+that --
+
+JUSTICE SCALIA: How do you defend against a 
+
+claim for, you know, stuff that went on a hundred years 
+
+ago?
+
+ MR. JOSEFFER: Well, as a --
+
+JUSTICE SCALIA: I -- I'm really very reluctant 
+
+to -- unless there is no possible other reading of the 
+
+statute, to think that that's -- that that's what the law 
+
+provides, that the Government can show up a hundred years 
+
+later, and say, "Oh, by the way, you owe all this money." 
+
+MR. JOSEFFER: Well, first off, until --
+
+JUSTICE SCALIA: The company says "Gee, I -- you 
+
+know, I don't have records from a hundred years ago."
+
+ MR. JOSEFFER: Right. Well, there are a few 
+
+points, both legal and practical. On the legal, until 
+
+1966 that absolutely was the law, because historically no 
+
+limitations period ever applies against the Government. 
+
+And that's the reason for the strict construction canon, 
+
+that the statute applies here only if it clearly applies, 
+
+and thereby bars the Government from forcing the law in 
+
+the public interest.
+
+ JUSTICE SCALIA: Say that again. Until 1966, 
+
+37
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+there were no statute of limitations against any 
+
+Government suits?
+
+ MR. JOSEFFER: Not contract. I mean, the 
+
+historic rule is that the Government is not bound by 
+
+statutes of limitations, because what it's doing is 
+
+enforcing the law in the public interest. Now, in 1966, 
+
+Congress enacted Section 2415(a) so that there would 
+
+prospectively be a contract limitations period. But it's 
+
+strictly construed, because of the historical backdrop and 
+
+the importance of enforcing the law in the public 
+
+interest. So that's why we do have a strict construction 
+
+canon here. As a --
+
+JUSTICE SCALIA: He didn't apply against the 
+
+Government either.
+
+ MR. JOSEFFER: For the same reason laches is 
+
+never applied against the Government.
+
+ JUSTICE GINSBURG: So, there's no limit at all, 
+
+and you concede that that's the case. So, the Government 
+
+could go back on these royalties as long as it likes.
+
+ MR. JOSEFFER: Well, as an abstract theoretical 
+
+matter, the Government could reach back many, many 
+
+decades. As a practical matter, though, that's never 
+
+happened that we've gone back, say, 50 or 100 years 
+
+and there are practical reasons for that. First is that 
+
+the agency does not have enough resources to audit --
+
+38
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE KENNEDY: Well, there's a case involving 
+
+the Oneida Indians, that went back quite a ways --
+
+MR. JOSEFFER: That's true. It's -- I meant in 
+
+the --
+
+JUSTICE KENNEDY: -- 200 years --
+
+MR. JOSEFFER: -- leasing context here.
+
+ JUSTICE KENNEDY: Yes.
+
+ MR. JOSEFFER: I didn't mean in the leasing 
+
+context here. But in the leasing context, one -- there 
+
+are a couple of important points. One is that the 
+
+Government does not have enough resources to audit all of 
+
+the current accounts in all of the years, which is one of 
+
+the reasons that we need to be able to go back farther 
+
+when we catch the violation. As a -- but as 
+
+a result, the notion that we're going to pull auditing 
+
+resources off of today to do a frolicking detour into 50 
+
+years ago, there's a reason that's never happened.
+
+ In addition, the farther we try to go back, the 
+
+greater the proof problems, because oftentimes only the 
+
+companies have the information that shows what royalties 
+
+they would owe, and if they lawfully destroy those records 
+
+after 6 years, it makes it even harder for us to try to go 
+
+back, because of proof problems.
+
+ JUSTICE SCALIA: That's another indication. Why 
+
+would you allow them to destroy those records after 6 
+
+39
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+years if you -- if you thought -- if you thought that 
+
+there was no statute of limitations to claims for these 
+
+things? I mean, that's just another inconsistency that --
+
+in the statutory scheme that's created.
+
+ MR. JOSEFFER: Well, no, the --
+
+JUSTICE SCALIA: You say, "You can destroy your 
+
+records after 6 years." Well, why? It doesn't make any 
+
+sense.
+
+ MR. JOSEFFER: Well, first, it's optional, not 
+
+mandatory. If they want to keep them, they --
+
+JUSTICE SCALIA: Yes.
+
+ MR. JOSEFFER: -- certainly can. But there's no 
+
+-- and, as a practical matter -- I mean, because the 
+
+Government bears the initial burden of going forward, if 
+
+the company destroys the sources of proof, that's, on 
+
+balance, going to be in its favor. But, in addition, 
+
+there's not a strict congruence between the 6-year 
+
+periods, because, first, the companies only have to keep 
+
+records for 6 years, but, in some circumstances, the 
+
+Secretary can require they be kept for longer. In 
+
+addition, sometimes the statute of limitations, because of 
+
+tolling, is much longer than 6 years; and so, the lawful 
+
+destruction of records would still leave absence-of-proof 
+
+issues in situations where the statute might, because of 
+
+tolling, be much longer. So, there's not a strict 
+
+40
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+congruence.
+
+ There is also no indication that Congress 
+
+enacted the 6-year records-retention policy because it was 
+
+thinking about a 6-year limitations period. There's never 
+
+been any linkage between the two.
+
+ If I could briefly cover, then, also -- I mean, 
+
+in addition to all the textual points, this is also 
+
+located in the judicial code. And, although it's true 
+
+that a couple stray provisions in the judicial code apply 
+
+to administrative proceedings, they say that expressly. 
+
+Every time the word "action" is used in the judicial code 
+
+-- and Petitioners identified no examples -- every time 
+
+the word "action" is used in the judicial code, it refers 
+
+to a suit in court, and only a suit in court.
+
+ When a provision of the judicial code applies to 
+
+something else, it will say so. For example, 28 U.S. Code 
+
+2462, which is a statute of limitations for penalty 
+
+proceedings, refers to an "action, suit, or proceeding." 
+
+The Federal Tort Claims Act is very clear that what 
+
+it's talking about is submitting something to an agency.
+
+ So, if Congress was going to legislate against 
+
+the backdrop of a strict construction canon with terms 
+
+that ordinarily refer to suits in court, and put the 
+
+provision in the judicial code, I mean, that just is a 
+
+totally irrational way of expressing intent, especially 
+
+41
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+clear -- especially a clear intent, when it's trying to 
+
+govern administrative proceedings.
+
+ The committee reports also strongly confirm 
+
+that, because they not only say that the statute defines 
+
+the time limitation for bringing an action in the U.S. 
+
+courts, and not only use court terminology from front to 
+
+back, they also say, like the statute, that they're aware 
+
+of the administrative proceedings, but what they're saying 
+
+is that the time to bring an action in the courts does not 
+
+expire until after the conclusion of those proceedings.
+
+ The committee has explained that the reason for 
+
+that provision was the great number and variety of 
+
+administrative proceedings. So, in other words, Congress 
+
+was saying, "There's a great variety of administrative 
+
+procedure. We're just not going to deal with that here. 
+
+We're taking it off the table by saying this limitations 
+
+period does not expire until a year after those 
+
+administrative proceedings, whatever they might be, have 
+
+expired."
+
+ There's also some relevance in the fact that 
+
+this legislation was proposed by the Justice Department as 
+
+part of an overall package of reforms that would govern 
+
+the civil litigation that the Department was handling in 
+
+the courts. It was then referred to the Judiciary 
+
+Committees, not to the House Government Reform Committees 
+
+42
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+that might consider administrative procedure matters, and, 
+
+as I mentioned before, was enacted as part of the judicial 
+
+code.
+
+ From start to finish, this legislation has never 
+
+had anything to do with anything other than court suits, 
+
+which is why Congress has expressly provided for 
+
+context-specific administrative systems -- limitations 
+
+periods -- which make sense in the context of the relevant 
+
+administrative procedures.
+
+ JUSTICE SCALIA: Well, except when you -- when 
+
+you say "this legislation," you limit it to the body of 
+
+2415(a) and you leave out (i), which -- -- or I guess it's 
+
+"one." Is it? Little -- or --
+
+MR. JOSEFFER: It's (i). It is (i). 
+
+JUSTICE SCALIA: It's (i). I mean, that clearly 
+
+does apply to administrative proceedings. And I could 
+
+understand the argument that Congress was just making 
+
+things doubly clear -- okay? -- that (a) does not apply to 
+
+administrative proceedings. I could understand that 
+
+argument if the way (i) was written is, "The provisions of 
+
+this section shall not apply to administrative 
+
+proceedings." And then I would say, "You know, oh, well, 
+
+that was always the case, and this is just making it 
+
+clear."
+
+ It doesn't say that. It says that -- the only 
+
+43
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+administrative proceeding that they cut out of it is these 
+
+offsets.
+
+ MR. JOSEFFER: I think the reason is that --
+
+JUSTICE SCALIA: And, you know, the normal rule 
+
+is inclusio unius, exclusio alterius. I would -- it 
+
+means, to me, when I read the statute as a whole -- and 
+
+that's the way I read statutes, I don't ask whether this 
+
+section was adopted this year, and the other section was 
+
+adopted next year -- I don't do it bite by bite; you look 
+
+at the whole text -- and, when you read all this stuff 
+
+together, it seems to me that the import of (i) is that 
+
+administrative proceedings, despite the fact that "action" 
+
+is not a very common word to use for them, are covered.
+
+ MR. JOSEFFER: I mean, it's -- there's no doubt 
+
+the statute should be read as a whole. But, as this Court 
+
+has explained in cases like the O'Gilvie and Vonn cases 
+
+cited in our brief, when a court's trying to make sense of 
+
+a statute read as a whole, oftentimes it will find that 
+
+when Congress faces a specific dispute and amends a 
+
+statute to resolve that specific dispute, that's all it 
+
+resolves, and there's no reason to draw further negative 
+
+inference, especially here, as the Court of Appeals 
+
+pointed out, where a strict construction canon applies.
+
+ JUSTICE SCALIA: That's the best thing you have 
+
+going for you, really, the strict construction canon. 
+
+44
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. JOSEFFER: Well, because -- I mean, and it 
+
+is an important point, that the statute applies only if it 
+
+clearly applies by its terms. And it seems to me, the 
+
+best that Petitioners can do is to say that some of the 
+
+statutory terms, in isolation, are ambiguous. But that --
+
+all that means, as I said, is that, under the strict 
+
+construction canon, we would prevail. And even if the 
+
+statute governs some administrative proceedings, but not 
+
+others, it would not govern these, for the reason I gave 
+
+earlier, which is that there's no complaint here. We 
+
+talked, before, about the ways in which an order is not a 
+
+complaint. It's another important point, though, that in 
+
+order not only -- it is -- not only does it not begin the 
+
+proceedings, it normally ends them, because appeals are 
+
+only taken about a quarter of the time. And in some 
+
+limited circumstances there's not even a right of appeal, 
+
+if the Assistant Secretary issued the order. So --
+
+JUSTICE SCALIA: What if I didn't think the 
+
+order was a complaint, but I thought the initial letter 
+
+was a complaint? Would the Petitioner lose? Because they 
+
+never made that argument.
+
+ MR. JOSEFFER: Correct. It's -- the only 
+
+argument they've ever made --
+
+JUSTICE SCALIA: Yes.
+
+ MR. JOSEFFER: -- is that an "order" is a 
+
+45
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+complaint. So, they haven't preserved the point.
+
+ JUSTICE GINSBURG: Because you're --
+
+MR. JOSEFFER: But --
+
+JUSTICE GINSBURG: -- you made the point that 
+
+the issue letter is just raising the issues, and it's not 
+
+charging, as a complaint would allege, "You owe us," but 
+
+this is, "Maybe you owe us."
+
+ MR. JOSEFFER: Correct. There's no -- in an 
+
+issue letter, there's no claim for relief, just a claim 
+
+for the request for information, and there's no allegation 
+
+of wrongdoing. So, it's just not a complaint in those 
+
+ways. Also, it doesn't -- it's not really fair to say 
+
+that it begins proceedings, because it comes between an 
+
+audit and an order to pay. So it doesn't -- and plus, 
+
+it's, of course, not filed in a civil action. And, in 
+
+that respect, it doesn't satisfy any of the -- any of the 
+
+elements of the -- of the ordinary definition of 
+
+"complaints."
+
+ JUSTICE ALITO: Are you saying that this doesn't 
+
+apply to any administrative proceeding, or just those that 
+
+are structured like this one, where you don't have 
+
+anything that's labeled a "complaint"?
+
+ MR. JOSEFFER: We -- well, our primary 
+
+submission is that it does not apply to any administrative 
+
+proceedings, for the reason -- reasons I've given, that 
+
+46
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+the ordinary meanings of all of the key statutory terms 
+
+are for suits in court. A "complaint" itself is 
+
+ordinarily defined to be --
+
+JUSTICE SCALIA: Even if you have an 
+
+administrative proceeding which is called a "complaint"? 
+
+You know, I mean -- and some are, I think.
+
+ MR. JOSEFFER: There are -- there are some 
+
+contexts in administrative procedure in which the word 
+
+"complaint" is used.
+
+ JUSTICE SCALIA: And that would not be covered 
+
+by 2415(a).
+
+ MR. JOSEFFER: Because it's not filed in an 
+
+"action," which refers to a suit in court, following 
+
+occurral of a right of action, which refers to the right 
+
+to bring suit in court, in a statute which then juxtaposes 
+
+the terms "action" against "administrative proceedings" --
+
+JUSTICE SCALIA: And let's assume all those 
+
+terms are used in the agency procedure. They're talking 
+
+about "action," "right of action." All those terms are 
+
+used in the agency's procedural rules. Would they then 
+
+come under this thing?
+
+ MR. JOSEFFER: No.
+
+ JUSTICE SCALIA: I think you have to say no --
+
+MR. JOSEFFER: Yes.
+
+ JUSTICE SCALIA: -- because, otherwise, it would 
+
+47
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+be up to the agency, just by renaming their things, to 
+
+come in or out, right? 
+
+MR. JOSEFFER: Well, and it's a much more --
+
+JUSTICE SCALIA: Yes.
+
+ MR. JOSEFFER: -- fundamental point than that, 
+
+too, is that what Congress was doing here was, when using 
+
+these terms in their ordinary sense, to lay out an across-
+
+the-board rule that applies to suits in court.
+
+ And, finally, one thing I should also emphasize 
+
+is that what we have in this context is a comprehensive 
+
+administrative scheme. Petitioners like to say that, 
+
+"Well, we could just as easily be in court." There's a 
+
+reason that no administrative royalty proceeding has ever 
+
+been brought by the Government in a court. And that's, 
+
+first, that Congress directed the agency to establish a 
+
+comprehensive auditing and collection system, and then 
+
+gave the agency administrative authority to enforce its 
+
+administrative orders. The only way the agency could 
+
+administer thousands of leases with something like $9 
+
+billion in royalties every year is to do this in an 
+
+efficient administrative manner.
+
+ Congress has not only authorized that, and 
+
+ratified it, it has strengthened that scheme and told the 
+
+agency, as I said, in 1982, to go back and look at old 
+
+leases, precisely because Congress knew that is a 
+
+48
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+standalone administrative scheme, and it's never provided 
+
+the administrative limitations period for the standalone 
+
+administrative scheme.
+
+ If there are no more questions --
+
+JUSTICE STEVENS: Thank you, Mr. Joseffer.
+
+ Mr. Lamken, as I understand it, you have about 
+
+11 minutes left. You don't have to use them all.
+
+ [Laughter.] 
+
+REBUTTAL ARGUMENT OF JEFFREY A. LAMKEN
+
+ ON BEHALF OF PETITIONERS
+
+ MR. LAMKEN: I will endeavor not to. Thank you, 
+
+Justice Stevens.
+
+ I wanted to start with the ordinary meaning of 
+
+the term "action." I was somewhat bemused by the 
+
+Government's insistence that had -- the term "action" in 
+
+West versus Gibson was construed -- it must mean an action 
+
+before a court, and has that as its ordinary meaning.
+
+ The Solicitor General's own position in West 
+
+versus Gibson, on page 25 and -6 of its brief was, 
+
+"Section 1981(a) does not, however, define the term 
+
+'action' as being limited to judicial proceedings. The 
+
+statutory language, read in context, suggests that no such 
+
+limitation was intended."
+
+ Page 6 of the Government's reply, "The term 
+
+'action,' in Section 1981, can reasonably be construed as 
+
+49
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+encompassing both administrative and judicial 
+
+proceedings."
+
+ The term "action" is a term that's used for 
+
+adversary adjudicative proceedings, whether those are in 
+
+court or before an agency. It is not limited to 
+
+administrative agency proceedings, as the Government 
+
+itself recognized in West versus Gibson.
+
+ There are more general terms here. There's also 
+
+"complaint," there's also "defendant." There's a number 
+
+of those. But those general terms are also the terms of 
+
+adversary adjudication. And Congress uses them, as far 
+
+back as 1921, for adversary adjudications before agencies.
+
+ JUSTICE STEVENS: Mr. Lamken, have you had any 
+
+second thoughts about your position that it's the order, 
+
+rather than the issue letter, that we should look at?
+
+ MR. LAMKEN: Well, in fact -- no. But the --
+
+the answer is that we didn't -- no issue was engaged as to 
+
+what was the functional equivalent of the complaint below. 
+
+That raised -- was raised for the first time by the 
+
+Solicitor General in its merits brief, saying, "No, no, 
+
+no, there's actually some stuff that comes before the 
+
+order."
+
+ But if -- I would encourage the Court to look at 
+
+the definitions in FOGRSFA, 1724 and 1702(A), which tell 
+
+you what, under -- in Congress's view, commences the 
+
+50
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+proceedings here. And, in Congress's view, what commences 
+
+the proceedings, what triggers the new statute of 
+
+limitations and stops it from running, is the order to 
+
+pay, which Congress defines as a "demand."
+
+ JUSTICE SCALIA: Well, that's true. That's 
+
+true. But the provision you're arguing that you come 
+
+under does talk about a complaint.
+
+ MR. LAMKEN: That's --
+
+JUSTICE SCALIA: And that's what -- you know, 
+
+that's what starts the 6 years running. And it's -- seems 
+
+to me odd to call something a "complaint" which is, in 
+
+fact, an order. They're not complaining about anything; 
+
+they're saying, "Pay the money."
+
+ MR. LAMKEN: Actually, Justice Scalia --
+
+JUSTICE SCALIA: You know, usually a complaint, 
+
+you're -- you make your point, and say, "What do you say? 
+
+What's your answer?"
+
+ MR. LAMKEN: Well --
+
+JUSTICE SCALIA: And this is an order. "You're 
+
+-- boom, "Pay."
+
+ MR. LAMKEN: It certainly has a hybrid quality, 
+
+Justice Scalia. And it's not a hybrid quality that the 
+
+industry particularly likes. But it is the first time 
+
+that the Government asserts its state -- its claims as to 
+
+what's wrong, in a binding legally operative document, 
+
+51
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+where the failure to respond results in default. It has 
+
+that function as complaint. It is the first salvo in 
+
+official, formal administrative proceedings.
+
+ JUSTICE SCALIA: Well, that's only true if you 
+
+consider an appeal to be the response. And that's rather 
+
+weird, that --
+
+MR. LAMKEN: It is --
+
+JUSTICE SCALIA: -- that the response to a 
+
+complaint is an appeal.
+
+ MR. LAMKEN: The language that has been used, 
+
+and -- as a result of very odd historical anomalies and 
+
+attempts to introduce a sense of due process to these 
+
+proceedings over time -- is odd, and it is awkward. But 
+
+it's clear that when Congress wrote the scope of this 
+
+statute, it said it applies to "every action for money 
+
+damages by the Government which is founded in contract." 
+
+It doesn't say "actions that are begun by complaint."
+
+ Now, the complaint is what Congress assumes will 
+
+stop the provision from running. And there is always, in 
+
+an adversary adjudication, some document that functions 
+
+like a complaint, that provides the defendant the notice 
+
+of what the claims are against it, and to which failure to 
+
+respond will result in default. 
+
+We believe that the most likely thing to be the 
+
+complaint here is, the thing that provided us with notice, 
+
+52
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+is that -- "Boys, you've got to respond; otherwise, you're 
+
+in trouble" -- was the order to pay. And Congress came to 
+
+that same conclusion when it enacted -- when it enacted 
+
+FOGRSFA and established a 7-year statute of limitations 
+
+provision. But if we lose 2 years of the claim, and only 
+
+get 1 because it is the agency letter, in the Court's 
+
+view, well, that's fine, but there's some document here 
+
+that started these agency proceedings, and it is that 
+
+document which is a complaint.
+
+ JUSTICE SCALIA: Could you get us -- we're going 
+
+to have supplemental material filed, the OLC opinion. 
+
+Could you -- could you get us a -- you know, a sample of 
+
+an agency letter? Or, if you can't, maybe the Government 
+
+can?
+
+ MR. LAMKEN: Yes, I -- that's true. And in 
+
+terms of the OLC letter, we offered to lodge it in our 
+
+brief. Unfortunately, by the Court's rules, we're not 
+
+allowed to lodge it, unless the Court specifically 
+
+requests it. And so, that's why it's not there. But we 
+
+will get that to you, or the Government will get it to 
+
+you, as soon as possible.
+
+ The actual agency letter, in this case, isn't in 
+
+the administrative record. And it turns out that we 
+
+haven't been able to find it, and the Government hasn't 
+
+been able to find it. And so, it's a letter. It's a 
+
+53
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23 --
+
+24
+
+25
+
+Official 
+
+demand letter, but it is a letter, and that -- the order 
+
+to pay is actually the opening salvo in these proceedings. 
+
+And again, what opens the proceedings in -- the Justice 
+
+Department regulations and other regulations --
+
+JUSTICE STEVENS: May I suggest --
+
+MR. LAMKEN: -- to try to define --
+
+JUSTICE STEVENS: -- this, Mr. Lamken, that when 
+
+the -- when the filing is made giving us the OLC opinion, 
+
+you include a -- an example of such a letter?
+
+ MR. LAMKEN: Yes. Yes. Of course.
+
+ JUSTICE STEVENS: And so, we'll get a notion of 
+
+what it looks like.
+
+ MR. LAMKEN: Right. It may have to be from some 
+
+other proceeding; it wouldn't necessarily be from this 
+
+case.
+
+ JUSTICE GINSBURG: Your position is, this would 
+
+apply to the universe of administrative proceedings. Now, 
+
+this particular lease arrangement is taken care of by an 
+
+express statute of limitations. So, what we're talking 
+
+about, for the future -- what would change under your 
+
+interpretation? Not gas leases, because -- there's a 7-
+
+year limitation for both administrative orders to pay and 
+
+MR. LAMKEN: Right.
+
+
+ JUSTICE GINSBURG: -- court actions.
+
+
+54
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. LAMKEN: Right. It would be all leases on 
+
+Indian lands. It would be all leases which involve 
+
+minerals other than oil and gas, whether it be coal, gold, 
+
+silver, anything like that. It would also be all claims 
+
+before September -- all production before September of 
+
+1996. That introduces something of an oddity, if one 
+
+accepts the Government's position. It would be that, for 
+
+all claims going forward from September of 1996, the 
+
+Government has 7 years, but, for the prior 200 years, 
+
+those claims persist in perpetuity. When Section 2415(a) 
+
+itself was enacted, Congress avoided precisely that result 
+
+by deeming all prior claims to have accrued on the date 
+
+the statute of limitations was enacted. And the very fact 
+
+that Congress didn't do that here is evidence that 
+
+Congress -- to the extent it has anything to do with it at 
+
+all -- is evidence that Congress, in fact, understood that 
+
+there already was a statute of limitations applicable. 
+
+And, in fact --
+
+JUSTICE SCALIA: What --
+
+MR. LAMKEN: -- it also --
+
+JUSTICE SCALIA: What other areas would we be 
+
+messing up by finding for you? I mean, here, you know, if 
+
+we don't find that this administrative action is covered 
+
+by this statute of limitations, there's no statute of 
+
+limitations. But there may -- there are other -- may be 
+
+55
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+other areas covered by this text -- namely, a suit by the 
+
+United States -- founded upon any contract expressly or 
+
+implied in law or in fact, where there is some kind of a 
+
+statute of limitations.
+
+ MR. LAMKEN: Right. There are -- there are some 
+
+contexts in which there already is a separate 
+
+administrative regime which would have its own statute of 
+
+limitations. The Contract Disputes Act, as the Government 
+
+points out, is one of those.
+
+ JUSTICE SCALIA: And that would prevail over 
+
+this --
+
+MR. LAMKEN: Yes, because the --
+
+JUSTICE SCALIA: -- because it's more --
+
+MR. LAMKEN: -- Contract Disputes --
+
+JUSTICE SCALIA: -- specific.
+
+ MR. LAMKEN: -- Act has an exception at the 
+
+front and says "notwithstanding 2415." It's its own 
+
+animal to itself. And there is a clause at the front of 
+
+2415 that says "except as otherwise provided by Congress." 
+
+And so, Congress often takes exceptions. And when it 
+
+modified the Mineral Leasing Act of 1996, that was an 
+
+exception to the 2415 regime. So, Congress knows how to 
+
+conduct specialized situations and take things outside of 
+
+2415 when it needs to. But it enacted Section 2415 as a 
+
+catchall for all of those situations where Congress hadn't 
+
+56
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+managed to anticipate the circumstances. And the 
+
+Government's premise of the whole provision is that 
+
+Congress botched it. Congress provided a catchall that 
+
+catches judicial actions, but leaves the Government free, 
+
+in perpetuity, to persist -- to proceed on precisely the 
+
+same claims for precisely the same relief, plus interest. 
+
+And, because interest is calculated at a relatively high 
+
+rate, that makes those old claims much, much more valuable 
+
+than the relatively more recent claims. And it seems 
+
+implausible to think that Congress enacted a catchall 
+
+limitations period with a loophole so large that it 
+
+deprives the statute of limitations period of effect 
+
+almost entirely.
+
+ Finally, I'd like to say, one moment about the 
+
+statute -- the canon of strict construction. And that is 
+
+that it doesn't always require the court to narrow 
+
+otherwise broad statutory language, particularly where 
+
+doing so would have the effect of rendering another 
+
+provision -- here, subsection (i) is superfluous --
+
+introducing anomalies into the statutory structure and 
+
+depriving the statute of its intended effect, as the 
+
+Bowers case we cite in our reply brief on page 16 makes 
+
+clear. And Bowers case was virtually on point. It 
+
+was the case where the -- it was a statute of limitations 
+
+that could have applied to administrative agency actions, 
+
+57
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+or it could not have. And the Court declined to accept a 
+
+narrowing construction proffered by the Government under 
+
+statute of strict construction because it would have 
+
+rendered one of the provisions -- one for consent 
+
+proceedings -- superfluous, because it would have resulted 
+
+in anomaly, and because it would have undermined the 
+
+premise of repose which undergirded the statute of 
+
+limitations in that case. Precisely the same things are 
+
+true here. And, for those reasons, the Court should reach 
+
+precisely the same result.
+
+ If there are no further questions, thank you 
+
+very much.
+
+ JUSTICE STEVENS: Thank you, Mr. Lamken.
+
+ The case is taken -- is -- as submitted.
+
+ [Whereupon, at 11:59 a.m., the case in the 
+
+above-entitled matter was submitted.] 
+
+58
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 59 
+
+A 
+ability 13:16 
+able 18:13 39:13 
+
+53:24,25 
+above-entitled 
+
+1:16 58:16 
+absence-of-pr... 
+
+40:23 
+absolutely 5:6 
+
+10:3 37:19 
+abstract 38:20 
+absurd 23:11,13 
+abused 24:6 
+accept 20:2 58:1 
+accepts 55:7 
+accomplished 
+
+29:4 
+accounts 24:9 
+
+24:10 25:7 
+39:12 
+
+accrued 55:12 
+achieved 19:17 
+across-the-bo... 
+
+32:5 
+Act 10:13 13:12 
+
+14:13 23:20 
+25:11 36:14 
+41:19 56:8,16 
+56:21 
+
+ACTING 1:8 
+action 3:11,13 
+
+3:16 4:1,13,25 
+5:1,18,21 6:12 
+6:13,22,24 
+12:14,20,25 
+15:13,14,23,24 
+22:24 23:2 
+27:5 30:16,19 
+30:22 31:1,4,7 
+31:8,10,11 
+32:10 33:25 
+41:11,13,18 
+42:5,9 44:12 
+46:15 47:13,14 
+47:16,19,19 
+49:14,15,16,21 
+49:25 50:3 
+
+52:15 55:23 
+actions 3:17,17 
+
+4:9,16,19 5:5,8 
+5:11,12,13,14 
+13:4,10,10,20 
+13:22 14:1,13 
+18:2,8 21:25 
+22:17 52:17 
+54:25 57:4,25 
+
+actual 26:8,15 
+53:22 
+
+added 6:19 16:8 
+16:9,15 
+
+addition 11:15 
+13:1,21 15:25 
+17:23 39:18 
+40:16,21 41:7 
+
+addressed 26:16 
+adjudicated 
+
+14:15 
+adjudication 
+
+3:14 26:7 33:9 
+50:11 52:20 
+
+adjudications 
+4:2 25:21 
+31:25 32:1,3,5 
+50:12 
+
+adjudicative 
+50:4 
+
+adjustment 
+13:13,15 
+
+administer 
+48:19 
+
+administrative 
+3:21 4:2,11,14 
+4:15,18,19,21 
+4:24 5:1,4,7,14 
+9:10,12 10:13 
+13:7,9,13,15 
+14:12 15:18 
+16:3,4,25 17:2 
+17:4,5,9,11,21 
+18:4,6,8,11,13 
+20:8,9,10 21:7 
+21:10,21,25 
+22:16,20 23:3 
+23:8,12,18,19 
+
+25:3,5,20,21 
+25:22 26:7,12 
+26:15,19,20 
+27:1,3,7 28:3,7 
+28:19 29:5 
+31:5,7,9,11,17 
+31:23,24 32:1 
+32:3,7,11 
+34:23 41:10 
+42:2,8,13,14 
+42:18 43:1,7,9 
+43:16,19,21 
+44:1,12 45:8 
+46:20,24 47:5 
+47:8,16 48:11 
+48:13,17,18,21 
+49:1,2,3 50:1,6 
+52:3 53:23 
+54:17,22 55:23 
+56:7 57:25 
+
+administrativ... 
+23:22 29:4 
+
+administrativ... 
+15:13 
+
+admitted 16:10 
+admittedly 
+
+29:23 
+adopted 44:8,9 
+adversary 3:13 
+
+4:2 15:5 50:4 
+50:11,12 52:20 
+
+aftermath 25:11 
+afternoon 29:20 
+agencies 4:1,2 
+
+5:13 13:19 
+18:13 50:12 
+
+agency 3:15 
+5:22 7:12,14 
+10:14,19,22,22 
+11:1 13:10,14 
+13:15,20,22 
+14:19,21 15:23 
+16:18 24:8 
+25:6,8 31:6 
+32:5,17,22 
+33:2 34:3,14 
+34:17 38:25 
+
+41:20 47:18 
+48:1,15,17,18 
+48:24 50:5,6 
+53:6,8,13,22 
+57:25 
+
+agency's 47:20 
+ago 14:16 15:2 
+
+22:25 37:7,16 
+39:17 
+
+agree 29:2 30:12 
+36:7 
+
+agreed 23:1 
+24:18 
+
+Agriculture 
+14:16 
+
+aid 29:4 
+AL 1:5,11 
+Alito 21:11 
+
+26:17 36:5,7 
+36:15,17 46:19 
+
+allegation 34:2 
+46:10 
+
+allege 46:6 
+allow 19:14 
+
+39:25 
+allowed 7:5 
+
+53:18 
+allows 19:6 
+alterius 44:5 
+ambiguous 45:5 
+amenable 15:9 
+amended 16:13 
+
+16:14 21:23 
+amendment 
+
+16:12 
+amendments 
+
+30:10 
+amends 30:9 
+
+44:19 
+America 3:4 
+AMERICAN 
+
+1:3 
+AMOCO 1:4 
+amount 8:4 
+animal 56:18 
+annually 24:7 
+anomalies 52:11 
+
+57:20 
+anomaly 17:24 
+
+58:6 
+answer 12:17,17 
+
+12:18 21:11 
+27:20 50:17 
+51:17 
+
+anticipate 57:1 
+anybody 29:14 
+anyway 35:17 
+apparent 32:21 
+
+33:2 34:4 
+appeal 5:22 7:13 
+
+7:15 9:5 11:13 
+32:14 33:19,20 
+45:16 52:5,9 
+
+appealed 7:12 
+32:14 
+
+appeals 44:22 
+45:14 
+
+appear 31:21 
+APPEARAN... 
+
+1:19 
+appears 20:9 
+appendix 12:9 
+applicable 15:23 
+
+55:17 
+applied 25:8 
+
+26:19 38:16 
+57:25 
+
+applies 3:13 
+4:22 12:20,20 
+13:9,25 17:4 
+21:6,9,20,25 
+22:12 23:8 
+26:14,22 28:7 
+37:20,22,22 
+41:15 44:23 
+45:2,3 48:8 
+52:15 
+
+apply 9:12 13:11 
+13:19,23 15:12 
+17:5,10,21 
+20:8,9 23:11 
+26:20 28:2 
+37:1 38:13 
+41:9 43:16,18 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 60 
+
+43:21 46:20,24 32:22 48:17 better 15:14 47:5 42:23 46:15 
+54:17 authorize 23:18 17:22 calls 7:13 claim 7:20 13:17 
+
+applying 17:8 authorized beyond 17:17 canon 37:21 18:14 23:23 
+24:1 31:25 48:22 26:13 38:12 41:22 30:25 33:24 
+
+appropriate authorizes 25:3 billion 24:7 44:23,25 45:7 34:7,15 35:17 
+33:4 avoid 18:4,12 48:20 57:15 37:6 46:9,9 
+
+areas 55:21 56:1 19:6 binding 32:13 care 54:18 53:5 
+arguing 51:6 avoided 55:11 51:25 case 11:5,23 claims 3:23 9:17 
+argument 1:17 avoids 21:19 bite 44:9,9 23:12 27:23 13:12,13,14 
+
+2:2,5,8 3:3,6 aware 42:7 blue 7:3 10:3 32:9 35:3,7 18:1 19:1,15 
+9:10 22:5 awkward 52:13 body 21:17 38:18 39:1 19:17 20:8,9 
+43:17,20 45:21 a.m 1:18 3:2 43:11 43:23 53:22 23:21 35:16 
+45:23 49:9 58:15 boom 51:20 54:15 57:22,23 36:10 40:2 
+
+arises 30:1 botched 57:3 57:24 58:8,14 41:19 51:24 
+Barose 29:7 bound 22:10 58:15 52:22 55:4,8
+
+back 18:25arrangement 38:4 cases 16:11 55:10,12 57:6 
+19:22 24:1254:18 Bowers 57:22,23 23:15 30:8 57:8,9
+25:11 30:12aspects 30:21 Boys 53:1 44:16,16 clarified 21:24 
+33:16 37:336:22 BP 1:3 3:3 case-by-case clarifies 16:9 
+38:19,21,23assert 18:11 breach 3:14 32:2 clarify 16:12 
+39:2,13,18,2334:8 brief 6:1,4,6,7 catch 39:14 clause 4:22 
+42:7 48:24asserting 34:15 8:9 12:9 31:21 catchall 56:25 56:18 
+50:12asserts 34:10 44:17 49:19 57:3,10 clear 12:10 
+
+backdrop 38:951:24 50:20 53:17 catches 57:4 18:23 22:12 
+41:22assess 34:17 57:22 certainly 12:4 41:19 42:1,1
+
+balance 36:24Assistant 1:8,22 briefly 41:6 15:11 17:20 43:18,24 52:14 
+40:1645:17 bring 4:25 5:2 21:8,23 25:7 57:23 
+
+bars 37:23assume 11:16 30:22 42:9 31:10 40:12 clearly 23:8 
+based 24:418:23 23:13 47:15 51:21 37:22 43:15 
+basically 32:2047:17 bringing 42:5 CFR 7:13 33:19 45:3 
+
+33:1assumed 28:2 brings 12:14 change 54:20 coal 55:3 
+basis 32:2assumes 52:18 broad 3:18 charging 46:6 code 13:2 22:18 
+battle 20:23attachment 26:3 14:25 15:16 Chemical 31:3 41:8,9,11,13
+bears 40:1426:6 27:8,18 57:17 chose 36:13 41:15,16,24
+beginning 30:1327:22,22 28:22 brought 5:14,15 chosen 32:6 43:3 
+begins 46:1329:3 30:6 12:16,16 13:4 circumstance collection 48:16 
+begun 52:17attempt 17:23 18:3,5,8 48:14 4:22 come 7:3 47:21 
+behalf 1:20,23attempts 52:12 burden 40:14 circumstances 48:2 51:6 
+
+2:4,7,10 3:7 attorney 13:16 BURTON 1:8 15:15,17 40:19 comes 33:16 
+22:6 49:10audit 7:21 9:2 45:16 57:1 46:13 50:21 
+
+Cbelieve 11:1824:8 32:20,21 citation 6:18 commence 9:19 
+18:10,15,17 C 2:1 3:1 15:19 33:3,12 34:5 cite 57:22 commenced 
+20:14 52:24 calculated 57:734:11,11 38:25 cited 23:6 29:12 5:17 6:24 9:11 
+
+bemused 49:14 call 9:8 12:1 39:11 46:14 31:21 44:17 commencement 
+benefits 25:24 51:11auditing 39:15 civil 3:17 12:25 5:21 31:17 
+
+26:2 called 11:1248:16 13:7 15:8,13 commences 6:2 
+best 44:24 45:4 32:25 34:12authority 4:8 31:1 33:25 6:12,13,22 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 61 
+
+12:22 50:25 16:19 19:25 8:11 11:9,11 corporate 21:16 39:12 
+51:1 20:1,2,5,10 consider 7:9 correct 5:6,19 cut 44:1 
+
+commencing 21:2 26:11,13 22:19 43:1 9:7 10:4 17:9 
+D13:4 31:3 28:17 52:5 35:18 45:22 
+
+D 3:1 
+damages 3:11 
+
+commission concede 8:7 consideration 46:8 
+24:5 38:18 33:3 Counsel 21:1 
+
+committee 4:9,17,25 5:11 concerned 24:11 considering 7:8 25:17 
+5:13 12:2022:18 24:9 concluded 31:9 construction counterclaims 
+14:15 15:342:3,11 concluding 6:22 16:1 17:25 12:13,15 
+52:16Committees conclusion 19:5,10 37:21 couple 26:9
+
+
+42:25,25
+ DARYL 1:2242:10 53:3 38:11 41:22 39:10 41:9 
+2:6 22:5common 44:13 condition 4:24 44:23,25 45:7 course 10:25 
+
+companies 24:5 date 55:12 
+day 14:17 35:15 
+
+5:15 57:15 58:2,3 46:15 54:10 
+24:12 36:25 conduct 56:23 construed 30:15 court 1:1,17 3:9 
+
+deal 32:6 42:15 
+dealt 32:1 
+
+39:20 40:18 confirm 42:3 38:9 49:16,25 3:15 5:12 
+company 1:3,5 confirms 30:16 contains 13:18 12:25 13:17 
+
+debate 14:17 
+16:17,24 
+
+3:4 28:15 conform 10:13 contemporary 15:13,24 16:10 
+37:15 40:15 confront 19:15 25:9 19:2 21:18 
+
+decades 38:22 
+decided 19:25
+
+compensation Congress 3:19 contend 5:17 22:8,13,15,25 
+3:14 3:25 4:17 content 15:4,6 23:1,2,6 25:2 
+
+20:4 34:14complaining 12:25 14:11 contention 3:16 26:14 29:8,16 
+37:151:12 16:23 18:10 context 14:12 30:2,3,21,22 
+
+complaint 7:10 decides 33:3 
+decision 7:12
+
+19:3,25 20:4 15:18 21:7 30:23 31:1,2,5 
+9:9,11,11 21:2,16,17,23 23:7,25 24:3 31:23 41:14,14 
+
+10:14 21:13 
+declined 58:1 
+
+10:11 11:2,4 23:17,22,25 25:9 29:7,10 41:23 42:6 
+11:13 12:1,11 24:3,8,10,17 29:24 30:16 43:5 44:15,22 
+
+deeming 55:12 
+default 9:2 
+
+12:16 14:14 24:19 25:3,6 39:6,9,9 43:8 47:2,13,15 
+22:22 30:19,24 26:16 27:9,9 48:10 49:22 48:8,12,14 
+
+11:14 52:1,23 
+defeated 19:18 
+
+31:4 32:10,12 28:17 29:24 contexts 32:11 49:17 50:5,23 
+33:6,23 34:16 30:7,9 31:25 47:8 56:6 53:18 54:25 
+
+defend 28:1235:6 45:10,12 36:13,25 38:7 context-specific 57:16 58:1,9 
+37:545:19,20 46:1 41:2,21 42:13 23:19 25:4 courts 13:10,19
+
+
+46:6,11,22
+ defendant 13:6 
+14:15,18,19,24
+
+43:6,17 44:19 32:3,6 43:7 13:23 42:6,9 
+47:2,5,9 50:9 48:6,15,22,25 contract 3:12,13 42:24 
+
+14:25 30:20,2350:18 51:7,11 50:11 51:4 4:21,23 12:21 court's 30:8 
+50:9 52:2151:15 52:2,9 52:14,18 53:2 23:20,21 38:3 44:17 53:6,17
+
+
+52:17,18,21,25
+ defendants55:11,14,15,16 38:8 52:16 cover 41:6 
+14:10,1253:9 56:19,20,22,25 56:2,8,14 covered 12:12 
+
+complaints defending 30:23 
+defends 14:18
+
+57:3,3,10 contracting 44:13 47:10 
+46:18 congressional 23:24 55:23 56:1 
+
+15:1 
+defenses 10:24
+
+completely 20:20 contradiction crazy 9:8 
+10:21 14:4 Congress's 26:21 created 21:3,4 
+
+comprehensive 11:14 
+define 49:20 
+
+50:25 51:1 contrary 15:25 40:4 
+48:10,16 congruence 17:25 creates 3:22 
+
+compromise 54:6 
+defined 47:3 
+
+40:17 41:1 control 12:19 17:25 
+13:17 consent 58:4 Conversely credulity 18:9 
+
+Comptroller defines 6:10,19consequences 27:24 current 24:8 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 62 
+
+42:4 51:4 
+definitely 34:16 
+definition 46:17 
+definitional 6:11 
+definitions 
+
+50:24 
+delegate 32:22 
+demand 6:10,19 
+
+7:18,21 10:21 
+11:11,17,18 
+51:4 54:1 
+
+demanding 5:18 
+denies 15:1 
+denominate 
+
+12:21 
+denominated 
+
+12:10,18 
+denominations 
+
+5:24 
+denotes 4:5 
+Department 
+
+1:10,23 16:17 
+19:24 25:14,15 
+26:25 42:21,23 
+54:4 
+
+deprives 57:12 
+depriving 57:21 
+derives 28:1 
+describe 6:24 
+description 9:14 
+designate 14:21 
+despite 44:12 
+destroy 39:21,25 
+
+40:6 
+destroys 40:15 
+destruction 
+
+40:23 
+detailed 20:20 
+determine 12:11 
+
+34:4 
+detour 39:16 
+devices 27:8 
+difference 11:24 
+different 15:15 
+
+26:8 
+differently 
+
+36:19 
+
+diligent 19:16 
+directed 24:8 
+
+48:15 
+disagreed 28:17 
+disagreement 
+
+19:24 
+discrepancy 
+
+32:21 33:2 
+34:4,5,9 
+
+discuss 15:3 
+discussion 30:13 
+dispose 19:15 
+dispute 26:10,15 
+
+26:16,17 27:8 
+27:9 30:9 36:3 
+36:4 44:19,20 
+
+Disputes 23:20 
+56:8,14 
+
+distinction 4:9 
+5:11 
+
+distinguishes 
+22:16 
+
+document 7:24 
+9:16 30:24 
+33:23 51:25 
+52:20 53:7,9 
+
+documents 
+19:15 
+
+doing 8:18 13:5 
+30:10 38:5 
+48:6 57:18 
+
+dollars 24:7 
+doubly 43:18 
+doubt 10:8,12 
+
+44:14 
+draw 44:21 
+draws 5:11 
+due 52:12 
+D.C 1:13,20,23 
+
+E 
+E 2:1 3:1,1 
+earlier 45:10 
+easily 48:12 
+effect 3:24 4:12 
+
+7:18 9:3 10:7 
+10:20 19:11,11 
+
+27:22 57:12,18 
+57:21 
+
+effectively 23:14 
+efficient 48:21 
+either 10:14 
+
+25:10 28:4 
+33:15 34:20 
+38:14 
+
+elements 46:17 
+emphasis 6:18 
+emphasize 48:9 
+enacted 18:6 
+
+23:22 24:2,17 
+24:19 31:16,22 
+32:2 36:16,17 
+38:7 41:3 43:2 
+53:3,3 55:11 
+55:13 56:24 
+57:10 
+
+encompasses 
+3:16 
+
+encompassing 
+50:1 
+
+encourage 19:16 
+50:23 
+
+endeavor 49:11 
+ends 45:14 
+enforce 48:17 
+enforcing 38:6 
+
+38:10 
+engaged 50:17 
+entire 16:1 20:3 
+entirely 13:16 
+
+57:13 
+equivalent 
+
+50:18 
+especially 30:15 
+
+31:1 41:25 
+42:1 44:22 
+
+ESQ 1:20,22 2:3 
+2:6,9 
+
+essential 27:20 
+establish 48:15 
+established 3:10 
+
+53:4 
+ET 1:5,11 
+event 27:11 
+
+evidence 55:14 
+55:16 
+
+exactly 11:10 
+16:23 17:18 
+18:24 25:17 
+
+examination 
+20:20 
+
+example 13:12 
+34:19 41:16 
+54:9 
+
+examples 41:12 
+exception 3:21 
+
+12:13 15:21 
+16:3,4,24,25 
+17:6 18:7 21:3 
+21:4,6,9,24 
+56:16,22 
+
+exceptions 
+56:20 
+
+exclusio 44:5 
+excuse 24:16 
+
+26:18 
+exempt 20:12 
+existed 16:14 
+expect 15:12 
+expire 42:10,17 
+expired 42:19 
+expires 19:19 
+explain 25:22 
+
+36:18 
+explained 42:11 
+
+44:16 
+explanation 
+
+32:23 33:1 
+34:13 36:20 
+
+express 54:19 
+expressing 
+
+41:25 
+expressly 22:15 
+
+31:6 41:10 
+43:6 56:2 
+
+extent 55:15 
+extract 18:2,8 
+
+18:13 19:8 
+
+F 
+faces 44:19 
+
+fact 4:20 6:22 
+7:16 8:5 10:20 
+11:7 12:8 13:9 
+15:22 17:4,17 
+17:23 21:19 
+34:5,15,22,23 
+42:20 44:12 
+50:16 51:12 
+55:13,16,18 
+56:3 
+
+facts 15:20,21 
+fail 11:14 
+fails 7:20 8:24 
+failure 8:11 9:1 
+
+9:2 10:24 52:1 
+52:22 
+
+fair 46:12 
+far 6:22 50:11 
+farther 39:13,18 
+fast-forward 
+
+24:13 
+Fausto 16:11 
+
+18:25 
+favor 40:16 
+favorable 19:7 
+
+36:25 
+Federal 13:12 
+
+36:23 41:19 
+fifth 22:20 
+figure 35:21 
+file 9:7 13:14 
+
+31:8 
+filed 13:17 21:25 
+
+46:15 47:12 
+53:11 
+
+files 10:23 
+filing 11:12 
+
+12:22 31:4,4 
+54:8 
+
+final 7:14 
+finally 3:23 7:11 
+
+19:10 48:9 
+57:14 
+
+find 23:12 44:18 
+53:24,25 55:23 
+
+finding 6:15 
+13:1 55:22 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 63 
+
+findings 24:4 functional 50:18 goes 31:6 imposes 32:13H 
+fine 53:7 functionally going 18:25 imposing 28:19half 24:7 
+finish 43:4 33:23 27:11 29:24 inclined 22:19handled 17:14 
+first 3:18 7:12 functions 52:20 32:11 36:5 include 6:19handling 42:23 
+
+7:24 8:1,25 fundamental 39:15 40:14,16 7:20 14:25happened 38:23 
+9:16,18 10:14 48:5 41:21 42:15 54:939:17 
+10:23 13:14 further 21:14 44:25 53:10 included 4:14happens 8:8 
+22:13,23 26:10 22:1 44:21 55:8 inclusio 44:5hard 21:15 
+30:18 32:20 58:11 gold 55:3 inconsistencyharder 39:22 
+33:22 37:14 future 54:20 good 24:1,22 40:3hat 9:13 
+38:24 40:9,18 28:15 29:21 inconsistenthear 3:3G48:15 50:19 govern 13:22 3:18,19 19:5 help 34:17G 3:151:23 52:2 42:2,22 45:9 incorrect 3:17hierarchy 3:23 gas 36:9 54:21 fit 9:14 governed 22:21 independent18:1 19:1,2,4,6
+
+55:3focus 17:19 Government 24:4high 57:7gather 32:1824:10 25:7 3:11 7:20 Indian 36:9 55:2 historic 38:4geared 15:7,7FOGRSFA 12:13,15 15:17 Indians 37:2historical 5:23Gee 37:1550:24 53:4 15:19,20 18:2 39:238:9 52:11general 1:22 8:6 followed 10:6 18:4,11 19:6,8 indication 39:24historically 24:5
+19:25 20:1,5following 13:3 19:15,16 20:16 41:231:23 37:19
+20:13 26:11,1334:12 47:13 22:9 23:15,21 indicationshistory 20:19,23
+28:17 50:8,10follows 5:21 25:24 26:1,4 12:24Honor 6:17 16:9 
+50:20forcibly 19:8 27:16 30:1,5 individual 10:1716:19generally 21:10forcing 37:23 36:23 37:12,20 19:14honors 24:6
+21:19forever 18:9 37:23 38:2,4 individuals 18:3hope 12:4,6general's 13:16forfeiture 10:24 38:14,16,18,21 19:9House 42:25
+20:2 49:18forgot 16:17 39:11 40:14 industry 51:23hundred 37:6,12getting 24:11form 16:14 42:25 48:14 inference 17:337:16
+37:3formal 11:4 35:6 50:6 51:24 21:8 44:22hung 9:13Gibson 23:152:3 52:16 53:13,20 informal 8:7hybrid 51:21,22
+49:16,19 50:7 forward 27:11 53:24 55:9 9:25 10:5,9,19
+
+Ginsberg 30:20 I29:25 36:5 56:8 57:4 58:2 information 
+Ginsburg 12:2340:14 55:8 Government's 34:3,17 39:20 identified 41:12 
+
+14:11,20 15:4 found 11:5 24:3 3:23 15:25 46:10ignore 10:6,21
+15:6 16:6,1531:19,21 17:24 19:5,10 initial 9:2310:25 11:1 
+16:21 38:17founded 3:12 35:16 49:15,24 10:21 11:25illustrates 32:9 
+46:2,4 54:16 12:21 52:16 55:7 57:2 12:22 32:16immunity 13:20 
+54:2556:2 governs 23:20 40:14 45:19implausible
+
+give 10:17 20:11 Fourth 22:18 25:2 32:10 initiates 30:2457:10 
+29:14frankly 27:5 36:22 45:8 33:24implied 56:3 
+
+given 46:25fray 21:3 grant 9:9 insistence 49:15implies 28:6 
+gives 31:10free 57:4 great 32:7 42:12 instances 23:6import 44:11 
+giving 8:1,3frivolous 20:15 42:14 23:17importance
+
+11:25 54:8frolicking 39:16 greater 39:19 intended 3:2438:10 
+go 19:8,22 38:19 front 42:6 56:17 Grisa 5:24 6:21 18:12 19:11important 20:11 
+
+39:13,18,2256:18 guess 29:6 43:12 49:23 57:2126:9 27:4 
+48:24function 52:2 intent 41:2539:10 45:2,12 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 64 
+
+42:1 29:22 31:14,19 20:7,17,19,25 know 7:10 15:19 lapse 35:4,8 
+interest 1:4 32:19,25 33:8 21:5,11 22:3,7 15:20 19:14 large 57:11 
+
+37:24 38:6,11 33:11,14,21 23:4,10 24:14 23:11 29:17 late 14:17 25:13 
+57:6,7 34:7,10,22,25 24:16,21,23 33:10,11 35:2 Laughter 18:19 
+
+interested 15:18 35:3,5,10,13 25:13,13,15,16 35:7 37:6,16 49:8 
+INTERIOR 35:19,22,24 26:12,16,18,25 43:22 44:4 law 4:21,23 
+
+1:11 36:2,6,12,16 27:12,19,20,24 47:6 51:9,15 11:22 23:16 
+interpret 27:4 36:20 37:8,14 28:9,13,15,24 53:12 55:22 25:1 37:11,19 
+interpretation 37:17 38:3,15 29:1,3,9,11,14 known 15:22 37:23 38:6,10 
+
+17:8 54:21 38:20 39:3,6,8 29:17,21 30:20 knows 56:22 56:3 
+introduce 52:12 40:5,9,12 31:12,15 32:16 lawful 40:22 
+
+Lintroduces 55:6 43:14 44:3,14 32:24 33:6,9 lawfully 39:21 
+labeled 46:22introducing 45:1,22,25 33:13,16 34:6 lawsuit 15:8 
+laches 38:1557:20 46:3,8,23 47:7 34:8,19,24 lay 48:7 
+LaFranca 16:11involve 22:22 47:12,22,24 35:2,4,7,12,14 lease 24:9 54:18 
+Lamken 1:2055:2 48:3,5 49:5 35:20,23 36:1 leases 36:9 
+
+2:3,9 3:5,6,8 involving 39:1 judgment 26:5,8 36:4,5,7,15,17 48:19,25 54:21 
+4:5,20 5:6,10 irrational 41:25 27:16 28:21 37:5,9,15,25 55:1,2
+5:19,23 6:4,7,9 irrationality 29:5,8 30:6 38:13,17 39:1 leasing 24:4,20
+6:17 7:7,16,243:22 18:1 judicial 3:17 39:5,7,24 40:6 39:6,8,9 56:21 
+8:2,5,14,17,20isolation 45:5 13:19,22,25 40:11 42:21 leave 40:23 
+8:23 9:7,15,21issue 7:25 8:24 18:2 22:17 43:10,15 44:4 43:12 
+9:24 10:4,9,1120:21 21:2 26:23 41:8,9 44:24 45:18,24 leaves 57:4 
+10:15,18 11:3 27:13 29:25 41:11,13,15,24 46:2,4,19 47:4 left 49:7 
+11:6,9,18,2232:23,24,25 43:2 49:21 47:10,17,23,25 legal 7:17 9:3 
+12:4,6,8,2333:3,4,8,14,22 50:1 57:4 48:4 49:5,12 10:7,20 11:9 
+13:8 14:2,4,6,834:1,12,18,19 judiciary 4:3 50:13 51:5,9 11:11 21:1 
+14:23 15:5,1135:1,8,15,24 13:2 42:24 51:14,15,19,22 25:17 37:18,18
+16:8,19,2346:5,9 50:15 Justice 1:23 3:3 52:4,8 53:10 legally 32:12 
+17:2,12,15,1850:17 3:8 4:4,6 5:3,9 54:3,5,7,11,16 51:25 
+17:22 18:16,21issued 6:20 8:1 5:17,20 6:3,6,8 54:25 55:19,21 legislate 41:21 
+18:24 19:20,2125:11 45:17 6:15 7:1,8,23 56:10,13,15 legislation 36:21 
+20:4,18,22issues 7:9 34:12 7:25 8:3,12,16 58:13 42:21 43:4,11
+21:1,6,15 49:6 40:24 46:5 8:19,21 9:4,8 juxtapose 31:6 legislative 20:19 
+49:9,11 50:13 issuing 10:3 9:15,20,22 juxtaposes 20:22 
+50:16 51:8,1410:2,8,10,12 47:15 lessee 7:19 
+
+J 51:18,21 52:7 10:16,25 11:4 lessees 36:24 
+KJEFFREY 1:20 52:10 53:1511:7,10,16,21 lessor 9:17 
+
+2:3,9 3:6 49:9 keep 40:10,18 54:6,7,10,1311:23 12:5,7 letter 7:4,18,19
+Joseffer 1:22 2:6 KENNEDY 54:24 55:1,2012:23 13:24 7:21,21 8:1 9:2 
+
+22:4,5,7 23:9 19:20,22 39:1 56:5,12,14,1614:3,5,7,11,20 9:3,23 10:21 
+23:16 24:15,18 39:5,7 58:1315:4,6 16:2,6 11:11,12,17,19
+24:22,25 25:15 kept 40:20 LAND 1:916:15,17,20,21 11:25 32:16,18
+25:19 27:2,15 key 22:14 30:18 lands 55:217:1,7,13,16 32:23,24 33:1 
+28:8,10,14,16 47:1 language 3:1917:19 18:15,17 33:4,8,14,22
+28:25 29:2,6 kind 56:3 49:22 52:1018:20,21,22,25 34:1,13 35:8 
+29:10,13,15,19 knew 48:25 57:1719:20,22,25 35:15,25 45:19 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 65 
+
+46:5,9 50:15 long 15:2 38:19 meant 39:3 normally 45:14 oh 8:23 12:4 
+53:6,13,16,22 longer 19:14 member 21:17 notice 9:17 14:2 24:21 
+53:25 54:1,1,9 31:24 40:20,22 21:17 23:1 52:21,25 37:13 43:22 
+
+letters 20:23 40:25 mentioned 7:17 notion 39:15 oil 36:9,25 55:3 
+34:20 look 44:9 48:24 16:2 43:2 54:11 okay 21:5 36:1 
+
+let's 47:17 50:15,23 mentions 20:23 notwithstandi... 43:18 
+level 10:14 looked 4:7 merits 50:20 56:17 OLC 25:19,23 
+liability 8:24 looking 25:23 messing 55:22 No.05-669 1:7 26:2,3,10,19 
+liable 11:5 15:3 30:7 mind 12:25 number 23:5 27:2,4 28:6,11 
+likes 38:19 looks 54:12 mineral 24:4,19 42:12 50:9 28:14,16,18,25 
+
+51:23 loophole 57:11 56:21 29:7,22 30:3 
+Olimit 16:22 lose 11:13 45:20 minerals 1:9 53:11,16 54:8 
+
+O 2:1 3:1 38:17 43:11 53:5 36:10 55:3 OLC's 27:14,15
+obtain 30:5,6limitation 36:18 lot 31:24 32:11 minutes 49:7 27:21 
+obtained 29:842:5 49:23 mistake 18:22 old 24:10 25:7 
+
+M obtaining 26:5,654:22 18:23 48:24 57:8 
+making 19:7 27:16,18limitations 3:10 modified 56:21 once 13:17 
+
+43:17,23 obviously 31:236:23 12:12 moment 57:14 16:13 19:18 
+managed 57:1 occurral 47:1419:12,19 20:12 monetary 3:14 Oneida 39:2 
+MANAGEM... occurs 25:2220:13 22:10 money 3:11 4:9 ones 31:19,20
+
+1:10 October 1:1423:14,19,23 4:16,25 5:10 Ooh 20:9 
+mandatory odd 29:23 51:11 24:1 25:5,8,10 5:12 7:5 12:20 opening 54:2 
+
+40:10 52:11,1331:16 32:10 18:2,5,8,12,13 opens 54:3 
+manner 48:21 oddity 55:636:9,11,16 19:8 25:25 operative 7:18 
+material 53:11 offensive 18:2,737:20 38:1,5,8 37:13 51:13 9:3 10:7,20
+materials 34:20 offer 29:1740:2,21 41:4 52:15 51:25 
+matter 1:16 offered 29:1541:17 42:16 money-damages opine 26:13 
+
+36:21 38:21,22 53:1643:7 49:2 51:3 5:1,12,13 opined 26:2 
+40:13 58:16 Office 21:153:4 54:19 opinion 7:14,15
+
+Nmatters 43:1 25:1655:13,17,24,25 25:16,19 27:4 
+mean 4:13 9:20 N 2:1,1 3:1 officer 23:2456:4,8 57:11 28:11,14,25
+
+10:13 11:4 narrow 57:16 official 52:357:12,24 58:8 29:7,11 30:4 
+26:21,23 28:12 narrowing 58:2 offset 3:21 16:14 limited 21:4 53:11 54:8 
+28:22 31:23 necessarily 16:22 17:14,1725:19 26:11 opportunity
+32:9 33:10,11 54:14 17:20,21 18:6 27:3 45:16 7:11 8:4 10:17 
+33:23 36:13 necessary 13:21 25:22 27:14,2149:21 50:5 11:25 
+38:3 39:8 40:3 need 39:13 28:20line 6:20 optional 40:9 
+40:13 41:6,24 needs 56:24 offsets 12:13,15linkage 41:5 oral 1:16 2:2,5 
+43:15 44:14 negative 44:21 16:3,4,25 17:5 literally 10:2 3:6 22:5 
+45:1 47:6 never 38:16,22 18:4,12 20:10 litigation 42:23 order 5:18 6:1 
+49:16 55:22 39:17 41:4 21:7 25:21little 14:17 6:10,13,19,21
+
+meaning 16:12 43:4 45:21 26:12,15,20,2443:13 6:25 7:3,9 8:1 
+22:20 30:17 49:1 27:3,7 28:5,6 located 22:17 8:13,15,24,24
+49:13,17 new 51:2 44:241:8 9:5,6,9,14,19
+
+meanings 22:14 Nonadversarial oftentimeslodge 29:15 10:3,23 12:1 
+30:14,18 47:1 5:7 30:10 39:1953:16,18 12:18 32:12,13 
+
+means 44:6 45:6 normal 44:4 44:18logic 28:9,11,11 32:17 33:4,18 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 66 
+
+35:9 37:3 particular 4:22 pleading 31:5 58:7 13:7,7 14:21 
+45:11,13,17,19 15:15 19:13 please 3:9 22:8 prepared 6:23 17:4,9,11,21 
+45:25 46:14 20:21 54:18 34:13 preserved 46:1 21:10,21,25 
+50:14,22 51:3 particularly plus 46:14 57:6 presumably 22:16,21 23:3 
+51:12,19 53:2 51:23 57:17 point 4:6 5:3 28:1 23:8,12 26:20 
+54:1 party 8:3 12:14 11:15 12:23 presume 19:3 26:23 27:1 
+
+orders 25:10 14:22,24 24:15 26:23 presumption 28:3,7 30:25 
+48:18 54:22 pay 6:1,11,13,19 29:7 31:10 22:9,11 31:9,18 33:24 
+
+ordinarily 16:13 6:22,25 33:4 34:14 45:2,12 presumptively 41:10,18 42:2 
+19:3 22:24 46:14 51:4,13 46:1,4 48:5 30:14 42:8,10,13,18 
+23:18 30:21,23 51:20 53:2 51:16 57:23 pretty 23:13 43:16,19,22 
+31:4 41:23 54:2,22 pointed 16:11 36:24 44:12 45:8,14 
+47:3 payee 7:4 26:17 30:20 prevail 45:7 46:13,25 47:16 
+
+ordinary 12:25 paying 18:5,12 44:23 56:10 49:21 50:2,4,6 
+19:4,6 22:14 payment 5:18 points 22:23 primary 46:23 51:1,2 52:3,13 
+22:20 30:14,17 19:7 26:9 37:18 prior 5:1 55:9 53:8 54:2,3,17 
+30:18 46:17 penalty 41:17 39:10 41:7 55:12 58:5 
+47:1 48:7 pending 32:14 56:9 private 12:14 process 7:16 8:7 
+49:13,17 People 13:14 point's 29:22 18:3 19:9 9:25 10:6,9,19 
+
+original 16:7 period 3:10 12:2 policy 41:3 probably 27:6 15:10 27:23 
+outset 21:21 12:3,12 19:19 position 26:24 37:1 52:12 
+outside 15:8 20:12,13 23:19 27:2,14,21 problem 21:12 production 1:3 
+
+56:23 23:23 24:1 28:6 36:8 21:13 28:18,19 1:5 3:4 55:5 
+overall 42:22 25:5,10 32:3 49:18 50:14 28:20 proffered 58:2 
+overcome 22:11 36:9,18 37:20 54:16 55:7 problems 39:19 promptly 28:17 
+overruled 30:4 38:8 41:4 possible 19:23 39:23 proof 39:19,23 
+owe 7:5 33:13 42:17 49:2 21:20 37:10 procedural 40:15 
+
+33:17,18 37:13 57:11,12 53:21 47:20 proposed 20:7 
+39:21 46:6,7 periods 13:5 possibly 4:13,14 procedurally 42:21 
+
+owed 8:4 25:24 40:18 43:8 13:25 26:19 28:19 proposition 
+25:25 permissible 12:2 practical 36:21 procedure 10:13 26:21 
+
+O'Gilvie 30:8 perpetuity 18:9 37:18 38:22,24 32:8 42:15 prospective 
+44:16 18:16 55:10 40:13 43:1 47:8,18 36:14,21 
+
+57:5 practice 32:17 procedures 43:9 prospectively
+P persist 55:10 precedent 4:24 proceed 8:15 24:2 38:8 
+
+P 3:1 57:5 5:16 57:5 prove 11:1 
+package 36:24 person 14:18 precedes 32:17 proceeding 4:15 provide 19:13 
+
+42:22 15:3,8 25:25 precisely 48:25 4:16,24 5:2 7:2 26:8 34:13 
+Packers 14:13 25:25 30:23 55:11 57:5,6 9:10 17:3 31:7 provided 43:6 
+page 2:2 6:4,6 Petitioner 3:7 58:8,10 31:11 41:18 49:1 52:25 
+
+6:17 12:9 23:6 25:17 preferences 44:1 46:20 56:19 57:3 
+49:19,24 57:22 45:20 19:2 47:5 48:13 provides 7:13 
+
+pages 5:25 Petitioners 1:6 prejudgment 54:14 9:17 23:18 
+part 16:6 32:7 1:21 2:4,10 26:3,6 27:8,18 proceedings 25:4 37:12 
+
+35:17 42:22 29:15 41:12 27:22 28:21 4:11,19,21 5:4 52:21 
+43:2 45:4 48:11 29:1,3 30:5 5:7,15 6:2 9:12 providing 4:11 
+
+partial 24:2 49:10 premise 57:2 9:19 12:22 16:24 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 67 
+
+provision 3:12 rate 57:8 refer 4:1,10,18 24:11 58:7 review 13:20,22 
+3:20 4:8,10 ratified 48:23 9:22 22:14 request 33:1 right 4:8 5:9 7:6 
+13:1,3,13 15:7 reach 38:21 58:9 30:21 41:23 46:10 11:3,10 12:5 
+16:1 18:6 read 13:3 16:13 reference 31:3 requesting 13:19 15:11 
+21:20 28:1,1,7 20:15 22:10 referred 5:22 32:23 34:16,17 16:23 17:18 
+41:15,24 42:12 23:11,13 30:10 42:24 requests 53:19 18:24 20:1,5 
+51:6 52:19 44:6,7,10,15 referring 24:19 require 9:25 22:24 27:14 
+53:5 57:2,19 44:18 49:22 refers 4:20 13:6 40:20 57:16 30:19,21,22 
+
+provisions 6:11 reading 20:3,16 22:24 23:2 required 4:21 32:19 34:24 
+13:11 17:10 37:10 31:4 33:19 7:3 8:25 9:18 37:17 45:16 
+24:20 41:9 reads 21:19 41:13,18 47:13 11:19 47:14,14,19 
+43:20 58:4 really 28:16 47:14 requires 4:23 48:2 54:13,24 
+
+psychoanalyzi... 37:9 44:25 reflects 35:5 8:7,10,12,14 55:1 56:5 
+21:16 46:12 Reform 42:25 reserve 22:1 rights 7:20,22 
+
+public 37:24 reason 16:16 reforms 42:22 resolve 30:9 robs 3:23 
+38:6,10 24:3 31:22 regardless 5:2 44:20 royalties 24:6 
+
+pull 39:15 36:12 37:21 regime 56:7,22 resolved 16:24 38:19 39:20 
+purpose 19:12 38:15 39:17 register 10:24 26:17 27:10 48:20 
+purposes 19:17 42:11 44:3,21 regularly 4:1 resolves 44:21 royalty 48:13 
+
+19:18 45:9 46:25 regulations 7:17 resources 38:25 rule 4:12 38:4 
+pursue 23:21 48:13 8:6 9:16,18,22 39:11,16 44:4 48:8 
+
+30:1 reasonably 9:24 54:4,4 respect 14:10 rules 47:20 
+pursued 3:15 15:20,22 49:25 REJANE 1:8 19:4 27:13 53:17 
+pursuing 19:17 reasoning 25:20 relates 27:1 28:4,6 33:22 ruling 33:18 
+
+30:2 28:14,23 29:23 relationship 34:1 46:16 run 31:8 
+pursuit 22:24 reasons 3:18 36:23 respond 7:6,11 running 51:3,10 
+put 12:2 19:3 5:23 22:13 relatively 57:7,9 7:19 8:10,11 52:19 
+
+28:13 41:23 24:1 30:17 relevance 42:20 9:1,1,2,5 11:8 
+S34:25 38:24 relevant 43:8 11:10,12 52:1 
+
+Q S 2:1 3:1 39:13 46:25 relief 30:25 52:23 53:1 
+quality 51:21,22 salvo 8:25 52:2 58:9 32:13 33:25,25 RESPONDENT 
+quarter 45:15 54:2rebuttal 2:8 34:3,16 46:9 22:6 
+question 23:10 sample 53:1222:2 49:9 57:6 Respondents
+
+28:4,5 30:3 satisfy 46:16recognized 9:16 reluctant 37:9 1:24 2:7 
+questions 22:1 saw 21:12 28:20 9:21 30:8 31:2 remainder 22:2 responding
+
+49:4 58:11 saying 4:7 7:4 50:7 renaming 48:1 10:22 14:21,24
+quite 5:24 39:2 18:10 21:18recognizes 6:21 rendered 21:13 29:24 
+quoted 5:24,25 31:7 42:8,14record 34:23 58:4 response 7:9 
+
+42:16 46:1935:3,6 53:23 rendering 57:18 33:7,16 52:5,8 R 50:20 51:13records 37:16 renders 3:20 result 36:8
+R 3:1 says 6:3,13,1839:21,25 40:7 16:1 39:15 52:11,23
+raise 11:14 37:15 43:2540:19,23 reply 6:1,7,8,17 55:11 58:10
+raised 34:4,11 56:17,19records-retent... 10:17 11:25 resulted 58:5
+
+50:19,19 Scalia 5:3,9,1741:3 49:24 57:22 results 52:1
+raises 17:3,24 5:20 6:3,6,8,15recovery 23:18 reports 22:18 retirement
+
+21:8 7:1,8,23,25 8:3 25:3 24:9 42:3 25:24 26:2
+raising 46:5 8:12,16,19,21reduce 26:1 repose 19:13 reveals 32:21 
+ran 35:19,22,24 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 68 
+
+9:4,8,15 10:8 
+10:10,12,16,25 
+11:4,7,10,21 
+11:23 12:5,7 
+13:24 14:3,5,7 
+16:2,20 17:1,7 
+17:13,16,19 
+18:15,17,20,22 
+18:25 20:7 
+23:4,10 24:14 
+24:16,21,23 
+25:13,16 26:18 
+27:20,24 29:9 
+29:11,14,17,21 
+32:16 33:6,9 
+33:13,16 34:6 
+34:8,19,24 
+35:20,23 36:1 
+37:5,9,15,25 
+38:13 39:24 
+40:6,11 43:10 
+43:15 44:4,24 
+45:18,24 47:4 
+47:10,17,23,25 
+48:4 51:5,9,14 
+51:15,19,22 
+52:4,8 53:10 
+55:19,21 56:10 
+56:13,15 
+
+scheme 40:4 
+48:11,23 49:1 
+49:3 
+
+scope 16:10 
+52:14 
+
+second 19:23 
+22:15 34:1 
+50:14 
+
+Secretary 1:9 
+3:4 6:20 8:15 
+14:16 40:20 
+45:17 
+
+Secretary's 8:17 
+section 3:10,24 
+
+6:5 11:15 12:8 
+13:18 16:2 
+17:10 19:22 
+20:14 22:11,21 
+
+25:1 27:17 
+38:7 43:21 
+44:8,8 49:20 
+49:25 55:10 
+56:24 
+
+see 25:2 28:18 
+28:18 
+
+seek 32:13 34:3 
+seeking 3:14 
+
+30:25 33:25 
+seeks 34:3 
+send 32:22 
+sense 7:2 40:8 
+
+43:8 44:17 
+48:7 52:12 
+
+sensible 4:17 
+19:1,2 
+
+separate 13:16 
+56:6 
+
+September 55:5 
+55:5,8 
+
+service 15:10 
+SG 8:8 
+show 37:12 
+shows 39:20 
+sides 29:12 
+significantly 
+
+26:7 
+silver 55:4 
+simply 17:5 18:9 
+situation 25:23 
+situations 36:19 
+
+40:24 56:23,25 
+small 21:12,13 
+solely 13:1 
+Solicitor 1:22 
+
+8:6 49:18 
+50:20 
+
+somewhat 29:23 
+49:14 
+
+soon 53:21 
+sorry 10:22 
+
+31:15 
+sort 4:23 17:2 
+
+17:25 21:16 
+sounds 7:10 
+
+33:6 
+
+sources 40:15 
+SOUTER 4:4,6 
+
+9:20,22 10:2 
+27:12,19 28:9 
+28:13,15,24 
+29:1,3 31:12 
+31:15 
+
+so-call 6:21 
+special 20:11 
+specialized 
+
+56:23 
+specific 16:16 
+
+25:4 26:16,17 
+30:9 44:19,20 
+56:15 
+
+specifically 6:1 
+23:22 26:14 
+53:18 
+
+spoke 26:24 
+standalone 49:1 
+
+49:2 
+standards 13:21 
+start 10:2 43:4 
+
+49:13 
+started 53:8 
+starting 13:8 
+starts 51:10 
+state 6:1 32:22 
+
+51:24 
+States 1:1,17 
+
+13:4 15:9 56:2 
+stating 30:25 
+
+33:24,24 
+statue 30:9 
+statute 4:12 5:11 
+
+6:23 11:17,19 
+16:7,10,12 
+17:24 19:11,12 
+19:18 20:3,11 
+20:13 21:9,23 
+21:24 22:10,15 
+23:14 25:8,24 
+26:14,22,25 
+30:15 31:6 
+32:9 36:10 
+37:11,22 38:1 
+40:2,21,24 
+
+41:17 42:4,7 
+44:6,15,18,20 
+45:2,8 47:15 
+51:2 52:15 
+53:4 54:19 
+55:13,17,24,24 
+56:4,7 57:12 
+57:15,21,24 
+58:3,7 
+
+statutes 16:13 
+19:12 21:18 
+23:7 31:17 
+38:5 44:7 
+
+statute's 22:17 
+22:19 
+
+statutory 3:20 
+22:14 27:5,5 
+30:19 40:4 
+45:5 47:1 
+49:22 57:17,20 
+
+stayed 32:14 
+stepped 21:3 
+steps 32:20 
+Stevens 3:3,8 
+
+11:16 20:17,19 
+20:25 21:5 
+22:3,7 26:12 
+32:24 35:2,4,7 
+35:12,14 36:4 
+49:5,12 50:13 
+54:5,7,11 
+58:13 
+
+Stockyard 14:13 
+stop 52:19 
+stops 51:3 
+strains 18:9 
+strange 5:24 
+stray 41:9 
+strengthened 
+
+48:23 
+strict 37:21 
+
+38:11 40:17,25 
+41:22 44:23,25 
+45:6 57:15 
+58:3 
+
+strictly 30:15 
+38:9 
+
+strong 17:3 21:8 
+strongly 22:19 
+
+42:3 
+structure 3:20 
+
+19:3 23:16 
+25:1 57:20 
+
+structured 
+46:21 
+
+stuff 37:6 44:10 
+50:21 
+
+subject 16:22 
+submission 
+
+23:23 46:24 
+submitted 12:17 
+
+58:14,16 
+submitting 
+
+41:20 
+subsection 
+
+15:19 20:6,6 
+21:21 57:19 
+
+subsections 5:25 
+subset 4:16 
+SUCCESSOR 
+
+1:4 
+sufficiently 
+
+14:25 15:16 
+suggest 20:15 
+
+54:5 
+suggests 17:20 
+
+49:22 
+suit 30:1,2,22 
+
+31:1,5 41:14 
+41:14,18 47:13 
+47:15 56:1 
+
+suits 22:12,15 
+23:2 25:2 
+26:14 30:21 
+31:24 38:2 
+41:23 43:5 
+47:2 48:8 
+
+superfluity 
+21:20 
+
+superfluous 
+3:22 14:6 16:1 
+21:22 57:19 
+58:5 
+
+supplemental 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 69 
+
+53:11 48:7 50:8,10 28:4,5 31:8,12 9:25 10:6 v 1:7 22:25 
+supplementary 50:10 53:16 31:15,22 32:2 12:15 valuable 57:8 
+
+4:12 text 3:25 44:10 35:4,8 41:11 variety 32:7 
+Usupport 22:19 56:1 41:12 42:5,9 36:22 42:12,14
+
+ultimately 29:5Supreme 1:1,17 textual 41:7 45:15 50:19 vast 24:12 
+undergirdedsure 31:20 thank 3:8 22:3 51:23 52:13 verbal 4:9 
+
+58:7surplusage 49:5,11 58:11 timely 35:16 versus 49:16,19
+undermined29:25 58:13 time-barred 50:7 
+
+58:6system 24:6 theoretical 26:4,5 27:16 view 27:15 
+undermines48:16 38:20 27:17 28:21,22 50:25 51:1 
+
+19:11systems 43:7 theory 27:6,12 30:2 53:7 
+underpaying32:4 timing 27:23,25 violation 39:14 
+
+T 24:6the-board 48:8 27:25 virtually 57:23 
+T 2:1,1 underpaymentsthing 27:4 44:24 title 13:1,2,18,23 Vonn 30:8 44:16 
+table 42:16 24:1247:21 48:9 14:7,9 
+
+Wtake 9:5 56:23 understand 4:752:24,25 today 39:16 
+taken 26:25 7:2 25:9 35:17 Wait 24:14things 8:18 told 48:23 
+
+45:15 54:18 43:17,19 49:6 waive 7:19,2213:18 15:12 toll 11:17,19
+58:14 understood 7:2533:22 40:3 tolling 13:5 15:6 
+
+takes 56:20 55:16 waiver 13:2043:18 48:1 15:21 40:22,25
+talk 14:23 51:7 Unexcelled 31:3 want 40:1056:23 58:8 top 6:18 
+talked 45:11 Unfortunately wanted 4:15think 5:3 7:5,5 Tort 13:12 
+talking 6:12 53:17 49:138:6 9:12 10:4 41:19 
+
+17:20 24:23 unilaterally Washington11:24 18:24 totally 3:21 
+35:17 41:20 26:1 1:13,20,2321:14 25:14 41:25 
+47:18 54:19 unique 23:25 wasn't 16:6 25:7 26:19 28:10 traditional 8:17 
+
+talks 6:10 14:14 27:7 way 8:18 10:5 31:22 33:13,17 treat 36:18 
+15:8 United 1:1,17 20:7,15 23:14 35:10,19,20,21 tried 35:20 
+
+tell 20:19 21:17 13:4 15:9 56:2 25:14 29:1135:23 36:2,25 tries 10:19 
+50:24 unius 44:5 33:15 37:1337:11 44:3 triggers 51:2 
+
+telling 25:6 universally 23:5 41:25 43:2045:18 47:6,23 trouble 53:2 
+tells 13:5 universe 54:17 44:7 48:1857:10 true 11:16 20:2 
+term 4:1,3 9:11 unpublished ways 39:2 45:11 thinking 25:7 39:3 41:8 51:5 
+
+13:6 14:10,11 29:12,13 46:1241:4 51:6 52:4 
+14:20,24 15:1 urge 25:18 Wednesdaythinks 20:10 53:15 58:9 
+22:23 23:1,7 urging 26:22 1:14Third 22:17 try 18:4 39:18 
+27:5,6 49:14 use 4:1 23:7 weight 31:10thought 16:15 39:22 54:6 
+49:15,20,24 42:6 44:13 weird 5:20 52:6 25:25 26:4 trying 42:1 
+50:3,3 49:7 went 25:11 27:9 27:19 28:20 44:17 
+
+terminology uses 6:23 8:8 37:6 39:240:1,1 45:19 turn 6:11 
+42:6 50:11 West 22:25thoughts 50:14 Turning 3:25 
+
+terms 3:12 19:7 usually 51:15 49:16,18 50:7 thousands 48:19 turns 53:23 
+22:14 25:20 U.S 41:16 42:5 we'll 3:3 29:19 three 3:18 32:20 twice 13:6 
+26:11 30:12,13 U.S.C 6:9,18 54:11time 10:23 12:1 two 35:11 36:19 
+30:19 31:2 13:8,11,12 we're 24:2313:3 16:22 41:5 
+41:22 45:3,5 14:14 20:12,14 35:16 39:1518:10 21:15 typical 14:20 
+47:1,16,18,19 42:15,16 53:10 22:2 27:13 typically 8:8,9 V 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 70 
+
+we've 34:11 100 38:23 25 49:19 
+38:23 100-percent 28 13:1,8,10,12 
+
+whatsoever 31:20 14:7,9 20:14 
+21:22 11 49:7 41:16 
+
+wide 36:22 
+win 11:23 
+
+11:06 1:18 3:2 
+11:59 58:15 3 
+
+word 6:24 8:8 13 6:9,18 3 2:4 
+41:11,13 44:13 16 16:8 57:22 31 20:12 
+47:8 
+
+words 42:13 
+work 15:14 16:4 
+
+21:22 32:11 
+works 25:2 
+
+1702 5:25 6:5 
+1702(A) 50:24 
+1724 5:25 6:9 
+
+50:24 
+1724(b) 6:18 
+
+4 
+4 1:14 12:9 
+4515 31:13 
+49 2:10 
+
+wouldn't 4:17 
+5:10 15:9 
+35:15 54:14 
+
+written 20:6 
+43:20 
+
+wrong 27:6 28:9 
+
+1921 14:13 
+50:12 
+
+1966 32:4 37:19 
+37:25 38:6 
+
+1978 25:13 
+1981 49:25 
+
+5 
+5 5:25 6:7 12:9 
+
+13:2,18,23 
+5-6 6:4 
+50 38:23 39:16 
+
+28:10,11 51:25 
+wrongdoing 
+
+34:2 46:11 
+wrote 52:14 
+
+X 
+x 1:2,12 
+
+1981(a) 49:20 
+1982 25:11 
+
+48:24 
+1996 24:2,13 
+
+36:14,21 55:6 
+55:8 56:21 
+
+2 
+
+6 
+6 5:25 6:7,17 
+
+18:3 39:22,25 
+40:7,19,22 
+49:19,24 51:10 
+
+6-year 23:22 
+40:17 41:3,4 
+
+Y 
+year 35:11 36:3 
+
+42:17 44:8,9 
+48:20 54:22 
+
+years 14:16 15:2 
+16:8 18:3,5,11 
+22:25 25:12 
+37:6,12,16 
+
+2 53:5 
+20 31:15 
+200 39:5 55:9 
+2006 1:14 
+210 14:14 
+22 2:7 
+2415 11:15 
+
+12:19,20 20:14 
+
+7 
+7 14:14 22:25 
+
+25:11 54:21 
+55:9 
+
+7-year 36:8,17 
+53:4 
+
+78 25:17 
+
+38:23 39:5,12 
+39:17,22 40:1 
+40:7,19,22 
+51:10 53:5 
+
+31:14 56:17,19 
+56:22,24,24 
+
+2415(a) 3:10,24 
+13:24 17:8 
+
+8 
+8 25:11 
+85 14:16 15:2 
+
+55:9,9 22:11,21 25:1 9 
+
+$ 
+$9 48:19 
+
+27:17 38:7 
+43:12 47:11 
+55:10 
+
+9 25:11 
+
+1 
+1 53:6 
+1-year 4:11 
+10 18:5,11 
+
+2415(f) 12:8,12 
+2415(i) 16:3 
+2416 13:3 
+2462 41:17 
+
+Alderson Reporting Company 
+
+

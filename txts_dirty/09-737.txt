@@ -1,0 +1,4396 @@
+
+                 
+
+          
+
+                       
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 MICHELLE ORTIZ, : 
+
+4  Petitioner :
+
+ v. : No. 09-737 
+
+6 PAULA JORDAN, ET AL. : 
+
+7 - - - - - - - - - - - - - - - - - x 
+
+8  Washington, D.C. 
+
+9  Monday, November 1, 2010 
+
+11  The above-entitled matter came on for oral 
+
+12 argument before the Supreme Court of the United States 
+
+13 at 10:03 a.m. 
+
+14 APPEARANCES: 
+
+DAVID E. MILLS, ESQ., Cleveland, Ohio; on behalf of 
+
+16  Petitioner. 
+
+17 BENJAMIN C. MIZER, ESQ., Solicitor General, Columbus, 
+
+18  Ohio; on behalf of Respondents. 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+1
+ 
+Alderson Reporting Company 
+
+
+
+                                
+
+                     
+
+                   
+
+                    
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF PAGE 
+
+3 DAVID E. MILLS, ESQ. 
+
+4  On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+6 BENJAMIN C. MIZER, ESQ. 
+
+7  On behalf of the Respondents 25 
+
+8 REBUTTAL ARGUMENT OF 
+
+9 DAVID E. MILLS, ESQ.
+
+ On behalf of the Petitioner 52 
+
+11 
+
+12 
+
+13 
+
+14 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+2
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (10:03 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+4 first this morning in Case 09-737, Ortiz v. Jordan.
+
+ Mr. Mills. 
+
+6  ORAL ARGUMENT OF DAVID E. MILLS 
+
+7  ON BEHALF OF THE PETITIONER 
+
+8  MR. MILLS: Mr. Chief Justice, and may it 
+
+9 please the Court:
+
+ Denial of summary judgment is not reviewable 
+
+11 on appeal after trial, especially where the decision 
+
+12 depends on whether the evidence on the merits of the 
+
+13 claim is sufficient to cross the legal line for 
+
+14 liability. In this case -­
+
+CHIEF JUSTICE ROBERTS: I'm sorry to 
+
+16 interrupt so quickly, but that especially, I take it -­
+
+17 I take it, is a concession that there's a difference 
+
+18 between claims for qualified immunity based on evidence 
+
+19 and claims that are based on law.
+
+ MR. MILLS: Well, there's a difference 
+
+21 between defenses that depend on the evidence at trial. 
+
+22 What I would say about qualified immunity is that, to 
+
+23 the extent any court of appeals is going to enter 
+
+24 judgment based on qualified immunity, it needs to 
+
+understand the conduct of the officials in the case. 
+
+3
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 And so you're always talking about the evidence of that 
+
+2 conduct. 
+
+3  JUSTICE KENNEDY: Well, of course there's 
+
+4 always -- there are always facts. There are often 
+
+disputed facts. But suppose the issue is whether or not 
+
+6 this right -- and maybe there are two rights here -­
+
+7 this right was clearly established. That's -- that's an 
+
+8 issue of law. 
+
+9  MR. MILLS: That is -- that is an issue of 
+
+law, Your Honor. 
+
+11  JUSTICE KENNEDY: And doesn't that fall 
+
+12 within the "except" clause that the Chief Justice was 
+
+13 talking to you about, which you haven't had much time to 
+
+14 fill out, I understand.
+
+ But -- well, if you're going to say -- and 
+
+16 it's really not whether the summary judgment is -- is 
+
+17 appealed. That's a little bit -- it's whether or not 
+
+18 the issues resolved by the summary judgment motion are 
+
+19 appealable. I read into your response, or implied from 
+
+your response, what the Chief Justice did, that maybe 
+
+21 sometimes the summary judgment motion, say, on an issue 
+
+22 of law is sufficient to preserve the issue. 
+
+23  MR. MILLS: Well -- and that gets to what I 
+
+24 think is the heart of the split in the circuits and the 
+
+confusion, is that every circuit recognizes a very 
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 general rule that where the evidence at trial moots that 
+
+2 at summary judgment, we're not going to review the 
+
+3 summary judgment decision. 
+
+4  Now, a number of courts said: Well, wait a 
+
+second; there are summary judgment issues that don't 
+
+6 depend on the evidence, and we're -- those are typically 
+
+7 called questions of law. And Respondents point to a 
+
+8 number of good examples in their brief of defenses such 
+
+9 as statute of limitations, pre-emption, and the like, 
+
+that indeed very often don't depend at all on the 
+
+11 evidence at trial. The difference with qualified 
+
+12 immunity is that qualified immunity requires the court 
+
+13 to look at the evidence of the claim itself. 
+
+14  Now, statute of limitations, for example, is 
+
+actually quite different, because in statute of 
+
+16 limitations -- let's suppose Michelle Ortiz filed her 
+
+17 suit 20 years late. It would not matter at all how much 
+
+18 evidence she adduced of the Respondents' misconduct. It 
+
+19 would be barred by statute of limitations.
+
+ JUSTICE GINSBURG: So Mr. Mills, what then 
+
+21 is the difference? You point out, quite rightly, 
+
+22 summary judgment looks to what evidence there was, and 
+
+23 the question for the court is: What could the plaintiff 
+
+24 prove? When we get past trial, the issue becomes: What 
+
+has the plaintiff proved? 
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  So, what was brought out at trial? What was 
+
+2 the record at trial that was larger than the record at 
+
+3 summary judgment? Because if there -- if there was 
+
+4 no -- no new fact presentation, no more ample fact 
+
+presentation, then it wouldn't matter. It would be the 
+
+6 same body of evidence, right? 
+
+7  MR. MILLS: Well, I think that's largely -­
+
+8 largely right, Justice Ginsburg, and here's an example 
+
+9 of what did change in this case.
+
+ At the summary judgment stage, what we had 
+
+11 were affidavits of the Respondents discussing their role 
+
+12 in relation to this case, with no comment whatsoever 
+
+13 about what the consequences would have been had 
+
+14 Ms. Jordan immediately reported the first sexual 
+
+assault. The record was bare at summary judgment from 
+
+16 Respondents' perspective on that -- on that point. 
+
+17  At trial, under cross-examination, 
+
+18 Ms. Bright testified that Respondent Jordan indeed 
+
+19 violated prison policy by not reporting it and then, 
+
+very crucially, also agreed that the second, more 
+
+21 violent assault would have actually been precluded had 
+
+22 that report taken place. 
+
+23  Now, that's -­
+
+24  JUSTICE ALITO: Well, this gets to what 
+
+troubles me about this case. Although the Sixth Circuit 
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 referred to summary judgment in its opinion, it seems to 
+
+2 me the Sixth Circuit actually reviewed the evidence at 
+
+3 trial and determined that the defendants were entitled 
+
+4 to judgment as a matter of law based on the evidence at 
+
+trial. 
+
+6  So I don't know why this case actually 
+
+7 presents the question on which cert was granted. It 
+
+8 seems to me it presents a question of -- a purely 
+
+9 factual question in the end, whether there was -­
+
+whether judgment as a matter of law was appropriate. 
+
+11 And you never raised the judgment as a matter of law. 
+
+12  You never raised in the court of appeals, as 
+
+13 I understand it, the argument that the defendants' 
+
+14 ability to object to the entry of judgment as a matter 
+
+of law was waived because they never filed a Rule 50(b) 
+
+16 motion. Isn't that right? 
+
+17  MR. MILLS: Well -- well, there's a couple 
+
+18 points in there that I need to address. 
+
+19  First, I think that you are exactly right. 
+
+What the Sixth Circuit did here is it -- it reviewed a 
+
+21 summary judgment decision, but it did peek ahead to the 
+
+22 trial evidence, and it said it was doing that. I think 
+
+23 that highlights the fundamental problem of reviewing 
+
+24 summary judgment after the trial. The Sixth Circuit is 
+
+implicitly recognizing it would be illogical to look at 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that summary judgment record, those affidavits, and then 
+
+2 ignore this cross-examined testimony of what -­
+
+3  JUSTICE ALITO: Well, suppose we were to 
+
+4 hold that they -- that they couldn't review the denial 
+
+of summary judgment. The case is remanded to them, and 
+
+6 they say: Okay, well, we made a slip of the pen when we 
+
+7 referred to summary judgment in the prior decision. We 
+
+8 really were saying that the defendants were entitled to 
+
+9 judgment as a matter of law, and, although there wasn't 
+
+a Rule 50(b) motion, that was waived because it wasn't 
+
+11 raised on appeal. 
+
+12  So we are -- we come back to exactly where 
+
+13 we are now. All we've done is to correct a slip of 
+
+14 the -- what was arguably a slip of the pen, perhaps 
+
+motivated by their belief that the Rule 50(b) issue is 
+
+16 jurisdictional. But it really is not under our cases 
+
+17 distinguishing between jurisdictional questions and 
+
+18 claims processing questions. 
+
+19  MR. MILLS: And I agree with that last 
+
+point. But here's the problem and here's why it isn't 
+
+21 just simply a slip of the pen that can be fixed by 
+
+22 remanding. Even if this was not summary judgment 
+
+23 whatsoever and it was, as Respondents say, essentially a 
+
+24 Rule 50(a) review, that conflicts with an entire line of 
+
+this Court's decisions leading into Unitherm, which 
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 makes clear that the court of appeals absolutely lacks 
+
+2 the power to review the sufficiency of the evidence 
+
+3 where that question wasn't ruled upon by the district 
+
+4 court. And so the court of appeals here, regardless of 
+
+any sort of forfeiture argument, absolutely lacked the 
+
+6 power to consider it. 
+
+7  The additional point about your -­
+
+8  JUSTICE SCALIA: But that's not the point 
+
+9 that you've made here. I mean -- and that isn't the 
+
+point on which we granted certiorari. 
+
+11  MR. MILLS: That's right, and I think -- I 
+
+12 think what I just said about the 50(b) point is that I 
+
+13 think it highlights that this really was a summary 
+
+14 judgment review by the Sixth Circuit of -­
+
+JUSTICE KAGAN: Now, Mr. Mills, if I could 
+
+16 just understand your answer to Justice Alito. You 
+
+17 concede that the Sixth Circuit opinion is using the 
+
+18 record built on the whole trial and that that's a 
+
+19 different record from the record that existed at summary 
+
+judgment; is that correct? 
+
+21  MR. MILLS: I do concede it, except to the 
+
+22 extent that I concede they did an adequate review of the 
+
+23 record. But I -- I concede that point. For the example 
+
+24 -- for example -­
+
+JUSTICE KAGAN: So they have that first 
+
+9
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 paragraph where they suggest that they're ruling on a 
+
+2 summary judgment motion. Then they go through an entire 
+
+3 opinion that talks about the facts and the record. And 
+
+4 there are very few citations, but your understanding is 
+
+that when they talk about the facts in the records, 
+
+6 they're talking about the post-trial -- I mean the 
+
+7 record that has been built up as a result of the trial? 
+
+8  MR. MILLS: There are -- there are certainly 
+
+9 a number of instances where they definitely are talking 
+
+about the trial. I do think it -- it is even muddy the 
+
+11 extent to which they are incorporating trial facts 
+
+12 versus summary judgment facts. The example I gave about 
+
+13 this point where Ms. Bright conceded on cross that Ms. 
+
+14 Ortiz indeed would have been separated and the assault, 
+
+second assault, precluded, it's one of two things: 
+
+16 Either the Sixth Circuit's reviewing summary judgment 
+
+17 and picking a couple of trial facts it thinks helps to 
+
+18 review and missing the facts, or it's doing -- it's 
+
+19 looking ahead at these trial facts and because -­
+
+particularly because the district court never weighed in 
+
+21 on that, on a Rule 50(b), it's botching the record. And 
+
+22 it goes to the heart of this Court's cases from Cone 
+
+23 v. West Virginia Pulp & Paper in 1947 up through 
+
+24 Unitherm, which says we have to have the district court 
+
+review the sufficiency of the evidence before the court 
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 of appeals could even have the power to possibly 
+
+2 consider -­
+
+3  JUSTICE SOTOMAYOR: That -- that answer is 
+
+4 not addressing Justice Alito's point, which he said a 
+
+Rule 50 motion is not jurisdictional. You are in 
+
+6 essence claiming it is. You're saying they lacked the 
+
+7 power, but Justice Alito's question to you said they 
+
+8 don't, that they've misread the fact that this is not a 
+
+9 jurisdictional motion. So address that question: Why 
+
+is it jurisdictional as opposed to a claim processing? 
+
+11  MR. MILLS: Your Honor, I -- I am not 
+
+12 disputing that the Sixth Circuit had jurisdiction to 
+
+13 consider the case. But I am making a distinction among 
+
+14 jurisdiction and power, and it's the same distinction 
+
+actually the Tenth Circuit employed in a case called 
+
+16 Williams v. Gonterman, which is cited in our reply 
+
+17 brief; I think it's at page 10. This exact issue came 
+
+18 up, where the verdict loser said: Wait a second; this 
+
+19 issue's been forfeited. The Tenth Circuit, reading 
+
+Unitherm, reading the debate between the majority and 
+
+21 the dissenters, who said plain error and those doctrines 
+
+22 should apply, said: We lack the power to review this; 
+
+23 we have jurisdiction, but we lack the power to -­
+
+24  JUSTICE SOTOMAYOR: The claim processing 
+
+rules, we have said that, unless you object, the court 
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 doesn't lack power. Since you didn't object below to a 
+
+2 -- a argument that Rule 50(b) precluded consideration by 
+
+3 the court of appeals, why wasn't that argument waived 
+
+4 before the court?
+
+ MR. MILLS: It's not waived because, while 
+
+6 the general principle is that claims processing rules 
+
+7 are indeed subject to waiver and forfeiture, this 
+
+8 particular context, as this Court has made clear, that 
+
+9 the word "power" is not an accidental use. It's been 
+
+used in all of these cases. 
+
+11  JUSTICE GINSBURG: Why is it -- I mean, 
+
+12 power -- jurisdiction is power, power to proceed in a 
+
+13 case. But we are in an area where there are many, many 
+
+14 cases of this Court that distinguish the Rule 50(a), 
+
+50(b) from the run-of-the-mine claim processing rule 
+
+16 because in the background is the Seventh Amendment 
+
+17 Re-examination Clause. That's the whole reason why 
+
+18 there is this 50(a)-50(b) litany, why the verdict loser 
+
+19 must repeat the 50(a) motion, after -- after the 
+
+verdict. 
+
+21  So I'm surprised that you're using the word 
+
+22 "power." You're not referring to any of that history 
+
+23 which stems from a constitutional provision, the Seventh 
+
+24 Amendment.
+
+ MR. MILLS: Well, Justice Ginsburg, you're 
+
+12
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 absolutely correct, and I think that footnote 4 of 
+
+2 Unitherm goes right to your point. In footnote 4 of 
+
+3 Unitherm, the Court explains that the very reason a 
+
+4 court of appeals lacks the power, lacks the power to 
+
+review that question, is because it is essentially, as 
+
+6 in Unitherm, going to be as a court of appeals reviewing 
+
+7 the conduct -- the sufficiency of the evidence, without 
+
+8 a district court ruling on the question. And this Court 
+
+9 said in Unitherm that that raises serious Seventh 
+
+Amendment concerns. This case is actually a very good 
+
+11 example -­
+
+12  JUSTICE ALITO: Well, Mr. Mills, I got you 
+
+13 started on this, but this -- none of this is the 
+
+14 question on which we granted review, is it?
+
+ MR. MILLS: Well -­
+
+16  JUSTICE ALITO: We didn't grant review to 
+
+17 decide whether a court of appeals can consider judgment 
+
+18 of a -- judgment as a matter of law where there isn't a 
+
+19 50(b) motion and no argument is made that the -- that 
+
+issue was waived by failing to make the motion. We 
+
+21 didn't grant review on that. 
+
+22  MR. MILLS: And, Justice Alito, that 
+
+23 highlights another important point about this exchange, 
+
+24 and that is that Respondents in the Sixth Circuit did 
+
+not suggest that the Sixth Circuit did have the 
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 authority to take the summary judgment question and then 
+
+2 look ahead to trial facts. And so, the Sixth Circuit 
+
+3 has taken the summary judgment decision and then acted 
+
+4 without authority to look ahead at the trial facts. And 
+
+so if the argument is that we have forfeited a 
+
+6 pre-emptive argument to the Sixth Circuit that it 
+
+7 couldn't do this frankly very unorthodox approach, I 
+
+8 don't think that that's a proper invocation of 
+
+9 forfeiture even regardless of the point about power.
+
+ JUSTICE GINSBURG: What -- are you saying 
+
+11 then that if we explain to the Fifth Circuit -- to the 
+
+12 Sixth Circuit, that the record they must look at is the 
+
+13 trial record, so it's different from the summary 
+
+14 judgment stage, if we told them that, then maybe they 
+
+would look at the evidence differently, even though they 
+
+16 purported to look at the trial evidence? 
+
+17  MR. MILLS: Well, I think if that order were 
+
+18 given, they would indeed do that. But I would still 
+
+19 come back to the point that there is absolutely no basis 
+
+on which they would have the authority to do that. And 
+
+21 the point is, in the Unitherm line of cases, that if you 
+
+22 don't have a district court ruling on the very question, 
+
+23 the question here of whether their conduct, as they say, 
+
+24 crossed a constitutional line, you're circumventing the 
+
+district court's role in the entire process. 
+
+14
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  As this Court has explained repeatedly, a 
+
+2 requisite of a court of appeals reviewing that evidence 
+
+3 that went to the jury is that the district court first, 
+
+4 who has the feel of the case, who saw the witnesses, who 
+
+saw Respondent Bright on cross-examination, first have 
+
+6 the opportunity in the judge's discretion to grant a new 
+
+7 trial -­
+
+8  JUSTICE GINSBURG: So, if you're right, then 
+
+9 there has to be a remand to the Sixth Circuit with 
+
+instructions to send the case back to the district court 
+
+11 to ask the district court what -- whether it thought the 
+
+12 evidence was sufficient? 
+
+13  MR. MILLS: I don't think so, Your Honor. I 
+
+14 think that the best way to see this case is it's indeed 
+
+a review of the summary judgment decision. That's the 
+
+16 only decision by the district court that had to do with 
+
+17 qualified immunity. 
+
+18  The Sixth Circuit expressly invoked an 
+
+19 exception to say: We can review summary judgment after 
+
+the trial because it's qualified immunity; and the 
+
+21 Eighth Circuit said that's okay and we say that's okay; 
+
+22 we're looking ahead at trial facts. 
+
+23  And I think what this Court can and should 
+
+24 conclude is that it's improper to review the summary 
+
+judgment decision after trial because the facts have 
+
+15
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 changed -­
+
+2  JUSTICE ALITO: And your argument is that 
+
+3 where a --the district court denies summary judgment on 
+
+4 a qualified immunity issue that is based even purely on 
+
+an issue of law, there can't be a review unless that's 
+
+6 renewed -- there can't be appellate review unless that 
+
+7 purely legal question is renewed in a Rule 50(b) motion. 
+
+8 That's your -- that's your argument? 
+
+9  MR. MILLS: That is my argument, with a 
+
+couple key pieces -- first of all, they could, of 
+
+11 course, take a collateral order appeal, but if they 
+
+12 proceed to trial -- and here's -- here's sort of the 
+
+13 fundamental point about qualified immunity. Sure, there 
+
+14 are purely legal questions in the qualified immunity 
+
+inquiry. Was the right clearly established? But to 
+
+16 enter judgment, to enter judgment, whether it's the 
+
+17 district court or the court of appeals, that court must 
+
+18 know what the conduct is. 
+
+19  JUSTICE ALITO: But what if the facts are 
+
+utterly undisputed? There's a videotape of exactly what 
+
+21 went on. Nobody has the slightest disagreement about 
+
+22 the facts. The only question is whether the right was 
+
+23 clearly established, and the district court rejects that 
+
+24 at summary judgment. What benefit -- what is the point 
+
+of saying that the defendants have to raise that same 
+
+16
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 issue again in a Rule 50(b) motion? It's utterly a -- a 
+
+2 pointless exercise. 
+
+3  MR. MILLS: Well, it's certainly a less 
+
+4 compelling case than this one where the facts indeed 
+
+change. But I would say that there -- it's not utterly 
+
+6 pointless because the 50(b) motion still invokes all the 
+
+7 protections that this Court has described where the 
+
+8 district court, who had the feel of the case, gets the 
+
+9 first chance to consider whether a new trial should be 
+
+granted -­
+
+11  JUSTICE KAGAN: Mr. Mills, when -- when 
+
+12 Unitherm talks about the district court feeling the case 
+
+13 and having a feel for the case, it's talking about 
+
+14 having the feel for the evidence and for the facts. The 
+
+whole rationale of Unitherm is based on the evidence, 
+
+16 the facts, not on purely legal questions. 
+
+17  So suppose we disagree with you about the 
+
+18 reach of Unitherm. Suppose we say Unitherm doesn't have 
+
+19 any application to purely legal questions. What would 
+
+that mean for your case? Which part of your claims were 
+
+21 purely legal and which part were instead founded on the 
+
+22 facts, in which case you would have a better Unitherm 
+
+23 argument? 
+
+24  MR. MILLS: It -- it would still mean you'd 
+
+have to reverse in this case, and I think in 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Justice Alito's hypothetical perhaps, perhaps not. 
+
+2  But in this case, as -- as Respondents 
+
+3 themselves say, the question here is actually very 
+
+4 simple. It's whether their conduct crossed a 
+
+constitutional line. And the point is that, even in the 
+
+6 qualified immunity inquiry, the question is: Does the 
+
+7 conduct -- and that's conduct in one way at summary 
+
+8 judgment and another way at trial -- does that conduct 
+
+9 cross a clearly established constitutional line?
+
+ CHIEF JUSTICE ROBERTS: I don't understand, 
+
+11 counsel, how your argument -- that in every case you 
+
+12 need to know the facts, every qualified immunity case 
+
+13 you need to know the facts, and those only come out 
+
+14 after trial -- is consistent with our recognizing that 
+
+you can have a collateral order appeals denial of 
+
+16 summary judgment. In other words, you can consider 
+
+17 qualified immunity without knowing how the facts are 
+
+18 going to come out at trial, which is why we allow you to 
+
+19 have an appeal before trial.
+
+ MR. MILLS: You're absolutely right. And at 
+
+21 summary judgment, officers are entitled to invoke 
+
+22 immunity, and they're entitled to take that immediate 
+
+23 appeal. And it's typically -- well, required under 
+
+24 Johnson v. Jones that it be what this Court's called a 
+
+question of law. The defendants assume the facts 
+
+18
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 against them, and they say to the court of appeals, it 
+
+2 may be a purely legal question, like this isn't -- this 
+
+3 is clearly established or isn't clearly established. 
+
+4 But to -- to say whether that line is crossed, I mean, 
+
+as recently as Iqbal, this Court explained -­
+
+6  CHIEF JUSTICE ROBERTS: Well -- so you're 
+
+7 just saying your case on qualified immunity isn't like 
+
+8 that case; is that all? 
+
+9  MR. MILLS: Well, I'm saying it -- it's like 
+
+that case to the extent that the court still has to 
+
+11 understand, if it's going to enter judgment, what the 
+
+12 conduct was. Even if it's looking at purely legal -­
+
+13  JUSTICE SCALIA: No, it doesn't. It doesn't 
+
+14 have to know what it was. It assumes it to be what -­
+
+what the plaintiff claims it was. 
+
+16  MR. MILLS: That's right. 
+
+17  JUSTICE SCALIA: At the summary judgments, 
+
+18 you give the benefit of the doubt to the plaintiff. 
+
+19  MR. MILLS: That's right.
+
+ JUSTICE SCALIA: So there's always a factual 
+
+21 element to the -- to the ruling. 
+
+22  MR. MILLS: That's right. And I -- I think 
+
+23 that bolsters my point. There is always a factual 
+
+24 element to the ruling. And so, when you go to trial and 
+
+you put on a trial that is all about Respondents' 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 conduct and you have them under cross-examination and 
+
+2 that evidence grows of their misconduct, then we're 
+
+3 talking about a situation where -­
+
+4  JUSTICE SCALIA: It's never going to be any 
+
+better than what you assumed. It's never going to be 
+
+6 any better for the plaintiff than what you assumed at 
+
+7 the summary judgment stage. 
+
+8
+
+9 this case. 
+
+case -­
+
+11
+
+12
+
+13
+
+14
+
+ MR. MILLS: Your Honor, it actually was in
+ 
+
+It actually was better at trial in this
+ 
+
+JUSTICE SCALIA: For -- for -­
+
+MR. MILLS: -- for the plaintiff.
+ 
+
+JUSTICE SCALIA: Why was that?
+ 
+
+MR. MILLS: And it was -- one example I gave
+ 
+
+earlier: Ms. Ortiz, before trial, didn't have knowledge 
+
+16 of what would have happened had Mrs. Jordan not violated 
+
+17 prison procedures and immediately reported the first 
+
+18 assault. On cross-examination, however, Mrs. Bright, at 
+
+19 page 242 of the trial transcript, said: "The second 
+
+assault, the violent assault, would have been 
+
+21 precluded." 
+
+22  Now, it seems to me, again reading the cold 
+
+23 transcript -­
+
+24  JUSTICE SOTOMAYOR: That's -- just finish: 
+
+Because if Ms. Jordan had reported the incident that she 
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 was required to, they would have put Ms. Ortiz in 
+
+2 segregation automatically; is that it? 
+
+3  MR. MILLS: Not that they would have put her 
+
+4 in segregation, but that they would have taken steps to 
+
+separate her from the officer, whether that meant 
+
+6 removing the officer from the location or putting her in 
+
+7 another cell. The important piece of that is not only 
+
+8 did it change from summary judgment to trial; the Sixth 
+
+9 Circuit got it entirely wrong.
+
+ CHIEF JUSTICE ROBERTS: But you have an 
+
+11 obligation in opposing summary judgment to, in your list 
+
+12 of disputed facts or facts that preclude summary 
+
+13 judgment, to put all that in. And why didn't you put 
+
+14 the point you are raising now in the opposition to 
+
+summary judgment? 
+
+16  MR. MILLS: That's not something Ms. Ortiz 
+
+17 would have knowledge of. 
+
+18  CHIEF JUSTICE ROBERTS: I know. So it -­
+
+19  JUSTICE GINSBURG: But you -- you prevailed 
+
+on the summary judgment motion. There was a summary 
+
+21 judgment motion, right? And it was denied. 
+
+22  MR. MILLS: That's right. That's right. 
+
+23  JUSTICE GINSBURG: So the -- we know that 
+
+24 the district judge thought that, at that point, there 
+
+was a case to be presented for trial based on the 
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 plaintiff's allegations. 
+
+2  MR. MILLS: That's absolutely right. And -­
+
+3  CHIEF JUSTICE ROBERTS: Well, but -- but you 
+
+4 may prevail. You may have three different factual 
+
+disputes that the other side is saying are undisputed, 
+
+6 and the fact that you prevail on one doesn't meant that 
+
+7 you didn't have an obligation to put in your opposition 
+
+8 the others. 
+
+9  MR. MILLS: Well, Your Honor, I -- I just 
+
+can't see how Ms. Ortiz would have an obligation to put 
+
+11 in some fact that's outside of her knowledge and, 
+
+12 frankly, something that came out when a Respondent caved 
+
+13 in a bit on cross-examination. 
+
+14  JUSTICE BREYER: How would you put the rule 
+
+about when you have to renew a motion? You move for 
+
+16 summary judgment. Can you say this? You've looked up 
+
+17 the treatises and so forth. If the motion for summary 
+
+18 judgment involves either a question of fact or a mixed 
+
+19 question of fact and law, it has to be renewed. If it 
+
+involves neither of the others, neither of those two 
+
+21 things, but it's a pure question of law and not mixed, 
+
+22 it doesn't have to be renewed. 
+
+23  MR. MILLS: I think that's -- that's a fair 
+
+24 way to state it.
+
+ JUSTICE BREYER: Is there any authority for 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that? I mean, is there any -- it seems to be roughly 
+
+2 what you're trying to argue, roughly. At least it seems 
+
+3 to me a rule that would make sense. Is it that -- what 
+
+4 do you find related to that? It seems to me that must 
+
+have been thought about before this minute. 
+
+6  MR. MILLS: Well -­
+
+7  JUSTICE BREYER: Not necessarily by you, but 
+
+8 by somebody. 
+
+9  MR. MILLS: Yes, indeed. I think it has 
+
+been thought about. I think it's been thought about 
+
+11 really by every circuit when they recognize the very 
+
+12 basic principle that the real evidence of a case is the 
+
+13 evidence at the trial, and what that means is that, if 
+
+14 the evidence at trial goes to the question at summary 
+
+judgment, whatever that legal issue may be, it's 
+
+16 illogical to ignore exactly what happened at trial and 
+
+17 go back to summary judgment. 
+
+18  JUSTICE BREYER: Yes, but let's imagine it 
+
+19 has nothing to do with qualified immunity.
+
+ MR. MILLS: Yes. 
+
+21  JUSTICE BREYER: A bread-and-butter case. 
+
+22  MR. MILLS: Yes. 
+
+23  JUSTICE BREYER: You can't appeal a denial 
+
+24 of motion for summary judgment. But there's a trial and 
+
+the lawyer forgets to renew the motion. So sometimes 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 he's lost it; I guess sometimes he hasn't. I would 
+
+2 think he would have lost it if it's a mixed question of 
+
+3 fact or law or if it's a pure question of fact that the 
+
+4 answer turns on. I would think he hadn't lost it if in 
+
+fact it's a pure question of law. But is that the basic 
+
+6 hornbook rule out of this context? 
+
+7  MR. MILLS: Yes, I think it is. I think it 
+
+8 is the basic horn rule -­
+
+9  JUSTICE KAGAN: And, Mr. Mills, if that were 
+
+the basic hornbook rule, your claims are all matters of 
+
+11 fact or mixed questions of fact and law? 
+
+12  MR. MILLS: Our claims are mixed questions 
+
+13 of fact and law, yes. 
+
+14  JUSTICE KAGAN: There are no purely legal 
+
+issues? 
+
+16  MR. MILLS: There are purely legal 
+
+17 components to those inquiries; there's no doubt about 
+
+18 it. Again, a purely legal question might be what is the 
+
+19 constitutional right; is it clearly established?
+
+ JUSTICE KAGAN: Well, that's what I'm 
+
+21 asking. I'm asking is -- is -- are the questions that 
+
+22 you have those sorts of questions, or are they factual 
+
+23 inquiries that would fall on the other side of 
+
+24 Justice Breyer's line?
+
+ MR. MILLS: At the end of the day, these are 
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 factual inquiries in which you have to understand the 
+
+2 officers' conduct. All I'm saying is that the second 
+
+3 component to establish immunity or anything else does 
+
+4 include always a pure question about whether the right's 
+
+clearly established. But there is no doubt that, to 
+
+6 assess whether that line has been crossed, you have to 
+
+7 understand what the facts are. 
+
+8  JUSTICE ALITO: The -- what's -- determining 
+
+9 what is a mixed question is notoriously difficult. What 
+
+about the -- the situation where the -- the ruling is, 
+
+11 assuming certain facts to be true, the -- the right was 
+
+12 not clearly established? Now, is the fact that certain 
+
+13 facts are assumed to be true enough to make that a mixed 
+
+14 question?
+
+ MR. MILLS: Yes, it is, because that's a 
+
+16 classic sufficiency challenge at Rule 50, to assume 
+
+17 the -- that's what Rule 50 requires. Assume the facts 
+
+18 against you after the verdict's come back and now say, 
+
+19 you know what, Your Honor, it was insufficient.
+
+ I'd like to reserve my time. 
+
+21  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+22  Mr. Mizer. 
+
+23  ORAL ARGUMENT OF BENJAMIN C. MIZER 
+
+24  ON BEHALF OF THE RESPONDENTS
+
+ MR. MIZER: Mr. Chief Justice, and may it 
+
+25
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 please the Court: 
+
+2  As I think the discussion has already 
+
+3 demonstrated, Ms. Ortiz's question presented hinges on a 
+
+4 false assumption. That assumption is that the Sixth 
+
+Circuit was reviewing the summary judgment order as the 
+
+6 final appealable order in this case. 
+
+7  JUSTICE KENNEDY: Except that it begins, 
+
+8 2(a), "Although courts normally do not review the denial 
+
+9 of a summary judgment motion after trial on the merits, 
+
+the denial of summary judgment based on qualified 
+
+11 immunity is an exception to this rule." And that's -­
+
+12  MR. MIZER: And -­
+
+13  JUSTICE KENNEDY: That's the opening. That 
+
+14 sets the stage for what follows.
+
+ MR. MIZER: And -­
+
+16  JUSTICE KENNEDY: Now, it may be that 
+
+17 everybody, including the Sixth Circuit, misapprehended 
+
+18 the rule because there are some cases that depend on an 
+
+19 assessment of the record and some cases that don't, but 
+
+that's not what the Sixth Circuit said. 
+
+21  MR. MIZER: I think that the Sixth Circuit's 
+
+22 word choice in the sentence that you just read was not 
+
+23 perfectly clear, but -­
+
+24  JUSTICE KAGAN: Well, Mr. Mizer, you asked 
+
+for an appeal of the summary judgment motion, so they 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 might have chosen their words based on your request. 
+
+2  MR. MIZER: Actually, Your Honor, the 
+
+3 summary judgment motion was only one of several orders 
+
+4 listed in the notice of appeal. And the Sixth Circuit 
+
+brief was very clearly couched as an appeal from the 
+
+6 verdict, which at the bottom of the prior page of the -­
+
+7 of the petition appendix, from where Justice Kennedy 
+
+8 just read, the bottom of page 7a, the Sixth Circuit 
+
+9 calls it an "appeal from the jury verdict."
+
+ And then the Sixth Circuit, at petition 
+
+11 appendix 2a and throughout its opinion, refers to "trial 
+
+12 evidence." 
+
+13  JUSTICE GINSBURG: But, Mr. Mizer, then you 
+
+14 must concede that this opening sentence that 
+
+Justice Kennedy just quoted is wrong. Courts normally 
+
+16 don't review the denial of summary judgment motion after 
+
+17 trial on the merits, but when the summary judgment 
+
+18 denial is based on qualified immunity, there's an 
+
+19 exception.
+
+ MR. MIZER: I think that what the Sixth 
+
+21 Circuit meant there was that the issue of qualified 
+
+22 immunity raised at summary judgment was preserved. I 
+
+23 don't think its word choice was perfectly clear, but I 
+
+24 think other -- other phrases in the Sixth Circuit's 
+
+opinion make clearer that what it was doing was viewing 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 the full trial record and viewing -­
+
+2  JUSTICE SOTOMAYOR: So that we should -- I 
+
+3 think what that means to me is that you really ignore 
+
+4 whether it was raised at summary judgment. If you're 
+
+going to look at the evidence at trial, what do we look 
+
+6 at, at trial, to see that the claim of qualified 
+
+7 immunity was preserved? 
+
+8  MR. MIZER: It would -­
+
+9  JUSTICE SOTOMAYOR: Because it's a little 
+
+illogical to -- to say you're reviewing the summary 
+
+11 judgment record when you're not. 
+
+12  MR. MIZER: Well, and I don't think the 
+
+13 Sixth Circuit was saying it was reviewing the summary 
+
+14 judgment record, and that would have been not 
+
+appropriate. What it was doing was looking at the whole 
+
+16 record. And a legal issue doesn't have to be raised 
+
+17 post-trial in order for it to have been adequately -­
+
+18  JUSTICE BREYER: But surely it has to be 
+
+19 raised post-trial if your legal argument is: Look at 
+
+the facts; the facts of this case as proved do not 
+
+21 support liability. 
+
+22  I mean, I would have thought that was a 
+
+23 classic instance where you do have to make the motion. 
+
+24 That's the whole point of having to renew it.
+
+ MR. MIZER: To the extent -­
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE BREYER: Am I wrong? 
+
+2  MR. MIZER: Partly, yes, Your Honor. To the 
+
+3 extent the -- the argument is that there needed to be a 
+
+4 50(b) motion -­
+
+JUSTICE BREYER: Why not? 
+
+6  MR. MIZER: -- and it was -­
+
+7  JUSTICE BREYER: I mean, do you normally -­
+
+8 forget this case. What the lawyer says is: Judge, they 
+
+9 are never going to be able to prove that my client 
+
+crossed the intersection. Okay? We go to trial. At 
+
+11 trial, he wants to say: We've heard all the evidence 
+
+12 now, and it doesn't show my client crossed the 
+
+13 intersection, so not liable. Okay? 
+
+14  Doesn't he have to renew it?
+
+ MR. MIZER: In your hypothetical? 
+
+16  JUSTICE BREYER: Yes. 
+
+17  MR. MIZER: Yes. 
+
+18  JUSTICE BREYER: Okay. Fine. 
+
+19  MR. MIZER: But that's been -­
+
+JUSTICE BREYER: Now, how is yours one bit 
+
+21 different? Because what you're saying is that the 
+
+22 evidence, when you look at it, will show the facts are 
+
+23 such that there must have been qualified immunity under 
+
+24 the law.
+
+ MR. MIZER: The difference, Your Honor, is 
+
+29
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that this Court's case law concerning -- the Mitchell 
+
+2 line of cases concerning collateral order appeals in the 
+
+3 qualified immunity context divides qualified immunity 
+
+4 claims into two halves.
+
+ There are evidentiary sufficiency-based 
+
+6 qualified immunity claims, and there are legal claims. 
+
+7  CHIEF JUSTICE ROBERTS: Yes, that -- that is 
+
+8 right, and I find it, in the context where that already 
+
+9 matters, whether they're appealable as a collateral 
+
+issue already very difficult and complicated to sort 
+
+11 out. Now, what you want us to do is take that 
+
+12 difficulty and continue it on in terms of when you can 
+
+13 appeal and when you can't. 
+
+14  Some qualified immunity claims are purely 
+
+legal. Some are purely factual. Some are in the 
+
+16 middle. Wouldn't it be easier if we just said: Here's 
+
+17 the rule from now on; you've got to renew them all in a 
+
+18 50(b) motion. And that makes it a lot easier for the 
+
+19 trial courts and the appellate courts to figure out when 
+
+they have to -- when they can consider it and when they 
+
+21 can't. 
+
+22  I understand your argument that it makes a 
+
+23 difference. I think it's a good argument, because some 
+
+24 don't depend on the facts. But going forward, it just 
+
+creates an awful lot of difficulty that we don't need to 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 buy into. 
+
+2  MR. MIZER: Well, first of all, I think 
+
+3 that, because it is a difficult question, it should have 
+
+4 been raised by Ms. Ortiz properly, and she hasn't raised 
+
+the 50(b) argument properly. But even if the Court were 
+
+6 to reach it, I think the clearer rule is to map the 
+
+7 Johnson line onto the sufficiency of the evidence line, 
+
+8 otherwise -- for 50(b) motions. Otherwise, then -­
+
+9  JUSTICE SCALIA: The Johnson line isn't much 
+
+of a map, is what the Chief Justice is suggesting. It's 
+
+11 a mess. It's very hard to sort those things out. Why 
+
+12 -- why should we double the difficulty by -- by bringing 
+
+13 it in at the -- at the Rule 50 stage as well? 
+
+14  MR. MIZER: Because the converse rule, Your 
+
+Honor, would create even more difficulties. On 
+
+16 Ms. Ortiz's -­
+
+17  JUSTICE SCALIA: Why? All you have to do -­
+
+18 any lawyer going in knows he has to make the motion at 
+
+19 the close of the evidence. What -- what's the big deal?
+
+ JUSTICE GINSBURG: And, in fact, you did. 
+
+21 You did move under 50(a). This whole case is here 
+
+22 because apparently -- well, what reason was it that you 
+
+23 didn't make the 50(b) motion? You told the court under 
+
+24 50(a), after all the evidence was in but before the case 
+
+went to the jury, that the jury would not have a legally 
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 sufficient evidentiary basis to find for Ms. Ortiz. 
+
+2 That was -- that was your motion. 
+
+3  You were saying: Court, there was no 
+
+4 legally sufficient evidentiary basis. Evidentiary 
+
+basis. That was the motion that you made, recognizing 
+
+6 that the judgment -- the question is whether there is a 
+
+7 sufficient evidentiary basis. 
+
+8  MR. MIZER: And that argument is a different 
+
+9 species of argument than the argument on which -- than 
+
+the -- than the reasoning on which the Sixth Circuit 
+
+11 resolved the case, which is, even assuming all the facts 
+
+12 as given by Ms. Ortiz and taking -- treating those facts 
+
+13 as uncontroverted, still there was not a violation of 
+
+14 clearly established law.
+
+ And under Johnson v. Jones and Mitchell, 
+
+16 that is a different question than from the question of 
+
+17 whether or not particular conduct has been proven. 
+
+18 As -­
+
+19  JUSTICE GINSBURG: Well, then what you're 
+
+saying is you didn't even -- you didn't need to make the 
+
+21 50(a) motion, that that was just an unnecessary touching 
+
+22 base with Rule 50(a)? Is that what you're saying? 
+
+23  MR. MIZER: That is our position, yes, Your 
+
+24 Honor, because a legal issue is adequately preserved 
+
+once it's pressed and passed on in the district court. 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 And to move for summary judgment on the issue is enough 
+
+2 to preserve a legal claim, the legal claim being not 
+
+3 that particular -- that sufficient evidence exists to 
+
+4 prove that particular conduct occurred, but rather that 
+
+the -- given all of that, that claim as assumed, still, 
+
+6 the Harlow line of objective legal reasonableness has 
+
+7 not been crossed. 
+
+8  JUSTICE GINSBURG: But didn't they -­
+
+9  JUSTICE KENNEDY: I suppose there are some 
+
+cases in which the failure of the court to give a 
+
+11 requested instruction preserves the issue, and perhaps 
+
+12 50(b) is not required there. 
+
+13  Were there any instructions proffered and 
+
+14 denied in this case that would have preserved the issue 
+
+for appeal? 
+
+16  MR. MIZER: There was a requested 
+
+17 instruction regarding qualified immunity, yes, and it 
+
+18 was not given. We're not arguing that that -­
+
+19  JUSTICE SOTOMAYOR: What was that 
+
+instruction? 
+
+21  MR. MIZER: The -- the instruction was about 
+
+22 the objective legal reasonableness standard under 
+
+23 Harlow. I actually don't think that that request was 
+
+24 proper -­
+
+JUSTICE SOTOMAYOR: Do you have a cite to 
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 the record? 
+
+2  MR. MIZER: I don't have a cite to the 
+
+3 record at the moment. But -- but the -- the point is 
+
+4 that actually, that that instruction wasn't proper, 
+
+because the jury doesn't resolve the Harlow objective 
+
+6 legal reasonableness question. Instead, the jury 
+
+7 resolves the disputed facts, and then the court takes 
+
+8 those facts as a given for purposes of the Harlow 
+
+9 question.
+
+ And -- and, in this case, I think there's an 
+
+11 example of this distinction. There was very much 
+
+12 disputed at trial the question of whether Ms. Ortiz told 
+
+13 Ms. Jordan the name of the guard who had assaulted her. 
+
+14 And that fact was disputed at trial. We -- we didn't 
+
+move for 50(b) over that factual dispute, and so we 
+
+16 couldn't appeal on that question. 
+
+17  But what we did appeal was that, taking that 
+
+18 fact as assumed for purposes of -- of the qualified 
+
+19 immunity question, still qualified immunity was 
+
+warranted. 
+
+21  JUSTICE SOTOMAYOR: Could you -­
+
+22  JUSTICE GINSBURG: Then explain to me what 
+
+23 -- you made a 50(a) motion. Why did you -- was there a 
+
+24 reason for making the 50(a) motion and not following it 
+
+up with a 50(b) motion? 
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. MIZER: I'm not aware of a reason, Your 
+
+2 Honor. But at pages 4 to 5 of the joint appendix, I 
+
+3 think it's clear that there were two different types of 
+
+4 arguments being made at the 50(a) stage. One argument 
+
+was a dispute over facts. The other argument was, even 
+
+6 if we don't dispute those facts, still Ms. Ortiz's 
+
+7 arguments haven't shown a constitutional violation. 
+
+8  JUSTICE SOTOMAYOR: How could you -­
+
+9  JUSTICE GINSBURG: It's -- it's very clear 
+
+from Rule 50 that 50(a) and 50(b) go together, and the 
+
+11 explanation, as I indicated when Petitioner's counsel 
+
+12 was speaking, is the Re-examination Clause of the 
+
+13 Seventh Amendment. So I think every first year 
+
+14 Procedure student learns 50(a), 50(b) go together, and 
+
+there's a historic reason why you must back up a 50(a) 
+
+16 motion with a 50(b) motion. They're not -- they all -­
+
+17 they all ask the same question. The Rule 56, the Rule 
+
+18 50, 50(b), they all ask: Is there sufficient evidence 
+
+19 to warrant a jury finding, whatever. They all ask that, 
+
+but they ask -- ask it on the basis of a different 
+
+21 record: the summary judgment record, the trial record, 
+
+22 and the jury verdict. 
+
+23  MR. MIZER: But still, Your Honor, I think 
+
+24 the question of whether particular conduct has been 
+
+proven is a sufficiency question, and that differs in 
+
+35
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 nature from the question of whether, taking that proven 
+
+2 conduct as a given, assuming it to be true, without -­
+
+3 without questioning the correctness of the plaintiff's 
+
+4 version of the facts, that the -- then the Harlow 
+
+question is a separate question. 
+
+6  JUSTICE GINSBURG: Do you know of any case 
+
+7 holding that you don't have to couple a 50(a) motion 
+
+8 with a 50(b) motion depending upon what's in your 50(a) 
+
+9 motion?
+
+ MR. MIZER: I am not aware of any case, no, 
+
+11 although I am aware of cases, including the K & T 
+
+12 Enterprises case from the Seventh -- or sorry -- from 
+
+13 the Sixth Circuit, that we cite in our brief, which says 
+
+14 that legal claims, purely legal claims, may be raised in 
+
+judgment as a matter of law motions under either 50(a) 
+
+16 or 50(b), but that 50(b) is not required with respect to 
+
+17 those motions. 
+
+18  And so -- so the 50(a) motion here was a 
+
+19 belt-and-suspenders -- belt-and-suspenders effort, but 
+
+it wasn't legally required because of the -- the -­
+
+21  JUSTICE SOTOMAYOR: Could -- could you 
+
+22 articulate for me the line that you see between assuming 
+
+23 all of the facts and it's not enough as a matter of law, 
+
+24 and a sufficiency claim. And -- and let's break out the 
+
+two claims: one against Ms. Jordan, one against Ms. 
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Bright. 
+
+2  On a due process claim against Ms. Bright, 
+
+3 there are two prongs, I think, to your argument. One is 
+
+4 that, as a matter of law under Sandin, putting her in 
+
+solitary confinement did not violate any -- any 
+
+6 constitutional right. And then there's "she didn't 
+
+7 retaliate" part of your claim. 
+
+8  The two seemed mixed up to me, below. And I 
+
+9 thought in reading your submissions to the district 
+
+court you were saying that, if she retaliated in putting 
+
+11 her in segregated confinement, it doesn't matter whether 
+
+12 there is a Sandin violation or not; she couldn't do the 
+
+13 retaliatory act; is that correct? 
+
+14  MR. MIZER: The -- the Sixth Circuit held in 
+
+this case that the retaliation claim is a different 
+
+16 claim from the due process claim, that it would be based 
+
+17 on -­
+
+18  JUSTICE SOTOMAYOR: The First Amendment. 
+
+19  MR. MIZER: -- the First Amendment or some 
+
+other amendment. And -­
+
+21  JUSTICE SOTOMAYOR: I'm trying to separate 
+
+22 out your -­
+
+23  MR. MIZER: Yes. 
+
+24  JUSTICE SOTOMAYOR: -- your argument, 
+
+however. What is your -- what is your position on this 
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 question? 
+
+2  MR. MIZER: Our position is that the Sixth 
+
+3 Circuit got it right, and Ms. Ortiz hasn't appealed to 
+
+4 this Court on that holding, that as a -- as a matter of 
+
+law under Sandin, placing an individual in segregated 
+
+6 confinement does not amount to a due process violation 
+
+7 vis-à-vis the -- the ordinary conditions of prison 
+
+8 confinement. 
+
+9  I also have an answer, Justice Sotomayor, to 
+
+your question about the -- the jury instruction request. 
+
+11 It's in document 84 in the district court record. 
+
+12  JUSTICE GINSBURG: Well, you -- you refer to 
+
+13 Sandin. There are some extra things about the 
+
+14 confinement here. She was shackled, she was ill, and 
+
+nobody attended to her. 
+
+16  MR. MIZER: The -- the medical treatment 
+
+17 claims were dismissed by the district court at summary 
+
+18 judgment because Ms. Bright did not participate and did 
+
+19 not have any knowledge of -­
+
+JUSTICE GINSBURG: Well, is -- on the 
+
+21 question of whether this treatment was punitive rather 
+
+22 than just protective custody. 
+
+23  MR. MIZER: And, again, on the question of 
+
+24 punitiveness, the Sixth Circuit held that that was not 
+
+preserved -- that claim was not preserved by Ms. Ortiz. 
+
+38
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 And she has not petitioned to this Court for review of 
+
+2 that holding by the Sixth Circuit, and so the only 
+
+3 question is the square Sandin question of whether 
+
+4 segregated confinement is an atypical and significant 
+
+hardship vis-à-vis the routine conditions of -- of her 
+
+6 confinement. 
+
+7  JUSTICE GINSBURG: Well, wouldn't it be 
+
+8 this, the segregated confinement in this case, not at 
+
+9 large?
+
+ MR. MIZER: The -- again, the Sixth 
+
+11 Circuit's holding was that Sandin answered that -- that 
+
+12 question as a matter of clearly established law. And 
+
+13 since Ms. Ortiz hasn't petitioned for review of the 
+
+14 merits of that question, I'm not sure how it's presented 
+
+to this Court. 
+
+16  JUSTICE ALITO: Mr. Mizer, is it your 
+
+17 understanding that -- that Unitherm was based on Seventh 
+
+18 Amendment considerations, or was it based on prior 
+
+19 decisions that in turn were grounded on considerations 
+
+of fairness to the verdict-winner, namely the 
+
+21 opportunity, when a -- a motion for judgment as a matter 
+
+22 of law is made after the verdict, to move for dismissal 
+
+23 without prejudice or move for a new trial? 
+
+24  MR. MIZER: I think Unitherm was more 
+
+squarely the latter, although it -- the Court did refer 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 to the Seventh Amendment in responding to Justice 
+
+2 Stevens's dissent. And the Seventh Amendment concerns I 
+
+3 don't think are implicated here, because it is well 
+
+4 established that legal claims like qualified immunity 
+
+are not for the jury to resolve. And so taking -­
+
+6 taking the case away from -­
+
+7  JUSTICE GINSBURG: Well, then you're -­
+
+8 you're saying the category -- the mixed claim -- as 
+
+9 Justice Breyer proposed, if it's a purely legal claim, 
+
+then you're right. If it's a mixed claim, then you're 
+
+11 wrong. 
+
+12  MR. MIZER: And I think those -- those 
+
+13 categorizations are -- are fairly slippery and would be 
+
+14 difficult to apply, as I think the Chief Justice 
+
+suggested. And so the guidance that is clear is the 
+
+16 guidance that already exists from Johnson v. Jones, 
+
+17 which is that there are -- there two types of qualified 
+
+18 immunity claims, and if you're assuming the facts to be 
+
+19 true as the plaintiff posits them and you're not 
+
+controverting particular conduct, then you're in the 
+
+21 legal -­
+
+22  JUSTICE KAGAN: Well, Mr. Mizer, just -­
+
+23  JUSTICE KENNEDY: One -- one way to make the 
+
+24 formulation work is to say whether or not the issue 
+
+depends on an assessment of the record. 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. MIZER: Well, qualified immunity is 
+
+2 always going to be an application of clearly established 
+
+3 law to fact. And Mitchell notes that -- that there will 
+
+4 be some -- some -­
+
+JUSTICE KENNEDY: Well, but we've been 
+
+6 through this. I think it was Justice Alito who gave the 
+
+7 hypothetical -- suppose that everybody agrees on what 
+
+8 happened; the question is whether or not the right's 
+
+9 clearly established.
+
+ MR. MIZER: And that is this case. 
+
+11  JUSTICE KENNEDY: That's a pure issue of 
+
+12 law. 
+
+13  MR. MIZER: And, as this Court has called 
+
+14 it, that's correct and that is this case.
+
+ JUSTICE SOTOMAYOR: How is that -­
+
+16  JUSTICE KAGAN: Well, is it this case, Mr. 
+
+17 Mizer? Take the deliberate indifference claim. The 
+
+18 question is whether the conduct amounted to deliberate 
+
+19 indifference. Why is that any different from asking 
+
+whether a particular kind of conduct amounted to 
+
+21 negligence, which in a previous case this Court said you 
+
+22 had did have to make 50(b), a 50(b) motion in order to 
+
+23 preserve? That was in the Johnson v. New York case. 
+
+24  MR. MIZER: It's different, Your Honor, 
+
+because the -- the prong of the analysis in the 
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 deliberate indifference conduct that the Sixth Circuit 
+
+2 was looking at was the objective prong of whether or not 
+
+3 the response was reasonable. So assuming all of the 
+
+4 worst of -- of Ms. Jordan's intent, as proven by the 
+
+trial record, and assuming the worst of what she did or 
+
+6 didn't do, still her response was as a legal matter 
+
+7 objectively reasonable, and that was the Sixth Circuit's 
+
+8 holding. 
+
+9  And so, therefore, because that's a legal 
+
+inquiry, there was no 50(b) requirement even if Ms. 
+
+11 Ortiz had preserved the 50(b) argument. 
+
+12  The -- the -- Ms. Ortiz has also posited 
+
+13 that a collateral order appeal is a requirement in order 
+
+14 to preserve a qualified immunity claim. That argument 
+
+is clearly foreclosed not only by the broad agreement 
+
+16 among the circuits but also by this Court's decisions in 
+
+17 United States v. Clark. 
+
+18  JUSTICE BREYER: Okay. When you go back -­
+
+19 you're the one who has read these cases pretty 
+
+thoroughly, and as I looked at it, I -- with the 
+
+21 incomplete knowledge, I would have thought that 
+
+22 Justice Ginsburg's statement of it is basically right. 
+
+23 What Rule 50 is about is sufficiency of the evidence. 
+
+24 And 50(a) involves we're saying it won't be sufficient. 
+
+And 50(b) involves it wasn't sufficient. Then you could 
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 have the Chief Justice's rule. It would work perfectly. 
+
+2  But apparently there's a Second Circuit 
+
+3 case, and some things in the treatises, that says 
+
+4 sometimes Rule 50(a) is being used for some other 
+
+purpose. And that's what seems to be going wrong. Like 
+
+6 if you have a pure question of law, you ought to be 
+
+7 outside 50(a); you ought to be doing some other thing. 
+
+8 You know, a question like: Was there collateral 
+
+9 estoppel that means that he couldn't say he was a 
+
+policeman because they litigated this 4 months ago? 
+
+11 That's a pure question of law. 
+
+12  So, what are these cases and that exception 
+
+13 in the treatise about? What are they thinking of? What 
+
+14 kinds of instances do they think come under 50(a) that 
+
+aren't sufficiency of the evidence? 
+
+16  MR. MIZER: The -- the courts have said that 
+
+17 you had can raise in a judgment as a matter of law 
+
+18 motion legal arguments like the statute of limitations, 
+
+19 collateral estoppel, pre-emption. Very often those will 
+
+be -­
+
+21  JUSTICE BREYER: Okay. Suppose we could say 
+
+22 this: That when a lawyer uses 50(a) to make the kind of 
+
+23 motion that does not involve sufficiency of the evidence 
+
+24 but rather, in fact, could be made without 50(a), under 
+
+those circumstances, he doesn't have to say 50(b). How 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 would that work? 
+
+2  MR. MIZER: That would work just fine from 
+
+3 our perspective, Your Honor, and in fact -­
+
+4  JUSTICE BREYER: Well, I don't know it would 
+
+work fine, because it seems to me you have a lot of 
+
+6 sufficiency of the evidence thing, but that's another 
+
+7 question. 
+
+8  MR. MIZER: The -­
+
+9  JUSTICE SCALIA: Excuse me. I -- why do you 
+
+-- why do you seem to concede that 50(a) only -- only 
+
+11 applies to evidentiary stuff? I mean -­
+
+12  JUSTICE BREYER: They're not -­
+
+13  JUSTICE SCALIA: -- the way it reads is, if 
+
+14 during a trial by jury, a party has been fully heard and 
+
+there is no -- no legally sufficient evidentiary basis 
+
+16 for a reasonable jury to find for that party on that 
+
+17 issue. Well, if it's as a matter of law, no amount of 
+
+18 evidence would ever allow a -- a jury verdict in that 
+
+19 direction. Surely, that falls within -- within (a) -­
+
+MR. MIZER: And that -­
+
+21  JUSTICE SCALIA: -- even though evidence has 
+
+22 nothing to do with it. No matter what the evidence is, 
+
+23 this is simply a matter of law. No jury, no reasonable 
+
+24 jury, could find for that party on that issue. I don't 
+
+read this as being purely a -- you know, a provision 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 governing whether there is -- there's enough evidence in 
+
+2 an area where there is no absolute rule of law. I think 
+
+3 it applies to the absolute rule of law as well. 
+
+4  MR. MIZER: If -- if Rule 50(b) -- if Rule 
+
+50(a) and 50(b) motions were required for all matters of 
+
+6 law, then that would change the hornbook understanding 
+
+7 of what 50(b) is about. It would expand the Unitherm 
+
+8 requirement in -- in ways that it hasn't been applied 
+
+9 before, and it would turn Rule 50(b) motions into a 
+
+clearinghouse for anything that must be -- that's going 
+
+11 to be raised on appeal. That's not -­
+
+12  JUSTICE SOTOMAYOR: Is that bad? That's 
+
+13 what Justice -- the Chief Justice asked you earlier. 
+
+14 Why is that such a horrible thing?
+
+ MR. MIZER: Your Honor, because it would 
+
+16 radically change the way that -- that 50(b) is currently 
+
+17 treated by parties. If it -- for example, in the 
+
+18 Southern District of Ohio, where this case -­
+
+19  JUSTICE SOTOMAYOR: You -- I'm -- I'm not 
+
+sure that answers the question. 
+
+21  Isn't it better for the court of appeals to 
+
+22 know a district court's opinion on every issue that's 
+
+23 going to come up on appeal? And wouldn't our 
+
+24 announcement of a rule -- that whether it's an issue of 
+
+law or fact, it has to be renewed under 50(b), so 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 everybody's on the same page as to what's going to be 
+
+2 heard on appeal -- why is that a bad rule? Why would 
+
+3 that be a bad outcome as a matter of law? 
+
+4  MR. MIZER: Because, Your Honor, the 
+
+Rule 50(b) motions would then become miniature -- or not 
+
+6 even miniature -- full-blown appellate briefs. And the 
+
+7 rule in the Southern District of Ohio at the moment, for 
+
+8 example, is that 50(b) motions are 20 pages long. If -­
+
+9  JUSTICE ALITO: I mean, the answer is it's a 
+
+-- it's a pointless gotcha rule. That's -- that's -­
+
+11 isn't that the answer? It's a pure issue of law, and 
+
+12 the district court has already said: I ruled on this on 
+
+13 summary judgment; don't bother me with this again. And 
+
+14 we're going to say, well, you still have to raise it in 
+
+a 50(b) motion? What -- that'd be -- that's -- that 
+
+16 there's no point. We might as well say that the lawyer 
+
+17 has to stand on his head when the motion is made or jump 
+
+18 up and down three times. 
+
+19  MR. MIZER: That's correct, Your Honor. And 
+
+the current rule -­
+
+21  JUSTICE SCALIA: The point would be that, 
+
+22 therefore, you don't have to sort out whether there -­
+
+23 there is any factual content to this issue. You don't 
+
+24 have to sort out what's a pure question of law and what 
+
+is a mixed question of law and fact, which is always 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 very difficult. What's the big deal? Make the motion. 
+
+2  MR. MIZER: Because, Your Honor, the -- the 
+
+3 district courts have never insisted, nor do the rules 
+
+4 insist, that the district courts get multiple cracks at 
+
+a legal question. And the parties -­
+
+6  JUSTICE GINSBURG: The -- the purpose of 
+
+7 50(b) -- Justice Alito brought out that it's not simply 
+
+8 the historical background of the Seventh Amendment, but 
+
+9 in that same line of cases, the Court gave a practical 
+
+reason. And the practical reason related to the 
+
+11 district court, that if the motion is made after the 
+
+12 jury comes in, the district judge would have the 
+
+13 opportunity to exercise her discretion to grant a new 
+
+14 trial.
+
+ Let's take -- is it Ms. Bright -- where the 
+
+16 Sixth Circuit said that, well, maybe there could have 
+
+17 been a retaliation claim, but the plaintiff didn't make 
+
+18 it. The district judge, given the chance, might have 
+
+19 said: I would exercise my discretion to allow the 
+
+plaintiff to have a new trial on this retaliation claim. 
+
+21 I thought it was before -- before the court and it was a 
+
+22 good claim. The Sixth Circuit thought it wasn't. 
+
+23  I mean, the purpose is to get the district 
+
+24 judge into the picture to exercise the district judge's 
+
+discretion on the very question. 
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. MIZER: But if a claim is not in a case, 
+
+2 Your Honor, then there's no discretion as to whether or 
+
+3 not to give it to the jury. And so, just as the 
+
+4 qualified immunity question doesn't -- doesn't belong 
+
+with the jury, so, too, a claim that hasn't been 
+
+6 adequately pressed doesn't go to the jury. 
+
+7  And so we're not talking about questions 
+
+8 that should and can be resolved by the jury. We're 
+
+9 talking about legal claims that the jury has no business 
+
+deciding at all. 
+
+11  JUSTICE BREYER: Your case, anyway, is a 
+
+12 case, judging from what they wrote, which -- I'm back to 
+
+13 where I started -- the mixed questions and the 
+
+14 fact-based questions are you really have to renew your 
+
+motion. And reading your opinion, it seems to me it's 
+
+16 filled with determinations of fact. They're reviewing 
+
+17 what the jury did and could have found, and on the basis 
+
+18 of what they could have found, they say you're not 
+
+19 entitled to -- or you are entitled to qualified 
+
+immunity. 
+
+21  So this would seem like a hornbook case 
+
+22 where you have to make the motion, and if you have to 
+
+23 make the motion, you didn't; and if you didn't, you 
+
+24 don't go back and review the facts as the motion on the 
+
+basis of the facts as they were before the trial. End 
+
+48
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 of matter. What's wrong with that? 
+
+2  MR. MIZER: I would disagree with the 
+
+3 characterization of the Sixth Circuit's opinion as 
+
+4 resolving factual questions, because on the contrary, I 
+
+think -­
+
+6  JUSTICE BREYER: No, no. I mean they went 
+
+7 on the jury's resolution of the facts. 
+
+8  MR. MIZER: That's correct. And so it's 
+
+9 the -- the -­
+
+JUSTICE BREYER: For that reason, they can't 
+
+11 take the facts as they were in your motion for summary 
+
+12 judgment. They have to take them on the basis of -­
+
+13 they can't just go back and review them on the -- yes. 
+
+14  MR. MIZER: And that goes to show, Your 
+
+Honor, that the Sixth Circuit wasn't -- wasn't doing 
+
+16 what Ms. Ortiz has -- what Ms. Ortiz has posited, which 
+
+17 is that they were reviewing the summary judgment record 
+
+18 order. 
+
+19  JUSTICE KAGAN: Well, Mr. Mizer, suppose 
+
+that they were. Suppose they committed an error in that 
+
+21 respect and that they thought they were reviewing the 
+
+22 summary judgment order, and not the final judgment. 
+
+23  If that's what they thought, would you agree 
+
+24 that they had no jurisdiction at that point to take that 
+
+appeal because the 30 days had run? 
+
+49
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. MIZER: Yes. Then it would be like a 
+
+2 late collateral order appeal that -­
+
+3  JUSTICE KAGAN: So your position is -­
+
+4 rests, is dependent, on our finding that the Sixth 
+
+Circuit was reviewing a final judgment order, which was 
+
+6 not what the Sixth Circuit in fact said it was doing. 
+
+7  MR. MIZER: Again, I would disagree that 
+
+8 that's what the Sixth Circuit said because of the 
+
+9 language at the bottom of page 7a of the petition 
+
+appendix, where they clearly say that it's an appeal 
+
+11 from the verdict. 
+
+12  And so because it's demonstrably not true 
+
+13 that they were treating the summary judgment order as 
+
+14 the final appealable order here, the question presented 
+
+by Ms. Ortiz is not actually presented by this case. 
+
+16 And the further arguments that a 50(b) motion was 
+
+17 required here under Unitherm were never made in the 
+
+18 Sixth Circuit and not made in her opening cert petition. 
+
+19 And so that argument also is not presented by this case.
+
+ And so I think the clear resolution is to 
+
+21 dismiss the case as improvidently granted, but if the 
+
+22 Court were inclined to the view that the merits should 
+
+23 be reached, then the clear rule that we posit resolves 
+
+24 the case, which is that orders made by the district 
+
+court along the way in the course of a district court 
+
+50
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 proceeding are adequately preserved for appellate review 
+
+2 from the final judgment once they are pressed and passed 
+
+3 on below. 
+
+4  If there are no further questions -­
+
+JUSTICE KENNEDY: I didn't hear your -- your 
+
+6 last -- are adequately preserved when? 
+
+7  MR. MIZER: Once they are pressed and passed 
+
+8 on by the district court. And the qualified immunity 
+
+9 claim here was pressed and passed on -­
+
+JUSTICE KENNEDY: So you're saying that if 
+
+11 there's anything in the record of the trial that 
+
+12 indicates that the judge ruled on the issue, there need 
+
+13 not be a 50(b) motion? 
+
+14  MR. MIZER: That's correct, Your Honor. And 
+
+the lower courts, I think, are well-equipped to assess 
+
+16 whether or not an issue has adequately been pressed and 
+
+17 passed on in the district court. 
+
+18  That has been the settled rule of appellate 
+
+19 reviewability, and I don't think that it should be 
+
+changed by imposing a Rule 50(b) requirement for 
+
+21 anything other than a sufficiency of the evidence 
+
+22 motion. 
+
+23  CHIEF JUSTICE ROBERTS: I just want to be 
+
+24 clear. Your answer to Justice Kennedy had the caveat 
+
+that except for the issue we addressed in Unitherm. 
+
+51
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. MIZER: That's correct. 
+
+2  CHIEF JUSTICE ROBERTS: Okay. 
+
+3  MR. MIZER: If there are no further 
+
+4 questions, we ask you to affirm the Sixth Circuit. 
+
+Thank you. 
+
+6  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+7  Mr. Mills, you have 3 minutes remaining. 
+
+8  REBUTTAL ARGUMENT OF DAVID E. MILLS 
+
+9  ON BEHALF OF PETITIONER
+
+ MR. MILLS: Thank you. 
+
+11  The -- one thing that's important about the 
+
+12 Sixth Circuit's language when it said it was reviewing 
+
+13 summary judgment, the single decision it cited was the 
+
+14 Eighth Circuit's decision in Goff v. Bise. Now, in that 
+
+-- in that decision, the Eighth Circuit said, yes, we 
+
+16 can review this after trial even though it was summary 
+
+17 judgment, because it's qualified immunity, but the 
+
+18 Eighth Circuit actually ignored the trial evidence. It 
+
+19 actually did this seemingly illogical step of just 
+
+looking at the summary judgment evidence as-is. 
+
+21  Now, I think what that shows is the Sixth 
+
+22 Circuit was definitely reviewing summary judgment, but 
+
+23 it, implicitly at least, recognized that would be 
+
+24 entirely illogical. So it tied its decision to the only 
+
+decision by the district court on qualified immunity, 
+
+52
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 summary judgment, and said: We've got to look at what 
+
+2 really happened in this case. And so they looked ahead. 
+
+3  Now, the reason the question is adequately 
+
+4 presented is because I think the Sixth Circuit's 
+
+decision shows this entire debate about Unitherm and 
+
+6 whether this was a quasi-50(a) review is the -- one of 
+
+7 the precise reasons the Sixth Circuit hinged its 
+
+8 decision on summary judgment. 
+
+9  I think it was quite aware that an appellate 
+
+court, since at least 1947, in Cone, cannot review the 
+
+11 sufficiency of the evidence at trial and overturn the 
+
+12 jury's verdict. And so the Sixth Circuit said: Wait a 
+
+13 second; we can look to the summary judgment record. 
+
+14 Now -­
+
+JUSTICE SOTOMAYOR: What's the rule that you 
+
+16 want us to adopt to answer the question presented? You 
+
+17 asked us to take cert on a question presented. What's 
+
+18 the answer you want us to give on the question 
+
+19 presented?
+
+ MR. MILLS: Yes. The answer is that a party 
+
+21 may not appeal the denial of summary judgment after 
+
+22 trial. 
+
+23  JUSTICE SOTOMAYOR: In no circumstances? 
+
+24  MR. MILLS: I would say that the clearest 
+
+rule is to say in no circumstances. That's the position 
+
+53
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 of the Fourth Circuit. You say, if you want to 
+
+2 challenge a judgment, simply make your motion. 
+
+3  But I would add that whichever way this 
+
+4 Court goes, the decision here has to be reversed, 
+
+because there's no doubt that the legal issue of 
+
+6 qualified immunity at summary judgment depended entirely 
+
+7 on the officers' conduct at trial. 
+
+8  CHIEF JUSTICE ROBERTS: So your rule, in 
+
+9 response to Justice Sotomayor, would basically require 
+
+anyone who has an assertion of qualified immunity to 
+
+11 take their collateral appeal or interlocutory appeal. 
+
+12  MR. MILLS: It would only require it, Your 
+
+13 Honor, to the extent that they wish to challenge that 
+
+14 decision on the summary judgment record. I'm not at all 
+
+suggesting that that appeal is required to preserve the 
+
+16 issue of immunity. It's easily preserved, but to the 
+
+17 extent a trial occurs on the officers' conduct -- and 
+
+18 the officers want to say, wait a second, we're still 
+
+19 immune -- that evidence even at trial is insufficient 
+
+for liability. You've got the right to preserve your 
+
+21 immunity issue, but you have to have the district court 
+
+22 consider the question. 
+
+23  CHIEF JUSTICE ROBERTS: So they are put to a 
+
+24 choice whether or not their qualified immunity claim 
+
+rests entirely on law or might turn out, as you say it 
+
+54
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 did in your case, to have some factual aspect? 
+
+2  MR. MILLS: That's right. And they -­
+
+3  CHIEF JUSTICE ROBERTS: Well, that's kind of 
+
+4 a tough choice to put them to, isn't it?
+
+ MR. MILLS: Well, they have an absolute 
+
+6 right to take that immediate appeal, and -- and they 
+
+7 chose not to. 
+
+8  CHIEF JUSTICE ROBERTS: So they have to take 
+
+9 the immediate appeal, and when they do so, they lose the 
+
+right to appeal at the end? 
+
+11  MR. MILLS: No, they do not. 
+
+12  CHIEF JUSTICE ROBERTS: Well, why is that? 
+
+13  MR. MILLS: They do not because if they lose 
+
+14 the appeal and they go to trial, you've got a new case. 
+
+You've got -- I shouldn't say a new case. You've got 
+
+16 new evidence of conduct. And so there's no loss of the 
+
+17 issue of immunity. It's just that it turns on the facts 
+
+18 from the trial. 
+
+19  JUSTICE SCALIA: You've assumed -- you've 
+
+assumed all the evidence in their favor at the summary 
+
+21 judgment stage. 
+
+22  MR. MILLS: Yes. 
+
+23  JUSTICE SCALIA: So you really think that 
+
+24 this is a realistic scenario where there's going to be 
+
+even more evidence against them than -- I mean, you're 
+
+55
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 assuming the evidence against them. There's going to be 
+
+2 even more evidence against them than they assumed at the 
+
+3 summary judgment? That's not going to happen very 
+
+4 often.
+
+ MR. MILLS: It happened here. 
+
+6  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+7  MR. MILLS: Thank you very much. 
+
+8  CHIEF JUSTICE ROBERTS: The case is 
+
+9 submitted.
+
+ (Whereupon, at 11:04 a.m., the case in the 
+
+11 above-entitled matter was submitted.) 
+
+12 
+
+13 
+
+14 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+56 
+Alderson Reporting Company 
+
+
+
+OfficialOfficial
+
+Page 57 
+
+40:1,2 47:8 appropriate 7:10 atypical 39:4 20:9 45:21A 
+amount 38:6 44:17 28:15 authority 14:1,4,20 big 31:19 47:1ability 7:14 
+amounted41:18,20 area 12:13 45:2 22:25 Bise 52:14able 29:9 
+ample 6:4 arguably 8:14 automatically 21:2 bit 4:17 22:13 29:20above-entitled1:11 
+analysis 41:25 argue 23:2 aware 35:1 36:10,11 body 6:656:11 
+announcement arguing 33:18 53:9 bolsters 19:23absolute 45:2,3 55:5 
+
+45:24 argument 1:12 2:2,5 awful 30:25 botching 10:21absolutely 9:1,5 
+answer9:16 11:3 2:8 3:3,6 7:13 9:5 a.m 1:13 3:2 56:10 bother46:1313:1 14:19 18:20 
+
+24:4 38:9 46:9,11 12:2,3 13:19 14:5 bottom 27:6,8 50:922:2 B51:24 53:16,18,20 14:6 16:2,8,9 bread-and-butteraccidental 12:9 
+back 8:12 14:19answered39:11 17:23 18:11 25:23 23:21act 37:13 
+
+15:10 23:17 25:18answers 45:20 28:19 29:3 30:22 break 36:24acted14:3 
+35:15 42:18 48:12anyway 48:11 30:23 31:5 32:8,9 Breyer22:14,25add 54:3 
+48:24 49:13apparently 31:22 32:9 35:4,5 37:3 23:7,18,21,23additional 9:7 
+
+background 12:1643:2 37:24 42:11,14 28:18 29:1,5,7,16address 7:18 11:9 
+47:8appeal 3:11 8:11 50:19 52:8 29:18,20 40:9addressed51:25 
+
+bad 45:12 46:2,316:11 18:19,23 arguments 35:4,7 42:18 43:21 44:4addressing 11:4 
+bare 6:1523:23 26:25 27:4,5 43:18 50:16 44:12 48:11 49:6adduced5:18 
+barred5:1927:9 30:13 33:15 articulate 36:22 49:10adequate 9:22 
+base 32:2234:16,17 42:13 asked26:24 45:13 Breyer's 24:24adequately 28:17 
+based3:18,19,2445:11,23 46:2 53:17 brief 5:8 11:17 27:532:24 48:6 51:1,6 
+
+7:4 16:4 17:1549:25 50:2,10 asking 24:21,21 36:1351:16 53:3 
+21:25 26:10 27:153:21 54:11,11,15 41:19 briefs 46:6adopt 53:16 
+27:18 37:16 39:1755:6,9,10,14 aspect 55:1 Bright 6:18 10:13affidavits 6:11 8:1 
+39:18appealable 4:19 assault 6:15,21 15:5 20:18 37:1,2affirm 52:4 
+
+basic 23:12 24:5,826:6 30:9 50:14 10:14,15 20:18,20 38:18 47:15ago 43:10 
+24:10appealed4:17 38:3 20:20 bringing 31:12agree 8:19 49:23 
+
+basically 42:22 54:9appeals 3:23 7:12 assaulted34:13 broad 42:15agreed6:20 
+basis 14:19 32:1,4,59:1,4 11:1 12:3 assertion 54:10 brought 6:1 47:7agreement 42:15 
+
+32:7 35:20 44:1513:4,6,17 15:2 assess 25:6 51:15 built 9:18 10:7agrees 41:7 
+48:17,25 49:1216:17 18:15 19:1 assessment 26:19 business 48:9ahead 7:21 10:19 
+
+begins 26:730:2 45:21 40:25 buy 31:114:2,4 15:22 53:2 
+behalf 1:15,18 2:4,7APPEARANCES assume 18:25 25:16AL 1:6 C2:10 3:7 25:241:14 25:17Alito 6:24 8:3 9:16 
+
+52:9 C 1:17 2:1,6 3:1appellate 16:6 30:19 assumed20:5,613:12,16,22 16:2 
+belief 8:15 25:2346:6 51:1,18 53:9 25:13 33:5 34:1816:19 25:8 39:16 
+belong 48:4 called5:7 11:15appendix 27:7,11 55:19,20 56:241:6 46:9 47:7 
+belt-and-suspend... 18:24 41:1335:2 50:10 assumes 19:14Alito's 11:4,7 18:1 
+
+36:19,19 calls 27:9application17:19 assuming 25:11allegations 22:1 
+benefit 16:24 19:18 case 3:4,14,25 6:941:2 32:11 36:2,22allow18:18 44:18 
+BENJAMIN 1:17 6:12,25 7:6 8:5applied45:8 40:18 42:3,5 56:147:19 
+
+2:6 25:23 11:13,15 12:13applies 44:11 45:3 assumption 26:4,4amendment 12:16 
+best 15:14 13:10 15:4,10,14apply 11:22 40:14 as-is 52:2012:24 13:10 35:13 
+better17:22 20:5,6 17:4,8,12,13,20approach14:7 attended38:1537:18,19,20 39:18 
+
+Alderson Reporting CompanyAlderson Reporting Company
+
+
+
+Official 
+
+Page 58 
+
+17:22,25 18:2,11 56:6,8 38:17 40:4,18 48:9 18:4,7,7,8 19:12 11:25 12:3,4,8,14 
+18:12 19:7,8,10 choice 26:22 27:23 Clark 42:17 20:1 25:2 32:17 13:3,4,6,8,8,17 
+20:9,10 21:25 54:24 55:4 classic 25:16 28:23 33:4 35:24 36:2 14:22 15:1,2,3,10 
+23:12,21 26:6 chose 55:7 clause 4:12 12:17 40:20 41:18,20 15:11,16,23 16:3 
+28:20 29:8 30:1 chosen27:1 35:12 42:1 54:7,17 55:16 16:17,17,17,23 
+31:21,24 32:11 circuit 4:25 6:25 7:2 clear 9:1 12:8 26:23 Cone 10:22 53:10 17:7,8,12 19:1,5 
+33:14 34:10 36:6 7:20,24 9:14,17 27:23 35:3,9 40:15 confinement 37:5 19:10 26:1 31:5,23 
+36:10,12 37:15 11:12,15,19 13:24 50:20,23 51:24 37:11 38:6,8,14 32:3,25 33:10 34:7 
+39:8 40:6 41:10,14 13:25 14:2,6,11,12 clearer27:25 31:6 39:4,6,8 37:10 38:4,11,17 
+41:16,21,23 43:3 15:9,18,21 21:9 clearest 53:24 conflicts 8:24 39:1,15,25 41:13 
+45:18 48:1,11,12 23:11 26:5,17,20 clearinghouse 45:10 confusion 4:25 41:21 45:21 46:12 
+48:21 50:15,19,21 27:4,8,10,21 28:13 clearly 4:7 16:15,23 consequences 6:13 47:9,11,21 50:22 
+50:24 53:2 55:1,14 32:10 36:13 37:14 18:9 19:3,3 24:19 consider9:6 11:2,13 50:25,25 51:8,17 
+55:15 56:8,10 38:3,24 39:2 42:1 25:5,12 27:5 32:14 13:17 17:9 18:16 52:25 53:10 54:4 
+
+cases 8:16 10:22 43:2 47:16,22 39:12 41:2,9 42:15 30:20 54:22 54:21 
+12:10,14 14:21 49:15 50:5,6,8,18 50:10 consideration 12:2 courts 5:4 26:8 
+26:18,19 30:2 52:4,15,18,22 53:7 Cleveland 1:15 considerations 27:15 30:19,19 
+33:10 36:11 42:19 53:12 54:1 client 29:9,12 39:18,19 43:16 47:3,4 51:15 
+43:12 47:9 circuits 4:24 42:16 close 31:19 consistent 18:14 court's 8:25 10:22 
+
+categorizations Circuit's 10:16 cold 20:22 constitutional 12:23 14:25 18:24 30:1 
+40:13 26:21 27:24 39:11 collateral 16:11 14:24 18:5,9 24:19 42:16 45:22 
+
+category 40:8 42:7 49:3 52:12,14 18:15 30:2,9 42:13 35:7 37:6 cracks 47:4 
+caveat 51:24 53:4 43:8,19 50:2 54:11 content 46:23 create 31:15 
+caved22:12 circumstances Columbus 1:17 context 12:8 24:6 creates 30:25 
+cell 21:7 43:25 53:23,25 come 8:12 14:19 30:3,8 cross 3:13 10:13 
+cert 7:7 50:18 53:17 circumventing 18:13,18 25:18 continue 30:12 18:9 
+certain 25:11,12 14:24 43:14 45:23 contrary 49:4 crossed14:24 18:4 
+certainly 10:8 17:3 citations 10:4 comes 47:12 controverting 40:20 19:4 25:6 29:10,12 
+certiorari 9:10 cite 33:25 34:2 comment 6:12 converse 31:14 33:7 
+challenge 25:16 36:13 committed49:20 correct 8:13 9:20 cross-examination 
+
+54:2,13 cited11:16 52:13 compelling 17:4 13:1 37:13 41:14 6:17 15:5 20:1,18 
+chance 17:9 47:18 claim 3:13 5:13 complicated30:10 46:19 49:8 51:14 22:13 
+change 6:9 17:5 11:10,24 12:15 component 25:3 52:1 cross-examined8:2 
+
+21:8 45:6,16 28:6 33:2,2,5 components 24:17 correctness 36:3 crucially 6:20 
+changed16:1 51:20 36:24 37:2,7,15,16 concede 9:17,21,22 couched27:5 current 46:20 
+characterization 37:16 38:25 40:8,9 9:23 27:14 44:10 counsel 18:11 25:21 currently 45:16 
+
+49:3 40:10 41:17 42:14 conceded10:13 35:11 52:6 56:6 custody 38:22 
+Chief 3:3,8,15 4:12 47:17,20,22 48:1,5 concerning 30:1,2 couple 7:17 10:17 
+
+4:20 18:10 19:6 51:9 54:24 concerns 13:10 40:2 16:10 36:7 D 
+
+21:10,18 22:3 claiming 11:6 concession 3:17 course 4:3 16:11 D 3:1 
+25:21,25 30:7 claims 3:18,19 8:18 conclude 15:24 50:25 DAVID 1:15 2:3,9 
+31:10 40:14 43:1 12:6 17:20 19:15 conditions 38:7 39:5 court 1:1,12 3:9,23 3:6 52:8 
+45:13 51:23 52:2,6 24:10,12 30:4,6,6 conduct 3:25 4:2 5:12,23 7:12 9:1,4 day 24:25 
+54:8,23 55:3,8,12 30:14 36:14,14,25 13:7 14:23 16:18 9:4 10:20,24,25 days 49:25 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 59 
+
+deal 31:19 47:1 differently 14:15 49:15 50:6 everybody 26:17 10:11 19:10 28:25 
+debate 11:20 53:5 differs 35:25 double 31:12 41:7 29:3 54:13,17 
+decide 13:17 difficult 25:9 30:10 doubt 19:18 24:17 everybody's 46:1 extra 38:13 
+deciding 48:10 31:3 40:14 47:1 25:5 54:5 evidence 3:12,18,21 
+decision 3:11 5:3 difficulties 31:15 due 37:2,16 38:6 4:1 5:1,6,11,13,18 F 
+
+7:21 8:7 14:3 difficulty 30:12,25 D.C 1:8 5:22 6:6 7:2,4,22 fact 6:4,4 11:8 22:6 
+15:15,16,25 52:13 31:12 9:2 10:25 13:7 22:11,18,19 24:3,3 
+52:14,15,24,25 direction 44:19 E 14:15,16 15:2,12 24:5,11,11,13 
+53:5,8 54:4,14 disagree 17:17 49:2 E 1:15 2:1,3,9 3:1,1 17:14,15 20:2 25:12 31:20 34:14 
+
+decisions 8:25 39:19 50:7 3:6 52:8 23:12,13,14 27:12 34:18 41:3 43:24 
+42:16 disagreement 16:21 earlier20:15 45:13 28:5 29:11,22 31:7 44:3 45:25 46:25 
+
+defendants 7:3,13 discretion 15:6 easier30:16,18 31:19,24 33:3 48:16 50:6 
+8:8 16:25 18:25 47:13,19,25 48:2 easily 54:16 35:18 42:23 43:15 facts 4:4,5 10:3,5,11 
+
+defenses 3:21 5:8 discussing 6:11 effort 36:19 43:23 44:6,18,21 10:12,17,18,19 
+definitely 10:9 discussion 26:2 Eighth 15:21 52:14 44:22 45:1 51:21 14:2,4 15:22,25 
+
+52:22 dismiss 50:21 52:15,18 52:18,20 53:11 16:19,22 17:4,14 
+deliberate 41:17,18 dismissal 39:22 either10:16 22:18 54:19 55:16,20,25 17:16,22 18:12,13 
+
+42:1 dismissed38:17 36:15 56:1,2 18:17,25 21:12,12 
+demonstrably 50:12 dispute 34:15 35:5,6 element 19:21,24 evidentiary 30:5 25:7,11,13,17 
+demonstrated26:3 disputed4:5 21:12 employed11:15 32:1,4,4,7 44:11 28:20,20 29:22 
+denial 3:10 8:4 34:7,12,14 enter3:23 16:16,16 44:15 30:24 32:11,12 
+
+18:15 23:23 26:8 disputes 22:5 19:11 exact 11:17 34:7,8 35:5,6 36:4 
+26:10 27:16,18 disputing 11:12 Enterprises 36:12 exactly 7:19 8:12 36:23 40:18 48:24 
+53:21 dissent 40:2 entire 8:24 10:2 16:20 23:16 48:25 49:7,11 
+
+denied21:21 33:14 dissenters 11:21 14:25 53:5 example 5:14 6:8 55:17 
+denies 16:3 distinction11:13,14 entirely 21:9 52:24 9:23,24 10:12 factual 7:9 19:20,23 
+depend 3:21 5:6,10 34:11 54:6,25 13:11 20:14 34:11 22:4 24:22 25:1 
+
+26:18 30:24 distinguish12:14 entitled7:3 8:8 45:17 46:8 30:15 34:15 46:23 
+depended54:6 distinguishing 8:17 18:21,22 48:19,19 examples 5:8 49:4 55:1 
+dependent 50:4 district 9:3 10:20,24 entry 7:14 exception 15:19 fact-based48:14 
+depending 36:8 13:8 14:22,25 15:3 error11:21 49:20 26:11 27:19 43:12 failing 13:20 
+depends 3:12 40:25 15:10,11,16 16:3 especially 3:11,16 exchange 13:23 failure 33:10 
+described17:7 16:17,23 17:8,12 ESQ 1:15,17 2:3,6,9 Excuse 44:9 fair 22:23 
+determinations 21:24 32:25 37:9 essence 11:6 exercise 17:2 47:13 fairly 40:13 
+
+48:16 38:11,17 45:18,22 essentially 8:23 47:19,24 fairness 39:20 
+determined7:3 46:7,12 47:3,4,11 13:5 existed9:19 fall 4:11 24:23 
+determining 25:8 47:12,18,23,24 establish25:3 exists 33:3 40:16 falls 44:19 
+difference 3:17,20 50:24,25 51:8,17 established4:7 expand 45:7 false 26:4 
+
+5:11,21 29:25 52:25 54:21 16:15,23 18:9 19:3 explain 14:11 34:22 favor 55:20 
+30:23 divides 30:3 19:3 24:19 25:5,12 explained15:1 19:5 feel 15:4 17:8,13,14 
+
+different 5:15 9:19 doctrines 11:21 32:14 39:12 40:4 explains 13:3 feeling 17:12 
+14:13 22:4 29:21 document 38:11 41:2,9 explanation 35:11 Fifth14:11 
+32:8,16 35:3,20 doing 7:22 10:18 estoppel 43:9,19 expressly 15:18 figure 30:19 
+37:15 41:19,24 27:25 28:15 43:7 ET 1:6 extent 3:23 9:22 filed5:16 7:15 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 60 
+
+fill 4:14 15:8 21:19,23 56:5 imagine 23:18 instance 28:23 
+filled48:16 27:13 31:20 32:19 hard 31:11 immediate 18:22 instances 10:9 
+final 26:6 49:22 50:5 33:8 34:22 35:9 hardship 39:5 55:6,9 43:14 
+
+50:14 51:2 36:6 38:12,20 39:7 Harlow33:6,23 34:5 immediately 6:14 instruction 33:11,17 
+find 23:4 30:8 32:1 40:7 47:6 34:8 36:4 20:17 33:20,21 34:4 
+
+44:16,24 Ginsburg's 42:22 head 46:17 immune 54:19 38:10 
+finding 35:19 50:4 give 19:18 33:10 hear 3:3 51:5 immunity 3:18,22 instructions 15:10 
+fine 29:18 44:2,5 48:3 53:18 heard 29:11 44:14 3:24 5:12,12 15:17 33:13 
+finish20:24 given14:18 32:12 46:2 15:20 16:4,13,14 insufficient 25:19 
+first 3:4 6:14 7:19 33:5,18 34:8 36:2 heart 4:24 10:22 18:6,12,17,22 19:7 54:19 
+
+9:25 15:3,5 16:10 47:18 held 37:14 38:24 23:19 25:3 26:11 intent 42:4 
+17:9 20:17 31:2 go 10:2 19:24 23:17 helps 10:17 27:18,22 28:7 interlocutory 54:11 
+35:13 37:18,19 29:10 35:10,14 highlights 7:23 9:13 29:23 30:3,3,6,14 interrupt 3:16 
+
+fixed8:21 42:18 48:6,24 13:23 33:17 34:19,19 intersection 29:10 
+following 34:24 49:13 55:14 hinged53:7 40:4,18 41:1 42:14 29:13 
+follows 26:14 goes 10:22 13:2 hinges 26:3 48:4,20 51:8 52:17 invocation 14:8 
+footnote 13:1,2 23:14 49:14 54:4 historic 35:15 52:25 54:6,10,16 invoke 18:21 
+foreclosed42:15 Goff 52:14 historical 47:8 54:21,24 55:17 invoked15:18 
+forfeited11:19 14:5 going 3:23 4:15 5:2 history 12:22 implicated40:3 invokes 17:6 
+forfeiture 9:5 12:7 13:6 18:18 19:11 hold 8:4 implicitly 7:25 52:23 involve 43:23 
+
+14:9 20:4,5 28:5 29:9 holding 36:7 38:4 implied4:19 involves 22:18,20 
+forget 29:8 30:24 31:18 41:2 39:2,11 42:8 important 13:23 42:24,25 
+forgets 23:25 43:5 45:10,23 46:1 Honor4:10 11:11 21:7 52:11 Iqbal 19:5 
+formulation40:24 46:14 55:24 56:1,3 15:13 20:8 22:9 imposing 51:20 issue 4:5,8,9,21,22 
+forth22:17 Gonterman 11:16 25:19 27:2 29:2,25 improper15:24 5:24 8:15 11:17 
+forward 30:24 good 5:8 13:10 31:15 32:24 35:2 improvidently 50:21 13:20 16:4,5 17:1 
+found 48:17,18 30:23 47:22 35:23 41:24 44:3 incident 20:25 23:15 27:21 28:16 
+founded17:21 gotcha 46:10 45:15 46:4,19 47:2 inclined50:22 30:10 32:24 33:1 
+Fourth54:1 governing 45:1 48:2 49:15 51:14 include 25:4 33:11,14 40:24 
+frankly 14:7 22:12 grant 13:16,21 15:6 54:13 including 26:17 41:11 44:17,24 
+full 28:1 47:13 horn 24:8 36:11 45:22,24 46:11,23 
+fully 44:14 granted7:7 9:10 hornbook 24:6,10 incomplete 42:21 51:12,16,25 54:5 
+full-blown 46:6 13:14 17:10 50:21 45:6 48:21 incorporating 10:11 54:16,21 55:17 
+fundamental 7:23 grounded39:19 horrible 45:14 indicated35:11 issues 4:18 5:5 
+
+16:13 grows 20:2 hypothetical 18:1 indicates 51:12 24:15 
+further50:16 51:4 guard 34:13 29:15 41:7 indifference 41:17 issue's 11:19 
+
+52:3 guess 24:1 41:19 42:1 
+guidance 40:15,16 I individual 38:5 J 
+
+G ignore 8:2 23:16 inquiries 24:17,23 Johnson 18:24 31:7 
+G 3:1 H 28:3 25:1 31:9 32:15 40:16 
+general 1:17 5:1 halves 30:4 ignored52:18 inquiry 16:15 18:6 41:23 
+
+12:6 happen56:3 ill 38:14 42:10 joint 35:2 
+Ginsburg 5:20 6:8 happened20:16 illogical 7:25 23:16 insist 47:4 Jones 18:24 32:15 
+
+12:11,25 14:10 23:16 41:8 53:2 28:10 52:19,24 insisted47:3 40:16 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 61 
+
+Jordan 1:6 3:4 6:14 jury's 49:7 53:12 26:7,13,16 27:7,15 17:16,19,21 19:2 lower51:15 
+6:18 20:16,25 Justice 3:3,8,15 4:3 33:9 40:23 41:5,11 19:12 23:15 24:14 
+34:13 36:25 4:11,12,20 5:20 51:5,10,24 24:16,18 28:16,19 M 
+
+Jordan's 42:4 6:8,24 8:3 9:8,15 key 16:10 30:6,15 32:24 33:2 majority 11:20 
+judge 21:24 29:8 9:16,25 11:3,4,7 kind 41:20 43:22 33:2,6,22 34:6 making 11:13 34:24 
+
+47:12,18,24 51:12 11:24 12:11,25 55:3 36:14,14 40:4,9,21 map31:6,10 
+judge's 15:6 47:24 13:12,16,22 14:10 kinds 43:14 42:6,9 43:18 47:5 matter1:11 5:17 6:5 
+judging 48:12 15:8 16:2,19 17:11 know7:6 16:18 48:9 54:5 7:4,10,11,14 8:9 
+judgment 3:10,24 18:1,10 19:6,13,17 18:12,13 19:14 legally 31:25 32:4 13:18 36:15,23 
+
+4:16,18,21 5:2,3,5 19:20 20:4,11,13 21:18,23 25:19 36:20 44:15 37:4,11 38:4 39:12 
+5:22 6:3,10,15 7:1 20:24 21:10,18,19 36:6 43:8 44:4,25 let's 5:16 23:18 39:21 42:6 43:17 
+7:4,10,11,14,21 21:23 22:3,14,25 45:22 36:24 47:15 44:17,22,23 46:3 
+7:24 8:1,5,7,9,22 23:7,18,21,23 24:9 knowing 18:17 liability 3:14 28:21 49:1 56:11 
+9:14,20 10:2,12,16 24:14,20,24 25:8 knowledge 20:15 54:20 matters 24:10 30:9 
+13:17,18 14:1,3,14 25:21,25 26:7,13 21:17 22:11 38:19 liable 29:13 45:5 
+15:15,19,25 16:3 26:16,24 27:7,13 42:21 limitations 5:9,14 mean 9:9 10:6 12:11 
+16:16,16,24 18:8 27:15 28:2,9,18 knows 31:18 5:16,19 43:18 17:20,24 19:4 23:1 
+18:16,21 19:11 29:1,5,7,16,18,20 line 3:13 8:24 14:21 28:22 29:7 44:11 
+20:7 21:8,11,13,15 30:7 31:9,10,17,20 L 14:24 18:5,9 19:4 46:9 47:23 49:6 
+21:20,21 22:16,18 32:19 33:8,9,19,25 lack 11:22,23 12:1 24:24 25:6 30:2 55:25 
+23:15,17,24 26:5,9 34:21,22 35:8,9 lacked9:5 11:6 31:7,7,9 33:6 means 23:13 28:3 
+26:10,25 27:3,16 36:6,21 37:18,21 lacks 9:1 13:4,4 36:22 47:9 43:9 
+27:17,22 28:4,11 37:24 38:9,12,20 language 50:9 52:12 list 21:11 meant 21:5 22:6 
+28:14 32:6 33:1 39:7,16 40:1,7,9 large 39:9 listed27:4 27:21 
+35:21 36:15 38:18 40:14,22,23 41:5,6 largely 6:7,8 litany 12:18 medical 38:16 
+39:21 43:17 46:13 41:11,15,16 42:18 larger6:2 litigated43:10 merits 3:12 26:9 
+49:12,17,22,22 42:22 43:21 44:4,9 late 5:17 50:2 little 4:17 28:9 27:17 39:14 50:22 
+50:5,13 51:2 52:13 44:12,13,21 45:12 law3:19 4:8,10,22 location 21:6 mess 31:11 
+52:17,20,22 53:1,8 45:13,13,19 46:9 5:7 7:4,10,11,15 long 46:8 Michelle 1:3 5:16 
+53:13,21 54:2,6,14 46:21 47:6,7 48:11 8:9 13:18 16:5 look 5:13 7:25 14:2 middle 30:16 
+55:21 56:3 49:6,10,19 50:3 18:25 22:19,21 14:4,12,15,16 28:5 Mills 1:15 2:3,9 3:5 
+
+judgments 19:17 51:5,10,23,24 52:2 24:3,5,11,13 29:24 28:5,19 29:22 53:1 3:6,8,20 4:9,23 
+jump 46:17 52:6 53:15,23 54:8 30:1 32:14 36:15 53:13 5:20 6:7 7:17 8:19 
+jurisdiction11:12 54:9,23 55:3,8,12 36:23 37:4 38:5 looked22:16 42:20 9:11,15,21 10:8 
+
+11:14,23 12:12 55:19,23 56:6,8 39:12,22 41:3,12 53:2 11:11 12:5,25 
+49:24 Justice's 43:1 43:6,11,17 44:17 looking 10:19 15:22 13:12,15,22 14:17 
+
+jurisdictional 8:16 44:23 45:2,3,6,25 19:12 28:15 42:2 15:13 16:9 17:3,11 
+8:17 11:5,9,10 K 46:3,11,24,25 52:20 17:24 18:20 19:9 
+
+jury 15:3 27:9 31:25 K 36:11 54:25 looks 5:22 19:16,19,22 20:8 
+31:25 34:5,6 35:19 KAGAN 9:15,25 lawyer23:25 29:8 lose 55:9,13 20:12,14 21:3,16 
+35:22 38:10 40:5 17:11 24:9,14,20 31:18 43:22 46:16 loser11:18 12:18 21:22 22:2,9,23 
+44:14,16,18,23,24 26:24 40:22 41:16 leading 8:25 loss 55:16 23:6,9,20,22 24:7 
+47:12 48:3,5,6,8,9 49:19 50:3 learns 35:14 lost 24:1,2,4 24:9,12,16,25 
+48:17 Kennedy 4:3,11 legal 3:13 16:7,14 lot 30:18,25 44:5 25:15 52:7,8,10 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 62 
+
+53:20,24 54:12 21:21 22:15,17 November1:9 Ortiz1:3 3:4 5:16 Petitioner1:4,16 2:4 
+55:2,5,11,13,22 23:24,25 26:9,25 number5:4,8 10:9 10:14 20:15 21:1 2:10 3:7 52:9 
+56:5,7 27:3,16 28:23 29:4 21:16 22:10 31:4 Petitioner's 35:11 
+
+miniature 46:5,6 30:18 31:18,23 O 32:1,12 34:12 38:3 phrases 27:24 
+minute 23:5 32:2,5,21 34:23,24 O 2:1 3:1 38:25 39:13 42:11 picking 10:17 
+minutes 52:7 34:25 35:16,16 object 7:14 11:25 42:12 49:16,16 picture 47:24 
+misapprehended 36:7,8,9,18 39:21 12:1 50:15 piece 21:7 
+
+26:17 41:22 43:18,23 objective 33:6,22 Ortiz's 26:3 31:16 pieces 16:10 
+misconduct 5:18 46:15,17 47:1,11 34:5 42:2 35:6 place 6:22 
+
+20:2 48:15,22,23,24 objectively 42:7 ought 43:6,7 placing 38:5 
+misread 11:8 49:11 50:16 51:13 obligation21:11 outcome 46:3 plain 11:21 
+missing 10:18 51:22 54:2 22:7,10 outside 22:11 43:7 plaintiff 5:23,25 
+Mitchell 30:1 32:15 motions 31:8 36:15 occurred33:4 overturn 53:11 19:15,18 20:6,12 
+
+41:3 36:17 45:5,9 46:5 occurs 54:17 40:19 47:17,20 
+mixed22:18,21 24:2 46:8 officer21:5,6 P plaintiff's 22:1 36:3 
+
+24:11,12 25:9,13 motivated8:15 officers 18:21 25:2 P 3:1 please 3:9 26:1 
+37:8 40:8,10 46:25 move 22:15 31:21 54:7,17,18 page 2:2 11:17 point 5:7,21 6:16 
+48:13 33:1 34:15 39:22 officials 3:25 20:19 27:6,8 46:1 8:20 9:7,8,10,12 
+
+Mizer1:17 2:6 39:23 Ohio 1:15,18 45:18 50:9 9:23 10:13 11:4 
+25:22,23,25 26:12 muddy 10:10 46:7 pages 35:2 46:8 13:2,23 14:9,19,21 
+26:15,21,24 27:2 multiple 47:4 okay 8:6 15:21,21 Paper10:23 16:13,24 18:5 
+27:13,20 28:8,12 29:10,13,18 42:18 paragraph 10:1 19:23 21:14,24 
+28:25 29:2,6,15,17 N 43:21 52:2 part 17:20,21 37:7 28:24 34:3 46:16 
+29:19,25 31:2,14 N 2:1,1 3:1 once 32:25 51:2,7 participate 38:18 46:21 49:24 
+32:8,23 33:16,21 name 34:13 opening 26:13 27:14 particular12:8 pointless 17:2,6 
+34:2 35:1,23 36:10 nature 36:1 50:18 32:17 33:3,4 35:24 46:10 
+37:14,19,23 38:2 necessarily 23:7 opinion 7:1 9:17 40:20 41:20 points 7:18 
+38:16,23 39:10,16 need7:18 18:12,13 10:3 27:11,25 particularly 10:20 policeman43:10 
+39:24 40:12,22 30:25 32:20 51:12 45:22 48:15 49:3 parties 45:17 47:5 policy 6:19 
+41:1,10,13,17,24 needed29:3 opportunity 15:6 Partly 29:2 posit 50:23 
+43:16 44:2,8,20 needs 3:24 39:21 47:13 party 44:14,16,24 posited42:12 49:16 
+45:4,15 46:4,19 negligence 41:21 opposed11:10 53:20 position 32:23 37:25 
+47:2 48:1 49:2,8 neither22:20,20 opposing 21:11 passed32:25 51:2,7 38:2 50:3 53:25 
+49:14,19 50:1,7 never7:11,12,15 opposition 21:14 51:9,17 posits 40:19 
+51:7,14 52:1,3 10:20 20:4,5 29:9 22:7 PAULA 1:6 possibly 11:1 
+
+moment 34:3 46:7 47:3 50:17 oral 1:11 2:2,5 3:6 peek 7:21 post-trial 10:6 28:17 
+Monday 1:9 new6:4 15:6 17:9 25:23 pen8:6,14,21 28:19 
+months 43:10 39:23 41:23 47:13 order14:17 16:11 perfectly 26:23 power9:2,6 11:1,7 
+moots 5:1 47:20 55:14,15,16 18:15 26:5,6 28:17 27:23 43:1 11:14,22,23 12:1,9 
+morning 3:4 normally 26:8 27:15 30:2 41:22 42:13 perspective 6:16 12:12,12,12,22 
+motion 4:18,21 7:16 29:7 42:13 49:18,22 44:3 13:4,4 14:9 
+
+8:10 10:2 11:5,9 notes 41:3 50:2,5,13,14 petition 27:7,10 practical 47:9,10 
+12:19 13:19,20 notice 27:4 orders 27:3 50:24 50:9,18 precise 53:7 
+16:7 17:1,6 21:20 notoriously 25:9 ordinary 38:7 petitioned39:1,13 preclude 21:12 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 63 
+
+precluded6:21 properly 31:4,5 7:9 9:3 11:7,9 13:5 real 23:12 removing 21:6 
+10:15 12:2 20:21 proposed40:9 13:8,14 14:1,22,23 realistic 55:24 renew22:15 23:25 
+
+prejudice 39:23 protections 17:7 16:7,22 18:3,6,25 really 4:16 8:8,16 28:24 29:14 30:17 
+presentation 6:4,5 protective 38:22 19:2 22:18,19,21 9:13 23:11 28:3 48:14 
+presented21:25 prove 5:24 29:9 33:4 23:14 24:2,3,5,18 48:14 53:2 55:23 renewed16:6,7 
+
+26:3 39:14 50:14 proved5:25 28:20 25:4,9,14 26:3 reason 12:17 13:3 22:19,22 45:25 
+50:15,19 53:4,16 proven32:17 35:25 31:3 32:6,16,16 31:22 34:24 35:1 repeat 12:19 
+53:17,19 36:1 42:4 34:6,9,12,16,19 35:15 47:10,10 repeatedly 15:1 
+
+presents 7:7,8 provision 12:23 35:17,24,25 36:1,5 49:10 53:3 reply 11:16 
+preserve 4:22 33:2 44:25 36:5 38:1,10,21,23 reasonable 42:3,7 report 6:22 
+
+41:23 42:14 54:15 Pulp 10:23 39:3,3,12,14 41:8 44:16,23 reported6:14 20:17 
+54:20 punitive 38:21 41:18 43:6,8,11 reasonableness 20:25 
+
+preserved27:22 punitiveness 38:24 44:7 45:20 46:24 33:6,22 34:6 reporting 6:19 
+28:7 32:24 33:14 pure 22:21 24:3,5 46:25 47:5,25 48:4 reasoning 32:10 request 27:1 33:23 
+38:25,25 42:11 25:4 41:11 43:6,11 50:14 53:3,16,17 reasons 53:7 38:10 
+51:1,6 54:16 46:11,24 53:18 54:22 REBUTTAL 2:8 requested33:11,16 
+
+preserves 33:11 purely 7:8 16:4,7,14 questioning 36:3 52:8 require 54:9,12 
+pressed32:25 48:6 17:16,19,21 19:2 questions 5:7 8:17 recognize 23:11 required18:23 21:1 
+
+51:2,7,9,16 19:12 24:14,16,18 8:18 16:14 17:16 recognized52:23 33:12 36:16,20 
+pretty 42:19 30:14,15 36:14 17:19 24:11,12,21 recognizes 4:25 45:5 50:17 54:15 
+prevail 22:4,6 40:9 44:25 24:22 48:7,13,14 recognizing 7:25 requirement 42:10 
+prevailed21:19 purported14:16 49:4 51:4 52:4 18:14 32:5 42:13 45:8 51:20 
+previous 41:21 purpose 43:5 47:6 quickly 3:16 record 6:2,2,15 8:1 requires 5:12 25:17 
+pre-emption5:9 47:23 quite 5:15,21 53:9 9:18,19,19,23 10:3 requisite 15:2 
+
+43:19 purposes 34:8,18 quoted27:15 10:7,21 14:12,13 reserve 25:20 
+pre-emptive 14:6 put 19:25 21:1,3,13 26:19 28:1,11,14 resolution 49:7 
+principle 12:6 23:12 21:13 22:7,10,14 R 28:16 34:1,3 35:21 50:20 
+prior8:7 27:6 39:18 54:23 55:4 R 3:1 35:21,21 38:11 resolve 34:5 40:5 
+prison 6:19 20:17 putting 21:6 37:4,10 radically 45:16 40:25 42:5 49:17 resolved4:18 32:11 
+
+38:7 raise 16:25 43:17 51:11 53:13 54:14 48:8 
+problem7:23 8:20 Q 46:14 records 10:5 resolves 34:7 50:23 
+Procedure 35:14 qualified3:18,22,24 raised7:11,12 8:11 refer38:12 39:25 resolving 49:4 
+procedures 20:17 5:11,12 15:17,20 27:22 28:4,16,19 referred7:1 8:7 respect 36:16 49:21 
+proceed12:12 16:12 16:4,13,14 18:6,12 31:4,4 36:14 45:11 referring 12:22 Respondent 6:18 
+proceeding 51:1 18:17 19:7 23:19 raises 13:9 refers 27:11 15:5 22:12 
+process 14:25 37:2 26:10 27:18,21 raising 21:14 regarding 33:17 Respondents 1:18 
+
+37:16 38:6 28:6 29:23 30:3,3 rationale 17:15 regardless 9:4 14:9 2:7 5:7,18 6:11,16 
+processing 8:18 30:6,14 33:17 reach 17:18 31:6 rejects 16:23 8:23 13:24 18:2 
+
+11:10,24 12:6,15 34:18,19 40:4,17 reached50:23 related23:4 47:10 19:25 25:24 
+proffered33:13 41:1 42:14 48:4,19 read 4:19 26:22 27:8 relation 6:12 responding 40:1 
+prong 41:25 42:2 51:8 52:17,25 54:6 42:19 44:25 remaining 52:7 response 4:19,20 
+prongs 37:3 54:10,24 reading 11:19,20 remand 15:9 42:3,6 54:9 
+proper14:8 33:24 quasi-50(a) 53:6 20:22 37:9 48:15 remanded8:5 rests 50:4 54:25 
+
+34:4 question 5:23 7:7,8 reads 44:13 remanding 8:22 result 10:7 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 64 
+
+retaliate 37:7 roughly 23:1,2 scenario 55:24 39:10 42:1,7 47:16 subject 12:7 
+retaliated37:10 routine 39:5 second 5:5 6:20 47:22 49:3,15 50:4 submissions 37:9 
+retaliation 37:15 rule 5:1 7:15 8:10,15 10:15 11:18 20:19 50:6,8,18 52:4,12 submitted56:9,11 
+
+47:17,20 8:24 10:21 11:5 25:2 43:2 53:13 52:21 53:4,7,12 sufficiency 9:2 
+retaliatory 37:13 12:2,14,15 16:7 54:18 slightest 16:21 10:25 13:7 25:16 
+reverse 17:25 17:1 22:14 23:3 see 15:14 22:10 slip 8:6,13,14,21 31:7 35:25 36:24 
+reversed54:4 24:6,8,10 25:16,17 28:6 36:22 slippery 40:13 42:23 43:15,23 
+review5:2 8:4,24 26:11,18 30:17 seemingly 52:19 Solicitor 1:17 44:6 51:21 53:11 
+
+9:2,14,22 10:18,25 31:6,13,14 32:22 segregated37:11 solitary 37:5 sufficiency-based 
+11:22 13:5,14,16 35:10,17,17 42:23 38:5 39:4,8 somebody 23:8 30:5 
+13:21 15:15,19,24 43:1,4 45:2,3,4,4,9 segregation 21:2,4 sorry 3:15 36:12 sufficient 3:13 4:22 
+16:5,6 26:8 27:16 45:24 46:2,5,7,10 send 15:10 sort 9:5 16:12 30:10 15:12 32:1,4,7 
+39:1,13 48:24 46:20 50:23 51:18 sense 23:3 31:11 46:22,24 33:3 35:18 42:24 
+49:13 51:1 52:16 51:20 53:15,25 sentence 26:22 sorts 24:22 42:25 44:15 
+53:6,10 54:8 27:14 Sotomayor 11:3,24 suggest 10:1 13:25 
+
+reviewability 51:19 ruled9:3 46:12 separate 21:5 36:5 20:24 28:2,9 33:19 suggested40:15 
+reviewable 3:10 51:12 37:21 33:25 34:21 35:8 suggesting 31:10 
+reviewed7:2,20 rules 11:25 12:6 separated10:14 36:21 37:18,21,24 54:15 
+reviewing 7:23 47:3 serious 13:9 38:9 41:15 45:12 suit 5:17 
+
+10:16 13:6 15:2 ruling 10:1 13:8 sets 26:14 45:19 53:15,23 summary 3:10 4:16 
+26:5 28:10,13 14:22 19:21,24 settled51:18 54:9 4:18,21 5:2,3,5,22 
+48:16 49:17,21 25:10 Seventh 12:16,23 Southern 45:18 46:7 6:3,10,15 7:1,21 
+50:5 52:12,22 run 49:25 13:9 35:13 36:12 speaking 35:12 7:24 8:1,5,7,22 
+
+Re-examination run-of-the-mine 39:17 40:1,2 47:8 species 32:9 9:13,19 10:2,12,16 
+12:17 35:12 12:15 sexual 6:14 split 4:24 14:1,3,13 15:15,19 
+
+right 4:6,7 6:6,8 shackled38:14 square 39:3 15:24 16:3,24 18:7 
+7:16,19 9:11 13:2 S show29:12,22 49:14 squarely 39:25 18:16,21 19:17 
+15:8 16:15,22 S 2:1 3:1 shown 35:7 stage 6:10 14:14 20:7 21:8,11,12,15 
+18:20 19:16,19,22 Sandin 37:4,12 38:5 shows 52:21 53:5 20:7 26:14 31:13 21:20,20 22:16,17 
+21:21,22,22 22:2 38:13 39:3,11 side 22:5 24:23 35:4 55:21 23:14,17,24 26:5,9 
+24:19 25:11 30:8 saw15:4,5 significant 39:4 stand 46:17 26:10,25 27:3,16 
+37:6 38:3 40:10 saying 8:8 11:6 simple 18:4 standard 33:22 27:17,22 28:4,10 
+42:22 54:20 55:2,6 14:10 16:25 19:7,9 simply 8:21 44:23 started13:13 48:13 28:13 33:1 35:21 
+55:10 22:5 25:2 28:13 47:7 54:2 state 22:24 38:17 46:13 49:11 
+
+rightly 5:21 29:21 32:3,20,22 single 52:13 statement 42:22 49:17,22 50:13 
+rights 4:6 37:10 40:8 42:24 situation 20:3 25:10 States 1:1,12 42:17 52:13,16,20,22 
+right's 25:4 41:8 51:10 Sixth 6:25 7:2,20,24 statute 5:9,14,15,19 53:1,8,13,21 54:6 
+ROBERTS 3:3,15 says 10:24 29:8 9:14,17 10:16 43:18 54:14 55:20 56:3 
+
+18:10 19:6 21:10 36:13 43:3 11:12 13:24,25 stems 12:23 support 28:21 
+21:18 22:3 25:21 SCALIA 9:8 19:13 14:2,6,12 15:9,18 step52:19 suppose 4:5 5:16 8:3 
+30:7 51:23 52:2,6 19:17,20 20:4,11 21:8 26:4,17,20,21 steps 21:4 17:17,18 33:9 41:7 
+54:8,23 55:3,8,12 20:13 31:9,17 44:9 27:4,8,10,20,24 Stevens's 40:2 43:21 49:19,20 
+56:6,8 44:13,21 46:21 28:13 32:10 36:13 student 35:14 Supreme 1:1,12 
+
+role 6:11 14:25 55:19,23 37:14 38:2,24 39:2 stuff 44:11 sure 16:13 39:14 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 65 
+
+45:20 55:23 trying 23:2 37:21 verdict-winner we've 8:13 29:11 
+surely 28:18 44:19 thinking 43:13 turn 39:19 45:9 39:20 41:5 53:1 
+surprised12:21 thinks 10:17 54:25 version 36:4 whatsoever6:12 
+
+thoroughly 42:20 turns 24:4 55:17 versus 10:12 8:23 
+T thought 15:11 21:24 two 4:6 10:15 22:20 videotape 16:20 whichever54:3 
+
+T 2:1,1 36:11 23:5,10,10 28:22 30:4 35:3 36:25 view50:22 Williams 11:16 
+take 3:16,17 14:1 37:9 42:21 47:21 37:3,8 40:17 viewing 27:25 28:1 wish54:13 
+
+16:11 18:22 30:11 47:22 49:21,23 types 35:3 40:17 violate 37:5 witnesses 15:4 
+41:17 47:15 49:11 three 22:4 46:18 typically 5:6 18:23 violated6:19 20:16 word 12:9,21 26:22 
+49:12,24 53:17 tied52:24 violation 32:13 35:7 27:23 
+
+U54:11 55:6,8 time 4:13 25:20 37:12 38:6 words 18:16 27:1 
+taken6:22 14:3 21:4 uncontrovertedtimes 46:18 violent 6:21 20:20 work 40:24 43:1 
+takes 34:7 32:13told 14:14 31:23 Virginia 10:23 44:1,2,5 
+talk 10:5 understand 3:2534:12 vis-à-vis 38:7 39:5 worst42:4,5 
+talking 4:1,13 10:6 4:14 7:13 9:16 touching 32:21 wouldn't 6:5 30:16 
+
+W10:9 17:13 20:3 18:10 19:11 25:1,7 tough 55:4 39:7 45:23 
+48:7,9 30:22 wait 5:4 11:18 53:12 transcript 20:19,23 wrong 21:9 27:15 
+
+talks 10:3 17:12 understanding 10:4 54:18treated45:17 29:1 40:11 43:5 
+Tenth 11:15,19 39:17 45:6 waived7:15 8:10 treating 32:12 50:13 49:1 
+terms 30:12 undisputed16:20 12:3,5 13:20 treatise 43:13 wrote 48:12 
+testified6:18 22:5 waiver12:7treatises 22:17 43:3 
+
+Xtestimony 8:2 United1:1,12 42:17 want 30:11 51:23 treatment 38:16,21 
+Thank 25:21 52:5,6 Unitherm 8:25 53:16,18 54:1,18 x 1:2,7 trial 3:11,21 5:1,11 
+
+52:10 56:6,7 10:24 11:20 13:2,3 wants 29:115:24 6:1,2,17 7:3,5 Ythat'd 46:15 13:6,9 14:21 17:12 warrant 35:197:22,24 9:18 10:7 
+year 35:13thing 43:7 44:6 17:15,18,18,22 warranted34:2010:10,11,17,19 
+years 5:1745:14 52:11 39:17,24 45:7 Washington1:814:2,4,13,16 15:7 
+York 41:23things 10:15 22:21 50:17 51:25 53:5 wasn't 8:9,10 9:3 15:20,22,25 16:12 
+
+31:11 38:13 43:3 unnecessary 32:21 12:3 34:4 36:20 17:9 18:8,14,18,19 0
+think 4:24 6:7 7:19 unorthodox 14:7 42:25 47:22 49:15 19:24,25 20:9,15 09-737 1:5 3:4 7:22 9:11,12,13 use 12:9 49:1520:19 21:8,25 
+
+10:10 11:17 13:1 uses 43:22 way 15:14 18:7,8 23:13,14,16,24 1 
+14:8,17 15:13,14 utterly 16:20 17:1,5 22:24 40:23 44:13 26:9 27:11,17 28:1 1 1:9
+15:23 17:25 19:22 45:16 50:25 54:3 28:5,6 29:10,11 10 11:17V22:23 23:9,10 24:2 ways 45:830:19 34:12,14 10:03 1:13 3:2 v 1:5 3:4 10:23 24:4,7,7 26:2,21 weighed10:2035:21 39:23 42:5 11:04 56:1011:16 18:24 32:15 27:20,23,24 28:3 well-equipped51:1544:14 47:14,20 1947 10:23 53:10 40:16 41:23 42:17 28:12 30:23 31:2,6 went 15:3 16:21 48:25 51:11 52:16 
+
+52:1433:23 34:10 35:3 31:25 49:6 252:18 53:11,22 
+verdict 11:18 12:18 35:13,23 37:3 West 10:23 2a 27:1154:7,17,19 55:14 
+
+12:20 27:6,9 35:22 39:24 40:3,12,14 We'll 3:3 2(a) 26:855:18 
+39:22 44:18 50:11 41:6 43:14 45:2 we're 5:2,6 15:22 20 5:17 46:8 troubles 6:25 
+53:1249:5 50:20 51:15 20:2 33:18 42:24 2010 1:9true 25:11,13 36:2 
+
+verdict's 25:1851:19 52:21 53:4,9 46:14 48:7,8 54:18 242 20:1940:19 50:12 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 66 
+
+25 2:7
+ 
+
+3 2:4 52:7
+ 
+30 49:25
+ 
+
+3
+ 
+
+4
+ 
+4 13:1,2 35:2 43:10
+ 
+
+5
+ 
+5 35:2 
+50 11:5 25:16,17 
+
+31:13 35:10,18 
+42:23 
+
+50(a) 8:24 12:14,19 
+31:21,24 32:21,22 
+34:23,24 35:4,10 
+35:14,15 36:7,8,15 
+36:18 42:24 43:4,7 
+43:14,22,24 44:10 
+45:5 
+
+50(a)-50(b) 12:18 
+50(b) 7:15 8:10,15 
+
+9:12 10:21 12:2,15 
+13:19 16:7 17:1,6 
+29:4 30:18 31:5,8 
+31:23 33:12 34:15 
+34:25 35:10,14,16 
+35:18 36:8,16,16 
+41:22,22 42:10,11 
+42:25 43:25 45:4,5 
+45:7,9,16,25 46:5 
+46:8,15 47:7 50:16 
+51:13,20 
+
+52 2:10 
+56 35:17 
+
+7
+ 
+7a 27:8 50:9 
+
+8
+ 
+84 38:11
+ 
+
+Alderson Reporting Company 
+
+

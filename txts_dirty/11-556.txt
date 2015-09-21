@@ -1,0 +1,4990 @@
+
+                   
+
+          
+
+                       
+
+   
+
+5
+
+10  
+
+15
+
+20
+
+ 
+
+ 
+
+25
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 MAETTA VANCE, : 
+
+4  Petitioner : No. 11-556 
+
+v. : 
+
+6 BALL STATE UNIVERSITY, ET AL. : 
+
+7 - - - - - - - - - - - - - - - - - x 
+
+8  Washington, D.C. 
+
+9  Monday, November 26, 2012 
+
+11  The above-entitled matter came on for oral 
+
+12 argument before the Supreme Court of the United States 
+
+13 at 11:06 a.m. 
+
+14 APPEARANCES: 
+
+DANIEL R. ORTIZ, ESQ., Charlottesville, Virginia; on 
+
+16  behalf of Petitioner. 
+
+17 SRI SRINIVASAN, ESQ., Deputy Solicitor General, 
+
+18  Department of Justice, Washington, D.C.; for United 
+
+19  States, as amicus curiae, in support of neither 
+
+party. 
+
+21 GREGORY G. GARRE, ESQ., Washington, D.C.; on behalf of 
+
+22  Respondents. 
+
+23 
+
+24 
+
+1
+ 
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+           
+
+                   
+
+                    
+
+5
+
+10
+
+15  
+
+ 
+
+ 
+
+ 
+
+ 
+
+20  
+
+ 
+
+ 
+
+ 
+
+ 
+
+25
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF PAGE 
+
+3 DANIEL R. ORTIZ, ESQ. 
+
+4  On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+6 SRI SRINIVASAN, ESQ. 
+
+7  For United States, as amicus curiae, 20 
+
+8  in support of neither party 
+
+9 ORAL ARGUMENT OF 
+
+GREGORY G. GARRE, ESQ. 
+
+11  On behalf of the Respondents 32 
+
+12 REBUTTAL ARGUMENT OF 
+
+13 DANIEL R. ORTIZ, ESQ. 
+
+14  On behalf of the Petitioner 53 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+2
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (11:06 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+4 next this morning in Case 11-556, Vance v. Ball State 
+
+University. 
+
+6  Mr. Ortiz. 
+
+7  ORAL ARGUMENT OF DANIEL R. ORTIZ 
+
+8  ON BEHALF OF THE PETITIONER 
+
+9  MR. ORTIZ: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+11  This case concerns who counts and who does 
+
+12 not count as a supervisor under Title VII. The parties 
+
+13 and the United States agree that the Seventh Circuit 
+
+14 rule violates the holding of Faragher, the reasoning of 
+
+Faragher and this Court's other central Title VII 
+
+16 precedents, including Burlington Northern and Staub, and 
+
+17 the common-sense meaning of the word "supervisor." 
+
+18  The parties even agree as to the general 
+
+19 legal standard, although they style it a little bit 
+
+different -- differently, that those harassers whose 
+
+21 employer-conferred authority over their victims enables 
+
+22 or materially augments the harassment should count as 
+
+23 supervisors. 
+
+24  This is not a standard, Your Honor, that 
+
+imposes automatic liability on employers. Victims must 
+
+3
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 still prove actionable harassment, and employers can 
+
+2 still take advantage of the Ellerth/Faragher affirmative 
+
+3 defense. 
+
+4  CHIEF JUSTICE ROBERTS: Let's say you have a 
+
+work room. There are five people who work there. And 
+
+6 the employer has a rule that the senior employee gets to 
+
+7 pick the music that's going to play all day long. And 
+
+8 the senior employee says to one of the other 
+
+9 employees -- you know, if you don't date me -- I know 
+
+you don't like country music; if you don't date me, it's 
+
+11 going to be country music all day long. 
+
+12  Now, that affects the daily activities of 
+
+13 that other employee. I would have thought, under your 
+
+14 theory, that means that that senior employee is a 
+
+supervisor. 
+
+16  MR. ORTIZ: No, Your Honor, because in that 
+
+17 circumstance the adverse action would not amount to --
+
+18 would not be severe. Or, perhaps it would be 
+
+19 pervasive --
+
+CHIEF JUSTICE ROBERTS: Well, that could 
+
+21 be -- that could be far more severe than, for example --
+
+22  JUSTICE SCALIA: Hard rock instead of --
+
+23  (Laughter.) 
+
+24  CHIEF JUSTICE ROBERTS: It could be far more 
+
+severe than simply saying, all right -- you know, you're 
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 going to -- as in this case -- you're going to be 
+
+2 cutting the celery rather than -- you know, baking the 
+
+3 bread, or whatever. 
+
+4  MR. ORTIZ: Well, no, Your Honor, this is 
+
+the -- the severity is an objective standard; it's not a 
+
+6 subjective. So in this case, someone's intense 
+
+7 dislike -- maybe it's debilitating, subjective --
+
+8 dislike of rock music, some forms of country music --
+
+9 might impair the performance of some in the workplace; 
+
+but, from an objective reasonable employee's standpoint, 
+
+11 I don't believe that that would be the case. Not all --
+
+12  CHIEF JUSTICE ROBERTS: Well, but, I mean, 
+
+13 there are places where the environment -- you know, an 
+
+14 assembly line or something like that -- where the task 
+
+may not be that different, but how you -- the 
+
+16 environment in which you have to perform them may be far 
+
+17 more significant than whether or not you're attaching 
+
+18 the door handles or the front fenders. 
+
+19  MR. ORTIZ: Oh, for sure, Your Honor, but 
+
+that has to be judged on a case-by-case basis. 
+
+21  CHIEF JUSTICE ROBERTS: Well, exactly. And 
+
+22 I would have thought the benefit of the Seventh 
+
+23 Circuit's test was that you don't have to go through 
+
+24 those case-by-case basis. I think we can have a 
+
+reasonable debate about whether the music you have to 
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 listen to for eight hours is objectively a significant 
+
+2 enough interference with the daily activities to qualify 
+
+3 under your test. 
+
+4  But the Seventh Circuit test makes clear --
+
+it doesn't give any kind of immunity; it just makes 
+
+6 clear what type of analysis is going to be applied to 
+
+7 the allegation. 
+
+8  MR. ORTIZ: Well, Your Honor, the Respondent 
+
+9 actually exaggerates the determinativeness of the 
+
+Seventh Circuit rule, and the indeterminativeness --
+
+11 both indeterminativeness and unpredictability of the 
+
+12 Second Circuit rule. 
+
+13  The Seventh Circuit itself has recognized --
+
+14 the judges in the Seventh Circuit itself have recognized 
+
+that the rule does not really well fit the realities of 
+
+16 the workplace. It also just moves uncertainty from one 
+
+17 category to another. 
+
+18  The category of supervisor may be a little 
+
+19 bit tidier; but, under the Seventh Circuit's approach, 
+
+the category of co-worker is very unpredictable. 
+
+21  The Seventh Circuit itself, in 
+
+22 Doe v. Oberweis Dairy, recognized that once you move 
+
+23 people who can take -- have this kind of power over 
+
+24 their victims but can't actually take tangible employment 
+
+actions against them into the category of co-workers, 
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 all of a sudden you have to apply a sliding scale of 
+
+2 negligence. Not only that, but the jury is the one who 
+
+3 applies it. 
+
+4  So for those categories -- this exact 
+
+category of employee, Your Honor, the employee --
+
+6 employer going forward has very little idea of 
+
+7 whether -- what standard of care is that a particular 
+
+8 jury would apply in that case and whether the jury would 
+
+9 decide it is met or not. 
+
+The Seventh Second -- Seventh Circuit rule, 
+
+11 in the overall, is no more determinative than the Second 
+
+12 Circuit rule. 
+
+13  Also, Respondent points to no cases in the 
+
+14 Second Circuit or the other circuits that have adopted 
+
+this rule where courts have identified problems with its 
+
+16 application. And that --
+
+17  JUSTICE ALITO: Well, could you explain 
+
+18 what the materially augments rule means? Could you 
+
+19 provide a definition of that? The authority to assign 
+
+daily tasks has to be sufficient to do what? 
+
+21  MR. ORTIZ: It has to be sufficient to 
+
+22 enable the harasser to instill either fear in the victim 
+
+23 that the victim should not turn the harasser in, or that 
+
+24 it may have to do with the harasser's ability to control 
+
+the physical location of the victim. That can augment 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 harassment. 
+
+2  If an harasser can steer a victim to a 
+
+3 location where the harasser has an opportunity to 
+
+4 harass, and, indeed, may have an opportunity to harass 
+
+without other employees or other people in the company 
+
+6 seeing in, that would materially augment --
+
+7  JUSTICE ALITO: There are situations where 
+
+8 the -- the assignment of responsibilities is extremely 
+
+9 unpleasant, and so it's easy to see how the testimony 
+
+would apply in that situation. 
+
+11  But there are also a lot of situations, like 
+
+12 the Chief Justice's example, where it's really very 
+
+13 unclear. I don't know how courts are going to -- how 
+
+14 courts can grapple with that. 
+
+MR. ORTIZ: Well, Your Honor, this --
+
+16  JUSTICE ALITO: You said that being 
+
+17 subjected to country music or hard rock or Wagner -- you 
+
+18 know, every single day in the workplace would not be 
+
+19 sufficient. I don't know. Some people might think that 
+
+it was -- that that is. 
+
+21  MR. ORTIZ: Justice Alito, this part of the 
+
+22 standard, particularly the materiality requirement, is 
+
+23 meant to track this Court's standard in Burlington 
+
+24 Northern, where it said that only actions that are 
+
+materially adverse to the employee would count. 
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  And this Court identified the materiality 
+
+2 requirement there as actually working to make the 
+
+3 standard more objective, not --
+
+4  JUSTICE GINSBURG: Mr. Ortiz, why isn't the 
+
+question that you're presenting academic in this case? 
+
+6 Because didn't the district judge say that there had 
+
+7 been no showing that Davis' conduct was sufficiently 
+
+8 severe or pervasive? 
+
+9  It wouldn't matter if the supervisor -- if 
+
+the conduct was not sufficiently severe or pervasive 
+
+11 harassment, and, equally, if the company responded every 
+
+12 time a complaint was lodged. The district court found 
+
+13 both of those things, that it wasn't severe and 
+
+14 pervasive, and that every time she claimed -- complained 
+
+an investigation was made. 
+
+16  MR. ORTIZ: Justice Ginsburg, we actually 
+
+17 tried to bring those things up before the Seventh 
+
+18 Circuit, but the Seventh Circuit found it unnecessary to 
+
+19 reach them because of its holding as to supervisory 
+
+liability. 
+
+21  If this Court were to reverse the Seventh 
+
+22 Circuit's affirmance of summary judgment of the district 
+
+23 court, the case would then be remanded to the Seventh 
+
+24 Circuit, where it could either look at these 
+
+alternative -- these other holdings, or the thing would 
+
+9
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 be -- it could be remanded at that point and sent back 
+
+2 to the district court for another look. 
+
+3  The district court's reasoning, the Seventh 
+
+4 Circuit noted, when it was talking about other incidents 
+
+of harassment was very unusual. What the district court 
+
+6 did was it divided all of the incidents into two 
+
+7 categories. 
+
+8  One category -- one category consisted of 
+
+9 events that by themselves were not overtly racial in 
+
+nature and the other category consisted of those events 
+
+11 that were overtly racial in nature, where a racial 
+
+12 epithet had been hurled at someone, for example, and 
+
+13 said with respect to the first category, the things --
+
+14 the events that on their face did not announce racial 
+
+animosity, that there wasn't any racial nexus, so they 
+
+16 didn't count, and swept all those events out and then 
+
+17 looked at the remaining ones where the connection to 
+
+18 racial animus was overt. And it said, well, these, 
+
+19 there may be some, but they just don't count. 
+
+So the Seventh Circuit itself discredited 
+
+21 the reasoning of the district court in those very 
+
+22 holdings. 
+
+23  JUSTICE KAGAN: Mr. Ortiz, suppose I agree 
+
+24 with your standard, but I just can't find on the record 
+
+as it has been presented in this Court any evidence that 
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Davis actually served as Vance's supervisor. What -- I 
+
+2 mean, what's your best -- so if that's true, I would be 
+
+3 tempted to actually just decide the thing rather than to 
+
+4 remand it. 
+
+So as against that approach, what is your 
+
+6 best evidence that there was a supervisory relationship 
+
+7 under your standard here? 
+
+8  MR. ORTIZ: First, Justice Kagan, it is 
+
+9 important to keep in mind that the record was developed 
+
+under the wrong legal standard. But even considering 
+
+11 that --
+
+12  JUSTICE KAGAN: Well, is that the case? Is 
+
+13 there evidence that you did not present because the 
+
+14 Seventh Circuit applied a different standard? 
+
+MR. ORTIZ: There was evidence that was 
+
+16 probably not developed below because the Seventh 
+
+17 Circuit's standard was so absolute. But there is 
+
+18 actually evidence in the record, we believe plenty of 
+
+19 evidence, sufficient certainly to overcome summary 
+
+judgment, although perhaps not enough for partial 
+
+21 summary judgment on this question in our favor. 
+
+22  JUSTICE GINSBURG: What other than the job 
+
+23 description? The job description says that the catering 
+
+24 specialist has authority to direct or lead the part-time 
+
+employees. But what concrete instances of Davis 
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 exercising supervisory authority over Vance is there in 
+
+2 this record? 
+
+3  MR. ORTIZ: Well, Justice -- there is two 
+
+4 separate questions, Justice Ginsburg. One is instances 
+
+of it; others is whether she has the authority or not. 
+
+6 Because this Court has held in Faragher itself that it 
+
+7 is the authority that makes the difference, not the 
+
+8 actual exercising of it in a particular case. 
+
+9  But let me go through what is in the record 
+
+now, much of it which is in the Joint Appendix but not 
+
+11 all, because we were not aware that we would be opposing 
+
+12 a summary judgment motion before this Court. 
+
+13  First, William Kimes, who is the director of 
+
+14 the university banquet and catering division, the sort of 
+
+head of this 60-some-person department. Two employees 
+
+16 testified that he told them that Davis was a supervisor. 
+
+17 One of them was Vance; that could be found on page 198 
+
+18 of the Joint Appendix. Another is an employee who was 
+
+19 in Vance's position named Dawn Knox, and that statement 
+
+can be found on page 386 of the Joint Appendix. 
+
+21  William Kimes himself testified in his 
+
+22 deposition that Davis, quote: "Directed and led other 
+
+23 employees in the kitchen." That can be found on page 
+
+24 367 of the Joint Appendix. In an internal investigation 
+
+by compliance officers at Ball State --
+
+12
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE GINSBURG: What I mean is not the 
+
+2 statement, well, she's a supervisor. But comparable to 
+
+3 Faragher, where the lifeguard who didn't have authority 
+
+4 to hire her or fire her said, if you don't date me, you 
+
+are going to be cleaning the toilets. We don't have 
+
+6 anything like that in this record. 
+
+7  MR. ORTIZ: Well, there was no overt threat 
+
+8 like that in the record, but the person who was hurling 
+
+9 racial epithets at her was in a position of authority 
+
+over her, both according to the job description, also 
+
+11 according to her understanding, according --
+
+12  JUSTICE GINSBURG: But that was also -- that 
+
+13 would be for a very confined period. It would only be 
+
+14 when the -- when Vance was a part-time employee. Once 
+
+she is a full-time employee there isn't that. 
+
+16  MR. ORTIZ: No, Your Honor. There is two 
+
+17 separate provisions in the job description which cover 
+
+18 the whole period of time here. The harassment started 
+
+19 around September 2005, went in through August -- went to 
+
+August 2007 with one incident, March 1st, I believe it 
+
+21 was, 2008. On January 1st, 2007, Ms. Vance received a 
+
+22 promotion from part-time to full-time. 
+
+23  Page 13 on the Joint Appendix has this item 
+
+24 that you pointed to, Justice, which specifically lists 
+
+among the duties and responsibilities of the catering 
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 specialist leading and directing part-time employees. 
+
+2 However, page 12 of the Joint Appendix lists under 
+
+3 positions supervised by the catering specialist, exactly 
+
+4 Vance's position. So when she moved from full-time --
+
+sorry, from part-time to full-time on -- in January 
+
+6 2007, the supervisory nexus in the job description 
+
+7 merely jumped from page 13 to page 12. But it was 
+
+8 covered for that whole period of time. 
+
+9  JUSTICE ALITO: What was the most unpleasant 
+
+thing that Davis could have assigned the Petitioner to 
+
+11 do? Maybe chopping onions all day, every day? 
+
+12  MR. ORTIZ: Certainly within the -- within 
+
+13 the job duties that she traditionally did, the kind of 
+
+14 things she had to work with, what she had to do, things 
+
+like this, working with onions, chopping onions all day 
+
+16 might be punishment. Unfortunately again, though, the 
+
+17 record wasn't developed under an understanding that all 
+
+18 of this would be relevant. 
+
+19  JUSTICE ALITO: But that would materially 
+
+augment? Chopping onions all day would be enough? 
+
+21  MR. ORTIZ: Yes, Your Honor. 
+
+22  JUSTICE ALITO: Chopping -- how about 
+
+23 chopping other things, just chopping? You are the 
+
+24 sous-chef, you are going to be chopping all day every 
+
+day. Would that be enough? 
+
+14
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. ORTIZ: Possibly, Your Honor. It 
+
+2 depends, again, on questions which would depend upon how 
+
+3 you had to chop, how heavy the knives were, whether you 
+
+4 would get repetitive injuries. 
+
+JUSTICE GINSBURG: Mr. Ortiz, did she ever 
+
+6 have that authority, because the record as far as we 
+
+7 have it says that the work assignments, what Vance was 
+
+8 doing, came from the chef or from Kimes, and the most 
+
+9 that Davis did was transmit the chef's orders of where 
+
+people would be stationed. 
+
+11  MR. ORTIZ: Your Honor, it is not quite 
+
+12 clear at this point. Vance, in an internal 
+
+13 investigation at Ball State University, Ms. Vance told 
+
+14 the compliance officer who was conducting the 
+
+investigation that Davis delegated jobs to her in the 
+
+16 kitchen. That appears in Document 59-16 on page 2. 
+
+17  JUSTICE SOTOMAYOR: Counsel, may I interrupt 
+
+18 a moment on --
+
+19  MR. ORTIZ: Yes, Your Honor. 
+
+JUSTICE SOTOMAYOR: -- following up on an 
+
+21 issue raised in part by the Chief and by Justice 
+
+22 Ginsburg. Assuming that Davis was a direct supervisor, 
+
+23 would there be an affirmative defense available to the 
+
+24 employer? 
+
+MR. ORTIZ: For sure, Your -- for sure, Your 
+
+15
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Honor. 
+
+
+2
+
+
+3 position? 
+
+
+4
+
+
+ JUSTICE SOTOMAYOR: That would be your 
+
+
+MR. ORTIZ: Yes. 
+
+
+JUSTICE SOTOMAYOR: That this could not be 
+
+
+6 grounds that someone who directs an employee's 
+
+7 day-to-day activity should be treated like someone who 
+
+8 hasn't actually undertaken the threat because the 
+
+9 situations are different. 
+
+MR. ORTIZ: Yes, Your Honor. This is --
+
+11 this falls out of the structure of the affirmative 
+
+12 defense as laid out in Ellerth and Faragher. 
+
+13  JUSTICE SOTOMAYOR: Is that what this fight 
+
+14 is about? What if we were to say that the EEOC's test 
+
+governed or the Second Circuit test governed, but 
+
+16 because of the nature of the difference between formal 
+
+17 supervisors who take tangible work activities and 
+
+18 informal supervisors who the employer would have less 
+
+19 control over and less knowledge about their activities, 
+
+that we would require an employee to complain. Would 
+
+21 that be a crazy rule, and why? 
+
+22  MR. ORTIZ: That this Court would require 
+
+23 under those circumstances? 
+
+24  JUSTICE SOTOMAYOR: Would require, would 
+
+permit the affirmative defense to be raised by an 
+
+16
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 employer. 
+
+2  MR. ORTIZ: It doesn't actually map on well 
+
+3 to the structure of the affirmative defenses laid out in 
+
+4 Ellerth and Faragher. 
+
+JUSTICE SOTOMAYOR: No, but there is a 
+
+6 difference between those supervisors who take direct 
+
+7 activity, tangible direct actions, who are in power to 
+
+8 do that, and supervisors who don't have that power, 
+
+9 because supervisors who don't have that power are 
+
+supervised -- their actions are supervised in a way that 
+
+11 non-tangible employment supervisors are not. 
+
+12  MR. ORTIZ: But under the existing 
+
+13 affirmative -- affirmative defense, as I understand it, 
+
+14 Your Honor, an employee who doesn't complain, unless 
+
+they are reasonable in not complaining, in most cases 
+
+16 would make the affirmative defense unavailable to the 
+
+17 employer. Is it the question concerning the difference 
+
+18 between unreasonably failing to complain --
+
+19  JUSTICE SOTOMAYOR: No, it's whether, 
+
+whether or not this whole fight is over that issue. 
+
+21  MR. ORTIZ: That -- this whole -- the fight 
+
+22 is in -- in part about that issue. That is certainly 
+
+23 not the only --
+
+24  JUSTICE SOTOMAYOR: No, because it's also 
+
+about the burden of proof. 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. ORTIZ: Yes. 
+
+2  JUSTICE SOTOMAYOR: So if we keep the burden 
+
+3 of proof with respect to -- to the employer raising the 
+
+4 affirmative defense, does that solve half your problem? 
+
+MR. ORTIZ: Yes, Your Honor. It makes it 
+
+6 better. 
+
+7  And this Court has recognized the 
+
+8 affirmative defense appropriately allocates the burdens 
+
+9 between the employee and the employer going forward. 
+
+Your Honor, the Seventh Circuit rule, 
+
+11 although unsupported by Respondent, is supported by 
+
+12 several of the Respondents' amici. As I said, they tend 
+
+13 to oversell the determinativeness of the Seventh Circuit 
+
+14 rule. They exaggerate the -- the uncertainty that 
+
+they predict will happen under the --
+
+16  JUSTICE SOTOMAYOR: Would you tell me what 
+
+17 you see as the major difference between the EEOC and the 
+
+18 Second Circuit rule, and why one is compelled over the 
+
+19 other? 
+
+It's the regulatory agency charged with 
+
+21 oversight of -- of the implementation of the statute. 
+
+22 Why shouldn't we give deference to it on --
+
+23  MR. ORTIZ: Your Honor --
+
+24  JUSTICE SOTOMAYOR: -- the standard it sets 
+
+forth? 
+
+18
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. ORTIZ: -- it is -- it is entitled to 
+
+2 deference under Skidmore, no more. And it is our 
+
+3 understanding, although the government --
+
+4  JUSTICE SCALIA: Excuse me. Why -- why --
+
+why no more? Why just Skidmore? 
+
+6  MR. ORTIZ: Because it's -- it's only 
+
+7 informal guidance, Your Honor. It hasn't gone through 
+
+8 rulemaking, formal adjudication and those processes 
+
+9 which elevate the amount of deference --
+
+JUSTICE SCALIA: That's an absolute rule? 
+
+11  MR. ORTIZ: Well, Your Honor, it's a little 
+
+12 bit contentious on this Court. No, Your Honor, it's a 
+
+13 little bit contentious on this Court; but, following 
+
+14 Mead Products, for example, it wouldn't be entitled to 
+
+more than Skidmore -- deference. 
+
+16  JUSTICE GINSBURG: Have you answered the 
+
+17 argument it shouldn't get any deference because what --
+
+18 what the EEOC guidance does is it is -- it is 
+
+19 interpreting two decisions of this Court, and this 
+
+Court, not the EEOC, is in the best position to 
+
+21 determine what those two cases mean? 
+
+22  MR. ORTIZ: Well, what it is, Your Honor, is 
+
+23 it represents an interpretation of the word "agent" in 
+
+24 Title VII. 
+
+Now, where -- where the statute -- the 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 statutory term gives off and this Court's interpretation 
+
+2 begins is, in some cases, a tough question. 
+
+3  But in this case, the EEOC -- the EEOC is 
+
+4 really giving definition to the word "agent" in Title 
+
+VII, not so much this Court's interpretations in 
+
+
+6 Faragher and Ellerth. 
+
+
+7  If there are no further questions, Your 
+
+
+8 Honor, I would like to reserve my remaining time for 
+
+
+9 rebuttal. 
+
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+11  Mr. Srinivasan? 
+
+12  ORAL ARGUMENT OF SRI SRINIVASAN, 
+
+13  FOR UNITED STATES, AS AMICUS CURIAE, 
+
+14  IN SUPPORT OF NEITHER PARTY 
+
+MR. SRINIVASAN: Thank you, 
+
+16 Mr. Chief Justice, and may it please the Court: 
+
+17  When a person controls a subordinate's daily 
+
+18 work activities and subjects her to harassment, that 
+
+19 person qualifies as a supervisor for purposes of the 
+
+Faragher-Ellerth vicarious liability affirmative defense 
+
+21 framework. 
+
+22  When it controls daily work activities and, 
+
+23 therefore, for example, can compel the cleaning of 
+
+24 toilets for a year, the principle that the agency 
+
+relationship augments the ability to carry out the 
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 harassment is implicated in that the victim will lack 
+
+2 the same ability to resist the harassment or to report 
+
+3 it as would be the case if the harassment were conducted 
+
+4 by a coworker that --
+
+CHIEF JUSTICE ROBERTS: What about -- what 
+
+6 about the music hypothetical? 
+
+7  MR. SRINIVASAN: Well --
+
+8  CHIEF JUSTICE ROBERTS: Where -- where do 
+
+9 you think your test comes out on that? 
+
+MR. SRINIVASAN: I think it comes out, most 
+
+11 likely, against concluding that the person is a 
+
+12 supervisor. And the reason is that, under the EEOC 
+
+13 enforcement guidance, that accounts for situations in 
+
+14 which the authority is exercised over a limited field, a 
+
+limited number of tasks or assignments. And this is at 
+
+16 page 92(a) of the petition appendix. 
+
+17  And I think that would qualify under that 
+
+18 provision because it's limited. 
+
+19  CHIEF JUSTICE ROBERTS: Why -- it doesn't 
+
+really have to do with the number of tasks. It isn't an 
+
+21 assignment of tasks. It's something that clearly 
+
+22 affects the daily activities of the employee in a way 
+
+23 that could be used to implement or facilitate 
+
+24 harassment. 
+
+MR. SRINIVASAN: It could, Your Honor. I 
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 don't disagree with that, and I don't disagree that 
+
+2 there are going to be cases that raise issues at the 
+
+3 margins. 
+
+4  But one way to think about the spectrum of 
+
+options available to the Court today is to envision that 
+
+6 on one end, you have harassment that's perpetrated by a 
+
+7 coworker, and you consider the types of harassment that 
+
+8 that might entail. And on the other end, you have 
+
+9 harassment that's perpetrated by a supervisor with 
+
+authority over tangible employment actions. 
+
+11  CHIEF JUSTICE ROBERTS: And -- and your 
+
+12 tests sort of use that, just as you've posed it, as some 
+
+13 broad continuum in which we're going to have countless 
+
+14 cases trying to figure out whether music falls closer to 
+
+this end or -- you know, what -- the senior employee 
+
+16 controls the thermostat, is that closer to this end or 
+
+17 that end? Or cutting onions? 
+
+18  It seems to me that every single case has 
+
+19 its own peculiar facts, and courts are going to be --
+
+have to figure out where on the continuum it resides. 
+
+21  MR. SRINIVASAN: Well -- well, I guess, Your 
+
+22 Honor, as Your Honor put it to -- to Petitioner's 
+
+23 counsel, the competing approach would be the approach 
+
+24 adopted by the Seventh Circuit; but, that approach has 
+
+some serious flaws. 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  For example, it wouldn't cover the 
+
+2 supervisor's conduct that was at issue in Faragher 
+
+3 itself, where the supervisor threatened that he would 
+
+4 make the harassment victim clean the toilets for a year 
+
+if she didn't succumb to the harassment. And I think 
+
+6 that's a pretty significant cost. 
+
+7  JUSTICE ALITO: Well, isn't cleaning the 
+
+8 toilets a limited -- isn't the authority to decide who 
+
+9 cleans the toilets the same as the authority to decide 
+
+what the music is going to be? It's one thing. 
+
+11  I thought -- and your answer on the music 
+
+12 was, well, that probably wouldn't count because it's the 
+
+13 authority to decide just one thing. 
+
+14  MR. SRINIVASAN: Well, we don't -- I guess, 
+
+we don't know enough about the threat to force her to 
+
+16 clean the toilets for a year to know whether it's only 
+
+17 one thing. But it could be, for example, that if 
+
+18 there -- in the scope of a particular day, you have 
+
+19 three particular options as to what you might do, 
+
+monitor the beach, clean the facilities, including the 
+
+21 toilets, or prepare meals, then it's something that 
+
+22 covers the entire day. 
+
+23  JUSTICE ALITO: But your argument is if the 
+
+24 only authority was to decide who cleans the toilets, 
+
+then -- then that would not -- that wouldn't count, 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 because that's just one thing. 
+
+2  MR. SRINIVASAN: No, I think that -- I don't 
+
+3 think we have an answer to that until we know how much 
+
+4 of the day's work is encompassed by cleaning the 
+
+toilets. 
+
+6  JUSTICE GINSBURG: I thought in Faragher it 
+
+7 was that -- that the lifeguard gave her her daily work 
+
+8 assignments. He controlled what she would do on the 
+
+9 job. 
+
+MR. SRINIVASAN: He -- he controlled every 
+
+11 aspect of her -- of her day's work, and cleaning the 
+
+12 toilets was one aspect of it. So that was a 
+
+13 particularly poignant example that he visited on her as 
+
+14 a way to perpetuate the harassment. 
+
+JUSTICE ALITO: Well, that can't possibly be 
+
+16 what the case means. Suppose that it's -- it's the 
+
+17 assignment of offices, and all of the offices except one 
+
+18 have heating and air conditioning, but one has no 
+
+19 heating and no air conditioning. 
+
+And so -- and that's the only authority that 
+
+21 this person has is to assign desks. That person says, 
+
+22 if you don't do whatever it is that I want you to do, 
+
+23 I'm putting you in the office where there's no heating, 
+
+24 and there's no air conditioning. And you would say that 
+
+doesn't count because it's just one thing. It's not a 
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 broad range of authorities -- of authorities. 
+
+2  MR. SRINIVASAN: It doesn't constitute 
+
+3 authority over daily work activities. And I guess 
+
+4 that's what the EEOC guidance authorities --
+
+JUSTICE BREYER: Have you --
+
+6  MR. SRINIVASAN: We haven't encountered it 
+
+7 in real cases. 
+
+8  JUSTICE BREYER: Well, you've looked this 
+
+9 up. And apparently, for about a dozen years, the EEOC 
+
+has had, as -- as an alternative basis for qualifying as 
+
+11 a supervisor, the individual has authority to direct the 
+
+12 employee's daily work activities. 
+
+13  And in addition, we have three circuits that 
+
+14 for some period of years have been following roughly the 
+
+same kind of rule. 
+
+16  Now, has this problem of the country music 
+
+17 or the other problems raised, have they turned out to be 
+
+18 a significant problem in those circuits or for the EEOC? 
+
+19  MR. SRINIVASAN: They haven't, 
+
+Justice Breyer. 
+
+21  JUSTICE BREYER: They have, or they have 
+
+22 not? 
+
+23  MR. SRINIVASAN: They have not. I'm sorry. 
+
+24 They have not turned out to be an issue, and 
+
+that's what --
+
+25
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  CHIEF JUSTICE ROBERTS: How do you know 
+
+2 that? Are you just saying they have not generated 
+
+3 actual Federal -- Federal court reported cases? 
+
+4  Do you have any idea how this works on the 
+
+ground when people complain about the exercise of 
+
+6 authority by a coworker who has specific 
+
+7 responsibilities that might be reviewed as supervisory? 
+
+8  MR. SRINIVASAN: Well, they haven't -- I 
+
+9 guess that's two components to the answer, 
+
+Mr. Chief Justice -- they haven't generated reported or 
+
+11 underreported decisions, as far as we've seen. And this 
+
+12 is not scientific, and it's just based on our 
+
+13 conversations with the EEOC lawyers who are charged with 
+
+14 dealing with right to sue letters and the like. They 
+
+haven't encountered these sorts of situations. 
+
+16  CHIEF JUSTICE ROBERTS: The EEOC lawyers 
+
+17 think the EEOC plan is working just fine. 
+
+18  MR. SRINIVASAN: Well, that -- I -- I 
+
+19 understand that that's not entirely surprising, but --
+
+JUSTICE BREYER: But I guess they'd tell 
+
+21 you. There are three who signed the brief, or four. 
+
+22 And I guess they'd tell you, wouldn't they --
+
+23  MR. SRINIVASAN: Right. 
+
+24  JUSTICE BREYER: -- what the problems are, 
+
+if they have problems. 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. SRINIVASAN: Right. In our 
+
+
+2 conversations with them about the way in which these 
+
+
+3 issues arise --
+
+
+4  JUSTICE BREYER: I mean, we can ask the 
+
+
+other side the same question. They've seen the cases in 
+
+6 the circuits. Have they seen instances in the EEOC or 
+
+7 before the circuits where it's turned out to be a 
+
+8 serious problem, like the country music or any of the 
+
+9 other hypotheticals raised? 
+
+MR. SRINIVASAN: And I don't think it has, 
+
+11 Justice Breyer. 
+
+12  And I think it's important to bear in mind 
+
+13 that the nature of this inquiry is such that there's 
+
+14 going to be cases at the margins that raise difficult 
+
+questions; but, in Ellerth, the Court recognized that. 
+
+16  JUSTICE KAGAN: Could I ask you how the 
+
+17 Seventh Circuit test works in operation? 
+
+18  We're in a university setting here, so let 
+
+19 me give you a university hypo. There's a professor, and 
+
+the professor has a secretary. And the professor 
+
+21 subjects that secretary to living hell, complete hostile 
+
+22 work environment on the basis of sex, all right? But 
+
+23 the professor has absolutely no authority to fire the 
+
+24 secretary. What would the Seventh Circuit say about 
+
+that situation? 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. SRINIVASAN: That if there's no 
+
+
+2 authority over -- to -- to direct annual 
+
+
+3 employment actions, then --
+
+
+4  JUSTICE KAGAN: No, no, the secretary is 
+
+
+fired by the head of secretarial services. Professors 
+
+6 don't have the ability to fire secretaries; but, 
+
+7 professors do have the ability to make secretarial lives 
+
+8 living hells. So what does the Seventh Circuit say 
+
+9 about that? 
+
+MR. SRINIVASAN: The professor would not 
+
+11 qualify as a supervisor for purposes of Ellerth-Faragher 
+
+12 framework. 
+
+13  JUSTICE KAGAN: Under the Seventh Circuit 
+
+14 test. 
+
+MR. SRINIVASAN: And so you'd look at it as 
+
+16 a -- you'd look at the professor as a coworker, and 
+
+17 you'd apply the same standards that applied to 
+
+18 harassment conducted by the coworker. 
+
+19  JUSTICE KAGAN: Even though, of course, it's 
+
+actually more difficult for the secretary to complain 
+
+21 about the professor than it would be for the secretary 
+
+22 to complain about the head of secretarial services. 
+
+23  MR. SRINIVASAN: Yes. And I think that's a 
+
+24 useful frame of reference that I was trying to 
+
+articulate earlier, which is that we can envision the 
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 cases as falling on a spectrum between ability to 
+
+2 complain when the harassment is perpetrated by a 
+
+3 coworker on the one hand, and ability to complain when 
+
+4 harassment is perpetrated by a supervisor with tangible 
+
+employment authority --
+
+6  JUSTICE KAGAN: And Mr. Srinivasan, if I can 
+
+7 just continue on about this, because I just don't even 
+
+8 understand the Seventh Circuit test. Would the Seventh 
+
+9 Circuit test also say that -- that that person is not a 
+
+supervisor even if the professor evaluates the secretary 
+
+11 on a yearly basis? 
+
+12  MR. SRINIVASAN: The Seventh Circuit would 
+
+13 say that as far as we can tell. They don't appear to 
+
+14 have a proviso for circumstances in which the harasser 
+
+has a role in determining tangible employment actions, 
+
+16 because that is one thing that the EEOC guidance takes 
+
+17 account of. 
+
+18  It's that -- not just that somebody counts 
+
+19 as a supervisor when they themselves undertake tangible 
+
+employment action, but if they have a substantial role 
+
+21 in making recommendations that in turn trigger tangible 
+
+22 employment actions, the EEOC would take the position 
+
+23 that that qualifies. Now, that's not an issue in this 
+
+24 case, but that's --
+
+CHIEF JUSTICE ROBERTS: You've -- you've 
+
+29
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 talked several times about this going along the 
+
+2 spectrum. Where -- where are we supposed to cut off 
+
+3 the -- where's the cutting line in the spectrum? 
+
+4  MR. SRINIVASAN: Well, I think that the --
+
+control over daily work activities is where we would 
+
+6 draw the line. And that's what has come up the most in 
+
+7 the cases. The reported decisions have conflicts on --
+
+8 have a conflict on that issue, and that is where the 
+
+9 EEOC guidance draws the line. 
+
+Now, I think it would be helpful, if the 
+
+11 Court were going to issue an opinion that adopts that 
+
+12 line, to elaborate on -- on that line a little bit in 
+
+13 the following sense: That relaying instructions that 
+
+14 are -- that are disseminated by one person wouldn't 
+
+count for those purposes. That's in the EEOC guidance. 
+
+16 And -- and it's the functions of a job that actually 
+
+17 matter, not the job title. That is also in the EEOC 
+
+18 guidance. 
+
+19  So I think there are some aspects of the 
+
+EEOC guidance that elaborate on that line about control 
+
+21 over daily activities that I think I would commend to 
+
+22 the Court, that it might well --
+
+23  JUSTICE SOTOMAYOR: Do we have a developed 
+
+24 record enough to do that in this case? 
+
+MR. SRINIVASAN: I'm sorry? I didn't hear 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 you. 
+
+2  JUSTICE SOTOMAYOR: Do -- do we have a 
+
+3 developed record enough? Petitioner's counsel says we 
+
+4 don't, that the Seventh Circuit test didn't permit them 
+
+to develop the record sufficiently to clarify all of 
+
+6 these issues. We certainly have snippets or -- or lack 
+
+7 snippets, as the case may be. But is the record 
+
+8 sufficiently developed for the Court to even 
+
+9 pronounce -- make pronouncements of that nature? 
+
+MR. SRINIVASAN: I think -- I think the real 
+
+11 question, Justice Sotomayor, is whether the parties had 
+
+12 a sufficient opportunity to develop the record. Because 
+
+13 if you take the record in the case as a given, we think 
+
+14 that the record would support the grant of summary 
+
+judgment for Ball State University, because there isn't 
+
+16 a sufficient showing in the record if you take it as a 
+
+17 given that the relevant supervisory -- the relevant 
+
+18 putative supervisory employee, Davis, had control over 
+
+19 day-to-day work activities. 
+
+The question that remains is whether the 
+
+21 record should be allowed to be expanded. 
+
+22  JUSTICE ALITO: The conclusion in your brief 
+
+23 is that the judgment of the court of appeals should be 
+
+24 vacated and the case remanded for further proceedings, 
+
+and now -- now you are telling us that we should -- we 
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 should basically write an opinion on summary judgment. 
+
+2  MR. SRINIVASAN: No. I think if you take 
+
+3 the record as a given, that a grant of summary judgment 
+
+4 in favor of the employer would be in order. But in the 
+
+normal course what this Court does when it announces a 
+
+6 new standard is it remands for the lower courts to deal 
+
+7 with the application of the standard to the facts. And 
+
+8 the conclusion in our brief is just, I think, a 
+
+9 parroting of that normal conclusion. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+11  Mr. Garre. 
+
+12  ORAL ARGUMENT OF GREGORY G. GARRE 
+
+13  ON BEHALF OF THE RESPONDENTS 
+
+14  MR. GARRE: Thank you, Mr. Chief Justice, 
+
+and may it please the Court: 
+
+16  The judgment of the court of appeals should 
+
+17 be affirmed because the record establishes that the only 
+
+18 employees whose status is at issue lacked the 
+
+19 supervisory authority necessary to trigger vicarious 
+
+liability under Title VII. 
+
+21  JUSTICE ALITO: We took this case to decide 
+
+22 whether the Faragher and Ellerth -- and Ellerth 
+
+23 supervisory liability rule is limited to those harassers 
+
+24 who have the power to hire, fire, demote, promote, 
+
+transfer, or discipline their victim. And your answer 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 to that is no; is that right? 
+
+2  MR. GARRE: That's right. We don't think 
+
+3 the Seventh Circuit test is the complete answer to the 
+
+4 question of who may qualify as a supervisor. But we 
+
+think it's clear that the -- the person whose status is 
+
+6 at issue did not qualify and therefore, the judgment 
+
+7 should be affirmed. This Court --
+
+8  JUSTICE ALITO: All right. Well, if we --
+
+9 if we agree with that without having any party defending 
+
+the rule that was adopted by three circuits, then 
+
+11 surely -- well, then, why shouldn't we just remand this 
+
+12 case for the lower courts to decide this, this summary 
+
+13 judgment issue, and -- and permit further development of 
+
+14 the record if the record isn't fully developed? 
+
+MR. GARRE: Well, most importantly, Justice 
+
+16 Alito, because the courts need guidance on how to apply 
+
+17 the EEOC and the Second Circuit standard. The best way 
+
+18 to provide that guidance is to do what this Court often 
+
+19 does, which is to apply the facts to the standard. 
+
+In this case, applying the record facts to 
+
+21 the standard that we think applies, the "materially 
+
+22 enables the harassment" standard, it's clear that Ms. 
+
+23 Davis, the person who is at issue, does not qualify as a 
+
+24 supervisor. And the reason why it's clear is the record 
+
+is uncontradicted that either the chef or Mr. Kimes made 
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 the daily assignments through the prep sheets. The prep 
+
+2 sheets are what every employee in the kitchen got each 
+
+3 day and they would tell you: Dice vegetables for 60 
+
+4 people; prepare boxed lunches for 20; prepare six 
+
+vegetable trays. 
+
+6  That's -- that was their daily assignments, 
+
+7 and the record is absolutely clear, JA 2 – 277 to 278, JA 
+
+8 424 -- that all the employees got the prep sheets from 
+
+9 the chef or Mr. Kimes. 
+
+It's also absolutely clear that Mr. Kimes 
+
+11 was the one who controlled the schedule in the kitchen. 
+
+12 He is the one that told employees what times of days 
+
+13 that they could work. He controlled the schedule. 
+
+14  JUSTICE ALITO: I understand Mr. Ortiz to 
+
+say that there's at least a dispute of fact about 
+
+16 whether Davis could have controlled what Petitioner did 
+
+17 on a daily basis. 
+
+18  MR. GARRE: There is -- there is neither a 
+
+19 material nor genuine dispute on that, Your Honor. It at 
+
+the very --
+
+21  JUSTICE ALITO: Doesn't her job description 
+
+22 say that she can assign tasks in the kitchen? 
+
+23  MR. GARRE: But they -- they omit the -- the 
+
+24 clause that follows, which is critical, which is "via 
+
+demonstration, coaching, or overseeing to ensure 
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 efficiency." That is on page Joint Appendix 13. And 
+
+2 that job description has to be read in light of the 
+
+3 record that makes crystal clear that it was the chef who 
+
+4 did the daily assignments for the prep sheets. 
+
+And there -- and there are examples of the 
+
+6 prep sheets as an exhibit to Ms. Fultz's affidavit, the 
+
+7 affidavits at 424 of the Joint Appendix. The -- the 
+
+8 exhibits are LLL and JJJ --
+
+9  JUSTICE SCALIA: We didn't take this case 
+
+to -- to decide those factual questions. 
+
+11  MR. GARRE: Your Honor, you --
+
+12  JUSTICE SCALIA: We really didn't. We took 
+
+13 it principally to decide whether the Seventh Circuit 
+
+14 rule was -- was right or not. And you don't even defend 
+
+that. So there is nobody here defending the Seventh 
+
+16 Circuit. 
+
+17  MR. GARRE: Well, Your Honor has excellent 
+
+18 briefing defending the Seventh Circuit. The Chamber of 
+
+19 Commerce and other amici have defended it. We certainly 
+
+think that it -- that -- that it's a superior --
+
+21  JUSTICE SCALIA: They are not talking to us 
+
+22 here, are they? 
+
+23  MR. GARRE: No, Your Honor. We think it's a 
+
+24 superior bright line, but, as we say in our brief, we 
+
+think that ultimately this Court's precedents compel 
+
+35
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that the Court reject that. And I think most -- most 
+
+2 squarely we look at the Faragher decision. We look at 
+
+3 lifeguard Silverman in Faragher, who had the authority 
+
+4 to control all aspects of the victim's schedule and 
+
+daily activities in a virtually unchecked manner. 
+
+6  So if the Court is looking for an example 
+
+7 that it wants to point to of someone who could qualify 
+
+8 under the non-Seventh Circuit category, we think that 
+
+9 lifeguard Silverman, from this Court's precedents, would 
+
+be the example that this Court would hold out. 
+
+11  JUSTICE GINSBURG: Was that -- that question 
+
+12 wasn't presented. It was -- it was just assumed that --
+
+13 that Silverman would qualify as a -- as a supervisor. 
+
+14  MR. GARRE: That -- that's absolutely right, 
+
+Justice Ginsburg. And I think, for some of the reasons 
+
+16 that Justice Kagan brought up in her colloquy with --
+
+17 with Mr. Srinivasan, I think the logic of the Court's 
+
+18 precedents, agency principles adopted, would lead to the 
+
+19 conclusion that someone who does control virtually all 
+
+aspects of one's schedule but yet lacks the authority to 
+
+21 hire, fire, or demote, nevertheless still would be 
+
+22 qualified as someone who --
+
+23  CHIEF JUSTICE ROBERTS: Every -- every 
+
+24 time -- every time you adopt a rule rather than a 
+
+multifactor analysis, there are going to be particular 
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 cases that fall outside the rule that look like a harsh 
+
+2 result. Now, here it simply affects the nature. It 
+
+3 doesn't give any immunity for harassment, it just 
+
+4 affects the nature of the showing that might be made. 
+
+You have no difficulty, as representing an 
+
+6 employer, by saying that in every case an allegation of 
+
+7 this sort is made you have to go through a case-by-case 
+
+8 description of the particular responsibilities, whether 
+
+9 it's the thermostat, whether it's the music, whether 
+
+it's the assignment of everything -- that the employee 
+
+11 does, and decide on that basis whether or not you should 
+
+12 compensate the victim, or -- or whether or not you 
+
+13 should go to court? 
+
+14  MR. GARRE: We do have great difficulty, 
+
+Your Honor. First of all, if we are wrong about what 
+
+16 this Court's precedents compel, then this Court should 
+
+17 adopt the Seventh Circuit principle, and we've -- we've 
+
+18 said that in our brief, if we're wrong in our 
+
+19 understanding of the Court's precedents. 
+
+Secondly, we think that the -- the Court can 
+
+21 and should establish meaningful limits on what this 
+
+22 broader category of supervisors would require, and I 
+
+23 think the case law illustrates that. If you look at the 
+
+24 leading circuits who apply the standard --
+
+CHIEF JUSTICE ROBERTS: Well, I think -- I 
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 think your friend on the other side was -- made a good 
+
+2 point in his reply brief, which is the variety of 
+
+3 circumstances you think courts should look at just 
+
+4 happen to correspond with the factual issues that you 
+
+would have resolved in your favor. 
+
+6  MR. GARRE: Well, I -- I would take issue 
+
+7 with that. We -- we tried to provide guideposts that 
+
+8 would be helpful. But if you look at, for example, the 
+
+9 principle that the EEOC agrees with, which -- which is 
+
+just that limited or marginal occasion authority to lead 
+
+11 or oversee by virtue of a paper title, its grade, or 
+
+12 seniority is not sufficient. 
+
+13  JUSTICE SCALIA: What does that have to do 
+
+14 with agency? That's what I don't understand. Why --
+
+why do any of these tests have to do with agency? 
+
+16  MR. GARRE: Well, Your Honor --
+
+17  JUSTICE SCALIA: I mean, I can understand 
+
+18 Congress writing a statute that says -- you know, any --
+
+19 any person given -- given authority by the employer, 
+
+which authority is used to make it more difficult for a 
+
+21 person to complain about racial or sexual harassment, is 
+
+22 bad. But the statute doesn't say that. It says apply 
+
+23 agency principles. 
+
+24  How does agency have anything to do with the 
+
+line you're arguing that we take here? 
+
+38
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. GARRE: What this Court said in Faragher 
+
+2 and Ellerth -- and I appreciate that you dissented in 
+
+3 the case, but what this Court said was it adopted 
+
+4 Section 219(2)(d) of the Restatement (Second) of Agency, 
+
+the notion that if -- if there was -- if the employee 
+
+6 was aided in the accomplishment of the harassment by 
+
+7 virtue of an agency relation, that that would be the 
+
+8 agency trigger for liability. 
+
+9  JUSTICE SCALIA: Then why not leave it 
+
+there? If that's what the agency is --
+
+11  MR. GARRE: And RMA then --
+
+12  JUSTICE SCALIA: -- then you don't need it 
+
+13 at all. So the music -- the music would -- the 
+
+14 thermostat would qualify. It would all qualify. 
+
+MR. GARRE: I don't think it would, Your 
+
+16 Honor, because we agree, certainly, with the EEOC that 
+
+17 there are material limits to how far that principle 
+
+18 could be stretched. 
+
+19  The Court in Ellerth made clear that there 
+
+were limits to the vicarious liability of employers in 
+
+21 this context. 
+
+22  JUSTICE SCALIA: Why? Why? I mean, if 
+
+23 that's your principle, apply the principle. 
+
+24  MR. GARRE: Well, for the very --
+
+JUSTICE SCALIA: If you are aided -- you 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 know, you're going to work in a cold room unless you --
+
+2 you know, comply with my sexual advances, apply the 
+
+3 principle. What's so hard about that? That's a clear 
+
+4 line. 
+
+MR. GARRE: This is the balance I think that 
+
+6 the Court struck in Ellerth, Your Honor, which was -- it 
+
+7 took into account that the statute was passed against 
+
+8 the backdrop of agency principles; but, yet, Congress 
+
+9 also was cognizant that imposing vicarious liability on 
+
+the employer for acts that the Court recognized were not 
+
+11 themselves authorized by the employer, that that was a 
+
+12 punitive aspect of that, and the Court would establish 
+
+13 limits. 
+
+14  And I think our position takes into account 
+
+that there have to be limits in this area, on the extent 
+
+16 of vicarious liability, in order to give effect to 
+
+17 Congress's intent; but, also recognizes, in the 
+
+18 situation like you had with the lifeguard in Faragher, 
+
+19 that that person did have authority that would assist in 
+
+the harassment – date me or clean the toilets, as 
+
+21 the lifeguard in Faragher said. 
+
+22  And so the Court, I think, struck a 
+
+23 reasonable balance. And taking the balance and what 
+
+24 this Court said, we think the proper way to resolve this 
+
+case is to adopt something like the EEOC rule or the 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Second Circuit rule, but to make clear there are limits. 
+
+2 And the best way to make clear that there are limits is 
+
+3 to make clear that on the record in this case Ms. Davis 
+
+4 did not qualify as a supervisor. 
+
+Now, my friend said they didn't have the 
+
+6 opportunity to develop evidence to the contrary; but, 
+
+7 the fact is, from the outset, they litigated this case 
+
+8 as if the Seventh Circuit standard did not apply. 
+
+9  The reasons that they gave for why Ms. Davis 
+
+was a supervisor, in the lower court, was that, one, 
+
+11 they pointed to the job description, that she had this 
+
+12 other authority to "lead and direct," and they also 
+
+13 pointed to the fact that she didn't clock in. 
+
+14  Those are irrelevant under the Seventh 
+
+Circuit test. So all along, they had in their mind that 
+
+16 they wanted to try to show that Davis was different, and 
+
+17 it did have some marginal authority to lead --
+
+18  JUSTICE ALITO: What guidance would your --
+
+19 what guidance would the kind of opinion that you're 
+
+suggesting we write really provide? The -- the guidance 
+
+21 would be that if someone has no authority to assign 
+
+22 daily work, then that person isn't -- and also has no 
+
+23 authority to hire, fire, promote, et cetera, then that 
+
+24 person isn't a supervisor. 
+
+How much guidance is that? 
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. GARRE: I think it's a lot of guidance, 
+
+2 Justice Alito. I think that the flip side of that is 
+
+3 the Court would make clear that merely having some 
+
+4 occasional or marginal authority to lead or direct by 
+
+virtue of one's better paper title or seniority is not 
+
+6 sufficient to trigger vicarious liability. I think 
+
+7 that's going to resolve the mine-run of the cases in 
+
+8 which this question has come up and been litigated, at 
+
+9 least to the courts of appeals. 
+
+If you look, for example, at the difference 
+
+11 between something like the Mack case out of the Second 
+
+12 Circuit and the Mikels case out of the Fourth Circuit, 
+
+13 in Mikels, we had an example of two police officers, one 
+
+14 had a higher paper rank, corporal versus private, and it 
+
+was alleged that the corporal was a supervisor. And the 
+
+16 court said, no, no, no, he's not a supervisor, all there 
+
+17 is, is some marginal occasional authority. That's not 
+
+18 sufficient. 
+
+19  It was clear that the victim in that case 
+
+wasn't shy about telling the harasser where to go, to 
+
+21 tell him off. And that's the kind of --
+
+22  JUSTICE GINSBURG: But why should that --
+
+23 why should that matter? I know you said that in your 
+
+24 brief, Mr. Garre, if the -- if the alleged victim talked 
+
+back. 
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  But in one of the very first cases that we 
+
+2 had in this line, Harris v. Forklift, there was -- it 
+
+3 was the boss, so there was no question about supervisor, 
+
+4 and he was really making things hard for this employee; 
+
+but, she was very firm, and she talked back to him. 
+
+6  But, still, that's not what we said that 
+
+7 counted. We said, is she being subjected to terms and 
+
+8 conditions of employment that she would not be subjected 
+
+9 to but for her sex. 
+
+MR. GARRE: Right. And we -- we don't think 
+
+11 that that's a dispositive criterion. We recognize the 
+
+12 point that the person gets to establish superior ability 
+
+13 to stand up to despicable treatment. But I think what 
+
+14 our point is, is that it's part of the equation that you 
+
+would look at. 
+
+16  In essence, did the person treat the alleged 
+
+17 harasser like a co-employee, or did the person treat the 
+
+18 alleged harasser like a supervisor? And in this case, 
+
+19 the record is clear that she treated her like a 
+
+co-employee, someone who -- they obviously had 
+
+21 disagreements among them. 
+
+22  And I think that's what we take this piece 
+
+23 of evidence to assist the Court on the question 
+
+24 presented. I think -- but we think what was sufficient 
+
+to resolve the question presented is the clear and 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 unrefuted evidence that the prep sheets, the daily 
+
+2 activities were assigned by the chef or Mr. Kimes, that 
+
+3 Mr. Kimes had the authority to control the schedule. 
+
+4  And if you want to go further than that, the 
+
+record also shows that Mr. Kimes had the authority to 
+
+6 review -- to do annual reviews. Mr. Kimes had the 
+
+7 authority to evaluate. He had all the kind of authority 
+
+8 that one would expect in a supervisor. 
+
+9  And so you would ask the question, what's 
+
+left? Essentially nothing. And whatever is left, we 
+
+11 agree with the EEOC, is not, as a matter of law, 
+
+12 sufficient to trigger vicarious liability. 
+
+13  That doesn't mean she can't present her 
+
+14 claim. It -- it means that it's just simply analyzed 
+
+under the framework for co-workers, in which she bears 
+
+16 the burden of establishing that the employer was 
+
+17 negligent in not responding to it. 
+
+18  And as Judge Wood, for the court of appeals, 
+
+19 and Judge Barker made clear in their detailed opinions, 
+
+this was not a situation where the employer stuck its 
+
+21 head in the sand and ignored incidents of unpleasantries 
+
+22 or, in some cases, despicable racial epithets --
+
+23  JUSTICE ALITO: If you were willing to 
+
+24 concede that this would be a close case under the Second 
+
+Circuit standard or under the EEOC guidance, then there 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 might be an argument in favor of our applying those 
+
+2 tests -- or one of those tests to the facts of the case, 
+
+3 because then that might provide some guidance, even 
+
+4 though we are supposed to be a court of review, not a 
+
+court of first view. 
+
+6  But you're saying this is an extremely weak 
+
+7 case under those standards; and, therefore, what is --
+
+8 what benefit is there in our applying this? Just send 
+
+9 it back and have it done in the normal course by the 
+
+court of appeals or by the district court. 
+
+11  MR. GARRE: Well, Your Honor, we don't think 
+
+12 it's a close case, but my friend does, and his amici do. 
+
+13 And I think the damaging signal that this Court would 
+
+14 send by remanding on this record would be that, whatever 
+
+it might say in its opinion, that would have virtually 
+
+16 no force in terms of establishing a standard that made 
+
+17 clear that this -- whatever else may be true about what 
+
+18 would qualify, something like this does not qualify. 
+
+19  And, again, like this Court did in the 
+
+Global Tech case, when the Court establishes a standard, 
+
+21 oftentimes, it applies the standard to the facts and 
+
+22 appreciates that that's the best way, the most judicial 
+
+23 way of providing guidance on what that standard means. 
+
+24  JUSTICE SOTOMAYOR: Mr. Garre, there is one 
+
+BSU internal document that -- a note to the file by a 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 compliance officer, who apparently investigated one of 
+
+2 the complaints, that says that -- Kimes is recorded as 
+
+3 saying -- he's the avowed supervisor -- that he, quote, 
+
+4 "knows Davis has given direction to Vance, and that he 
+
+just doesn't know what else to do." 
+
+6  Doesn't that defeat summary judgment on its 
+
+7 face? 
+
+8  MR. GARRE: It doesn't, Your Honor, if you 
+
+9 agree with our principle, that the EEOC also agrees 
+
+with, that having some limited or marginal authority to 
+
+11 lead or direct, as a matter of law, is not sufficient. 
+
+12  So that that piece of evidence, giving it its 
+
+13 reasonable inference, would not be sufficient to create 
+
+14 a material issue. It also wouldn't be sufficient 
+
+creating -- looking at the body of the evidence, which 
+
+16 makes crystal clear that the prep sheets are really what 
+
+17 was driving the daily activities in this workplace. And 
+
+18 it was Kimes or the chef that did the prep sheets, not 
+
+19 Ms. Davis at all. 
+
+And it -- and it was also not material in 
+
+21 light of the evidence that Mr. Kimes did the schedule. 
+
+22  Ms. Davis was asked at her deposition on 
+
+23 page 135, quote, "Was there ever" -- "have you ever been 
+
+24 assigned to a less meaningful or fulfilling job 
+
+classification?" And her response was yes, and she 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 pointed to an example by Mr. Kimes, because it was 
+
+2 Mr. Kimes who had the authority to make those 
+
+3 assignments, not Ms. Davis. 
+
+4  So the mere fact that you've got some 
+
+marginal evidence drawn from snippets, giving it a 
+
+6 reasonable inference that she at times had some ability 
+
+7 to lead or direct, as the job description says, "by 
+
+8 coaching, demonstration or overseeing," is not 
+
+9 sufficient as a matter of law to entitle her to summary 
+
+judgment, nor do we think that this Court should take 
+
+11 the unusual step of remanding so that she can dig into 
+
+12 events six years old through new discovery. 
+
+13  Again --
+
+14  JUSTICE KAGAN: Mr. Garre, could I ask you 
+
+about that? You said before that there is no -- nothing 
+
+16 to suggest that she left anything on the table because 
+
+17 of the nature of the Seventh Circuit standard. 
+
+18  So what's the best place in the record for 
+
+19 us to look -- to decide that question as to whether she 
+
+at all didn't present or didn't develop evidence because 
+
+21 of the nature of the Seventh Circuit standard? 
+
+22  MR. GARRE: Well, first, I would look at her 
+
+23 summary judgment briefs, Your Honor, and in those briefs 
+
+24 she argued that Davis was a supervisor because, one, 
+
+under the job description she had the authority to lead 
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 and direct, the same sorts of things that we are talking 
+
+2 now and would be talking about under the EEOC and Second 
+
+3 Circuit tests. And, two, she points to the fact that 
+
+4 they didn't clock in, again something that is irrelevant 
+
+under the Seventh Circuit test. 
+
+6  So this wasn't a case where the litigant 
+
+7 felt themselves bound by the legal standard and one 
+
+8 could surmise that they would have pursued it 
+
+9 differently. I think I would look at that first. And 
+
+then I would look at her deposition transcript which is 
+
+11 in the Joint Appendix and the three affidavits that she 
+
+12 put in, in this case, which are in the Joint Appendix. 
+
+13  At some point you would expect her to come 
+
+14 along and try to rebut the notion that Mr. Kimes and 
+
+Ms. Fultz assigned the daily activities through the prep 
+
+16 sheets. In fact, it's just the contrary. If anything, 
+
+17 in her own affidavit she seems to accept that the prep 
+
+18 sheets were done by Kimes and the chef. That's at JA 
+
+19 430. You -- you would expect her to contest the notion 
+
+that Mr. Kimes was the one who did the scheduling, who 
+
+21 did her annual reviews, who disciplined her on occasion. 
+
+22 After all, she was claiming that Davis was the 
+
+23 supervisor, and she didn't feel bound by the Seventh 
+
+24 Circuit tests. 
+
+So you would expect to see some indication 
+
+48
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 of how Ms. Davis actually assigned her something to do, 
+
+2 changed her schedule, the like. Instead what you find 
+
+3 is all those sorts of allegations, she made them, but 
+
+4 all those sorts of allegations were directed to Mr. 
+
+Kimes. That was the basis for her retaliation claim, 
+
+6 which isn't before the Court. But there are all the 
+
+7 sorts of things that you might expect one to complain 
+
+8 about against a supervisor in this sort of vein: She 
+
+9 made me cut vegetables instead of doing the baking like 
+
+I like to do; she didn't assign me enough overtime so I 
+
+11 could make more money; she changed my hours. 
+
+12  Those allegations were made. They were directed 
+
+13 at Mr. Kimes and that's perfectly consistent with the 
+
+14 record evidence. There was Kimes and the chef who had 
+
+the authority to do her daily activities, and Kimes had 
+
+16 the authority to do the schedule. 
+
+17  It's not enough for her to come here today, 
+
+18 I don't think, and just speculate that having an 
+
+19 opportunity to go through greater discovery, which in 
+
+essence would amount to a fishing expedition, the Court 
+
+21 should take the unusual step of remanding to give her an 
+
+22 opportunity for discovery. This Court -- although we 
+
+23 acknowledge oftentimes this Court does remand for the 
+
+24 lower courts to undertake that inquiry, it certainly 
+
+doesn't always do so. So Global-Tech is one example; 
+
+49
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 we've cited many more in our briefs. 
+
+2  And here, I think, again, the parties --
+
+3 there is broad agreement on what the standard should be. 
+
+4 Something like the EEOC or Second Circuit test is, we 
+
+think, the best way to frame it. But given the debate 
+
+6 among the parties about what that test means and how it 
+
+7 applies to Davis here, I think it's absolutely critical 
+
+8 for the Court to apply the legal test to the record 
+
+9 facts and hold that Ms. Davis is not a supervisor and to 
+
+affirm the judgment below. 
+
+11  Although it's not before this Court, if one 
+
+12 wants to go to the next step and think about the 
+
+13 affirmative defenses and the like, this isn't a case 
+
+14 where the Court would be putting to rest a valid Title 
+
+VII claim. 
+
+16  But the claim was extensively looked at 
+
+17 below by Judge Barker in the district court, Judge Wood 
+
+18 and her colleagues on the court of appeal, and they 
+
+19 found an environment in which Ball State reacted 
+
+responsibly to the allegations that were made, 
+
+21 investigated them and took prompt action where the 
+
+22 investigation warranted it, particularly with respect to 
+
+23 the most despicable things that were uncovered, racial 
+
+24 epithets that were used by another employee, 
+
+Ms. McVicker, not Ms. Davis. 
+
+50
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  The only allegations against Ms. Davis that 
+
+2 we think are relevant here during the time period that 
+
+3 Ms. Davis was a part-time employee were: One, the 
+
+4 so-called elevator incident where Ms. Davis allegedly 
+
+blocked Ms. Vance as she got out of the elevator, which 
+
+6 isn't race-based at all, we don't think; and two, the 
+
+7 alleged use of words like "Sambo" or 
+
+8 "Buckwheat" to refer --
+
+9  JUSTICE GINSBURG: Mr. Ortiz said it wasn't 
+
+just part-time. He called my attention to the page 
+
+11 before that says she also -- that Davis also directed --
+
+12  MR. GARRE: Well, we disagree with that, 
+
+13 Your Honor. If you look on page JA 12, the job 
+
+14 description position function, the last sentence says, 
+
+"Requires leadership of up to 20 part-time substitute 
+
+16 and student employees." So we think it's clear. 
+
+17  We said -- this is in our red brief and 
+
+18 there wasn't any response to it in the yellow brief --
+
+19 that any authority, any conceivable supervisory 
+
+authority, could have only existed when Ms. Vance was a 
+
+21 part-time employee. 
+
+22  But we don't think that that's relevant, 
+
+23 Your Honor, because putting -- putting aside whether she 
+
+24 had authority over catering assistants who were part 
+
+time or full time, the record is absolutely clear that 
+
+51
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Ms. Davis just lacked the authority that would have been 
+
+2 sufficient to trigger vicarious liability. And again we 
+
+3 think the paradigm case where that authority is present 
+
+4 is something like the lifeguard in Silverman where they 
+
+control all aspects of the daily activities, one's 
+
+6 schedule, one's daily work assignments, and down the 
+
+7 line. 
+
+8  Here there is no evidence that any of that 
+
+9 authority that was possessed, and the record makes clear 
+
+beyond doubt that all that authority was possessed by 
+
+11 others, Ms. -- the chef and Mr. Kimes. 
+
+12  And I think, as the amicus brief makes 
+
+13 clear, this is consistent with workplaces across America 
+
+14 today, where jobs are less hierarchical, more 
+
+collaborative, and so where you have got more senior 
+
+16 employees by virtue of their experience or job title, 
+
+17 just a paper title, are in a broad sense team leaders of 
+
+18 the like in the workplace. 
+
+19  That doesn't mean they are supervisors in 
+
+any traditional sense, and it certainly doesn't mean 
+
+21 they are supervisors for purposes of triggering 
+
+22 vicarious liability under Title VII. 
+
+23  So for those reasons, we would urge this 
+
+24 Court to affirm the judgment below, to make clear in 
+
+order to provide the needed guidance to the courts of 
+
+52
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 appeals and the assumption that something like the EEOC 
+
+2 or Second Circuit standard does apply to determine who 
+
+3 is a supervisor triggering vicarious liability. Ms. 
+
+4 Davis, the only employee who is at issue, does not meet 
+
+that standard. 
+
+6  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+7  MR. GARRE: If you have no more questions, 
+
+8 thank you. 
+
+9  CHIEF JUSTICE ROBERTS: Mr. Ortiz, you have 
+
+4 more minutes remaining. 
+
+11  REBUTTAL ARGUMENT OF DANIEL R. ORTIZ 
+
+12  ON BEHALF OF THE PETITIONER 
+
+13  MR. ORTIZ: Thank you, Your Honor. 
+
+14  The Seventh Circuit rule is not one that can 
+
+be justified in terms of its superior judicial 
+
+16 manageability, administrability, despite producing a few 
+
+17 odd results. 
+
+18  As Justice Kagan's question revealed, it 
+
+19 produces truly perverse results. Someone who can tell 
+
+you what to do in your job day-to-day, manage you during 
+
+21 the whole job period, what kind of tasks you have to do, 
+
+22 was not necessarily considered a supervisor, while the 
+
+23 person upstairs in human resources that you may never 
+
+24 see or even know would be considered your supervisor. 
+
+JUSTICE KENNEDY: Well, if you adopted that 
+
+53
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 rule I suppose you could couple it with an increased 
+
+2 duty of care on the part of the employer to take 
+
+3 necessary steps to prevent forbidden harassment. In 
+
+4 other words, you up the duty of care on the part of the 
+
+employer generally. 
+
+6  MR. ORTIZ: Well, Justice Kennedy, that in 
+
+7 fact is one thing the Seventh Circuit has tried to do, 
+
+8 but it dispels any kind of certainty and predictability 
+
+9 in the rule, because the duty of care of course would be 
+
+determined by a jury only after hearing a particular 
+
+11 case. 
+
+12  Second, my friend tries to get out from 
+
+13 under the clear import of the job description here by 
+
+14 saying directing and leading somehow don't count because 
+
+that is accomplished through oversight. Oversight, 
+
+16 however, is a common synonym for supervision itself. 
+
+17 It's merely a dog chasing its own tail. 
+
+18  Third, it's no surprise that many of the 
+
+19 things that Ms. Vance referred to, the particular 
+
+instance she referred to went back to William Kimes. Of 
+
+21 course, is that related to the retaliation part of her 
+
+22 claim, which is not before this Court. 
+
+23  Also, Your Honor, Faragher in the end is not 
+
+24 a toilet cleaning case. The district court did not 
+
+find -- made no finding on that. The court of appeals 
+
+54
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 didn't mention it. This Court in its Faragher opinion 
+
+2 mentioned only that it was an allegation in the 
+
+3 complaint. 
+
+4  It is not clear -- the allegation of the 
+
+complainant was that he said that, not that Silverman 
+
+6 actually had that authority. And it was clear from the 
+
+7 case that he actually wasn't interested in even dating 
+
+8 Faragher, it was just a way of humiliating her in the 
+
+9 workplace. So just as Faragher's expressed, it was not 
+
+clear that was even something that Silverman had 
+
+11 authority to do. 
+
+12  And finally, if this Court is worried about 
+
+13 sending signals, think about what kind of signal it will 
+
+14 be sending to litigants in the future if it were to 
+
+affirm, simply affirm here. In the future, whenever 
+
+16 anyone is thinking that they may want to challenge a 
+
+17 rule, no matter how well-settled it is in a particular 
+
+18 circuit, they would have an incentive to, through 
+
+19 discovery, to produce information that might be relevant 
+
+to any future twist. 
+
+21  JUSTICE BREYER: Well, is there any? You 
+
+22 said he went through, you weren't preceding on the --
+
+23 your client, originally in district court, not preceding 
+
+24 on the basis of this straight Seventh Circuit test. He 
+
+had the EEOC look into it; the Government itself says 
+
+55
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that we should affirm and they have EEOC lawyers on it. 
+
+2  And so is there any piece of information 
+
+3 that would be relevant that you know of that you would 
+
+4 introduce, were it sent back, say to the district court, 
+
+that you have not already introduced? 
+
+
+6  MR. ORTIZ: Well, Your Honor, first, the 
+
+
+7 Solicitor General's office does not now take the 
+
+
+8 position that affirmance is proper. 
+
+
+9  JUSTICE BREYER: I read what they said in 
+
+
+the last page of their brief. They said either affirm, 
+
+11 that was their first thing, or send it back. Okay. Now 
+
+12 my question remains the same. 
+
+13  MR. ORTIZ: Yes. 
+
+14  JUSTICE BREYER: Is there --
+
+MR. ORTIZ: There is. 
+
+16  JUSTICE BREYER: What is it? 
+
+17  MR. ORTIZ: On page 197 of the Joint 
+
+18 Appendix, in the deposition testimony of Ms. Vance, she 
+
+19 says that Davis told her what to do, what not to do. In 
+
+the internal memo to the file that Justice Sotomayor 
+
+21 pointed to, William Kimes, who had the authority --
+
+22  JUSTICE SOTOMAYOR: I think Justice Breyer's 
+
+23 question was what's not in the record? 
+
+24  MR. ORTIZ: Oh, what's not -- I'm sorry, 
+
+Your Honor. 
+
+56
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SOTOMAYOR: Do you have something 
+
+
+2 that's not in the record that will materially add to 
+
+
+3 this discourse? 
+
+
+4  MR. ORTIZ: Yes, Your Honor. Thank you. 
+
+
+In document number 62-3, which concerns the 
+
+6 deposition testimony of another employee -- is not in 
+
+7 the Joint Appendix, which -- which -- which is the 
+
+8 deposition testimony of another employee named Julie 
+
+9 Murphy. Ms. Murphy testifies that Davis, quote unquote, 
+
+gave orders in the kitchen. That's on page 24, I 
+
+11 believe. 
+
+12  On page 38, she testifies that Davis was 
+
+13 understood as a supervisor. 
+
+14  And on page 37, she indicates that she 
+
+received particular orders from Davis to do different 
+
+16 things, like clean a particular piece of kitchen 
+
+17 equipment, at different times. 
+
+18  CHIEF JUSTICE ROBERTS: That's all in the 
+
+19 record in this Court. 
+
+MR. ORTIZ: Yes. 
+
+21  CHIEF JUSTICE ROBERTS: Just not in the 
+
+22 Joint Appendix. 
+
+23  MR. ORTIZ: Just not in the Joint Appendix, 
+
+24 Your Honor. 
+
+Thank you. 
+
+57
+ 
+Alderson Reporting Company 
+
+
+
+5 
+
+10  
+
+ 
+
+ 
+
+ 
+
+ 
+
+15  
+
+ 
+
+ 
+
+ 
+
+ 
+
+20  
+
+ 
+
+ 
+
+ 
+
+ 
+
+25  
+
+Official 
+
+1  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+2  The case is submitted. 
+
+3  (Whereupon, at 12:06 p.m., he case in the 
+
+4 above-entitled matter was submitted.) 
+
+6 
+
+
+7 
+
+
+8 
+
+
+9 
+
+
+11 
+
+12 
+
+13 
+
+14 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+58
+ 
+Alderson Reporting Company 
+
+
+
+OfficialOfficial 
+
+59 
+
+A 53:16 32:21 33:8,16 12:18,20,24 assigned 14:10 
+ability 7:24 adopt 36:24 34:14,21 41:18 13:23 14:2 44:2 46:24 
+
+20:25 21:2 37:17 40:25 42:2 44:23 21:16 35:1,7 48:15 49:1 
+28:6,7 29:1,3 adopted 7:14 allegation 6:7 48:11,12 56:18 assignment 8:8 
+43:12 47:6 22:24 33:10 37:6 55:2,4 57:7,22,23 21:21 24:17 
+
+above-entitled 36:18 39:3 allegations 49:3 application 7:16 37:10 
+1:11 58:4 53:25 49:4,12 50:20 32:7 assignments 
+
+absolute 11:17 adopts 30:11 51:1 applied 6:6 15:7 21:15 
+19:10 advances 40:2 alleged 42:15,24 11:14 28:17 24:8 34:1,6 
+
+absolutely 27:23 advantage 4:2 43:16,18 51:7 applies 7:3 35:4 47:3 52:6 
+34:7,10 36:14 adverse 4:17 allegedly 51:4 33:21 45:21 assist 40:19 
+50:7 51:25 8:25 allocates 18:8 50:7 43:23 
+
+academic 9:5 affidavit 35:6 allowed 31:21 apply 7:1,8 8:10 assistants 51:24 
+accept 48:17 48:17 alternative 9:25 28:17 33:16,19 assumed 36:12 
+accomplished affidavits 35:7 25:10 37:24 38:22 Assuming 15:22 
+
+54:15 48:11 America 52:13 39:23 40:2 assumption 53:1 
+accomplishme... affirm 50:10 amici 18:12 41:8 50:8 53:2 attaching 5:17 
+
+39:6 52:24 55:15,15 35:19 45:12 applying 33:20 attention 51:10 
+account 29:17 56:1,10 amicus 1:19 2:7 45:1,8 augment 7:25 
+
+40:7,14 affirmance 9:22 20:13 52:12 appreciate 39:2 8:6 14:20 
+accounts 21:13 56:8 amount 4:17 appreciates augments 3:22 
+acknowledge affirmative 4:2 19:9 49:20 45:22 7:18 20:25 
+
+49:23 15:23 16:11,25 analysis 6:6 approach 6:19 August 13:19,20 
+action 4:17 17:3,13,13,16 36:25 11:5 22:23,23 authorities 25:1 
+
+29:20 50:21 18:4,8 20:20 analyzed 44:14 22:24 25:1,4 
+actionable 4:1 50:13 animosity 10:15 appropriately authority 3:21 
+actions 6:25 affirmed 32:17 animus 10:18 18:8 7:19 11:24 
+
+8:24 17:7,10 33:7 announce 10:14 area 40:15 12:1,5,7 13:3,9 
+22:10 28:3 agency 18:20 announces 32:5 argued 47:24 15:6 21:14 
+29:15,22 20:24 36:18 annual 28:2 arguing 38:25 22:10 23:8,9 
+
+activities 4:12 38:14,15,23,24 44:6 48:21 argument 1:12 23:13,24 24:20 
+6:2 16:17,19 39:4,7,8,10 answer 23:11 2:2,5,9,12 3:3 25:3,11 26:6 
+20:18,22 21:22 40:8 24:3 26:9 3:7 19:17 27:23 28:2 
+25:3,12 30:5 agent 19:23 20:4 32:25 33:3 20:12 23:23 29:5 32:19 
+30:21 31:19 agree 3:13,18 answered 19:16 32:12 45:1 36:3,20 38:10 
+36:5 44:2 10:23 33:9 apparently 25:9 53:11 38:19,20 40:19 
+46:17 48:15 39:16 44:11 46:1 articulate 28:25 41:12,17,21,23 
+49:15 52:5 46:9 appeal 50:18 aside 51:23 42:4,17 44:3,5 
+
+activity 16:7 agreement 50:3 appeals 31:23 asked 46:22 44:7,7 46:10 
+17:7 agrees 38:9 46:9 32:16 42:9 aspect 24:11,12 47:2,25 49:15 
+
+acts 40:10 aided 39:6,25 44:18 45:10 40:12 49:16 51:19,20 
+actual 12:8 26:3 air 24:18,19,24 53:1 54:25 aspects 30:19 51:24 52:1,3,9 
+add 57:2 AL 1:6 appear 29:13 36:4,20 52:5 52:10 55:6,11 
+addition 25:13 Alito 7:17 8:7,16 APPEARAN... assembly 5:14 56:21 
+adjudication 8:21 14:9,19 1:14 assign 7:19 authorized 
+
+19:8 14:22 23:7,23 appears 15:16 24:21 34:22 40:11 
+administrabili... 24:15 31:22 appendix 12:10 41:21 49:10 automatic 3:25 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+Official 
+
+60 
+
+available 15:23 19:12,13 30:12 29:24 30:24 chef 15:8 33:25 16:23 29:14 
+22:5 blocked 51:5 31:7,13,24 34:9 35:3 44:2 38:3 
+
+avowed 46:3 body 46:15 32:21 33:12,20 46:18 48:18 cited 50:1 
+aware 12:11 boss 43:3 35:9 37:6,23 49:14 52:11 claim 44:14 49:5 
+a.m 1:13 3:2 bound 48:7,23 39:3 40:25 chef's 15:9 50:15,16 54:22 
+
+B 
+boxed 34:4 
+bread 5:3 
+
+41:3,7 42:11 
+42:12,19 43:18 
+
+Chief 3:3,9 4:4 
+4:20,24 5:12 
+
+claimed 9:14 
+claiming 48:22 
+
+back 10:1 42:25 Breyer 25:5,8 44:24 45:2,7 5:21 8:12 clarify 31:5 
+43:5 45:9 25:20,21 26:20 45:12,20 48:6 15:21 20:10,16 classification 
+54:20 56:4,11 26:24 27:4,11 48:12 50:13 21:5,8,19 46:25 
+
+backdrop 40:8 55:21 56:9,14 52:3 54:11,24 22:11 26:1,10 clause 34:24 
+bad 38:22 56:16 55:7 58:2,3 26:16 29:25 clean 23:4,16,20
+baking 5:2 49:9 Breyer's 56:22 cases 7:13 17:15 32:10,14 36:23 40:20 57:16 
+balance 40:5,23 brief 26:21 19:21 20:2 37:25 53:6,9 cleaning 13:5 
+
+40:23 31:22 32:8 22:2,14 25:7 57:18,21 58:1 20:23 23:7 
+Ball 1:6 3:4 35:24 37:18 26:3 27:5,14 chop 15:3 24:4,11 54:24 
+
+12:25 15:13 38:2 42:24 29:1 30:7 37:1 chopping 14:11 cleans 23:9,24
+31:15 50:19 51:17,18 52:12 42:7 43:1 14:15,20,22,23 clear 6:4,6 15:12 
+
+banquet 12:14 56:10 44:22 14:23,24 33:5,22,24
+Barker 44:19 briefing 35:18 case-by-case circuit 3:13 6:4 34:7,10 35:3 
+
+50:17 briefs 47:23,23 5:20,24 37:7 6:10,12,13,14 39:19 40:3 
+based 26:12 50:1 categories 7:4 6:21 7:10,12 41:1,2,3 42:3 
+basically 32:1 bright 35:24 10:7 7:14 9:18,18 42:19 43:19,25 
+basis 5:20,24 bring 9:17 category 6:17,18 9:24 10:4,20 44:19 45:17 
+
+25:10 27:22 broad 22:13 6:20,25 7:5 11:14 16:15 46:16 51:16,25 
+29:11 34:17 25:1 50:3 10:8,8,10,13 18:10,13,18 52:9,13,24
+37:11 49:5 52:17 36:8 37:22 22:24 27:17,24 54:13 55:4,6 
+55:24 broader 37:22 catering 11:23 28:8,13 29:8,9 55:10 
+
+beach 23:20 brought 36:16 12:14 13:25 29:12 31:4 clearly 21:21 
+bear 27:12 BSU 45:25 14:3 51:24 33:3,17 35:13 client 55:23 
+bears 44:15 Buckwheat 51:8 celery 5:2 35:16,18 36:8 clock 41:13 48:4 
+begins 20:2 burden 17:25 central 3:15 37:17 41:1,8 close 44:24 
+behalf 1:16,21 18:2 44:16 certainly 11:19 41:15 42:12,12 45:12 
+
+2:4,11,14 3:8 burdens 18:8 14:12 17:22 44:25 47:17,21 closer 22:14,16
+32:13 53:12 Burlington 3:16 31:6 35:19 48:3,5,24 50:4 coaching 34:25 
+
+believe 5:11 8:23 39:16 49:24 53:2,14 54:7 47:8 
+11:18 13:20 
+57:11 C 
+
+52:20 
+certainty 54:8 
+
+55:18,24 
+circuits 7:14 
+
+cognizant 40:9 
+cold 40:1 
+
+benefit 5:22 C 2:1 3:1 cetera 41:23 25:13,18 27:6 collaborative 
+45:8 called 51:10 challenge 55:16 27:7 33:10 52:15 
+
+best 11:2,6 care 7:7 54:2,4,9 Chamber 35:18 37:24 colleagues 50:18 
+19:20 33:17 carry 20:25 changed 49:2,11 Circuit's 5:23 colloquy 36:16 
+41:2 45:22 case 3:4,11 5:1,6 charged 18:20 6:19 9:22 come 30:6 42:8 
+47:18 50:5 5:11 7:8 9:5,23 26:13 11:17 48:13 49:17 
+
+better 18:6 42:5 11:12 12:8 Charlottesville circumstance comes 21:9,10
+beyond 52:10 20:3 21:3 1:15 4:17 commend 30:21 
+bit 3:19 6:19 22:18 24:16 chasing 54:17 circumstances Commerce 
+
+Alderson Reporting Company 
+
+
+
+61 
+Official 
+
+35:19 31:22 32:8,9 controls 20:17 49:22,23 50:8 30:21 34:1,6 
+common 54:16 36:19 20:22 22:16 50:11,14,17,18 34:17 35:4 
+common-sense concrete 11:25 conversations 52:24 54:22,24 36:5 41:22 
+
+3:17 conditioning 26:13 27:2 54:25 55:1,12 44:1 46:17 
+company 8:5 24:18,19,24 corporal 42:14 55:23 56:4 48:15 49:15 
+
+9:11 conditions 43:8 42:15 57:19 52:5,6 
+comparable conduct 9:7,10 correspond 38:4 courts 7:15 8:13 Dairy 6:22 
+
+13:2 23:2 cost 23:6 8:14 22:19 damaging 45:13 
+compel 20:23 conducted 21:3 counsel 15:17 32:6 33:12,16 DANIEL 1:15 
+
+35:25 37:16 28:18 20:10 22:23 38:3 42:9 2:3,13 3:7 
+compelled 18:18 conducting 31:3 32:10 49:24 52:25 53:11 
+compensate 15:14 53:6 58:1 court's 3:15 date 4:9,10 13:4 
+
+37:12 confined 13:13 count 3:12,22 8:23 10:3 20:1 40:20 
+competing conflict 30:8 8:25 10:16,19 20:5 35:25 dating 55:7 
+
+22:23 conflicts 30:7 23:12,25 24:25 36:9,17 37:16 Davis 9:7 11:1 
+complain 16:20 Congress 38:18 30:15 54:14 37:19 11:25 12:16,22 
+
+17:14,18 26:5 40:8 counted 43:7 cover 13:17 23:1 14:10 15:9,15 
+28:20,22 29:2 Congress's countless 22:13 covered 14:8 15:22 31:18 
+29:3 38:21 40:17 country 4:10,11 covers 23:22 33:23 34:16 
+49:7 connection 5:8 8:17 25:16 coworker 21:4 41:3,9,16 46:4 
+
+complainant 10:17 27:8 22:7 26:6 46:19,22 47:3 
+55:5 consider 22:7 counts 3:11 28:16,18 29:3 47:24 48:22 
+
+complained considered 29:18 co-employee 49:1 50:7,9,25 
+9:14 53:22,24 couple 54:1 43:17,20 51:1,3,4,11 
+
+complaining considering course 28:19 co-worker 6:20 52:1 53:4 
+17:15 11:10 32:5 45:9 54:9 co-workers 6:25 56:19 57:9,12 
+
+complaint 9:12 consisted 10:8 54:21 44:15 57:15 
+55:3 10:10 court 1:1,12 crazy 16:21 Dawn 12:19 
+
+complaints 46:2 consistent 49:13 3:10 9:1,12,21 create 46:13 day 4:7,11 8:18 
+complete 27:21 52:13 9:23 10:2,5,21 creating 46:15 14:11,11,15,20 
+
+33:3 constitute 25:2 10:25 12:6,12 criterion 43:11 14:24,25 23:18 
+compliance contentious 16:22 18:7 critical 34:24 23:22 34:3 
+
+12:25 15:14 19:12,13 19:12,13,19,20 50:7 days 34:12 
+46:1 contest 48:19 20:16 22:5 crystal 35:3 day's 24:4,11 
+
+comply 40:2 context 39:21 26:3 27:15 46:16 day-to-day 16:7 
+components continue 29:7 30:11,22 31:8 curiae 1:19 2:7 31:19 53:20 
+
+26:9 continuum 31:23 32:5,15 20:13 deal 32:6 
+concede 44:24 22:13,20 32:16 33:7,18 cut 30:2 49:9 dealing 26:14 
+conceivable contrary 41:6 36:1,6,10 cutting 5:2 debate 5:25 50:5 
+
+51:19 48:16 37:13,16,20 22:17 30:3 debilitating 5:7 
+concerning control 7:24 39:1,3,19 40:6 decide 7:9 11:3 
+
+D17:17 16:19 30:5,20 40:10,12,22,24 23:8,9,13,24
+D 3:1concerns 3:11 31:18 36:4,19 41:10 42:3,16 32:21 33:12 
+daily 4:12 6:2 57:5 44:3 52:5 43:23 44:18 35:10,13 37:11 
+
+7:20 20:17,22concluding controlled 24:8 45:4,5,10,10 47:19 
+21:22 24:721:11 24:10 34:11,13 45:13,19,20 decision 36:2 
+25:3,12 30:5 conclusion 34:16 47:10 49:6,20 decisions 19:19 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+62 
+
+26:11 30:7 53:2 48:21 27:6 29:16,22 37:6 38:19 
+defeat 46:6 determined discourse 57:3 30:9,15,17,20 40:10,11 44:16 
+defend 35:14 54:10 discovery 47:12 33:17 38:9 44:20 54:2,5 
+defended 35:19 determining 49:19,22 55:19 39:16 40:25 employers 3:25 
+defending 33:9 29:15 discredited 44:11,25 46:9 4:1 39:20 
+
+35:15,18 develop 31:5,12 10:20 48:2 50:4 53:1 employer-con... 
+defense 4:3 41:6 47:20 dislike 5:7,8 55:25 56:1 3:21 
+
+15:23 16:12,25 developed 11:9 dispels 54:8 EEOC's 16:14 employment 
+17:13,16 18:4 11:16 14:17 dispositive effect 40:16 6:24 17:11 
+18:8 20:20 30:23 31:3,8 43:11 efficiency 35:1 22:10 28:3 
+
+defenses 17:3 33:14 dispute 34:15,19 eight 6:1 29:5,15,20,22 
+50:13 development disseminated either 7:22 9:24 43:8 
+
+deference 18:22 33:13 30:14 33:25 56:10 enable 7:22 
+19:2,9,15,17 Dice 34:3 dissented 39:2 elaborate 30:12 enables 3:21 
+
+definition 7:19 difference 12:7 district 9:6,12 30:20 33:22 
+20:4 16:16 17:6,17 9:22 10:2,3,5 elevate 19:9 encompassed 
+
+delegated 15:15 18:17 42:10 10:21 45:10 elevator 51:4,5 24:4 
+demonstration different 3:20 50:17 54:24 Ellerth 16:12 encountered 
+
+34:25 47:8 5:15 11:14 55:23 56:4 17:4 20:6 25:6 26:15 
+demote 32:24 16:9 41:16 divided 10:6 27:15 32:22,22 enforcement 
+
+36:21 57:15,17 division 12:14 39:2,19 40:6 21:13 
+department differently 3:20 document 15:16 Ellerth-Farag... ensure 34:25 
+
+1:18 12:15 48:9 45:25 57:5 28:11 entail 22:8 
+depend 15:2 difficult 27:14 Doe 6:22 Ellerth/Farag... entire 23:22 
+depends 15:2 28:20 38:20 dog 54:17 4:2 entirely 26:19 
+deposition 12:22 difficulty 37:5 doing 15:8 49:9 employee 4:6,8 entitle 47:9 
+
+46:22 48:10 37:14 door 5:18 4:13,14 7:5,5 entitled 19:1,14 
+56:18 57:6,8 dig 47:11 doubt 52:10 8:25 12:18 environment 
+
+Deputy 1:17 direct 11:24 dozen 25:9 13:14,15 16:20 5:13,16 27:22 
+description 15:22 17:6,7 draw 30:6 17:14 18:9 50:19 
+
+11:23,23 13:10 25:11 28:2 drawn 47:5 21:22 22:15 envision 22:5 
+13:17 14:6 41:12 42:4 draws 30:9 31:18 34:2 28:25 
+34:21 35:2 46:11 47:7 driving 46:17 37:10 39:5 epithet 10:12 
+37:8 41:11 48:1 duties 13:25 43:4 50:24 epithets 13:9 
+47:7,25 51:14 directed 12:22 14:13 51:3,21 53:4 44:22 50:24 
+54:13 49:4,12 51:11 duty 54:2,4,9 57:6,8 equally 9:11 
+
+desks 24:21 directing 14:1 D.C 1:8,18,21 employees 4:9 equation 43:14 
+despicable 
+
+43:13 44:22 
+54:14 
+
+direction 46:4 E 
+8:5 11:25 
+12:15,23 14:1 
+
+equipment 
+57:17 
+
+50:23 director 12:13 E 2:1 3:1,1 32:18 34:8,12 ESQ 1:15,17,21 
+despite 53:16 directs 16:6 earlier 28:25 51:16 52:16 2:3,6,10,13 
+detailed 44:19 disagree 22:1,1 easy 8:9 employee's 5:10 essence 43:16 
+determinative 51:12 EEOC 18:17 16:6 25:12 49:20 
+
+7:11 disagreements 19:18,20 20:3 employer 4:6 Essentially 
+determinative... 43:21 20:3 21:12 7:6 15:24 44:10 
+
+6:9 18:13 discipline 32:25 25:4,9,18 16:18 17:1,17 establish 37:21 
+determine 19:21 disciplined 26:13,16,17 18:3,9 32:4 40:12 43:12 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+63 
+
+establishes 52:16 17:20,21 friend 38:1 41:5 40:16 49:21 
+32:17 45:20 explain 7:17 figure 22:14,20 45:12 54:12 given 31:13,17 
+
+establishing expressed 55:9 file 45:25 56:20 front 5:18 32:3 38:19,19 
+44:16 45:16 extensively finally 55:12 fulfilling 46:24 46:4 50:5 
+
+et 1:6 41:23 50:16 find 10:24 49:2 full 51:25 gives 20:1 
+evaluate 44:7 extent 40:15 54:25 fully 33:14 giving 20:4 
+evaluates 29:10 extremely 8:8 finding 54:25 full-time 13:15 46:12 47:5 
+events 10:9,10 45:6 fine 26:17 13:22 14:4,5 Global 45:20 
+
+10:14,16 47:12 
+evidence 10:25 F 
+
+fire 13:4 27:23 
+28:6 32:24 
+
+Fultz 48:15 
+Fultz's 35:6 
+
+Global-Tech 
+49:25 
+
+11:6,13,15,18 face 10:14 46:7 36:21 41:23 function 51:14 go 5:23 12:9 
+11:19 41:6 facilitate 21:23 fired 28:5 functions 30:16 37:7,13 42:20 
+43:23 44:1 facilities 23:20 firm 43:5 further 20:7 44:4 49:19 
+46:12,15,21 fact 34:15 41:7 first 10:13 11:8 31:24 33:13 50:12 
+47:5,20 49:14 41:13 47:4 12:13 37:15 44:4 going 4:7,11 5:1 
+52:8 48:3,16 54:7 43:1 45:5 future 55:14,15 5:1 6:6 7:6 
+
+exact 7:4 facts 22:19 32:7 47:22 48:9 55:20 8:13 13:5 
+exactly 5:21 
+
+14:3 
+33:19,20 45:2 
+45:21 50:9 
+
+56:6,11 
+fishing 49:20 G 
+
+14:24 18:9 
+22:2,13,19 
+
+exaggerate factual 35:10 fit 6:15 G 1:21 2:10 3:1 23:10 27:14 
+18:14 38:4 five 4:5 32:12 30:1,11 36:25 
+
+exaggerates 6:9 failing 17:18 flaws 22:25 Garre 1:21 2:10 40:1 42:7 
+example 4:21 fall 37:1 flip 42:2 32:11,12,14 good 38:1 
+
+8:12 10:12 falling 29:1 following 15:20 33:2,15 34:18 governed 16:15 
+19:14 20:23 falls 16:11 22:14 19:13 25:14 34:23 35:11,17 16:15 
+23:1,17 24:13 far 4:21,24 5:16 30:13 35:23 36:14 government 
+36:6,10 38:8 15:6 26:11 follows 34:24 37:14 38:6,16 19:3 55:25 
+42:10,13 47:1 29:13 39:17 forbidden 54:3 39:1,11,15,24 grade 38:11 
+49:25 Faragher 3:14 force 23:15 40:5 42:1,24 grant 31:14 32:3 
+
+examples 35:5 3:15 12:6 13:3 45:16 43:10 45:11,24 grapple 8:14 
+excellent 35:17 16:12 17:4 Forklift 43:2 46:8 47:14,22 great 37:14 
+Excuse 19:4 20:6 23:2 24:6 formal 16:16 51:12 53:7 greater 49:19 
+exercise 26:5 32:22 36:2,3 19:8 general 1:17 GREGORY 
+exercised 21:14 39:1 40:18,21 forms 5:8 3:18 1:21 2:10 
+exercising 12:1 54:23 55:1,8 forth 18:25 generally 54:5 32:12 
+
+12:8 Faragher's 55:9 forward 7:6 General's 56:7 ground 26:5 
+exhibit 35:6 Faragher-Elle... 18:9 generated 26:2 grounds 16:6 
+exhibits 35:8 20:20 found 9:12,18 26:10 guess 22:21 
+existed 51:20 favor 11:21 32:4 12:17,20,23 genuine 34:19 23:14 25:3 
+existing 17:12 38:5 45:1 50:19 Ginsburg 9:4,16 26:9,20,22 
+expanded 31:21 fear 7:22 four 26:21 11:22 12:4 guidance 19:7 
+expect 44:8 Federal 26:3,3 Fourth 42:12 13:1,12 15:5 19:18 21:13 
+
+48:13,19,25 feel 48:23 frame 28:24 15:22 19:16 25:4 29:16 
+49:7 felt 48:7 50:5 24:6 36:11,15 30:9,15,18,20 
+
+expedition fenders 5:18 framework 42:22 51:9 33:16,18 41:18 
+49:20 field 21:14 20:21 28:12 give 6:5 18:22 41:19,20,25 
+
+experience fight 16:13 44:15 27:19 37:3 42:1 44:25 
+
+Alderson Reporting Company 
+
+
+
+64 
+Official 
+
+45:3,23 52:25 36:21 41:23 implementation interpretations judged 5:20 
+guideposts 38:7 hold 36:10 50:9 18:21 20:5 judges 6:14 
+
+holding 3:14 implicated 21:1 interpreting judgment 9:22 
+H 9:19 import 54:13 19:19 11:20,21 12:12 
+
+half 18:4 holdings 9:25 important 11:9 interrupt 15:17 31:15,23 32:1 
+hand 29:3 10:22 27:12 introduce 56:4 32:3,16 33:6 
+handles 5:18 Honor 3:24 4:16 importantly introduced 56:5 33:13 46:6 
+happen 18:15 5:4,19 6:8 7:5 33:15 investigated 47:10,23 50:10 
+
+38:4 8:15 13:16 imposes 3:25 46:1 50:21 52:24 
+harass 8:4,4 14:21 15:1,11 imposing 40:9 investigation judicial 45:22 
+harasser 7:22,23 15:19 16:1,10 incentive 55:18 9:15 12:24 53:15 
+
+8:2,3 29:14 17:14 18:5,10 incident 13:20 15:13,15 50:22 Julie 57:8 
+42:20 43:17,18 18:23 19:7,11 51:4 irrelevant 41:14 jumped 14:7 
+
+harassers 3:20 19:12,22 20:8 incidents 10:4,6 48:4 jury 7:2,8,8
+32:23 21:25 22:22,22 44:21 issue 15:21 54:10 
+
+harasser's 7:24 34:19 35:11,17 including 3:16 17:20,22 23:2 Justice 1:18 3:3 
+harassment 35:23 37:15 23:20 25:24 29:23 3:9 4:4,20,22
+
+3:22 4:1 8:1 38:16 39:16 increased 54:1 30:8,11 32:18 4:24 5:12,21
+9:11 10:5 40:6 45:11 indeterminati... 33:6,13,23 7:17 8:7,16,21
+13:18 20:18 46:8 47:23 6:10,11 38:6 46:14 9:4,16 10:23 
+21:1,2,3,24 51:13,23 53:13 indicates 57:14 53:4 11:8,12,22
+22:6,7,9 23:4,5 54:23 56:6,25 indication 48:25 issues 22:2 27:3 12:3,4 13:1,12 
+24:14 28:18 57:4,24 individual 25:11 31:6 38:4 13:24 14:9,19
+29:2,4 33:22 hostile 27:21 inference 46:13 item 13:23 14:22 15:5,17
+37:3 38:21 hours 6:1 49:11 47:6 15:20,21 16:2 
+
+J39:6 40:20 human 53:23 informal 16:18 16:5,13,24
+54:3 JA 34:7,7 48:18 humiliating 19:7 17:5,19,24
+
+hard 4:22 8:17 51:1355:8 information 18:2,16,24
+40:3 43:4 January 13:21hurled 10:12 55:19 56:2 19:4,10,16
+
+Harris 43:2 14:5hurling 13:8 injuries 15:4 20:10,16 21:5 
+harsh 37:1 JJJ 35:8hypo 27:19 inquiry 27:13 21:8,19 22:11 
+head 12:15 28:5 job 11:22,23hypothetical 49:24 23:7,23 24:6 
+
+28:22 44:21 13:10,17 14:6 21:6 instance 54:20 24:15 25:5,8
+hear 3:3 30:25 14:13 24:9hypotheticals instances 11:25 25:20,21 26:1 
+hearing 54:10 30:16,17 34:21 27:9 12:4 27:6 26:10,16,20,24
+heating 24:18,19 35:2 41:11instill 7:22 27:4,11,16
+
+I24:23 46:24 47:7,25instructions 28:4,13,19
+heavy 15:3 idea 7:6 26:4 51:13 52:1630:13 29:6,25 30:23 
+held 12:6 identified 7:15 53:20,21 54:13 intense 5:6 31:2,11,22
+hell 27:21 9:1 jobs 15:15 52:14 intent 40:17 32:10,14,21
+hells 28:8 ignored 44:21 Joint 12:10,18interested 55:7 33:8,15 34:14 
+helpful 30:10 illustrates 37:23 12:20,24 13:23 interference 6:2 34:21 35:9,12
+
+38:8 immunity 6:5 14:2 35:1,7internal 12:24 35:21 36:11,15
+hierarchical 37:3 48:11,12 56:17 15:12 45:25 36:16,23 37:25 
+
+52:14 impair 5:9 57:7,22,2356:20 38:13,17 39:9 
+higher 42:14 implement judge 9:6 44:18 interpretation 39:12,22,25
+hire 13:4 32:24 21:23 44:19 50:17,1719:23 20:1 41:18 42:2,22 
+
+Alderson Reporting Company 
+
+
+
+65 
+Official 
+
+44:23 45:24 16:19 39:17,20 40:13 manner 36:5 mine-run 42:7 
+47:14 51:9 knows 46:4 40:15 41:1,2 map 17:2 minutes 53:10 
+53:6,9,18,25 Knox 12:19 line 5:14 30:3,6 March 13:20 moment 15:18 
+54:6 55:21 30:9,12,12,20 marginal 38:10 Monday 1:9 
+
+L56:9,14,16,20 35:24 38:25 41:17 42:4,17 money 49:11 
+lack 21:1 31:6 56:22,22 57:1 40:4 43:2 52:7 46:10 47:5 monitor 23:20 
+lacked 32:1857:18,21 58:1 listen 6:1 margins 22:3 morning 3:4 
+
+52:1Justice's 8:12 lists 13:24 14:2 27:14 motion 12:12 
+lacks 36:20justified 53:15 litigant 48:6 material 34:19 move 6:22 
+laid 16:12 17:3 litigants 55:14 39:17 46:14,20 moved 14:4 
+
+K Laughter 4:23 litigated 41:7 materiality 8:22 moves 6:16 
+Kagan 10:23 law 37:23 44:11 42:8 9:1 multifactor 
+
+11:8,12 27:16 46:11 47:9 little 3:19 6:18 materially 3:22 36:25 
+28:4,13,19 lawyers 26:13 7:6 19:11,13 7:18 8:6,25 Murphy 57:9,9
+29:6 36:16 26:16 56:1 30:12 14:19 33:21 music 4:7,10,11
+47:14 lead 11:24 36:18 lives 28:7 57:2 5:8,8,25 8:17 
+
+Kagan's 53:18 38:10 41:12,17 living 27:21 28:8 matter 1:11 9:9 21:6 22:14 
+keep 11:9 18:2 42:4 46:11 LLL 35:8 30:17 42:23 23:10,11 25:16 
+Kennedy 53:25 47:7,25 location 7:25 8:3 44:11 46:11 27:8 37:9 
+
+54:6 leaders 52:17 lodged 9:12 47:9 55:17 39:13,13
+Kimes 12:13,21 leadership logic 36:17 58:4 
+
+N15:8 33:25 51:15 long 4:7,11 McVicker 50:25 
+34:9,10 44:2,3 leading 14:1 N 2:1,1 3:1 look 9:24 10:2 Mead 19:14 
+44:5,6 46:2,18 37:24 54:14 named 12:1928:15,16 36:2 meals 23:21 
+46:21 47:1,2 leave 39:9 57:836:2 37:1,23 mean 5:12 11:2 
+48:14,18,20 led 12:22 nature 10:10,1138:3,8 42:10 13:1 19:21 
+49:5,13,14,15 left 44:10,10 16:16 27:1343:15 47:19,22 27:4 38:17 
+52:11 54:20 47:16 31:9 37:2,448:9,10 51:13 39:22 44:13 
+56:21 legal 3:19 11:10 47:17,2155:25 52:19,20
+
+kind 6:5,23 48:7 50:8 necessarilylooked 10:17 meaning 3:17 
+14:13 25:15 letters 26:14 53:2225:8 50:16 meaningful
+41:19 42:21 Let's 4:4 necessary 32:19looking 36:6 37:21 46:24 
+44:7 53:21 liability 3:25 54:346:15 means 4:14 7:18 
+54:8 55:13 9:20 20:20 need 33:16lot 8:11 42:1 24:16 44:14 
+
+kitchen 12:23 32:20,23 39:8 39:12lower 32:6 33:12 45:23 50:6 
+15:16 34:2,11 39:20 40:9,16 needed 52:2541:10 49:24 meant 8:23 
+34:22 57:10,16 42:6 44:12 negligence 7:2lunches 34:4 meet 53:4 
+
+knives 15:3 52:2,22 53:3 negligent 44:17memo 56:20 
+Mknow 4:9,9,25 lifeguard 13:3 neither 1:19 2:8 mention 55:1 
+
+5:2,13 8:13,18 24:7 36:3,9 Mack 42:11 20:14 34:18mentioned 55:2 
+8:19 22:15 40:18,21 52:4 MAETTA 1:3 never 53:23mere 47:4 
+23:15,16 24:3 light 35:2 46:21 major 18:17 neverthelessmerely 14:7 
+26:1 38:18 limited 21:14,15 making 29:21 36:2142:3 54:17 
+40:1,2 42:23 21:18 23:8 43:4 new 32:6 47:12 met 7:9 
+46:5 53:24 32:23 38:10 manage 53:20 nexus 10:15Mikels 42:12,13
+56:3 46:10 manageability 14:6mind 11:9 27:12 
+
+knowledge limits 37:21 53:16 non-Seventh41:15 
+
+Alderson Reporting Company 
+
+
+
+66 
+Official 
+
+36:8 32:1 41:19 overtly 10:9,11 51:2 53:21 13:9 14:4 16:3 
+non-tangible 45:15 55:1 permit 16:25 19:20 29:22 
+
+P17:11 opinions 44:19 31:4 33:13 40:14 51:14 
+P 3:1normal 32:5,9 opportunity 8:3 perpetrated 56:8 
+page 2:2 12:17 45:9 8:4 31:12 41:6 22:6,9 29:2,4 positions 14:3 
+
+12:20,23 13:23 Northern 3:16 49:19,22 perpetuate possessed 52:9 
+14:2,7,7 15:16 8:24 opposing 12:11 24:14 52:10 
+21:16 35:1note 45:25 options 22:5 person 13:8 possibly 15:1 
+46:23 51:10,13noted 10:4 23:19 20:17,19 21:11 24:15 
+56:10,17 57:10 notion 39:5 oral 1:11 2:2,5,9 24:21,21 29:9 power 6:23 17:7 
+57:12,1448:14,19 3:7 20:12 30:14 33:5,23 17:8,9 32:24 
+
+paper 38:11November 1:9 32:12 38:19,21 40:19 precedents 3:16 
+42:5,14 52:17 number 21:15 order 32:4 40:16 41:22,24 43:12 35:25 36:9,18
+
+paradigm 52:321:20 57:5 52:25 43:16,17 53:23 37:16,19
+parroting 32:9orders 15:9 pervasive 4:19 preceding 55:22 
+
+O part 8:21 15:21 57:10,15 9:8,10,14 55:23 
+O 2:1 3:1 17:22 43:14originally 55:23 perverse 53:19 predict 18:15 
+Oberweis 6:22 51:24 54:2,4Ortiz 1:15 2:3 petition 21:16 predictability
+objective 5:5,10 54:212:13 3:6,7,9 Petitioner 1:4 54:8 
+
+9:3 partial 11:204:16 5:4,19 6:8 1:16 2:4,14 3:8 prep 34:1,1,8
+objectively 6:1 particular 7:77:21 8:15,21 14:10 34:16 35:4,6 44:1 
+obviously 43:20 12:8 23:18,199:4,16 10:23 53:12 46:16,18 48:15 
+occasion 38:10 36:25 37:811:8,15 12:3 Petitioner's 48:17 
+
+48:21 54:10,19 55:17 13:7,16 14:12 22:22 31:3 prepare 23:21 
+occasional 42:4 57:15,1614:21 15:1,5 physical 7:25 34:4,4
+
+42:17 particularly15:11,19,25 pick 4:7 present 11:13 
+odd 53:17 8:22 24:1316:4,10,22 piece 43:22 44:13 47:20 
+office 24:23 56:7 50:2217:2,12,21 46:12 56:2 52:3 
+officer 15:14 parties 3:12,1818:1,5,23 19:1 57:16 presented 10:25 
+
+46:1 31:11 50:2,619:6,11,22 place 47:18 36:12 43:24,25
+officers 12:25 party 1:20 2:8 34:14 51:9 places 5:13 presenting 9:5 
+
+42:13 20:14 33:953:9,11,13 plan 26:17 pretty 23:6 
+offices 24:17,17 part-time 11:2454:6 56:6,13 play 4:7 prevent 54:3 
+oftentimes 13:14,22 14:1 56:15,17,24 please 3:10 principally
+
+45:21 49:23 14:5 51:3,1057:4,20,23 20:16 32:15 35:13 
+Oh 5:19 56:24 51:15,21outset 41:7 plenty 11:18 principle 20:24 
+Okay 56:11 passed 40:7outside 37:1 poignant 24:13 37:17 38:9 
+old 47:12 peculiar 22:19overall 7:11 point 10:1 15:12 39:17,23,23
+omit 34:23 people 4:5 6:23 overcome 11:19 36:7 38:2 40:3 46:9 
+once 6:22 13:14 8:5,19 15:10 oversee 38:11 43:12,14 48:13 principles 36:18 
+ones 10:17 26:5 34:4overseeing pointed 13:24 38:23 40:8 
+one's 36:20 42:5 perfectly 49:1334:25 47:8 41:11,13 47:1 private 42:14 
+
+52:5,6 perform 5:16oversell 18:13 56:21 probably 11:16 
+onions 14:11,15 performanceoversight 18:21 points 7:13 48:3 23:12 
+
+14:15,20 22:17 5:954:15,15 police 42:13 problem 18:4 
+operation 27:17 period 13:13,18overt 10:18 13:7 posed 22:12 25:16,18 27:8 
+opinion 30:11 14:8 25:14overtime 49:10 position 12:19 problems 7:15 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+67 
+
+31:24 qualifies 20:19 43:4 46:16 related 54:21 Respondents 
+processes 19:8 29:23 reason 21:12 relation 39:7 1:22 2:11 
+produce 55:19 qualify 6:2 33:24 relationship 18:12 32:13 
+produces 53:19 21:17 28:11 reasonable 5:10 11:6 20:25 responding 
+producing 53:16 33:4,6,23 36:7 5:25 17:15 relaying 30:13 44:17 
+Products 19:14 36:13 39:14,14 40:23 46:13 relevant 14:18 response 46:25 
+professor 27:19 41:4 45:18,18 47:6 31:17,17 51:2 51:18 
+
+27:20,20,23 qualifying 25:10 reasoning 3:14 51:22 55:19 responsibilities 
+28:10,16,21 question 9:5 10:3,21 56:3 8:8 13:25 26:7 
+29:10 11:21 17:17 reasons 36:15 remaining 10:17 37:8 
+
+professors 28:5 20:2 27:5 41:9 52:23 20:8 53:10 responsibly 
+28:7 31:11,20 33:4 rebut 48:14 remains 31:20 50:20 
+
+promote 32:24 36:11 42:8 rebuttal 2:12 56:12 rest 50:14 
+41:23 43:3,23,25 20:9 53:11 remand 11:4 Restatement 
+
+promotion 44:9 47:19 received 13:21 33:11 49:23 39:4 
+13:22 53:18 56:12,23 57:15 remanded 9:23 result 37:2 
+
+prompt 50:21 questions 12:4 recognize 43:11 10:1 31:24 results 53:17,19 
+pronounce 31:9 15:2 20:7 recognized 6:13 remanding retaliation 49:5 
+pronounceme... 27:15 35:10 6:14,22 18:7 45:14 47:11 54:21 
+
+31:9 53:7 27:15 40:10 49:21 revealed 53:18 
+proof 17:25 18:3 quite 15:11 recognizes remands 32:6 reverse 9:21 
+proper 40:24 quote 12:22 46:3 40:17 repetitive 15:4 review 44:6 45:4 
+
+56:8 46:23 57:9 recommendat... reply 38:2 reviewed 26:7 
+prove 4:1 
+provide 7:19 R 
+
+29:21 
+record 10:24 
+
+report 21:2 
+reported 26:3 
+
+reviews 44:6 
+48:21 
+
+33:18 38:7 R 1:15 2:3,13 11:9,18 12:2,9 26:10 30:7 right 4:25 26:14 
+41:20 45:3 3:1,7 53:11 13:6,8 14:17 representing 26:23 27:1,22 
+52:25 race-based 51:6 15:6 30:24 37:5 33:1,2,8 35:14 
+
+providing 45:23 racial 10:9,11 31:3,5,7,12,13 represents 36:14 43:10 
+provision 21:18 10:11,14,15,18 31:14,16,21 19:23 RMA 39:11 
+provisions 13:17 13:9 38:21 32:3,17 33:14 require 16:20,22 ROBERTS 3:3 
+proviso 29:14 44:22 50:23 33:14,20,24 16:24 37:22 4:4,20,24 5:12 
+punishment raise 22:2 27:14 34:7 35:3 41:3 requirement 5:21 20:10 
+
+14:16 raised 15:21 43:19 44:5 8:22 9:2 21:5,8,19 
+punitive 40:12 16:25 25:17 45:14 47:18 Requires 51:15 22:11 26:1,16 
+purposes 20:19 27:9 49:14 50:8 reserve 20:8 29:25 32:10 
+
+28:11 30:15 raising 18:3 51:25 52:9 resides 22:20 36:23 37:25 
+52:21 range 25:1 56:23 57:2,19 resist 21:2 53:6,9 57:18 
+
+pursued 48:8 rank 42:14 recorded 46:2 resolve 40:24 57:21 58:1 
+put 22:22 48:12 reach 9:19 red 51:17 42:7 43:25 rock 4:22 5:8 
+putative 31:18 reacted 50:19 refer 51:8 resolved 38:5 8:17 
+putting 24:23 read 35:2 56:9 reference 28:24 resources 53:23 role 29:15,20 
+
+50:14 51:23,23 real 25:7 31:10 referred 54:19 respect 10:13 room 4:5 40:1 
+p.m 58:3 realities 6:15 54:20 18:3 50:22 roughly 25:14 
+
+Q 
+really 6:15 8:12 
+
+20:4 21:20 
+regulatory 
+
+18:20 
+responded 9:11 
+Respondent 6:8 
+
+rule 3:14 4:6 
+6:10,12,15
+
+qualified 36:22 35:12 41:20 reject 36:1 7:13 18:11 7:10,12,15,18 
+
+Alderson Reporting Company 
+
+
+
+68 
+Official 
+
+16:21 18:10,14 secretarial 28:5 47:21 48:5,23 solve 18:4 11:14,17 18:24 
+18:18 19:10 28:7,22 53:14 54:7 somebody 29:18 32:6,7 33:17 
+25:15 32:23 secretaries 28:6 55:24 someone's 5:6 33:19,21,22 
+33:10 35:14 secretary 27:20 severe 4:18,21 sorry 14:5 25:23 37:24 41:8 
+36:24 37:1 27:21,24 28:4 4:25 9:8,10,13 30:25 56:24 44:25 45:16,20 
+40:25 41:1 28:20,21 29:10 severity 5:5 sort 12:14 22:12 45:21,23 47:17 
+53:14 54:1,9 Section 39:4 sex 27:22 43:9 37:7 49:8 47:21 48:7 
+55:17 see 8:9 18:17 sexual 38:21 sorts 26:15 48:1 50:3 53:2,5 
+
+rulemaking 48:25 53:24 40:2 49:3,4,7 standards 28:17 
+19:8 seeing 8:6 sheets 34:1,2,8 Sotomayor 45:7 
+
+seen 26:11 27:5 35:4,6 44:1 15:17,20 16:2 standpoint 5:10 
+S 27:6 46:16,18 48:16 16:5,13,24 started 13:18 
+
+S 2:1 3:1 send 45:8,14 48:18 17:5,19,24 State 1:6 3:4 
+Sambo 51:7 56:11 show 41:16 18:2,16,24 12:25 15:13 
+sand 44:21 sending 55:13 showing 9:7 30:23 31:2,11 31:15 50:19 
+saying 4:25 26:2 55:14 31:16 37:4 45:24 56:20,22 statement 12:19 
+
+37:6 45:6 46:3 senior 4:6,8,14 shows 44:5 57:1 13:2 
+54:14 22:15 52:15 shy 42:20 sous-chef 14:24 States 1:1,12,19 
+
+says 4:8 11:23 seniority 38:12 side 27:5 38:1 so-called 51:4 2:7 3:13 20:13 
+15:7 24:21 42:5 42:2 specialist 11:24 stationed 15:10 
+31:3 38:18,22 sense 30:13 signal 45:13 14:1,3 status 32:18 
+46:2 47:7 52:17,20 55:13 specific 26:6 33:5 
+51:11,14 55:25 sent 10:1 56:4 signals 55:13 specifically statute 18:21 
+56:19 sentence 51:14 signed 26:21 13:24 19:25 38:18,22
+
+scale 7:1 separate 12:4 significant 5:17 spectrum 22:4 40:7 
+SCALIA 4:22 13:17 6:1 23:6 25:18 29:1 30:2,3 statutory 20:1 
+
+19:4,10 35:9 September Silverman 36:3 speculate 49:18 Staub 3:16 
+35:12,21 38:13 13:19 36:9,13 52:4 squarely 36:2 steer 8:2 
+38:17 39:9,12 serious 22:25 55:5,10 SRI 1:17 2:6 step 47:11 49:21 
+39:22,25 27:8 simply 4:25 37:2 20:12 50:12 
+
+schedule 34:11 served 11:1 44:14 55:15 Srinivasan 1:17 steps 54:3 
+34:13 36:4,20 services 28:5,22 single 8:18 2:6 20:11,12 straight 55:24 
+44:3 46:21 sets 18:24 22:18 20:15 21:7,10 stretched 39:18 
+49:2,16 52:6 setting 27:18 situation 8:10 21:25 22:21 struck 40:6,22
+
+scheduling Seventh 3:13 27:25 40:18 23:14 24:2,10 structure 16:11 
+48:20 5:22 6:4,10,13 44:20 25:2,6,19,23 17:3 
+
+scientific 26:12 6:14,19,21 situations 8:7,11 26:8,18,23 stuck 44:20 
+scope 23:18 7:10,10 9:17 16:9 21:13 27:1,10 28:1 student 51:16 
+Second 6:12 9:18,21,23 26:15 28:10,15,23 style 3:19 
+
+7:10,11,14 10:3,20 11:14 six 34:4 47:12 29:6,12 30:4 subjected 8:17 
+16:15 18:18 11:16 18:10,13 Skidmore 19:2,5 30:25 31:10 43:7,8
+33:17 39:4 22:24 27:17,24 19:15 32:2 36:17 subjective 5:6,7
+41:1 42:11 28:8,13 29:8,8 sliding 7:1 stand 43:13 subjects 20:18 
+44:24 48:2 29:12 31:4 snippets 31:6,7 standard 3:19 27:21 
+50:4 53:2 33:3 35:13,15 47:5 3:24 5:5 7:7 submitted 58:2 
+54:12 35:18 37:17 Solicitor 1:17 8:22,23 9:3 58:4 
+
+Secondly 37:20 41:8,14 47:17 56:7 10:24 11:7,10 subordinate's 
+
+Alderson Reporting Company 
+
+
+
+69 
+Official 
+
+20:17 supervisors 3:23 22:10 29:4,15 things 9:13,17 19:24 20:4 
+substantial 16:17,18 17:6 29:19,21 10:13 14:14,14 30:17 32:20 
+
+29:20 17:8,9,11 task 5:14 14:23 43:4 38:11 42:5 
+substitute 51:15 37:22 52:19,21 tasks 7:20 21:15 48:1 49:7 50:14 52:16,17 
+succumb 23:5 supervisory 21:20,21 34:22 50:23 54:19 52:22 
+sudden 7:1 9:19 11:6 12:1 53:21 57:16 today 22:5 49:17 
+sue 26:14 14:6 26:7 team 52:17 think 5:24 8:19 52:14 
+sufficient 7:20 31:17,18 32:19 Tech 45:20 21:9,10,17 toilet 54:24 
+
+7:21 8:19 32:23 51:19 tell 18:16 26:20 22:4 23:5 24:2 toilets 13:5 
+11:19 31:12,16 supervisor's 26:22 29:13 24:3 26:17 20:24 23:4,8,9 
+38:12 42:6,18 23:2 34:3 42:21 27:10,12 28:23 23:16,21,24 
+43:24 44:12 support 1:19 2:8 53:19 30:4,10,19,21 24:5,12 40:20 
+46:11,13,14 20:14 31:14 telling 31:25 31:10,10,13 told 12:16 15:13 
+47:9 52:2 supported 18:11 42:20 32:2,8 33:2,5 34:12 56:19 
+
+sufficiently 9:7 suppose 10:23 tempted 11:3 33:21 35:20,23 tough 20:2 
+9:10 31:5,8 24:16 54:1 tend 18:12 35:25 36:1,8 track 8:23 
+
+suggest 47:16 supposed 30:2 term 20:1 36:15,17 37:20 traditional 
+suggesting 45:4 terms 43:7 37:23,25 38:1 52:20 
+
+41:20 Supreme 1:1,12 45:16 53:15 38:3 39:15 traditionally 
+summary 9:22 sure 5:19 15:25 test 5:23 6:3,4 40:5,14,22,24 14:13 
+
+11:19,21 12:12 15:25 16:14,15 21:9 42:1,2,6 43:10 transcript 48:10 
+31:14 32:1,3 surely 33:11 27:17 28:14 43:13,22,24,24 transfer 32:25 
+33:12 46:6 surmise 48:8 29:8,9 31:4 45:11,13 47:10 transmit 15:9 
+47:9,23 surprise 54:18 33:3 41:15 48:9 49:18 trays 34:5 
+
+superior 35:20 surprising 26:19 48:5 50:4,6,8 50:2,5,7,12 treat 43:16,17 
+35:24 43:12 swept 10:16 55:24 51:2,6,16,22 treated 16:7 
+53:15 synonym 54:16 testified 12:16 52:3,12 55:13 43:19 
+
+supervised 14:3 12:21 56:22 treatment 43:13 
+T17:10,10 testifies 57:9,12 thinking 55:16 tried 9:17 38:7 
+
+T 2:1,1supervision testimony 8:9 Third 54:18 54:7 
+table 47:1654:16 56:18 57:6,8 thought 4:13 tries 54:12 
+tail 54:17supervisor 3:12 tests 22:12 38:15 5:22 23:11 trigger 29:21 
+take 4:2 6:23,24 3:17 4:15 6:18 45:2,2 48:3,24 24:6 32:19 39:8 
+
+16:17 17:69:9 11:1 12:16 thank 20:10,15 threat 13:7 16:8 42:6 44:12 
+29:22 31:13,1613:2 15:22 32:10,14 53:6 23:15 52:2 
+32:2 35:9 38:6 20:19 21:12 53:8,13 57:4 threatened 23:3 triggering 52:21 
+38:25 43:2222:9 23:3 57:25 58:1 three 23:19 53:3 
+47:10 49:2125:11 28:11 theory 4:14 25:13 26:21 true 11:2 45:17 
+54:2 56:729:4,10,19 thermostat 33:10 48:11 truly 53:19 
+
+takes 29:1633:4,24 36:13 22:16 37:9 tidier 6:19 try 41:16 48:14 
+40:1441:4,10,24 39:14 time 9:12,14 trying 22:14 
+
+talked 30:142:15,16 43:3 they'd 26:20,22 13:18 14:8 28:24 
+42:24 43:543:18 44:8 thing 9:25 11:3 20:8 36:24,24 turn 7:23 29:21 
+
+talking 10:446:3 47:24 14:10 23:10,13 51:2,25,25 turned 25:17,24
+35:21 48:1,248:23 49:8 23:17 24:1,25 times 30:1 34:12 27:7 
+
+tangible 6:2450:9 53:3,22 29:16 54:7 47:6 57:17 twist 55:20 
+16:17 17:753:24 57:13 56:11 title 3:12,15 two 10:6 12:3,15 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+70 
+
+26:9 42:13 6:11 view 45:5 William 12:13 1 
+48:3 51:6 unpredictable VII 3:12,15 12:21 54:20 1st 13:20,21
+
+type 6:6 6:20 19:24 20:5 56:21 11-556 1:4 3:4 
+types 22:7 unquote 57:9 32:20 50:15 willing 44:23 11:06 1:13 3:2 
+
+U 
+ultimately 35:25 
+unavailable 
+
+17:16 
+uncertainty 
+
+6:16 18:14 
+unchecked 36:5 
+
+unreasonably 
+17:18 
+
+unrefuted 44:1 
+unsupported 
+
+18:11 
+unusual 10:5 
+
+47:11 49:21 
+upstairs 53:23 
+
+52:22 
+violates 3:14 
+Virginia 1:15 
+virtually 36:5,19 
+
+45:15 
+virtue 38:11 
+
+39:7 42:5 
+52:16 
+
+Wood 44:18 
+50:17 
+
+word 3:17 19:23 
+20:4 
+
+words 51:7 54:4 
+work 4:5,5 
+
+14:14 15:7 
+16:17 20:18,22 
+
+12 14:2,7 51:13 
+12:06 58:3 
+13 13:23 14:7 
+
+35:1 
+135 46:23 
+197 56:17 
+198 12:17 
+
+unclear 8:13 urge 52:23 visited 24:13 24:4,7,11 25:3 2 
+uncontradicted 
+
+33:25 
+use 22:12 51:7 
+useful 28:24 W 
+
+25:12 27:22 
+30:5 31:19 
+
+2 15:16 34:7 
+20 2:7 34:4 
+
+uncovered 
+50:23 V 
+
+Wagner 8:17 
+want 24:22 44:4 
+
+34:13 40:1 
+41:22 52:6 
+
+51:15 
+2005 13:19 
+
+underreported v 1:5 3:4 6:22 55:16 working 9:2 2007 13:20,21
+26:11 43:2 wanted 41:16 14:15 26:17 14:6 
+
+understand vacated 31:24 wants 36:7 workplace 5:9 2008 13:21 
+17:13 26:19 valid 50:14 50:12 6:16 8:18 2012 1:9 
+29:8 34:14 Vance 1:3 3:4 warranted 46:17 52:18 219(2)(d) 39:4 
+38:14,17 12:1,17 13:14 50:22 55:9 24 57:10 
+
+understanding 13:21 15:7,12 Washington 1:8 workplaces 26 1:9 
+13:11 14:17 15:13 46:4 1:18,21 52:13 277 34:7 
+19:3 37:19 51:5,20 54:19 wasn't 9:13 works 26:4 278 34:7 
+
+understood 56:18 10:15 14:17 27:17 
+57:13 Vance's 11:1 36:12 42:20 worried 55:12 3 
+
+undertake 29:19 12:19 14:4 48:6 51:9,18 wouldn't 9:9 3 2:4 
+49:24 variety 38:2 55:7 19:14 23:1,12 32 2:11 
+
+undertaken vegetable 34:5 way 17:10 21:22 23:25 26:22 367 12:24 
+16:8 vegetables 34:3 22:4 24:14 30:14 46:14 37 57:14 
+
+Unfortunately 49:9 27:2 33:17 write 32:1 41:20 38 57:12 
+14:16 vein 49:8 40:24 41:2 writing 38:18 386 12:20 
+
+United 1:1,12,18 
+2:7 3:13 20:13 
+
+versus 42:14 
+vicarious 20:20 
+
+45:22,23 50:5 
+55:8 
+
+wrong 11:10 
+37:15,18 4 
+
+university 1:6 32:19 39:20 weak 45:6 4 53:10 
+3:5 12:14 40:9,16 42:6 well-settled X 424 34:8 35:7 
+15:13 27:18,19 44:12 52:2,22 55:17 x 1:2,7 430 48:19 
+31:15 
+
+unnecessary 
+53:3 
+
+victim 7:22,23 
+went 13:19,19 
+
+54:20 55:22 Y 5 
+9:18 7:25 8:2 21:1 weren't 55:22 year 20:24 23:4 53 2:14 
+
+unpleasant 8:9 23:4 32:25 We'll 3:3 23:16 59-16 15:16 
+14:9 
+
+unpleasantries 
+44:21 
+
+unpredictability 
+
+37:12 42:19,24 
+victims 3:21,25 
+
+6:24 
+victim's 36:4 
+
+we're 22:13 
+27:18 37:18 
+
+we've 26:11 
+37:17,17 50:1 
+
+yearly 29:11 
+years 25:9,14 
+
+47:12 
+yellow 51:18 
+
+6 
+60 34:3 
+60-some-person 
+
+12:15 
+
+Alderson Reporting Company 
+
+
+
+71 
+Official 
+
+62-3 57:5
+ 
+
+9
+ 
+92(a) 21:16 
+
+Alderson Reporting Company 
+
+

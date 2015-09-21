@@ -1,0 +1,7369 @@
+
+  
+
+         
+
+                        
+
+ 
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 ENVIRONMENTAL DEFENSE, ET AL., : 
+
+4  Petitioner, : 
+
+5  v. : No. 05-848 
+
+6 DUKE ENERGY CORPORATION, ET AL. : 
+
+7 - - - - - - - - - - - - - - - - - x 
+
+8  Washington, D.C. 
+
+9  Wednesday, November 1, 2006 
+
+10 
+
+11  The above-entitled matter came on for oral 
+
+12 argument before the Supreme Court of the United 
+
+13 States at 10:02 a.m. 
+
+14 APPEARANCES: 
+
+15 SEAN H. DONAHUE, ESQ., Washington, D.C.; on behalf 
+
+16  of the Petitioners. 
+
+17 THOMAS G. HUNGAR, ESQ., Deputy Solicitor General, 
+
+18  Department of Justice, Washington, D.C.; for 
+
+19  Respondent United States, in support of the 
+
+20  Petitioners. 
+
+21 CARTER G. PHILLIPS, ESQ., Washington, D.C.; on 
+
+22  behalf of the Respondents. 
+
+23 
+
+24 
+
+25 
+
+1 
+Alderson Reporting Company 
+
+
+
+                           
+
+               
+
+            
+
+              
+
+              
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+C O N T E N T S
+
+
+ORAL ARGUMENT OF PAGE 
+
+SEAN H. DONAHUE, ESQ.
+
+ On behalf of the Petitioners 3 
+
+ORAL ARGUMENT OF 
+
+THOMAS G. HUNGAR, ESQ.,
+
+ On behalf of the United States 12 
+
+ORAL ARGUMENT OF 
+
+CARTER G. PHILLIPS, ESQ.
+
+ On behalf of the Respondents 25 
+
+REBUTTAL ARGUMENT OF 
+
+SEAN H. DONAHUE, ESQ.
+
+ On behalf of the Petitioners 52 
+
+2
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+P R O C E E D I N G S
+
+ (10:02 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We will hear 
+
+argument first this morning in Environmental Defense 
+
+versus Duke Energy Corporation. Mr. Donahue.
+
+ ORAL ARGUMENT OF SEAN H. DONAHUE
+
+ ON BEHALF OF PETITIONERS
+
+ MR. DONAHUE: Good morning, Mr. Chief 
+
+Justice, and may it please the Court:
+
+ The Clean Air Act requires that the owner of 
+
+a major emitting facility obtain a prevention of 
+
+significant deterioration permit before engaging in a 
+
+modification, which is defined to include any physical 
+
+change that increases the amount of any pollutant 
+
+emitted by such source.
+
+ Since 1980, EPA's PSD regulations have 
+
+measured such increases in terms of actual emissions in 
+
+tons per year.
+
+ CHIEF JUSTICE ROBERTS: That's a disputed 
+
+point, I gather, central to the case, whether or not the 
+
+regulations measured PSD emissions through that device 
+
+rather than the hourly emissions.
+
+ MR. DONAHUE: That's correct, Mr. Chief 
+
+Justice, but the text of the regulations refers 
+
+pervasively, and I'm referring to the definition of 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+major modification which is in 40 CFR 51.166(b)(2) and 
+
+subsequent paragraphs of that regulation, refers 
+
+pervasively to actual emissions and measures emissions 
+
+exclusively in tons per year.
+
+ JUSTICE SCALIA: It is a little of an 
+
+exaggeration, though, to say that EPA has since the 
+
+issuance of the regulations always interpreted them the 
+
+way that you prefer. In fact, the director of the PSD 
+
+program gave two opinions in which he took precisely the 
+
+interpretation that opposing counsel took.
+
+ MR. DONAHUE: Yes, Justice Scalia. 
+
+Respondent has relied heavily on two early applicability 
+
+determinations.
+
+ JUSTICE SCALIA: Rightly so, I think. I 
+
+mean, it was the earliest, application of the 
+
+regulation by the officer of the agency specifically in 
+
+charge of the program.
+
+ MR. DONAHUE: Well, Justice Scalia, as we 
+
+point out in our brief, Director Reich does not adopt 
+
+Duke's theory, in fact contradicts it. He doesn't say 
+
+that a new source performance standard modification must 
+
+precede a PSD major modification. Instead, in both he 
+
+relies on the express exclusion in the PSD regulations 
+
+for increases in hours of operation and the production 
+
+rate, and as EPA explained in its contemporaneous 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+preamble, that provision by its terms is an exception 
+
+from the definition of physical change.
+
+ It is not a provision that says -- increase 
+
+is attributable to a physical change, to increased hours 
+
+that are enabled by physical change, are not considered. 
+
+The plain language of the regulation actually 
+
+contradicts this reading. These determinations 
+
+themselves are quite ambiguous, and of course they are 
+
+two of dozens of such determinations.
+
+ JUSTICE SCALIA: Well, whatever the reason 
+
+he gave, was it -- these opinions were out there when 
+
+the challenge to the regulations, in which Duke did not 
+
+participate, when that challenge was brought, were 
+
+these -- were those opinions already out there?
+
+ MR. DONAHUE: Those opinions were out there 
+
+but the plain language of the regulation and the 
+
+preamble which explain that the increased hours exclusion 
+
+was simply to allow companies to respond to demand and to 
+
+link the coverage of PSD to construction activity. What 
+
+we have here is a physical change in the plants, massive 
+
+renovations of these elaborate networks of pipes and 
+
+tubes that compose a central component.
+
+ JUSTICE SCALIA: I understand that, and I 
+
+think you may have the better of the argument on me on 
+
+the interpretation of the PSD regulations. But what I 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+am concerned about is that companies can get whipsawed. 
+
+They don't challenge the regulations when they come out 
+
+because as far as they know, the agency is interpreting 
+
+them in a way that they favor. And then some years 
+
+later, when it turns out the agency is using a different 
+
+interpretation, you have the jurisdictional bar.
+
+ MR. DONAHUE: Well, Justice Scalia, these 
+
+regulations were challenged early on and there was a --
+
+as the Court is aware, there was a settlement agreement 
+
+in 1982 to which Duke was, in fact, a party, that 
+
+proposed to add the hourly rate test that is completely 
+
+absent from these regulations.
+
+ JUSTICE KENNEDY: But could Duke have had a 
+
+challenge to the 1992 or 2000 regulations? Could they 
+
+have reopened the issue at that point?
+
+ MR. DONAHUE: They did in fact precisely that, 
+
+Justice Kennedy, and that was resolved in the New York 
+
+proceeding by the D.C. Circuit. Duke didn't challenge 
+
+the very prominent aspect of the 1980 regulations, which 
+
+was to move away from the potential emissions test of 
+
+prior --
+
+JUSTICE KENNEDY: I don't want to jump ahead 
+
+to the jurisdictional argument if you want to talk about 
+
+the modification substantive point first, but it is not 
+
+clear to me whether Duke should have acted in 1980, 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+1992 or 2000, or all of the above.
+
+ MR. DONAHUE: Well, the regulations were 
+
+clear on their face. I mean, to determine the effect of 
+
+307 --
+
+CHIEF JUSTICE ROBERTS: That's an audacious 
+
+statement.
+
+ (Laughter.)
+
+ JUSTICE SCALIA: We've wrestled with these 
+
+things for several days. It's disappointing to hear you 
+
+tell us they're clear.
+
+ MR. DONAHUE: They're clear in this respect, 
+
+they did not include an hourly rate test. As Judge Posner 
+
+in the Cinergy opinion this summer said, the argument 
+
+that the statute mandates an hourly rate test is a 
+
+challenge to the validity of these 1980 regulations 
+
+because they don't say it, they don't provide for it, 
+
+and they are very specific and detailed, and instead turn 
+
+on actual annual emissions. And the entire rationale 
+
+EPA offered was linked to that effort to capture real 
+
+world changes in emissions.
+
+ JUSTICE ALITO: If they are so clear, how 
+
+can you account for Mr. Reich's interpretation? He's an 
+
+expert in the area.
+
+ MR. DONAHUE: Right. He misapplied, he 
+
+didn't adopt this theory, the theory that an NSPS 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+modification precedes at all; in fact, he contradicted 
+
+it. He misapplied in quite sort of anomalous 
+
+circumstances the increased hours --
+
+JUSTICE ALITO: I know you say he's wrong, 
+
+but if somebody in his position with his expertise can 
+
+interpret the regulations in that way, doesn't that show 
+
+that they're not clear on their face?
+
+ MR. DONAHUE: We think that this Court can 
+
+resolve, can interpret, can address the reasonableness 
+
+of EPA's construction of the increased hours exclusion. 
+
+What it can't do is certainly what the Fourth Circuit 
+
+did, which is to say that the PSD regulations must be 
+
+the same. They are obviously not the same. They are 
+
+different in multiple respects. And certainly that 
+
+challenge could have been raised, and certainly that 
+
+challenge was barred, and of course the court of appeals 
+
+expressly called the regulations irrelevant, the texts 
+
+and interpretations of the regulations. That's exactly 
+
+what a court is supposed to be doing.
+
+ JUSTICE SCALIA: Right. In deciding whether 
+
+the regulations are reasonable, however, is it proper 
+
+for a court to take into account that the regulations 
+
+must follow the prescription of the statute that the PSD 
+
+definition be the same as the NSPS -- what is it -- NSPS 
+
+definition? I mean, that's a usual tool of statutory --
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+or regulatory construction.
+
+ Cannot a court give great weight to that in 
+
+interpreting these ambiguous regulations?
+
+ MR. DONAHUE: Well, that -- they're not 
+
+ambiguous as to whether they're identical, and to hold 
+
+that they have to be is certainly an invalidation. And 
+
+the D.C. Circuit, of course, held that the statute 
+
+doesn't require identity as between the two sets of 
+
+regulations. And we're not here on certiorari from the 
+
+New York decision, we're here on an enforcement action 
+
+in which a court leapt over the express limitations 
+
+imposed on it, declared the language of the regulations 
+
+irrelevant, and indeed misapplied them rather 
+
+dramatically.
+
+ JUSTICE SCALIA: Well, I don't think the 
+
+same argument has necessarily to be made, but the 
+
+question still before us is how you interpret the 
+
+regulations. Let's assume that's just a regulatory 
+
+interpretation question, it's not a statutory question.
+
+ MR. DONAHUE: Right. Right.
+
+ JUSTICE SCALIA: But in deciding that, 
+
+whatever was argued in prior cases, it seems to me that 
+
+we're entitled to take into account the necessity that 
+
+the regulations comply with the statute. And if they 
+
+are ambiguous, we should resolve the ambiguity in the 
+
+9 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+direction that it seems to us would provide consistency 
+
+with the statute. Now does that violate the 
+
+jurisdictional bar?
+
+ MR. DONAHUE: No. I have no problem with 
+
+any of that. If the regulations are ambiguous, take 
+
+into account the statutory text, structure, policies. 
+
+What the court below did, of course, was say it doesn't 
+
+matter what the regulations say, these have to be the 
+
+same. It forgot that in fact, these regulations were 
+
+very different. The D.C. Circuit said there's no 
+
+statutory mandate of identity and that the -- and, of 
+
+course, Respondent was there in the D.C. Circuit. It 
+
+was permitted to assert a challenge to this divergence, 
+
+as the court called it, between NSPS regulations and 
+
+PSD. And the court said --
+
+CHIEF JUSTICE ROBERTS: If the regulations 
+
+are ambiguous, then the agency can interpret them in 
+
+different ways and can change its interpretation over 
+
+time. Of course, what your friend argues happened here 
+
+is that the agency changed its interpretation in the 
+
+context of an enforcement program. Now accepting that 
+
+premise, what is the -- what should Duke have done when 
+
+that interpretation was changed in an enforcement 
+
+program?
+
+ MR. DONAHUE: Accepting that premise, they 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+could have sought an applicability determination. Duke 
+
+knew very well what EPA's interpretation was because of 
+
+the WEPCO decision. EPA had been -- and subsequent 
+
+actions. In fact, Duke's attorneys were vociferously 
+
+charging that EPA changed the rules and was acting ultra 
+
+vires.
+
+ JUSTICE GINSBURG: Mr. Donahue, were there 
+
+earlier enforcement actions in which EPA was taking the 
+
+position that it took in this action against Duke?
+
+ MR. DONAHUE: Well, in the WEPCO decision --
+
+I mean, EPA has always taken the position that actual 
+
+annual emissions is the standard under the 1980 rules.
+
+ JUSTICE GINSBURG: But were they, in fact, 
+
+enforcing that standard? So that -- you said that Duke 
+
+could have asked for a non-applicability ruling, but at 
+
+the time Duke started up its --
+
+MR. DONAHUE: Certainly. I mean, WEPCO was 
+
+an applicability determination. That was in 1989-90. 
+
+Puerto Rican Cement was an applicability determination. 
+
+Duke instead, knowing that EPA believed that increased 
+
+utilization that is caused by physical change has to be 
+
+considered under this, as is prescribed in these very 
+
+detailed regulations, Duke decided not to do that, to go 
+
+forward, and it didn't, in fact, come to the State or to 
+
+EPA. 
+
+11 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Of course, the increased hours -- I 
+
+understand the Court's concern about the Reich memos. 
+
+But EPA's construction of the increased hours exception 
+
+is completely correct under the plain language of the 
+
+regulations. And in WEPCO the Court upheld. So that 
+
+there was no question that not only was it consistent 
+
+with the plain language, but whatever Reich had said, 
+
+the express language of the regulations was as far as 
+
+the exception went. There was no further confusion, if 
+
+those early memos caused confusion.
+
+ I'd like to reserve the balance of my 
+
+time. Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. Donahue.
+
+ Mr. Hungar.
+
+ ORAL ARGUMENT OF THOMAS G. HUNGAR,
+
+ ON BEHALF OF RESPONDENT UNITED STATES
+
+ MR. HUNGAR: Thank you, Mr. Chief 
+
+Justice, and may it please the Court:
+
+ The court of appeals exceeded its 
+
+jurisdiction and misconstrued the Clean Air Act in 
+
+holding that EPA was required to define the term 
+
+"modification" identically for the separate NSPS and PSD 
+
+programs, and on the jurisdictional point I'd like to 
+
+address the whipsaw question, because in fact it's quite 
+
+12
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+clear that there's no whipsaw issue here for a number of 
+
+reasons. It's true that there are those ambiguous and 
+
+cursory 1981 statements from Mr. Reich, who was a 
+
+subordinate official within EPA. In 1988, the 
+
+administrator of EPA, the head of the agency, in the 
+
+WEPCO decision, the applicability determination, made 
+
+very clear what EPA's position is on the application of 
+
+the hours of operation exclusion and the fact that this 
+
+is an annual tons per year test. That's page 44 of the 
+
+joint appendix. He made that perfectly clear and it has 
+
+always been clear that that is, in fact, the EPA's official 
+
+position beginning with the 1980 preamble. But again --
+
+CHIEF JUSTICE ROBERTS: Should a challenge 
+
+to that have been brought in the D.C. Circuit at that 
+
+time, or would you have argued that's too late?
+
+ MR. HUNGAR: Well, I'm not sure whether it 
+
+could have been brought at that time. But the fact of 
+
+the matter is a challenge was brought on this issue 
+
+in -- to the 1980 regulations. True, Duke didn't assert 
+
+it, but General Motors and the steel industry did assert 
+
+in the 1981 brief they filed in that challenge to the 
+
+1980 rule --
+
+CHIEF JUSTICE ROBERTS: Well, presumably 
+
+Duke could say, we looked at the Reich memorandum and we 
+
+were following that and all of a sudden this new 1988 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+thing came up and they are surprised by that. Now 
+
+you're saying it's already too late because somebody 
+
+else challenged it in 1980?
+
+ MR. HUNGAR: Well, they might have that 
+
+argument, Your Honor, except for the fact that the 
+
+challenge to the 1980 rules was stayed and was not 
+
+reopened until 2003.
+
+ In 2003, Duke and other parties sought to 
+
+reopen and were granted permission to reopen that 
+
+challenge to the 1980 rules. They filed a statement of 
+
+issues in 1984 and a brief in 1984 challenging the 
+
+regulation on the ground that if EPA's interpretation 
+
+was correct and that it did not require an increase in 
+
+maximum total achievable emissions, as the NSPS did, 
+
+test did, they argued that it was invalid. They raised 
+
+the very incorporation theory that they advance here, 
+
+that is the statutory argument that Congress was 
+
+required to follow for the PSD regulations the same 
+
+regulatory approach that the NSPS regulations had 
+
+followed in 1977 with the hourly maximum achievable 
+
+test. They made that very argument in their brief in 
+
+the D.C. Circuit in 2004, the D.C. Circuit addressed and 
+
+rejected that argument on the merits.
+
+ CHIEF JUSTICE ROBERTS: To be fair to them, 
+
+that very same argument was more a product of the Fourth 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Circuit than of Duke. They had a somewhat different 
+
+approach before the Fourth Circuit and then the Fourth 
+
+Circuit came up with this insistence on the parallel 
+
+construction.
+
+ MR. HUNGAR: Yes. Well, I think it's 
+
+important to distinguish. There are two statutory 
+
+arguments here. One is what I would call the 
+
+incorporation theory. That is the argument that 
+
+Congress by borrowing the definition, the statutory 
+
+definition, also necessarily borrowed and mandated 
+
+adoption of the regulatory definition from the NSPS 
+
+program. That argument, the incorporation argument, was 
+
+made by Duke in its brief in 2004 in the D.C. Circuit. 
+
+The D.C. Circuit addressed and rejected that argument at 
+
+pages 17 through 19 of its decision in its 2005 New York 
+
+decision.
+
+ JUSTICE SCALIA: Why was that rejection 
+
+wrong? Because this issue is still important to me for 
+
+purposes of statutory construction. Is it conceivable 
+
+that when Congress says the word widget in this statute 
+
+has to mean the same as the word widget in the other 
+
+statute, that the agency can effectively frustrate the 
+
+apparent Congressional intent by saying, oh, yes, I 
+
+mean, yes, that has to mean the same thing, but we can 
+
+adopt regulations under one statute which regulations 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+say it means one thing, and we can adopt regulations 
+
+under another statute that says it means something else. 
+
+I mean, to say that they have to mean the same 
+
+thing it seems to me means that the regulations have to 
+
+say they mean the same thing.
+
+ MR. HUNGAR: Your Honor, it is a fundamental 
+
+principle of administrative law and deference to agency 
+
+decisionmaking that when Congress adopts an ambiguous 
+
+statutory phrase and charges the agency with 
+
+implementing that phrase the agency has discretion, has 
+
+a delegation of rulemaking authority and policymaking 
+
+authority to choose from among the various permissible 
+
+interpretations.
+
+ JUSTICE SCALIA: Of course it does, but when 
+
+Congress says the definition in the two statutes has to 
+
+be the same, whatever choice the agency makes among 
+
+those options has to be applied to both, it seems to me.
+
+ MR. HUNGAR: No, Your Honor, because 
+
+Congress has not mandated, as it could have done, that 
+
+the choice of the specific interpretation from among the 
+
+permissible options must be identical across both 
+
+programs.
+
+ JUSTICE SCALIA: Well, then it's meaningless 
+
+to say the definition has to be the same.
+
+ MR. HUNGAR: No, Your Honor. 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SCALIA: Entirely meaningless.
+
+ MR. HUNGAR: The statutory definition is 
+
+ambiguous, but within the limits of the ambiguity it 
+
+imposes constraints on the discretion of the agency. 
+
+The agency must choose from among the options that are 
+
+permissible given the range of language that Congress 
+
+used. But within that range the agency has discretion. 
+
+Think of it this way, Your Honor. If there were no PSD 
+
+program, if we were talking only about the NSPS program, 
+
+Congress gave an ambiguous definition to the agency the 
+
+agency would have discretion to adopt different tests 
+
+for determining whether emissions increased for 
+
+different types of equipment even within that single 
+
+program, because the statutory definition is ambiguous. 
+
+The statute therefore does not mandate a one size fits 
+
+all approach and the agency in its discretion could well 
+
+determine that one emissions test is appropriate for 
+
+some types of equipment, another emissions test is 
+
+appropriate for other types of equipment, as long as 
+
+both of those tests are within the permissible bounds 
+
+of the statutory ambiguity. The agency is entitled to 
+
+do that.
+
+ JUSTICE GINSBURG: And the ambiguity is the 
+
+word "increase," which could mean different things?
+
+ MR. HUNGAR: Yes, Your Honor. 
+
+17
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE GINSBURG: The Government as I 
+
+understand it now has a proposed regulation that would 
+
+align the standards with the two programs. It would 
+
+bring the nonproliferation -- it would bring the 
+
+standard for the nonproliferation program in line with 
+
+the new source performance standard.
+
+ MR. HUNGAR: Yes, Your Honor, with respect 
+
+to certain types of units, electric generating units 
+
+like those at issue in this case, that's correct. They 
+
+would not be identical under the proposal, but would be 
+
+similar.
+
+ JUSTICE GINSBURG: Well, since the 
+
+government is now taking the position that another Duke 
+
+could do just what was done here and there's an 
+
+enforcement action pending, would you, if you prevailed 
+
+in that enforcement action, nonetheless enforce, though 
+
+it's those against the current government policy?
+
+ MR. HUNGAR: Your Honor, the 2005 proposal 
+
+that you're referring to is only a proposal, a notice of 
+
+proposed rulemaking. It has not been adopted. So the 
+
+rules as they exist today are the same as the ones we're 
+
+talking about, although there was a modification in 
+
+2002. But in any event, what we're talking about here 
+
+is conduct that occurred from 1988 through 2000 with 
+
+respect to --
+
+18
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE KENNEDY: Well, what exactly are you 
+
+seeking in these enforcement proceedings? An injunction 
+
+to install the BACT or criminal fines or civil fine, or 
+
+what?
+
+ MR. HUNGAR: It is civil enforcement 
+
+proceedings, Your Honor. There are various remedies, 
+
+injunctive relief and civil penalties where appropriate, 
+
+yes.
+
+ JUSTICE KENNEDY: If you have an enforcement 
+
+proceeding and there is a legitimate question of whether 
+
+or not the agency's interpretation is consistent with 
+
+the statute with Chevron deference and so forth and the 
+
+court looks at it and says, you know, I have a real 
+
+problem with the way the agency interpreted the basic 
+
+statute when it first issued the regulation, the court 
+
+can't get into that merely because the parties didn't 
+
+present it earlier?
+
+ MR. HUNGAR: That's correct.
+
+ JUSTICE KENNEDY: The court's almost issuing 
+
+an advisory opinion in a way.
+
+ MR. HUNGAR: No, Your Honor. It's not an 
+
+advisory opinion. The court is simply precluded from 
+
+considering a challenge that would invalidate the 
+
+regulation because that is the determination Congress 
+
+made in requiring pre-enforcement review to avoid the 
+
+19
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+problem of inconsistent determinations and circuit 
+
+conflicts and 700 district judges potentially construing 
+
+the statute in different ways and tying EPA's hands. 
+
+The Congress made that determination.
+
+ JUSTICE KENNEDY: Are there other areas in 
+
+the law where courts have to take as binding a legal 
+
+proposition that they think is dead wrong when they --
+
+MR. HUNGAR: It's quite common. It's quite 
+
+common, Your Honor, in any regime where review of an 
+
+agency decision is relegated to the exclusive 
+
+jurisdiction of one court, as it is here, and 
+
+enforcement proceedings are brought in a different 
+
+court. Hobbs Act agencies, their decisions are 
+
+reviewable in the court of appeals but often enforceable 
+
+in the district courts. The district court cannot look 
+
+behind the determination of the agency to challenge its 
+
+validity because that rests in the exclusive jurisdiction 
+
+of the court of appeals. Obviously there's a timing 
+
+issue in this statute as well because of the requirement 
+
+of pre-enforcement review. Whatever -- whatever concerns 
+
+might be raised in a situation where a party could not 
+
+reasonably have been expected to challenge it at the 
+
+time it was originally promulgated are addressed by the 
+
+after-arising provision in section 307(b)(1) which 
+
+permits challenges that could not have been made within 
+
+20
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+the 60-day period to be brought later in appropriate 
+
+circumstances. And in any event, if there were some 
+
+concerns at the outer limits of a provision like this 
+
+one, they have nothing to do with this case where Duke's 
+
+challenge, actual challenge to the agency decision, the 
+
+1980 rule, it was heard in 2005.
+
+ And so Duke had more opportunity than you 
+
+could possibly ask for to understand exactly what EPA's 
+
+position was, understand exactly what the regulation 
+
+meant and to challenge it in the D.C. Circuit. It did 
+
+so and it can't do it here.
+
+ JUSTICE SCALIA: Mr. Hungar, I'm curious. 
+
+What happens if you have a new company that wasn't around 
+
+when the regulation was issued? Can it -- can it bring a 
+
+challenge to the conformity of the regulation to the 
+
+statute?
+
+ MR. HUNGAR: Well, I think that's an 
+
+unresolved question. Presumably, the argument --
+
+JUSTICE SCALIA: Well, a nice question. I 
+
+mean, all you have to do is find a stalking horse. Just 
+
+have some new company carry your water for you.
+
+ MR. HUNGAR: Well, presumably the argument 
+
+would be that the creation of the company and the first 
+
+applicability of the regulations to it is an 
+
+after-arising ground. I don't know the answer to that 
+
+21
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+question, but certainly it's not presented here.
+
+ JUSTICE GINSBURG: Could it bring it up by a 
+
+declaration of non-applicability? Could the new 
+
+company -- how would it --
+
+MR. HUNGAR: Well, it could seek a 
+
+determination of non-applicability, but -- and it could 
+
+obtain judicial review of that determination. But that 
+
+would not go to the D.C. Circuit and would not permit a 
+
+challenge to the regulations. But they could find a 
+
+petition, they clearly could find a petition for 
+
+rulemaking with the EPA, saying your regulation is 
+
+invalid, it's been around for 25 years, but it's still 
+
+invalid, you need to rescind it, and when the agency 
+
+declined to do that they could then go to the D.C. Circuit.
+
+ CHIEF JUSTICE ROBERTS: In the midst of the 
+
+enforcement action that's being brought against them by 
+
+EPA? What's supposed to happen in the enforcement 
+
+action, if that's the vehicle through which EPA is 
+
+implementing its new interpretation --
+
+MR. HUNGAR: If this completely speculative 
+
+and hypothetical situation were ever to arise, a court 
+
+might well exercise its equitable discretion to stay 
+
+proceedings pending review in the D.C. Circuit.
+
+ JUSTICE BREYER: Can I ask you about an 
+
+argument I think they did make? I think they made this 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+argument. On page 26 of your brief, I think it's 
+
+explained well. You set out the regs and the reg says 
+
+that a major modification is "any physical change in the 
+
+method of operation that would lead to a significant net 
+
+emissions increase." Then you have little (iii), which 
+
+is an exception, and it excepts a physical change which 
+
+leads to -- is just an increase in the hours of 
+
+operation or the production rate.
+
+ So that's out of it. Now, the question is 
+
+what's in it? If that's out of it, what's in it? I 
+
+think what they've said is, if you think about that, 
+
+we'll tell you what must be out of it is a physical 
+
+change that does nothing to increase the capacity, but 
+
+just means you can run it more hours. And they say their 
+
+proof of that is that that was the EPA's interpretation 
+
+for years and years and years. Indeed, we did what we 
+
+did thinking that was it.
+
+ And then after we did what we did, they 
+
+pulled the rug out from under us and said no, that isn't 
+
+it; now it means any physical change, like you change a 
+
+nut, or a bolt, or a tube, even though there's no increased 
+
+capacity to emit more. It's just you run it more hours.
+
+ Now, that they say is basically unfair, it's 
+
+not what this reg has been about. And they made that 
+
+argument, according to them, very strongly and the 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Fourth Circuit took the argument and changed it all 
+
+around and made some propositions of law that it's hard 
+
+for even them to defend.
+
+ All right. Now, that's what I think, that's 
+
+what I think is lying -- maybe that's lying at the 
+
+heart of it. And if it is, what do you say?
+
+ MR. HUNGAR: There are several things, Your 
+
+Honor. First of all the language of the regulation 
+
+simply does not support that interpretation. What the 
+
+regulation says is that hours of -- a change in hours of 
+
+operation is not a physical change. Fine. But we have 
+
+a physical change here. It is undisputed that Duke made 
+
+physical changes to its facilities, major modifications, 
+
+sort of using that term in the non-regulatory sense, but 
+
+substantial replacements of physical equipment at the 
+
+facilities. So physical change has occurred. The hours 
+
+of operation exclusion, therefore, has no longer any 
+
+relevance because it applies only at the physical change 
+
+step of the analysis.
+
+ There has been a physical change here 
+
+regardless of whether hours of operation changed or not. 
+
+Therefore, the hours of operation exclusion no longer 
+
+applies. The next question is whether the -- if the 
+
+physical change that did occur resulted in a significant 
+
+net emissions increase. Here it did under the plain 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+language of the regulations and under the test that EPA 
+
+applies. It is true that 1981 they were arguably 
+
+mistaken to the extent one can discern what the, 
+
+Mr. Reich was actually saying, they seem to be simply a 
+
+mistake in interpretation. But in 1988, the 
+
+administrator of the agency, the head of the agency, 
+
+made very clear EPA's position, the very same position 
+
+it is taking here today on the hours of operation 
+
+exclusion. The First Circuit in the Puerto Rican Cement 
+
+case, as Your Honor knows, upheld that interpretation in 
+
+1989. The Seventh Circuit in footnote 11 in the WEPCO 
+
+decision upheld that determination in 1990. It was 
+
+restated by the EPA again and again and it is well 
+
+established.
+
+ Thank you, Your Honor.
+
+ CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. Hungar.
+
+ Mr. Phillips.
+
+ ORAL ARGUMENT BY CARTER G. PHILLIPS,
+
+ ON BEHALF OF RESPONDENT
+
+ MR. PHILLIPS: Thank you Mr. Chief Justice, 
+
+and may it please the Court:
+
+ I think I am inclined instead of starting 
+
+with the jurisdictional issue to focus initially on the 
+
+regulatory history immediately in the wake of the 1980 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+rules. Because it seems to me it is very clear that the 
+
+understanding of everyone in the industry, outside the 
+
+industry, from 1980, candidly well beyond 1988 all the 
+
+way up until 1999, was that these regulations didn't apply 
+
+under any circumstances in the absence of an increase in 
+
+the capacity. And you had to demonstrate that there 
+
+would be an increase in the hourly rate of the 
+
+emissions.
+
+ JUSTICE GINSBURG: Then why were some 
+
+companies asking for declarations of nonapplicability?
+
+ MR. PHILLIPS: To confirm precisely that 
+
+interpretation. That's exactly why GE went to Mr. Reich 
+
+and asked for a determination of applicability, and was 
+
+told categorically PSD applicability is determined by 
+
+evaluating any change in emissions rates caused by the 
+
+conversion.
+
+ JUSTICE GINSBURG: But Mr. Donahue said that 
+
+there were nonapplicability applications after those 
+
+early ones that came out the other way. So there were 
+
+companies --
+
+MR. PHILLIPS: No. Well --
+
+JUSTICE GINSBURG: -- who asked for a 
+
+declaration of nonapplication and then EPA took the 
+
+position that it is currently taking.
+
+ MR. PHILLIPS: As I heard Mr. Donahue, he 
+
+26
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+was talking about WEPCO. Understand the context of 
+
+WEPCO. WEPCO was a situation where every one of the 
+
+changes was a modification within the meaning of NSPS. 
+
+And then the question is were they also modification --
+
+major modifications within the -- within the meaning of 
+
+the PSD. And that's what they analyzed. So it didn't 
+
+say anything about the argument we've been making which 
+
+is what is a modification. The only statements that I 
+
+know of that are out there are the two Reich statements 
+
+which I just quoted to you, says exactly our 
+
+interpretation. But even more powerful at least in my 
+
+view is the quotation from the amicus brief from the 
+
+State of Alabama and the 12 States that relied on the 
+
+Region 4 statement and that's on pages 7 and 8 of that 
+
+amicus brief and the answer, the question is -- you 
+
+know -- how do you determine what is a modification? 
+
+You know does something that doesn't increase the hours, 
+
+the emissions per hour, constitute it? It says no. 
+
+Since the modification does not cause any increase in 
+
+the hourly particulate emissions, no increase in annual 
+
+emissions should be calculated. They could not have said 
+
+that any more clearly than --
+
+JUSTICE SCALIA: Who was saying that?
+
+ MR. PHILLIPS: That is the -- it is the 
+
+chief of the air and waste management division, James 
+
+27
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Wolburn, giving guidance to Region 4. Region 4 is not 
+
+only Alabama, it is also North Carolina and South 
+
+Carolina. And then, in the wake of this, right? 1982, 
+
+North Carolina and South Carolina submit their SIPs and 
+
+in their SIPs, certainly the South Carolina SIP 
+
+expressly incorporates the concept of modification. 
+
+North Carolina a little less expressly incorporates the 
+
+entirety of the regulatory scheme under title 50 -- under 
+
+part 51 of the Code of Federal Regulations.
+
+ JUSTICE BREYER: It looks like -- I went 
+
+back and read the Puerto Rico cement case. And it 
+
+certainly looks as if -- though the issue was somewhat 
+
+different. It looks as if the interpretation that the 
+
+EPA is taking there is not consistent with what you are 
+
+reading now and is consistent with what they're saying 
+
+today. And that was in 1988-89, I guess. They must have 
+
+been starting on that in '87. So it seemed to me we have a 
+
+mixed bag. Some people were saying the one thing. Some 
+
+people were saying the other thing. And the later in time 
+
+seems to be the Puerto Rico cement. And that was at 
+
+least 17 years ago. And --
+
+MR. PHILLIPS: Well, Justice Breyer, I think 
+
+Puerto Rico cement is a somewhat complicated problem. 
+
+Because what you are dealing with there is the 
+
+elimination of two existing units, the two kilns, and a 
+
+28 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+replacement with a brand-new unit, which would have been 
+
+a modification under any -- I think under anybody's 
+
+theory, because there would have been an increase in the 
+
+hourly emissions anyway. So it would have been a NSPS 
+
+subject to the PSD. It didn't get analyzed that way but 
+
+the truth is it would have been fully -- the way that 
+
+decision came out would have been exactly 
+
+consistent with the way that they analyzed it.
+
+ JUSTICE BREYER: The analysis which was 
+
+probably pretty much based on what they said, I think 
+
+was that the reason there was increased potential here 
+
+to pollute, was really because this change would permit 
+
+the plant to be run more intensively or more hours, 
+
+something like that.
+
+ MR. PHILLIPS: But that was based on the 
+
+question of involving you know, normal operations or 
+
+non-normal operations. The Court really didn't have to 
+
+address -- and I don't think did address the question of 
+
+how do you relate --
+
+JUSTICE BREYER: No, we didn't address it. 
+
+I'm not taking it as evidence of that. I'm taking it as 
+
+evidence that the EPA then had a basic position similar 
+
+to what they have now.
+
+ That's what I'm using it as a basis for 
+
+thinking that they were not saying to have a change, the 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+word "change" includes only a change in physical 
+
+facilities that increases the amount of emission per 
+
+hour. Am I right? Or --
+
+MR. PHILLIPS: I don't think they were 
+
+really arguing that particular point. I mean, that's 
+
+not the way I would have read the argument that EPA was 
+
+making. But, and the bottom line is they didn't address 
+
+this issue in WEPCO. To the extent they came close to 
+
+addressing this issue in WEPCO they lost it in the 
+
+Seventh Circuit because WEPCO adopted an interpretation 
+
+that's much closer to what we are asking for.
+
+ The answer given on the other side at this 
+
+point, that we should have -- we should have sought a 
+
+determination. Well, the problem with that, of course, 
+
+is every one of these projects was being inspected. The 
+
+record is replete with examples from North Carolina and 
+
+South Carolina and EPA inspectors on site looking at 
+
+every one of these projects.
+
+ JUSTICE BREYER: So then they'll say your 
+
+argument here, even if you are right, I think they think 
+
+you're wrong -- but even if you're right, they'll say 
+
+well, that's an argument that it is arbitrary, capricious 
+
+abuse of discretion for them to change horses in the 
+
+middle of the stream, i.e., for them to take an 
+
+interpretation of a reg that was longstanding and without 
+
+30
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+adequate notice and comment and so forth radically 
+
+reverse that interpretation. Now that's not the issue in 
+
+front of us now.
+
+ MR. PHILLIPS: But that is the issue in 
+
+front of you, I believe.
+
+ JUSTICE BREYER: Because?
+
+ MR. PHILLIPS: Because --
+
+JUSTICE BREYER: They say because the Fourth 
+
+Circuit didn't go really on that, it went on some 
+
+statutory thing, and --
+
+MR. PHILLIPS: To be sure, but that's the 
+
+opinion. That's not the judgment. The judgment of the 
+
+court of appeals is that this enforcement--
+
+JUSTICE STEVENS: May I ask a question, Mr. 
+
+Phillips? Focusing on this question in the amicus brief 
+
+which the EPA representative answered no. Supposing 
+
+the EPA had answered yes at that time. Would that have 
+
+been a permissible answer within the meaning of the 
+
+statute?
+
+ MR. PHILLIPS: If -- I'm not sure I 
+
+understood the predicate of the question, Justice Stevens. 
+
+Which question are you asking?
+
+ JUSTICE STEVENS: You know -- what's that, 
+
+page 7 and 8 of the -- of a source to modified 
+
+have to have a significant increase in the SO2 elements. 
+
+31
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. PHILLIPS: Oh, I see.
+
+ JUSTICE STEVENS: And they answered no. You 
+
+say they were right.
+
+ MR. PHILLIPS: Right.
+
+ JUSTICE STEVENS: I'm just asking -- want to 
+
+know, under the statute, could they have answered yes 
+
+and would that have been a permissible answer?
+
+ MR. PHILLIPS: No, our position would be no. 
+
+That would have been an -- inappropriate under the 
+
+rationale of Justice Scalia.
+
+ JUSTICE STEVENS: So you're not basically 
+
+relying on the fact that you were misled, you're 
+
+basically relying on the fact that they have interpreted 
+
+the statute incorrectly.
+
+ MR. PHILLIPS: Yes, actually we're 
+
+making both arguments. Our basic argument is that all 
+
+along, they have interpreted it in a certain way. And 
+
+then 19 years later, they reversed course. And that is 
+
+arbitrary and capricious, Justice Breyer, and it is a 
+
+basis on which to defend the judgment of the court of 
+
+appeals.
+
+ JUSTICE KENNEDY: Well, is what the government 
+
+is saying here is that suppose the regulation can be 
+
+interpreted to say X or Y. X would hurt the company; Y 
+
+would not. Is the government saying, if it is 
+
+32
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+foreseeable that the agency might take the 
+
+unfavorable position, you then must challenge it in the 
+
+D.C. Circuit?
+
+ MR. PHILLIPS: I think that's exactly what 
+
+they have to be arguing. And it seems to me that that 
+
+cannot be what 307(b)(1) means. Justice Kennedy, you 
+
+asked a great question. Should we have raised this in 
+
+1980, 1992, 2000? When were we supposed to bring this 
+
+up? And the truth is in 1980 we interpreted this 
+
+statute, the regulation, exactly the same way EPA did. 
+
+It would have been silly for us to raise that. It is 
+
+true that this issue comes up 25 years later in a 
+
+bizarre proceeding. But that's not what 307(b)(2) is 
+
+all about. It says you are precluded from making a 
+
+challenge in an enforcement action if the action of the 
+
+administrator was subject to challenge. Well, the 
+
+action of the administrator was not subject to challenge 
+
+in 1980. And when we did have the subsequent 
+
+rulemaking --
+
+CHIEF JUSTICE ROBERTS: Just a pause, under 
+
+your view or the Fourth Circuit's view? If you read 
+
+Judge Tatel's opinion in New York versus EPA, he 
+
+suggests -- suggests, he says that EPA adopted different 
+
+interpretations of modification from the outset. And so 
+
+if what you are saying couldn't have been challenged, 
+
+33 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+was the Fourth Circuit's view, that may not be accurate. 
+
+But if you are saying what couldn't have been 
+
+anticipated was the argument you actually made to the 
+
+Fourth Circuit, that might be a different story.
+
+ MR. PHILLIPS: Yes. Well, I think that, that 
+
+is precisely what we are saying. But you know, Judge 
+
+Tatel, with all due respect to him, is dead wrong. 
+
+Because the interpretation of modification under NSPS 
+
+and under the regulatory PSD was identical. The 
+
+regulations couldn't be any clearer in that regard 
+
+because if you look at 15a of our appendix, you know, 
+
+the modification, this is the NSPS definition -- I'm 
+
+sorry, better go back a page. 17a. 60.14 
+
+modification defines emission rate and the emission rate 
+
+is expressed as kilogram per hour. So that is 
+
+absolutely clear that that is the NSPS --
+
+Dobbs modification.
+
+ JUSTICE SCALIA: That's the NSPS section.
+
+ MR. PHILLIPS: That's the NSPS section. 
+
+Then you go two pages earlier to 15a and you have the 
+
+PSD regulatory definition, and it comes right back to 
+
+emission rate, or the regulatory history that says the 
+
+emission rate as used in this provides is identical --
+
+JUSTICE SCALIA: They say that that 
+
+provision only applies when there is no SIP. And that's 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+not this case.
+
+ MR. PHILLIPS: Well, in the first place it 
+
+would apply in at least South Carolina immediately 
+
+because there is a SIP that incorporates exactly the 
+
+same language. And second of all, the notion that this 
+
+regulation is inoperative on one side and fully 
+
+operative on the other side make no sense. It makes 
+
+much more sense to recognize that modification is the 
+
+trigger for construction which is in part 51(2) and that 
+
+that incorporates this entire modification language.
+
+ JUSTICE SCALIA: I don't understand that. 
+
+It seems to me each part has had different definitions 
+
+and this definition only applies to part 52 which 
+
+applies when there is no SIP.
+
+ MR. PHILLIPS: Okay.
+
+ JUSTICE SCALIA: I don't know how you can 
+
+say it automatically applies when there is a SIP.
+
+ MR. PHILLIPS: The way that would apply --
+
+JUSTICE SCALIA: Part 51, in other words.
+
+ MR. PHILLIPS: Right. Go back to then -- you 
+
+have to go back to 12(a), I think it is where we talk 
+
+about the interpretation and we get to construction. 
+
+This is (b)(8), construction means a modification, okay, 
+
+of an emissions unit. So that -- and modification, if it 
+
+is undefined in title 51, right? According to 15.100, 
+
+35
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+means whatever it means under the statute. So that just 
+
+takes you back to the statute. And this is the 
+
+interpretation under the statute. The 52 interpretation 
+
+is also an interpretation under the statute.
+
+ So it is completely circular and brings you 
+
+right back to the same definition. I agree by its terms 
+
+it doesn't apply to 51. But going through the 
+
+definitional provision in part 51 through the definition 
+
+of the trigger for construction, which is modification, 
+
+it takes you right back to the same meaning of the same 
+
+provisions.
+
+ So there is no difference between the two. 
+
+And to me, it is really critical. And it seems to me 
+
+there are sort of two points to make here. One is 
+
+nobody on the Petitioner's side of this case answers the 
+
+State -- the dozen States who say we relied upon you 
+
+when we adopted these SIPs. We realized that you are 
+
+asking us to take on enormous burdens. And you should 
+
+have told us that before we went down this path in the 
+
+first place.
+
+ JUSTICE SCALIA: Mr. Phillips, before you 
+
+get away from this section 52, because I think that is 
+
+the best section for your case, 52.01(d), is there, is 
+
+there any sensible reason why you would want to have a 
+
+different definition of modification for non-SIP 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+situations than you would for SIP situations?
+
+ MR. PHILLIPS: No. Absolutely not. I mean, 
+
+you would -- you -- there is no rational --
+
+JUSTICE SCALIA: That occurred to me when--
+
+MR. PHILLIPS: And I have not heard the other 
+
+side make an argument that there is a rational 
+
+distinction between the two. And the truth is if EPA 
+
+wanted to achieve what it thought it was achieving, that 
+
+is to eliminate the concept of modification, what it 
+
+should have done is two things.
+
+ It should have -- it should have deleted 
+
+52.01. And it should have adopted the proposed 
+
+regulation that it didn't adopt from the 1979 regs. 
+
+This is on page 9 of their brief. This statement is 
+
+astonishing to me. "The term major modification serves 
+
+as the definition of modification or modified when used 
+
+in the act in reference to a major stationary source."
+
+ If they had adopted that regulation in 1980, I 
+
+wouldn't had to litigate this issue 25 years later. 
+
+We would have litigated this question in 1980 because 
+
+then we would have said that's flatly inconsistent with 
+
+the statutory scheme because you're not entitled.
+
+ JUSTICE SCALIA: You're quoting page 9?
+
+ MR. PHILLIPS: Page 9 of their reply brief.
+
+ JUSTICE SCALIA: Oh, in their reply brief? 
+
+37
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+MR. PHILLIPS: The SG's reply brief, I apologize. 
+
+The gray brief. Where they seek to get some support for 
+
+the idea that modification was dropped out of this 
+
+analysis. But the truth is, that was a proposed rule 
+
+that would have done exactly what they say that the 1980 
+
+rule did without adopting that particular regulation.
+
+ JUSTICE STEVENS: Mr. Phillips, can I ask 
+
+another sort of basic question? In your view, would it 
+
+be permissible for the agency to interpret the word --
+
+to adopt a regulatory interpretation of the -- in the 
+
+PSD regulations of the word "modification" that was 
+
+different from the definition it used under the new 
+
+source regulations?
+
+ MR. PHILLIPS: Substantively different?
+
+ JUSTICE STEVENS: Substantively different.
+
+ MR. PHILLIPS: No, I think that would be 
+
+impermissible
+
+ JUSTICE STEVENS: You think the statute 
+
+required the regulation to be identical?
+
+ MR. PHILLIPS: Yes. I don't understand how 
+
+it's possible that Congress says in the statute that you 
+
+take the NSPS trigger -- remember, this is not just some 
+
+random definition we're talking about. Construction is 
+
+the trigger for this part of this entire regulatory 
+
+scheme, and modification is the trigger, and say it is 
+
+38
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+as defined in, and they did it twice.
+
+ JUSTICE STEVENS: Your answer is no?
+
+ MR. PHILLIPS: My answer is no.
+
+ (Laughter.).
+
+ MR. PHILLIPS: I thought I said that first.
+
+ JUSTICE SCALIA: It's definitely no.
+
+ (Laughter.)
+
+ MR. PHILLIPS: That's a no with some 
+
+emphasis.
+
+ JUSTICE STEVENS: Would it have been 
+
+permissible for the agency to adopt one definition for 
+
+10 years and then change the definition to the other 
+
+definition for all programs?
+
+ MR. PHILLIPS: For all of it?
+
+ JUSTICE STEVENS: Yes.
+
+ MR. PHILLIPS: Yes. I think there is plenty 
+
+of room within that --
+
+JUSTICE STEVENS: So either definition could 
+
+comply with the statute?
+
+ MR. PHILLIPS: Yes. I think as long as you 
+
+maintain consistency between the two, there is a fair 
+
+amount of discretion for --
+
+JUSTICE BREYER: The obvious reason to do it 
+
+is, I guess you have an area of the country, let's say, 
+
+which is quite clean in the air. And there is a power 
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+plant. And what somebody works out, which is normal, is 
+
+demand for electricity is increasing. And so what we 
+
+will do is we're going to take these turbines and 
+
+system, and we're going to change it really radically. 
+
+It doesn't produce one more particle per hour, but now 
+
+we can run it 24 hours a day and previously we'd run it 
+
+12 hours a day. So there's going to be twice as much 
+
+pollution in the air. Now the whole idea of the PSD 
+
+system is you don't have twice as much pollution in the 
+
+air, and I guess that's why they wanted to do it.
+
+ MR. PHILLIPS: Well, I think the premise of 
+
+that is, the real question is, if Congress had meant 
+
+that, why would Congress have adopted the same word, 
+
+modification, as the construction trigger that existed 
+
+in NSPS?
+
+ JUSTICE BREYER: Because you can use the 
+
+same word, you can apply the same word in different 
+
+places differently, depending on what your basic object 
+
+is in the different place. It's very hard to say what 
+
+kind of modification might exist over here, there, the 
+
+other place. And you put your finger on a very 
+
+difficult question for power companies, because those 
+
+turbines do go at different amounts of rates and so 
+
+forth during a day, during a month, during a year, so 
+
+it's hard for them. Therefore, you have a complex 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+definition.
+
+ What's wrong with that?
+
+ MR. PHILLIPS: Because by the time the 
+
+statute came up for review by Congress, and the PSD 
+
+program, the new source review, there was already a very 
+
+extensive regulatory history about the meaning of the 
+
+term "modification."
+
+ JUSTICE SCALIA: Well, I think what's wrong 
+
+with it is that you could have achieved that same result 
+
+by simply not saying that modification in one program 
+
+has to mean the same as modification in the other. If 
+
+you didn't say that, that would be the result. You give 
+
+modification whatever meaning you think is reasonable 
+
+here. You give it whatever reading you think is 
+
+reasonable in the other place. But when you say the two 
+
+have to be the same, it seems to me you have something 
+
+else in mind.
+
+ MR. PHILLIPS: And it also seems to me, 
+
+Justice Breyer, it clearly creates an obligation on the 
+
+part of EPA to be very explicit if it's, in fact, going 
+
+to do what you say it's going to do. You don't go about 
+
+saying I am going to define modification in one statute 
+
+fundamentally different from the way I define 
+
+modification in another statute without discussing the 
+
+word modification. 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+And to put this in context, you'll remember, 
+
+these regulations were adopted in the wake of the Alabama 
+
+Power decision. Alabama Power didn't deal with the 
+
+issue of modification. That wasn't before the court. 
+
+Nobody had challenged modification's definition. The 
+
+hourly emissions rate was a perfectly valid one. What 
+
+the court in Alabama Power said is, you can't use this 
+
+threshold for major modification. And then the case --
+
+so then the matter comes back, and if EPA immediately 
+
+adopts a new set of regulations that deal what, with 
+
+what? Major modification, not with modification.
+
+ And then they go through this entire 
+
+elaborate analysis of major modification, none of which, 
+
+candidly, do we challenge. We have no quarrel with 
+
+their interpretation of the concept of major 
+
+modification. If anybody does, my guess is the State 
+
+environmental groups would.
+
+ JUSTICE STEVENS: They make a kind of 
+
+interesting argument, major modification is not a subset 
+
+of modification.
+
+ MR. PHILLIPS: Yeah. And if the Solicitor, 
+
+and if EPA had enacted the regulation that they proposed 
+
+but didn't enact, that says major modification means 
+
+modification, then we might have an argument there. But 
+
+the concept that when you have modification as a core 
+
+42
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+baseline construction -- I mean trigger for the 
+
+applicability of this portion of the scheme, and then 
+
+you take that same -- and you not only do it once but 
+
+you do it twice, and you do it in the context of an 
+
+entire regulatory scheme that was designed to implement 
+
+this statutorily -- or implement this before the statute 
+
+was enacted, and you have Congress saying well, you 
+
+didn't get that right, but you did get this right, and 
+
+they leave this language exactly in the way it is, the 
+
+only fair inference you can draw from that, it seems to 
+
+me --
+
+JUSTICE BREYER: Why? Because the language, 
+
+I don't see anywhere in the statute where -- the words 
+
+of modification are, it's a physical changing or change 
+
+in a method of operation which increases the amount of 
+
+any air pollutant. Now those words, "physical change 
+
+which increases the amount of any air pollutant," could 
+
+mean different things in different places.
+
+ MR. PHILLIPS: Sure.
+
+ JUSTICE BREYER: Where does it say in the 
+
+statute that they can't?
+
+ MR. PHILLIPS: Where it says in the statute 
+
+is where it makes this specific cross-reference, because 
+
+if all they wanted to do was get that definition, all 
+
+they had to do was use the word modification. They 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+didn't have to use modification as defined --
+
+JUSTICE STEVENS: Mr. Phillips, I want to be 
+
+sure I understand your position. Are you saying the 
+
+statutory text in effect says every regulation using the 
+
+word modification must employ the same definition, or 
+
+are you relying on a general principle that when the 
+
+same word is used it should be used in the same way?
+
+ MR. PHILLIPS: It's a general principle 
+
+that --
+
+JUSTICE STEVENS: So there's nothing in the 
+
+statute itself that says that principle shall apply to 
+
+this case?
+
+ MR. PHILLIPS: No, but the general principle 
+
+is that if the same language is used in two different 
+
+portions, you presume they have the same meaning. When 
+
+you go beyond that -- because otherwise, their 
+
+interpretation rendered superfluous the specific 
+
+cross-references to as defined in and as used in; and 
+
+while I know some don't like the legislative history, 
+
+the legislative history is quite clear that they had in 
+
+mind, and regulatory history as well --
+
+CHIEF JUSTICE ROBERTS: Your answer is you 
+
+are not relying simply on the general principle. It is 
+
+not just that they used the word modification in one 
+
+place and the word modification in the other. It's that 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+in the latter place, they said modification as defined 
+
+in the first place.
+
+ MR. PHILLIPS: It depends on which general 
+
+principle, I suppose you're talking about. I'm not 
+
+relying on the mere presumption. I think this is much 
+
+stronger than the mere presumption.
+
+ JUSTICE STEVENS: But your reference of 
+
+modification as defined elsewhere merely defines the 
+
+scope of the statutory meaning. That's not the same as 
+
+saying every regulation that is a modification must be 
+
+the same no matter what the program.
+
+ MR. PHILLIPS: I think if you read it in 
+
+context, when you recognize that what Congress was doing 
+
+is adopting a statutory scheme that overlays on a 
+
+regulatory scheme that was well established with very 
+
+specific meanings, and where Congress quite clearly 
+
+picked and chose -- I think that's the way to say it --
+
+from the regulatory scheme, and said we'll take these 
+
+and not take those, and has a provision at the end --
+
+168 says, all the regulations remain in effect until 
+
+they get changed at some point, suggesting --
+
+JUSTICE STEVENS: Let me just be sure I 
+
+understand the point. If instead of saying as defined 
+
+in X, the second statute had merely quoted the same 
+
+words that were in X, would your argument be the same? 
+
+45 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. PHILLIPS: No. It would not be nearly 
+
+as strong as it is. We would still have a 
+
+presumption --
+
+JUSTICE STEVENS: So you're saying that if 
+
+you used the definition as defined in another statute, 
+
+that implicitly says all regulations defining this term 
+
+must be identical.
+
+ MR. PHILLIPS: I don't know if I have to go 
+
+quite that far because I have more evidence than that in 
+
+this particular case, because I have the fact that they 
+
+say as used in, which suggests that it's more than just 
+
+a definitional point. We do have a legislative history 
+
+that seems to have in mind this regulatory background; 
+
+and we've been told by EPA that when Congress 
+
+incorporated modification, it really did incorporate 
+
+that luggage, baggage as well.
+
+ JUSTICE STEVENS: This is very helpful to 
+
+me, because the government has accused you of abandoning 
+
+the court of appeals approach to the case, and I think 
+
+you're endorsing the court of appeals.
+
+ MR. PHILLIPS: I do endorse it. The only 
+
+question I have -- I mean, I don't think that it 
+
+necessarily has to be -- that every word has to be 
+
+identical in the two provisions, but I do think they 
+
+have to be congruent. And so, that's the strong version 
+
+46
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+of our argument, and that's pretty close to where the 
+
+Fourth Circuit was.
+
+ The weaker version of our argument, which 
+
+gets I think some mileage on the arbitrary and 
+
+capricious part of the argument, is at a minimum, if 
+
+Congress adopts as the trigger point the same word in 
+
+two statutes, and EPA then purports to be implementing 
+
+that statute, it has some obligation to explain how it 
+
+is that they're doing a 180 with respect to the term 
+
+modification. And the reason --
+
+JUSTICE SCALIA: It's not just a matter of 
+
+using the same word.
+
+ MR. PHILLIPS: Yes. You're right.
+
+ JUSTICE SCALIA: It's a matter of a statute 
+
+which says it shall have the same meaning.
+
+ MR. PHILLIPS: Right. They owe us some 
+
+responsibility to explain, how do you not follow that 
+
+course.
+
+ JUSTICE KENNEDY: Well, could they have said 
+
+that construction means both modification and then come 
+
+up with a new word, alteration? Because the statute 
+
+says the term construction includes modification, so 
+
+I -- construction can be broader. Could it be an 
+
+alteration, they would come up with a new term of art, 
+
+and add that --
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. PHILLIPS: Absolutely.
+
+ JUSTICE SCALIA: -- to the PSD?
+
+ MR. PHILLIPS: Could they have gotten away 
+
+with that? I mean, that would have been a much stronger 
+
+argument. It seems to me the better argument, and --
+
+but see, the point here is if they had done that, or if 
+
+they had done what they proposed in 1979, which is just 
+
+to simply redefine major modification to be 
+
+modification, then we would have taken that issue 
+
+directly to the D.C. Circuit at that point in time.
+
+ JUSTICE BREYER: But you do have a brief 
+
+here. You have a brief filed in the D.C. Circuit, which 
+
+is Brief For Industry Petitioners on Actual Emissions 
+
+Definition.
+
+ MR. PHILLIPS: Yes.
+
+ JUSTICE BREYER: And throughout that brief 
+
+it refers again and again to the problem, their proposed 
+
+reg is not taking, i.e., the potential capacity, which 
+
+is change the machine so it puts out more per minute or 
+
+whatever, but rather, it's using actual emissions even 
+
+though you don't change the capacity of the machine. 
+
+There's a whole brief on that. So you already argued 
+
+that whole brief, that what they were doing was 
+
+inconsistent with the statute, et cetera.
+
+ MR. PHILLIPS: The other side has not argued 
+
+48
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+collateral estoppel, if that's the argument you're 
+
+trying to make, Justice Breyer.
+
+ JUSTICE BREYER: No. As being outside the 
+
+statute at that time, and you did.
+
+ MR. PHILLIPS: Well, you have to put that 
+
+into context. We're talking about a matter that was 
+
+closed for 25 years and then was reopened. And this 
+
+argument -- and it is true, a variant of this argument 
+
+was made. I don't think it's the full argument that 
+
+we've made before this Court. And it was rejected by 
+
+the D.C. Circuit. But if you're arguing that as a 
+
+307(b) argument, my answer to that is this is still not 
+
+action by the administrator that would trigger a 307(b) 
+
+bar. If you're asking about collateral estoppel, my 
+
+argument is --
+
+JUSTICE BREYER: No. I was just thinking, 
+
+then you're left with what you called the weak argument, 
+
+arbitrary, capricious, et cetera, because I don't see 
+
+how you make the stronger one, what you think is 
+
+stronger, since you made it before, or a version of 
+
+it before the D.C. Circuit.
+
+ MR. PHILLIPS: Well, again, if you are 
+
+arguing that as a matter of collateral estoppel, then --
+
+JUSTICE BREYER: No, not collateral 
+
+estoppel, but you know, I'd be repeating myself. 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. PHILLIPS: But if it's not collateral 
+
+estoppel and it's not 307(b)(2), then --
+
+JUSTICE BREYER: That's what it is.
+
+ MR. PHILLIPS: So you are doing it as --
+
+see, I don't think it -- I think if you read 307(b)(2)'s 
+
+language, it talks about action of the administrator, 
+
+and what action of the administrator are we, in fact, 
+
+challenging here? Nothing. Because in our view, the 
+
+1980 regulation quite clearly says what we want it to 
+
+say. The only thing that's changed is that the 
+
+preambles have interpreted the 1980. We challenged that 
+
+and the D.C. Circuit said no, we're not going to address 
+
+that issue. That's an issue when you get back up, when 
+
+you get back on your enforcement action. Then you can 
+
+complain about that aspect of it. That issue is not 
+
+ripe. And that is exactly what we are trying to argue 
+
+in this case. And it's a variant of what I think --
+
+JUSTICE STEVENS: Mr. Phillips, can I go 
+
+back for a second to the meaning in (a) includes the 
+
+same meaning as in (b). Is it not correct under your 
+
+view of the statute that that meaning can include either 
+
+of the two definitions that the two regulations 
+
+identify? So that either -- whether you start with (a) 
+
+or the second statute, either statute includes both --
+
+may include both alternative regulations? 
+
+50
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. PHILLIPS: As long as they are 
+
+consistent?
+
+ JUSTICE STEVENS: Yes.
+
+ MR. PHILLIPS: Yes. That is my position, 
+
+Justice Stevens.
+
+ CHIEF JUSTICE ROBERTS: Could you explain to 
+
+me again why this isn't a 307(b) problem? You said this 
+
+is an action by the administrator?
+
+ MR. PHILLIPS: Right. Because there is no 
+
+action of the administrator that we would challenge. 
+
+The only action of the administrator was the 1980 
+
+regulation, which we interpret as not changing 
+
+modification. If you read 52.01(d), it clearly retains 
+
+modification. We have no quarrel, then, with what the 
+
+administrator did in 1980.
+
+ Then they adopt preambles to the subsequent 
+
+regs. We do challenge those, but the D.C. Circuit said 
+
+we're not entitled to do that, that's got to wait for an 
+
+enforcement action. The only thing that's left out 
+
+there is this sort of inchoate interpretation by the 
+
+administrator. But there's no final action by the 
+
+administrator for us to challenge. Then the only 
+
+question would be, do we have some obligation --
+
+CHIEF JUSTICE ROBERTS: You can't challenge 
+
+in the D.C. Circuit the administrator's interpretation 
+
+51
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+that led to the enforcement action?
+
+ MR. PHILLIPS: I don't know how that's a 
+
+final action. The filing of a complaint, as this Court 
+
+held in Harrison, is not a final action. So that 
+
+doesn't trigger it, and I don't know what else is out 
+
+there for us to serve as a hook. I would think at a 
+
+minimum the Court would want to be very, very loathe to 
+
+jump on a expansive interpretation of 307(b) where it 
+
+operates in a context like this as a pure gotcha. You 
+
+adopt regulations that nobody has a quarrel with, you 
+
+change the regulation afterwards and then you come back and 
+
+you say you can't challenge it at this point. That just 
+
+cannot be a sensible interpretation of that statute.
+
+ If there are no further questions, I would 
+
+ask the Court to affirm the Fourth Circuit. Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, Mr. 
+
+Phillips.
+
+ Mr. Donahue, you have 3 minutes remaining.
+
+ REBUTTAL ARGUMENT OF SEAN H. DONAHUE
+
+ ON BEHALF OF PETITIONER
+
+ MR. DONAHUE: Thank you, Mr. Chief Justice.
+
+ You just can't read the 1980 regulations to 
+
+achieve the result Duke is seeking here. There is no 
+
+hourly rate in there, and it's important to note that 
+
+these provisions that they now state misled them into 
+
+52 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+their non-challenge, they didn't even cite to the Fourth 
+
+Circuit or the district court, and on their face, 
+
+they're not -- it's not plausible that these provisions, 
+
+which are totally nonspecific, were intended to vary the 
+
+very detailed and specific instructions on how to 
+
+measure an emissions increase laid out. And the 
+
+preamble --
+
+JUSTICE SCALIA: Well, the one in part 52 
+
+surely does. You have to give them that.
+
+ MR. DONAHUE: No, I don't give them that.
+
+ JUSTICE SCALIA: You don't give them that.
+
+ MR. DONAHUE: Because it says rate, and the 
+
+1980 PSC regulations say that the relevant rate is tons 
+
+per year. They use the word "rate" pervasively.
+
+ I would also say the preamble to the rule 
+
+makes conclusively clear that "major modification" is 
+
+EPA's definition of the statutory term. This idea that 
+
+EPA, it's completely inconsistent with not only --
+
+CHIEF JUSTICE ROBERTS: Major -- when you say 
+
+the statutory term, you mean "modification"?
+
+ MR. DONAHUE: Correct.
+
+ CHIEF JUSTICE ROBERTS: So then why weren't 
+
+those proposed regulations saying just that, adopted?
+
+ MR. DONAHUE: I don't know the answer to 
+
+that, but it's absolutely clear. EPA has never said 
+
+53
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+otherwise. And of course the idea that an NSPS 
+
+modification is required first, it would have been a big 
+
+deal. There is no sign of it, and in fact there are 
+
+specific examples. The example cited at page 23 of the 
+
+government's opening brief in the preamble is a PSD 
+
+major modification that would not be an NSPS --
+
+CHIEF JUSTICE ROBERTS: That's a tough sell, 
+
+isn't it? I mean, the idea is you propose regulations 
+
+saying major modification means modification. Those 
+
+regulations are not adopted, and then the industry is 
+
+supposed to be on notice that that's still what you 
+
+mean?
+
+ MR. DONAHUE: I think that there's no other 
+
+reading of what EPA meant from the regulations. No one 
+
+was confused by this, Chief Justice Roberts. No one was 
+
+confused.
+
+ This argument, it's a new argument in this 
+
+Court about how to read the rules, the 30 -- 52.01(d), 
+
+51.100, and 51.166(b)(8), all uncited below. It's really 
+
+not plausible. The Court would have to abandon a lot of 
+
+very basic principles of how to interpret legal texts to 
+
+read the rules this way, and I think Judge Poisner was 
+
+right on that. He was right to say this is the natural 
+
+reading of the rules.
+
+ JUSTICE SCALIA: Where is "rate" defined? 
+
+54
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+I'm still troubled by 52.01(b). Where is -- you say 
+
+"rate" is defined. Where?
+
+ MR. DONAHUE: "Rate" is used as an annual 
+
+rate in 51.166(b) (21) and (b)(23).
+
+ JUSTICE SCALIA: It's not defined. You 
+
+say it's just used that way.
+
+ MR. DONAHUE: It's the only -- it's tons 
+
+per year consistently.
+
+ The other thing I would point out, as the 
+
+Court is aware, is that 307(b) applies it bars courts in 
+
+enforcement actions, which includes this Court. This 
+
+case is not up on cert from the D.C. Circuit in New 
+
+York.
+
+ Thank you very much.
+
+ CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. Donahue. The case is submitted.
+
+ (Whereupon, at 11:02 a.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+55 
+Alderson Reporting Company 
+
+
+
+Official 
+Page 56 
+
+A 
+abandon 54:20 
+abandoning 
+
+46:18 
+above-entitled 
+
+1:11 55:18 
+absence 26:5 
+absent 6:12 
+absolutely 34:16 
+
+37:2 48:1 
+53:25 
+
+abuse 30:23 
+accepting 10:21 
+
+10:25 
+account 7:22 
+
+8:22 9:23 10:6 
+accurate 34:1 
+accused 46:18 
+achievable 
+
+14:14,20 
+achieve 37:8 
+
+52:23 
+achieved 41:9 
+achieving 37:8 
+act 3:10 12:21 
+
+20:13 37:17 
+acted 6:25 
+acting 11:5 
+action 9:10 11:9 
+
+18:15,16 22:16 
+22:18 33:15,15 
+33:17 49:13 
+50:6,7,14 51:8 
+51:10,11,19,21 
+52:1,3,4 
+
+actions 11:4,8 
+55:11 
+
+activity 5:19 
+actual 3:17 4:3 
+
+7:18 11:11 
+21:5 48:13,20 
+
+add 6:11 47:25 
+address 8:9 
+
+12:25 29:18,18 
+29:20 30:7 
+50:12 
+
+addressed 14:22 
+
+15:14 20:23 
+addressing 30:9 
+adequate 31:1 
+administrative 
+
+16:7 
+administrator 
+
+13:5 25:6 
+33:16,17 49:13 
+50:6,7 51:8,10 
+51:11,15,21,22 
+
+administrator's 
+51:25 
+
+adopt 4:19 7:25 
+15:25 16:1 
+17:11 37:13 
+38:10 39:11 
+51:16 52:10 
+
+adopted 18:20 
+30:10 33:23 
+36:17 37:12,18 
+40:13 42:2 
+53:23 54:10 
+
+adopting 38:6 
+45:14 
+
+adoption 15:11 
+adopts 16:8 
+
+42:10 47:6 
+advance 14:16 
+advisory 19:20 
+
+19:22 
+affirm 52:15 
+after-arising 
+
+20:24 21:25 
+agencies 20:13 
+agency 4:16 6:3 
+
+6:5 10:17,20 
+13:5 15:22 
+16:7,9,10,16 
+17:4,5,7,10,11 
+17:16,21 19:14 
+20:10,16 21:5 
+22:13 25:6,6 
+33:1 38:9 
+39:11 
+
+agency's 19:11 
+ago 28:21 
+agree 36:6 
+
+agreement 6:9 
+ahead 6:22 
+air 3:10 12:21 
+
+27:25 39:25 
+40:8,10 43:16 
+43:17 
+
+AL 1:3,6 
+Alabama 27:13 
+
+28:2 42:2,3,7 
+align 18:3 
+ALITO 7:21 8:4 
+allow 5:18 
+alteration 47:21 
+
+47:24 
+alternative 
+
+50:25 
+ambiguity 9:25 
+
+17:3,21,23 
+ambiguous 5:8 
+
+9:3,5,25 10:5 
+10:17 13:2 
+16:8 17:3,10 
+17:14 
+
+amicus 27:12,15 
+31:15 
+
+amount 3:14 
+30:2 39:22 
+43:15,17 
+
+amounts 40:23 
+analysis 24:19 
+
+29:9 38:4 
+42:13 
+
+analyzed 27:6 
+29:5,8 
+
+annual 7:18 
+11:12 13:9 
+27:20 55:3 
+
+anomalous 8:2 
+answer 21:25 
+
+27:15 30:12 
+31:18 32:7 
+39:2,3 44:22 
+49:12 53:24 
+
+answered 31:16 
+31:17 32:2,6 
+
+answers 36:15 
+anticipated 34:3 
+
+anybody 42:16 
+anybody's 29:2 
+anyway 29:4 
+apologize 38:1 
+apparent 15:23 
+appeals 8:16 
+
+12:20 20:14,18 
+31:13 32:21 
+46:19,20 
+
+APPEARAN... 
+1:14 
+
+appendix 13:10 
+34:11 
+
+applicability 
+4:12 11:1,18 
+11:19 13:6 
+21:24 26:13,14 
+43:2 
+
+application 4:15 
+13:7 
+
+applications 
+26:18 
+
+applied 16:17 
+applies 24:18,23 
+
+25:2 34:25 
+35:13,14,17 
+55:10 
+
+apply 26:4 35:3 
+35:18 36:7 
+40:17 44:11 
+
+approach 14:19 
+15:2 17:16 
+46:19 
+
+appropriate 
+17:17,19 19:7 
+21:1 
+
+arbitrary 30:22 
+32:19 47:4 
+49:18 
+
+area 7:23 39:24 
+areas 20:5 
+arguably 25:2 
+argue 50:16 
+argued 9:22 
+
+13:15 14:15 
+48:22,25 
+
+argues 10:19 
+
+arguing 30:5 
+33:5 49:11,23 
+
+argument 1:12 
+2:2,5,8,11 3:4 
+3:6 5:24 6:23 
+7:13 9:16 
+12:16 14:5,17 
+14:21,23,25 
+15:8,12,12,14 
+21:18,22 22:25 
+23:1,25 24:1 
+25:19 27:7 
+30:6,20,22 
+32:16 34:3 
+37:6 42:19,24 
+45:25 47:1,3,5 
+48:5,5 49:1,8,8 
+49:9,12,15,17 
+52:19 54:17,17 
+
+arguments 15:7 
+32:16 
+
+art 47:24 
+asked 11:15 
+
+26:13,22 33:7 
+asking 26:10 
+
+30:11 31:22 
+32:5 36:18 
+49:14 
+
+aspect 6:19 
+50:15 
+
+assert 10:13 
+13:19,20 
+
+assume 9:18 
+astonishing 
+
+37:15 
+attorneys 11:4 
+attributable 5:4 
+audacious 7:5 
+authority 16:11 
+
+16:12 
+automatically 
+
+35:17 
+avoid 19:25 
+aware 6:9 55:10 
+a.m 1:13 3:2 
+
+55:17 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 57 
+
+B 
+b 35:23 50:20 
+
+55:4 
+back 28:11 
+
+34:13,21 35:20 
+35:21 36:2,6 
+36:10 42:9 
+50:13,14,19 
+52:11 
+
+background 
+46:13 
+
+BACT 19:3 
+bag 28:18 
+baggage 46:16 
+balance 12:11 
+bar 6:6 10:3 
+
+49:14 
+barred 8:16 
+bars 55:10 
+based 29:10,15 
+baseline 43:1 
+basic 19:14 
+
+29:22 32:16 
+38:8 40:18 
+54:21 
+
+basically 23:23 
+32:11,13 
+
+basis 29:24 
+32:20 
+
+beginning 13:12 
+behalf 1:15,22 
+
+2:4,7,10,13 3:7 
+12:17 25:20 
+52:20 
+
+believe 31:5 
+believed 11:20 
+best 36:23 
+better 5:24 
+
+34:13 48:5 
+beyond 26:3 
+
+44:16 
+big 54:2 
+binding 20:6 
+bizarre 33:13 
+bolt 23:21 
+borrowed 15:10 
+borrowing 15:9 
+
+bottom 30:7 
+bounds 17:20 
+brand-new 29:1 
+Breyer 22:24 
+
+28:10,22 29:9 
+29:20 30:19 
+31:6,8 32:19 
+39:23 40:16 
+41:19 43:12,20 
+48:11,16 49:2 
+49:3,16,24 
+50:3 
+
+brief 4:19 13:21 
+14:11,21 15:13 
+23:1 27:12,15 
+31:15 37:14,24 
+37:25 38:1,2 
+48:11,12,13,16 
+48:22,23 54:5 
+
+bring 18:4,4 
+21:14 22:2 
+33:8 
+
+brings 36:5 
+broader 47:23 
+brought 5:13 
+
+13:14,17,18 
+20:12 21:1 
+22:16 
+
+burdens 36:18 
+
+C 
+C 2:1 3:1 
+calculated 27:21 
+call 15:7 
+called 8:17 
+
+10:14 49:17 
+candidly 26:3 
+
+42:14 
+capacity 23:13 
+
+23:22 26:6 
+48:18,21 
+
+capricious 30:22 
+32:19 47:5 
+49:18 
+
+capture 7:19 
+Carolina 28:2,3 
+
+28:4,4,5,7 
+
+30:16,17 35:3 
+carry 21:21 
+CARTER 1:21 
+
+2:9 25:19 
+case 3:20 18:9 
+
+21:4 25:10 
+28:11 35:1 
+36:15,23 42:8 
+44:12 46:10,19 
+50:17 55:12,16 
+55:17 
+
+cases 9:22 
+categorically 
+
+26:14 
+cause 27:19 
+caused 11:21 
+
+12:10 26:15 
+cement 11:19 
+
+25:9 28:11,20 
+28:23 
+
+central 3:20 
+5:22 
+
+cert 55:12 
+certain 18:8 
+
+32:17 
+certainly 8:11 
+
+8:14,15 9:6 
+11:17 22:1 
+28:5,12 
+
+certiorari 9:9 
+cetera 48:24 
+
+49:18 
+CFR 4:1 
+challenge 5:12 
+
+5:13 6:2,14,18 
+7:15 8:15,16 
+10:13 13:13,18 
+13:21 14:6,10 
+19:23 20:16,22 
+21:5,5,10,15 
+22:9 33:2,15 
+33:16,17 42:14 
+51:10,17,22,24 
+52:12 
+
+challenged 6:8 
+14:3 33:25 
+42:5 50:11 
+
+challenges 20:25 
+challenging 
+
+14:11 50:8 
+change 3:14 5:2 
+
+5:4,5,20 10:18 
+11:21 23:3,6 
+23:13,20,20 
+24:10,11,12,16 
+24:18,20,24 
+26:15 29:12,25 
+30:1,1,23 
+39:12 40:4 
+43:14,16 48:19 
+48:21 52:11 
+
+changed 10:20 
+10:23 11:5 
+24:1,21 45:21 
+50:10 
+
+changes 7:20 
+24:13 27:3 
+
+changing 43:14 
+51:12 
+
+charge 4:17 
+charges 16:9 
+charging 11:5 
+Chevron 19:12 
+chief 3:3,8,19,23 
+
+7:5 10:16 
+12:13,18 13:13 
+13:23 14:24 
+22:15 25:16,21 
+27:25 33:20 
+44:22 51:6,24 
+52:16,21 53:19 
+53:22 54:7,15 
+55:15 
+
+choice 16:16,20 
+choose 16:12 
+
+17:5 
+chose 45:17 
+Cinergy 7:13 
+circuit 6:18 8:11 
+
+9:7 10:10,12 
+13:14 14:22,22 
+15:1,2,3,13,14 
+20:1 21:10 
+22:8,14,23 
+
+24:1 25:9,11 
+30:10 31:9 
+33:3 34:4 47:2 
+48:10,12 49:11 
+49:21 50:12 
+51:17,25 52:15 
+53:2 55:12 
+
+Circuit's 33:21 
+34:1 
+
+circular 36:5 
+circumstances 
+
+8:3 21:2 26:5 
+cite 53:1 
+cited 54:4 
+civil 19:3,5,7 
+clean 3:10 12:21 
+
+39:25 
+clear 6:25 7:3,10 
+
+7:11,21 8:7 
+13:1,7,10,11 
+25:7 26:1 
+34:16 44:20 
+53:16,25 
+
+clearer 34:10 
+clearly 22:10 
+
+27:22 41:19 
+45:16 50:9 
+51:13 
+
+close 30:8 47:1 
+closed 49:7 
+closer 30:11 
+Code 28:9 
+collateral 49:1 
+
+49:14,23,24 
+50:1 
+
+come 6:2 11:24 
+47:20,24 52:11 
+
+comes 33:12 
+34:21 42:9 
+
+comment 31:1 
+common 20:8,9 
+companies 5:18 
+
+6:1 26:10,20 
+40:22 
+
+company 21:13 
+21:21,23 22:4 
+32:24 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 58 
+
+complain 50:15 39:21 20:11,13,14,15 26:23 depends 45:3 
+complaint 52:3 consistent 12:6 20:18 22:21 declarations Deputy 1:17 
+completely 6:11 19:11 28:14,15 25:22 29:17 26:10 designed 43:5 
+
+12:4 22:20 29:8 51:2 31:13 32:20 declared 9:12 detailed 7:17 
+36:5 53:18 consistently 42:4,7 46:19 declined 22:14 11:23 53:5 
+
+complex 40:25 55:8 46:20 49:10 defend 24:3 deterioration 
+complicated constitute 27:18 52:3,7,15 53:2 32:20 3:12 
+
+28:23 constraints 17:4 54:18,20 55:10 Defense 1:3 3:4 determination 
+comply 9:24 construction 55:11 deference 16:7 11:1,18,19 
+
+39:19 5:19 8:10 9:1 courts 20:6,15 19:12 13:6 19:24 
+component 5:22 12:3 15:4,19 55:10 define 12:22 20:4,16 22:6,7 
+compose 5:22 35:9,22,23 court's 12:2 41:22,23 25:12 26:13 
+conceivable 36:9 38:23 19:19 defined 3:13 30:14 
+
+15:19 40:14 43:1 coverage 5:19 39:1 44:1,18 determinations 
+concept 28:6 47:20,22,23 creates 41:19 45:1,8,23 46:5 4:13 5:7,9 20:1 
+
+37:9 42:15,25 construing 20:2 creation 21:23 54:25 55:2,5 determine 7:3 
+concern 12:2 contemporane... criminal 19:3 defines 34:14 17:17 27:16 
+concerned 6:1 4:25 critical 36:13 45:8 determined 
+concerns 20:20 context 10:21 cross-reference defining 46:6 26:14 
+
+21:3 27:1 42:1 43:4 43:23 definitely 39:6 determining 
+conclusively 45:13 49:6 cross-references definition 3:25 17:12 
+
+53:16 52:9 44:18 5:2 8:24,25 device 3:21 
+conduct 18:24 contradicted 8:1 curious 21:12 15:9,10,11 difference 36:12 
+confirm 26:11 contradicts 4:20 current 18:17 16:15,24 17:2 different 6:5 
+conflicts 20:2 5:7 currently 26:24 17:10,14 34:12 8:14 10:10,18 
+conformity conversion cursory 13:3 34:21 35:13 15:1 17:11,13 
+
+21:15 26:16 36:6,8,25 17:24 20:3,12
+Dconfused 54:15 core 42:25 37:16 38:12,23 28:13 33:23 
+
+D 3:154:16 Corporation 1:6 39:11,12,13,18 34:4 35:12 
+day 40:6,7,24confusion 12:9 3:5 41:1 42:5 36:25 38:12,14
+days 7:912:10 correct 3:23 43:24 44:5 38:15 40:17,19
+dead 20:7 34:7 Congress 14:17 12:4 14:13 46:5 48:14 40:23 41:23 
+deal 42:3,1015:9,20 16:8 18:9 19:18 53:17 43:18,18 44:14 
+
+54:316:15,19 17:6 50:20 53:21 definitional 36:8 differently
+dealing 28:2417:10 19:24 counsel 4:10 46:12 40:18 
+decided 11:2320:4 38:21 country 39:24 definitions difficult 40:22 
+deciding 8:2040:12,13 41:4 course 5:8 8:16 35:12 50:22 direction 10:1 
+
+9:2143:7 45:13,16 9:7 10:7,12,19 delegation 16:11 directly 48:10 
+decision 9:1046:14 47:6 12:1 16:14 deleted 37:11 director 4:8,19
+
+11:3,10 13:6 Congressional 30:14 32:18 demand 5:18 disappointing
+15:15,16 20:10 15:23 47:18 54:1 40:2 7:9 
+21:5 25:12congruent 46:25 court 1:1,12 3:9 demonstrate discern 25:3 
+29:7 42:3considered 5:5 6:9 8:8,16,19 26:6 discretion 16:10 
+
+decisionmaking11:22 8:22 9:2,11 Department 17:4,7,11,16
+16:8considering 10:7,14,15 1:18 22:22 30:23 
+
+decisions 20:1319:23 12:5,19,20 depending 39:22 
+declaration 22:3consistency 10:1 19:13,15,22 40:18 discussing 41:24 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 59 
+
+disputed 3:19 22:8,14,23 endorse 46:21 17:13,18,19 47:8,17 51:6 
+distinction 37:7 33:3 48:10,12 endorsing 46:20 24:15 explained 4:25 
+distinguish 15:6 49:11,21 50:12 Energy 1:6 3:5 equitable 22:22 23:2 
+district 20:2,15 51:17,25 55:12 enforce 18:16 ESQ 1:15,17,21 explicit 41:20 
+
+20:15 53:2 enforceable 2:3,6,9,12 express 4:23 
+Edivergence 20:14 established 9:11 12:8 
+
+E 2:1 3:1,1 10:13 enforcement 25:14 45:15 expressed 34:15 
+earlier 11:8division 27:25 9:10 10:21,23 estoppel 49:1,14 expressly 8:17 
+
+19:17 34:20Dobbs 34:17 11:8 18:15,16 49:23,25 50:2 28:6,7
+earliest 4:15doing 8:19 45:13 19:2,5,9 20:12 et 1:3,6 48:24 extensive 41:6 
+early 4:12 6:8 47:9 48:23 22:16,17 31:13 49:18 extent 25:3 30:8 
+
+12:10 26:1950:4 33:15 50:14 evaluating 
+Feffect 7:3 44:4 Donahue 1:15 51:19 52:1 26:15 
+
+45:20 face 7:3 8:7 53:2 2:3,12 3:5,6,8 55:11 event 18:23 21:2 
+effectively 15:22 facilities 24:133:23 4:11,18 enforcing 11:14 evidence 29:21 
+effort 7:19 24:16 30:25:15 6:7,16 7:2 engaging 3:12 29:22 46:9 
+either 39:18 facility 3:117:11,24 8:8 9:4 enormous 36:18 exactly 8:18 
+
+50:21,23,24 fact 4:8,20 6:10 9:20 10:4,25 entire 7:18 19:1 21:8,9
+elaborate 5:21 6:16 8:1 10:9 11:7,10,17 35:10 38:24 26:12 27:10 
+
+42:13 11:4,13,2412:14 26:17,25 42:12 43:5 29:7 33:4,10
+electric 18:8 12:25 13:8,1152:18,19,21 Entirely 17:1 35:4 38:5 43:9 
+electricity 40:2 13:17 14:553:10,12,21,24 entirety 28:8 50:16 
+elements 31:25 32:12,13 41:20 54:13 55:3,7 entitled 9:23 exaggeration
+eliminate 37:9 46:10 50:755:16 17:21 37:22 4:6 
+elimination 54:3dozen 36:16 51:18 example 54:4 
+
+28:25 fair 14:24 39:21 dozens 5:9 environmental examples 30:16 
+emission 30:2 43:10dramatically 1:3 3:4 42:17 54:4 
+
+34:14,14,22,23 far 6:3 12:8 46:9 9:14 EPA 4:6,25 7:19 exceeded 12:20 
+emissions 3:17 favor 6:4draw 43:10 11:3,5,8,11,20 exception 5:1 
+
+3:21,22 4:3,3 Federal 28:9dropped 38:3 11:25 12:22 12:3,9 23:6 
+6:20 7:18,20 filed 13:21 14:10 due 34:7 13:4,5 22:11 excepts 23:6 
+11:12 14:14 48:12Duke 1:6 3:5 22:17,18 25:1 exclusion 4:23 
+17:12,17,18 filing 52:35:12 6:10,13 25:13 26:23 5:17 8:10 13:8 
+23:5 24:25 final 51:21 52:3 6:18,25 10:22 28:14 29:22 24:17,22 25:9 
+26:8,15 27:18 52:411:1,9,14,16 30:6,17 31:16 exclusive 20:10 
+27:20,21 29:4 find 21:20 22:9 11:20,23 13:19 31:17 33:10,22 20:17 
+35:24 42:6 22:1013:24 14:8 33:23 37:7 exclusively 4:4 
+48:13,20 53:6 fine 19:3 24:11 15:1,13 18:13 41:20 42:9,22 exercise 22:22 
+
+emit 23:22 fines 19:321:7 24:12 46:14 47:7 exist 18:21 
+emitted 3:15 finger 40:2152:23 53:18,25 54:14 40:20 
+emitting 3:11 first 3:4 6:24 Duke's 4:20 EPA's 3:16 8:10 existed 40:14 
+emphasis 39:9 19:15 21:2311:4 21:4 11:2 12:3 13:7 existing 28:25 
+employ 44:5 24:8 25:9 35:2 D.C 1:8,15,18 13:11 14:12 expansive 52:8 
+enabled 5:5 36:20 39:51:21 6:18 9:7 20:3 21:8 expected 20:22 
+enact 42:23 45:2 54:210:10,12 13:14 23:15 25:7 expert 7:23 
+enacted 42:22 fits 17:1514:22,22 15:13 53:17 expertise 8:5 
+
+43:7 flatly 37:2115:14 21:10 equipment explain 5:17 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 60 
+
+focus 25:24 given 17:6 30:12 helpful 46:17 53:17 54:1,8 32:14 
+Focusing 31:15 giving 28:1 history 25:25 identical 9:5 increase 5:3 
+follow 8:23 go 11:23 22:8,14 34:22 41:6 16:21 18:10 14:13 17:24 
+
+14:18 47:17 31:9 34:13,20 44:19,20,21 34:9,23 38:19 23:5,7,13 
+followed 14:20 35:20,21 40:23 46:12 46:7,24 24:25 26:5,7 
+following 13:25 41:21 42:12 Hobbs 20:13 identically 27:17,19,20 
+footnote 25:11 44:16 46:8 hold 9:5 12:23 29:3 31:25 
+foreseeable 33:1 50:18 holding 12:22 identify 50:23 53:6 
+forgot 10:9 going 36:7 40:3 Honor 14:5 16:6 identity 9:8 increased 5:4,17 
+forth 19:12 31:1 40:4,7 41:20 16:18,25 17:8 10:11 8:3,10 11:20 
+
+40:24 41:21,22 50:12 17:25 18:7,18 iii 23:5 12:1,3 17:12 
+forward 11:24 Good 3:8 19:6,21 20:9 immediately 23:21 29:11 
+Fourth 8:11 gotcha 52:9 24:8 25:10,15 25:25 35:3 increases 3:14 
+
+14:25 15:2,2 gotten 48:3 hook 52:6 42:9 3:17 4:24 30:2 
+24:1 31:8 government horse 21:20 impermissible 43:15,17 
+33:21 34:1,4 18:1,13,17 horses 30:23 38:17 increasing 40:2 
+47:2 52:15 32:22,25 46:18 hour 27:18 30:3 implement 43:5 industry 13:20 
+53:1 government's 34:15 40:5 43:6 26:2,3 48:13 
+
+friend 10:19 54:5 hourly 3:22 6:11 implementing 54:10 
+front 31:3,5 granted 14:9 7:12,14 14:20 16:10 22:19 inference 43:10 
+frustrate 15:22 gray 38:2 26:7 27:20 47:7 initially 25:24 
+full 49:9 great 9:2 33:7 29:4 42:6 implicitly 46:6 injunction 19:2 
+fully 29:6 35:6 ground 14:12 52:24 important 15:6 injunctive 19:7 
+fundamental 21:25 hours 4:24 5:4 15:18 52:24 inoperative 35:6 
+
+16:6 groups 42:17 5:17 8:3,10 imposed 9:12 insistence 15:3 
+fundamentally guess 28:16 12:1,3 13:8 imposes 17:4 inspected 30:15 
+
+41:23 39:24 40:10 23:7,14,22 inappropriate inspectors 30:17 
+further 12:9 42:16 24:10,10,16,21 32:9 install 19:3 
+
+52:14 guidance 28:1 24:22 25:8 inchoate 51:20 instructions 
+27:17 29:13 inclined 25:23 53:5 
+
+G H 40:6,7 include 3:13 intended 53:4 
+G 1:17,21 2:6,9 H 1:15 2:3,12 Hungar 1:17 2:6 7:12 50:21,25 intensively
+
+3:1 12:16 3:6 52:19 12:15,16,18 includes 30:1 29:13 
+25:19 hands 20:3 13:16 14:4 47:22 50:19,24 intent 15:23 
+
+gather 3:20 happen 22:17 15:5 16:6,18 55:11 interesting
+GE 26:12 happened 10:19 16:25 17:2,25 inconsistent 42:19 
+general 1:17 happens 21:13 18:7,18 19:5 20:1 37:21 interpret 8:6,9
+
+13:20 44:6,8 hard 24:2 40:19 19:18,21 20:8 48:24 53:18 9:17 10:17 
+44:13,23 45:3 40:25 21:12,17,22 incorporate 38:9 51:12 
+
+generating 18:8 Harrison 52:4 22:5,20 24:7 46:15 54:21 
+GINSBURG head 13:5 25:6 25:17 incorporated interpretation
+
+11:7,13 17:23 hear 3:3 7:9 hurt 32:24 46:15 4:10 5:25 6:6 
+18:1,12 22:2 heard 21:6 hypothetical incorporates 7:22 9:19 
+26:9,17,22 26:25 37:5 22:21 28:6,7 35:4,10 10:18,20,23
+
+give 9:2 41:12 heart 24:6 incorporation 11:2 14:12 
+I41:14 53:9,10 heavily 4:12 14:16 15:8,12 16:20 19:11 
+
+53:11 held 9:7 52:4 idea 38:3 40:8 incorrectly 22:19 23:15 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 61 
+
+24:9 25:5,10 31:12 32:20 53:19,22 54:7 legitimate 19:10 16:19 
+26:12 27:11 judicial 22:7 54:15,25 55:5 let's 9:18 39:24 mandates 7:14 
+28:13 30:10,25 jump 6:22 52:8 55:15 limitations 9:11 massive 5:20 
+31:2 34:8 jurisdiction limits 17:3 21:3 matter 1:11 10:8 
+
+K35:22 36:3,3,4 12:21 20:11,17 line 18:5 30:7 13:18 42:9 
+Kennedy 6:1338:10 42:15 jurisdictional link 5:19 45:11 47:11,14
+
+6:17,22 19:1,9 44:17 51:20,25 6:6,23 10:3 linked 7:19 49:6,23 55:18 
+19:19 20:552:8,13 12:24 25:24 litigate 37:19 maximum 14:14 
+32:22 33:6interpretations Justice 1:18 3:3 litigated 37:20 14:20 
+47:198:18 16:13 3:9,19,24 4:5 little 4:5 23:5 mean 4:15 7:3 
+
+kilns 28:2533:24 4:11,14,18 28:7 8:25 11:11,17
+kilogram 34:15interpreted 4:7 5:10,23 6:7,13 loathe 52:7 15:21,24,24
+kind 40:2019:14 32:13,17 6:17,22 7:5,8 long 17:19 39:20 16:3,3,5 17:24 
+
+42:1832:24 33:9 7:21 8:4,20 51:1 21:20 30:5 
+knew 11:250:11 9:15,21 10:16 longer 24:17,22 37:2 41:11 
+know 6:3 8:4 interpreting 6:3 11:7,13 12:13 longstanding 43:1,18 46:22 
+
+19:13 21:259:3 12:19 13:13,23 30:25 48:4 53:20 
+27:9,16,17invalid 14:15 14:24 15:17 look 20:15 34:11 54:8,12
+29:16 31:2322:12,13 16:14,23 17:1 looked 13:24 meaning 27:3,5
+32:6 34:6,11invalidate 19:23 17:23 18:1,12 looking 30:17 31:18 36:10 
+35:16 44:19invalidation 9:6 19:1,9,19 20:5 looks 19:13 41:6,13 44:15 
+46:8 49:25involving 29:16 21:12,19 22:2 28:10,12,13 45:9 47:15 
+52:2,5 53:24 irrelevant 8:17 22:15,24 25:16 lost 30:9 50:19,20,21
+
+knowing 11:209:13 25:21 26:9,17 lot 54:20 meaningless
+knows 25:10issuance 4:7 26:22 27:23 luggage 46:16 16:23 17:1 
+
+issue 6:15 13:1 28:10,22 29:9 lying 24:5,5 meanings 45:16L13:18 15:18 29:20 30:19 means 16:1,2,4
+laid 53:6 M18:9 20:19 31:6,8,14,21 23:14,20 33:6 
+language 5:6,16 machine 48:1925:24 28:12 31:23 32:2,5 35:23 36:1,1
+
+9:12 12:4,7,8 48:2130:8,9 31:2,4 32:10,11,19,22 42:23 47:20
+17:6 24:8 25:1 maintain 39:2133:12 37:19 33:6,20 34:18 54:9
+35:5,10 43:9 major 3:11 4:1 42:4 48:9 34:24 35:11,16 meant 21:10
+43:12 44:14 4:22 23:350:13,13,15 35:19 36:21 40:12 54:14
+50:6 24:13 27:5issued 19:15 37:4,23,25 measure 53:6
+
+late 13:15 14:2 37:15,17 42:8 21:14 38:7,15,18 measured 3:17
+Laughter 7:7 42:11,13,15,19issues 14:11 39:2,6,10,15 3:21
+
+39:4,7 42:23 48:8issuing 19:19 39:18,23 40:16 measures 4:3
+law 16:7 20:6 53:16,19 54:6 i.e 30:24 48:18 41:8,19 42:18 memorandum
+
+24:2 54:943:12,20 44:2 13:24
+lead 23:4J making 27:744:10,22 45:7 memos 12:2,10
+leads 23:7James 27:25 30:7 32:1645:22 46:4,17 mere 45:5,6
+leapt 9:11joint 13:10 33:1447:11,14,19 merely 19:16
+leave 43:9Judge 7:12 management48:2,11,16 45:8,24
+led 52:133:22 34:6 27:2549:2,3,16,24 merits 14:23
+left 49:17 51:19 54:22 mandate 10:1150:3,18 51:3,5 method 23:4
+legal 20:6 54:21 judges 20:2 17:1551:6,24 52:16 43:15
+legislative 44:19judgment 31:12 mandated 15:1052:21 53:8,11 middle 30:24
+
+44:20 46:12 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 62 
+
+midst 22:15 37:16 note 52:24 33:22 pending 18:15 
+mileage 47:4 month 40:24 notice 18:19 opinions 4:9 22:23 
+mind 41:17 morning 3:4,8 31:1 54:11 5:11,14,15 people 28:18,19 
+
+44:21 46:13 Motors 13:20 notion 35:5 opportunity perfectly 13:10 
+minimum 47:5 move 6:20 November 1:9 21:7 42:6 
+
+52:7 multiple 8:14 NSPS 7:25 8:24 opposing 4:10 performance 
+minute 48:19 8:24 10:14 options 16:17,21 4:21 18:6 
+
+Nminutes 52:18 12:23 14:14,19 17:5 period 21:1 
+N 2:1,1 3:1 misapplied 7:24 15:11 17:9 oral 1:11 2:2,5,8 permissible
+natural 54:238:2 9:13 27:3 29:4 34:8 3:6 12:16 16:12,21 17:6 
+nearly 46:1misconstrued 34:12,16,18,19 25:19 17:20 31:18 
+necessarily 9:1612:21 38:22 40:15 originally 20:23 32:7 38:9 
+
+15:10 46:23misled 32:12 54:1,6 outer 21:3 39:11 
+necessity 9:2352:25 number 13:1 outset 33:24 permission 14:9 
+need 22:13mistake 25:5 nut 23:21 outside 26:2 permit 3:12 22:8 
+net 23:4 24:25 mistaken 25:3 49:3 29:12 
+
+Onetworks 5:21mixed 28:18 overlays 45:14 permits 20:25 
+never 53:25 O 2:1 3:1 modification owe 47:16 permitted 10:13 
+new 4:21 6:17 object 40:183:13 4:1,21,22 owner 3:10 pervasively 3:25 
+
+9:10 13:25 obligation 41:196:24 8:1 12:23 4:3 53:14 
+P15:15 18:6 47:8 51:2318:22 23:3 petition 22:10 
+
+21:13,21 22:3 obtain 3:11 22:7 P 3:127:3,4,8,16,19 22:10 
+22:19 33:22 obvious 39:23 page 2:2 13:9 28:6 29:2 Petitioner 1:4 
+38:12 41:5 obviously 8:13 23:1 31:2433:24 34:8,12 52:20 
+42:10 47:21,24 20:18 34:13 37:14,2334:14,17 35:8 Petitioners 1:16 
+54:17 55:12 occur 24:24 37:24 54:435:10,23,24 1:20 2:4,13 3:7 
+
+nice 21:19 occurred 18:24 pages 15:1536:9,25 37:9 48:13 
+nonapplicabili... 24:16 37:4 27:14 34:2037:15,16 38:3 Petitioner's 
+
+26:10,18 offered 7:19 paragraphs 4:238:11,25 40:14 36:15 
+nonapplication officer 4:16 parallel 15:340:20 41:7,10 Phillips 1:21 2:9 
+
+26:23 official 13:4,11 part 28:9 35:9 41:11,13,22,24 25:18,19,21
+nonproliferati... oh 15:23 32:1 35:12,13,1941:25 42:4,8 26:11,21,25
+
+18:4,5 37:25 36:8 38:2442:11,11,13,16 27:24 28:22 
+nonspecific 53:4 okay 35:15,23 41:20 47:542:19,20,23,24 29:15 30:4 
+non-applicabi... once 43:3 53:842:25 43:14,25 31:4,7,11,15
+
+11:15 22:3,6 ones 18:21 26:19 participate 5:1344:1,5,24,25 31:20 32:1,4,8
+non-challenge opening 54:5 particle 40:545:1,8,10 32:15 33:4 
+
+53:1 operates 52:9 particular 30:546:15 47:10,20 34:5,19 35:2 
+non-normal operation 4:24 38:6 46:1047:22 48:8,9 35:15,18,20
+
+29:17 13:8 23:4,8 particulate51:13,14 53:16 36:21 37:2,5
+non-regulatory 24:11,17,21,22 27:2053:20 54:2,6,9 37:24 38:1,7
+
+24:14 25:8 43:15 parties 14:854:9 38:14,16,20
+non-SIP 36:25 operations 19:16modifications 39:3,5,8,14,16
+normal 29:16 29:16,17 party 6:10 20:21 24:13 27:5 39:20 40:11 
+
+40:1 operative 35:7 path 36:19modification's 41:3,18 42:21 
+North 28:2,4,7 opinion 7:13 pause 33:2042:5 43:19,22 44:2 
+
+30:16 19:20,22 31:12 penalties 19:7modified 31:24 44:8,13 45:3 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 63 
+
+45:12 46:1,8 portions 44:15 previously 40:6 10:1 45:16 46:9 
+46:21 47:13,16 position 8:5 11:9 pre-enforcem... provides 34:23 50:9
+
+48:1,3,15,25
+ 11:11 13:7,12 19:25 20:20 provision 5:1,3 quotation 27:12 
+49:5,22 50:1,4 18:13 21:9 principle 16:7 20:24 21:3 quoted 27:10 
+50:18 51:1,4,9 25:7,7 26:24 44:6,8,11,13 34:25 36:8 45:24
+
+52:2,17
+ 29:22 32:8 44:23 45:4 45:19 quoting 37:23 
+
+phrase 16:9,10 33:2 44:3 51:4 principles 54:21 provisions 36:11 
+Rphysical 3:13 Posner 7:12 prior 6:21 9:22 46:24 52:25
+
+
+5:2,4,5,20
+ R 3:1 
+radically 31:1
+
+possible 38:21 probably 29:10 53:3 
+11:21 23:3,6 possibly 21:8 problem 10:4 PSC 53:13
+
+23:12,20 24:11
+ 40:4 
+
+raise 33:11
+potential 6:20 19:14 20:1 PSD 3:16,21 4:8 
+
+24:12,13,15,16 29:11 48:18 28:23 30:14 4:22,23 5:19
+
+24:18,20,24
+ raised 8:15potentially 20:2 48:17 51:7 5:25 8:12,23 
+
+14:15 20:2130:1 43:14,16 power 39:25 proceeding 6:18 10:15 12:23 
+picked 45:17 33:7 
+
+random 38:23 
+40:22 42:3,3,7 19:10 33:13 14:18 17:8 
+
+pipes 5:21 powerful 27:11 proceedings 26:14 27:6 
+place 35:2 36:20 range 17:6,7 
+
+rate 4:25 6:11 
+preamble 5:1,17 19:2,6 20:12 29:5 34:9,21 
+
+40:19,21 41:15 13:12 53:7,15 22:23 38:11 40:8 
+7:12,14 23:8 44:25 45:1,2 54:5 produce 40:5 41:4 48:2 54:5 
+26:7 34:14,14places 40:18 preambles product 14:25 Puerto 11:19 
+34:22,23 42:6 43:18 50:11 51:16 production 4:24 25:9 28:11,20 
+52:24 53:12,13plain 5:6,16 precede 4:22 23:8 28:23
+
+
+12:4,7 24:25
+ 53:14 54:25 
+55:2,3,4
+
+precedes 8:1 program 4:9,17 pulled 23:19 
+plant 29:13 40:1 precisely 4:9 10:21,24 15:12 pure 52:9 
+plants 5:20 rates 26:156:16 26:11 17:9,9,14 18:5 purports 47:7 
+
+40:23plausible 53:3 34:6 41:5,10 45:11 purposes 15:19 
+rational 37:3,6 
+rationale 7:18 
+
+54:20 precluded 19:22 programs 12:24 put 40:21 42:1 
+please 3:9 12:19 33:14 16:22 18:3 49:5 
+
+32:10 
+read 28:11 30:6 
+
+25:22 predicate 31:21 39:13 puts 48:19 
+plenty 39:16 prefer 4:8 projects 30:15 
+
+Q 33:21 45:12 
+quarrel 42:14
+
+point 3:20 4:19 premise 10:22 30:18 
+50:5 51:136:15,24 12:24 10:25 40:11 prominent 6:19
+
+
+30:5,13 45:21
+ 51:14 52:10 52:22 54:18,22 
+question 9:17,19
+
+prescribed promulgated 
+reading 5:745:23 46:12 11:22 20:23 
+
+9:19 12:6,25 28:15 41:1447:6 48:6,10 prescription proof 23:15 
+19:10 21:18,19 54:14,2452:12 55:9 8:23 proper 8:21 
+
+points 36:14 22:1 23:9 real 7:19 19:13 present 19:17 proposal 18:10 
+24:23 27:4,15 40:12Poisner 54:22 presented 22:1 18:18,19 
+
+policies 10:6 29:16,18 31:14 realized 36:17 
+31:15,21,22
+
+presumably propose 54:8 
+really 29:12,17policy 18:17 13:23 21:18,22 proposed 6:11 
+
+policymaking 33:7 37:20 30:5 31:9presume 44:15 18:2,20 37:12 
+38:8 40:12,22 36:13 40:416:11 presumption 38:4 42:22 
+
+pollutant 3:14 46:22 51:23 46:15 54:19 
+questions 52:14
+
+45:5,6 46:3 48:7,17 53:23 
+reason 5:1043:16,17 pretty 29:10 proposition 20:7 
+
+pollute 29:12 quite 5:8 8:2 29:11 36:2447:1 propositions 
+12:25 20:8,8 39:23 47:10pollution 40:8,9 prevailed 18:15 24:2 
+
+portion 43:2 39:25 44:20 reasonable 8:21prevention 3:11 provide 7:16 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 64 
+
+41:13,15 
+reasonableness 
+
+8:9 
+reasonably 
+
+20:22 
+reasons 13:2 
+REBUTTAL 
+
+2:11 52:19 
+recognize 35:8 
+
+45:13 
+record 30:16 
+redefine 48:8 
+reference 37:17 
+
+45:7 
+referring 3:25 
+
+18:19 
+refers 3:24 4:2 
+
+48:17 
+reg 23:2,24 
+
+30:25 48:18 
+regard 34:10 
+regardless 24:21 
+regime 20:9 
+Region 27:14 
+
+28:1,1 
+regs 23:2 37:13 
+
+51:17 
+regulation 4:2 
+
+4:16 5:6,16 
+14:12 18:2 
+19:15,24 21:9 
+21:14,15 22:11 
+24:8,10 32:23 
+33:10 35:6 
+37:13,18 38:6 
+38:19 42:22 
+44:4 45:10 
+50:9 51:12 
+52:11 
+
+regulations 3:16 
+3:21,24 4:7,23 
+5:12,25 6:2,8 
+6:12,14,19 7:2 
+7:15 8:6,12,17 
+8:18,21,22 9:3 
+9:9,12,18,24 
+10:5,8,9,14,16 
+
+11:23 12:5,8 
+13:19 14:18,19 
+15:25,25 16:1 
+16:4 21:24 
+22:9 25:1 26:4 
+28:9 34:10 
+38:11,13 42:2 
+42:10 45:20 
+46:6 50:22,25 
+52:10,22 53:13 
+53:23 54:8,10 
+54:14 
+
+regulatory 9:1 
+9:18 14:19 
+15:11 25:25 
+28:8 34:9,21 
+34:22 38:10,24 
+41:6 43:5 
+44:21 45:15,18 
+46:13 
+
+Reich 4:19 12:2 
+12:7 13:3,24 
+25:4 26:12 
+27:9 
+
+Reich's 7:22 
+rejected 14:23 
+
+15:14 49:10 
+rejection 15:17 
+relate 29:19 
+relegated 20:10 
+relevance 24:18 
+relevant 53:13 
+relied 4:12 
+
+27:13 36:16 
+relief 19:7 
+relies 4:23 
+relying 32:12,13 
+
+44:6,23 45:5 
+remain 45:20 
+remaining 52:18 
+remedies 19:6 
+remember 
+
+38:22 42:1 
+rendered 44:17 
+renovations 
+
+5:21 
+reopen 14:9,9 
+
+reopened 6:15 
+14:7 49:7 
+
+repeating 49:25 
+replacement 
+
+29:1 
+replacements 
+
+24:15 
+replete 30:16 
+reply 37:24,25 
+
+38:1 
+representative 
+
+31:16 
+require 9:8 
+
+14:13 
+required 12:22 
+
+14:18 38:19 
+54:2 
+
+requirement 
+20:19 
+
+requires 3:10 
+requiring 19:25 
+rescind 22:13 
+reserve 12:11 
+resolve 8:9 9:25 
+resolved 6:17 
+respect 7:11 
+
+18:7,25 34:7 
+47:9 
+
+respects 8:14 
+respond 5:18 
+Respondent 
+
+1:19 4:12 
+10:12 12:17 
+25:20 
+
+Respondents 
+1:22 2:10 
+
+responsibility 
+47:17 
+
+restated 25:13 
+rests 20:17 
+result 41:9,12 
+
+52:23 
+resulted 24:24 
+retains 51:13 
+reverse 31:2 
+reversed 32:18 
+review 19:25 
+
+20:9,20 22:7 
+22:23 41:4,5 
+
+reviewable 
+20:14 
+
+Rican 11:19 
+25:9 
+
+Rico 28:11,20 
+28:23 
+
+right 7:24 8:20 
+9:20,20 24:4 
+28:3 30:3,20 
+30:21 32:3,4 
+34:21 35:20,25 
+36:6,10 43:8,8 
+47:13,16 51:9 
+54:23,23 
+
+Rightly 4:14 
+ripe 50:16 
+Roberts 3:3,19 
+
+7:5 10:16 
+12:13 13:13,23 
+14:24 22:15 
+25:16 33:20 
+44:22 51:6,24 
+52:16 53:19,22 
+54:7,15 55:15 
+
+room 39:17 
+rug 23:19 
+rule 13:22 21:6 
+
+38:4,6 53:15 
+rulemaking 
+
+16:11 18:20 
+22:11 33:19 
+
+rules 11:5,12 
+14:6,10 18:21 
+26:1 54:18,22 
+54:24 
+
+ruling 11:15 
+run 23:14,22 
+
+29:13 40:6,6 
+
+S 
+S 2:1 3:1 
+saying 14:2 
+
+15:23 22:11 
+25:4 27:23 
+28:15,18,19 
+
+29:25 32:23,25 
+33:25 34:2,6 
+41:10,22 43:7 
+44:3 45:10,23 
+46:4 53:23 
+54:9 
+
+says 5:3 15:20 
+16:2,15 19:13 
+23:2 24:10 
+27:10,18 33:14 
+33:23 34:22 
+38:21 42:23 
+43:22 44:4,11 
+45:20 46:6 
+47:15,22 50:9 
+53:12 
+
+Scalia 4:5,11,14 
+4:18 5:10,23 
+6:7 7:8 8:20 
+9:15,21 15:17 
+16:14,23 17:1 
+21:12,19 27:23 
+32:10 34:18,24 
+35:11,16,19 
+36:21 37:4,23 
+37:25 39:6 
+41:8 47:11,14 
+48:2 53:8,11 
+54:25 55:5 
+
+scheme 28:8 
+37:22 38:25 
+43:2,5 45:14 
+45:15,18 
+
+scope 45:9 
+SEAN 1:15 2:3 
+
+2:12 3:6 52:19 
+second 35:5 
+
+45:24 50:19,24 
+section 20:24 
+
+34:18,19 36:22 
+36:23 
+
+see 32:1 43:13 
+48:6 49:18 
+50:5 
+
+seek 22:5 38:2 
+seeking 19:2 
+
+52:23 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 65 
+
+sell 54:7 sort 8:2 24:14 33:10 36:1,2,3 13:4 18:22,23 27:1 
+sense 24:14 35:7 36:14 38:8 36:4 38:18,21 subsequent 4:2 38:23 45:4 
+
+35:8 51:20 39:19 41:4,22 11:3 33:18 49:6 
+sensible 36:24 sought 11:1 14:8 41:24 43:6,13 51:16 talks 50:6 
+
+52:13 30:13 43:21,22 44:11 subset 42:19 Tatel 34:7 
+separate 12:23 source 3:15 4:21 45:24 46:5 substantial Tatel's 33:22 
+serve 52:6 18:6 31:24 47:8,14,21 24:15 tell 7:10 23:12 
+serves 37:15 37:17 38:13 48:24 49:4 substantive 6:24 term 12:22 
+set 23:2 42:10 41:5 50:21,24,24 Substantively 24:14 37:15 
+sets 9:8 South 28:2,4,5 52:13 38:14,15 41:7 46:6 47:9 
+settlement 6:9 30:17 35:3 statutes 16:15 sudden 13:25 47:22,24 53:17 
+Seventh 25:11 SO2 31:25 47:7 suggesting 53:20 
+
+30:10 specific 7:17 statutorily 43:6 45:21 terms 3:17 5:1 
+SG's 38:1 16:20 43:23 statutory 8:25 suggests 33:23 36:6 
+show 8:6 44:17 45:16 9:19 10:6,11 33:23 46:11 test 6:11,20 7:12 
+side 30:12 35:6 53:5 54:4 14:17 15:6,9 summer 7:13 7:14 13:9 
+
+35:7 36:15 specifically 4:16 15:19 16:9 superfluous 14:15,21 17:17 
+37:6 48:25 speculative 17:2,14,21 44:17 17:18 25:1 
+
+sign 54:3 22:20 31:10 37:22 support 1:19 tests 17:11,20 
+significant 3:12 stalking 21:20 44:4 45:9,14 24:9 38:2 text 3:24 10:6 
+
+23:4 24:24 standard 4:21 53:17,20 suppose 32:23 44:4 
+31:25 11:12,14 18:5 stay 22:22 45:4 texts 8:17 54:21 
+
+silly 33:11 18:6 stayed 14:6 supposed 8:19 Thank 12:12,13 
+similar 18:11 standards 18:3 steel 13:20 22:17 33:8 12:18 25:15,16 
+
+29:22 start 50:23 step 24:19 54:11 25:21 52:15,16 
+simply 5:18 started 11:16 Stevens 31:14 Supposing 52:21 55:14,15 
+
+19:22 24:9 starting 25:23 31:21,23 32:2 31:16 theory 4:20 7:25 
+25:4 41:10 28:17 32:5,11 38:7 Supreme 1:1,12 7:25 14:16 
+44:23 48:8 state 11:24 38:15,18 39:2 sure 13:16 31:11 15:8 29:3 
+
+single 17:13 27:13 36:16 39:10,15,18 31:20 43:19 thing 14:1 15:24 
+SIP 28:5 34:25 42:16 52:25 42:18 44:2,10 44:3 45:22 16:1,4,5 28:18 
+
+35:4,14,17 statement 7:6 45:7,22 46:4 surely 53:9 28:19 31:10 
+37:1 14:10 27:14 46:17 50:18 surprised 14:1 50:10 51:19 
+
+SIPs 28:4,5 37:14 51:3,5 system 40:4,9 55:9 
+36:17 statements 13:3 story 34:4 things 7:9 17:24 
+
+Tsite 30:17 27:8,9 stream 30:24 24:7 37:10 
+T 2:1,1situation 20:21 States 1:1,13,19 strong 46:2,25 43:18 
+take 8:22 9:23 22:21 27:2 2:7 12:17 stronger 45:6 think 4:14 5:24 
+
+10:5 20:6situations 37:1,1 27:13 36:16 48:4 49:19,20 8:8 9:15 15:5 
+30:24 33:1size 17:15 stationary 37:17 strongly 23:25 17:8 20:7 
+36:18 38:22Solicitor 1:17 statute 7:14 8:23 structure 10:6 21:17 22:25,25
+40:3 43:342:21 9:7,24 10:2 subject 29:5 23:1,11,11
+45:18,19somebody 8:5 15:20,22,25 33:16,17 24:4,5 25:23 
+
+taken 11:11 48:9 14:2 40:1 16:2 17:15 submit 28:4 28:22 29:2,10
+takes 36:2,10somewhat 15:1 19:12,15 20:3 submitted 55:16 29:18 30:4,20
+talk 6:23 35:21 28:12,23 20:19 21:16 55:18 30:20 33:4 
+talking 17:9sorry 34:13 31:19 32:6,14 subordinate 34:5 35:21 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 66 
+
+36:22 38:16,18 tubes 5:22 43:25 44:1 43:9 44:7 34:7 41:2,8 
+39:16,20 40:11 turbines 40:3,23 53:14 45:17 54:22 
+
+X41:8,13,14 turn 7:17 usual 8:25 55:6 
+x 1:2,7 32:24,24 45:5,12,17 turns 6:5 utilization 11:21 ways 10:18 20:3 
+
+45:24,2546:19,22,24 twice 39:1 40:7 weak 49:17 
+V47:4 49:9,19 40:9 43:4 weaker 47:3 Yv 1:550:5,5,17 52:6 two 4:9,12 5:9 Wednesday 1:9 
+
+Y 32:24,24valid 42:654:13,22 9:8 15:6 16:15 weight 9:2 
+Yeah 42:21validity 7:15thinking 23:17 18:3 27:9 went 12:9 26:12 
+year 3:18 4:4 20:1729:25 49:16 28:25,25 34:20 28:10 31:9 
+
+13:9 40:24variant 49:8THOMAS 1:17 36:12,14 37:7 36:19 
+53:14 55:850:172:6 12:16 37:10 39:21 WEPCO 11:3 
+
+years 6:4 22:12 various 16:12thought 37:8 41:15 44:14 11:10,17 12:5 
+23:16,16,1619:639:5 46:24 47:7 13:6 25:11 
+28:21 32:18vary 53:4threshold 42:8 50:22,22 27:1,2,2 30:8,9 
+33:12 37:19vehicle 22:18time 10:19 11:16 tying 20:3 30:10 
+39:12 49:7version 46:2512:12 13:15,17 types 17:13,18 weren't 53:22 
+
+York 6:17 9:10 47:3 49:2020:23 28:19 17:19 18:8 we'll 23:12 
+15:15 33:22versus 3:5 33:22 31:17 41:3 45:18 
+55:13U view 27:1248:10 49:4 we're 9:9,10,23
+
+ultra 11:5 33:21,21 34:1 timing 20:18 18:21,23 32:15 0uncited 54:19 38:8 50:8,21title 28:8 35:25 38:23 40:3,4 05-848 1:5undefined 35:25 violate 10:2today 18:21 25:8 49:6 50:12 
+understand 5:23 vires 11:628:16 51:18 1
+
+12:2 18:2 21:8 vociferouslytold 26:14 36:19 we've 7:8 27:7 1 1:921:9 27:1 11:446:14 46:14 49:10 10 39:1235:11 38:20tons 3:18 4:4 whipsaw 12:25 10:02 1:13 3:2 W44:3 45:2313:9 53:13 13:1 11 25:11wait 51:18understanding55:7 whipsawed 6:1 11:02 55:17wake 25:25 28:3 26:2tool 8:25 widget 15:20,21 12 2:7 27:13 42:2understoodtotal 14:14 Wolburn 28:1 40:7want 6:22,2331:21totally 53:4 word 15:20,21 12(a) 35:2132:5 36:24undisputedtough 54:7 17:24 30:1 15a 34:11,2044:2 50:9 52:7 24:12trigger 35:9 38:9,11 40:13 15.100 35:25wanted 37:8unfair 23:2336:9 38:22,24 40:17,17 41:25 168 45:2040:10 43:24unfavorable38:25 40:14 43:25 44:5,7 17 15:15 28:21 Washington 1:833:243:1 47:6 44:24,25 46:23 17a 34:131:15,18,21unit 29:1 35:24 49:13 52:5 47:6,12,21 180 47:9wasn't 21:13United 1:1,12,19troubled 55:1 53:14 19 15:15 32:18 42:42:7 12:17true 13:2,19 words 35:19 1977 14:20waste 27:25units 18:8,825:2 33:12 43:13,16 45:25 1979 37:13 48:7 water 21:2128:2549:8 works 40:1 1980 3:16 6:19 way 4:8 6:4 8:6 unresolvedtruth 29:6 33:9 world 7:20 6:25 7:1517:8 19:14,2021:1837:7 38:4 wouldn't 37:19 11:12 13:12,1926:4,19 29:5,6 upheld 12:5trying 49:2 wrestled 7:8 13:22 14:3,629:8 30:625:10,1250:16 wrong 8:4 15:18 14:10 21:632:17 33:10use 40:16 42:7 tube 23:21 20:7 30:21 25:25 26:335:18 41:23 
+
+Alderson Reporting Company 
+
+
+
+Official 
+Page 67 
+
+33:8,9,18 50:2 
+37:18,20 38:5 307(b)(2)'s 50:5 
+50:9,11 51:11 
+51:15 52:22 4 
+53:13 4 27:14 28:1,1 
+
+1981 13:3,21 40 4:1 
+25:2 44 13:9 
+
+1982 6:10 28:3 
+1984 14:11,11 
+1988 13:4,25 
+
+18:24 25:5 
+26:3 
+
+1988-89 28:16 
+1989 25:11 
+1989-90 11:18 
+1990 25:12 
+1992 6:14 7:1 
+
+33:8 
+1999 26:4 
+
+5 
+50 28:8 
+51 28:9 35:19,25 
+
+36:7,8 
+51(2) 35:9 
+51.100 54:19 
+51.166(b) 55:4 
+51.166(b)(2) 4:1 
+51.166(b)(8) 
+
+54:19 
+52 2:13 35:13 
+
+36:3,22 53:8 
+2 52.01 37:12 
+
+2000 6:14 7:1 52.01(b) 55:1 
+18:24 33:8 52.01(d) 36:23 
+
+2002 18:23 51:13 54:18 
+2003 14:7,8 
+2004 14:22 
+
+15:13 
+2005 15:15 
+
+6 
+60-day 21:1 
+60.14 34:13 
+
+18:18 21:6 
+2006 1:9 
+21 55:4 
+23 54:4 55:4 
+
+7 
+7 27:14 31:24 
+700 20:2 
+
+24 40:6 8 
+25 2:10 22:12 
+
+33:12 37:19 
+49:7 
+
+26 23:1 
+
+8 27:14 31:24 
+35:23 
+
+87 28:17 
+
+3 
+3 2:4 52:18 
+
+9 
+9 37:14,23,24 
+
+30 54:18 
+307 7:4 
+307(b) 49:12,13 
+
+51:7 52:8 
+55:10 
+
+307(b)(1) 20:24 
+33:6 
+
+307(b)(2) 33:13 
+
+Alderson Reporting Company 
+
+

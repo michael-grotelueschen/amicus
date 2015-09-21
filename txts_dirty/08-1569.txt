@@ -1,0 +1,6802 @@
+
+                  
+
+          
+
+                       
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+UNITED STATES, : 
+
+Petitioner : No. 08-1569 
+
+v. : 
+
+MARTIN O'BRIEN AND ARTHUR BURGESS.: 
+
+- - - - - - - - - - - - - - - - - x 
+
+Washington, D.C. 
+
+Tuesday, February 23, 2010 
+
+The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:14 a.m. 
+
+APPEARANCES: 
+
+BENJAMIN HORWICH, ESQ., Assistant to the Solicitor 
+
+General, Department of Justice, Washington, D.C.; on 
+
+behalf of Petitioner. 
+
+JEFFREY L. FISHER, ESQ., Stanford, California; on 
+
+behalf of Respondents. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                     
+
+                   
+
+                    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+C O N T E N T S 
+
+
+ORAL ARGUMENT OF PAGE 
+
+BENJAMIN HORWICH, ESQ. 
+
+On behalf of the Petitioner 3 
+
+JEFFREY L. FISHER, ESQ. 
+
+On behalf of the Respondents 26 
+
+REBUTTAL ARGUMENT OF 
+
+BENJAMIN HORWICH, ESQ. 
+
+On behalf of the Petitioner 46 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+P R O C E E D I N G S 
+
+(11:14 a.m.) 
+
+CHIEF JUSTICE ROBERTS: We’ll hear 
+
+argument next in Case 08-1569, United States v. O'Brien. 
+
+Mr. Horwich. 
+
+ORAL ARGUMENT OF BENJAMIN HORWICH 
+
+ON BEHALF OF THE PETITIONER 
+
+MR. HORWICH: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+Section 924(c)(1) starts by defining a 
+
+single crime of using or carrying a firearm during and 
+
+in relation to a crime of violence or a drug trafficking 
+
+crime. 
+
+Next, it addresses sentencing, and it does 
+
+that by giving the judge some rules to channel his 
+
+discretion in particular cases, and among those is a 
+
+requirement that a, quote, “person convicted of a 
+
+violation” … “shall be sentenced” to a greater minimum 
+
+sentence when the firearm is of a particular type. 
+
+And --
+
+JUSTICE SCALIA: Well wait. There’s --
+
+there’s some sentencing stuff in -- in the first part 
+
+as well. There’s sentencing stuff in (A). You can't 
+
+say that (A) deals only with elements and (B) deals 
+
+with sentencing. 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. HORWICH: Well, no, and, of course --
+
+JUSTICE SCALIA: I mean, (A) says, "shall be 
+
+sentenced to 5 years." Or to 7 years, or to 10 years. 
+
+So there’s sentencing stuff in (A). 
+
+MR. HORWICH: Well, I agree with you that 
+
+the phrase "be sentenced" certainly appears in (A) as 
+
+well. To the extent a statute is going to direct a 
+
+particular sentence, it’s going to use those words. 
+
+But I think the -- we’re relying a lot 
+
+more on the language in the beginning of subparagraph (B), 
+
+that says, "if the firearm possessed by a person convicted 
+
+of a violation," which necessarily presupposes, then, that 
+
+there has been a conviction --
+
+JUSTICE SCALIA: So does -- so does the language 
+
+of (A)(ii) and (A)(iii), which is the same language: “if 
+
+the firearm is brandished”; “if the firearm is 
+
+discharged” -- they all apply to a conviction for carrying 
+
+the firearm. There has to be a conviction before those 
+
+things apply. 
+
+MR. HORWICH: Well, I agree. That's true. 
+
+That is certainly an accurate statement --
+
+JUSTICE SCALIA: So that makes (A) the same 
+
+as (B). And -- and you don't claim that the elements in (A) 
+
+are just sentencing elements, do you? 
+
+MR. HORWICH: Well, I certainly don't claim 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+that they -- that the elements in the principal 
+
+paragraph of (A) are. The point I’m -- the point I'm 
+
+trying to make is that, with respect to firearm type, 
+
+which is at issue here, is that the firearm type 
+
+provisions are introduced by specific language that 
+
+says -- that tells the reader these are relevant to a 
+
+person convicted of a violation; these are not relevant 
+
+to whether --
+
+JUSTICE SOTOMAYOR: No, but you’re 
+
+forgetting the words of this subsection. I mean --
+
+MR. HORWICH: Well --
+
+JUSTICE SOTOMAYOR: -- the subsection would be 
+
+(B) itself. If you're convicted of carrying a machinegun, 
+
+you get -- I'm sorry -- a short-barrel rifle, et cetera, 
+
+you get 10 years. If it's a machinegun, you get 30. 
+
+What's -- what's irrational about reading 
+
+the statute that way when it uses the word "subsection"? 
+
+It didn't use "subparagraph." 
+
+MR. HORWICH: Well, I agree it doesn't use 
+
+"subparagraph." And "subsection" certainly in 
+
+conventional use in drafting would refer actually to 
+
+924(c) as a whole. 
+
+But -- but looking to the word "this 
+
+subsection," Justice Sotomayor, is not -- is not useful 
+
+for distinguishing among the elements and the sentencing 
+
+5 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+factors, because of course there are, I think --
+
+certainly this Court's holding in Harris says that the 
+
+brandishing and the discharge provisions are sentencing 
+
+factors. They are part of this subsection. 
+
+All the courts of appeals have held, and 
+
+it's the entirely natural inference of the recidivism 
+
+provisions in subparagraph (C), which is also part of 
+
+this subsection, are -- are themselves sentencing 
+
+factors. So saying that something is in this subsection 
+
+means that it might be part of a violation doesn't 
+
+actually answer what is or is not part of the violation 
+
+versus --
+
+JUSTICE SCALIA: But still and all, if -- if 
+
+Congress were being precise and if the statute is to be 
+
+read the way you suggest, the introduction to capital 
+
+(B) should have been "if the firearm possessed by a 
+
+person convicted of a violation of paragraph (A) above," 
+
+and then pick it up, "is," so forth. 
+
+Right? I mean, that would -- would be more 
+
+precise. 
+
+MR. HORWICH: That -- that I think would be so 
+
+precise that we wouldn't be here discussing it today. I 
+
+agree with that. 
+
+But, of course, Congress has also used that 
+
+same reference to “subsection” throughout -- throughout the 
+
+6 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+entire statute, even if it's not being used in the most 
+
+precise sense, in the sense that a violation of this 
+
+subsection appears in subparagraph (C), it appears in 
+
+subparagraph (D), which is not --
+
+JUSTICE SCALIA: Yes. 
+
+MR. HORWICH: -- which is not then to say that 
+
+this subsection -- that everything in this subsection is an 
+
+element. The Court has held otherwise already. 
+
+JUSTICE SCALIA: I guess I agree with you 
+
+that if (B) is -- if (B) is an element, (C) would be an 
+
+element, too. 
+
+MR. HORWICH: Well, that certainly would be 
+
+the inference. And that would be quite contrary to the 
+
+traditional treatment of recidivism. 
+
+But, more generally, the tradition that 
+
+Congress is working within in this new statute -- which, 
+
+I want to point out, is significantly different in -- in 
+
+a very substantive way from the old statute -- that the 
+
+new statute proscribes a statutory maximum of life in 
+
+all cases. That is different from the old statute. The 
+
+old statute --
+
+JUSTICE BREYER: What is this to do -- I 
+
+mean, the obvious question, to me, is -- since I wrote 
+
+the -- I think I wrote the opinion in Castillo -- is we 
+
+looked at the language of the statute, very similar to 
+
+7 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+this, and we said: Machinegun means a separate crime. 
+
+And they recodified it. And it looks to me as if all 
+
+they did was take the things that we previously said 
+
+were separate crimes and put them in (B), and take the 
+
+things that are obviously sentencing factors and put 
+
+them in (A) and (C). 
+
+All right. Now, that's what it looks like 
+
+if you just read the statute. I didn't find anything in 
+
+the history that suggested any other intent. So why do 
+
+you think that that change makes the difference? 
+
+MR. HORWICH: Well, I think there are --
+
+there are several specific changes that Congress made. 
+
+And I think it would be, perhaps, useful to look at the 
+
+old statute and the new one, the old statute and the new 
+
+one together and see why the things that -- that the 
+
+Court said in Castillo are gone in the new one. So the 
+
+old statute is in the petition appendix at 11a. 
+
+JUSTICE SCALIA: Right. 
+
+MR. HORWICH: And then the new statute is in 
+
+the appendix to the government's opening brief at 1a and 
+
+2a, so you can look at them side by side. 
+
+JUSTICE SCALIA: Isn't the old one in your 
+
+brief, too, in your --
+
+MR. HORWICH: It is. 
+
+JUSTICE SCALIA: It's 3a of the government's 
+
+8 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+brief. 
+
+MR. NORWICH: It is, although, of course, 
+
+you have to turn the page, and I --
+
+JUSTICE SCALIA: All right. Okay. 
+
+MR. HORWICH: Perhaps it's helpful to look 
+
+at them next to each other, because the differences are 
+
+quite stark --
+
+JUSTICE SCALIA: All right. 
+
+MR. HOWICH: -- when you do that. 
+
+So the first thing is, as you suggested, 
+
+Justice Breyer, the firearm type provisions were moved. 
+
+But I think that that move signals something contrary to 
+
+what this Court had perceived in Castillo. In Castillo, 
+
+the firearm type provisions were part of the initial 
+
+sentence that defined the elements. The sentence is 
+
+rolling along, talking about using or carrying a 
+
+firearm, and then in the same breath it goes on to start 
+
+talking about specific weapons. And that is what, in my 
+
+reading of Castillo, drove the Court's impression that 
+
+the they -- that the machinegun provision there should be 
+
+an element. 
+
+The difference in the new statute is -- is 
+
+that Congress has moved it away, textually, 
+
+conceptually, structurally, away from the elements, 
+
+which ought to suggest that Congress doesn't think --
+
+9 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SOTOMAYOR: But it didn't. It kept 
+
+in (A) the subdivisions of use and brandishing, which 
+
+we all agree are elements of the crime. So I don't know 
+
+what it means to say that it moved it away from the 
+
+elements. It mixed up in (A) elements and sentencing 
+
+factors, and so what we have to discern was, did it 
+
+intend to make (B) sentencing factors or not? 
+
+And I think what Justice Breyer was asking 
+
+you: What in the legislative history shows that? Where 
+
+do we read, outside of Castillo, a conclusion that 
+
+somehow Congress radically changed the assumptions we 
+
+identified in Castillo, which is historically it's not a 
+
+sentencing element? 
+
+MR. HORWICH: So a few answers there. 
+
+First of all, in the new -- in the new 
+
+structure of the statute, on the government's view, the 
+
+elements finish in the principal paragraph, and then --
+
+then we're into sentencing factors. So brandishing and 
+
+discharge were held in Harris and acknowledged in Dean 
+
+to be sentencing factors. So we are sort of, at that 
+
+point, on to sentencing factors. 
+
+So I take from what this Court said in 
+
+Harris, about the separation of brandishing and discharge 
+
+from the elements in the principal paragraph to indicate 
+
+that they are sentencing factors, would apply even more 
+
+10
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+strongly to subparagraph (C), which is even farther 
+
+away. There’s -- there’s a period, a structural break, 
+
+a new sentence. The thought in the principal paragraph is 
+
+certainly complete. We’ve already been through some 
+
+other sentencing factors, and now we’re --
+
+JUSTICE SCALIA: Well, except that with --
+
+with (C), you -- you could say that traditionally 
+
+recidivism has been a sentencing factor, and you cannot 
+
+say with respect to (B) that whether it's a 
+
+short-barreled rifle or a machinegun has traditionally 
+
+been a sentencing factor. To the contrary, it was an 
+
+element. 
+
+MR. HORWICH: Well, I disagree with that, 
+
+Justice Scalia, because the tradition, as I understand 
+
+it, is relevant because it might indicate what Congress 
+
+was thinking or what suppositions it had in mind when it 
+
+passed a statute. 
+
+And there’s a very -- there was a very 
+
+different tradition at the time of the 1986 enactment of 
+
+the old statute and the 1998 enactment of the new one, 
+
+which is -- the big difference is that the sentencing 
+
+guidelines came into effect in between those two times. 
+
+And the sentencing guidelines -- sentencing 
+
+guideline 2K2.1, the principal determinant of base 
+
+offense level in the sentencing guidelines for 
+
+11 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+firearm-centric offenses in the Federal criminal law, was 
+
+firearm type. So it was unmistakably that -- it was 
+
+unmistakable at the time in 1998 when Congress enacted 
+
+these -- these firearm-type provisions, that the 
+
+sentencing guidelines were already making firearm type a 
+
+sentencing consideration for the judge. 
+
+JUSTICE SCALIA: Let's -- let's talk about 
+
+the guidelines. Without the application of (B), the 
+
+guidelines would provide for a much shorter sentence, 
+
+wouldn't they? 
+
+MR. HORWICH: Well, the guidelines -- as 
+
+before and as now for this offense, the guidelines level 
+
+is the minimum. 
+
+JUSTICE SCALIA: The guidelines -- do you 
+
+think that if under the guidelines the sentence was 
+
+30 years because of a machinegun, do you think that that 
+
+would be upheld? 
+
+MR. HORWICH: I'm sorry. And your -- if I 
+
+understand you --
+
+JUSTICE SCALIA: Do you think it would be 
+
+upheld as a reasonable sentence under our Booker/Fanfan 
+
+theory of -- of how the guidelines are to be applied? 
+
+MR. HORWICH: A reasonable -- well, 
+
+certainly courts have, since Booker, imposed even up to 
+
+a life sentence for offenses that did not otherwise 
+
+12 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+trigger the elevated minimums. There’s at least one 
+
+case in the few years since Booker that implied a --
+
+that imposed a life sentence for a -- for an offense 
+
+that would have been subject only to the base 5-year 
+
+maximum. There are several that imposed -- imposed a 
+
+life sentence for --
+
+JUSTICE SCALIA: Where -- where is the life 
+
+sentence maximum, by the way? I -- you say this is a 
+
+minimum. It's just a mandatory minimum because the 
+
+maximum is specified to be life. Where is that specified? 
+
+MR. HORWICH: The -- the maximum is not 
+
+textually in the statute, but all courts that have looked 
+
+at this have understood that. Certainly, it seems to be 
+
+the supposition of this Court's statutory holding in Harris 
+
+that the nature of -- the structure of this -- of the 
+
+sentencing provision here is that there's a life maximum, 
+
+and then the firearm --
+
+JUSTICE SCALIA: Where -- where do you get 
+
+the life maximum? I -- I'm reading through, and there's 
+
+-- it mentions nothing about life. 
+
+MR. HORWICH: Well, it is certainly the 
+
+case, if we simply take (a)(1) --
+
+JUSTICE SCALIA: And if it mentions nothing 
+
+about life, then these are not mandatory minimums. To 
+
+the contrary, they are -- they are new maximums. 
+
+13 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. HORWICH: I absolutely disagree. If it 
+
+says “at least,” that can only mean that there can be some 
+
+-- a sentence higher than that. 
+
+JUSTICE GINSBURG: Is the life part of 
+
+the --
+
+MR. HORWICH: Or not less than. 
+
+JUSTICE GINSBURG: -- what the substantive 
+
+crime was? Is it the attempted robbery or whatever it was? 
+
+Is that -- because this is -- you're -- you’re saying this 
+
+is an add-on to an underlying offense. 
+
+MR. HORWICH: Well, I wouldn't describe it 
+
+as an add-on. It is a separate Federal crime, in -- in 
+
+the sense -- in the sense that it is bad enough and 
+
+dangerous enough to commit a drug trafficking offense 
+
+or engage in a crime of --
+
+JUSTICE GINSBURG: Well, then -- then you 
+
+wouldn't be relying on what might be a life sentence 
+
+for the underlying crime. 
+
+MR. HORWICH: I -- oh, I'm sorry. I -- I 
+
+may have -- may have misspoken. 
+
+In response to Justice Scalia's question, my 
+
+answer -- my answer was directed to imposing a life 
+
+sentence on the 924(c) conviction, separate from 
+
+whatever sentence may have been imposed on the --
+
+JUSTICE GINSBURG: Yes, but where do you get 
+
+14
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+the maximum? You say, oh, these are just minimums. 
+
+MR. HORWICH: Well, they are minimums 
+
+because they say "not less than 5 years." That applies --
+
+JUSTICE GINSBURG: But where is -- where is 
+
+the maximum? 
+
+MR. HORWICH: The -- well, because there is 
+
+no stated maximum, the -- the assumption then must be 
+
+that a sentence higher than 5 years is appropriate. 
+
+There is no --
+
+JUSTICE SOTOMAYOR: Is there a Sixth 
+
+Amendment problem with reading a statute this way, 
+
+with -- with reading a statute to provide for an 
+
+unlimited maximum when Congress hasn't specified it, and 
+
+now you’re going to have the judge find the minimum and 
+
+the maximum? 
+
+MR. HORWICH: Well, I don't -- I disagree 
+
+that the judge is finding the maximum. The -- the 
+
+implied maximum term here is -- is life. Congress --
+
+JUSTICE SCALIA: I don't find that implied 
+
+at all. I don't see why it's implied. 
+
+MR. HORWICH: Well, the trouble, 
+
+Justice Scalia, is then that I don't otherwise know what 
+
+the maximum would be. 
+
+JUSTICE SCALIA: That's right. That’s --
+
+MR. HORWICH: The maximum --
+
+15 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SCALIA: That's her question. 
+
+JUSTICE SOTOMAYOR: But isn't there a Sixth 
+
+Amendment problem with not knowing what you are exposed 
+
+to? And then doesn't the minimum in that case sort of 
+
+become de facto the maximum? 
+
+JUSTICE SCALIA: I think what you are 
+
+exposed to, as I read the statute, (c)(1)(A) does not 
+
+impose a new sentence at all. It just says there will 
+
+be added to whatever the sentence is for the crime of 
+
+violence or the drug trafficking crime -- there will be 
+
+added to that sentence. Then it says you’ll add 7 
+
+years; you’ll add 25 years; you’ll add 30 years. 
+
+Those are not mandatory minimums. Those are 
+
+add-ons to the sentence provided by the substantive 
+
+crime to which (c)(1)(A) refers. That way, the whole 
+
+thing makes sense. 
+
+MR. HORWICH: Well, I don't think it would 
+
+make sense to treat them, as you are describing them, as 
+
+add-ons. There’s no question that this -- that this 
+
+statute defines an offense that someone can be convicted 
+
+of. That certainly is the implication of this Court's 
+
+holding in Deal. It is a separate offense which 
+
+therefore should carry its own punishment. And the 
+
+contrast --
+
+JUSTICE SCALIA: I’ll amend what I said. 
+
+16
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+It is a mandatory minimum if the substantive crime 
+
+referred to in (c)(1)(A) is above what is specified 
+
+in -- in this statute. But if it -- if it is below 
+
+that, if the drug trafficking crime only provided for 
+
+15 years, and you did the crime with a machinegun, you 
+
+get 30 years, that's an add-on. 
+
+MR. HORWICH: Well, I -- I think it would be 
+
+helpful then to compare this to the -- the language of 
+
+the prior statute, which describes exactly what you are 
+
+describing. 
+
+JUSTICE SCALIA: I got it. 
+
+MR. HORWICH: Which is -- which is that 
+
+whoever during or in relation, et cetera, et cetera, 
+
+uses or carries a firearm --
+
+JUSTICE KENNEDY: Can you give us the page? 
+
+MR. HORWICH: I'm sorry, this is at 11a of 
+
+the petition appendix. 
+
+JUSTICE SCALIA: It's also on 3a of the 
+
+government's brief. 
+
+MR. HORWICH: Or 3a of the -- of the 
+
+government's -- the government’s brief. 
+
+The old statute said exactly what you are 
+
+describing, Justice Scalia, which is that whoever during 
+
+or in relation to a crime of violence, et cetera, uses 
+
+or carries a firearm shall, in addition to the 
+
+17 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+punishment provided for such crime of violence, et 
+
+cetera -- and then it specifies --
+
+JUSTICE SCALIA: Right. 
+
+MR. HORWICH: -- particular determinate 
+
+sentences. 
+
+JUSTICE SCALIA: Right. 
+
+MR. HORWICH: If Congress had wanted to 
+
+continue that approach, I assume it would have kept that 
+
+language. It didn't. It changed the language. The new 
+
+language says "be sentenced to a term of imprisonment of 
+
+not less than 5 years," which leaves -- which leaves --
+
+JUSTICE SCALIA: It says “in addition to” at 
+
+the end of (c)(1)(A): “Who, in furtherance … possesses a 
+
+firearm shall, in addition to the punishment provided 
+
+for by such crime of violence, be sentenced to” 5 
+
+years, 7 years, 10 years. And then if the 
+
+firearm, blah, blah, blah, is blah, blah, blah -- since 
+
+your -- I assume that that introductory language "in 
+
+addition to the punishment provided for" is implicit in 
+
+(B). It's expressed in (A), but I think it's implicit 
+
+in (B). 
+
+MR. HORWICH: That -- I understand that 
+
+language, the in -- the "in addition to" language, to 
+
+have -- to have been to make clear that this is a 
+
+separate offense. There is separate punishment for a 
+
+18 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+separate conviction of this separate offense. 
+
+JUSTICE SCALIA: Yes. 
+
+MR. HORWICH: And that then it is a 
+
+separate -- then from there it is a question what is the 
+
+appropriate sentence for a conviction on the offense 
+
+described in 924(c)(1), which is to say, well, it's a 
+
+term of imprisonment of not less than 5 years, which 
+
+holds open --
+
+JUSTICE SCALIA: In addition to the term 
+
+that’s -- that exists for the substantive offense. 
+
+MR. HORWICH: I -- I agree. And if you look 
+
+in subparagraph (D)(ii) it says that the term of 
+
+imprisonment imposed under this subsection shall run 
+
+consecutive to the other one, which -- which again shows 
+
+that -- that the considerations for sentencing in this 
+
+-- in this law are distinct from the -- it is a -- it is 
+
+a separate question what the sentence on the 924(c) --
+
+JUSTICE BREYER: To make your life a little 
+
+more complicated and difficult, though perhaps it makes 
+
+it easier, we reach the questions that Justice Scalia 
+
+was raising, I think, and they are important only if you 
+
+win, only if we say that it is a sentencing factor. If 
+
+it is a new crime, we don't have any problem, because if 
+
+it's a new crime, the jury has to find the fact. 
+
+But if it's a sentencing factor, then we get 
+
+19 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+into the problem of Harris versus Apprendi. And then you 
+
+have to decide whether it's maximum, minimum, et cetera. 
+
+But in Harris, I said that I thought Apprendi does cover 
+
+mandatory minimums, but I don't accept Apprendi. Well, 
+
+at some point I guess I have to accept Apprendi, because 
+
+it's the law and has been for some time. 
+
+So if and in fact, unfortunately for 
+
+everyone, I was -- it was 5-4 in that, I think, so my vote 
+
+mattered, and I don't know what other people think 
+
+but in -- on this Court. But if that becomes an issue, 
+
+if that should become an issue about whether mandatory 
+
+minimums are treated like the maximums for Apprendi 
+
+purposes, should we reset the case for argument? Or do 
+
+you feel, in your opinion that -- that you’ve had 
+
+enough of an argument because you devoted two or three 
+
+pages to this topic? 
+
+MR. HORWICH: Well, to answer -- well, first 
+
+of all, there certainly has not been in -- in the 
+
+briefing or argument here, any opportunity for this Court 
+
+to consider what it would need to consider to overrule 
+
+McMillan. We’re not talking about overruling Harris. 
+
+We’re talking about overruling McMillan. And --
+
+JUSTICE BREYER: Well, I think basically 
+
+Apprendi did significantly change McMillan, but that’s --
+
+MR. HORWICH: Well, and that’s -- and that 
+
+20 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+would be my -- my second point, is that -- is that since 
+
+-- I think it has been become clearer since Harris that 
+
+the rule in McMillan and the rule in Apprendi coexist 
+
+quite well and coexist in a principled fashion, and 
+
+that there is -- and that there is no -- Harris was 
+
+correct in light of Apprendi, which is -- which is in 
+
+the following respect. 
+
+JUSTICE BREYER: Does the government believe 
+
+that it has sufficiently argued this, or would you suggest 
+
+on the government's behalf that if it becomes an issue 
+
+it's set for reargument? That was really my question. 
+
+MR. HORWICH: Well, yes, we would certainly 
+
+want to set it for reargument --
+
+JUSTICE SCALIA: That's the right answer. 
+
+MR. HORWICH: -- obviously. 
+
+(Laughter.) 
+
+MR. HORWICH: But -- but I -- again, I don't 
+
+even think that's necessary. Respondents have offered 
+
+nothing in the way of a justification for overruling 
+
+Harris. And again, the distinction is --
+
+JUSTICE GINSBURG: Why can't we just say, as 
+
+Judge Boudin did, they weren't -- this revision was on 
+
+the books before Castillo was decided, so obviously 
+
+Congress wasn't trying to adjust the statute in response 
+
+to Castillo. And they -- they made it read more easily. 
+
+21 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+We know the one thing Congress was concerned with was adding 
+
+possession, which was not there before. So they added 
+
+possession. They made it more readable. 
+
+Some of the concerns that were expressed in 
+
+Castillo are certainly present here. There is a huge 
+
+jump from a 5-year add-on to a 30-year add-on for -- for 
+
+the machinegun. So why don't we just say, well, this 
+
+statute has been revised, but it wasn't in response to 
+
+Castillo? It's not all that different. 
+
+MR. HORWICH: Well, I disagree that it's 
+
+not all that different. And -- and for the following 
+
+three -- for three reasons. First of all, setting aside 
+
+my disagreement with Justice Scalia, if you accept that 
+
+the statutory maximum is life, as I believe every court 
+
+to have confronted this understands it to be, then this 
+
+statute belongs to an entirely different tradition than 
+
+the tradition that Castillo belonged to, which is to 
+
+say that this statute -- the -- the role of firearm type 
+
+in this statute is to channel the sentencing judge's 
+
+discretion by ruling out certain low sentences when 
+
+certain facts are present, such as the presence of a 
+
+machinegun. 
+
+That is something that when Congress wants 
+
+to channel --
+
+JUSTICE SOTOMAYOR: Isn't a minimum always a 
+
+22 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+maximum? 
+
+MR. HORWICH: No, I --
+
+JUSTICE SOTOMAYOR: In -- to the person who 
+
+would otherwise, in the judge's discretion, qualify for a 
+
+lower sentence, doesn't it become that person's maximum 
+
+once you have indiscretion? 
+
+MR. HORWICH: I disagree with that because 
+
+the principle -- the background -- the basic principle 
+
+behind Apprendi and our criminal law is that what you 
+
+can rely on is what Congress has said in the statute or 
+
+in -- as Booker holds --
+
+JUSTICE SOTOMAYOR: What you can rely on in 
+
+an indeterminate sentencing regime without a minimum is 
+
+that you’ve got a statutory maximum, whatever it may 
+
+be, but a judge's discretion to start from zero. If 
+
+that judge was inclined to give you zero, isn't the 
+
+minimum then your statutory maximum? You're -- because 
+
+that's what the judge has to give you. 
+
+MR. HORWICH: I disagree with that, because 
+
+it is not the only thing the judge can give you. The 
+
+full range of punishment above those minimums is 
+
+available. I was indicating earlier that --
+
+CHIEF JUSTICE ROBERTS: Counsel -- counsel, 
+
+I think you had said you had three responses to Justice 
+
+Ginsburg --
+
+23 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. HORWICH: Yes. 
+
+CHIEF JUSTICE ROBERTS: -- and only got one out. 
+
+MR. HORWICH: Right, and perhaps only 
+
+half of that one, which is -- which is that in the -- on 
+
+the question of -- of tradition, Congress apparently 
+
+exclusively uses sentencing factors when it wants to do 
+
+nothing more than give some rules to the judge to 
+
+channel his discretion with minimum sentences. We 
+
+observed this in our opening brief, and Respondents said 
+
+nothing in response. 
+
+As far as we know, every time Congress wants 
+
+to channel a sentencing judge's discretion, it does it 
+
+with a sentencing factor. That is a difference. 
+
+CHIEF JUSTICE ROBERTS: All right. Number two? 
+
+MR. HORWICH: Number two is that the -- is 
+
+that the -- the -- the linguistic change here, the 
+
+textual change, the fact that subparagraph (D) says "a 
+
+person convicted of a violation of this subsection." 
+
+That presupposes there has been a conviction, that the 
+
+jury has been charged with whatever the elements of the 
+
+offense are and that now what's going to be stated in 
+
+clauses (B)(i) and (B)(ii) are things that are relevant 
+
+at sentencing. 
+
+And then the third -- and then the third 
+
+point is -- is that -- is essentially the structural 
+
+24
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+change from -- that I alluded to earlier, of moving 
+
+firearm type wholly away from the elements of the 
+
+offense. That made a difference to this Court in 
+
+Harris. It is -- it would be, I think, irreconcilable 
+
+with this Court's holding in Harris to say that 
+
+brandishing and discharge have been moved far enough 
+
+away from the elements to make them sentencing factors, 
+
+or rather are stated far enough away from the elements, 
+
+structurally separated enough to make them 
+
+sentencing factors, but then to --
+
+CHIEF JUSTICE ROBERTS: Those are all -- all 
+
+three of those are -- are pretty subtle ways for 
+
+Congress to change the view in Castillo. 
+
+MR. HORWICH: Well, I would agree that --
+
+CHIEF JUSTICE ROBERTS: Moving something 
+
+from the body of the paragraph to a separate section and 
+
+so on. 
+
+MR. HORWICH: Well, I would -- I would point 
+
+out -- of course, one has to -- one has to recognize what 
+
+Congress had before it when it -- when it made the 
+
+change, which is to say, when it -- when it embarked on 
+
+these revisions, there was a one-to-one circuit split on 
+
+the question. And by the time it had finished making 
+
+the changes, it was actually three to one in favor of 
+
+sentencing factor interpretation in the old statute. 
+
+25 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Now, I agree that if Castillo had been on 
+
+the books and Congress had said nothing about it, that 
+
+might be a basis to say that Congress was acquiescing in 
+
+that interpretation. But it's -- it's -- Congress was 
+
+certainly concerned with much more substantial issues in 
+
+the revisions. And the fact that it did not comment 
+
+further should not be a reason to -- to not pay 
+
+attention to the structural and textural changes that it 
+
+did make. 
+
+I’d like to reserve. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+JUSTICE SCALIA: We have tall lawyers today. 
+
+What is this, tall lawyer day? 
+
+(Laughter.) 
+
+CHIEF JUSTICE ROBERTS: Mr. Fisher. 
+
+ORAL ARGUMENT OF JEFFREY L. FISHER 
+
+ON BEHALF OF THE RESPONDENTS 
+
+MR. FISHER: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+I think it's important at the outset to set 
+
+the context for this case. The government cannot point 
+
+to a single defendant under this provision for the 
+
+conduct at issue who has ever received more than 
+
+10 years in prison absent the use of a machinegun. 
+
+We cited a long string of cases in the 
+
+26
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+O'Brien brief and the government's response in its reply 
+
+brief was silent. So, therefore, the government is here 
+
+today claiming that it is entitled, based on the fact of 
+
+a machinegun, to get 20 years more than any defendant 
+
+that perpetrated this conduct has ever gotten, and 
+
+indeed 18 more years than the government itself asked 
+
+the district judge in this case for, once the machinegun 
+
+provision was off the table, under the guise that this 
+
+is nothing more than a sentencing factor. 
+
+We think that this Court's statutory 
+
+interpretation jurisprudence as well, if necessary, this 
+
+Court's constitutional jurisprudence foreclose such a 
+
+result. 
+
+Let me start with statutory interpretation. 
+
+On the government's theory in 1998, Congress stepped in 
+
+and took a statute that made machinegun use an element 
+
+and transformed it into -- into a sentencing factor. In 
+
+other words, Congress, without a peep, a mutter, or 
+
+anything, and in -- in the course of doing something 
+
+entirely different, which was reacting to this Court's 
+
+Bailey decision, stepped in and took a fact that 
+
+formerly had to be proved to a jury beyond a reasonable 
+
+doubt to trigger a 30-year sentence and left that same 
+
+sentence in place but now allowed it to be proved to a 
+
+judge by a preponderance, based on a presentence report, 
+
+27 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+and, indeed, according to the government, also stripped 
+
+away the mens rea requirement that attached to the 
+
+statute when it was an element. 
+
+JUSTICE GINSBURG: How about the short --
+
+what is it, the one that gets 10 years, the 
+
+short-barreled rifle? That's -- that's -- those two 
+
+are together in the statute, and you said that it would 
+
+be startling because of the difference between 10 years 
+
+and the 30 years, but the short-barreled rifle is the 
+
+same amount of time in discharging, and discharging is a 
+
+sentencing factor. 
+
+MR. FISHER: We think, Justice Ginsburg, 
+
+that if this Court had to construe that statute in a 
+
+different case, that provision, it would find it's still 
+
+an element. Now, I grant that it’s a difference, a 
+
+very significant difference between 10 and 30 years, but 
+
+structurally it is an element. 
+
+And I think an -- a good way to go about 
+
+understanding this -- I heard my -- my opponent today say 
+
+that this would be indistinguishable from Harris or fly 
+
+in the face of Harris. 
+
+Well, there's three very important 
+
+differences between the machinegun provision at issue 
+
+here and the discharge provision in Dean and the 
+
+brandishing provision in Harris. The first difference 
+
+28 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+is that this an entirely separate subparagraph. 
+
+Now, if you imagine somebody amending the 
+
+statute and wanting to accomplish what the government 
+
+says was accomplished here, why wouldn't the firearm 
+
+type provisions just have been (iv) and (v) under 
+
+capital letter (A)? They’re not. 
+
+What the draftsperson did instead is break 
+
+them out into an entirely separate, stand-alone 
+
+provision. As the AUSA described it, when he charged 
+
+them in the alternative in the district of 
+
+Massachusetts, he said I think it's a greater and lesser 
+
+offense situation. And that's what we think. 
+
+JUSTICE SCALIA: Oh, I guess I'm not 
+
+following the ball here. I thought the government had 
+
+conceded that sub (i), sub (ii), sub (iii) under (A) are 
+
+not sentencing factors but are elements. Is that not --
+
+MR. FISHER: I don't understand that to be 
+
+what the government has said. I believe the 
+
+government's argument is that the big paragraph with 
+
+capital letter (A) sets forth the elements, and then sub 
+
+(i), (ii), and (iii) are merely sentencing factors. 
+
+JUSTICE GINSBURG: Now, they have to because 
+
+that's what Harris said, brandished --
+
+JUSTICE KENNEDY: That’s -- yes, that’s Harris. 
+
+JUSTICE GINSBURG: -- brandished is a 
+
+29 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+sentencing factor. 
+
+MR. FISHER: That's right. That's right, 
+
+Justice Ginsburg. 
+
+JUSTICE SCALIA: Well, that's even worse, 
+
+then. I agree with you. 
+
+(Laughter.) 
+
+MR. FISHER: So what sub (B) does, as I 
+
+said, is it creates a greater offense, and so, it’s 
+
+broken out in a way that incorporates the earlier 
+
+elements up above in the main paragraph by using the 
+
+phrase: If a “firearm possessed by a person 
+
+convicted of a violation of this subsection.” 
+
+That phrase, we believe, incorporates the 
+
+earlier elements. Remember in Harris this Court 
+
+emphasized that the brandishing provision just kept 
+
+going in the sentence and did not incorporate earlier 
+
+elements. 
+
+So when the government stands here today and 
+
+says, well, when you incorporate the earlier elements, 
+
+that shows it’s a sentencing factor, too, it seems to me a 
+
+situation of heads, I win; tails, you lose. 
+
+JUSTICE BREYER: No, their -- their -- their 
+
+basic argument is look at the statute. (A) has what is 
+
+undoubtedly a set of sentencing factors. Brandishing and 
+
+discharging are as traditional as they come. Then look 
+
+30 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+at (C), and you find some other ones that are sentencing 
+
+factors, because recidivism is as traditional as it 
+
+comes. And between those two they put (B). 
+
+So since the neighbors, (A) and (C), are 
+
+certainly sentencing, they must have meant (B) to be a 
+
+sentencing factor, too. I -- as I understand it, that 
+
+is one of their basic arguments. 
+
+MR. FISHER: Right. And let me -- let me 
+
+give two responses to that. First of all, if you --
+
+if you look again at the appendix of the government's 
+
+main brief, which is 1a and 2a, the guts of the 
+
+statute is the “use or carry” language or “possesses a firearm” 
+
+language in the main paragraph. 
+
+And then, the -- from the “possessed” language 
+
+down through sub (iii), what you have is the Bailey fix 
+
+right there. So, then what happens --
+
+JUSTICE SCALIA: And you believe there is a 
+
+background of life sentence? You agree with the 
+
+government that --
+
+MR. FISHER: I don't think that’s 
+
+necessarily the case, Justice Scalia. This Court --
+
+JUSTICE SCALIA: Well, it either is or 
+
+isn't. You --
+
+MR. FISHER: -- has said a couple of times 
+
+that this is a theoretical maximum sentence, but, surely, 
+
+31 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+if nothing else, the Sentencing Reform Act sets a 
+
+maximum sentence here if it's not just a straight 
+
+determinant sentence. 
+
+And we've argued at length in the O'Brien 
+
+brief that the reasonableness requirement under 3553 of 
+
+the Sentencing Reform Act would have to set a maximum 
+
+sentence. And for the reason I said at the outset, 
+
+given that no one has ever received more than 10 years 
+
+absent a machinegun here, certainly that maximum 
+
+sentence would be far less than life and far less than 
+
+30 years. But --
+
+JUSTICE KENNEDY: What's the -- I don't want 
+
+to interrupt your nice organization here. But what is 
+
+the principle, the general rule, that you articulate to 
+
+support the distinction between 30 being necessarily an 
+
+element and 7 a sentencing factor? What's the general 
+
+rule here? 
+
+MR. FISHER: Let me answer it --
+
+JUSTICE KENNEDY: Other than, this is 
+
+just --
+
+MR. FISHER: If I might say one more --
+
+JUSTICE KENNEDY: -- other than how awful this is. 
+
+MR. FISHER: If I might say one more 
+
+sentence to Justice Breyer, and then I’ll answer that. 
+
+JUSTICE KENNEDY: Please. 
+
+32 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. FISHER: Justice Breyer, the other thing 
+
+I'd point out is that, so therefore, once you make the 
+
+Bailey fix, you just come -- in the old statute, then 
+
+you come to the machinegun provision, and you just leave 
+
+it where it was. And, in fact, there are plenty of 
+
+statutes that we’ve cited in both briefs where there are 
+
+elements in the middle, sandwiched between sentencing 
+
+factors. 
+
+Now, Justice Kennedy, you asked the general 
+
+principle. The general principle is this, at least in 
+
+terms of this Court's Sixth Amendment law, is that: The 
+
+critical question to ask is whether the defendant could 
+
+receive the sentence the government seeks without the 
+
+fact at issue. 
+
+Seven years is a sentence the defendant here 
+
+could receive without the machinegun finding. Thirty years 
+
+is absolutely off bounds. 
+
+JUSTICE KENNEDY: Is that just based on 
+
+empirical studies or is there guideline support for 
+
+that? 
+
+MR. FISHER: There is both, Your Honor. Of 
+
+course, the guidelines are not binding --
+
+JUSTICE KENNEDY: I understand. I understand 
+
+that. 
+
+MR. FISHER: -- but the guideline sentences 
+
+33
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+as -- as to this statute are pegged exactly to the 
+
+mandatory minimums. 
+
+CHIEF JUSTICE ROBERTS: I'm sorry. Could 
+
+otherwise receive under what? The sentence -- you say 
+
+7 years is a sentence he could otherwise receive. 
+
+MR. FISHER: Under the facts that either we 
+
+prove to the jury or are admitted by the defendant. 
+
+So -- so in this case, the defendant could receive 7 
+
+years, and we've conceded that. 
+
+JUSTICE SCALIA: There must be some 
+
+statutory provision that you -- that you -- that you 
+
+rely upon. 
+
+MR. FISHER: Oh, certainly, Justice Scalia. 
+
+JUSTICE SCALIA: Where does 7 years come 
+
+from? 
+
+MR. FISHER: Seven years comes from -- comes 
+
+from the statute, for brandishing, which is what both 
+
+defendants had admitted that they did. Seven years --
+
+CHIEF JUSTICE ROBERTS: Yes, but we know 
+
+that's a sentencing factor. 
+
+MR. FISHER: But they've admitted it. So 
+
+they've waived any Sixth Amendment right as to that 
+
+sentencing factor. We're willing to concede that. But 
+
+then you go to the guidelines, which sets a 
+
+7-year -- a 7-year recommended sentence. 
+
+34 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Under this Court's jurisprudence following 
+
+Booker, we know that we take that recommendation and we 
+
+plug it into section 3553(a), which, if you want the 
+
+statutory language, directs that a sentence “no greater 
+
+than necessary to serve the following factors” be 
+
+introduced -- I'm sorry, be imposed. And when you look 
+
+at those factors, disparity is a factor this Court has 
+
+left in place and emphasized at every term since Booker, 
+
+and the guideline sentence. And when you put -- plug 
+
+those things into the facts here, we simply suggest 
+
+there is no way that it would be upheld as substantively 
+
+reasonable if the defendant got 30 years absent the 
+
+machinegun fact here. 
+
+And we’ve also cited in our brief several 
+
+places where the government itself makes this -- the 
+
+mirror image of the argument that I'm making in the 
+
+post-Booker, Gall, Rita world, when judges deviate 
+
+downward from the guidelines. They emphasize -- we 
+
+quoted one Eleventh Circuit case in our brief where the 
+
+government got overturned, as substantively unreasonable, 
+
+a downward variance from a guideline recommendation, 
+
+because no defendant had ever received such a low 
+
+sentence. 
+
+But I don't have to, of course, hang my hat 
+
+on this -- on the strict application of Apprendi here. 
+
+35
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+We think there's also an even deeper problem that 
+
+predates this Court's Apprendi jurisprudence, which was 
+
+flagged by this Court as early as McMillan, where this 
+
+Court said that if what Congress does is step in 
+
+and manipulate the elements of a crime in order 
+
+to relieve the government of its obligation to prove 
+
+ordinary and traditional elements, then we have a pure 
+
+due process problem, irrespective of any Sixth Amendment 
+
+problem. 
+
+Now, this Court has never found such a 
+
+problem, but I would emphasize that the --
+
+JUSTICE SOTOMAYOR: How do we find it with 
+
+this statute, if there’s a 10-year minimum/maximum 
+
+under (A) subdivision (iii) if the firearm is 
+
+discharged, and it's 10 years; and if it's a 
+
+short-barreled rifle under (B), it's also an equal 
+
+amount, of 10 years? I think that's what 
+
+Justice Ginsburg was pointing to. 
+
+So the question I have for you is: How do 
+
+we find substantive unreasonableness? 
+
+MR. FISHER: How do we find substantively 
+
+unreasonable after Booker? 
+
+JUSTICE SOTOMAYOR: Unreasonableness, that 
+
+there was an act of manipulation here, or intent to 
+
+manipulate. 
+
+36 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. FISHER: Well, if you’re asking me the 
+
+question -- I want to be sure I understand and answer the 
+
+question. If you’re asking me how applying the 
+
+principle this Court first articulated in McMillan, and 
+
+you apply it here --
+
+JUSTICE SOTOMAYOR: Exactly. 
+
+MR. FISHER: I don't think you have to look 
+
+any further -- well, there is two places you can look. 
+
+You can look both at the intent of Congress and the 
+
+effect of what it did. 
+
+The intent of Congress, at least as 
+
+hypothesized by the Solicitor General, is laid out at 
+
+page 33 of its merits brief, where it says: What 
+
+Congress was intending to do here is, quote, "simplify 
+
+and streamline guilt-stage proceedings" by relieving the 
+
+government of its burden to prove this case -- this fact 
+
+beyond a reasonable doubt to the judge. So that strikes 
+
+one as, as this Court put it in Harris, an intent to 
+
+evade the ordinary requirements in the Fifth and Sixth 
+
+Amendments. 
+
+Then, as to effect, you can look at what 
+
+I've also -- what I've already emphasized, which is that 
+
+this sentence simply is not otherwise available, absent 
+
+that fact. And that, on its own, ought to tell this Court 
+
+that it's dealing with an element. 
+
+37
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+But if it wants to dig even deeper, it could 
+
+-- it could describe it in terms of a 20-year increase 
+
+over what the defendant would otherwise get or what, 
+
+indeed, as we’ve said, anyone has ever gotten for this act, 
+
+absent a machinegun. It could do it in terms of percentage 
+
+and say it's 83 percent higher; the Court used the phrase once, 
+
+"tail wagging the dog." I don't think it matters 
+
+exactly what exact avenue this Court would pick. Again, 
+
+if it were doing a constitutional analysis -- I’m 
+
+speaking right now constitutionally instead of 
+
+statutorily -- it would all end up at the same place. 
+
+But I want to make sure that I understood 
+
+your question also, with due respect to you, Justice 
+
+Ginsburg, because what I was talking about was 10 years under 
+
+(A)(iii), of course, is a sentencing factor, as this Court 
+
+held in Dean, whereas under (B)(i), the same length of a 
+
+sentence might be an element. That was a matter -- that 
+
+was a statutory answer, and I think, as a matter of 
+
+statutory construction, which is, of course, the first 
+
+thing you're going to address in this case, what we 
+
+think we can win on without even reaching the 
+
+constitutional questions. And the differences would be, 
+
+apart from the same sentence, you have the structural 
+
+difference that I've emphasized. You have the tradition. 
+
+And let me say a word about tradition, if I 
+
+38
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+might. The government emphasizes the guidelines and 
+
+other kinds of statutes. When this Court applies the 
+
+tradition canon that it established in Almendarez-Torres 
+
+and Castillo, I don't know why you have to look any 
+
+further than Castillo itself to answer the tradition 
+
+question. In Jones, as this Court put it, the reason we 
+
+look to tradition is because if it's a close case, we’re 
+
+going to not assume that Congress intended a radical 
+
+departure from past practice. Well, the past practice 
+
+here is absolutely unequivocal. This Court held in 
+
+Castillo, 9-0, that Congress intended this to be an 
+
+element. 
+
+CHIEF JUSTICE ROBERTS: Well, the Court's --
+
+the Court's opinion in Castillo quite carefully noted 
+
+that it wasn't addressing this statute. I think it's a 
+
+little bit of a bait-and-switch to say that, well, 
+
+Castillo decides this case. 
+
+MR. FISHER: I don't contend that Castillo 
+
+absolutely decides the case. My contention that I was 
+
+trying to make is that when this Court looks to 
+
+tradition for purposes of construing the new amendments, 
+
+that Castillo gives the answer on -- at least on 
+
+tradition, at least as applying that particular 
+
+question. Because Congress, we know, intended it to be 
+
+an element at least until 1998. 
+
+39 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+But I think that even -- even if you were to 
+
+step back from the Castillo analysis itself and the 
+
+Castillo factors themselves, you would also, I think, do 
+
+well to give -- again, not dispositive, but -- but 
+
+careful treatment to Castillo, because Congress steps 
+
+in, of course, and amends statutes all the time. They 
+
+step in and they amend one portion of a statute, and 
+
+while they are at it, we know from the manuals that we've 
+
+cited and from the examples in the back of the O'Brien 
+
+brief that Congress often, while they’re amending one 
+
+part, they reorganize or reword other parts of the 
+
+statute. 
+
+And this Court, across its statutory 
+
+interpretation jurisprudence, within criminal law and 
+
+outside, has always said that once we say the law means 
+
+something, we're not going to assume that Congress 
+
+changed the law unless we get some sort of clear 
+
+indication from Congress that it -- that it intended to 
+
+change the law. 
+
+Now, here, as I think has been emphasized, 
+
+but I’ll just reiterate, there’s not a peep of 
+
+anything in the legislative history or anything to 
+
+suggest that Congress was -- was intending to change the 
+
+law here. And, in fact, it's not even a mere silence 
+
+case. We know quite clearly and affirmatively that 
+
+40
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Congress was intending to do something entirely 
+
+different, which was respond to this Court's Bailey 
+
+decision. 
+
+But even in the language -- and the only 
+
+thing I think the Solicitor General even has for it in 
+
+this case is the language and structure, which are some 
+
+different words and different placement that it can at 
+
+least build an argument off of, because the other four 
+
+of the five Castillo factors are entirely unchanged. 
+
+But even the language, we submit, is a far cry from the 
+
+kind of change this Court ought to require before it 
+
+does a 180-degree switch as to what it had said the 
+
+prior law meant. 
+
+Just for purposes of stability in the law, 
+
+if nothing else, I think this -- it behooves this Court 
+
+to take its prior decisions seriously and to -- and to 
+
+engage in a dialogue with Congress that encourages 
+
+Congress to be clear when it wants to change what the 
+
+prior law is. 
+
+JUSTICE SCALIA: The prior statute -- which 
+
+was 18 U.S.C. 924(c)(1), right? That did deal with 
+
+short-barreled rifle, short-barreled shotgun, 
+
+machinegun, and so forth, but that's -- that provision 
+
+didn't say anything about brandishing or discharge. 
+
+Where -- what was -- how were they treated under the 
+
+41 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+prior law? 
+
+MR. FISHER: They -- as you say, they were 
+
+not in the statute itself. My understanding is that 
+
+judges as -- on an ad hoc basis, would have treated 
+
+those as sentencing factors. 
+
+And what Congress did -- when it came in to 
+
+respond to this Court's Bailey decision, I think it 
+
+codified all of the different manners of using the gun 
+
+in the context of one of these crimes. So it not just 
+
+dealt with, yes, possessing ought to be covered, but it 
+
+talked about other manners, brandishing and discharging. 
+
+In Castillo, this Court emphasized again the big 
+
+difference between manner of using a gun and the type of 
+
+firearm which lies at the core of this offense. 
+
+If I would turn -- if I would leave the 
+
+Court with nothing else, let me emphasize again to the 
+
+Court the difference between this statute, which I think 
+
+the government wants you to think is no different in 
+
+intent, effect, or operation than the two that this 
+
+Court prior -- dealt with in Harris, as a matter of both 
+
+statutory construction and constitutional law, and in 
+
+McMillan, as a matter of constitutional law. 
+
+What this Court emphasized in both of those 
+
+cases was that there was a preexisting law on the books 
+
+that criminalized certain activity. And then a 
+
+42 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+legislature later stepped in and set a mandatory minimum 
+
+for a particular fact that could accompany the crime at 
+
+issue. And it did so in a very minor way. For example, 
+
+in Pennsylvania, the various crimes covered by the 
+
+firearm mandatory minimum in that case gave 10-, 20-year 
+
+sentences routinely, and all the Pennsylvania 
+
+legislature did was step in and say: If he uses a gun, 
+
+we want at least 5 years. And in Harris, as I've 
+
+just emphasized, I think, in discussing with 
+
+Justice Scalia, the Court dealt with a bump of just 2 
+
+years. Again, what judges were already customarily 
+
+doing, I think, under the statute. 
+
+Here, this is entirely and dramatically 
+
+different. Here, the fact allows a sentence -- indeed, 
+
+requires a sentence -- that is 20 years longer than 
+
+anyone has ever gotten for this conduct at issue. That 
+
+is a difference not just -- it's not a minor difference. 
+
+It is a categorically different difference that we think 
+
+is enough, combined with other principles of statutory 
+
+and constitutional interpretation, to -- I'm sorry, 
+
+statutory interpretation to resolve this case on the 
+
+statute alone. 
+
+But if you need to look to the Constitution, 
+
+we think that the Sixth Amendment, either as the 
+
+bright-line rule articulated in Apprendi dictates that 
+
+43 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+any fact that allows a greater sentence than the 
+
+defendant could otherwise receive is subject to the 
+
+Sixth Amendment, or sort of plain, pure due process, 
+
+tail-that-wags-the-dog analysis, that this Court 
+
+emphasized in McMillan -- either of those would be 
+
+enough, and indeed require, a finding of 
+
+unconstitutionality here and a finding this Court 
+
+can avoid. 
+
+And if nothing else, Justice Breyer, I would 
+
+say that we think that this case can be resolved on statutory 
+
+grounds. We think there are narrower constitutional 
+
+arguments that would either require reading it narrowly 
+
+or striking it down if you had to, on even narrower 
+
+grounds. But if nothing else, then we would ask this 
+
+Court to revisit Harris, if necessary. 
+
+We don't think it's necessary to resolve the 
+
+case for us here, but we think that would be appropriate 
+
+if it -- if it needed to get there. 
+
+JUSTICE KENNEDY: It's a collateral point: 
+
+Does the government have to show, or does the -- don't 
+
+you have to find that the machinegun is operable? 
+
+MR. FISHER: I assume so, but I don't know 
+
+the specific answer to that, Justice Kennedy. What 
+
+there is a dispute about, of course, is whether the --
+
+if it were a sentencing factor, whether the government 
+
+44 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+has to prove knowledge. And we do emphasize that that 
+
+would be an alternative basis for this Court to decide 
+
+this case, by saying you at least have to prove 
+
+knowledge even if it’s a sentencing factor. 
+
+And let me just leave you with this, unless 
+
+there are any further questions: The government makes a 
+
+couple points in its reply brief suggesting that certain 
+
+arguments were not preserved or made properly in this 
+
+case. The knowledge argument that I just referred to is 
+
+raised in the brief in opposition for Mr. O'Brien at 
+
+pages 23 to 25. So under rule 15 of this Court, that 
+
+argument was properly presented at the cert stage. You 
+
+will also find that argument at pages 34 to 37 of the Joint 
+
+Appendix. 
+
+Also with respect to the Sixth Amendment 
+
+substantive reasonableness as-applied argument, the 
+
+government suggests that for some reason, that would be 
+
+inappropriate for this Court to reach or rely on. 
+
+Again, we disagree. First of all, we can't understand 
+
+why it would be inappropriate to reach or rely on that 
+
+constitutional argument, whereas it is apparently 
+
+appropriate for this Court to address the McMillan 
+
+argument or the “overrule Harris” argument. They’re 
+
+all three constitutional arguments that are present in 
+
+this case. And, again, if there were any doubt they 
+
+45 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+were raised below, pages 38 and 39 of Mr. Burgess's 
+
+First Circuit brief, pages 32 to 35 of Mr. O'Brien's 
+
+First Circuit brief, and in the brief in opposition, 
+
+which the government, in its reply brief at the cert 
+
+stage, responded to without claiming any error or any 
+
+waiver problems. So we think absolutely all the 
+
+arguments that are made in the blue -- in the red briefs 
+
+are clearly before you. 
+
+If the Court has any additional questions, I 
+
+would be happy to entertain them. Otherwise, I am 
+
+prepared to submit the case. 
+
+CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. Fisher. 
+
+Mr. Horwich, you have 4 minutes remaining. 
+
+REBUTTAL ARGUMENT OF BENJAMIN HORWICH 
+
+ON BEHALF OF THE PETITIONER 
+
+MR. HORWICH: Thank you. 
+
+Justice Kennedy, just to answer your 
+
+question: The definition of "firearm" in 921(a)(3) 
+
+includes a weapon that is designed to expel a 
+
+projectile, so one that can be restored to do so also 
+
+qualifies as a firearm for purposes of the statute. 
+
+My friend made the comment that brandishing 
+
+and discharge would have been treated, under the old 
+
+statute, as sentencing factors. But they couldn't be, 
+
+46 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+because the old statute had determinant sentences, and 
+
+brandishing and discharge weren't relevant to it. So 
+
+there wouldn't be a higher sentence for those. 
+
+And that -- that reveals sort of a basic 
+
+flaw in this notion that somehow those can be treated as 
+
+sentencing factors, but Congress wasn't embarking on a 
+
+general litany of sentencing factors. Congress inserted 
+
+those to be sentencing factors, as the Court recognized 
+
+in Harris. Then what it did is move the firearm-type 
+
+provisions next in line, because that's what it thought 
+
+of them as, not as elements. It moved them away. And 
+
+then it goes on to recidivism, which is also a sentencing 
+
+factor. 
+
+So the overall result, then, of the statute 
+
+is that it's sort of an instruction manual. The first 
+
+thing that comes up is the elements; that's what the 
+
+judge uses to charge the jury or take a plea. That 
+
+ends. The statute takes up the next topic, which is 
+
+sentencing. The judge needs to ascertain the limits of 
+
+his discretion. And then the statute ends with some 
+
+technical considerations. 
+
+That -- that approach is entirely in line 
+
+with the sentencing factor tradition, and that's --
+
+that seems to be what Congress intended. But my friend's 
+
+understanding of the statute is sort of this disorganized 
+
+47 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+jumble, and he's making very much of the idea that when 
+
+Congress revises a statute, it tries to confront -- it 
+
+tries to make it better, on his view. 
+
+JUSTICE BREYER: Is there anything 
+
+other -- do we have anything other than the statute 
+
+itself? When I looked at the statute itself, I thought, 
+
+well, all that's happened here is nobody's thought of 
+
+this issue at all; nobody's read Castillo. What really 
+
+happened is somebody in the legislative drafting section 
+
+was focusing on what he said they were focusing on, 
+
+Bailey, and then they have a form manual. So they 
+
+followed the form manual. 
+
+Now, is there anything to suggest that isn't 
+
+what happened? 
+
+MR. HORWICH: Well, there is no legislative 
+
+history, but there is the fact that the form manual says 
+
+if you’re going to embark on this, here are some ideas 
+
+for how to do it. But it doesn't tell you -- it does 
+
+not tell Congress substantively what it should do. 
+
+Someone had to make a choice to write that introductory 
+
+language, "a person convicted of a violation." And that 
+
+is what Congress passed, and so Congress intended that 
+
+those things, firearm type, that follow that are 
+
+relevant after the person has been convicted of a 
+
+violation. 
+
+48 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+One final answer to your question 
+
+Justice Scalia, about the life maximum. This Court 
+
+held -- in Custis v. United States interpreted the same 
+
+language, “not less than” a certain number of years. 
+
+That's in 924(e) of the Armed Career Criminal Act. The 
+
+Court held that to have a life maximum sentence there. 
+
+So I think the same would apply -- the same would apply 
+
+here. 
+
+And so the final thing I would want the 
+
+Court to take away then from this is that Congress is 
+
+using firearm type to channel a sentencing judge's 
+
+discretion. The life maximum exists in all cases. 
+
+There have been cases sentenced up to life even where 
+
+that was far above the minimum. And when Congress does 
+
+that, it uses a sentencing factor. It doesn't create 
+
+greater and lesser included offenses for the jury; it 
+
+does it by addressing the person who is in charge of 
+
+sentencing, which is the judge, and giving him a rule of 
+
+decision. That's what the text and the structure 
+
+indicate here and that's what the Court should hold. 
+
+Thank you. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+The case is submitted. 
+
+(Whereupon, at 12:05 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+49
+
+Alderson Reporting Company 
+
+
+
+A 
+above-entitled 
+
+1:11 49:25 
+absent 26:24 
+
+32:9 35:12 
+37:23 38:5 
+
+absolutely 14:1 
+33:17 39:10,19 
+46:6 
+
+accept 20:4,5 
+22:13 
+
+accompany 43:2 
+accomplish 29:3 
+accomplished 
+
+29:4 
+accurate 4:21 
+acknowledged 
+
+10:19 
+acquiescing 26:3 
+act 32:1,6 36:24 
+
+38:4 49:5 
+activity 42:25 
+ad 42:4 
+add 16:11,12,12 
+added 16:9,11 
+
+22:2 
+adding 22:1 
+addition 17:25 
+
+18:12,14,19,23 
+19:9 
+
+additional 46:9 
+address 38:20 
+
+45:22 
+addresses 3:14 
+addressing 
+
+39:15 49:17 
+add-on 14:10,12 
+
+17:6 22:6,6 
+add-ons 16:14,19 
+adjust21:24 
+admitted 34:7,18 
+
+34:21 
+affirmatively 
+
+40:25 
+agree 4:5,20 5:19 
+
+6:23 7:9 10:3 
+19:11 25:14 
+26:1 30:5 31:18 
+
+allowed 27:24 
+allows 43:14 44:1 
+alluded 25:1 
+Almendarez-T... 
+
+39:3 
+alternative 29:10 
+
+45:2 
+amend 16:25 
+
+40:7 
+amending 29:2 
+
+40:10 
+Amendment 
+
+15:11 16:3 
+33:11 34:22 
+36:8 43:24 44:3 
+45:15 
+
+amendments 
+37:20 39:21 
+
+amends 40:6 
+amount 28:10 
+
+36:17 
+analysis 38:9 
+
+40:2 44:4 
+answer 6:11 
+
+14:22,22 20:17 
+21:14 32:18,24 
+37:2 38:18 39:5 
+39:22 44:23 
+46:18 49:1 
+
+answers 10:14 
+apart 38:23 
+apparently 24:5 
+
+45:21 
+appeals 6:5 
+APPEARAN... 
+
+1:14 
+appears 4:6 7:3,3 
+appendix 8:17 
+
+8:20 17:17 
+31:10 45:14 
+
+application 12:8 
+35:25 
+
+applied 12:22 
+
+OfficialOfficial
+
+Page 50 
+
+applies 15:3 39:2 
+apply 4:17,19 
+
+10:25 37:5 49:7 
+49:7 
+
+applying 37:3 
+39:23 
+
+Apprendi 20:1,3 
+20:4,5,12,24 
+21:3,6 23:9 
+35:25 36:2 
+43:25 
+
+approach 18:8 
+47:22 
+
+appropriate 15:8 
+19:5 44:17 
+45:22 
+
+argued 21:9 32:4 
+argument 1:12 
+
+2:2,7 3:4,6 
+20:13,15,19 
+26:16 29:19 
+30:23 35:16 
+41:8 45:9,12,13 
+45:16,21,23,23 
+46:15 
+
+arguments 31:7 
+44:12 45:8,24 
+46:7 
+
+Armed 49:5 
+ARTHUR 1:6 
+articulate 32:14 
+articulated 37:4 
+
+43:25 
+ascertain 47:19 
+aside 22:12 
+asked 27:6 33:9 
+asking 10:8 37:1 
+
+37:3 
+Assistant 1:15 
+assume 18:8,18 
+
+39:8 40:16 
+44:22 
+
+assumption 15:7 
+assumptions 
+
+10:11 
+as-applied 45:16 
+
+attached 28:2 
+attempted 14:8 
+attention 26:8 
+AUSA 29:9 
+available 23:22 
+
+37:23 
+avenue 38:8 
+avoid 44:8 
+awful 32:22 
+a.m 1:13 3:2 
+
+B 
+B 3:24 4:10,23 
+
+5:13 6:16 7:10 
+7:10 8:4 10:7 
+11:9 12:8 18:20 
+18:21 24:22,22 
+30:7 31:3,5 
+36:16 38:16 
+
+back 40:2,9 
+background 
+
+23:8 31:18 
+bad 14:13 
+Bailey 27:21 
+
+31:15 33:3 41:2 
+42:7 48:11 
+
+bait-and-switch 
+39:16 
+
+ball 29:14 
+base 11:24 13:4 
+based 27:3,25 
+
+33:18 
+basic 23:8 30:23 
+
+31:7 47:4 
+basically 20:23 
+basis 26:3 42:4 
+
+45:2 
+beginning 4:10 
+behalf 1:17,19 
+
+2:4,6,9 3:7 
+21:10 26:17 
+46:16 
+
+behooves 41:15 
+believe 21:8 
+
+22:14 29:18 
+30:13 31:17 
+
+belonged 22:17 
+belongs 22:16 
+BENJAMIN 
+
+1:15 2:3,8 3:6 
+46:15 
+
+better 48:3 
+beyond 27:22 
+
+37:17 
+big 11:21 29:19 
+
+42:12 
+binding 33:22 
+bit 39:16 
+blah 18:17,17,17 
+
+18:17,17,17 
+blue 46:7 
+body 25:16 
+Booker 12:24 
+
+13:2 23:11 35:2 
+35:8 36:22 
+
+Booker/Fanfan 
+12:21 
+
+books 21:23 26:2 
+42:24 
+
+Boudin 21:22 
+bounds 33:17 
+brandished 4:16 
+
+29:23,25 
+brandishing 6:3 
+
+10:2,18,23 25:6 
+28:25 30:15,24 
+34:17 41:24 
+42:11 46:23 
+47:2 
+
+break 11:2 29:7 
+breath 9:17 
+Breyer 7:22 9:11 
+
+10:8 19:18 
+20:23 21:8 
+30:22 32:24 
+33:1 44:9 48:4 
+
+brief 8:20,23 9:1 
+17:19,21 24:9 
+27:1,2 31:11 
+32:5 35:14,19 
+37:13 40:10 
+45:7,10 46:2,3 
+
+Alderson Reporting CompanyAlderson Reporting Company
+
+
+
+Official 
+
+Page 51 
+
+46:3,4 25:13 26:1 39:4 35:14 40:9 25:13,20 26:2,3 4:17,18 14:23 
+briefing 20:19 39:5,11,14,17 claim 4:23,25 26:4 27:15,18 19:1,5 24:19 
+briefs 33:6 46:7 39:18,22 40:2,3 claiming 27:3 36:4 37:9,11,14 core 42:14 
+bright-line 43:25 40:5 41:9 42:12 46:5 39:8,11,24 40:5 correct 21:6 
+broken 30:9 48:8 clauses 24:22 40:10,16,18,23 counsel 23:23,23 
+build 41:8 categorically clear 18:24 40:17 41:1,17,18 42:6 26:11 49:22 
+bump 43:10 43:18 41:18 47:6,7,24 48:2 couple 31:24 
+burden 37:16 cert 45:12 46:4 clearer 21:2 48:19,22,22 45:7 
+BURGESS 1:6 certain 22:20,21 clearly 40:25 49:10,14 course 4:1 6:1,24 
+Burgess's 46:1 42:25 45:7 49:4 46:8 consecutive 9:2 25:19 27:19 
+
+C 
+certainly 4:6,21 
+
+4:25 5:20 6:2 
+close 39:7 
+codified 42:8 
+
+19:14 
+consider 20:20 
+
+33:22 35:24 
+38:15,19 40:6 
+
+c 2:1 3:1 6:7 7:3 7:12 11:4 12:24 coexist21:3,4 20:20 44:24 
+7:10 8:6 11:1,7 13:13,21 16:21 collateral 44:19 consideration court 1:1,12 3:9 
+16:7,15 17:2 20:18 21:12 combined 43:19 12:6 7:8 8:16 9:13 
+18:13 31:1,4 22:5 26:5 31:5 come 30:25 33:3 considerations 10:22 20:10,19 
+
+California 1:18 32:9 34:13 33:4 34:14 19:15 47:21 22:14 25:3 
+canon 39:3 cetera 5:14 17:13 comes 31:3 34:16 Constitution 26:19 28:13 
+capital 6:15 29:6 17:13,24 18:2 34:16 47:16 43:23 30:14 31:21 
+
+29:20 20:2 comment 26:6 constitutional 35:7 36:3,4,10 
+Career 49:5 change 8:10 46:23 27:12 38:9,22 37:4,18,24 38:6 
+careful 40:5 20:24 24:16,17 commit 14:14 42:21,22 43:20 38:8,15 39:2,6 
+carefully 39:14 25:1,13,21 compare 17:8 44:11 45:21,24 39:10,20 40:13 
+carries 17:14,25 40:19,23 41:11 complete 11:4 constitutionally 41:11,15 42:12 
+carry 16:23 41:18 complicated 38:10 42:16,17,20,23 
+
+31:12 changed 10:11 19:19 construction 43:10 44:4,7,15 
+carrying 3:11 18:9 40:17 concede 34:23 38:19 42:21 45:2,11,18,22 
+
+4:17 5:13 9:16 changes 8:12 conceded 29:15 construe 28:13 46:9 47:8 49:2 
+case 3:4 13:2,22 25:24 26:8 34:9 construing 39:21 49:6,10,20 
+
+16:4 20:13 channel 3:15 conceptually contend 39:18 courts 6:5 12:24 
+26:21 27:7 22:19,24 24:8 9:24 contention 39:19 13:12 
+28:14 31:21 24:12 49:11 concerned 22:1 context 26:21 Court's 6:2 9:19 
+34:8 35:19 charge 47:17 26:5 42:9 13:14 16:21 
+37:16 38:20 49:17 concerns 22:4 continue 18:8 25:5 27:10,12 
+39:7,17,19 charged 24:20 conclusion 10:10 contrary 7:13 27:20 33:11 
+40:25 41:6 43:5 29:9 conduct 26:23 9:12 11:11 35:1 36:2 39:13 
+43:21 44:10,17 Chief 3:3,8 23:23 27:5 43:16 13:25 39:14 41:2 42:7 
+45:3,9,25 46:11 24:2,14 25:11 confront 48:2 contrast16:24 cover 20:3 
+49:23,24 25:15 26:11,15 confronted 22:15 conventional covered 42:10 
+
+cases 3:16 7:20 26:18 34:3,19 Congress 6:14 5:21 43:4 
+26:25 42:24 39:13 46:12 6:24 7:16 8:12 convicted 3:17 create 49:15 
+49:12,13 49:22 9:23,25 10:11 4:11 5:7,13 creates 30:8 
+
+Castillo 7:24 choice 48:20 11:15 12:3 6:17 16:20 crime 3:11,12,13 
+8:16 9:13,13,19 circuit 25:22 15:13,18 18:7 24:18 30:12 8:1 10:3 14:8 
+10:10,12 21:23 35:19 46:2,3 21:24 22:1,23 48:21,24 14:12,15,18 
+21:25 22:5,9,17 cited 26:25 33:6 23:10 24:5,11 conviction 4:13 16:9,10,15 17:1 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 52 
+
+17:4,5,24 18:1 1:16 28:24 41:24 E 2:1 3:1,1 ends 47:18,20 
+18:15 19:23,24 departure 39:9 46:24 47:2 earlier 23:22 engage 14:15 
+36:5 43:2 describe 14:11 discharged 4:17 25:1 30:9,14,16 41:17 
+
+crimes 8:4 42:9 38:2 36:15 30:19 entertain 46:10 
+43:4 described 19:6 discharging early 36:3 entire 7:1 
+
+criminal 12:1 29:9 28:10,10 30:25 easier 19:20 entirely 6:6 
+23:9 40:14 49:5 describes 17:9 42:11 easily 21:25 22:16 27:20 
+
+criminalized describing 16:18 discretion 3:16 effect 11:22 29:1,8 41:1,9 
+42:25 17:10,23 22:20 23:4,15 37:10,21 42:19 43:13 47:22 
+
+critical 33:12 designed 46:20 24:8,12 47:20 either 31:22 34:6 entitled 27:3 
+cry 41:10 determinant 49:12 43:24 44:5,12 equal 36:16 
+Custis 49:3 11:24 32:3 47:1 discussing 6:22 element 7:8,10 error 46:5 
+customarily determinate 43:9 7:11 9:21 10:13 ESQ 1:15,18 2:3 
+
+43:11 18:4 disorganized 11:12 27:16 2:5,8 
+
+D 
+deviate 35:17 
+devoted 20:15 
+
+47:25 
+disparity 35:7 
+
+28:3,15,17 
+32:16 37:25 
+
+essentially 24:25 
+established 39:3 
+
+D 3:1 7:4 19:12 dialogue 41:17 dispositive 40:4 38:17 39:12,25 et 5:14 17:13,13 
+24:17 dictates 43:25 dispute 44:24 elements 3:24 17:24 18:1 20:2 
+
+dangerous 14:14 difference 8:10 distinct 19:16 4:23,24 5:1,25 evade 37:19 
+day 26:13 9:22 11:21 distinction 21:20 9:15,24 10:3,5 exact 38:8 
+de 16:5 24:13 25:3 28:8 32:15 10:5,17,24 exactly 17:9,22 
+deal 16:22 41:21 28:15,16,25 distinguishing 24:20 25:2,7,8 34:1 37:6 38:8 
+dealing 37:25 38:24 42:13,17 5:25 29:16,20 30:10 example 43:3 
+deals 3:24,24 43:17,17,18 district 27:7 30:14,17,19 examples 40:9 
+dealt 42:10,20 differences 9:6 29:10 33:7 36:5,7 exclusively 24:6 
+
+43:10 28:23 38:22 dog 38:7 47:11,16 exists 19:10 
+Dean 10:19 28:24 different 7:17,20 doing 27:19 38:9 elevated 13:1 49:12 
+
+38:16 11:19 22:9,11 43:12 Eleventh 35:19 expel 46:20 
+decide 20:2 45:2 22:16 27:20 doubt 27:23 embark 48:17 exposed 16:3,7 
+decided 21:23 28:14 41:2,7,7 37:17 45:25 embarked 25:21 expressed 18:20 
+decides 39:17,19 42:8,18 43:14 downward 35:18 embarking 47:6 22:4 
+decision 27:21 43:18 35:21 emphasize 35:18 extent 4:7 
+
+41:3 42:7 49:19 
+decisions 41:16 
+
+difficult 19:19 
+dig 38:1 
+
+drafting 5:21 
+48:9 
+
+36:11 42:16 
+45:1 F 
+
+deeper 36:1 38:1 direct 4:7 draftsperson emphasized face 28:21 
+defendant 26:22 directed 14:22 29:7 30:15 35:8 fact 19:24 20:7 
+
+27:4 33:12,15 directs 35:4 dramatically 37:22 38:24 24:17 26:6 27:3 
+34:7,8 35:12,22 disagree 11:13 43:13 40:20 42:12,23 27:21 33:5,14 
+38:3 44:2 14:1 15:16 drove 9:19 43:9 44:5 35:13 37:16,24 
+
+defendants 22:10 23:7,19 drug 3:12 14:14 emphasizes 39:1 40:24 43:2,14 
+34:18 45:19 16:10 17:4 empirical 33:19 44:1 48:16 
+
+defined 9:15 disagreement due 36:8 38:13 enacted 12:3 facto 16:5 
+defines 16:20 22:13 44:3 enactment 11:19 factor 11:8,11 
+defining 3:10 discern 10:6 D.C 1:8,16 11:20 19:22,25 24:13 
+definition 46:19 
+Department 
+
+discharge 6:3 
+10:19,23 25:6 E 
+
+encourages 
+41:17 
+
+25:25 27:9,17 
+28:11 30:1,20 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 53 
+
+31:6 32:16 46:19,22 48:23 further 26:7 37:8 27:1,15 29:19 held 6:5 7:8 
+34:20,23 35:7 49:11 39:5 45:6 31:10 10:19 38:16 
+38:15 44:25 firearm-centric furtherance government’s 39:10 49:3,6 
+45:4 47:13,23 12:1 18:13 17:21 helpful 9:5 17:8 
+49:15 
+
+factors 6:1,4,9 
+firearm-type 
+
+12:4 47:9 G 
+grant 28:15 
+greater 3:18 
+
+higher 14:3 15:8 
+38:6 47:3 
+
+8:5 10:6,7,18 first3:22 9:10 G 3:1 29:11 30:8 35:4 historically 
+10:20,21,25 10:15 20:17 Gall 35:17 44:1 49:16 10:12 
+11:5 24:6 25:7 22:12 28:25 general 1:16 grounds 44:11 history 8:9 10:9 
+25:10 29:16,21 31:9 37:4 38:19 32:14,16 33:9 44:14 40:22 48:16 
+30:24 31:2 33:8 45:19 46:2,3 33:10 37:12 guess 7:9 20:5 hoc 42:4 
+35:5,7 40:3 47:15 41:5 47:7 29:13 hold 49:20 
+41:9 42:5 46:25 Fisher 1:18 2:5 generally 7:15 guideline 11:24 holding 6:2 
+47:6,7,8 26:15,16,18 Ginsburg 14:4,7 33:19,25 35:9 13:14 16:22 
+
+facts 22:21 34:6 28:12 29:17 14:16,25 15:4 35:21 25:5 
+35:10 30:2,7 31:8,20 21:21 23:25 guidelines 11:22 holds 19:8 23:11 
+
+far 24:11 25:6,8 31:24 32:18,21 28:4,12 29:22 11:23,25 12:5,8 Honor 33:21 
+32:10,10 41:10 32:23 33:1,21 29:25 30:3 12:9,11,12,14 Horwich 1:15 2:3 
+49:14 33:25 34:6,13 36:18 38:14 12:15,22 33:22 2:8 3:5,6,8 4:1 
+
+farther 11:1 34:16,21 36:21 give 17:15 23:16 34:24 35:18 4:5,20,25 5:11 
+fashion 21:4 37:1,7 39:18 23:18,20 24:7 39:1 5:19 6:21 7:6 
+favor 25:24 42:2 44:22 31:9 40:4 guilt-stage 37:15 7:12 8:11,19,24 
+February 1:9 46:13 given 32:8 guise 27:8 9:5 10:14 11:13 
+Federal 12:1 five 41:9 gives 39:22 gun 42:8,13 43:7 12:11,18,23 
+
+14:12 fix 31:15 33:3 giving 3:15 49:18 guts 31:11 13:11,21 14:1,6 
+feel 20:14 
+Fifth 37:19 
+
+flagged 36:3 
+flaw 47:5 
+
+go 28:18 34:24 
+goes 9:17 47:12 H 
+
+14:11,19 15:2,6 
+15:16,21,25 
+
+final 49:1,9 fly 28:20 going 4:7,8 15:14 half 24:4 16:17 17:7,12 
+find 8:8 15:14,19 focusing 48:10 24:21 30:16 hang 35:24 17:16,20 18:4,7 
+
+19:24 28:14 48:10 38:20 39:8 happened 48:7,9 18:22 19:3,11 
+31:1 36:12,20 follow 48:23 40:16 48:17 48:14 20:17,25 21:12 
+36:21 44:21 followed 48:12 good 28:18 happens 31:16 21:15,17 22:10 
+45:13 following 21:7 gotten 27:5 38:4 happy 46:10 23:2,7,19 24:1 
+
+finding 15:17 22:11 29:14 43:16 Harris 6:2 10:19 24:3,15 25:14 
+33:16 44:6,7 35:1,5 government 10:23 13:14 25:18 46:14,15 
+
+finish 10:17 foreclose 27:12 21:8 26:21 27:2 20:1,3,21 21:2 46:17 48:15 
+finished 25:23 forgetting 5:10 27:6 28:1 29:3 21:5,20 25:4,5 HOWICH 9:9 
+firearm 3:11,19 form 48:11,12,16 29:14,18 30:18 28:20,21,25 huge 22:5 
+
+4:11,16,16,18 formerly 27:22 31:19 33:13 29:23,24 30:14 hypothesized 
+5:3,4 6:16 9:11 forth 6:18 29:20 35:15,20 36:6 37:18 42:20 37:12 
+9:14,17 12:2,5 
+13:17 17:14,25 
+
+41:23 
+found 36:10 
+
+37:16 39:1 
+42:18 44:20,25 
+
+43:8 44:15 
+45:23 47:9 I 
+
+18:14,17 22:18 four 41:8 45:6,17 46:4 hat 35:24 idea 48:1 
+25:2 29:4 30:11 friend 46:23 government's heads 30:21 ideas 48:17 
+31:12 36:14 friend's 47:24 8:20,25 10:16 hear 3:3 identified 10:12 
+42:14 43:5 full 23:21 17:19,21 21:10 heard 28:19 ii 4:15 19:12 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 54 
+
+24:22 29:15,21 intend 10:7 23:16,18,20 36:23 37:6 lawyer 26:13 
+iii 4:15 29:15,21 intended 39:8,11 24:7 27:7,25 38:13 39:13 lawyers 26:12 
+
+31:15 36:14 39:24 40:18 37:17 47:17,19 41:20 43:10 leave 33:4 42:15 
+38:15 47:24 48:22 49:18 44:9,19,23 45:5 
+
+image 35:16 intending 37:14 judges 35:17 46:12,18 48:4 leaves 18:11,11 
+imagine 29:2 40:23 41:1 42:4 43:11 49:2,22 left 27:23 35:8 
+implication intent 8:9 36:24 judge's 22:19 justification legislative 10:9 
+
+16:21 37:9,11,18 23:4,15 24:12 21:19 40:22 48:9,15 
+implicit 18:19,20 
+implied 13:2 
+
+42:19 
+interpretation 
+
+49:11 
+jumble 48:1 K 
+
+legislature 43:1 
+43:7 
+
+15:18,19,20 25:25 26:4 jump 22:6 Kennedy 17:15 length 32:4 38:16 
+important 19:21 27:11,14 40:14 jurisprudence 29:24 32:12,19 lesser 29:11 
+
+26:20 28:22 43:20,21 27:11,12 35:1 32:22,25 33:9 49:16 
+impose 16:8 interpreted 49:3 36:2 40:14 33:18,23 44:19 letter 29:6,20 
+imposed 12:24 interrupt 32:13 jury 19:24 24:20 44:23 46:18 let's 12:7,7 
+
+13:3,5,5 14:24 introduced 5:5 27:22 34:7 kept 10:1 18:8 level 11:25 12:12 
+19:13 35:6 35:6 47:17 49:16 30:15 lies 42:14 
+
+imposing 14:22 introduction Justice 1:16 3:3 kind 41:11 life 7:19 12:25 
+impression 9:19 6:15 3:8,21 4:2,14 kinds 39:2 13:3,6,7,10,16 
+imprisonment introductory 4:22 5:9,12,24 know 10:3 15:22 13:19,20,24 
+
+18:10 19:7,13 18:18 48:20 6:13 7:5,9,22 20:9 22:1 24:11 14:4,17,22 
+inappropriate irrational 5:16 8:18,22,25 9:4 34:19 35:2 39:4 15:18 19:18 
+
+45:18,20 irreconcilable 9:8,11 10:1,8 39:24 40:8,25 22:14 31:18 
+inclined 23:16 25:4 11:6,14 12:7,14 44:22 32:10 49:2,6,12 
+included 49:16 irrespective 36:8 12:20 13:7,18 knowing 16:3 49:13 
+includes 46:20 issue 5:4 20:10 13:23 14:4,7,16 knowledge 45:1 light 21:6 
+incorporate 20:11 21:10 14:21,25 15:4 45:4,9 limits 47:19 
+
+30:16,19 
+incorporates 
+
+30:9,13 
+increase 38:2 
+indeterminate 
+
+23:13 
+indicate 10:24 
+
+11:15 49:20 
+indicating 23:22 
+indication 40:18 
+indiscretion 23:6 
+indistinguisha... 
+
+28:20 
+inference 6:6 
+
+7:13 
+initial 9:14 
+inserted 47:7 
+instruction 
+
+47:15 
+
+26:23 28:23 
+33:14 43:3,16 
+48:8 
+
+issues 26:5 
+it’s 4:8 28:15 
+
+30:8,20 45:4 
+iv 29:5 
+I’d 26:10 
+I’ll 16:25 32:24 
+
+40:21 
+I’m 5:2 38:9 
+
+J 
+JEFFREY 1:18 
+
+2:5 26:16 
+Joint 45:13 
+Jones 39:6 
+judge 3:15 12:6 
+
+15:14,17 21:22 
+
+15:10,19,22,24 
+16:1,2,6,25 
+17:11,15,18,23 
+18:3,6,12 19:2 
+19:9,18,20 
+20:23 21:8,14 
+21:21 22:13,25 
+23:3,12,23,24 
+24:2,14 25:11 
+25:15 26:11,12 
+26:15,18 28:4 
+28:12 29:13,22 
+29:24,25 30:3,4 
+30:22 31:17,21 
+31:22 32:12,19 
+32:22,24,25 
+33:1,9,18,23 
+34:3,10,13,14 
+34:19 36:12,18 
+
+L 
+L 1:18 2:5 26:16 
+laid 37:12 
+language 4:10,14 
+
+4:15 5:5 7:25 
+17:8 18:9,9,10 
+18:18,23,23 
+31:12,13,14 
+35:4 41:4,6,10 
+48:21 49:4 
+
+Laughter 21:16 
+26:14 30:6 
+
+law 12:1 19:16 
+20:6 23:9 33:11 
+40:14,15,17,19 
+40:24 41:13,14 
+41:19 42:1,21 
+42:22,24 
+
+line 47:10,22 
+linguistic 24:16 
+litany 47:7 
+little 19:18 39:16 
+long 26:25 
+longer 43:15 
+look 8:13,21 9:5 
+
+19:11 30:23,25 
+31:10 35:6 37:7 
+37:8,9,21 39:4 
+39:7 43:23 
+
+looked 7:25 
+13:12 48:6 
+
+looking 5:23 
+looks 8:2,7 39:20 
+lose 30:21 
+lot 4:9 
+low 22:20 35:22 
+lower 23:5 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 55 
+
+maximums narrowly 44:12 Okay 9:4M P 
+13:25 20:12 natural 6:6 old 7:18,20,21 machinegun P 3:1 
+
+McMillan 20:21 nature 13:15 8:14,14,17,22 5:13,15 8:1 page 2:2 9:3 
+20:22,24 21:3 necessarily 4:12 11:20 17:229:20 11:10 17:15 37:13 
+36:3 37:4 42:22 31:21 32:15 25:25 33:312:16 17:5 22:7 pages 20:16 
+44:5 45:22 necessary 21:18 46:24 47:122:22 26:24 45:11,13 46:1,2 
+
+mean 4:2 5:10 27:11 35:5 once 23:6 27:7 27:4,7,16 28:23 paragraph 5:2 
+6:19 7:23 14:2 44:15,16 33:2 38:6 40:15 32:9 33:4,16 6:17 10:17,24 
+
+means 6:10 8:1 need 20:20 43:23 ones 31:135:13 38:5 11:3 25:16 
+10:4 40:15 needed 44:18 one-to-one 25:2241:23 44:21 29:19 30:10 
+
+meant 31:5 41:13 needs 47:19 open 19:8main 30:10 31:11 31:13 
+mens 28:2 neighbors 31:4 opening 8:2031:13 part 3:22 6:4,7 
+mentions 13:20 never 36:10 24:9making 12:5 6:10,11 9:14 
+
+13:23 new 7:16,19 8:14 operable 44:2125:23 35:16 14:4 40:11 
+mere 40:24 8:14,16,19 9:22 operation 42:1948:1 particular 3:16 
+merely 29:21 10:15,15 11:3 opinion 7:24mandatory 13:9 3:19 4:8 18:4 
+merits 37:13 11:20 13:25 20:14 39:1413:24 16:13 39:23 43:2 
+middle 33:7 16:8 18:9 19:23 opponent 28:1917:1 20:4,11 parts 40:11 
+mind 11:16 19:24 39:21 opportunity34:2 43:1,5 passed 11:17 
+minimum 3:18 nice 32:13 20:19manipulate 36:5 48:22 
+
+12:13 13:9,9 nobody's 48:7,8 opposition 45:1036:25 pay 26:7 
+15:14 16:4 17:1 NORWICH 9:2 46:3manipulation peep 27:18 40:21 
+20:2 22:25 noted 39:14 oral 1:11 2:2 3:6 36:24 pegged 34:1 
+23:13,17 24:8 notion 47:5 26:16manner 42:13 Pennsylvania
+43:1,5 49:14 number 24:14,15 order 36:5manners 42:8,11 43:4,6 
+
+minimums 13:1 49:4 ordinary 36:7manual 47:15 people 20:9 
+13:24 15:1,2 37:1948:11,12,16 perceived 9:13O16:13 20:4,12 organizationmanuals 40:8 percent 38:6
+
+O 2:1 3:1 23:21 34:2 32:13MARTIN 1:6 percentage 38:5
+obligation 36:6minimum/ma... ought 9:25 37:24 Massachusetts period 11:2
+observed 24:936:13 41:11 42:1029:11 perpetrated 27:5
+obvious 7:23minor 43:3,17 outset 26:20 32:7 matter 1:11 person 3:17 4:11 
+obviously 8:5minutes 46:14 outside 10:1038:17,18 42:20 5:7 6:17 23:3 
+
+21:15,23 mirror 35:16 40:1542:22 49:25 24:18 30:11
+offense 11:25misspoken 14:20 overall 47:14mattered 20:9 48:21,24 49:17 
+
+12:12 13:3mixed 10:5 overrule 20:20matters 38:7 person's 23:5
+14:10,14 16:20 move 9:12 47:9 45:23maximum 7:19 petition 8:17
+16:22 18:25moved 9:11,23 overruling 20:2113:5,8,10,11,16 17:17
+19:1,5,10 24:21 10:4 25:6 47:11 20:22 21:1913:19 15:1,5,7 Petitioner 1:4,17 
+25:3 29:12 30:8 moving 25:1,15 overturned15:13,15,17,18 2:4,9 3:7 46:16 
+42:14mutter 27:18 35:2015:23,25 16:5 phrase 4:6 30:11 
+
+offenses 12:1,25 O'Brien 1:6 3:4 20:2 22:14 23:1 30:13 38:6N 49:16 27:1 32:4 40:9 23:5,14,17 pick 6:18 38:8 
+N 2:1,1 3:1 offered 21:18 45:1031:25 32:2,6,9 place 27:24 35:8 
+narrower 44:11 oh 14:19 15:1 O'Brien's 46:249:2,6,12 38:11
+
+44:13 29:13 34:13 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 56 
+
+placement 41:7 principal 5:1 put 8:4,5 31:3 reason 26:7 32:7 reorganize 40:11 
+places 35:15 37:8 10:17,24 11:3 35:9 37:18 39:6 39:6 45:17 reply 27:1 45:7 
+plain 44:3 11:24 p.m 49:24 reasonable 12:21 46:4 
+plea 47:17 
+please 3:9 26:19 
+
+principle 23:8,8 
+32:14 33:10,10 Q 
+
+12:23 27:22 
+35:12 37:17 
+
+report 27:25 
+require 41:11 
+
+32:25 37:4 qualifies 46:22 reasonableness 44:6,12 
+plenty 33:5 principled 21:4 qualify 23:4 32:5 45:16 requirement 
+plug 35:3,9 principles 43:19 question 7:23 reasons 22:12 3:17 28:2 32:5 
+point 5:2,2 7:17 prior 17:9 41:13 14:21 16:1,19 REBUTTAL 2:7 requirements 
+
+10:21 20:5 21:1 41:16,19,20 19:4,17 21:11 46:15 37:19 
+24:25 25:18 42:1,20 24:5 25:23 receive 33:13,16 requires 43:15 
+26:21 33:2 prison 26:24 33:12 36:19 34:4,5,8 44:2 reserve 26:10 
+44:19 problem 15:11 37:2,3 38:13 received 26:23 reset 20:13 
+
+pointing 36:18 16:3 19:23 20:1 39:6,24 46:19 32:8 35:22 resolve 43:21 
+points 45:7 36:1,8,9,11 49:1 recidivism 6:6 44:16 
+portion 40:7 problems 46:6 questions 19:20 7:14 11:8 31:2 resolved 44:10 
+possessed 4:11 proceedings 38:22 45:6 46:9 47:12 respect 5:3 11:9 
+
+6:16 30:11 37:15 quite 7:13 9:7 recodified 8:2 21:7 38:13 
+31:14 process 36:8 21:4 39:14 recognize 25:19 45:15 
+
+possesses 18:13 44:3 40:25 recognized 47:8 respond 41:2 
+31:12 projectile 46:21 quote 3:17 37:14 recommendati... 42:7 
+
+possessing 42:10 properly 45:8,12 quoted 35:19 35:2,21 responded 46:5 
+possession 22:2 
+
+22:3 
+post-Booker 
+
+35:17 
+practice 39:9,9 
+precise 6:14,20 
+
+6:22 7:2 
+predates 36:2 
+preexisting 
+
+42:24 
+prepared 46:11 
+preponderance 
+
+27:25 
+presence 22:21 
+present 22:5,21 
+
+45:24 
+presented 45:12 
+presentence 
+
+27:25 
+preserved 45:8 
+presupposes 
+
+4:12 24:19 
+pretty 25:12 
+previously 8:3 
+
+proscribes 7:19 
+prove 34:7 36:6 
+
+37:16 45:1,3 
+proved 27:22,24 
+provide 12:9 
+
+15:12 
+provided 16:14 
+
+17:4 18:1,14,19 
+provision 9:20 
+
+13:16 26:22 
+27:8 28:14,23 
+28:24,25 29:9 
+30:15 33:4 
+34:11 41:23 
+
+provisions 5:5 
+6:3,7 9:11,14 
+12:4 29:5 47:10 
+
+punishment 
+16:23 18:1,14 
+18:19,25 23:21 
+
+pure 36:7 44:3 
+purposes 20:13 
+
+39:21 41:14 
+46:22 
+
+R 
+R 3:1 
+radical 39:8 
+radically 10:11 
+raised 45:10 46:1 
+raising 19:21 
+range 23:21 
+rea 28:2 
+reach 19:20 
+
+45:18,20 
+reaching 38:21 
+reacting 27:20 
+read 6:15 8:8 
+
+10:10 16:7 
+21:25 48:8 
+
+readable 22:3 
+reader 5:6 
+reading 5:16 
+
+9:19 13:19 
+15:11,12 44:12 
+
+really 21:11 48:8 
+reargument 
+
+21:11,13 
+
+recommended 
+34:25 
+
+red 46:7 
+refer 5:21 
+reference 6:25 
+referred 17:2 
+
+45:9 
+refers 16:15 
+Reform 32:1,6 
+regime 23:13 
+reiterate 40:21 
+relation 3:12 
+
+17:13,24 
+relevant 5:6,7 
+
+11:15 24:22 
+47:2 48:24 
+
+relieve 36:6 
+relieving 37:15 
+rely 23:10,12 
+
+34:12 45:18,20 
+relying 4:9 14:17 
+remaining 46:14 
+Remember 
+
+30:14 
+
+Respondents 
+1:19 2:6 21:18 
+24:9 26:17 
+
+response 14:21 
+21:24 22:8 
+24:10 27:1 
+
+responses 23:24 
+31:9 
+
+restored 46:21 
+result 27:13 
+
+47:14 
+reveals 47:4 
+revised 22:8 
+revises 48:2 
+revision 21:22 
+revisions 25:22 
+
+26:6 
+revisit 44:15 
+reword 40:11 
+rifle 5:14 11:10 
+
+28:6,9 36:16 
+41:22 
+
+right 6:19 8:7,18 
+9:4,8 15:24 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 57 
+
+18:3,6 21:14 31:17,21,22 29:16,21 30:1 simply 13:22 States 1:1,3,12 
+24:3,14 30:2,2 34:10,13,14 30:20,24 31:1,5 35:10 37:23 3:4 49:3 
+31:8,16 34:22 41:20 43:10 31:6 32:1,6,16 single 3:11 26:22 statute 4:7 5:17 
+38:10 41:21 49:2 33:7 34:20,23 situation 29:12 6:14 7:1,16,18 
+
+Rita 35:17 Scalia's 14:21 38:15 42:5 30:21 7:19,20,21,25 
+robbery 14:8 second 21:1 44:25 45:4 Sixth 15:10 16:2 8:8,14,14,17,19 
+ROBERTS 3:3 section 3:10 46:25 47:6,7,8 33:11 34:22 9:22 10:16 
+
+23:23 24:2,14 25:16 35:3 48:9 47:12,19,23 36:8 37:19 11:17,20 13:12 
+25:11,15 26:11 see 8:15 15:20 49:11,15,18 43:24 44:3 15:11,12 16:7 
+26:15 34:3,19 seeks 33:13 separate 8:1,4 45:15 16:20 17:3,9,22 
+39:13 46:12 sense 7:2,2 14:13 14:12,23 16:22 Solicitor 1:15 21:24 22:8,16 
+49:22 14:13 16:16,18 18:25,25 19:1,1 37:12 41:5 22:18,19 23:10 
+
+role 22:18 sentence 3:19 4:8 19:4,17 25:16 somebody 29:2 25:25 27:16 
+rolling 9:16 9:15,15 11:3 29:1,8 48:9 28:3,7,13 29:3 
+routinely 43:6 12:9,15,21,25 separated 25:9 sorry 5:14 12:18 30:23 31:12 
+rule 21:3,3 32:14 13:3,6,8 14:3 separation 10:23 14:19 17:16 33:3 34:1,17 
+
+32:17 43:25 14:17,23,24 seriously 41:16 34:3 35:6 43:20 36:13 39:15 
+45:11 49:18 15:8 16:8,9,11 serve 35:5 sort 10:20 16:4 40:7,12 41:20 
+
+rules 3:15 24:7 16:14 19:5,17 set 21:11,13 40:17 44:3 47:4 42:3,17 43:12 
+ruling 22:20 23:5 27:23,24 26:20 30:24 47:15,25 43:22 46:22,25 
+run 19:13 30:16 31:18,25 32:6 43:1 Sotomayor 5:9 47:1,14,18,20 
+
+S 
+32:2,3,7,10,24 
+33:13,15 34:4,5 
+
+sets 29:20 32:1 
+34:24 
+
+5:12,24 10:1 
+15:10 16:2 
+
+47:25 48:2,5,6 
+statutes 33:6 
+
+S 2:1 3:1 34:25 35:4,9,23 setting 22:12 22:25 23:3,12 39:2 40:6 
+sandwiched 33:7 37:23 38:17,23 Seven 33:15 36:12,23 37:6 statutorily 38:11 
+saying 6:9 14:9 43:14,15 44:1 34:16,18 speaking 38:10 statutory 7:19 
+
+45:3 47:3 49:6 short 28:4 specific 5:5 8:12 13:14 22:14 
+says 4:2,11 5:6 sentenced 3:18 shorter 12:9 9:18 44:23 23:14,17 27:10 
+
+6:2 14:2 16:8 4:3,6 18:10,15 short-barrel specified 13:10 27:14 34:11 
+16:11 18:10,12 49:13 5:14 13:10 15:13 35:4 38:18,19 
+19:12 24:17 sentences 18:5 short-barreled 17:2 40:13 42:21 
+29:4 30:19 22:20 24:8 11:10 28:6,9 specifies 18:2 43:19,21 44:10 
+37:13 48:16 33:25 43:6 47:1 36:16 41:22,22 split 25:22 step 36:4 40:2,7 
+
+Scalia 3:21 4:2 sentencing 3:14 shotgun 41:22 stability 41:14 43:7 
+4:14,22 6:13 3:22,23,25 4:4 show 44:20 stage 45:12 46:5 stepped 27:15,21 
+7:5,9 8:18,22 4:24 5:25 6:3,8 shows 10:9 19:14 stands 30:18 43:1 
+8:25 9:4,8 11:6 8:5 10:5,7,13 30:20 stand-alone 29:8 steps 40:5 
+11:14 12:7,14 10:18,20,21,25 side 8:21,21 Stanford 1:18 straight 32:2 
+12:20 13:7,18 11:5,8,11,21,23 signals 9:12 stark 9:7 streamline 37:15 
+13:23 15:19,22 11:23,25 12:5,6 significant 28:16 start 9:17 23:15 strict 35:25 
+15:24 16:1,6,25 13:16 19:15,22 significantly 27:14 strikes 37:17 
+17:11,18,23 19:25 22:19 7:17 20:24 startling 28:8 striking 44:13 
+18:3,6,12 19:2 23:13 24:6,12 silence 40:24 starts 3:10 string 26:25 
+19:9,20 21:14 24:13,23 25:7 silent 27:2 stated 15:7 24:21 stripped 28:1 
+22:13 26:12 25:10,25 27:9 similar 7:25 25:8 strongly 11:1 
+29:13 30:4 27:17 28:11 simplify 37:14 statement 4:21 structural 11:2 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 58 
+
+24:25 26:8 suggesting 45:7 that’s 15:24 22:12 23:24 42:19 
+38:23 suggests 45:17 19:10 20:24,25 25:12,24 28:22 type 3:19 5:3,4 
+
+structurally 9:24 support 32:15 29:24,24 31:20 45:24 9:11,14 12:2,5 
+25:9 28:17 33:19 theoretical 31:25 time 11:19 12:3 22:18 25:2 29:5 
+
+structure 10:16 supposition theory 12:22 20:6 24:11 42:13 48:23 
+13:15 41:6 13:14 27:15 25:23 28:10 49:11 
+49:19 
+
+studies 33:19 
+stuff 3:22,23 4:4 
+sub 29:15,15,15 
+
+29:20 30:7 
+31:15 
+
+subdivision 
+36:14 
+
+subdivisions 
+10:2 
+
+subject 13:4 44:2 
+submit 41:10 
+
+46:11 
+submitted 49:23 
+
+49:25 
+subparagraph 
+
+4:10 5:18,20 
+6:7 7:3,4 11:1 
+19:12 24:17 
+29:1 
+
+subsection 5:10 
+5:12,17,20,24 
+6:4,8,9,25 7:3,7 
+7:7 19:13 24:18 
+30:12 
+
+substantial 26:5 
+substantive 7:18 
+
+14:7 16:14 17:1 
+19:10 36:20 
+45:16 
+
+substantively 
+35:11,20 36:21 
+48:19 
+
+subtle 25:12 
+sufficiently 21:9 
+suggest6:15 
+
+9:25 21:9 35:10 
+40:23 48:13 
+
+suggested 8:9 
+9:10 
+
+suppositions 
+11:16 
+
+Supreme 1:1,12 
+sure 37:2 38:12 
+surely 31:25 
+switch 41:12 
+
+T 
+T 2:1,1 
+table 27:8 
+tail 38:7 
+tails 30:21 
+tail-that-wags-... 
+
+44:4 
+take 8:3,4 10:22 
+
+13:22 35:2 
+41:16 47:17 
+49:10 
+
+takes 47:18 
+talk 12:7 
+talked 42:11 
+talking 9:16,18 
+
+20:21,22 38:14 
+tall 26:12,13 
+technical 47:21 
+tell 37:24 48:18 
+
+48:19 
+tells 5:6 
+term 15:18 18:10 
+
+19:7,9,12 35:8 
+terms 33:11 38:2 
+
+38:5 
+text 49:19 
+textual 24:17 
+textually 9:23 
+
+13:12 
+textural 26:8 
+Thank 26:11 
+
+46:12,17 49:21 
+49:22 
+
+there’s 3:21,22 
+3:23 4:4 11:2,2 
+11:18 13:1 
+16:19 36:13 
+40:21 
+
+they’re 29:6 
+40:10 45:23 
+
+thing 9:10 16:16 
+22:1 23:20 33:1 
+38:20 41:5 
+47:16 49:9 
+
+things 4:19 8:3,5 
+8:15 24:22 
+35:10 48:23 
+
+think 4:9 6:1,21 
+7:24 8:10,11,13 
+9:12,25 10:8 
+12:15,16,20 
+16:6,17 17:7 
+18:20 19:21 
+20:8,9,23 21:2 
+21:18 23:24 
+25:4 26:20 
+27:10 28:12,18 
+29:11,12 31:20 
+36:1,17 37:7 
+38:7,18,21 
+39:15 40:1,3,20 
+41:5,15 42:7,17 
+42:18 43:9,12 
+43:18,24 44:10 
+44:11,16,17 
+46:6 49:7 
+
+thinking 11:16 
+third 24:24,24 
+Thirty 33:16 
+thought 11:3 
+
+20:3 29:14 
+47:10 48:6,7 
+
+three 20:15 22:12 
+
+40:6 
+times 11:22 
+
+31:24 
+today 6:22 26:12 
+
+27:3 28:19 
+30:18 
+
+topic 20:16 47:18 
+tradition 7:15 
+
+11:14,19 22:16 
+22:17 24:5 
+38:24,25 39:3,5 
+39:7,21,23 
+47:23 
+
+traditional 7:14 
+30:25 31:2 36:7 
+
+traditionally 
+11:7,10 
+
+trafficking 3:12 
+14:14 16:10 
+17:4 
+
+transformed 
+27:17 
+
+treat 16:18 
+treated 20:12 
+
+41:25 42:4 
+46:24 47:5 
+
+treatment 7:14 
+40:5 
+
+tries 48:2,3 
+trigger 13:1 
+
+27:23 
+trouble 15:21 
+true 4:20 
+trying 5:3 21:24 
+
+39:20 
+Tuesday 1:9 
+turn 9:3 42:15 
+two 11:22 20:15 
+
+24:14,15 28:6 
+31:3,9 37:8 
+
+U 
+unchanged 41:9 
+unconstitution... 
+
+44:7 
+underlying 
+
+14:10,18 
+understand 
+
+11:14 12:19 
+18:22 29:17 
+31:6 33:23,23 
+37:2 45:19 
+
+understanding 
+28:19 42:3 
+47:25 
+
+understands 
+22:15 
+
+understood 
+13:13 38:12 
+
+undoubtedly 
+30:24 
+
+unequivocal 
+39:10 
+
+unfortunately 
+20:7 
+
+United 1:1,3,12 
+3:4 49:3 
+
+unlimited 15:13 
+unmistakable 
+
+12:3 
+unmistakably 
+
+12:2 
+unreasonable 
+
+35:20 36:22 
+unreasonable... 
+
+36:20,23 
+upheld 12:17,21 
+
+35:11 
+use 4:8 5:18,19 
+
+5:21 10:2 26:24 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 59 
+
+27:16 31:12 35:11 43:3 35:12 36:15,17 26 2:6 
+useful 5:24 8:13 
+uses 5:17 17:14 
+
+ways 25:12 
+weapon 46:20 
+
+38:14 43:8,11 
+43:15 49:4 3 
+
+17:24 24:6 43:7 weapons 9:18 you’ll 16:11,12 3 2:4 
+47:17 49:15 weren't 21:22 16:12 3a 8:25 17:18,20 
+
+U.S.C 41:21 47:2 you’re 5:9 14:9 30 5:15 12:16 
+
+V 
+we're 10:18 
+
+34:23 40:16 
+15:14 37:1,3 
+48:17 
+
+16:12 17:6 28:9 
+28:16 32:11,15 
+
+v 1:5 3:4 29:5 we've 32:4 34:9 you’ve 20:14 35:12 
+49:3 40:8 23:14 30-year 22:6 
+
+variance 35:21 
+various 43:4 
+
+We’ll 3:3 
+we’re 4:9 11:5 Z 
+
+27:23 
+32 46:2 
+
+versus 6:12 20:1 20:21,22 39:7 zero 23:15,16 33 37:13 
+view 10:16 25:13 
+
+48:3 
+violation 3:18 
+
+we’ve 11:4 33:6 
+35:14 38:4 
+
+wholly 25:2 
+
+0 
+08-1569 1:4 3:4 
+
+34 45:13 
+35 46:2 
+3553 32:5 
+
+4:12 5:7 6:10 
+6:11,17 7:2 
+24:18 30:12 
+48:21,25 
+
+violence 3:12 
+16:10 17:24 
+18:1,15 
+
+vote 20:8 
+
+willing 34:23 
+win 19:22 30:21 
+
+38:21 
+word 5:17,23 
+
+38:25 
+words 4:8 5:10 
+
+27:18 41:7 
+working 7:16 
+
+1 
+1 13:22 16:7,15 
+
+17:2 18:13 
+1a 8:20 31:11 
+10 4:3 5:15 18:16 
+
+26:24 28:5,8,16 
+32:8 36:15,17 
+38:14 43:5 
+
+3553(a) 35:3 
+37 45:13 
+38 46:1 
+39 46:1 
+
+4 
+4 46:14 
+46 2:9 
+
+W 
+wagging 38:7 
+wait 3:21 
+waived 34:22 
+waiver 46:6 
+want 7:17 21:13 
+
+32:12 35:3 37:2 
+38:12 43:8 49:9 
+
+wanted 18:7 
+wanting 29:3 
+
+world 35:17 
+worse 30:4 
+wouldn't 6:22 
+
+12:10 14:11,17 
+29:4 47:3 
+
+write 48:20 
+wrote 7:23,24 
+
+X 
+x 1:2,7 
+
+10-year 36:13 
+11a 8:17 17:16 
+11:14 1:13 3:2 
+12:05 49:24 
+15 17:5 45:11 
+18 27:6 41:21 
+180-degree 
+
+41:12 
+1986 11:19 
+1998 11:20 12:3 
+
+5 
+5 4:3 15:3,8 18:11 
+
+18:15 19:7 43:8 
+5-year 13:4 22:6 
+5-4 20:8 
+
+7 
+7 4:3 16:11 18:16 
+
+32:16 34:5,8,14 
+7-year 34:25,25 
+
+wants 22:23 24:6 Y 27:15 39:25 8 
+24:11 38:1 
+41:18 42:18 
+
+Washington 1:8 
+1:16 
+
+wasn't 21:24 
+22:8 39:15 47:6 
+
+way 5:17 6:15 
+7:18 13:8 15:11 
+16:15 21:19 
+28:18 30:9 
+
+years 4:3,3,3 
+5:15 12:16 13:2 
+15:3,8 16:12,12 
+16:12 17:5,6 
+18:11,16,16,16 
+19:7 26:24 27:4 
+27:6 28:5,8,9 
+28:16 32:8,11 
+33:15,16 34:5,9 
+34:14,16,18 
+
+2 
+2 43:10 
+2a 8:21 31:11 
+2K2.1 11:24 
+20 27:4 43:15 
+20-year 38:2 
+
+43:5 
+2010 1:9 
+23 1:9 45:11 
+25 16:12 45:11 
+
+83 38:6 
+
+9 
+9-0 39:11 
+921(a)(3) 46:19 
+924(c) 5:22 14:23 
+
+19:17 
+924(c)(1) 3:10 
+
+19:6 41:21 
+924(e) 49:5 
+
+Alderson Reporting Company 
+
+

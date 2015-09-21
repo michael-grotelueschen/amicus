@@ -1,0 +1,5157 @@
+
+             
+
+          
+
+                       
+
+        
+
+5
+
+10  
+
+15
+
+20
+
+ 
+
+ 
+
+ 
+
+25
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 VERNON HUGH BOWMAN, : 
+
+4  Petitioner : No. 11-796 
+
+v. : 
+
+6 MONSANTO COMPANY, ET AL. : 
+
+7 - - - - - - - - - - - - - - - - - x 
+
+8  Washington, D.C. 
+
+9  Tuesday, February 19, 2013 
+
+11  The above-entitled matter came on for oral 
+
+12 argument before the Supreme Court of the United States 
+
+13 at 11:27 a.m. 
+
+14 APPEARANCES: 
+
+MARK P. WALTERS, ESQ., Seattle, Washington; on behalf of 
+
+16  Petitioner. 
+
+17 MELISSA ARBUS SHERRY, ESQ., Assistant to the Solicitor 
+
+18  General, Department of Justice, Washington, D.C.; 
+
+19  for United States, as amicus curiae. 
+
+SETH P. WAXMAN, ESQ., Washington, D.C.; on behalf of 
+
+21  Respondents. 
+
+22 
+
+23 
+
+24 
+
+1
+ 
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+            
+
+                   
+
+                   
+
+5
+
+10
+
+ 
+
+15  
+
+ 
+
+ 
+
+ 
+
+ 
+
+20  
+
+ 
+
+ 
+
+ 
+
+ 
+
+25
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF PAGE 
+
+3 MARK P. WALTERS, ESQ. 
+
+4  On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+6 MELISSA ARBUS SHERRY, ESQ. 
+
+7  For United States, as amicus curiae 24 
+
+8 ORAL ARGUMENT OF 
+
+9 SETH P. WAXMAN, ESQ. 
+
+On behalf of the Respondents 34 
+
+11 REBUTTAL ARGUMENT OF 
+
+12 MARK P. WALTERS, ESQ. 
+
+13  On behalf of the Petitioners 56 
+
+14 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+2
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  P R O C E E D I N G S 
+
+
+2  (11:27 a.m.) 
+
+
+3  CHIEF JUSTICE ROBERTS: We will hear 
+
+
+4 argument next this morning in case 11-796, 
+
+
+Bowman v. Monsanto Company. 
+
+6  Mr. Walters. 
+
+7  ORAL ARGUMENT OF MARK P. WALTERS 
+
+8  ON BEHALF OF THE PETITIONER 
+
+9  MR. WALTERS: Mr. Chief Justice and may it 
+
+please the Court: 
+
+11  Patent exhaustion provides that once a 
+
+12 patented article is sold, it passes outside the 
+
+13 protection of the Patent Act, and it is available to be 
+
+14 used by the purchaser to practice the invention. 
+
+Now, what's the invention here? The 
+
+16 invention is a bit of DNA that, when inserted into a soy 
+
+17 bean seed, makes that seed and all the plants that grow 
+
+18 from that seed resistant to the active ingredient in 
+
+19 Roundup. Now, the only way to practice that invention 
+
+is to plant the seed and to grow more seeds. 
+
+21  CHIEF JUSTICE ROBERTS: Why in the world 
+
+22 would anybody spend any money to try to improve the seed 
+
+23 if as soon as they sold the first one anybody could grow 
+
+24 more and have as many of those seeds as they want? 
+
+MR. WALTERS: I agree no one would do that, 
+
+3
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 and I don't think that is the situation here. I think 
+
+2 we have, and we have explained how Respondents here can 
+
+3 protect their invention through contracts. They don't 
+
+4 have to sell it outright. They can sell it through an 
+
+agency model, but the more I think important --
+
+6  CHIEF JUSTICE ROBERTS: That's true, that's 
+
+7 true in the case of any patented article, right? 
+
+8  MR. WALTERS: Correct. 
+
+9  CHIEF JUSTICE ROBERTS: So the patent system 
+
+is based, I think, on a recognition that contractual 
+
+11 protection is inadequate to encourage invention. 
+
+12  MR. WALTERS: Well, part of the patent 
+
+13 policy, as well, is to protect the purchaser, and that's 
+
+14 been part of this Court's law for more than 150 years. 
+
+Under Respondent's theory, any farmer who 
+
+16 grows a soy bean seed is infringing the patent, but for 
+
+17 the grace of Monsanto. And that's -- a lot of farmers 
+
+18 in this country, when we have over 90 percent of the 
+
+19 acreage that is Roundup Ready. So under Monsanto's 
+
+theory, there is really no limit by the Exhaustion 
+
+21 Doctrine? 
+
+22  JUSTICE SCALIA: I didn't understand that 
+
+23 last sentence. Any farmer who plants and grows soybeans 
+
+24 is violating the patent? 
+
+MR. WALTERS: Is infringing under license by 
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Monsanto. Let's take the first --
+
+2  JUSTICE SCALIA: I thought that their claim 
+
+3 is that he only violates the patent if he tries to grow 
+
+4 additional seeds from his first crop. Right? Isn't 
+
+that the only claim here? 
+
+6  MR. WALTERS: The reach of Monsanto's theory 
+
+7 is that once that seed is sold, even though title has 
+
+8 passed to the farmer, and the farmer assumes all risks 
+
+9 associated with farming, that they can still control the 
+
+ownership of that seed, control how that seed is used. 
+
+11  JUSTICE SCALIA: No, not that seed. It's 
+
+12 different seed. That seed is done. It's been planted 
+
+13 in the ground and has grown other seed. It's the other 
+
+14 seed we are talking about. It's not the very seed that 
+
+was sold. Right? 
+
+16  MR. WALTERS: That's correct, Your Honor, 
+
+17 but if we don't apply -- if exhaustion is eliminated, 
+
+18 rather, for the progeny seed, then you are taking away 
+
+19 the ability of people to exchange these goods freely in 
+
+commerce. You have essentially a servitude on these 
+
+21 things that are exchanged, and every grain elevator who 
+
+22 makes a sale is infringing. 
+
+23  JUSTICE KENNEDY: Well, I think you may be 
+
+24 right in the way you characterize Monsanto's argument, 
+
+and I have great difficulties with characterizing it 
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that way, as Justice Scalia's question indicates. But 
+
+2 Monsanto can still prevail if you say that there's a 
+
+3 patent infringement, if he plants it for seed and uses 
+
+4 the seed to replant. That's not as far as Monsanto 
+
+goes, but it seems to me it's one way to characterize 
+
+6 their argument and to make it sensible. 
+
+7  MR. WALTERS: If you assume that there is 
+
+8 exhaustion in the seeds that are sold to the farmer --
+
+9 let's take our particular case here. Mr. Bowman went to 
+
+a grain elevator and he bought from the grain elevator 
+
+11 without restriction seeds to – and it was his purpose to 
+
+12 plant them. Now, the only way that he can make use –-
+
+13 if you assume in the first instance that there is 
+
+14 exhaustion to the seeds that Mr. Bowman purchased from 
+
+the grain elevator, you are taking away any ability for 
+
+16 him to use that seed or use the invention. 
+
+17  Let's take for example Claim 130, which is 
+
+18 at the supplemental appendix 19, that is a method for 
+
+19 selectively controlling weeds in a field. It has two 
+
+elements; the first element is planting the crop seed 
+
+21 and it's a particular crop seed with all the particular 
+
+22 genetics that encode for resistance to Roundup, and then 
+
+23 the next step is to apply to the crop and weeds in the 
+
+24 field a sufficient amount of glyphosate herbicide. 
+
+Now, if you say that there is exhaustion in 
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 the seeds that Mr. Bowman purchased from the grain 
+
+2 elevator, but you say it doesn't apply to the progeny, 
+
+3 you are not allowing him to actually practice the 
+
+4 invention to grow more seeds. 
+
+JUSTICE BREYER: No, but you are allowing 
+
+6 him to use those seeds for anything else he wants to do. 
+
+7 It has nothing to do with those seeds. 
+
+8  There are three generations of seeds. Maybe 
+
+9 three generations of seeds is enough. 
+
+(Laughter.) 
+
+11  JUSTICE BREYER: It is for this example. 
+
+12 First of you have the Monsanto, the first generation 
+
+13 they sold. They have children, which is the second 
+
+14 generation. And those children have children, which is 
+
+the third generation, okay? So bad joke. 
+
+16  (Laughter.) 
+
+17  JUSTICE BREYER: So we are talking here --
+
+18 he can do what he wants with the first generation. 
+
+19 Anything he wants. And moreover, when he buys them from 
+
+Monsanto, he can make new seeds. He can make generation 
+
+21 2 because they've licensed him to do it. 
+
+22  Here, he buys generation 2. Now, he can do 
+
+23 what he wants with those seeds. But I'll tell you, 
+
+24 there is a problem because the coming about of the third 
+
+generation is itself the infringement. So the second 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 generation seeds have nothing to do with it. If he went 
+
+2 into a room and had a box that he bought from a lab and 
+
+3 he put rocks in it and he said, hocus-pocus and lo and 
+
+4 behold out came the third generation of seeds, he would 
+
+have infringed Monsanto's patent with that third 
+
+6 generation, would he not? 
+
+7  MR. WALTERS: No. 
+
+8  JUSTICE BREYER: No, he wouldn't have? You 
+
+9 mean if he goes and finds a new way of making these 
+
+seeds, which happens to do with you pick some grass and 
+
+11 you intertwine it and various things like that, and lo 
+
+12 and behold you have a perfect copy of Monsanto's patented 
+
+13 seed, he hasn't made it, he hasn't infringed? Why not? 
+
+14  MR. WALTERS: Well, I guess I misunderstood 
+
+your question. 
+
+16  JUSTICE BREYER: My question is the same 
+
+17 with the grass as with the magic box. I am saying the 
+
+18 problem for you here, I think, is that, infringement 
+
+19 lies in the fact that he made generation three. It has 
+
+nothing to do with generation 2. That has just a 
+
+21 coincidence. But that is, in fact, the way he made 
+
+22 these seeds. But he can sell, resell generation 2, he 
+
+23 can do whatever he wants with it. 
+
+24  If he sterilizes it and uses them in a 
+
+circus, he can do it. The only thing he cannot do is he 
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 cannot create generation 3, just as he couldn't use 
+
+2 generation 2 seeds to rob a bank. 
+
+3  You know, there are certain things that the 
+
+4 law prohibits. What it prohibits here is making a copy 
+
+of the patented invention. And that is what he did. So 
+
+6 it's generation 3 that concerns us. And that's the end 
+
+7 of it. 
+
+8  Now, what is your response to that? 
+
+9  MR. WALTERS: Justice Breyer, my response 
+
+is, if you applied the law that way to side making over 
+
+11 use, you are eliminating the Exhaustion Doctrine in the 
+
+12 context of -- of patented seeds. You're saying that he 
+
+13 can do --
+
+14  JUSTICE GINSBURG: But why --
+
+MR. WALTERS: -- anything but practice the 
+
+16 invention. 
+
+17  JUSTICE GINSBURG: But why -- you said 
+
+18 making or use and it isn't an either-or thing then -- as 
+
+19 the other side has pointed out. You can use the seed to 
+
+make new seeds. So use and make aren't -- it's not 
+
+21 either you use it or you make it. You can use it to 
+
+22 make a new item. 
+
+23  MR. WALTERS: Justice Ginsburg, that is the 
+
+24 point of the invention here. If you look at claim 130 
+
+again, for example, you are saying he can't practice 
+
+9
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 claim 130, which is certainly embodied in the seeds he 
+
+2 purchased from the grain elevator. 
+
+3  JUSTICE GINSBURG: Well, suppose he -- he 
+
+4 had never bought any Monsanto seeds. He just goes to 
+
+the grain elevator and 90-odd percent of those seeds 
+
+6 have the genetic composition. So -- and he planted that 
+
+7 and he harvested it. Would he be infringing on 
+
+8 Monsanto's patents? 
+
+9  MR. WALTERS: No. 
+
+JUSTICE GINSBURG: So he never has to buy 
+
+11 any seed, at all, from Monsanto. 
+
+12  MR. WALTERS: Well, in practical matters it 
+
+13 doesn't work that way because the seed that's available 
+
+14 at a grain elevator is not a very good source of seed 
+
+and farmers are not going to be able to eliminate the 
+
+16 need to go to Monsanto or the other seed companies every 
+
+17 year by going to the grain elevator. 
+
+18  Great evidence of that is the fact that my 
+
+19 client, every year that he planted a second crop using 
+
+the grain elevator seed, he bought high quality seed 
+
+21 from Pioneer. Now, if this grain elevator -- grain 
+
+22 elevator seed was so good, why didn't he use it for his 
+
+23 first crop? 
+
+24  JUSTICE BREYER: I'm still not getting the 
+
+answer. I'm going to try once more. Now, when you buy 
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 generation 2, well, there are a lot of things you can do 
+
+2 with it. You can feed it to animals, you can feed it to 
+
+3 your family, make tofu turkeys. I mean, you know, there 
+
+4 are a lot of things you can do with it, alright. 
+
+But I'll give you two that you can't do. 
+
+6 One, you can't pick up those seeds that you've just 
+
+7 bought and throw them in a child's face. You can't do 
+
+8 that because there's a law that says you can't do it. 
+
+9  Now, there's another law that says you 
+
+cannot make copies of a patented invention. And that 
+
+11 law you have violated when you use it to make generation 
+
+12 3, just as you have violated the law against assault 
+
+13 were you to use it to commit an assault. 
+
+14  Now, I think that's what the Federal Circuit 
+
+is trying to get at. And so it really has nothing to do 
+
+16 with the Exhaustion Doctrine. It has to do with some 
+
+17 other doctrine, perhaps, that -- that somehow you think 
+
+18 should give you the right to use something that has as a 
+
+19 basic purpose making a copy of itself. Maybe you 
+
+should, but I don't see that. Where is that in the law? 
+
+21  MR. WALTERS: Your Honor, that's an 
+
+22 exception to the Exhaustion Doctrine for 
+
+23 self-replicating inventions. 
+
+24  JUSTICE BREYER: Yes. 
+
+MR. WALTERS: The invention here is --
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE BREYER: Is that there? Is that --
+
+2 is that there in the Exhaustion Doctrine? 
+
+3  MR. WALTERS: It is not there. This -- this 
+
+4 Court has -- has not created an exception to the 
+
+Exhaustion Doctrine, and in fact it's explicitly said it 
+
+6 won't do that and that's an act -- and that's an 
+
+7 activity for Congress. 
+
+8  JUSTICE SOTOMAYOR: I'm sorry. The 
+
+9 Exhaustion Doctrine permits you to use the good that you 
+
+buy. It never permits you to make another item from 
+
+11 that item you bought. So that's what I think 
+
+12 Justice Breyer is saying, which is you can use the seed, 
+
+13 you can plant it, but what you can't do is use its 
+
+14 progeny unless you are licensed to because its progeny 
+
+is a new item. 
+
+16  MR. WALTERS: This is obviously a brand-new 
+
+17 case where we're dealing with the -- the doctrine of 
+
+18 patent exhaustion in the context of self-replicating 
+
+19 technologies. So what you have here is if you take the 
+
+Federal Circuit's view, then you have no ability -- you 
+
+21 have no exhaustion at all for someone to practice the 
+
+22 invention. Sure, you can do all the things that you 
+
+23 talked about, Mr. Breyer -- or Justice Breyer, but that 
+
+24 has nothing to do with the -- or with the invention. 
+
+So you're taking the Exhaustion Doctrine for 
+
+12
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 self-replicating inventions, you're modifying this 
+
+
+2 Court's case law substantially, and that's something 
+
+
+3 that ought to be done in Congress. In fact --
+
+
+4  JUSTICE GINSBURG: Well, you just said 
+
+
+that -- that we haven't had a case involving 
+
+6 self-replicating. I mean, the Exhaustion Doctrine was 
+
+7 shaped with the idea of an article; there was an article 
+
+8 that you could use and then you use it and it's used up. 
+
+9 But we haven't applied the Exhaustion Doctrine when you 
+
+have a new -- when you create a copy of the original. 
+
+11  So it's -- it's not that we have law in 
+
+12 place. We've been dealing with an item with the 
+
+13 Exhaustion Doctrine and now we have hundreds of items, 
+
+14 thousands of items, all growing from that original seed. 
+
+MR. WALTERS: The Exhaustion Doctrine, the 
+
+16 policy that underlies this Court's cases is 
+
+17 fundamentally a choice about the purchaser's rights in 
+
+18 that personal property over the patentee's rights in the 
+
+19 monopoly to use that monopoly and increase its sales. 
+
+This Court has always chosen the purchaser's rights over 
+
+21 the patentee's rights to increase sales. And we're just 
+
+22 asking you to make the same choice here. 
+
+23  JUSTICE KAGAN: Well, except to the extent, 
+
+24 as Justice Breyer suggested, except to the extent that 
+
+the purchase is going to use the article just to create 
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 a new one of the exact same kind.  And it seems to me 
+
+2 that what you're suggesting is that the basic rule that 
+
+3 says that the purchaser does not get to do that should 
+
+4 have an exception for self-replicating technologies. 
+
+MR. WALTERS: First, we disagree that the 
+
+6 activity of basic farming could be considered making the 
+
+7 invention. If you read the statute, it says making the 
+
+8 invention, not just making a copy like it would be in 
+
+9 the Copyright Act. We have the invention, which is a 
+
+particular genetic sequence that was made, principally, 
+
+11 by Monsanto's genetic engineers. And farmers, when they 
+
+12 plant seeds, they don't exercise any control or dominion 
+
+13 over -- over their crop. Otherwise, every year they'd 
+
+14 have a bumper crop. 
+
+JUSTICE SOTOMAYOR: Do you mean they don't 
+
+16 do any work, they don't lay the soil and the nutrients 
+
+17 it needs, water when it needs watering, protect it from 
+
+18 animals? They do no work --
+
+19  MR. WALTERS: They absolutely --
+
+JUSTICE SOTOMAYOR: -- in growing the seed? 
+
+21  MR. WALTERS: They absolutely do work, but 
+
+22 they don't have control over the creative process. They 
+
+23 plant, they spray and they pray. 
+
+24  JUSTICE SOTOMAYOR: I'm sure if they don't 
+
+do all of the things I said, it doesn't grow. So aren't 
+
+14
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 they involved in its creative -- in its creation? 
+
+2  MR. WALTERS: They certainly aren't in 
+
+3 control of it. You ask any farmer who's lived through a 
+
+4 drought or through a terrible flood and they will say 
+
+they're not the ones who are making these --
+
+6  CHIEF JUSTICE ROBERTS: Well, you only need 
+
+7 one -- I mean, you throw the seeds on the ground, one or 
+
+8 two of them are going to grow and you still have the 
+
+9 same case, right? 
+
+MR. WALTERS: Absolutely. And -- and that's 
+
+11 how broad this position is. It doesn't matter how you 
+
+12 come into possession with these seeds. You are 
+
+13 committing patent infringement if you -- any cell 
+
+14 division is patent infringement. 
+
+JUSTICE BREYER: That's true, but that's 
+
+16 what I thought you were going to respond. I thought you 
+
+17 were going to respond to me that my question then makes 
+
+18 it infringement when your client buys generation 1 from 
+
+19 Monsanto because they buy generation 1 from Monsanto, 
+
+they plant it in the ground and lo and behold up comes 
+
+21 generation 2. And generation 2, on the basis of what I 
+
+22 was asking you, is just as much a violation. 
+
+23  But I think, though I'll find out from them, 
+
+24 that the response of that is, yes, you're right, it is 
+
+just as much of a violation. That's why we, Monsanto, 
+
+15
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 give the buyer a license to do it. 
+
+2  And so it all seems to work out. You don't 
+
+3 need any exception. There's no exception from anything. 
+
+4 When you create a new generation, you have made a 
+
+patented item, which you cannot do without the approval 
+
+6 of the patent owner. Therefore, Monsanto gives that 
+
+7 approval when you buy generation 1. 
+
+8  Now, it seems to me all to work out without 
+
+9 any need for exception. And I'm putting to you my whole 
+
+thought so that you can respond to it. 
+
+11  MR. WALTERS: Thank you, Justice Breyer. 
+
+12 What Monsanto wants to do in your scenario is they want 
+
+13 the farmer to assume all the risks of farming. They 
+
+14 want -- but they still want to control and act as owners 
+
+of the property that is owned, no doubt, by that farmer. 
+
+16 When that farmer grows the progeny seed, that they 
+
+17 insure the risk that they're not going to have a crop in 
+
+18 the first place. If they drive to the grain dealer to 
+
+19 sell their harvest -- they get one paycheck a year, by 
+
+the way -- they, if they get into a wreck, that's not 
+
+21 Monsanto's problem; that's the farmer's problem. 
+
+22  So what they're essentially asking for is 
+
+23 for the farmers to bear all the risks of farming, yet 
+
+24 they can sit back and control how that property is used. 
+
+And that's fundamentally inconsistent with how this 
+
+16
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Court has interpreted the Exhaustion Doctrine. The 
+
+
+2 thing that's very important is this is not a license, 
+
+
+3 this is an outright sale to the farmers of the first 
+
+
+4 generation. 
+
+
+And then they are -- they plant those seeds 
+
+6 because they have, under the Exhaustion Doctrine, a 
+
+7 right to use the invention, and then those progeny seeds 
+
+8 are owned outright by every farmer, and they assume all 
+
+9 risk of loss. So if -- if -- Monsanto wants to 
+
+control --
+
+11  JUSTICE GINSBURG: And they may -- they may 
+
+12 they own them, but that doesn't mean that they are 
+
+13 infringing. They may -- the seeds are owned by the 
+
+14 farmer. But when he uses them to grow more seeds, he's 
+
+infringing on that patent. So I don't think that the 
+
+16 ownership has anything to do with it. 
+
+17  MR. WALTERS: It's the servitude on the 
+
+18 title. And those things get sold to the grain 
+
+19 elevators, and now every time the grain elevator makes a 
+
+sale, it's technically infringing. And -- and that's 
+
+21 something that our law has never allowed for centuries. 
+
+22 And one of the main problems is that you have farmers, 
+
+23 their main livelihood here is to sell the seeds that 
+
+24 they grow. Now, if they don't have clear title and if 
+
+they don't have the ability to sell the property that 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 they -- that they grow, then that impinges upon their 
+
+2 ability to make a living. 
+
+3  JUSTICE KENNEDY: I have only one question 
+
+4 so far, it's a farming question. With some crops if 
+
+you are going to make seeds, you leave the crop in 
+
+6 longer. In -- what about soybeans? If the farmer has 
+
+7 the north 40 and the south 40, the north 40, he's going 
+
+8 to plants soybeans to be used for flour, human 
+
+9 consumption, and south 40, he wants seeds. Does he 
+
+leave the plants in the ground the same amount of time? 
+
+11  MR. WALTERS: You know, most farmers are not 
+
+12 growing soybeans for -- for seed. There are various 
+
+13 types of --
+
+14  JUSTICE KENNEDY: You would not? Okay. 
+
+MR. WALTERS: -- various types of farmers 
+
+16 who are -- who are growing foundation seed, for example, 
+
+17 that is very close to the -- to the first generation 
+
+18 seed that's engineered. 
+
+19  JUSTICE SCALIA: I don't understand this. I 
+
+thought soybeans are seeds. 
+
+21  MR. WALTERS: They are. 
+
+22  JUSTICE KENNEDY: But that's -- if you're 
+
+23 going to use the soybeans for seeds as opposed to flour, 
+
+24 do you leave them in the ground any longer? 
+
+MR. WALTERS: I don't know the answer to 
+
+18
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that question. 
+
+2  JUSTICE KENNEDY: Okay. 
+
+3  JUSTICE KAGAN: Mr. Walters, could you go 
+
+4 back to the Chief Justice's opening question because the 
+
+Chief Justice asked you what incentive Monsanto would 
+
+6 have to produce this kind of product if you were right. 
+
+7 And you said, well, they can protect themselves by 
+
+8 contract. 
+
+9  Actually, it seems to me that that answer is 
+
+peculiarly insufficient in this kind of a case because 
+
+11 all that has to happen is that one seed escapes the web 
+
+12 of these contracts, and that seed because it can 
+
+13 self-replicate in the way that it can, essentially makes 
+
+14 all the contracts worthless. So again, we are back to 
+
+the Chief Justice's problem, that Monsanto would have no 
+
+16 incentive to create a product like this one. 
+
+17  MR. WALTERS: Taking our example here 
+
+18 where -- where Petitioner bought commodity seeds, it's 
+
+19 an undifferentiated mixture, it can't be overemphasized 
+
+how different every single seed is, you don't know a 
+
+21 Monsanto from a Pioneer from an Asgrow. You don't know 
+
+22 the maturity rate. If I am a farmer, I need a 
+
+23 particular maturity bean for my field because I don't 
+
+24 want it to mature before it gets high enough for the 
+
+combine to come around and cut it. 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  So you want to be able to have -- you have 
+
+2 all these things dialed in, these different 
+
+3 variabilities. So if you go to the grain elevator and 
+
+4 you don't know what exactly it is that you want and you 
+
+just get a mixture, that's not going to be real --
+
+6 competitive at all to Monsanto's first generation seed. 
+
+7  Now, the possibility of somebody selecting 
+
+8 one and saying, ah, that's the exact one that I need for 
+
+9 my field, I'm going to cultivate that and let it grow 
+
+into enough seeds so I can plant my first crop, that 
+
+11 would take a number of years to grow a 1,000-acre farm, 
+
+12 and it's not -- and by that time, farmers -- the nature 
+
+13 would have changed and evolved where you would want the 
+
+14 latest in disease resistance by that point. 
+
+So there are --
+
+16  JUSTICE KENNEDY: Please correct me if I am 
+
+17 wrong. I thought that's exactly what Bowman did here. 
+
+18 He went to a grain elevator and he -- he used the seeds, 
+
+19 and -- and he didn't know exactly the percentage mix, 
+
+but he used them. 
+
+21  MR. WALTERS: Well, he --
+
+22  JUSTICE KENNEDY: So he did exactly what you 
+
+23 said is uneconomical. 
+
+24  MR. WALTERS: No. Actually, he did 
+
+something quite different. He didn't select a 
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 particular variety. He selected for the particular 
+
+2 trait, Roundup Ready, but there are probably more than a 
+
+3 dozen different ways in which the seed can vary --
+
+4 disease resistance, maturity rates. And if you are a 
+
+farm --
+
+6  CHIEF JUSTICE ROBERTS: I'm sorry, maybe I 
+
+7 didn't read this right. I thought what he did was plant 
+
+8 all the commodity seeds, and then applied the Roundup, 
+
+9 so that all that was left was the Roundup resistance 
+
+seeds, and then he used those. 
+
+11  MR. WALTERS: That's correct. But if you 
+
+12 look at a field that you plant with grain elevator 
+
+13 seed, it's going to be all different color because 
+
+14 they're going to be all different variety, they're all 
+
+going to mature at a different rate. So that if -- when 
+
+16 it comes harvest time, some of them are going to be too 
+
+17 close to the ground so that your combine's going to 
+
+18 miss --
+
+19  JUSTICE SCALIA: Including the Monsanto 
+
+seeds? 
+
+21  MR. WALTERS: Including the Monsanto seeds. 
+
+22  JUSTICE SCALIA: Some of them would -- would 
+
+23 grow at different rates than others. 
+
+24  MR. WALTERS: Absolutely. 
+
+CHIEF JUSTICE ROBERTS: How come that's not 
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 a problem the first time you plant? 
+
+2  MR. WALTERS: It's a problem each time. 
+
+3 This is a very poor choice -- choice of seed, but it 
+
+4 only makes sense to plant in a risky situation, like 
+
+when a farmer has been washed out from a flood, for 
+
+6 example, and it's late in the --
+
+7  CHIEF JUSTICE ROBERTS: No, no. I mean the 
+
+8 very first time, you get nothing but Monsanto Ready --
+
+9 Roundup Ready seeds and you plant those. Are you 
+
+telling us you have the same problem with them growing 
+
+11 at different rates and all that? 
+
+12  MR. WALTERS: Yes. 
+
+13  CHIEF JUSTICE ROBERTS: So that doesn't make 
+
+14 the commodity seeds any different? 
+
+MR. WALTERS: I'm sorry. I must have 
+
+16 misunderstood your question. The commodity seeds, 
+
+17 with -- the Roundup Ready commodity seeds will all grow 
+
+18 at different rates and have different disease 
+
+19 resistance, different maturity rates. 
+
+JUSTICE SCALIA: But not the original batch 
+
+21 that he buys from Monsanto? 
+
+22  MR. WALTERS: Correct. So --
+
+23  JUSTICE SCALIA: The original batch that he 
+
+24 buys from Monsanto, in addition to being resistant to 
+
+the chemical that kills the weeds, in addition to that, 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 they all mature at the same rate. 
+
+2  MR. WALTERS: Exactly. They're of a uniform 
+
+3 variety. They are exactly what a farmer needs for 
+
+4 their --
+
+JUSTICE SCALIA: So all the Monsanto seeds 
+
+6 are not -- are not fungible. 
+
+7  MR. WALTERS: That's correct. 
+
+8  JUSTICE SCALIA: There are some of them that 
+
+9 mature early, some mature late. 
+
+MR. WALTERS: It makes sense. I mean, they 
+
+11 allow these seeds to be dumped into the common grain 
+
+12 elevator. They don't put any restrictions on what the 
+
+13 elevator does with it. There were no restrictions on my 
+
+14 client when he purchased them from the grain elevator. 
+
+So it's less of a problem for Monsanto for 
+
+16 people going to the grain elevator to plant. 
+
+17 Nevertheless, it's -- it's an outright sale, an 
+
+18 exhaustion applies to that particular sale, and permits 
+
+19 that farmer to use it. It's never going to be a threat 
+
+to Monsanto's business -- people planting grain elevator 
+
+21 seed. 
+
+22  Now, to answer your question, Justice Kagan, 
+
+23 about -- well, under our theory, if somebody does breach 
+
+24 a contract with Monsanto, they don't have to do it under 
+
+contract law, they can actually do it under an agency 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 model, like General Electric did in the 1920s. And then 
+
+2 that's only fair because there, the agent growers are 
+
+3 assuming -- well, Monsanto was assuming the risk that 
+
+4 the farmers are. 
+
+And there is some equitability there with 
+
+6 the -- the risk sharing between the farmers and 
+
+7 Monsanto. Now they want the farmers to take all the 
+
+8 risks associated with farming, yet they want to control 
+
+9 how they use those seeds all the way down the 
+
+distribution chain. 
+
+11  I will reserve the balance of my time. 
+
+12  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+13  Ms. Sherry? 
+
+14  ORAL ARGUMENT OF MELISSA ARBUS SHERRY, 
+
+FOR UNITED STATES, AS AMICUS CURIAE 
+
+16  MS. ARBUS SHERRY: Mr. Chief Justice, and 
+
+17 may it please the Court: 
+
+18  I'd like to start by talking about this 
+
+19 Court's decision in J.E.M. because I think it largely 
+
+resolves this case. J.E.M. was a patent case, and the 
+
+21 issue there was whether or not you could get a utility 
+
+22 patent on a plant. The argument was that you couldn't 
+
+23 get a utility patent because the Plant Variety 
+
+24 Protection Act implicitly repealed the Patent Act in 
+
+that respect. 
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  This Court rejected that argument, and the 
+
+2 reason it rejected that argument was because it found no 
+
+3 conflict between the two statutes. The reason it found 
+
+4 no conflict between the two statutes is because it said 
+
+that it is harder to get a utility patent, and for that 
+
+6 reason, you get greater protections -- under the Patent 
+
+7 Act, you get greater rights of exclusion under the 
+
+8 Patent Act than you do under the PVPA. 
+
+9  And it said, most notably, there is no seed 
+
+saving exemption in the Patent Act, there is no research 
+
+11 exemption in the Patent Act. The consequence of 
+
+12 Petitioner's argument would be that this Court would not 
+
+13 only be reading a seed-saving exemption into the Patent 
+
+14 Act, and a research exemption, it would be doing much, 
+
+much, much more under the guise of patent exhaustion. 
+
+16  Justice Breyer, as you pointed out, the 
+
+17 Exhaustion Doctrine really has nothing to do with this 
+
+18 case, and that's because the Exhaustion Doctrine has 
+
+19 always been limited to the particular article that was 
+
+sold, and we are talking about a different article here. 
+
+21 And it's never extended to the making of a new article. 
+
+22  CHIEF JUSTICE ROBERTS: Well, but I mean, 
+
+23 this -- the reason it's never is because this is an 
+
+24 entirely different case. It's the reason it's here 
+
+because you have the intersection of the Exhaustion 
+
+25
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Doctrine and the -- the normal protection of reinvented 
+
+2 articles. So I don't think it gets you very far to say 
+
+3 that we've never applied the Exhaustion Doctrine that 
+
+4 way either. We have never applied the Reinvention 
+
+Doctrine to articles that reinvent themselves like plant 
+
+6 seed. 
+
+7  MS. ARBUS SHERRY: It's true that the Court 
+
+8 hasn't had an exhaustion case specifically involving the 
+
+9 sort of replicating technology, but when the Court has 
+
+talked about exhaustion it has always focused on the 
+
+11 specific article that's sold and it has done that for a 
+
+12 reason. The concept underlying exhaustion is that when 
+
+13 the patentholder controls that very first sale it gets 
+
+14 the one royalty with respect to the actual article sold. 
+
+Petitioner's argument isn't limited to the 
+
+16 commodity grain that we are talking about. It's not 
+
+17 even limited -- when you talk -- Justice Breyer, you 
+
+18 mentioned the three different generations of seeds. 
+
+19 There is actually quite a few more generations than 
+
+those three. 
+
+21  If the concept is the sale of a parent plant 
+
+22 exhausts the patentholder's rights, not only with 
+
+23 respect to that seed, but with respect to all the 
+
+24 progeny seed, we would have to go all the way back to 
+
+the very first Roundup Ready plant that was created as 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 part of the transformation event. Every single Roundup 
+
+2 Ready seed in existence today is the progeny of that one 
+
+3 parent plant and, as Your Honor pointed out, that would 
+
+4 eviscerate patent protections. There would be no 
+
+incentive to invest, not just in Roundup Ready soybeans 
+
+6 or not even agricultural technology, but it's quite a 
+
+7 bit broader than that. 
+
+8  In order to encourage investment, the Patent 
+
+9 Act provides 20 years of exclusivity. This would be 
+
+reducing the 20-year term to essentially one and only 
+
+11 sale. It would be near impossible to recoup your 
+
+12 investments with that first sale and so the more likely 
+
+13 consequence is that research dollars would be put 
+
+14 elsewhere. 
+
+The other --
+
+16  JUSTICE SCALIA: That's a pretty horrible 
+
+17 result, but let me give you another horrible result, and 
+
+18 that is if -- if we agree with you, farmers will not be 
+
+19 able to do a second planting by simply getting the 
+
+undifferentiated seeds from -- from a grain elevator 
+
+21 because at least a few of those seeds will always be 
+
+22 patented seeds, and no farmer could ever plant anything 
+
+23 from a grain elevator, which means -- I gather they use 
+
+24 it for second plantings where the risks are so high that 
+
+it doesn't pay to buy expensive seed. Now they can't do 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that anymore because there's practically no grain 
+
+2 elevator that doesn't have at least one patented seed in 
+
+3 it. 
+
+4  MS. ARBUS SHERRY: And the answer to that is 
+
+this is actually not a traditional farming practice. 
+
+6 Despite what Petitioner says, farmers do not generally 
+
+7 go to grain elevators, buy commingled grain, plant it in 
+
+8 the ground as seed. If you look at the American Soybean 
+
+9 Association brief submitted on behalf of soybean 
+
+farmers, it says as much. If you look at the CHS brief, 
+
+11 which is submitted on behalf of grain elevators, it also 
+
+12 explains that. 
+
+13  And there is a number of reasons why that is 
+
+14 the case. They’re the reasons that Petitioner talked 
+
+about, which is that they are an undifferentiated mix, 
+
+16 but there are other reasons as well. The business of 
+
+17 grain elevators is not to sell commingled grain as seed. 
+
+18 If that was their business they would have to comply with 
+
+19 seed labeling laws. They do not do so because it's not 
+
+their business model. 
+
+21  JUSTICE SCALIA: That's why it's so cheap. 
+
+22 And that's why farmers --
+
+23  (Laughter.) 
+
+24  JUSTICE SCALIA: -- and that's why farmers 
+
+want to use it, for a cheap planting. 
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MS. ARBUS SHERRY: But farmers wouldn't be 
+
+2 able to use it for another reason as well. Even if you 
+
+3 take patent law and you put it entirely to the side, 
+
+4 there is still the Plant Variety Protection Act. 
+
+JUSTICE KENNEDY: But correct me -- correct 
+
+6 me if I am wrong; I thought that is what Bowman did. 
+
+7  MS. ARBUS SHERRY: Bowman did, absolutely 
+
+8 did it in this circumstance. But Bowman also said that 
+
+9 he is not aware of other farmers who are engaging in 
+
+this practice. 
+
+11  And again, there is another reason. Putting 
+
+12 aside the labeling laws, there is the Plant Variety 
+
+13 Protection Act and, as Pioneer points out in their 
+
+14 amicus brief, it is quite likely that a large amount of 
+
+the commingled grain is not only protected by patent, 
+
+16 but is actually protected by a Plant Variety Protection 
+
+17 Certificate, and what Petitioner did here would infringe 
+
+18 the Plant Variety Protection Certificate. So even 
+
+19 putting patent law to the side, this is not an 
+
+economically viable source of seed for farmers, 
+
+21 regardless. 
+
+22  And Petitioner's argument again isn't 
+
+23 limited to the grain elevators. It would apply to 
+
+24 saving your own seed and planting it generation after 
+
+generation. 
+
+29
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SCALIA: Sure, sure, I understand. 
+
+2  MS. ARBUS SHERRY: It would apply to selling 
+
+3 seeds to your neighboring farmer, and it would allow 
+
+4 seed companies to essentially compete with Monsanto upon 
+
+the first sale. 
+
+6  Now to the extent --
+
+7  CHIEF JUSTICE ROBERTS: So when -- when are 
+
+8 the patent rights exhausted in the seed? 
+
+9  MS. ARBUS SHERRY: The patent rights are 
+
+exhausted in the seed at the same time they are 
+
+11 exhausted with respect to any other product, upon an 
+
+12 authorized sale. And so, Justice Breyer, again you had 
+
+13 it right when you were saying that you can do what you 
+
+14 want. In our view, once there is an authorized sale, 
+
+you can do what you want with respect to the seed that 
+
+16 you've actually purchased. That is the tangible article 
+
+17 that you paid for. 
+
+18  But you do need permission from the 
+
+19 patentholder in order to make a new generation of seed. 
+
+If -- to the extent, you know, any middle ground is 
+
+21 warranted, with all due respect, we would point to 
+
+22 Congress as the appropriate body. This Court said --
+
+23  JUSTICE SOTOMAYOR: Just so I can follow 
+
+24 your -- just so I can follow your answer, Monsanto sells 
+
+the seed to the farmer. And you are saying if the 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 farmer grows the seed, he can sell it to anybody he 
+
+2 wants, right? 
+
+3  MS. ARBUS SHERRY: If Monsanto authorizes --
+
+4  CHIEF JUSTICE ROBERTS: I'm putting aside 
+
+all the contracts and stuff. 
+
+6  MS. ARBUS SHERRY: Right. So if Monsanto 
+
+7 authorized that first sale and authorized the planting, 
+
+8 they would also have to authorize the sale of the second 
+
+9 generation seed because it's a new article. And that's 
+
+exactly what happened here. 
+
+11  If you look at the technology agreement --
+
+12 and it's not just because it's a contract because I 
+
+13 think it's significant to the analysis -- Monsanto, upon 
+
+14 the first sale of the bag of Roundup Ready seed, 
+
+authorizes the planting for one commercial crop and it 
+
+16 authorizes the farmer to sell that as a commercial crop 
+
+17 or to use it for any purpose other than replanting. 
+
+18  That is an authorized sale. So if you take 
+
+19 that second generation seed -- "second generation" is a 
+
+bit of a misnomer, but if you take that seed and you 
+
+21 follow it through, all of the patent rights with respect 
+
+22 to that particular seed have been exhausted. But you 
+
+23 cannot take that seed without separate authorization, 
+
+24 plant it in the ground, and come up with the next 
+
+generation of seed. That would be --
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  CHIEF JUSTICE ROBERTS: That sounds like the 
+
+2 patent rights haven't been exhausted then. 
+
+3  MS. ARBUS SHERRY: They have been exhausted 
+
+4 with respect to the particular article sold. When the 
+
+Court's talked about patent exhaustion, you are not 
+
+6 exhausting the rights with respect to the patented 
+
+7 invention. You're exhausting --
+
+8  CHIEF JUSTICE ROBERTS: You mean it’s been 
+
+9 exhausted with respect to the one bean? 
+
+MS. ARBUS SHERRY: Yes, and that's always 
+
+11 the case just as if I sell -- I mean, even if you think 
+
+12 in the copyright --
+
+13  CHIEF JUSTICE ROBERTS: That's always the 
+
+14 case because it's a very -- the other cases haven't 
+
+involved the -- this situation where you are talking 
+
+16 about a self-regenerating product. 
+
+17  MS. ARBUS SHERRY: But I think there is 
+
+18 other technology out there. I mean, even if you think 
+
+19 of software, for example, there are plenty of other 
+
+products where one reasonable use is to make more. I 
+
+21 can purchase software; one reasonable use would be to 
+
+22 make a dozen other copies to give to my friends or sell 
+
+23 on eBay. It's a reasonable use, but it's an infringing 
+
+24 one. 
+
+CHIEF JUSTICE ROBERTS: Well, we haven't had 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that case either. 
+
+2  (Laughter.) 
+
+3  MS. ARBUS SHERRY: The Court hasn't had that 
+
+4 case exactly, but it did decide Microsoft v. AT&T, and 
+
+granted that was on a slightly different issue, but in 
+
+6 that case the Court recognized -- that case, it was 
+
+7 copies from a master disk, and it treated them as 
+
+8 separate copies because they were actually separate 
+
+9 articles, even though it was really easy to do, even 
+
+though the actual copying is not done by human hands, 
+
+11 it's done by -- by mechanical processes. In fact, in 
+
+12 that case the Court talked and compared the making of 
+
+13 software to the reproduction through biological 
+
+14 processes, which is what we are talking about here. 
+
+And so all we are asking the Court to do 
+
+16 today -- I recognize it's a new technology and to the 
+
+17 extent new technologies require different rules, 
+
+18 Congress is the body that should be making those 
+
+19 different rules. And when Congress has acted in this 
+
+area, in the Plant Variety Protection Act and also in 
+
+21 the software context in the Copyright Act, it has not 
+
+22 adopted the wholesale exemption that Petitioner is 
+
+23 asking for here. 
+
+24  JUSTICE KAGAN: Ms. Sherry -- I'm sorry. In 
+
+everything you've said you agree with Mr. Waxman. There 
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 is this issue in the case where you disagree, which is 
+
+2 the Conditional Sale Doctrine. I am just wondering, 
+
+3 before you finish up, could you say a bit about whether 
+
+4 that doctrine is causing trouble as it presently exists 
+
+in the Federal Circuit? In other words, could we just 
+
+6 ignore that doctrine if we wanted to, or is it a very 
+
+7 problematic one that we should take this opportunity to 
+
+8 do something about? 
+
+9  MS. ARBUS SHERRY: Your Honor, may I? 
+
+CHIEF JUSTICE ROBERTS: Sure. 
+
+11  MS. ARBUS SHERRY: I think the Court does 
+
+12 not need to do something about it in this case. I think 
+
+13 Quanta largely decided the issue, even though it didn't 
+
+14 say so explicitly, and as far as I'm aware the Federal 
+
+Circuit has not applied their previous version of the 
+
+16 Conditional Sale Doctrine to enforce the post-sale 
+
+17 restrictions since this Court's decision in Quanta. 
+
+18  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+19  Mr. Waxman. 
+
+ORAL ARGUMENT OF SETH P. WAXMAN 
+
+21  ON BEHALF OF THE RESPONDENTS 
+
+22  MR. WAXMAN: Mr. Chief Justice, and may it 
+
+23 please the Court: 
+
+24  Let me start by answering a couple of, I 
+
+guess, science or technology questions that came up 
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 before launching into our doctrinal position. 
+
+2  First of all, Justice Kennedy, soybeans are 
+
+3 soybeans. They are harvested at a particular point in 
+
+4 time, whatever use is going to be made for them. It is 
+
+not a plant like a flower, geranium for example, which 
+
+6 has to be left to go to seed, or alfalfa. The bean is 
+
+7 the seed. 
+
+8  All soybeans have to be processed to be used 
+
+9 in any way. If they are going to be planted, they have 
+
+to be cleaned before they are put in the ground at the 
+
+11 right time. If they are being fed to either humans or 
+
+12 animals, they have to be processed in a way that 
+
+13 eliminates an enzyme that makes them indigestible by 
+
+14 animals. 
+
+Justice Scalia, your question about well, 
+
+16 farmers now just can't do second plantings because 
+
+17 soybeans are put in huge grain elevators and different 
+
+18 varieties are mingled, that is true in the sense that if 
+
+19 one or more of those soybeans were protected by a 
+
+patent, the actual growing of the use of those patented 
+
+21 inventions without a license would be infringement, 
+
+22 although, of course, if no glyphosate were put on top of 
+
+23 it, neither the farmer nor Monsanto would ever know that 
+
+24 there was an act of infringement. 
+
+But more to the point, farmers -- I mean, 
+
+35
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 the planting of second crops, that is crop rotation of 
+
+2 interspersing soybeans and winter wheat, is very, very 
+
+3 common. There are hundreds of thousands of soybean 
+
+4 farmers who do this every year. 
+
+Mr. Bowman has acknowledged that so far as 
+
+6 he knows, he's the only one who's doing it this way. 
+
+7 But there are plenty of other ways in which he could 
+
+8 obtain a much less expensive crop of -- you know, a 
+
+9 particular variety of soybean, so one that will all grow 
+
+to the same height and germinate at the same time. And 
+
+11 in fact, he explained this to the district court in his 
+
+12 response to the motion for summary judgment at page 152a 
+
+13 of the joint appendix. 
+
+14  He said defendant wanted a cheap source of 
+
+seed for his second crop beans because of the normal 
+
+16 risks in growing "wheat beans;" that is, the second crop 
+
+17 that follows the harvesting of winter wheat. 
+
+18  Quote, "defendant simply wasn't going to 
+
+19 plant the high priced soybean seed after his wheat 
+
+crop." And here's the relevant sentence. "Defendant 
+
+21 could have purchased conventional seed, that is, 
+
+22 non-patented seed, and then saved its offspring for 
+
+23 wheat beans." 
+
+24  In other words, he could have gone and 
+
+bought a non-patented -- a bag of non-patented seed for 
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 much less money, and used it as his second crop, or 
+
+2 harvested a portion of it -- and soybeans replicate at a 
+
+3 rate between 20 and 80 times in each generation -- and 
+
+4 have a perpetual source for his second crop thereafter. 
+
+JUSTICE GINSBURG: But he couldn't put the 
+
+6 herbicide on -- he couldn't -- if he went and bought 
+
+7 conventional seeds, not the genetically improved seeds 
+
+8 --
+
+9  MR. WAXMAN: Exactly. 
+
+JUSTICE GINSBURG: -- then -- then he 
+
+11 wouldn't -- what would the yield be if he puts the 
+
+12 herbicide on it and they are all killed? 
+
+13  MR. WAXMAN: Justice Ginsburg, the -- the 
+
+14 glyphosate resistance doesn't change the yield of a 
+
+particular plant, it changes the way you have to control 
+
+16 weeds. And he would not be able to use Monsanto's 
+
+17 technology that would allow aerial application of an 
+
+18 herbicide. He would have to -- if he wanted to buy 
+
+19 plain old, you know, conventional soybeans, he has to 
+
+control for weeds in the conventional way. 
+
+21  And here's the very next sentence in his 
+
+22 response to the Court. "Defendant" -- that is, instead 
+
+23 of purchasing conventional seeds and saving them, he 
+
+24 says "Defendant decided to purchase a grain dealer's 
+
+commodity grain because he felt there was a good chance 
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 he would obtain mostly grain that would be resistant to 
+
+2 glyphosate," and therefore, he could use Monsanto's 
+
+3 technology without having to pay for it. 
+
+4  Mr. Chief Justice, your question about this 
+
+is a new case and -- let me go first to your first 
+
+6 question in the case, which is why would a company ever 
+
+7 want to do this? I think the answer is that without the 
+
+8 ability -- let's talk about soybeans and then broaden it 
+
+9 to other kinds of readily replicable technologies --
+
+without the ability to limit reproduction of soybeans 
+
+11 containing this patented trait, Monsanto could not have 
+
+12 commercialized its invention, and never would have 
+
+13 produced what is, by now, the most popular agricultural 
+
+14 technology in America because, as Ms. Sherry was 
+
+pointing out, the sale of the very first Roundup Ready 
+
+16 soybean seed, from which all the trillions of Roundup 
+
+17 Ready soybean seeds in existence now derive, would have, 
+
+18 under Mr. Bowman's theory, fully exhausted not only 
+
+19 Monsanto's rights in that seed that was sold, but in all 
+
+progeny unto the -- however many generations 
+
+21 Justice Breyer thinks is "not too many." 
+
+22  I think it's important to understand how 
+
+23 this technology works. The Department of Agriculture 
+
+24 licensed Monsanto to engage in a transformation event; 
+
+that is, to introduce its recombinant gene into soybean 
+
+38
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 germ plasm. It's illegal to do it unless you get a 
+
+2 government license to do it. And you can do it once. 
+
+3 And that is done by the technology company, use --
+
+4 taking something that's called a gene gun and using the 
+
+gene gun to inject recombinant DNA into regular germ 
+
+6 plasm. 
+
+7  JUSTICE SCALIA: What do you mean you can do 
+
+8 it once? I don't know what you --
+
+9  MR. WAXMAN: The -- the Department of 
+
+Agriculture authorized Monsanto to engage in -- to 
+
+11 transform natural -- natural plant material with its 
+
+12 recombinant gene in one single event that is referred to 
+
+13 as a transformation. 
+
+14  JUSTICE SCALIA: One shot of a gun. 
+
+MR. WAXMAN: I think you may be able to 
+
+16 shoot several -- I don't know whether you can shoot a 
+
+17 whole round or whatever. But in any event, it's one 
+
+18 event. 
+
+19  (Laughter.) 
+
+JUSTICE SCALIA: You can't rob a bank with 
+
+21 it, though, right? 
+
+22  (Laughter.) 
+
+23  MR. WAXMAN: I, in my mind, have been trying 
+
+24 to figure out what a gene gun looks like. And I don't 
+
+know -- I don't know if you could use it to rob a bank. 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 But the point is -- and the -- the Federal Register site 
+
+2 for the transformation event with respect to Roundup 
+
+3 Ready is -- is provided in a footnote in our brief. 
+
+4 What happens then is that Monsanto uses those 
+
+transformed cells to grow a soybean plant. 
+
+6  And that soybean plant produces genetic --
+
+7 produces seeds or soybeans that have the recombinant 
+
+8 Roundup Ready technology in it. Monsanto then provides 
+
+9 -- in almost all of the cases, Monsanto engages in 
+
+licensed sales of those transformed seeds to hundreds of 
+
+11 different seed companies that produce different 
+
+12 varieties, and they make both conventional seed with a 
+
+13 particular varietal makeup and a Roundup Ready version 
+
+14 of that variety. 
+
+Monsanto provides the soybeans that it has 
+
+16 transformed to the seed companies, to the hundreds of 
+
+17 seed companies for consideration. Under Mr. Bowman's 
+
+18 theory, that was it for all of Monsanto's rights with 
+
+19 respect to this technology. The very first time it took 
+
+an original transformed seed and sold it to a seed 
+
+21 company so that it could bulk up and cross-breed and 
+
+22 produce different varieties, Monsanto had lost all of 
+
+23 its patent rights. 
+
+24  In other words, by go at -- having committed 
+
+hundreds of millions of dollars in 13 years to develop 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 this technology in the very first sale of an article 
+
+2 that practices the patent, it would have exhausted its 
+
+3 rights in perpetuity. 
+
+4  Now, we --
+
+JUSTICE KAGAN: Mr. Waxman, there is a 
+
+6 worrisome thing on the other side, though, too. And 
+
+7 that is that your position has the -- has the capacity 
+
+8 to make infringers out of everybody. And that is 
+
+9 highlighted actually in this case by how successful this 
+
+product is and how large a percentage of the market it 
+
+11 has had. 
+
+12  So that -- you know, seeds can be blown onto 
+
+13 a farmer's farm by wind, and all of a sudden you have 
+
+14 Roundup seeds there and the person -- farmer is 
+
+infringing, or there's a 10-year-old who wants to do a 
+
+16 science project of creating a soybean plant, and he goes 
+
+17 to the supermarket and gets some edamame, and it turns 
+
+18 out that it's Roundup seeds. 
+
+19  (Laughter.) 
+
+JUSTICE KAGAN: And, you know, these Roundup 
+
+21 seeds are everywhere, it seems to me. There's, what, 
+
+22 90 percent of all the seeds that are around? So it 
+
+23 seems as though -- like pretty much everybody is an 
+
+24 infringer at this point, aren't they? 
+
+MR. WAXMAN: Certainly not. Let me make --
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 let me make three points, starting with the edamame and 
+
+2 moving up to inadvertent infringers. 
+
+3  Edamame is an immature form of the soybean 
+
+4 seed. You can plant edamame --
+
+JUSTICE KAGAN: Okay. I'll change the 
+
+6 hypothetical. 
+
+7  (Laughter.) 
+
+8  MR. WAXMAN: If I take my -- you know, my 
+
+9 Girl Scout troop and have them do a science experiment, 
+
+it will rot, but it will not generate. And that --
+
+11  JUSTICE KAGAN: And I thought I was being so 
+
+12 clever, too. 
+
+13  (Laughter.) 
+
+14  MR. WAXMAN: Well, it also reminds me that 
+
+my original answer to Justice Kennedy is wrong, which is 
+
+16 that edamame is taken from the pods before the -- the 
+
+17 thing becomes actually a seed that can be processed in 
+
+18 any other way. 
+
+19  Your point about the ubiquity of Roundup 
+
+Ready -- Roundup Ready's use is a fair one. I mean, 
+
+21 this is probably the most rapidly adopted technological 
+
+22 advance in history. The very first Roundup Ready 
+
+23 soybean seed was only made in 1996. And it now is grown 
+
+24 by more than 90 percent of the 275,000 soybean farms in 
+
+the United States. 
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  But size -- that is, success -- has never 
+
+2 been thought and can't be thought to affect the contour 
+
+3 of patent rights. You may very -- with soybeans, the 
+
+4 problem of blowing seed is not an issue for soybeans. 
+
+Soybeans don't -- I mean, it would take Hurricane Sandy 
+
+6 to blow a soybean into some other farmer's field. And 
+
+7 soybeans, in any event, are -- you know, have perfect 
+
+8 flowers; that is, they contain both the pollen and the 
+
+9 stamen, so that they -- which is the reason that they 
+
+breed -- breed true, unlike, for example, corn. 
+
+11  The point that there may be many farmers 
+
+12 with respect to other crops, like alfalfa, that may have 
+
+13 some inadvertent Roundup Ready alfalfa in their fields 
+
+14 may be true, although it's -- it is not well documented. 
+
+There would be inadvertent infringement if the farmer 
+
+16 was cultivating a patented crop, but there would be no 
+
+17 enforcement of that. 
+
+18  The farmer wouldn't know, Monsanto wouldn't 
+
+19 know, and in any event, the damages would be zero 
+
+because you would ask what the reasonable royalty would 
+
+21 be, and if the farmer doesn't want Roundup Ready 
+
+22 technology and isn't using Roundup Ready technology to 
+
+23 save costs and increase productivity, the -- the royalty 
+
+24 value would be zero. 
+
+JUSTICE BREYER: Well, is -- I mean, that is 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 an interesting question because you can imagine -- you 
+
+2 see, this is -- your answer -- this really deals with 
+
+3 all -- it could be with genetic patents, with -- with 
+
+4 hosts of things which are self-replicating. 
+
+MR. WAXMAN: Mm-hmm. 
+
+6  JUSTICE BREYER: And some of the 
+
+7 self-replicating items, which are infringing items, end 
+
+8 up inadvertently all over the place. Is there anything 
+
+9 in the patent law that deals with that? Is an 
+
+involuntary infringer treated the same under patent law 
+
+11 as a voluntary infringer? 
+
+12  MR. WAXMAN: Well --
+
+13  JUSTICE BREYER: Is -- is there precautions 
+
+14 that you take? I mean, is there anything in patent law 
+
+that helps? 
+
+16  MR. WAXMAN: So infringement is -- unlike 
+
+17 contributory infringement or induced infringement, the 
+
+18 act of infringement, that is a violation of Section 
+
+19 271 --
+
+JUSTICE BREYER: Right. 
+
+21  MR. WAXMAN: -- is a strict liability tort, 
+
+22 but it requires affirmative volitional contact --
+
+23 conduct. That is, it's not that -- a thing doesn't 
+
+24 infringe; a person infringes. 
+
+JUSTICE BREYER: Well, the person plants it. 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. WAXMAN: The person --
+
+2  JUSTICE BREYER: I mean, he plants it, but 
+
+3 he doesn't even know, you know. He's just got -- we can 
+
+4 imagine a lot of circumstances where this would be a --
+
+where Justice Kagan's question could apply. 
+
+6  MR. WAXMAN: I mean, take the --
+
+7  JUSTICE BREYER: But you're just saying that 
+
+8 would need a --
+
+9  MR. WAXMAN: Sure. 
+
+JUSTICE BREYER: -- modification in patent 
+
+11 law. 
+
+12  MR. WAXMAN: Of course. I mean, take the 
+
+13 example, and this goes to I think the comment made by 
+
+14 the Chief Justice, that even in the software context, we 
+
+haven't had this case yet. You did have this case in --
+
+16 in Microsoft v. AT&T that involved, you know, 
+
+17 Microsoft's golden disk that has the Windows Operating 
+
+18 System on it, which is patented, and was being exported 
+
+19 overseas for introduction into, you know, computers that 
+
+were manufactured overseas. And AT&T's patent, which 
+
+21 was a method of compressing speech, was practiced by the 
+
+22 Windows software. 
+
+23  And this Court held that, although the 
+
+24 writing of the Windows Operating System into computers 
+
+in the United States would have infringed the patent, 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 and when Microsoft did that it did infringe AT&T's 
+
+2 patent, the fact that the copies were made onto the hard 
+
+3 drives of the computer overseas meant that the act of 
+
+4 infringement occurred overseas and there was not an 
+
+export of -- of an infringing product for the purposes 
+
+6 of infringing overseas for purposes of Section 271(f). 
+
+7  So I think you have decided in the context 
+
+8 of software, which of course replicates even more 
+
+9 readily than soybeans do or vaccines or cell lines or 
+
+plasmids, that the copies that are actually made when 
+
+11 a -- a software is written onto the hard drive of a 
+
+12 computer is a different thing than the disk that was 
+
+13 sent and is infringing, if it occurs within the United 
+
+14 States. 
+
+JUSTICE BREYER: What about -- what about 
+
+16 the other question --
+
+17  MR. WAXMAN: So the other one --
+
+18  JUSTICE BREYER: No, no, no, I want to go 
+
+19 back to a different question that was asked, which was 
+
+the question what do you think we should do about this 
+
+21 other aspect of the case, the licensing aspect? I mean, 
+
+22 I would have thought it doesn't concern Monsanto's 
+
+23 license of generation 1 because, insofar as it's 
+
+24 relevant, here generation 1 carries the license that is 
+
+just permissive. 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  It is to create generation 2. But -- but 
+
+2 they also said something in the circuit about a 
+
+3 license -- about a restriction, implied perhaps, on --
+
+4 on the use of generation 2 by the grain elevator for 
+
+creating generation 3, namely you can't do that. 
+
+6  Now, they -- they thought, the circuit, that 
+
+7 there's some restriction in a license and they have a 
+
+8 doctrine that seems to say that you can restrict 
+
+9 licenses -- through licenses the use of a product after 
+
+it's been sold. And that would seem contrary to the 
+
+11 First Sale Doctrine. 
+
+12  MR. WAXMAN: Okay. Let me -- let me answer 
+
+13 your question this way: First of all, we don't think 
+
+14 that there's any need whatsoever for this Court -- we 
+
+agree with the government that there's no need for the 
+
+16 Court to address the question of conditional sales and 
+
+17 the extent to which patent law recognizes under some 
+
+18 circumstances conditional sales because in this case the 
+
+19 Federal Circuit did not address that ground which we 
+
+advocated and we still advocate, but instead said -- and 
+
+21 I'm reading from 14a of the petition appendix. 
+
+22  "Even if Monsanto's patent rights in the 
+
+23 commodity seeds are exhausted, such a conclusion would 
+
+24 be of no consequence because once a grower like Bowman 
+
+plants the commodity seeds containing Monsanto's Roundup 
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Ready technology and the next generation of seed 
+
+
+2 develops, the grower has created a newly infringing 
+
+
+3 article." 
+
+
+4  In other words, what the Federal Circuit 
+
+
+decided, and it is entirely correct and it should be 
+
+6 affirmed on that basis, is what you're calling, I think 
+
+7 generation 3, let's say that for simplicity's sake, 
+
+8 since generation 1 is the original soybean sold by 
+
+9 Monsanto to seed companies, let's just say that the bags 
+
+of soybean seeds that farmers go to purchase from seed 
+
+11 dealers is called generation N and they are licensed to 
+
+12 produce generation N plus 1. But then, what about N 
+
+13 plus 2? 
+
+14  So what the Federal Circuit held is N plus 2 
+
+has never been sold. It was created, it exists without 
+
+16 a sale, and because a sale is the sine qua non of patent 
+
+17 exhaustion, which is also referred to as first sale, 
+
+18 there is no exhaustion. 
+
+19  Alternatively, the Federal Circuit said in 
+
+any event, even when exhaustion applies, it only 
+
+21 privileges the using or selling of the article sold; as 
+
+22 Your Honor's questions pointed out originally, it never 
+
+23 privileges the making of a new infringing product. 
+
+24  JUSTICE KENNEDY: Could -- could you prevail 
+
+in this case if we focused just on use rather than make? 
+
+48
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. WAXMAN: If you're referring to 
+
+2 generation N plus 2, the answer is yes, because those 
+
+3 are newly infringing products with no exhaustion of 
+
+4 Monsanto's rights, and as a consequence farmers have no 
+
+authority to use, make, sell, or offer to sell without 
+
+6 Monsanto's authorization. That is a -- just a 
+
+7 straightforward application of Section 271. 
+
+8  JUSTICE SOTOMAYOR: Mr. Waxman, I want to go 
+
+9 back to Justice Breyer's question and reformulate it as 
+
+a different question, with I think the same answer --
+
+11  MR. WAXMAN: Okay. 
+
+12  JUSTICE SOTOMAYOR: -- but I just want to 
+
+13 make sure you and the government are exactly on the same 
+
+14 page. 
+
+Both of you are suggesting, I think -- that 
+
+16 was Ms. Sherry's last response -- that we were explicit 
+
+17 enough in Quanta and we don't have to address whatever 
+
+18 lingering confusion the Federal Circuit may have with 
+
+19 respect to conditional sales at all in this case? 
+
+MR. WAXMAN: I --
+
+21  JUSTICE SOTOMAYOR: You're -- you're telling 
+
+22 us we don't need to reach that prong and we shouldn't. 
+
+23  MR. WAXMAN: I'm -- I agree that you don't 
+
+24 need to reach the prong and you shouldn't. 
+
+JUSTICE SOTOMAYOR: I understand we don't 
+
+49
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 need to, but the question is should we? Is there a 
+
+
+2 need --
+
+
+3  MR. WAXMAN: Well, I think --
+
+
+4  JUSTICE SOTOMAYOR: -- generally in -- in 
+
+
+clarifying some lingering confusion? 
+
+6  MR. WAXMAN: I think that -- I think that an 
+
+7 appropriate case will come up where it will be important 
+
+8 for you to determine that. And our third argument, 
+
+9 which wasn't addressed by the Federal Circuit and isn't 
+
+necessary to affirm, is that conditional sales are not 
+
+11 ipso facto unenforceable; that is, a -- in an instant --
+
+12 everybody understands that if instead of selling 
+
+13 technology, you lease it, and you sign a license that 
+
+14 imposes conditions on that lease, you know, unless they 
+
+are unreasonable, conditions that are reasonably related 
+
+16 to exploitation of the invention are enforceable. Mr. 
+
+17 Bowman acknowledges that. Everyone acknowledges that. 
+
+18  Our single submission here is that where you 
+
+19 have a technology that cannot be leased because it will 
+
+consume itself in whatever use one makes of it, and 
+
+21 therefore has to be -- an article embodying the 
+
+22 invention has to be sold and where the invention cannot 
+
+23 be commercialized if it -- if the inventor has to 
+
+24 realize its full costs of development and a reasonable 
+
+rate of return on the first sale, the fact that there is 
+
+50
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 this necessary sale in order to commercialize the 
+
+2 invention cannot ipso facto make all such conditions 
+
+3 unenforceable. And that's all -- if you were to reach 
+
+4 the conditional sale issue in this case, that is all we 
+
+think this case stands for. And the reason I think --
+
+6  JUSTICE SOTOMAYOR: Actually then you do 
+
+7 have a different position than the government does. 
+
+8  MR. WAXMAN: Yes, and I think the reason, if 
+
+9 we take it out of the soybean area, let's look at 
+
+vaccines. Because the Roundup Ready gene essentially 
+
+11 immunizes soybean plants from the herbicide in the same 
+
+12 way that a life-saving vaccine will immunize individuals 
+
+13 that receive it from some external -- it wouldn't be a 
+
+14 herbicide -- a life threat. 
+
+Okay. Vaccines are live. They have live 
+
+16 cultures; they can regenerate themselves. If a company 
+
+17 develops the vaccine for, you know, H1 -- I shouldn't be 
+
+18 using -- an important life-saving vaccine --
+
+19  (Laughter.) 
+
+MR. WAXMAN: -- it's unsupportable to say 
+
+21 that you cannot sell a quantity of that vaccine without 
+
+22 exhausting all of your rights in it. 
+
+23  I mean, when -- when Schering-Plough or 
+
+24 Bristol-Myers develops a vaccine and sells some of it to 
+
+CVS so I can go in and get injected, they haven't lost 
+
+51
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 all of their patent rights in that vaccine. CVS can't 
+
+2 turn around and become a competitor. 
+
+3  JUSTICE SOTOMAYOR: Simplifying this case, 
+
+4 you can't take the person who's been given the vaccine 
+
+and take vials of their blood and keep selling it? Is 
+
+6 that your --
+
+7  MR. WAXMAN: Yes, and keep -- well, keep 
+
+8 replicating it in competition. Take another example --
+
+9  CHIEF JUSTICE ROBERTS: Well, is that how it 
+
+works? 
+
+11  (Laughter.) 
+
+12  CHIEF JUSTICE ROBERTS: No, I mean I'm 
+
+13 serious. I mean, your example, it seems to me, is not 
+
+14 quite on point because it's not a situation where the 
+
+intended use of the vaccine necessarily results in 
+
+16 regeneration of it. In your hypothetical, CVS was going 
+
+17 to some lab and making more, right? 
+
+18  MR. WAXMAN: Well, CVS was presumably buying 
+
+19 it either from the manufacturer or another lab. But the 
+
+point here is that to take the software example, if I go 
+
+21 to, you know, Staples and buy the Windows operating 
+
+22 system on a disk, I don't have the authority to put it 
+
+23 in a disk replicator and press a button and make a 
+
+24 million copies of it. And --
+
+JUSTICE BREYER: But you don't need that 
+
+52
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 because in each instance, as you say, you are making new 
+
+2 ones. It's the making of the new ones, not the use of 
+
+3 the old ones, where you prevent that from being done. 
+
+4  MR. WAXMAN: Yeah. Well, let me -- the 
+
+example that comes to mind is, of course, poor 
+
+6 Dr. Chakrabarty who, you know, invented a new man-made 
+
+7 bacteria. Bacteria replicate themselves, unlike 
+
+8 soybeans which require human intervention. I mean, the 
+
+9 notion --
+
+JUSTICE BREYER: Then you use the word 
+
+11 "use." 
+
+12  MR. WAXMAN: Excuse me? 
+
+13  JUSTICE BREYER: Then you use the word "use" 
+
+14 and you get to the same place. 
+
+MR. WAXMAN: I mean, my submission about --
+
+16  JUSTICE BREYER: I don't think you can think 
+
+17 of an example. I mean, you say -- I don't think you can 
+
+18 think of an example where if you win on the other 
+
+19 ground, you can produce a bad result for the 
+
+manufacturer or the inventor because you haven't treated 
+
+21 the conditional sale like a license. I'm not saying you 
+
+22 can't, I just can't think of one. 
+
+23  MR. WAXMAN: Okay. Here's one. I will use 
+
+24 something that doesn't make itself because we think that 
+
+is covered by the new article. Let's say that I invent 
+
+53
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 a new, miraculous new machine.  I get a patent for it. 
+
+2  I want people to be able -- I'm going to 
+
+3 commercialize it. Or I'm going to license with people 
+
+4 to commercialize it, but I want people to be able to 
+
+study it and research it. And so, like Monsanto with 
+
+6 its seeds, I sign -- I provide a copy of the machine to 
+
+7 MIT, with a research-only license; that is, you can use 
+
+8 this machine to figure out how it works and develop new 
+
+9 applications and all that sort of stuff. 
+
+If that sale is exhausting for all purposes, 
+
+11 I can't prevent MIT or a third party that MIT provides 
+
+12 the machine for --
+
+13  JUSTICE BREYER: So lease it. 
+
+14  MR. WAXMAN: -- to go into competition with 
+
+it. 
+
+16  JUSTICE BREYER: So lease it. 
+
+17  MR. WAXMAN: Yes, but you can't lease 
+
+18 articles like software and, you know, soybeans that 
+
+19 consume themselves in any use, other than an art 
+
+experiment. 
+
+21  JUSTICE KENNEDY: I do have this problem 
+
+22 that goes back to Justice Scalia's example. What about 
+
+23 the commodity bin that has 2 percent of the patented 
+
+24 seeds in them? Now, you get away from the article by 
+
+saying, oh, well, almost all seeds are Roundup these 
+
+54
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 days. But let's have some different commodity where 
+
+2 there are three or four different patented items, but 1 
+
+3 percent, 2 percent of the seeds are in the bin. You 
+
+4 can't -- you can't sell those. That seems to me a very 
+
+extreme result. 
+
+6  MR. WAXMAN: Well, I mean, when you say you 
+
+7 can't sell them. So, as Ms. Sherry was pointing out --
+
+8  JUSTICE KENNEDY: You can't sell them if 
+
+9 they know they are going to be used for seeds, and you 
+
+can't use them for seeds even though there is only 
+
+11 1 percent of the seeds? 
+
+12  MR. WAXMAN: That would be true even if this 
+
+13 case came out another way, Justice Kennedy. First of 
+
+14 all, because grain elevators are prohibited by State and 
+
+Federal law from selling seed, period. They sell --
+
+16 they buy grain and they sell grain. They can't sell 
+
+17 seed. 
+
+18  Number 2, almost all varieties of soybeans 
+
+19 or other crop plants are currently protected by the --
+
+under the patent -- the Plant Variety Protection Act. 
+
+21 As this Court and Congress recognized, the requisites 
+
+22 for getting a certificate are -- I mean, it's like a 
+
+23 registration requirement. 
+
+24  And we know from J.E.M., and the relevant 
+
+provision of the PVPA, that it is unlawful to divert 
+
+55
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 crops that are protected by a PVPA certificate for 
+
+2 reproductive uses. So irrespective of all of this, 
+
+3 whatever happens, even if there is only 1 percent of 
+
+4 patented soybeans in a grain elevator, the grain 
+
+elevator can't sell it as seed both under the Federal 
+
+6 and State seed laws and under the Patent Variety 
+
+7 Protection Act. 
+
+8  That's why the solution for farmers like 
+
+9 Monsanto -- like Mr. Bowman, is to simply buy 
+
+conventional seed, multiply it, you know, 20, 30, 40, 
+
+11 50, 80 times in a single generation and save 1/80th of 
+
+12 it to replant in his second crop, if he doesn't want to 
+
+13 buy Roundup Ready technology for his second crop and use 
+
+14 the glyphosate aerially. 
+
+Unless the Court has further questions, we 
+
+16 will submit. 
+
+17  CHIEF JUSTICE ROBERTS: Thank you, 
+
+18 Mr. Waxman. 
+
+19  Mr. Walters, you have five minutes 
+
+remaining. 
+
+21  REBUTTAL ARGUMENT OF MARK P. WALTERS 
+
+22  ON BEHALF OF THE PETITIONER 
+
+23  MR. WALTERS: I'd like to first address the 
+
+24 statement that this is not a traditional farming 
+
+practice. It may be occasional, when a farmer is in a 
+
+56
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 real desperate situation, or it may apply to 
+
+
+2 Mr. Bowman's situation, where he wanted a very cheap 
+
+
+3 source of seed for his second crop. 
+
+
+4  But in the record at 153a, among other 
+
+
+places, he discusses how he's gone to the grain elevator 
+
+6 over the years a number of times, and how other farmers 
+
+7 have gone to the grain elevator for generations. So a 
+
+8 ruling in favor of Monsanto here would effectively 
+
+9 eliminate that seed --
+
+JUSTICE SCALIA: Do you agree that it's 
+
+11 unlawful for grain elevators to sell it for replanting? 
+
+12  MR. WALTERS: No. I do not. And what he is 
+
+13 referring to is State labeling laws that prevent grain 
+
+14 elevators from actually scooping up grain, packaging it 
+
+up and saying this is seed, because they all look alike 
+
+16 to -- to the eye. And so grain elevators are certainly 
+
+17 not allowed to dupe seed purchasers, but those laws are 
+
+18 there to protect the seed purchasers. 
+
+19  Mr. Bowman bought grain without any 
+
+restrictions on how he could use it. That broke no 
+
+21 laws, and it does not violate the PVPA. I mean, 
+
+22 Monsanto didn't assert a PVPA certificate. Surely it 
+
+23 has them. Did not assert them in this case and could 
+
+24 not assert them in this case because there's no single 
+
+variety that Mr. Bowman planted. So that's not a good 
+
+57
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 argument. 
+
+2  CHIEF JUSTICE ROBERTS: What -- what about 
+
+3 Mr. Waxman's suggestion that we've already decided this 
+
+4 in Microsoft v. AT&T? 
+
+MR. WALTERS: That case is not on point, 
+
+6 Your Honor. That had to do with 271(f), and actually 
+
+7 came out on the side of more restrictive patent rights. 
+
+8 And this is not like software. This is an invention 
+
+9 that the only way to use the invention -- now, repeat, 
+
+the only way to use the invention -- is to plant it and 
+
+11 to grow more seeds. 
+
+12  So if you don't apply the Exhaustion 
+
+13 Doctrine and allow someone to use it, you're choosing 
+
+14 patent rights over personal property rights, and that's 
+
+never been done in 150 years of this Court's exhaustion 
+
+16 case law. 
+
+17  JUSTICE BREYER: Don't people or animals eat 
+
+18 them? 
+
+19  MR. WALTERS: That is certainly a use, but 
+
+it's not the invention. 
+
+21  JUSTICE BREYER: Well, then why is it the 
+
+22 only way you can do is to plant them? That isn't the 
+
+23 only thing you could do with it. 
+
+24  MR. WALTERS: Well, that's not use of the --
+
+JUSTICE BREYER: You can go buy them in the 
+
+58
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 grain elevator and sell them for other things. 
+
+
+2  MR. WALTERS: It's not use of the 
+
+
+3 invention, Justice Breyer. And exhaustion is about 
+
+
+4 conferring on the purchaser a right to use the 
+
+
+invention. There's no limit to Monsanto's --
+
+6  JUSTICE BREYER: The invented product. The 
+
+7 invented thing. The invented aspect of the seed is it 
+
+8 has a gene in it that repels some other insecticide or 
+
+9 something that they have. I understand that. 
+
+MR. WALTERS: The same argument came up in 
+
+11 Quanta, Your Honor, with --
+
+12  JUSTICE BREYER: You don't use that. I 
+
+13 don't think they used that particular -- well, go ahead. 
+
+14 You go ahead. 
+
+MR. WALTERS: There were other uses for the 
+
+16 computer chips, of course, that were asserted. And the 
+
+17 key was that those computer chips practiced the patent. 
+
+18 And you would swallow up the Exhaustion Doctrine 
+
+19 entirely if we just could think of other uses for these 
+
+things that have been sold. 
+
+21  The key is, does it use -- is the purchaser 
+
+22 allowed to use the invention? And under Monsanto's 
+
+23 theory, the purchaser isn't allowed to do that. And 
+
+24 that's no Exhaustion Doctrine at all --
+
+JUSTICE BREYER: The people buying from 
+
+59
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 grain elevators are mostly people who take these 
+
+2 chips -- whatever they are, the seeds -- and they sell 
+
+3 them for making tofu, they sell them to eat, or 
+
+4 this -- there are loads of uses, aren't there? 
+
+MR. WALTERS: But the only use of the 
+
+6 invention is to plant it, and that's the use that 
+
+7 Mr. Bowman makes. 
+
+8  JUSTICE SCALIA: Yes, but -- but that's --
+
+9 nothing prevents him from planting it. What he is 
+
+prevented from doing is using the -- the consequences of 
+
+11 that planting, the second generation seeds, for another 
+
+12 planting. That's all he is prevented from doing. He 
+
+13 can plant and harvest and eat or sell. He just can't 
+
+14 plant, harvest, and then replant. 
+
+MR. WALTERS: So -- the judgment in this 
+
+16 case was based on acres planted, and so I'm not sure how 
+
+17 many -- we talked a bit about the N plus 2 generation, 
+
+18 and we don't know in the record what the N plus 2 
+
+19 generation was, in terms of his sales or his yields. 
+
+That wasn't before the district court on summary 
+
+21 judgment. So I'm not sure how you could affirm based on 
+
+22 the judgment below, which was a finding that conditional 
+
+23 sales prevented the application of the Exhaustion 
+
+24 Doctrine. 
+
+The other thing --
+
+60
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+ 
+
+ 
+
+25  
+
+Official 
+
+1  CHIEF JUSTICE ROBERTS: I'm sorry, I didn't 
+
+2 follow that answer to Justice Scalia's question. 
+
+3  MR. WALTERS: Could you ask it again? 
+
+4  JUSTICE SCALIA: You know, you're saying 
+
+that you are preventing him from using it. He's not 
+
+6 prevented from using it. He can use it for what it's 
+
+7 meant for, for raising a crop. He just cannot use the 
+
+8 product -- that new crop -- for replanting. That's all. 
+
+9 He has to sell that new crop for feed or for some other 
+
+purpose. But to say that -- that he's prevented from 
+
+11 using what he has bought is simply not true. He can use 
+
+12 it, plant it, and harvest the crop. 
+
+13  MR. WALTERS: But you're saying that there's 
+
+14 no exhaustion in the progeny where he owns that seed 
+
+outright. 
+
+16  With that, we'll submit, and we'll ask that 
+
+17 the Court of Appeals be reversed. 
+
+18  Thank you. 
+
+19  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+The case is submitted. 
+
+21  (Whereupon, at 12:37 p.m., the case in the 
+
+22 above-entitled matter was submitted.) 
+
+23 
+
+24 
+
+61
+ 
+Alderson Reporting Company 
+
+
+
+OfficialOfficial 
+
+62 
+
+A affect 43:2 47:12 49:2,10 26:11,14 30:16 B 
+ability 5:19 6:15 affirm 50:10 61:2 31:9 32:4 41:1 back 16:24 19:4 
+
+12:20 17:25 60:21 answering 34:24 48:3,21 50:21 19:14 26:24 
+18:2 38:8,10 affirmative anybody 3:22,23 53:25 54:24 46:19 49:9 
+
+able 10:15 20:1 44:22 31:1 articles 26:2,5 54:22 
+27:19 29:2 affirmed 48:6 anymore 28:1 33:9 54:18 bacteria 53:7,7 
+37:16 39:15 agency 4:5 Appeals 61:17 Asgrow 19:21 bad 7:15 53:19 
+54:2,4 23:25 APPEARAN... aside 29:12 31:4 bag 31:14 36:25 
+
+above-entitled agent 24:2 1:14 asked 19:5 bags 48:9 
+1:11 61:22 agree 3:25 27:18 appendix 6:18 46:19 balance 24:11 
+
+absolutely 14:19 33:25 47:15 36:13 47:21 asking 13:22 bank 9:2 39:20 
+14:21 15:10 49:23 57:10 application 15:22 16:22 39:25 
+21:24 29:7 agreement 37:17 49:7 33:15,23 based 4:10 
+
+acknowledged 31:11 60:23 aspect 46:21,21 60:16,21 
+36:5 agricultural applications 59:7 basic 11:19 14:2 
+
+acknowledges 27:6 38:13 54:9 assault 11:12,13 14:6 
+50:17,17 Agriculture applied 9:10 assert 57:22,23 basis 15:21 48:6 
+
+acreage 4:19 38:23 39:10 13:9 21:8 26:3 57:24 batch 22:20,23 
+acres 60:16 ah 20:8 26:4 34:15 asserted 59:16 bean 3:17 4:16 
+act 3:13 12:6 ahead 59:13,14 applies 23:18 Assistant 1:17 19:23 32:9 
+
+14:9 16:14 AL 1:6 48:20 associated 5:9 35:6 
+24:24,24 25:7 alfalfa 35:6 apply 5:17 6:23 24:8 beans 36:15,16 
+25:8,10,11,14 43:12,13 7:2 29:23 30:2 Association 28:9 36:23 
+27:9 29:4,13 alike 57:15 45:5 57:1 assume 6:7,13 bear 16:23 
+33:20,21 35:24 allow 23:11 30:3 58:12 16:13 17:8 behalf 1:15,20 
+44:18 46:3 37:17 58:13 appropriate assumes 5:8 2:4,10,13 3:8 
+55:20 56:7 allowed 17:21 30:22 50:7 assuming 24:3,3 28:9,11 34:21 
+
+acted 33:19 57:17 59:22,23 approval 16:5,7 AT&T 33:4 56:22 
+active 3:18 allowing 7:3,5 ARBUS 1:17 2:6 45:16 58:4 behold 8:4,12 
+activity 12:7 alright 11:4 24:14,16 26:7 AT&T's 45:20 15:20 
+
+14:6 Alternatively 28:4 29:1,7 46:1 bin 54:23 55:3 
+actual 26:14 48:19 30:2,9 31:3,6 authority 49:5 biological 33:13 
+
+33:10 35:20 America 38:14 32:3,10,17 52:22 bit 3:16 27:7 
+addition 22:24 American 28:8 33:3 34:9,11 authorization 31:20 34:3 
+
+22:25 amicus 1:19 2:7 area 33:20 51:9 31:23 49:6 60:17 
+additional 5:4 24:15 29:14 argument 1:12 authorize 31:8 blood 52:5 
+address 47:16 amount 6:24 2:2,5,8,11 3:4 authorized blow 43:6 
+
+47:19 49:17 18:10 29:14 3:7 5:24 6:6 30:12,14 31:7 blowing 43:4 
+56:23 analysis 31:13 24:14,22 25:1 31:7,18 39:10 blown 41:12 
+
+addressed 50:9 animals 11:2 25:2,12 26:15 authorizes 31:3 body 30:22 
+adopted 33:22 14:18 35:12,14 29:22 34:20 31:15,16 33:18 
+
+42:21 58:17 50:8 56:21 available 3:13 bought 6:10 8:2 
+advance 42:22 answer 10:25 58:1 59:10 10:13 10:4,20 11:7 
+advocate 47:20 18:25 19:9 art 54:19 aware 29:9 12:11 19:18 
+advocated 47:20 23:22 28:4 article 3:12 4:7 34:14 36:25 37:6 
+aerial 37:17 30:24 38:7 13:7,7,25 a.m 1:13 3:2 57:19 61:11 
+aerially 56:14 42:15 44:2 25:19,20,21 Bowman 1:3 3:5 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+63 
+Official 
+
+6:9,14 7:1 56:9,13 58:25 change 37:14 clear 17:24 compared 33:12 
+20:17 29:6,7,8 buyer 16:1 42:5 clever 42:12 compete 30:4 
+36:5 47:24 buying 52:18 changed 20:13 client 10:19 competition 
+50:17 56:9 59:25 changes 37:15 15:18 23:14 52:8 54:14 
+57:19,25 60:7 buys 7:19,22 characterize close 18:17 competitive 
+
+Bowman's 15:18 22:21,24 5:24 6:5 21:17 20:6 
+38:18 40:17 characterizing coincidence competitor 52:2 
+
+C57:2 5:25 8:21 comply 28:18 
+C 2:1 3:1 box 8:2,17 cheap 28:21,25 color 21:13 composition
+called 39:4brand-new 36:14 57:2 combine 19:25 10:6 
+
+48:1112:16 chemical 22:25 combine's 21:17 compressing
+calling 48:6breach 23:23 Chief 3:3,9,21 come 15:12 45:21 
+capacity 41:7breed 43:10,10 4:6,9 15:6 19:4 19:25 21:25 computer 46:3 
+carries 46:24Breyer 7:5,11 19:5,15 21:6 31:24 50:7 46:12 59:16,17 
+case 3:4 4:7 6:9 7:17 8:8,16 9:9 21:25 22:7,13 comes 15:20 computers
+
+12:17 13:2,510:24 11:24 24:12,16 25:22 21:16 53:5 45:19,24
+15:9 19:1012:1,12,23,23 30:7 31:4 32:1 coming 7:24 concept 26:12 
+24:20,20 25:18 13:24 15:15 32:8,13,25 comment 45:13 26:21 
+25:24 26:816:11 25:16 34:10,18,22 commerce 5:20 concern 46:22 
+28:14 32:11,1426:17 30:12 38:4 45:14 commercial concerns 9:6 
+33:1,4,6,6,1238:21 43:25 52:9,12 56:17 31:15,16 conclusion 
+34:1,12 38:5,6 44:6,13,20,25 58:2 61:1,19 commercialize 47:23 
+41:9 45:15,1545:2,7,10 children 7:13,14 51:1 54:3,4 conditional 34:2 
+46:21 47:1846:15,18 52:25 7:14 commercialized 34:16 47:16,18
+48:25 49:1953:10,13,16 child's 11:7 38:12 50:23 49:19 50:10 
+50:7 51:4,554:13,16 58:17 chips 59:16,17 commingled 51:4 53:21 
+52:3 55:1358:21,25 59:3 60:2 28:7,17 29:15 60:22 
+57:23,24 58:5 59:6,12,25 choice 13:17,22 commit 11:13 conditions 50:14 
+58:16 60:16Breyer's 49:9 22:3,3 committed 50:15 51:2 
+61:20,21brief 28:9,10 choosing 58:13 40:24 conduct 44:23 
+
+cases 13:1629:14 40:3 chosen 13:20 committing conferring 59:4 
+32:14 40:9Bristol-Myers CHS 28:10 15:13 conflict 25:3,4
+
+causing 34:451:24 circuit 11:14 commodity confusion 49:18 
+cell 15:13 46:9 broad 15:11 34:5,15 47:2,6 19:18 21:8 50:5 
+cells 40:5broaden 38:8 47:19 48:4,14 22:14,16,17 Congress 12:7 
+centuries 17:21broader 27:7 48:19 49:18 26:16 37:25 13:3 30:22 
+certain 9:3broke 57:20 50:9 47:23,25 54:23 33:18,19 55:21 
+certainly 10:1bulk 40:21 Circuit's 12:20 55:1 consequence
+
+15:2 41:25bumper 14:14 circumstance common 23:11 25:11 27:13 
+57:16 58:19business 23:20 29:8 36:3 47:24 49:4 
+
+certificate 29:1728:16,18,20 circumstances companies consequences
+29:18 55:22button 52:23 45:4 47:18 10:16 30:4 60:10 
+56:1 57:22buy 10:10,25 circus 8:25 40:11,16,17 consideration 
+
+chain 24:1012:10 15:19 claim 5:2,5 6:17 48:9 40:17 
+Chakrabarty16:7 27:25 9:24 10:1 company 1:6 3:5 considered 14:6 
+
+53:628:7 37:18 clarifying 50:5 38:6 39:3 consume 50:20 
+chance 37:2552:21 55:16 cleaned 35:10 40:21 51:16 54:19 
+
+Alderson Reporting Company 
+
+
+
+64 
+Official 
+
+consumption couple 34:24 cultures 51:16 33:5,17,19 dumped 23:11 
+18:9 course 35:22 curiae 1:19 2:7 35:17 40:11,11 dupe 57:17 
+
+contact 44:22 45:12 46:8 24:15 40:22 46:12,19 D.C 1:8,18,20 
+contain 43:8 53:5 59:16 currently 55:19 49:10 51:7 
+
+Econtaining court 1:1,12 cut 19:25 55:1,2 
+E 2:1 3:1,1 38:11 47:25 3:10 12:4 CVS 51:25 52:1 difficulties 5:25 
+
+context 9:12 early 23:9 
+easy 33:9 
+
+13:20 17:1 52:16,18 disagree 14:5 
+12:18 33:21 24:17 25:1,12 34:1 
+
+D eat 58:17 60:3 
+D 3:1 
+
+45:14 46:7 26:7,9 30:22 discusses 57:5 
+60:13contour 43:2 33:3,6,12,15 disease 20:14 
+
+contract 19:8 damages 43:19 eBay 32:23 
+days 55:1
+
+34:11,23 36:11 21:4 22:18 
+economically23:24,25 31:12 37:22 45:23 disk 33:7 45:17 
+
+contracts 4:3 dealer 16:18 29:20 
+dealers 48:11
+
+47:14,16 55:21 46:12 52:22,23 
+edamame 41:1719:12,14 31:5 56:15 60:20 distribution 
+
+contractual 4:10 dealer's 37:24 42:1,3,4,16 
+dealing 12:17 
+
+61:17 24:10 
+effectively 57:8contrary 47:10 Court's 4:14 district 36:11 
+
+contributory 13:12 either 9:21 26:4 
+deals 44:2,9
+
+13:2,16 24:19 60:20 
+33:1 35:1144:17 32:5 34:17 divert 55:25 
+
+control 5:9,10 decide 33:4 52:19 
+decided 34:13 
+
+58:15 division 15:14 
+either-or 9:1814:12,22 15:3 covered 53:25 DNA 3:16 39:5
+ 
+
+16:14,24 17:10
+ 37:24 46:7 Electric 24:1create 9:1 13:10 doctrinal 35:1 
+48:5 58:3 element 6:2024:8 37:15,20 13:25 16:4 doctrine 4:21 
+
+controlling 6:19 decision 24:19 elements 6:2019:16 47:1 9:11 11:16,17
+34:17 elevator 5:21controls 26:13 created 12:4 11:22 12:2,5,9
+
+defendant 36:14 6:10,10,15 7:2 
+36:18,20 37:22 
+
+conventional 26:25 48:2,15 12:17,25 13:6 
+10:2,5,14,1736:21 37:7,19 creating 41:16 13:9,13,15
+ 
+
+37:20,23 40:12
+ 37:24 10:20,21,2247:5 17:1,6 25:17 
+Department 17:19 20:3,1856:10 creation 15:1 25:18 26:1,3,5 
+
+copies 11:10 1:18 38:23 21:12 23:12,13creative 14:22 34:2,4,6,16
+39:9 23:14,16,2032:22 33:7,8 15:1 47:8,11 58:13
+ 
+
+46:2,10 52:24
+ derive 38:17 27:20,23 28:2 
+desperate 57:1
+
+crop 5:4 6:20,21 59:18,24 60:24 
+47:4 56:4,5copy 8:12 9:4 6:23 10:19,23 documented 
+
+Despite 28:6 57:5,7 59:1 
+determine 50:8 
+
+11:19 13:10 14:13,14 16:17 43:14 
+elevators 17:1914:8 54:6 18:5 20:10 doing 25:14 36:6 
+
+copying 33:10 develop 40:25 28:7,11,1731:15,16 36:1 60:10,12
+54:8 29:23 35:17copyright 14:9 36:8,15,16,20 dollars 27:13 
+
+development 55:14 57:11,1432:12 33:21 37:1,4 43:16 40:25 
+50:24 57:16 60:1corn 43:10 55:19 56:12,13 dominion 14:12 
+
+correct 4:8 5:16 develops 48:2 eliminate 10:15 
+51:17,24 
+
+57:3 61:7,8,9 doubt 16:15 
+57:920:16 21:11 61:12 dozen 21:3 
+
+dialed 20:2 eliminated 5:17 
+different 5:12 
+
+22:22 23:7 crops 18:4 36:1 32:22 
+eliminates 35:1329:5,5 48:5 43:12 56:1 Dr 53:6 
+
+costs 43:23 19:20 20:2,25 eliminating 9:11 
+21:3,13,14,15 
+
+cross-breed drive 16:18 
+embodied 10:150:24 40:21 46:11 
+
+counsel 24:12 21:23 22:11,14 embodyingcultivate 20:9 drives 46:3 
+22:18,18,19 50:2134:18 61:19 cultivating drought 15:4 
+
+country 4:18 25:20,24 26:18 encode 6:2243:16 due 30:21 
+
+Alderson Reporting Company 
+
+
+
+65 
+Official 
+
+encourage 4:11 45:13 52:8,13 explains 28:12 35:16,25 36:4 flower 35:5 
+27:8 52:20 53:5,17 explicit 49:16 43:11 48:10 flowers 43:8 
+
+enforce 34:16 53:18 54:22 explicitly 12:5 49:4 56:8 57:6 focused 26:10 
+enforceable exception 11:22 34:14 farmer's 16:21 48:25 
+
+50:16 12:4 14:4 16:3 exploitation 41:13 43:6 follow 30:23,24 
+enforcement 16:3,9 50:16 farming 5:9 31:21 61:2 
+
+43:17 exchange 5:19 export 46:5 14:6 16:13,23 follows 36:17 
+engage 38:24 exchanged 5:21 exported 45:18 18:4 24:8 28:5 footnote 40:3 
+
+39:10 exclusion 25:7 extended 25:21 56:24 form 42:3 
+engages 40:9 exclusivity 27:9 extent 13:23,24 farms 42:24 found 25:2,3 
+engaging 29:9 Excuse 53:12 30:6,20 33:17 favor 57:8 foundation 
+engineered exemption 47:17 February 1:9 18:16 
+
+18:18 25:10,11,13,14 external 51:13 fed 35:11 four 55:2 
+engineers 14:11 33:22 extreme 55:5 Federal 11:14 freely 5:19 
+entirely 25:24 exercise 14:12 eye 57:16 12:20 34:5,14 friends 32:22 
+
+29:3 48:5 exhausted 30:8 40:1 47:19 full 50:24 
+F59:19 30:10,11 31:22 48:4,14,19 fully 38:18 
+
+face 11:7enzyme 35:13 32:2,3,9 38:18 49:18 50:9 fundamentally
+fact 8:19,21equitability 24:5 41:2 47:23 55:15 56:5 13:17 16:25 
+
+10:18 12:5escapes 19:11 exhausting 32:6 feed 11:2,2 61:9 fungible 23:6 
+13:3 33:11ESQ 1:15,17,20 32:7 51:22 felt 37:25 further 56:15 
+36:11 46:22:3,6,9,12 54:10 field 6:19,24 
+
+G50:25essentially 5:20 exhaustion 3:11 19:23 20:9 
+facto 50:11 51:2 G 3:116:22 19:13 4:20 5:17 6:8 21:12 43:6 
+fair 24:2 42:20 gather 27:2327:10 30:4 6:14,25 9:11 fields 43:13 
+family 11:3 gene 38:25 39:4 51:10 11:16,22 12:2 figure 39:24 
+far 6:4 18:4 26:2 39:5,12,24ET 1:6 12:5,9,18,21 54:8 
+
+34:14 36:5 51:10 59:8event 27:1 38:24 12:25 13:6,9 find 15:23 
+farm 20:11 21:5 General 1:1839:12,17,18 13:13,15 17:1 finding 60:22 
+
+41:13 24:140:2 43:7,19 17:6 23:18 finds 8:9 
+farmer 4:15,23 generally 28:648:20 25:15,17,18,25 finish 34:3 
+
+5:8,8 6:8 15:3 50:4everybody 41:8 26:3,8,10,12 first 3:23 5:1,4 
+16:13,15,16 generate 42:1041:23 50:12 32:5 48:17,18 6:13,20 7:12 
+17:8,14 18:6 generation 7:12evidence 10:18 48:20 49:3 7:12,18 10:23 
+19:22 22:5 7:14,15,18,20eviscerate 27:4 58:12,15 59:3 14:5 16:18 
+23:3,19 27:22 7:22,25 8:1,4,6 evolved 20:13 59:18,24 60:23 17:3 18:17 
+30:3,25 31:1 8:19,20,22 9:1 exact 14:1 20:8 61:14 20:6,10 22:1,8 
+31:16 35:23 9:2,6 11:1,11 exactly 20:4,17 exhausts 26:22 26:13,25 27:12 
+41:14 43:15,18 15:18,19,21,2120:19,22 23:2 existence 27:2 30:5 31:7,14
+43:21 56:25 16:4,7 17:4 23:3 31:10 38:17 35:2 38:5,5,15
+
+farmers 4:17 18:17 20:633:4 37:9 exists 34:4 48:15 40:19 41:1 
+10:15 14:11 29:24,25 30:19 49:13 expensive 27:25 42:22 47:11,13
+16:23 17:3,22 31:9,19,19,25example 6:17 36:8 48:17 50:25 
+18:11,15 20:12 37:3 46:23,247:11 9:25 experiment 42:9 55:13 56:23 
+24:4,6,7 27:18 47:1,4,5 48:1,7 18:16 19:17 54:20 five 56:19 
+28:6,10,22,24 48:8,11,1222:6 32:19 explained 4:2 flood 15:4 22:5 
+29:1,9,20 49:2 56:1135:5 43:10 36:11 flour 18:8,23 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+66 
+
+60:11,17,19 52:16 54:2,3 growers 24:2 hosts 44:4 13:21 43:23 
+generations 7:8 55:9 growing 13:14 huge 35:17 indicates 6:1 
+
+7:9 26:18,19 golden 45:17 14:20 18:12,16 HUGH 1:3 indigestible 
+38:20 57:7 good 10:14,22 22:10 35:20 human 18:8 35:13 
+
+genetic 10:6 12:9 37:25 36:16 33:10 53:8 individuals 
+14:10,11 40:6 57:25 grown 5:13 humans 35:11 51:12 
+44:3 goods 5:19 42:23 hundreds 13:13 induced 44:17 
+
+genetically 37:7 government grows 4:16,23 36:3 40:10,16 infringe 29:17 
+genetics 6:22 39:2 47:15 16:16 31:1 40:25 44:24 46:1 
+geranium 35:5 49:13 51:7 guess 8:14 34:25 Hurricane 43:5 infringed 8:5,13 
+germ 39:1,5 grace 4:17 guise 25:15 hypothetical 45:25 
+germinate 36:10 grain 5:21 6:10 gun 39:4,5,14,24 42:6 52:16 infringement 
+getting 10:24 
+
+27:19 55:22 
+Ginsburg 9:14 
+
+6:10,15 7:1 
+10:2,5,14,17 
+10:20,21,21 
+
+H 
+hands 33:10 
+
+H1 51:17 
+
+I 
+
+6:3 7:25 8:18 
+15:13,14,18 
+35:21,24 43:15 
+
+9:17,23 10:3 16:18 17:18,19 happen 19:11 idea 13:7 44:16,17,17,18 
+10:10 13:4 20:3,18 21:12 happened 31:10 ignore 34:6 46:4 
+17:11 37:5,10 23:11,14,16,20 happens 8:10 illegal 39:1 infringer 41:24 
+37:13 26:16 27:20,23 40:4 56:3 imagine 44:1 44:10,11 
+
+Girl 42:9 28:1,7,7,11,17 hard 46:2,11 45:4 infringers 41:8 
+give 11:5,18 28:17 29:15,23 harder 25:5 immature 42:3 42:2 
+
+16:1 27:17 35:17 37:24,25 harvest 16:19 immunize 51:12 infringes 44:24 
+32:22 38:1 47:4 21:16 60:13,14 immunizes infringing 4:16 
+
+given 52:4 55:14,16,16 61:12 51:11 4:25 5:22 10:7 
+gives 16:6 56:4,4 57:5,7 harvested 10:7 impinges 18:1 17:13,15,20 
+glyphosate 6:24 57:11,13,14,16 35:3 37:2 implicitly 24:24 32:23 41:15 
+
+35:22 37:14 57:19 59:1 harvesting implied 47:3 44:7 46:5,6,13 
+38:2 56:14 60:1 36:17 important 4:5 48:2,23 49:3 
+
+go 10:16 19:3 granted 33:5 hear 3:3 17:2 38:22 ingredient 3:18 
+20:3 26:24 grass 8:10,17 height 36:10 50:7 51:18 inject 39:5 
+28:7 35:6 38:5 great 5:25 10:18 held 45:23 48:14 imposes 50:14 injected 51:25 
+40:24 46:18 greater 25:6,7 helps 44:15 impossible insecticide 59:8 
+48:10 49:8 ground 5:13 herbicide 6:24 27:11 inserted 3:16 
+51:25 52:20 15:7,20 18:10 37:6,12,18 improve 3:22 insofar 46:23 
+54:14 58:25 18:24 21:17 51:11,14 improved 37:7 instance 6:13 
+59:13,14 28:8 30:20 high 10:20 19:24 inadequate 4:11 53:1 
+
+goes 6:5 8:9 10:4 31:24 35:10 27:24 36:19 inadvertent instant 50:11 
+41:16 45:13 47:19 53:19 highlighted 41:9 42:2 43:13,15 insufficient 
+54:22 grow 3:17,20,23 history 42:22 inadvertently 19:10 
+
+going 10:15,17 5:3 7:4 14:25 hocus-pocus 8:3 44:8 insure 16:17 
+10:25 13:25 15:8 17:14,24 Honor 5:16 incentive 19:5 intended 52:15 
+15:8,16,17 18:1 20:9,11 11:21 27:3 19:16 27:5 interesting 44:1 
+16:17 18:5,7 21:23 22:17 34:9 58:6 Including 21:19 interpreted 17:1 
+18:23 20:5,9 36:9 40:5 59:11 21:21 intersection 
+21:13,14,15,16 58:11 Honor's 48:22 inconsistent 25:25 
+21:17 23:16,19 grower 47:24 horrible 27:16 16:25 interspersing 
+35:4,9 36:18 48:2 27:17 increase 13:19 36:2 
+
+Alderson Reporting Company 
+
+
+
+67 
+Official 
+
+intertwine 8:11 58:21,25 59:3 large 29:14 51:18J 
+intervention 59:6,12,25 41:10 limit 4:20 38:10 joint 36:13 
+
+53:8 60:8 61:1,2,4 largely 24:19 59:5joke 7:15 
+introduce 38:25 61:19 34:13 limited 25:19judgment 36:12 
+introduction Justice's 19:4,15 late 22:6 23:9 26:15,17 29:23 60:15,21,22
+
+45:19 J.E.M 24:19,20 latest 20:14 lines 46:9Justice 1:18 3:3 
+invent 53:25 55:24 Laughter 7:10 lingering 49:183:9,21 4:6,9,22 
+invented 53:6 7:16 28:23 50:55:2,11,23 6:1 K59:6,7,7 33:2 39:19,22 live 51:15,157:5,11,17 8:8 Kagan 13:23invention 3:14 41:19 42:7,13 lived 15:38:16 9:9,14,17 
+
+19:3 23:223:15,16,19 4:3 51:19 52:11 livelihood 17:239:23 10:3,10 
+33:24 41:5,204:11 6:16 7:4 launching 35:1 living 18:210:24 11:24 
+42:5,119:5,16,24 law 4:14 9:4,10 lo 8:3,11 15:20 12:1,8,12,23 Kagan's 45:511:10,25 12:22 11:8,9,11,12 loads 60:413:4,23,24 keep 52:5,7,712:24 14:7,8,9 11:20 13:2,11 longer 18:6,2414:15,20,24 Kennedy 5:2317:7 32:7 17:21 23:25 look 9:24 21:12 15:6,15 16:11 
+18:3,14,2238:12 50:16,22 29:3,19 44:9 28:8,10 31:11 17:11 18:3,14 
+19:2 20:16,2250:22 51:2 44:10,14 45:11 51:9 57:1518:19,22 19:2 
+29:5 35:258:8,9,10,20 47:17 55:15 looks 39:2419:3,5 20:16 
+42:15 48:2459:3,5,22 60:6 58:16 loss 17:920:22 21:6,19 
+54:21 55:8,13inventions 11:23 laws 28:19 29:12 lost 40:22 51:25 21:22,25 22:7 key 59:17,2113:1 35:21 56:6 57:13,17 lot 4:17 11:1,4 22:13,20,23 killed 37:12inventor 50:23 57:21 45:423:5,8,22 kills 22:2553:20 lay 14:1624:12,16 25:16 Mkind 14:1 19:6 invest 27:5 lease 50:13,1425:22 26:17 
+19:10 machine 54:1,6investment 27:8 54:13,16,1727:16 28:21,24 kinds 38:9 54:8,12investments leased 50:1929:5 30:1,7,12 know 9:3 11:3 magic 8:1727:12 leave 18:5,10,2430:23 31:4 
+18:11,25 19:20 main 17:22,23involuntary left 21:9 35:6 32:1,8,13,25 
+19:21 20:4,19 makeup 40:1344:10 let's 5:1 6:9,17 33:24 34:10,18 
+30:20 35:23 making 8:9 9:4 involved 15:1 38:8 48:7,934:22 35:2,15 
+36:8 37:19 9:10,18 11:19 32:15 45:16 51:9 53:2537:5,10,13 
+39:8,16,25,25 14:6,7,8 15:5 involving 13:5 55:138:4,21 39:7 
+41:12,20 42:8 25:21 33:12,1826:8 liability 44:2139:14,20 41:5 
+43:7,18,19 48:23 52:17ipso 50:11 51:2 license 4:25 16:1 41:20 42:5,11 
+45:3,3,16,19 53:1,2 60:3 irrespective 17:2 35:2142:15 43:25 
+50:14 51:17 manufactured56:2 39:2 46:23,2444:6,13,20,25 
+52:21 53:6 45:20issue 24:21 33:5 47:3,7 50:13 45:2,5,7,10,14 
+54:18 55:9,24 manufacturer34:1,13 43:4 53:21 54:3,746:15,18 48:24 
+56:10 60:18 52:19 53:2051:4 licensed 7:2149:8,9,12,21 
+61:4 man-made 53:6item 9:22 12:10 12:14 38:2449:25 50:4 knows 36:6 MARK 1:15 2:3 12:11,15 13:12 40:10 48:1151:6 52:3,9,12 
+
+2:12 3:7 56:21 16:5 licenses 47:9,952:25 53:10,13 L market 41:10items 13:13,14 licensing 46:2153:16 54:13,16 lab 8:2 52:17,19 master 33:744:7,7 55:2 lies 8:1954:21,22 55:8 labeling 28:19 material 39:11it’s 32:8 life 51:1455:13 56:17 29:12 57:13 matter 1:11life-saving 51:1257:10 58:2,17 
+
+Alderson Reporting Company 
+
+
+
+68 
+Official 
+
+15:11 61:22 mixture 19:19 nature 20:12 nutrients 14:16 owned 16:15 
+matters 10:12 20:5 near 27:11 17:8,13
+
+Omature 19:24 Mm-hmm 44:5 necessarily owner 16:6 
+O 2:1 3:1 21:15 23:1,9,9 model 4:5 24:1 52:15 owners 16:14 
+
+maturity 19:22 obtain 36:8 38:1 28:20 necessary 50:10 ownership 5:10 
+obviously 12:1619:23 21:4 modification 51:1 17:16 
+occasional 56:2522:19 45:10 need 10:16 15:6 owns 61:14 
+occurred 46:4mean 8:9 11:3 modifying 13:1 16:3,9 19:22 
+
+Poccurs 46:13 
+offer 49:5 
+
+13:6 14:15 money 3:22 37:1 20:8 30:18 
+P 1:15,20 2:3,9 15:7 17:12 monopoly 13:19 34:12 45:8 
+
+offspring 36:22 2:12 3:1,7 
+oh 54:25 
+
+22:7 23:10 13:19 47:14,15 49:22 
+34:20 56:2125:22 32:8,11 Monsanto 1:6 49:24 50:1,2 
+
+okay 7:15 18:14 packaging 57:1432:18 35:25 3:5 4:17 5:1 52:25 
+19:2 42:5 page 2:2 36:12 39:7 42:20 6:2,4 7:12,20 needs 14:17,17
+ 
+
+43:5,25 44:14
+ 47:12 49:11 49:1410:4,11,16 23:3 
+51:15 53:23 paid 30:1745:2,6,12 15:19,19,25 neighboring 
+
+old 37:19 53:3 parent 26:21 
+once 3:11 5:7 
+
+46:21 51:23 16:6,12 17:9 30:3 
+27:352:12,13 53:8 19:5,15,21 neither 35:23
+ 
+
+53:15,17 55:6
+ 10:25 30:14 part 4:12,14 
+39:2,8 47:24 
+
+21:19,21 22:8 never 10:4,10 
+27:155:22 57:21 22:21,24 23:5 12:10 17:21 
+
+means 27:23 ones 15:5 53:2,2 particular 6:923:15,24 24:3 23:19 25:21,23 
+53:3 6:21,21 14:10 meant 46:3 61:7 24:7 30:4,24 26:3,4 38:12 
+
+opening 19:4 19:23 21:1,1 
+operating 45:17 
+
+mechanical 31:3,6,13 43:1 48:15,22 
+23:18 25:1933:11 35:23 38:11,24 58:15 
+
+MELISSA 1:17 45:24 52:21 31:22 32:439:10 40:4,8,9 Nevertheless 
+opportunity 35:3 36:92:6 24:14 40:15,22 43:18 23:17 
+
+34:7 37:15 40:13 
+opposed 18:23 
+
+mentioned 48:9 54:5 56:9 new 7:20 8:9 
+59:1326:18 57:8,22 9:20,22 12:15 
+
+method 6:18 oral 1:11 2:2,5,8 party 54:11Monsanto's 13:10 14:1 
+3:7 24:14 passed 5:845:21 4:19 5:6,24 8:5 16:4 25:21 
+
+Microsoft 33:4 34:20 passes 3:12 
+order 27:8 30:19 
+
+8:12 10:8 30:19 31:9 
+patent 3:11,1345:16 46:1 14:11 16:21 33:16,17 38:5 
+
+51:1 4:9,12,16,24 
+original 13:10 
+
+58:4 20:6 23:20 48:23 53:1,2,6 
+5:3 6:3 8:5 Microsoft's 37:16 38:2,19 53:25 54:1,1,8 
+
+13:14 22:20,23 12:18 15:13,1445:17 40:18 46:22 61:8,9 
+40:20 42:15 16:6 17:15middle 30:20 47:22,25 49:4 newly 48:2 49:3 
+
+million 52:24 48:8 24:20,22,23,24 
+originally 48:22 
+
+49:6 59:5,22 non 48:16 
+25:5,6,8,10,11millions 40:25 morning 3:4 non-patented 
+
+mind 39:23 53:5 ought 13:3 25:13,15 27:4 
+outright 4:4 
+
+motion 36:12 36:22,25,25 
+27:8 29:3,15mingled 35:18 moving 42:2 normal 26:1 
+
+minutes 56:19 17:3,8 23:17 29:19 30:8,9multiply 56:10 36:15 
+61:15 31:21 32:2,5miraculous 54:1 north 18:7,7
+
+N outside 3:12 35:20 40:23 
+N 2:1,1 3:1 
+
+misnomer 31:20 notably 25:9 
+overemphasized 41:2 43:3 44:9 misunderstood notion 53:9 
+
+48:11,12,12,14 19:19 44:10,14 45:10 8:14 22:16 number 20:11 
+49:2 60:17,18 overseas 45:19 45:20,25 46:2 MIT 54:7,11,11 28:13 55:18 
+
+mix 20:19 28:15 natural 39:11,11 45:20 46:3,4,6 47:17,22 48:16 57:6 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+69 
+
+52:1 54:1 58:14 44:25 45:2 44:13 productivity 
+55:20 56:6 petition 47:21 47:25 51:11 presently 34:4 43:23 
+58:7,14 59:17 Petitioner 1:4 55:19 press 52:23 products 32:20 
+
+patented 3:12 1:16 2:4 3:8 plasm 39:1,6 presumably 49:3 
+4:7 8:12 9:5,12 19:18 28:6,14 plasmids 46:10 52:18 progeny 5:18 
+11:10 16:5 29:17 33:22 please 3:10 pretty 27:16 7:2 12:14,14 
+27:22 28:2 56:22 20:16 24:17 41:23 16:16 17:7 
+32:6 35:20 Petitioners 2:13 34:23 prevail 6:2 26:24 27:2 
+38:11 43:16 Petitioner's plenty 32:19 48:24 38:20 61:14 
+45:18 54:23 25:12 26:15 36:7 prevent 53:3 prohibited 
+55:2 56:4 29:22 plus 48:12,13,14 54:11 57:13 55:14 
+
+patentee's 13:18 pick 8:10 11:6 49:2 60:17,18 prevented 60:10 prohibits 9:4,4 
+13:21 Pioneer 10:21 pods 42:16 60:12,23 61:6 project 41:16 
+
+patentholder 19:21 29:13 point 9:24 20:14 61:10 prong 49:22,24 
+26:13 30:19 place 13:12 30:21 35:3,25 preventing 61:5 property 13:18 
+
+patentholder's 16:18 44:8 40:1 41:24 prevents 60:9 16:15,24 17:25 
+26:22 53:14 42:19 43:11 previous 34:15 58:14 
+
+patents 10:8 places 57:5 52:14,20 58:5 priced 36:19 protect 4:3,13 
+44:3 plain 37:19 pointed 9:19 principally 14:17 19:7 
+
+pay 27:25 38:3 plant 3:20 6:12 25:16 27:3 14:10 57:18 
+paycheck 16:19 12:13 14:12,23 48:22 privileges 48:21 protected 29:15 
+peculiarly 19:10 15:20 17:5 pointing 38:15 48:23 29:16 35:19 
+people 5:19 20:10 21:7,12 55:7 probably 21:2 55:19 56:1 
+
+23:16,20 54:2 22:1,4,9 23:16 points 29:13 42:21 protection 3:13 
+54:3,4 58:17 24:22,23 26:5 42:1 problem 7:24 4:11 24:24 
+59:25 60:1 26:21,25 27:3 policy 4:13 8:18 16:21,21 26:1 29:4,13 
+
+percent 4:18 27:22 28:7 13:16 19:15 22:1,2 29:16,18 33:20 
+10:5 41:22 29:4,12,16,18 pollen 43:8 22:10 23:15 55:20 56:7 
+42:24 54:23 31:24 33:20 poor 22:3 53:5 43:4 54:21 protections 25:6 
+55:3,3,11 56:3 35:5 36:19 popular 38:13 problematic 27:4 
+
+percentage 37:15 39:11 portion 37:2 34:7 provide 54:6 
+20:19 41:10 40:5,6 41:16 position 15:11 problems 17:22 provided 40:3 
+
+perfect 8:12 42:4 55:20 35:1 41:7 51:7 process 14:22 provides 3:11 
+43:7 58:10,22 60:6 possession 15:12 processed 35:8 27:9 40:8,15 
+
+period 55:15 60:13,14 61:12 possibility 20:7 35:12 42:17 54:11 
+permission planted 5:12 post-sale 34:16 processes 33:11 provision 55:25 
+
+30:18 10:6,19 35:9 practical 10:12 33:14 purchase 13:25 
+permissive 57:25 60:16 practically 28:1 produce 19:6 32:21 37:24 
+
+46:25 planting 6:20 practice 3:14,19 40:11,22 48:12 48:10 
+permits 12:9,10 23:20 27:19 7:3 9:15,25 53:19 purchased 6:14 
+
+23:18 28:25 29:24 12:21 28:5 produced 38:13 7:1 10:2 23:14 
+perpetual 37:4 31:7,15 36:1 29:10 56:25 produces 40:6,7 30:16 36:21 
+perpetuity 41:3 60:9,11,12 practiced 45:21 product 19:6,16 purchaser 3:14 
+person 41:14 plantings 27:24 59:17 30:11 32:16 4:13 14:3 59:4 
+
+44:24,25 45:1 35:16 practices 41:2 41:10 46:5 59:21,23 
+52:4 plants 3:17 4:23 pray 14:23 47:9 48:23 purchasers 
+
+personal 13:18 6:3 18:8,10 precautions 59:6 61:8 57:17,18 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+70 
+
+purchaser's raising 61:7 47:17 replicator 52:23 result 27:17,17 
+13:17,20 rapidly 42:21 recombinant reproduction 53:19 55:5 
+
+purchasing rate 19:22 21:15 38:25 39:5,12 33:13 38:10 results 52:15 
+37:23 23:1 37:3 40:7 reproductive return 50:25 
+
+purpose 6:11 50:25 record 57:4 56:2 reversed 61:17 
+11:19 31:17 rates 21:4,23 60:18 require 33:17 right 4:7 5:4,15 
+61:10 22:11,18,19 recoup 27:11 53:8 5:24 11:18 
+
+purposes 46:5,6 reach 5:6 49:22 reducing 27:10 requirement 15:9,24 17:7 
+54:10 49:24 51:3 referred 39:12 55:23 19:6 21:7 
+
+put 8:3 23:12 read 14:7 21:7 48:17 requires 44:22 30:13 31:2,6 
+27:13 29:3 readily 38:9 referring 49:1 requisites 55:21 35:11 39:21 
+35:10,17,22 46:9 57:13 research 25:10 44:20 52:17 
+37:5 52:22 reading 25:13 reformulate 25:14 27:13 59:4 
+
+puts 37:11 47:21 49:9 54:5 rights 13:17,18 
+putting 16:9 Ready 4:19 21:2 regardless 29:21 research-only 13:20,21 25:7 
+
+29:11,19 31:4 22:8,9,17 regenerate 54:7 26:22 30:8,9 
+PVPA 25:8 26:25 27:2,5 51:16 resell 8:22 31:21 32:2,6 
+
+55:25 56:1 31:14 38:15,17 regeneration reserve 24:11 38:19 40:18,23 
+57:21,22 40:3,8,13 52:16 resistance 6:22 41:3 43:3 
+
+p.m 61:21 42:20,22 43:13 Register 40:1 20:14 21:4,9 47:22 49:4 
+
+Q 
+43:21,22 48:1 
+51:10 56:13 
+
+registration 
+55:23 
+
+22:19 37:14 
+resistant 3:18 
+
+51:22 52:1 
+58:7,14,14 
+
+qua 48:16 Ready's 42:20 regular 39:5 22:24 38:1 risk 16:17 17:9 
+quality 10:20 real 20:5 57:1 reinvent 26:5 resolves 24:20 24:3,6
+Quanta 34:13 realize 50:24 reinvented 26:1 respect 24:25 risks 5:8 16:13 
+
+34:17 49:17 really 4:20 Reinvention 26:14,23,23 16:23 24:8 
+59:11 11:15 25:17 26:4 30:11,15,21 27:24 36:16 
+
+quantity 51:21 33:9 44:2 rejected 25:1,2 31:21 32:4,6,9 risky 22:4 
+question 6:1 reason 25:2,3,6 related 50:15 40:2,19 43:12 rob 9:2 39:20,25 
+
+8:15,16 15:17 25:23,24 26:12 relevant 36:20 49:19 ROBERTS 3:3 
+18:3,4 19:1,4 29:2,11 43:9 46:24 55:24 respond 15:16 3:21 4:6,9 15:6 
+22:16 23:22 51:5,8 remaining 56:20 15:17 16:10 21:6,25 22:7 
+35:15 38:4,6 reasonable reminds 42:14 Respondents 22:13 24:12 
+44:1 45:5 32:20,21,23 repealed 24:24 1:21 2:10 4:2 25:22 30:7 
+46:16,19,20 43:20 50:24 repeat 58:9 34:21 31:4 32:1,8,13 
+47:13,16 49:9 reasonably repels 59:8 Respondent's 32:25 34:10,18 
+49:10 50:1 50:15 replant 6:4 4:15 52:9,12 56:17 
+61:2 reasons 28:13 56:12 60:14 response 9:8,9 58:2 61:1,19 
+
+questions 34:25 28:14,16 replanting 15:24 36:12 rocks 8:3 
+48:22 56:15 REBUTTAL 31:17 57:11 37:22 49:16 room 8:2 
+
+quite 20:25 2:11 56:21 61:8 restrict 47:8 rot 42:10 
+26:19 27:6 receive 51:13 replicable 38:9 restriction 6:11 rotation 36:1 
+29:14 52:14 recognition 4:10 replicate 37:2 47:3,7 round 39:17 
+
+Quote 36:18 recognize 33:16 53:7 restrictions Roundup 3:19 
+
+R 3:1 
+R recognized 33:6 55:21 
+
+recognizes 
+
+replicates 46:8 
+replicating 26:9 
+
+52:8 
+
+23:12,13 34:17 
+57:20 
+
+restrictive 58:7 
+
+4:19 6:22 21:2 
+21:8,9 22:9,17 
+26:25 27:1,5 
+
+Alderson Reporting Company 
+
+
+
+71 
+Official 
+
+31:14 38:15,16 22:23 23:5,8 31:14,19,20,22 self-replicating sign 50:13 54:6 
+40:2,8,13 27:16 28:21,24 31:23,25 35:6 11:23 12:18 significant 
+41:14,18,20 30:1 35:15 35:7 36:15,19 13:1,6 14:4 31:13 
+42:19,20,22 39:7,14,20 36:21,22,25 44:4,7 simplicity's 48:7 
+43:13,21,22 57:10 60:8 38:16,19 40:11 sell 4:4,4 8:22 Simplifying 
+47:25 51:10 61:4 40:12,16,17,20 16:19 17:23,25 52:3 
+54:25 56:13 Scalia's 6:1 40:20 42:4,17 28:17 31:1,16 simply 27:19 
+
+royalty 26:14 54:22 61:2 42:23 43:4 32:11,22 49:5 36:18 56:9 
+43:20,23 scenario 16:12 48:1,9,10 49:5 51:21 61:11 
+
+rule 14:2 Schering-Plou... 55:15,17 56:5 55:4,7,8,15,16 sine 48:16 
+rules 33:17,19 51:23 56:6,10 57:3,9 55:16 56:5 single 19:20 
+ruling 57:8 science 34:25 57:15,17,18 57:11 59:1 27:1 39:12 
+
+41:16 42:9 59:7 61:14 60:2,3,13 61:9 50:18 56:11 
+S scooping 57:14 seeds 3:20,24 selling 30:2 57:24 
+
+S 2:1 3:1 Scout 42:9 5:4 6:8,11,14 48:21 50:12 sit 16:24 
+sake 48:7 Seattle 1:15 7:1,4,6,7,8,9 52:5 55:15 site 40:1 
+sale 5:22 17:3,20 second 7:13,25 7:20,23 8:1,4 sells 30:24 51:24 situation 4:1 
+
+23:17,18 26:13 10:19 27:19,24 8:10,22 9:2,12 sense 22:4 23:10 22:4 32:15 
+26:21 27:11,12 31:8,19,19 9:20 10:1,4,5 35:18 52:14 57:1,2
+30:5,12,14 35:16 36:1,15 11:6 14:12 sensible 6:6 size 43:1 
+31:7,8,14,18 36:16 37:1,4 15:7,12 17:5,7 sent 46:13 slightly 33:5 
+34:2,16 38:15 56:12,13 57:3 17:13,14,23 sentence 4:23 software 32:19 
+41:1 47:11 60:11 18:5,9,20,23 36:20 37:21 32:21 33:13,21
+48:16,16,17 Section 44:18 19:18 20:10,18 separate 31:23 45:14,22 46:8 
+50:25 51:1,4 46:6 49:7 21:8,10,20,21 33:8,8 46:11 52:20 
+53:21 54:10 see 11:20 44:2 22:9,14,16,17 sequence 14:10 54:18 58:8 
+
+sales 13:19,21 seed 3:17,17,18 23:5,11 24:9 serious 52:13 soil 14:16 
+40:10 47:16,18 3:20,22 4:16 26:18 27:20,21 servitude 5:20 sold 3:12,23 5:7 
+49:19 50:10 5:7,10,10,11 27:22 30:3 17:17 5:15 6:8 7:13 
+60:19,23 5:12,12,13,14 37:7,7,23 SETH 1:20 2:9 17:18 25:20 
+
+Sandy 43:5 5:14,18 6:3,4 38:17 40:7,10 34:20 26:11,14 32:4 
+save 43:23 56:11 6:16,20,21 41:12,14,18,21 shaped 13:7 38:19 40:20 
+saved 36:22 8:13 9:19 41:22 47:23,25 sharing 24:6 47:10 48:8,15
+saving 25:10 10:11,13,14,16 48:10 54:6,24 Sherry 1:17 2:6 48:21 50:22 
+
+29:24 37:23 10:20,20,22 54:25 55:3,9 24:13,14,16 59:20 
+saying 8:17 9:12 12:12 13:14 55:10,11 58:11 26:7 28:4 29:1 Solicitor 1:17 
+
+9:25 12:12 14:20 16:16 60:2,11 29:7 30:2,9 solution 56:8 
+20:8 30:13,25 18:12,16,18 seed-saving 31:3,6 32:3,10 somebody 20:7 
+45:7 53:21 19:11,12,20 25:13 32:17 33:3,24 23:23 
+54:25 57:15 20:6 21:3,13 select 20:25 34:9,11 38:14 soon 3:23 
+61:4,13 22:3 23:21 selected 21:1 55:7 sorry 12:8 21:6 
+
+says 11:8,9 14:3 25:9 26:6,23 selecting 20:7 Sherry's 49:16 22:15 33:24 
+14:7 28:6,10 26:24 27:2,25 selectively 6:19 shoot 39:16,16 61:1 
+37:24 28:2,8,17,19 self-regenerat... shot 39:14 sort 26:9 54:9 
+
+Scalia 4:22 5:2 29:20,24 30:4 32:16 side 9:10,19 SOTOMAYOR 
+5:11 18:19 30:8,10,15,19 self-replicate 29:3,19 41:6 12:8 14:15,20
+21:19,22 22:20 30:25 31:1,9 19:13 58:7 14:24 30:23 
+
+Alderson Reporting Company 
+
+
+
+72 
+Official 
+
+49:8,12,21,25 straightforward 52:20 60:1 59:7 60:25 17:24 
+50:4 51:6 52:3 49:7 taken 42:16 things 5:21 8:11 today 27:2 33:16 
+
+sounds 32:1 strict 44:21 talk 26:17 38:8 9:3 11:1,4 tofu 11:3 60:3 
+source 10:14 study 54:5 talked 12:23 12:22 14:25 top 35:22 
+
+29:20 36:14 stuff 31:5 54:9 26:10 28:14 17:18 20:2 tort 44:21 
+37:4 57:3 submission 32:5 33:12 44:4 59:1,20 traditional 28:5 
+
+south 18:7,9 50:18 53:15 60:17 think 4:1,1,5,10 56:24 
+soy 3:16 4:16 submit 56:16 talking 5:14 5:23 8:18 trait 21:2 38:11 
+soybean 28:8,9 61:16 7:17 24:18 11:14,17 12:11 transform 39:11 
+
+36:3,9,19 submitted 28:9 25:20 26:16 15:23 17:15 transformation 
+38:16,17,25 28:11 61:20,22 32:15 33:14 24:19 26:2 27:1 38:24
+ 
+40:5,6 41:16
+ substantially tangible 30:16 31:13 32:11,17 39:13 40:2
+ 
+42:3,23,24
+ 13:2 technically 32:18 34:11,12 transformed 
+43:6 48:8,10 success 43:1 17:20 38:7,22 39:15 40:5,10,16,20 
+51:9,11 successful 41:9 technological 45:13 46:7,20 treated 33:7 
+
+soybeans 4:23 sudden 41:13 42:21 47:13 48:6 44:10 53:20 
+18:6,8,12,20 sufficient 6:24 technologies 49:10,15 50:3 tries 5:3 
+18:23 27:5 suggested 13:24 12:19 14:4 50:6,6 51:5,5,8 trillions 38:16 
+35:2,3,8,17,19 suggesting 14:2 33:17 38:9 53:16,16,17,18 troop 42:9 
+36:2 37:2,19 49:15 technology 26:9 53:22,24 59:13 trouble 34:4
+ 
+38:8,10 40:7
+ suggestion 58:3 27:6 31:11 59:19 true 4:6,7 15:15 
+40:15 43:3,4,5 summary 36:12 32:18 33:16 thinks 38:21 26:7 35:18 
+43:7 46:9 53:8 60:20 34:25 37:17 third 7:15,24 43:10,14 55:12 
+54:18 55:18 supermarket 38:3,14,23 8:4,5 50:8 61:11 
+56:4 41:17 39:3 40:8,19 54:11 try 3:22 10:25 
+
+specific 26:11 supplemental 41:1 43:22,22 thought 5:2 trying 11:15 
+specifically 26:8 6:18 48:1 50:13,19 15:16,16 16:10 39:23 
+speech 45:21 suppose 10:3 56:13 18:20 20:17 Tuesday 1:9 
+spend 3:22 Supreme 1:1,12 tell 7:23 21:7 29:6 turkeys 11:3 
+spray 14:23 sure 12:22 14:24 telling 22:10 42:11 43:2,2 turn 52:2 
+stamen 43:9 30:1,1 34:10 49:21 46:22 47:6 turns 41:17 
+stands 51:5 45:9 49:13 term 27:10 thousands 13:14 two 6:19 11:5 
+Staples 52:21 60:16,21 terms 60:19 36:3 15:8 25:3,4 
+start 24:18 Surely 57:22 terrible 15:4 threat 23:19 types 18:13,15 
+
+34:24 swallow 59:18 Thank 16:11 51:14 
+Ustarting 42:1 system 4:9 45:18 24:12 34:18 three 7:8,9 8:19 
+
+State 55:14 56:6 ubiquity 42:19 
+underlies 13:16 
+
+45:24 52:22 56:17 61:18,19 26:18,20 42:1 
+57:13 theory 4:15,20 55:2 
+
+T underlying 
+T 2:1,1 
+
+statement 56:24 5:6 23:23 throw 11:7 15:7 
+26:12States 1:1,12,19 38:18 40:18 time 17:19 18:10 
+
+take 5:1 6:9,17 understand 4:222:7 24:15 59:23 20:12 21:16 
+12:19 20:11 18:19 30:142:25 45:25 they'd 14:13 22:1,2,8 24:11 
+24:7 29:3 38:22 49:25 
+31:18,20,23 
+
+46:14 They’re 28:14 30:10 35:4,11 
+59:9statute 14:7 thing 8:25 9:18 36:10 40:19 
+
+statutes 25:3,4 34:7 42:8 43:5 understands17:2 41:6 times 37:3 56:11 
+44:14 45:6,12 50:12step 6:23 42:17 44:23 57:6 
+
+sterilizes 8:24 51:9 52:4,5,8 undifferentiat... 46:12 58:23 title 5:7 17:18 
+
+Alderson Reporting Company 
+
+
+
+73 
+Official 
+
+19:19 27:20 25:5 9:9,15,23 10:9 44:5,12,16,21 work 10:13 
+28:15 10:12 11:21,25 45:1,6,9,12 14:16,18,21
+
+Vuneconomical 12:3,16 13:15 46:17 47:12 16:2,8 
+v 1:5 3:5 33:4 20:23 14:5,19,21 49:1,8,11,20 works 38:23 
+
+45:16 58:4unenforceable 15:2,10 16:11 49:23 50:3,6 52:10 54:8 
+vaccine 51:12,1750:11 51:3 17:17 18:11,15 51:8,20 52:7 world 3:21 
+
+51:18,21,24uniform 23:2 18:21,25 19:3 52:18 53:4,12 worrisome 41:6 
+52:1,4,15United 1:1,12,19 19:17 20:21,24 53:15,23 54:14 worthless 19:14 
+
+vaccines 46:92:7 24:15 21:11,21,24 54:17 55:6,12 wouldn't 8:8 
+51:10,1542:25 45:25 22:2,12,15,22 56:18 29:1 37:11 
+
+value 43:2446:13 23:2,7,10 Waxman's 58:3 43:18,18 51:13 
+variabilitiesunlawful 55:25 56:19,21,23 way 3:19 5:24 wreck 16:20 
+
+20:357:11 57:12 58:5,19 6:1,5,12 8:9,21 writing 45:24 
+varietal 40:13unreasonable 58:24 59:2,10 9:10 10:13 written 46:11 
+varieties 35:1850:15 59:15 60:5,15 16:20 19:13 wrong 20:17 
+
+40:12,22 55:18 unsupportable 61:3,13 24:9 26:4,24 29:6 42:15 
+variety 21:1,1451:20 want 3:24 16:12 35:9,12 36:6 
+
+X23:3 24:23use 6:12,16,16 16:14,14 19:24 37:15,20 42:18 
+29:4,12,16,18 x 1:2,77:6 9:1,11,18 20:1,4,13 24:7 47:13 51:12 
+33:20 36:99:19,20,21,21 24:8 28:25 55:13 58:9,10 Y40:14 55:2010:22 11:11,13 30:14,15 38:7 58:22 
+
+Yeah 53:456:6 57:2511:18 12:9,12 43:21 46:18 ways 21:3 36:7 
+year 10:17,19various 8:1112:13 13:8,8 49:8,12 54:2,4 web 19:11 
+
+14:13 16:1918:12,1513:19,25 17:7 56:12 weeds 6:19,23 
+36:4vary 21:318:23 23:19 wanted 34:6 22:25 37:16,20 
+
+years 4:14 20:11 VERNON 1:324:9 27:23 36:14 37:18 went 6:9 8:1 
+27:9 40:25version 34:1528:25 29:2 57:2 20:18 37:6 
+57:6 58:1540:1331:17 32:20,21 wants 7:6,18,19 we'll 61:16,16 
+
+yield 37:11,14viable 29:2032:23 35:4,20 7:23 8:23 we're 12:17 
+yields 60:19vials 52:537:16 38:2 16:12 17:9 13:21 
+
+view 12:2039:3,25 42:20 18:9 31:2 we've 13:12 26:3 Z30:1447:4,9 48:25 41:15 58:3 zero 43:19,24violate 57:2149:5 50:20 warranted whatsoever 
+violated 11:1152:15 53:2,10 30:21 47:14 1
+
+11:1253:11,13,13,23 washed 22:5 wheat 36:2,16 1 15:18,19 16:7 violates 5:354:7,19 55:10 Washington 1:8 36:17,19,23 46:23,24 48:8 violating 4:2456:13 57:20 1:15,18,20 wholesale 33:22 48:12 55:2,11violation 15:2258:9,10,13,19 wasn't 36:18 win 53:18 56:315:25 44:1858:24 59:2,4 50:9 60:20 wind 41:13 1,000-acre 20:11volitional 44:2259:12,21,22 water 14:17 Windows 45:17 1/80th 56:11voluntary 44:1160:5,6 61:6,7 watering 14:17 45:22,24 52:21 10-year-old
+61:11 Waxman 1:20 winter 36:2,17 41:15Wuses 6:3 8:24 2:9 33:25 wondering 34:2 11-796 1:4 3:4 Walters 1:15 2:3 17:14 40:4 34:19,20,22 word 53:10,13 11:27 1:13 3:2 2:12 3:6,7,9,2556:2 59:15,19 37:9,13 39:9 words 34:5 12:37 61:214:8,12,25 5:6 60:4 39:15,23 41:5 36:24 40:24 13 40:255:16 6:7 8:7,14 utility 24:21,23 41:25 42:8,14 48:4 130 6:17 9:24 
+
+Alderson Reporting Company 
+
+
+
+74 
+Official 
+
+150 4:14 58:15 
+152a 36:12 
+153a 57:4 
+19 1:9 6:18 
+1920s 24:1 
+1996 42:23 
+
+2
+ 
+2 7:21,22 8:20 
+
+8:22 9:2 11:1 
+15:21,21 47:1 
+47:4 48:13,14 
+49:2 54:23 
+55:3,18 60:17 
+60:18 
+
+20 27:9 37:3 
+56:10 
+
+20-year 27:10 
+2013 1:9 
+24 2:7 
+271 44:19 49:7 
+271(f) 46:6 58:6 
+275,000 42:24 
+
+3
+ 
+3 2:4 9:1,6 11:12 
+
+47:5 48:7 
+30 56:10 
+34 2:10 
+
+4
+ 
+40 18:7,7,7,9 
+
+56:10 
+
+5
+ 
+50 56:11 
+56 2:13 
+
+8
+ 
+80 37:3 56:11
+ 
+
+9
+ 
+90 4:18 41:22 
+
+42:24 
+90-odd 10:5 
+
+Alderson Reporting Company 
+
+

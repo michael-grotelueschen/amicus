@@ -1,0 +1,6332 @@
+
+    
+
+                     
+
+          
+
+                       
+
+           
+
+                    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+UNITED STATES, EX REL. IRWIN 
+
+EISENSTEIN, 
+
+Petitioner 
+
+: 
+
+:
+
+:
+
+ v. : No. 08-660 
+
+CITY OF NEW YORK, NEW 
+
+YORK, ET AL. 
+
+: 
+
+: 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Tuesday, April 21, 2009
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:17 a.m. 
+
+APPEARANCES: 
+
+GIDEON A. SCHOR, ESQ., New York, N.Y.; on behalf of
+
+ the Petitioner. 
+
+PAUL T. REPHEN, ESQ., New York, N.Y.; on behalf of the
+
+ Respondents. 
+
+JEFFREY B. WALL, ESQ., Assistant to the Solicitor
+
+ General, Department of Justice, Washington, D.C.; on
+
+ behalf of the United States, as amicus curiae,
+
+ supporting the Respondents. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                     
+
+                   
+
+             
+
+                    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S
+
+
+ORAL ARGUMENT OF PAGE 
+
+GIDEON A. SCHOR, ESQ.
+
+ On behalf of the Petitioner 3
+
+
+PAUL T. REPHEN, ESQ.
+
+
+ On behalf of the Respondents 25
+
+
+JEFFREY B. WALL, ESQ.
+
+
+ On behalf of the United States, as amicus
+
+ curiae, supporting the Respondents 41
+
+
+REBUTTAL ARGUMENT OF
+
+
+GIDEON A. SCHOR, ESQ.
+
+
+ On behalf of the Petitioner 51
+
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (11:17 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We will hear 
+
+argument next in Case 08-660, United States, ex rel. 
+
+Eisenstein v. the City of New York.
+
+ Mr. Schor.
+
+ ORAL ARGUMENT OF GIDEON A. SCHOR
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. SCHOR: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ For two main reasons, the Second Circuit's 
+
+judgment should be reversed. First, under Appellate 
+
+Rule 4(a)(1)(B) the government is a party in qui tam 
+
+actions because it is named, served, and bound and a 
+
+real party in interest, all without ever intervening or 
+
+actively participating.
+
+ And second, any participation-based test 
+
+party status will create a burdensome fact-specific 
+
+jurisdictional inquiry at the start of every appealed 
+
+and declined qui tam --
+
+JUSTICE GINSBURG: Why at the start? Why 
+
+isn't the time the end, when we can -- the notice of 
+
+appeal is to be filed after there is a judgment. Why 
+
+isn't the proper time to determine number of days to 
+
+appeal when the judgment is entered? And at that point, 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+one can see that the government has done nothing, 
+
+absolutely nothing in the case.
+
+ At the inception, I agree with you, we don't 
+
+know what, if anything, the government is going to do. 
+
+But by the time judgment is entered, we surely know.
+
+ MR. SCHOR: It will be quite difficult and 
+
+burdensome, even upon entry of judgment, for a relator 
+
+or a defendant to determine whether the government's 
+
+participation was sufficiently active to make the 
+
+government a party for purpose --
+
+JUSTICE GINSBURG: But we hear the 
+
+government did nothing, not one thing.
+
+ MR. SCHOR: Well, under the -- under the 
+
+active participation test, that may be. But the 
+
+question is -- is, will this Court be adopting the 
+
+active participation test.
+
+ JUSTICE GINSBURG: The test is -- I don't 
+
+know what you mean by "active participation" as opposed 
+
+to just plain participation. If the rule is at the time 
+
+judgment is entered to determine how much time you have 
+
+to file your notice of appeal, the question is, has the 
+
+government done anything? And if the government has 
+
+done nothing at all, then you have 30 days.
+
+ MR. SCHOR: In -- well, to address Your 
+
+Honor's first point, the Second Circuit's test was 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+participation. The test proposed by Respondents and the 
+
+government is active participation, which narrows --
+
+narrows it somewhat. We point out in our opening brief 
+
+that it's hard to conclude that the government did 
+
+nothing here. It did request to receive orders and --
+
+JUSTICE SCALIA: So that's the question, 
+
+whether that's enough or whether the government's power 
+
+to prevent discovery, which it can do, is that alone 
+
+enough?
+
+ MR. SCHOR: Well, our position is that the 
+
+test is the wrong test. Our position is that --
+
+JUSTICE SCALIA: I understand that. But --
+
+but I'm saying there are various steps the 
+
+governments -- the government can take, and I -- I think 
+
+you have a point, that even though this case may be an 
+
+easy one, we're going to have to decide in future cases 
+
+how much -- how much activity by the government is 
+
+enough activity to make the government a party.
+
+ MR. SCHOR: And I think it will be a very 
+
+difficult determination for the relator or the defendant 
+
+for several reasons. First of all, the government 
+
+expressly declines to limit or define the circumstances 
+
+constituting active participation. So there will be a 
+
+whole series of legal determinations and possibly trips 
+
+to this Court to determine the content of the standard. 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Secondly, there will be enormously difficult 
+
+fact-gathering efforts for the -- that the relator and 
+
+the defendant will have to undergo at the end of a case 
+
+after judgment has been entered. Sometimes a docket 
+
+sheet in a fully litigated qui tam action, declined or 
+
+not, can be a hundred or 200 pages, and the case will 
+
+have gone on for 5 or 5 years.
+
+ The standard would require -- the active 
+
+participation standard would require the relator or the 
+
+defendant to comb through the docket sheet to find every 
+
+instance of government participation to see whether, if 
+
+the docket sheet will review it, the participation was 
+
+sufficiently active.
+
+ CHIEF JUSTICE ROBERTS: You wouldn't have to 
+
+-- you wouldn't have to do anything like that at all. 
+
+He would just file before 30 days just to be on the safe 
+
+side. It's not like he's going to say, I'm going to 
+
+analyze this 100-page document to see whether I get an 
+
+extra 30 days to do something as simple as filing a 
+
+notice of appeal.
+
+ MR. SCHOR: Respectfully, I think that might 
+
+read out of the rules the 60-day period. But also, I 
+
+think it's a reflex among trained counsel always to see 
+
+first, as soon as judgment is entered, how much time do 
+
+I have to file the notice of appeal. So the inquiry 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+will have to be undertaken unless the --
+
+CHIEF JUSTICE ROBERTS: And -- and if the 
+
+inquiry says it's hard to tell, there's a 30-day limit 
+
+and there's a 60 day limit, I don't know of any 
+
+responsible counsel who wouldn't file within 30 days.
+
+ MR. SCHOR: If that's the position, then 
+
+that will read out of the rules the 60-day period. The 
+
+rules do contain a 60-day period.
+
+ CHIEF JUSTICE ROBERTS: Why would that --
+
+why would it -- I mean, it would still apply to the 
+
+government or any case in which the government is a 
+
+party, where it's not an issue whether is the government 
+
+a party or not.
+
+ MR. SCHOR: If it becomes too difficult to 
+
+determine whether the government is a party, then it --
+
+then it would be very hard to imagine the relator or the 
+
+defendant who will feel able to invoke the 60-day 
+
+provision, and that would effectively make it a dead 
+
+letter --
+
+CHIEF JUSTICE ROBERTS: Oh, no, no, no, I 
+
+agree with you that it -- I'm just saying why in a world 
+
+would the relator want to invoke the 60-day provision if 
+
+there's at all -- at all a question about whether it's 
+
+30 days or 60 days?
+
+ MR. SCHOR: It's -- it's the case that 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+people read the rules and see there's a -- there are 30 
+
+days if the government's not a party and 60 days if the 
+
+government is a party. It's -- it's a function of the 
+
+rules themselves. If the rules say there's a 60-day 
+
+period --
+
+JUSTICE GINSBURG: Is there any advantage? 
+
+I mean, a notice of appeal is the easiest document, so 
+
+it's not a question that there's any labor involved in 
+
+doing this. But is there any advantage to filing -- to 
+
+taking the 60 days instead of the 30 days? Why would 
+
+counsel want to take advantage of the extra 30 days? It 
+
+isn't a question of a labor, having to write, like 
+
+having to write a brief. What advantage would there be 
+
+to taking the additional 30 days?
+
+ MR. SCHOR: If we're talking about relator's 
+
+counsel, sometimes in a declined qui tam action the 
+
+relator's counsel may wait to determine, may want to 
+
+know whether the government will be filing any sort of 
+
+amicus brief on appeal before determining whether we'll 
+
+go ahead with the appeal. And rather than filing what's 
+
+known as a protective notice of appeal, which isn't --
+
+which isn't an optimal procedure --
+
+JUSTICE GINSBURG: How would the -- how 
+
+would you know at the time of filing of the notice of 
+
+appeal whether the government is thereafter going to 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+file an amicus brief?
+
+ MR. SCHOR: Relator's counsel is frequently 
+
+in touch with government counsel. And an important 
+
+factor in whether relator's counsel will pursue an 
+
+appeal and spend the money on the appeal is whether they 
+
+will have support in any respect from the government. 
+
+So sometimes it is the case that relator's counsel will 
+
+very much want to know if government -- if the 
+
+government will be making any sort of supportive filing 
+
+on the appeal, and that may take longer to determine 
+
+than the 30 days. Sometimes it's 60 days.
+
+ CHIEF JUSTICE ROBERTS: So -- yes, but --
+
+you don't have to know that before you file the one-page 
+
+notice of appeal. I mean, if you need more time, you 
+
+can get more time, but you don't have to know all of 
+
+that. It's not going to cost you a lot of money to file 
+
+the notice of appeal.
+
+ MR. SCHOR: That's -- that's true.
+
+ JUSTICE SCALIA: And if it turns out the 
+
+government is not going to come in, you can always 
+
+dismiss the appeal.
+
+ MR. SCHOR: That is true. I think it's a 
+
+suboptimal procedure to file something, to file a notice 
+
+with the court if -- if you're not certain that it's 
+
+going to be pursuing your appeal. I think it's better 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to wait and not file until one is certain that one will 
+
+be pursuing the appeal.
+
+ JUSTICE SCALIA: Well, anyway, a rule's a 
+
+rule and discussing all of these consequences is beside 
+
+the point. If, indeed, the government's a party, it's 
+
+60 days, right, and you say the government's a party?
+
+ MR. SCHOR: Correct.
+
+ JUSTICE SCALIA: And is -- is it your 
+
+position that the government is a party to this case for 
+
+all purposes, for all purposes of all the rules, or is 
+
+it just some of them?
+
+ MR. SCHOR: No, we are not arguing that the 
+
+government is a party only for some purposes and not 
+
+others. Our arguments are consistent with the view that 
+
+the government is a party for the case.
+
+ JUSTICE SCALIA: As opposed to the 
+
+government's view, which does sort of pick and choose 
+
+between --
+
+MR. SCHOR: Correct, and Respondents' as 
+
+well.
+
+ If the Court, however, wants to rule 
+
+narrowly and just decide the Rule 4(a)(1)(B) issue, 
+
+whether the government is a party under Rule 4(a)(1)(B), 
+
+our arguments are certainly consistent with that as 
+
+well. 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+The government is -- well let me address one 
+
+issue that may be in the Court's mind or that the Court 
+
+may be asking. Well, Petitioner, you know, we have the 
+
+government telling us that it doesn't need the 60 days 
+
+when it doesn't intervene or actively participate; 
+
+doesn't that end the matter.
+
+ JUSTICE GINSBURG: The government is not 
+
+saying it doesn't need the 60 days. It's saying you 
+
+don't qualify for the 60 days, you are not the 
+
+government. I don't think the government is arguing 
+
+that its own time can be shortened.
+
+ MR. SCHOR: Well, the rule is that if the 
+
+government gets 60 days everybody gets 60 days, even 
+
+private parties like the relator. But I believe the 
+
+government's position is that if the rationale for 
+
+giving 60 days doesn't apply, then everyone else 
+
+shouldn't get the benefit of the 60 days, either. I 
+
+believe that's the government's position.
+
+ We would argue that two factors detract from 
+
+the government's argument in that respect. First of 
+
+all, it's unrealistic to think that the government will 
+
+never need the 60-day period if it doesn't intervene or 
+
+actively participate. The problem arises if the relator 
+
+does not appeal. If the relator litigates and tries a 
+
+case with sufficient skill that the government doesn't 
+
+11
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+need to take over and the district court nonetheless 
+
+enters judgment for the defendant, the problem arises if 
+
+the relator doesn't appeal or doesn't appeal the 
+
+particular issue or order that the government would like 
+
+before the court of appeals. In that case, an amicus 
+
+filing won't protect the government's interests and the 
+
+government will have to appeal. And once it's conceded 
+
+that the government has to appeal, then it has to be 
+
+conceded that the government will need 60 days. That 
+
+is, that the rationale for the 60-day period is fully 
+
+applicable.
+
+ It's also true sometimes --it's not at all 
+
+fanciful that the relator might not appeal. The relator 
+
+might have spent a lot of money, time and money pursuing 
+
+the trial, and, having lost, may have called it quits 
+
+for purposes of the appeal. Or the defendant might say 
+
+to the relator: Look, if you don't pursue your appeal, 
+
+we won't file a bill of costs against you. There could 
+
+be all kinds of reasons why the relator might not 
+
+appeal. If the relator doesn't appeal, there will be no 
+
+appeal in which the government can make an amicus 
+
+filing.
+
+ CHIEF JUSTICE ROBERTS: So there may be --
+
+there may be a lot of reasons the relator will not 
+
+pursue an appeal. I don't think there's any reason that 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the relator would not file a notice of appeal within 30 
+
+days or, if he doesn't like 30 days, you ask for an 
+
+extension of time for another 30 days. Then the whole 
+
+issue is moot.
+
+ MR. SCHOR: It -- it may be, but I believe 
+
+that if Rule 4(a)(1)(B) creates a 60-day period, then 
+
+the litigants have an entitlement to invoke it.
+
+ JUSTICE SCALIA: Well, your argument goes --
+
+is replying to the government the Respondent's argument 
+
+that there is no sense in giving 60 days to the 
+
+government, and what you're saying is, yes, sometimes 
+
+there is.
+
+ MR. SCHOR: Correct.
+
+ JUSTICE SCALIA: Even when the government 
+
+has not actively participated. So it really negates, 
+
+you know, you're doing something that has no point. It 
+
+could have a point, to give the government 60 days, even 
+
+in a case where it has not actively participated. It 
+
+may need that long to consult with other agencies as to 
+
+whether to accept a defeat in this case or -- or on its 
+
+own to conduct an appeal if the relator doesn't want to.
+
+ MR. SCHOR: That's correct, and --
+
+JUSTICE GINSBURG: Can the government appeal 
+
+without having intervened in the district court?
+
+ MR. SCHOR: Since the government is bound by 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the judgment, I believe that the government does have 
+
+that right. I don't have authority in the False Claims 
+
+Act context for that position, but I think it follows 
+
+from the conclusion, which is undisputed here, that the 
+
+government is bound by the judgment in a declined qui 
+
+tam action even where the government doesn't actively --
+
+JUSTICE SCALIA: I'm sure the government 
+
+will agree with that. I'm sure that's one of the 
+
+contexts in which they agree that the government is a 
+
+party.
+
+ MR. SCHOR: Yes, I think that's right, 
+
+although they can speak for themselves.
+
+ Now, the -- it's important also to note that 
+
+when the government declines to proceed with a qui tam 
+
+action, it might be declining to conduct the action or 
+
+take discovery or use its resources, but it's not 
+
+declining to get a judgment. The judgment gets a 
+
+binding judgment even when it declines. There's no 
+
+dispute that the claim is the government's claim and 
+
+that the judgment finally disposes of it. If in a 
+
+declined action the relator litigates and gets a $10 
+
+million award, the government takes the money. And so 
+
+the government is bound by the judgment. The judgment, 
+
+finally disposes of the government's claim.
+
+ JUSTICE SCALIA: But there are some 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+provisions that -- that seem to indicate the government 
+
+isn't a party. For example, it specifically provides 
+
+that even when the government hasn't intervened, the 
+
+government may request copies of the pleadings. Doesn't 
+
+it have to make requests for them?
+
+ MR. SCHOR: The government has to make 
+
+requests.
+
+ JUSTICE SCALIA: Well, why would it have to 
+
+do that if it's a party?
+
+ MR. SCHOR: The --
+
+JUSTICE SCALIA: So you're -- I mean, you're 
+
+saying they are not a party for that rule at least, that 
+
+requires the pleadings to be served upon the other 
+
+party.
+
+ MR. SCHOR: No. But Congress can restrict 
+
+the operation of particular Federal Rules of Civil 
+
+Procedure. The argument that I think Your Honor is 
+
+averting to is the Rule 5 argument that my -- that 
+
+Respondents and the government make. Rule 5 doesn't 
+
+define who the party is. It attaches certain 
+
+consequences to being a party, but it doesn't define who 
+
+a party is. It says you get to be served if you are a 
+
+party. You get to be served with certain pleadings and 
+
+Congress --
+
+JUSTICE SCALIA: Right. 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. SCHOR: Congress restricted that right 
+
+in the False Claims Act. But that doesn't make it a 
+
+party. What makes it a party is whether it's named --
+
+JUSTICE SCALIA: I'm not following you. I'm 
+
+saying if -- if the government is a party, Rule 5 would 
+
+apply and the government would automatically get copies 
+
+of the pleading whether or not it requested them. So 
+
+the provision in the False Claims Act that the 
+
+government will only get copies if it requests them 
+
+seems to indicate that the government is not a party.
+
+ MR. SCHOR: The fact that ordinarily a party 
+
+might get served with certain pleadings doesn't mean 
+
+that if Congress restricts that right, it's not a party. 
+
+It means it's a party that Congress has -- for whom 
+
+Congress has restricted the right. And that --
+
+JUSTICE GINSBURG: Do you think that 
+
+everyone -- you are relying on the government, that the 
+
+government is in the caption and it's a real party in 
+
+interest. Is every real party in interest a party for 
+
+this purpose?
+
+ MR. SCHOR: No, we are not arguing that. To 
+
+be a party, a real party in interest must be named in 
+
+the -- the actions needs to be brought in the name of 
+
+the real party in interest. And we've cited abundant 
+
+authority for the proposition that that means that the 
+
+16
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+pleadings must identify that person by name. If the 
+
+action is to be brought in the name of Smith, then the 
+
+pleadings must identify Smith as the plaintiff. So the 
+
+naming requirement must be complied with. It's not 
+
+sufficient in our view just to be a real party.
+
+ JUSTICE SCALIA: Can I come back to the Rule 
+
+5 point just for a minute?  You say that the effect of 
+
+the False Claims Act is simply to restrict what would 
+
+normally be the right of the government to get copies of 
+
+all the pleadings. That's really not how it reads. It 
+
+doesn't say that the government shall receive copies of 
+
+the pleadings only if it requests them. It says the 
+
+government shall receive copies of the pleadings if it 
+
+requests them, as though without that provision it 
+
+wouldn't have a right to receive copies. Isn't that the 
+
+way it reads?
+
+ MR. SCHOR: It does read that way. I think 
+
+the addition of "only" is logician's language, Your 
+
+Honor. I'm not sure that the drafters --
+
+JUSTICE SCALIA: Well, that's what we are 
+
+down here, you know.
+
+ (Laughter.)
+
+ MR. SCHOR: It may be, but not every 
+
+drafting of a statute rises to that level of --
+
+JUSTICE SCALIA: Precision. 
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. SCHOR: -- of quality. The attachment 
+
+of the condition "if it requests" I think goes a long 
+
+way towards suggesting that if it doesn't so request, 
+
+then it -- it won't, which means that Congress has 
+
+restricted the operation of -- of Rule 5. And -- and 
+
+there are a number of instances where Congress will 
+
+restrict the operation of Federal Rules of Civil 
+
+Procedure even when someone is concededly a party to the 
+
+case.
+
+ I have cited a number of instances in that 
+
+-- of that in our reply brief. There are a number of 
+
+statutory actions, especially where the government is a 
+
+party, where, even though it is concededly a party and 
+
+everyone's a party, the -- the normal party discovery 
+
+obligations don't apply. We have cited FOIA and EPA and 
+
+tax summons and -- and habeas is a slightly different 
+
+example. But there are many examples where Congress 
+
+will step in and restrict the obligations that the 
+
+Federal Rules would otherwise apply to people who are 
+
+parties without depriving them of party status.
+
+ I would like to address the intervention 
+
+provision. We have many arguments in our briefs as to 
+
+why the intervention provision doesn't determine party 
+
+status. I think that the simplest way from A to B is to 
+
+follow through to its conclusion an example that the 
+
+18
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+government gives. The government says that if it vetoes 
+
+a settlement, then it is a party.
+
+ Well, if it vetoes a settlement -- - that 
+
+is, without having intervened. If it vetoes a 
+
+settlement without having intervened, the case goes 
+
+forward because there is no settlement. But then if the 
+
+government wants to conduct the action, the only way it 
+
+can conduct the action under the statute is if it then 
+
+intervenes. So you have a case where the government is 
+
+already a party when it intervenes; and, therefore, even 
+
+under the government's example the intervention 
+
+provision cannot determine party status.
+
+ I would like to just go back to the 
+
+definition of -- of "party" that is in our briefing. 
+
+The -- several provisions of the False Claims Act show 
+
+that, even without ever intervening or actively 
+
+participating, the government satisfies the classic 
+
+elements of party status. It's a real party interest 
+
+because the statute upholds the government's claim and 
+
+gives the government the bulk of recovery. The -- the 
+
+government is named as a plaintiff in the pleadings 
+
+pursuant to the act's naming requirements. The 
+
+government is served with the complaint under Federal 
+
+Rule of Civil Procedure 4 pursuant to the act's service 
+
+requirement. And the government is bound by the 
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+judgment, which is not even disputed here. Those are 
+
+the classic elements of party status, and the government 
+
+satisfies them all in this case.
+
+ JUSTICE GINSBURG: There is something odd 
+
+about -- plaintiffs come to the court seeking something. 
+
+Defendants are -- are stuck. They're being sued. And 
+
+here the United States is an involuntary plaintiff. It 
+
+didn't commence this lawsuit, and I think there must be 
+
+many cases where the government will say, we don't want 
+
+anything to do with this.
+
+ MR. SCHOR: I -- I don't think it's accurate 
+
+to say that the government is an involuntary plaintiff, 
+
+because Congress has said the United States will be a 
+
+plaintiff under these circumstances and -- and in that 
+
+respect Congress has spoken for the United States.
+
+ It is an oddity of the False Claims Act that 
+
+the plaintiff is served with the complaint, but that's 
+
+there on the face of the statute. And once it's served, 
+
+having been named and having been already a real party 
+
+in interest by operation of law, then it has -- it's 
+
+already a party at that point. And if it's a party at 
+
+that point, then it's a party for purposes of Federal 
+
+Rules of Appellate Procedure 4(a)(1)(B) and -- and may 
+
+be for other purposes as well.
+
+ I would like to --
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: May be for other purposes? 
+
+I thought you told me before that it was for other 
+
+purposes as well.
+
+ MR. SCHOR: Yes, it is.
+
+ JUSTICE SCALIA: Okay. Let's stay on track.
+
+ MR. SCHOR: Yes.
+
+ I would like to --
+
+JUSTICE ALITO: It's not really a party for 
+
+all purposes in your submission. It's not a party for 
+
+discovery purposes, is it?
+
+ MR. SCHOR: In -- in our argument it is a 
+
+party even though it is not subject to discovery. There 
+
+are two ways one could characterize the government. One 
+
+can either say it's not a party for purposes of 
+
+discovery; or, as we say, citing authority in our reply, 
+
+it is a party, but it is for other statutory reasons not 
+
+subject to discovery.
+
+ The declination provision is key here. By 
+
+the declination provision Congress said the government 
+
+can decline to engage in discovery. All right. It 
+
+declines to conduct the action. One aspect of 
+
+conducting the action is engaging in discovery. The 
+
+government can decline to engage. That means not only 
+
+not serving discovery requests, but not responding to 
+
+discovery requests. And that's part and parcel of the 
+
+21
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+declination provision. That's the way Congress 
+
+structured it.
+
+ JUSTICE SCALIA: Where is that? What 
+
+provision is that? I didn't focus on that.
+
+ MR. SCHOR: The declination provision, Your 
+
+Honor?
+
+ JUSTICE SCALIA: Yes. I am sorry. I didn't 
+
+mean to eat up your time with this.
+
+ MR. SCHOR: No, that's all right.
+
+ JUSTICE SCALIA: I mean, where is it in the 
+
+stuff that I have?
+
+ MR. SCHOR: Oh.
+
+ Well, it's certainly on page 2 of our 
+
+opening brief. It says: "If the government elects not 
+
+to proceed with the action, the person who initiated the 
+
+action shall have the right to conduct the action." And 
+
+there are other provisions that we cite in footnote 27.
+
+ JUSTICE SCALIA: Yes, but that doesn't say 
+
+anything about discovery in particular. I thought you 
+
+were talking about some declination provision that --
+
+that said the government is -- is not subject to 
+
+discovery.
+
+ MR. SCHOR: Well, footnote 27 of our brief 
+
+also cites other provisions of the act that -- that 
+
+define what it means "to conduct the action." And 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+discovery is one of them, and the declination provision 
+
+says that if the government declines -- if the 
+
+government -- if the government intervenes, then it 
+
+conducts the action; if it declines, then it doesn't 
+
+conduct the action. And the rest of the act defines 
+
+what "conducting the action" is, and that includes 
+
+discovery.
+
+ so our -- our conclusion from that is that 
+
+when the government declines to conduct the action, it's 
+
+going to decline to engage in discovery. That's --
+
+that's the argument.
+
+ JUSTICE SCALIA: And -- and the fact that it 
+
+cannot conduct discovery also involves the fact that 
+
+it's immune from discovery, how do you get that? And it 
+
+is; is it not?
+
+ MR. SCHOR: Yes, that's our position, and I 
+
+think that's the government's position as well.
+
+ JUSTICE SCALIA: Oh, I'm sure it's the 
+
+government's position.
+
+ MR. SCHOR: It would be --
+
+JUSTICE SCALIA: But how can that -- how can 
+
+that be if it's a party?
+
+ MR. SCHOR: If -- it's a party who is 
+
+because of the declination provision not subject to 
+
+discovery. 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: The declination provision 
+
+doesn't say that. The declination provision just says 
+
+that it is not actively conducting the case. But how do 
+
+you get its exemption from discovery?
+
+ MR. SCHOR: Because the declination 
+
+provision says that if the government declines, then it 
+
+will not conduct the action; The relator will conduct 
+
+the action. And "conducting the action" is defined 
+
+elsewhere in the statute as including conducting 
+
+discovery, engaging in discovery. And it would be hard 
+
+to imagine Congress contemplating such asymmetry in --
+
+in discovery obligations that --
+
+JUSTICE SCALIA: I agree with that, but --
+
+but it's -- it's for me a problem with your assertion 
+
+that for all purposes the government is a party. It 
+
+seems to me it is not a party for purposes of discovery, 
+
+and there is no provision in -- in the -- in the False 
+
+Claims Act that exempts it from discovery.
+
+ MR. SCHOR: There is -- it's an inference 
+
+drawn from the statute, Your Honor.
+
+ In sum, we would ask the Court to reverse 
+
+the judgment of the Second Circuit, and I would like to 
+
+reserve the balance of my time for rebuttal.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Mr. Rephen. 
+
+24
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+ORAL ARGUMENT OF PAUL T. REPHEN
+
+ ON BEHALF OF THE RESPONDENTS
+
+ MR. REPHEN: Mr. Chief Justice, and members 
+
+of the Court:
+
+ When the government declines to intervene in 
+
+a qui tam action, it should not be deemed a party for 
+
+purposes of the Rules of Procedure Rule 4. The 
+
+government's role is described in terms of intervention 
+
+as of right in the first 60 days following the filing of 
+
+the complaint and for good cause thereafter if the 
+
+government decides to come in after initial declination.
+
+ CHIEF JUSTICE ROBERTS: This is certainly a 
+
+trap for the unaware, right? I mean, every lawyer loves 
+
+to win on a technicality, but --
+
+MR. REPHEN: I don't think this is a trap 
+
+for the unwary. It is clear --
+
+CHIEF JUSTICE ROBERTS: It says if the 
+
+United States is a party, it is -- it is 60; if it's 
+
+not, it's 30. And you have got a situation where the 
+
+United States -- the action is brought in the name of 
+
+the United States.
+
+ MR. REPHEN: It is brought in the name of 
+
+the United States. But, you know, looking at the 
+
+statute, where the government has declined, it's not a 
+
+party. Any conservative counsel, if there are two 
+
+25
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+periods of time, 30 days or 60 days, the intelligent 
+
+thing to do is to go ahead --
+
+CHIEF JUSTICE ROBERTS: I know, but this is 
+
+such a -- such a trap for the unwary that you never even 
+
+raise this point. It was raised sua sponte by the court 
+
+of appeals.
+
+ MR. REPHEN: And rejected. And I think 
+
+after -- it is hard to see --
+
+CHIEF JUSTICE ROBERTS: Well, my point is if 
+
+it didn't occur to you, how can you claim that it should 
+
+definitely have occurred to your friend on the other 
+
+side?
+
+ MR. REPHEN: I don't know that it didn't 
+
+occur to us. I think we were trying to reject it, and 
+
+certainly after this Court decides the issue it would no 
+
+longer be a trap for the unwary. The decision will be 
+
+out there, either 30 days or 60 days.
+
+ JUSTICE STEVENS: May I ask this question 
+
+about: Are there a number of circuits that follow the 
+
+60-day rule?
+
+ MR. REPHEN: Yes.
+
+ JUSTICE STEVENS: And in those cases, 
+
+suppose we decide your way in this case. What happens 
+
+to the -- all the appeals that have been taken relying 
+
+on the 60-day rule? Because I understand the failure to 
+
+26 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+file a notice of appeal is jurisdictional.
+
+ MR. REPHEN: I think those appeals will be 
+
+terminated.
+
+ JUSTICE STEVENS: All of those would be 
+
+terminated?
+
+ MR. REPHEN: Yes.
+
+ JUSTICE STEVENS: And what about judgments 
+
+that have been entered based on appeals that were --
+
+MR. REPHEN: I don't know. I guess those 
+
+judgments would have to be vacated, the judgments --
+
+JUSTICE STEVENS: So we are really -- in 
+
+several circuits, a really rather important decision is 
+
+being called for?
+
+ MR. REPHEN: Yes, yes.
+
+ JUSTICE GINSBURG: Why would the judgment 
+
+have to be vacated? Even a jurisdictional issue becomes 
+
+subject to preclusion once you have gone the appeal 
+
+route --
+
+MR. REPHEN: That is true, Your Honor, 
+
+correct, yes.
+
+ JUSTICE GINSBURG: So even the 
+
+jurisdictional base can be precluded and not raised on 
+
+collateral attack.
+
+ MR. REPHEN: You are correct, Your Honor. 
+
+Again, as I said, the -- what the Congress has done --
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+it is very important in this case to look at the 
+
+legislative history. Congress has given the government 
+
+60 days to weigh the risks and benefits of getting 
+
+involved in the case. If it chooses to do so, it has 
+
+full responsibility for the conduct of the litigation.
+
+ If it declines to do that, the 
+
+statute provides that the relator shall have full 
+
+responsibility for the conduct of the litigation and 
+
+requires the government, if it subsequently wants to get 
+
+involved, to make a motion for intervention, during 
+
+which time it has to show good cause. And it's our 
+
+position that intervention should be given its ordinary 
+
+and common meaning, which is the method by which a 
+
+person who is not a party becomes a party.
+
+ JUSTICE SCALIA: Except that the government 
+
+here has considerable powers even without intervening, 
+
+and they include its ability to move to stay discovery, 
+
+which normally a party would only be able to do. It can 
+
+object to any voluntary dismissal or settlement, which 
+
+normally would be a party's right.
+
+ MR. REPHEN: There are certain --
+
+JUSTICE SCALIA: And some courts have 
+
+allowed the government to move to dismiss.
+
+ MR. REPHEN: There is certainly a limited 
+
+role here, but it is a very limited role. The 
+
+28 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+government can do that. This Court has recognized that 
+
+it can be a party for this limited purpose. For 
+
+example, if the government moved to dismiss and they 
+
+have -- there has to be a hearing following that, and 
+
+that motion were denied, the government could not then 
+
+participate on the merits of the case. It would have to 
+
+move to intervene for good cause if the 60 days had 
+
+passed.
+
+ JUSTICE SCALIA: So unlike -- unlike your 
+
+adversary here, you -- your adversary says the 
+
+government is a party for all purposes; you are not 
+
+saying the government is not a party for all purposes. 
+
+You're saying it's not a party for some purposes?
+
+ MR. REPHEN: What we're saying is certainly 
+
+it is not a party in this case, where it has quite 
+
+absolutely no role.
+
+ JUSTICE SCALIA: You are saying that.
+
+ MR. REPHEN: There may be --
+
+JUSTICE SCALIA: But you're also saying as 
+
+for the rest, sometimes it is, sometimes it isn't.
+
+ MR. REPHEN: There may -- there may be 
+
+circumstances. If the Court were to hold that 
+
+intervention is required even in those limited 
+
+circumstances, that would be okay with us. We're not 
+
+taking --
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: How about -- I'm 
+
+sorry. Why don't you finish, counselor?
+
+ MR. REPHEN: We're not taking a formal 
+
+position on that.
+
+ I think --
+
+CHIEF JUSTICE ROBERTS: Counsel, how does it 
+
+work in -- presumably, I guess the government can decide 
+
+that it wants to appeal the case in which it has not 
+
+participated below, right?
+
+ MR. REPHEN: It would have to move to 
+
+intervene.
+
+ CHIEF JUSTICE ROBERTS: It has to move to 
+
+intervene. So let's say there's a judgment and the 
+
+government looks at it and says: Well, we didn't know 
+
+we would get a decision like this; We've got to appeal 
+
+this. The relator doesn't want to appeal it. 30 days 
+
+goes by. The Government moves to intervene because it 
+
+has 60 days.
+
+ MR. REPHEN: I think we would take the 
+
+position there is no longer a case, Your Honor. It has 
+
+30 days; the relator has not appealed. The government 
+
+was not a party during that 30-day period. 31, 32, 33 
+
+days, the case is over. I guess there is a possibility 
+
+for the government to move to extend its time under the 
+
+rules, but generally there would be an opportunity for 
+
+30
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the government to intervene. As soon as the case is 
+
+over, it had not been a party, it had not chosen to be a 
+
+party, and the time has expired.
+
+ CHIEF JUSTICE ROBERTS: So for all the 
+
+reasons in the legislative history that you discussed 
+
+about why the government gets more time, those reasons 
+
+don't apply in that situation?
+
+ MR. REPHEN: It doesn't apply if there is no 
+
+longer a case, and if 30 days has gone by, there would 
+
+be no longer a case.
+
+ JUSTICE BREYER: What's -- what about the 
+
+case that they were talking about, so the relator's 
+
+pursuing a case, that case is over, and they're not 
+
+going to appeal because they don't have any money left, 
+
+whatever it is; but the government looks at that 
+
+judgment and thinks, oh, God, there's something wrong 
+
+with this one, I better appeal it. That's the 
+
+government lawyer speaking.
+
+ Now, they're supposed to have 60 days to 
+
+figure that one out, and you'll take that 60 away from 
+
+them because they'll have to do this whole thing in 30.
+
+ MR. REPHEN: Yes. Having not intervened in 
+
+the case, they had not been a party.
+
+ JUSTICE BREYER: No, because they didn't 
+
+expect --
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. REPHEN: Rule 4 --
+
+JUSTICE BREYER: The judge did -- the judge 
+
+did a surprising thing, which judges sometimes do.
+
+ MR. REPHEN: Well, the government -- the 
+
+government is given that opportunity to monitor the 
+
+case. They can come in. The government having chose --
+
+JUSTICE BREYER: Would this be a solution 
+
+which wouldn't help you? You would say, well, there's 
+
+some factors here cut one way, and there's some that cut 
+
+the other way, and some circuits have said the 
+
+government should have the 60 days, and those cases are 
+
+already proceeding. So it's best to keep it where it 
+
+is, which is 60 days, and then suggest the Rules 
+
+Committee look into this, since we don't actually --
+
+MR. REPHEN: That's right.
+
+ JUSTICE BREYER: And it -- all right. And 
+
+the Rules Committee would looked into it if it's a 
+
+problem.
+
+ MR. REPHEN: The rules give 60 days to the 
+
+government when it's a party. If it's not a party --
+
+JUSTICE BREYER: Well, I know. That's 
+
+repeating your argument. And I'm suggesting what would 
+
+be wrong with the view that you lose because of the 
+
+reasons I said.
+
+ JUSTICE SCALIA: You rely a lot, counsel, on 
+
+32
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+-- on intervention, as that's what makes the government 
+
+a party.
+
+ MR. REPHEN: I think the rules --
+
+JUSTICE SCALIA: Right?
+
+ MR. REPHEN: Well, we rely on it because 
+
+that was what Congress said. Congress has made it clear 
+
+using intervention --
+
+JUSTICE SCALIA: The original statute or the 
+
+earlier statute did not use the word "intervention."
+
+ MR. REPHEN: But we used it in a number --
+
+JUSTICE SCALIA: I forget the different word 
+
+it used?
+
+ MR. REPHEN: "Appearance," maybe.
+
+ JUSTICE SCALIA: Appearance?
+
+ MR. REPHEN: Is appearance. But Congress --
+
+Congress clearly means that now in 1986. I think 
+
+Congress knew what it was intending. Absent any 
+
+legislative history that Congress intended to not give 
+
+the term "intervention" its commonly understood term --
+
+and it's such a commonly understood term -- by which a 
+
+nonparty becomes a party, I think one should give it 
+
+that normal intention.
+
+ JUSTICE SCALIA: Well, I really wonder 
+
+whether they didn't intend the same -- the same result. 
+
+If you think they consciously -- under the prior 
+
+33 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+statute, you would say the government --
+
+MR. REPHEN: Our argument was --
+
+JUSTICE SCALIA: The government would have 
+
+been a party?
+
+ MR. REPHEN: I wouldn't --
+
+JUSTICE SCALIA: Because you can be a party 
+
+and not appear.
+
+ MR. REPHEN: I wouldn't say that, Your 
+
+Honor. But I know in 1986 what they were attempting to 
+
+do is strengthen the right of private persons to bring 
+
+qui tam actions. For the first time, the government was 
+
+given a limited right to come in for good cause after 60 
+
+days. But if you look at the legislative history of 
+
+that, I think Congress intended that the right of the 
+
+government to intervene after 60 days was somewhat 
+
+limited, and they had to show good cause.
+
+ CHIEF JUSTICE ROBERTS: Counsel, I -- I 
+
+pressed your friend about what's the big deal, why don't 
+
+you just file within 30. It only seems fair to press 
+
+you on what's the big deal with letting them have for 
+
+60 --
+
+MR. REPHEN: The big -- I think --
+
+CHIEF JUSTICE ROBERTS: -- which also solves 
+
+the problem of the potential trap for the unwary.
+
+ MR. REPHEN: I think the big deal is that it 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+can open more questions that it resolves if you give the 
+
+government party status for this purpose.
+
+ CHIEF JUSTICE ROBERTS: Well, I agree with 
+
+that. I agree with that. But what if we say --
+
+MR. REPHEN: And I think Your Honor, I think 
+
+that, Chief Justice --
+
+CHIEF JUSTICE ROBERTS: I'm sorry. What if 
+
+I say, or whoever is writing the opinion says, this is 
+
+only for purposes of filing the appeal? We don't decide 
+
+whether the government is a party in all these other 
+
+characteristics, but whether it comes to Rule 4(a) --
+
+MR. REPHEN: I think the purpose of Rule 4 
+
+was to give the government time to make a decision when 
+
+it's actually a party and it has a right to appeal. It 
+
+should -- it is jurisdictional. It should be construed 
+
+narrowly. The purpose of the rule is to expedite the 
+
+process of appeals --
+
+CHIEF JUSTICE ROBERTS: Well, it should be 
+
+construed narrowly. I don't think saying whether it's 
+
+30 or 60 days at all implicates that principle.
+
+ MR. REPHEN: Well, if -- if the rule 
+
+provides that the government should have 60 days when it 
+
+is a party and it's not a party, then it seems to me 
+
+it's a bit more --
+
+CHIEF JUSTICE ROBERTS: Well, yeah, but I 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+mean, if we assume you're right, then that's construing 
+
+it narrowly. But the whole question is that there's 
+
+some confusion in the rule about who's right, and all 
+
+I'm saying is it seems to me that it would be the 
+
+easiest thing to avoid any trap for the unwary with no 
+
+consequences on the other side, to say 60 days.
+
+ MR. REPHEN: But I think it wouldn't be 
+
+consistent with the intent of Congress or the intent of 
+
+the rule, which is to move appeals along really within 
+
+30 days. The exception is given to the government when 
+
+it is a party, when it has to --
+
+CHIEF JUSTICE ROBERTS: Oh, this isn't going 
+
+to delay appeals, for heaven's sakes. I mean, there's 
+
+all sorts of scheduling rules about the timing of the 
+
+briefs and everybody gets an extension on their briefs. 
+
+This is going to have no effect whatever on how quickly 
+
+appeals move along.
+
+ MR. REPHEN: Then I would tell Your Honor, 
+
+you know, whether or not you want to give somebody a 
+
+break on that, it is simply inconsistent with the rule, 
+
+which requires the United States to be a party when they 
+
+have, as in this case, played absolutely no role; and 
+
+they are clearly not a party.
+
+ Again, turning to the question of the real 
+
+party in interest, as I think was discussed, real party 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+in interest is simply one who can bring the lawsuit. 
+
+Mr. Eisenstein is a real party in interest. A real 
+
+party in interest is not synonymous with party status. 
+
+Rule 17 describes real party in interest. Obviously 
+
+Rule 4 describes a party --
+
+JUSTICE SCALIA: The other side acknowledges 
+
+that. They say, however, it's different when you have 
+
+real party in interest plus the party named --
+
+MR. REPHEN: I --
+
+JUSTICE SCALIA: -- and these things are 
+
+styled "United States."
+
+ MR. REPHEN: Your Honor, I don't think it's 
+
+an accumulation of all of these bits of real party in 
+
+interest. Well, it doesn't really count, now the 
+
+parties named --
+
+JUSTICE SCALIA: No, no, no. No, no, that's 
+
+-- that's unfair. If you are a real party in interest 
+
+and you are the named party --
+
+MR. REPHEN: I think the naming -- the 
+
+naming --
+
+JUSTICE SCALIA: You're normally a party.
+
+ MR. REPHEN: The naming is nominal. I think 
+
+the real question is to look at the intent of Congress 
+
+in terms of the right of the government to participate, 
+
+and I would point out, I think during the first 80 years 
+
+37 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of experience under the qui tam action, the United 
+
+States was named but had absolutely no right to play a 
+
+role in the litigation.
+
+ I don't know that we should elevate form 
+
+over substance here, and I must come back again to what 
+
+we think is the critical role, which was the intent of 
+
+Congress in requiring intervention on the part of the 
+
+United States Government if it decides that it wants to 
+
+assume the burdens of party status.
+
+ JUSTICE GINSBURG: But there are certain 
+
+things the government can do, you concede, without 
+
+intervening?
+
+ MR. REPHEN: Yes, there are certain limited 
+
+roles. I don't know that that makes them a party for 
+
+purposes of the Eisenstein case.
+
+ JUSTICE GINSBURG: If the government did 
+
+decide to take over, the qui tam plaintiff would remain 
+
+a party --
+
+MR. REPHEN: But the government would have 
+
+primary responsibility under the statute.
+
+ JUSTICE GINSBURG: So why shouldn't it work 
+
+the other way? When the government stays out, it's a 
+
+party -- when the government isn't conducting the 
+
+litigation, it's a party just as a qui tam plaintiff 
+
+would be a party. 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. REPHEN: Yes, I think the standard is 
+
+intervention, and absent intervention by the United 
+
+States, it should not be a party.
+
+ JUSTICE SCALIA: Except the United States 
+
+has a lot of power. Unlike the -- the government's 
+
+presentation here, you would not allow any degree of 
+
+activity on the part of the government to cause it to be 
+
+a party, even if it exercises all these other powers 
+
+short of intervening? It must intervene in your --
+
+MR. REPHEN: No, we would accept -- if it 
+
+has to be a bright line, we would accept intervention. 
+
+We recognize, though, the standard that you can be a 
+
+party for limited purpose as --
+
+JUSTICE SCALIA: Well, do you want a bright 
+
+line or not a bright line?
+
+ MR. REPHEN: I would -- we would --
+
+JUSTICE SCALIA: Do you agree with the 
+
+government?
+
+ MR. REPHEN: We would live with a bright 
+
+line certainly.
+
+ JUSTICE SCALIA: Do you agree with the 
+
+government's presentation that it becomes a party when 
+
+it reaches a certain ineffable degree of activity in the 
+
+case?
+
+ (Laughter.) 
+
+39
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 --
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. REPHEN: I don't know if it's ineffable. 
+
+I think the government was relying on the Devlin 
+
+decision, where there was some indication that there 
+
+could be status of being a party where there is limited 
+
+for participation for collateral purposes. But again in 
+
+Devlin, the government had argued that intervention was 
+
+the preferable method of getting into a case. The Court 
+
+rejected that because they thought intervention 
+
+essentially would be pro forma, but in this -- in this 
+
+JUSTICE SCALIA: I don't think they were 
+
+relying on Devlin. The --
+
+MR. REPHEN: They were relying --
+
+JUSTICE SCALIA: The point they are making 
+
+here --
+
+MR. REPHEN: They were addressing --
+
+JUSTICE SCALIA: --- is not that we're a 
+
+party for some purposes and not for others. The point 
+
+they're making is we're a party for all purposes, once 
+
+we reach a certain degree of activity in the case.
+
+ MR. REPHEN: I don't think the government is 
+
+saying they're a party for all purposes which is a --
+
+JUSTICE SCALIA: I think they were.
+
+ MR. REPHEN: -- of activity.
+
+ JUSTICE SCALIA: We disagree on that. 
+
+40
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. REPHEN: I guess we'll hear from them 
+
+shortly.
+
+ JUSTICE SCALIA: We'll hear from them.
+
+ MR. REPHEN: If there are no further 
+
+questions, then we can -- we can hear from the 
+
+government.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Mr. Wall.
+
+ ORAL ARGUMENT OF JEFFREY B. WALL
+
+ ON BEHALF OF THE UNITED STATES,
+
+ AS AMICUS CURIAE,
+
+ SUPPORTING THE RESPONDENTS
+
+ MR. WALL: Mr. Chief Justice, and may it 
+
+please the Court --
+
+JUSTICE SCALIA: I have a question for you, 
+
+Mr. Wall.
+
+ (Laughter.)
+
+ MR. WALL: I thought you might.
+
+ JUSTICE SCALIA: What is the government's 
+
+position on that point?
+
+ MR. WALL: I actually wanted to start 
+
+exactly where you and Justice Ginsburg began because I 
+
+think we've gotten off a little bit on the wrong track.
+
+ If this Court wants a bright-line rule, the 
+
+right rule is intervention. Now, that would solve 98 or 
+
+41
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+99 percent of qui tam suits under the False Claims Act. 
+
+The government urged intervention as a prerequisite in 
+
+Devlin, and this Court disagreed. So the government 
+
+left open the possibility in its brief that in a very 
+
+small number of qui tam suits, on the order of 1 percent 
+
+or less, it might participate, absent intervention, in a 
+
+way that would justify treatment as a party under 
+
+Devlin.
+
+ But whether or not the Court agrees with us 
+
+on that -- a question not presented here where the 
+
+government hasn't participated in any way -- the right 
+
+rule is intervention, and it's just a question of 
+
+whether this Court wants to make it cover 98 percent of 
+
+the suits or 100 percent of the suits.
+
+ JUSTICE SOUTER: Do you take the position 
+
+that without intervention though, nonetheless the 
+
+government could appeal at the -- at the tail end?
+
+ MR. WALL: No, we do not think --
+
+JUSTICE SOUTER: You don't think that --
+
+okay.
+
+ MR. WALL: -- that the government could have 
+
+appealed the judgment here as of right, and that is why 
+
+we think the purposes of the 60-day period were not 
+
+implicated. Because the government couldn't appeal, it 
+
+was not a potential appellant that required the 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+authorization of the Solicitor General, and it didn't 
+
+need the 60 days. And that's an important point, I 
+
+think, about why it couldn't just be solved by the --
+
+JUSTICE SCALIA: Doesn't it need the 60 days 
+
+to figure out whether it would want to intervene in 
+
+order to be able to appeal?
+
+ MR. WALL: Justice Scalia, I think that 
+
+would be equally true in a number of contexts -- for 
+
+instance, class action settlements where the government 
+
+is entitled to notice, presumably so that it can 
+
+intervene; government contractor suits. There are any 
+
+number of Federal cases where the government might find 
+
+the decision shocking and want to come in, but until it 
+
+does, it's a non-party.
+
+ JUSTICE SCALIA: But they are not statutes 
+
+which give the government an extended period of time in 
+
+order to allow the consultation. This is a statute that 
+
+does that. And why would they -- why would they not 
+
+envision the need for that consultation in the situation 
+
+where the government has had no participation but comes 
+
+up with a -- with a decision contrary to what it thinks 
+
+the good law is, and it has to decide whether it wants 
+
+to intervene in order to appeal. Why shouldn't they be 
+
+given 60 days?
+
+ MR. WALL: Well, Justice Scalia, with all 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+respect, the False Claims Act itself doesn't say 
+
+anything about intervention. It doesn't say anything 
+
+about 60 days. It just says the government has a right 
+
+to come in and take over the action and run it and allow 
+
+the relator to continue as a party. And that's why it 
+
+uses the word "intervene" -- because Congress understood 
+
+that, in its accepted legal meaning, as a process by 
+
+which a nonparty becomes a party, and the idea was to 
+
+give the executive branch a choice. In each qui tam 
+
+suit, the executive is able to determine whether to 
+
+assume the greater benefits and burdens of party status.
+
+ Petitioner is caught in the awkward position 
+
+of saying that he thinks that the government is a party 
+
+at the time the case is filed, not then a party for 
+
+purposes of discovery, but even though it hasn't done 
+
+anything, it's somehow a party again when the notice of 
+
+appeal is filed. And the government's position is that 
+
+just where it does not come into the case and doesn't 
+
+intervene, it's not a party for any of those purposes.
+
+ CHIEF JUSTICE ROBERTS: What -- why do you 
+
+care? I mean, you're just giving people who might well 
+
+be confused by this provision another 30 days.
+
+ MR. WALL: I think there are two distinct 
+
+harms, Mr. Chief Justice. The first is to the 
+
+government, and the second is to Congress and the system 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+it set up in the statute. The harm to the government is 
+
+that, if it can be made a party under FRAP 4, despite 
+
+the fact that it has actively attempted to decline party 
+
+status, it could also be made a party under the other 
+
+rule.
+
+ CHIEF JUSTICE ROBERTS: Okay, but, again, we 
+
+would limit any decision to Federal Rule of Appeal 4 
+
+because of the dramatically adverse consequences for the 
+
+unwary. They lose their right to pursue their case.
+
+ MR. WALL: I don't think the government has 
+
+any objection in theory to a period of 60 days for only 
+
+FRAP 4. I think the difficulty is that any number of 
+
+rules speak in terms of parties. And Petitioners 
+
+advance no persuasive between FRAP 4 and other rules.
+
+ CHIEF JUSTICE ROBERTS: Well, I just does 
+
+did. Under FRAP 4, you're out the door without any 
+
+hearing on the merits. It's a technicality. The spirit 
+
+of the rules is that we don't throw people out because 
+
+of mere technicalities. Now, failure to file a timely 
+
+notice of appeal is not a technicality in terms of the 
+
+consequences.
+
+ MR. WALL: That's right. Three brief 
+
+points, I think.
+
+ First, if this Court announces a 30-day 
+
+rule, that's clear going forward. Relators and their 
+
+45 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+counsel will treat declined qui tam suits like civil 
+
+actions generally to which the United States is a party.
+
+ Second, if the rules are better read for a 
+
+30-day period, because the United States was not a 
+
+party, you're entitled to appeal the judgment, then 
+
+Petitioner was not entitled to assume that he would get 
+
+60 days --
+
+JUSTICE ALITO: What about the relators and 
+
+the parties in the four circuits that have adopted the 
+
+60-day rule. They had a court of appeals opinion in 
+
+front of them that said you had 60 days. They're just 
+
+out of luck now?
+
+ MR. WALL: Well, I think they also were on 
+
+notice that there's a long-standing circuit split on 
+
+this question which the court has never answered. Given 
+
+the fact that what you're talking about is a ministerial 
+
+task, filing a one-page notice, there are actually 
+
+Federal court manuals that instruct in this circumstance 
+
+relator's counsel to file within the 30 days.
+
+ CHIEF JUSTICE ROBERTS: I'm sure that the 
+
+Appellate Rules Advisory Committee, when they hear this 
+
+decision, if they haven't already, will put something in 
+
+the rules about whether it's 30 days or 60 days. So I'm 
+
+not terribly concerned about clarity going forward. 
+
+It's going to be made clear by the Advisory Committee 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+and the submission of new rules, and I see no reason 
+
+that they wouldn't make it clear. I don't know whether 
+
+they'll think 30 or 60 is the best idea.
+
+ MR. WALL: Right, and --
+
+CHIEF JUSTICE ROBERTS: So it's just a 
+
+question of -- in this case and, as Justice Stevens 
+
+pointed out, what the effect is going to be on other 
+
+cases. And it seems to me that in that situation, 60 
+
+days makes the most sense because otherwise you're 
+
+disrupting the system solely based on a trap for the 
+
+unwary.
+
+ MR. WALL: Well, and that goes to a question 
+
+that Justice Breyer asked earlier. The statute, 2107, 
+
+was enacted after what is now FRAP 4. The rule and the 
+
+statute shortened the period to appeal from 3 months to 
+
+30 days. And then the Judicial Conference, in the -- in 
+
+the -- what is now FRAP 4, drew the exception of 60 days 
+
+for cases in which the United States was a party because 
+
+of an express need for more time for the Solicitor 
+
+General to make a decision.
+
+ The Judicial Conference raised some question 
+
+about how we do that. Two years later Congress enacted 
+
+the statute putting in the 30-day and 60-day rules. I 
+
+think then that's a baseline. And I'm not sure that the 
+
+advisory committee could come back and effectively amend 
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the -- amend the statute by changing the rule.
+
+ What Congress had in mind when it passed 
+
+2107 was if the -- if the -- the United States is a 
+
+potential appellant and requires more time to conduct 
+
+its internal decisionmaking processes, it gets 60 days. 
+
+Otherwise, that 30-day baseline governs, and I 
+
+respectfully disagree, Mr. Chief Justice, that Congress 
+
+was not concerned about moving appeals forward 
+
+expeditiously. It shortened the period from three 
+
+months to 30 days precisely because of wanting judgments 
+
+to become final.
+
+ JUSTICE SCALIA: But it is -- it is a 
+
+potential appellant. I mean if you say Congress is 
+
+concerned about situations in which the government is a 
+
+potential appellant. It is a potential appellant in 
+
+these cases until the 30 days have elapsed, at least. 
+
+It -- it can intervene, and why shouldn't it have the 60 
+
+days to decide whether to appeal or not?
+
+ MR. WALL: I guess -- and I -- the same 
+
+answer I gave earlier, Justice Scalia: That's equally 
+
+true virtually in any Federal case that might affect the 
+
+United States's interests --
+
+JUSTICE SCALIA: I understand, but this --
+
+this goes to your argument about congressional intent: 
+
+That they were concerned about preserving to the 
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+government time as a potential appellant to think the 
+
+matter over. It seems to me that argument is -- is a 
+
+wash.
+
+ MR. WALL: But I think it goes back to what 
+
+Justice Ginsburg asked much earlier, which is: At the 
+
+time the judgment is entered, who is a party entitled to 
+
+take the appeal? If the United States has done nothing, 
+
+it's not a potential appellant. When the 30-day period 
+
+runs, the case is over, and the United States, if it 
+
+wants to --
+
+JUSTICE SCALIA: Can the United States 
+
+intervene within those 30 days --
+
+MR. WALL: It can intervene.
+
+ JUSTICE SCALIA: -- and then appeal?
+
+ MR. WALL: Yes.
+
+ JUSTICE SCALIA: I think it's a potential 
+
+appellant.
+
+ MR. WALL: Well, it is -- yes, and it is --
+
+it is equally true that it is a potential appellant then 
+
+in any case that might affect its interests. But we do 
+
+not commonly consider the United States a party to every 
+
+class action settlement or in every government 
+
+contractor suit simply based on the possibility that it 
+
+may want to intervene.
+
+ When it does so very rarely -- we're talking 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+about -- I mean that is the exceptionally rare case in 
+
+the False Claims Act, and the government is saying, we 
+
+can make that decision within the 30 days because we are 
+
+not a party to the judgment at the time it's entered. 
+
+And, again, I think what Petitioner strains to do when 
+
+he says at page 25 of his reply brief that when you 
+
+decline as the government, you avoid the burdens of 
+
+party status. What Petitioner can't explain is why that 
+
+is any different for the burden of appealing an adverse 
+
+judgment and the burdens of discovery. All of those 
+
+rules speak in terms of party status.
+
+ If Petitioner is able to foist on the 
+
+government a status that it actively attempted to 
+
+decline, as was its right afforded it by Congress, then 
+
+it seems to me Petitioner can equally try to foist on 
+
+the government, though it doesn't here, in future cases 
+
+party status. And this Court will have to decide case 
+
+by case: Is the United States a party for purposes of 
+
+each rule of civil and appellate procedure? And I think 
+
+that approach threatens much more uncertainty than the 
+
+approach the government is outlining where intervention 
+
+is a simple, workable, administrable test to determine 
+
+whether the United States is a party to a qui tam suit.
+
+ If there are no more questions, thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, Mr. Wall. 
+
+50 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Mr. Schor, you have three minutes remaining.
+
+ REBUTTAL ARGUMENT OF GIDEON A. SCHOR
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. SCHOR: Thank you.
+
+ I think it begs the question to say that by 
+
+its declination the government is declining party 
+
+status. It is declining to conduct the action. That's 
+
+a much more limited category than the category of party 
+
+status. The government is a party because it is named, 
+
+served, and bound, and a real party in interest. And I 
+
+didn't hear any arguments addressing why the 
+
+intervention provision is not determinative of -- of 
+
+party status in response to --
+
+JUSTICE BREYER: Why isn't it also a party 
+
+under all these other rules?
+
+ MR. SCHOR: We -- we -- our position is that 
+
+it -- that it is a party.
+
+ JUSTICE BREYER: Under all of the rules of 
+
+discovery?
+
+ MR. SCHOR: Well, again, we think it's a 
+
+party although for other reasons in the statute that 
+
+it's not subject to full party discovery because of the 
+
+declination provision, which I discussed in -- in the 
+
+opening.
+
+ I would also take issue with the assertion 
+
+51 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of Respondent's counsel that it's -- that it's their 
+
+rule that will be the bright-line test. Clearly, it's 
+
+Petitioner's rule. Petitioner says that the government 
+
+is a party in all qui tam actions for purposes of 
+
+Federal Rule of Appellate Procedure 4(a)(1)(B). That 
+
+forecloses all of the jurisdictional inquiries.
+
+ It forecloses the -- the pending case issue. 
+
+It forecloses the -- the complicated question of when --
+
+if the government gets a surprisingly bad -- if a 
+
+district court issues a surprisingly adverse judgment 
+
+when the government doesn't intervene, the government --
+
+the government wants to intervene for purposes of 
+
+appeal. Certainly, first of all, the government -- that 
+
+-- that question of whether to intervene is essentially 
+
+the question of whether to appeal, and so it should have 
+
+60 days, given the rationale for the rule.
+
+ JUSTICE SOUTER: What do you -- what do you 
+
+say to the government's argument that they -- it -- it 
+
+may close these doors that -- that you're saying, but it 
+
+opens a lot of others under other rules? The government 
+
+says you're just asking for trouble under the -- under 
+
+the -- a -- an undifferentiated number of other rules if 
+
+we go your way. What's your response to that?
+
+ MR. SCHOR: I don't think it does. I think 
+
+-- I think the -- an active participation standard would 
+
+52 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+create far more trouble, far more complexity. It would 
+
+be almost impossible for relators and defense to -- to 
+
+know in advance what's -- what's required of them.
+
+ JUSTICE SCALIA: That's -- that's true, but 
+
+that's not the point that Justice Souter was making. 
+
+This is a self-denying position on the part of the 
+
+government. You would expect the government to come in 
+
+and say, yeah, give us 60 days to think this over.
+
+ They're saying, no, we'll only take 30, 
+
+because they're worried if we come out your way on that 
+
+issue, there are other issues on which they're also 
+
+going to be considered a party, and it's not worth the 
+
+risk.
+
+ MR. SCHOR: Well, I think their concern is 
+
+that -- is discovery primarily, and we have certainly 
+
+put plenty of arguments in our brief as to why that 
+
+concern is -- is less and there is certainly plenty of 
+
+authority for -- for thinking that the government won't 
+
+be subject to discovery.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+The case is submitted.
+
+ (Whereupon, at 12:14 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+53 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+activity 5:17,18 45:24 April 1:11 award 14:22A 
+39:7,23 40:20 answer 48:20 argue 11:19 awkward 44:12ability 28:17 
+40:24 answered 46:15 argued 40:6 a.m 1:15 3:2 able 7:17 28:18 
+
+act's 19:22,24 anyway 10:3 arguing 10:1243:6 44:10 Baddition 17:18 appeal 3:23,25 11:10 16:2150:12 B 1:21 2:7 18:24 additional 8:14 4:21 6:20,25 argument 1:14above-entitled 
+41:9address 4:24 8:7,19,20,21 2:2,10 3:4,7 1:13 53:23 back 17:6 19:13 11:1 18:21 8:25 9:5,5,10 11:20 13:8,9absent 33:17 
+38:5 47:25addressing 9:14,17,21,25 15:17,18 21:11 39:2 42:6 
+49:440:16 51:11 10:2 11:24 23:11 25:1absolutely 4:2 bad 52:9administrable 12:3,3,7,8,13 32:22 34:229:16 36:22 balance 24:2350:22 12:16,17,20,20 41:9 48:2438:2 base 27:22adopted 46:9 12:21,25 13:1 49:2 51:2abundant 16:24 based 27:8adopting 4:15 13:21,23 27:1 52:18accept 13:20 
+47:10 49:23advance 45:14 27:17 30:8,15 arguments39:10,11 baseline 47:2453:3 30:16 31:14,17 10:14,24 18:22 accepted 44:7 
+48:6advantage 8:6,9 35:9,14 42:17 51:11 53:16accumulation began 41:228:11,13 42:24 43:6,23 arises 11:2337:13 begs 51:5adversary 29:10 44:17 45:7,20 12:2accurate 20:11 behalf 1:17,1929:10 46:5 47:15 asked 47:13acknowledges 
+1:23 2:4,6,8,12adverse 45:8 48:18 49:7,14 49:537:6 
+3:8 25:2 41:10 50:9 52:10 52:13,15 asking 11:3act 14:3 16:2,8 
+51:3advisory 46:21 appealed 3:19 52:2117:8 19:15 believe 11:14,1846:25 47:25 30:21 42:22 aspect 21:2120:16 22:24 
+13:5 14:1affect 48:21 appealing 50:9 assertion 24:1423:5 24:18 benefit 11:1749:20 appeals 12:5 51:2542:1 44:1 50:2 benefits 28:3afforded 50:14 26:6,24 27:2,8 Assistant 1:21action 6:5 8:16 
+44:11agencies 13:19 35:17 36:9,13 assume 36:114:6,15,15,21 best 32:12 47:3 agree 4:3 7:21 36:17 46:10 38:9 44:1117:2 19:7,8 better 9:2514:8,9 24:13 48:8 46:621:21,22 22:15 
+31:17 46:335:3,4 39:17 appear 34:7 asymmetry22:16,16,25 big 34:18,20,2239:21 appearance 24:1123:4,5,6,9 24:7 
+34:25agrees 42:9 33:13,14,15 attaches 15:2024:8,8 25:6,20 bill 12:18ahead 8:20 26:2 APPEARAN... attachment 18:138:1 43:9 44:4 binding 14:18AL 1:8 1:16 attack 27:2349:22 51:7 bit 35:24 41:23 ALITO 21:8 appellant 42:25 attempted 45:3actions 3:14 bits 37:1346:8 48:4,13,15,15 50:1316:23 18:12 bound 3:14allow 39:6 43:17 49:1,8,17,19 attempting 34:934:11 46:2 
+13:25 14:5,2344:4 appellate 3:12 authority 14:252:4 
+19:25 51:10allowed 28:23 20:23 46:21 16:25 21:15active 4:9,14,16 branch 44:9amend 47:25 50:19 52:5 53:184:18 5:2,23 6:8 break 36:2048:1 applicable 12:11 authorization6:13 52:25 Breyer 31:11,24amicus 1:23 2:8 apply 7:10 11:16 43:1actively 3:16 
+32:2,7,16,218:19 9:1 12:5 16:6 18:15,19 automatically11:5,23 13:15 
+47:13 51:14,1812:21 41:11 31:7,8 16:613:18 14:6 brief 5:3 8:13,19 analyze 6:18 approach 50:20 averting 15:1819:16 24:3 
+9:1 18:11announces 50:21 avoid 36:5 50:7 45:3 50:13 
+
+54 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+22:14,23 42:4 43:12 47:8,18 circumstance common 28:13 48:13 50:14 
+45:22 50:6 48:16 50:16 46:18 commonly congressional 
+53:16 category 51:8,8 circumstances 33:19,20 49:21 48:24 
+
+briefing 19:14 caught 44:12 5:22 20:14 complaint 19:23 consciously 
+briefs 18:22 cause 25:10 29:22,24 20:17 25:10 33:25 
+
+36:15,15 28:11 29:7 cite 22:17 complexity 53:1 consequences 
+bright 39:11,14 34:12,16 39:7 cited 16:24 complicated 10:4 15:21 
+
+39:15,19 certain 9:24 18:10,15 52:8 36:6 45:8,21 
+bright-line 10:1 15:20,23 cites 22:24 complied 17:4 conservative 
+
+41:24 52:2 16:12 28:21 citing 21:15 concede 38:11 25:25 
+bring 34:10 37:1 38:10,13 39:23 City 1:7 3:5 conceded 12:7,9 consider 49:21 
+brought 16:23 40:20 civil 15:16 18:7 concededly 18:8 considerable 
+
+17:2 25:20,22 certainly 10:24 19:24 46:1 18:13 28:16 
+bulk 19:20 22:13 25:12 50:19 concern 53:14 considered 
+burden 50:9 26:15 28:24 claim 14:19,19 53:17 53:12 
+burdens 38:9 29:14 39:20 14:24 19:19 concerned 46:24 consistent 10:14 
+
+44:11 50:7,10 52:13 53:15,17 26:10 48:8,14,25 10:24 36:8 
+burdensome changing 48:1 Claims 14:2 conclude 5:4 constituting 
+
+3:18 4:7 characteristics 16:2,8 17:8 conclusion 14:4 5:23 
+35:11 19:15 20:16 18:25 23:8 construed 35:15 
+
+C characterize 24:18 42:1 condition 18:2 35:19 
+C 2:1 3:1 21:13 44:1 50:2 conduct 13:21 construing 36:1 
+called 12:15 Chief 3:3,9 6:14 clarity 46:24 14:15 19:7,8 consult 13:19 
+
+27:13 7:2,9,20 9:12 class 43:9 49:22 21:21 22:16,25 consultation 
+caption 16:18 12:23 24:24 classic 19:17 23:5,9,13 24:7 43:17,19 
+care 44:21 25:3,12,17 20:2 24:7 28:5,8 contain 7:8 
+case 3:4 4:2 5:15 26:3,9 30:1,6 clear 25:16 33:6 48:4 51:7 contemplating
+
+6:3,6 7:11,25 30:12 31:4 45:25 46:25 conducting 24:11 
+9:7 10:9,15 34:17,23 35:3 47:2 21:22 23:6 content 5:25 
+11:25 12:5 35:6,7,18,25 clearly 33:16 24:3,8,9 38:23 context 14:3 
+13:18,20 18:9 36:12 41:7,13 36:23 52:2 conducts 23:4 contexts 14:9 
+19:5,9 20:3 44:20,24 45:6 close 52:19 Conference 43:8 
+24:3 26:23 45:15 46:20 collateral 27:23 47:16,21 continue 44:5 
+28:1,4 29:6,15 47:5 48:7 40:5 confused 44:22 contractor 
+30:8,20,23 50:25 53:20 comb 6:10 confusion 36:3 43:11 49:23 
+31:1,9,10,12 choice 44:9 come 9:20 17:6 Congress 15:15 contrary 43:21 
+31:13,13,23 choose 10:17 20:5 25:11 15:24 16:1,13 copies 15:4 16:6 
+32:6 36:22 chooses 28:4 32:6 34:12 16:14,15 18:4 16:9 17:9,11
+38:15 39:24 chose 32:6 38:5 43:13 18:6,17 20:13 17:13,15
+40:7,20 44:14 chosen 31:2 44:4,18 47:25 20:15 21:19 correct 10:7,19
+44:18 45:9 circuit 24:22 53:7,10 22:1 24:11 13:13,22 27:20 
+47:6 48:21 46:14 comes 35:11 27:25 28:2 27:24 
+49:9,20 50:1 circuits 26:19 43:20 33:6,6,15,16 cost 9:16 
+50:17,18 52:7 27:12 32:10 commence 20:8 33:17,18 34:14 costs 12:18 
+53:21,22 46:9 committee 36:8 37:23 counsel 6:23 7:5 
+
+cases 5:16 20:9 Circuit's 3:11 32:14,17 46:21 38:7 44:6,25 8:11,16,17 9:2 
+26:22 32:11 4:25 46:25 47:25 47:22 48:2,7 9:3,4,7 24:24 
+
+55 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+25:25 30:6 43:24 44:3,22 Defendants 20:6 22:19,22 23:1 47:25 
+32:25 34:17 45:11 46:7,11 defense 53:2 23:7,10,13,14 efforts 6:2 
+41:7 46:1,19 46:19,23,23 define 5:22 23:25 24:4,10 Eisenstein 1:4 
+52:1 53:20 47:9,16,17 15:20,21 22:25 24:10,12,16,18 3:5 37:2 38:15 
+
+counselor 30:2 48:5,10,16,18 defined 24:8 28:17 44:15 either 11:17 
+count 37:14 49:12 50:3 defines 23:5 50:10 51:19,22 21:14 26:17 
+court 1:1,14 52:16 53:8 definitely 26:11 53:15,19 elapsed 48:16 
+
+3:10 4:15 5:25 dead 7:18 definition 19:14 discussed 31:5 elects 22:14 
+9:24 10:21 deal 34:18,20,25 degree 39:6,23 36:25 51:23 elements 19:18 
+11:2 12:1,5 decide 5:16 40:20 discussing 10:4 20:2 
+13:24 20:5 10:22 26:23 delay 36:13 dismiss 9:21 elevate 38:4 
+24:21 25:4 30:7 35:9 denied 29:5 28:23 29:3 enacted 47:14 
+26:5,15 29:1 38:17 43:22 Department dismissal 28:19 47:22 
+29:22 40:7 48:18 50:17 1:22 disposes 14:20 engage 21:20,23 
+41:14,24 42:3 decides 25:11 depriving 18:20 14:24 23:10 
+42:9,13 45:24 26:15 38:8 described 25:8 dispute 14:19 engaging 21:22 
+46:10,15,18 decision 26:16 describes 37:4,5 disputed 20:1 24:10 
+50:17 52:10 27:12 30:15 despite 45:2 disrupting enormously 6:1 
+
+courts 28:22 35:13 40:3 determination 47:10 entered 3:25 4:5 
+Court's 11:2 43:13,21 45:7 5:20 distinct 44:23 4:20 6:4,24 
+cover 42:13 46:22 47:20 determinations district 12:1 27:8 49:6 50:4 
+create 3:18 53:1 50:3 5:24 13:24 52:10 enters 12:2 
+creates 13:6 decisionmaking determinative docket 6:4,10,12 entitled 43:10 
+critical 38:6 48:5 51:12 document 6:18 46:5,6 49:6 
+curiae 1:23 2:9 declination determine 3:24 8:7 entitlement 13:7 
+
+41:11 21:18,19 22:1 4:8,20 5:25 doing 8:9 13:16 entry 4:7 
+cut 32:9,9 22:5,20 23:1 7:15 8:17 9:10 door 45:16 envision 43:19 
+
+23:24 24:1,2,5 18:23 19:12 doors 52:19 EPA 18:15 
+D 25:11 51:6,23 44:10 50:22 drafters 17:19 equally 43:8 
+
+D 3:1 decline 21:20,23 determining drafting 17:24 48:20 49:19 
+day 7:4 23:10 45:3 8:19 dramatically 50:15 
+days 3:24 4:23 50:7,14 detract 11:19 45:8 especially 18:12 
+
+6:16,19 7:5,24 declined 3:20 Devlin 40:2,6,12 drawn 24:20 ESQ 1:17,19,21
+7:24 8:2,2,10 6:5 8:16 14:5 42:3,8 drew 47:17 2:3,5,7,11
+8:10,11,14 14:21 25:24 different 18:16 D.C 1:10,22 essentially 40:9 
+9:11,11 10:6 46:1 33:11 37:7 52:14 
+
+E11:4,8,9,13,13 declines 5:22 50:9 ET 1:8 
+11:16,17 12:9 E 2:1 3:1,1 14:14,18 21:21 difficult 4:6 5:20 everybody
+13:2,2,3,10,17 earlier 33:923:2,4,9 24:6 6:1 7:14 11:13 36:15 
+25:9 26:1,1,17 47:13 48:2025:5 28:6 difficulty 45:12 everyone's
+26:17 28:3 49:5declining 14:15 disagree 40:25 18:14 
+29:7 30:16,18 easiest 8:7 36:5 14:17 51:6,7 48:7 ex 1:3 3:4 
+30:21,23 31:9 easy 5:16deemed 25:6 disagreed 42:3 exactly 41:22 
+31:19 32:11,13 eat 22:8defeat 13:20 discovery 5:8 example 15:2 
+32:19 34:13,15 effect 17:7 36:16 defendant 4:8 14:16 18:14 18:17,25 19:11 
+35:20,22 36:6 47:75:20 6:3,10 21:10,12,15,17 29:3 
+36:10 43:2,4 effectively 7:187:17 12:2,16 21:20,22,24,25 examples 18:17 
+
+56 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+exception 36:10 Federal 15:16 45:25 46:24 26:2 52:23 30:7,14,17,21 
+47:17 18:7,19 19:23 48:8 God 31:16 30:24 31:1,6 
+
+exceptionally 20:22 43:12 four 46:9 goes 13:8 18:2 31:15,18 32:4 
+50:1 45:7 46:18 FRAP 45:2,12 19:5 30:17 32:5,6,11,20 
+
+executive 44:9 48:21 52:5 45:14,16 47:14 47:12 48:24 33:1 34:1,3,11 
+44:10 feel 7:17 47:17 49:4 34:15 35:2,10 
+
+exemption 24:4 figure 31:20 frequently 9:2 going 4:4 5:16 35:13,22 36:10 
+exempts 24:18 43:5 friend 26:11 6:17,17 8:25 37:24 38:8,11 
+exercises 39:8 file 4:21 6:16,25 34:18 9:16,20,25 38:16,19,22,23 
+expect 31:25 7:5 9:1,13,16 front 46:11 23:10 31:14 39:7,18 40:2,6 
+
+53:7 9:23,23 10:1 full 28:5,7 51:22 36:12,16 45:25 40:21 41:6 
+expedite 35:16 12:18 13:1 fully 6:5 12:10 46:24,25 47:7 42:2,3,11,17 
+expeditiously 27:1 34:19 function 8:3 53:12 42:21,24 43:9 
+
+48:9 45:19 46:19 further 41:4 good 25:10 43:11,12,16,20 
+experience 38:1 filed 3:23 44:14 future 5:16 28:11 29:7 44:3,13,25 
+expired 31:3 44:17 50:16 34:12,16 43:22 45:1,10 48:14 
+explain 50:8 
+express 47:19 
+
+filing 6:19 8:9 
+8:18,20,24 9:9 G 
+
+gotten 41:23 
+government 
+
+49:1,22 50:2,7 
+50:13,16,21 
+
+expressly 5:22 12:6,22 25:9 G 3:1 3:13 4:1,4,10 51:6,9 52:3,9 
+extend 30:24 35:9 46:17 General 1:22 4:12,22,22 5:2 52:11,11,12,13 
+extended 43:16 final 48:11 43:1 47:20 5:4,14,17,18 52:20 53:7,7 
+extension 13:3 finally 14:20,24 generally 30:25 5:21 6:11 7:11 53:18 
+
+36:15 find 6:10 43:12 46:2 7:11,12,15 8:3 governments 
+extra 6:19 8:11 finish 30:2 getting 28:3 8:18,25 9:3,6,8 5:14 
+
+F 
+first 3:12 4:25 
+
+5:21 6:24 
+40:7 
+
+GIDEON 1:17 
+9:9,20 10:9,13 
+10:15,23 11:1 
+
+government's 
+4:8 5:7 8:2 
+
+face 20:18 11:20 25:9 2:3,11 3:7 51:2 11:4,7,10,10 10:5,6,17
+fact 16:11 23:12 34:11 37:25 Ginsburg 3:21 11:13,21,25 11:15,18,20
+
+23:13 45:3 44:24 45:24 4:11,17 8:6,23 12:4,7,8,9,21 12:6 14:19,24 
+46:16 52:13 11:7 13:23 13:9,11,14,17 19:11,19 23:17 
+
+factor 9:4 focus 22:4 16:16 20:4 13:23,25 14:1 23:19 25:8 
+factors 11:19 FOIA 18:15 27:15,21 38:10 14:5,6,7,9,14 39:5,22 41:19 
+
+32:9 foist 50:12,15 38:16,21 41:22 14:22,23 15:1 44:17 52:18 
+fact-gathering follow 18:25 49:5 15:3,4,6,19 governs 48:6 
+
+6:2 26:19 give 13:17 32:19 16:5,6,9,10,17 greater 44:11 
+fact-specific following 16:4 33:18,21 35:1 16:18 17:9,11 guess 27:9 30:7 
+
+3:18 25:9 29:4 35:13 36:19 17:13 18:12 30:23 41:1 
+failure 26:25 follows 14:3 43:16 44:9 19:1,1,7,9,17 48:19 
+
+45:19 
+fair 34:19 
+
+footnote 22:17 
+22:23 
+
+53:8 
+given 28:2,12 
+
+19:20,21,23,25 
+20:2,9,12 H 
+
+False 14:2 16:2 forecloses 52:6,7 32:5 34:12 21:13,19,23 habeas 18:16 
+16:8 17:8 52:8 36:10 43:24 22:14,21 23:2 happens 26:23 
+19:15 20:16 forget 33:11 46:15 52:16 23:3,3,9 24:6 hard 5:4 7:3,16 
+24:17 42:1 form 38:4 gives 19:1,20 24:15 25:5,11 24:10 26:8 
+44:1 50:2 forma 40:9 giving 11:16 25:24 28:2,9 harm 45:1 
+
+fanciful 12:13 formal 30:3 13:10 44:21 28:15,23 29:1 harms 44:24 
+far 53:1,1 forward 19:6 go 8:20 19:13 29:3,5,11,12 hear 3:3 4:11 
+
+57 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+41:1,3,5 46:21 inquiry 3:19 39:2,2,11 40:6 5:6,12 6:14 7:2 kinds 12:19 
+51:11 6:25 7:3 40:8 41:25 7:9,20 8:6,23 knew 33:17 
+
+hearing 29:4 instance 6:11 42:2,6,12,16 9:12,19 10:3,8 know 4:4,5,18 
+45:17 43:9 44:2 50:21 10:16 11:7 7:4 8:18,24 9:8 
+
+heaven's 36:13 instances 18:6 51:12 12:23 13:8,14 9:13,15 11:3 
+help 32:8 18:10 invoke 7:17,22 13:23 14:7,25 13:16 17:21 
+history 28:2 instruct 46:18 13:7 15:8,11,25 25:23 26:3,13 
+
+31:5 33:18 intelligent 26:1 involuntary 16:4,16 17:6 27:9 30:14 
+34:13 intend 33:24 20:7,12 17:20,25 20:4 32:21 34:9 
+
+hold 29:22 intended 33:18 involved 8:8 21:1,5,8 22:3,7 36:19 38:4,14 
+Honor 15:17 34:14 28:4,10 22:10,18 23:12 40:1 47:2 53:3 
+
+17:19 22:6 intending 33:17 involves 23:13 23:18,21 24:1 known 8:21 
+24:20 27:19,24 intent 36:8,8 IRWIN 1:3 24:13,24 25:3 
+
+L30:20 34:9 37:23 38:6 issue 7:12 10:22 25:12,17 26:3 
+labor 8:8,12 
+language 17:18 
+
+35:5 36:18 48:24 11:2 12:4 13:4 26:9,18,22 
+37:12 intention 33:22 26:15 27:16 27:4,7,11,15 
+
+Honor's 4:25 Laughter 17:22interest 3:15 51:25 52:7 27:21 28:15,22 
+39:25 41:17hundred 6:6 16:19,19,22,24 53:11 29:9,17,19 
+
+law 20:20 43:22 
+I 
+
+19:18 20:20 issues 52:10 30:1,6,12 31:4 
+lawsuit 20:836:25 37:1,2,3 53:11 31:11,24 32:2 
+
+idea 44:8 47:3 37:1 
+identify 17:1,3 
+
+37:4,8,14,17 32:7,16,21,25
+J lawyer 25:1351:10 33:4,8,11,14
+
+imagine 7:16 JEFFREY 1:21 31:18interests 12:6 33:23 34:3,6
+24:11 2:7 41:9 left 31:14 42:4 48:22 49:20 34:17,23 35:3 
+
+immune 23:14 judge 32:2,2 legal 5:24 44:7 
+implicated 
+
+internal 48:5 35:6,7,18,25
+judges 32:3 legislative 28:2intervene 11:5 36:12 37:6,10
+
+42:24 judgment 3:12 31:5 33:18 
+implicates 35:20 
+
+11:22 25:5 37:16,21 38:10 
+3:23,25 4:5,7 34:1329:7 30:11,13 38:16,21 39:4 
+
+important 9:3 4:20 6:4,24 letter 7:1930:17 31:1 39:14,17,21
+14:13 27:12 12:2 14:1,5,17 letting 34:2034:15 39:9 40:11,14,17,23
+28:1 43:2 14:17,18,20,23 let's 21:5 30:13 
+
+impossible 53:2 
+43:5,11,23 40:25 41:3,7
+
+14:23 20:1 level 17:2444:6,19 48:17 41:13,15,19,22
+inception 4:3 24:22 27:15 limit 5:22 7:3,4 
+include 28:17 
+
+49:12,13,24 42:15,19 43:4 
+30:13 31:16 45:752:11,12,14 43:7,15,25
+
+includes 23:6 42:22 46:5 limited 28:24,25 
+including 24:9 
+
+intervened 44:20,24 45:6 
+49:6 50:4,10 29:2,23 34:12 13:24 15:3 45:15 46:8,20
+
+inconsistent 52:10 34:16 38:1319:4,5 31:22 47:5,6,13 48:7 
+36:20 judgments 27:7 39:13 40:4intervenes 19:9 48:12,20,23
+
+indicate 15:1 27:10,10 48:10 51:819:10 23:3 49:5,11,14,16
+16:10 Judicial 47:16 line 39:11,15,15intervening 3:15 50:25 51:14,18
+
+indication 40:3 47:21 39:20 
+ineffable 39:23 
+
+19:16 28:16 52:17 53:4,5
+jurisdictional litigants 13:738:12 39:9 53:20 
+
+40:1 3:19 27:1,16 litigated 6:5 
+inference 24:19 
+
+intervention justify 42:7 
+27:22 35:15 litigates 11:2418:21,23 19:11 
+
+initial 25:11 K52:6 14:21 
+initiated 22:15 
+
+25:8 28:10,12 
+Justice 1:22 3:3 keep 32:12 litigation 28:5,829:23 33:1,7,9
+
+inquiries 52:6 3:9,21 4:11,17 key 21:18 38:3,2433:19 38:7 
+
+58 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+little 41:23 40:7 3:5 47:1 operation 15:16 party 3:13,15,18 
+live 39:19 million 14:22 nominal 37:22 18:5,7 20:20 4:10 5:18 7:12 
+logician's 17:18 mind 11:2 48:2 nonparty 33:21 opinion 35:8 7:13,15 8:2,3 
+long 13:19 18:2 ministerial 44:8 46:10 10:5,6,9,13,15 
+longer 9:10 46:16 non-party 43:14 opportunity 10:23 14:10 
+
+26:16 30:20 minute 17:7 normal 18:14 30:25 32:5 15:2,9,12,14 
+31:9,10 minutes 51:1 33:22 opposed 4:18 15:20,21,22,23 
+
+long-standing money 9:5,16 normally 17:9 10:16 16:3,3,5,10,11 
+46:14 12:14,14 14:22 28:18,20 37:21 optimal 8:22 16:13,14,18,19 
+
+look 12:17 28:1 31:14 note 14:13 oral 1:13 2:2 3:7 16:19,22,22,24 
+32:14 34:13 monitor 32:5 notice 3:22 4:21 25:1 41:9 17:5 18:8,13 
+37:23 months 47:15 6:20,25 8:7,21 order 12:4 42:5 18:13,14,14,20 
+
+looked 32:17 48:10 8:24 9:14,17 43:6,17,23 18:23 19:2,10 
+looking 25:23 moot 13:4 9:23 13:1 27:1 orders 5:5 19:12,14,18,18 
+looks 30:14 motion 28:10 43:10 44:16 ordinarily 16:11 20:2,19,21,21 
+
+31:15 29:5 45:20 46:14,17 ordinary 28:12 20:22 21:8,9 
+lose 32:23 45:9 move 28:17,23 number 3:24 original 33:8 21:12,14,16 
+lost 12:15 29:7 30:10,12 18:6,10,11 outlining 50:21 23:22,23 24:15 
+lot 9:16 12:14,24 30:24 36:9,17 26:19 33:10 24:16 25:6,18
+
+P32:25 39:5 moved 29:3 42:5 43:8,12 25:25 28:14,14
+P 3:152:20 moves 30:17 45:12 52:22 28:18 29:2,11 
+page 2:2 22:13 loves 25:13 moving 48:8 N.Y 1:17,19 29:12,13,15
+
+50:6luck 46:12 30:22 31:2,3
+N O pages 6:6 31:23 32:20,20
+
+M N 2:1,1 3:1 O 2:1 3:1 parcel 21:25 33:2,21 34:4,6 
+main 3:11 name 16:23 17:1 object 28:19 part 21:25 38:7 35:2,10,14,23
+making 9:9 17:2 25:20,22 objection 45:11 39:7 53:6 35:23 36:11,21
+
+40:14,19 53:5 named 3:14 16:3 obligations participate 11:5 36:23,25,25
+manuals 46:18 16:22 19:21 18:15,18 24:12 11:23 29:6 37:2,3,3,4,5,8 
+matter 1:13 11:6 20:19 37:8,15 Obviously 37:4 37:24 42:6 37:8,13,17,18
+
+49:2 53:23 37:18 38:2 occur 26:10,14 participated 37:21 38:9,14 
+mean 4:18 7:10 51:9 occurred 26:11 13:15,18 30:9 38:18,23,24,25
+
+8:7 9:14 15:11 naming 17:4 odd 20:4 42:11 39:3,8,13,22
+16:12 22:8,10 19:22 37:19,20 oddity 20:16 participating 40:4,18,19,22
+25:13 36:1,13 37:22 oh 7:20 22:12 3:16 19:17 42:7 44:5,8,11
+44:21 48:13 narrowly 10:22 23:18 31:16 participation 44:13,14,16,19
+50:1 35:16,19 36:2 36:12 4:9,14,16,18 45:2,3,4 46:2,5 
+
+meaning 28:13 narrows 5:2,3 okay 21:5 29:24 4:19 5:1,2,23 47:18 49:6,21
+44:7 need 9:14 11:4,8 42:20 45:6 6:9,11,12 40:5 50:4,8,11,17 
+
+means 16:14,25 11:22 12:1,9 once 12:7 20:18 43:20 52:25 50:18,23 51:6 
+18:4 21:23 13:19 43:2,4 27:17 40:19 participation-... 51:8,9,10,13
+22:25 33:16 43:19 47:19 one-page 9:13 3:17 51:14,17,21,22
+
+members 25:3 needs 16:23 46:17 particular 12:4 52:4 53:12 
+mere 45:19 negates 13:15 open 35:1 42:4 15:16 22:19 party's 28:20 
+merits 29:6 never 11:22 26:4 opening 5:3 parties 11:14 passed 29:8 48:2 
+
+45:17 46:15 22:14 51:24 18:20 37:15 PAUL 1:19 2:5 
+method 28:13 new 1:7,7,17,19 opens 52:20 45:13 46:9 25:1 
+
+59 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+pending 52:7 13:16,17 17:7 private 11:14 40:5,18,19,22 reach 40:20 
+people 8:1 18:19 20:21,22 26:5 34:10 42:23 44:15,19 reaches 39:23 
+
+44:21 45:18 26:9 37:25 pro 40:9 50:18 52:4,12 read 6:22 7:7 
+percent 42:1,5 40:14,18 41:20 problem 11:23 pursuant 19:22 8:1 17:17 46:3 
+
+42:13,14 43:2 53:5 12:2 24:14 19:24 reads 17:10,16 
+period 6:22 7:7 pointed 47:7 32:18 34:24 pursue 9:4 real 3:15 16:18 
+
+7:8 8:5 11:22 points 45:23 procedure 8:22 12:17,25 45:9 16:19,22,24 
+12:10 13:6 position 5:10,11 9:23 15:17 pursuing 9:25 17:5 19:18 
+30:22 42:23 7:6 10:9 11:15 18:8 19:24 10:2 12:14 20:19 36:24,25 
+43:16 45:11 11:18 14:3 20:23 25:7 31:13 37:2,2,4,8,13 
+46:4 47:15 23:16,17,19 50:19 52:5 put 46:22 53:16 37:17,23 51:10 
+48:9 49:8 28:12 30:4,20 proceed 14:14 putting 47:23 really 13:15 
+
+periods 26:1 41:20 42:15 22:15 p.m 53:22 17:10 21:8 
+person 17:1 44:12,17 51:16 proceeding 27:11,12 33:23 
+
+Q22:15 28:14 53:6 32:12 36:9 37:14 
+qualify 11:9persons 34:10 possibility 30:23 process 35:17 reason 12:25 
+quality 18:1persuasive 42:4 49:23 44:7 47:1 
+question 4:15,2145:14 possibly 5:24 processes 48:5 reasons 3:11 
+
+5:6 7:23 8:8,12 Petitioner 1:5 potential 34:24 proper 3:24 5:21 12:19,24
+26:18 36:2,241:18 2:4,12 3:8 42:25 48:4,13 proposed 5:1 21:16 31:5,6
+37:23 41:1511:3 44:12 48:15,15 49:1 proposition 32:24 51:21 
+42:10,12 46:15 46:6 50:5,8,12 49:8,16,19 16:25 rebuttal 2:10 
+47:6,12,2150:15 51:3 power 5:7 39:5 protect 12:6 24:23 51:2 
+51:5 52:8,1452:3 powers 28:16 protective 8:21 receive 5:5 
+52:15Petitioners 39:8 provides 15:2 17:11,13,15
+
+questions 35:145:13 precisely 48:10 28:7 35:22 recognize 39:12 
+41:5 50:24Petitioner's 52:3 Precision 17:25 provision 7:18 recognized 29:1 
+
+qui 3:13,20 6:5 pick 10:17 precluded 27:22 7:22 16:8 recovery 19:20 
+8:16 14:5,14plain 4:19 preclusion 17:14 18:22,23 reflex 6:23 
+25:6 34:11plaintiff 17:3 27:17 19:12 21:18,19 reject 26:14 
+38:1,17,2419:21 20:7,12 preferable 40:7 22:1,4,5,20 rejected 26:7 
+42:1,5 44:9 20:14,17 38:17 prerequisite 23:1,24 24:1,2 40:8 
+46:1 50:2338:24 42:2 24:6,17 44:22 rel 1:3 3:4 
+52:4plaintiffs 20:5 presentation 51:12,23 relator 4:7 5:20 
+
+quickly 36:16play 38:2 39:6,22 provisions 15:1 6:2,9 7:16,22 
+quite 4:6 29:15 played 36:22 presented 42:10 19:15 22:17,24 11:14,23,24
+quits 12:15pleading 16:7 preserving purpose 4:10 12:3,13,13,17 
+
+pleadings 15:4 48:25 16:20 29:2 12:19,20,24R15:13,23 16:12 press 34:19 35:2,12,16 13:1,21 14:21 
+R 3:117:1,3,10,12 pressed 34:18 39:13 24:7 28:7
+raise 26:517:13 19:21 presumably purposes 10:10 30:16,21 44:5 
+raised 26:5please 3:10 30:7 43:10 10:10,13 12:16 relators 45:25
+
+27:22 47:2141:14 prevent 5:8 20:22,24 21:1 46:8 53:2 
+rare 50:1plenty 53:16,17 primarily 53:15 21:3,9,10,14 relator's 8:15,17
+rarely 49:25plus 37:8 primary 38:20 24:15,16 25:7 9:2,4,7 31:12 
+rationale 11:15point 3:25 4:25 principle 35:20 29:11,12,13 46:19
+
+12:10 52:165:3,15 10:5 prior 33:25 35:9 38:15 rely 32:25 33:5 
+
+60 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+relying 16:17 resources 14:16 ROBERTS 3:3 S 4:6,13,24 5:10 
+26:24 40:2,12 respect 9:6 6:14 7:2,9,20 S 2:1 3:1 5:19 6:21 7:6 
+40:13 11:20 20:15 9:12 12:23 safe 6:16 7:14,25 8:15 
+
+remain 38:17 44:1 24:24 25:12,17 sakes 36:13 9:2,18,22 10:7 
+remaining 51:1 respectfully 26:3,9 30:1,6 satisfies 19:17 10:12,19 11:12 
+repeating 32:22 6:21 48:7 30:12 31:4 20:3 13:5,13,22,25 
+Rephen 1:19 2:5 Respondents 34:17,23 35:3 saying 5:13 7:21 14:11 15:6,10 
+
+24:25 25:1,3 1:20,24 2:6,9 35:7,18,25 11:8,8 13:11 15:15 16:1,11 
+25:15,22 26:7 5:1 10:19 36:12 41:7 15:12 16:5 16:21 17:17,23 
+26:13,21 27:2 15:19 25:2 44:20 45:6,15 29:12,13,14,17 18:1 20:11 
+27:6,9,14,19 41:12 46:20 47:5 29:19 35:19 21:4,6,11 22:5 
+27:24 28:21,24 Respondent's 50:25 53:20 36:4 40:22 22:9,12,23 
+29:14,18,21 13:9 52:1 role 25:8 28:25 44:13 50:2 23:16,20,23 
+30:3,10,19 responding 28:25 29:16 52:19 53:9 24:5,19 51:1,2 
+31:8,22 32:1,4 21:24 36:22 38:3,6 says 7:3 15:22 51:4,16,20 
+32:15,19 33:3 response 51:13 roles 38:14 17:12 19:1 52:24 53:14 
+33:5,10,13,15 52:23 route 27:18 22:14 23:2 second 3:11,17 
+34:2,5,8,22,25 responsibility rule 3:13 4:19 24:2,6 25:17 4:25 24:22 
+35:5,12,21 28:5,8 38:20 10:4,21,22,23 29:10 30:14 44:25 46:3 
+36:7,18 37:9 responsible 7:5 11:12 13:6 35:8 44:3 50:6 Secondly 6:1 
+37:12,19,22 rest 23:5 29:20 15:12,18,19 52:3,21 see 4:1 6:11,18 
+38:13,19 39:1 restrict 15:15 16:5 17:6 18:5 Scalia 5:6,12 6:23 8:1 26:8 
+39:10,16,19 17:8 18:7,18 19:24 25:7 9:19 10:3,8,16 47:1 
+40:1,13,16,21 restricted 16:1 26:20,25 32:1 13:8,14 14:7 seeking 20:5 
+40:24 41:1,4 16:15 18:5 35:11,12,16,21 14:25 15:8,11 self-denying 
+
+reply 18:11 restricts 16:13 36:3,9,20 37:4 15:25 16:4 53:6 
+21:15 50:6 result 33:24 37:5 41:24,25 17:6,20,25 sense 13:10 47:9 
+
+replying 13:9 reverse 24:21 42:12 45:5,7 21:1,5 22:3,7 series 5:24 
+request 5:5 15:4 reversed 3:12 45:25 46:10 22:10,18 23:12 served 3:14 
+
+18:3 review 6:12 47:14 48:1 23:18,21 24:1 15:13,22,23 
+requested 16:7 right 10:6 14:2 50:19 52:2,3,5 24:13 28:15,22 16:12 19:23 
+requests 15:5,7 14:11 15:25 52:16 29:9,17,19 20:17,18 51:10 
+
+16:9 17:12,14 16:1,13,15 rules 6:22 7:7,8 32:25 33:4,8 service 19:24 
+18:2 21:24,25 17:9,15 21:20 8:1,4,4 10:10 33:11,14,23 serving 21:24 
+
+require 6:8,9 22:9,16 25:9 15:16 18:7,19 34:3,6 37:6,10 set 45:1 
+required 29:23 25:13 28:20 20:23 25:7 37:16,21 39:4 settlement 19:2 
+
+42:25 53:3 30:9 32:15,16 30:25 32:13,17 39:14,17,21 19:3,5,6 28:19 
+requirement 33:4 34:10,12 32:19 33:3 40:11,14,17,23 49:22 
+
+17:4 19:25 34:14 35:14 36:14 45:13,14 40:25 41:3,15 settlements 43:9 
+requirements 36:1,3 37:24 45:18 46:3,21 41:19 43:4,7 sheet 6:5,10,12 
+
+19:22 38:2 41:25 46:23 47:1,23 43:15,25 48:12 shocking 43:13 
+requires 15:13 42:11,22 44:3 50:11 51:15,18 48:20,23 49:11 short 39:9 
+
+28:9 36:21 45:9,22 47:4 52:20,22 49:14,16 53:4 shortened 11:11 
+48:4 50:14 rule's 10:3 scheduling 47:15 48:9 
+
+requiring 38:7 rises 17:24 run 44:4 36:14 shortly 41:2 
+reserve 24:23 risk 53:13 runs 49:9 Schor 1:17 2:3 show 19:15 
+resolves 35:1 risks 28:3 2:11 3:6,7,9 28:11 34:16 
+
+61 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+side 6:17 26:12 start 3:19,21 subject 21:12,17 T 1:19 2:1,1,5 31:21 32:3 
+36:6 37:6 41:21 22:21 23:24 25:1 36:5 
+
+simple 6:19 States 1:1,3,14 27:17 51:22 tail 42:17 things 37:10 
+50:22 1:23 2:8 3:4 53:19 take 5:14 8:11 38:11 
+
+simplest 18:24 20:7,13,15 submission 21:9 9:10 12:1 think 5:14,19 
+simply 17:8 25:18,20,21,23 47:1 14:16 30:19 6:21,23 9:22 
+
+36:20 37:1 36:21 37:11 submitted 53:21 31:20 38:17 9:25 11:10,21 
+49:23 38:2,8 39:3,4 53:23 42:15 44:4 12:25 14:3,11 
+
+situation 25:19 41:10 46:2,4 suboptimal 9:23 49:7 51:25 15:17 16:16 
+31:7 43:19 47:18 48:3 subsequently 53:9 17:17 18:2,24 
+47:8 49:7,9,11,21 28:9 taken 26:24 20:8,11 23:17 
+
+situations 48:14 50:18,23 substance 38:5 takes 14:22 25:15 26:7,14 
+skill 11:25 States's 48:22 sued 20:6 talking 8:15 27:2 30:5,19 
+slightly 18:16 status 3:18 sufficient 11:25 22:20 31:12 33:3,16,21,25 
+small 42:5 18:20,24 19:12 17:5 46:16 49:25 34:14,22,25 
+Smith 17:2,3 19:18 20:2 sufficiently 4:9 tam 3:13,20 6:5 35:5,5,12,19 
+solely 47:10 35:2 37:3 38:9 6:13 8:16 14:6,14 36:7,25 37:12 
+Solicitor 1:21 40:4 44:11 suggest 32:13 25:6 34:11 37:19,22,25 
+
+43:1 47:19 45:4 50:8,11 suggesting 18:3 38:1,17,24 38:6 39:1 40:2 
+solution 32:7 50:13,17 51:7 32:22 42:1,5 44:9 40:11,21,23 
+solve 41:25 51:9,13 suit 44:10 49:23 46:1 50:23 41:23 42:18,19 
+solved 43:3 statute 17:24 50:23 52:4 42:23 43:3,7 
+solves 34:23 19:8,19 20:18 suits 42:1,5,14 task 46:17 44:23 45:10,12 
+somebody 36:19 24:9,20 25:24 42:14 43:11 tax 18:16 45:23 46:13 
+somewhat 5:3 28:7 33:8,9 46:1 technicalities 47:3,24 49:1,4 
+
+34:15 34:1 38:20 sum 24:21 45:19 49:16 50:5,19 
+soon 6:24 31:1 43:17 45:1 summons 18:16 technicality 51:5,20 52:24 
+sorry 22:7 30:2 47:13,15,23 support 9:6 25:14 45:17,20 52:24,25 53:8 
+
+35:7 48:1 51:21 supporting 1:24 tell 7:3 36:18 53:14 
+sort 8:18 9:9 statutes 43:15 2:9 41:12 telling 11:4 thinking 53:18 
+
+10:17 statutory 18:12 supportive 9:9 term 33:19,19 thinks 31:16 
+sorts 36:14 21:16 suppose 26:23 33:20 43:21 44:13 
+Souter 42:15,19 stay 21:5 28:17 supposed 31:19 terminated 27:3 thought 21:2 
+
+52:17 53:5 stays 38:22 Supreme 1:1,14 27:5 22:19 40:8 
+speak 14:12 step 18:18 sure 14:7,8 terms 25:8 41:18 
+
+45:13 50:11 steps 5:13 17:19 23:18 37:24 45:13,20 threatens 50:20 
+speaking 31:18 Stevens 26:18 46:20 47:24 50:11 three 45:22 48:9 
+specifically 15:2 26:22 27:4,7 surely 4:5 terribly 46:24 51:1 
+spend 9:5 27:11 47:6 surprising 32:3 test 3:17 4:14,16 throw 45:18 
+spent 12:14 strains 50:5 surprisingly 4:17,25 5:1,11 time 3:22,24 4:5 
+spirit 45:17 strengthen 52:9,10 5:11 50:22 4:19,20 6:24 
+split 46:14 34:10 synonymous 52:2 8:24 9:14,15 
+spoken 20:15 structured 22:2 37:3 thank 24:24 11:11 12:14 
+sponte 26:5 stuck 20:6 system 44:25 41:7 50:24,25 13:3 22:8 
+standard 5:25 stuff 22:11 47:10 51:4 53:20 24:23 26:1 
+
+6:8,9 39:1,12 styled 37:11 theory 45:11 28:11 30:24 
+T52:25 sua 26:5 thing 4:12 26:2 31:3,6 34:11 
+
+62 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+35:13 43:16 United 1:1,3,14 wanted 41:21 49:8Y 
+44:14 47:19 1:23 2:8 3:4 wanting 48:10 31 30:22yeah 35:25 53:8 
+48:4 49:1,6 20:7,13,15 wants 10:21 32 30:22years 6:7 37:25 
+50:4 25:18,20,21,23 19:7 28:9 30:8 33 30:2247:22 
+
+timely 45:19 36:21 37:11 38:8 41:24 York 1:7,8,17 4timing 36:14 38:1,8 39:2,4 42:13 43:22 1:19 3:5 
+told 21:2 4 19:24 25:7 41:10 46:2,4 49:10 52:12 
+
+32:1 35:12$ 
+track 21:5 41:23 
+touch 9:3 47:18 48:3,22 wash 49:3 
+
+37:5 45:2,7,1249:7,9,11,21 Washington $10 14:21 
+45:14,16 47:14 trained 6:23 50:18,23 1:10,22 
+
+0 47:17 
+4(a) 35:11
+
+trap 25:13,15 unrealistic way 17:16,17 
+08-660 1:6 3:4 26:4,16 34:24 11:21 18:3,24 19:7 
+
+4(a)(1)(B) 3:13 
+1
+
+36:5 47:10 unwary 25:16 22:1 26:23 
+10:22,23 13:6 treat 46:1 26:4,16 34:24 32:9,10 38:22 
+
+1 42:5 20:23 52:5 
+100 42:14 
+
+treatment 42:7 36:5 45:9 42:7,11 52:23 
+41 2:9trial 12:15 47:11 53:10 
+
+100-page 6:18tries 11:24 upholds 19:19 ways 21:13 511:17 1:15 3:2 trips 5:24 urged 42:2 weigh 28:3 
+5 6:7,7 15:18,19 12:14 53:22trouble 52:21 use 14:16 33:9 we'll 8:19 41:1,3 
+
+17 37:4 16:5 17:7 18:5 53:1 uses 44:6 53:9 
+1986 33:16 34:9 51 2:12true 9:18,22 we're 5:16 8:15 
+
+V12:12 27:19 29:14,24 30:3 62v 1:6 3:5 43:8 48:21 40:17,19 49:25 60 7:4,24 8:2,10 2 22:13vacated 27:1049:19 53:4 we've 16:24 9:11 10:6 11:4 200 6:627:16try 50:15 30:15 41:23 11:8,9,13,132009 1:11various 5:13trying 26:14 win 25:14 11:16,17 12:9 21 1:11vetoes 19:1,3,4Tuesday 1:11 wonder 33:23 13:10,17 25:9 2107 47:13 48:3 view 10:14,17turning 36:24 word 33:9,11 25:18 26:1,1725 2:6 50:6 17:5 32:23turns 9:19 44:6 28:3 29:727 22:17,23virtually 48:21two 3:11 11:19 work 30:7 38:21 30:18 31:19,20voluntary 28:1921:13 25:25 workable 50:22 3 32:11,13,1944:23 47:22 world 7:21 3 2:4 47:15 34:12,15,21W worried 53:10 30 4:23 6:16,19 35:20,22 36:6 wait 8:17 10:1 U worth 53:12 7:5,24 8:1,10 43:2,4,24 44:3 Wall 1:21 2:7 unaware 25:13 wouldn't 6:14 8:11,14 9:11 45:11 46:7,1141:8,9,13,16uncertainty 6:15 7:5 17:15 13:1,2,3 25:19 46:23 47:3,841:18,21 42:18 50:20 32:8 34:5,8 26:1,17 30:16 47:17 48:5,1742:21 43:7,25undergo 6:3 36:7 47:2 30:21 31:9,21 52:16 53:844:23 45:10,22understand 5:12 write 8:12,13 34:19 35:20 60-day 6:22 7:7 46:13 47:4,1226:25 48:23 writing 35:8 36:10 44:22 7:8,17,22 8:4 48:19 49:4,13understood wrong 5:11 46:19,23 47:3 11:22 12:1049:15,18 50:25 33:19,20 44:6 31:16 32:23 47:16 48:10,16 13:6 26:20,25want 7:22 8:11 undertaken 7:1 41:23 49:12 50:3 42:23 46:108:17 9:8 13:21 undifferentiat... 
+53:9 47:2320:9 30:16 X52:22 30-day 7:3 30:22 36:19 39:14undisputed 14:4 x 1:2,9 845:24 46:443:5,13 49:24 unfair 37:17 80 37:2547:23 48:6 
+
+63 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+9 
+98 41:25 42:13 
+99 42:1 
+
+64 
+Alderson Reporting Company 
+
+

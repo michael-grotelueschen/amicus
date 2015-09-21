@@ -1,0 +1,6118 @@
+
+         
+
+                             
+
+         
+
+                       
+
+          
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+ARTHUR ANDERSEN LLP, ET : 
+
+AL. :
+
+ Petitioners :
+
+ v. : No. 08-146 
+
+WAYNE CARLISLE, ET AL. : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Tuesday, March 3, 2009
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:19 a.m. 
+
+APPEARANCES: 
+
+M. MILLER BAKER, ESQ., Washington, D.C.; on behalf of
+
+ the Petitioners. 
+
+PAUL M. De MARCO, ESQ., Cincinnati, Ohio; on behalf
+
+ of the Respondents. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                   
+
+                   
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S
+
+
+ORAL ARGUMENT OF PAGE 
+
+M. MILLER BAKER, ESQ.
+
+
+ On behalf of the Petitioners 3
+
+
+PAUL M. De MARCO, ESQ.
+
+
+ On behalf of the Respondents 26
+
+
+REBUTTAL ARGUMENT OF
+
+
+M. MILLER BAKER, ESQ.
+
+
+ On behalf of the Petitioners 48
+
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (11:19 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+next in Case 08-146, Arthur Andersen v. Carlisle.
+
+ Mr. Baker.
+
+ ORAL ARGUMENT OF M. MILLER BAKER
+
+ ON BEHALF OF THE PETITIONERS
+
+ MR. BAKER: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ The principal question before the Court 
+
+today is whether nonparties to an arbitration agreement 
+
+that are otherwise entitled to enforce that agreement 
+
+under State law are foreclosed as a matter of law from 
+
+seeking relief under section 3 of the Federal 
+
+Arbitration Act.
+
+ Respondents' argument that section 3 
+
+forecloses such relief to nonparties is contrary to both 
+
+the text of section 3 and the structure of the FAA. 
+
+Nothing in the text of section 3 forecloses nonparty 
+
+enforcement rights, and under the structure of the Act 
+
+section 3 is a procedural device to enforce, rather than 
+
+a substantive limitation upon, State law arbitration 
+
+rights made applicable by section 2.
+
+ I'll begin with the text of section 3. 
+
+Under section 3, a stay is mandatory if the issue in 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+suit is, quote, "referable to arbitration under such an 
+
+agreement." We contend that there are three elements 
+
+that determine whether or not an issue is referable to 
+
+arbitration under the agreement. First, the applicant 
+
+must be able to enforce the agreement. Second, the 
+
+plaintiff must be bound by the agreement. And, third, 
+
+the claim must fall within the scope of the agreement.
+
+ Nothing in section 3 limits who can enforce 
+
+the agreement. To answer that question we have to turn 
+
+to section 2.
+
+ JUSTICE GINSBURG: Before you leave the 
+
+text, it says as you -- "referable to arbitration under 
+
+an agreement," but then it says "shall on application of 
+
+one of the parties." How do we know whether that is 
+
+parties to the litigation or parties to the arbitration 
+
+agreement?
+
+ MR. BAKER: Your Honor, it's -- it's clear 
+
+from the -- from the context it's referring to parties 
+
+to the action. Likewise, in section 4 there's a 
+
+reference to parties, and it's parties to the 
+
+controversy. So section 3 refers to parties to the 
+
+action in which the section 3 stay is sought. Section 
+
+4, likewise, the companion enforcement provision, refers 
+
+to parties to the controversy.
+
+ CHIEF JUSTICE ROBERTS: And what -- what is 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the "controversy"? Is it the controversy asserted to be 
+
+subject to arbitration or something else?
+
+ MR. BAKER: Well, "controversy" is in -- in 
+
+section 4, Your Honor, as opposed to section 3. But the 
+
+controversy in this case is a tort claim against various 
+
+defendants. And that -- the Petitioners in this case 
+
+assert that they are entitled to enforce the arbitration 
+
+clause, and under that clause this controversy is 
+
+supposed to be arbitrated.
+
+ Now, section 2 is the primary substantive 
+
+provision of the Act. Section 2 establishes that 
+
+questions concerning the enforceability of an 
+
+arbitration agreement, including who may enforce that 
+
+agreement, are decided by State law. This Court's 
+
+decision in Perry v. Thomas recognized and applied this 
+
+principle.
+
+ In Perry this Court remanded to State court 
+
+to decide the question of whether nonparties could 
+
+enforce an arbitration agreement. In so doing, this 
+
+Court instructed the lower court to apply State law to 
+
+determine the very question that's before this case, 
+
+whether non -- before this Court, whether nonparties 
+
+could enforce the arbitration agreement.
+
+ JUSTICE GINSBURG: In practice, are there 
+
+decisions in which -- and I'm assuming that you are 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+right on the jurisdictional question -- in which a 
+
+nonparty to the arbitration agreement but a party to the 
+
+litigation has, in fact, succeeded in getting a stay 
+
+under section 3?
+
+ I mean, one question is -- and that's the 
+
+question on the merits -- assuming that a -- that a 
+
+party to the litigation, not a party to the arbitration 
+
+agreement, can come to court and say, court, stay the 
+
+action pending arbitration. Have there been cases in 
+
+which section 3 stays have been issued on the request of 
+
+someone who is not party to the arbitration agreement 
+
+but is a litigant in the case?
+
+ MR. BAKER: Yes, there have been, Your 
+
+Honor. And there -- there are numerous cases. In fact, 
+
+for the last 60 years it has been a recognized, settled 
+
+principle of FAA law that nonparties to an arbitration 
+
+agreement that are otherwise entitled to enforce the 
+
+agreement are able to seek and obtain stays under 
+
+section 3.
+
+ JUSTICE GINSBURG: Well, the question --
+
+ability is one thing. It means they -- they have the 
+
+capacity to apply under section 3. I was just wondering 
+
+how in practice -- I mean, here's a case where you have 
+
+three parties together counseling a certain tax shelter. 
+
+One of them enters an arbitration agreement with the 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+enterprise that they are advising. The other two, 
+
+sophisticated players, do not.
+
+ My question is, conceding jurisdiction, it 
+
+seems to me unlikely that a court would listen to two 
+
+such people who were perfectly equipped to get an 
+
+arbitration agreement themselves and didn't.
+
+ MR. BAKER: Well, Your Honor, it depends 
+
+upon the facts and the law. It may well be that those 
+
+nonparties have no arbitration rights, in which case a 
+
+section 3 stay would not be available -- available to 
+
+them.
+
+ The question is whether they have rights 
+
+under State law. If they do have rights under State law 
+
+to enforce the arbitration agreement to which they are 
+
+not parties, then they are entitled to a section 3 stay.
+
+ JUSTICE SOUTER: I -- I don't see that the 
+
+-- that the section 3 stay follows from that. It may 
+
+very well be that in whatever ultimate forum the case is 
+
+thrashed out in that the -- that the nonsignatories will 
+
+be able to enforce the arbitration agreement.
+
+ The question here is whether they can get a 
+
+stay in midstream in order to litigate that as a 
+
+separate issue. And one argument for saying that they 
+
+should not, that the stay right should be limited to 
+
+signatories, is that the policy of the -- the Federal 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17 --
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Arbitration Act is to enforce arbitration agreements. 
+
+It is not a policy simply to promote arbitration under 
+
+all possible circumstances. It is a policy to enforce 
+
+contracts because the contracts, in effect, were being 
+
+given short shrift before the act was passed.
+
+ If the policy is one to enforce contracts 
+
+and, as Justice Ginsburg said, they had a chance to make 
+
+an arbitration agreement and they didn't do it, then 
+
+that is a good reason to say the Federal courts will not 
+
+stay the proceedings in midstream for somebody who 
+
+didn't get the agreement that that person could have 
+
+gotten. What is your answer to that argument?
+
+ MR. BAKER: Section 2, Your Honor, sets the 
+
+policy of the FAA, and section 2 establishes that State 
+
+law determines the rights and obligations of nonparties 
+
+to an arbitration agreement. If nonparties have rights 
+
+JUSTICE SOUTER: Including -- and -- and 
+
+you're saying that that covers, in effect, even a point 
+
+of Federal procedure as to whether you get, in practical 
+
+terms, an interlocutory appeal. That's a question of 
+
+State law?
+
+ MR. BAKER: Your Honor, that brings us to 
+
+the question of appellate jurisdiction, but first let me 
+
+deal with the merits. Section 3, as this Court has 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+recognized on various occasions, is a procedural device 
+
+to enforce the substantive policy of section 2. It has 
+
+no substantive component on its own.
+
+ Section 2 establishes -- settles the 
+
+question of who may enforce or is bound by an 
+
+arbitration agreement. It settles that question by 
+
+directing a court to look to State law. Section 3 is --
+
+JUSTICE SOUTER: And the question here is: 
+
+What is the procedure to be followed in a Federal court 
+
+when there is disagreement about that? And to say that 
+
+that is a question of State law strikes me as a stretch.
+
+ MR. BAKER: Your Honor, section 3 is a 
+
+procedural device to enforce State law arbitration 
+
+rights. Section -- likewise, section 4 is the same 
+
+thing.
+
+ JUSTICE SCALIA: Why do you say that section 
+
+2 -- it isn't at all clear to me that section 2 says 
+
+State law determines whether somebody not a party to the 
+
+arbitration agreement can -- can enforce it.
+
+ MR. BAKER: Your Honor, that was the reading 
+
+of this Court in the Perry v. Thomas decision in 1987. 
+
+This Court construed section 2 as being a touchstone for 
+
+choice of law and that section 2 required the court 
+
+concerning questions concerning the enforceability of an 
+
+arbitration agreement to look to State law to answer 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+those questions.
+
+ JUSTICE SCALIA: Including enforceability by 
+
+whom?
+
+ MR. BAKER: Absolutely. That was the 
+
+precise question before the court in Perry and this 
+
+Court remanded to the California Court of Appeals to 
+
+determine whether nonsignatories to an arbitration 
+
+agreement could enforce that agreement. The California 
+
+Court of Appeals on remand held that they could under a 
+
+theory of agency, which is indistinguishable in 
+
+principle from the theory that Petitioners are asserting 
+
+here today.
+
+ Respondents' theory, their interpretation of 
+
+the Federal Arbitration Act, would wipe out six decades 
+
+of FAA case law recognizing that nonparties have 
+
+enforcement rights.
+
+ JUSTICE GINSBURG: Do we have any 
+
+situation -- and this one is really peculiar because the 
+
+one party who has the arbitration agreement with 
+
+Carlisle is now out of it, and is not going to get back 
+
+in, because -- is it Bricolage -- is bankrupt, so there 
+
+is an automatic stay of any litigation against 
+
+Bricolage.
+
+ The one party that has the arbitration 
+
+agreement is out of the picture, so you have an 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+arbitration agreement effectively with no one, that two 
+
+parties who have no arbitration agreement are trying to 
+
+enforce: The difference between parties to the 
+
+litigation joining in an ongoing arbitration brought by 
+
+either party to the arbitration agreement, and relying 
+
+on an arbitration agreement effectively without two 
+
+parties to it.
+
+ MR. BAKER: Your Honor, the bankruptcy of 
+
+Bricolage has no effect whatsoever on our rights under 
+
+State law to enforce the agreement. It is what it is, 
+
+but --
+
+JUSTICE GINSBURG: But if you have a party 
+
+to the agreement who is no longer in the picture, 
+
+doesn't that change things?
+
+ MR. BAKER: Well, the Respondents might --
+
+might contend so, and they -- they are free to argue on 
+
+remand the question of whether or not that bankruptcy in 
+
+any way affects our rights, whether we can prevail under 
+
+equitable estoppel in this case. But for purposes of 
+
+this Court, the question that we -- that the Court has 
+
+to decide is whether or not as a matter of law a 
+
+nonparty is foreclosed from seeking relief under section 
+
+3, and section 3 does not foreclose such relief because 
+
+section 2 establishes the principle that this -- that a 
+
+court is to look to State law to determine the question 
+
+11 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of who can enforce an arbitration agreement.
+
+ So we're saying that Respondents' theory of 
+
+the case would wipe out 60 years of FAA case law 
+
+recognizing that nonparties have arbitration rights. 
+
+Theories such as third party beneficiary, assignment, 
+
+agency, estoppel, including equitable estoppel, 
+
+assumption, successor in interest, none of those cases 
+
+can survive effectively if this Court were to affirm the 
+
+decision of the Sixth Circuit.
+
+ I will now turn to section 16 and the 
+
+question of appellate jurisdiction. Respondents, like 
+
+the court below, erroneously conflate the merits of the 
+
+section 3 issue with appellate jurisdiction. Thus if 
+
+you reject their interpretation of section 3, 
+
+necessarily their appellate jurisdiction argument fails. 
+
+But that -- their theory of appellate jurisdiction 
+
+nevertheless should be rejected on its own merits.
+
+ Under section 16, and that's found at page 3 
+
+of the blue brief -- an appeal may be taken from an 
+
+order refusing a stay of any action under this title. 
+
+This establishes a broad category of orders that are 
+
+immediately appealable. The Sixth Circuit below used a 
+
+signatory test to determine whether it had appellate 
+
+jurisdiction. Now, this test is legally erroneous, as 
+
+the Respondents concede. For 70 years -- should be 80 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+years -- the Federal Arbitration Act has been understood 
+
+not to contain a signatory requirement.
+
+ JUSTICE SOUTER: May -- may I ask you this? 
+
+Let's assume State law said we -- we don't recognize 
+
+stays at this stage of the game. Therefore, we will not 
+
+give a stay to anyone. Would State law prevail?
+
+ MR. BAKER: Your Honor, State law controls 
+
+the question of who may enforce the agreement, who has 
+
+rights and obligations under the agreement. Sections 3 
+
+and 4 control the question of whether relief is 
+
+available in Federal court. The procedural devices to 
+
+enforce State law arbitration rights may vary from State 
+
+to Federal Court, but the principle of who --
+
+JUSTICE SOUTER: But isn't that the problem? 
+
+That's what I'm getting at. Isn't that the problem for 
+
+you in this case? Because you keep arguing that their 
+
+substantive rights under the agreement are issues of 
+
+State law, but the question before us is not one of 
+
+ultimate substantive right. At some point there will be 
+
+an -- an appellate process open to them and they can 
+
+assert those substantive rights if they didn't get them 
+
+at trial.
+
+ The issue here is not substantive right. 
+
+The issue here is a procedural right, and it's a 
+
+procedural right which depends upon the terms of the 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Federal statute, and that's why it seems to me that it 
+
+may very well be that the Federal statute determines not 
+
+only the procedural right, the stay, but who may ask for 
+
+it, that being a sensible Federal question rather than a 
+
+State question.
+
+ MR. BAKER: Your Honor, the premise of your 
+
+question drives a wedge between section 2 and section 3 
+
+that is inconsistent with this Court's -- Court's 
+
+decision in Bernhardt. This Court in Bernhardt said 
+
+that section 3 cannot be read apart from section 2. 
+
+Section -- this Court has never characterized section 3 
+
+or section 4 as containing any substantive elements. 
+
+Such --
+
+JUSTICE SOUTER: And your argument depends 
+
+upon, as Justice Scalia pointed out a moment ago, 
+
+reading section 2 as in effect incorporating State law 
+
+for purposes of determining substantive rights.
+
+ MR. BAKER: It absolutely does.
+
+ JUSTICE SOUTER: Okay, but that still begs 
+
+the question whether the -- whether the incorporation of 
+
+State law to determine substantive rights controls the 
+
+question of what law determines procedural rights, when 
+
+a Federal procedural right is claimed, which is what is 
+
+involved here.
+
+ MR. BAKER: That's -- that's correct. And 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+sections -- it is a Federal question as to what sections 
+
+3 and 4 require.
+
+ JUSTICE SOUTER: And regardless of State law 
+
+the answer to the Federal question is independent of it.
+
+ MR. BAKER: That's not correct, Your Honor.
+
+ JUSTICE SOUTER: Then I'm -- I'm missing the 
+
+logic of your argument.
+
+ MR. BAKER: The logic of the argument is 
+
+that section 3 and section 4, as this Court has said on 
+
+several occasions, are devices to enforce the principle 
+
+of arbitration enforceability outlined in section 2. 
+
+Section 2 establishes the substantive principle here. 
+
+Sections 3 and 4 are mere procedural devices. Under --
+
+JUSTICE SOUTER: But they are Federal 
+
+procedural devices and State law could not contradict 
+
+them. That's -- that's what we got into when I said 
+
+what if State law said there could be no stay? You 
+
+agree at that point that of course the Federal law would 
+
+prevail?
+
+ MR. BAKER: That would apply to -- that 
+
+would apply to the question of the -- the action in that 
+
+court, but in the Federal court the threshold --
+
+JUSTICE SOUTER: It would apply to what the 
+
+judge is supposed to do at that moment when somebody 
+
+says, I want a stay. And the judge at that point 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+consults Federal law, not State law, doesn't he?
+
+ MR. BAKER: That -- on the procedural 
+
+question of what procedural mechanism --
+
+JUSTICE SOUTER: Well, just stick to my 
+
+question. He says: I want a stay. Does the judge look 
+
+to State law or Federal law?
+
+ MR. BAKER: The judge first looks to the 
+
+question of who can enforce the agreement, and to ask 
+
+that -- to answer that question, the judge has to look 
+
+to State law.
+
+ JUSTICE ALITO: Why is that necessarily so? 
+
+I don't understand your answer to that question, or your 
+
+statement that your argument is dependent on the 
+
+resolution of that choice of law issue.
+
+ Are the courts of appeals unanimous on the 
+
+question of whether the enforceability of an arbitration 
+
+agreement by a nonparty is a question of State law? I 
+
+think there's at least a Fourth Circuit decision that 
+
+says it's a question of Federal law, but why -- why do 
+
+we have to decide that and why is your argument 
+
+dependent on it?
+
+ Suppose that is, suppose that were a 
+
+question of Federal law, what would that -- it might 
+
+change the ultimate outcome of whether there's an 
+
+entitlement to a stay, but I don't see why it has any 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+effect on a question of whether there is jurisdiction.
+
+ MR. BAKER: I don't think it has any 
+
+question -- effect on the question of jurisdiction, Your 
+
+Honor.
+
+ JUSTICE ALITO: Nor does it mean that you 
+
+necessarily cannot enforce the arbitration agreement, 
+
+does it?
+
+ MR. BAKER: It means that -- well, you have 
+
+to look to a source of law to determine whether a 
+
+nonparty has rights under an arbitration agreement. I'm 
+
+aware of that Fourth Circuit case. Your Honor, I 
+
+believe that the court was incorrect. I believe this 
+
+Court's decisions in Perry and ensuing cases make it 
+
+clear that State law determines the rights and 
+
+obligations of nonparties to an arbitration agreement. 
+
+That's a settled principle. And so that is a threshold 
+
+question that has to be --
+
+JUSTICE GINSBURG: But if you read section 
+
+3, if you interpret, as you do, the word "parties" to 
+
+mean parties to the litigation, then for purposes of 
+
+jurisdiction the only thing is, is this person a party 
+
+to the litigation? Yes. End of case; they can move for 
+
+a stay. Then whether they're entitled to one because of 
+
+this equitable estoppel theory which is determined by 
+
+the State law is a merits question. 
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+You are making a more complex jurisdictional 
+
+argument than I understand. What's wrong with the 
+
+simple argument that section 3 says parties; that means 
+
+parties to the litigation; the -- the Petitioners here 
+
+are parties to the litigation. Therefore, they can move 
+
+for a stay of the arbitration. And then we go to the 
+
+merits and say, do they have a good reason for staying 
+
+the arbitration?
+
+ But you're presenting a more complex 
+
+argument on the jurisdictional point which I don't quite 
+
+understand.
+
+ MR. BAKER: Your Honor, I'm not sure I 
+
+understand the question. Are you referring to appellate 
+
+jurisdiction or jurisdiction under the FAA?
+
+ JUSTICE GINSBURG: First, is there 
+
+jurisdiction -- yes, appellate jurisdiction. If you --
+
+if there's an application to stay, is that appealable? 
+
+Why isn't -- why isn't the answer clearly yes?
+
+ MR. BAKER: The answer, Your Honor, is 
+
+clearly yes. If we're talking about --
+
+JUSTICE GINSBURG: But your step -- you seem 
+
+to be involving some merits question of State law in 
+
+that question.
+
+ MR. BAKER: Your Honor, I turned to the 
+
+merits first because the Sixth Circuit below erroneously 
+
+18
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+conflated two entirely distinct concepts. The first is 
+
+appellate --
+
+JUSTICE GINSBURG: You shouldn't do that. 
+
+You should tell us, this is the jurisdictional argument. 
+
+If we pass that threshold, then we get to the merits.
+
+ MR. BAKER: All right. Well, I'll start 
+
+with jurisdiction, Your Honor.
+
+ JUSTICE GINSBURG: Good.
+
+ (Laughter.)
+
+ MR. BAKER: All right. Section 16 makes it 
+
+clear that all one needs to have for appellate 
+
+jurisdiction is a motion under section 3 for a stay 
+
+pending appeal, and that is denied. That establishes a 
+
+broad category of orders. The Sixth Circuit didn't 
+
+apply that text. The Sixth Circuit used a --
+
+JUSTICE GINSBURG: May I ask -- may I ask? 
+
+Suppose it's somebody who has interest in the litigation 
+
+but is not a party either to the arbitration agreement 
+
+or to the litigation?
+
+ MR. BAKER: If a -- if a party -- if a 
+
+litigant makes a section 3 stay and they claim no right 
+
+to enforce the arbitration agreement, that denial of 
+
+that stay would be appealable, all right, because 
+
+section 16 --
+
+JUSTICE GINSBURG: I'm asking of somebody 
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+who is not a litigant, who can -- if somebody who is an 
+
+interested spectator moves for a stay of litigation to 
+
+which that person is not a party, and the court says of 
+
+course not. Would that be reviewable on appeal?
+
+ MR. BAKER: No, because they -- the 
+
+spectator is not even a party, Your Honor, to the 
+
+litigation. Section 3 contemplates parties to the 
+
+litigation seeking a stay.
+
+ On the question of appellate jurisdiction, 
+
+if a litigant makes a request for a section 3 stay and 
+
+the stay request is denied, there is clearly appellate 
+
+jurisdiction under section 16. That is -- in our view.
+
+ JUSTICE GINSBURG: That's your 
+
+jurisdictional argument.
+
+ MR. BAKER: That's our jurisdictional 
+
+argument. The mere request for relief under section 3 
+
+and the denial of that request triggers appellate 
+
+jurisdiction.
+
+ JUSTICE GINSBURG: And you're saying that's 
+
+all that's before us because it was thrown out --
+
+MR. BAKER: That's not all that's before 
+
+you. The Sixth Circuit below conflated the question of 
+
+whether there's appellate jurisdiction with whether non-
+
+signatories can seek relief under section 3. That's why 
+
+it's essential for the Court to reach the second 
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+questioned presented, which is whether non-signatories 
+
+as a matter of law are foreclosed from seeking relief 
+
+under section 3.
+
+ The court below -- I'll turn back to 
+
+appellate jurisdiction to -- Your Honor. The court 
+
+below used a fact-based test; that is, is the party 
+
+seeking relief a signatory to the agreement? That --
+
+that cannot be the law. Eighty years of FAA law 
+
+establishes that you don't have to be a signatory to 
+
+enforce an arbitration agreement. In addition, it 
+
+violates this Court's rule that you look to categories 
+
+of orders, rather than the facts of a given case in some 
+
+appellate jurisdictions.
+
+ JUSTICE BREYER: What are the instances in 
+
+which somebody who is not a signatory might seem to have 
+
+a right to enforce it? I can think of one. Suppose 
+
+he's a third-party beneficiary of the contract. Are 
+
+there others?
+
+ MR. BAKER: Well, absolutely, Your Honor.
+
+ JUSTICE BREYER: What?
+
+ MR. BAKER: There's assignment, successor in 
+
+interest, assumption, estoppel.
+
+ JUSTICE BREYER: Okay.
+
+ MR. BAKER: There's a whole --
+
+JUSTICE BREYER: I mean, which one applies 
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+here?
+
+ MR. BAKER: Well, estoppel, and there are --
+
+JUSTICE BREYER: Estoppel? I don't 
+
+understand estoppel.
+
+ MR. BAKER: Well, Your Honor, it's a theory 
+
+that was --
+
+JUSTICE BREYER: I know what estoppel is in 
+
+the law.
+
+ (Laughter.)
+
+ MR. BAKER: More precisely, it's equitable 
+
+estoppel, but the -- the practice treatises have entire 
+
+chapters devoted to --
+
+JUSTICE BREYER: I know, but I haven't 
+
+unfortunately had a chance to read all the practice 
+
+treatises. So could you explain to me quite simply what 
+
+is the theory of equitable estoppel that allows someone 
+
+who is not a signatory to an arbitration contract to 
+
+have it enforced?
+
+ MR. BAKER: Yes, Your Honor. The theory 
+
+here is that the Respondents asserted claims of -- of 
+
+concerted misconduct, of conspiracy against the 
+
+Petitioners, some of whom were -- one of -- well, none 
+
+of whom were signatories to the arbitration agreement in 
+
+Bricolage which did -- was a signatory to the agreement, 
+
+that claim of concerted misconduct, in our view, where 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the Respondents are relying upon the agreement, that is 
+
+the agreement that they entered into with Bricolage to 
+
+-- is a theory upon which they are now seeking relief 
+
+from us. They are claiming that this contract that 
+
+contains the arbitration clause was an instrumentality 
+
+for the fraud that was perpetrated on them. Because of 
+
+that they are now estopped from seeking, claiming that 
+
+they are not -- not obligated to arbitrate under the 
+
+agreement.
+
+ JUSTICE BREYER: In other words, whenever I 
+
+sign a contract with anybody -- I sign one with Smith, I 
+
+ask him to buy some wheat, I sell him some wheat, and 
+
+there's an arbitration clause. And now I sue all kinds 
+
+of other people, and the contract is part of the 
+
+lawsuit. Are there many cases like that? Maybe it was 
+
+a shipper, or something, who they sent the contract to, 
+
+and he had to figure out what to do on the basis of the 
+
+contract. Or maybe there was a cousin who told me to go 
+
+to see Smith in the first place. Maybe -- I don't know. 
+
+There are a lot of people. So, now all those people 
+
+have to go to arbitration?
+
+ Because you're saying whenever I go in and 
+
+have a contract with X and there's an arbitration 
+
+clause, then in any future lawsuit where I sue anybody 
+
+and that contract is an essential part of it, the breach 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+thereof, he could put me in arbitration. Boy, that 
+
+sounds extreme. I mean, I guess there are -- there'd 
+
+have to be several treatises on this, but it doesn't 
+
+sound intuitively sensible.
+
+ MR. BAKER: Well, Your Honor, we're not 
+
+saying that that applies in every case. There's more --
+
+JUSTICE BREYER: Oh, okay. That's all I 
+
+wanted to know is what's the theory in this case.
+
+ MR. BAKER: The theory of equitable 
+
+estoppel.
+
+ JUSTICE BREYER: If that's the theory, I --
+
+unless I think it always applies, I could just say I 
+
+don't have to decide about a third-party beneficiary.
+
+ MR. BAKER: Your Honor --
+
+JUSTICE BREYER: I just have to decide 
+
+whether you can enforce it. Now -- so you'd better say 
+
+some other things.
+
+ (Laughter.)
+
+ JUSTICE KENNEDY: Well, of course, one of --
+
+MR. BAKER: Well, Your Honor, give me --
+
+JUSTICE KENNEDY: One of the things you're 
+
+going to say is that, with all due respect, Justice 
+
+Breyer, this conflates the merits with the 
+
+jurisdictional problem, which is exactly the mistake 
+
+that the court of appeals made. Is that your theory of 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the case?
+
+ MR. BAKER: Well, that's -- that's the first 
+
+error of the court of appeals, but the court of -- the 
+
+second error of the court of appeals was to decide --
+
+was to hold as a matter of law that section 3 does not 
+
+allow nonparties to enforce an arbitration agreement.
+
+ The question of the merits of equitable 
+
+estoppel is not before this court, Your Honor, and it 
+
+may well be on remand in the Sixth Circuit that --
+
+JUSTICE BREYER: I wouldn't have asked my 
+
+question if you hadn't said we have to go beyond the 
+
+question whether they had jurisdiction and answer the 
+
+merits, which is whether you can in fact enforce it.
+
+ MR. BAKER: Your Honor --
+
+JUSTICE BREYER: Now you're saying, no, we 
+
+don't.
+
+ MR. BAKER: Your Honor, the merits -- there 
+
+are two parts to the merits. The first is whether as a 
+
+matter of law nonparties are foreclosed from seeking 
+
+relief under section 3. That -- that is all this Court 
+
+need decide. That is what the question --
+
+JUSTICE BREYER: I could just rely on my 
+
+third-party beneficiary example?
+
+ MR. BAKER: As an example? Exactly. A 
+
+third-party beneficiary can enforce an agreement as a 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+matter -- is entitled to enforce -- to use section 3.
+
+ JUSTICE SCALIA: If he can do it under State 
+
+law?
+
+ MR. BAKER: If he can do it under State law. 
+
+Absolutely, Justice Scalia.
+
+ The question of whether or not we satisfied 
+
+the requirements of equitable estoppel is not before the 
+
+Court. That's a question to be decided on remand by the 
+
+Sixth Circuit.
+
+ Unless there are any further questions, I'd 
+
+like to reserve the balance of my time.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Mr. De Marco.
+
+ ORAL ARGUMENT OF PAUL M. De MARCO
+
+ ON BEHALF OF THE RESPONDENTS
+
+ MR. De MARCO: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ Estoppel is what you invoke when you have no 
+
+contract to invoke, and this version of equitable 
+
+estoppel is what you invoke when you have no arbitration 
+
+agreement to invoke.
+
+ I want to come to a question that was just 
+
+asked by Justice Breyer. Section 3 mandates only stays 
+
+in aid of contract-based arbitration obligations. They 
+
+are not fungible, these arbitration agreements. They 
+
+26 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+cannot just be picked up by anyone and advanced as a 
+
+ground for arbitration.
+
+ This court has consistently said, in Volt, 
+
+for example, at page 478: The FAA does not require 
+
+parties to arbitrate.
+
+ JUSTICE BREYER: Well, I thought the first 
+
+issue -- I never got past the first issue.
+
+ MR. De MARCO: Yes, sir.
+
+ JUSTICE BREYER: And the first issue was, 
+
+does he have a right to appeal? And I read the statute, 
+
+and to me section 16 says yes. He asked for a stay. It 
+
+was denied, and it says an appeal may be taken from an 
+
+order refusing a stay. So there's an order refusing a 
+
+stay; he appealed. Why can't he appeal?
+
+ MR. De MARCO: Because the stay that he 
+
+requested was distinctly outside section 3, not as a 
+
+merits question, but so far outside question -- section 
+
+3 that we can say he should not -- that the stay was not 
+
+requested under section 3; it was not denied under 
+
+section --
+
+JUSTICE BREYER: Is there any -- is there 
+
+any other example in the law -- I can't think of one --
+
+where you say this party has so silly an argument, which 
+
+is really what you're saying --
+
+MR. De MARCO: Right. 
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: -- that we don't even let 
+
+him appeal.
+
+ MR. De MARCO: Yes. There are --
+
+JUSTICE BREYER: It seems to me I've gotten 
+
+a lot of appeals where the appeal, I don't think, is too 
+
+meritorious, but nonetheless I never heard of saying you 
+
+can't appeal.
+
+ MR. De MARCO: Right. There are sort of 
+
+what I would call the Trojan Horse appeals, where a 
+
+party actually has moved to compel discovery and they 
+
+characterized it as an injunction. When that was 
+
+denied, they said: An injunction was denied; we have 
+
+the right under 1292(a). The court of appeals is 
+
+perfectly able to pierce that and say: No, that's a 
+
+discovery motion; that's outside of the injunctive area.
+
+ And here why we're saying this, Your Honor, 
+
+we recognize what they say about the Behrens case. This 
+
+is an instance where we're asking the Court to, in a 
+
+sense, pull the veil on these section 3 --
+
+JUSTICE BREYER: As to that, if you did 
+
+that, I got your first point. I understand it. I agree 
+
+with it.
+
+ As to the second point, you say -- I was 
+
+surprised because I hadn't quite taken that in -- that 
+
+we are now supposed to reach what we would call the 
+
+28
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+merits of the appeal. Now, there you just heard your 
+
+co-counsel say: Look, you don't have to decide whether 
+
+my equitable theory is good or not. You haven't read 
+
+the treatises, I have; which is a fair comment. And --
+
+and all I want you to say is that sometimes, at least, a 
+
+third party could enforce a contract to arbitration that 
+
+two others make.
+
+ The statute doesn't say he can't. The 
+
+statute doesn't say he has to be the one who signed it. 
+
+And if you think of a third party beneficiary or an 
+
+assignment, for example, you would think, of course, 
+
+there are other people, say an assignee, who could 
+
+enforce it.
+
+ MR. De MARCO: Right. And there's a reason 
+
+why those -- in those cases, the third -- I will call 
+
+them nonparties were allowed to enforce. Let me preface 
+
+that by saying not all of those were -- we've heard a 
+
+lot about State law and Federal law. Not all of those 
+
+are tightly grounded in Federal law.
+
+ But take your example of the third party 
+
+beneficiary, they cite a case called J.P. Morgan in 
+
+which the woman was incompetent, the agreement with the 
+
+nursing home was signed as -- on her behalf. I think 
+
+that's clear in that kind of case that the nonparty is 
+
+asserting the right through the contract, because of the 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+contract, dependent on the contract.
+
+ Here, by claiming equitable estoppel not 
+
+only aren't the Petitioners asserting rights that flow 
+
+to them from the contract, because they have no 
+
+contract; they are actually saying -- this is the gist, 
+
+it gets back to your question, what's the gist of their 
+
+equitable estoppel theory. It's as we quote in footnote 
+
+13: The gist of it is that equitable principles prevent 
+
+Respondents from claiming that they have no obligation 
+
+to arbitrate with the Petitioners despite the lack of an 
+
+agreement.
+
+ Their very theory assumes that what section 
+
+3 says must exist is absent. Their very theory says we 
+
+don't have an agreement of our own to assert, and 
+
+therefore, we need equitable principles to fill the 
+
+void. Now, where do these equitable principles come 
+
+from?
+
+ JUSTICE GINSBURG: Then you might say that 
+
+they haven't stated a claim on which relief can be 
+
+granted, but that is the merits question. We are 
+
+supposed to be dealing with the question of whether the 
+
+denial of the stay -- there was a denial of a stay -- is 
+
+appealable under section 16. And to decide that 
+
+question I don't think you get into how meritorious 
+
+their claim was for the stay. 
+
+30 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. De MARCO: Your Honor, the fact that 
+
+they have filed a motion, and as I referred to it, the 
+
+concern that we have, and I think the concern that 
+
+animated DSMC and Universal when they took up this 
+
+issue, was the Trojan Horse stay motion. We have to 
+
+keep in mind not every stay that is filed pending 
+
+arbitration, a stay pending arbitration is necessarily 
+
+filed under section 3, because in footnote 23 of Moses 
+
+H. Cone this Court recognized another kind of stay 
+
+pending arbitration, and that's a discretionary stay.
+
+ JUSTICE SOUTER: Okay. And what is the 
+
+criterion for identifying a section 3 stay?
+
+ MR. De MARCO: The criterion, Your Honor, is 
+
+that the right to the stay must be -- the right to --
+
+the statute speaks in terms of referable to arbitration 
+
+under an agreement. What does that mean? "Referable to 
+
+arbitration" is the arbitration obligation. "Under" in 
+
+that means dependent on, because of. So the 
+
+arbitrability of it depends on a written agreement.
+
+ JUSTICE SOUTER: And your -- and your 
+
+position is that the statute should be so construed that 
+
+only a signatory to the written agreement has a right to 
+
+the stay, indeed has a right to request the stay under 
+
+article 3?
+
+ MR. De MARCO: Yes. 
+
+31
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOUTER: What is your reason for 
+
+saying that?
+
+ MR. De MARCO: Just to clarify, the statute 
+
+being section 3.
+
+ JUSTICE SOUTER: Yes.
+
+ MR. De MARCO: Yes. The reason for that is 
+
+this Court has been very clear in its interpretations of 
+
+the FAA in general. The FAA in general, the Court has 
+
+said, requires -- does not require parties to arbitrate 
+
+when they have not agreed to do so. So that sets the 
+
+standard. If there is no agreement, you cannot force 
+
+that signatory, which didn't have an agreement with that 
+
+nonsignatory, to arbitrate.
+
+ JUSTICE KENNEDY: Well, what do you do with 
+
+third party beneficiary assignment assumption?
+
+ MR. De MARCO: All of those examples, 
+
+Justice Kennedy, in all of those examples the right to 
+
+enforce the agreement, let's say the right to procure a 
+
+stay based on the agreement, flows from the intention of 
+
+the parties to the original agreement.
+
+ The examples they use -- assignment, they 
+
+cite a case where there is -- there was an express 
+
+assignment, and in the assignment the Court said they 
+
+actually assigned the agreement with the arbitration 
+
+clause in it to the successor. They cite an assumption 
+
+32
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+case. It was an express signed assumption. Those are 
+
+all cases of contract-based arbitration.
+
+ JUSTICE KENNEDY: Well, in a way that was 
+
+where one of the parties, without the other party's 
+
+consent, say assignee, a third party beneficiary. Here 
+
+in a way it's a fortiori because the party who is 
+
+objecting, his or its own actions caused the agreement 
+
+to come into play. That's their theory.
+
+ MR. De MARCO: Well, let me tease that out a 
+
+bit. The -- one of the -- the problems in this area, 
+
+this equitable estoppel that has developed as an ersatz 
+
+form of equity principle, it is not tied to section 3 
+
+nor is it tied to State law. It is -- it is perfectly 
+
+ad hoc, so it's an amorphous concept that we've seen 
+
+develop over the last --
+
+JUSTICE BREYER: Your proper -- I see this 
+
+is actually a pretty difficult question to me, and --
+
+because it seems to me sometimes they have to be able to 
+
+enforce it, the assignee, the third party beneficiary.
+
+ MR. De MARCO: Right.
+
+ JUSTICE BREYER: And now what I don't know, 
+
+is what they're doing, it's true that section 3 and all 
+
+the other sections, they talk about the agreement, but 
+
+they don't say that the individual who is asking for the 
+
+stay has to be the same person who signed it, as they 
+
+33 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+couldn't. So how do we know which among all the 
+
+possible people in the case who hasn't signed it should 
+
+and should not be able to enforce it?
+
+ Their argument is look to State law, okay? 
+
+And your argument is derive some principles yourself. 
+
+Really.
+
+ MR. De MARCO: Right.
+
+ JUSTICE BREYER: And so, so -- is it 
+
+possible to answer this case by saying he's wrong in 
+
+thinking you always look to State law. It may depend on 
+
+what the State law says. So that's the answer to the 
+
+question. You should have had your appeal. Go appeal, 
+
+and let the courts below work that out first, knowing 
+
+that the State law is relevant but not always 
+
+determinative. Then we'll get some -- we'll get some 
+
+case law on this and we'll be in a better position to 
+
+figure out what the right answer is.
+
+ MR. De MARCO: Justice Breyer, the question 
+
+of arbitrability does not always depend on State law. 
+
+In Volt, in first options this Court said sometimes it 
+
+does, but it does when the issue is, was a contract 
+
+formed, is a contract valid. How are we going to 
+
+interpret that contract?
+
+ Here where equitable estoppel is concerned, 
+
+that's not the consideration. Therefore, because you 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+can -- you can interpret the contract until the cows 
+
+come home, you're never going to find the Petitioners in 
+
+it. So that the question --
+
+JUSTICE BREYER: Well, you see it's a little 
+
+hard. I can imagine a case where they're sitting in the 
+
+room drawing up the contract, they put it in the 
+
+arbitration agreement. There are four other people 
+
+directly related to the room. The parties look around 
+
+and say, hey, we have arbitration here, I hope everybody 
+
+understands everybody is going to have to do this. And 
+
+they all say, okay, don't worry about it.
+
+ Now, I would say, hey, maybe they're 
+
+estopped. And there they're going right through the 
+
+contract.
+
+ MR. De MARCO: Right.
+
+ JUSTICE BREYER: So I hate to write the 
+
+words "equitable estoppel is never relevant." I would 
+
+rather write the words "I'm uncertain State law is 
+
+relevant policy." You know, it's not true that it's 
+
+always relevant.
+
+ MR. De MARCO: I think the safest ground is 
+
+to clear up first this question of how arbitrability is 
+
+decided. And I think Justice Alito asked the question: 
+
+Is -- is there unanimity among the courts of appeals.
+
+ The Fourth Circuit case that I -- I think 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+was mentioned, I believe that's the Bailey case. I 
+
+don't even think there is unanimity, unfortunately, 
+
+within the Fifth Circuit. But there -- the -- the 
+
+better view, I think, that is expressed in the Fourth 
+
+Circuit case is that when the issue that's pivotal is 
+
+contract interpretation, arbitrability in that narrow 
+
+sense, that's State law. When it's not, it's Federal 
+
+law.
+
+ And I think that's why you see these 
+
+equitable estoppel cases not talking at all about State 
+
+law. It is sort of an ersatz, ad hoc version of Federal 
+
+equity that's being --
+
+JUSTICE SOUTER: Okay. Why shouldn't the 
+
+Federal law be even simpler than that? And I -- I 
+
+proposed one, and -- and probably because I don't 
+
+understand the law well enough, it may -- may have been 
+
+simply simplistic.
+
+ But my suggestion was the -- the issue 
+
+before us should be construed narrowly as being the 
+
+question of who can ask for a stay. And the answer to 
+
+that would be only a person -- or one possible answer to 
+
+that would be only a person who has signed the 
+
+arbitration agreement, because the Federal policy is to 
+
+enforce agreements, not force arbitration. And, 
+
+therefore, it is sensible as a matter of Federal policy 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to say, we're not going to stop this trial in mid-track 
+
+for arbitration unless you who are asking for it to be 
+
+stopped signed an arbitration agreement yourself, and 
+
+it's that agreement that you're trying to enforce.
+
+ Now, that is maybe a -- a too simplistic 
+
+approach, but tell me what's good or bad about that.
+
+ MR. De MARCO: I think that it's the correct 
+
+approach to say that we are not talking generically 
+
+about the enforceability of arbitration agreements. We 
+
+are talking in the context under section 3 of an 
+
+existing lawsuit. That one party says, hey, I want to 
+
+stay this lawsuit. So it is a different enforcement 
+
+mechanism than -- than the -- than the generic law.
+
+ JUSTICE SOUTER: Okay. That opens the door 
+
+to my simplistic theory. Now --
+
+MR. De MARCO: Yes.
+
+ JUSTICE SOUTER: -- is it a good theory or a 
+
+bad theory?
+
+ MR. De MARCO: It's a good theory because 
+
+then, once you've opened that door to the -- the ability 
+
+to ask for a stay, you must ask: Well, what are the 
+
+ground rules for asking for this stay?
+
+ And while my friend continuously returns to 
+
+State law, our point is you don't depart from the terms 
+
+of section 3 itself, because section 3 itself tells you 
+
+37 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the circumstances under which the mandatory stay 
+
+provision applies. And those circumstances are only 
+
+when it is referable to arbitration under a written 
+
+agreement.
+
+ JUSTICE SOUTER: Okay. But it seems to me 
+
+that that's not enough, because "under the written 
+
+agreement" leaves open the question of whether the 
+
+written agreement can be enforced right here and now by 
+
+getting a stay only by somebody who signed it or by a 
+
+third party beneficiary or -- or somebody dependent on 
+
+the contract plus some other legal theory.
+
+ My simplistic suggestion was: Keep it 
+
+simple and simply say the -- "under the agreement" means 
+
+an agreement signed by you, and the reason we confine it 
+
+to an agreement signed by you is not because the phrase 
+
+"under this agreement" tells us that. It doesn't. That 
+
+leaves the question open.
+
+ We say it is going to be confined to an 
+
+agreement signed by you because that's really the -- the 
+
+nub of the Federal policy. We want to enforce 
+
+agreements, and we want to confine this extraordinary 
+
+remedy of a stay to people who went to enough trouble to 
+
+make -- and I don't know whether that's a good idea or 
+
+not. And -- I mean it's favorable to you, so it's in 
+
+your interest to say it's a good idea, but I may be 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+getting into trouble by that. And that's what I want 
+
+you to tell me.
+
+ MR. De MARCO: Well, that's consistent with 
+
+the Federal policy as this Court has expressed that 
+
+Federal policy. It has -- it has said repeatedly the 
+
+Federal policy is not a general policy to encourage this 
+
+form of dispute resolution but, rather, it is to give 
+
+effect to parties when and if they agree to arbitration. 
+
+So I agree that that is, and should be, the starting 
+
+point of the analysis. Is -- and -- and it was 
+
+expressed in -- in Mitsubishi this way: That -- that 
+
+the intent of the FAA is to give effect to arbitration 
+
+agreements, to put them on an equal footing with all 
+
+other agreements, but not more so. And I believe what 
+
+-- what Petitioners are asking for is a "more so."
+
+ JUSTICE STEVENS: Mr. De Marco, can I ask 
+
+you this question? In section 3 do you agree with his 
+
+reading of the word "parties," or do you think "parties" 
+
+just means parties to the contract?
+
+ MR. De MARCO: With my friend's reading?
+
+ JUSTICE STEVENS: Yes.
+
+ MR. De MARCO: Justice Stevens, I have to be 
+
+honest and say I'm concerned about that argument because 
+
+I think Congress has used the word "parties" throughout 
+
+the FAA rather haphazardly to mean three different 
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+things, maybe four: Party to the agreement, party to 
+
+the action, party to the arbitration, or party-like 
+
+person. And I would be concerned about hanging it on --
+
+on that. So my -- my answer is, because of the way it's 
+
+used in sections 3, 4, 5, 9, I would be concerned about 
+
+-- about resting on that.
+
+ JUSTICE STEVENS: You are concerned about --
+
+does that mean you agree with him that "parties" means 
+
+parties to the action and not parties to the contract?
+
+ MR. De MARCO: I -- actually in section 3 
+
+what I would say is it's equivocal, and the rest of the 
+
+FAA doesn't help us understand that. So it's an -- it's 
+
+an issue on which I would not hang my hat, because it is 
+
+equivocal.
+
+ JUSTICE BREYER: What would you think about 
+
+saying that some parties -- some parties to the case who 
+
+are not parties to the contract can as third parties, 
+
+nonetheless, enforce arbitration? We have listed a few 
+
+examples, assignees, et cetera. When considering 
+
+whether this is one of them, judge, the key question --
+
+we can tell you what the key question is and what it 
+
+isn't. What it is has to do with the intent of the 
+
+persons who did sign the contract.
+
+ MR. De MARCO: Right.
+
+ JUSTICE BREYER: Something related to that. 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+We don't have to be specific.
+
+ MR. De MARCO: Right.
+
+ JUSTICE BREYER: What it isn't is a case 
+
+management device. Because what I think the temptation 
+
+would be for the judge is to -- is to -- let's send them 
+
+all off to arbitration if we can, and then I would not 
+
+have to worry about this case for a while. And come 
+
+back, and I'll figure it out.
+
+ MR. De MARCO: Right.
+
+ JUSTICE BREYER: So is that -- is that 
+
+right, or is it wrong? What's your insight or guess on 
+
+that?
+
+ MR. De MARCO: I think it's -- it's correct.
+
+ JUSTICE BREYER: I'm just looking for ways 
+
+of separating these sheep from goats.
+
+ MR. De MARCO: Yes. The only way, I think, 
+
+to give effect to what the Court said, which is nobody 
+
+is going to be forced to arbitrate when they haven't 
+
+agreed to arbitrate, is for judges to take section 3 
+
+seriously when it is proffered as the basis for a stay 
+
+motion and to -- and to apply it as --
+
+JUSTICE GINSBURG: You -- you just told us 
+
+that section 3 was ambiguous. You don't know if the 
+
+reference to "parties" means parties to the arbitration 
+
+agreement or parties in the litigation. So how can we 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+take it -- we take it seriously, yes, and say there's an 
+
+ambiguity. We don't know from the text which is the 
+
+proper reference, parties to the agreement or parties to 
+
+the litigation.
+
+ MR. De MARCO: Justice Ginsburg, by 
+
+declining Justice Stevens's invitation of sorts to read 
+
+"parties" a particular way, I did not mean to -- to 
+
+suggest that the referable -- issue referable to 
+
+arbitration under a written agreement is ambiguous. I 
+
+don't think that's ambiguous.
+
+ I think as applied here in this case it's 
+
+clear that the -- the Petitioners' claim of 
+
+arbitrability does not flow, to use Justice Breyer's 
+
+terms, from that which the parties to the Bricolage 
+
+agreement intended. They don't claim that the parties 
+
+to that agreement intended for them to be covered, as 
+
+would be the case with a third-party beneficiary or --
+
+JUSTICE ALITO: If the "parties" in -- in 
+
+section 3 means parties to the arbitration agreement, 
+
+would that mean that a -- someone who is not a party to 
+
+the litigation could file a stay motion under section 3, 
+
+someone who is not a party to the litigation but is a 
+
+party to the arbitration agreement?
+
+ MR. De MARCO: If it were limited to parties 
+
+to the -- if it were interpreted as parties to the 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+arbitration agreement, then it would suggest that a 
+
+party outside the litigation -- let's say a party that's 
+
+conducting an arbitration pursuant to an arbitration 
+
+agreement could intervene.
+
+ That's what happened in DSMC. The -- the --
+
+one of the contracting parties intervened and said, we 
+
+are engaged in this arbitration. We want you to stop 
+
+this, what had been claimed to be, nonarbitrable 
+
+litigation.
+
+ JUSTICE ALITO: Well, once they intervene, 
+
+they are a party to the litigation as well.
+
+ MR. De MARCO: Pardon me?
+
+ JUSTICE ALITO: Once they intervene they 
+
+are.
+
+ MR. De MARCO: There I think it was for the 
+
+limited purpose of seeking a stay. I -- I take your 
+
+point, though, that -- I -- I think we have to be 
+
+careful in -- in judging the -- a stay motion, to focus 
+
+on the language of section 3 under the under-written 
+
+agreement language, and when -- when that is the focus, 
+
+I think it's clear that theories such as equitable 
+
+estoppel, an outlier among all those theories that were 
+
+listed, assumption, assignment -- an outlier among 
+
+them -- uniquely says that despite the lack of a written 
+
+agreement to arbitrate, equity requires; equity says it 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+should be arbitrated. That -- that I think is 
+
+incompatible with the language of section 3.
+
+ JUSTICE GINSBURG: But you would recognize 
+
+that there is some appeal possibility, because you 
+
+already said or at least you said in your brief that the 
+
+12 might -- let's get this question settled about the 
+
+equitable estoppel and going to arbitration; That the 
+
+district court in its discretion that could give a 
+
+1292(b) order and say I want to get this issue settled 
+
+on appeal before I go on with the case.
+
+ MR. De MARCO: Correct.
+
+ JUSTICE GINSBURG: That would be all right.
+
+ MR. De MARCO: There is an appellate pathway 
+
+and that is 1292(b). That has always existed for 
+
+discretionary stays. I think it applies when a party 
+
+attempts, perhaps labels its motion a section 3 stay, 
+
+but misses the mark by not truly grounding it in 
+
+section 3. When it misses the mark, their outlet --
+
+their pathway to interlocutory appeal ought to be 
+
+1292(b), particularly because section 16(b) indicates 
+
+Congress felt that was a compatible accommodation in the 
+
+stay -- in the arbitration context.
+
+ JUSTICE GINSBURG: Well -- the district 
+
+judge could say, I'm going to treat this as a 1292(b) 
+
+issue, and I'm going to grant the stay so that the court 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of appeals can tell -- can tell me what the law is?
+
+ MR. De MARCO: That's correct, Justice 
+
+Ginsburg. I want to be clear that the rule we propose 
+
+as to these claimants asserting equitable estoppel does 
+
+not preclude them from seeking a stay, even based on 
+
+equitable estoppel. And the best example I can give you 
+
+is one in the D.C. Circuit, in the post-DSMC era. 
+
+There's a case called Toledano in which the party was 
+
+asserting exactly the same theory that -- that 
+
+Petitioners are, equitable estoppel entitles us to a 
+
+stay. And what the court said there is well, DSMC has 
+
+come down and said you cannot under section 3 predicate 
+
+a stay on equitable estoppel, because you are by 
+
+definition saying I am not subject to a written 
+
+agreement; that's the predicate for section 3.
+
+ So what the District Court said in that 
+
+State -- in that case, it entertained the stay as a 
+
+discretionary stay, and it granted it. It granted it on 
+
+the very same ground that my friend is insisting should 
+
+be the ground for a mandatory stay in the post-DSMC era; 
+
+it's a basis in the District of Columbia for a 
+
+discretionary stay. It worked exactly the same way.
+
+ The difference was you -- you were true to 
+
+the language of section 3 and you were true to the 
+
+language of section 16(a)(1)(A); you don't have the 
+
+45 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+runaway stays in the D.C. Circuit that you have in the 
+
+Fifth Circuit and the Eleventh Circuit and to some 
+
+extent in the Fourth Circuit; and you don't have the 
+
+interlocutory appeals from those except under 1292.
+
+ I want to come back to a -- to a question 
+
+that was -- that was asked by Justice Ginsburg about 
+
+Bricolage. If Bricolage were, let's say, back in the 
+
+picture, or does the fact that Bricolage is out of the 
+
+picture make a difference?
+
+ The only sense in which an issue in this 
+
+case was ever referable to arbitration under an 
+
+agreement in writing is under the Bricolage agreement. 
+
+Once Bricolage departed the case, that obligation that 
+
+Respondents may have had to arbitrate with Bricolage 
+
+became inoperative, and what I see Petitioners 
+
+attempting to do is to disaggregate that the obligation 
+
+that Respondents undertook to arbitrate with Bricolage 
+
+from Bricolage's reciprocal obligation, detach it, and 
+
+run away with it as if it's a fungible commodity and say 
+
+we are now owed this obligation, when -- contrary to 
+
+everything this Court has ever said.
+
+ That's not the way the FAA works, because 
+
+with the FAA the starting point as this Court said in 
+
+Mitsubishi is did the parties agree to arbitrate that 
+
+dispute? And if we're talking about the -- the absence 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of Bricolage, I think we're -- we're dealing with a case 
+
+where even among the equitable estoppel cases, this case 
+
+will turn out to be an outlier because of Bricolage's 
+
+absence.
+
+ I say that because we're also dealing with 
+
+accountants who were their accountants for 25 years 
+
+before Bricolage came along. We're dealing with a law 
+
+firm that had a written retention agreement, had a 
+
+contract with them and didn't think to put it in that 
+
+contract, saying, "oh, pay no attention to that, let me 
+
+show you this contract that they signed with someone 
+
+else."
+
+ It gets back to Justice Breyer's point: If 
+
+I -- let's say I unilaterally published in The 
+
+Washington Post, "I am through with litigation, 
+
+henceforth I will arbitrate every dispute with every 
+
+other human being that I get involved in." That's not a 
+
+section 3 agreement to arbitrate.
+
+ Agreement imports the notion of an exchange 
+
+of arbitration obligations, which we do not have here. 
+
+Bricolage is gone. There's no question that the premise 
+
+of this equitable estoppel argument is the absence of a 
+
+-- of an agreement to arbitrate should be overlooked 
+
+because of equity.
+
+ JUSTICE GINSBURG: Bricolage did move to 
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+compel, it did move for a stay, did make a section 3 
+
+application; and then it -- it became bankrupt and got 
+
+the benefit of the automatic stay in bankruptcy.
+
+ MR. De MARCO: Right.
+
+ JUSTICE GINSBURG: But I take it that 
+
+Andersen and Curtis are saying we have a right to be 
+
+substituted for Bricolage. That's --
+
+MR. De MARCO: That's what their -- that's 
+
+apparently their argument, and the problem is how do 
+
+they fill that gap. They attempt to fill it with State 
+
+law. I think State law does not apply, the language of 
+
+section 3 applies, Your Honor, and section 3 cannot get 
+
+them there from here.
+
+ CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. De Marco.
+
+ Mr. Baker, you have four minutes remaining.
+
+ REBUTTAL ARGUMENT OF M. MILLER BAKER
+
+ ON BEHALF OF THE PETITIONERS
+
+ MR. BAKER: Thank you, Your Honor.
+
+ The question of appellate jurisdiction, the 
+
+Petitioners here made a motion for relief under section 
+
+3, and that motion was denied. Therefore there is 
+
+jurisdiction under section 16 to reach the question of 
+
+whether we were entitled to relief under section 3.
+
+ Respondents have made a very important 
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+concession that decides this case. Respondents concede 
+
+that under section 3 nonparties can enforce an 
+
+arbitration agreement through the mechanism of section 
+
+3. That decides this case. This case should be 
+
+remanded to the Court of Appeals to decide the question 
+
+of whether on these facts, these nonparty Petitioners 
+
+can actually enforce section 3.
+
+ The Petitioners' quarrel is with the 
+
+doctrine of equitable estoppel. They don't like it, but 
+
+there's nothing in the text of section 3 that allows 
+
+this Court or any court to distinguish between the 
+
+various doctrines or legal theories that nonparties may 
+
+seek to which -- to enforce section 3. We happen to 
+
+have used section 3, happen to have invoked equitable 
+
+estoppel as the basis for invoking section 3, but it 
+
+could have been assigned and it could have been a third 
+
+party beneficiary.
+
+ They have -- Respondents have conceded the 
+
+principle that section 3 is available to provide relief 
+
+on nonparties who are otherwise entitled to enforce the 
+
+agreement. They just think that on the merits we don't 
+
+satisfy the requirements of equitable estoppel. That's 
+
+a question to be decided on remand. Equitable estoppel, 
+
+I will say very briefly, presupposes the existence of a 
+
+written arbitration agreement. In the absence of a 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+written arbitration agreement, Petitioners here would 
+
+not have any ability to assert this theory of equitable 
+
+estoppel. So -- so it's not completely separated from 
+
+or detached from the existence of a written arbitration 
+
+agreement.
+
+ I would like to turn to Justice Souter's 
+
+signatory test for allowing relief under section 3. 
+
+With all respect, this defies 80 years of case law 
+
+interpreting the Federal Arbitration Act. It defies the 
+
+history of the Federal Arbitration Act. It's settled 
+
+that Congress in enacting this Act, chose New York law, 
+
+and the New York arbitration act lad a much more 
+
+stringent requirement for arbitrating existing disputes 
+
+which required a signature.
+
+ Congress, as we outlined in our brief, did 
+
+not choose that section of the New York law as a model 
+
+when it enacted the FAA in 1925. 1292(b), the right to 
+
+appellate jurisdiction is illusory because that is 
+
+denied; a nonparty with arbitration rights be forced to 
+
+litigate and lose the very things that arbitration is 
+
+designed to avoid -- that is, the cost and time of being 
+
+in litigation in a district court. Not only that, the 
+
+District Court will suffer the loss of judicial 
+
+efficiency by having to litigate -- litigate a case 
+
+before it or adjudicate a case that should be in 
+
+50 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+arbitration.
+
+ Unless there are any further questions, I 
+
+will conclude the argument.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ The case is submitted.
+
+ (Whereupon, at 12:19 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+51 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+6:25 7:6,14,20 Andersen 1:3 apply 5:20 6:22 43:1,3,3,7 44:7 A 
+8:8,11,16 9:6 3:4 48:6 15:20,21,23 44:22 46:11ability 6:21 
+9:19,25 10:8,8 animated 31:4 19:15 41:21 47:20 49:3,2537:20 50:2 
+10:19,25 11:1 answer 4:9 8:12 48:11 50:1,4,9,10,12able 4:5 6:18 
+11:2,5,6,10,13 9:25 15:4 16:9 approach 37:6,8 50:19,20 51:1 7:20 28:14 
+12:1 13:8,9,17 16:12 18:18,19 arbitrability area 28:15 33:10 33:18 34:3 
+16:8,17 17:6 25:12 34:9,11 31:19 34:19 argue 11:16above-entitled 
+17:10,15 19:18 34:17 36:20,21 35:22 36:6 arguing 13:161:12 51:7 
+19:22 21:7,10 40:4 42:13 argument 1:13absence 46:25 
+22:23,24 23:1 anybody 23:11 arbitrate 23:8 2:2,7 3:3,6,16 47:4,22 49:25 
+23:2,9 25:6,25 23:24 27:5 30:10 7:23 8:12absent 30:13 
+26:21 29:22 apart 14:10 32:9,13 41:18 12:15 14:14absolutely 10:4 
+30:11,14 31:16 apparently 48:9 41:19 43:25 15:7,8 16:13 14:18 21:19 
+31:19,22 32:11 appeal 8:21 46:14,17,24 16:20 18:2,326:5 
+32:12,18,19,20 12:19 19:13 47:16,18,23 18:10 19:4accommodation 
+32:24 33:7,23 20:4 27:10,12 arbitrated 5:9 20:14,16 26:14 44:21 
+35:7 36:23 27:14 28:2,5,7 44:1 27:23 34:4,5accountants 
+37:3,4 38:4,7,8 29:1 34:12,12 arbitrating 39:23 47:2247:6,6 
+38:13,14,15,16 44:4,10,19 50:13 48:9,17 51:3 act 3:15,20 5:11 
+38:19 40:1 appealable arbitration 3:11 Arthur 1:3 3:4 8:1,5 10:14 
+41:25 42:3,9 12:22 18:17 3:15,22 4:1,4 article 31:2413:1 50:9,10 
+42:15,16,19,23 19:23 30:23 4:12,15 5:2,7 asked 25:1050:11,12 
+43:1,4,20,25 appealed 27:14 5:13,19,23 6:2 26:23 27:11action 4:19,22 
+45:15 46:12,12 appeals 10:6,9 6:7,9,11,16,25 35:23 46:66:9 12:20 
+47:8,18,19,23 16:15 24:25 7:6,9,14,20 8:1 asking 19:2515:21 40:2,9 
+49:3,21,25 25:3,4 28:5,9 8:1,2,8,16 9:6 28:18 33:24actions 33:7 
+50:1,5 28:13 35:24 9:13,19,25 37:2,22 39:15 ad 33:14 36:11 
+
+agreements 8:1 45:1 46:4 49:5 10:7,14,19,24 assert 5:7 13:21 addition 21:10 
+26:25 36:24 APPEARAN... 11:1,2,4,5,6 30:14 50:2adjudicate 
+37:9 38:21 1:15 12:1,4 13:1,12 asserted 5:150:25 
+39:13,14 appellate 8:24 15:11 16:16 22:20advanced 27:1 
+
+aid 26:24 12:11,13,15,16 17:6,10,15 asserting 10:11advising 7:1 
+AL 1:4,7 12:23 13:20 18:6,8 19:18 29:25 30:3affirm 12:8 
+Alito 16:11 17:5 18:13,16 19:2 19:22 21:10 45:4,9agency 10:10 
+
+35:23 42:18 19:11 20:9,11 22:17,23 23:5 assigned 32:2412:6 
+43:10,13 20:17,23 21:5 23:13,21,23 49:16ago 14:15 
+
+allow 25:6 21:13 44:13 24:1 25:6 assignee 29:12agree 15:18 
+allowed 29:16 48:20 50:18 26:20,24,25 33:5,1928:21 39:8,9 
+allowing 50:7 applicable 3:23 27:2 29:6 31:7 assignees 40:1939:17 40:8 
+allows 22:16 applicant 4:4 31:7,10,15,17 assignment 12:546:24 
+
+49:10 application 4:13 31:17 32:24 21:21 29:11agreed 32:10 
+ambiguity 42:2 18:17 48:2 33:2 35:7,9 32:15,21,23,2341:19 
+ambiguous applied 5:15 36:23,24 37:2 43:23agreement 3:11 
+
+41:23 42:9,10 42:11 37:3,9 38:3 assume 13:43:12 4:2,4,5,6 
+amorphous applies 21:25 39:8,12 40:2 assumes 30:124:7,9,13,16 
+
+33:14 24:6,12 38:2 40:18 41:6,24 assuming 5:255:13,14,19,23 
+analysis 39:10 44:15 48:12 42:9,19,23 6:66:2,8,11,17,18 
+
+52 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+assumption 12:7 45:5 46:12,13,14,17 47:2 17:14 19:11 
+21:22 32:15,25 basis 23:17 47:1,7,21,25 categories 21:11 29:24 32:7 
+33:1 43:23 41:20 45:21 48:7 category 12:21 35:22 42:12 
+
+attempt 48:10 49:15 Bricolage's 19:14 43:21 45:3 
+attempting begs 14:19 46:18 47:3 caused 33:7 clearly 18:18,20 
+
+46:16 behalf 1:16,18 brief 12:19 44:5 certain 6:24 20:11 
+attempts 44:16 2:4,6,9 3:7 50:15 cetera 40:19 Columbia 45:21 
+attention 47:10 26:15 29:23 briefly 49:24 chance 8:7 come 6:8 26:22 
+automatic 10:22 48:18 brings 8:23 22:14 30:16 33:8 
+
+48:3 Behrens 28:17 broad 12:21 change 11:14 35:2 41:7 
+available 7:10 believe 17:12,12 19:14 16:24 45:12 46:5 
+
+7:10 13:11 36:1 39:14 brought 11:4 chapters 22:12 comment 29:4 
+49:19 beneficiary 12:5 buy 23:12 characterized commodity 
+
+avoid 50:21 21:17 24:13 14:11 28:11 46:19 
+Caware 17:11 25:23,25 29:10 Chief 3:3,8 4:25 companion 4:23 
+
+C 2:1 3:1 a.m 1:14 3:2 29:21 32:15 26:12,16 48:14 compatible
+California 10:633:5,19 38:10 51:4 44:21 
+
+B 10:842:17 49:17 choice 9:23 compel 28:10 
+back 10:20 21:4 call 28:9,25benefit 48:3 16:14 48:1 
+
+30:6 41:8 46:5 29:15Bernhardt 14:9 choose 50:16 completely 50:3 
+46:7 47:13 called 29:2114:9 chose 50:11 complex 18:1,9
+
+bad 37:6,18 45:8best 45:6 Cincinnati 1:18 component 9:3 
+Bailey 36:1 capacity 6:22better 24:16 Circuit 12:9,22 concede 12:25 
+Baker 1:16 2:3,8 careful 43:1834:16 36:4 16:18 17:11 49:1 
+
+3:5,6,8 4:17 Carlisle 1:7 3:4 beyond 25:11 18:25 19:14,15 conceded 49:18 
+5:3 6:13 7:7 10:20bit 33:10 20:22 25:9 conceding 7:3 
+8:13,23 9:12 case 3:4 5:5,6,21 blue 12:19 26:9 35:25 concept 33:14 
+9:20 10:4 11:8 6:12,23 7:9,18 bound 4:6 9:5 36:3,5 45:7 concepts 19:1 
+11:15 13:7 10:15 11:19Boy 24:1 46:1,2,2,3 concern 31:3,3
+14:6,18,25 12:3,3 13:16 breach 23:25 circumstances concerned 34:24 
+15:5,8,20 16:2 17:11,22 21:12 Breyer 21:14,20 8:3 38:1,2 39:23 40:3,5,7
+16:7 17:2,8 24:6,8 25:1 21:23,25 22:3 cite 29:21 32:22 concerning 5:12 
+18:12,19,24 28:17 29:21,2422:7,13 23:10 32:25 9:24,24
+19:6,10,20 32:22 33:124:7,11,15,23 claim 4:7 5:5 concerted 22:21 
+20:5,15,21 34:2,9,16 35:5 25:10,15,22 19:21 22:25 22:25 
+21:19,21,24 35:25 36:1,526:23 27:6,9 30:19,25 42:12 concession 49:1 
+22:2,5,10,19 40:16 41:3,727:21 28:1,4 42:15 conclude 51:3 
+24:5,9,14,20 42:11,17 44:10 28:20 33:16,21 claimants 45:4 conducting 43:3 
+25:2,14,17,24 45:8,17 46:11 34:8,18 35:4 claimed 14:23 Cone 31:9 
+26:4 48:16,17 46:13 47:1,235:16 40:15,25 43:8 confine 38:14,21
+48:19 49:1,4,4 50:8 41:3,10,14 claiming 23:4,7 confined 38:18 
+
+balance 26:11 50:24,25 51:5 Breyer's 42:13 30:2,9 conflate 12:12 
+bankrupt 10:21 51:647:13 claims 22:20 conflated 19:1 
+
+48:2 cases 6:9,14Bricolage 10:21 clarify 32:3 20:22 
+bankruptcy 12:7 17:1310:23 11:9 clause 5:8,8 23:5 conflates 24:23 
+
+11:8,17 48:3 23:15 29:1522:24 23:2 23:13,24 32:25 Congress 39:24 
+based 32:19 33:2 36:1042:14 46:7,7,8 clear 4:17 9:17 44:21 50:11,15 
+
+53 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+consent 33:5 controversy Curtis 48:6 depart 37:24 28:15 
+consideration 4:21,24 5:1,1,3 departed 46:13 discretion 44:8 
+
+D34:25 5:5,8 depend 34:10,19 discretionary
+D 3:1considering correct 14:25 dependent 31:10 44:15 
+De 1:18 2:5 40:19 15:5 37:7 16:13,21 30:1 45:18,22
+
+26:13,14,16consistent 39:3 41:13 44:11 31:18 38:10 dispute 39:7 
+27:8,15,25consistently 45:2 depends 7:7 46:25 47:16 
+28:3,8 29:14 27:3 cost 50:21 13:25 14:14 disputes 50:13 
+31:1,13,25conspiracy counsel 26:12 31:19 distinct 19:1 
+32:3,6,16 33:9 22:21 51:4 derive 34:5 distinctly 27:16 
+33:20 34:7,18construed 9:22 counseling 6:24 designed 50:21 distinguish
+35:15,21 37:7 31:21 36:19 course 15:18 despite 30:10 49:11 
+37:16,19 39:3 consults 16:1 20:4 24:19 43:24 district 44:8,23
+39:16,20,22contain 13:2 29:11 detach 46:18 45:16,21 50:22 
+40:10,24 41:2 containing court 1:1,13 3:9 detached 50:4 50:23 
+41:9,13,1614:12 3:10 5:17,17 determinative doctrine 49:9 
+42:5,24 43:12 contains 23:5 5:20,20,22 6:8 34:15 doctrines 49:12 
+43:15 44:11,13contemplates 6:8 7:4 8:25 determine 4:3 doing 5:19 33:22 
+45:2 48:4,8,1520:7 9:7,9,21,22,23 5:21 10:7 door 37:14,20
+
+deal 8:25contend 4:2 10:5,6,6,9 11:25 12:23 drawing 35:6 
+dealing 30:2111:16 11:20,20,25 14:21 17:9 drives 14:7 
+
+47:1,5,7context 4:18 12:8,12 13:11 determined DSMC 31:4 
+decades 10:1437:10 44:22 13:13 14:9,11 17:24 43:5 45:11 
+decide 5:18continuously 15:9,22,22 determines 8:15 due 24:22 
+
+11:21 16:2037:23 17:12 20:3,25 9:18 14:2,22 D.C 1:9,16 45:7 
+24:13,15 25:4 contract 21:17 21:4,5 24:25 17:14 46:1 
+25:21 29:222:17 23:4,11 25:3,3,4,8,20 determining 
+
+E30:23 49:523:14,16,18,23 26:8,17 27:3 14:17 
+decided 5:14 E 2:1 3:1,1 23:25 26:19 28:13,18 31:9 develop 33:15 
+
+26:8 35:23 effect 8:4,1929:6,25 30:1,1 32:7,8,23 developed 33:11 
+49:23 11:9 14:1630:4,5 34:21 34:20 39:4 device 3:21 9:1 
+
+decides 49:1,4 17:1,3 39:8,12 34:22,23 35:1 41:17 44:8,25 9:13 41:4 
+decision 5:15 41:1735:6,14 36:6 45:11,16 46:21 devices 13:11 
+
+9:21 12:9 14:9 effectively 11:138:11 39:19 46:23 49:5,11 15:10,13,15
+16:18 11:6 12:840:9,17,23 49:11 50:22,23 devoted 22:12 
+
+decisions 5:25 efficiency 50:2447:9,10,11 courts 8:9 16:15 difference 11:3 
+17:13 Eighty 21:8contracting 43:6 34:13 35:24 45:23 46:9 
+
+declining 42:6 either 11:5contracts 8:4,4 Court's 5:14 different 37:12 
+defendants 5:6 19:188:6 14:8,8 17:13 39:25 
+defies 50:8,9 elements 4:2contract-based 21:11 difficult 33:17 
+definition 45:14 14:1226:24 33:2 cousin 23:18 directing 9:7 
+denial 19:22 Eleventh 46:2contradict 15:15 covered 42:16 directly 35:8 
+
+20:17 30:22,22 enacted 50:17contrary 3:17 covers 8:19 disaggregate
+denied 19:13 enacting 50:1146:20 cows 35:1 46:16 
+
+20:11 27:12,19 encourage 39:6control 13:10 co-counsel 29:2 disagreement
+28:12,12 48:22 enforce 3:12,21controls 13:7 criterion 31:12 9:10 
+50:19 4:5,8 5:7,13,19 14:21 31:13 discovery 28:10 
+
+54 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+5:23 6:17 7:14 30:15,16 33:11 example 25:23 29:18,19 36:7 36:4 46:3 
+7:20 8:1,3,6 34:24 35:17 25:24 27:4,22 36:11,14,23,25 fraud 23:6
+
+9:2,5,13,19
+ 36:10 43:21 29:11,20 45:6 38:20 39:4,5,6 free 11:16 
+10:8 11:3,10 44:7 45:4,6,10 examples 32:16 50:9,10 friend 37:23 
+12:1 13:8,12 45:13 47:2,22 32:17,21 40:19 felt 44:21 45:19 
+15:10 16:8 49:9,14,22,23 exchange 47:19 Fifth 36:3 46:2 friend's 39:20 
+17:6 19:22 50:2 exist 30:13 figure 23:17 fungible 26:25 
+21:10,16 24:16 equity 33:12 existed 44:14 34:17 41:8 46:19
+
+25:6,13,25
+ 36:12 43:25,25 existence 49:24 file 42:21 further 26:10 
+26:1 29:6,13 47:24 50:4 filed 31:2,6,8 51:2 
+29:16 32:18 equivocal 40:11 existing 37:11 fill 30:15 48:10 future 23:24 
+33:19 34:3 40:14 50:13 48:10 
+
+G36:24 37:4 era 45:7,20 explain 22:15 find 35:2 
+G 3:138:20 40:18 erroneous 12:24 express 32:22 firm 47:8
+
+
+49:2,7,13,20
+ game 13:5 
+gap 48:10
+
+erroneously 33:1 first 4:4 8:24 
+enforceability 12:12 18:25 expressed 36:4 16:7 18:15,25 
+
+general 32:8,85:12 9:24 10:2 error 25:3,4 39:4,11 19:1 23:19 
+39:615:11 16:16 ersatz 33:11 extent 46:3 25:2,18 27:6,7 
+
+generic 37:13 
+generically 37:8 
+
+37:9 36:11 extraordinary 27:9 28:21 
+enforced 22:18 ESQ 1:16,18 2:3 38:21 34:13,20 35:22 
+
+getting 6:338:8 2:5,8 extreme 24:2 flow 30:3 42:13 
+13:15 38:9enforcement essential 20:25 flows 32:19 
+
+F 39:1 
+FAA 3:18 6:16 
+
+3:20 4:23 23:25 focus 43:18,20 
+Ginsburg 4:1110:16 37:12 establishes 5:11 followed 9:9 
+
+engaged 43:7 8:14 10:15 5:24 6:20 8:7 8:14 9:4 11:24 follows 7:17 
+12:3 18:14 10:17 11:12ensuing 17:13 12:21 15:12 footing 39:13 
+
+entered 23:2 21:8 27:4 32:8 17:18 18:15,2119:13 21:9 footnote 30:7 
+32:8 39:12,25 19:3,8,16,25enterprise 7:1 estopped 23:7 31:8 
+
+enters 6:25 40:12 46:22,23 20:13,19 30:18 35:13 force 32:11 
+50:17 41:22 42:5entertained estoppel 11:19 36:24 
+
+fact 6:3,14 25:13 44:3,12,2345:17 12:6,6 17:24 forced 41:18 
+31:1 46:8 45:3 46:6entire 22:11 21:22 22:2,3,4 50:19 
+
+entirely 19:1 facts 7:8 21:12 47:25 48:522:7,11,16 foreclose 11:23 
+49:6 gist 30:5,6,8entitled 3:12 5:7 24:10 25:8 foreclosed 3:13 
+
+fact-based 21:6 give 13:6 24:20 
+fails 12:15 
+
+6:17 7:15 26:7,18,20 11:22 21:2 
+39:7,12 41:17 17:23 26:1 30:2,7 33:11 25:19 
+
+fair 29:4 44:8 45:6 
+fall 4:7 
+
+48:24 49:20 34:24 35:17 forecloses 3:17 
+given 8:5 21:12 entitlement 36:10 43:22 3:19 
+
+far 27:17 go 18:6 23:18,21 
+favorable 38:24 
+
+16:25 44:7 45:4,6,10 form 33:12 39:7 
+23:22 25:11entitles 45:10 45:13 47:2,22 formed 34:22 
+
+equal 39:13 Federal 3:14 34:12 44:1049:9,15,22,23 fortiori 33:6 
+7:25 8:9,20 9:9 goats 41:15equipped 7:5 50:3 forum 7:18 
+
+equitable 11:19 10:14 13:1,11 going 10:20et 1:3,7 40:19 found 12:18 
+13:13 14:1,2,4 24:22 34:2212:6 17:24 everybody 35:9 four 35:7 40:1
+
+
+22:10,16 24:9
+ 14:23 15:1,4 35:2,10,13 
+15:14,18,22 
+
+35:10 48:16 
+37:1 38:1825:7 26:7,19 exactly 24:24 Fourth 16:18 
+
+16:1,6,19,23 41:18 44:7,2429:3 30:2,7,8 25:24 45:9,22 17:11 35:25 
+
+55 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+44:25 18:12,19,24 instance 28:18 issued 6:10 31:11,20 32:1 
+good 8:9 18:7 19:7 20:6 21:5 instances 21:14 issues 13:17 32:5,14,17 
+
+19:8 29:3 37:6 21:19 22:5,19 instructed 5:20 33:3,16,21
+J37:17,19 38:23 24:5,14,20 instrumentality 34:8,18 35:4 
+
+joining 11:438:25 25:8,14,17 23:5 35:16,23 36:13 
+judge 15:24,25gotten 8:12 28:4 28:16 31:1,13 intended 42:15 37:14,17 38:5 
+
+16:5,7,9 40:20 grant 44:25 48:12,19 42:16 39:16,21,22
+41:5 44:24granted 30:20 hope 35:9 intent 39:12 40:7,15,25
+
+judges 41:1945:18,18 Horse 28:9 31:5 40:22 41:3,10,14,22
+judging 43:18ground 27:2 human 47:17 intention 32:19 42:5,6,13,18
+judicial 50:2335:21 37:22 interest 12:7 43:10,13 44:3 
+
+I jurisdiction 7:345:19,20 19:17 21:22 44:12,23 45:2 
+idea 38:23,25 8:24 12:11,13grounded 29:19 38:25 46:6 47:13,25
+identifying 12:15,16,24grounding interested 20:2 48:5,14 50:6 
+
+31:12 17:1,3,2144:17 interlocutory 51:4 
+illusory 50:18 18:14,14,16,16guess 24:2 41:11 8:21 44:19 J.P 29:21 
+imagine 35:5 19:7,12 20:9 46:4 
+
+H Kimmediately 20:12,18,23interpret 17:19 
+H 31:9 12:22 21:5 25:12 keep 13:16 31:6 34:23 35:1 
+hang 40:13 important 48:25 48:20,23 50:18 38:12interpretation
+hanging 40:3 imports 47:19 jurisdictional Kennedy 24:1910:13 12:14 
+haphazardly including 5:13 6:1 18:1,10 24:21 32:14,1736:6 
+
+39:25 8:18 10:2 12:6 19:4 20:14,15 33:3interpretations
+happen 49:13,14 incompatible 24:24 key 40:20,2132:7 
+happened 43:5 44:2 jurisdictions kind 29:24 31:9 interpreted
+hard 35:5 incompetent 21:13 kinds 23:1342:25 
+hat 40:13 29:22 Justice 3:3,8 know 4:14 22:7 interpreting
+hate 35:16 inconsistent 4:11,25 5:24 22:13 23:1950:9 
+hear 3:3 14:8 6:20 7:16 8:7 24:8 33:21intervene 43:4 
+heard 28:6 29:1 incorporating 8:18 9:8,16 34:1 35:1943:10,13
+
+29:17 14:16 10:2,17 11:12 38:23 41:23intervened 43:6 
+held 10:9 incorporation 13:3,14 14:14 42:2intuitively 24:4 
+help 40:12 14:20 14:15,19 15:3 knowing 34:13invitation 42:6 
+henceforth incorrect 17:12 15:6,14,23invoke 26:18,19 L47:16 independent 16:4,11 17:5 26:20,21 
+
+labels 44:16hey 35:9,12 15:4 17:18 18:15,21invoked 49:14 
+lack 30:10 43:24 37:11 indicates 44:20 19:3,8,16,25invoking 49:15 
+lad 50:12history 50:10 indistinguisha... 20:13,19 21:14 involved 14:24 
+language 43:19hoc 33:14 36:11 10:10 21:20,23,2547:17 
+
+43:20 44:2hold 25:5 individual 33:24 22:3,7,13involving 18:22 
+45:24,25 48:11 home 29:23 35:2 injunction 28:11 23:10 24:7,11issue 3:25 4:3 
+
+Laughter 19:9honest 39:23 28:12 24:15,19,21,227:23 12:13 
+22:9 24:18Honor 4:17 5:4 injunctive 28:15 25:10,15,2213:23,24 16:14 
+
+law 3:13,13,226:14 7:7 8:13 inoperative 26:2,5,12,1627:7,7,9 31:5 
+5:14,20 6:16 8:23 9:12,20 46:15 26:23 27:6,934:21 36:5,18 
+7:8,13,13 8:15 11:8 13:7 14:6 insight 41:11 27:21 28:1,440:13 42:8 
+8:22 9:7,11,1315:5 17:4,11 insisting 45:19 28:20 30:1844:9,25 46:10 
+
+56 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+9:18,23,25 19:19 20:2,7,8 45:2 48:4,8,15 Morgan 29:21 21:1 
+10:15 11:10,21 41:25 42:4,21 mark 44:17,18 Moses 31:8 notion 47:19 
+11:25 12:3 42:22 43:2,9 matter 1:12 3:13 motion 19:12 nub 38:20
+
+13:4,6,7,12,18
+ 43:11 47:15 11:21 21:2 28:15 31:2,5 numerous 6:14 
+14:16,21,22 50:22 25:5,19 26:1 41:21 42:21 nursing 29:23 
+15:3,15,17,18 little 35:4 36:25 51:7 43:18 44:16 
+
+O16:1,1,6,6,10 LLP 1:3 mean 6:5,23 48:21,22 
+O 2:1 3:1 16:14,17,19,23 logic 15:7,8 17:5,20 21:25 move 17:22 18:5
+
+
+17:9,14,25
+ objecting 33:7 
+obligated 23:8
+
+longer 11:13 24:2 31:16 47:25 48:1 
+18:22 21:2,8,8 look 9:7,25 38:24 39:25 moved 28:10 
+
+obligation 30:922:8 25:5,19 11:25 16:5,9 40:8 42:7,20 moves 20:2 
+31:17 46:13,1626:3,4 27:22 17:9 21:11 means 6:21 17:8 
+
+N 46:18,20 
+N 2:1,1 3:1 
+
+29:18,18,19 29:2 34:4,10 18:3 31:18 
+obligations 8:1533:13 34:4,10 35:8 38:13 39:19
+
+
+34:11,14,16,19
+ narrow 36:6 13:9 17:15 
+narrowly 36:19
+
+looking 41:14 40:8 41:24 
+26:24 47:2035:18 36:7,8 looks 16:7 42:19
+
+
+36:11,14,16
+ necessarily obtain 6:18lose 50:20 mechanism 16:3 
+12:15 16:11 occasions 9:137:13,24 45:1 loss 50:23 37:13 49:3 
+17:6 31:7 15:10 
+
+need 25:21 
+47:7 48:11,11 lot 23:20 28:5 mentioned 36:1 
+
+oh 24:7 47:10 50:8,11,16 29:18 mere 15:13 
+lawsuit 23:15,24 30:15 Ohio 1:18 
+
+needs 19:11 
+lower 5:20 20:16 
+
+okay 14:1937:11,12 meritorious 
+M never 14:11 27:7 21:23 24:7 
+
+M 1:16,18 2:3,5 
+leave 4:11 28:6 30:24 
+
+28:6 35:2,17 31:11 34:4leaves 38:7,17 merits 6:6 8:25 
+legal 38:11 2:8 3:6 26:14 nevertheless 35:11 36:1312:12,17 17:25 
+
+48:17 12:17 37:14 38:549:12 18:7,22,25 
+legally 12:24 making 18:1 New 50:11,12,16 once 37:20 
+
+management 
+19:5 24:23 
+
+non 5:22 20:23 43:10,13 46:13 let's 13:4 32:18 25:7,13,17,18
+41:4 nonarbitrable ongoing 11:4 
+
+mandates 26:23 
+41:5 43:2 44:6 27:17 29:1 
+
+43:8 open 13:20 38:7 46:7 47:14 30:20 49:21 
+likewise 4:19,23 mandatory 3:25 nonparties 3:11 38:17midstream 7:22 
+
+38:1 45:20 3:17 5:18,22 opened 37:209:14 8:10 
+limitation 3:22 March 1:10 6:16 7:9 8:15 opens 37:14 
+
+Marco 1:18 2:5 
+mid-track 37:1 
+
+8:16 10:15 opposed 5:4limited 7:24 MILLER 1:16 
+26:13,14,16 12:4 17:15 options 34:20 
+27:8,15,25 
+
+42:24 43:16 2:3,8 3:6 48:17 
+25:6,19 29:16 oral 1:12 2:2 3:6 limits 4:8 mind 31:6 
+
+listed 40:18 28:3,8 29:14 49:2,12,20 26:14 
+31:1,13,25 
+
+minutes 48:16 
+nonparty 3:19 order 7:22 12:20 43:23 misconduct 
+
+listen 7:4 32:3,6,16 33:9 6:2 11:22 27:13,13 44:9 22:21,25
+33:20 34:7,18 16:17 17:10 orders 12:21litigant 6:12 misses 44:17,18
+35:15,21 37:7 29:24 49:6 19:14 21:12 
+37:16,19 39:3 
+
+19:21 20:1,10 missing 15:6 
+50:19 original 32:20litigate 7:22 mistake 24:24
+
+
+50:20,24,24
+ 39:16,20,22 nonsignatories ought 44:19 
+40:10,24 41:2 
+
+Mitsubishi 
+7:19 10:7 outcome 16:24litigation 4:15 39:11 46:24
+
+
+6:3,7 10:22
+ 41:9,13,16 nonsignatory outlet 44:18 
+42:5,24 43:12 
+
+model 50:16 
+32:13 outlier 43:22,2311:4 17:20,22 moment 14:15
+
+
+18:4,5 19:17
+ 43:15 44:11,13 non-signatories 47:315:24 
+
+57 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+outlined 15:11 party's 33:4 please 3:9 26:17 principles 30:8 14:20,22 15:1 
+50:15 party-like 40:2 plus 38:11 30:15,16 34:5 15:4,21 16:3,5 
+
+outside 27:16,17 pass 19:5 point 8:19 13:19 probably 36:15 16:8,9,12,16 
+28:15 43:2 passed 8:5 15:18,25 18:10 problem 13:14 16:17,19,23 
+
+overlooked pathway 44:13 28:21,23 37:24 13:15 24:24 17:1,3,3,17,25 
+47:23 44:19 39:10 43:17 48:9 18:13,22,23 
+
+owed 46:20 PAUL 1:18 2:5 46:23 47:13 problems 33:10 20:9,22 25:7 
+26:14 pointed 14:15 procedural 3:21 25:11,12,21
+
+P pay 47:10 policy 7:25 8:2,3 9:1,13 13:11 26:6,8,22
+P 3:1 peculiar 10:18 8:6,14 9:2 13:24,25 14:3 27:17,17 30:6 
+page 2:2 12:18 pending 6:9 35:19 36:23,25 14:22,23 15:13 30:20,21,24
+
+27:4 19:13 31:6,7 38:20 39:4,5,6 15:15 16:2,3 33:17 34:12,18
+Pardon 43:12 31:10 39:6 procedure 8:20 35:3,22,23 
+part 23:14,25 people 7:5 23:14 position 31:21 9:9 36:20 38:7,17
+particular 42:7 23:20,20 29:12 34:16 proceedings 39:17 40:20,21
+particularly 34:2 35:7 possibility 44:4 8:10 44:6 46:5 
+
+44:20 38:22 possible 8:3 34:2 process 13:20 47:21 48:20,23
+parties 4:14,15 perfectly 7:5 34:9 36:21 procure 32:18 49:5,23
+
+4:15,18,20,20 28:14 33:13 Post 47:15 proffered 41:20 questioned 21:1 
+4:21,24 6:24 perpetrated post-DSMC promote 8:2 questions 5:12 
+7:15 11:2,3,7 23:6 45:7,20 proper 33:16 9:24 10:1 
+17:19,20 18:3 Perry 5:15,17 practical 8:20 42:3 26:10 51:2 
+18:4,5 20:7 9:21 10:5 practice 5:24 propose 45:3 quite 18:10 
+27:5 32:9,20 17:13 6:23 22:11,14 proposed 36:15 22:15 28:24 
+33:4 35:8 39:8 person 8:11 precise 10:5 provide 49:19 quote 4:1 30:7 
+39:18,18,19,24 17:21 20:3 precisely 22:10 provision 4:23 
+
+R40:8,9,9,16,16 33:25 36:21,22 preclude 45:5 5:11 38:2 
+40:17,17 41:24 R 3:140:3 predicate 45:12 published 47:14 
+41:24,25 42:3 reach 20:25persons 40:23 45:15 pull 28:19 
+42:3,7,14,15 28:25 48:23Petitioners 1:5 preface 29:16 purpose 43:16 
+42:18,19,24,25 read 14:101:17 2:4,9 3:7 premise 14:6 purposes 11:19 
+43:6 46:24 17:18 22:145:6 10:11 18:4 47:21 14:17 17:20 
+
+parts 25:18 27:10 29:322:22 30:3,10 presented 21:1 pursuant 43:3 
+party 6:2,7,7,11 42:635:2 39:15 presenting 18:9 put 24:1 35:6 
+
+9:18 10:19,24 reading 9:2042:12 45:10 presupposes 39:13 47:9 
+11:5,12 12:5 14:16 39:18,2046:15 48:18,21 49:24 p.m 51:6 
+17:21 19:18,20 really 10:1849:6,8 50:1 pretty 33:17 
+
+Q20:3,6 21:6 27:24 34:6phrase 38:15 prevail 11:18 
+27:23 28:10 quarrel 49:8 38:19picked 27:1 13:6 15:19 
+29:6,10,20 question 3:10 reason 8:9 18:7 picture 10:25 prevent 30:8 
+32:15 33:5,6 4:9 5:18,21 6:1 29:14 32:1,611:13 46:8,9 primary 5:10 
+33:19 37:11 6:5,6,20 7:3,12 38:14pierce 28:14 principal 3:10 
+38:10 40:1,1,2 7:21 8:21,24 REBUTTALpivotal 36:5 principle 5:16 
+42:20,22,23 9:5,6,8,11 10:5 2:7 48:17place 23:19 6:16 10:11 
+43:2,2,11 11:17,20,25 reciprocal 46:18plaintiff 4:6 11:24 13:13 
+44:15 45:8 12:11 13:8,10 recognize 13:4play 33:8 15:10,12 17:16 
+49:17 13:18 14:4,5,7 28:17 44:3players 7:2 33:12 49:19 
+
+58 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+recognized 5:15 27:4 32:9 14:21,22 17:10 12:10,13,14,18 separated 50:3 
+6:15 9:1 31:9 required 9:23 17:14 30:3 14:7,7,10,10 separating 
+
+recognizing 50:14 50:19 14:11,11,12,16 41:15 
+10:15 12:4 requirement ROBERTS 3:3 15:9,9,11,12 seriously 41:20 
+
+referable 4:1,3 13:2 50:13 4:25 26:12 17:18 18:3 42:1 
+4:12 31:15,16 requirements 48:14 51:4 19:10,12,21,24 sets 8:13 32:10 
+38:3 42:8,8 26:7 49:22 room 35:6,8 20:7,10,12,16 settled 6:15 
+46:11 requires 32:9 rule 21:11 45:3 20:24 21:3 17:16 44:6,9 
+
+reference 4:20 43:25 rules 37:22 25:5,20 26:1 50:10 
+41:24 42:3 reserve 26:11 run 46:19 26:23 27:11,16 settles 9:4,6 
+
+referred 31:2 resolution 16:14 runaway 46:1 27:17,19,20 sheep 41:15 
+referring 4:18 39:7 28:19 30:12,23 shelter 6:24 
+
+S18:13 respect 24:22 31:8,12 32:4 shipper 23:16 
+S 2:1 3:1 refers 4:21,23 50:8 33:12,22 37:10 short 8:5 
+safest 35:21refusing 12:20 Respondents 37:25,25 39:17 show 47:11 
+satisfied 26:627:13,13 1:19 2:6 3:16 40:10 41:19,23 shrift 8:5 
+satisfy 49:22regardless 15:3 10:13 11:15 42:19,21 43:19 sign 23:11,11
+saying 7:23 8:19 reject 12:14 12:2,11,25 44:2,16,18,20 40:23 
+
+12:2 20:19rejected 12:17 22:20 23:1 45:12,15,24,25 signatories 7:25 
+23:22 24:6related 35:8 26:15 30:9 47:18 48:1,12 20:24 22:23 
+25:15 27:2440:25 46:14,17 48:25 48:12,21,23,24 signatory 12:23 
+28:6,16 29:17 relevant 34:14 49:1,18 49:2,3,7,10,13 13:2 21:7,9,15
+30:5 32:2 34:9 35:17,19,20 rest 40:11 49:14,15,19 22:17,24 31:22 
+40:16 45:14relief 3:14,17 resting 40:6 50:7,16 32:12 50:7 
+47:10 48:611:22,23 13:10 retention 47:8 sections 13:9 signature 50:14 
+
+says 4:12,1320:16,24 21:2 returns 37:23 15:1,1,13 signed 29:9,23
+9:17 15:2521:7 23:3 reviewable 20:4 33:23 40:5 33:1,25 34:2 
+16:5,19 18:3 25:20 30:19 right 6:1 7:24 see 7:16 16:25 36:22 37:3 
+20:3 27:11,1248:21,24 49:19 13:19,23,24,25 23:19 33:16 38:9,14,15,19
+30:13,13 34:11 50:7 14:3,23 19:6 35:4 36:9 47:11 
+37:11 43:24,25rely 25:22 19:10,21,23 46:15 silly 27:23 
+
+Scalia 9:16 10:2 relying 11:5 21:16 27:10,25 seek 6:18 20:24 simple 18:3 
+14:15 26:2,523:1 28:8,13 29:14 49:13 38:13 
+
+scope 4:7remaining 48:16 29:25 31:14,14 seeking 3:14 simpler 36:14 
+second 4:5 20:25 remand 10:9 31:22,23 32:17 11:22 20:8 simplistic 36:17 
+
+25:4 28:2311:17 25:9 32:18 33:20 21:2,7 23:3,7 37:5,15 38:12 
+section 3:14,1626:8 49:23 34:7,17 35:13 25:19 43:16 simply 8:2 22:15 
+
+3:18,19,21,23remanded 5:17 35:15 38:8 45:5 36:17 38:13 
+3:24,25 4:8,10 10:6 49:5 40:24 41:2,9 seen 33:14 sir 27:8 
+4:19,21,22,22remedy 38:22 41:11 44:12 sell 23:12 sitting 35:5 
+5:4,4,10,11 6:4 repeatedly 39:5 48:4,6 50:17 send 41:5 situation 10:18 
+6:10,19,22request 6:10 rights 3:20,23 sense 28:19 36:7 six 10:14 
+7:10,15,1720:10,11,16,17 7:9,12,13 8:15 46:10 Sixth 12:9,22
+8:13,14,25 9:2 31:23 8:16 9:14 sensible 14:4 18:25 19:14,15
+9:4,7,12,14,14requested 27:16 10:16 11:9,18 24:4 36:25 20:22 25:9 
+9:16,17,22,2327:19 12:4 13:9,12 sent 23:16 26:9 
+11:22,23,24require 15:2 13:17,21 14:17 separate 7:23 Smith 23:11,19 
+
+59 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+somebody 8:10 States 1:1,13 51:7 13:25 31:15 21:17 24:13 
+9:18 15:24 statute 14:1,2 substantive 3:22 37:24 42:14 25:23,25 42:17 
+19:17,25 20:1 27:10 29:8,9 5:10 9:2,3 test 12:23,24 Thomas 5:15 
+21:15 38:9,10 31:15,21 32:3 13:17,19,21,23 21:6 50:7 9:21 
+
+sophisticated stay 3:25 4:22 14:12,17,21 text 3:18,19,24 thought 27:6 
+7:2 6:3,8 7:10,15 15:12 4:12 19:15 thrashed 7:19 
+
+sort 28:8 36:11 7:17,22,24 substituted 48:7 42:2 49:10 three 4:2 6:24 
+sorts 42:6 8:10 10:22 succeeded 6:3 Thank 26:12 39:25 
+sought 4:22 12:20 13:6 successor 12:7 48:14,19 51:4 threshold 15:22 
+sound 24:4 14:3 15:17,25 21:21 32:25 theories 12:5 17:16 19:5 
+sounds 24:2 16:5,25 17:23 sue 23:13,24 43:21,22 49:12 thrown 20:20 
+source 17:9 18:6,17 19:12 suffer 50:23 theory 10:10,11 tied 33:12,13 
+SOUTER 7:16 19:21,23 20:2 suggest 42:8 10:13 12:2,16 tightly 29:19 
+
+8:18 9:8 13:3 20:8,10,11 43:1 17:24 22:5,16 time 26:11 50:21 
+13:14 14:14,19 27:11,13,14,15 suggestion 22:19 23:3 title 12:20 
+15:3,6,14,23 27:18 30:22,22 36:18 38:12 24:8,9,11,25 today 3:11 10:12 
+16:4 31:11,20 30:25 31:5,6,7 suit 4:1 29:3 30:7,12 told 23:18 41:22 
+32:1,5 36:13 31:9,10,12,14 suppose 16:22 30:13 33:8 Toledano 45:8 
+37:14,17 38:5 31:23,23 32:19 16:22 19:17 37:15,17,18,19 tort 5:5 
+
+Souter's 50:6 33:25 36:20 21:16 38:11 45:9 touchstone 9:22 
+speaks 31:15 37:12,21,22 supposed 5:9 50:2 treat 44:24 
+specific 41:1 38:1,9,22 15:24 28:25 thereof 24:1 treatises 22:11 
+spectator 20:2,6 41:20 42:21 30:21 thing 6:21 9:15 22:15 24:3 
+stage 13:5 43:16,18 44:16 Supreme 1:1,13 17:21 29:4 
+standard 32:11 44:22,25 45:5 sure 18:12 things 11:14 trial 13:22 37:1 
+start 19:6 45:11,13,17,18 surprised 28:24 24:17,21 40:1 triggers 20:17 
+starting 39:9 45:20,22 48:1 survive 12:8 50:20 Trojan 28:9 
+
+46:23 48:3 think 16:18 17:2 31:5 
+TState 3:13,22 staying 18:7 21:16 24:12 trouble 38:22 
+
+T 2:1,15:14,17,20 stays 6:10,18 27:22 28:5 39:1 
+take 29:20 41:19 7:13,13 8:14 13:5 26:23 29:10,11,23 true 33:22 35:19 
+
+42:1,1 43:16 8:22 9:7,11,13 44:15 46:1 30:24 31:3 45:23,24
+48:59:18,25 11:10 step 18:21 35:21,23,25 truly 44:17 
+
+taken 12:1911:25 13:4,6,7 Stevens 39:16 36:2,4,9 37:7 trying 11:2 37:4 
+27:12 28:2413:12,12,18 39:21,22 40:7 39:18,24 40:15 Tuesday 1:10 
+
+talk 33:2314:5,16,21 Stevens's 42:6 41:4,13,16 turn 4:9 12:10 
+talking 18:2015:3,15,17 stick 16:4 42:10,11 43:15 21:4 47:3 50:6 
+
+36:10 37:8,1016:1,6,10,17 stop 37:1 43:7 43:17,21 44:1 turned 18:24 
+46:2517:14,25 18:22 stopped 37:3 44:15 47:1,9 two 7:1,4 11:1,6 
+
+tax 6:2426:2,4 29:18 stretch 9:11 48:11 49:21 19:1 25:18 
+tease 33:933:13 34:4,10 strikes 9:11 thinking 34:10 29:7 
+tell 19:4 37:6 34:11,14,19 stringent 50:13 third 4:6 12:5 
+
+U39:2 40:2135:18 36:7,10 structure 3:18 29:6,10,15,20
+45:1,1 ultimate 7:1837:24 45:17 3:20 32:15 33:5,19
+
+tells 37:25 38:16 13:19 16:2448:10,11 subject 5:2 38:10 40:17 
+temptation 41:4 unanimity 35:24stated 30:19 45:14 49:16 
+terms 8:21 36:2statement 16:13 submitted 51:5 third-party 
+
+60 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+unanimous wanted 24:8 7:15,17 8:25 Y 
+16:15 Washington 1:9 9:7,12 11:23 years 6:15 12:3 
+
+uncertain 35:18 1:16 47:15 11:23 12:13,1412:25 13:1 
+understand way 11:18 33:3 12:18 13:921:8 47:6 50:8 
+
+16:12 18:2,11 33:6 39:11 14:7,10,11York 50:11,12
+18:13 22:4 40:4 41:16 15:2,9,1350:16 
+28:21 36:16 42:7 45:22 17:19 18:3 
+
+040:12 46:22 19:12,21 20:7 
+understands WAYNE 1:7 20:10,16,2408-146 1:6 3:4 
+
+35:10 ways 41:14 21:3 25:5,20
+1understood 13:1 wedge 14:7 26:1,23 27:16 
+
+11:19 1:14 3:2 undertook went 38:22 27:18,19 28:19 
+12 44:646:17 we'll 3:3 34:15 30:13 31:8,12 
+12:19 51:6under-written 34:15,16 31:24 32:4 
+1292 46:443:19 we're 12:2 18:20 33:12,22 37:10 
+1292(a) 28:13unfortunately 24:5 28:16,18 37:25,25 39:17 
+1292(b) 44:9,1422:14 36:2 37:1 46:25 40:5,10 41:19 
+
+44:20,24 50:17 unilaterally 47:1,1,5,7 41:23 42:19,21 
+13 30:847:14 we've 29:17 43:19 44:2,16 
+16 12:10,18uniquely 43:24 33:14 44:18 45:12,15 
+
+19:10,24 20:12 United 1:1,13 whatsoever 11:9 45:24 47:18 
+27:11 30:23Universal 31:4 wheat 23:12,12 48:1,12,12,22 
+48:23use 26:1 32:21 wipe 10:14 12:3 48:24 49:2,4,7 
+
+16(a)(1)(A)42:13 woman 29:22 49:10,13,14,15 
+45:25wondering 6:22 49:19 50:7 
+
+V 16(b) 44:20word 17:19 
+4v 1:6 3:4 5:15 1925 50:1739:18,24
+
+9:21 4 4:19,23 5:4 1987 9:21words 23:10 
+valid 34:22 9:14 13:1035:17,18 
+
+2various 5:5 9:1 14:12 15:2,9work 34:13 
+2 3:23 4:10 5:10 49:12 15:13 40:5worked 45:22 
+
+5:11 8:13,14vary 13:12 478 27:4works 46:22 
+9:2,4,17,17,22veil 28:19 48 2:9worry 35:11 
+9:23 11:24version 26:19 41:7 514:7,10,1636:11 wouldn't 25:10 
+
+5 40:515:11,12view 20:12 write 35:16,18 
+2009 1:1022:25 36:4 writing 46:12 623 31:8violates 21:11 written 31:19,22 60 6:15 12:3 25 47:6void 30:16 38:3,6,8 42:9 
+26 2:6Volt 27:3 34:20 43:24 45:14 7 
+
+47:8 49:25 70 12:253W 50:1,4 3 1:10 2:4 3:14 want 15:25 16:5 wrong 18:2 34:9 83:16,18,19,2126:22 29:5 41:11 80 12:25 50:8 3:24,25 4:8,21 37:11 38:20,21 
+4:22 5:4 6:4,10 39:1 43:7 44:9 X 9
+6:19,22 7:10 45:3 46:5 x 1:2,8 23:23 9 40:5 
+
+61 
+Alderson Reporting Company 
+
+

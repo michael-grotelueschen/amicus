@@ -1,0 +1,4250 @@
+
+ 
+      
+
+          
+                       
+
+                   
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11  
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21  
+22  
+23  
+24  
+25
+
+Official 
+
+Page 1
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+KATHLEEN SEBELIUS, SECRETARY OF : 
+HEALTH AND HUMAN SERVICES, : 
+
+Petitioner : No. 12-236 
+v. : 
+
+MELISSA CLOER : 
+- - - - - - - - - - - - - - - - - x 
+
+Washington, D.C. 
+Tuesday, March 19, 2013 
+
+The above-entitled matter came on for oral 
+argument before the Supreme Court of the United States 
+at 10:14 a.m. 
+APPEARANCES: 
+BENJAMIN J. HORWICH, ESQ., Assistant to the Solicitor 
+
+General, Department of Justice, Washington, D.C.; on 
+behalf of Petitioner. 
+
+ROBERT T. FISHMAN, ESQ., Denver, Colorado; on behalf of 
+Respondent. 
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                    
+
+                    
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11  
+12  
+13  
+14  
+15  
+16  
+17  
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25
+
+Official 
+
+Page 2
+ C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+BENJAMIN J. HORWICH, ESQ. 
+
+On behalf of the Petitioner 3 
+ORAL ARGUMENT OF 
+ROBERT T. FISHMAN, ESQ. 
+
+On behalf of the Respondent 26 
+REBUTTAL ARGUMENT OF 
+BENJAMIN J. HORWICH, ESQ. 
+
+On behalf of the Petitioner 48 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 3
+ P R O C E E D I N G S 
+
+(10:14 a.m.) 
+CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+first this morning in Case 12-236, Sebelius v. Cloer. 
+Mr. Horwich. 
+
+ORAL ARGUMENT OF BENJAMIN J. HORWICH 
+ON BEHALF OF THE PETITIONER 
+
+MR. HORWICH: Mr. Chief Justice, and may it 
+please the Court: 
+
+The Vaccine Act does not provide for an 
+award of attorneys' fees on a petition that is denied as 
+untimely. That's the best reading of the Act's text, it 
+fits best with the structure and purposes of the Act, 
+and it's the result that's consistent with the canons of 
+construction that would apply to an award of attorneys' 
+fees out of the Federal Treasury. 
+
+Now, the -- the textual question here in 
+some sense begins with the statute of limitations, which 
+is in Section 16 of the Act, and which provides that no 
+petition may be filed outside the applicable time 
+period. 
+
+Now, that provision, like most limitations 
+provisions, doesn't itself actually say what the 
+consequences of the failure to comply with the provision 
+are. And in some sense, just as in the -- the civil 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 4 
+context, it's not as if the Special Master, upon finding 
+the limitations provision hasn't been complied with, can 
+go back in time and prevent the petition from being 
+filed, just as a civil court can't prevent an action 
+from being commenced, or a suit from being brought, or 
+whatever the limitations provision proscribes. 
+
+So the question really is going forward, 
+what -- what consequences should there be once the 
+adjudicator decides -- once he or the Special Master 
+decides -- that the limitations period has not been 
+complied with. And textually speaking, it's the 
+correspondence between the limitations provision, which 
+says that no petition may be filed, and the attorneys' 
+fee provision, which depends on the existence of a 
+petition filed, that signals that Congress intended the 
+consequences of untimeliness to be visited through the 
+application of the attorneys' fees provision --
+
+JUSTICE SOTOMAYOR: Mr. Horwich --
+JUSTICE GINSBURG: There are other -- there 
+
+are other provisions that refer to a petition filed. 
+For example, reporting annually to Congress, publishing 
+a notice in the Federal Register, those both refer to 
+any petition filed. And so in those sections at least, 
+petition filed would include petition filed after the 
+running of the statute of limitations. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 5
+ MR. HORWICH: Well, those provisions 
+
+would -- those provisions by their terms apply at points 
+in the proceedings where we would entirely 
+conventionally accept the -- the claimant's 
+representation that the petition has been filed in 
+accordance with the time limitation. That's generally 
+true, certainly in the civil context, that we accept the 
+plaintiff's allegation. 
+
+JUSTICE GINSBURG: But don't you -- don't 
+you put in the Federal Register and report to Congress 
+petitions that had been filed out of time? 
+
+MR. HORWICH: Well, with respect to -- with 
+respect to reporting to -- to Congress, that's actually 
+an obligation from the Court of Federal Claims, so I 
+can't necessarily speak on their behalf of what they --
+what they've produced. From what I've seen, it's a 
+statistical report. 
+
+JUSTICE GINSBURG: Well, think about the 
+Federal Register. 
+
+MR. HORWICH: The Federal -- with respect to 
+the Federal Register provision, I should first say that 
+it has very recently come to my office's attention that 
+the Department of Health and Human Services has not been 
+complying with that provision for the last few years, 
+and they are taking steps to bring themselves in --
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 6
+ JUSTICE GINSBURG: So they don't file 
+
+anything in the Federal Register? 
+MR. HORWICH: Well, it -- they -- they have 
+
+historically, and let me -- up till about 2009 -- and 
+again, to be clear, they're taking steps to rectify that 
+situation. But with respect to the period up to 2009, 
+what they would do -- and this is understandable given 
+the -- the provision that says it's supposed to be 
+published within -- and I believe it's 30 days, that 
+they -- the petitions that are received or that were 
+received at the Department get logged into a computer 
+database, and then a report gets printed out, and they 
+would cross-check them for accuracy against the petition 
+title and forward them to the Office of the Federal 
+Register. 
+
+It's not -- it doesn't -- it wouldn't make 
+sense in a provision that's supposed to be applied 
+essentially upon the filing of the petition, to go into 
+an examination of the timeliness of that -- of that 
+petition. 
+
+And so we think that provision, just as you 
+would -- just as you would describe in a civil context, 
+you would certainly say that an action that ultimately 
+proves to be held untimely was nonetheless commenced 
+if -- for example, if you imagine a statute of 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 7 
+limitations that says no action may be commenced, you 
+wouldn't say the action hadn't been commenced at the 
+time it was pending. And -- and that's not the argument 
+we're relying on here. 
+
+What -- rather, what we're relying on is the 
+fact that when you get to the end of the case, which is 
+where the attorneys' fee provision is evidently supposed 
+to apply because --
+
+JUSTICE KAGAN: Mr. Horwich, could you say a 
+little bit more about the reporting to Congress 
+provision because that presumably does not happen at the 
+very beginning, but happens more at the end or in the 
+middle. So do -- does the Department subtract the 
+number of untimely petitions from the number that it 
+reports? 
+
+MR. HORWICH: I believe the -- the reporting 
+provision is a -- there's a report that the Special 
+Master is to make to the Court of Federal Claims, and 
+there's a report that the Court of Federal Claims is to 
+deliver and -- and those, from what I have seen --
+again, the Executive Branch doesn't prepare those 
+because it's the Special Masters and the court that do, 
+but the reports that I have seen, my understanding is 
+that the report of the Special Master is delivered 
+orally to the judges, and so I don't actually know what 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 8 
+the contents of that are. And the report that -- and 
+the report that the Court of Federal Claims sends to 
+Congress is a statistical report of all -- actually, of 
+all actions filed in the Court of Federal Claims, that it 
+sends a kind of an omnibus report in satisfaction of --
+
+JUSTICE KAGAN: All actions filed, using 
+"filed" in the normal sense. 
+
+MR. HORWICH: No, no. I actually mean all 
+actions filed meaning Vaccine Act actions and otherwise. 
+So it -- it actually doesn't even differentiate the 
+Vaccine Act --
+
+JUSTICE KENNEDY: But is -- is the upshot of 
+your argument then that filing means different things 
+under different provisions of the Act? 
+
+MR. HORWICH: Well, I think it means --
+JUSTICE KENNEDY: And if that's so, it tends 
+
+to weaken the force of your reliance on -- on filing in 
+the statute -- on the word "filing" in the statute of 
+limitations section. 
+
+MR. HORWICH: Well, I don't think it 
+means -- I don't think it means different things in the 
+Act so much as it means it -- it is to be applied with 
+the understand -- it is to be applied as the -- as a 
+fair stand at the time the provision is applied. 
+
+JUSTICE KENNEDY: Well, I meant -- I meant 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 9 
+that just to supplement Justice Kagan's question. I 
+didn't mean to cut it off. 
+
+MR. HORWICH: Well, let me -- let me focus 
+for a moment then on the attorneys' fee provision, 
+though, in terms of why -- why that is particularly good 
+reason to think that petitions -- a petition filed is to 
+be considered, in terms of what ought to have been done. 
+And that's because the -- the attorneys' fee provision 
+speaks as of -- it speaks of awards of fees at the time 
+of judgment. And so that time, we know that any 
+limitations issue should have been resolved by that 
+point in the case. 
+
+And therefore, it is -- it is an entirely 
+natural -- it's entirely natural to expect that the 
+limitations provision might therefore have some 
+consequences at that stage. 
+
+In some ways, you can think of it as an 
+application of the old maxim that equity regards as done 
+what ought to have been done. 
+
+So we're saying to the Special Master, well, 
+if you've gotten to the point at the end of the case 
+where there's a judgment, and you've determined that 
+this petition was forbidden from being filed, in the 
+sense that the limitations provision forbids it, then 
+you should visit the consequences there. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 10
+ JUSTICE SOTOMAYOR: That sounds like a 
+
+jurisdictional argument to me. But I understand the 
+government to be conceding that this statute of 
+limitations is not jurisdictional. It's just a claim 
+processing move. 
+
+MR. HORWICH: Well, if it sounds like a 
+jurisdictional argument, then I suppose the answer would 
+be for this Court to say that it's jurisdictional, and 
+of course, if that's true, then our position -- our 
+position would prevail. 
+
+We think on balance, given this Court's 
+precedence most recently in the -- the Auburn Regional 
+Medical Center case, that these -- that this Court did 
+not interpret Congress's time limit provisions to be 
+endowed with jurisdictional significance. It doesn't 
+mean that it doesn't have any significance. It has the 
+significance of an ordinary affirmative defense, just as 
+it has the significance of the -- the timeliness 
+provision here just has the significance of an ordinary 
+affirmative defense, just as --
+
+CHIEF JUSTICE ROBERTS: I just want to make 
+sure I heard you right. You said if it sounds 
+jurisdictional, we should say it is, and you win. 
+
+MR. HORWICH: Well, what I was saying --
+what I was saying in response to Justice Sotomayor's 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 11 
+question is that if -- if it seems that that argument 
+compels you to believe that it's jurisdictional, then 
+the Court should reach the conclusion that it's 
+jurisdictional rather than --
+
+CHIEF JUSTICE ROBERTS: But your conclusion 
+is that it is not jurisdictional. 
+
+MR. HORWICH: We think -- we think that it 
+is not -- we think that it is not, even if the text of 
+it makes it sound like it could have jurisdictional 
+significance, we think on balance, this Court's 
+precedents teach that time -- that time limits are 
+typically claim processing rules, and we don't think 
+that the text overcomes that view. 
+
+JUSTICE SOTOMAYOR: Assume I accept --
+JUSTICE GINSBURG: So using Federal rules as 
+
+your model, and Federal rules list statute of 
+limitations as an affirmative defense. Ordinarily, 
+that's what it is. But is it an affirmative -- well, 
+certainly it's an affirmative defense to any award of 
+compensation under the Vaccine Act. 
+
+But what makes it an affirmative defense to 
+the award of fees? 
+
+MR. HORWICH: Well, it seems to -- there is 
+not anything in the compensation provision that says 
+that it's an affirmative defense any more than -- in any 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 12 
+way that's more explicit than what we're relying on to 
+say that it's an affirmative defense to attorneys' fees. 
+It's not as if Congress said there -- in another section 
+there shall be no award of future medical expenses when 
+the statute of limitations is not complied with, and it 
+left that out of the attorneys' fees. 
+
+That's not how the statute is structured. 
+So we're in a situation where I think we ordinarily are 
+with statutes of limitation, in trying to decide what 
+the consequences of noncompliance are --
+
+JUSTICE SCALIA: Yes, one of -- one of 
+your -- your argument you were making is that there --
+since the attorneys' fees provision looks to the end of 
+the case, it should not be construed to apply to the --
+the failure to meet the filing deadline. 
+
+Is -- is that true? I mean, the statute 
+says if the judgment does not award compensation, on a 
+petition filed under Section 300aa-11 -- if the judgment 
+does -- is there no judgment when a -- when a case is 
+dismissed for failure to meet the statute requirement? 
+
+MR. HORWICH: It -- it seems to us that the 
+appropriate disposition of a case that is held to be 
+untimely is that there is a judgment denying 
+compensation. And the reasons for that have to do with 
+something that's not really briefed, but the operation 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 13 
+of the appellate provisions of the Act --
+
+JUSTICE SCALIA: Wait, so --
+MR. HORWICH: -- become confusing if you 
+
+treat a dismissal as something different. 
+JUSTICE SCALIA: Other than the judgment. 
+
+Okay. So then -- then your argument that -- that this 
+fee provision looks to the end of the case simply 
+doesn't fly. It looks to the beginning as well, if 
+indeed dismissal for failure to comply with the time 
+limit is a judgment. 
+
+MR. HORWICH: Well, we think -- we agree 
+that it's a judgment, but it -- but it has to be a 
+judgment, I'm looking here at page 26A of the appendix 
+to the government's brief, refers to the judgment of the 
+Court of Federal Claims on such a petition. And then 
+such a petition refers back to a petition filed --
+
+JUSTICE SCALIA: Well --
+MR. HORWICH: -- and so that's --
+JUSTICE SCALIA: Okay. That's just 
+
+repeating your -- your first argument. 
+MR. HORWICH: Well -- I -- but I do think 
+
+that --
+JUSTICE SCALIA: That petition means --
+
+means a petition properly filed, but I don't see that 
+the -- that the statutory scheme, the provision that's 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 14 
+at issue here, the provision for the award of attorneys' 
+fees looks to the end of the case and not to the 
+beginning. It looks to the judgment. And if it's a 
+judgment that dismisses because of a failure to comply 
+with the statute, it's still a judgment. 
+
+MR. HORWICH: It's still a judgment, but it 
+is -- it is not a judgment in connection with a petition 
+that should be regarded as having been filed timely --
+
+JUSTICE SCALIA: That's your first argument. 
+I understand. 
+
+MR. HORWICH: -- that is our first argument. 
+But let me say, it is also -- the -- the situation here 
+is not one in which we think that it's incumbent on the 
+government to -- to demonstrate clearly how Congress 
+wanted to withhold attorneys' fees. The canons of 
+construction here all caution the Court to be -- to be 
+extremely reluctant to extend or -- or find that 
+Congress is willing to pays attorneys' fees in -- in 
+this context. And that's for -- and that's for several 
+reasons. 
+
+JUSTICE SCALIA: Well, wait. Congress has 
+waived sovereign immunity. It's absolutely clear that 
+there's a waiver of sovereign immunity here. 
+
+MR. HORWICH: It's clear that there's a 
+waiver, but it's --
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 15
+ JUSTICE SCALIA: And once we find that, I 
+
+don't think we nitpick the following language to 
+unrealistically narrow it as much as possible. I mean, 
+the initial question of whether Congress has agreed to 
+be sued is, yes, we -- we assume it hasn't and -- and --
+but -- but once it's clear that it has agreed to be 
+sued, I think we just interpret the language reasonable. 
+
+MR. HORWICH: Well, Your Honor, I -- I -- I 
+think this Court's decision certainly most recently in 
+the Cooper case, from a term or two ago, says that --
+that this Court considers not only the existence but the 
+extent of the waiver of sovereign immunity to be 
+controlled by -- by canons that -- that counsel against 
+extending that -- extending that waiver. 
+
+But that's not the only issue here. Because 
+the consequences of -- of Respondent's rule are ones 
+that -- that are entirely out of place both with fee 
+proceedings in general and with this compensation 
+program in particular. 
+
+JUSTICE KAGAN: Mr. Horwich, before you go 
+to the consequences argument, just to keep on with the 
+text a little bit, is this understanding that you have 
+of what it means to be filed, does it have any 
+consequences other than with respect to attorneys' fees, 
+or is that the only thing that -- that depends on 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 16 
+viewing the word "filed" in this way? 
+
+MR. HORWICH: Well, I think viewing the word 
+"filed" in this way also explains mechanically why the 
+limitations issue becomes an affirmative defense on the 
+merits as well because Section 13 says compensation has 
+to be awarded on a record, and the record is defined as 
+the record on a petition filed. So similarly, if you 
+get to the end of the case or you get to the point of 
+limitations determination, the court says, well, there 
+shouldn't -- there shouldn't be -- there should not have 
+been a petition here, and so regarding -- regarding is 
+done what should have been done, we'll say there is 
+no -- there is no record available on that petition, so 
+we should deny compensation. 
+
+So I agree it's a little -- which I concede 
+is -- is not how we ordinarily think about statutes of 
+limitation, but it -- but it certainly is that -- it is 
+exactly the same textual logic in the --
+
+JUSTICE SOTOMAYOR: I totally lost that 
+answer. 
+
+MR. HORWICH: Sure. I'm happy to step 
+through it in the statute itself. 
+
+JUSTICE SOTOMAYOR: Could you -- could you 
+go back and talk to me again about what you mean about 
+not having a record? 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 17
+ MR. HORWICH: Sure. So Section 13 of the 
+
+Act, which starts on page 19A of the government's brief 
+says that compensation is awarded "if the Special Master 
+report finds on the record" various matters. 
+
+But then it goes on, and this is on page 21A 
+in Section 13(c), to define the record as the -- as the 
+record established on a petition filed. And so in the 
+same sense that if the Special Master determines that 
+the limitations provision says, well, there shouldn't 
+have been a petition filed, the consequence is there is 
+not a basis for attorneys' fees. They're similarly in 
+this definitional provision not a basis for the record 
+on which compensation is to be awarded on the merits. 
+And that produces the result that we would expect, which 
+is that --
+
+JUSTICE SOTOMAYOR: I'm totally confused. 
+Are you suggesting that the record shouldn't be filed in 
+that case or that the record supports the conclusion 
+that it was untimely? Or neither? 
+
+MR. HORWICH: What I'm -- what I'm 
+suggesting is -- what I'm suggesting is that when the 
+limitation -- when it's determined that the limitations 
+provision applies and should have prevented the filing 
+of the petition, and the Special Master has to decide, 
+well, what are the consequences of that. Because, 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 18 
+again, the Special Master can't go back and actually 
+prevent the whole thing from having happened, but the 
+Special Master can say, well, if this direct -- if this 
+directed that there shouldn't have been a petition 
+filed, then one of the consequences is there's no --
+there's no record on which we should be able to decide 
+compensation. 
+
+JUSTICE ALITO: Well, as to the 
+consequences, let me give you these two cases. The 
+first is the case in which the petition is timely filed 
+and -- as you see it, but the claimant does not prevail 
+because the claimant is unable to prove that the injury 
+was caused by the vaccine, but there was a reasonable 
+basis for the argument and the argument was made in good 
+faith, so there would be eligibility for attorneys' 
+fees. 
+
+The second is a case in which there is a 
+question about when the statute of limitations begins to 
+run. And one of the points at which it can begin to run 
+is when there is the onset of significant aggravation of 
+an injury, which seems like a question about which there 
+could be a factual dispute. And in that situation as 
+well, the claimant does not prevail on the statute of 
+limitations argument, but there was a reasonable basis 
+for thinking that the petition was submitted within the 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 19 
+period after the -- the onset of this significant 
+
+aggravation. 
+
+Why would Congress want to draw a line 
+
+between -- a distinction between those two situations 
+
+for the purpose of attorneys' fees? 
+
+MR. HORWICH: Well, there's several reasons. 
+
+The first -- the first one is that in your -- in your 
+
+first example where there's been a determination on the 
+
+merits, the Special Master is in a perfect situation to 
+
+decide whether there was a reasonable basis on the 
+
+merits. And this is how -- this is how the program has 
+
+worked since its existence because to be clear, until 
+
+the decision below, there was no practice of awarding 
+
+attorneys' fees on untimely petitions in the -- in the 
+
+program. 
+
+And so what you would get would be 
+
+situations like your first example, Justice Alito, where 
+
+the Special Master would issue a -- a written decision 
+
+on entitlement and these are -- these are 10, 15, 20, 
+
+25 pages long in my experience, dealing in considerable 
+
+detail with the medical evidence, the scientific 
+
+evidence, the expert testimony, the review of 
+
+literature, the different theories of causation, and 
+
+getting to the end, and obviously, if the decision is that 
+
+compensation is to be awarded, then attorneys' fees 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 20 
+follow as a matter of right, but if compensation is 
+denied, the Special Master can and typically does add, 
+literally as an afterthought, that -- but having been 
+through all of this and having discussed all of this, I 
+think there was a reasonable basis for what was being 
+argued here. 
+
+Now, in your second example where the 
+Special Master has only determined this essentially 
+diagnostic question of when was the first symptom of 
+this particular claimant's particular injury, the 
+Special Master hasn't looked at any materials about 
+whether the vaccine can cause that injury. So let me 
+give as a -- as a paradigm example maybe the -- what we 
+give in our brief as the -- the Smith case, which had to 
+do with the claim of whether certain childhood vaccines 
+caused the claimant's Type 1 diabetes. 
+
+And the Special Master's decision focuses on 
+the question of whether the first symptom of the 
+diabetes was a blood glucose reading that sent the 
+claimant to the hospital, and then --
+
+JUSTICE SOTOMAYOR: Excuse me. Could you --
+could you -- there seems to be a confusion in this 
+consequence conversation. You seem to be assuming that 
+the attorneys' fee award on good faith basis has to do 
+with the ultimate merits, did the vaccine cause this 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 21 
+injury? I would have assumed that the award of 
+attorneys' fees has to do with whether the petition was 
+brought in good faith; i.e., was there a reasonable 
+basis to believe that the petition was timely? And on 
+that issue, before the Court can adjudicate the 
+timeliness question, it has to know all of the facts 
+that made the Petitioner believe it was timely. 
+
+And so I'm a little bit confused as to what 
+additional factfinding the Court has to do. It has to 
+be told by a lawyer, your cases say because reasonable 
+basis has to be in fact and law. The law says first 
+symptom. She experienced X, Y, and Z, and we thought 
+the latter was the starting point of the statute, not 
+the former. What more does the Special Master need to 
+know to adjudicate whether that's in good faith, that 
+belief is in good faith? 
+
+MR. HORWICH: Well, the question under the 
+attorneys' fee provision, and this is on 26(a) of the 
+government's brief, is a determination that the petition 
+was brought in good faith and there was a reasonable 
+basis for the claim for which the petition was brought. 
+The question isn't was there a reasonable basis to 
+believe it was timely, the question is -- and -- and I 
+think my friend agrees with me on this --
+
+JUSTICE SOTOMAYOR: Now, I understand. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 22
+ JUSTICE BREYER: But now, look, still, the 
+
+worst thing, the obvious question -- I mean, as a 
+textual matter, but I don't know how you reconcile your 
+position with the -- with the first words in 3300aa-11, 
+which is talking about a petition starts this whole 
+proceeding and you want to interpret that word 
+"petition" meaning a timely petition. You mean an 
+untimely petition doesn't start the proceeding? I mean, 
+that's the technical linguistic thing, but if you get to 
+your -- to your basic worrying you, what is worrying you 
+is this proceeding, okay? That's what's worrying you, I 
+think, the shadow trial. 
+
+MR. HORWICH: Yes, it is. 
+JUSTICE BREYER: Now, on that, just what 
+
+Justice Sotomayor said, you only get into this problem 
+when the attorney has filed this timeliness matter with 
+a good reason to think his petition is timely, otherwise 
+forget it. Okay? 
+
+So you look at the complaint. You see a 
+complaint there. He had a good reason for thinking it's 
+timely. It looks, on the face of the complaint, as if 
+his client has a good claim, a plausible one. Now, if 
+the government wants to say, we want to present some 
+evidence, let them do it. And if they don't, the worst 
+that happens is this person who thought she had a good 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 23 
+claim, and who was reasonable in her timeliness will get 
+some attorneys' fees paid. 
+
+Why is that -- why is that so terrible? Why 
+is that putting such a burden on the government that 
+they have to go through hoops, I think, to try to get 
+these words in the statute, too? 
+
+MR. HORWICH: What -- what we're worried 
+about here is -- is not the fact that some fees may be 
+paid. What -- what we're worried about here, as you 
+said, are the shadow trials, and -- and to an extent 
+also the question of whether additional cases would be 
+attractive to the program. 
+
+JUSTICE BREYER: But that's in your control, 
+the shadow trials. 
+
+MR. HORWICH: Well --
+JUSTICE BREYER: You don't have to have a 
+
+shadow trial if you don't want one. 
+MR. HORWICH: Well, but -- but -- but, Your 
+
+Honor, I think where we're coming -- where we're coming 
+at this from is -- is saying what did Congress envision 
+here. And as this Court said in Hensley and in Pierce, 
+Congress doesn't want attorneys' fees to be a second 
+major litigation. So it seems exceedingly odd to think 
+it would have set up a scheme in which the case would 
+end on the merits and yet, the question on which 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 24 
+attorneys' fees are to be decided -- the availability of 
+attorneys' fees is to be decided is going to require 
+some further proceedings that have not --
+
+JUSTICE GINSBURG: Why not --
+JUSTICE KENNEDY: The shadow trial brings up 
+
+the answer that you were giving to the second part of 
+Justice Alito's question, which you never got to finish. 
+
+MR. HORWICH: Yes. 
+JUSTICE KENNEDY: And you were saying -- you 
+
+were giving the example, suppose this were a question of 
+timeliness. 
+
+MR. HORWICH: Yes. 
+JUSTICE KENNEDY: And when did the fact of 
+
+the vaccine first -- or the symptoms first become 
+manifest, and you were -- and you said that this should 
+not be tried because -- and this is finishing off 
+Justice --
+
+MR. HORWICH: Right. 
+JUSTICE KENNEDY: -- Justice Alito's 
+
+dichotomy. 
+MR. HORWICH: Yes. Maybe if I finish giving 
+
+the example I was giving in response to the -- the 
+second part of Justice Alito's dichotomy in that Smith 
+case. So the timeliness question the Special Master 
+resolved was, okay, was it the blood glucose reading 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 25 
+that was within the limitations period that was the 
+first symptom or was it the excessive thirst and 
+frequent urination that fell outside the limitations 
+period. 
+
+Now, the Special Master, having resolved 
+that, which is something that I think perhaps even some 
+of us in the room could recognize that one of those was 
+the symptom -- was likely the first symptom or not, the 
+Special Master then has to decide, was there a 
+reasonable basis for the claim that childhood vaccines 
+cause Type 1 diabetes? And that's simply not something 
+that that timeliness determination is going to be any 
+good for the Special Master in deciding. 
+
+JUSTICE GINSBURG: But there's a lot of 
+information just in 11 -- what is it -- (c), tells what 
+has to be put in the petition. And there's --
+couldn't -- couldn't a Special Master make the 
+determination based on that? 
+
+MR. HORWICH: Well, I think part of the 
+problem is that we would be asking the Special Master to 
+spend the Special Master's time reviewing that material, 
+assuming that it's even in the petition, which is not 
+always the case. We'd be asking the Special Master to 
+spend -- spend her time evaluating that material in a 
+proceeding that can't result in compensation to any 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 26 
+injured person, which is, of course, the point of the 
+program, instead of spending her time on -- on other 
+petitions, and it's that diversion of resources that's 
+so concerning to us and we think would have been so 
+peculiar to Congress. 
+
+If I could reserve my --
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+Mr. Fishman? 
+ORAL ARGUMENT OF ROBERT T. FISHMAN 
+
+ON BEHALF OF THE RESPONDENT 
+MR. FISHMAN: Mr. Chief Justice, and may it 
+
+please the Court: 
+My friend started with Section 16. I'd like 
+
+to start very briefly with our reading of the fee 
+provision itself. Section 15(e)(1), which says, "Any 
+petition filed under Section 11 is eligible for award of 
+attorneys' fees, even if it's denied, provided that two 
+conditions are satisfied. It has to be filed in good 
+faith and with a reasonable basis." 
+
+15(e) itself and by its terms says nothing 
+about compliance with the statute of limitations. The 
+filing provisions of Section 11, which are Section 
+11(a)(1) similarly say nothing about compliance with the 
+statute of limitations. Our position, therefore, is the 
+most direct and sensible reading of 15(e)(1), is you can 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 27 
+get an award of fees on a petition that has been denied 
+regardless of the reason why, and there is no textual 
+basis for saying that that provision carves out an 
+exception for one class of denied cases, those denied on 
+limitations grounds. 
+
+CHIEF JUSTICE ROBERTS: So if -- if you're 
+preparing one of these filings, and you're all set to 
+go, and on the day before your filing you say, oh, gosh, 
+it doesn't look like we're going to be on time. You 
+should still go ahead and file because you might be able 
+to apply for attorneys' fees. While if you file it the 
+day that it's due and you find out the day after, oh, my 
+gosh, we weren't on time, then there's no question that 
+you could apply for attorneys' fees. 
+
+MR. FISHMAN: Right. And if I understand 
+that comment correctly, I think that's right, and -- and 
+you see actually many Special Master decisions that 
+ultimately deny a petition for failure typically to 
+prove causation; and when they turn to the reasonable 
+basis standard, they will say literally, your contact --
+your client contacted you two days before the statute of 
+limitations was going to run. 
+
+You ran to the courthouse and filed. You 
+had a basis, we believe, for filing your claim. Further 
+investigation, examination of the medical -- medical 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 28 
+records made you question that judgment, and you 
+abandoned the case. And -- and there can be fee awards 
+in -- in that scenario. 
+
+CHIEF JUSTICE ROBERTS: My hypothetical was 
+not that you had two days and you made it in time, but 
+that before the -- the time -- after the time expired or 
+you were ready to file on time, but then you decided on 
+further research, oh, this isn't going to look like 
+we're going to comply. We thought we had the time, but 
+we don't. You should still go ahead and file, right, so 
+that you might be able to get the fees? 
+
+MR. FISHMAN: I think that would depend --
+if -- if you're late, you're late. I think the -- the 
+judgment your hypothetical would call on the attorney to 
+make is, why did we miss it, and maybe does that provide 
+grounds for equitable tolling or do we have a reasonable 
+and good faith argument as to timeliness? 
+
+If the lawyer says, I blew it, whether by a 
+day or a month or a year, I think that attorney's going 
+to have a very difficult time showing a good faith 
+reasonable basis for filing a claim that I think in your 
+hypothetical would be by the attorney's own account, 
+clearly time barred without justification. 
+
+JUSTICE GINSBURG: So are you saying that 
+the good faith and the reasonableness go to two things: 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 29 
+One, the claim on the merits, and also the timeliness. 
+
+MR. FISHMAN: That is what we're saying. 
+That's also what the Federal circuit said. I think the 
+word "claim," as it's used in the statute, encompasses 
+the entire case. Causation, evidence that you actually 
+received a vaccine, the timeliness of your petition, 
+damages, the -- everything you would need to 
+establish --
+
+JUSTICE SOTOMAYOR: So how do you answer the 
+argument about a shadow trial? 
+
+MR. FISHMAN: There's a number of arguments 
+about -- about that subject. And I think the starting 
+point because it may have been lost a little bit in the 
+briefs, is the government does not cite a single case 
+where there has ever even been a hearing held on a fee 
+petition, ever. And collectively are --
+
+JUSTICE SOTOMAYOR: How were the records 
+accumulated and when? 
+
+MR. FISHMAN: I'm sorry? 
+JUSTICE SOTOMAYOR: How were the records 
+
+accumulated and when? 
+MR. FISHMAN: They are accumulated -- the 
+
+system that's established is one of front-loading. 
+You -- 11(c) requires an enormous amount of medical 
+documentation that is to be filed with the petition when 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 30 
+it's filed. If they are incomplete, you're required to 
+submit an affidavit explaining what's missing and why. 
+
+The very first thing substantively that 
+happens with these things, Vaccine Act Rule 4(a) says 
+within 30 days of filing a petition, the secretary must 
+review the medical records, and if she thinks they are 
+deficient, she has to immediately notify the Petitioner, 
+and that is the very first thing that is hashed out in 
+these cases, complete medical records. 
+
+Section -- Vaccine Act Rule 2(c)(2) says if 
+you're not going to rely solely on medical records in 
+support of your petition -- medical records will often 
+contain evidence of causation. If the records 
+themselves don't and you're going to go outside the 
+records, Vaccine Act Rule 2(c) -- 2(b)(2) is the actual 
+rule, says you're going to rely on observations or 
+testimony of every witness -- any witness, you have to 
+submit a detailed affidavit of the proposed testimony 
+that supports every allegation in the petition. 
+
+So the answer is, a lot of it's there right 
+at the front end, which is not to say that as these 
+cases get litigated and the areas of contention get 
+refined. Additional information can also be submitted, 
+but it is front loaded. 
+
+JUSTICE SOTOMAYOR: So is your bottom line 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 31 
+that the record is already there for the shadow 
+determination? 
+
+MR. FISHMAN: Sure. And that's the reason 
+why we point out in our brief, routinely these cases are 
+decided -- fee determinations are made based on the 
+written materials without a hearing, without any 
+additional evidence. And again there are no cases -- we 
+are not aware of a single instance going to the 
+inception of this program where there has ever been an 
+evidentiary hearing. 
+
+JUSTICE ALITO: And if there is a hearing, 
+would the claimant's attorney get -- potentially get 
+attorneys' fees for the representation at the hearing 
+about attorneys' fees? 
+
+MR. FISHMAN: Yes, the law is pretty clear 
+that fees are available for time incurred on seeking 
+fees. 
+
+JUSTICE KAGAN: Do you think it would be 
+within the discretion of the court or Special Master to 
+look at a case and say, for whatever strange reason, 
+this is a case where it's going to require some lengthy 
+mini-trial in order to figure out fees and that's a bad 
+use of everybody's time, so I'm not going to grant 
+attorneys' fees here? In other words -- you know, this 
+is a "may" provision; would it be a sufficient reason 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 32 
+that this is just going to take too long, it's too 
+involved, so I'm going to deny attorneys' fees in this 
+case? 
+
+MR. FISHMAN: I think that might well be 
+within a Special Master's discretion, if it really is 
+going -- if a fee determination really will require the 
+sort of parade of horribles that the government sees. 
+It's not our case, but I think it could be possible and 
+-- and within their discretion in a subsequent case. 
+
+JUSTICE GINSBURG: You say the Special 
+Master "may" award -- so it "may" award is 
+discretionary. 
+
+MR. FISHMAN: Correct. 
+CHIEF JUSTICE ROBERTS: Well, that's a tough 
+
+position, isn't it? I mean, if you have got a difficult 
+and tough and complicated case, well, you get no fees; 
+but if you've got an easy one, well, then you get fees. 
+
+MR. FISHMAN: I don't know -- the -- no 
+court and the parties have not briefed or addressed in 
+this case the -- the extent to which the "may" 
+discretion can be exercised in a procedural way that 
+Justice Kagan's hypothetical proposes. I'm just saying, 
+I can't stand here and give you a hard and fast rule 
+that says that will never be appropriate. 
+
+Maybe if that case comes before a court and 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 33 
+a Special Master has done that, the argument will be 
+it's an abuse of discretion. 
+
+CHIEF JUSTICE ROBERTS: I thought you 
+were -- I thought you were giving us that argument when 
+you said under the fees all you need is reasonable and 
+good faith. 
+
+MR. FISHMAN: Those are the requirements to 
+be eligible for an award of fees, the statutory 
+requirements for eligibility. But just because you meet 
+good faith and reasonable basis does not necessarily 
+mean you get fees for the -- for the reasons just 
+discussed. It is discretionary. 
+
+CHIEF JUSTICE ROBERTS: So is one reason 
+that should affect the exercise of discretion is that 
+you didn't comply with the statute of limitations? 
+
+MR. FISHMAN: I think it might be. There --
+the law is not -- this is not the issue in our case, so 
+it's -- it's -- it's difficult to know the precise 
+contours of the exercise of discretion in a case where 
+nobody's contended that the discretion couldn't properly 
+be exercised. 
+
+JUSTICE GINSBURG: Well, let's take -- let's 
+take this case. What would you put in to show that you 
+have been reasonable, in good faith and reasonable, one, 
+as to the claim; and two, as to the attorneys' fees? 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 34 
+What -- what would the Special Master have to look at to 
+make those determinations in this case? 
+
+MR. FISHMAN: I will take the second part 
+first, reasonableness of statute of limitations. The 
+Federal Circuit has already ruled that we were 
+reasonable to bring this case in terms of timeliness 
+because of the case law as it existed at the time the 
+petition was filed, the fact that we actually prevailed 
+on the timeliness question before the three-judge panel. 
+So the Federal -- I think on that question the Federal 
+Circuit has resolved it. 
+
+But if you want to go beyond that, I think 
+you would look at our briefs and the laws that existed 
+and the analysis of the various courts that have looked 
+at this and said -- and say, that was a close call, you 
+actually prevailed for a couple years on this question. 
+That's reasonable, and that's good faith. 
+
+As to the merits, it is all the material 
+that accompanied our petition, which is principally 
+medical records, also some medical studies linking the 
+Hepatitis B vaccine to MS, and then a number of 
+affidavits that were filed subsequently. And I think 
+that is all you would need to look at, and -- that is 
+the only thing in the record. Because the government 
+has introduced no evidence in this case at any stage 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 35 
+contesting the merits of our underlying claim. 
+
+JUSTICE SOTOMAYOR: They are arguing that 
+they don't need to, and why should be -- why should they 
+be put to the burden of doing that? 
+
+MR. FISHMAN: The reason is you have to 
+remember this is not ordinary civil litigation; it's a 
+streamlined front-loaded process. So the way the 
+Vaccine Act works is you file a petition with medical 
+records, as I mentioned before. You have 30 days for 
+the government to object to the completeness of the 
+record. The very next thing that happens under the 
+rules, and it's Rule 4(c), is the Secretary has 90 days 
+to set out all of her objections to the case. 
+
+JUSTICE KENNEDY: But the very fact that 
+it's streamlined indicates to me that we should be very 
+careful to enforce the policy of the rule which is to 
+deter the filing of stale claims. And your -- your rule 
+certainly undermines that. 
+
+MR. FISHMAN: I think that you have to back 
+up and -- and acknowledge, as a starting point, that 
+there's no question that Congress intended this program 
+to award fees on petitions that have been denied. And 
+as we point out in our brief, petitions are routinely 
+denied on procedural grounds where there has been no 
+examination of the underlying merits, just as the 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 36 
+government contends is the case with statute of 
+limitations. 
+
+We disagree with that. We think actually to 
+resolve a statute of limitations question, a Special 
+Master is going to have a more complete understanding of 
+the underlying merits of a case than in many other 
+procedural settings. So we know that Congress has 
+already said, sure, it's a streamlined process, but 
+we're not going to pursue that objective at the expense 
+of compensating attorneys who bring good faith claims, 
+but lose. 
+
+CHIEF JUSTICE ROBERTS: Is the -- what's the 
+relationship between your position and equitable 
+tolling? I mean, your case, I think, is unusual in that 
+there was a fair amount of confusion about when the 
+statute of limitations might run or that's your 
+position. I would think a lot of the cases where the 
+attorney doesn't meet the limitations deadline will 
+involve things like -- you know, I was delayed by 
+Hurricane Sandy or -- or whatever, or we tried to file, 
+and it got lost in the mail. 
+
+Are those things that -- I mean, should that 
+be considered under the rubric of equitable tolling, or 
+under -- under your idea that you don't have to file on 
+time anyway? 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 37
+ MR. FISHMAN: The -- the -- I think that the 
+
+best answer to that question is to look at the Federal 
+Circuit -- Circuit's en banc ruling in Cloer I. We 
+actually argued -- we didn't argue snowstorm. What our 
+argument was is there was an extraordinary circumstance 
+that prevented us from filing within 36 months of the 
+first symptom. And that circumstance was there was no 
+scientific evidence of a link between the vaccine --
+
+CHIEF JUSTICE ROBERTS: I understand that, 
+but I would assume the more typical case is when you 
+miss a filing deadline is because the lawyer, whether 
+for good reasons or bad, missed the filing deadline. 
+And I'm just curious if you would -- if it's not 
+sufficient to support equitable tolling, whether it is, 
+therefore, unreasonable when it comes to attorneys' 
+fees? 
+
+MR. FISHMAN: I think that would be a 
+case-by-case determination as to whether the particular 
+facts relied upon supported good faith and a reasonable 
+basis. I think in Your Honor's hypothetical, you would 
+be -- a lawyer would be skating on thin ice there, too, 
+because the Federal Circuit made clear in Cloer I that 
+fraud and duress are the grounds for equitable tolling. 
+So I think if you are going to bring a claim that you 
+know is late and your only excuse is a snowstorm, you 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 38 
+have to look at Cloer I and think, I don't have a very 
+strong or maybe any equitable tolling argument. 
+
+JUSTICE KENNEDY: It does seem to me, I did 
+not have the opportunity to ask the government this 
+question, that the equitable tolling argument undercuts 
+the government's position that no petition may be filed, 
+as being an absolute. Because we all know, I take it 
+the government concedes, that there is equitable 
+tolling. 
+
+MR. FISHMAN: They -- well, they fought the 
+issue. 
+
+JUSTICE KENNEDY: Or there can be equitable 
+tolling in some cases. 
+
+MR. FISHMAN: Sure. That's the law. They 
+fought the issue below and lost, and in fairness, in 
+their briefs to this Court, they say, we don't agree 
+with the ruling just because we didn't seek this Court's 
+review for reasons that are not identified. 
+
+That is the law. That's correct. And it 
+is, frankly, one in a long list of inconsistencies with 
+their conception of what it means to file under the Act. 
+
+JUSTICE KAGAN: Mr. Fishman, this may be a 
+hard question for you to answer, but is your sense of 
+why it is that petitions are untimely filed that they 
+usually have to do with things like -- you know, 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 39 
+snowstorms and lawyer error, or that they usually have 
+to do with questions about the manifestation of 
+symptoms? 
+
+Or something else, if something else is --
+just the range of cases out there, what are we talking 
+about? Why are these cases untimely filed? 
+
+MR. FISHMAN: My understanding from reading 
+the case law is it's the latter. It's not snowstorms. 
+It is here is a disease. I have a child that has been 
+sick her whole life. When is the first symptom of this 
+disease? She coughed 40 months ago. She had a -- some 
+other symptom 42, and the experts often battle that out, 
+and -- and oftentimes the Special Master say, sorry, it 
+was the cough at 40 months that is the first symptom of 
+the disease, not the symptom you've pointed to. 
+
+JUSTICE ALITO: This may be a question that 
+the government is in a better position to answer, but 
+do -- do you have any sense of how often claims are 
+rejected on the ground of timeliness, what we're dealing 
+with? 
+
+I mean, you mentioned in a footnote that the 
+fund out of which the -- the claims and the attorneys' 
+fees are paid has a positive balance of $3.5 billion. 
+Maybe the only government fund that has a positive 
+balance, but --
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 40
+ (Laughter.) 
+JUSTICE ALITO: Is this going to bankrupt 
+
+the -- the system? 
+MR. FISHMAN: I -- I can't imagine how it 
+
+would even really put much of a dent in that government 
+obligation. 
+
+JUSTICE ALITO: Do you know how many cases 
+we might be dealing with? 
+
+MR. FISHMAN: I -- I don't. I know that 
+there are not a huge number of published cases by 
+Special -- unpublished decisions by Special Masters on 
+the statute of limitations question. I tend to think 
+that those numbers will actually go down moving forward, 
+even under the rule we're proposing because of the law 
+on when the statute of limitations runs is so much 
+clearer now than it was in 2005 when we brought this 
+case. 
+
+The other point, of course, is you're always 
+going to have to show good faith and a reasonable basis. 
+So the government seems to suggest that the rule we're 
+advocating and the one that the Federal Circuit adopted 
+is going to result in a flood of frivolous litigation. 
+I think that's just not supported because of the 
+requirements you'd have to establish. 
+
+I think there's also no reason to think that 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 41 
+that will be the case empirically, and I say that for 
+this reason: The -- the program for 25 years has 
+authorized the payment of fees to losers. It has paid 
+out $2.4 billion in compensation to individuals injured 
+by vaccines in that 25 years and just about $160 million 
+in fees for winners and losers. It is just over 
+6 percent.  And one would think that if this unusual 
+system of paying losers really encouraged the filing of 
+frivolous lawsuits so lawyers could be paid, you'd think 
+the number would be substantially higher than 6 percent. 
+
+JUSTICE ALITO: Who pays for the Special 
+Masters? Is that paid out of the fund? 
+
+MR. FISHMAN: It is. 
+I do want to answer a couple of the 
+
+questions that were presented during my friend's 
+presentation. The -- I was not aware of the fact that 
+the Secretary no longer discharges her obligation to 
+publish in the Federal Register, but as we noted in our 
+brief, our petition was published. And her obligation 
+to publish it was triggered by the statute's requirement 
+that a petition has, quote, "been filed under Section 
+11." Ours -- ours, in fact, was published. 
+
+The question that -- that you raised, 
+Justice Kagan, is there any other situation where this 
+reading results in a petition that has been filed. The 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 42 
+answer is yes, the government argues that a petition 
+filed under Section 11, even if it's untimely, is 
+sufficient to commence proceedings and confer 
+jurisdiction, which if that's true, it goes to your 
+question, Justice Sotomayor. How do you get here if the 
+statute -- if the statute of limitations is not 
+jurisdictional? How do you get from one place to the 
+next? I -- I think there's not a good answer for that. 
+
+Another question that has arisen, I think, 
+Justice Scalia, your comments are correct, that -- that 
+a filing, a judgment can occur at any time in a case. I 
+think it's also important to remember that the Secretary 
+is not bound to defend a case on the merits and then 
+contest a fee award for the same reason. So there are 
+cases pending before the Special Masters right now that 
+for reasons I suspect are that the Secretary wanted to 
+establish a precedent, that there is no causation 
+between vaccine A and injury X, we want to litigate that 
+on the merits, and they have won. But it wasn't a slam 
+dunk. There was a lot of evidence and a lot of science 
+to contradict that, which was rejected. 
+
+Those lawyers now come before the Special 
+Master and seek fees in those cases, and the Secretary 
+is arguing no fees because these are time-barred. And 
+in that case, you are going to have a judgment, by the 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 43 
+government's account, entered on the merits and then 
+they're going to come back and defend a fee award 
+saying, there is no judgment because there's never been 
+a case filed, and you can't get fees.  And it is just a 
+fundamental and glaring inconsistency with their 
+position. 
+
+I want to address a couple additional points 
+on the shadow trial argument because these were raised 
+in the government's reply brief. 
+
+JUSTICE SCALIA: Could I -- I have been 
+thinking about your last point. Couldn't that last 
+point easily be remedied by -- by simply our holding 
+that -- you know, you -- you can't ride both horses; 
+that if, in fact, you've litigated it through to a -- to 
+a merits judgment in your favor, which presumably has 
+stare decisis effect, you then cannot come back and say 
+the suit never occurred because the filing was too late. 
+I mean, we -- I think we're able to hold that, don't you 
+think? 
+
+MR. FISHMAN: I --
+JUSTICE SCALIA: I mean, I agree with you 
+
+it's a terrible -- it's a terrible, outrageous thing for 
+the government to do, to win the case and get -- get 
+stare decisis effect, and then to say you can't get 
+lawyers' fees because there's never been a case, right? 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 44
+ MR. FISHMAN: Right. I mean, I think 
+
+that -- yes, and I think that, in terms of authority, 
+power, I think that --
+
+JUSTICE SCALIA: We could make that up, 
+couldn't we? 
+
+MR. FISHMAN: I think that you probably 
+could. 
+
+(Laughter.) 
+JUSTICE SCALIA: Sure. 
+MR. FISHMAN: I think you probably could, 
+
+but I think that the problem is you would then be, in 
+essence, adopting a procedural rule though that endorses 
+the inconsistency in the position. A petition is filed 
+for some purposes but not for others, even though 
+Congress only referred to petitions filed in -- in the 
+generic sense. It didn't distinguish between the time 
+at which it's entered or the basis on which it's 
+entered. And it could have easily done these things. 
+
+The -- the government is proposing this 
+legal fiction. Well, they say, sure, I mean, it can be 
+tendered and accepted and you can litigate it for years 
+and there can be all sorts of rulings, but as soon as 
+the Special Master enters a ruling on timeliness, the 
+phrase is they're bound to, quote, "refuse to recognize" 
+that it has ever been filed. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 45
+ They could have established that -- Congress 
+
+could have established that legal fiction. It could 
+have said no petition shall be deemed to be filed if it 
+is brought after the statute of limitations has run. 
+
+Or Congress could have achieved this same 
+consequence that the government is attributing to 
+Section 16 by enacting a rule like this Court's Rule 
+13-2; the court will not -- will not file a cert 
+petition that is untimely. 
+
+JUSTICE KENNEDY: You were going to address 
+the shadow trial? 
+
+MR. FISHMAN: Yeah, a couple -- a couple 
+quick points. We cited 11 cases in the discussion of 
+our -- in our discussion of shadow trials for the point 
+that these petition -- petitions are denied on 
+procedural grounds all the time, and Special Masters 
+resolve subsequent fee requests routinely and without a 
+hearing. 
+
+The government --
+JUSTICE KENNEDY: Procedural grounds because 
+
+the affidavits aren't sufficient or --
+MR. FISHMAN: Inadequate records is one 
+
+reason. Sometimes, a petitioner dies, and their family 
+or estate does not want to pursue this, so it's 
+abandoned. There's cases where there's just a failure 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 46 
+to prosecute, it's not clear why; the lawyers lost touch 
+with a client or I don't know the reason why, it's just 
+a failure to prosecute. 
+
+There are also cases where somebody is 
+arguing for causation, but as their case is going 
+through the system, other cases are being decided that 
+reject their view, particularly paradigm cases. And the 
+petitioners fold, they give up, but the lawyers, having 
+fought the cases for years, come in and argue. So those 
+are all, incidentally, examples of procedural denials 
+that are reflected in the 11 cases we cited. 
+
+The point I wanted to make is the government 
+doesn't say which of those cases it's referring to when 
+it makes the claim that our cases reflect circumstances 
+where the Secretary has determined the program's 
+resources would be best conserved by, I think the phrase 
+is "acquiescing" to a modest request for fees. 
+
+They don't identify what cases they're 
+talking about, but in 10 of the 11 cases we cited, on 
+their face, fee awards were contested. And they're 
+litigated. And you read the opinions, and the Special 
+Masters are resolving the challenges that the Secretary 
+made, and they are doing it without a hearing. 
+
+There also is this argument about -- I think 
+we've already gone over the fact that a statute of 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 47 
+limitations determination is not identical to a 
+causation determination. The additional argument that 
+the Secretary made in their brief is that, unlike many 
+other matters that must be supported at the outset --
+the key question in most of these cases, causation, you 
+don't have to furnish evidence or make allegations of 
+causation -- is not correct. 
+
+Under Section 11(c), if you're bringing a 
+non-table case, you have to allege cause and fact. 
+And if the medical records don't support causation, you 
+need an affidavit from an expert. So that is 
+front-loaded as well. 
+
+JUSTICE KENNEDY: Are there regulations or 
+rules establishing hourly rates? 
+
+MR. FISHMAN: There are not. 
+JUSTICE SOTOMAYOR: Do you have any idea 
+
+from the cases what the ranges are? 
+MR. FISHMAN: For rates? 
+JUSTICE SOTOMAYOR: For rates. 
+MR. FISHMAN: It varies region by region. I 
+
+think the Special Masters look to see what the rates in 
+Denver are as opposed to the rates in New York or Los 
+Angeles --
+
+JUSTICE SOTOMAYOR: I know that civil rights 
+rates, for example, are far below market rates for most 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 48 
+law firms. Is that the same for this, or is it market 
+rates generally? 
+
+MR. FISHMAN: Right. I think it's less. 
+And it's not --
+
+JUSTICE SOTOMAYOR: Market rates for general 
+litigation. 
+
+MR. FISHMAN: Right. And it's not CJA 
+rates --
+
+JUSTICE SOTOMAYOR: Right. 
+MR. FISHMAN: -- but very often, it's not 
+
+the rates that attorneys are actually paid. It ends up 
+being a problem -- as an aside -- with expert witnesses 
+sometimes because the Special Masters don't pay what 
+experts in these cases want. 
+
+If there are no further questions, I will 
+relinquish the remainder of my time. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+Mr. Horwich, you have 4 minutes remaining. 
+
+REBUTTAL ARGUMENT OF BENJAMIN J. HORWICH 
+ON BEHALF OF THE PETITIONER 
+
+MR. HORWICH: Thank you. I think it's 
+important --
+
+JUSTICE SOTOMAYOR: Do you have some 
+evidence -- numbers -- to tell us how complicated the 
+fee award disputes are generally -- putting aside 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 49 
+because it hasn't until recently been an issue for cases 
+dismissed -- but for other cases, particularly those 
+dismissed on -- other procedural grounds. 
+
+MR. HORWICH: Well, no, we don't. And 
+actually, that's the point I wanted to start with 
+is that -- is that the Federal Circuit's decision below 
+puts the program into this unchartered territory, where 
+we don't really know what this is going to look like. 
+
+The cases that -- that my friend cites in 
+his brief are ones that either the petition is so 
+facially defective that, of course, fees can't be 
+awarded on it, but there's no reason to think that's 
+going to be the typical case. 
+
+And then there's other cases where the 
+application of the reasonable basis standard is so lax 
+as to essentially just turn on -- on the claimant's 
+personal say-so, that, oh, I think the vaccine caused my 
+injury. That's like -- that's the Hamrick case, for 
+example; it's cited in there. 
+
+And that -- that can't be the standard for 
+reasonable basis. 
+
+And -- and so I think the Court needs to 
+keep in mind that, for example, when my friend says 
+there's -- the government doesn't cite a case where 
+there's been any shadow trial, the reason is because 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 50 
+there haven't been fees available on untimely petitions, 
+which is exactly the set-up that would cause you to have 
+a shadow trial. 
+
+JUSTICE SOTOMAYOR: But there have been 
+dismissals on other procedural grounds. 
+
+MR. HORWICH: Well, there aren't -- there 
+are not really other procedural grounds. There may be 
+situations where a petition is voluntarily withdrawn, 
+and I think there is a problem there about there not 
+actually being a judgment when somebody voluntarily 
+withdraws. 
+
+But even in those, the Special Masters 
+should have, in our view, examined whether there was a 
+reasonable basis. I don't think it's right to say that 
+an attorney can come in, file the petition and then the 
+claimant decides, well, I would like to withdraw, and 
+then the attorney essentially gets paid as of right. 
+
+So our -- it's unsurprising that there's no 
+examples of these hearings. It's also unsurprising that 
+my friend says, well, there -- for the petitions, when 
+it comes time to determine fees, the record is complete. 
+Of course the record is complete because the case has 
+been decided on the merits. And that's the paradigm 
+situation under which the program has been operated. 
+
+What we are talking about here is entering 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 51 
+this unchartered territory, where -- where the program 
+has not been before, and where you wouldn't think 
+Congress would want to send it. And this is our central 
+concern with this case. The government's concern 
+here -- and the reason we've petitioned for certiorari 
+is not because of the dollar amount involved in paying 
+these claims. The concern is about where the program's 
+resources are being directed. 
+
+The question is -- the question is about 
+where the finite number of Special Masters, the finite 
+number of government attorneys, can put their time in 
+responding to these petitions for -- to deliver the 
+compensation to the very few, but very deserving people 
+who Congress wanted to award compensation to. 
+
+And our concern here is --
+JUSTICE BREYER: So your view here it's the 
+
+same. No attorneys' fees when the client dies, or they 
+decide to withdraw the petition when it's dismissed 
+early on for a procedural ground, when the record is 
+inadequate, et cetera. 
+
+You think that in none of those cases 
+Congress would have wanted attorneys' fees. 
+
+Or is it --
+MR. HORWICH: Well, in the case of --
+JUSTICE BREYER: -- do you think in some but 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 52 
+not others? 
+
+MR. HORWICH: Well, no. In the case where 
+the claimant dies, the statute has provisions for that, 
+and you can obtain compensation in that situation. So 
+there's no reason an attorney can't go on there --
+
+JUSTICE BREYER: No, no, no, no, the family 
+gives up. 
+
+MR. HORWICH: -- if they want to -- if they 
+want to withdraw the petition, I guess it depends on 
+exactly the circumstances under which --
+
+JUSTICE BREYER: No, but my question is what 
+is your view? It's the same problem. He's listed, you 
+heard, he listed six or seven different instances --
+four or five anyway; he's found 11 cases, apparently. 
+And so what is your view? 
+
+MR. HORWICH: Well, my view -- my view is 
+the view that I think we would take under any other fee 
+shifting provision, which is that if a claimant wants to 
+withdraw his or her case, I don't think that he can then 
+claim the benefit of the attorneys' fee provision, 
+absent some circumstances that -- that would warrant the 
+finding of reasonable basis. I think that is an 
+unexceptional result. 
+
+Thank you. 
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4 
+5 
+6 
+7 
+8 
+9 
+10  
+11  
+12  
+13  
+14  
+15  
+16  
+17  
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25
+
+Official 
+
+Page 53
+ The case is submitted. 
+(Whereupon, at 11:12 a.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+Alderson Reporting Company 
+
+
+
+OfficialOfficial 
+
+Page 54 
+
+adopted 40:21 apparently attention 5:22 41:16A 
+adopting 44:12 52:14 attorney 22:16 a.m 1:14 3:2abandoned 28:2 
+advocating APPEARAN... 28:14 31:12 53:245:25 
+
+40:21 1:15 36:18 50:15,17able 18:6 27:10 Baffect 33:14 appellate 13:1 52:528:11 43:18 B 34:21affidavit 30:2,18 appendix 13:13 attorneys 3:11above-entitled back 4:3 13:1647:11 applicable 3:20 3:15 4:13,171:12 53:3 
+16:24 18:1affidavits 34:22 application 4:17 7:7 9:4,8 12:2absent 52:21 
+35:19 43:2,1645:21 9:18 49:15 12:6,13 14:1absolute 38:7 bad 31:22 37:12affirmative applied 6:17 14:15,18 15:24absolutely 14:22 balance 10:1110:17,20 11:17 8:22,23,24 17:11 18:15abuse 33:2 
+11:10 39:23,2511:18,19,21,25 applies 17:23 19:5,14,25accept 5:4,7 banc 37:312:2 16:4 apply 3:15 5:2 20:24 21:2,1811:14 bankrupt 40:2afterthought 7:8 12:14 23:2,22 24:1,2accepted 44:21 barred 28:2320:3 27:11,14 26:17 27:11,14accompanied based 25:18aggravation appropriate 31:13,14,2434:19 
+31:518:20 19:2 12:22 32:24 32:2 33:25account 28:22 basic 22:10ago 15:10 39:11 areas 30:22 36:10 37:1543:1 basis 17:11,12agree 13:11 argue 37:4 46:9 39:22 48:11accumulated 
+18:14,24 19:1016:15 38:16 argued 20:6 51:11,17,2229:18,21,22 
+20:5,24 21:443:21 37:4 52:20accuracy 6:13 
+21:11,21,22agreed 15:4,6 argues 42:1 attorney's 28:19achieved 45:5 
+25:10 26:19agrees 21:24 arguing 35:2 28:22acknowledge 
+27:3,20,24ahead 27:10 42:24 46:5 attractive 23:1235:20 
+28:21 33:1028:10 argument 1:13 attributing 45:6acquiescing 
+37:20 40:19Alito 18:8 19:17 2:2,5,8 3:3,6 Auburn 10:1246:17 
+44:17 49:15,2131:11 39:16 7:3 8:13 10:2,7 authority 44:2Act 3:10,13,19 
+50:14 52:2240:2,7 41:11 11:1 12:12 authorized 41:38:9,11,14,22 battle 39:12Alito's 24:7,19 13:6,20 14:9 availability 24:111:20 13:1 beginning 7:1224:23 14:11 15:21 available 16:1317:2 30:4,10 
+13:8 14:3allegation 5:8 18:14,14,24 31:16 50:130:15 35:8 begins 3:1830:19 26:9 28:17 award 3:11,1538:21 
+18:18allegations 47:6 29:10 33:1,4 11:19,22 12:4action 4:4 6:23 behalf 1:18,19allege 47:9 37:5 38:2,5 12:17 14:17:1,2 
+2:4,7,10 3:7amount 29:24 43:8 46:24 20:24 21:1actions 8:4,6,9,9 
+5:15 26:1036:15 51:6 47:2 48:19 26:16 27:1actual 30:15 
+48:20analysis 34:14 arguments 32:11,11 33:8Act's 3:12 belief 21:16Angeles 47:23 29:11 35:22 42:14add 20:2 believe 6:9 7:16annually 4:21 arisen 42:9 43:2 48:25additional 21:9 
+11:2 21:4,7,23answer 10:7 aside 48:12,25 51:1423:11 30:23 
+27:2416:20 24:6 asking 25:20,23 awarded 16:631:7 43:7 47:2 benefit 52:2029:9 30:20 Assistant 1:16 17:3,13 19:25address 43:7 BENJAMIN37:2 38:23 assume 11:14 49:1245:10 
+1:16 2:3,9 3:639:17 41:14 15:5 37:10 awarding 19:13addressed 32:19 
+48:1942:1,8 assumed 21:1 awards 9:9 28:2adjudicate 21:5 best 3:12,13anyway 36:25 assuming 20:23 46:2021:15 
+37:2 46:1652:14 25:22 aware 31:8adjudicator 4:9 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+Official 
+
+Page 55 
+
+better 39:17 13:7 14:2 cert 45:8 claimant's 5:4 complaint 22:19 
+beyond 34:12 15:10 16:8 certain 20:15 20:10,16 31:12 22:20,21 
+billion 39:23 17:18 18:10,17 certainly 5:7 49:16 complete 30:9 
+
+41:4 20:14 23:24 6:23 11:19 claims 5:14 7:18 36:5 50:21,22 
+bit 7:10 15:22 24:24 25:23 15:9 16:17 7:19 8:2,4 completeness 
+
+21:8 29:13 28:2 29:5,14 35:18 13:15 35:17 35:10 
+blew 28:18 31:20,21 32:3 certiorari 51:5 36:10 39:18,22 compliance 
+blood 20:19 32:8,9,16,20 cetera 51:20 51:7 26:21,23 
+
+24:25 32:25 33:17,19 challenges 46:22 class 27:4 complicated 
+bottom 30:25 33:23 34:2,6,7 Chief 3:3,8 clear 6:5 14:22 32:16 48:24 
+bound 42:13 34:25 35:13 10:21 11:5 14:24 15:6 complied 4:2,11 
+
+44:24 36:1,6,14 26:7,11 27:6 19:12 31:15 12:5 
+Branch 7:21 37:10 39:8 28:4 32:14 37:22 46:1 comply 3:24 
+BREYER 22:1 40:17 41:1 33:3,13 36:12 clearer 40:16 13:9 14:4 28:9 
+
+22:14 23:13,16 42:11,13,25 37:9 48:17 clearly 14:14 33:15 
+51:16,25 52:6 43:4,23,25 52:25 28:23 complying 5:24 
+52:11 46:5 47:9 child 39:9 client 22:22 computer 6:11 
+
+brief 13:14 17:2 49:13,18,24 childhood 20:15 27:21 46:2 concede 16:15 
+20:14 21:19 50:22 51:4,24 25:10 51:17 concedes 38:8 
+31:4 35:23 52:2,19 53:1,2 circuit 29:3 34:5 Cloer 1:7 3:4 conceding 10:3 
+41:19 43:9 cases 18:9 21:10 34:11 37:3,22 37:3,22 38:1 conception 
+47:3 49:10 23:11 27:4 40:21 close 34:15 38:21 
+
+briefed 12:25 30:9,22 31:4,7 Circuit's 37:3 collectively concern 51:4,4,7 
+32:19 36:17 38:13 49:6 29:16 51:15 
+
+briefly 26:14 39:5,6 40:7,10 circumstance Colorado 1:19 concerning 26:4 
+briefs 29:14 42:15,23 45:13 37:5,7 come 5:22 42:22 conclusion 11:3 
+
+34:13 38:16 45:25 46:4,6,7 circumstances 43:2,16 46:9 11:5 17:18 
+bring 5:25 34:6 46:9,11,13,14 46:14 52:10,21 50:15 conditions 26:18 
+
+36:10 37:24 46:18,19 47:5 cite 29:14 49:24 comes 32:25 confer 42:3 
+bringing 47:8 47:17 48:14 cited 45:13 37:15 50:21 confused 17:16 
+brings 24:5 49:1,2,9,14 46:11,19 49:19 coming 23:19,19 21:8 
+brought 4:5 51:21 52:14 cites 49:9 commence 42:3 confusing 13:3 
+
+21:3,20,21 case-by-case civil 3:25 4:4 5:7 commenced 4:5 confusion 20:22 
+40:16 45:4 37:18 6:22 35:6 6:24 7:1,2 36:15 
+
+burden 23:4 causation 19:23 47:24 comment 27:16 Congress 4:15 
+35:4 27:19 29:5 CJA 48:7 comments 42:10 4:21 5:10,13 
+
+30:13 42:17 claim 10:4 11:12 compels 11:2 7:10 8:3 12:3 
+C 46:5 47:2,5,7 20:15 21:21 compensating 14:14,18,21 
+
+c 2:1 3:1 25:15 47:10 22:22 23:1 36:10 15:4 19:3 
+call 28:14 34:15 cause 20:12,25 25:10 27:24 compensation 23:20,22 26:5 
+canons 3:14 25:11 47:9 28:21 29:1,4 11:20,24 12:17 35:21 36:7 
+
+14:15 15:13 50:2 33:25 35:1 12:24 15:18 44:15 45:1,5
+careful 35:16 caused 18:13 37:24 46:14 16:5,14 17:3 51:3,14,22 
+carves 27:3 20:16 49:17 52:20 17:13 18:7 Congress's 
+case 3:4 7:6 9:12 caution 14:16 claimant 18:11 19:25 20:1 10:14 
+
+9:21 10:13 Center 10:13 18:12,23 20:20 25:25 41:4 connection 14:7 
+12:14,19,22 central 51:3 50:16 52:3,18 51:13,14 52:4 consequence 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 56 
+
+17:10 20:23 counsel 15:13 decided 24:1,2 deserving 51:13 39:15 
+45:6 26:7 48:17 28:7 31:5 46:6 detail 19:21 dismissal 13:4,9 
+
+consequences 52:25 50:23 detailed 30:18 dismissals 50:5 
+3:24 4:8,16 couple 34:16 decides 4:9,10 deter 35:17 dismissed 12:20 
+9:16,25 12:10 41:14 43:7 50:16 determination 49:2,3 51:18 
+15:16,21,24 45:12,12 deciding 25:13 16:9 19:8 dismisses 14:4 
+17:25 18:5,9 course 10:9 26:1 decision 15:9 21:19 25:12,18 disposition 
+
+conserved 46:16 40:18 49:11 19:13,18,24 31:2 32:6 12:22 
+considerable 50:22 20:17 49:6 37:18 47:1,2 dispute 18:22 
+
+19:20 court 1:1,13 3:9 decisions 27:17 determinations disputes 48:25 
+considered 9:7 4:4 5:14 7:18 40:11 31:5 34:2 distinction 19:4 
+
+36:23 7:19,22 8:2,4 decisis 43:16,24 determine 50:21 distinguish 
+considers 15:11 10:8,13 11:3 deemed 45:3 determined 9:22 44:16 
+consistent 3:14 13:15 14:16 defective 49:11 17:22 20:8 diversion 26:3 
+construction 15:11 16:9 defend 42:13 46:15 documentation 
+
+3:15 14:16 21:5,9 23:21 43:2 determines 17:8 29:25 
+construed 12:14 26:12 31:19 defense 10:17,20 diabetes 20:16 doing 35:4 46:23 
+contact 27:20 32:19,25 38:16 11:17,19,21,25 20:19 25:11 dollar 51:6 
+contacted 27:21 45:8 49:22 12:2 16:4 diagnostic 20:9 draw 19:3 
+contain 30:13 courthouse deficient 30:7 dichotomy due 27:12 
+contended 33:20 27:23 define 17:6 24:20,23 dunk 42:20 
+contends 36:1 courts 34:14 defined 16:6 dies 45:23 51:17 duress 37:23 
+contention Court's 10:11 definitional 52:3 D.C 1:9,17 
+
+30:22 11:10 15:9 17:12 different 8:13 
+Econtents 8:1 38:17 45:7 delayed 36:19 8:14,21 13:4 
+
+E 2:1 3:1,1 contest 42:14 cross-check deliver 7:20 19:23 52:13 
+contested 46:20 early 51:19 
+
+easily 43:12 
+6:13 51:12 differentiate 
+
+contesting 35:1 curious 37:13 delivered 7:24 8:10 
+context 4:1 5:7 44:18 
+
+easy 32:17 
+cut 9:2 demonstrate difficult 28:20 
+
+6:22 14:19 14:14 32:15 33:18 
+D effect 43:16,24 
+
+D 3:1 
+contours 33:19 denials 46:10 direct 18:3 
+
+either 49:10contradict 42:21 denied 3:11 20:2 26:25 
+control 23:13 damages 29:7 eligibility 18:15 
+
+database 6:12 
+26:17 27:1,4,4 directed 18:4 
+
+33:9controlled 15:13 35:22,24 45:15 51:8 
+day 27:8,12,12 eligible 26:16conventionally dent 40:5 disagree 36:3 
+
+28:19 33:85:4 Denver 1:19 discharges 
+conversation days 6:9 27:21 empirically 41:147:22 41:17 
+
+28:5 30:5 35:9 en 37:320:23 deny 16:14 discretion 31:19 
+Cooper 15:10 35:12 enacting 45:7 
+
+deadline 12:15 
+27:18 32:2 32:5,9,21 33:2 
+
+encompassescorrect 32:13 denying 12:23 33:14,19,20
+36:18 37:11,12 29:4 
+
+dealing 19:20 
+38:19 42:10 Department discretionary 
+
+encouraged47:7 1:17 5:23 6:11 32:12 33:12 
+correctly 27:16 39:19 40:8 41:8 
+
+decide 12:9 
+7:13 discussed 20:4 
+
+endorses 44:12correspondence depend 28:12 33:12 
+17:24 18:6 endowed 10:154:12 depends 4:14 discussion 45:13 
+19:10 25:9 ends 48:11cough 39:14 15:25 52:9 45:14 
+
+coughed 39:11 51:18 enforce 35:16describe 6:22 disease 39:9,11 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 57 
+
+entered 43:1 35:25 F fees 3:11,16 4:17 30:5 35:17 
+44:17,18 examined 50:13 face 22:21 46:20 9:9 11:22 12:2 37:6,11,12 
+
+entering 50:25 example 4:21 facially 49:11 12:6,13 14:2 41:8 42:11 
+enters 44:23 6:25 19:8,17 fact 7:6 21:11 14:15,18 15:24 43:17 
+entire 29:5 20:7,13 24:10 23:8 24:13 17:11 18:16 filings 27:7 
+entirely 5:3 9:13 24:22 47:25 34:8 35:14 19:5,14,25 find 14:17 15:1 
+
+9:14 15:17 49:19,23 41:16,22 43:14 21:2 23:2,8,22 27:12 
+entitlement examples 46:10 46:25 47:9 24:1,2 26:17 finding 4:1 
+
+19:19 50:19 factfinding 21:9 27:1,11,14 52:22 
+envision 23:20 exceedingly facts 21:6 37:19 28:11 31:13,14 finds 17:4 
+equitable 28:16 23:23 factual 18:22 31:16,17,22,24 finish 24:7,21 
+
+36:13,23 37:14 exception 27:4 failure 3:24 32:2,16,17 finishing 24:16 
+37:23 38:2,5,8 excessive 25:2 12:15,20 13:9 33:5,8,11,25 finite 51:10,10 
+38:12 excuse 20:21 14:4 27:18 35:22 37:16 firms 48:1 
+
+equity 9:18 37:25 45:25 46:3 39:23 41:3,6 first 3:4 5:21 
+error 39:1 Executive 7:21 fair 8:24 36:15 42:23,24 43:4 13:20 14:9,11 
+ESQ 1:16,19 2:3 exercise 33:14 fairness 38:15 43:25 46:17 18:10 19:7,7,8 
+
+2:6,9 33:19 faith 18:15 49:11 50:1,21 19:17 20:9,18 
+essence 44:12 exercised 32:21 20:24 21:3,15 51:17,22 21:11 22:4 
+essentially 6:18 33:21 21:16,20 26:19 fell 25:3 24:14,14 25:2 
+
+20:8 49:16 existed 34:7,13 28:17,20,25 fiction 44:20 25:8 30:3,8 
+50:17 existence 4:14 33:6,10,24 45:2 34:4 37:7 
+
+establish 29:8 15:11 19:12 34:17 36:10 figure 31:22 39:10,14 
+40:24 42:17 expect 9:14 37:19 40:19 file 6:1 27:10,11 Fishman 1:19 
+
+established 17:7 17:14 family 45:23 28:7,10 35:8 2:6 26:8,9,11 
+29:23 45:1,2 expense 36:9 52:6 36:20,24 38:21 27:15 28:12 
+
+establishing expenses 12:4 far 47:25 45:8 50:15 29:2,11,19,22 
+47:14 experience fast 32:23 filed 3:20 4:4,13 31:3,15 32:4 
+
+estate 45:24 19:20 favor 43:15 4:15,20,23,24 32:13,18 33:7 
+et 51:20 experienced Federal 3:16 4:24 5:5,11 8:4 33:16 34:3 
+evaluating 21:12 4:22 5:10,14 8:6,7,9 9:6,23 35:5,19 37:1 
+
+25:24 expert 19:22 5:19,20,21 6:2 12:18 13:16,24 37:17 38:10,14 
+everybody's 47:11 48:12 6:14 7:18,19 14:8 15:23 38:22 39:7 
+
+31:23 experts 39:12 8:2,4 11:15,16 16:1,3,7 17:7 40:4,9 41:13 
+evidence 19:21 48:14 13:15 29:3 17:10,17 18:5 43:20 44:1,6 
+
+19:22 22:24 expired 28:6 34:5,10,10 18:10 22:16 44:10 45:12,22 
+29:5 30:13 explaining 30:2 37:2,22 40:21 26:16,18 27:23 47:15,18,20 
+31:7 34:25 explains 16:3 41:18 49:6 29:25 30:1 48:3,7,10 
+37:8 42:20 explicit 12:1 fee 4:14 7:7 9:4 34:8,22 38:6 fits 3:13 
+47:6 48:24 extend 14:17 9:8 13:7 15:17 38:24 39:6 five 52:14 
+
+evidentiary extending 15:14 20:24 21:18 41:21,25 42:2 flood 40:22 
+31:10 15:14 26:14 28:2 43:4 44:13,15 fly 13:8 
+
+evidently 7:7 extent 15:12 29:15 31:5 44:25 45:3 focus 9:3 
+exactly 16:18 23:10 32:20 32:6 42:14 filing 6:18 8:13 focuses 20:17 
+
+50:2 52:10 extraordinary 43:2 45:17 8:17,18 12:15 fold 46:8 
+examination 37:5 46:20 48:25 17:23 26:22 follow 20:1 
+
+6:19 27:25 extremely 14:17 52:17,20 27:8,24 28:21 following 15:2 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 58 
+
+footnote 39:21 25:14 28:24 39:17,24 40:5 Honor's 37:20 inadequate 
+forbidden 9:23 32:10 33:22 40:20 42:1 hoops 23:5 45:22 51:20 
+forbids 9:24 give 18:9 20:13 43:23 44:19 horribles 32:7 inception 31:9 
+force 8:17 20:14 32:23 45:6,19 46:12 horses 43:13 incidentally 
+forget 22:18 46:8 49:24 51:11 Horwich 1:16 46:10 
+former 21:14 given 6:7 10:11 government's 2:3,9 3:5,6,8 include 4:24 
+forward 4:7 gives 52:7 13:14 17:2 4:18 5:1,12,20 incomplete 30:1 
+
+6:14 40:13 giving 24:6,10 21:19 38:6 6:3 7:9,16 8:8 inconsistencies 
+fought 38:10,15 24:21,22 33:4 43:1,9 51:4 8:15,20 9:3 38:20 
+
+46:9 glaring 43:5 grant 31:23 10:6,24 11:7 inconsistency 
+found 52:14 glucose 20:19 ground 39:19 11:23 12:21 43:5 44:13 
+four 52:14 24:25 51:19 13:3,11,18,21 incumbent 
+frankly 38:20 go 4:3 6:18 grounds 27:5 14:6,11,24 14:13 
+fraud 37:23 15:20 16:24 28:16 35:24 15:8,20 16:2 incurred 31:16 
+frequent 25:3 18:1 23:5 27:8 37:23 45:16,20 16:21 17:1,20 indicates 35:15 
+friend 21:24 27:10 28:10,25 49:3 50:5,7 19:6 21:17 individuals 41:4 
+
+26:13 49:9,23 30:14 34:12 guess 52:9 22:13 23:7,15 information 
+50:20 40:13 52:5 23:18 24:8,12 25:15 30:23 
+
+Hfriend's 41:15 goes 17:5 42:4 24:18,21 25:19 initial 15:4 
+Hamrick 49:18frivolous 40:22 going 4:7 24:2 48:18,19,21 injured 26:1 
+happen 7:1141:9 25:12 27:9,22 49:4 50:6 41:4 
+happened 18:2front 30:21,24 28:8,9,19 51:24 52:2,8 injury 18:12,21
+happens 7:12front-loaded 30:11,14,16 52:16 20:10,12 21:1 
+
+22:25 30:435:7 47:12 31:8,21,23 hospital 20:20 42:18 49:18 
+35:11front-loading 32:1,2,6 36:5,9 hourly 47:14 instance 31:8 
+
+happy 16:2129:23 37:24 40:2,19 huge 40:10 instances 52:13 
+hard 32:23fund 39:22,24 40:22 42:25 Human 1:4 5:23 intended 4:15 
+
+38:2341:12 43:2 45:10 Hurricane 35:21 
+hashed 30:8fundamental 46:5 49:8,13 36:20 interpret 10:14 
+Health 1:4 5:23 43:5 good 9:5 18:14 hypothetical 15:7 22:6 
+hear 3:3furnish 47:6 20:24 21:3,15 28:4,14,22 introduced 
+heard 10:22further 24:3 21:16,20 22:17 32:22 37:20 34:25 
+
+52:1327:24 28:8 22:20,22,25 investigation
+Ihearing 29:1548:15 25:13 26:18 27:25 
+
+31:6,10,11,13 ice 37:21future 12:4 28:17,20,25 involve 36:19 
+45:18 46:23 idea 36:24 47:16 33:6,10,24 involved 32:2 
+
+G hearings 50:19 identical 47:134:17 36:10 51:6 
+G 3:1 held 6:24 12:22 identified 38:1837:12,19 40:19 issue 9:11 14:1 
+general 1:17 29:15 identify 46:1842:8 15:15 16:4 
+
+15:18 48:5 Hensley 23:21 imagine 6:25gosh 27:8,13 19:18 21:5 
+generally 5:6 Hepatitis 34:21 40:4gotten 9:21 33:17 38:11,15
+
+48:2,25 higher 41:10 immediatelygovernment 49:1 
+generic 44:16 historically 6:4 30:710:3 14:14 i.e 21:3 
+getting 19:24 hold 43:18 immunity 14:2222:23 23:4 
+
+JGINSBURG holding 43:12 14:23 15:1229:14 32:7 
+4:19 5:9,18 6:1 Honor 15:8 important 42:12 J 1:16 2:3,9 3:6 34:24 35:10 
+11:15 24:4 23:19 48:22 48:1936:1 38:4,8 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 59 
+
+judges 7:25 52:6,11,25 46:1,8 logic 16:18 Masters 7:22 
+judgment 9:10 justification lax 49:15 long 19:20 32:1 40:11 41:12 
+
+9:22 12:17,18 28:23 left 12:6 38:20 42:15 45:16 
+12:19,23 13:5 legal 44:20 45:2 longer 41:17 46:22 47:21 
+
+K13:10,12,13,14 lengthy 31:21 look 22:1,19 48:13 50:12 
+Kagan 7:9 8:6 14:3,4,5,6,7 let's 33:22,22 27:9 28:8 51:10 
+
+15:20 31:1828:1,14 42:11 life 39:10 31:20 34:1,13 Master's 20:17 
+38:22 41:2442:25 43:3,15 limit 10:14 34:23 37:2 25:21 32:5 
+
+Kagan's 9:150:10 13:10 38:1 47:21 material 25:21 
+32:22jurisdiction limitation 5:6 49:8 25:24 34:18 
+
+KATHLEEN42:4 12:9 16:17 looked 20:11 materials 20:11 
+1:3jurisdictional 17:22 34:14 31:6 
+
+keep 15:2110:2,4,7,8,15 limitations 3:18 looking 13:13 matter 1:12 20:1 
+49:2310:23 11:2,4,6 3:22 4:2,6,10 looks 12:13 13:7 22:3,16 53:3 
+
+KENNEDY11:9 42:7 4:12,25 7:1 13:8 14:2,3 matters 17:4 
+8:12,16,25Justice 1:17 3:3 8:19 9:11,15 22:21 47:4 
+24:5,9,13,193:8 4:18,19 5:9 9:24 10:4 Los 47:22 maxim 9:18 
+35:14 38:3,125:18 6:1 7:9 11:17 12:5 lose 36:11 mean 8:8 9:2 
+45:10,20 47:13 8:6,12,16,25 16:4,9 17:9,22 losers 41:3,6,8 10:16 12:16 
+
+key 47:59:1 10:1,21,25 18:18,24 25:1 lost 16:19 29:13 15:3 16:24 
+kind 8:511:5,14,15 25:3 26:21,24 36:21 38:15 22:2,7,8 32:15 
+know 7:25 9:10 12:11 13:2,5 27:5,22 33:15 46:1 33:11 36:14,22
+
+21:6,15 22:3 13:17,19,23 34:4 36:2,4,16 lot 25:14 30:20 39:21 43:18,21
+31:24 32:1814:9,21 15:1 36:18 40:12,15 36:17 42:20,20 44:1,20
+33:18 36:7,1915:20 16:19,23 42:6 45:4 47:1 meaning 8:9 
+
+M37:25 38:7,2517:16 18:8 limits 11:11 22:7 
+40:7,9 43:13 mail 36:2119:17 20:21 line 19:3 30:25 means 8:13,15
+46:2 47:24 major 23:2321:25 22:1,14 linguistic 22:9 8:21,21,22
+49:8 making 12:1222:15 23:13,16 link 37:8 13:23,24 15:23 
+
+manifest 24:1524:4,5,7,9,13 linking 34:20 38:21L manifestation24:17,19,19,23 list 11:16 38:20 meant 8:25,25
+language 15:2,7 39:225:14 26:7,11 listed 52:12,13 mechanically
+late 28:13,13 March 1:1027:6 28:4,24 literally 20:3 16:3
+
+37:25 43:17 market 47:2529:9,17,20 27:20 medical 10:13
+Laughter 40:1 48:1,530:25 31:11,18 literature 19:23 12:4 19:21
+
+44:8 Master 4:1,932:10,14,22 litigate 42:18 27:25,25 29:24 
+law 21:11,11 7:18,24 9:20 33:3,13,22 44:21 30:6,9,11,12
+
+31:15 33:17 17:3,8,24 18:1 35:2,14 36:12 litigated 30:22 34:20,20 35:8 
+34:7 38:14,19 18:3 19:9,1837:9 38:3,12 43:14 46:21 47:10
+39:8 40:14 20:2,8,1138:22 39:16 litigation 23:23 meet 12:15,20
+48:1 21:14 24:2440:2,7 41:11 35:6 40:22 33:9 36:18
+
+laws 34:13 25:5,9,13,1741:24 42:5,10 48:6 MELISSA 1:7
+lawsuits 41:9 25:20,23 27:17 43:10,21 44:4 little 7:10 15:22 mentioned 35:9
+lawyer 21:10 31:19 32:1144:9 45:10,20 16:15 21:8 39:21
+
+28:18 37:11,21 33:1 34:1 36:5 47:13,16,19,24 29:13 merits 16:5
+39:1 39:13 42:2348:5,9,17,23 loaded 30:24 17:13 19:9,11
+
+lawyers 41:9 44:2350:4 51:16,25 logged 6:11 20:25 23:25
+42:22 43:25 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 60 
+
+29:1 34:18 51:10,11 ought 9:7,19 4:23,24,24 5:5 pointed 39:15 
+35:1,25 36:6 numbers 40:13 outrageous 6:13,18,20 9:6 points 5:2 18:19 
+42:13,19 43:1 48:24 43:22 9:23 12:18 43:7 45:13 
+43:15 50:23 outset 47:4 13:15,16,16,23 policy 35:16 
+
+Omiddle 7:13 outside 3:20 13:24 14:7 position 10:9,10
+O 2:1 3:1 million 41:5 25:3 30:14 16:7,11,13 22:4 26:24 
+object 35:10mind 49:23 overcomes 17:7,10,24 32:15 36:13,17
+objections 35:13mini-trial 31:22 11:13 18:4,10,25 38:6 39:17 
+objective 36:9minutes 48:18 21:2,4,19,21 43:6 44:13 
+
+Pobligation 5:14missed 37:12 22:5,7,7,8,17 positive 39:23 
+40:6 41:17,19 P 3:1missing 30:2 25:16,22 26:16 39:24 
+
+observations page 2:2 13:13 model 11:16 27:1,18 29:6 possible 15:3 
+30:16 17:2,5modest 46:17 29:16,25 30:5 32:8 
+
+obtain 52:4 pages 19:20moment 9:4 30:12,19 34:8 potentially
+obvious 22:2 paid 23:2,9month 28:19 34:19 35:8 31:12 
+obviously 19:24 39:23 41:3,9months 37:6 38:6 41:19,21 power 44:3 
+occur 42:11 41:12 48:1139:11,14 41:25 42:1 practice 19:13 
+occurred 43:17 50:17morning 3:4 44:13 45:3,9 precedence
+odd 23:23 panel 34:9move 10:5 45:15 49:10 10:12 
+Office 6:14 parade 32:7moving 40:13 50:8,15 51:18 precedent 42:17 
+office's 5:22 paradigm 20:13 52:9 precedents
+
+N oftentimes 46:7 50:23 petitioned 51:5 11:11 
+N 2:1,1 3:1 39:13 part 24:6,23 petitioner 1:5,18 precise 33:18 
+narrow 15:3 oh 27:8,12 28:8 25:19 34:3 2:4,10 3:7 21:7 prepare 7:21 
+natural 9:14,14 49:17 particular 15:19 30:7 45:23 preparing 27:7 
+necessarily 5:15 okay 13:6,19 20:10,10 37:18 48:20 present 22:23 
+
+33:10 22:11,18 24:25 particularly 9:5 petitioners 46:8 presentation
+need 21:14 29:7 old 9:18 46:7 49:2 petitions 5:11 41:16 
+
+33:5 34:23 omnibus 8:5 parties 32:19 6:10 7:14 9:6 presented 41:15 
+35:3 47:11 once 4:8,9 15:1 pay 48:13 19:14 26:3 presumably
+
+needs 49:22 15:6 paying 41:8 51:6 35:22,23 38:24 7:11 43:15 
+neither 17:19 ones 15:16 49:10 payment 41:3 44:15 45:15 pretty 31:15 
+never 24:7 32:24 onset 18:20 19:1 pays 14:18 50:1,20 51:12 prevail 10:10 
+
+43:3,17,25 operated 50:24 41:11 phrase 44:24 18:11,23
+New 47:22 operation 12:25 peculiar 26:5 46:16 prevailed 34:8 
+nitpick 15:2 opinions 46:21 pending 7:3 Pierce 23:21 34:16 
+nobody's 33:20 opportunity 42:15 place 15:17 42:7 prevent 4:3,4
+noncompliance 38:4 people 51:13 plaintiff's 5:8 18:2 
+
+12:10 opposed 47:22 percent 41:7,10 plausible 22:22 prevented 17:23 
+non-table 47:9 oral 1:12 2:2,5 perfect 19:9 please 3:9 26:12 37:6 
+normal 8:7 3:6 26:9 period 3:21 4:10 point 9:12,21 principally
+noted 41:18 orally 7:25 6:6 19:1 25:1,4 16:8 21:13 34:19 
+notice 4:22 order 31:22 person 22:25 26:1 29:13 printed 6:12 
+notify 30:7 ordinarily 11:17 26:1 31:4 35:20,23 probably 44:6 
+number 7:14,14 12:8 16:16 personal 49:17 40:18 43:11,12 44:10 
+
+29:11 34:21 ordinary 10:17 petition 3:11,20 45:14 46:12 problem 22:15 
+40:10 41:10 10:19 35:6 4:3,13,15,20 49:5 25:20 44:11 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 61 
+
+48:12 50:9 9:4,8,15,24 44:24 REBUTTAL relied 37:19 
+52:12 10:19 11:24 2:8 48:19 relinquish 48:16 
+
+Rprocedural 12:13 13:7,25 received 6:10,11 reluctant 14:17 
+R 3:132:21 35:24 14:1 17:9,12 29:6 rely 30:11,16
+raised 41:2336:7 44:12 17:23 21:18 recognize 25:7 relying 7:4,5
+
+43:845:16,20 46:10 26:15 27:3 44:24 12:1 
+ran 27:2349:3 50:5,7 31:25 52:18,20 reconcile 22:3 remainder 
+range 39:551:19 provisions 3:23 record 16:6,6,7 48:16 
+ranges 47:17proceeding 22:6 4:20 5:1,2 8:14 16:13,25 17:4 remaining 48:18 
+rates 47:14,1822:8,11 25:25 10:14 13:1 17:6,7,12,17 remedied 43:12 
+
+47:19,21,22,25proceedings 5:3 26:22 52:3 17:18 18:6 remember 35:6 
+47:25 48:2,5,815:18 24:3 publish 41:18,20 31:1 34:24 42:12 
+48:1142:3 published 6:9 35:11 50:21,22 repeating 13:20 
+
+reach 11:3process 35:7 40:10 41:19,22 51:19 reply 43:9 
+read 46:2136:8 publishing 4:21 records 28:1 report 5:10,17
+reading 3:12processing 10:5 purpose 19:5 29:17,20 30:6 6:12 7:17,19
+
+20:19 24:2511:12 purposes 3:13 30:9,11,12,13 7:24 8:1,2,3,5
+26:14,25 39:7 produced 5:16 44:14 30:15 34:20 17:4 
+41:25produces 17:14 pursue 36:9 35:9 45:22 reporting 4:21 
+
+ready 28:7program 15:19 45:24 47:10 5:13 7:10,16
+really 4:7 12:25 19:11,15 23:12 put 5:10 25:16 rectify 6:5 reports 7:15,23
+
+32:5,6 40:5 26:2 31:9 33:23 35:4 refer 4:20,22 representation
+41:8 49:8 50:7 35:21 41:2 40:5 51:11 referred 44:15 5:5 31:13 
+
+reason 9:6 22:17 49:7 50:24 puts 49:7 referring 46:13 request 46:17 
+22:20 27:251:1 putting 23:4 refers 13:14,16 requests 45:17 
+31:3,20,25program's 48:25 refined 30:23 require 24:2 
+33:13 35:546:15 51:7 reflect 46:14 31:21 32:6 
+
+Q 40:25 41:2properly 13:24 reflected 46:11 required 30:1 
+question 3:17 42:14 45:2333:20 refuse 44:24 requirement
+
+4:7 9:1 11:1 46:2 49:12,25proposed 30:18 regarded 14:8 12:20 41:20 
+15:4 18:18,21 51:5 52:5proposes 32:22 regarding 16:11 requirements
+20:9,18 21:6 reasonable 15:7proposing 40:14 16:11 33:7,9 40:24 
+21:17,22,23 18:13,24 19:10 44:19 regardless 27:2 requires 29:24 
+22:2 23:11,25 20:5 21:3,10proscribes 4:6 regards 9:18 research 28:8 
+24:7,10,24 21:20,22 23:1 prosecute 46:1,3 region 47:20,20 reserve 26:6 
+27:13 28:1 25:10 26:19prove 18:12 Regional 10:12 resolve 36:4 
+34:9,10,16 27:19 28:16,2127:19 Register 4:22 45:17 
+35:21 36:4 33:5,10,24,24proves 6:24 5:10,19,21 6:2 resolved 9:11 
+37:2 38:5,23 34:6,17 37:19 provide 3:10 6:15 41:18 24:25 25:5 
+39:16 40:12 40:19 49:15,2128:15 regulations 34:11 
+41:23 42:5,9 50:14 52:22provided 26:17 47:13 resolving 46:22 
+47:5 51:9,9 reasonablenessprovides 3:19 reject 46:7 resources 26:3 
+52:11 28:25 34:4provision 3:22 rejected 39:19 46:16 51:8 
+
+questions 39:2 reasons 12:243:24 4:2,6,12 42:21 respect 5:12,13
+41:15 48:15 14:20 19:64:14,17 5:21 relationship 5:20 6:6 15:24 
+
+quick 45:13 33:11 37:125:24 6:8,17,21 36:13 Respondent
+quote 41:21 38:18 42:167:7,11,17 8:24 reliance 8:17 1:20 2:7 26:10 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 62 
+
+Respondent's 45:4 26:13,15,16,22 simply 13:7 speaks 9:9,9 
+15:16 running 4:25 26:22 30:10 25:11 43:12 Special 4:1,9 
+
+responding runs 40:15 41:21 42:2 single 29:14 7:17,22,24 
+51:12 45:7 47:8 31:8 9:20 17:3,8,24
+
+Sresponse 10:25 sections 4:23 situation 6:6 18:1,3 19:9,18 
+S 2:1 3:1 24:22 see 13:24 18:11 12:8 14:12 20:2,8,11,17
+Sandy 36:20result 3:14 22:19 27:17 18:22 19:9 21:14 24:24 
+satisfaction 8:517:14 25:25 47:21 41:24 50:24 25:5,9,13,17
+satisfied 26:1840:22 52:23 seek 38:17 42:23 52:4 25:20,21,23
+saying 9:20results 41:25 seeking 31:16 situations 19:4 27:17 31:19 
+
+10:24,25 23:20 review 19:22 seen 5:16 7:20 19:17 50:8 32:5,10 33:1 
+24:9 27:330:6 38:18 7:23 six 52:13 34:1 36:4 
+28:24 29:2reviewing 25:21 sees 32:7 skating 37:21 39:13 40:11,11
+32:22 43:3ride 43:13 send 51:3 slam 42:19 41:11 42:15,22 
+
+says 4:13 6:8 7:1 right 10:22 20:1 sends 8:2,5 Smith 20:14 44:23 45:16 
+11:24 12:1724:18 27:15,16 sense 3:18,25 24:23 46:21 47:21 
+15:10 16:5,928:10 30:20 6:17 8:7 9:24 snowstorm 37:4 48:13 50:12 
+17:3,9 21:11 42:15 43:25 17:8 38:23 37:25 51:10 
+26:15,20 28:18 44:1 48:3,7,9 39:18 44:16 snowstorms spend 25:21,24
+30:4,10,1650:14,17 sensible 26:25 39:1,8 25:24 
+32:24 49:23rights 47:24 sent 20:19 solely 30:11 spending 26:2 
+50:20ROBERT 1:19 Services 1:4 Solicitor 1:16 stage 9:16 34:25 
+
+say-so 49:172:6 26:9 5:23 somebody 46:4 stale 35:17 
+Scalia 12:11ROBERTS 3:3 set 23:24 27:7 50:10 stand 8:24 32:23 
+
+13:2,5,17,1910:21 11:5 35:13 soon 44:22 standard 27:20 
+13:23 14:9,2126:7 27:6 28:4 settings 36:7 sorry 29:19 49:15,20
+15:1 42:1032:14 33:3,13 set-up 50:2 39:13 stare 43:16,24
+43:10,21 44:4 36:12 37:9 seven 52:13 sort 32:7 start 22:8 26:14 
+44:948:17 52:25 shadow 22:12 sorts 44:22 49:5 
+
+scenario 28:3room 25:7 23:10,14,17 Sotomayor 4:18 started 26:13 
+scheme 13:25routinely 31:4 24:5 29:10 10:1 11:14 starting 21:13 
+
+23:2435:23 45:17 31:1 43:8 16:19,23 17:16 29:12 35:20 
+science 42:20rubric 36:23 45:11,14 49:25 20:21 21:25 starts 17:2 22:5 
+scientific 19:21rule 15:16 30:4 50:3 22:15 29:9,17 States 1:1,13
+
+37:830:10,15,16 shifting 52:18 29:20 30:25 statistical 5:17 
+Sebelius 1:3 3:4 32:23 35:12,16 show 33:23 35:2 42:5 8:3 
+second 18:1735:17 40:14,20 40:19 47:16,19,24 statute 3:18 4:25 
+
+20:7 23:2244:12 45:7,7 showing 28:20 48:5,9,23 50:4 6:25 8:18,18
+24:6,23 34:3 ruled 34:5 sick 39:10 Sotomayor's 10:3 11:16 
+
+secretary 1:3rules 11:12,15 signals 4:15 10:25 12:5,7,16,20
+30:5 35:1211:16 35:12 significance sound 11:9 14:5 16:22 
+41:17 42:12,1647:14 10:15,16,17,18 sounds 10:1,6 18:18,23 21:13 
+42:23 46:15,22ruling 37:3 10:19 11:10 10:22 23:6 26:21,24
+47:338:17 44:23 significant sovereign 14:22 27:21 29:4 
+
+section 3:19rulings 44:22 18:20 19:1 14:23 15:12 33:15 34:4 
+8:19 12:3,18run 18:19,19 similarly 16:7 speak 5:15 36:1,4,16
+16:5 17:1,627:22 36:16 17:11 26:23 speaking 4:11 40:12,15 42:6 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 63 
+
+42:6 45:4 7:7 textually 4:11 22:25 28:9 45:14 
+46:25 52:3 Supreme 1:1,13 Thank 26:7 33:3,4 tried 24:16 
+
+statutes 12:9 sure 10:22 16:21 48:17,21 52:24 three-judge 36:20 
+16:16 17:1 31:3 36:8 52:25 34:9 triggered 41:20 
+
+statute's 41:20 38:14 44:9,20 theories 19:23 till 6:4 true 5:7 10:9 
+statutory 13:25 suspect 42:16 thin 37:21 time 3:20 4:3 12:16 42:4 
+
+33:8 symptom 20:9 thing 15:25 18:2 5:6,11 7:3 8:24 try 23:5 
+step 16:21 20:18 21:12 22:2,9 30:3,8 9:9,10 10:14 trying 12:9 
+steps 5:25 6:5 25:2,8,8 37:7 34:24 35:11 11:11,11 13:9 Tuesday 1:10 
+strange 31:20 39:10,12,14,15 43:22 25:21,24 26:2 turn 27:19 49:16 
+streamlined symptoms 24:14 things 8:13,21 27:9,13 28:5,6 two 15:10 18:9 
+
+35:7,15 36:8 39:3 28:25 30:4 28:6,7,9,20,23 19:4 26:17 
+strong 38:2 system 29:23 36:19,22 38:25 31:16,23 34:7 27:21 28:5,25 
+structure 3:13 40:3 41:8 46:6 44:18 36:25 42:11 33:25 
+structured 12:7 think 5:18 6:21 44:16 45:16 Type 20:16 
+
+Tstudies 34:20 8:15,20,21 9:6 48:16 50:21 25:11 
+T 1:19 2:1,1,6 subject 29:12 9:17 10:11 51:11 typical 37:10 
+
+26:9submit 30:2,18 11:7,7,8,10,12 timeliness 6:19 49:13 
+take 32:1 33:22 submitted 18:25 12:8 13:11,21 10:18 21:6 typically 11:12 
+
+33:23 34:330:23 53:1,3 14:13 15:2,7,9 22:16 23:1 20:2 27:18 
+38:7 52:17subsequent 32:9 16:2,16 20:5 24:11,24 25:12 
+
+Utalk 16:2445:17 21:24 22:12,17 28:17 29:1,6
+talking 22:5 ultimate 20:25subsequently 23:5,19,23 34:6,9 39:19 
+
+39:5 46:19 ultimately 6:2334:22 25:6,19 26:4 44:23 
+50:25 27:18substantially 27:16 28:12,13 timely 14:8 
+
+teach 11:11 unable 18:1241:10 28:19,21 29:3 18:10 21:4,7
+technical 22:9 uncharteredsubstantively 29:12 31:18 21:23 22:7,17
+tell 48:24 49:7 51:130:3 32:4,8 33:16 22:21 
+tells 25:15 undercuts 38:5subtract 7:13 34:10,12,22 time-barred 
+tend 40:12 underlying 35:1sued 15:5,7 35:19 36:3,14 42:24 
+tendered 44:21 35:25 36:6sufficient 31:25 36:17 37:1,17 title 6:14 
+tends 8:16 undermines37:14 42:3 37:20,24 38:1 told 21:10 
+term 15:10 35:1845:21 40:12,23,25,25 tolling 28:16 
+terms 5:2 9:5,7 understand 8:23suggest 40:20 41:7,9 42:8,9 36:14,23 37:14 
+
+26:20 34:6 10:2 14:10suggesting 42:12 43:18,19 37:23 38:2,5,9
+44:2 21:25 27:1517:17,21,21 44:1,2,3,6,10 38:13 
+
+terrible 23:3 37:9suit 4:5 43:17 44:11 46:16,24 totally 16:19 
+43:22,22 understandablesupplement 9:1 47:21 48:3,21 17:16 
+
+territory 49:7 6:7support 30:12 49:12,17,22 touch 46:1 
+51:1 understanding37:14 47:10 50:9,14 51:2 tough 32:14,16
+
+testimony 19:22 7:23 15:22supported 37:19 51:21,25 52:17 Treasury 3:16 
+30:17,18 36:5 39:740:23 47:4 52:19,22 treat 13:4 
+
+text 3:12 11:8,13 unexceptionalsupports 17:18 thinking 18:25 trial 22:12 23:17 
+15:22 52:2330:19 22:20 43:11 24:5 29:10 
+
+textual 3:17 United 1:1,13suppose 10:7 thinks 30:6 43:8 45:11 
+16:18 22:3 unpublished24:10 thirst 25:2 49:25 50:3 
+27:2 40:11supposed 6:8,17 thought 21:12 trials 23:10,14 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 64 
+
+unrealistically wait 13:2 14:21 words 22:4 23:6 13-2 45:8 
+15:3 waived 14:22 31:24 15 19:19 
+
+unreasonable waiver 14:23,25 worked 19:12 15(e) 26:20 
+37:15 15:12,14 works 35:8 15(e)(1) 26:15 
+
+unsurprising want 10:21 19:3 worried 23:7,9 26:25 
+50:18,19 22:6,23 23:17 worrying 22:10 16 3:19 26:13 
+
+untimeliness 23:22 34:12 22:10,11 45:7 
+4:16 41:14 42:18 worst 22:2,24 19 1:10 
+
+untimely 3:12 43:7 45:24 wouldn't 6:16 19A 17:2 
+6:24 7:14 
+12:23 17:19 
+
+48:14 51:3 
+52:8,9 
+
+7:2 51:2 
+written 19:18 2 
+
+19:14 22:8 wanted 14:15 31:6 2(b)(2) 30:15 
+38:24 39:6 
+42:2 45:9 50:1 
+
+42:16 46:12 
+49:5 51:14,22 X 
+
+2(c) 30:15 
+2(c)(2) 30:10 
+
+unusual 36:14 wants 22:23 x 1:2,8 21:12 20 19:19 
+41:7 52:18 42:18 2005 40:16 
+
+upshot 8:12 
+urination 25:3 
+use 31:23 
+usually 38:25 
+
+39:1 
+
+V 
+v 1:6 3:4 
+vaccine 3:10 8:9 
+
+8:11 11:20 
+18:13 20:12,25 
+24:14 29:6 
+30:4,10,15 
+34:21 35:8 
+37:8 42:18 
+49:17 
+
+vaccines 20:15 
+25:10 41:5 
+
+varies 47:20 
+various 17:4 
+
+34:14 
+view 11:13 46:7 
+
+50:13 51:16 
+52:12,15,16,16 
+52:17 
+
+viewing 16:1,2 
+visit 9:25 
+visited 4:16 
+voluntarily 50:8 
+
+50:10 
+
+warrant 52:21 
+Washington 1:9 
+
+1:17 
+wasn't 42:19 
+way 12:1 16:1,3 
+
+32:21 35:7 
+ways 9:17 
+weaken 8:17 
+weren't 27:13 
+we'll 3:3 16:12 
+we're 7:4,5 9:20 
+
+12:1,8 23:7,9 
+23:19,19 27:9 
+28:9 29:2 36:9 
+39:19 40:14,20 
+43:18 
+
+we've 46:25 51:5 
+willing 14:18 
+win 10:23 43:23 
+winners 41:6 
+withdraw 50:16 
+
+51:18 52:9,19 
+withdrawn 50:8 
+withdraws 
+
+50:11 
+withhold 14:15 
+witness 30:17,17 
+witnesses 48:12 
+won 42:19 
+word 8:18 16:1 
+
+Y 
+Y 21:12 
+Yeah 45:12 
+year 28:19 
+years 5:24 34:16 
+
+41:2,5 44:21 
+46:9 
+
+York 47:22 
+
+Z 
+Z 21:12 
+
+$ 
+$160 41:5 
+$2.4 41:4 
+$3.5 39:23 
+
+1 
+1 20:16 25:11 
+10 19:19 46:19 
+10:14 1:14 3:2 
+11 25:15 26:16 
+
+26:22 41:22 
+42:2 45:13 
+46:11,19 52:14 
+
+11(a)(1) 26:23 
+11(c) 29:24 47:8 
+11:12 53:2 
+12-236 1:5 3:4 
+13 16:5 17:1 
+
+2009 6:4,6 
+2013 1:10 
+21A 17:5 
+25 19:20 41:2,5 
+26 2:7 
+26A 13:13 
+26(a) 21:18 
+
+3 
+3 2:4 
+30 6:9 30:5 35:9 
+300aa-11 12:18 
+3300aa-11 22:4 
+36 37:6 
+
+4 
+4 48:18 
+4(a) 30:4 
+4(c) 35:12 
+40 39:11,14 
+42 39:12 
+48 2:10 
+
+6 
+6 41:7,10 
+
+9 
+90 35:12 
+
+W 16:2 22:6 29:4 13(c) 17:6 
+
+Alderson Reporting Company 
+
+

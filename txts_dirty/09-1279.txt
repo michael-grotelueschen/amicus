@@ -1,0 +1,5363 @@
+
+                         
+
+         
+
+                       
+
+               
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+FEDERAL COMMUNICATIONS COMMISSION,: 
+
+ET AL., :
+
+ Petitioners : No. 09-1279
+
+ v. : 
+
+AT&T INC., ET AL. : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Wednesday, January 19, 2011
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 10:18 a.m. 
+
+APPEARANCES: 
+
+ANTHONY A. YANG, ESQ., Assistant to the Solicitor
+
+ General, Washington, D.C.; on behalf of
+
+ Petitioners. 
+
+GEOFFREY M. KLINEBERG, ESQ., Washington, D.C.; on behalf
+
+ of Respondents. 
+
+1
+Alderson Reporting Company 
+
+
+
+                                
+
+                   
+
+                   
+
+                   
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+
+ANTHONY A. YANG, ESQ.
+
+ On behalf of the Petitioners 3 
+
+ORAL ARGUMENT OF 
+
+GEOFFREY M. KLINEBERG, ESQ.
+
+ On behalf of the Respondents 22 
+
+REBUTTAL ARGUMENT OF 
+
+ANTHONY A. YANG, ESQ.
+
+ On behalf of the Petitioners 41 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (10:18 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+first this morning in Case 09-1279, Federal 
+
+Communications Commission v. AT&T, Inc.
+
+ Mr. Yang.
+
+ ORAL ARGUMENT OF ANTHONY A. YANG
+
+ ON BEHALF OF PETITIONERS
+
+ MR. YANG: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ The court of appeals has held that FOIA's 
+
+statutory protection for personal privacy in 
+
+Exemption 7(C) extends beyond the privacy of individuals 
+
+and protects the so-called personal privacy of 
+
+corporations. That holding is inconsistent with the 
+
+text of Exemption 7(C), FOIA's broader context, and the 
+
+statute's drafting history, and would lead to anomalous 
+
+results.
+
+ The word "personal," standing alone, refers 
+
+to individual -- an individual human being. "Privacy," 
+
+standing alone, and even more so in the context of the 
+
+phrase "invasion of privacy," invokes purely individual 
+
+concepts. And the sum of those terms -- that is, the 
+
+statutory phrase used in FOIA, "personal privacy" -- is 
+
+greater than the sum of its parts. It's long been well 
+
+3
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+settled that corporations have no personal privacy.
+
+ JUSTICE ALITO: Isn't it true that there are 
+
+contexts in the law in which the word "personal" is used 
+
+to refer to a corporation? For example, you could refer 
+
+to personal jurisdiction over a corporation, couldn't 
+
+you?
+
+ MR. YANG: There are -- the term "personal" 
+
+is sometimes used as a term of art, and I think personal 
+
+jurisdiction is one of those. It is the modern, shorter 
+
+term of art for jurisdiction in personam and reflects a 
+
+distinction drawn still in the law between cases brought 
+
+in personam and cases brought in rem.
+
+ That -- the evolution of that term in the 
+
+law as a term of art does not reflect what the ordinary 
+
+meaning of "personal" is. It's just the same as the 
+
+term "personal property," which also invokes 
+
+long-established traditional distinctions between 
+
+property that could be recovered in rem or in real 
+
+actions versus property that might be recovered in 
+
+actions in personam.
+
+ So -- and, in fact, I think it -- it's 
+
+important to note that there are -- although maybe there 
+
+are some instances that -- I think there's one instance 
+
+that AT&T cites in its brief. Nothing -- it never cited 
+
+any use of the term "personal" to mean corporate or 
+
+4 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+pertaining to a corporation. And when -- when you -­
+
+JUSTICE GINSBURG: What about -- what about 
+
+personal appearances?
+
+ MR. YANG: A personal appearance, I think 
+
+that -- that supports our position as well. If you're 
+
+making a personal appearance, it's not something that a 
+
+corporation does. A corporation is a -- a legal 
+
+construct. It doesn't exist as a thing that can make an 
+
+appearance.
+
+ JUSTICE ALITO: Well, in ordinary speech, 
+
+the term "personal" is not -- the term "person" is not 
+
+used to refer to a corporation. That's -- that's 
+
+legalese. But in -- but since the -- the Administrative 
+
+Procedure Act defines a person to include a corporation, 
+
+why is it relevant here or dispositive here to look to 
+
+the ordinary usage of term "personal" as opposed to the 
+
+way it's -- it's used in the law? And in the law, it is 
+
+sometimes used to refer to a corporation.
+
+ MR. YANG: Well, I think that -- that point 
+
+actually reinforces our position, because although 
+
+"person" is used in certain legal contexts to refer 
+
+to artificial persons and corporations and the like, 
+
+"personal" is not.
+
+ And "personal," as we explain in our brief, 
+
+is not simply a grammatical alteration, an inflection of 
+
+5 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the term "person." It has existed in its own right 
+
+since the late 1300s and has developed meaning that is 
+
+unique to the term "personal," which -­
+
+JUSTICE GINSBURG: Mr. Yang, can we go back 
+
+first to this -- the request came in and, as I 
+
+understand it, the Commission said there are two 
+
+exemptions: The one for trade secrets, commercial, 
+
+financial confidential information; and then there was 
+
+one with Exemption 7 itself but as to the employee.
+
+ MR. YANG: Correct. There was an additional 
+
+exemption, Exemption 5, which protected internal 
+
+government communications. But -­
+
+JUSTICE GINSBURG: How does the -- does the 
+
+Commission, unaided by AT&T, go through the papers and 
+
+decide what would be embarrassing for an AT&T employee, 
+
+as distinguished from the corporation?
+
+ MR. YANG: How does it do that?
+
+ JUSTICE GINSBURG: Yes.
+
+ MR. YANG: Well, I -- I don't think the 
+
+touchstone is necessarily embarrassment. What the 
+
+government does, following this Court's decision in 
+
+Reporters Committee, is tries to determine whether there 
+
+is a personal privacy interest about individuals, and 
+
+that is information that pertains to particular 
+
+individuals. 
+
+6 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+For instance, in this Court's decision in 
+
+DOD v. FLRA, the Court explained that, although an 
+
+agency released the name of individuals, it could 
+
+properly withhold the addresses, the home addresses, of 
+
+those individuals, even though that might be publicly 
+
+available in phone books, because individuals have at 
+
+least some small personal privacy interest in that.
+
+ So what the agency will do is try to 
+
+identify information pertaining to individuals and then 
+
+will conduct -- if there is certain information, will 
+
+try to conduct a balancing to determine whether there is 
+
+a public interest in disclosure, that is, whether 
+
+revealing this would disclose information against the 
+
+government.
+
+ JUSTICE KENNEDY: Well, in that instance, 
+
+does the corporation have standing to raise that 
+
+objection on the employee's behalf?
+
+ MR. YANG: Well, I think the corporation to 
+
+the -- in a reverse FOIA case, for instance, which is 
+
+what we have here, where the corporation is alleging 
+
+that the government's decision-making process is 
+
+arbitrary and capricious, it has Article III standing to 
+
+resist the disclosure of documents. If you're using 
+
+standing kind of like a Fourth Amendment concept of 
+
+standing, I don't think that -­
+
+7
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE KENNEDY: Well, as an administrative 
+
+matter, can the corporation make a FOIA objection on 
+
+behalf of its employees?
+
+ MR. YANG: It can make an objection on its 
+
+own behalf, which is to say that the government has not 
+
+properly gone through the decision-making process by 
+
+not -­
+
+JUSTICE KENNEDY: All right. That's the 
+
+next -- that was going to be my next question: So the 
+
+corporation can raise FOIA on its own behalf?
+
+ MR. YANG: It's actually -- let me take a 
+
+step back. FOIA actions are actions which seek to 
+
+increase the amount of documents that the government has 
+
+released pursuant to a FOIA request.
+
+ We have also reverse FOIA actions, which are 
+
+actions under the APA and here under the Hobbs Act's 
+
+review provisions, that would give the court of appeals 
+
+jurisdiction. When there's a reverse FOIA action, the 
+
+claim is that the agency's final agency action is 
+
+somehow arbitrary, capricious, and not -- or contrary to 
+
+law. And so in this case, the FCC has certain 
+
+regulations which govern its processing of FOIA 
+
+requests. And AT&T's claim, as we understand it, is 
+
+that the FCC did not comply with its regulations, and, 
+
+therefore, its decision was arbitrary capricious because 
+
+8
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+its regulations required that it consider the personal 
+
+privacy interest of individuals.
+
+ And I should note that, with respect to 
+
+Exemption 6 or Exemption 7(C), the government itself 
+
+invokes personal privacy of individuals. That's what we 
+
+do when we process FOIA requests, because individuals 
+
+normally don't get any notice that there has been a FOIA 
+
+request. The government simply processes it and asserts 
+
+those rights, in a sense that they're rights, asserts 
+
+those interests on behalf of corporations -- on behalf 
+
+of individuals.
+
+ Going back to the text of the statute, the 
+
+term "privacy," and particularly an invasion of privacy, 
+
+invokes concepts that back to Warren and Brandeis's 
+
+right of privacy, the -- their article which explained 
+
+that or identified in the law certain human dignitary 
+
+interests that they gave the label "privacy."
+
+ CHIEF JUSTICE ROBERTS: Well, privacy 
+
+certainly isn't as limited as you argue "person," 
+
+"personal," is. Corporations have private property. 
+
+They have private documents. The concept certainly 
+
+applies in the corporate context as it does in the 
+
+individual.
+
+ MR. YANG: I think the term "privacy," its 
+
+ordinary meaning, not the only meaning but the ordinary 
+
+9 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+and the commonly used meaning, does invoke individual 
+
+concepts. When corporations or other entities are at 
+
+issue, normally the more appropriate word would be 
+
+"confidentiality" or "secrecy." Those concepts -­
+
+CHIEF JUSTICE ROBERTS: You don't have 
+
+confidential property or secret property. You have 
+
+private property.
+
+ MR. YANG: Well, true. But it's is not 
+
+privacy. When we're talking about the right of privacy, 
+
+those -- that word we think -- again going back to 
+
+Warren and Brandeis and up through the fifties and 
+
+sixties when Prosser was elaborating the law of torts in 
+
+his groundbreaking article on privacy, those concepts 
+
+apply only to individuals, and particularly when you 
+
+combine the terms.
+
+ I mean, the Restatement makes clear, and 
+
+back to Prosser it was clear, that corporations have no 
+
+right of personal privacy. So when Congress in 1974 was 
+
+enacting Exemption 7(C), there would have been no basis 
+
+for it to conclude that the rights that it was 
+
+conferring through the phrase "personal privacy" would 
+
+confer rights not -- beyond individuals, to 
+
+corporations, and by necessarily implication, if AT&T is 
+
+correct, foreign governments, State governments, local 
+
+governments. There's no predicate for those types of 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+entities having personal privacy in the law.
+
+ JUSTICE GINSBURG: Mr. Yang -­
+
+JUSTICE SCALIA: Our cases assert, do they 
+
+not, that the exceptions to FOIA should be narrowly 
+
+construed?
+
+ MR. YANG: There are cases -­
+
+JUSTICE SCALIA: And we've said that on a 
+
+number of cases.
+
+ MR. YANG: In certain contexts, this Court 
+
+has indicated that exceptions are to be narrowly 
+
+construed. We think that, when read in context, those 
+
+cases and other cases of this Court explain that FOIA's 
+
+exemptions are to be given meaningful reach, because 
+
+what Congress was trying to do in FOIA -- and this is 
+
+somewhat against our interest in this case, and we 
+
+explain it more fully in our brief in Milner, which is 
+
+currently pending to the Court -- what Congress was 
+
+trying to do in FOIA was to establish a general 
+
+principle of disclosure, but in the exemptions it 
+
+identified very important interests that warranted an 
+
+exception from those general rules. And to narrowly 
+
+construe the exception, we think, would distort rather 
+
+than advance congressional purpose in enacting FOIA.
+
+ JUSTICE ALITO: Suppose Congress had used 
+
+the phrase "privacy of a person," "privacy of any 
+
+11
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+person." Would you make the same argument?
+
+ MR. YANG: Our argument would be a little 
+
+different, particularly in the context of Exemptions 6 
+
+and 7(C), where the phrase would be "an invasion of 
+
+privacy of any person."
+
+ We think, particularly when we're talking 
+
+about invasions of privacy, even though a corporation 
+
+might have a broader definitional meaning in context, 
+
+Congress in that case would still, we think, be 
+
+referring to individuals. But, of course, that's not 
+
+this case. That would make it a little bit more 
+
+difficult. We think we would probably still prevail on 
+
+that reading. But -­
+
+JUSTICE GINSBURG: What about the Privacy 
+
+Act? The Privacy Act undoubtedly concerns individuals, 
+
+human individuals -­
+
+MR. YANG: Correct.
+
+ JUSTICE GINSBURG: -- not artificial beings. 
+
+But it uses the words "individual privacy" -­
+
+MR. YANG: Well, it actually uses both 
+
+phrases. It uses, as we explain in our brief, the 
+
+phrase "personal privacy" to explain that that's what 
+
+the Act was protecting. And then within the operative 
+
+portions of the Act, it uses "individual," but it does 
+
+so for a very specific reason. Congress was intending 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to protect a subset of individuals, and it defined the 
+
+term "individual" to mean U.S. citizens and lawful 
+
+permanent residents.
+
+ So not all individuals would be protected by 
+
+the Privacy Act. Now, Congress did that, not because 
+
+had it used the phrase "personal privacy" it would have 
+
+been extending rights to corporations and foreign 
+
+governments, but because personal privacy would have 
+
+been too broad in that it would have -- even though it 
+
+would have been limited to individuals, it would have 
+
+included a set of individuals that Congress wanted to 
+
+exclude, that is, everybody who is not a U.S. citizen or 
+
+lawful permanent resident.
+
+ JUSTICE SOTOMAYOR: Can I ask you a 
+
+question? I'm not sure I understood your response to 
+
+Justice Scalia. If there is ambiguity, if a term can be 
+
+given two meanings, and it's not clear -- and I know 
+
+you're challenging the clarity question here -- I 
+
+thought that Congress's intent to have full disclosure 
+
+would necessarily mean that where there's ambiguity as 
+
+to the meaning of an exception, then we should change 
+
+the narrowest meaning.
+
+ MR. YANG: Well, I think we disagree, and I 
+
+think this is why: No legislation pursues its primary 
+
+goal at all costs, and the FOIA exceptions that are at 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+issue here protect very important values that Congress 
+
+deemed to warrant exceptions from the rule. And so if 
+
+the Court were to put a thumb on one scale of that 
+
+balance that Congress has tried to strike, after using 
+
+all the normal tools of construction, we think that 
+
+would distort rather than advance the intent of 
+
+Congress.
+
+ JUSTICE SCALIA: I don't understand that. 
+
+We're not putting a thumb on the scale. Taking account 
+
+of the fact that -- that Congress has many objectives in 
+
+any legislation and that the limitations are as 
+
+important as the -- the substantive end, nonetheless, 
+
+when, having applied all of that, you end up with, gee, 
+
+I don't know, it's ambiguous -- you say, even in that 
+
+situation, we don't apply the rule that -­
+
+MR. YANG: Well, if you were to -- after 
+
+using all the normal tools that the Court does and 
+
+you're -­
+
+JUSTICE SCALIA: Well, but that's what 
+
+ambiguity means. It does -- it means -­
+
+MR. YANG: That's usually a very rare 
+
+instance, that you're exactly at equipoise. And -- and 
+
+we certainly aren't relying on narrow construction in 
+
+this case, Justice Scalia.
+
+ JUSTICE SCALIA: Okay. The Government wants 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to abandon the principle that we've set forth in our 
+
+cases -­
+
+MR. YANG: Well, we think -­
+
+JUSTICE SCALIA: -- that exceptions to FOIA 
+
+are to be narrowly construed. The Government does not 
+
+support that.
+
+ MR. YANG: We do not embrace that principle.
+
+ JUSTICE GINSBURG: Mr. Yang -­
+
+JUSTICE SCALIA: Even though we did? I 
+
+mean -­
+
+MR. YANG: Well, we think that those 
+
+cases -- there are -- there are two lines of this 
+
+Court's decisions. Sometimes the Court explains that 
+
+exceptions are narrowly construed, and sometimes the 
+
+Court explained that its decision has given -- its 
+
+decisions have given the exceptions practical reach in 
+
+order to strike the appropriate balance that Congress 
+
+has tried to strike in FOIA.
+
+ Now, let me just say, our narrow 
+
+construction, to the extent the Court would want to 
+
+reaffirm it here -- we're not advancing that -- would 
+
+only help the Government's position.
+
+ JUSTICE GINSBURG: Your argument is based on 
+
+a case that will come before us. So -- but in this 
+
+case, it's to your interest to say, yes, that has been 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+-- that has been the Court's precedent, that FOIA 
+
+exceptions are to be narrowly construed.
+
+ MR. YANG: Well, the Government has broader 
+
+interests beyond a single case, and we think that, 
+
+again, we're not embracing strict construction in this 
+
+case. But, again, that would only help the Government's 
+
+position if you were to disagree.
+
+ JUSTICE SCALIA: Well, I'm not going to help 
+
+the Government's position if the Government doesn't want 
+
+to be helped.
+
+ (Laughter.)
+
+ JUSTICE SCALIA: I'm happy to leave you 
+
+where you put yourself.
+
+ MR. YANG: And we -- we accept that in this 
+
+case, and we think that the language of the text, 
+
+particularly when read in context in light of the 
+
+statutory history, and particularly when you take a look 
+
+at what's gone on since 1974 -- I mean, in the more than 
+
+35 years since, there has been uniform agreement that 
+
+Exemptions 6 and 7(C) apply only to individuals.
+
+ CHIEF JUSTICE ROBERTS: I suppose -- I 
+
+suppose families have rights of personal privacy, don't 
+
+they?
+
+ MR. YANG: Well, in certain contexts, family 
+
+members, as this Court decided in Favish, can have a 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+right to personal privacy. But the Court in Favish 
+
+recognized that that was a very, you know, significant 
+
+departure from the prior understanding that the right of 
+
+personal privacy in FOIA protects information about the 
+
+individual, him- or herself, and recognized that there 
+
+was another strain of personal privacy, which from 
+
+longstanding tradition in terms of -- within our 
+
+society, the Court could draw on in saying that personal 
+
+privacy should also protect, at least in the context 
+
+of -­
+
+CHIEF JUSTICE ROBERTS: So in some 
+
+contexts -- in some contexts, personal privacy does go 
+
+beyond the individual?
+
+ MR. YANG: No, still it is individual. I 
+
+mean, those are individual members of the family.
+
+ CHIEF JUSTICE ROBERTS: Aggregations of 
+
+individuals?
+
+ MR. YANG: Well, no. I think an individual 
+
+member of the family has a personal privacy interest by 
+
+virtue of the relationship to the decedent in Favish.
+
+ Let me go back. Just -- I think I would be 
+
+remiss if I didn't remark upon this Court's decision -­
+
+JUSTICE SCALIA: Excuse me. To go back to 
+
+the Chief's question, you do not deny that the 
+
+individuals who form the corporation, the officers and 
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the employees, are protected by the right of personal 
+
+privacy, and, indeed, you will -- you will edit any FOIA 
+
+responses to protect those individuals, even though 
+
+there are many of them, right?
+
+ MR. YANG: Correct. If there were -­
+
+JUSTICE SCALIA: But as individuals, not as 
+
+-- not as the corporation.
+
+ MR. YANG: As individuals, because the 
+
+information pertains to them.
+
+ Now, going to the American Express case, 
+
+which we explain in our reply, I think that is fatal to 
+
+the proposition that -- the proposition of AT&T that 
+
+there's a grammatical imperative that adjectives take 
+
+the meaning of a related noun.
+
+ In American Express, the Court construed the 
+
+Truth in Lending Act, which includes the definition of 
+
+"person" to include, for instance, corporations. It 
+
+then went on to construe a term, "consumer," which 
+
+concerns transactions primarily for personal, family, 
+
+household, or, at the time, agricultural purposes. The 
+
+Court explained that a transaction -- the transaction 
+
+that was conducted for a corporation's business 
+
+purposes, that it could not -- there was -- "it did not 
+
+fall within any of the purposes specified" -- that was a 
+
+quote -- in the definition of "consumer." That is, it 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+did not concern personal purposes. We think that's 
+
+fatal.
+
+ The Court, in fact, said it was the only 
+
+possible conclusion and that there was no other possible 
+
+interpretation of the statutory phrase, after repeating 
+
+the enumeration of those four factors three times and 
+
+then on the very next page saying corporate -- a 
+
+transaction for corporate business purposes could not 
+
+be fit within that definition.
+
+ Finally, I'd like to remark upon the 
+
+anomalies that this Court would set us forth upon if it 
+
+were to decide that corporations have personal privacy.
+
+ At least in the context of individuals, 
+
+there's an established body of law and societal 
+
+understanding of what a person, an individual, might 
+
+have a personal privacy interest in. But if we expand 
+
+personal to include corporations, foreign governments, 
+
+State governments, local governments, defining what 
+
+would be personal privacy of those institutions would 
+
+require an extraordinary exercise, a simple policy 
+
+judgment on the part of the agencies first and then the 
+
+Court.
+
+ And this Court in Favish was careful to 
+
+explain that that type of decision making would be 
+
+improper in that appropriate guides to -- to limit and 
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+make objective a court and agency's decision making is 
+
+required.
+
+ Congress provided no benchmarks, never 
+
+addressed corporate, foreign governments, or any other 
+
+non-human entity in the context of personal privacy.
+
+ And, again, for 36 years, there's been 
+
+uniform agreement that personal privacy applies in this 
+
+context only to corporations.
+
+ If there are no further questions -­
+
+JUSTICE SOTOMAYOR: Counsel, if an 
+
+individual has been -- individual human being has been 
+
+investigated by the FBI and a FOIA request is made for 
+
+records related to that investigation, would the name of 
+
+the individual not be turned over?
+
+ MR. YANG: Well, if someone is asking for an 
+
+investigation of Tony Yang -­
+
+JUSTICE SOTOMAYOR: Yes.
+
+ MR. YANG: -- our -- I don't -- I can't say 
+
+definitively, but I think I can probably answer that 
+
+that even -- even answering the question of whether 
+
+there is a responsive record answers the question. So 
+
+I -­
+
+JUSTICE SOTOMAYOR: Well, that's the point. 
+
+So really your adversary is saying that the same harm 
+
+that occurs to an individual -- putting aside the 
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+difficulty of defining privacy more broadly, but the 
+
+same harm that occurs to an individual who is disclosed 
+
+to have been the target of an investigation is an 
+
+identical privacy right of a corporation, that a 
+
+corporation has the same negative effects as the 
+
+individual.
+
+ MR. YANG: I think -­
+
+JUSTICE SOTOMAYOR: So I think they would 
+
+concede that privacy might need to be defined 
+
+differently for corporations. They're simply saying 
+
+this privacy interest is not.
+
+ MR. YANG: Well, the key point is that we 
+
+don't deny that corporations have some interest in 
+
+confidentiality that exists out there. For instance, 
+
+AT&T has relied upon the common law of defamation where 
+
+a corporation's business interests, business reputation, 
+
+is implicated. But even -­
+
+JUSTICE SOTOMAYOR: Well, parts of -- they 
+
+pled guilty already. So it is hard to imagine how much 
+
+exponentially more damaging -­
+
+MR. YANG: Well, to be fair to AT&T, there 
+
+was a settlement agreement in which they did not admit 
+
+any wrongdoing. So -­
+
+JUSTICE SOTOMAYOR: But that presupposes 
+
+some sort of investigation. So that's public knowledge 
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+already.
+
+ MR. YANG: That is public knowledge. But I 
+
+think the key point is that the corporate -- a 
+
+corporation's interests in maintaining its business 
+
+reputation has been not regarded as a personal privacy 
+
+interest. It's true that they have interests, and FOIA 
+
+protects those interests, for instance, interests in 
+
+confidential commercial or financial information under 
+
+Exemption 4.
+
+ And so what really the -- we come back to 
+
+the key point, which is when Congress used the phrase 
+
+"personal privacy," it would have had no reason in 1974, 
+
+or even now, to think that term would have referred to 
+
+corporations. The fact that corporations have other 
+
+interests and other rights that might be legitimate is 
+
+kind of beside the point because those interests are not 
+
+referred to in the law or otherwise as personal privacy 
+
+interests.
+
+ I'd like to reserve the balance of my time.
+
+ CHIEF JUSTICE ROBERTS: Thank you, Mr. Yang.
+
+ MR. YANG: Thank you.
+
+ CHIEF JUSTICE ROBERTS: Mr. Klineberg.
+
+ ORAL ARGUMENT OF GEOFFREY M. KLINEBERG
+
+ ON BEHALF OF THE RESPONDENTS
+
+ MR. KLINEBERG: Thank you, 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Mr. Chief Justice, and may it please the Court:
+
+ The question in this case is whether any 
+
+organization, including not only business corporations 
+
+like AT&T but also nonprofit organizations and political 
+
+associations, should be categorically excluded from 
+
+protection under Exemption 7(C), such that this 
+
+exemption will now offer less protection for privacy 
+
+interests than the Constitution and the common law.
+
+ This Court has consistently held that the 
+
+privacy protections under FOIA are broader. And the 
+
+text supports that position.
+
+ JUSTICE GINSBURG: Do you include in this 
+
+the people, the persons that you say are shielded by 
+
+this privacy exemption, as Mr. Yang said, foreign 
+
+governments, State and local governments? Those have 
+
+all -- those all fall under the APA definition of 
+
+person.
+
+ MR. KLINEBERG: Justice Ginsburg, they do. 
+
+And we would agree that, as a matter of statutory 
+
+construction, the concept of personal privacy does apply 
+
+to those -- those other categories of actors. Now, 
+
+whether once that privacy interest is balanced against 
+
+the public's interest in disclosure, that balance may 
+
+well be different with respect to public or foreign 
+
+entities, but -- but certainly they -- they have a right 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to personal privacy under the terms of the statute.
+
+ JUSTICE GINSBURG: Can you give us an idea 
+
+of -- the corporation has been shielded by Exemption 4 
+
+for its confidential financial information, trade 
+
+secrets; and its employees have been protected under 
+
+Exemption 7.
+
+ What is it, what would be -- would fall 
+
+within this privacy exception that would not be 
+
+confidential business information or relate to employees 
+
+of the corporation?
+
+ MR. KLINEBERG: Justice Ginsburg, we -- I 
+
+could give you two categories or kinds of examples. One 
+
+is, for example, a series of e-mails among corporate 
+
+officers -- granted, whose own personal names and 
+
+identifying information have been redacted, but in those 
+
+e-mails, they may engage in a frank exchange about the 
+
+competence and intelligence of a would-be regulator of 
+
+the corporation or a -- disparaging comments about 
+
+potential -­
+
+JUSTICE SCALIA: Excuse me. Why does that 
+
+relate to their privacy? I don't understand that. Why 
+
+does that relate to the corporation's privacy interest? 
+
+Anything that would embarrass the corporation is -- is a 
+
+privacy interest?
+
+ MR. KLINEBERG: Well, Justice Scalia, the -­
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the answer is simply that these were communications, 
+
+conversations, that were occurring with an expectation 
+
+of privacy by the individuals involved on behalf of 
+
+their employer, and to the extent that they could be 
+
+used to harm the reputation or the customer goodwill of 
+
+-- of the company, they do, indeed, have a -- a personal 
+
+privacy interest in -­
+
+JUSTICE SCALIA: Anything that hurts the -­
+
+the -- the image or the goodwill of the company?
+
+ MR. KLINEBERG: Your Honor, everything that 
+
+with -- that is intended to be private is certainly 
+
+subject to the balancing that we're asking for under 
+
+Exemption 7(C); indeed, that Congress provided, that if 
+
+it's -- it's an interest in personal privacy, then it is 
+
+to be balanced to determine whether the disclosure of 
+
+that document is unwarranted.
+
+ JUSTICE SCALIA: Mr. Klineberg, can you give 
+
+me any example of -- your -- your brief talks a lot 
+
+about the adjective "personal." But we're not talking 
+
+just about the adjective "personal." What about the 
+
+phrase "personal privacy"?
+
+ "Personal," yes, can indeed apply to 
+
+corporations sometimes, but there are certain phrases 
+
+where it clearly does not. For example, you talk about 
+
+personal characteristics. That doesn't mean the 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+characteristics of General Motors. You talk about 
+
+personal qualities. It doesn't mean the qualities of 
+
+General Motors. You talk about a point of personal 
+
+privilege. It's not a privilege of a corporation.
+
+ And I think personal privacy is the same 
+
+thing. Can you give me any examples in common usage 
+
+where people would refer to the personal privacy of a -­
+
+of a corporation? It's a very strange phrase to me.
+
+ MR. KLINEBERG: Well, Your Honor, as 
+
+Justice Alito asked my -- my colleague earlier, the -­
+
+the whole concept of -- of "person" as including a 
+
+corporation would surprise many people, the proverbial 
+
+person on the street.
+
+ JUSTICE SCALIA: Yes. I'm not talking about 
+
+that. I'll grant you that -- that "personal" could 
+
+sometimes refer to a corporation, although the 
+
+Government distinguishes it by etymology and so forth. 
+
+Never mind that. I'm talking about personal privacy. 
+
+Do you have any examples from the New York Times, from, 
+
+you know, Boswell, from anywhere, that anybody refers to 
+
+the interests of a corporation as the "personal privacy" 
+
+of General Motors?
+
+ I cannot imagine somebody using the phrase 
+
+like that.
+
+ MR. KLINEBERG: Your Honor, we're not aware 
+
+26 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of that phrase being used certainly in any statutory 
+
+context -­
+
+JUSTICE GINSBURG: But you were about to 
+
+give a second example of where, even though it hasn't -­
+
+personal privacy hasn't been used in -- but you said one 
+
+example is the two officials who are saying unpleasant 
+
+things about a regulator. And what was your other 
+
+example?
+
+ MR. KLINEBERG: Well, there's a -- there's a 
+
+sub-example within that category which is the 
+
+disparaging of an important customer, some unpleasant 
+
+comments about an important customer of the corporation 
+
+that could then be used quite -- quite clearly by a -­
+
+by a competitor to -- to harm the goodwill of the -- of 
+
+the corporation with respect to that customer.
+
+ But there is indeed another whole category 
+
+of documents that goes beyond the -- the context of 
+
+AT&T's interest here, and the example is internal 
+
+documents within, say, an environmental nonprofit 
+
+organization talking about their political strategies 
+
+for defeating an amendment to the Clean Air Act.
+
+ As an example, those political strategies 
+
+that were shared internally by -- by members of the 
+
+organization without any intent to -- to have them 
+
+become public would become subject to -- to automatic 
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+disclosures, categorical disclosure, were the Government 
+
+to prevail in this case.
+
+ CHIEF JUSTICE ROBERTS: Do you think it's -­
+
+how does that work? If you have -- the president of the 
+
+environmental organization says something about whatever 
+
+it is -- we can lobby this guy to get this change -- is 
+
+he able to protect that on the grounds of his personal 
+
+privacy, even though the embarrassment would go to the 
+
+-- the organization as a whole?
+
+ MR. KLINEBERG: Mr. Chief Justice, I believe 
+
+the answer is in most cases "yes," that in -- that the 
+
+identity of the -- the specific speaker and any 
+
+identifying information corresponding to him or her 
+
+would be protected.
+
+ CHIEF JUSTICE ROBERTS: Well, why is it such 
+
+a big deal, then, to extend that to the organization as 
+
+a whole, if the individual's privacy is already going to 
+
+be protected?
+
+ MR. KLINEBERG: Indeed, Your Honor, I think 
+
+that is -- that is our position, that -- that the 
+
+personal privacy of the corporation is -- is affected by 
+
+such disclosure.
+
+ CHIEF JUSTICE ROBERTS: No. I mean 
+
+you're -- you're already protected, at least to a 
+
+significant extent, because the individual officers 
+
+28 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+would be able to assert a privacy interest, to the 
+
+extent at least that what you find embarrassing to -- to 
+
+the corporation is also individually embarrassing to 
+
+them.
+
+ MR. KLINEBERG: Right. But the -- but the 
+
+redactions that would occur would in all likelihood 
+
+simply be redactions of their names and perhaps their 
+
+titles, but their -- the substance of their comments 
+
+would certainly be -- would be disclosed under the 
+
+Government's view.
+
+ JUSTICE BREYER: Are there any examples that 
+
+you have? That is, in the last 35 years, has there been 
+
+any instance where the Justice Department or some other 
+
+law enforcement agency compiled a file for law 
+
+enforcement purposes, that in that file there were, for 
+
+whatever reasons, a bunch of conversations about the 
+
+organization's strategy, and it did not interfere to 
+
+release it with -- with anybody's personal privacy, but 
+
+it might interfere with that organization's strategy, 
+
+and so the organization, whatever it was, the NRDC or 
+
+something, was very upset about it?
+
+ Did you find a single example or a thousand 
+
+examples? Or how many examples did you find of that 
+
+happening?
+
+ MR. KLINEBERG: Well, Justice Breyer, one of 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the -- one of the things that has puzzled us in this 
+
+case is why -- why it has taken 35 years -­
+
+JUSTICE BREYER: Well, one reason might be 
+
+that this has really never been a problem because all 
+
+the legitimate -- or most of them, anyway -- that these 
+
+organizations that have interests in privacy are 
+
+actually taken care of by the other 17 exemptions here.
+
+ JUSTICE SCALIA: Another reason might be 
+
+that personal -- nobody ever thought that personal 
+
+privacy would cover this.
+
+ JUSTICE BREYER: This may be the first one. 
+
+That's why I want to know, is there -- one of the things 
+
+you would have looked for is an example of a real 
+
+problem of the kind you're talking about. I'm not 
+
+saying you don't have one. I would just like to know if 
+
+you found any, and what they are, so I could read them.
+
+ MR. KLINEBERG: Your Honor, we haven't found 
+
+anything specific to the -- in response to your 
+
+question.
+
+ But I -- I will say that one of the 
+
+explanations for why this issue has become more 
+
+important today than maybe it has been in recent past -­
+
+there really are three reasons. One is that Exemption 
+
+4, which Mr. Yang discussed, has been increasingly 
+
+narrowed by the courts of appeals to the point where 
+
+30 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+they specifically say, and, indeed, the Government 
+
+concedes, that -- that the reputational concerns and the 
+
+harm to customer goodwill is not the sort of harm that 
+
+Exemption 4 guards against.
+
+ And so that has become increasingly clear 
+
+among the courts of appeals, that the interests in 
+
+confidentiality that we're talking about under exception 
+
+7(C) are not -­
+
+JUSTICE BREYER: I mean, one possible reason 
+
+you don't find them is because it's very rare that a law 
+
+enforcement agency is going to try to subpoena the top 
+
+strategy of the -- of the NRDC, confidential strategy. 
+
+There might not be too many such records.
+
+ It -- another reason might be is that they 
+
+don't really care. Another reason might be -- I don't 
+
+know.
+
+ But if you haven't found any examples, what 
+
+we're back to -- or -- and maybe there are actual 
+
+examples of that -- of what you said to Justice Ginsburg 
+
+of the other instance, where the -- what was that first 
+
+one?
+
+ MR. KLINEBERG: Right.
+
+ JUSTICE BREYER: I'd like to know about the 
+
+example. What was the first one again?
+
+ MR. KLINEBERG: Well, the -- the first one 
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+was comments -- comments about a regulator or -­
+
+JUSTICE BREYER: They're worried about 
+
+saying something mean about a regulator. Okay. Yes, 
+
+fine. Are there examples of that? Is this the first 
+
+one, and what's the empirical state?
+
+ MR. KLINEBERG: Your Honor, it's a -- I 
+
+cannot point you to specific examples. They're -­
+
+they're sort of hard to -- hard to find in the -- in the 
+
+sense that they are -- that they're not typically 
+
+litigated, and they certainly haven't been litigated 
+
+under -- under this -- under this exemption before.
+
+ But -- but I think the other explanation for 
+
+why this matters today in a way that it might not have 
+
+mattered so much before, two -- two other reasons: One 
+
+is that -- that increasingly, FOIA is being used by -­
+
+by competitors and legal adversaries to obtain 
+
+information, not about what the government is doing, not 
+
+about what the government is up to, but about what 
+
+evidence the government might have gathered from private 
+
+parties.
+
+ JUSTICE GINSBURG: Is that a reason to 
+
+change what was the understanding of Exemption 7? One 
+
+of the items that doesn't work in your favor was the 
+
+Attorney General's memorandum at the time of the '74 
+
+amendments. 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. KLINEBERG: Well, actually, Justice 
+
+Ginsburg, at the time of the '74 amendments the only 
+
+existing Attorney General memorandum was that of 
+
+Attorney General Clark, which read "personal privacy" -­
+
+JUSTICE GINSBURG: I'm talking about the --
+
+Attorney General Levi.
+
+ MR. KLINEBERG: Right, and that -- that was 
+
+issued subsequent to the amendments in 1974, and that 
+
+was an -- an interpretive gloss on the recent 
+
+amendments.
+
+ JUSTICE GINSBURG: Yes, that's what I meant.
+
+ MR. KLINEBERG: Right. And so at the time 
+
+that Congress enacted the amendments, both under the 
+
+Privacy Act as well as Exemption 7(C), the -- the only 
+
+existing statement about what personal privacy might 
+
+mean would be -- would have been Attorney General 
+
+Clark's understanding that personal privacy can in fact 
+
+incorporate interests of corporations.
+
+ JUSTICE SCALIA: But if Attorney General 
+
+Levi's description, which was -- which was issued for 
+
+the purpose of telling all the agencies of the Federal 
+
+Government what this new statute meant -- and it had a 
+
+lot of ambiguities in it -- if that was wrong about -­
+
+about this subject, you'd have thought somebody would 
+
+have objected. 
+
+33
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+I mean, did some members of Congress who -­
+
+who had passed FOIA say this is outrageous; what about 
+
+the personal privacy of General Motors? I'm not aware 
+
+of any objections along those lines.
+
+ MR. KLINEBERG: Well, Your Honor, the --
+
+Attorney General Levi's memorandum did not go into a 
+
+long discussion or description of the -- of the 
+
+analysis. It simply said it does not appear or does not 
+
+seem to apply to -- to corporations. And it's 
+
+absolutely true. There -- this is not -- this issue 
+
+hasn't -- hasn't really been litigated and presented.
+
+ But our position is that there is nothing in 
+
+the plain language that would indicate that Congress 
+
+intended to categorically exclude corporations. It is 
+
+certainly true that the legislative history at the time, 
+
+as the Government spends quite a bit of time exploring, 
+
+does suggest that what was -- what was in most people's 
+
+minds was protection of individual privacy. But there 
+
+is no indication that they intended to exclude -­
+
+JUSTICE SCALIA: Is it the burden of the 
+
+Government to show that they intended to exclude 
+
+corporations, or is it your burden to show that this 
+
+exception was meant to include corporations? I would 
+
+think the latter is where the burden lies in this case.
+
+ MR. KLINEBERG: Well, Justice Scalia, our -­
+
+34
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+our burden is to -- is to defend our view of the 
+
+statute.
+
+ JUSTICE SCALIA: Well, but if you're asking 
+
+the Government to show that the -- there was an intent 
+
+to exclude corporations, I don't think that's their 
+
+burden. I think it's your burden to show that this 
+
+exemption was intended to include corporations.
+
+ MR. KLINEBERG: I agree, Your Honor, that we 
+
+are -- our burden is to demonstrate to you why the words 
+
+"personal privacy" in the statute apply to corporations. 
+
+I think one of the background facts is that there is no 
+
+indication that anyone thought that it was not to be 
+
+included. But let me -­
+
+CHIEF JUSTICE ROBERTS: Counsel, your 
+
+central argument is that because "person" is defined to 
+
+include corporation, "personal" in the same statute must 
+
+include corporate.
+
+ I tried to sit down and come up with other 
+
+examples where the adjective was very different from the 
+
+root noun. And it turns out it's not hard at all. You 
+
+have "craft" and "crafty." Totally different. "Crafty" 
+
+doesn't have much to do with "craft." "Squirrel," 
+
+"squirrelly." Right?
+
+ (Laughter.)
+
+ CHIEF JUSTICE ROBERTS: I mean, "pastor" -­
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+you have a "pastor" and "pastoral." Same root, totally 
+
+different.
+
+ So I don't understand -- I don't think 
+
+there's much to the argument that because "person" means 
+
+one thing, "personal" has to be the same relation.
+
+ MR. KLINEBERG: Mr. Chief Justice, let me 
+
+try to explain precisely what our proposed rule of 
+
+construction is, because I think there's been some 
+
+confusion, and I -- and I think the Government has -­
+
+has not properly characterized it, and certainly in 
+
+their reply brief.
+
+ We do not agree -- or we do not sign on to 
+
+the term "grammatical imperative," because our concern 
+
+with that phrase is that it might suggest that the rule 
+
+is to be applied regardless of the consequences, and 
+
+that is not our position.
+
+ Our position is that where the adjective 
+
+means "of or relating to" a term that Congress has 
+
+expressly defined, that definition should be applied, so 
+
+long as it makes sense to do so in light of the text and 
+
+structure of the statute as a whole.
+
+ So, in this case, Your Honor, "personal" 
+
+does -- is defined -- when you open up the dictionary, 
+
+the very first definition is "of or relating to a 
+
+particular person." "Person" is, then, defined by 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Congress as -- to include not only individuals, but -­
+
+but corporations and other associations.
+
+ So in this particular context, it makes 
+
+perfect sense to look to -­
+
+JUSTICE GINSBURG: Mr. Klineberg, you have 
+
+read the brief of the Project on Government Oversight, 
+
+where they give dozens and dozens of examples to show 
+
+that, overwhelmingly, "personal" is used to describe an 
+
+individual, not an artificial being. And it is the 
+
+overwhelming use of "personal."
+
+ MR. KLINEBERG: Justice Ginsburg, we do not 
+
+dispute that personal is often, even many, many times, 
+
+used to describe an individual and can only be 
+
+understood in that context. Indeed, the Truth in 
+
+Lending Act argument that the Government made in its 
+
+reply brief is a perfect example. The word "personal" 
+
+there is -- is mentioned alongside "personal," "family," 
+
+and "household."
+
+ And, indeed, even in that very same 
+
+statutory definition of "consumer," the word is referred 
+
+to as "a natural person." So, in that context, it would 
+
+be absurd or inappropriate to -- to borrow the concept 
+
+of the definition of "person."
+
+ All we're saying is when it is not absurd, 
+
+when it is not -- does not do violence to the statute, 
+
+37 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+under those circumstances, it makes perfect sense to 
+
+borrow the definition that Congress provided.
+
+ JUSTICE SOTOMAYOR: What would be similar to 
+
+medical files and such, under Exemption 6, that uses the 
+
+same phrase, "unwanted invasion on personal privacy"? 
+
+So what would your reading do to Exemption 6, and how 
+
+would we create or even make sense of Exemption 6?
+
+ MR. KLINEBERG: Your Honor, we don't believe 
+
+our reading does any -- any damage to this Court's 
+
+jurisprudence in Exemption 6, and the -- and the simple 
+
+reason is that while the words "personal privacy" in 
+
+Exemption 6 do mean -- and we agree with the Attorney 
+
+General Clark in this -- do mean that -- that -- the 
+
+same thing as it means in Exemption 7(C), but because -­
+
+precisely for the reason you said, Justice Sotomayor -­
+
+the personnel and medical and similar files limits the 
+
+likely scope of that privacy interest to individual, 
+
+natural -- natural persons. And that's simply not 
+
+because of the words "personal privacy," but because of 
+
+the company that those words keep in that -- in that 
+
+particular exemption.
+
+ JUSTICE SOTOMAYOR: Why? I mean, if you're 
+
+saying that personal privacy has some overlap with 
+
+individual privacy -- obviously, it has to if you're 
+
+going to give meaning to personal privacy -- don't we 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+have to give meaning to "and similar files"? And so 
+
+what would those be?
+
+ MR. KLINEBERG: Well, Your Honor, as this 
+
+Court said in the Washington Post case, the 
+
+understanding of "similar files" is defined by the two 
+
+benchmarks that are expressly provided, right? 
+
+Personnel and medical. So the kinds of files are 
+
+limited to the sorts of files in which individual 
+
+information is likely to be contained. In that case, it 
+
+was a passport file.
+
+ Again, our -- our argument is simply that 
+
+it's that part of Exemption 6 that does the limiting 
+
+work in terms of its scope. The words "personal 
+
+privacy" mean the same thing in Exemption 6 as -- as 
+
+they do in Exemption 7(C).
+
+ The -- the other point that I -- I certainly 
+
+want to make clear is that our position is that personal 
+
+privacy is only the first step in the determination 
+
+whether or not a particular document is disclosed, 
+
+because if the Government prevails, there will be no 
+
+need even to articulate a public interest in the 
+
+disclosure of potentially harmful documents. Instead, 
+
+they will be automatically available to any competitor 
+
+or legal adversary.
+
+ And all we are asking for and, indeed, all 
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that Congress provided for is that the privacy interest 
+
+be weighed against the public interest in disclosure. 
+
+And what the -- what the FCC did here was to 
+
+categorically exclude corporations from the protections 
+
+of Exemption 7(C). And -- and all we are saying is that 
+
+those interests are legitimate and just need to be 
+
+balanced. And what the government's obligations under 
+
+these circumstances are is that they need to weigh the 
+
+private interests in -- in the documents against the 
+
+articulated public interest in disclosure. And that 
+
+interest, of course, has to do with what the government 
+
+is up to. What do these documents tell us about what 
+
+the government is doing?
+
+ And if, as the amici on the Government's 
+
+side suggests, there are lots of public -- lots of 
+
+public value and public interest in the disclosure, then 
+
+that balance is more likely to be weighed in favor of 
+
+disclosure. And all we are asking for, though, is that 
+
+that balance take place. And what's happened here is 
+
+that -- is, as I said; it's a categorical exclusion that 
+
+simply is inconsistent with the terms that Congress laid 
+
+out in exemption 7(C).
+
+ Congress did not intend for FOIA to be a 
+
+tool for an organization's adversaries to obtain access 
+
+to harmful or embarrassing documents compiled for law 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+enforcement purposes where such documents do nothing to 
+
+open agency action to public scrutiny. If the 
+
+Government has its way in this case, the result will be 
+
+what this Court decried in Favish, which was that it 
+
+would be the failure to protect the privacy of citizens 
+
+against the uncontrolled release of information compiled 
+
+through the power of the state.
+
+ If there are no further questions, I urge 
+
+that the -- that the Third Circuit be affirmed. Thank 
+
+you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Mr. Yang, you have 6 minutes left.
+
+ REBUTTAL ARGUMENT OF ANTHONY A. YANG
+
+ ON BEHALF OF THE PETITIONERS
+
+ MR. YANG: Thank you, Mr. Chief Justice.
+
+ AT&T appears to have changed or at least 
+
+modified its position somewhat from the position 
+
+articulated at page 14 of its brief. There AT&T 
+
+says, "By expressly defining the noun 'person' to 
+
+include corporations, Congress necessarily defined the 
+
+adjective form of that noun -- 'personal' -- also to 
+
+include corporations."
+
+ Now, AT&T has given up on the grammatical 
+
+imperative that guided exclusively the court of appeals' 
+
+decision in this case. There's nothing left. AT&T can 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+provide no example where the term "personal privacy" has 
+
+ever been used to refer to a corporation, much less a 
+
+foreign government or State or local government in any 
+
+context, whether it be FOIA, the law generally, or even 
+
+in common usage.
+
+ AT&T can provide no example of any problems 
+
+that have arisen in over 35 years of the government's 
+
+consistent administration of this provision. In fact, 
+
+all indications point in simply one direction. Personal 
+
+privacy applies only to individuals. The terms 
+
+"personal" and the terms "privacy" do that alone. And, 
+
+together, "personal privacy makes" that clear.
+
+ The legislative history, the decisions of 
+
+this Court pointing to the balance applying only to 
+
+individuals, individual rights. All point in the same 
+
+direction.
+
+ We would ask that the Third Circuit be 
+
+reversed.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+Counsel.
+
+ The case is submitted.
+
+ (Whereupon, at 11:07 a.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+42 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final ReviewOfficial - Subject to Final Review
+
+43 
+
+A 8:19 29:14 APA 8:16 23:16 asserts 9:8,9 25:3 41:14 
+abandon15:1 31:11 41:2 appeals 3:11 Assistant 1:16 beings 12:18 
+able 28:7 29:1 agency's 8:19 8:17 30:25 31:6 associations believe 28:10 
+above-entitled 20:1 41:24 23:5 37:2 38:8 
+
+1:12 42:23 Aggregations appear 34:8 Attorney 32:24 benchmarks 
+absolutely 34:10 17:16 appearance 5:4 33:3,4,6,16,19 20:3 39:6 
+absurd 37:22,24 agree 23:19 35:8 5:6,9 34:6 38:12 beyond 3:13 
+accept 16:14 36:12 38:12 appearances AT&T 1:7 3:5 10:22 16:4 
+access 40:24 agreement 16:19 1:15 5:3 4:24 6:14,15 17:13 27:17 
+account 14:9 20:7 21:22 appears 41:16 10:23 18:12 big 28:16 
+Act 5:14 12:15 agricultural applied14:13 21:15,21 23:4 bit 12:11 34:16 
+
+12:15,23,24 18:20 36:15,19 41:16,18,23,25 body 19:14 
+13:5 18:16 Air27:21 applies 9:22 20:7 42:6 books 7:6 
+27:21 33:14 AL 1:4,7 42:10 AT&T's 8:23 borrow37:22 
+37:15 Alito 4:2 5:10 apply 10:14 27:18 38:2 
+
+action 8:18,19 11:24 26:10 14:15 16:20 automatic 27:25 Boswell 26:20 
+41:2 alleging 7:20 23:20 25:22 automatically Brandeis 10:11 
+
+actions 4:19,20 alongside 37:17 34:9 35:10 39:23 Brandeis's 9:14 
+8:12,12,15,16 alteration 5:25 applying 42:14 available 7:6 Breyer29:11,25 
+
+actors 23:21 ambiguities appropriate 10:3 39:23 30:3,11 31:9,23 
+actual 31:18 33:23 15:17 19:25 aware 26:25 34:3 32:2 
+Act's 8:16 ambiguity 13:16 arbitrary 7:22 a.m 1:14 3:2 brief 4:24 5:24 
+additional 6:10 13:20 14:20 8:20,25 42:22 11:16 12:21 
+addressed20:4 
+addresses 7:4,4 
+adjective 25:19 
+
+25:20 35:19 
+36:17 41:21 
+
+adjectives 18:13 
+administration 
+
+42:8 
+administrative 
+
+5:13 8:1 
+admit 21:22 
+advance 11:23 
+
+14:6 
+advancing 15:21 
+adversaries 
+
+32:16 40:24 
+adversary 20:24 
+
+39:24 
+affirmed41:9 
+agencies 19:21 
+
+33:21 
+agency 7:3,8 
+
+ambiguous 14:14 
+amendment 7:24 
+
+27:21 
+amendments 
+
+32:25 33:2,8,10 
+33:13 
+
+American18:10 
+18:15 
+
+amici 40:14 
+amount 8:13 
+analysis 34:8 
+anomalies 19:11 
+anomalous 3:17 
+answer20:19 
+
+25:1 28:11 
+answering 20:20 
+answers 20:21 
+ANTHONY1:16 
+
+2:3,9 3:7 41:13 
+anybody 26:20 
+anybody's 29:18 
+anyway 30:5 
+
+argue 9:19 
+argument 1:13 
+
+2:2,5,8 3:3,7 
+12:1,2 15:23 
+22:23 35:15 
+36:4 37:15 
+39:11 41:13 
+
+arisen42:7 
+art 4:8,10,14 
+article 7:22 9:15 
+
+10:13 
+articulate 39:21 
+articulated40:10 
+
+41:18 
+artificial 5:22 
+
+12:18 37:9 
+aside 20:25 
+asked26:10 
+asking 20:15 
+
+25:12 35:3 
+39:25 40:18 
+
+assert 11:3 29:1 
+
+B 
+back 6:4 8:12 
+
+9:12,14 10:10 
+10:17 17:21,23 
+22:10 31:18 
+
+background 
+35:11 
+
+balance 14:4 
+15:17 22:19 
+23:23 40:17,19 
+42:14 
+
+balanced23:22 
+25:15 40:7 
+
+balancing 7:11 
+25:12 
+
+based15:23 
+basis 10:19 
+behalf 1:17,19 
+
+2:4,7,10 3:8 
+7:17 8:3,5,10 
+9:10,10 22:24 
+
+25:18 36:11 
+37:6,16 41:18 
+
+broad 13:9 
+broader3:16 
+
+12:8 16:3 23:10 
+broadly 21:1 
+brought 4:11,12 
+bunch29:16 
+burden34:20,22 
+
+34:24 35:1,6,6 
+35:9 
+
+business 18:22 
+19:8 21:16,16 
+22:4 23:3 24:9 
+
+C 
+C 2:1 3:1 
+capricious 7:22 
+
+8:20,25 
+care 30:7 31:15 
+careful 19:23 
+case 3:4 7:19 
+
+Alderson Reporting CompanyAlderson Reporting Company
+
+
+
+Official - Subject to Final Review 
+
+44 
+
+8:21 11:15 12:9 Circuit 41:9 40:25 41:6 23:8 22:14,14 23:3 
+12:11 14:24 42:17 comply 8:24 construct 5:8 25:23 33:18 
+15:24,25 16:4,6 circumstances concede 21:9 construction 34:9,14,22,23 
+16:15 18:10 38:1 40:8 concedes 31:2 14:5,23 15:20 35:5,7,10 37:2 
+23:2 28:2 30:2 cited4:24 concept 7:24 16:5 23:20 36:8 40:4 41:20,22 
+34:24 36:22 cites 4:24 9:21 23:20 construe 11:22 corporation's 
+39:4,9 41:3,25 citizen13:12 26:11 37:22 18:18 18:22 21:16 
+42:21,22 citizens 13:2 41:5 concepts 3:23 construed11:5 22:4 24:22 
+
+cases 4:11,12 claim 8:19,23 9:14 10:2,4,13 11:11 15:5,14 correct 6:10 
+11:3,6,8,12,12 clarity 13:18 concern 19:1 16:2 18:15 10:24 12:17 
+15:2,12 28:11 Clark 33:4 38:13 36:13 consumer18:18 18:5 
+
+categorical 28:1 Clark's 33:17 concerns 12:15 18:25 37:20 corresponding 
+40:20 Clean 27:21 18:19 31:2 contained39:9 28:13 
+
+categorically clear 10:16,17 conclude 10:20 context 3:16,21 costs 13:25 
+23:5 34:14 40:4 13:17 31:5 conclusion 19:4 9:22 11:11 12:3 counsel 20:10 
+
+categories 23:21 39:17 42:12 conduct 7:10,11 12:8 16:16 17:9 35:14 41:11 
+24:12 clearly 25:24 conducted18:22 19:13 20:5,8 42:19,20 
+
+category 27:10 27:13 confer10:22 27:2,17 37:3,14 course 12:10 
+27:16 colleague 26:10 conferring 10:21 37:21 42:4 40:11 
+
+central 35:15 combine 10:15 confidential 6:8 contexts 4:3 5:21 court 1:1,13 3:10 
+certain 5:21 7:10 come 15:24 10:6 22:8 24:4 11:9 16:24 3:11 7:2 8:17 
+
+8:21 9:16 11:9 22:10 35:18 24:9 31:12 17:12,12 11:9,12,17 14:3 
+16:24 25:23 comments 24:18 confidentiality contrary 8:20 14:17 15:13,15 
+
+certainly 9:19,21 27:12 29:8 32:1 10:4 21:14 31:7 conversations 15:20 16:25 
+14:23 23:25 32:1 confusion 36:9 25:2 29:16 17:1,8 18:15,21 
+25:11 27:1 29:9 commercial 6:7 Congress 10:18 corporate 4:25 19:3,11,22,23 
+32:10 34:15 22:8 11:14,17,24 9:22 19:7,8 20:1 23:1,9 
+36:10 39:16 Commission1:3 12:9,25 13:5,11 20:4 22:3 24:13 39:4 41:4,24 
+
+challenging 3:5 6:6,14 14:1,4,7,10 35:17 42:14 
+13:18 Committee 6:22 15:17 20:3 corporation 4:4,5 courts 30:25 31:6 
+
+change 13:21 common21:15 22:11 25:13 5:1,7,7,12,14 Court's 6:21 7:1 
+28:6 32:22 23:8 26:6 42:5 33:13 34:1,13 5:18 6:16 7:16 15:13 16:1 
+
+changed41:16 commonly 10:1 36:18 37:1 38:2 7:18,20 8:2,10 17:22 38:9 
+characteristics communications 40:1,21,23 12:7 17:25 18:7 cover30:10 
+
+25:25 26:1 1:3 3:5 6:12 41:20 21:4,5 24:3,10 craft 35:21,22 
+characterized 25:1 congressional 24:18,23 26:4,8 crafty 35:21,21 
+
+36:10 company 25:6,9 11:23 26:12,16,21 create 38:7 
+Chief 3:3,9 9:18 38:20 Congress's 27:12,15 28:21 currently 11:17 
+
+10:5 16:21 competence 13:19 29:3 35:16 42:2 customer25:5 
+17:11,16 22:20 24:17 consequences corporations 27:11,12,15 
+22:22 23:1 28:3 competitor 27:14 36:15 3:15 4:1 5:22 31:3 
+28:10,15,23 39:23 consider9:1 9:10,20 10:2,17 
+35:14,25 36:6 competitors consistent 42:8 10:23 13:7 D 
+
+41:11,15 42:19 32:16 consistently 23:9 18:17 19:12,17 D 3:1 
+Chief's 17:24 compiled29:14 Constitution 20:8 21:10,13 damage 38:9 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+45 
+
+damaging 21:20 determine 6:22 doing 32:17 2:6,9 35:7 38:4,6,7 
+deal 28:16 7:11 25:15 40:13 establish11:18 38:10,12,14,21 
+decedent 17:20 developed6:2 dozens 37:7,7 established 39:12,14,15 
+decide 6:15 dictionary 36:23 drafting 3:17 19:14 40:5,22 
+
+19:12 different 12:3 draw17:8 ET 1:4,7 exemptions 6:7 
+decided16:25 23:24 35:19,21 drawn 4:11 etymology 26:17 11:13,19 12:3 
+decision 6:21 7:1 36:2 D.C 1:9,17,19 everybody 13:12 16:20 30:7 
+
+8:25 15:15 differently 21:10 evidence 32:19 exercise 19:20 
+17:22 19:24 difficult 12:12 E evolution 4:13 exist 5:8 
+20:1 41:25 difficulty 21:1 E 2:1 3:1,1 exactly 14:22 existed6:1 
+
+decisions 15:13 dignitary 9:16 earlier26:10 example 4:4 existing 33:3,15 
+15:16 42:13 direction 42:9,16 edit 18:2 24:13 25:18,24 exists 21:14 
+
+decision-making disagree 13:23 effects 21:5 27:4,6,8,18,22 expand 19:16 
+7:21 8:6 16:7 elaborating 29:22 30:13 expectation 25:2 
+
+decried41:4 disclose 7:13 10:12 31:24 37:16 explain 5:24 
+deemed14:2 disclosed21:2 embarrass 24:23 42:1,6 11:12,16 12:21 
+defamation 29:9 39:19 embarrassing examples 24:12 12:22 18:11 
+
+21:15 disclosure 7:12 6:15 29:2,3 26:6,19 29:11 19:24 36:7 
+defeating 27:21 7:23 11:19 40:25 29:23,23 31:17 explained7:2 
+defend 35:1 13:19 23:23 embarrassment 31:19 32:4,7 9:15 15:15 
+defined13:1 21:9 25:15 28:1,22 6:20 28:8 35:19 37:7 18:21 
+
+35:15 36:19,23 39:22 40:2,10 embrace 15:7 exception 11:21 explains 15:13 
+36:25 39:5 40:16,18 embracing 16:5 11:22 13:21 explanation 
+41:20 disclosures 28:1 empirical 32:5 24:8 31:7 34:23 32:12 
+
+defines 5:14 discussed30:24 employee 6:9,15 exceptions 11:4 explanations 
+defining 19:18 discussion 34:7 employees 8:3 11:10 13:25 30:21 
+
+21:1 41:19 disparaging 18:1 24:5,9 14:2 15:4,14,16 exploring 34:16 
+definition 18:16 24:18 27:11 employee's 7:17 16:2 exponentially 
+
+18:25 19:9 dispositive 5:15 employer25:4 exchange 24:16 21:20 
+23:16 36:19,24 dispute 37:12 enacted33:13 exclude 13:12 Express 18:10 
+37:20,23 38:2 distinction4:11 enacting 10:19 34:14,19,21 18:15 
+
+definitional 12:8 distinctions 4:17 11:23 35:5 40:4 expressly 36:19 
+definitively distinguished enforcement excluded23:5 39:6 41:19 
+
+20:19 6:16 29:14,15 31:11 exclusion 40:20 extend 28:16 
+demonstrate distinguishes 41:1 exclusively extending 13:7 
+
+35:9 26:17 engage 24:16 41:24 extends 3:13 
+deny 17:24 21:13 distort 11:22 entities 10:2 11:1 Excuse 17:23 extent 15:20 
+Department 14:6 23:25 24:20 25:4 28:25 29:2 
+
+29:13 document 25:16 entity 20:5 exemption 3:13 extraordinary 
+departure 17:3 39:19 enumeration 3:16 6:9,11,11 19:20 
+describe 37:8,13 documents 7:23 19:6 9:4,4 10:19 e-mails 24:13,16 
+description 8:13 9:21 27:17 environmental 22:9 23:6,7,14 
+
+33:20 34:7 27:19 39:22 27:19 28:5 24:3,6 25:13 F 
+
+determination 40:9,12,25 41:1 equipoise 14:22 30:23 31:4 fact 4:21 14:10 
+39:18 DOD 7:2 ESQ 1:16,19 2:3 32:11,22 33:14 19:3 22:14 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+46 
+
+33:17 42:8 11:23 13:25 give 8:17 24:2,12 groundbreaking 11:20 
+factors 19:6 15:4,18 16:1 25:17 26:6 27:4 10:13 identify 7:9 
+facts 35:11 17:4 18:2 20:12 37:7 38:25 39:1 grounds 28:7 identifying 24:15 
+failure 41:5 22:6 23:10 given11:13 guards 31:4 28:13 
+fair 21:21 32:15 34:2 13:17 15:15,16 guided41:24 identity 28:12 
+fall 18:24 23:16 40:23 42:4 41:23 guides 19:25 III 7:22 
+
+24:7 FOIA's 3:11,16 gloss 33:9 guilty 21:19 image 25:9 
+families 16:22 11:12 go 6:4,14 17:12 guy 28:6 imagine 21:19 
+family 16:24 following 6:21 17:21,23 28:8 26:23 
+
+17:15,19 18:19 foreign 10:24 34:6 H imperative 18:13 
+37:17 13:7 19:17 20:4 goal 13:25 happened40:19 36:13 41:24 
+
+fatal 18:11 19:2 23:14,24 42:3 goes 27:17 happening 29:24 implicated21:17 
+Favish16:25 form 17:25 41:21 going 8:9 9:12 happy 16:12 implication10:23 
+
+17:1,20 19:23 forth15:1 19:11 10:10 16:8 hard 21:19 32:8 important 4:22 
+41:4 26:17 18:10 28:17 32:8 35:20 11:20 14:1,12 
+
+favor 32:23 found 30:16,17 31:11 38:25 harm 20:24 21:2 27:11,12 30:22 
+40:17 31:17 goodwill 25:5,9 25:5 27:14 31:3 improper19:25 
+
+FBI 20:12 four 19:6 27:14 31:3 31:3 inappropriate 
+FCC 8:21,24 Fourth7:24 govern 8:22 harmful 39:22 37:22 
+
+40:3 frank 24:16 government 6:12 40:25 include 5:14 
+Federal 1:3 3:4 full 13:19 6:21 7:14 8:5 hear 3:3 18:17 19:17 
+
+33:21 fully 11:16 8:13 9:4,8 held 3:11 23:9 23:12 34:23 
+fifties 10:11 further20:9 41:8 14:25 15:5 16:3 help 15:22 16:6,8 35:7,16,17 37:1 
+file 29:14,15 16:9 26:17 28:1 helped16:10 41:20,22 
+
+39:10 G 31:1 32:17,18 history 3:17 included13:11 
+files 38:4,16 39:1 G 3:1 32:19 33:22 16:17 34:15 35:13 
+
+39:5,7,8 gathered32:19 34:16,21 35:4 42:13 includes 18:16 
+final 8:19 gee 14:13 36:9 37:6,15 Hobbs 8:16 including 23:3 
+Finally 19:10 general 1:17 39:20 40:11,13 holding 3:15 26:11 
+financial 6:8 22:8 11:18,21 26:1,3 41:3 42:3,3 home 7:4 inconsistent 3:15 
+
+24:4 26:22 33:3,4,6 governments Honor25:10 40:21 
+find 29:2,22,23 33:16,19 34:3,6 10:24,24,25 26:9,25 28:19 incorporate 
+
+31:10 32:8 38:13 13:8 19:17,18 30:17 32:6 34:5 33:18 
+fine 32:4 generally 42:4 19:18 20:4 35:8 36:22 38:8 increase 8:13 
+first 3:4 6:5 General's 32:24 23:15,15 39:3 increasingly 
+
+19:21 30:11 GEOFFREY government's household 18:20 30:24 31:5 
+31:20,24,25 1:19 2:6 22:23 7:21 15:22 16:6 37:18 32:15 
+32:4 36:24 Ginsburg 5:2 6:4 16:9 29:10 40:7 human3:20 9:16 indicate 34:13 
+39:18 6:13,18 11:2 40:14 42:7 12:16 20:11 indicated11:10 
+
+fit 19:9 12:14,18 15:8 grammatical hurts 25:8 indication34:19 
+FLRA 7:2 
+FOIA 3:24 7:19 
+
+8:2,10,12,14 
+8:15,18,22 9:6 
+9:7 11:4,14,18 
+
+15:23 23:12,18 
+24:2,11 27:3 
+31:19 32:21 
+33:2,5,11 37:5 
+37:11 
+
+5:25 18:13 
+36:13 41:23 
+
+grant 26:15 
+granted24:14 
+greater3:25 
+
+I 
+idea 24:2 
+identical 21:4 
+identified9:16 
+
+35:12 
+indications 42:9 
+individual 3:20 
+
+3:20,22 9:23 
+10:1 12:19,24 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+47 
+
+13:2 17:5,13,14 19:16 21:11,13 38:10 31:22,25 32:6 light 16:16 36:20 
+17:15,18 19:15 22:6 23:22,23 Justice 3:3,9 4:2 33:1,7,12 34:5 likelihood 29:6 
+20:11,11,14,25 24:22,24 25:7 5:2,10 6:4,13 34:25 35:8 36:6 limit 19:25 
+21:2,6 28:25 25:14 27:18 6:18 7:15 8:1,8 37:5,11 38:8 limitations 14:11 
+34:18 37:9,13 29:1 38:17 9:18 10:5 11:2 39:3 limited9:19 
+38:17,24 39:8 39:21 40:1,2,10 11:3,7,24 12:14 know13:17 13:10 39:8 
+42:15 40:11,16 12:18 13:14,16 14:14 17:2 limiting 39:12 
+
+individually 29:3 interests 9:10,17 14:8,19,24,25 26:20 30:12,15 limits 38:16 
+individuals 3:13 11:20 16:4 15:4,8,9,23 31:16,23 lines 15:12 34:4 
+
+6:23,25 7:3,5,6 21:16 22:4,6,7 16:8,12,21 knowledge 21:25 litigated32:10 
+7:9 9:2,5,6,11 22:7,15,16,18 17:11,16,23 22:2 32:10 34:11 
+10:14,22 12:10 23:8 26:21 30:6 18:6 20:10,17 little 12:2,11 
+12:15,16 13:1,4 31:6 33:18 40:6 20:23 21:8,18 L lobby 28:6 
+13:10,11 16:20 40:9 21:24 22:20,22 label 9:17 local 10:24 19:18 
+17:17,25 18:3,6 interfere 29:17 23:1,12,18 24:2 laid 40:21 23:15 42:3 
+18:8 19:13 25:3 29:19 24:11,20,25 language 16:15 long 3:25 34:7 
+37:1 42:10,15 internal 6:11 25:8,17 26:10 34:13 36:20 
+
+individual's 27:18 26:14 27:3 28:3 late 6:2 longstanding 
+28:17 internally 27:23 28:10,15,23 Laughter16:11 17:7 
+
+inflection 5:25 interpretation 29:11,13,25 35:24 long-established 
+information6:8 19:5 30:3,8,11 31:9 law4:3,11,14 4:17 
+
+6:24 7:9,10,13 interpretive 33:9 31:19,23 32:2 5:17,17 8:21 look 5:15 16:17 
+17:4 18:9 22:8 invasion 3:22 32:21 33:1,5,11 9:16 10:12 11:1 37:4 
+24:4,9,15 28:13 9:13 12:4 38:5 33:19 34:20,25 19:14 21:15 looked30:13 
+32:17 39:9 41:6 invasions 12:7 35:3,14,25 36:6 22:17 23:8 lot 25:18 33:23 
+
+instance 4:23 7:1 investigated 37:5,11 38:3,15 29:14,14 31:10 lots 40:15,15 
+7:15,19 14:22 20:12 38:22 41:11,15 40:25 42:4 
+18:17 21:14 investigation 42:19 lawful 13:2,13 M 
+
+22:7 29:13 20:13,16 21:3 lead 3:17 M 1:19 2:6 22:23 
+31:20 21:25 K leave 16:12 maintaining 22:4 
+
+instances 4:23 invoke 10:1 keep38:20 left 41:12,25 making 5:6 19:24 
+institutions invokes 3:22 KENNEDY7:15 legal 5:7,21 20:1 
+
+19:19 4:16 9:5,14 8:1,8 32:16 39:24 matter1:12 8:2 
+intelligence involved25:3 key 21:12 22:3 legalese 5:13 23:19 42:23 
+
+24:17 issue 10:3 14:1 22:11 legislation 13:24 mattered32:14 
+intend 40:23 30:21 34:10 kind 7:24 22:16 14:11 matters 32:13 
+intended25:11 issued33:8,20 30:14 legislative 34:15 mean 4:25 10:16 
+
+34:14,19,21 items 32:23 kinds 24:12 39:7 42:13 13:2,20 15:10 
+35:7 Klineberg 1:19 legitimate 22:15 16:18 17:15 
+
+intending 12:25 J 2:6 22:22,23,25 30:5 40:6 25:25 26:2 
+intent 13:19 14:6 January 1:10 23:18 24:11,25 Lending 18:16 28:23 31:9 32:3 
+
+27:24 35:4 judgment 19:21 25:10,17 26:9 37:15 33:16 34:1 
+interest 6:23 7:7 jurisdiction4:5,9 26:25 27:9 Levi 33:6 35:25 38:12,13 
+
+7:12 9:2 11:15 4:10 8:18 28:10,19 29:5 Levi's 33:20 34:6 38:22 39:14 
+15:25 17:19 jurisprudence 29:25 30:17 lies 34:24 meaning 4:15 6:2 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+48 
+
+9:25,25 10:1 10:23 13:20 operative 12:23 perfect 37:4,16 23:13 38:18 
+12:8 13:21,22 41:20 opposed5:16 38:1 pertaining 5:1 
+18:14 38:25 need21:9 39:21 oral 1:12 2:2,5 permanent 13:3 7:9 
+39:1 40:6,8 3:7 22:23 13:13 pertains 6:24 
+
+meaningful negative 21:5 order15:17 person 5:11,14 18:9 
+11:13 never4:24 20:3 ordinary 4:14 5:21 6:1 9:19 Petitioners 1:5 
+
+meanings 13:17 26:18 30:4 5:10,16 9:25,25 11:25 12:1,5 1:18 2:4,10 3:8 
+means 14:20,20 new26:19 33:22 organization 18:17 19:15 41:14 
+
+36:4,18 38:14 nonprofit 23:4 23:3 27:20,24 23:17 26:11,13 phone 7:6 
+meant 33:11,22 27:19 28:5,9,16 29:20 35:15 36:4,25 phrase 3:22,24 
+
+34:23 non-human20:5 organizations 36:25 37:21,23 10:21 11:25 
+medical 38:4,16 normal 14:5,17 23:4 30:6 41:19 12:4,22 13:6 
+
+39:7 normally 9:7 organization's personal 3:12,14 19:5 22:11 
+member17:19 10:3 29:17,19 40:24 3:19,24 4:1,3,5 25:21 26:8,23 
+members 16:25 note 4:22 9:3 outrageous 34:2 4:7,8,15,16,25 27:1 36:14 38:5 
+
+17:15 27:23 notice 9:7 overlap 38:23 5:3,4,6,11,16 phrases 12:21 
+34:1 noun 18:14 35:20 Oversight 37:6 5:23,24 6:3,23 25:23 
+
+memorandum 41:19,21 overwhelming 7:7 9:1,5,20 place 40:19 
+32:24 33:3 34:6 NRDC 29:20 37:10 10:18,21 11:1 plain 34:13 
+
+mentioned37:17 31:12 overwhelmingly 12:22 13:6,8 please 3:10 23:1 
+Milner11:16 number11:8 37:8 16:22 17:1,4,6 pled21:19 
+mind 26:18 17:8,12,19 18:1 point 5:19 20:23 
+minds 34:18 O P 18:19 19:1,12 21:12 22:3,11 
+minutes 41:12 O 2:1 3:1 P 3:1 19:16,17,19 22:16 26:3 
+modern 4:9 objected33:25 page 2:2 19:7 20:5,7 22:5,12 30:25 32:7 
+modified41:17 objection 7:17 41:18 22:17 23:20 39:16 42:9,15 
+morning 3:4 8:2,4 papers 6:14 24:1,14 25:6,14 pointing 42:14 
+Motors 26:1,3 objections 34:4 part 19:21 39:12 25:19,20,21,22 policy 19:20 
+
+26:22 34:3 objective 20:1 particular6:24 25:25 26:2,3,5 political 23:4 
+objectives 14:10 36:25 37:3 26:7,15,18,21 27:20,22 
+
+N obligations 40:7 38:21 39:19 27:5 28:7,21 portions 12:24 
+N 2:1,1 3:1 obtain 32:16 particularly 9:13 29:18 30:9,9 position 5:5,20 
+name 7:3 20:13 40:24 10:14 12:3,6 33:4,15,17 34:3 15:22 16:7,9 
+names 24:14 obviously 38:24 16:16,17 35:10,16 36:5 23:11 28:20 
+
+29:7 occur 29:6 parties 32:20 36:22 37:8,10 34:12 36:16,17 
+narrow14:23 occurring 25:2 parts 3:25 21:18 37:12,16,17 39:17 41:17,17 
+
+15:19 occurs 20:25 passed34:2 38:5,11,19,23 possible 19:4,4 
+narrowed30:25 21:2 passport 39:10 38:25 39:13,17 31:9 
+narrowest 13:22 offer23:7 pastor 35:25 41:21 42:1,9,11 Post 39:4 
+narrowly 11:4,10 officers 17:25 36:1 42:12 potential 24:19 
+
+11:21 15:5,14 24:14 28:25 pastoral 36:1 personam 4:10 potentially 39:22 
+16:2 officials 27:6 pending 11:17 4:12,20 power41:7 
+
+natural 37:21 Okay 14:25 32:3 people 23:13 personnel 38:16 practical 15:16 
+38:18,18 once 23:22 26:7,12 39:7 precedent 16:1 
+
+necessarily 6:20 open36:23 41:2 people's 34:17 persons 5:22 precisely 36:7 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+49 
+
+38:15 32:19 40:9 40:16 41:2 31:9,14,15 rem4:12,18 
+predicate 10:25 privilege 26:4,4 publicly 7:5 32:21 38:11,15 remark 17:22 
+presented34:11 probably 12:12 public's 23:23 reasons 29:16 19:10 
+president 28:4 20:19 purely 3:22 30:23 32:14 remiss 17:22 
+presupposes problem30:4,14 purpose 11:23 REBUTTAL 2:8 repeating 19:5 
+
+21:24 problems 42:6 33:21 41:13 reply 18:11 
+prevail 12:12 Procedure 5:14 purposes 18:20 recognized17:2 36:11 37:16 
+
+28:2 process 7:21 8:6 18:23,24 19:1,8 17:5 Reporters 6:22 
+prevails 39:20 9:6 29:15 41:1 record 20:21 reputation21:16 
+primarily 18:19 processes 9:8 pursuant 8:14 records 20:13 22:5 25:5 
+primary 13:24 processing 8:22 pursues 13:24 31:13 reputational 31:2 
+principle 11:19 Project 37:6 put 14:3 16:13 recovered4:18 request 6:5 8:14 
+
+15:1,7 properly 7:4 8:6 putting 14:9 4:19 9:8 20:12 
+prior17:3 36:10 20:25 redacted24:15 requests 8:23 9:6 
+privacy 3:12,13 property 4:16,18 puzzled30:1 redactions 29:6 require 19:20 
+
+3:14,20,22,24 4:19 9:20 10:6 29:7 required9:1 20:2 
+4:1 6:23 7:7 9:2 10:6,7 Q refer4:4,4 5:12 reserve 22:19 
+9:5,13,13,15 proposed36:7 qualities 26:2,2 5:18,21 26:7,16 resident 13:13 
+9:17,18,24 10:9 proposition question 8:9 42:2 residents 13:3 
+10:9,13,18,21 18:12,12 13:15,18 17:24 referred22:13 resist 7:23 
+11:1,25,25 12:5 Prosser10:12,17 20:20,21 23:2 22:17 37:20 respect 9:3 23:24 
+12:7,14,15,19 protect 13:1 14:1 30:19 referring 12:10 27:15 
+12:22 13:5,6,8 17:9 18:3 28:7 questions 20:9 refers 3:19 26:20 Respondents 
+16:22 17:1,4,6 41:5 41:8 reflect 4:14 1:20 2:7 22:24 
+17:9,12,19 18:2 protected6:11 quite 27:13,13 reflects 4:10 response 13:15 
+19:12,16,19 13:4 18:1 24:5 34:16 regarded22:5 30:18 
+20:5,7 21:1,4,9 28:14,18,24 quote 18:25 regardless 36:15 responses 18:3 
+21:11 22:5,12 
+22:17 23:7,10 
+23:14,20,22 
+24:1,8,21,22 
+24:24 25:3,7,14 
+25:21 26:5,7,18 
+26:21 27:5 28:8 
+28:17,21 29:1 
+29:18 30:6,10 
+33:4,14,15,17 
+34:3,18 35:10 
+38:5,11,17,19 
+38:23,24,25 
+39:14,18 40:1 
+41:5 42:1,10,11 
+42:12 
+
+private 9:20,21 
+10:7 25:11 
+
+protecting 12:23 
+protection 3:12 
+
+23:6,7 34:18 
+protections 
+
+23:10 40:4 
+protects 3:14 
+
+17:4 22:7 
+proverbial 26:12 
+provide 42:1,6 
+provided20:3 
+
+25:13 38:2 39:6 
+40:1 
+
+provision 42:8 
+provisions 8:17 
+public 7:12 21:25 
+
+22:2 23:24 
+27:25 39:21 
+40:2,10,15,16 
+
+R 
+R 3:1 
+raise 7:16 8:10 
+rare 14:21 31:10 
+reach 11:13 
+
+15:16 
+read 11:11 16:16 
+
+30:16 33:4 37:6 
+reading 12:13 
+
+38:6,9 
+reaffirm 15:21 
+real 4:18 30:13 
+really 20:24 
+
+22:10 30:4,23 
+31:15 34:11 
+
+reason 12:25 
+22:12 30:3,8 
+
+regulations 8:22 
+8:24 9:1 
+
+regulator 24:17 
+27:7 32:1,3 
+
+reinforces 5:20 
+relate 24:9,21,22 
+related18:14 
+
+20:13 
+relating 36:18,24 
+relation 36:5 
+relationship 
+
+17:20 
+release 29:18 
+
+41:6 
+released7:3 8:14 
+relevant 5:15 
+relied21:15 
+relying 14:23 
+
+responsive 20:21 
+Restatement 
+
+10:16 
+result 41:3 
+results 3:18 
+revealing 7:13 
+reverse 7:19 
+
+8:15,18 
+reversed42:18 
+review8:17 
+right 6:1 8:8 9:15 
+
+10:9,18 17:1,3 
+18:1,4 21:4 
+23:25 29:5 
+31:22 33:7,12 
+35:23 39:6 
+
+rights 9:9,9 
+10:20,22 13:7 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+50 
+
+16:22 22:15 settlement 21:22 specified18:24 suggest 34:17 things 27:7 30:1 
+42:15 shared27:23 speech 5:10 36:14 30:12 
+
+ROBERTS 3:3 shielded23:13 spends 34:16 suggests 40:15 think 4:8,21,23 
+9:18 10:5 16:21 24:3 Squirrel35:22 sum 3:23,25 5:4,19 6:19 
+17:11,16 22:20 shorter4:9 squirrelly 35:23 support 15:6 7:18,25 9:24 
+22:22 28:3,15 show34:21,22 standing 3:19,21 supports 5:5 10:10 11:11,22 
+28:23 35:14,25 35:4,6 37:7 7:16,22,24,25 23:11 12:6,9,12 13:23 
+41:11 42:19 side 40:15 state 10:24 19:18 suppose 11:24 13:24 14:5 15:3 
+
+root 35:20 36:1 sign 36:12 23:15 32:5 41:7 16:21,22 15:11 16:4,15 
+rule 14:2,15 36:7 significant 17:2 42:3 Supreme 1:1,13 17:18,21 18:11 
+
+36:14 28:25 statement 33:15 sure 13:15 19:1 20:19 21:7 
+rules 11:21 similar38:3,16 States 1:1,13 surprise 26:12 21:8 22:3,13 
+
+39:1,5 statute 9:12 24:1 26:5 28:3,19 
+S simple 19:20 33:22 35:2,10 T 32:12 34:24 
+
+S 2:1 3:1 38:10 35:16 36:21 T 2:1,1 35:5,6,11 36:3 
+saying 17:8 19:7 simply 5:25 9:8 37:25 take 8:11 16:17 36:8,9 
+
+20:24 21:10 21:10 25:1 29:7 statute's 3:17 18:13 40:19 Third 41:9 42:17 
+27:6 30:15 32:3 34:8 38:18 statutory 3:12,24 taken30:2,7 thought 13:19 
+37:24 38:23 39:11 40:21 16:17 19:5 talk 25:24 26:1,3 30:9 33:24 
+40:5 42:9 23:19 27:1 talking 10:9 12:6 35:12 
+
+says 28:5 41:19 single 16:4 29:22 37:20 25:19 26:14,18 thousand 29:22 
+scale 14:3,9 sit 35:18 step8:12 39:18 27:20 30:14 three 19:6 30:23 
+Scalia 11:3,7 situation 14:15 strain 17:6 31:7 33:5 thumb 14:3,9 
+
+13:16 14:8,19 sixties 10:12 strange 26:8 talks 25:18 time 18:20 22:19 
+14:24,25 15:4,9 small 7:7 strategies 27:20 target 21:3 32:24 33:2,12 
+16:8,12 17:23 societal 19:14 27:22 tell 40:12 34:15,16 
+18:6 24:20,25 society 17:8 strategy 29:17 telling 33:21 times 19:6 26:19 
+25:8,17 26:14 Solicitor 1:16 29:19 31:12,12 term 4:7,8,10,13 37:12 
+30:8 33:19 somebody 26:23 street 26:13 4:14,16,25 5:11 titles 29:8 
+34:20,25 35:3 33:24 strict 16:5 5:11,16 6:1,3 today 30:22 
+
+scope 38:17 somewhat 11:15 strike 14:4 15:17 9:13,24 13:2,16 32:13 
+39:13 41:17 15:18 18:18 22:13 Tony 20:16 
+
+scrutiny 41:2 sort 21:25 31:3 structure 36:21 36:13,18 42:1 tool 40:24 
+second 27:4 32:8 subject 25:12 terms 3:23 10:15 tools 14:5,17 
+secrecy 10:4 sorts 39:8 27:25 33:24 17:7 24:1 39:13 top 31:11 
+secret 10:6 Sotomayor 13:14 submitted42:21 40:21 42:10,11 torts 10:12 
+secrets 6:7 24:5 20:10,17,23 42:23 text 3:16 9:12 totally 35:21 
+seek 8:12 21:8,18,24 38:3 subpoena 31:11 16:15 23:11 36:1 
+sense 9:9 32:9 38:15,22 subsequent 33:8 36:20 touchstone 6:20 
+
+36:20 37:4 38:1 so-called3:14 subset 13:1 Thank 22:20,21 trade 6:7 24:4 
+38:7 speaker28:12 substance 29:8 22:25 41:9,11 tradition17:7 
+
+series 24:13 specific 12:25 substantive 41:15 42:19 traditional 4:17 
+set 13:11 15:1 28:12 30:18 14:12 thing 5:8 26:6 transaction 
+
+19:11 32:7 sub-example 36:5 38:14 18:21,21 19:8 
+settled4:1 specifically 31:1 27:10 39:14 transactions 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+51 
+
+18:19 upset 29:21 37:20 1974 10:18 16:18 
+tried14:4 15:18 urge 41:8 words 12:19 35:9 22:12 33:8 
+
+35:18 usage 5:16 26:6 38:11,19,20 
+tries 6:22 42:5 39:13 2 
+
+true 4:2 10:8 use 4:25 37:10 work 28:4 32:23 2011 1:10 
+22:6 34:10,15 uses 12:19,20,21 39:13 22 2:7 
+
+Truth18:16 
+37:14 
+
+try 7:8,11 31:11 
+36:7 
+
+trying 11:14,18 
+turned20:14 
+
+12:24 38:4 
+usually 14:21 
+U.S 13:2,12 
+
+V 
+v 1:6 3:5 7:2 
+
+worried32:2 
+would-be 24:17 
+wrong 33:23 
+wrongdoing 
+
+21:23 
+
+3 
+3 2:4 
+35 16:19 29:12 
+
+30:2 42:7 
+36 20:6 
+
+turns 35:20 
+two 6:6 13:17 
+
+15:12 24:12 
+27:6 32:14,14 
+39:5 
+
+type 19:24 
+types 10:25 
+typically 32:9 
+
+value 40:16 
+values 14:1 
+versus 4:19 
+view29:10 35:1 
+violence 37:25 
+virtue 17:20 
+
+W 
+want 15:20 16:9 
+
+X 
+x 1:2,8 
+
+Y 
+Yang 1:16 2:3,9 
+
+3:6,7,9 4:7 5:4 
+5:19 6:4,10,17 
+6:19 7:18 8:4 
+8:11 9:24 10:8 
+
+4 
+4 22:9 24:3 30:24 
+
+31:4 
+41 2:10 
+
+5 
+5 6:11 
+
+6 
+U 
+
+unaided6:14 
+uncontrolled 
+
+41:6 
+
+30:12 39:17 
+wanted13:11 
+wants 14:25 
+warrant 14:2 
+
+11:2,6,9 12:2 
+12:17,20 13:23 
+14:16,21 15:3,7 
+15:8,11 16:3,14 
+
+6 9:4 12:3 16:20 
+38:4,6,7,10,12 
+39:12,14 41:12 
+
+understand 6:6 warranted11:20 16:24 17:14,18 7 
+8:23 14:8 24:21 Warren9:14 18:5,8 20:15,16 7 6:9 24:6 32:22 
+36:3 10:11 20:18 21:7,12 7(C) 3:13,16 9:4 
+
+understanding Washington 1:9 21:21 22:2,20 10:19 12:4 
+17:3 19:15 1:17,19 39:4 22:21 23:14 16:20 23:6 
+32:22 33:17 way 5:17 32:13 30:24 41:12,13 25:13 31:8 
+39:5 41:3 41:15 33:14 38:14 
+
+understood Wednesday 1:10 years 16:19 20:6 39:15 40:5,22 
+13:15 37:14 weigh 40:8 29:12 30:2 42:7 74 32:24 33:2 
+
+undoubtedly weighed40:2,17 York 26:19 
+12:15 
+
+uniform 16:19 
+20:7 
+
+went 18:18 
+We'll 3:3 
+we're 10:9 12:6 
+
+0 
+09-1279 1:5 3:4 
+
+unique 6:3 
+United1:1,13 
+unpleasant 27:6 
+
+27:11 
+unwanted38:5 
+unwarranted 
+
+25:16 
+
+14:9 15:21 16:5 
+25:12,19 26:25 
+31:7,18 37:24 
+
+we've 11:7 15:1 
+withhold 7:4 
+word 3:19 4:3 
+
+10:3,10 37:16 
+
+1 
+10:18 1:14 3:2 
+11:07 42:22 
+1300s 6:2 
+14 41:18 
+17 30:7 
+19 1:10 
+
+Alderson Reporting Company 
+
+

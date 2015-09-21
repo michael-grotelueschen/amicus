@@ -1,0 +1,7654 @@
+
+       
+
+                           
+
+          
+
+                       
+
+          
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+UNITED STUDENT AID FUNDS, : 
+
+INC., : 
+
+Petitioner : 
+
+v. : No. 08-1134 
+
+FRANCISCO J. ESPINOSA. : 
+
+- - - - - - - - - - - - - - - - - x 
+
+Washington, D.C. 
+
+Tuesday, December 1, 2009 
+
+The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:04 a.m. 
+
+APPEARANCES: 
+
+MADELEINE C. WANSLEE, ESQ., Phoenix, Ariz.; on behalf of 
+
+the Petitioner. 
+
+TOBY J. HEYTENS, ESQ., Assistant to the Solicitor 
+
+General, Department of Justice, Washington, D.C.; on 
+
+behalf of the United States, as amicus curiae, 
+
+supporting the Petitioner. 
+
+MICHAEL J. MEEHAN, ESQ., Tucson, Ariz.; on behalf of the 
+
+Respondent. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                     
+
+              
+
+                    
+
+                    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+C O N T E N T S 
+
+
+ORAL ARGUMENT OF PAGE 
+
+MADELEINE C. WANSLEE, ESQ. 
+
+On behalf of the Petitioner 3 
+
+TOBY J. HEYTENS, ESQ. 
+
+On behalf of the United States, as amicus 
+
+curiae, supporting the Petitioner 18 
+
+MICHAEL J. MEEHAN, ESQ. 
+
+On behalf of the Respondent 29 
+
+REBUTTAL ARGUMENT OF 
+
+MADELEINE C. WANSLEE, ESQ. 
+
+On behalf of the Petitioner 56 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+P R O C E E D I N G S 
+
+(11:04 a.m.) 
+
+CHIEF JUSTICE ROBERTS: We will hear 
+
+argument next in Case 08-1134, United Student Aid Funds 
+
+v. Espinosa. 
+
+Ms. Wanslee. 
+
+ORAL ARGUMENT OF MADELEINE C. WANSLEE 
+
+ON BEHALF OF THE PETITIONER 
+
+MS. WANSLEE: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+Congress has precisely delineated three 
+
+types of debt in bankruptcy: those that are 
+
+dischargeable, those that are dischargeable unless the 
+
+creditor timely objects, and those debts that are simply 
+
+not dischargeable. Student loans fall within a subset 
+
+of this third category. Their exception from discharge 
+
+is self-executing unless a debtor proves that 
+
+repayment will cause an undue hardship on the debtor and 
+
+the debtor's dependents. The Ninth Circuit rewrote 
+
+Bankruptcy Code section 523 to reduce those three types 
+
+of debt down to two. Allowing debtors to discharge 
+
+their student loan debts by mere declaration opens the 
+
+door to recategorizing every category of 
+
+non-dischargeable debt, and that includes --
+
+JUSTICE SCALIA: Only -- only -- only if the 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+bankruptcy court disregards the law. I mean, it's --
+
+it's clear that the bankruptcy court should not have 
+
+done what it did here. The only issue is, it having 
+
+made that mistake, can it -- can it subsequently be --
+
+be undone in the manner that's -- that's sought here? 
+
+They haven't reduced three to two. The 
+
+three -- the three remain three. The bankruptcy court 
+
+should not do this. 
+
+MS. WANSLEE: Your Honor, this case turns 
+
+upon the effect of section 1328. And the --
+
+JUSTICE GINSBURG: Before -- before we get 
+
+to that, the Ninth Circuit did say, now, bankruptcy 
+
+judges, we don't want you to -- to intermeddle in this. 
+
+So -- so the first step -- it wasn't clear to the Ninth 
+
+Circuit that bankruptcy judges should not say, now, I am 
+
+not going to let you do this until you prove hardship. 
+
+MS. WANSLEE: Well, Justice Ginsburg, the 
+
+Ninth Circuit said that bankruptcy courts have no 
+
+business involving themselves in this dispute if the 
+
+creditor fails to object. 
+
+JUSTICE GINSBURG: Yes. 
+
+MS. WANSLEE: And the problem here is that 
+
+1328 specifically says that the effect of the discharge, 
+
+the discharge that every debtor is looking for in a 
+
+chapter 13 case, that discharge shall not include 
+
+4 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+non-dischargeable debt. And the language is very, very 
+
+important, Your Honor. It prescribes the statutory 
+
+effect of the discharge order, and it says that after a 
+
+debtor completes their payments under a plan, open 
+
+quote, "the court shall grant the debtor a discharge of 
+
+all debts provided for by the plan, except any debt of 
+
+the kind specified in paragraph 8." 
+
+JUSTICE SOTOMAYOR: It was wrong. Let's 
+
+assume --
+
+MS. WANSLEE: Yes. 
+
+JUSTICE SOTOMAYOR: -- the circuit -- the 
+
+district court judge, the bankruptcy court judge, got it 
+
+wrong, legal error. Should not have been discharged, a 
+
+given. Neither -- the confirmation plan should not have 
+
+been approved, neither should the discharge order have 
+
+been entered. We will go back to what was entered 
+
+and -- and -- and the effect of that, because I'm not 
+
+sure of it -- it's an error. 
+
+How does that give you a right to undo that 
+
+judgment 7 years later -- was it 5, 6, 7 years later? 
+
+That's the question here. Why is something that's in 
+
+error become a void judgment? 
+
+MS. WANSLEE: Justice Sotomayor, it's not 
+
+mere error. It's in fact void because of the plain 
+
+language of these particular specific statutes. They 
+
+5 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+have very precise words, very precise meanings. 
+
+JUSTICE SOTOMAYOR: But so does -- most 
+
+error committed by courts, inadvertently or otherwise, 
+
+are in contravention of some statutory command. This is 
+
+no different. 
+
+Voidness, as I've heard it described by many 
+
+others, appears to mean that the court is acting either 
+
+without jurisdiction over the people, and that's not at 
+
+issue here -- there was jurisdiction over the parties 
+
+here -- or without jurisdiction over the res. But the 
+
+bankruptcy court does have jurisdiction, albeit in 
+
+some -- in all circumstances, it had jurisdiction over 
+
+the student debt. The issue is what could it do with 
+
+it. But this is not a case involving a lack of 
+
+jurisdiction by the court over property. 
+
+So why is this more than mere error? 
+
+MS. WANSLEE: Because Congress's statutory 
+
+scheme must be enforced as written. And it's -- it's 
+
+unequivocal here what Congress wants. Congress has 19 
+
+categories of debts that are excepted from discharge, 
+
+important exceptions: Alimony, child support --
+
+JUSTICE BREYER: What's the strongest case, 
+
+I mean, that you can muster in favor of this 
+
+proposition, my question being the same as Justice 
+
+Sotomayor's? What’s the strongest case where you can 
+
+6 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+find any court that said a matter is void -- it’s void, 
+
+not -- not just legal error, so you can attack it 90 
+
+years later -- it's void just because the lower court 
+
+that made the error didn't apply a clear statute? 
+
+MS. WANSLEE: Rule --
+
+JUSTICE BREYER: Give me your strongest case. 
+
+MS. WANSLEE: Your Honor, Rule 60 says that 
+
+void orders can be attacked, and the passage of time 
+
+does not transmute a void order into a valid order. 
+
+Once void, it --
+
+JUSTICE BREYER: But I’d like an answer 
+
+to my question, because I can -- I have read the 
+
+treatises, which I have in front of me, and they say 
+
+that it's void only if you show a -- the same thing that 
+
+Justice Sotomayor just said. And so, since I don't 
+
+think there is some kind of constitutional due process 
+
+error here, and there’s clearly jurisdiction over the 
+
+parties, I guess you are saying there wasn't subject 
+
+matter jurisdiction, which is a little vague. 
+
+And so I want to know what's the clearest 
+
+case, strongest for you, where a court has ever said 
+
+that a failure of some -- of some other court to apply 
+
+the language of a statute properly, no matter how clear, 
+
+is a lack of subject matter jurisdiction? What is your 
+
+strongest precedent? That's all I'm asking. 
+
+7 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MS. WANSLEE: Your Honor, we did cite a 
+
+number of cases in the materials. One of them is the 
+
+Vallely case, in which --
+
+JUSTICE BREYER: All right. 
+
+MS. WANSLEE: That was the insurance company 
+
+case. Congress said that insurance companies could not be 
+
+afforded the protections of bankruptcy. And in that 
+
+case, the president of the company, the secretary of the 
+
+company, all participated in the bankruptcy. But the 
+
+Court found that the bankruptcy court had no authority 
+
+to -- to issue orders and to have that insurance company 
+
+within the bankruptcy context. 
+
+JUSTICE SOTOMAYOR: But that -- that goes back 
+
+to something more fundamental. There’s no issue here 
+
+that the court had jurisdiction over these parties, 
+
+unlike the insurance company. And there’s no issue that 
+
+the court didn't have jurisdiction over this res. They 
+
+could decide that a student loan was dischargeable. 
+
+They just had to follow certain procedures. It's a very 
+
+different set of circumstances in that case. 
+
+MS. WANSLEE: Well, Your Honor, if -- if 
+
+this order is merely voidable, then why do we have 
+
+section 523(c)? 523 -- a very specific code provision: 
+
+All debts not included in 523 are as a matter of course 
+
+discharged through bankruptcy. Those that are 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+specifically enumerated, except for (2), (4), and (6), are 
+
+excepted from discharge -- (2), (4), and (6), the 
+
+creditor must timely file objection. 
+
+Why do we have that scheme? Why do we have 
+
+the tripart ordering? 
+
+JUSTICE GINSBURG: Can a -- can a creditor 
+
+say, oh, skip it, I know this bankrupt is going to be 
+
+able to prove hardship, why go through unnecessary 
+
+expense? Can a -- can a creditor waive the hardship 
+
+determination? 
+
+MS. WANSLEE: No, Your Honor, a creditor may 
+
+not waive the undue hardship determination. 523 says 
+
+that student loans are only discharged upon a finding of 
+
+undue hardship. 
+
+JUSTICE GINSBURG: So he can't -- he can't 
+
+stipulate to -- he will say: I want the deal that is 
+
+being proposed; I think I am better off getting the 
+
+principal, skipping the interest. I can't make that 
+
+deal? We have to go through this hardship procedure, 
+
+whether the creditor wants it or not? 
+
+MS. WANSLEE: Your Honor, within the proper 
+
+context of an adversary proceeding in which the issue 
+
+has in fact been raised. Here, there was never any --
+
+any allegation of undue hardship, never. 
+
+JUSTICE STEVENS: Well, would the case be 
+
+9 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+different if there had been such an allegation in the 
+
+petition? 
+
+MS. WANSLEE: I think not, Your Honor, 
+
+Because, once again 523, requires a finding. 
+
+JUSTICE STEVENS: It would not have been 
+
+different then? What if it had been not only an 
+
+allegation but an affidavit? Would the case be 
+
+different? 
+
+MS. WANSLEE: Once again, I -- I think you 
+
+go back to the language of 1328, Your Honor. 
+
+JUSTICE STEVENS: I’m kind of curious to 
+
+know what your answer to my question is. 
+
+MS. WANSLEE: I apologize. 
+
+JUSTICE STEVENS: Would the case be 
+
+different if the Petitioner had filed an affidavit of 
+
+undue hardship with the papers? Same notice, everything 
+
+else exactly the same. 
+
+MS. WANSLEE: Certainly a harder case, Your 
+
+Honor. However, I don't --
+
+JUSTICE STEVENS: Why is it a harder case? 
+
+MS. WANSLEE: I don't think -- there would 
+
+not have been an adjudication of undue hardship, 
+
+however. Just because the debtor stated it doesn't mean 
+
+there was then --
+
+JUSTICE STEVENS: And I say it's supported 
+
+10 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+by an affidavit. 
+
+MS. WANSLEE: Correct, Your Honor. 
+
+JUSTICE STEVENS: Supported by -- would then 
+
+the case be different? 
+
+MS. WANSLEE: No, Your Honor. There has to 
+
+be --
+
+JUSTICE STEVENS: There has to be an 
+
+adversary hearing under your view? 
+
+MS. WANSLEE: Under our view, the creditor 
+
+is entitled to the protections of 7001 to say --
+
+JUSTICE STEVENS: Okay. So if there's not 
+
+only an affidavit, but an offer of proof, and then 
+
+there's no answer filed and nothing in response to the 
+
+notice of the -- the lender did exactly what it did 
+
+here. 
+
+MS. WANSLEE: No, Your Honor. I -- I don't 
+
+believe that undue hardship would be established under 
+
+those facts. Our facts, of course, are a little bit 
+
+easier. There was never even an allegation of undue 
+
+hardship --
+
+JUSTICE STEVENS: Yes. 
+
+MS. WANSLEE: -- much less proof. 
+
+JUSTICE STEVENS: But your legal theory 
+
+would be the same if there had been an affidavit filed 
+
+and the same -- the same response by the -- by the 
+
+11 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+company? 
+
+MS. WANSLEE: That's correct, Your Honor. 
+
+And I would -- I would note --
+
+JUSTICE KENNEDY: Well, what -- what if 
+
+the creditor is sitting in the courtroom and has 
+
+actually made arguments and appeared in some other 
+
+aspects of the case? Then they come to the student loan 
+
+and the -- and it's ordered discharged without any 
+
+hearing, with the creditor sitting there. The case 
+
+goes to judgment, there’s a final decree of discharge. 
+
+Can the debtor -- pardon me. Can the creditor come in 
+
+10 years later and say, oh, this is void? 
+
+MS. WANSLEE: I think they can, Your Honor. 
+
+And I think we can look to this Court's own precedent in 
+
+the Stoll case. The Stoll case said that it's important 
+
+to know when litigation begins and when it ends. And 
+
+usually this Court's opinions talk about the ending of 
+
+litigation. What we are talking about here is the 
+
+beginning. We want to know --
+
+JUSTICE KENNEDY: Well, what about -- what 
+
+about my question? 
+
+MS. WANSLEE: Your Honor, at that point the 
+
+litigation has not commenced. There is no summons, 
+
+there is no service --
+
+JUSTICE KENNEDY: No, no. No, no, no. My 
+
+12 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+hypothetical is there is -- it has commenced. 
+
+It’s a big hearing. There's lots of issues. The 
+
+student loan creditor is there, actually participates in 
+
+some of the hearings on other issues. Then, while they 
+
+-- while they are still there, still represented, the 
+
+judge says: Now, I'm going to discharge the student 
+
+debt; I'm not going to have any hearing. The creditor 
+
+does nothing. Can the creditor come in 10 years later 
+
+and say this is a void judgment? 
+
+JUSTICE GINSBURG: That’s this case. The 
+
+creditor was there. The creditor put in a proof of 
+
+claim. The creditor knew that the plan gave the 
+
+creditor less than the proof of claim. 
+
+JUSTICE KENNEDY: Well, my case is just a 
+
+little different in that the creditor is there in the 
+
+courtroom represented. 
+
+MS. WANSLEE: Okay. And a proof of claim is 
+
+merely for distribution purposes under a chapter 13 
+
+finding. It's not for discharge purposes. 
+
+JUSTICE KENNEDY: What about my --
+
+MS. WANSLEE: It --
+
+JUSTICE KENNEDY: What about my question? 
+
+MS. WANSLEE: Your Honor, in your case, once 
+
+again, we -- we do believe that that is not the 
+
+appropriate constitutional notice, constitutional 
+
+13 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+practice. Notice and opportunity are just but one part 
+
+of access and due process. Due process also requires 
+
+compliance with whatever --
+
+JUSTICE KENNEDY: I think --
+
+MS. WANSLEE: -- Congress --
+
+JUSTICE KENNEDY: I think that's an astounding 
+
+-- an astounding conclusion, that there -- that you 
+
+simply are writing out the doctrine of -- of waiver 
+
+altogether. 
+
+MS. WANSLEE: Well, Your Honor, the 
+
+exception to discharge is self-executing. And if it's 
+
+self-executing, how can we waive it? If there is no 
+
+duty to object --
+
+CHIEF JUSTICE ROBERTS: What -- what provision 
+
+was this discharge under? 
+
+MS. WANSLEE: The debtor's discharge was 
+
+entered under section 1328(a)(2). 
+
+CHIEF JUSTICE ROBERTS: And 1328 says: "The 
+
+court shall grant a debtor a discharge." That doesn't 
+
+sound self-executing to me. 
+
+MS. WANSLEE: Well, but 1328 further goes on 
+
+to say: "A discharge of all debts provided for by the 
+
+plan" -- as this debt was provided for by the plan --
+
+"except any debt of a kind specified in paragraph 8 of 
+
+section 523." 
+
+14 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+CHIEF JUSTICE ROBERTS: (a), and section 
+
+523(a) does not refer to a discharge under 1328(a). It 
+
+refers to a discharge under 1328(b). 
+
+MS. WANSLEE: That's correct, Your Honor. 
+
+1328(a)(2) is the discharge in play here, and 1328(a)(2) 
+
+brings in the discharge provisions of 523. 
+
+CHIEF JUSTICE ROBERTS: No, no, no. 
+
+1328(a)(2) brings in the definition, the kind of debt 
+
+specified in 523(a). It doesn't bring in the discharge 
+
+under 523(a), which is limited to 1328(b). 
+
+MS. WANSLEE: It brings in the enumerated 
+
+debts of 523. 
+
+And I think it's important to -- to remember 
+
+that back in 1990 student loan debts were fully 
+
+dischargeable in chapter 13 plans. In 1992, when this 
+
+plan was proposed, Mr. Espinosa sought to claw back what 
+
+Congress had taken away 2 years earlier. 
+
+JUSTICE BREYER: Well -- we're conceding 
+
+that they violated the statute, the bankruptcy judge. 
+
+The question is whether it's void. And void, as you 
+
+just said, was three categories: One, was there a 
+
+violation of basic due process for your client? I don't 
+
+see it. Two, did the bankruptcy judge have jurisdiction 
+
+over the parties? It seems the answer is yes. And, 
+
+three, did they have subject matter jurisdiction? Which 
+
+15
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+we started by saying was vague. 
+
+So I asked you for your strongest case. You 
+
+said Vallely. I have only looked at it quickly, but 
+
+it's only four pages. And what that case seems to say 
+
+is that there is a statute which says there is 
+
+bankruptcy jurisdiction over all commercial businesses 
+
+except for insurance companies and two other categories. 
+
+This party here is an insurance company, and 
+
+and therefore they can attack it later, because there 
+
+was no jurisdiction over an insurance company. 
+
+Now, if that's your strongest case, I don't 
+
+know what the others are going to say, but it seems to 
+
+me you don't have much precedental support to put this 
+
+in a category of lacking jurisdiction. 
+
+MS. WANSLEE: Your Honor, we are talking 
+
+about a statutory right here, and the fact that Congress 
+
+has specifically provided that certain categories of 
+
+debts, for very important public policy reasons, are 
+
+carved out from discharge. And the reason it's void is 
+
+because it violates the plain language of the statute. 
+
+Again, even if it's provided for by the plan, the 
+
+discharge this debtor got under 1328 --
+
+JUSTICE GINSBURG: But why -- why should it be 
+
+void, looking at 1327? We have a confirmed plan. You ­
+
+- you have -- 1328 does include -- except 523(a), as you 
+
+16 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+pointed out. But 1327 says "Effect of 
+
+confirmation," and that says, "The provisions of a 
+
+confirmed plan" -- the provision here is you get 13,000, 
+
+not 17,000 -- "bind the debtor and each creditor, 
+
+whether or not the claim of such creditor is provided 
+
+for by the plan" -- which it wasn't in full here -- "and 
+
+whether or not such creditor has objected to or has 
+
+accepted or rejected the plan." 
+
+That seems to say at the end of the line, 
+
+you get that final determination confirmed, that's it. 
+
+That's as final as you come and whatever mistakes were 
+
+made on the way there, you can't look behind at the 
+
+confirmation. 
+
+MS. WANSLEE: Your Honor, I’d like to 
+
+reserve some time. 
+
+But, Justice Ginsburg, to answer your 
+
+question, 1327 is the more general -- general 
+
+provision. Statutory canons provide that the more 
+
+specific shall control. But there’s three other quick 
+
+reasons I’d like to give you. 
+
+If this case relies just on 1327, it 
+
+deprives the Bankruptcy Code and the rules of a coherent 
+
+effect. There are four other provisions implicated: 
+
+1322, 1325, 1328, and 523. A ruling in Mr. Espinosa's 
+
+favor undermines the will of Congress in this regard. 
+
+17
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+CHIEF JUSTICE ROBERTS: If -- if you’d 
+
+like to reserve time, it's probably time to wrap up. 
+
+MS. WANSLEE: Thank you. 
+
+CHIEF JUSTICE ROBERTS: Mr. Heytens. 
+
+ORAL ARGUMENT OF TOBY J. HEYTENS 
+
+ON BEHALF OF THE UNITED STATES, 
+
+AS AMICUS CURIAE, SUPPORTING THE PETITIONER 
+
+MR. HEYTENS: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+Section 1328 and section 523 are best 
+
+construed as self-executing limitations on the effect of 
+
+the bankruptcy court's discharge order rather than as 
+
+directives to the bankruptcy court. There are two 
+
+reasons for --
+
+CHIEF JUSTICE ROBERTS: I don't -- sorry to 
+
+start -- stop you at the beginning, but I don't see 
+
+that. I see in 1328(a) it says the court “shall 
+
+grant” the debtor. And that is not self-executing. It's 
+
+a directive to the court. And I see that 523(a) is 
+
+referred to later on, but only for purposes of 
+
+definition, not for purposes of discharge. 
+
+MR. HEYTENS: Two responses to that, Mr. 
+
+Chief Justice. First, if we are looking just at the 
+
+language of 1328, which is reproduced at the page 3 of 
+
+the appendix to the blue brief, it states, as the Chief 
+
+18
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Justice notes, that: "The court shall grant the debtor 
+
+a discharge" of certain debts. There is then a comma, 
+
+and it says "except any debt" -- now, I can see that 
+
+that language is subject to a degree of ambiguity. But 
+
+I think even that language is susceptible to being read 
+
+as a legal limitation on the effect of the discharge 
+
+order that the provision has just told the court to 
+
+grant. In other words, the reason that –-
+
+CHIEF JUSTICE ROBERTS: Well, then the key 
+
+distinction you draw in your brief is totally 
+
+meaningless. You say on page 18 that this -- the issue 
+
+is whether the provision is, quote, “framed as a 
+
+directive” to the bankruptcy court. And here it is 
+
+framed as a directive to the bankruptcy court, and 
+
+therefore doesn't -- isn't self-executing. 
+
+MR. HEYTENS: Mr. Chief Justice, I think the 
+
+provision before the comma clearly is framed as a 
+
+directive to the bankruptcy court. What I’m suggesting 
+
+is that the language after the comma is at least capable 
+
+of being read consistent with --
+
+JUSTICE SCALIA: There are a lot of commas. 
+
+What comma are you referring to? 
+
+MR. HEYTENS: Excuse me, Justice Scalia. I 
+
+am referring to the comma in -- in 1328(a), the last comma 
+
+right before the (1), "except any debt." 
+
+19 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+And the reason that we think that has to be 
+
+construed as a limitation on the scope of the bankruptcy 
+
+court's discharge order is twofold. First and foremost, 
+
+there has been no suggestion whatsoever that there is a 
+
+different rule for chapter 13 plans, which is covered by 
+
+1328, than there is for chapter 7 bankruptcies, chapter 
+
+11 bankruptcies, or chapter 12 bankruptcies. But the 
+
+consequences of saying that 1328 alone is not a 
+
+limitation, that is the consequence that that would 
+
+have. 
+
+JUSTICE BREYER: Well, what about the 
+
+consequence of -- there happen to be -- well, I counted --
+
+14 different kinds of things that follow that comma, 
+
+including criminal fines, sentences. There are all 
+
+kinds of things. And is it the consequence of my 
+
+accepting your argument that anybody who is a creditor 
+
+in respect to any of those 14 things can come in at any 
+
+time and announce under Rule 60(b)(4), even if it's 10 
+
+years later, that the district court -- the bankruptcy 
+
+court made a mistake? 
+
+MR. HEYTENS: Well, Justice --
+
+JUSTICE BREYER: Now, that would be quite --
+
+to me -- extraordinary. So I hope the answer from your 
+
+point of view must still be no. 
+
+MR. HEYTENS: Well, Justice Breyer, it 
+
+20
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+wouldn't be under Rule 60(b)(4), because if you 
+
+understand this is a limitation on the effect of the 
+
+discharge order, the original discharge order never 
+
+covers it in the first place. And I think quite the --
+
+JUSTICE BREYER: Wait a moment. What would it 
+
+be in the case where you have a discharge order and it 
+
+says things in it which somebody feels fall within 1 
+
+of these 13 categories? Now, are you saying that that 
+
+somebody can come back and make his argument 15 years 
+
+later, because he will say that, since it falls in that 
+
+category, the judgment is void insofar as this language 
+
+covers what I don't want it to cover? 
+
+MR. HEYTENS: Well, Justice Breyer, there 
+
+are three very specific categories of somebodies who 
+
+can't do that, and Congress has specifically identified 
+
+those three categories. 
+
+In 523(c), Congress specifically identified 
+
+three categories of non-dischargeable debt for which the 
+
+onus is on the creditor to request a hearing and obtain 
+
+a determination by the bankruptcy court. 
+
+JUSTICE SOTOMAYOR: So it's not -- it's not 
+
+that it is not dischargeable. It's only dischargeable 
+
+under certain conditions. 
+
+MR. HEYTENS: That is true with regard to 
+
+student loan debt, Justice --
+
+21 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SOTOMAYOR: All right. So -- so 
+
+you’re almost begging the question, because it's 
+
+possible to argue that if a debt is not dischargeable at 
+
+all under any circumstance, your argument might have 
+
+more legs because then the court has no jurisdiction 
+
+over that property. 
+
+MR. HEYTENS: That was --
+
+JUSTICE SOTOMAYOR: But that's not the case 
+
+with these exceptions. They can all be discharged. 
+
+It's just a matter of whether the conditions have been 
+
+met or not. 
+
+MR. HEYTENS: That would certainly be the 
+
+argument that would be made in future cases, if the 
+
+Court were to accept Mr. Espinosa's argument. And to be 
+
+clear, the consequences of accepting it and not 
+
+accepting that limitation would be that this would not 
+
+be limited to student loans. 
+
+JUSTICE BREYER: Well, but you see, it's the 
+
+same problem that’s bothering us. I would like a yes 
+
+or no answer. 
+
+MR. HEYTENS: The answer is --
+
+JUSTICE BREYER: Is it the case if somebody 
+
+feels the conditions were not met with in the 13 
+
+categories that -- or 14 -- that follow the comma, he --
+
+you feel that they were met. The other side says, they 
+
+22
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+weren't met. I sent him a notice, but it was in a 
+
+balloon, okay. You know, was the notice a real notice, 
+
+wasn't it? People argue about that. 
+
+So in any case where you have a person who 
+
+says, no, they weren't met, and the other side says, 
+
+yes, they were met, that first person can come back 
+
+13 years later and say that the judgment was void? Is 
+
+the answer of the government yes or no? 
+
+MR. HEYTENS: With the exception of the 
+
+three categories in (c), the answer is yes, Justice 
+
+Breyer, and we think that follows straightforwardly from 
+
+the --
+
+JUSTICE BREYER: All right. Is there any --
+
+JUSTICE SCALIA: Where is (c)? You have 
+
+been talking about 523(c). I can't find it in any of 
+
+the materials. 
+
+MR. HEYTENS: Justice Scalia, we discussed 
+
+page -- 523(c) on pages 13 to 14 of our brief. 
+
+JUSTICE SCALIA: Why don't you put it 
+
+in an appendix if it's going to be part of your case? 
+
+I’ve got to search through your brief for it? 
+
+What page in your brief? 
+
+MR. HEYTENS: Pages 13 and 14. I apologize, 
+
+Justice Scalia. 
+
+The language of 523(c), which I also have, I 
+
+23 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+can read it. It states "the debtor shall be 
+
+discharged from a debt of a kind specified in paragraphs 
+
+(2), (4), or (6) of subparagraph (a) … unless, on request 
+
+of the creditor to whom such debt is owed, and after 
+
+notice and a hearing, the court determines” that such 
+
+debt is to be excepted under (2), (4), or (6). 
+
+So for those three categories of otherwise 
+
+non-dischargeable debt, Congress has specifically 
+
+provided that the onus is on the creditor to --
+
+JUSTICE STEVENS: Can I just get your answer 
+
+to a similar question --
+
+MR. HEYTENS: Sure. 
+
+JUSTICE STEVENS: -- I asked your colleague? 
+
+If the facts of this case were changed by the -- the 
+
+creditor had come in and stipulated to the plan before 
+
+the court and explained at the time, we think it would 
+
+be better to get what money's available now rather than 
+
+waiting for the interest to be collected later on, if 
+
+they had stipulated to it, and then the order was 
+
+entered, you would still say, 10 years later, they could 
+
+charge it? 
+
+MR. HEYTENS: With -- with one caveat, 
+
+Justice Stevens, which I -- I don't mean to fight the 
+
+hypothetical. I just think I need to clarify. The 
+
+creditor can certainly stipulate to the underlying facts 
+
+24 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+that the debtor alleges in support --
+
+JUSTICE STEVENS: He stipulates to the entry 
+
+of the plan. That's all he stipulates to. 
+
+MR. HEYTENS: Justice Stevens, in that 
+
+situation, there has not been an undue hardship 
+
+determined --
+
+JUSTICE STEVENS: So you -- you would have the 
+
+same position then? 
+
+MR. HEYTENS: We would say yes, and we think 
+
+that follows naturally from this Court's decision in 
+
+Hood, where the Court clearly described 523(8)(a) as a 
+
+self-executing limitation. The Court specifically 
+
+said it --
+
+JUSTICE GINSBURG: And the only way to do it 
+
+is to go through an adversary hearing with full notice, 
+
+and every -- and nobody wants to incur that expense. 
+
+This is a bankruptcy. You are trying to save assets. 
+
+The bankruptcy judge thinks this makes no sense. The 
+
+creditor says, okay. But you -- you agree with your 
+
+colleague that, under this 523 whatever, you must have 
+
+the full adversary hearing, notice, complaint, the 
+
+works? 
+
+MR. HEYTENS: Justice Ginsburg, you don't 
+
+necessarily need to have the full adversary hearing. 
+
+What you have to have is what Congress provided for in 
+
+25 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+523(a)(8). You have to have an undue hardship 
+
+determination that is made by the bankruptcy court. 
+
+Now, the parties can stipulate to the 
+
+underlying facts. But as this Court said in Hood, even 
+
+if the creditor does not show up for the adversary 
+
+proceeding, if the creditor completely defaults, this 
+
+Court said, on pages 453 and 454 of Hood, the bankruptcy 
+
+court still cannot discharge that debt --
+
+JUSTICE STEVENS: But the irony of your 
+
+position is it's in the creditor's interest to get what 
+
+is available at this time, rather than waiting 10 years 
+
+hoping to get interest later on, and even though that's 
+
+the fact, you cannot give relief in this situation. 
+
+MR. HEYTENS: Well, Justice Stevens, the 
+
+creditor certainly does have interests. But I think the 
+
+reason Congress would provide for this regime is that 
+
+there is an important public interest at stake here, 
+
+too, which is that the Department of Education is 
+
+reinsuring all of these student loans. 
+
+And there is a powerful interest in ensuring 
+
+the integrity of the student loan system as a whole, 
+
+that, regardless of the decisions that an individual 
+
+debtor and perhaps an individual creditor are willing to 
+
+make in particular cases, Congress has an overriding 
+
+policy that student loans should not be discharged 
+
+26 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+unless there is a determination that this is the 
+
+extraordinary case, rather than the ordinary. 
+
+Now, there’s a very practical reason why 
+
+this matters. There were 374,000 chapter 13 filings 
+
+last year. There is no such thing as a standard form 
+
+chapter 13 plan. 
+
+The logical consequences of affirming the 
+
+Ninth Circuit's judgment in this case is to tell every 
+
+single chapter 13 debtor who has a student loan debt to 
+
+include a provision like this in his plan, in the hopes 
+
+that the creditor will not object and he will be able to 
+
+obtain a discharge in the absence of any finding by the 
+
+bankruptcy court. 
+
+It won't just be limited to chapter 13 
+
+debtors, either. It will apply to any debtor who has 
+
+a non-dischargeable --
+
+JUSTICE SCALIA: Don't bankruptcy courts 
+
+read the law? 
+
+MR. HEYTENS: Justice Scalia --
+
+JUSTICE SCALIA: So you’ve got to assume that 
+
+every bankruptcy court is going to violate the 
+
+provisions of the statute. 
+
+MR. HEYTENS: Well, first and foremost, 
+
+Justice Scalia, the Ninth Circuit has specifically 
+
+forbidden bankruptcy courts from doing that on pages 
+
+27 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+25a --
+
+JUSTICE BREYER: Oh, they may not have said it 
+
+right, but they -- but they -- that’s a different 
+
+problem. But the -- the -- why doesn't the Treasury 
+
+just say to people: We’re not going to insure your 
+
+loans where you don't object. 
+
+MR. HEYTENS: They -- the Department of 
+
+Education --
+
+JUSTICE BREYER: All right. Then the 
+
+government is harmless. 
+
+MR. HEYTENS: Well, it’s not harmless, 
+
+Justice Stevens -- I'm sorry, Justice Breyer, excuse 
+
+me -- because the question is: Who does it make sense to 
+
+put the onus on? Now, to your question -- the 
+
+bankruptcy judges can do it. 
+
+There were 374,000 filings last year. There 
+
+are less than 350 bankruptcy judges in this country. 
+
+That means more than 1,000 chapter 13 plans for every 
+
+single bankruptcy judge in the country. The idea that 
+
+bankruptcy judges are going to be policing every single 
+
+chapter 13 plan, it's just not realistic, and I don't --
+
+JUSTICE SCALIA: Why, of course, they 
+
+are supposed to police --
+
+JUSTICE KENNEDY: But the idea that they 
+
+have to have a charade hearing is -- is equally 
+
+28 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+off-putting. 
+
+MR. HEYTENS: I don't think it would be a 
+
+charade hearing, Justice Kennedy. It would be 
+
+consistent with the normal rules of civil litigation 
+
+that if a party wishes not to contest a factual issue in 
+
+a properly noticed hearing, they can make that choice. 
+
+Thank you. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+Mr. Meehan. 
+
+ORAL ARGUMENT OF MICHAEL J. MEEHAN 
+
+ON BEHALF OF THE RESPONDENT 
+
+MR. MEEHAN: Thank you, Mr. Chief Justice, 
+
+and may it please the Court: 
+
+Last term, in Travelers, this Court held 
+
+that, if the plain terms of a confirmed 11 plan 
+
+unambiguously apply to a particular issue, they are 
+
+entitled to their effect. That is this case, I submit. 
+
+Now, the case did go on to acknowledge that 
+
+there can be some situations in which the finality is 
+
+not going to be found -- it said subject matter per se 
+
+is not one of those -- but that if the court's action 
+
+was so plainly beyond its jurisdiction as to be a 
+
+manifest abuse of authority -- and this was not 
+
+necessary to the holding, I suppose, but it was 
+
+described in kind of where we would be in terms of 
+
+29 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+exceptions -- then perhaps finality would not apply. 
+
+JUSTICE SCALIA: Do you acknowledge that 
+
+what the bankruptcy court did here was wrong? Do you 
+
+acknowledge that? 
+
+MR. MEEHAN: I acknowledge that it did 
+
+violate the statute. And I would --
+
+JUSTICE SCALIA: Okay. And it should not 
+
+have done it, and future bankruptcy courts shouldn't do 
+
+it? 
+
+MR. MEEHAN: I think that --
+
+JUSTICE SCALIA: It makes a big difference 
+
+to how I’m going to look on this case. I mean, if you –-
+
+MR. MEEHAN: I would agree that that is 
+
+correct, Your Honor. The reason I hesitate is this: 
+
+Mr. Heytens said that there are, on average, 1,000 
+
+chapter 13 plans filed per bankruptcy judge every year. 
+
+The bankruptcy judges do and are entitled to have 
+
+creditors make objections. Indeed, I think that Justice 
+
+Stevens was right that if a creditor and a debtor wanted 
+
+to come in and stipulate that there would be a discharge 
+
+of a portion of the student loan without a finding of 
+
+undue hardship, then certainly they can do so. 
+
+I don't --
+
+JUSTICE SCALIA: Is it -- is it easy for a 
+
+bankruptcy judge to identify a particular debt as a 
+
+30 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+student loan debt? I mean, would the bankruptcy 
+
+filing -- filing show it -- you know, student loan debt? 
+
+MR. MEEHAN: As far as I know, it would. 
+
+JUSTICE SCALIA: It would? 
+
+MR. MEEHAN: And there may be circumstances 
+
+in which there is student loan debt which is not one of 
+
+the two plans that are guaranteed by the Department of 
+
+Education because Congress --
+
+JUSTICE SCALIA: Yes. 
+
+MR. MEEHAN: -- has broadened it, so that may 
+
+be the case. But I think this case obviously was such a 
+
+case. And I --
+
+JUSTICE GINSBURG: It was the only debt. 
+
+This -- there was no other debt. 
+
+MR. MEEHAN: It was the only debt, yes. 
+
+CHIEF JUSTICE ROBERTS: Did --
+
+JUSTICE GINSBURG: Do --
+
+CHIEF JUSTICE ROBERTS: I'm sorry. 
+
+JUSTICE GINSBURG: So I take it that you do 
+
+think the Ninth Circuit was wrong when they said: 
+
+bankruptcy judges, don't stand in the middle of these 
+
+arrangements. Because you -- your answer was you think 
+
+the bankruptcy judge does have the obligation to bring 
+
+out this requirement that -- of a hardship showing? 
+
+MR. MEEHAN: If I used the word 
+
+31 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+"obligation," perhaps I was a little imprecise. Let me 
+
+put it this way: Number one, I am not here to say, nor 
+
+have we ever said at any stage of this litigation, that 
+
+this plan complied with 523(a)(8). That's clear. 
+
+Number two, if there had been any objection 
+
+raised whatsoever at any time, then it would obviously 
+
+have been wrong for the bankruptcy judge to confirm the 
+
+plan. 
+
+JUSTICE ALITO: What if there’s no 
+
+objection? The bankruptcy judge sees a chapter 13 plan, 
+
+and it -- it provides for the discharge of student debt; 
+
+it covers student debt. It's labeled "student debt." 
+
+Is it improper for the bankruptcy judge to 
+
+say you can't do this by this mechanism, you have to 
+
+start an adversary proceeding? 
+
+MR. MEEHAN: I do not think it is improper 
+
+for the bankruptcy judge to act that way, because under 
+
+section --
+
+JUSTICE KENNEDY: I didn't hear. Proper --
+
+MR. MEEHAN: I do not think -- I'm sorry. I 
+
+do not think it would be improper. I think, under 
+
+section 105 of the code, indeed, the bankruptcy court 
+
+has what I would analogize as sort of the All Writs Act, 
+
+which says that the bankruptcy court may act sua sponte 
+
+to enforce --
+
+32 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SCALIA: That -- that's not enough for 
+
+me, that it's not improper for him to do it. I want you 
+
+to say that that is what he ought to do. 
+
+MR. MEEHAN: Well, Justice Scalia --
+
+JUSTICE SCALIA: And you’re not willing to 
+
+say that. You’re willing to say that bankruptcy courts 
+
+can do that if they like, but, you know, if they have a 
+
+kid that has a lot of bankruptcy debts, he has a soft 
+
+heart for student loan debts, he sees this as a student 
+
+loan debt, all right, let's give this kid a break. And 
+
+he enters -- that's okay? 
+
+MR. MEEHAN: No, I balance -- I balance your 
+
+question against Justice Stevens's hypothetical, and 
+
+only in the circumstance where it is clear either 
+
+through extensive notice, and I say waiver here, or 
+
+through an actual stipulation -- only in those 
+
+circumstances would it be appropriate for a bankruptcy 
+
+court to confirm a plan. 
+
+And even then, I submit, under section 105, 
+
+if the bankruptcy court said I will not do so, the 
+
+bankruptcy court need not do so, and in fact -- in fact, 
+
+the bankruptcy judge here, Judge Hollowell, when she 
+
+denied United relief under Rule 60, said that she as a 
+
+bankruptcy judge would not have done so. And that is 
+
+certainly within their authority to do. And Justice 
+
+33
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Scalia --
+
+JUSTICE SCALIA: So you would say it's wrong 
+
+for the bankruptcy court to do it without a waiver, and --
+
+but you’re leaving open if there is a clear waiver, 
+
+despite the fact of no adversary proceeding -- you’re 
+
+not -- you’re not necessarily willing to say that the 
+
+bankruptcy court can't do that? 
+
+MR. MEEHAN: Yes, because -- let me back up 
+
+and talk perhaps a little more generally. 
+
+I mean, in litigation in general, parties are 
+
+free to stipulate away or to decide not to litigate an 
+
+element of a claim. If they, in fact, do that, most 
+
+judges would say that's fine. Now, in this instance, 
+
+again -- and I don't want to be too repetitious -- but 
+
+in this instance, the bankruptcy judge does have that 
+
+extra “well, no,” I read this as being something that's 
+
+too important for me to let the parties stipulate away. 
+
+That's the only reason that I don't go completely with 
+
+your hypothetical. 
+
+JUSTICE ALITO: Was the Ninth Circuit 
+
+correct in saying that an attorney can't be sanctioned 
+
+under the bankruptcy rules' equivalent version of Rule 
+
+11, for attempting to sneak through a discharge of 
+
+student debt in a chapter 13 petition? 
+
+MR. MEEHAN: Justice Alito, number one, we 
+
+34 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+don't have a case here of sneaking through. I do want 
+
+to make that point. This was clear notice. 
+
+Number two, I think the bankruptcy court --
+
+excuse me, the Ninth Circuit was not wrong, because in 
+
+the Ninth Circuit, there was binding precedent, the Pardee 
+
+case. 
+
+JUSTICE ALITO: No, I understand that. But in 
+
+the absence of circuit -- controlling circuit precedent, 
+
+is it -- can an attorney be sanctioned for attempting to 
+
+get the discharge of student debt through a chapter 13 
+
+petition, knowing, as I assume every bankruptcy attorney 
+
+knows, that that is not the proper way to attempt to get 
+
+discharge of a student debt -- student loan? 
+
+MR. MEEHAN: I'm not able to tell you as a 
+
+matter of settled Ninth Circuit law that that is or is 
+
+not the case. 
+
+JUSTICE ALITO: I am not interested in what 
+
+Ninth Circuit law is. 
+
+MR. MEEHAN: Then, Justice Alito, I thought 
+
+that you had been asking me under Ninth Circuit law. 
+
+You're saying as a matter of --
+
+JUSTICE ALITO: No, I'm asking you -- I'm 
+
+asking you, under -- under Bankruptcy Rule 9011. 
+
+MR. MEEHAN: My position would be that if it 
+
+is up front, clear notice -- in effect, a proposal that we 
+
+35 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+just don't have a Federal case out of an undue hardship 
+
+determination for $4,000 -- that it does not violate 
+
+Rule 11 or 9011 to make that proposal. 
+
+If there is some sort of lack of candor or 
+
+if there's some sort of weaseling, one might say 
+
+perhaps. And I think it's interesting that those 
+
+courts which have said that this is not something that 
+
+bankruptcy lawyers should do have not, so far as I was 
+
+able to find, invoked Rule 11 or Rule 9011. 
+
+JUSTICE GINSBURG: But did you -- the net 
+
+effect of this is if you have taken a debt that is 
+
+non-dischargeable and put it into the category that it 
+
+is dischargeable unless the creditor objects. 
+
+MR. MEEHAN: Yes. 
+
+JUSTICE GINSBURG: The -- the code puts the 
+
+onus on the debtor to raise the hardship question. 
+
+Your reading is, even if the debtor is 
+
+silent, totally silent, says nothing about hardship, 
+
+unless the creditor objects, then the discharge will be 
+
+proper; the plan can be confirmed. So you are taking a 
+
+burden that Congress has put on the debtor and switching 
+
+it to the creditor. 
+
+MR. MEEHAN: Well, Justice Ginsburg, I would 
+
+say that it doesn't shift the burden. It -- it does 
+
+shift the going forward, I suppose, in the sense of 
+
+36 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+making an objection. 
+
+But let's remember that this is something 
+
+that would obviously have been reversed on appeal had 
+
+the --
+
+JUSTICE BREYER: But why would it not be a 
+
+sanctionable matter under Rule 11? If -- the lawyer 
+
+knows that he is supposed to make this special claim to 
+
+get this kind of discharge -- he knows an ordinary claim 
+
+won't do it. He submits a paper that asks for the 
+
+ordinary discharge, but he has to sign it, and that 
+
+sign -- that signature, is a -- is a certification that to 
+
+the best of his knowledge, the claims and other legal 
+
+contentions are warranted by existing law. 
+
+So if he signs it knowing that that isn't 
+
+the way to do it -- indeed, there is not even an 
+
+argument for doing it that way, for modifying the law --
+
+then why isn't that a sanctionable matter under Rule 11? 
+
+MR. MEEHAN: I am not here to say absolutely 
+
+it is not, Justice Breyer. 
+
+What I'm saying, I think, is that some of 
+
+the bankruptcy courts in some of the circuits have said, 
+
+at least without invoking Rule 11, that it -- that it is 
+
+improper. Others have not had that difficulty. I, as a 
+
+lawyer who has litigated for 39 years and is very 
+
+conscious of Rule 11, have never thought that if --
+
+37 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5 -- 
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+again, if it was something that was plain and not 
+
+obfuscated, that a proposal to simply omit one element 
+
+of a claim violated Rule 11. 
+
+JUSTICE BREYER: I mean, the reason I ask that 
+
+MR. MEEHAN: I think it's debatable --
+
+JUSTICE BREYER: The reason I ask that is I 
+
+think the argument on the other side is that it's so 
+
+clear in the law that this is not the way to go about it, 
+
+that you have to make a separate piece of paper saying 
+
+you have special hardship; that that’s so clear what 
+
+Congress wanted, that 40 years later you can come back 
+
+and attack it, if they didn't do it. I mean, that's 
+
+basically, in my mind, their argument. 
+
+But I think a simpler way would be to say if 
+
+it's that clear, if it really is that clear, the bar 
+
+itself will enforce the rule by not knowingly deviating 
+
+from the way that Congress set it out, to which there is 
+
+no legal objection. Now, is it really -- what do you 
+
+think of that? 
+
+MR. MEEHAN: I think that -- I think that, 
+
+again, in the context of what this case -- the issue of 
+
+this case, I think that's right. 
+
+I think -- and this Court said in Taylor v. 
+
+Freeland & Kronz that we are not going to adopt a rule 
+
+38 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+respecting finality that is going to take on the onus 
+
+of policing the bar, and noted that rule in criminal 
+
+bankruptcy fraud and the requirement that a petition be 
+
+signed and filed on a verification. And I think that's 
+
+-- I think that's absolutely right. I think that --
+
+JUSTICE SCALIA: If that’s the price of 
+
+your winning this case, it's clearly worth it now --
+
+agreeing with Justice Breyer on that point. 
+
+MR. MEEHAN: You mean that the bar may have 
+
+further scrutiny? 
+
+JUSTICE SCALIA: Yes. I mean, if indeed the 
+
+Court would not be willing to go along with -- with your 
+
+assertion that you can't undo it later, once it's been 
+
+done, unless it is clear that it should not be done and 
+
+that the bankruptcy judge shouldn't do it, and that a 
+
+lawyer shouldn't propose it -- if that's the condition, 
+
+then you should accept it, right? Because you want to 
+
+win this case --
+
+MR. MEEHAN: I would accept -- I would 
+
+accept --
+
+JUSTICE BREYER: I wasn’t making any 
+
+conditions. 
+
+MR. MEEHAN: I would --
+
+(Laughter.) 
+
+MR. MEEHAN: I would accept that condition on 
+
+39 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+direct review or on a Rule 60. Or even --
+
+JUSTICE KENNEDY: I was going to ask whether 
+
+or not in -- on the facts of this case, the client could 
+
+have waited until the final judgment, not appeal, but 
+
+then come in under Rule 60? 
+
+MR. MEEHAN: I think that they could have. 
+
+Rule 60, as it --
+
+JUSTICE KENNEDY: So then the client is not 
+
+required to -- the creditor is not required to appeal? 
+
+MR. MEEHAN: Well, they take the risk, 
+
+Justice Kennedy, that they could fit within 60(a), (b), 
+
+or (c): surprise, inadvertence, mistake, excusable 
+
+neglect, fraud, et cetera. 
+
+In this instance, I think they might have 
+
+had a hard time, because at most stage --
+
+JUSTICE KENNEDY: All right. So I don't 
+
+think they could have -- and of course, you don't think 
+
+it's void. It could come in under 60(b) if it's void, 
+
+but you don't think it's void. 
+
+MR. MEEHAN: Well, void, under those 
+
+circumstances, I think would throw us into the due 
+
+process issue and I don't think so. No, I do not think 
+
+so. 
+
+JUSTICE KENNEDY: All right. So you have to 
+
+show mistake or surprise, and you doubt that there was a 
+
+40 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+mistake or surprise here. 
+
+MR. MEEHAN: Yes. 
+
+JUSTICE KENNEDY: Let me just ask this and 
+
+maybe I have bankruptcy law wrong. My -- my 
+
+understanding is that if creditors are not listed, they 
+
+are not discharged, correct? I think that's right in 
+
+most cases. If you don't list the creditor, the 
+
+creditor is not discharged. 
+
+MR. MEEHAN: Um --
+
+JUSTICE KENNEDY: I'm -- if you're having 
+
+problems with this --
+
+MR. MEEHAN: I hesitate because rule 13 --
+
+excuse me, section 1327 says the plan is binding upon 
+
+creditors whether or not they are listed. But generally 
+
+speaking that is correct. 
+
+JUSTICE KENNEDY: I’m just wondering, 
+
+doesn't it happen all the time that creditors are not 
+
+listed and then they come in later and say the debt is 
+
+not discharged? I mean, doesn't that happen all the time? 
+
+MR. MEEHAN: I think that does happen 
+
+frequently. 
+
+JUSTICE KENNEDY: And is -- is the rationale 
+
+that that -- that that discharge would be void as to 
+
+them, or that they are just not covered? 
+
+Suppose the bankruptcy judge makes a mistake 
+
+41 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+and lists a creditor by name as being discharged, but 
+
+that creditor never received notice. Is it void? 
+
+MR. MEEHAN: I think it is. I do think it 
+
+is. I mean, bottom line, about the only thing, I 
+
+submit --
+
+JUSTICE KENNEDY: Well, is this -- is this 
+
+case all that different, then? 
+
+MR. MEEHAN: Well, in this case, the creditor 
+
+got fulsome notice, submitted to the jurisdiction of the 
+
+court, filed a proof of claim, accepted --
+
+JUSTICE KENNEDY: He got notice of something 
+
+that was void. 
+
+MR. MEEHAN: No, I may be misunderstanding 
+
+your question. He was --
+
+JUSTICE KENNEDY: I mean, that -- that --
+
+that assumes that he got notice of something that was 
+
+legally improper. 
+
+MR. MEEHAN: But not void. To go -- to 
+
+proceed without the adversary proceeding, I submit is 
+
+not void, and what the Petitioners had to try to do is 
+
+to ask you to interpret the statute, whether it's 1328 
+
+or 523(a)(8), to make this some sort of a -- there’s no 
+
+way you can touch it; if you didn't do the adversary, it 
+
+just didn't happen kind of a thing. 
+
+JUSTICE SOTOMAYOR: Could I --
+
+42 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE GINSBURG: But it’s in a category 
+
+that’s labeled “non-dischargeable.” There were other 
+
+items in that -- that category, so let's take it that --
+
+the child support arrears --
+
+MR. MEEHAN: Yes. 
+
+JUSTICE GINSBURG: The debtor says, look, I'll 
+
+pay half of what I owe, and the spouse says, I need 
+
+something for the children, I'll take it. And then the 
+
+plan is confirmed, with only half of the child support; 
+
+and then the caretaker spouse has a second thought and 
+
+says, 2 years later, I need that money, I'm going to go 
+
+after the debtor for the rest. 
+
+MR. MEEHAN: Justice Ginsburg, the child 
+
+support or domestic support has a number of additional 
+
+protections surrounding it. Number one, not only does 
+
+the petitioner for chapter 13 have to notify the 
+
+creditor of the domestic support obligation, but under 
+
+section 1302, the trustee has to do so. And my --
+
+JUSTICE GINSBURG: But let’s suppose -- this 
+
+is my hypothetical. It's right in there, and the -- the 
+
+creditor haven’t gotten all the notices -- I want what I 
+
+can get right now. So I'll make this deal. 
+
+MR. MEEHAN: There are additional notices 
+
+that would go into your hypothetical, and I think it 
+
+makes a difference in this --
+
+43
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE GINSBURG: Well, there are supposed 
+
+to be additional notices here. There’s supposed to be a 
+
+summons and complaint and all that. And let's go down 
+
+the list of the others. How about taxes? 
+
+MR. MEEHAN: Well, I think that the 
+
+principle that we are -- that we are bringing to the 
+
+Court does have broad application. And I don't want to 
+
+-- I’d like to come back, if I get a second, to the 
+
+domestic --
+
+JUSTICE GINSBURG: So you’re saying any of 
+
+these things that are listed as non-dischargeable can 
+
+become dischargeable unless the creditor --
+
+MR. MEEHAN: If the creditor --
+
+JUSTICE GINSBURG: -- objects? 
+
+MR. MEEHAN: -- does not object and if the 
+
+court does not --
+
+JUSTICE GINSBURG: So then, why do we have 
+
+this third category, then? Nothing is non­
+
+dischargeable. 
+
+MR. MEEHAN: Well, may I submit, Justice 
+
+Ginsburg, that the argument proves too much, and that is 
+
+to say that if one can wait and make a voidance argument 
+
+under Rule 60(b) 6 years after the discharge and 
+
+12 years after the filing of the petition, and if that 
+
+could happen to anything, then what we have is that we may 
+
+44
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+as well just worry about litigating Rule 60 motions 
+
+whenever they come up. 
+
+JUSTICE SOTOMAYOR: Counsel --
+
+JUSTICE SCALIA: I guess I don't understand 
+
+your position, because I thought you had said that this 
+
+should not have been discharged and now -- now you’ve 
+
+answered to Justice Ginsburg that so long as the -- as the 
+
+creditor appears they can all be discharged. Now, which 
+
+is it? 
+
+MR. MEEHAN: Well, Justice --
+
+JUSTICE SCALIA: Even if the creditor 
+
+appears, it shouldn't be discharged. I thought that 
+
+that's what you had said before. But now you are saying 
+
+that so long as a creditor appears, all of these are 
+
+dischargeable. 
+
+MR. MEEHAN: What I had tried --
+
+JUSTICE SCALIA: Which is it? 
+
+MR. MEEHAN: The position that I had tried to 
+
+explain -- and, again, I think it balances your point 
+
+with Justice Stevens's point about waiver -- is that: 
+
+Should? Absolutely, unless there is an affirmative 
+
+waiver. But let's remember that when we talk about 
+
+"should," I think we’re talking about appellate issues. 
+
+We’re talking about error on appeal. We’re talking 
+
+about what ought to happen. And the reason I say that, 
+
+45 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+the point about the same effect occurring for taxes and 
+
+breaches of fiduciary duty et cetera, et cetera, proves 
+
+too much, is that if we are going to say that none of 
+
+those is finally put to rest, even though there was 
+
+notice, even though there was acceptance of benefits, as 
+
+occurred here, even though there was a submission to the 
+
+jurisdiction of the bankruptcy court, as occurred here 
+
+-- even though there was, you know, just bypassing the 
+
+early, if I may say "early" Rule 60 remedies -- if we 
+
+are going to say that none of those --
+
+JUSTICE GINSBURG: But your answer to me was 
+
+that if the creditor doesn't object, even to a 
+
+non-dischargeable debt -- if the creditor doesn't 
+
+object, it's discharged. That's what you answered, I 
+
+thought. 
+
+MR. MEEHAN: Yes. 
+
+JUSTICE GINSBURG: And it doesn't matter 
+
+whether it's child support, taxes, or student loans, 
+
+right? Anything in the category -- you’re saying the 
+
+creditor must object; otherwise it's covered by the 
+
+discharge. 
+
+MR. MEEHAN: Well, my position, I think, 
+
+first is, is that, as I think Justice Breyer said, 
+
+this is a -- this is a clear waiver, and I think the 
+
+Court could rule on that basis. But, number two, I think 
+
+46 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+if this is a judgment -- a final judgment, proper 
+
+notice -- we do not have a due process concern, we do not 
+
+have a notice issue -- and the creditor has had plenty 
+
+of opportunity to -- to raise the error --
+
+JUSTICE KENNEDY: Well, I'm not sure there 
+
+was proper notice. There was not a notice that there 
+
+would be a contested hearing. Or that there would be an 
+
+adversary hearing. 
+
+MR. MEEHAN: Justice Kennedy, I think --
+
+JUSTICE KENNEDY: I'm -- I’m not sure that 
+
+there was a proper notice. 
+
+MR. MEEHAN: I think you must look at it 
+
+this way: The notice that was given was for the 
+
+confirmation of a plan. That is the notice then that is 
+
+required under the bankruptcy rules, and it was noticed 
+
+in accordance with the bankruptcy rules. 
+
+Is it right to do it in a bankruptcy plan 
+
+confirmation? If objected to, no, it's not. If not 
+
+objected to, the plan says what the plan says, and the 
+
+notice that must be given is notice of the plan. 
+
+JUSTICE KENNEDY: Well, of course that's the 
+
+problem in the case. Sometimes we decide cases that 
+
+don't make a lot of difference and that once we decide 
+
+the rule everybody will know what the rule is. But in 
+
+this case, the Petitioners say that if we adopt the rule 
+
+47 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+that the Ninth Circuit adopted, it's going to be 
+
+extremely burdensome and costly on -- on municipalities, 
+
+on -- on those who give student loans, et cetera. And 
+
+that -- and that you are just creating a tremendous 
+
+burden on an already overburdened system. 
+
+MR. MEEHAN: Well, the argument that was 
+
+made by the Petitioner and its amici on that point, I 
+
+think, as -- as was pointed out in one of our amicus 
+
+briefs, overlooks the electronic notice, the 
+
+instantaneous notice, the fact that under Federal 
+
+regulations, which, by the way, do also require the 
+
+guarantee and lenders to do these things and to exercise 
+
+due diligence before they can get repaid --
+
+JUSTICE BREYER: That's -- that’s what why 
+
+it’s a -- this is actually -- the part that is a lack of 
+
+understanding or a complete understanding on my part, is 
+
+-- is how Rule 60(b) works, because -- because it does ­
+
+- the law does have the three categories -- the three 
+
+categories that your friend described. And this third 
+
+category is supposed to prevent a discharge even where 
+
+the creditor doesn't object, unless certain things are 
+
+filled out, and they weren't. 
+
+So the three are there, made an objection. 
+
+If at any point the creditor had come in and objected, 
+
+not to the discharge but, you know, just said, hey, it's 
+
+48 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+the wrong form; you’ve got it wrong. It's like an error ­
+
+- they win. 
+
+MR. MEEHAN: They win. 
+
+JUSTICE BREYER: But -- but they waited a 
+
+very long time. 
+
+MR. MEEHAN: They did. 
+
+JUSTICE BREYER: So now they have to come in, 
+
+I guess, under 60(b), and it must be either 60(b)(4) or 
+
+60(b)(6) --
+
+MR. MEEHAN: And it was only --
+
+JUSTICE BREYER: -- and I take it there’s a 
+
+time limit on that, and the time limit is “a reasonable 
+
+time.” Is that how we are supposed to do, that we have 
+
+to say they didn't file -- if fact they never filed 
+
+60 -- it's your side that filed the 60(b)(4), I 
+
+gather. So this is good and mixed up. 
+
+MR. MEEHAN: They responded with a 60(b)(4). 
+
+JUSTICE BREYER: It’s good and mixed up. So 
+
+what is -- how is it supposed to work? 
+
+MR. MEEHAN: Well, the crux of it is, is 
+
+that there are other subparts of Rule 60, of course, 
+
+as -- as we all know, that give broader potential relief, 
+
+but they have time limits on them. 
+
+And there is also the --
+
+JUSTICE BREYER: Yes. 
+
+49 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. MEEHAN: -- provision in section 1330 
+
+that allows revocation for fraud, but also has a time 
+
+limit upon it. But Rule 60(b)(4) does not have that 
+
+time limit on it, but Rule 60(b)(4), which is the 
+
+only basis upon which Petitioners sought relief in the 
+
+bankruptcy court -- and they made that very clear in the 
+
+district court -- the only basis would be if it is void, 
+
+and that means one of two things: Number one is the due 
+
+process issue, which we haven't spent a whole lot of 
+
+time taking about, but I submit is clearly not viable 
+
+because they had actual notice, and this Court has held, 
+
+and so have --
+
+JUSTICE GINSBURG: But that's not -- their 
+
+position is that 528(a)(8) -- or 523(a)(8) makes this --
+
+it puts it outside the discharge order. The discharge 
+
+order does not cover this kind of debt. It doesn't 
+
+discharge student -- student loans absent a hardship 
+
+determination. 
+
+So, what they are saying is the discharge 
+
+discharged other things, but it could not discharge this 
+
+particular debt, so it's not discharged. 
+
+MR. MEEHAN: To be precise, if I may, 
+
+1328(a) says, "The discharge shall not" and then defines 
+
+the categories. And as Chief Justice Roberts said --
+
+JUSTICE SOTOMAYOR: Counsel, may I interrupt 
+
+50
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+for just one moment, because I -- there is something 
+
+niggling at me that I do need an answer to before you sit 
+
+down --
+
+JUSTICE GINSBURG: And I'd like him to 
+
+answer the question that I asked him first. 
+
+JUSTICE SOTOMAYOR: I'm sorry. 
+
+MR. MEEHAN: 1328 is the operative statute 
+
+for the discharge of a chapter 13, and it says “shall 
+
+discharge” except for those categories that are listed. 
+
+The argument has been made that there is 
+
+some significance to the 523, which says "does not 
+
+discharge." But as -- as the Chief Justice observed, 
+
+that applies only to the subpart (b)’s in 1328, which is 
+
+discharges even if the plan has not been fully performed 
+
+by the debtor. And the -- and this is not that 
+
+circumstance. 
+
+So the "does not" language is simply not 
+
+applicable to our case, because it is not a 1328(b) 
+
+discharge that we are involved with. 
+
+And so, Justice Ginsburg, I -- I think your 
+
+question, again, comes back to an argument of law, of 
+
+procedure that would be dealt with on any appeal or 
+
+perhaps on the -- on the more expansive subparts of Rule 
+
+60 if they had been properly brought. But I do not 
+
+see -- I have always had a hard time grappling with the 
+
+51 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+argument that somehow the fact that a statutory 
+
+requirement was not followed falls into the category of 
+
+acting so plainly beyond the court's jurisdiction that 
+
+its action was a manifest abuse of discretion, and I 
+
+think that's what you would have to conclude –-
+
+JUSTICE KENNEDY: On the practicality point, 
+
+you talk about electronic notice. I suppose that 
+
+that -- that the creditors for student loans could have 
+
+the automatic electronic thing where they say, we insist 
+
+on a hardship hearing. But that doesn't solve the 
+
+problem, because they’d then have to go back and see 
+
+whether or not there was a hardship hearing in the case. 
+
+So that -- that means they have -- they 
+
+have -- they have to -- they have to inquire into every 
+
+case whether or not the proper hearing has been made. 
+
+MR. MEEHAN: Well, Justice Kennedy, they 
+
+have to inquire, in any event, because the Federal 
+
+regulations require them to, number one, determine that 
+
+there was a filing; and, number two, even before there is 
+
+an adversary proceeding, to make its own assessment, the 
+
+lender or the guarantee -- the guarantor to make its own 
+
+assessment whether it’s likely that there would be an 
+
+undue hardship in the given case, and there are other 
+
+circumstances which are set forth in the -- in an amicus 
+
+brief --
+
+52 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE KENNEDY: Oh, you mean they can't ask 
+
+for a hearing unless there is a reasonable ground to 
+
+believe that there is no undue hardship -- can’t even ask? 
+
+MR. MEEHAN: No, I don't mean to say that. 
+
+What I mean to say is that -- is that I submit that the 
+
+hardship argument is a little bit overblown because they 
+
+have the obligations -- even though they say they don't 
+
+have even an obligation to open the envelope, they 
+
+have an obligation to look at the petition, to see what 
+
+the situation is, to see whether there’s likely an 
+
+undue hardship. 
+
+They don't have to forbear from making an 
+
+objection to a plan unless they have a basis to 
+
+determine that there was undue hardship. 
+
+JUSTICE SOTOMAYOR: Counsel, if they had 
+
+come to the court at the time the discharge order was 
+
+about to be entered and said we object, there has been 
+
+no undue hardship found, would the court have been 
+
+obligated to alter the plan at that point? The 
+
+confirmed plan proposed a discharge, but at the time 
+
+that the discharge order was being entered, there’s an 
+
+objection. 
+
+MR. MEEHAN: Justice --
+
+JUSTICE SOTOMAYOR: What would have 
+
+happened? 
+
+53
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. MEEHAN: Justice Sotomayor, I think that 
+
+the result would not change, because at that point we 
+
+have a long final plan, and we do have -- you know, the 
+
+issue that is real important that we don't spend a lot 
+
+of time talking about because it’s sort of ingrained in us 
+
+is finality. There are chapter 13 --
+
+JUSTICE SOTOMAYOR: So that's the question. 
+
+What's final? Is it the plan that’s final or is it the 
+
+discharge order that’s final? 
+
+MR. MEEHAN: It's the plan, I submit, 
+
+because the plan is what determines what’s going to 
+
+happen. The discharge is like giving the release after 
+
+the plan has been fully --
+
+JUSTICE SOTOMAYOR: Well, but -- but here we 
+
+have a discharge order that on its face appeared to be 
+
+proper. It excepted out the student loan from the 
+
+discharge. 
+
+MR. MEEHAN: The original --
+
+JUSTICE SOTOMAYOR: And your other -- the 
+
+other side has sort of given up on that as a --
+
+MR. MEEHAN: They have. 
+
+JUSTICE SOTOMAYOR: -- as a point, because 
+
+that, interestingly enough to me, would have been the 
+
+stronger due process argument, whether the Ninth Circuit 
+
+and the district court could have amended that discharge 
+
+54
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+order illegally to except something it didn't except, 
+
+that was -- shouldn't have been excepted to start with. 
+
+But that argument seems to have been put aside. 
+
+MR. MEEHAN: It definitely was put aside. 
+
+It was not raised. 
+
+JUSTICE SOTOMAYOR: But -- so, it might have 
+
+been the stronger due process argument. But having put 
+
+that aside, then your belief is that there is no point 
+
+in time between the confirmation in the plan and the 
+
+discharge order in which a party can object for -- to an 
+
+error --
+
+MR. MEEHAN: Well, of course --
+
+JUSTICE SOTOMAYOR: -- except as permitted by 
+
+60(b) and 1330? 
+
+MR. MEEHAN: Well -- and as permitted by just 
+
+simply appealing the order. They could have done that. 
+
+They could have appealed. They could have done 60 --
+
+JUSTICE SOTOMAYOR: Which order could they 
+
+have -- they could not have appealed --
+
+MR. MEEHAN: The confirmation -- the 
+
+confirmation -- the -- the order confirming the plan. 
+
+JUSTICE SOTOMAYOR: They could not have 
+
+appealed the discharge order? 
+
+MR. MEEHAN: I can't answer that one. I 
+
+don't know that they could have appealed it. 
+
+55 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SOTOMAYOR: Well, going back to 
+
+Justice Kennedy's point, I mean, some people are listed 
+
+in discharge orders that were never discussed in the 
+
+plan, or otherwise some people are excluded that should 
+
+have been included. Those people can't appeal? 
+
+MR. MEEHAN: Well, I am not prepared to say 
+
+that they cannot. I certainly, if I were representing 
+
+them, would try -- try it, but it's just something that 
+
+I have not seen, and in working up this case, I am not 
+
+familiar with it, but it may very well be an appealable 
+
+order. 
+
+My point is simply that, the bottom line, we 
+
+have something here that is very final; there are 
+
+literally billions of dollars of disbursements made by 
+
+chapter 13 trustees in reliance on the these plans; and 
+
+it would be very, very upsetting to the bankruptcy 
+
+jurisdiction, exceedingly upsetting, to make a very broad 
+
+exception to finality. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+Ms. Wanslee, you have 3 minutes remaining. 
+
+REBUTTAL ARGUMENT OF MADELEINE C. WANSLEE 
+
+ON BEHALF OF THE PETITIONER 
+
+MS. WANSLEE: Briefly, just on this last 
+
+point, no upset whatsoever to bring this matter back 
+
+before the bankruptcy court. Mr. Espinosa is still free 
+
+56
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+to come back to bankruptcy court and argue that he has 
+
+got an undue hardship. 
+
+The distributions that are made through a 
+
+chapter 13 plan are a matter of statutory right, every 
+
+single adversary -- every single plan that had this 
+
+illegal plan language could come back and it would not 
+
+upset anything, nothing would change, no distribution 
+
+whatsoever. I think that's an important point. 
+
+And to be clear, the chief judge's -- Chief 
+
+Justice's question, 523 by its terms brings in 1328(b), 
+
+which is a different kind of discharge. 
+
+CHIEF JUSTICE ROBERTS: Right. 
+
+MS. WANSLEE: But 1328(a)(2) specifically 
+
+then incorporates 523. It is applicable. It is in play. 
+
+CHIEF JUSTICE ROBERTS: Well, I -- my -- I'm 
+
+not -- I'm not sure it does. It refers back to 523(a) 
+
+to define the debt. I don't think it incorporates 
+
+all -- all of 523. It's simply referring to the kind of 
+
+debt that should not be discharged. 
+
+MS. WANSLEE: Certainly, 1328(a)(2) provides 
+
+the laundry list of exceptions to discharge. And that's 
+
+the point, is that student loans are within that 19 
+
+categories of debts that Congress said are excepted from 
+
+discharge. 
+
+In this case, there was really no basis to 
+
+57 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+appeal the discharge order. It was proper. It was 
+
+appropriate. It excepted the student debt, and that’s 
+
+found at page 46 of the record, Your Honor. 
+
+In terms of what happened when the matter was 
+
+on its limited remand, it was a very limited remand, 
+
+and this issue was already teed up with the Ninth Circuit. 
+
+JUSTICE SOTOMAYOR: Could you go back to the 
+
+fundamental part of my question to your adversary? The 
+
+plan order included a discharge of the student 
+
+interest -- of the interest on the student loan. 
+
+MS. WANSLEE: It did not so specifically 
+
+state, Your Honor. 
+
+JUSTICE SOTOMAYOR: It just proposed a 
+
+discharge of a certain amount lesser than the principal 
+
+plus interest. 
+
+MS. WANSLEE: It had a predicate of 
+
+discharge of interest, no predicate of undue hardship. 
+
+JUSTICE SOTOMAYOR: Right. That's the plan. 
+
+And then you have a discharge order. And the two are 
+
+not congruent. So what's the final judgment? 
+
+MS. WANSLEE: The final judgment, Your 
+
+Honor, is the effect of 1328. Think of bankruptcy as --
+
+JUSTICE SOTOMAYOR: No, no. Is it the 
+
+confirmation order or is it the discharge order? Are they 
+
+different judgments? What -- what controls? And what 
+
+58 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+were you --
+
+MS. WANSLEE: The controlling order here is 
+
+the discharge order. And the reason why is because 
+
+bankruptcy is a continuum of events all leading to the 
+
+discharge. The discharge is the goal. That's what the 
+
+debtor wants. But only Congress can tell a debtor what 
+
+he gets to discharge. 
+
+JUSTICE KENNEDY: Well, what does the notice 
+
+of -- the time for a notice of appeal run from? 
+
+MS. WANSLEE: Pardon me? 
+
+JUSTICE KENNEDY: What does the time for the 
+
+notice of appeal run from -- the discharge order? 
+
+MS. WANSLEE: Well, for the plan itself, 
+
+from the plan entry. Now, once again, we never got a 
+
+copy of the plan entry. 
+
+JUSTICE KENNEDY: Now -- now, just in the --
+
+in the general run of the bankruptcy, how do you calculate 
+
+when you have to file your appeal -- from the time of 
+
+the discharge order? 
+
+MS. WANSLEE: Well, if we were going to 
+
+appeal from -- from the plan, it would be the plan or --
+
+but there’s no reason to appeal from the plan, because 
+
+once again, 1328 excepts our debt specifically from 
+
+discharge through the plan. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+59 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+The case is submitted. 
+
+
+MS. WANSLEE: Thank you, Your Honor. 
+
+
+(Whereupon, at 12:06 p.m., the case in the 
+
+
+above-entitled matter was submitted.) 
+
+60
+
+Alderson Reporting Company 
+
+
+
+OfficialOfficial
+
+Page 61 
+
+agree 25:19 1:15 assets 25:17 20:2,19 21:20A 
+30:13 appeared 12:6 Assistant 1:18 25:17,18 26:2,7able 9:8 27:11 
+
+agreeing 39:8 54:15 assume 5:9 27:13,17,21,2535:14 36:9 
+Aid 1:3 3:4 appears 6:7 45:8 27:20 35:11 28:15,17,19,20above-entitled 
+albeit 6:11 45:12,14 assumes 42:16 30:3,8,16,17,251:12 60:4 
+Alimony 6:21 appellate 45:23 astounding 14:6 31:1,21,23 32:7absence 27:12 
+Alito 32:9 34:20 appendix 18:25 14:7 32:10,13,17,2235:8 
+
+34:25 35:7,17 23:20 attack 7:2 16:9 32:24 33:6,8,17absent 50:17 
+35:19,22 applicable 51:18 38:13 33:20,21,22,24absolutely 37:18 
+
+allegation 9:24 57:14 attacked 7:8 34:3,7,15,2239:5 45:21 
+10:1,7 11:19 application 44:7 attempt 35:12 35:3,11,23 36:8abuse 29:23 52:4 
+
+alleges 25:1 applies 51:13 attempting 37:21 39:3,15accept 22:14 
+Allowing 3:21 apply 7:4,22 34:23 35:9 41:4,25 46:739:17,19,20,25 
+allows 50:2 27:15 29:16 attorney 34:21 47:15,16,17acceptance 46:5 
+alter 53:19 30:1 35:9,11 50:6 56:16,25accepted 17:8 
+altogether 14:9 appropriate authority 8:10 57:1 58:22 59:442:10 
+ambiguity 19:4 13:25 33:17 29:23 33:25 59:17accepting 20:16 
+amended 54:25 58:2 automatic 52:9 bar 38:16 39:2,922:15,16 
+amici 48:7 approved 5:15 available 24:17 basic 15:22access 14:2 
+amicus 1:20 2:6 argue 22:3 23:3 26:11 basically 38:14acknowledge 
+
+18:7 48:8 52:24 57:1 average 30:15 basis 46:25 50:529:18 30:2,4,5 
+amount 58:14 argument 1:13 a.m 1:14 3:2 50:7 53:13act 32:17,23,24 
+analogize 32:23 2:2,10 3:4,7 57:25acting 6:7 52:3 Bannounce 20:18 18:5 20:16 21:9 begging 22:2action 29:21 52:4 
+
+b 40:11 51:13answer 7:11 22:4,13,14 beginning 12:19actual 33:16 
+back 5:16 8:1310:12 11:13 29:10 37:16 18:1650:11 
+
+10:10 15:14,1615:24 17:16 38:8,14 44:21 begins 12:16additional 43:14 
+21:9 23:6 34:820:23 22:20,21 44:22 48:6 behalf 1:16,20,2243:23 44:2 
+38:12 44:823:8,10 24:10 51:10,21 52:1 2:4,6,9,12 3:8adjudication 
+51:21 52:1131:22 46:11 53:6 54:24 55:3 18:6 29:1110:22 
+56:1,24 57:1,651:2,5 55:24 55:7 56:21 56:22adopt 38:25 
+57:16 58:7answered 45:7 arguments 12:6 belief 55:847:25 
+
+balance 33:12,1246:14 Ariz 1:16,22 believe 11:17adopted 48:1 
+balances 45:19anybody 20:16 arrangements 13:24 53:3adversary 9:22 
+balloon 23:2apologize 10:13 31:22 benefits 46:511:8 25:15,21 
+bankrupt 9:723:23 arrears 43:4 best18:10 37:1225:24 26:5 
+bankruptciesappeal 37:3 40:4 aside 55:3,4,8 better 9:17 24:1732:15 34:5 
+
+20:6,7,740:9 45:24 asked 16:2 24:13 beyond 29:2242:19,23 47:8 
+bankruptcy 3:1251:22 56:5 58:1 51:5 52:352:20 57:5 58:8 
+
+3:20 4:1,2,7,1259:9,12,18,21 asking 7:25 big 13:2 30:11affidavit 10:7,15 
+4:15,18 5:1259:22 35:20,22,23 billions 56:1411:1,12,24 
+6:11 8:7,9,10appealable 56:10 asks 37:9 bind 17:4affirmative 
+8:12,25 15:19appealed 55:17 aspects 12:7 binding 35:545:21 
+15:23 16:655:19,23,25 assertion 39:13 41:13affirming 27:7 
+17:22 18:12,13appealing 55:16 assessment bit 11:18 53:6afforded 8:7 
+19:13,14,18APPEARAN... 52:20,22 blue 18:25 
+
+Alderson Reporting CompanyAlderson Reporting Company
+
+
+
+Official 
+
+Page 62 
+
+bothering 22:19 caretaker 43:10 57:20 52:24 committed 6:3 
+bottom 42:4 carved 16:19 certification cite 8:1 companies 8:6 
+
+56:12 case 3:4 4:9,25 37:11 civil 29:4 16:7 
+breaches 46:2 6:14,22,25 7:6 cetera 40:13 46:2 claim 13:12,13 company 8:5,8,9 
+break 33:10 7:21 8:3,6,8,20 46:2 48:3 13:17 17:5 8:11,16 12:1 
+Breyer 6:22 7:6 9:25 10:7,14,18 change 54:2 57:7 34:12 37:7,8 16:8,10 
+
+7:11 8:4 15:18 10:20 11:4 12:7 changed 24:14 38:3 42:10 complaint 25:21 
+20:11,22,25 12:9,15,15 chapter 4:25 claims 37:12 44:3 
+21:5,13 22:18 13:10,14,23 13:18 15:15 clarify 24:24 complete 48:16 
+22:22 23:11,13 16:2,4,11 17:21 20:5,6,6,7 27:4 claw 15:16 completely 26:6 
+28:2,9,12 37:5 21:6 22:8,22 27:6,9,14 28:18 clear 4:2,14 7:4 34:18 
+37:19 38:4,7 23:4,20 24:14 28:21 30:16 7:23 22:15 32:4 completes 5:4 
+39:8,21 46:23 27:2,8 29:17,18 32:10 34:24 33:14 34:4 35:2 compliance 14:3 
+48:14 49:4,7,11 30:12 31:11,11 35:10 43:16 35:25 38:9,11 complied 32:4 
+49:18,25 31:12 35:1,6,16 51:8 54:6 56:15 38:16,16 39:14 conceding 15:18 
+
+brief 18:25 19:10 36:1 38:22,23 57:4 46:24 50:6 57:9 concern 47:2 
+23:18,21,22 39:7,18 40:3 charade 28:25 clearest7:20 conclude 52:5 
+52:25 42:7,8 47:22,25 29:3 clearly 7:17 conclusion 14:7 
+
+Briefly 56:23 51:18 52:12,15 charge 24:21 19:17 25:11 condition 39:16 
+briefs 48:9 52:23 56:9 chief 3:3,9 14:14 39:7 50:10 39:25 
+bring 15:9 31:23 57:25 60:1,3 14:18 15:1,7 client 15:22 40:3 conditions 21:23 
+
+56:24 cases 8:2 22:13 18:1,4,8,15,23 40:8 22:10,23 39:22 
+bringing 44:6 26:24 41:7 18:25 19:9,16 code 3:20 8:23 confirm 32:7 
+brings 15:6,8,11 47:22 29:8,12 31:16 17:22 32:22 33:18 
+
+57:10 categories 6:20 31:18 50:24 36:15 confirmation 
+broad 44:7 56:17 15:21 16:7,17 51:12 56:19 coherent 17:22 5:14 17:2,13 
+broadened 31:10 21:8,14,16,18 57:9,9,12,15 colleague 24:13 47:14,18 55:9 
+broader 49:22 22:24 23:10 59:25 25:20 55:20,21 58:24 
+brought 51:24 24:7 48:18,19 child 6:21 43:4,9 collected 24:18 confirmed 16:24 
+burden 36:21,24 50:24 51:9 43:13 46:18 come 12:7,11 17:3,10 29:15 
+
+48:5 57:23 children 43:8 13:8 17:11 36:20 43:9 
+burdensome category 3:16,23 choice 29:6 20:17 21:9 23:6 53:20 
+
+48:2 16:14 21:11 circuit 3:19 4:12 24:15 30:20 confirming 
+business 4:19 36:12 43:1,3 4:15,18 5:11 38:12 40:5,18 55:21 
+businesses 16:6 44:18 46:19 27:24 31:20 41:18 44:8 45:2 Congress 3:11 
+bypassing 46:8 48:20 52:2 34:20 35:4,5,8 48:24 49:7 6:19,19 8:6 
+
+C 
+cause 3:18 
+caveat 24:22 
+
+35:8,15,18,20 
+48:1 54:24 58:6 
+
+53:16 57:1,6 
+comes 51:21 
+
+14:5 15:17 
+16:16 17:25 
+
+c 1:16 2:1,3,11 certain 8:19 circuits 37:21 comma 19:2,17 21:15,17 24:8 
+3:1,7 23:10,14 16:17 19:2 Circuit's 27:8 19:19,22,24,24 25:25 26:16,24 
+40:12 56:21 21:23 48:21 circumstance 20:13 22:24 31:8 36:21 
+
+calculate 59:17 58:14 22:4 33:14 command 6:4 38:12,18 57:23 
+candor 36:4 certainly 10:18 51:16 commas 19:21 59:6 
+canons 17:18 22:12 24:25 circumstances commenced Congress's 6:17 
+can’t 53:3 26:15 30:22 6:12 8:20 31:5 12:23 13:1 congruent 58:20 
+capable 19:19 33:25 56:7 33:17 40:21 commercial 16:6 conscious 37:25 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 63 
+
+consequence 20:19,20 21:20 47:3 48:21,24 debts 3:14,22 5:6 28:3 42:7 57:11 
+20:9,12,15 22:5,14 24:5,16 creditors 30:18 6:20 8:24 14:22 58:25 
+
+consequences 25:11,12 26:2,4 41:5,14,17 52:8 15:12,14 16:18 difficulty 37:23 
+20:8 22:15 27:7 26:7,8 27:13,21 creditor's 26:10 19:2 33:8,9 diligence 48:13 
+
+consistent 19:20 29:13,14 30:3 criminal 20:14 57:23 direct 40:1 
+29:4 32:22,24 33:18 39:2 December 1:10 directive 18:19 
+
+constitutional 33:20,21 34:3,7 crux 49:20 decide 8:18 19:13,14,18 
+7:16 13:25,25 35:3 38:24 curiae 1:20 2:7 34:11 47:22,23 directives 18:13 
+
+construed 18:11 39:12 42:10 18:7 decision 25:10 disbursements 
+20:2 44:7,16 46:7,25 curious 10:11 decisions 26:22 56:14 
+
+contentions 
+37:13 
+
+50:6,7,11 53:16 
+53:18 54:25 D 
+
+declaration 3:22 
+decree 12:10 
+
+discharge 3:16 
+3:21 4:23,24,25 
+
+contest29:5 56:25 57:1 D 3:1 defaults 26:6 5:3,5,15 6:20 
+contested 47:7 courtroom 12:5 deal 9:16,19 define 57:17 9:2 12:10 13:6 
+context 8:12 9:22 13:16 43:22 defines 50:23 13:19 14:11,15 
+
+38:22 courts 4:18 6:3 dealt 51:22 definitely 55:4 14:16,19,22 
+continuum 59:4 27:17,25 30:8 debatable 38:6 definition 15:8 15:2,3,5,6,9 
+contravention 33:6 36:7 37:21 debt 3:12,21,24 18:21 16:19,22 18:12 
+
+6:4 court's 12:14,17 5:1,6 6:13 13:7 degree 19:4 18:21 19:2,6 
+control 17:19 18:12 20:3 14:23,24 15:8 delineated 3:11 20:3 21:3,3,6 
+controlling 35:8 25:10 29:21 19:3,25 21:18 denied 33:23 26:8 27:12 
+
+59:2 52:3 21:25 22:3 24:2 Department 30:20 32:11 
+controls 58:25 cover 21:12 24:4,6,8 26:8 1:19 26:18 28:7 34:23 35:10,13 
+copy 59:15 50:16 27:9 30:25 31:1 31:7 36:19 37:8,10 
+correct 11:2 12:2 covered 20:5 31:2,6,13,14,15 dependents 3:19 41:23 44:23 
+
+15:4 30:14 41:24 46:20 32:11,12,12 deprives 17:22 46:21 48:20,25 
+34:21 41:6,15 covers 21:4,12 33:10 34:24 described 6:6 50:15,15,17,19 
+
+costly 48:2 32:12 35:10,13 36:11 25:11 29:25 50:20,23 51:8,9 
+counsel 29:8 creating 48:4 41:18 46:13 48:19 51:12,19 53:16 
+
+45:3 50:25 creditor 3:14 50:16,21 57:17 despite 34:5 53:20,21 54:9 
+53:15 56:19 4:20 9:3,6,9,11 57:19 58:2 determination 54:12,15,17,25 
+59:25 9:20 11:9 12:5 59:23 9:10,12 17:10 55:10,23 56:3 
+
+counted 20:12 12:9,11 13:3,7 debtor 3:17,18 21:20 26:2 27:1 57:11,21,24 
+country 28:17,19 13:8,11,11,12 4:24 5:4,5 36:2 50:18 58:1,9,14,17,19 
+course 8:24 13:13,15 17:4,5 10:23 12:11 determine 52:18 58:24 59:3,5,5 
+
+11:18 28:22 17:7 20:16 14:19 16:22 53:14 59:7,12,19,24 
+40:17 47:21 21:19 24:4,9,15 17:4 18:18 19:1 determined 25:6 dischargeable 
+49:21 55:12 24:25 25:19 24:1 25:1 26:23 determines 24:5 3:13,13,15 8:18 
+
+court 1:1,13 3:10 26:5,6,15,23 27:9,15 30:19 54:11 15:15 21:22,22 
+4:1,2,7 5:5,12 27:11 30:19 36:16,17,21 deviating 38:17 22:3 36:13 
+5:12 6:7,11,15 36:13,19,22 43:6,12 51:15 difference 30:11 44:12,19 45:15 
+7:1,3,21,22 40:9 41:7,8 59:6,6 43:25 47:23 discharged 5:13 
+8:10,10,15,17 42:1,2,8 43:17 debtors 3:21 different 6:5 8:25 9:13 12:8 
+14:19 18:9,13 43:21 44:12,13 27:15 8:20 10:1,6,8 22:9 24:2 26:25 
+18:17,19 19:1,7 45:8,11,14 debtor's 3:19 10:15 11:4 41:6,8,19 42:1 
+19:13,14,18 46:12,13,20 14:16 13:15 20:5,13 45:6,8,12 46:14 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 64 
+
+50:20,21 57:19 33:14 49:8 55:2 57:23 58:2 feels 21:7 22:23 53:18 58:3 
+discharges 51:14 electronic 48:9 exception 3:16 fiduciary 46:2 four 16:4 17:23 
+discretion 52:4 52:7,9 14:11 23:9 fight 24:23 framed 19:12,14 
+discussed 23:17 element 34:12 56:18 file 9:3 49:14 19:17 
+
+56:3 38:2 exceptions 6:21 59:18 FRANCISCO 
+dispute 4:19 ends 12:16 22:9 30:1 57:21 filed 10:15 11:13 1:7 
+disregards 4:1 enforce 32:25 excepts 59:23 11:24 30:16 fraud 39:3 40:13 
+distinction 19:10 38:17 excluded 56:4 39:4 42:10 50:2 
+distribution enforced 6:18 excusable 40:12 49:14,15 free 34:11 56:25 
+
+13:18 57:7 ensuring 26:20 excuse 19:23 filing 31:2,2 Freeland 38:25 
+distributions entered 5:16,16 28:12 35:4 44:24 52:19 frequently 41:21 
+
+57:3 14:17 24:20 41:13 filings 27:4 28:16 friend 48:19 
+district 5:12 53:17,21 exercise 48:12 filled 48:22 front 7:13 35:25 
+
+20:19 50:7 enters 33:11 existing 37:13 final 12:10 17:10 full 17:6 25:15,21 
+54:25 entitled 11:10 expansive 51:23 17:11 40:4 47:1 25:24 
+
+doctrine 14:8 29:17 30:17 expense 9:9 54:3,8,8,9 fully 15:14 51:14 
+doing 27:25 entry 25:2 59:14 25:16 56:13 58:20,21 54:13 
+
+37:16 59:15 explain 45:19 finality 29:19 fulsome 42:9 
+dollars 56:14 enumerated 9:1 explained 24:16 30:1 39:1 54:6 fundamental 
+domestic 43:14 15:11 extensive 33:15 56:18 8:14 58:8 
+
+43:17 44:9 envelope 53:8 extra 34:16 finally 46:4 Funds 1:3 3:4 
+door 3:23 equally 28:25 extraordinary find 7:1 23:15 further 14:21 
+doubt 40:25 equivalent 34:22 20:23 27:2 36:9 39:10 
+draw 19:10 error 5:13,18,22 extremely 48:2 finding 9:13 10:4 future 22:13 30:8 
+due 7:16 14:2,2 
+
+15:22 40:21 
+5:24 6:3,16 7:2 
+7:4,17 45:24 F 
+
+13:19 27:12 
+30:21 G 
+
+47:2 48:13 50:8 47:4 49:1 55:11 face 54:15 fine 34:13 G 3:1 
+54:24 55:7 Espinosa1:7 3:5 fact 5:24 9:23 fines 20:14 gather 49:16 
+
+duty 14:13 46:2 15:16 56:25 16:16 26:13 first4:14 18:23 general 1:19 
+D.C 1:9,19 Espinosa's 33:21,21 34:5 20:3 21:4 23:6 17:17,17 34:10 
+
+E 
+17:24 22:14 
+
+ESQ 1:16,18,22 
+34:12 48:10 
+49:14 52:1 
+
+27:23 46:23 
+51:5 
+
+59:17 
+generally 34:9 
+
+E 2:1 3:1,1 2:3,5,8,11 facts 11:18,18 fit 40:11 41:14 
+earlier 15:17 established 24:14,25 26:4 follow 8:19 20:13 getting 9:17 
+early 46:9,9 11:17 40:3 22:24 Ginsburg 4:11 
+easier 11:19 et 40:13 46:2,2 factual 29:5 followed 52:2 4:17,21 9:6,15 
+easy30:24 48:3 fails 4:20 follows 23:11 13:10 16:23 
+Education 26:18 event 52:17 failure 7:22 25:10 17:16 25:14,23 
+
+28:8 31:8 events 59:4 fall 3:15 21:7 forbear 53:12 31:13,17,19 
+effect 4:10,23 5:3 everybody 47:24 falls 21:10 52:2 forbidden 27:25 36:10,15,23 
+
+5:17 17:1,23 exactly 10:17 familiar 56:10 foremost20:3 43:1,6,13,19 
+18:11 19:6 21:2 11:14 far 31:3 36:8 27:23 44:1,10,14,17 
+29:17 35:25 exceedingly favor 6:23 17:25 form 27:5 49:1 44:21 45:7 
+36:11 46:1 56:17 Federal 36:1 forth 52:24 46:11,17 50:13 
+58:22 excepted 6:20 48:10 52:17 forward 36:25 51:4,20 
+
+either 6:7 27:15 9:2 24:6 54:16 feel 22:25 found 8:10 29:20 give 5:19 7:6 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 65 
+
+17:20 26:13 happened 53:25 8:1,21 9:11,21 57:14,17 28:11 43:1 
+33:10 48:3 58:4 10:3,10,19 11:2 incur 25:16 48:15 49:18 
+49:22 hard 40:15 51:25 11:5,16 12:2,13 individual 26:22 52:22 54:5 
+
+given 5:14 47:13 harder 10:18,20 12:22 13:23 26:23 I’d 7:11 17:14,20 
+47:20 52:23 hardship 3:18 14:10 15:4 ingrained 54:5 44:8 
+54:20 4:16 9:8,9,12 16:15 17:14 inquire 52:14,17 I’m 10:11 19:18 
+
+giving 54:12 9:14,19,24 30:14 58:3,12 insist52:9 30:12 41:16 
+go 5:16 9:8,19 10:16,22 11:17 58:22 60:2 insofar 21:11 47:10 
+
+10:10 25:15 11:20 25:5 26:1 Hood 25:11 26:4 instance 34:13 I’ve 23:21 
+29:18 34:18 
+38:9 39:12 
+
+30:22 31:24 
+36:1,16,18 
+
+26:7 
+hope 20:23 
+
+34:15 40:14 
+instantaneous J 
+
+42:18 43:11,24 38:11 50:17 hopes 27:10 48:10 J 1:7,18,22 2:5,8 
+44:3 52:11 58:7 52:10,12,23 hoping 26:12 insurance 8:5,6 18:5 29:10 
+
+goal 59:5 53:3,6,11,14,18 hypothetical 8:11,16 16:7,8 judge 5:12,12 
+goes 8:13 12:10 57:2 58:17 13:1 24:24 16:10 13:6 15:19,23 
+
+14:21 harmless 28:10 33:13 34:19 insure 28:5 25:18 28:19 
+going 4:16 9:7 28:11 43:20,24 integrity 26:21 30:16,25 31:23 
+
+13:6,7 16:12 
+23:20 27:21 
+
+haven’t 43:21 
+hear 3:3 32:19 I 
+
+interest9:18 
+24:18 26:10,12 
+
+32:7,10,13,17 
+33:22,22,24 
+
+28:5,20 29:20 heard 6:6 idea 28:19,24 26:17,20 58:10 34:15 39:15 
+30:12 36:25 hearing 11:8 identified 21:15 58:10,15,17 41:25 
+38:25 39:1 40:2 12:9 13:2,7 21:17 interested 35:17 judges 4:13,15 
+43:11 46:3,10 21:19 24:5 identify 30:25 interesting 36:6 28:15,17,20 
+48:1 54:11 56:1 25:15,21,24 illegal 57:6 interestingly 30:17 31:21 
+59:20 28:25 29:3,6 illegally 55:1 54:23 34:13 
+
+good 49:16,18 47:7,8 52:10,12 implicated 17:23 interests 26:15 judge's 57:9 
+gotten 43:21 52:15 53:2 important 5:2 intermeddle judgment 5:20 
+government hearings 13:4 6:21 12:15 4:13 5:22 12:10 13:9 
+
+23:8 28:10 heart 33:9 15:13 16:18 interpret 42:21 21:11 23:7 27:8 
+grant 5:5 14:19 held 29:14 50:11 26:17 34:17 interrupt 50:25 40:4 47:1,1 
+
+18:18 19:1,8 hesitate 30:14 54:4 57:8 invoked 36:9 58:20,21 
+grappling 51:25 41:12 imprecise 32:1 invoking 37:22 judgments 58:25 
+ground 53:2 hey 48:25 improper 32:13 involved 51:19 jurisdiction 6:8 
+guarantee 48:12 Heytens 1:18 2:5 32:16,21 33:2 involving 4:19 6:9,10,11,12,15 
+
+52:21 18:4,5,8,22 37:23 42:17 6:14 7:17,19,24 8:15 
+guaranteed 31:7 19:16,23 20:21 inadvertence irony 26:9 8:17 15:23,25 
+guarantor 52:21 20:25 21:13,24 40:12 issue 4:3 6:9,13 16:6,10,14 22:5 
+guess 7:18 45:4 22:7,12,21 23:9 inadvertently 8:11,14,16 9:22 29:22 42:9 46:7 
+
+49:8 23:17,23 24:12 6:3 19:11 29:5,16 52:3 56:17 
+
+H 
+24:22 25:4,9,23 
+26:14 27:19,23 
+
+include 4:25 
+16:25 27:10 
+
+38:22 40:22 
+47:3 50:9 54:4 
+
+Justice 1:19 3:3 
+3:9,25 4:11,17 
+
+half 43:7,9 28:7,11 29:2 included 8:24 58:6 4:21 5:8,11,23 
+happen 20:12 30:15 56:5 58:9 issues 13:2,4 6:2,22,24 7:6 
+
+41:17,19,20 holding 29:24 includes 3:24 45:23 7:11,15 8:4,13 
+42:24 44:25 Hollowell 33:22 including 20:14 items 43:3 9:6,15,25 10:5 
+45:25 54:12 Honor 4:9 5:2 7:7 incorporates it’s 7:1 13:2 10:11,14,20,25 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 66 
+
+11:3,7,11,21,23 56:1,2,19 57:12 lack 6:14 7:24 list41:7 44:4 39:21 53:12 
+12:4,20,25 57:15 58:7,13 36:4 48:15 57:21 manifest29:23 
+13:10,14,20,22 58:18,23 59:8 lacking 16:14 listed 41:5,14,18 52:4 
+14:4,6,14,18 59:11,16,25 language 5:1,25 44:11 51:9 56:2 manner 4:5 
+15:1,7,18 16:23 Justice's 57:10 7:23 10:10 lists 42:1 materials 8:2 
+17:16 18:1,4,8 
+18:15,23 19:1,9 
+19:16,21,23 
+20:11,21,22,25 
+21:5,13,21,25 
+22:1,8,18,22 
+23:10,13,14,17 
+23:19,24 24:10 
+24:13,23 25:2,4 
+25:7,14,23 26:9 
+26:14 27:17,19 
+27:20,24 28:2,9 
+28:12,12,22,24 
+29:3,8,12 30:2 
+30:7,11,18,24 
+31:4,9,13,16,17 
+31:18,19 32:9 
+32:19 33:1,4,5 
+33:13,25 34:2 
+34:20,25 35:7 
+35:17,19,22 
+36:10,15,23 
+37:5,19 38:4,7 
+39:6,8,11,21 
+40:2,8,11,16,24 
+41:3,10,16,22 
+42:6,11,15,25 
+43:1,6,13,19 
+44:1,10,14,17 
+44:20 45:3,4,7 
+45:10,11,17,20 
+46:11,17,23 
+47:5,9,10,21 
+48:14 49:4,7,11 
+49:18,25 50:13 
+50:24,25 51:4,6 
+51:12,20 52:6 
+52:16 53:1,15 
+53:23,24 54:1,7 
+54:14,19,22 
+55:6,13,18,22 
+
+K 
+Kennedy 12:4,20 
+
+12:25 13:14,20 
+13:22 14:4,6 
+28:24 29:3 
+32:19 40:2,8,11 
+40:16,24 41:3 
+41:10,16,22 
+42:6,11,15 47:5 
+47:9,10,21 52:6 
+52:16 53:1 59:8 
+59:11,16 
+
+Kennedy's 56:2 
+key 19:9 
+kid 33:8,10 
+kind 5:7 7:16 
+
+10:11 14:24 
+15:8 24:2 29:25 
+37:8 42:24 
+50:16 57:11,18 
+
+kinds 20:13,15 
+knew 13:12 
+know 7:20 9:7 
+
+10:12 12:16,19 
+16:12 23:2 31:2 
+31:3 33:7 46:8 
+47:24 48:25 
+49:22 54:3 
+55:25 
+
+knowing 35:11 
+37:14 
+
+knowingly 38:17 
+knowledge 37:12 
+knows 35:12 
+
+37:7,8 
+Kronz 38:25 
+
+L 
+labeled 32:12 
+
+43:2 
+
+16:20 18:24 
+19:4,5,19 21:11 
+23:25 51:17 
+57:6 
+
+Laughter 39:24 
+laundry 57:21 
+law 4:1 27:18 
+
+35:15,18,20 
+37:13,16 38:9 
+41:4 48:18 
+51:21 
+
+lawyer 37:6,24 
+39:16 
+
+lawyers 36:8 
+leading 59:4 
+leaving 34:4 
+legal 5:13 7:2 
+
+11:23 19:6 
+37:12 38:19 
+
+legally 42:17 
+legs 22:5 
+lender 11:14 
+
+52:21 
+lenders 48:12 
+lesser 58:14 
+let's 5:8 33:10 
+
+37:2 43:3 44:3 
+45:22 
+
+let’s 43:19 
+limit 49:12,12 
+
+50:3,4 
+limitation 19:6 
+
+20:2,9 21:2 
+22:16 25:12 
+
+limitations 18:11 
+limited 15:10 
+
+22:17 27:14 
+58:5,5 
+
+limits 49:23 
+line 17:9 42:4 
+
+56:12 
+
+literally 56:14 
+litigate 34:11 
+litigated 37:24 
+litigating 45:1 
+litigation 12:16 
+
+12:18,23 29:4 
+32:3 34:10 
+
+little 7:19 11:18 
+13:15 32:1 34:9 
+53:6 
+
+loan 3:22 8:18 
+12:7 13:3 15:14 
+21:25 26:21 
+27:9 30:21 31:1 
+31:2,6 33:9,10 
+35:13 54:16 
+58:10 
+
+loans 3:15 9:13 
+22:17 26:19,25 
+28:6 46:18 48:3 
+50:17 52:8 
+57:22 
+
+logical 27:7 
+long 45:7,14 49:5 
+
+54:3 
+look 12:14 17:12 
+
+30:12 43:6 
+47:12 53:9 
+
+looked 16:3 
+looking 4:24 
+
+16:24 18:23 
+lot 19:21 33:8 
+
+47:23 50:9 54:4 
+lots 13:2 
+lower 7:3 
+
+M 
+MADELEINE 
+
+1:16 2:3,11 3:7 
+56:21 
+
+making 37:1 
+
+23:16 
+matter 1:12 7:1 
+
+7:19,23,24 8:24 
+15:25 22:10 
+29:20 35:15,21 
+37:6,17 46:17 
+56:24 57:4 58:4 
+60:4 
+
+matters 27:4 
+mean 4:1 6:7,23 
+
+10:23 24:23 
+30:12 31:1 
+34:10 38:4,13 
+39:9,11 41:19 
+42:4,15 53:1,4 
+53:5 56:2 
+
+meaningless 
+19:11 
+
+meanings 6:1 
+means 28:18 
+
+50:8 52:13 
+mechanism 
+
+32:14 
+Meehan 1:22 2:8 
+
+29:9,10,12 30:5 
+30:10,13 31:3,5 
+31:10,15,25 
+32:16,20 33:4 
+33:12 34:8,25 
+35:14,19,24 
+36:14,23 37:18 
+38:6,21 39:9,19 
+39:23,25 40:6 
+40:10,20 41:2,9 
+41:12,20 42:3,8 
+42:13,18 43:5 
+43:13,23 44:5 
+44:13,15,20 
+45:10,16,18 
+46:16,22 47:9 
+47:12 48:6 49:3 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 67 
+
+49:6,10,17,20 net 36:10 object 4:20 14:13 47:4 59:10 
+50:1,22 51:7 never 9:23,24 27:11 28:6 oral 1:12 2:2 3:7 part 14:1 23:20 
+52:16 53:4,23 11:19 21:3 44:15 46:12,14 18:5 29:10 48:15,16 58:8 
+54:1,10,18,21 37:25 42:2 46:20 48:21 order 5:3,15 7:9 participated 8:9 
+55:4,12,15,20 49:14 56:3 53:17 55:10 7:9 8:22 18:12 participates 13:3 
+55:24 56:6 59:14 objected 17:7 19:7 20:3 21:3 particular 5:25 
+
+mere 3:22 5:24 niggling 51:2 47:18,19 48:24 21:3,6 24:19 26:24 29:16 
+6:16 Ninth 3:19 4:12 objection 9:3 50:15,16 53:16 30:25 50:21 
+
+merely 8:22 4:14,18 27:8,24 32:5,10 37:1 53:21 54:9,15 parties 6:9 7:18 
+13:18 31:20 34:20 38:19 48:23 55:1,10,16,18 8:15 15:24 26:3 
+
+met 22:11,23,25 35:4,5,15,18,20 53:13,22 55:21,23 56:11 34:10,17 
+23:1,5,6 48:1 54:24 58:6 objections 30:18 58:1,9,19,24,24 party 16:8 29:5 
+
+MICHAEL 1:22 non 44:18 objects 3:14 59:2,3,12,19 55:10 
+2:8 29:10 non-discharge... 36:13,19 44:14 ordered 12:8 passage 7:8 
+
+middle 31:21 3:24 5:1 21:18 obligated 53:19 ordering 9:5 pay 43:7 
+mind 38:14 24:8 27:16 obligation 31:23 orders 7:8 8:11 payments 5:4 
+minutes 56:20 36:12 43:2 32:1 43:17 53:8 56:3 people 6:8 23:3 
+mistake 4:4 44:11 46:13 53:9 ordinary 27:2 28:5 56:2,4,5 
+
+20:20 40:12,25 normal 29:4 obligations 53:7 37:8,10 performed 51:14 
+41:1,25 note 12:3 observed 51:12 original 21:3 permitted 55:13 
+
+mistakes 17:11 noted 39:2 obtain 21:19 54:18 55:15 
+misunderstan... notes 19:1 27:12 ought 33:3 45:25 person 23:4,6 
+
+42:13 notice 10:16 obviously 31:11 outside 50:15 petition 10:2 
+mixed 49:16,18 11:14 13:25 32:6 37:3 overblown 53:6 34:24 35:11 
+modifying 37:16 14:1 23:1,2,2 occurred 46:6,7 overburdened 39:3 44:24 53:9 
+moment 21:5 24:5 25:15,21 occurring 46:1 48:5 petitioner 1:5,17 
+
+51:1 33:15 35:2,25 offer 11:12 overlooks 48:9 1:21 2:4,7,12 
+money 43:11 42:2,9,11,16 off-putting 29:1 overriding 26:24 3:8 10:15 18:7 
+money's 24:17 46:5 47:2,3,6,6 oh 9:7 12:12 28:2 owe 43:7 43:16 48:7 
+motions 45:1 47:11,13,14,20 53:1 owed 24:4 56:22 
+municipalities 
+
+48:2 
+47:20 48:9,10 
+50:11 52:7 59:8 
+
+okay 11:11 13:17 
+23:2 25:19 30:7 P 
+
+Petitioners 
+42:20 47:25 
+
+muster 6:23 59:9,12 33:11 P 3:1 50:5 
+
+N 
+noticed 29:6 
+
+47:15 
+omit 38:2 
+once 7:10 10:4,9 
+
+page 2:2 18:24 
+19:11 23:18,22 
+
+Phoenix 1:16 
+piece 38:10 
+
+N 2:1,1 3:1 notices 43:21,23 13:23 39:13 58:3 place 21:4 
+name 42:1 44:2 47:23 59:14,23 pages 16:4 23:18 plain 5:24 16:20 
+naturally 25:10 notify 43:16 onus 21:19 24:9 23:23 26:7 29:15 38:1 
+necessarily number 8:2 32:2 28:14 36:16 27:25 plainly 29:22 
+
+25:24 34:6 32:5 34:25 35:3 39:1 paper 37:9 38:10 52:3 
+necessary 29:24 43:14,15 46:25 open 5:4 34:4 papers 10:16 plan 5:4,6,14 
+need 24:24 25:24 50:8 52:18,19 53:8 paragraph 5:7 13:12 14:23,23 
+
+33:21 43:7,11 
+51:2 O 
+
+opens 3:22 
+operative 51:7 
+
+14:24 
+paragraphs 24:2 
+
+15:16 16:21,24 
+17:3,6,8 24:15 
+
+neglect 40:13 O 2:1 3:1 opinions 12:17 Pardee 35:5 25:3 27:6,10 
+neither 5:14,15 obfuscated 38:2 opportunity 14:1 pardon 12:11 28:21 29:15 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 68 
+
+32:4,8,10 33:18 precedental proposed 9:17 quite 20:22 21:4 rejected 17:8 
+36:20 41:13 16:13 15:16 53:20 quote 5:5 19:12 release 54:12 
+43:9 47:14,17 
+47:19,19,20 
+
+precise 6:1,1 
+50:22 
+
+58:13 
+proposition 6:24 R 
+
+reliance 56:15 
+relief 26:13 33:23 
+
+51:14 53:13,19 precisely 3:11 protections 8:7 R 3:1 49:22 50:5 
+53:20 54:3,8,10 predicate 58:16 11:10 43:15 raise 36:16 47:4 relies 17:21 
+54:11,13 55:9 58:17 prove 4:16 9:8 raised 9:23 32:6 remain 4:7 
+55:21 56:4 57:4 prepared 56:6 proves 3:17 55:5 remaining 56:20 
+57:5,6 58:9,18 prescribes 5:2 44:21 46:2 rationale 41:22 remand 58:5,5 
+59:13,14,15,21 president 8:8 provide 17:18 read 7:12 19:5,20 remedies 46:9 
+59:21,22,24 prevent 48:20 26:16 24:1 27:18 remember 15:13 
+
+plans 15:15 20:5 price 39:6 provided 5:6 34:16 37:2 45:22 
+28:18 30:16 principal 9:18 14:22,23 16:17 reading 36:17 repaid 48:13 
+31:7 56:15 58:14 16:21 17:5 24:9 real 23:2 54:4 repayment 3:18 
+
+play 15:5 57:14 principle 44:6 25:25 realistic 28:21 repetitious 34:14 
+please 3:10 18:9 probably 18:2 provides 32:11 really 38:16,19 represented 13:5 
+
+29:13 problem 4:22 57:20 57:25 13:16 
+plenty 47:3 22:19 28:4 provision 8:23 reason 16:19 representing 
+plus 58:15 47:22 52:11 14:14 17:3,18 19:8 20:1 26:16 56:7 
+point 12:22 20:24 problems 41:11 19:7,12,17 27:3 30:14 reproduced 
+
+35:2 39:8 45:19 procedure 9:19 27:10 50:1 34:18 38:4,7 18:24 
+45:20 46:1 48:7 51:22 provisions 15:6 45:25 59:3,22 request21:19 
+48:24 52:6 procedures 8:19 17:2,23 27:22 reasonable 49:12 24:3 
+53:19 54:2,22 proceed 42:19 public 16:18 53:2 require 48:11 
+55:8 56:2,12,24 proceeding 9:22 26:17 reasons 16:18 52:18 
+57:8,22 26:6 32:15 34:5 purposes 13:18 17:20 18:14 required 40:9,9 
+
+pointed 17:1 42:19 52:20 13:19 18:20,21 REBUTTAL 47:15 
+48:8 process 7:16 put 13:11 16:13 2:10 56:21 requirement 
+
+police 28:23 14:2,2 15:22 23:19 28:14 recategorizing 31:24 39:3 52:2 
+policing 28:20 40:22 47:2 50:9 32:2 36:12,21 3:23 requires 10:4 
+
+39:2 54:24 55:7 46:4 55:3,4,7 received 42:2 14:2 
+policy 16:18 proof 11:12,22 puts 36:15 50:15 record 58:3 res 6:10 8:17 
+
+26:25 13:11,13,17 p.m 60:3 reduce 3:20 reserve 17:15 
+portion 30:21 
+position 25:8 
+
+42:10 
+proper 9:21 Q 
+
+reduced 4:6 
+refer 15:2 
+
+18:2 
+respect 20:17 
+
+26:10 35:24 32:19 35:12 question 5:21 referred 18:20 respecting 39:1 
+45:5,18 46:22 36:20 47:1,6,11 6:24 7:12 10:12 referring 19:22 responded 49:17 
+50:14 52:15 54:16 12:21 13:22 19:24 57:18 Respondent 1:23 
+
+possible 22:3 58:1 15:20 17:17 refers 15:3 57:16 2:9 29:11 
+potential 49:22 properly 7:23 22:2 24:11 regard 17:25 response 11:13 
+powerful 26:20 29:6 51:24 28:13,14 33:13 21:24 11:25 
+practical 27:3 property 6:15 36:16 42:14 regardless 26:22 responses 18:22 
+practicality 52:6 22:6 51:5,21 54:7 regime 26:16 rest43:12 46:4 
+practice 14:1 proposal 35:25 57:10 58:8 regulations result 54:2 
+precedent 7:25 36:3 38:2 quick 17:19 48:11 52:18 reversed 37:3 
+
+12:14 35:5,8 propose 39:16 quickly 16:3 reinsuring 26:19 review 40:1 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 69 
+
+revocation 50:2 38:10 44:10 sense 25:18 22:22 state 58:12 
+rewrote 3:19 45:13 46:19 28:13 36:25 sorry 18:15 stated 10:23 
+right 5:19 8:4 50:19 sent 23:1 28:12 31:18 states 1:1,13,20 
+
+16:16 19:25 says 4:23 5:3 7:7 sentences 20:14 32:20 51:6 2:6 18:6,25 
+22:1 23:13 28:3 9:12 13:6 14:18 separate 38:10 sort 32:23 36:4,5 24:1 
+28:9 30:19 16:5 17:1,2 service 12:24 42:22 54:5,20 statute 7:4,23 
+33:10 38:23 18:17 19:3 21:7 set 8:20 38:18 Sotomayor 5:8 15:19 16:5,20 
+39:5,17 40:16 22:25 23:5,5 52:24 5:11,23 6:2 27:22 30:6 
+40:24 41:6 25:19 32:24 settled 35:15 7:15 8:13 21:21 42:21 51:7 
+43:20,22 46:19 36:18 41:13 shift 36:24,25 22:1,8 42:25 statutes 5:25 
+47:17 57:4,12 43:6,7,11 47:19 show 7:14 26:5 45:3 50:25 51:6 statutory 5:2 6:4 
+58:18 47:19 50:23 31:2 40:25 53:15,24 54:1,7 6:17 16:16 
+
+risk 40:10 51:8,11 showing 31:24 54:14,19,22 17:18 52:1 57:4 
+Roberts 3:3 Scalia 3:25 19:21 side 22:25 23:5 55:6,13,18,22 step 4:14 
+
+14:14,18 15:1,7 19:23 23:14,17 38:8 49:15 56:1 58:7,13,18 Stevens 9:25 
+18:1,4,15 19:9 23:19,24 27:17 54:20 58:23 10:5,11,14,20 
+29:8 31:16,18 27:19,20,24 sign 37:10,11 Sotomayor's 10:25 11:3,7,11 
+50:24 56:19 28:22 30:2,7,11 signature 37:11 6:25 11:21,23 24:10 
+57:12,15 59:25 30:24 31:4,9 signed 39:4 sought 4:5 15:16 24:13,23 25:2,4 
+
+rule 7:5,7 20:5,18 33:1,4,5 34:1,2 significance 50:5 25:7 26:9,14 
+21:1 33:23 39:6,11 45:4,11 51:11 sound 14:20 28:12 30:19 
+34:22 35:23 45:17 signs 37:14 speaking 41:15 Stevens's 33:13 
+36:3,9,9 37:6 scheme 6:18 9:4 silent 36:18,18 special 37:7 45:20 
+37:17,22,25 scope 20:2 similar 24:11 38:11 stipulate 9:16 
+38:3,17,25 39:2 scrutiny 39:10 simpler 38:15 specific 5:25 24:25 26:3 
+40:1,5,7 41:12 se 29:20 simply 3:14 14:8 8:23 17:19 30:20 34:11,17 
+44:23 45:1 46:9 search 23:21 38:2 51:17 21:14 stipulated 24:15 
+46:25 47:24,24 second 43:10 55:16 56:12 specifically 4:23 24:19 
+47:25 48:17 44:8 57:18 9:1 16:17 21:15 stipulates 25:2,3 
+49:21 50:3,4 secretary 8:8 single 27:9 28:19 21:17 24:8 stipulation 33:16 
+51:23 section 3:20 4:10 28:20 57:5,5 25:12 27:24 Stoll 12:15,15 
+
+rules 17:22 29:4 8:23 14:17,25 sit 51:2 57:13 58:11 stop 18:16 
+34:22 47:15,16 15:1 18:10,10 sitting 12:5,9 59:23 straightforwa... 
+
+ruling 17:24 32:18,22 33:19 situation 25:5 specified 5:7 23:11 
+run 59:9,12,17 41:13 43:18 26:13 53:10 14:24 15:9 24:2 stronger 54:24 
+
+S 
+50:1 
+
+see 15:23 18:16 
+situations 29:19 
+skip 9:7 
+
+spend 54:4 
+spent 50:9 
+
+55:7 
+strongest6:22 
+
+s 2:1 3:1 51:13 18:17,19 19:3 skipping 9:18 sponte 32:24 6:25 7:6,21,25 
+sanctionable 22:18 51:25 sneak 34:23 spouse 43:7,10 16:2,11 
+
+37:6,17 52:11 53:9,10 sneaking 35:1 stage 32:3 40:15 student 1:3 3:4 
+sanctioned 34:21 seen 56:9 soft 33:8 stake 26:17 3:15,22 6:13 
+
+35:9 sees 32:10 33:9 Solicitor 1:18 stand 31:21 8:18 9:13 12:7 
+save 25:17 self-executing solve 52:10 standard 27:5 13:3,6 15:14 
+saying 7:18 16:1 3:17 14:11,12 somebodies start 18:16 32:15 21:25 22:17 
+
+20:8 21:8 34:21 14:20 18:11,18 21:14 55:2 26:19,21,25 
+35:21 37:20 19:15 25:12 somebody 21:7,9 started 16:1 27:9 30:21 31:1 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 70 
+
+31:2,6 32:11,12 sure 5:18 24:12 49:11 53:10,21 18:2,2 20:18 17:25 
+32:12 33:9,9 47:5,10 57:16 59:22 24:16 26:11 understand 21:2 
+34:24 35:10,13 surprise 40:12 they’d 52:11 32:6 40:15 35:7 45:4 
+35:13 46:18 40:25 41:1 thing 7:14 27:5 41:17,19 49:5 understanding 
+48:3 50:17,17 surrounding 42:4,24 52:9 49:12,12,13,23 41:5 48:16,16 
+52:8 54:16 43:15 things 20:13,15 50:2,4,10 51:25 undo 5:19 39:13 
+57:22 58:2,9,10 susceptible 19:5 20:17 21:7 53:16,20 54:5 undone 4:5 
+
+sua 32:24 switching 36:21 44:11 48:12,21 55:9 59:9,11,18 undue 3:18 9:12 
+subject 7:18,24 system 26:21 50:8,20 timely 3:14 9:3 9:14,24 10:16 
+
+15:25 19:4 48:5 think 7:16 9:17 TOBY 1:18 2:5 10:22 11:17,19 
+29:20 
+
+submission 46:6 T 
+10:3,9,21 12:13 
+12:14 14:4,6 
+
+18:5 
+told 19:7 
+
+25:5 26:1 30:22 
+36:1 52:23 53:3 
+
+submit 29:17 T 2:1,1 15:13 19:5,16 totally 19:10 53:11,14,18 
+33:19 42:5,19 take 31:19 39:1 20:1 21:4 23:11 36:18 57:2 58:17 
+44:20 50:10 40:10 43:3,8 24:16,24 25:9 touch 42:23 unequivocal 
+53:5 54:10 49:11 26:15 29:2 transmute 7:9 6:19 
+
+submits 37:9 taken 15:17 30:10,18 31:11 Travelers 29:14 United 1:1,3,13 
+submitted 42:9 36:11 31:20,22 32:16 Treasury 28:4 1:20 2:6 3:4 
+
+60:1,4 talk 12:17 34:9 32:20,21,21 treatises 7:13 18:6 33:23 
+subparagraph 45:22 52:7 35:3 36:6 37:20 tremendous 48:4 unnecessary 9:8 
+
+24:3 talking 12:18 38:6,8,15,20,21 tried 45:16,18 upset 56:24 57:7 
+subpart 51:13 16:15 23:15 38:21,23,24 tripart 9:5 upsetting 56:16 
+subparts 49:21 45:23,24,24 39:4,5,5 40:6 true 21:24 56:17 
+
+51:23 54:5 40:14,17,17,19 trustee 43:18 usually 12:17 
+subsequently 
+
+4:4 
+taxes 44:4 46:1 
+
+46:18 
+40:21,22,22 
+41:6,20 42:3,3 
+
+trustees 56:15 
+try 42:20 56:8,8 V 
+
+subset 3:15 Taylor 38:24 43:24 44:5 trying 25:17 v 1:6 3:5 38:24 
+suggesting 19:18 teed 58:6 45:19,23 46:22 Tucson 1:22 vague 7:19 16:1 
+suggestion 20:4 tell 27:8 35:14 46:23,24,25 Tuesday 1:10 valid 7:9 
+summons 12:23 59:6 47:9,12 48:8 turns 4:9 Vallely 8:3 16:3 
+
+44:3 term 29:14 51:20 52:5 54:1 two 3:21 4:6 verification 39:4 
+support 6:21 terms 29:15,25 57:8,17 58:22 15:23 16:7 version 34:22 
+
+16:13 25:1 43:4 57:10 58:4 thinks 25:18 18:13,22 31:7 viable 50:10 
+43:9,14,14,17 Thank 18:3 29:7 third 3:16 44:18 32:5 35:3 46:25 view 11:8,9 20:24 
+46:18 29:8,12 56:19 48:19 50:8 52:19 violate 27:21 
+
+supported 10:25 59:25 60:2 thought 35:19 58:19 30:6 36:2 
+11:3 that’s 13:10 37:25 43:10 twofold 20:3 violated 15:19 
+
+supporting 1:21 22:19 28:3 45:5,12 46:15 types 3:12,20 38:3 
+2:7 18:7 
+
+suppose 29:24 
+38:11 39:6 43:2 
+48:14 54:8,9 
+
+three 3:11,20 4:6 
+4:7,7,7 15:21 U 
+
+violates 16:20 
+violation 15:22 
+
+36:25 41:25 58:2 15:25 17:19 Um 41:9 void 5:22,24 7:1 
+43:19 52:7 theory 11:23 21:14,16,18 unambiguously 7:1,3,8,9,10,14 
+
+supposed 28:23 there’s 7:17 8:14 23:10 24:7 29:16 12:12 13:9 
+37:7 44:1,2 8:16 12:10 48:18,18,23 underlying 15:20,20 16:19 
+48:20 49:13,19 17:19 27:3 32:9 throw 40:21 24:25 26:4 16:24 21:11 
+
+Supreme 1:1,13 42:22 44:2 time 7:8 17:15 undermines 23:7 40:18,18 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 71 
+
+40:19,20 41:23 1:19 Y 51:8 54:6 56:15 4 
+42:2,12,18,20 wasn't 4:14 7:18 year 27:5 28:16 57:4 4 9:1,2 24:3,6 
+50:7 17:6 23:3 30:16 13,000 17:3 40 38:12 
+
+voidable 8:22 wasn’t 39:21 years 5:20,20 7:3 1302 43:18 453 26:7 
+voidance 44:22 way 17:12 25:14 12:12 13:8 1322 17:24 454 26:7 
+Voidness 6:6 32:2,17 35:12 15:17 20:19 1325 17:24 46 58:3 
+
+W 
+wait 21:5 44:22 
+waited 40:4 49:4 
+waiting 24:18 
+
+26:11 
+waive 9:9,12 
+
+14:12 
+waiver 14:8 
+
+33:15 34:3,4 
+45:20,22 46:24 
+
+37:15,16 38:9 
+38:15,18 42:23 
+47:13 48:11 
+
+weaseling 36:5 
+weren't 23:1,5 
+
+48:22 
+we're 15:18 
+we’re 28:5 45:23 
+
+45:24,24 
+whatsoever 20:4 
+
+32:6 56:24 57:8 
+
+21:9 23:7 24:20 
+26:11 37:24 
+38:12 43:11 
+44:23,24 
+
+you’d 18:1 
+you’re 22:2 33:5 
+
+33:6 34:4,5,6 
+44:10 46:19 
+
+you’ve 27:20 
+45:6 49:1 
+
+1327 16:24 17:1 
+17:17,21 41:13 
+
+1328 4:10,23 
+10:10 14:18,21 
+16:22,25 17:24 
+18:10,24 20:6,8 
+42:21 51:7,13 
+58:22 59:23 
+
+1328(a) 15:2 
+18:17 19:24 
+50:23 
+
+5 
+5 5:20 
+523 3:20 8:23,24 
+
+9:12 10:4 14:25 
+15:6,12 17:24 
+18:10 25:20 
+51:11 57:10,14 
+57:18 
+
+523(a) 15:2,9,10 
+16:25 18:19 
+
+Wanslee 1:16 2:3 what’s 6:25 $ 1328(a)(2) 14:17 57:16 
+2:11 3:6,7,9 4:9 54:11 $4,000 36:2 15:5,5,8 57:13 523(a)(8) 26:1 
+4:17,22 5:10,23 
+6:17 7:5,7 8:1,5 
+
+willing 26:23 
+33:5,6 34:6 0 
+
+57:20 
+1328(b) 15:3,10 
+
+32:4 42:22 
+50:14 
+
+8:21 9:11,21 39:12 08-1134 1:6 3:4 51:18 57:10 523(c) 8:23 21:17 
+10:3,9,13,18,21 
+11:2,5,9,16,22 
+12:2,13,22 
+13:17,21,23 
+14:5,10,16,21 
+15:4,11 16:15 
+17:14 18:3 
+56:20,21,23 
+57:13,20 58:11 
+58:16,21 59:2 
+59:10,13,20 
+60:2 
+
+want 4:13 7:20 
+9:16 12:19 
+21:12 33:2 
+34:14 35:1 
+39:17 43:21 
+44:7 
+
+wanted 30:19 
+38:12 
+
+wants 6:19 9:20 
+25:16 59:6 
+
+win 39:18 49:2,3 
+winning 39:7 
+wishes 29:5 
+wondering 41:16 
+word 31:25 
+words 6:1 19:8 
+work 49:19 
+working 56:9 
+works 25:22 
+
+48:17 
+worry 45:1 
+worth 39:7 
+wouldn't 21:1 
+wrap 18:2 
+writing 14:8 
+Writs 32:23 
+written 6:18 
+wrong 5:8,13 
+
+30:3 31:20 32:7 
+34:2 35:4 41:4 
+49:1,1 
+
+1 
+1 1:10 19:25 21:7 
+1,000 28:18 
+
+30:15 
+10 12:12 13:8 
+
+20:18 24:20 
+26:11 
+
+105 32:22 33:19 
+11 20:7 29:15 
+
+34:23 36:3,9 
+37:6,17,22,25 
+38:3 
+
+11:04 1:14 3:2 
+12 20:7 44:24 
+12:06 60:3 
+13 4:25 13:18 
+
+15:15 20:5 21:8 
+22:23 23:7,18 
+23:23 27:4,6,9 
+27:14 28:18,21 
+30:16 32:10 
+
+1330 50:1 55:14 
+14 20:13,17 
+
+22:24 23:18,23 
+15 21:9 
+17,000 17:4 
+18 2:7 19:11 
+19 6:19 57:22 
+1990 15:14 
+1992 15:15 
+
+2 
+2 9:1,2 15:17 24:3 
+
+24:6 43:11 
+2009 1:10 
+25a 28:1 
+29 2:9 
+
+3 
+3 2:4 18:24 56:20 
+350 28:17 
+374,000 27:4 
+
+28:16 
+
+23:15,18,25 
+523(8)(a) 25:11 
+528(a)(8) 50:14 
+56 2:12 
+
+6 
+6 5:20 9:1,2 24:3 
+
+24:6 44:23 
+60 7:7 33:23 40:1 
+
+40:5,7 45:1 
+46:9 49:15,21 
+51:24 55:17 
+
+60(a) 40:11 
+60(b) 40:18 
+
+44:23 48:17 
+49:8 55:14 
+
+60(b)(4) 20:18 
+21:1 49:8,15,17 
+50:3,4 
+
+60(b)(6) 49:9 
+
+7 
+
+warranted 37:13 X 34:24 35:10 39 37:24 7 5:20,20 20:6 
+Washington 1:9 x 1:2,8 41:12 43:16 7001 11:10 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 72
+
+
+8
+
+8 5:7 14:24
+
+
+9
+
+90 7:2 
+9011 35:23 36:3 
+
+36:9 
+
+Alderson Reporting Company 
+
+

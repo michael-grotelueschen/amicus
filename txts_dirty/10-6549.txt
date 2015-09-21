@@ -1,0 +1,6850 @@
+
+              
+
+           
+
+                        
+
+                   
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - -x 
+
+BILLY JOE REYNOLDS, :
+
+ Petitioner : No. 10-6549
+
+ v. : 
+
+UNITED STATES. : 
+
+- - - - - - - - - - - - - - - - - -x
+
+ Washington, D.C.
+
+ Monday, October 3, 2011
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:06 a.m. 
+
+APPEARANCES: 
+
+CANDACE CAIN, ESQ., Assistant Federal Public Defender,
+
+ Pittsburgh, Pennsylvania; for Petitioner. 
+
+MELISSA ARBUS SHERRY, ESQ., Assistant to the Solicitor
+
+ General, Department of Justice, Washington,
+
+ D.C.; for Respondent. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                    
+
+                    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+C O N T E N T S
+ 
+
+ORAL ARGUMENT OF PAGE 
+
+CANDACE CAIN, ESQ.
+
+ On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+MELISSA ARBUS SHERRY, ESQ.
+
+ On behalf of the Respondent 24 
+
+REBUTTAL ARGUMENT OF 
+
+CANDACE CAIN, ESQ.
+
+ On behalf of the Petitioner 54 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+P R O C E E D I N G S
+
+ (11:06 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+next in Case 10-6549, Reynolds v. United States.
+
+ Ms. Cain.
+
+ ORAL ARGUMENT OF CANDACE CAIN
+
+ ON BEHALF OF THE PETITIONER
+
+ MS. CAIN: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ Recognizing that certain offenders convicted 
+
+before enactment or an implementation of SORNA would be 
+
+unable to comply with SORNA's initial registration 
+
+requirement, Congress included section 16913(d) 
+
+delegating to the Attorney General the authority to 
+
+determine whether and how to apply SORNA's registration 
+
+requirements to those offenders.
+
+ Mr. Reynolds is one of those offenders 
+
+because he was convicted, sentenced, and released from 
+
+prison a year before SORNA was enacted. But for a valid 
+
+exercise of the Attorney General's authority under 
+
+subsection (d), Mr. Reynolds had no obligation to 
+
+register under SORNA, could not initially register under 
+
+SORNA, and, therefore, was not subject to SORNA's 
+
+criminal penalties. Action by the Attorney General was 
+
+needed to bring offenders like Mr. Reynolds into the new 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+system.
+
+ And because both implementing SORNA and 
+
+determining whether and how SORNA would be applied to 
+
+pre-enactment offenders would require time and 
+
+consideration, Congress left the Wetterling Act 
+
+registration law in place for 3 years to ensure that all 
+
+offenders would be covered under the old law. And 
+
+until -­
+
+CHIEF JUSTICE ROBERTS: Was the -- is the 
+
+Wetterling Act retroactive?
+
+ MS. CAIN: The Wetterling Act, Your Honor, 
+
+was remaining in place for 3 years and had a sort of a 
+
+sunset provision under -­
+
+CHIEF JUSTICE ROBERTS: No, no, I know. 
+
+That's going forward. But was the requirement to 
+
+register under the Wetterling Act -- did that apply as 
+
+of the enactment date or did that reach back?
+
+ MS. CAIN: Your Honor, actually the 
+
+Wetterling Act was not effective for a year into the 
+
+future.
+
+ CHIEF JUSTICE ROBERTS: So, you think it 
+
+only applied to that year?
+
+ MS. CAIN: No, I'm sorry. The Wetterling 
+
+Act was enacted in -- in 1996.
+
+ CHIEF JUSTICE ROBERTS: So, if the offense 
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+were committed in 1994, did that person have to register 
+
+under the Wetterling Act?
+
+ MS. CAIN: They had to register, but there 
+
+were no criminal penalties. At that point, it was a 
+
+1994 law called Wetterling, and then 2 years later under 
+
+the Lychner Act, criminal penalties were added.
+
+ Our reading better accords with the text and 
+
+congressional intent -­
+
+JUSTICE SOTOMAYOR: Could you clarify that 
+
+answer? The -- are you admitting that there were no 
+
+criminal enforcement options for the Attorney General 
+
+under the Wetterling Act for acts committed prior to 
+
+1996? Is that what you're saying?
+
+ MS. CAIN: Your Honor, the Wetterling Act, 
+
+as it was enacted in 1994, was a registration 
+
+requirement without criminal penalties. In 1996, the 
+
+Lychner Act was enacted amending Wetterling and added 
+
+the criminal penalty, the Federal criminal penalty of 
+
+1-year punishment for failure to register.
+
+ JUSTICE SOTOMAYOR: And that included all 
+
+individuals who had -- who had been convicted of -- of 
+
+sex abuse acts before 1996?
+
+ MS. CAIN: I don't know.
+
+ Our reading better accords with the text of 
+
+SORNA and congressional intent, but the Government 
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+reading is simply not reasonable. If SORNA were to 
+
+apply to all pre-enactment and pre-implementation 
+
+offenders on day one, and the Attorney General could 
+
+then modify in the future, which would in fact -- in 
+
+effect repeal SORNA as to some offenders, then you could 
+
+have a situation where someone was convicted of an 
+
+offense and then have to be covered under SORNA, and 
+
+then later the AG could decide that that group was 
+
+not required to register.
+
+ JUSTICE GINSBURG: Well, maybe -- maybe the 
+
+Attorney General doesn't have that power. But your 
+
+position is that whether this behavior, not registering, 
+
+is criminal or not is left up to the Attorney General, 
+
+is left up to the executive. Do we have other examples 
+
+where Congress says, well, we don't know whether this 
+
+should be a criminal offense; so, we're going to leave 
+
+it to the Attorney General?
+
+ It's quite different to say the Attorney 
+
+General will implement it in the technical details, but 
+
+to say that whether it's a criminal offense or not is up 
+
+to the Attorney General -- is there any other instance 
+
+where that's so?
+
+ MS. CAIN: Your Honor, I'm not aware of any, 
+
+but we don't -- this is not what the Attorney General is 
+
+doing. This is -- SORNA is a civil registration 
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+requirement, and the Attorney General is deciding 
+
+whether someone has to register. In order for a 
+
+criminal indictment to be brought, a person would have 
+
+to travel and then fail to register. So, it's really 
+
+not actually deciding whether someone would be guilty of 
+
+a crime or convicted of a crime or exposed to a crime.
+
+ JUSTICE KENNEDY: I -- maybe I just don't 
+
+grasp the core of the case then. I thought this was a 
+
+criminal conviction and that you were arguing that it's 
+
+a criminal conviction because the conduct that's 
+
+prohibited by the statute was conduct that covered this 
+
+class of people by order of the Attorney General under 
+
+the interim regs. I mean, is that wrong?
+
+ MS. CAIN: Your Honor, actually what we are 
+
+seeking is the ability to contest the Attorney General's 
+
+rule. We're saying -­
+
+JUSTICE KENNEDY: I'm asking, isn't this is 
+
+criminal conviction that resulted from the fact that 
+
+your client was within the class of persons covered by 
+
+the statute? The Government says they're covered 
+
+anyway. You say they're covered only because the 
+
+Attorney General acted, but then you say it's a criminal 
+
+-- it's a civil provision? I -- I -­
+
+MS. CAIN: Well, Your Honor, it is -­
+
+failure to register and then travel -- I mean, travel 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+and then fail to register after you are obligated under 
+
+SORNA to register is a crime, yes.
+
+ JUSTICE SCALIA: Well, I -- you know, my 
+
+problem is that's very strange. I find it very strange 
+
+to leave it up to the Attorney General whether something 
+
+will be a crime or not. It will be a crime if the 
+
+Attorney General says so, and it won't be a crime if he 
+
+doesn't. I mean, especially leave it up to the Attorney 
+
+General, for Pete's sake; he's the prosecutor. You 
+
+know, it will be a crime if the prosecutor thinks it is, 
+
+and it won't be a crime if the prosecutor thinks it 
+
+isn't. I don't -- I don't know of any parallel, and -­
+
+and I -- I think it's sailing close to the edge of 
+
+unconstitutionality; whereas, what the other side claims 
+
+is simply it's a crime to begin with, but the Attorney 
+
+General can make it not a crime. That -- that's sort of 
+
+like prosecutorial discretion. In -- in his -- in his 
+
+judgment, if it shouldn't be a crime, you know -- I have 
+
+trouble with that, too. But it's a lot -­
+
+(Laughter.)
+
+ JUSTICE SCALIA: But it's a lot closer to 
+
+prosecutorial discretion than -- than what you're asking 
+
+us to accept, that something is a crime only if the 
+
+Attorney General says it's a crime. That seems to me 
+
+very strange. 
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MS. CAIN: Well, Your Honor, that's really 
+
+what the text says, and our reading -­
+
+JUSTICE GINSBURG: But are you -- now -- now 
+
+we do -- the Attorney General has spoken. The first 
+
+time, you say it was ineffective because there was no 
+
+notice and comment. But from -- what is it -- August of 
+
+1908, we have a rule, a final rule, that did go through 
+
+notice and comment. So, are we talking about, is this 
+
+case simply about the period from February 1907 to 
+
+August 1908, and that's -- that's all that's involved in 
+
+this case, only those people? Or are you contesting 
+
+that after August 1908, you still have some kind of 
+
+claim?
+
+ MS. CAIN: Well, Your Honor, our -- our case 
+
+does not involve the time period after August of 2008.
+
+ JUSTICE GINSBURG: So, it's -- so, this 
+
+whole case is about what happens between February '07 
+
+and August '08, and that's the limit of it.
+
+ MS. CAIN: Right.
+
+ JUSTICE GINSBURG: Because there was no rule 
+
+at all before February '07, and there was a rule August 
+
+'08. So, it's just that period this case is about.
+
+ MS. CAIN: Yes. Our client traveled in '07. 
+
+And -­
+
+JUSTICE ALITO: It's the period from the 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+enactment of SORNA until the adoption of the SMART 
+
+guidelines, right? That's what we're talking about?
+
+ MS. CAIN: Well, Your Honor, if the SMART 
+
+guidelines are deemed valid, yes. But that was -- in 
+
+2008. Our client traveled in 2007. And so, the 
+
+Attorney General's interim rule is the rule that would 
+
+subject him to criminal liability.
+
+ JUSTICE SOTOMAYOR: Excuse me. I'm -- let 
+
+me go back to that question, counselor -- to that 
+
+answer. Let's assume we accepted the Solicitor 
+
+General's understanding of the rule, that it was illegal 
+
+to travel -- that you had to be -- had to register from 
+
+the start of SORNA. What challenge do you have left 
+
+either to the interim rule in 2007 or to the final rules 
+
+in 2008? What -- what challenge could you conceivably 
+
+make?
+
+ MS. CAIN: Your Honor, if the -- if the 
+
+statute applies from day one, we would still contest the 
+
+interim rule for -- the Attorney General took action but 
+
+did not exclude our client. The Attorney General did 
+
+what he was authorized to do in subsection (d).
+
+ JUSTICE SOTOMAYOR: What would be the basis 
+
+of that challenge?
+
+ MS. CAIN: Pardon me.
+
+ JUSTICE SOTOMAYOR: What would have 
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+obligated him to take your client out of SORNA?
+
+ MS. CAIN: The exercise of his discretion to 
+
+not take him out -­
+
+JUSTICE SOTOMAYOR: Could you -- could you 
+
+tell me why?
+
+ MS. CAIN: Because -­
+
+JUSTICE SOTOMAYOR: What would be an abuse 
+
+of his discretion if he didn't take your client out?
+
+ MS. CAIN: He had exercised his discretion 
+
+under subsection (d) and decided not to exclude our 
+
+client from the -­
+
+JUSTICE SOTOMAYOR: That -- we're in a 
+
+circular argument.
+
+ MS. CAIN: -- statute.
+
+ JUSTICE SOTOMAYOR: What would have 
+
+commanded him to take your client out?
+
+ MS. CAIN: It would be his discretion.
+
+ JUSTICE SOTOMAYOR: You -- you would have to 
+
+bring some sort of suit that said he abused his 
+
+discretion. On what basis would he have -- what would 
+
+be your claim of abuse other than I really want my 
+
+client out?
+
+ MS. CAIN: Well, that he would have 
+
+standing. That's what we're trying to -- we're trying 
+
+to get standing to contest the interim rule. 
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SOTOMAYOR: But what impact would 
+
+the interim rules have had on you?
+
+ MS. CAIN: If the statute applies from day 
+
+one without the interim rule, we still would -- that is 
+
+what the standing issue is about. We're saying that the 
+
+interim rule is the only rule that gave -- gave the 
+
+government the ability to include Mr. Reynolds in the 
+
+prosecution.
+
+ CHIEF JUSTICE ROBERTS: You have -­
+
+MS. CAIN: This is -­
+
+CHIEF JUSTICE ROBERTS: You have a notice -­
+
+notice and comment claim, right?
+
+ MS. CAIN: Yes. Yes, Your Honor, we do.
+
+ JUSTICE GINSBURG: But what -- but what 
+
+you're challenging is interim rule, because there was no 
+
+notice and comment. So, you would have had no 
+
+challenge, not from the date of SORNA's enactment, but 
+
+from the date of the rule that you're challenging -- and 
+
+that rule was February '07. Your challenge is to the 
+
+invalidity of the interim rule, right?
+
+ MS. CAIN: That's right.
+
+ JUSTICE GINSBURG: Okay. So -- but before 
+
+there was an interim rule, you would have no such 
+
+challenge.
+
+ MS. CAIN: No, but the -- SORNA would not 
+
+12
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+apply to Mr. Reynolds before then.
+
+ JUSTICE GINSBURG: You might have some other 
+
+case, but this case is about a challenge to a rule as 
+
+invalid. Is that -- that's as I understand it. So, 
+
+there had to be the rule for you to make the challenge.
+
+ MS. CAIN: I'm sorry. I missed the last 
+
+part.
+
+ JUSTICE GINSBURG: You are challenging the 
+
+Attorney General's first rule as invalid, the 
+
+February '07 rule.
+
+ MS. CAIN: That's right.
+
+ JUSTICE GINSBURG: You say it's invalid 
+
+because there was no notice and comment. You have no 
+
+challenge -- your challenge doesn't reach before that, 
+
+because there was no rule before that so that you can -­
+
+the earliest point is when the rule was adopted, you're 
+
+saying, the rule was invalid. So, that's why I said the 
+
+brackets are from when there was an allegedly invalid 
+
+rule, which was in February '07, until when there's a 
+
+valid rule, which is in August of '08.
+
+ MS. CAIN: That's right, Your Honor. I 
+
+mean, that -­
+
+CHIEF JUSTICE ROBERTS: No, that's not -­
+
+no. Your argument, as I understand it, is there was no 
+
+notice and comment when he issued the interim rule. 
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MS. CAIN: Right.
+
+ CHIEF JUSTICE ROBERTS: If there had been 
+
+notice and comment, you would have jumped in with 
+
+comments that would have convinced the Attorney General 
+
+not to apply the rule to your client.
+
+ MS. CAIN: That's right.
+
+ CHIEF JUSTICE ROBERTS: Okay.
+
+ MS. CAIN: That's right.
+
+ JUSTICE SCALIA: And your argument is 
+
+further that without the rule, SORNA doesn't exist, 
+
+right?
+
+ MS. CAIN: For our client. He is -­
+
+JUSTICE SCALIA: Right.
+
+ MS. CAIN: He is unable to comply with the 
+
+initial registration provision under (b) because he was 
+
+released from prison a year before SORNA was enacted. 
+
+So, he could not meet either one of the descriptions of 
+
+initial registration.
+
+ JUSTICE BREYER: That doesn't mean -- that 
+
+doesn't mean SORNA doesn't apply; it means 2250 doesn't 
+
+apply.
+
+ MS. CAIN: That's right.
+
+ JUSTICE BREYER: Is that right?
+
+ MS. CAIN: Well -­
+
+JUSTICE BREYER: I mean, it might be a 
+
+14
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+metaphysical, but it may be that Congress intended the 
+
+statute to apply to people like your client, but the 
+
+question is when the initial registration has to take 
+
+place. And I took you as saying until the Attorney 
+
+General acts, we don't know. So, 2250 doesn't -­
+
+doesn't criminalize a failure until he can know when 
+
+he's supposed to register.
+
+ MS. CAIN: Register under SORNA. That's 
+
+right.
+
+ JUSTICE BREYER: That's right. Okay.
+
+ MS. CAIN: The problem is here that the 
+
+prosecution -- the Attorney General's office is 
+
+substituting a State registration for the initial 
+
+registration under SORNA, and that's just not what the 
+
+text says.
+
+ JUSTICE KAGAN: Ms. Cain, why do you think 
+
+Congress would have written the statute in this way? 
+
+mean, in your brief, you say it was all very complicated 
+
+and Congress was worried about certain problems, the way 
+
+different registrations overlapped on each other. But 
+
+exactly what was so complicated? Why couldn't Congress 
+
+just have applied the statute to people in 
+
+Mr. Reynolds's situation itself?
+
+ MS. CAIN: Well, even the Government agrees, 
+
+in their brief, that there are complications. 
+
+15
+ 
+Alderson Reporting Company 
+
+I 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE KAGAN: I was going to ask the 
+
+Government the same question. What are the 
+
+complications -­
+
+MS. CAIN: Well -­
+
+JUSTICE KAGAN: -- that Congress was so 
+
+worried about?
+
+ MS. CAIN: Some sex offenders, you know, 
+
+from the various States -- there were State laws that 
+
+were varied amongst each other. There was the Federal 
+
+Wetterling Act that had its own different periods of 
+
+registration and different requirements.
+
+ And I think that one of the permutations -­
+
+some of them are that some sex offenders never had to 
+
+register in some States; some had been convicted before 
+
+and had served out their time and no longer had to 
+
+register; and some were released from prison, you know, 
+
+before the enactment or implementation of -- of SORNA.
+
+ And an example of a permutation that 
+
+was going to take some thought and some consideration is 
+
+the one that sort of is an example in a different 
+
+context, in the Federal Register and in the Government's 
+
+brief, which is that certain people who had served their 
+
+time and were completely out of the system, if they got 
+
+re-arrested for a misdemeanor, the Attorney General 
+
+decided that those individuals did not have to register 
+
+16
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+for a State to be deemed substantially implemented with 
+
+respect to SORNA. And so, that's an example of a type 
+
+of decision, a complication that the Attorney General 
+
+was particularly well-suited to deciding and making that 
+
+determination.
+
+ JUSTICE SOTOMAYOR: Arrested for a 
+
+misdemeanor to do what?
+
+ MS. CAIN: Any arrest for a misdemeanor that 
+
+would bring a previous offender back in the system -- if 
+
+that person was just convicted of a misdemeanor, they 
+
+would not -- the State would not have to re-register 
+
+them in order to be deemed substantially compliant with 
+
+SORNA and get the Byrne grant money.
+
+ JUSTICE SOTOMAYOR: I thought Justice 
+
+Kagan's question was, what would have stopped Congress 
+
+from just saying you have to register on the day of 
+
+passage? There was nothing to stop Congress from doing 
+
+that, correct?
+
+ MS. CAIN: They could have done that, but 
+
+they were concerned about how you get the older 
+
+conviction, the older pre-enactment people into the new 
+
+system.
+
+ JUSTICE SOTOMAYOR: That's your reason for 
+
+why they didn't do that. They didn't make it automatic, 
+
+correct? That's your argument? 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MS. CAIN: Right. They wanted to have a new 
+
+registration, a new system that would start from a 
+
+certain point that would bring in new requirements. And 
+
+the problem is how to get the people with the older 
+
+convictions and the older registrations into the system. 
+
+And that would be done with initial registration. But 
+
+Mr. Reynolds -­
+
+JUSTICE KAGAN: Well, why is -­
+
+MS CAIN: -- can't register.
+
+ JUSTICE KAGAN: Why is it easier for the 
+
+Attorney General to do that by regulation than for 
+
+Congress simply to do it by the statute itself? What 
+
+did they expect to happen in the regulatory process that 
+
+would solve these problems for them?
+
+ MS. CAIN: Well, I think that it's more 
+
+flexible to have a regulation and takes perhaps less 
+
+time than legislation to think of all the different 
+
+permutations. They don't know every State's laws and 
+
+every State's capabilities. And so, it was more 
+
+flexible, and -- and they could respond more quickly to 
+
+changes.
+
+ JUSTICE GINSBURG: Well, take this case. 
+
+What would compliance entail other than simply telling 
+
+the Missouri authority -- I mean, he had to register, 
+
+was registered in Missouri -- telling the Missouri 
+
+18
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+authority that he was moving to another State? That's 
+
+all he had to do, right, to comply?
+
+ MS. CAIN: Comply with Missouri's law? The 
+
+State law?
+
+ JUSTICE GINSBURG: To comply with the -- the 
+
+SORNA requirement, that he'd have to tell the Missouri 
+
+authority that he was moving to another State. And then 
+
+Missouri would have an obligation to tell that other 
+
+State he's there.
+
+ MS. CAIN: Well, Your Honor, that -- your 
+
+question assumes that State registration would suffice 
+
+for SORNA. And, respectfully, the -- SORNA was not 
+
+enacted until -­
+
+JUSTICE GINSBURG: But I'm talking about 
+
+SORNA has been enacted, and now he's moving after SORNA 
+
+is enacted, right?
+
+ MS. CAIN: Right. Well, that's -­
+
+JUSTICE GINSBURG: Okay. So -- so, SORNA is 
+
+on the books. He's registered in Missouri. He's 
+
+leaving the State. To comply with SORNA, what does he 
+
+have to do other than tell the original State, I'm 
+
+moving to another State?
+
+ MS. CAIN: Well, he would have to comply 
+
+with the requirements of initial registration under 
+
+SORNA. Those contain more requirements than under the 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Missouri -­
+
+JUSTICE GINSBURG: But he can't -- he can't 
+
+comply with the initial registration because he 
+
+committed this crime even before SORNA was enacted.
+
+ MS. CAIN: Under -­
+
+JUSTICE GINSBURG: But now, what would he 
+
+have to do to be in compliance?
+
+ MS. CAIN: With Missouri law, with State 
+
+law, would be, to comply with Missouri law, tell 
+
+Missouri he is leaving and then go to Pennsylvania and 
+
+comply with Pennsylvania law, perhaps. And that's also 
+
+not a SORNA registration; that is a registration under 
+
+State law.
+
+ We know from Carr that SORNA is -- doesn't 
+
+create an obligation until the statute's effective date. 
+
+And the statute's effective date is after a valid 
+
+Attorney General regulation for purposes of people like 
+
+Mr. Reynolds.
+
+ JUSTICE KAGAN: Could you tell me, Ms. 
+
+Cain -- you may have said this, and I may just have 
+
+missed it. But under the new regulations, a man who's 
+
+in the position of your client and who cannot initially 
+
+register under (b) -- (b) just doesn't fit his 
+
+circumstances -- does he now have to initially register 
+
+again, or does his initial registration stick and he 
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+just has to update it when he moves?
+
+ MS. CAIN: The initial registration under 
+
+SORNA could be updated. The State registration that he 
+
+may have already done in the past is not a SORNA 
+
+registration. He would have to register initially 
+
+again, and that is a new registration. And that would 
+
+be what Congress intended, because their goal was to not 
+
+have a patchwork of regulations and rules. So, it would 
+
+be a new registration, but an update of a SORNA 
+
+registration is certainly possible, yes.
+
+ JUSTICE GINSBURG: Under the current 
+
+regulation, under the 19 -- I mean, the '08 regulations, 
+
+would it be enough to comply -- for somebody in his 
+
+situation, to comply simply by telling his parole 
+
+officer, I'm moving to the other State? Under the 
+
+regulation that says how this is implemented?
+
+ MS. CAIN: Actually, Your Honor, no. We 
+
+actually don't know the answer to that question, because 
+
+the Attorney General has not issued regulations 
+
+instructing offenders what to do. They have simply 
+
+issued guidelines telling the States what they can do to 
+
+substantially implement SORNA. So, we don't really know 
+
+the answer to that question.
+
+ The point is that the requirement to 
+
+initially register under SORNA was not effective until 
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+the Attorney General -- could not be effective until the 
+
+Attorney General said so. And that's what the statute 
+
+says under (d). And that if you look at how the 
+
+Government is reading the statue, you apply it from day 
+
+one, but yet they have the ability to modify SORNA, 
+
+which in effect means to repeal SORNA's effect as to 
+
+some people in the future. That also would cause a lot 
+
+of complications, especially in the context I mentioned 
+
+where someone with a misdemeanor, you know, may be part 
+
+of the group that doesn't have to register in the 
+
+future, but they had to at some point, and -­
+
+JUSTICE SOTOMAYOR: Counsel, let's -- is 
+
+there anything -- if I understand the Solicitor 
+
+General's position, all your client had to do after 
+
+SORNA was passed was, after a reasonable amount of time 
+
+or upon his travel, to tell Missouri, which was his 
+
+State of conviction, that he was moving. Correct?
+
+ MS. CAIN: If you -- they say that he was 
+
+not part of the people that could register within a 
+
+normal -- I mean, a reasonable amount of time because of 
+
+the State registration.
+
+ JUSTICE SOTOMAYOR: Right.
+
+ MS. CAIN: But assuming that that wasn't the 
+
+case, assuming he was, you know, just -­
+
+JUSTICE SOTOMAYOR: No, I'm not assuming 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+that.
+
+ MS. CAIN: Okay.
+
+ JUSTICE SOTOMAYOR: Would he have been in 
+
+compliance with SORNA under the final rules today, the 
+
+interim rules when they were passed, or on the date that 
+
+he left if he had when he traveled, or a reasonable time 
+
+thereafter, told his State of conviction that he had 
+
+moved? Would that have been enough?
+
+ MS. CAIN: No, Your Honor.
+
+ JUSTICE SOTOMAYOR: What does he have to do 
+
+in addition to that, under the interim or final rules?
+
+ MS. CAIN: We don't know. Because, again, 
+
+the Attorney General has not issued regulations or 
+
+guidelines telling offenders what to do. They have only 
+
+issued guidelines telling jurisdictions how they can 
+
+substantially implement SORNA. So, it's not as 
+
+though -- he cannot register under SORNA until the 
+
+Attorney General specifies that he -­
+
+JUSTICE GINSBURG: That was the answer that 
+
+you gave to my question, which was the same thing: Why 
+
+isn't it sufficient now for him simply to tell his 
+
+parole officer he's moving?
+
+ MS. CAIN: Oh, I'm sorry. Yes. That was -­
+
+it would not be sufficient. I mean, it's -- he has to 
+
+initially register to register under SORNA. And he 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+can't do that until the Attorney General issued a valid 
+
+rule, which -- we are contesting that the 2007 rule is 
+
+not valid. We're saying that our client has standing to 
+
+make that challenge. We were denied the ability to do 
+
+that below.
+
+ And I would like to reserve my time if 
+
+there's no further questions.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Ms. Sherry.
+
+ ORAL ARGUMENT OF MELISSA ARBUS SHERRY
+
+ ON BEHALF OF THE RESPONDENT
+
+ MS. ARBUS SHERRY: Mr. Chief Justice, and 
+
+may it please the Court:
+
+ If I could start by answering your question, 
+
+Your Honor, about the Wetterling Act, it was not 
+
+retroactive. It didn't apply to pre-enactment conduct. 
+
+It defined a sex offender, unlike SORNA, as somebody who 
+
+is convicted of a sex offense, and in guidelines issued 
+
+after Wetterling and after several subsequent amendments 
+
+to the Wetterling Act, the Attorney General interpreted 
+
+it as only requiring States to register offenders that 
+
+are convicted not only post-enactment but 
+
+post-implementation by the States. And one such cite 
+
+is 61 -­
+
+JUSTICE SCALIA: Post- what? 
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MS. ARBUS SHERRY: Post-implementation by 
+
+the States. And so, 61 Federal Register cite 15,112 is 
+
+just one example of that type of regulation. And so, 
+
+when Congress enacted SORNA, it switched from "is 
+
+convicted" to "was convicted" in order to include 
+
+pre-enactment offenders.
+
+ Justice Kagan, to get to your question about 
+
+why is it all so complicated, our answer is that it 
+
+really is not. There's no reason why it couldn't have 
+
+applied on day one to all pre-enactment and 
+
+pre-implementation offenders. And to start off, when 
+
+you look about all pre-enactment and pre-implementation, 
+
+this is an incredibly large class. This is all existing 
+
+sex offenders on day one and all existing sex offenders 
+
+from many months and years going forward while the 
+
+States proceed towards implementation.
+
+ JUSTICE BREYER: So, why -­
+
+JUSTICE KAGAN: But then, as I indicated, 
+
+why would Congress have given you the authority to 
+
+exempt people? It seems to me that the -- the burden is 
+
+on you in the exact same way it's on Ms. Cain.
+
+ MS. SHERRY: In our view, what subsection 
+
+(d) was, essentially, was a safety valve. It wasn't 
+
+something that Congress thought the Attorney General was 
+
+going to need to use, but it was something that was 
+
+25
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+there for the Attorney General, should problems arise in 
+
+the course of implementation.
+
+ JUSTICE ALITO: What would happen in -- in 
+
+this situation: Someone is convicted of a sex offense 
+
+before SORNA is enacted; then shortly after the statute 
+
+is enacted, the person moves to a new State, does not 
+
+register; then after that, the Attorney General, 
+
+exercising the authority that you say he has under -­
+
+exercising -- excuse me, exercising the authority under 
+
+subsection (d), determines that SORNA shouldn't apply to 
+
+people who were convicted of offenses before its 
+
+enactment? Would that person have committed a criminal 
+
+offense?
+
+ MS. ARBUS SHERRY: I think at the -- at the 
+
+time he acted, yes. I suppose the Attorney General 
+
+could decide whether or not he was going to apply his 
+
+regulation prospectively or retrospectively. But I 
+
+think the important point is the same result is reached 
+
+under Petitioner's view.
+
+ On Petitioner's view, the Attorney General 
+
+has full and complete control of the light switch. 
+
+Congress didn't do anything and simply left it for the 
+
+Attorney General to turn the lights on. We don't think 
+
+that's right for a number of different reasons, one of 
+
+which is the way that Congress delegated authority to 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Attorney General in subsection (d). If -­
+
+JUSTICE ALITO: Well, if Congress wasn't 
+
+sure whether it wanted -- whether it was appropriate to 
+
+apply SORNA retroactively, then I just -- and, 
+
+therefore, was willing to leave that to the Attorney 
+
+General, then I don't understand why it would have made 
+
+the Act applicable immediately upon enactment -­
+
+MS. ARBUS SHERRY: Our -­
+
+JUSTICE ALITO: -- pending a determination 
+
+by the Attorney General.
+
+ MS. ARBUS SHERRY: Our understanding is that 
+
+Congress did know that it wanted to include as a general 
+
+matter all pre-enactment -- and again, not just 
+
+pre-enactment but pre-implementation offenders as -­
+
+offenders as well. And I think we know that because 
+
+when you look to the provisions that actually speak to 
+
+what a sex offender was required to do under the Act -­
+
+and there are six such provisions -- they all start the 
+
+same way. They say that the sex offender shall do 
+
+something. And it defines the sex offender as somebody 
+
+who was convicted.
+
+ When you look at all six of those provisions 
+
+on their face, they apply to all sex offenders so 
+
+defined without any qualification. And Petitioner's 
+
+view is that despite that clear language, despite the 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+lack of any qualification within those provisions, by 
+
+virtue of subsection (d) what Congress is really saying 
+
+is that nobody has to register until the Attorney 
+
+General says otherwise.
+
+ JUSTICE BREYER: So -­
+
+JUSTICE SOTOMAYOR: So, how do they know 
+
+where to register? Do you agree with your adversary 
+
+that -- that they have to register under SORNA?
+
+ MS. ARBUS SHERRY: No, I -- they don't have 
+
+to register under SORNA -­
+
+JUSTICE SOTOMAYOR: So, how were they 
+
+supposed to know when or how they would register until 
+
+the Attorney General acted?
+
+ MS. ARBUS SHERRY: Sure. If I could break 
+
+it up into a few classes. Again, we are talking about 
+
+pretty much -- actually, we are talking about everybody 
+
+on day one. And so, for a number of pre-enactment and 
+
+pre-implementation offenders, they're still going to be 
+
+in prison on the day that SORNA was enacted.
+
+ JUSTICE SOTOMAYOR: I'm not talking about 
+
+those people.
+
+ MS. ARBUS SHERRY: Okay. So -­
+
+JUSTICE SOTOMAYOR: Not the people who can 
+
+comply with (b).
+
+ MS. ARBUS SHERRY: Okay. 
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SOTOMAYOR: I'm talking about the -­
+
+MS. ARBUS SHERRY: So, people -- and then 
+
+the second group I was going to talk about are offenders 
+
+like Reynolds, who have already registered before SORNA 
+
+was enacted. They're already initially registered. 
+
+It's the very same State registry system that 
+
+pre-existed SORNA. There is no creation of any SORNA 
+
+registry, and the statute itself doesn't talk about a 
+
+SORNA-compliant registry. To the contrary, it defines a 
+
+sex offender registry in 16911, subsection (9). And 
+
+it's on page 10a of our brief. It defines a sex 
+
+offender registry as a registry of sex offenders 
+
+maintained by a jurisdiction.
+
+ So, these are the same registries that have 
+
+been in existence in all 50 States for the last decade. 
+
+So, offenders like Reynolds don't have to do anything 
+
+under (b); (b) simply doesn't apply to them. They do, 
+
+however, as pointed out, have to comply with the other 
+
+provisions. They do have to do what (c) requires, which 
+
+is when Reynolds moved from Missouri to Pennsylvania, he 
+
+had to tell somebody. That is what (c) requires; it's 
+
+what he was required to do even before SORNA was 
+
+enacted. And what Congress did with respect to the 
+
+subset of sex offenders that haven't already registered 
+
+before SORNA but that need to get on the registry rolls 
+
+29
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+afterwards because, for example, their sex offense 
+
+wasn't covered before SORNA -­
+
+CHIEF JUSTICE ROBERTS: So, your -- your 
+
+argument is that "requirements" in the heading for 42 
+
+U.S.C. 16913, Registration requirements for sex 
+
+offenders, means something different than "requirements" 
+
+in subsection (d), which the Attorney General can issue 
+
+rules about, because you're saying, although there is 
+
+the requirement that they register and comply with (c) 
+
+and all those other things, when it says that the 
+
+Attorney General can issue regulations specifying the 
+
+applicability of the requirements of this subchapter, 
+
+that only meant the administration, you know, 
+
+provisions, not the general requirement that you 
+
+register and keep current and all that.
+
+ MS. ARBUS SHERRY: No, I don't think that 
+
+that is what we are saying. What we view (d) as, 
+
+essentially, is a safety valve. It does give the 
+
+Attorney General that authority with respect to the 
+
+requirements, but going forward. Congress has set the 
+
+baseline; Congress has set the default rule.
+
+ CHIEF JUSTICE ROBERTS: It's a safety valve 
+
+to release what?
+
+ MS. ARBUS SHERRY: To release sex offenders 
+
+if needed to -- to perhaps suspend certain registration 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+requirements. And let me give a couple of examples.
+
+ CHIEF JUSTICE ROBERTS: Well, you are 
+
+talking about sort of in the weeds, the little details, 
+
+not the underlying requirement of registration, right?
+
+ MS. ARBUS SHERRY: No, I think it -- I think 
+
+arguably it could be both. Again, I don't think this is 
+
+something that Congress thought the Attorney General was 
+
+necessarily going to have to exercise. And, in fact, 
+
+the Attorney General has not done so.
+
+ JUSTICE KAGAN: But does that mean, Ms. 
+
+Sherry, that -- that the Attorney General could, if he 
+
+wanted to, for whatever reason, could exempt all 
+
+pre-enactment offenders from SORNA?
+
+ MS. ARBUS SHERRY: I think as a theoretical 
+
+matter, on its face, the delegation of authority in (d) 
+
+is -- is quite broad and plenary. But I think as -­
+
+JUSTICE KAGAN: And would allow that. So, 
+
+when you say it gave the Attorney General the ability to 
+
+confirm or modify the requirement in section (a), you 
+
+mean he could, if he wanted to, exempt all pre-enactment 
+
+offenders.
+
+ MS. ARBUS SHERRY: And, again, I say in 
+
+theory because I think, like all delegations of 
+
+authority, the Attorney General is certainly limited to 
+
+acting in furtherance of the purpose of Congress, and 
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+here we know what was its purpose.
+
+ JUSTICE SCALIA: Well, we had a case 
+
+involving the meaning of "modify," and it doesn't -­
+
+doesn't mean "repeal." So, he presumably couldn't 
+
+suspend the whole thing.
+
+ MS. ARBUS SHERRY: I -- I do know what case 
+
+you are talking about, and I have read it, and that's 
+
+certainly true.
+
+ JUSTICE KAGAN: But to confirm -­
+
+CHIEF JUSTICE ROBERTS: You want to share it 
+
+with the rest of us?
+
+ MS. ARBUS SHERRY: I'm not saying I 
+
+definitely remember the name. I think it was MCI, but 
+
+-- but I do know the case you are talking about. I 
+
+mean, here the word is "specify" as opposed to "modify." 
+
+And I guess there could be an argument -­
+
+JUSTICE SCALIA: It authorized the FCC to 
+
+modify the requirement to post rates, and the FCC simply 
+
+eliminated the requirement to post rates, and we said 
+
+that that was no good.
+
+ MS. ARBUS SHERRY: And -- and I -- I suppose 
+
+a similar argument could be made with respect to 
+
+"specify." I don't think it necessarily has to be -­
+
+JUSTICE BREYER: Leaving the language aside, 
+
+I'd like to go back to what Justice Sotomayor was 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+asking. We are talking, it seems to me, about section 
+
+2250. He was convicted of violating, criminally, that 
+
+section. So, I have no problem about the statute 
+
+applying to all these people; it's a question of how it 
+
+applies.
+
+ All right. Imagine with me that we have an 
+
+individual who was convicted a year ago and sentenced to 
+
+a 5-year term. Does the statute apply to him?
+
+ MS. ARBUS SHERRY: He was convicted a year 
+
+ago -­
+
+JUSTICE BREYER: Yes, correct.
+
+ MS. ARBUS SHERRY: -- of a sex offense?
+
+ JUSTICE BREYER: Yes, correct.
+
+ MS. ARBUS SHERRY: In our view, the statute 
+
+does apply.
+
+ JUSTICE BREYER: Of course, it does. Of 
+
+course, it does.
+
+ Now, he hasn't registered yet. He's in jail 
+
+for 4 more years. So, has he violated 2250 so far?
+
+ MS. ARBUS SHERRY: He has not.
+
+ JUSTICE BREYER: Not? Thank you.
+
+ So, a person who has recently -- recently -­
+
+committed the crime, is in prison, is under an 
+
+obligation to register, is yet not in violation because 
+
+the time for initially registration -- registering has 
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+not yet expired. Now let's go back to a person who is 
+
+far less certain how it applies. He committed the crime 
+
+10 or 15 years ago. He has long since been released 
+
+from prison.
+
+ There are, as you point out, several 
+
+categories. One is a person who has to -- who should, 
+
+under Michigan State law, register, but he didn't. 
+
+Another is a person who did and moved. You know, there 
+
+are several categories.
+
+ Now, is he in violation of 2250? Your point 
+
+is he is immediately, even though it was much less clear 
+
+that it applied to him, much less clear. And much less 
+
+clear -- in fact, it doesn't say when he is supposed to 
+
+register, but still 2250 applies to him.
+
+ I just wonder how that could be, 
+
+particularly when we have three sentences, indeed, which 
+
+seem to me to tell the Attorney General, certainly, 
+
+please deal with that kind of a case.
+
+ MS. ARBUS SHERRY: If I could start with 
+
+2250 and then go back to subsection (d), that is not our 
+
+position. 2250 is the criminal provision. What we're 
+
+actually looking at here are the registration -­
+
+JUSTICE BREYER: I thought he was convicted 
+
+of a crime.
+
+ MS. ARBUS SHERRY: -- requirements. 
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE BREYER: I thought he was convicted 
+
+of a crime under 2250. That's why I asked the question. 
+
+And his lawyer said, in response to my question, that 
+
+one of the things she wants to argue is that he cannot 
+
+be convicted under 2250 until he is under a legal 
+
+obligation to register, and that initial registration is 
+
+not a legal obligation until the Attorney General makes 
+
+his rules. I thought that was the argument.
+
+ MS. ARBUS SHERRY: Let me make an important 
+
+distinction. If we're actually talking about Reynolds 
+
+here, you are right, but Reynolds was not convicted and 
+
+was not prosecuted for failing to comply with the 
+
+initial registration requirements in subsection (b). He 
+
+was convicted and prosecuted for failing to comply with 
+
+the timing requirements in subsection (c), which are 
+
+quite clear as applied to offenders like Reynolds, who 
+
+have already registered or already in the system.
+
+ What he did was he traveled from Missouri -­
+
+JUSTICE BREYER: So, subsection (c) says he 
+
+has to, not later than 3 days -­
+
+JUSTICE SCALIA: Where is this? Do you want 
+
+to tell us where it is?
+
+ MS. ARBUS SHERRY: I'm sorry. This is on 
+
+12(a) of the Government's brief.
+
+ JUSTICE SCALIA: It's very helpful to know 
+
+35
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+what you're talking about.
+
+ MS. ARBUS SHERRY: Absolutely.
+
+ JUSTICE KAGAN: But you're suggesting, Ms. 
+
+Sherry, that (b) and (c) have nothing to do with each 
+
+other. And, in fact, one can read (a), (b), and (c) as 
+
+all integrally linked and referring only to 
+
+post-enactment offenders. So, (a) is the umbrella 
+
+provision. It says "a sex offender shall register, and 
+
+keep the registration current"; (b) says how you shall 
+
+register initially; and (c) says how you shall keep that 
+
+registration current.
+
+ So, all three of these refer only to 
+
+post-enactment offenders. And then (d) comes along and 
+
+says, by the way, the Attorney General can apply all of 
+
+this to pre-enactment offenders as well and can specify 
+
+how to do that.
+
+ MS. ARBUS SHERRY: Again, I don't think 
+
+that's right. And if it helps, I'd like to walk through 
+
+the different provisions. The one thing I would say on 
+
+the outset, however, is when you say that -- when you 
+
+read those sections, you can read them as only applying 
+
+to post-enactment offenders -- I don't think that's 
+
+right, especially because of subsection (b), because on 
+
+the day that SORNA was enacted, every single person in 
+
+prison at that time was by definition a pre-enactment 
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+offender. And so, on its face when you read subsection 
+
+(b), it quite easily applies to quite a number of 
+
+pre-enactment offenders.
+
+ And the other point I would make along those 
+
+lines is the fact that subsection (d) just doesn't talk 
+
+about pre-enactment; it talks about pre-implementation 
+
+offenders. So, offenders that were convicted after 
+
+SORNA's enactment but before a State had implemented, 
+
+again, quite easily fit not only within subsection (b) 
+
+but within all the other subsections as well.
+
+ And with respect to the interrelationship 
+
+between them, I think subsection (a) really identifies 
+
+the jurisdictions in which an offender needs to 
+
+register. And so, the first sentence sets out three 
+
+jurisdictions and where an offender both needs to 
+
+register and to keep the information current.
+
+ Subsection (b) really serves a limited 
+
+purpose. It's an intake process. It's getting an 
+
+offender into the system. For offenders like Reynolds 
+
+who are already in the very same system, there's nothing 
+
+to be done under (b); (b) simply doesn't apply to them. 
+
+(B) is applied to people who are not already in that 
+
+system, and for those that can comply with the timing, 
+
+it gets them in before they're released to the 
+
+community. 
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+But the inability to comply with subsection 
+
+(b) for the small set of offenders that cannot comply 
+
+with the timing requirements, it doesn't immunize them 
+
+from complying with all of the other registration 
+
+requirements.
+
+ JUSTICE BREYER: In other words, you're 
+
+reading (c) as saying, to go back to my example, the 
+
+person who was convicted last year and has 4 more years 
+
+to do his initial registration -- nonetheless, if he 
+
+changes his name, if he stops being a student while in 
+
+prison, he has to register tomorrow or the day after. 
+
+would say if that's your reading of those two sections, 
+
+it's -- it's going to confuse everybody who is in 
+
+prison, as it did confuse me.
+
+ MS. ARBUS SHERRY: That is not my reading of 
+
+the statute.
+
+ JUSTICE BREYER: All right. Then I take it 
+
+your reading is he does not have to fulfill (c) until 
+
+after he has to have initially registered. And so, 
+
+we're back to the question of why you treat somebody who 
+
+committed the crime long ago with less clarity, with 
+
+less time to initially register, with more confusion 
+
+from one jurisdiction than another, than you would treat 
+
+a person who was convicted last year, is still in jail, 
+
+and has 4 more years to register. That's why I read (d) 
+
+38
+
+Alderson Reporting Company 
+
+I 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+as trying to sort that kind of thing out.
+
+ MS. ARBUS SHERRY: Two points on that: 
+
+Number one, for offenders like Reynolds that are already 
+
+registered, there's nothing more to be done as far as 
+
+registration goes. All they need to do is to keep the 
+
+information current and to keep it updated.
+
+ The other point I would make, since we're 
+
+talking about 2250, Congress provided other protections 
+
+for offenders that were unable to comply with the timing 
+
+requirements. Number one, it -- it provided an 
+
+impossibility affirmative defense in 2250(b). And the 
+
+other thing that Congress did is it required that any 
+
+failure to register, in order to be subject to criminal 
+
+sanctions, that it be a knowing failure to register. In 
+
+other words, that the offender know he has a 
+
+registration requirement and know that he is not 
+
+complying with that requirement.
+
+ So, the idea that there are some 
+
+hypothetical, or maybe even not so hypothetical, sex 
+
+offenders out there who can't comply with the precise 
+
+timing in (b) and will -- have no idea what they're 
+
+required to do, they're not going to be -- they're not 
+
+going to be criminally liable under 2250 because there 
+
+is an impossibility defense. And to the extent they 
+
+don't know that they have a registration requirement, 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+they're also not going to be criminally liable under 
+
+2250.
+
+ And so -­
+
+CHIEF JUSTICE ROBERTS: Why -- why isn't 
+
+part of your answer to Justice Breyer's question that 
+
+the one person who doesn't have to register for 4 years 
+
+is in prison already; so, presumably, he doesn't present 
+
+the same type of threat that led to the enactment of 
+
+these registration laws in the first place?
+
+ MS. ARBUS SHERRY: That's absolutely right. 
+
+I mean, the release from -- the reason the release from 
+
+prison is the -- is the trigger is because the concern 
+
+and the reason we have registration is for periods of 
+
+time where these offenders are released into the 
+
+community.
+
+ And that's why the timing requirement in (b) 
+
+is there. The notion is that, before offenders are 
+
+released into the community, we want to get them on the 
+
+registry rolls; we want to be able to track them from 
+
+the day that they're released.
+
+ JUSTICE BREYER: I see. Your view is that 
+
+they have to register initially when?
+
+ MS. ARBUS SHERRY: If they have not?
+
+ JUSTICE BREYER: No, no, I'm just saying 
+
+take my example. The person is in Michigan. Michigan 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+does have a sex registration thing, but he never 
+
+actually did it. So, now this Federal Act comes in, and 
+
+now when is he supposed to register? When's his initial 
+
+registration?
+
+ MS. ARBUS SHERRY: He is to register within 
+
+a reasonable time.
+
+ JUSTICE BREYER: Oh, reasonable time.
+
+ MS. ARBUS SHERRY: He can only be -­
+
+JUSTICE BREYER: And what is a reasonable 
+
+time?
+
+ MS. ARBUS SHERRY: Given the other timing in 
+
+the rest of the requirements, something probably along 
+
+the lines of, give or take, 3 business days. The 
+
+important point, however -­
+
+JUSTICE BREYER: In 3 business days, he's 
+
+supposed to go out and do that, and if he doesn't do it, 
+
+he has committed a Federal crime which makes no mention 
+
+of it, no mention at all, and he's just supposed to 
+
+guess that that's 3 business days because he's a lawyer; 
+
+is that why?
+
+ MS. ARBUS SHERRY: No, it's actually -- it's 
+
+not unique with respect to the statute. It's quite 
+
+common for status offenses, and let me try to give one 
+
+example. One of the statutes that this Court looked at 
+
+fairly recently, 922(g)(9), makes it unlawful to possess 
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+a firearm after having a conviction for a misdemeanor 
+
+crime of domestic violence. That statute was passed in 
+
+1996, and it applied to everybody who has been convicted 
+
+of a domestic violence offense.
+
+ And so, if an individual had a domestic 
+
+violence conviction in 1990, for example, and had had a 
+
+firearm in his house, in his possession, for the last 
+
+20 years, when the statute was passed in 1996 he was in 
+
+violation of the statute. Of course, he couldn't be 
+
+criminally prosecuted unless he was given some 
+
+reasonable period of time to get rid of the firearm. 
+
+But there's nothing unique with respect to that.
+
+ And, again, the criminal provision here, 
+
+2250, provides additional protections. It has an 
+
+affirmative defense for impossibility, and it requires 
+
+that there be knowledge. So, for an offender that knows 
+
+he is required to register, he's given a reasonable 
+
+amount of time to come into compliance with that 
+
+registration requirement.
+
+ Reynolds, in particular, is a good example 
+
+here of what Congress was trying to get at. Reynolds 
+
+knew he was required to tell somebody when he moved from 
+
+Missouri to Pennsylvania. He knew that because he 
+
+signed registration forms in Missouri telling him as 
+
+much. And those are in the joint appendix at pages 
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+16 -­
+
+JUSTICE GINSBURG: But those were under 
+
+Missouri law, not under the Federal statute.
+
+ MS. ARBUS SHERRY: They were -- they were 
+
+under Missouri law, but the important point for SORNA 
+
+purposes is that he knew he had a registration 
+
+requirement. He doesn't have to know what law it arises 
+
+under. And, again, the sex offender registries that 
+
+pre-existed SORNA are the exact same sex offender 
+
+registries that SORNA is using.
+
+ SORNA was enacted in 2006. It wasn't 
+
+starting over; it wasn't starting from scratch. It 
+
+wanted to build on the previous regime. It wanted to 
+
+fix it and make it better and fill in gaps and fill in 
+
+loopholes and stitch all of the State systems -­
+
+CHIEF JUSTICE ROBERTS: And providing 
+
+criminal penalties that weren't always there.
+
+ MS. ARBUS SHERRY: Well, the criminal 
+
+penalties -­
+
+CHIEF JUSTICE ROBERTS: That's a big change.
+
+ MS. ARBUS SHERRY: The criminal penalties -­
+
+the Federal felony criminal penalties were not there 
+
+before. Wetterling did have a misdemeanor penalty, and 
+
+a number of States did have penalties. But, again, the 
+
+criminal penalty is distinct from the registration 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+requirement, which is what we actually are looking at 
+
+and what we're interpreting, the registration 
+
+requirement, violation of which can result in criminal 
+
+penalties in certain circumstances. But, again, 
+
+Congress provided additional protections for those 
+
+circumstances. The registration requirements themselves 
+
+not only apply to sex offenders and tell sex offenders 
+
+what they're required to do; it also tells States and 
+
+other jurisdictions what they're required to do if they 
+
+want to -­
+
+CHIEF JUSTICE ROBERTS: Your theory -­
+
+MS. ARBUS SHERRY: -- actually implement.
+
+ CHIEF JUSTICE ROBERTS: Your theory of what 
+
+the Attorney General did here, as you put in your -- I 
+
+forget what, the regulations or the -- was confirm the 
+
+applicability of SORNA, right?
+
+ MS. ARBUS SHERRY: Our -­
+
+CHIEF JUSTICE ROBERTS: That's the word you 
+
+used, I think, on page 12 of your brief.
+
+ MS. ARBUS SHERRY: We did. One of the 
+
+things he did was confirm. In the interim rule, the 
+
+Attorney General, in the preamble section, read the 
+
+statute exactly as -­
+
+CHIEF JUSTICE ROBERTS: Right.
+
+ MS. ARBUS SHERRY: -- as we read the 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+statute.
+
+ CHIEF JUSTICE ROBERTS: What is the other 
+
+example -- do you have any other example where an 
+
+Attorney General confirms the applicability of a 
+
+criminal law?
+
+ MS. ARBUS SHERRY: I don't know if I would 
+
+say "confirm." There certainly are other examples where 
+
+the Attorney General has had authority and exercised 
+
+authority to define certain aspects of criminal law. 
+
+Touby is one example of such a case. And I think -­
+
+CHIEF JUSTICE ROBERTS: No, that's 
+
+different. I mean, if you're talking about defining 
+
+which drugs are qualified, you know, under provisions 
+
+that criminalize possession, things like that. That's 
+
+is clarification going forward. I'm talking about 
+
+straightforward confirming, which is what you say 
+
+happened here.
+
+ MS. ARBUS SHERRY: Oh, well -­
+
+CHIEF JUSTICE ROBERTS: You know, the law 
+
+says this, and I -- I think it means -- I think it means 
+
+what -- what you say it means.
+
+ MS. ARBUS SHERRY: I mean, I think there are 
+
+a number of examples where, for example, agencies do 
+
+little more than restate what the statute says. I think 
+
+that this Court doesn't give deference in those 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+circumstances, but it's certainly within the scope of 
+
+the general authority of an agency or the Attorney 
+
+General in this case to reiterate the statute's 
+
+requirement.
+
+ The Attorney General went -- went a step 
+
+further in the interim rule in that what the Attorney 
+
+General said in the preamble is: I read the statute as 
+
+written. I think it applies facially to all sex 
+
+offenders regardless of the date of conviction, but I 
+
+understand the defendants are making an argument to the 
+
+contrary. And in an abundance of caution, to foreclose 
+
+that argument to the extent I need to do something under 
+
+subsection (d), I'm doing it now, and I'm saying that, 
+
+yes, it applies to all pre-enactment and 
+
+pre-implementation offenders. And I think -­
+
+CHIEF JUSTICE ROBERTS: So, I get back to my 
+
+question, which -- what's your best example of an 
+
+Attorney General doing something like that?
+
+ MS. ARBUS SHERRY: Confirming? I don't know 
+
+if I have one in a criminal context exactly, but I think 
+
+the point maybe that Your Honor is getting at -- you can 
+
+certainly correct me if I'm wrong -- might be a point 
+
+that you made earlier. It certainly is somewhat unusual 
+
+delegation of authority to the Attorney General. If 
+
+Congress had wanted the Attorney General to decide 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+whether or not the registration requirements at the very 
+
+core of this statute had any operative effect going 
+
+forward, presumably it would have told the Attorney 
+
+General that he needed to do something.
+
+ That's something that Congress did in many 
+
+other provisions of SORNA where Congress said the 
+
+Attorney General shall do something. In fact, more than 
+
+a dozen provisions -- Congress used that language to 
+
+direct the Attorney General to take a certain action.
+
+ CHIEF JUSTICE ROBERTS: Well, here it says 
+
+"shall." It says, "The Attorney General shall have the 
+
+authority to specify the applicability of the 
+
+requirements of this subsection."
+
+ MS. ARBUS SHERRY: But it says "shall have 
+
+the authority." And I think there's a significant 
+
+difference between "shall specify" and "shall have the 
+
+authority to specify." The latter is a passive 
+
+delegation of authority; it's a permissive delegation. 
+
+It suggests that Congress did not think that the 
+
+Attorney General had to do something for the statute to 
+
+apply as written. It suggests that the statute applied 
+
+on day one to all pre-enactment and pre-implementation 
+
+offenders as all the other subsections that set forth 
+
+the registration requirements suggest, but if the 
+
+Attorney General in the future sees a need to specify 
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+the applicability going forward, then he has the 
+
+authority to do that. Not that he -­
+
+JUSTICE KAGAN: But the question -­
+
+JUSTICE SOTOMAYOR: You're starting from a 
+
+proposition, counsel, it seems to me, that Congress 
+
+necessarily and under all circumstances thought that it 
+
+had to include pre-SORNA convictions. But I don't 
+
+know -- yes, it wanted a uniform system, but it had 
+
+State systems in place; it had an imperfect Wetterling 
+
+Act in place. It had lots of other mechanisms in place 
+
+to punish non-registrants.
+
+ So, you're starting from the proposition 
+
+that, by necessity, they wanted to include preconviction 
+
+felonies. But I guess for those of us who believe in 
+
+legislative history, and I know many of my colleagues 
+
+don't believe in it or pay attention to it, there were 
+
+two bills passed on SORNA, one a House bill that made it 
+
+very clear, explicitly clear, that it applied to 
+
+pre-SORNA conviction felons; and the Senate bill which 
+
+under the label Retroactivity had the terms that (d) now 
+
+has.
+
+ Doesn't that suggest to us that Congress 
+
+itself was unsure of whether it wanted to include the 
+
+pre-SORNA convictions or not?
+
+ MS. ARBUS SHERRY: I don't think so, and for 
+
+48
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+two reasons. First, to address the bills themselves, I 
+
+don't think the Senate bill, just like I don't think 
+
+subsection (d) means that Congress meant to apply the 
+
+registration requirements to all pre-enactment offenders 
+
+in the registration provisions and then take away that 
+
+application in the specify the applicability provision.
+
+ In the Senate bill that you're talking 
+
+about, it defined a sex offender as anybody who has been 
+
+convicted of a sex offense. And as this Court said in 
+
+Carr, that's the language that Congress quite often uses 
+
+when it intends to include pre-enactment conduct.
+
+ So, I think the verb choice, both in the 
+
+Senate bill, in the House bill, and in the bill that was 
+
+actually enacted, indicates that it did intend to 
+
+include pre-enactment offenders.
+
+ The other point I'd want to make is, again, 
+
+another point that was made in Carr, which is that the 
+
+registration requirements stand at the very center of 
+
+Congress's efforts to find and to register the 100,000 
+
+missing sex offenders that had fallen off the registry 
+
+rolls under the previous regime.
+
+ So, I think it is quite clear with respect 
+
+to SORNA that Congress did want to include pre-enactment 
+
+offenders. It wanted to not only find those missing sex 
+
+offenders; it wanted to make sure that they got back on 
+
+49
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+the registry rolls. And as far as the hundreds of 
+
+thousand offenders that were already on the registry 
+
+rolls when SORNA was enacted, they wanted to make sure 
+
+that they stayed on the registry rolls, that they kept 
+
+the information current, they continued to update their 
+
+information going forward.
+
+ And, again, with respect to pre-enactment 
+
+offenders that were in prison at the time that SORNA was 
+
+enacted, it wanted to make sure to get them on the 
+
+registry rolls before they left prison, before they 
+
+entered the community.
+
+ JUSTICE SOTOMAYOR: I guess my problem is 
+
+that you make an assumption, you continue to make an 
+
+assumption that if the Attorney General hadn't acted -­
+
+that the Attorney General was incapable of acting 
+
+quickly.
+
+ I mean, if the Attorney General had, within 
+
+a few months, done what he ultimately did a year later 
+
+or whatever time period after, had come out and said it 
+
+applies; this is what you do; briefly, you register 
+
+wherever you were convicted or -- et cetera, if you move 
+
+or change your name -- then Congress would have 
+
+accomplished the goal it wanted.
+
+ MS. ARBUS SHERRY: If the -- if Congress had 
+
+wanted the Attorney General to act and to act quickly, 
+
+50
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+presumably Congress would have told the Attorney General 
+
+that he had to do something. Again, that's something 
+
+Congress did in many other provisions of SORNA. 
+
+Congress wasn't shy about -­
+
+JUSTICE GINSBURG: Well, why did -- the 
+
+Attorney General did try to act very swiftly, and if the 
+
+Attorney General thought that SORNA applied from day 
+
+one, why did the Attorney General try to rush through 
+
+regulation that said nothing more than SORNA applies?
+
+ MS. ARBUS SHERRY: Because when the Attorney 
+
+General issued the interim rule, what he said was that 
+
+reading it on the face, I do think it applies to 
+
+everybody, but I recognize the defendants are making an 
+
+alternative argument. And I think it's incredibly 
+
+important that it apply to everybody, and that it apply 
+
+to everyone quickly, because we're talking about 
+
+protecting our communities; we're talking about 
+
+protecting the public and protecting our children from 
+
+sex offenders. And having this uncertainty out there is 
+
+-- is not only not good for protecting the public, but 
+
+it's not good for sex offenders; it's not good for 
+
+jurisdictions that are trying to work towards 
+
+substantial implementation of SORNA.
+
+ And so, I think you could look at it one of 
+
+two ways. If the idea is, well, Congress left it to the 
+
+51
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Attorney General, but the Attorney General could have 
+
+acted very quickly, I think that suggests that there 
+
+probably wasn't that much for the Attorney General to do 
+
+in the first place, and there's little reason that 
+
+Congress would not have made that decision on its own.
+
+ To the extent you think there was a whole 
+
+bunch of things for the Attorney General to do, which, 
+
+again, we disagree with, presumably that's something 
+
+that would take some time. And during the interim, 
+
+period those 100,000 sex offenders would remain missing; 
+
+additional sex offenders would be added to that number; 
+
+and the community and the public would continue to be at 
+
+risk going forward.
+
+ If there -­
+
+CHIEF JUSTICE ROBERTS: What if -- what if 
+
+we think the reason Congress left it to the Attorney 
+
+General is because they just didn't want to decide? Or 
+
+some people were saying this is fine but not 
+
+retroactive, and others were saying it should be 
+
+retroactive. Do you see any constitutional issues with 
+
+Congress delegating that authority to the Attorney 
+
+General, the authority to make a criminal statute 
+
+applicable on a retroactive basis?
+
+ MS. ARBUS SHERRY: We don't see any 
+
+constitutional difficulty with it. Of course, we don't 
+
+52
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+think that's what Congress did. But we do -- we do 
+
+think that the notion that Congress would delegate such 
+
+a fundamental issue to the Attorney General in such 
+
+subtle and opaque terms that the Attorney General didn't 
+
+think he needed to do anything is quite significant when 
+
+you look to see what -- what Congress was intending.
+
+ JUSTICE SCALIA: Of course, it would 
+
+strengthen your case if you would at least acknowledge 
+
+that it would be constitutionally doubtful. You 
+
+wouldn't have to say it's bad, but if you said it's 
+
+doubtful -­
+
+MS. ARBUS SHERRY: That is -­
+
+JUSTICE SCALIA: -- it would strengthen your 
+
+case, wouldn't it?
+
+ MS. ARBUS SHERRY: That -- that might 
+
+strengthen our case here -­
+
+JUSTICE KAGAN: But it would also work 
+
+against your own interpretation, because your own 
+
+interpretation allows you to exempt anybody that you 
+
+want from the statute; isn't that right?
+
+ MS. ARBUS SHERRY: It does, but we do think 
+
+there's a different starting point, and the difference 
+
+in starting point is a fundamental difference, as Your 
+
+Honor noted. Our argument looks like a lot like 
+
+prosecutorial discretion; whereas, the other starting 
+
+53
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+point is that Congress decided nothing and left it all 
+
+to the Attorney General.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Ms. Cain, you have 3 minutes remaining.
+
+ REBUTTAL ARGUMENT OF CANDACE CAIN
+
+ ON BEHALF OF THE PETITIONER
+
+ MS. CAIN: I'd like to address one point the 
+
+Government made, that there's no need to re-register -­
+
+someone in Mr. Reynolds's position -- once they've been 
+
+registered under State law. They acknowledge the 
+
+opposite themselves in footnote 12, where they say 
+
+that -- that a government or a State will have been 
+
+deemed to substantially implement SORNA if it registers 
+
+pre-enactment and pre-implementation sex offenders who 
+
+remain in the system as registrants, as well as other 
+
+people. So, it's clear that the Government 
+
+believes that -- acknowledges that people who are 
+
+already registered must re-register under SORNA.
+
+ The most important thing is that this -- the 
+
+SORNA statute -- the obligation under SORNA begins with 
+
+initial registration and does not begin with a State 
+
+registration. And enactment -- Congress knew that 
+
+certain people would be unable to register under 
+
+subsection (b), and that is why they enacted subsection 
+
+(d). 
+
+54
+ 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+We ask the Court to remand to the district 
+
+court and to allow Mr. Reynolds to pursue his claim.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ The case is submitted.
+
+ (Whereupon, at 12:05 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+55
+
+Alderson Reporting Company 
+
+
+
+OfficialOfficial 
+
+56 
+
+A 30:13 37:22 42:3 2:2,5,8 3:3,6 46:25 47:3,7,9 
+ability 7:15 12:7 admitting 5:10 47:21 48:18 11:13 13:24 47:11,20,25 
+
+22:5 24:4 31:18 adopted13:16 51:7 14:9 17:25 50:14,15,17,25 
+able 40:19 adoption10:1 applies 10:18 24:10 30:4 51:1,6,7,8,10 
+above-entitled adversary 28:7 12:3 33:5 34:2 32:16,22 35:8 52:1,1,3,7,16 
+
+1:11 55:6 affirmative 34:14 37:2 46:8 46:10,12 51:14 52:21 53:3,4 
+absolutely 36:2 39:11 42:15 46:14 50:20 53:24 54:5 54:2 
+
+40:10 AG 6:8 51:9,12 arises 43:7 August 9:6,10,12 
+abundance 46:11 agencies 45:23 apply 3:15 4:16 arrest 17:8 9:15,18,21 
+abuse 5:22 11:7 agency 46:2 6:2 13:1 14:5 Arrested17:6 13:20 
+
+11:21 ago 33:7,10 34:3 14:20,21 15:2 aside 32:24 authority 3:14,20 
+abused11:19 38:21 22:4 24:16 asked35:2 18:24 19:1,7 
+accept 8:23 agree 28:7 26:10,16 27:4 asking 7:17 8:22 25:19 26:8,9,25 
+accepted10:10 agrees 15:24 27:23 29:17 33:1 30:19 31:15,24 
+accomplished ALITO 9:25 26:3 33:8,15 36:14 aspects 45:9 45:8,9 46:2,24 
+
+50:23 27:2,9 37:21 44:7 Assistant 1:15 47:12,15,17,18 
+accords 5:7,24 allegedly 13:18 47:21 49:3 1:17 48:2 52:21,22 
+acknowledge allow31:17 55:2 51:15,15 assume 10:10 authorized10:21 
+
+53:8 54:10 allows 53:19 applying 33:4 assumes 19:11 32:17 
+acknowledges alternative 51:14 36:21 assuming 22:23 automatic 17:24 
+
+54:17 amending 5:17 appropriate 27:3 22:24,25 aware 6:23 
+act 4:5,10,11,16 amendments ARBUS 1:17 2:6 assumption a.m 1:13 3:2 
+
+4:19,24 5:2,6 
+5:12,14,17 
+16:10 24:15,20 
+27:7,17 41:2 
+48:10 50:25,25 
+51:6 
+
+acted7:22 26:15 
+28:13 50:14 
+52:2 
+
+acting 31:25 
+50:15 
+
+action 3:24 10:19 
+47:9 
+
+acts 5:12,22 15:5 
+added5:6,17 
+
+52:11 
+addition 23:11 
+additional 42:14 
+
+44:5 52:11 
+address 49:1 
+
+54:7 
+administration 
+
+24:19 
+amount 22:15,20 
+
+42:18 
+answer5:10 
+
+10:10 21:18,23 
+23:19 25:8 40:5 
+
+answering 24:14 
+anybody 49:8 
+
+53:19 
+anyway 7:21 
+APPEARANC... 
+
+1:14 
+appendix 42:25 
+applicability 
+
+30:12 44:16 
+45:4 47:12 48:1 
+49:6 
+
+applicable 27:7 
+52:23 
+
+application49:6 
+applied4:3,22 
+
+15:22 25:10 
+34:12 35:16 
+
+24:10,12 25:1 
+26:14 27:8,11 
+28:9,14,22,25 
+29:2 30:16,24 
+31:5,14,22 32:6 
+32:12,21 33:9 
+33:12,14,20 
+34:19,25 35:9 
+35:23 36:2,17 
+38:15 39:2 
+40:10,23 41:5,8 
+41:11,21 43:4 
+43:18,21 44:12 
+44:17,20,25 
+45:6,18,22 
+46:19 47:14 
+48:25 50:24 
+51:10 52:24 
+53:12,15,21 
+
+arguably 31:6 
+argue 35:4 
+arguing 7:9 
+argument 1:12 
+
+50:13,14 
+attention 48:16 
+Attorney 3:14,20 
+
+3:24 5:11 6:3 
+6:11,13,17,18 
+6:21,24 7:1,12 
+7:15,22 8:5,7,8 
+8:15,24 9:4 
+10:6,19,20 13:9 
+14:4 15:4,12 
+16:24 17:3 
+18:11 20:17 
+21:19 22:1,2 
+23:13,18 24:1 
+24:20 25:24 
+26:1,7,15,20 
+26:23 27:1,5,10 
+28:3,13 30:7,11 
+30:19 31:7,9,11 
+31:18,24 34:17 
+35:7 36:14 
+44:14,22 45:4,8 
+46:2,5,6,18,24 
+
+B 
+b 14:15 20:23,23 
+
+28:24 29:17,17 
+35:13 36:4,5,9 
+36:23 37:2,9,17 
+37:21,21,22 
+38:2 39:21 
+40:16 54:24 
+
+back 4:17 10:9 
+17:9 32:25 34:1 
+34:20 38:7,20 
+46:16 49:25 
+
+bad53:10 
+baseline 30:21 
+basis 10:22 
+
+11:20 52:23 
+begins 54:20 
+behalf 2:4,7,10 
+
+3:7 24:11 54:6 
+behavior 6:12 
+believe 48:14,16 
+believes 54:17 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+Official 
+
+57 
+
+best 46:17 10:3,17,24 11:2 10:15,23 12:17 14:5,12 15:2 39:9,20 
+better5:7,24 11:6,9,14,17 12:19,24 13:3,5 20:22 22:14 complying 38:4 
+
+43:14 11:23 12:3,10 13:14,14 24:4 24:3 39:17 
+big 43:20 12:13,21,25 challenging close 8:13 conceivably 
+bill 48:17,19 49:2 13:6,11,21 14:1 12:15,18 13:8 closer8:21 10:15 
+
+49:7,13,13,13 14:6,8,12,14 change 43:20 colleagues 48:15 concern 40:12 
+bills 48:17 49:1 14:22,24 15:8 50:22 come 42:18 concerned17:20 
+BILLY1:3 15:11,16,24 changes 18:21 50:19 conduct 7:10,11 
+books 19:19 16:4,7 17:8,19 38:10 comes 36:13 24:16 49:11 
+brackets 13:18 18:1,9,15 19:3 Chief 3:3,8 4:9 41:2 confirm 31:19 
+break 28:14 19:10,17,23 4:14,21,25 12:9 commanded 32:9 44:15,21 
+BREYER 14:19 20:5,8,20 21:2 12:11 13:23 11:16 45:7 
+
+14:23,25 15:10 21:17 22:18,23 14:2,7 24:8,12 comment 9:6,8 confirming 45:16 
+25:17 28:5 23:2,9,12,23 30:3,22 31:2 12:12,16 13:13 46:19 
+32:24 33:11,13 25:21 54:4,5,7 32:10 40:4 13:25 14:3 confirms 45:4 
+33:16,21 34:23 called5:5 43:16,20 44:11 comments 14:4 confuse 38:13,14 
+35:1,19 38:6,17 CANDACE 1:15 44:13,18,24 committed5:1 confusion 38:22 
+40:21,24 41:7,9 2:3,9 3:6 54:5 45:2,11,19 5:12 20:4 26:12 Congress 3:13 
+41:15 capabilities 46:16 47:10 33:23 34:2 4:5 6:15 15:1 
+
+Breyer's 40:5 18:19 52:15 54:3 55:3 38:21 41:17 15:17,19,21 
+brief 15:18,25 Carr 20:14 49:10 children51:18 common41:23 16:5 17:15,17 
+
+16:22 29:11 49:17 choice 49:12 communities 18:12 21:7 25:4 
+35:24 44:19 case 3:4 7:8 9:9 circular11:13 51:17 25:19,24 26:22 
+
+briefly 50:20 9:11,14,17,22 circumstances community 37:25 26:25 27:2,12 
+bring 3:25 11:19 13:3,3 18:22 20:24 44:4,6 40:15,18 50:11 28:2 29:23 
+
+17:9 18:3 22:24 32:2,6,14 46:1 48:6 52:12 30:20,21 31:7 
+broad 31:16 34:18 45:10 cite 24:23 25:2 complete 26:21 31:25 39:8,12 
+brought 7:3 46:3 53:8,14,16 civil 6:25 7:23 completely 16:23 42:21 44:5 
+build 43:13 55:4,5 claim 9:13 11:21 compliance 46:25 47:5,6,8 
+bunch52:7 categories 34:6 12:12 55:2 18:23 20:7 23:4 47:19 48:5,22 
+burden25:20 34:9 claims 8:14 42:18 49:3,10,23 
+business 41:13 cause 22:7 clarification compliant 17:12 50:22,24 51:1,3 
+
+41:15,19 caution 46:11 45:15 complicated 51:4,25 52:5,16 
+Byrne 17:13 center49:18 clarify 5:9 15:18,21 25:8 52:21 53:1,2,6 
+
+certain 3:10 clarity 38:21 complication 54:1,22 
+C 15:19 16:22 class 7:12,19 17:3 congressional 
+
+c 2:1 3:1 29:19 18:3 30:25 34:2 25:13 complications 5:8,25 
+29:21 30:9 44:4 45:9 47:9 classes 28:15 15:25 16:3 22:8 Congress's
+35:15,19 36:4,5 54:23 clear 27:25 34:11 comply 3:12 49:19 
+36:10 38:7,18 certainly 21:10 34:12,13 35:16 14:14 19:2,3,5 consideration 
+
+Cain 1:15 2:3,9 31:24 32:8 48:18,18 49:22 19:20,23 20:3,9 4:5 16:19 
+3:5,6,8 4:11,18 34:17 45:7 46:1 54:16 20:11 21:13,14 constitutional 
+4:23 5:3,14,23 46:22,23 client 7:19 9:23 28:24 29:18 52:20,25 
+6:23 7:14,24 cetera 50:21 10:5,20 11:1,8 30:9 35:12,14 constitutionally
+9:1,14,19,23 challenge 10:13 11:11,16,22 37:23 38:1,2 53:9 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+58 
+
+contain 19:25 covered4:7 6:7 12:3 17:16 22:4 14:17 20:15,16 21:25 
+contest 7:15 7:11,19,20,21 25:10,14 28:17 despite 27:25,25 22:1 
+
+10:18 11:25 30:2 28:19 36:24 details 6:19 31:3 efforts 49:19 
+contesting 9:11 create 20:15 38:11 40:20 determination either10:14 
+
+24:2 creation 29:7 47:22 51:7 17:5 27:9 14:17 
+context 16:21 crime 7:6,6,6 8:2 days 35:20 41:13 determine 3:15 eliminated32:19 
+
+22:8 46:20 8:6,6,7,10,11 41:15,19 determines enacted3:19 
+continue 50:13 8:15,16,18,23 deal 34:18 26:10 4:24 5:15,17 
+
+52:12 8:24 20:4 33:23 decade 29:15 determining 4:3 14:16 19:13,15 
+continued50:5 34:2,24 35:2 decide 6:8 26:16 difference 47:16 19:16 20:4 25:4 
+contrary 29:9 38:21 41:17 46:25 52:17 53:22,23 26:5,6 28:19 
+
+46:11 42:2 decided11:10 different 6:18 29:5,23 36:24 
+control 26:21 criminal 3:24 5:4 16:25 54:1 15:20 16:10,11 43:11 49:14 
+convicted3:10 5:6,11,16,18 deciding 7:1,5 16:20 18:17 50:3,9 54:24 
+
+3:18 5:21 6:6 5:18 6:13,16,20 17:4 26:24 30:6 enactment 3:11 
+7:6 16:14 17:10 7:3,9,10,18,22 decision 17:3 36:19 45:12 4:17 10:1 12:17 
+24:18,22 25:5,5 10:7 26:12 52:5 53:22 16:17 26:12 
+26:4,11 27:21 34:21 39:13 deemed10:4 difficulty 52:25 27:7 37:8 40:8 
+33:2,7,9 34:23 42:13 43:17,18 17:1,12 54:13 direct 47:9 54:22 
+35:1,5,11,14 43:21,22,25 default 30:21 disagree 52:8 enforcement 
+37:7 38:8,24 44:3 45:5,9 defendants discretion 8:17 5:11 
+42:3 49:9 50:21 46:20 52:22 46:10 51:13 8:22 11:2,8,9 ensure 4:6 
+
+conviction 7:9,10 criminalize 15:6 Defender1:15 11:17,20 53:25 entail 18:23 
+7:18 17:21 45:14 defense 39:11,24 distinct 43:25 entered50:11 
+22:17 23:7 42:1 criminally 33:2 42:15 distinction 35:10 especially 8:8 
+42:6 46:9 48:19 39:23 40:1 deference 45:25 district 55:1 22:8 36:23 
+
+convictions 18:5 42:10 define 45:9 doing 6:25 17:17 ESQ 1:15,17 2:3 
+48:7,24 current 21:11 defined24:17 46:13,18 2:6,9 
+
+convinced14:4 30:15 36:9,11 27:24 49:8 domestic 42:2,4 essentially 25:23 
+core 7:8 47:2 37:16 39:6 50:5 defines 27:20 42:5 30:18 
+correct 17:18,25 29:9,11 doubtful 53:9,11 et 50:21 
+
+22:17 33:11,13 D defining 45:12 dozen47:8 everybody 28:16 
+46:22 d 3:1,21 10:21 definitely 32:13 drugs 45:13 38:13 42:3 
+
+counsel 22:12 11:10 22:3 definition36:25 D.C 1:8,19 51:13,15 
+24:8 48:5 54:3 25:23 26:10 delegate 53:2 exact 25:21 43:9 
+55:3 27:1 28:2 30:7 delegated26:25 E exactly 15:21 
+
+counselor 10:9 30:17 31:15 delegating 3:14 E 2:1 3:1,1 44:23 46:20 
+couple 31:1 34:20 36:13 52:21 earlier46:23 example 16:18 
+course 26:2 37:5 38:25 delegation 31:15 earliest 13:16 16:20 17:2 25:3 
+
+33:16,17 42:9 46:13 48:20 46:24 47:18,18 easier18:10 30:1 38:7 40:25 
+52:25 53:7 49:3 54:25 delegations easily 37:2,9 41:24 42:6,20 
+
+court 1:1,12 3:9 date 4:17 12:17 31:23 edge 8:13 45:3,3,10,23 
+24:13 41:24 12:18 20:15,16 denied24:4 effect 6:5 22:6,6 46:17 
+45:25 49:9 55:1 23:5 46:9 Department 1:18 47:2 examples 6:14 
+55:2 day 6:3 10:18 descriptions effective 4:19 31:1 45:7,23 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+59 
+
+exclude 10:20 felonies 48:14 10:19,20 14:4 16:1,19 25:15 house 42:7 48:17 
+11:10 felons 48:19 15:5 16:24 17:3 25:25 26:16 49:13 
+
+excuse 10:8 26:9 felony 43:22 18:11 20:17 28:18 29:3 hundreds 50:1 
+executive 6:14 fill 43:14,14 21:19 22:1,2 30:20 31:8 hypothetical 
+exempt 25:20 final 9:7 10:14 23:13,18 24:1 38:13 39:22,23 39:19,19 
+
+31:12,20 53:19 23:4,11 24:20 25:24 40:1 45:15 47:2 
+exercise 3:20 find 8:4 49:19,24 26:1,7,15,20 48:1 50:6 52:13 I 
+
+11:2 31:8 fine 52:18 26:23 27:1,6,10 good 32:20 42:20 idea 39:18,21 
+exercised11:9 firearm 42:1,7 27:12 28:4,13 51:20,21,21 51:25 
+
+45:8 42:11 30:7,11,14,19 government 5:25 identifies 37:12 
+exercising 26:8,9 first 9:4 13:9 31:7,9,11,18 7:20 12:7 15:24 illegal 10:11 
+
+26:9 37:14 40:9 49:1 31:24 34:17 16:2 22:4 54:8 Imagine 33:6 
+exist 14:10 52:4 35:7 36:14 54:12,16 immediately 
+existence 29:15 fit 20:23 37:9 44:14,22 45:4,8 Government's 27:7 34:11 
+existing 25:13,14 fix 43:14 46:2,3,5,7,18 16:21 35:24 immunize 38:3 
+expect 18:13 flexible 18:16,20 46:24,25 47:4,7 grant 17:13 impact 12:1 
+expired34:1 footnote 54:11 47:9,11,20,25 grasp7:8 imperfect 48:9 
+explicitly 48:18 foreclose 46:11 50:14,15,17,25 group 6:8 22:10 implement 6:19 
+exposed7:6 forget 44:15 51:1,6,7,8,11 29:3 21:22 23:16 
+extent 39:24 forms 42:24 52:1,1,3,7,17 guess 32:16 44:12 54:13 
+
+46:12 52:6 forth47:23 52:22 53:3,4 41:19 48:14 implementation 
+forward 4:15 54:2 50:12 3:11 16:17 
+
+F 25:15 30:20 General's 3:20 guidelines 10:2,4 25:16 26:2 
+face 27:23 31:15 45:15 47:3 48:1 7:15 10:6,11 21:21 23:14,15 51:23 
+
+37:1 51:12 50:6 52:13 13:9 15:12 24:18 implemented 
+facially 46:8 fulfill 38:18 22:14 guilty 7:5 17:1 21:16 37:8 
+fact 6:4 7:18 31:8 full 26:21 getting 37:18 implementing 
+
+34:13 36:5 37:5 fundamental 46:21 H 4:2 
+47:7 53:3,23 GINSBURG happen18:13 important 26:18 
+
+fail 7:4 8:1 further14:10 6:10 9:3,16,20 26:3 35:9 41:14 43:5 
+failing 35:12,14 24:7 46:6 12:14,22 13:2,8 happened45:17 51:15 54:19 
+failure 5:19 7:25 furtherance 13:12 18:22 happens 9:17 impossibility 
+
+15:6 39:13,14 31:25 19:5,14,18 20:2 heading 30:4 39:11,24 42:15 
+fairly 41:25 future 4:20 6:4 20:6 21:11 hear 3:3 inability 38:1 
+fallen49:20 22:7,11 47:25 23:19 43:2 51:5 helpful 35:25 incapable 50:15 
+far 33:19 34:2 give 30:18 31:1 helps 36:18 include 12:7 25:5 
+
+39:4 50:1 G 41:13,23 45:25 history 48:15 27:12 48:7,13 
+FCC 32:17,18 G 3:1 given25:19 Honor4:11,18 48:23 49:11,15 
+February 9:9,17 gaps 43:14 41:11 42:10,17 5:14 6:23 7:14 49:23 
+
+9:21 12:19 general 1:18 go 9:7 10:9 20:10 7:24 9:1,14 included3:13 
+13:10,19 3:14,24 5:11 32:25 34:1,20 10:3,17 12:13 5:20 
+
+Federal 1:15 6:3,11,13,17 38:7 41:16 13:21 19:10 incredibly 25:13 
+5:18 16:9,21 6:19,21,24 7:1 goal 21:7 50:23 21:17 23:9 51:14 
+25:2 41:2,17 7:12,22 8:5,7,9 goes 39:5 24:15 46:21 indicated25:18 
+43:3,22 8:16,24 9:4 going 4:15 6:16 53:24 indicates 49:14 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+60 
+
+indictment 7:3 13:17,18 27:2,9 28:5,6 32:1,6,14 34:8 limit 9:18 
+individual 33:7 invalidity 12:20 28:11,20,23 35:25 39:15,16 limited31:24 
+
+42:5 involve 9:15 29:1 30:3,22 39:25 43:7 45:6 37:17 
+individuals 5:21 involved9:10 31:2,10,17 32:2 45:13,19 46:19 lines 37:5 41:13 
+
+16:25 involving 32:3 32:9,10,17,24 48:8,15 linked36:6 
+ineffective 9:5 issue 12:5 30:7 32:25 33:11,13 knowing 39:14 little 31:3 45:24 
+information 30:11 53:3 33:16,21 34:23 knowledge 42:16 52:4 
+
+37:16 39:6 50:5 issued13:25 35:1,19,21,25 knows 42:16 long 34:3 38:21 
+50:6 21:19,21 23:13 36:3 38:6,17 longer16:15 
+
+initial 3:12 14:15 23:15 24:1,18 40:4,5,21,24 L look 22:3 25:12 
+14:18 15:3,13 51:11 41:7,9,15 43:2 label 48:20 27:16,22 51:24 
+18:6 19:24 20:3 issues 52:20 43:16,20 44:11 lack 28:1 53:6 
+20:25 21:2 35:6 44:13,18,24 language 27:25 looked41:24 
+35:13 38:9 41:3 J 45:2,11,19 32:24 47:8 looking 34:22 
+54:21 jail 33:18 38:24 46:16 47:10 49:10 44:1 
+
+initially 3:22 JOE 1:3 48:3,4 50:12 large 25:13 looks 53:24 
+20:22,24 21:5 joint 42:25 51:5 52:15 53:7 Laughter8:20 loopholes 43:15 
+21:25 23:25 judgment 8:18 53:13,17 54:3 law4:6,7 5:5 19:3 lot 8:19,21 22:7 
+29:5 33:25 jumped14:3 55:3 19:4 20:8,9,9 53:24 
+36:10 38:19,22 jurisdiction 20:11,13 34:7 lots 48:10 
+40:22 29:13 38:23 K 43:3,5,7 45:5,9 Lychner5:6,17 
+
+instance 6:21 jurisdictions Kagan 15:16 45:19 54:10 
+instructing 21:20 23:15 37:13,15 16:1,5 18:8,10 laws 16:8 18:18 M 
+
+intake 37:18 44:9 51:22 20:19 25:7,18 40:9 maintained 
+integrally 36:6 Justice 1:18 3:3 31:10,17 32:9 lawyer35:3 29:13 
+intend 49:14 3:8 4:9,14,21 36:3 48:3 53:17 41:19 making 17:4 
+intended15:1 4:25 5:9,20 Kagan's 17:15 leave 6:16 8:5,8 46:10 51:13 
+
+21:7 6:10 7:7,17 8:3 keep30:15 36:9 27:5 man20:21 
+intending 53:6 8:21 9:3,16,20 36:10 37:16 leaving 19:20 matter1:11 
+intends 49:11 9:25 10:8,22,25 39:5,6 20:10 32:24 27:13 31:15 
+intent 5:8,25 11:4,7,12,15 KENNEDY7:7 led40:8 55:6 
+interim7:13 10:6 11:18 12:1,9,11 7:17 left 4:5 6:13,14 MCI 32:13 
+
+10:14,19 11:25 12:14,22 13:2,8 kept 50:4 10:13 23:6 mean 7:13,25 8:8 
+12:2,4,6,15,20 13:12,23 14:2,7 kind 9:12 34:18 26:22 50:10 13:22 14:19,20 
+12:23 13:25 14:9,13,19,23 39:1 51:25 52:16 14:25 15:18 
+23:5,11 44:21 14:25 15:10,16 knew42:22,23 54:1 18:24 21:12 
+46:6 51:11 52:9 16:1,5 17:6,14 43:6 54:22 legal 35:5,7 22:20 23:24 
+
+interpretation 17:14,23 18:8 know4:14 5:23 legislation 18:17 31:10,20 32:4 
+53:18,19 18:10,22 19:5 6:15 8:3,10,12 legislative 48:15 32:15 40:11 
+
+interpreted 19:14,18 20:2,6 8:18 15:5,6 let's 10:10 22:12 45:12,22 50:17 
+24:20 20:19 21:11 16:7,16 18:18 34:1 meaning 32:3 
+
+interpreting 44:2 22:12,22,25 20:14 21:18,22 liability 10:7 means 14:20 
+interrelationship 23:3,10,19 24:8 22:9,24 23:12 liable 39:23 40:1 22:6 30:6 45:20 
+
+37:11 24:12,25 25:7 27:12,15 28:6 light 26:21 45:20,21 49:3 
+invalid 13:4,9,12 25:17,18 26:3 28:12 30:13 lights 26:23 meant 30:13 49:3 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+61 
+
+mechanisms name 32:13 3:16,17,25 4:4 17:12 25:5 52:18 54:16,17 
+48:10 38:10 50:22 4:7 6:3,5 16:7 39:13 54:23 
+
+meet 14:17 necessarily 31:8 16:13 21:20 original 19:21 period 9:9,15,22 
+MELISSA 1:17 32:23 48:6 23:14 24:21 outset 36:20 9:25 42:11 
+
+2:6 24:10 necessity 48:13 25:6,11,14,14 overlapped 50:19 52:10 
+mention 41:17 need25:25 29:25 27:14,15,23 15:20 periods 16:10 
+
+41:18 39:5 46:12 28:18 29:3,12 40:13 
+mentioned22:8 47:25 54:8 29:16,24 30:6 P permissive 47:18 
+metaphysical needed3:25 30:24 31:13,21 P 3:1 permutation 
+
+15:1 30:25 47:4 53:5 35:16 36:7,13 page 2:2 29:11 16:18 
+Michigan 34:7 needs 37:13,15 36:15,22 37:3,7 44:19 permutations 
+
+40:25,25 never16:13 41:1 37:7,19 38:2 pages 42:25 16:12 18:18 
+minutes 54:4 new3:25 17:21 39:3,9,20 40:14 parallel 8:12 person 5:1 7:3 
+misdemeanor 18:1,2,3 20:21 40:17 44:7,7 Pardon10:24 17:10 26:6,12 
+
+16:24 17:7,8,10 21:6,9 26:6 46:9,15 47:23 parole 21:14 33:22 34:1,6,8 
+22:9 42:1 43:23 non-registrants 49:4,15,20,24 23:22 36:24 38:8,24 
+
+missed13:6 48:11 49:25 50:2,8 part 13:7 22:9,19 40:6,25 
+20:21 normal 22:20 51:19,21 52:10 40:5 persons 7:19 
+
+missing 49:20,24 noted53:24 52:11 54:14 particular42:20 Pete's 8:9 
+52:10 notice 9:6,8 offense 4:25 6:7 particularly 17:4 Petitioner1:4,16 
+
+Missouri 18:24 12:11,12,16 6:16,20 24:18 34:16 2:4,10 3:7 54:6 
+18:25,25 19:6,8 13:13,25 14:3 26:4,13 30:1 passage 17:17 Petitioner's 
+19:19 20:1,8,9 notion40:17 53:2 33:12 42:4 49:9 passed22:15 26:19,20 27:24 
+20:10 22:16 number26:24 offenses 26:11 23:5 42:2,8 Pittsburgh1:16 
+29:20 35:18 28:17 37:2 39:3 41:23 48:17 place 4:6,12 15:4 
+42:23,24 43:3,5 39:10 43:24 office 15:12 passive 47:17 40:9 48:9,10,10 
+
+Missouri's 19:3 45:23 52:11 officer21:15 patchwork 21:8 52:4 
+modify 6:4 22:5 23:22 pay 48:16 please 3:9 24:13 
+
+31:19 32:3,15 O Oh 23:23 41:7 penalties 3:24 34:18 
+32:18 O 2:1 3:1 45:18 5:4,6,16 43:17 plenary 31:16 
+
+Monday 1:9 obligated8:1 Okay 12:22 14:7 43:19,21,22,24 point 5:4 13:16 
+money 17:13 11:1 15:10 19:18 44:4 18:3 21:24 
+months 25:15 obligation3:21 23:2 28:22,25 penalty 5:18,18 22:11 26:18 
+
+50:18 19:8 20:15 old 4:7 43:23,25 34:5,10 37:4 
+move 50:21 33:24 35:6,7 older17:20,21 pending 27:9 39:7 41:14 43:5 
+moved23:8 54:20 18:4,5 Pennsylvania 46:21,22 49:16 
+
+29:20 34:8 October1:9 once 54:9 1:16 20:10,11 49:17 53:22,23 
+42:22 offender17:9 opaque 53:4 29:20 42:23 54:1,7 
+
+moves 21:1 26:6 24:17 27:17,19 operative 47:2 people 7:12 9:11 pointed29:18 
+moving 19:1,7,15 27:20 29:10,12 opposed32:15 15:2,22 16:22 points 39:2 
+
+19:22 21:15 36:8 37:1,13,15 opposite 54:11 17:21 18:4 position 6:12 
+22:17 23:22 37:19 39:15 options 5:11 20:17 22:7,19 20:22 22:14 
+
+42:16 43:8,9 oral 1:11 2:2,5 25:20 26:11 34:21 54:9 
+N 49:8 3:6 24:10 28:21,23 29:2 possess 41:25 
+
+N 2:1,1 3:1 offenders 3:10 order7:2,12 33:4 37:22 possession 42:7 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+62 
+
+45:14 40:7,12 50:8,10 punishment 5:19 37:17 54:10,18 
+possible 21:10 probably 41:12 purpose 31:25 reason 17:23 registering 6:12 
+post 24:25 32:18 52:3 32:1 37:18 25:9 31:12 33:25 
+
+32:19 problem8:4 purposes 20:17 40:11,13 52:4 registers 54:13 
+post-enactment 15:11 18:4 33:3 43:6 52:16 registrants 54:15 
+
+24:22 36:7,13 50:12 pursue 55:2 reasonable 6:1 registration 3:12 
+36:22 problems 15:19 put 44:14 22:15,20 23:6 3:15 4:6 5:15 
+
+post-implemen... 18:14 26:1 p.m55:5 41:6,7,9 42:11 6:25 14:15,18 
+24:23 25:1 proceed25:16 42:17 15:3,13,14 
+
+power6:11 process 18:13 Q reasons 26:24 16:11 18:2,6 
+preamble 44:22 37:18 qualification 49:1 19:11,24 20:3 
+
+46:7 prohibited7:11 27:24 28:1 REBUTTAL 2:8 20:12,12,25 
+precise 39:20 proposition 48:5 qualified45:13 54:5 21:2,3,5,6,9,10 
+preconviction 48:12 question 10:9 recognize 51:13 22:21 30:5,25 
+
+48:13 prosecuted 15:3 16:2 17:15 Recognizing 31:4 33:25 
+present 40:7 35:12,14 42:10 19:11 21:18,23 3:10 34:22 35:6,13 
+presumably 32:4 prosecution 12:8 23:20 24:14 refer36:12 36:9,11 38:4,9 
+
+40:7 47:3 51:1 15:12 25:7 33:4 35:2 referring 36:6 39:5,16,25 40:9 
+52:8 prosecutor 8:9 35:3 38:20 40:5 regardless 46:9 40:13 41:1,4 
+
+pretty 28:16 8:10,11 46:17 48:3 regime 43:13 42:19,24 43:6 
+previous 17:9 prosecutorial questions 24:7 49:21 43:25 44:2,6 
+
+43:13 49:21 8:17,22 53:25 quickly 18:20 register3:22,22 47:1,24 49:4,5 
+pre-enactment prospectively 50:16,25 51:16 4:16 5:1,3,19 49:18 54:21,22 
+
+4:4 6:2 17:21 26:17 52:2 6:9 7:2,4,25 8:1 registrations 
+24:16 25:6,10 protecting 51:17 quite 6:18 31:16 8:2 10:12 15:7 15:20 18:5 
+25:12 27:13,14 51:18,18,20 35:16 37:2,2,9 15:8 16:14,16 registries 29:14 
+28:17 31:13,20 protections 39:8 41:22 49:10,22 16:21,25 17:16 43:8,10 
+36:15,25 37:3,6 42:14 44:5 53:5 18:9,24 20:23 registry 29:6,8,9 
+46:14 47:22 
+49:4,11,15,23 
+50:7 54:14 
+
+pre-existed29:7 
+43:9 
+
+pre-implement... 
+6:2 25:11,12 
+27:14 28:18 
+37:6 46:15 
+47:22 54:14 
+
+pre-SORNA 
+48:7,19,24 
+
+prior5:12 
+prison 3:19 14:16 
+
+16:16 28:19 
+33:23 34:4 
+36:25 38:11,14 
+
+provided39:8,10 
+44:5 
+
+provides 42:14 
+providing 43:16 
+provision 4:13 
+
+7:23 14:15 
+34:21 36:8 
+42:13 49:6 
+
+provisions 27:16 
+27:18,22 28:1 
+29:19 30:14 
+36:19 45:13 
+47:6,8 49:5 
+51:3 
+
+public 1:15 51:18 
+51:20 52:12 
+
+punish48:11 
+
+R 
+R 3:1 
+rates 32:18,19 
+reach 4:17 13:14 
+reached26:18 
+read 32:7 36:5 
+
+36:21,21 37:1 
+38:25 44:22,25 
+46:7 
+
+reading 5:7,24 
+6:1 9:2 22:4 
+38:7,12,15,18 
+51:12 
+
+really 7:4 9:1 
+11:21 21:22 
+25:9 28:2 37:12 
+
+20:24 21:5,25 
+22:10,19 23:17 
+23:25,25 24:21 
+25:2 26:7 28:3 
+28:7,8,10,12 
+30:9,15 33:24 
+34:7,14 35:6 
+36:8,10 37:14 
+37:16 38:11,22 
+38:25 39:13,14 
+40:6,22 41:3,5 
+42:17 49:19 
+50:20 54:23 
+
+registered18:25 
+19:19 29:4,5,24 
+33:18 35:17 
+38:19 39:4 
+
+29:10,12,12,25 
+40:19 49:20 
+50:1,2,4,10 
+
+regs 7:13 
+regulation 18:11 
+
+18:16 20:17 
+21:12,16 25:3 
+26:17 51:9 
+
+regulations 
+20:21 21:8,12 
+21:19 23:13 
+30:11 44:15 
+
+regulatory 18:13 
+reiterate 46:3 
+release 30:23,24 
+
+40:11,11 
+released3:18 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+63 
+
+14:16 16:16 Respondent 1:19 14:2,7 24:8 36:14 45:20,24 28:22,25 29:2 
+34:3 37:24 2:7 24:11 30:3,22 31:2 47:10,11,14 30:16,24 31:5 
+40:14,18,20 response 35:3 32:10 40:4 SCALIA 8:3,21 31:11,14,22 
+
+remain 52:10 rest 32:11 41:12 43:16,20 44:11 14:9,13 24:25 32:6,12,21 33:9 
+54:15 restate 45:24 44:13,18,24 32:2,17 35:21 33:12,14,20 
+
+remaining 4:12 result 26:18 44:3 45:2,11,19 35:25 53:7,13 34:19,25 35:9 
+54:4 resulted7:18 46:16 47:10 scope 46:1 35:23 36:2,4,17 
+
+remand 55:1 retroactive 4:10 52:15 54:3 55:3 scratch 43:12 38:15 39:2 
+remember32:13 24:16 52:19,20 rolls 29:25 40:19 second 29:3 40:10,23 41:5,8 
+repeal 6:5 22:6 52:23 49:21 50:1,3,4 section 3:13 41:11,21 43:4 
+
+32:4 retroactively 50:10 31:19 33:1,3 43:18,21 44:12 
+require 4:4 27:4 rule 7:16 9:7,7 44:22 44:17,20,25 
+required6:9 Retroactivity 9:20,21 10:6,6 sections 36:21 45:6,18,22 
+
+27:17 29:22 48:20 10:11,14,19 38:12 46:19 47:14 
+39:12,22 42:17 retrospectively 11:25 12:4,6,6 see 40:21 52:20 48:25 50:24 
+42:22 44:8,9 26:17 12:15,18,19,20 52:24 53:6 51:10 52:24 
+
+requirement Reynolds 1:3 3:4 12:23 13:3,5,9 seeking 7:15 53:12,15,21 
+3:13 4:15 5:16 3:17,21,25 12:7 13:10,15,16,17 sees 47:25 shortly 26:5 
+7:1 19:6 21:24 13:1 18:7 20:18 13:19,20,25 Senate 48:19 shy 51:4 
+30:9,14 31:4,19 29:4,16,20 14:5,10 24:2,2 49:2,7,13 side 8:14 
+32:18,19 39:16 35:10,11,16 30:21 44:21 sentence 37:14 signed42:24 
+39:17,25 40:16 37:19 39:3 46:6 51:11 sentenced3:18 significant 47:15 
+42:19 43:7 44:1 42:20,21 55:2 rules 10:14 12:2 33:7 53:5 
+44:3 46:4 Reynolds's 21:8 23:4,5,11 sentences 34:16 similar 32:22 
+
+requirements 15:23 54:9 30:8 35:8 served16:15,22 simply 6:1 8:15 
+3:16 16:11 18:3 re-arrested rush51:8 serves 37:17 9:9 18:12,23 
+19:24,25 30:4,5 16:24 set 30:20,21 38:2 21:14,20 23:21 
+30:6,12,20 31:1 re-register17:11 S 47:23 26:22 29:17 
+34:25 35:13,15 54:8,18 S 2:1 3:1 sets 37:14 32:18 37:21 
+38:3,5 39:10 rid 42:11 safety 25:23 sex 5:22 16:7,13 single 36:24 
+41:12 44:6 47:1 right 9:19 10:2 30:18,22 24:17,18 25:14 situation 6:6 
+47:13,24 49:4 12:12,20,21 sailing 8:13 25:14 26:4 15:23 21:14 
+49:18 13:11,21 14:1,6 sake 8:9 27:17,19,20,23 26:4 
+
+requires 29:19 14:8,11,13,22 sanctions 39:14 29:10,11,12,24 six 27:18,22 
+29:21 42:15 14:23 15:9,10 saying 5:13 7:16 30:1,5,24 33:12 small 38:2 
+
+requiring 24:21 18:1 19:2,16,17 12:5 13:17 15:4 36:8 39:19 41:1 SMART 10:1,3 
+reserve 24:6 22:22 26:24 17:16 24:3 28:2 43:8,9 44:7,7 Solicitor 1:17 
+respect 17:2 31:4 33:6 35:11 30:8,17 32:12 46:8 49:8,9,20 10:10 22:13 
+
+29:23 30:19 36:18,23 38:17 38:7 40:24 49:24 51:19,21 solve 18:14 
+32:22 37:11 40:10 44:16,24 46:13 52:18,19 52:10,11 54:14 somebody 21:13 
+41:22 42:12 53:20 says 6:15 7:20 share 32:10 24:17 27:20 
+49:22 50:7 risk 52:13 8:7,24 9:2 Sherry 1:17 2:6 29:21 38:20 
+
+respectfully ROBERTS 3:3 15:15 21:16 24:9,10,12 25:1 42:22 
+19:12 4:9,14,21,25 22:3 28:4 30:10 25:22 26:14 somewhat 46:23 
+
+respond 18:20 12:9,11 13:23 35:19 36:8,9,10 27:8,11 28:9,14 SORNA 3:11,19 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+64 
+
+3:22,23 4:2,3 specify 32:15,23 stayed50:4 suggesting 36:3 19:21 20:9,19 
+5:25 6:1,5,7,25 36:15 47:12,16 step46:5 suggests 47:19 22:16 23:21 
+8:2 10:1,13 47:17,25 49:6 stick 20:25 47:21 52:2 29:21 34:17 
+11:1 12:25 specifying 30:11 stitch 43:15 suit 11:19 35:22 42:22 
+14:10,16,20 spoken9:4 stop 17:17 sunset 4:13 44:7 
+15:8,14 16:17 stand 49:18 stopped17:15 suppose 26:15 telling 18:23,25 
+17:2,13 19:6,12 standing 11:24 stops 38:10 32:21 21:14,21 23:14 
+19:12,15,15,18 11:25 12:5 24:3 straightforward supposed15:7 23:15 42:24 
+19:20,25 20:4 start 10:13 18:2 45:16 28:12 34:13 tells 44:8 
+20:12,14 21:3,4 24:14 25:11 strange 8:4,4,25 41:3,16,18 term 33:8 
+21:9,22,25 22:5 27:18 34:19 strengthen53:8 Supreme 1:1,12 terms 48:20 53:4 
+22:15 23:4,16 starting 43:12,12 53:13,16 sure 27:3 28:14 text 5:7,24 9:2 
+23:17,25 24:17 48:4,12 53:22 student 38:10 49:25 50:3,9 15:15 
+25:4 26:5,10 53:23,25 subchapter suspend 30:25 Thank 24:8 
+27:4 28:8,10,19 State 15:13 16:8 30:12 32:5 33:21 54:3 55:3 
+29:4,7,7,22,25 17:1,11 19:1,4 subject 3:23 10:7 swiftly 51:6 theoretical 31:14 
+30:2 31:13 19:7,9,11,20 39:13 switch 26:21 theory 31:23 
+36:24 43:5,9,10 19:21,22 20:8 submitted55:4,6 switched25:4 44:11,13 
+43:11 44:16 20:13 21:3,15 subsection 3:21 system4:1 16:23 thing 23:20 32:5 
+47:6 48:17 22:17,21 23:7 10:21 11:10 17:9,22 18:2,5 36:19 39:1,12 
+49:23 50:3,8 26:6 29:6 34:7 25:22 26:10 29:6 35:17 41:1 54:19 
+51:3,7,9,23 37:8 43:15 48:9 27:1 28:2 29:10 37:19,20,23 things 30:10 35:4 
+54:13,18,20,20 54:10,12,21 30:7 34:20 48:8 54:15 44:21 45:14 
+
+SORNA's 3:12 States 1:1,6,12 35:13,15,19 systems 43:15 52:7 
+3:15,23 12:17 3:4 16:8,14 36:23 37:1,5,9 48:9 think 4:21 8:13 
+22:6 37:8 21:21 24:21,23 37:12,17 38:1 15:16 16:12 
+
+SORNA-comp... 25:2,16 29:15 46:13 47:13 T 18:15,17 26:14 
+29:9 43:24 44:8 49:3 54:24,24 T 2:1,1 26:18,23 27:15 
+
+sorry 4:23 13:6 State's 18:18,19 subsections take 11:1,3,8,16 30:16 31:5,5,6 
+23:23 35:23 statue 22:4 37:10 47:23 15:3 16:19 31:14,16,23 
+
+sort 4:12 8:16 status 41:23 subsequent 18:22 38:17 32:13,23 36:17 
+11:19 16:20 statute 7:11,20 24:19 40:25 41:13 36:22 37:12 
+31:3 39:1 10:18 11:14 subset 29:24 47:9 49:5 52:9 44:19 45:10,20 
+
+Sotomayor 5:9 12:3 15:2,17,22 substantial 51:23 takes 18:16 45:20,22,24 
+5:20 10:8,22,25 18:12 22:2 26:5 substantially talk 29:3,8 37:5 46:8,15,20 
+11:4,7,12,15 29:8 33:3,8,14 17:1,12 21:22 talking 9:8 10:2 47:15,19 48:25 
+11:18 12:1 17:6 38:16 41:22 23:16 54:13 19:14 28:15,16 49:2,2,12,22 
+17:14,23 22:12 42:2,8,9 43:3 substituting 28:20 29:1 31:3 51:12,14,24 
+22:22,25 23:3 44:23 45:1,24 15:13 32:7,14 33:1 52:2,6,16 53:1 
+23:10 28:6,11 46:7 47:2,20,21 subtle 53:4 35:10 36:1 39:8 53:2,5,21 
+28:20,23 29:1 52:22 53:20 suffice 19:11 45:12,15 49:7 thinks 8:10,11 
+32:25 48:4 54:20 sufficient 23:21 51:16,17 thought 7:8 
+50:12 statutes 41:24 23:24 talks 37:6 16:19 17:14 
+
+speak 27:16 statute's 20:15 suggest 47:24 technical 6:19 25:24 31:7 
+specifies 23:18 20:16 46:3 48:22 tell 11:5 19:6,8 34:23 35:1,8 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+65 
+
+48:6 51:7 umbrella 36:7 violating 33:2 51:16,17 15,112 25:2 
+thousand 50:2 unable 3:12 violation 33:24 When's 41:3 16 43:1 
+threat 40:8 14:14 39:9 34:10 42:9 44:3 willing 27:5 16911 29:10 
+three 34:16 54:23 violence 42:2,4,6 wonder34:15 16913 30:5 
+
+36:12 37:14 uncertainty virtue 28:2 word 32:15 44:18 16913(d) 3:13 
+time 4:4 9:5,15 51:19 words 38:6 39:15 19 21:12 
+
+16:15,23 18:17 unconstitution... W work 51:22 53:17 1907 9:9 
+22:15,20 23:6 8:14 walk 36:18 worried15:19 1908 9:7,10,12 
+24:6 26:15 underlying 31:4 want 11:21 32:10 16:6 1990 42:6 
+33:25 36:25 understand 13:4 35:21 40:18,19 wouldn't 53:10 1994 5:1,5,15 
+38:22 40:14 13:24 22:13 44:10 49:16,23 53:14 1996 4:24 5:13 
+41:6,7,10 42:11 27:6 46:10 52:17 53:20 written15:17 5:16,22 42:3,8 
+42:18 50:8,19 understanding wanted18:1 27:3 46:8 47:21 
+52:9 10:11 27:11 27:12 31:12,20 wrong 7:13 46:22 2 
+
+timing 35:15 uniform 48:8 43:13,13 46:25 2 5:5 
+37:23 38:3 39:9 unique 41:22 48:8,13,23 X 20 42:8 
+39:21 40:16 42:12 49:24,25 50:3,9 x 1:2,7 2006 43:11 
+41:11 
+
+today 23:4 
+told 23:7 47:3 
+
+51:1 
+tomorrow38:11 
+Touby 45:10 
+track 40:19 
+travel 7:4,25,25 
+
+10:12 22:16 
+traveled9:23 
+
+United1:1,6,12 
+3:4 
+
+unlawful 41:25 
+unsure 48:23 
+unusual 46:23 
+update 21:1,9 
+
+50:5 
+updated21:3 
+
+39:6 
+use 25:25 
+
+50:23,25 
+wants 35:4 
+Washington 1:8 
+
+1:18 
+wasn't 22:23 
+
+25:23 27:2 30:2 
+43:11,12 51:4 
+52:3 
+
+way 15:17,19 
+25:21 26:25 
+
+Y 
+year 3:19 4:19 
+
+4:22 14:16 33:7 
+33:9 38:8,24 
+50:18 
+
+years 4:6,12 5:5 
+25:15 33:19 
+34:3 38:8,25 
+40:6 42:8 
+
+2007 10:5,14 
+24:2 
+
+2008 9:15 10:5 
+10:15 
+
+2011 1:9 
+2250 14:20 15:5 
+
+33:2,19 34:10 
+34:14,20,21 
+35:2,5 39:8,23 
+40:2 42:14 
+
+10:5 23:6 35:18 
+treat 38:20,23 
+trigger40:12 
+trouble 8:19 
+true 32:8 
+try 41:23 51:6,8 
+trying 11:24,24 
+
+uses 49:10 
+U.S.C 30:5 
+
+V 
+v 1:5 3:4 
+valid 3:19 10:4 
+
+13:20 20:16 
+
+27:19 36:14 
+ways 51:25 
+weeds 31:3 
+well-suited17:4 
+went 46:5,5 
+weren't 43:17 
+Wetterling 4:5 
+
+0 
+07 9:17,21,23 
+
+12:19 13:10,19 
+08 9:18,22 13:20 
+
+21:12 
+
+1 
+
+2250(b) 39:11 
+24 2:7 
+
+3 
+3 1:9 2:4 4:6,12 
+
+35:20 41:13,15 
+41:19 54:4 
+
+39:1 42:21 
+51:22 
+
+turn 26:23 
+two 38:12 39:2 
+
+48:17 49:1 
+51:25 
+
+type 17:2 25:3 
+40:8 
+
+U 
+ultimately 50:18 
+
+24:1,3 
+valve 25:23 
+
+30:18,22 
+varied16:9 
+various 16:8 
+verb 49:12 
+view25:22 26:19 
+
+26:20 27:25 
+30:17 33:14 
+40:21 
+
+violated33:19 
+
+4:10,11,16,19 
+4:23 5:2,5,12 
+5:14,17 16:10 
+24:15,19,20 
+43:23 48:9 
+
+We'll 3:3 
+we're 6:16 7:16 
+
+10:2 11:12,24 
+11:24 12:5 24:3 
+34:21 35:10 
+38:20 39:7 44:2 
+
+1-year 5:19 
+10 34:3 
+10a 29:11 
+10-6549 1:4 3:4 
+100,000 49:19 
+
+52:10 
+11:06 1:13 3:2 
+12 44:19 54:11 
+12(a) 35:24 
+12:05 55:5 
+15 34:3 
+
+4 
+4 33:19 38:8,25 
+
+40:6 
+42 30:4 
+
+5 
+5-year 33:8 
+50 29:15 
+54 2:10 
+
+6 
+
+Alderson Reporting Company 
+
+
+
+66 
+Official 
+
+61 24:24 25:2
+ 
+
+9
+ 
+9 29:10 
+922(g)(9) 41:25 
+
+Alderson Reporting Company 
+
+

@@ -1,0 +1,4970 @@
+
+              
+
+            
+
+         
+
+                       
+
+                   
+
+5
+
+10
+
+ 
+
+15
+
+20
+
+ 
+
+25
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 GENESIS HEALTHCARE : 
+
+4 CORPORATION, ET AL., : 
+
+Petitioners : No. 11-1059 
+
+6  v. : 
+
+7 LAURA SYMCZYK : 
+
+8 - - - - - - - - - - - - - - - - - x 
+
+9  Washington, D.C. 
+
+Monday, December 3, 2012 
+
+11 
+
+12  The above-entitled matter came on for oral 
+
+13 argument before the Supreme Court of the United States 
+
+14 at 10:04 a.m. 
+
+APPEARANCES: 
+
+16 RONALD MANN, ESQ., New York, New York; on behalf of 
+
+17  Petitioners. 
+
+18 NEAL KUMAR KATYAL, ESQ., Washington, D.C.; on behalf of 
+
+19  Respondent. 
+
+ANTHONY A. YANG, ESQ., Assistant to the Solicitor 
+
+21  General, Department of Justice, Washington, D.C.; for 
+
+22  United States, as amicus curiae, supporting 
+
+23  Respondent. 
+
+24 
+
+1
+ 
+Alderson Reporting Company 
+
+
+
+                                
+
+                   
+
+                    
+
+           
+
+                   
+
+5
+
+10
+
+15  
+
+ 
+
+ 
+
+ 
+
+ 
+
+20  
+
+ 
+
+ 
+
+ 
+
+ 
+
+25
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF PAGE 
+
+3 RONALD MANN, ESQ. 
+
+4  On behalf of the Petitioners 3 
+
+ORAL ARGUMENT OF 
+
+6 NEAL KUMAR KATYAL, ESQ. 
+
+7  On behalf of the Respondent 27 
+
+8 ORAL ARGUMENT OF 
+
+9 ANTHONY A. YANG, ESQ. 
+
+For United States, as amicus curiae, 45 
+
+11  supporting Respondent 
+
+12 REBUTTAL ARGUMENT OF 
+
+13 RONALD MANN, ESQ. 
+
+14  On behalf of the Petitioners 56 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+2
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (10:04 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+4 first this morning in Case 11-1059, Genesis HealthCare 
+
+v. Symczyk. 
+
+6  Mr. Mann. 
+
+7  ORAL ARGUMENT OF RONALD MANN 
+
+8  ON BEHALF OF THE PETITIONERS 
+
+9  MR. MANN: Thank you, Mr. Chief Justice, and 
+
+may it please the Court: 
+
+11  The decision of the court of appeals 
+
+12 deprives the Defendant of the ability to free itself 
+
+13 from litigation, even when it is willing to pay complete 
+
+14 relief to the sole Plaintiff; thus, as long as the 
+
+Plaintiff refuses to accept full and complete payment, a 
+
+16 putative collective action must continue onward to 
+
+17 certification. 
+
+18  JUSTICE GINSBURG: Did that offer include 
+
+19 admission of liability? 
+
+Or was it just that it was going to pay the 
+
+21 amount of damages requested? 
+
+22  MR. MANN: That's a good question, 
+
+23 Justice Ginsburg. Because it was an offer of judgment, 
+
+24 if the offer had been accepted, the result would have 
+
+been a judgment by the Federal court imposing liability 
+
+3
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 under the statute, under the Fair Labor Standards Act, 
+
+2 on the Defendant, and requiring the Defendant to pay 
+
+3 full and complete relief, including costs and attorneys' 
+
+4 fees, to the Plaintiffs. So there would have been a 
+
+judgment of the Federal court imposing liability under 
+
+6 the statute. 
+
+7  JUSTICE GINSBURG: So if -- if there were 
+
+8 judgment of liability, then that would be preclusive for 
+
+9 all other people similarly situated? 
+
+MR. MANN: Well, I think there is rules of 
+
+11 issuing claim conclusion that would flow from the 
+
+12 judgment, and it would have --
+
+13  JUSTICE GINSBURG: Well, that -- so the next 
+
+14 case is another employee who claims uncompensated work 
+
+time, and that's brought on behalf of similarly situated 
+
+16 people. Then that next case, the employer would be --
+
+17 would be subject to summary judgment because the 
+
+18 liability has been established. 
+
+19  MR. MANN: Well, there would be a variety of 
+
+fact questions that would have to be resolved to 
+
+21 determine the extent of the preclusion from the first 
+
+22 judgment. But the rules of issue and claim preclusion 
+
+23 would apply. And to the extent those rules call for 
+
+24 matters that were comprehended within the judgment to 
+
+bind, in a later case, they would. 
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  I think the way that I would put it, looking 
+
+2 back to Justice Kagan's opinion in the Smith v. Bayer 
+
+3 case, it's common for there to be a preclusive effect of 
+
+4 a judgment in one case against people that are not 
+
+parties. And this would have been a judgment imposing 
+
+6 liability under the Fair Labor Standards Act, based on 
+
+7 the allegations made in the complaint. And that's 
+
+8 what --
+
+9  JUSTICE SOTOMAYOR: Counsel, so what am I to 
+
+make of your transmittal letter which says, in the offer 
+
+11 itself, that -- JA 5556, that Petitioners make clear 
+
+12 that the offer of judgment, quote, "was not to be 
+
+13 construed as an admission that Petitioners are liable in 
+
+14 this action or that Respondent has suffered any damage"? 
+
+What -- what are we to make of that --
+
+16  MR. MANN: Well, let me --
+
+17  JUSTICE SOTOMAYOR: -- when you're now 
+
+18 claiming that you would have accepted a judgment of 
+
+19 liability? 
+
+MR. MANN: Well, I don't think that you have 
+
+21 to rely on my statements here, to say that we would have 
+
+22 accepted judgment of liability at that time. The -- the 
+
+23 offer itself has a formal offer of judgment on a form 
+
+24 promulgated by the trial court. 
+
+The offer itself is not an admission of 
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 liability. The offer itself is not a judgment against 
+
+2 the Defendant. The offer is a statement that, under the 
+
+3 ordinary rules for Rule 68, if -- if they accept the 
+
+4 offer, there would be a judgment against our client. 
+
+JUSTICE SOTOMAYOR: How did you pick the 
+
+6 $7,500? 
+
+7  MR. MANN: That's detailed later in the 
+
+8 Joint Appendix, at pages 77 to 79. But, essentially, 
+
+9 what our client did is they took the amount of time for 
+
+breaks during the Respondent's period of employment and 
+
+11 offered her full wages for all of the break time, so 
+
+12 that whatever amount of break time was appropriately 
+
+13 charged for her --
+
+14  JUSTICE SOTOMAYOR: I see in the -- in the 
+
+FLSA, that it also requires an amount for liquidated 
+
+16 damages. Did you include that amount as well? 
+
+17  MR. MANN: Yes, Your Honor -- yes, Justice 
+
+18 Sotomayor. 
+
+19  CHIEF JUSTICE ROBERTS: Counsel, what if the 
+
+district court -- this proceeding -- you filed the 
+
+21 suggestion of -- of mootness, whatever, and the judge 
+
+22 says, okay, I have this suggestion of mootness, I also 
+
+23 want to address the certification issue, the mootness 
+
+24 argument is scheduled for three months down the road, 
+
+the certification issue for two months down the road; 
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 isn't this just a question of what order the district 
+
+2 court wants to address these two issues? 
+
+3  MR. MANN: Okay. So there is two things I 
+
+4 want to say about that. The first one is to talk about 
+
+what happened in this particular case, which is the case 
+
+6 that's before the Court; and, the second is to discuss 
+
+7 the practical consequences of what could have happened 
+
+8 in some other case. 
+
+9  So what happened in this case is that it was 
+
+uncontested that the offer provided complete relief. 
+
+11 And so the Respondent suffered a judgment to be entered 
+
+12 against her because of the conceded acts of the offer. 
+
+13 And at the time that judgment was entered, nothing had 
+
+14 been done about certification. At the time the offer 
+
+was entered -- had made -- nothing had been done about 
+
+16 certification. 
+
+17  So what we --
+
+18  JUSTICE GINSBURG: But it was not possible 
+
+19 for anything to be done about the certification because 
+
+you moved immediately. The complaint is filed, and then 
+
+21 you moved -- then you immediately offered the judgment 
+
+22 that you did. 
+
+23  MR. MANN: Well, I think there is two 
+
+24 questions to unpack here that -- that are implicit in 
+
+both what the Chief Justice is commenting on and what 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 you're commenting on, Justice Ginsburg. 
+
+2  One is the question that was presented in 
+
+3 the petition, which is: What is the effect on a 
+
+4 collective action if, before certification or any motion 
+
+for collective process has been determined, the sole 
+
+6 plaintiff loses the case. 
+
+7  The second one is: How do you deal with the 
+
+8 housekeeping issues of terminating the interest of a 
+
+9 plaintiff when there's no longer controversy between the 
+
+plaintiff and the defendant? 
+
+11  And so --
+
+12  JUSTICE KAGAN: Well, it seems as though 
+
+13 it's more than a housekeeping issue that's involved here 
+
+14 because -- I mean, I realize that you have an argument 
+
+about what happens when the plaintiff's individual 
+
+16 claims have been fully satisfied, but the plaintiff 
+
+17 continues to want to represent other individuals. 
+
+18  But, here, the plaintiff's individual claims 
+
+19 had not been fully satisfied. She walked away with 
+
+nothing. She walked away with no judgment, and she 
+
+21 walked away with no $7,500. And the question is: How 
+
+22 can it possibly be that her individual claim was moot? 
+
+23  MR. MANN: Okay. So I think there is two --
+
+24 again, there's two things to say. One is: We view it 
+
+as a housekeeping question because it seems to us clear 
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that, if the defendant no longer wishes to contest 
+
+2 liability and formally offers to pay all of the relief 
+
+3 that the person could possibly win in any formal 
+
+4 litigation, it has to be the case that the individual's 
+
+interest is moot. 
+
+6  Now, it might be that the appropriate 
+
+7 response is, as is consistent with the Third Circuit, is 
+
+8 that the district court should just dismiss the case 
+
+9 because, if the person won't take yes for an answer, the 
+
+Federal court doesn't need anything further --
+
+11  JUSTICE GINSBURG: But there is nothing in 
+
+12 Rule 68 -- you're basing the -- your position on a rule 
+
+13 that provides as the only sanction, if the plaintiff 
+
+14 continues and gets less than the offer of proof, then 
+
+the plaintiff has to pay the costs. Rule 68 doesn't say 
+
+16 anything about dismissing suits. 
+
+17  MR. MANN: Well, I don't think our position 
+
+18 depends on Rule 68 at all for the mootness. Our 
+
+19 position for the mootness is that, if there's no further 
+
+controversy about the relief that is created by the 
+
+21 cause of action, there's nothing more for the trial 
+
+22 court to do --
+
+23  JUSTICE KENNEDY: Well, let me ask you 
+
+24 this --
+
+CHIEF JUSTICE ROBERTS: Justice Kennedy. 
+
+9
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE KENNEDY: Let me ask you just this 
+
+2 question -- just tell me as a matter of common practice, 
+
+3 do district courts enter judgments against plaintiffs 
+
+4 routinely when a full offer of settlement has been made 
+
+and the defendant just is silent? I mean, does this 
+
+
+6 happen? 
+
+
+7  I just can't remember seeing a -- but 
+
+
+8 this --
+
+
+9  MR. MANN: There's --
+
+
+JUSTICE KENNEDY: It may -- it may be that 
+
+11 it's common practice that, if the plaintiff doesn't 
+
+12 reply and there's an offer that's filed with the court, 
+
+13 the court says, I haven't heard anything, I'm going to 
+
+14 enter judgment. 
+
+MR. MANN: I think -- I think that the 
+
+16 courts of appeals have taken a variety of approaches to 
+
+17 what I'm characterizing as a housekeeping question of, 
+
+18 if there's no further controversy between the plaintiff 
+
+19 and the defendant, how do we move the case off our 
+
+docket? One approach, which is followed by some of the 
+
+21 courts of appeals, is that you enter a judgment against 
+
+22 the plaintiff, whether they like it or not. 
+
+23  JUSTICE KENNEDY: As a matter of 
+
+24 housekeeping, you could --
+
+MR. MANN: In favor of the plaintiff -- you 
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 enter a judgment in favor of the plaintiff -- that needs 
+
+2 to be clear -- in favor of the plaintiff --
+
+3  JUSTICE KENNEDY: Right. 
+
+4  MR. MANN: Whether they want a judgment or 
+
+not, you say, here's everything you asked for; you must 
+
+6 take it. 
+
+7  Another approach is to say, if they're 
+
+8 willing to give you everything to which you're entitled 
+
+9 and you won't take it, then there's no reason why we 
+
+should continue to adjudicate your case because there's 
+
+11 not really a controversy. Our --
+
+12  JUSTICE KAGAN: Well, here's what -- here is 
+
+13 what the Court said last in Knox last year, when it 
+
+14 said, "What makes a case moot?" It says, "A case 
+
+becomes moot when it's impossible for a court to grant 
+
+16 any effectual relief whatever to the prevailing party." 
+
+17  Now, here, the judge says, okay, is this 
+
+18 case moot? Well, it's not moot because I could give --
+
+19 at the very least, I could give the plaintiff $7500, 
+
+but, I didn't give the plaintiff $7500, so she still has 
+
+21 her claim for at least $7500, regardless of the 
+
+22 collective side of this action. I mean, she hasn't been 
+
+23 satisfied. 
+
+24  MR. MANN: Okay. So let -- let me respond 
+
+to that. I think Knox flows naturally from Friends of 
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 the Earth, and I think they're both saying exactly the 
+
+2 same thing. And the -- the -- what's going on in those 
+
+3 cases -- and I suppose in the Nike case from last 
+
+4 month -- is this general problem of a defendant is faced 
+
+with a piece of litigation, and they no longer wish to 
+
+6 contest it. 
+
+7  If the action seeks prospective relief, it's 
+
+8 quite difficult, once the case has begun, for the 
+
+9 defendant to convince the court that they are going to 
+
+change their conduct in a way that moots the claim for 
+
+11 prospective relief. And this Court's had a series of 
+
+12 cases and has often not been convinced of that. 
+
+13  In a case that only seeks retrospective 
+
+14 relief, it's somewhat easier to convince the court of 
+
+that. One way would be to formally offer to pay 
+
+16 everything the person could get. 
+
+17  What happened in this case and what's before 
+
+18 the Court is simply if that happens. So what happened 
+
+19 here is there was an offer that was conceded to be 
+
+adequate, and the plaintiff suffered a judgment to be 
+
+21 entered against her on the premise that she had no 
+
+22 further claim. 
+
+23  And the question is, if that interest is 
+
+24 gone, which has been conceded at all stages of the 
+
+litigation, until the bottom side briefing on the merits 
+
+12
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 in this Court, what's the consequences for the 
+
+2 collective action? 
+
+3  And so what the parties have litigated 
+
+4 about -- because this was conceded repeatedly over the 
+
+course of several years, is what happens when that 
+
+6 interest is moot. 
+
+7  Now, we believe that it is correct that a 
+
+8 defendant, faced with litigation that it does not wish 
+
+9 to contest, can terminate the litigation. 
+
+JUSTICE GINSBURG: What do you do when --
+
+11 when you have a governing statute that says that an 
+
+12 employee may bring suit for and in behalf of himself and 
+
+13 other employees similarly situated? Can you use a mere 
+
+14 rule, Rule 68, to cut out what the statute authors --
+
+authorizes; that is, that the employee can seek relief 
+
+16 on behalf of himself and others similarly situated? 
+
+17  Mustn't you give a chance for the statutory 
+
+18 provision to work, which you didn't. By filing 
+
+19 immediately, you didn't allow the normal process of 
+
+inviting opt-ins to occur. 
+
+21  MR. MANN: I think that the language of the 
+
+22 statute, Section 216(b) of the Fair Labor Standards Act, 
+
+23 provides compelling guidance for the case that the court 
+
+24 of appeals ignored. 
+
+In this case, because it's under the Fair 
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Labor Standards Act, the very paragraph you're looking 
+
+2 at, Congress has opined -- and I'll say it's only an 
+
+3 opinion because the lower courts ignored it. But 
+
+4 Congress at least has opined as to how you tell when 
+
+people that are not yet before the court can be treated 
+
+6 as relevant. 
+
+7  And the answer is the non-party plaintiffs 
+
+8 cannot be part of the case until they formally opt-in --
+
+9  JUSTICE GINSBURG: Yes, but you have to give 
+
+the plaintiff an opportunity. That --
+
+11  MR. MANN: The -- the statute does not say, 
+
+12 if a plaintiff files a case and alleges that other 
+
+13 people are similarly situated, the case shall not be 
+
+14 dismissed until the court has proceeded to conclusively 
+
+determine the propriety of certification. It doesn't 
+
+16 say that. 
+
+17  JUSTICE GINSBURG: Suppose -- suppose the 
+
+18 plaintiff had simultaneously, with the filing of the 
+
+19 complaint, moved to have it first preliminarily 
+
+certified as on behalf of other employees situated; so, 
+
+21 instead of having the complaint, which was labelled a 
+
+22 collective complaint, separate from a motion for 
+
+23 certification, they came together, that the plaintiff 
+
+24 filed a complaint and immediately filed a motion for 
+
+certification and a request to discover the names of 
+
+14
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 other people similarly situated. 
+
+2  MR. MANN: I think the answer to that would 
+
+3 flow directly from this Court's decision in Geraghty. 
+
+4 The first question would be: At the time that the 
+
+defendant's interest becomes moot, who is a party to the 
+
+6 case? And the answer would be: Well, there's just this 
+
+7 one person. 
+
+8  The next question would be: Has the 
+
+9 district court ruled on certification in a way that 
+
+could have erroneously caused the mootness? Well, the 
+
+11 answer would be, no, because it became moot not because 
+
+12 of an erroneous district court ruling on certification, 
+
+13 which was the situation in Geraghty --
+
+14  JUSTICE GINSBURG: So your answer is it 
+
+wouldn't make any difference? 
+
+16  MR. MANN: It wouldn't make any difference. 
+
+17 What Geraghty turns on, and -- and I encourage you to 
+
+18 look at the portion of footnote 11 that -- the last two 
+
+19 paragraphs of that footnote that goes over onto page 
+
+407, the court emphasizes -- all we're saying here, all 
+
+21 we're saying here is that, if the basis of mootness is 
+
+22 an error by the district court and if we later ascertain 
+
+23 that error, we will not only correct the error about 
+
+24 certification, but we will forgive the mootness that 
+
+flowed from that error. 
+
+15
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  In this court case, there's no suggestion 
+
+
+2 that the district court error caused mootness to occur. 
+
+
+3  CHIEF JUSTICE ROBERTS: Counsel, I don't 
+
+
+4 know that you've answered my question sometime ago, but 
+
+
+what -- if the judge can simply order the two 
+
+6 determinations in a way that certification is addressed 
+
+7 before mootness, does that take care of your problem? 
+
+8  Obviously, if you grant certification, there 
+
+9 is an ongoing controversy. And under Roper and 
+
+Geraghty, if you deny certification, the relation-back 
+
+11 doctrine applies. 
+
+12  MR. MANN: I think that -- that those cases 
+
+13 provide a way to analyze that situation. So one 
+
+14 possibility is that the district judge grants 
+
+certification at some moment after the complaint is filed, 
+
+16 and then later in time, the sole person who is in the 
+
+17 case at that time loses their interest in the case for 
+
+18 one reason or another. But --
+
+19  CHIEF JUSTICE ROBERTS: Well, there's no 
+
+doubt that --
+
+21  JUSTICE SOTOMAYOR: Counsel, I have --
+
+22  CHIEF JUSTICE ROBERTS: I'm sorry. There's 
+
+23 no doubt that that -- in that situation, the case goes 
+
+24 forward, right? 
+
+MR. MANN: There is doubt in that case. And 
+
+16
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 we would suggest that it's clear that it doesn't go 
+
+2 forward. 
+
+3  Under the Fair Labor Standards Act, as 
+
+4 opposed to Rule 23, which was at issue in Geraghty, even 
+
+after the district judge signs an order saying, pursuant 
+
+6 to Justice Kennedy's opinion in Hoffman, we should send 
+
+7 notices out to see if we can find some new plaintiffs, 
+
+8 if none of those people have yet appeared before the 
+
+9 court and signed into the case, there is still only one 
+
+plaintiff. 
+
+11  So in Geraghty, it was important to the 
+
+12 Court that, when the case got here, although the 
+
+13 interest of the named prisoner had been vitiated, there 
+
+14 were several people who had filed motions to intervene. 
+
+And so it appeared that, at all times, there were other 
+
+16 people. 
+
+17  In this case, by contrast, there's every 
+
+18 reason to think that, after the person's interest was 
+
+19 vitiated, there were no other plaintiffs because --
+
+JUSTICE ALITO: Well, what do you --
+
+21  JUSTICE SOTOMAYOR: Counsel, can I ask a 
+
+22 fundamental question under Rule 68? I mean, when I was 
+
+23 a district court judge, if parties told me about their 
+
+24 settlement discussions, I would get quite upset. But, 
+
+it says explicitly -- explicitly, "Evidence of an 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 unaccepted offer is not admissible except in a 
+
+2 proceeding to determine costs." 
+
+3  What authorizes you to use evidence of that 
+
+4 offer to argue anything --
+
+MR. MANN: So, again --
+
+6  JUSTICE SOTOMAYOR: -- especially when a --
+
+7 the statute gives the plaintiff an absolute statutory 
+
+8 right to refuse it at a specific penalty? What permits 
+
+9 you to use it as evidence of anything, mootness -- I 
+
+don't care what you're using it for -- except in cost? 
+
+11  MR. MANN: Okay. So I would say two things. 
+
+12 The first thing is, of course, the plaintiff did not 
+
+13 challenge the use of the offer in the trial court. 
+
+14  The second thing, responsive to your 
+
+question on the merits is, trial courts have considered 
+
+16 this question, have generally considered that the offer 
+
+17 is admissible by analogy to Rule 408, which deals with 
+
+18 settlement discussions more generally, and the Advisory 
+
+19 Committee Notes discuss this. 
+
+And the general idea is the offer is being 
+
+21 admitted for a purpose other than to prove the validity 
+
+22 or amount of the disputed claim. And so --
+
+23  JUSTICE SOTOMAYOR: This makes no sense to 
+
+24 me because, if the offer is for judgment, it has to be 
+
+proof of validity and amount because, at least you 
+
+18
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 have -- you should be able to get a judgment. 
+
+2  MR. MANN: Well, I think that the offer is 
+
+3 not being admitted to prove the validity of the 
+
+4 plaintiff's claim or the amount of the plaintiff's 
+
+claim. The offer is being admitted to prove that the 
+
+6 plaintiff has no --
+
+7  JUSTICE SOTOMAYOR: But didn't you just tell 
+
+8 me that an offer results in an admission of liability 
+
+9 and a judgment for a particular amount? 
+
+MR. MANN: If the plaintiff accepts the 
+
+11 offer, then the district judge will enter offer -- will 
+
+12 enter judgment for the plaintiff in the amount of the 
+
+13 offer. 
+
+14  The district courts that have considered 
+
+this have ordinarily concluded that, in cases where the 
+
+16 offer is not accepted and the defendant contends that 
+
+17 the offer is complete, that the offer can be admitted 
+
+18 for the purpose of proving that there is no controversy 
+
+19 between the parties, which is distinct from admitting it 
+
+for the purpose of proving the validity or amount of the 
+
+21 claim. 
+
+22  JUSTICE SCALIA: Mr. Mann, could -- could I 
+
+23 come back to your response to the question of Knox --
+
+24 the statement in Knox that -- you know, where the court 
+
+can issue -- can provide no relief, there is -- there is 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 no standing. That -- I would have thought your answer 
+
+2 to that is -- is not -- I mean, you -- you answered it 
+
+3 on the facts, but that statement was not meant to be 
+
+4 exclusive, that that's the only situation in which 
+
+there -- there is no standing. 
+
+6  It was addressing just the third prong of 
+
+7 our -- of our standing doctrine, namely the prong that, 
+
+8 where the court can issue no relief, the remedial -- the 
+
+9 remedial prong, that one of -- one of the elements of 
+
+standing is the court has to be able to provide relief. 
+
+11 But there are other elements to standing as well, 
+
+12 including whether there is injury, in fact, and whether 
+
+13 the injury is -- you know, springs from the action that 
+
+14 is challenged. And those -- those prongs would continue 
+
+to exist. 
+
+16  I didn't think Knox's statement was meant to 
+
+17 be all-inclusive, that that's the only -- only way in 
+
+18 which standing can be eliminated. 
+
+19  MR. MANN: I think that's correct, 
+
+Justice Scalia. And so the problem that we face here is 
+
+21 the -- the questioning relates to something that has --
+
+22 was not disputed below. And our position is a 
+
+23 relatively simple one, which is that, under the doctrine 
+
+24 of mootness, it has to be correct that, if there is not 
+
+a controversy between the plaintiff and the defendant 
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 about a cause of action that's authorized by law, then 
+
+2 the case is over. 
+
+3  And that was all conceded below. The 
+
+4 plaintiff suffered a judgment to be entered against her. 
+
+She did not challenge that judgment on appeal. 
+
+6  JUSTICE KAGAN: But, Mr. Mann -- excuse me. 
+
+7  JUSTICE ALITO: Does the -- can I ask this 
+
+8 question? Does the district court have the authority 
+
+9 when an offer of judgment is made to hold a hearing as 
+
+to whether the offer of judgment actually gives the 
+
+11 plaintiff everything that the plaintiff could possibly 
+
+12 get under the complaint? 
+
+13  MR. MANN: We think that's the appropriate 
+
+14 response. We think that what should happen is that, if 
+
+the defendant makes an offer of judgment and -- and 
+
+16 files a motion to dismiss, suggesting that it provides 
+
+17 complete relief, that if the plaintiff doesn't concede 
+
+18 that the case should be dismissed, the district judge 
+
+19 should hold a hearing, as the district judge did here --
+
+JUSTICE ALITO: But where -- where does it 
+
+21 say that in Rule 68? 
+
+22  MR. MANN: The proceeding isn't under 
+
+23 Rule 68. 
+
+24  JUSTICE ALITO: What is it under? 
+
+MR. MANN: The proceeding is under 
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Rule 12(b), as a motion to dismiss for lack of 
+
+2 jurisdiction because the case is moot. 
+
+3  See, we don't think that it matters that the 
+
+4 offer happened to be made under Rule 68. There are 
+
+obvious --
+
+6  JUSTICE KENNEDY: Well, your -- your offer 
+
+7 says, you hereby offer to allow entry of judgment under 
+
+8 Rule 68. 
+
+9  MR. MANN: But -- but we don't think that 
+
+the mootness of the case flows from Rule 68. The 
+
+11 mootness of the case flows from the fact that there is 
+
+12 not a dispute between the parties about anything a 
+
+13 Federal court can handle. 
+
+14  JUSTICE KENNEDY: But the -- but the 
+
+question from Justice Alito was, what happens, does the 
+
+16 court have authority to have a hearing? 
+
+17  MR. MANN: But the court --
+
+18  JUSTICE KENNEDY: And you said, oh, well, 
+
+19 this is not under Rule 68; but -- but you offered to 
+
+allow entry of judgment under Rule 68. 
+
+21  MR. MANN: And the -- and --
+
+22  JUSTICE KENNEDY: And incidentally, you 
+
+23 never did follow up and say that you wanted an entry of 
+
+24 judgment. You just wanted a dismissal. And that's 
+
+another point. 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. MANN: Well, because -- because the 
+
+2 plaintiff didn't accept the offer. 
+
+3  One course of action is we make an offer 
+
+4 under Rule 68, and the plaintiff says, all right, let's 
+
+have a judgment under Rule 68; in which case, there 
+
+6 would be a judgment under Rule 68. 
+
+7  In this case, the plaintiff said, I'm not 
+
+8 interested in Rule 68. And we said, all right. Well, 
+
+9 now what we see is a cause of action under Federal law 
+
+Congress has created that specifies certain forms of 
+
+11 relief that are available to the plaintiff. And in this 
+
+12 case, there are damages, some liquidated damages, some 
+
+13 attorneys' fees and costs. There is no injunctive or 
+
+14 declaratory relief. 
+
+And we have a defendant that is willing to 
+
+16 give more than you could possibly get if you win. 
+
+17  JUSTICE GINSBURG: Was there attorneys' fees 
+
+18 in that offer? I thought there wasn't in --
+
+19  MR. MANN: Yes. Yes, there were. The offer 
+
+specifically provides for attorneys' fees. And even if 
+
+21 the offer didn't provide for attorneys' fees, they would 
+
+22 be available under Section 216(b) --
+
+23  JUSTICE BREYER: All right. But this, I 
+
+24 take it, is a statutory case, not a constitutional case. 
+
+That is, do you have any constitutional objection if 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Congress had said, in 216(b), that Joe Smith and other 
+
+2 people similarly situated to Miss Laura Symczyk have a 
+
+3 genuine dispute with the employer, and the way they file 
+
+4 their case is Miss Symczyk's case will be deemed to be 
+
+their case as well, though it ceases to be their case, 
+
+6 unless they confirm within 60 days of such-and-such, in 
+
+7 writing, that it is their case. 
+
+8  If Congress passed that statute, there 
+
+9 couldn't be a constitutional objection to it, could 
+
+there? 
+
+11  MR. MANN: Well, I think there could be 
+
+12 constitutional objections, depending on the details of 
+
+13 the statute --
+
+14  JUSTICE BREYER: No, no, no. Do you see 
+
+what I'm driving at? 
+
+16  In other words, if Congress had explicitly 
+
+17 said, in 216(b), that the Third Circuit's procedure is 
+
+18 the correct procedure for Mr. Joe Smith to bring his 
+
+19 case in such circumstances, if they had said that 
+
+explicitly, is there a constitutional objection? If so, 
+
+21 what could it be? 
+
+22  MR. MANN: I think the constitutional issues 
+
+23 that proposals like that might raise would flow from the 
+
+24 decision in Vermont Agency. And the question has to be 
+
+whether there is a person before the court --
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE BREYER: Oh, we know at least, since 
+
+2 we are doing -- I looked up a little bit, but Article 
+
+3 III is what was a case or controversy in Westminster in 
+
+4 1788 or 1750 or whenever, that in Westminster, in a 
+
+court of equity, I found at least two instances. A 
+
+6 person dies, there is no case with that person, but it 
+
+7 remained in equity on the docket until the other person, 
+
+8 the -- the estate, came in. 
+
+9  A woman could not bring a case if she was 
+
+married. She starts as a single person. She gets 
+
+11 married. Lo and behold, the case remains on the docket 
+
+12 until her husband comes in. That's not a happy example, 
+
+13 but nonetheless, it's in point. 
+
+14  (Laughter.) 
+
+JUSTICE BREYER: Now, I could find nothing 
+
+16 the other way, so I thought of the canon of 
+
+17 interpretation that equity deems to have been done what 
+
+18 ought to have been done -- or something like that. 
+
+19 Others on the Court will know -- but the -- the point 
+
+is that there are instances --
+
+21  JUSTICE SCALIA: Equity is wonderful. 
+
+22  JUSTICE BREYER: What? Yes. 
+
+23  It remained on the docket in the Westminster 
+
+24 courts, even though there was no plaintiff. 
+
+So I would ask you again: Is there any 
+
+25
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 counterexample? Is there any instance from equity or 
+
+2 elsewhere, where there is a constitutional objection, 
+
+3 had they said it, at which point our question is have 
+
+4 they said it? 
+
+MR. MANN: I think the problem is, in that 
+
+6 case, there is an identifiable person to substitute. In 
+
+7 this case, it's not substituting somebody for the 
+
+8 plaintiff. It's leaving the Federal --
+
+9  JUSTICE BREYER: No, no. It's Mr. Joe 
+
+Smith, if he confirms it in writing. 
+
+11  MR. MANN: The -- the problem in this type 
+
+12 of case would be that the Federal proceeding would be 
+
+13 moving along for a substantial period of time with no 
+
+14 plaintiffs. And the district judge's role would be 
+
+simply to assist the plaintiff in trying to find --
+
+16 plaintiff's counsel in trying to find new plaintiffs. 
+
+17  JUSTICE SCALIA: I'll bet you equity could 
+
+18 have considered the husband to have been substituted 
+
+19 automatically and could have considered that -- the 
+
+estate to have been substituted automatically. That --
+
+21 that happens when -- when that particular element is --
+
+22 is eliminated. But there is nothing automatic about 
+
+23 discovering some new plaintiff who -- who is out -- we 
+
+24 don't know who is out there. 
+
+MR. MANN: On that note, I'd like to reserve 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 the remainder of my time. 
+
+2  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+3  Mr. Katyal. 
+
+4  ORAL ARGUMENT OF NEAL KUMAR KATYAL 
+
+ON BEHALF OF THE RESPONDENT 
+
+6  MR. KATYAL: Thank you, Mr. Chief Justice, 
+
+7 and may it please the Court: 
+
+8  I'd like to begin with the question of 
+
+9 whether a withdrawn Rule 68 offer could moot a case. It 
+
+cannot. This Court has said that Article III's case and 
+
+11 controversy requirement demands both a plaintiff with a 
+
+12 concrete injury and a matter where the Court is fully 
+
+13 capable of -- of providing relief. 
+
+14  CHIEF JUSTICE ROBERTS: I'd like to begin 
+
+with the question of whether or not you waived that 
+
+16 argument. 
+
+17  MR. KATYAL: Absolutely, Your Honor. 
+
+18  CHIEF JUSTICE ROBERTS: No -- did you waive 
+
+19 it or not? 
+
+MR. KATYAL: We -- We did not waive -- we 
+
+21 did not waive the -- we did not waive it. We do think 
+
+22 that the brief in opposition should have pointed it out, 
+
+23 absolutely. It was a mistake on our part not to -- not 
+
+24 to bring to the Court's attention the -- the impact of 
+
+an unaccepted Rule 68 offer. However, we do think that 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 this Court can -- can consider that, and the reason for 
+
+2 that is that it is an answer to the question presented. 
+
+3 Indeed, it is literally the question presented. 
+
+4  Here is the question presented as -- as my 
+
+friend Mr. Mann wrote it, whether a court -- "whether a 
+
+6 case becomes moot and, thus, beyond the judicial power 
+
+7 of Article III when the lone plaintiff receives an offer 
+
+8 from the defendants to satisfy all of the plaintiff's 
+
+9 claims." And we submit that the answer to that question 
+
+is no, that the mere receipt of an offer, without more, 
+
+11 cannot possibly moot a case. 
+
+12  CHIEF JUSTICE ROBERTS: Well, that was not 
+
+13 the way the case was presented in the body of the 
+
+14 petition, and I would suppose, if that were your 
+
+objection, that it wasn't received, wasn't accepted, we 
+
+16 might have heard about that, as you -- as you suggest. 
+
+17  MR. KATYAL: And --
+
+18  CHIEF JUSTICE ROBERTS: And if, in fact, we 
+
+19 thought we were dealing with a case in which the Rule 68 
+
+offer was not accepted, we might have thought 
+
+21 differently about whether to grant it. 
+
+22  MR. KATYAL: I -- I completely understand 
+
+23 that, Mr. Chief Justice. I guess I would say, however, 
+
+24 this Court, in Lebron, confronted a similar situation, 
+
+in which the matter of whether Amtrak was a State actor, 
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 was not present in the cert papers; indeed, it had been 
+
+2 disavowed, as Justice Scalia's opinion for the Court 
+
+3 said. 
+
+4  Nonetheless, the Court considered it and --
+
+and got into the merits of that question. And we think 
+
+6 here, actually, it's an easier case for the Court to get 
+
+7 into than Lebron. Both --
+
+8  JUSTICE SOTOMAYOR: I have a question for 
+
+9 you, counsel. 
+
+CHIEF JUSTICE ROBERTS: You -- you rely on 
+
+11 the question presented. Your reformulated question 
+
+12 doesn't have that feature in it. 
+
+13  MR. KATYAL: It does have the unaccepted 
+
+14 offer feature in the -- in the question, and of course, 
+
+this Court's decision in Bray does say that it is the 
+
+16 question presented as the Court -- as the Court granted 
+
+17 it, that controls. 
+
+18  JUSTICE SOTOMAYOR: Counsel, there is --
+
+19 from the beginning, you never accepted the offer. 
+
+MR. KATYAL: That's exactly right, Justice 
+
+21 Sotomayor. 
+
+22  JUSTICE SOTOMAYOR: What you appear to have 
+
+23 conceded and -- is that the amount of the offer would 
+
+24 settle your personal claim. 
+
+MR. KATYAL: I don't quite think we conceded 
+
+29
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 even that. That's a separate matter. That's about what 
+
+2 the terms of the offer were. And our first point to you 
+
+3 is to say this offer wasn't even accepted. Mr. Mann is 
+
+4 waxing nostalgic about an offer that literally has not 
+
+given Ms. Symczyk a dime. She is as injured today as 
+
+6 she was the day she filed her complaint. 
+
+7  JUSTICE KAGAN: What do you think the court 
+
+8 should do in that circumstance, where a defendant comes 
+
+9 forward and says, I'm willing to satisfy the entire 
+
+claim? What should happen? 
+
+11  MR. KATYAL: If -- we think that, just like 
+
+12 the Solicitor General, we think that, in that 
+
+13 circumstance, it is possible for a court to enter a 
+
+14 default judgment and force relief upon the plaintiff. 
+
+And we think --
+
+16  JUSTICE KAGAN: Is this under Rule 68? Or 
+
+17 is this under some inherent authority? 
+
+18  MR. KATYAL: I think it could work either 
+
+19 way, so long as the forcing happened within the time 
+
+period of Rule 68. I don't think like -- the court can, 
+
+21 like Lazarus, raise this after it has already been 
+
+22 withdrawn. The text of Rule 68 says the offer is now 
+
+23 dead. If they had, I imagine, moved for the court to 
+
+24 enforce that order -- enforce that offer and enter a 
+
+default judgment within the 14-day period, then I think 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that would have been something that might have been 
+
+2 possible to do. 
+
+3  CHIEF JUSTICE ROBERTS: What -- what benefit 
+
+4 does this -- why are you arguing so much? You -- you 
+
+will have an entry of judgment in the favor of your 
+
+6 client who is, according to you, similarly situated to 
+
+7 lots of others. 
+
+8  Why don't you just -- if somebody comes 
+
+9 forward, just take them in, go in, you get a check for 
+
+$7500, or whatever it is, you get attorneys' fees, and 
+
+11 you can do that as often as you want. 
+
+12  MR. KATYAL: For two reasons, Your Honor. 
+
+13 The first is, of course, that is precisely what didn't 
+
+14 happen here. Ms. Symczyk has zero, not even the 
+
+$7500 --
+
+16  CHIEF JUSTICE ROBERTS: Well, I know. But 
+
+17 that's the fortuity of the fact that she didn't accept 
+
+18 the offer. And we are dealing, perhaps, with a case on 
+
+19 the record, as presented to us, where she did accept the 
+
+offer, if you waive that argument. So -- so assume the 
+
+21 case where the offer is accepted. 
+
+22  MR. KATYAL: And I think it goes back to 
+
+23 what then-Justice Rehnquist said in Roper because what 
+
+24 he said is it's not then just about the individual 
+
+plaintiff. You can't force an offer onto a plaintiff 
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that doesn't have all -- it doesn't award complete 
+
+
+2 relief because, if you do so, it undermines the 
+
+
+3 collective action aspect of the claim. 
+
+
+4  JUSTICE SCALIA: Well, it undermines the 
+
+
+collective aspect, if she never brings the suit in the 
+
+6 first place. I mean, I -- I must say I'm -- I'm not 
+
+7 terribly impressed by the fact that -- you know, if she 
+
+8 drops out there is -- there is no collective suit for 
+
+9 these other people. There is also no collective suit 
+
+for these other people if she never appeared in the 
+
+11 first place. 
+
+12  I don't -- I don't know that the law demands 
+
+13 that there be a collective suit. If she doesn't bring 
+
+14 suit or if she brings suit and -- and is given 
+
+everything she wants, the case is over, unless other 
+
+16 people have come in. 
+
+17  MR. KATYAL: Justice Scalia, we think that 
+
+18 the Congress has answered that question, at least in 
+
+19 216(b), by providing for both the opportunity to file a 
+
+complaint on her own behalf, as well as for those that 
+
+21 are similarly situated. And so I think that, as Justice 
+
+22 Ginsburg said to my -- to my friend, if you adopt their 
+
+23 rule, essentially, you truncate that process and 
+
+24 eliminate the ability of people to opt in, in any given 
+
+situation. 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  And that -- for that reason, it's very 
+
+2 much -- assuming that we get to this question, that it 
+
+3 is very much like Gerstein or Sosna or Roper in that 
+
+4 circumstance --
+
+JUSTICE SOTOMAYOR: Mr. Katyal, I'm a little 
+
+6 troubled that you have given up or argue that the 
+
+7 ability to enter a forced judgment is permissible under 
+
+8 Rule 68. There is nothing in that rule that gives the 
+
+9 court that power, certainly not stated explicitly or 
+
+even implicitly, because it talks about an entire 
+
+11 procedure of accepting the offer or rejecting it, all of 
+
+12 it in the hands of the parties, none of it until the 
+
+13 entry of the judgment in the hands of the court and only 
+
+14 after the plaintiff has accepted the offer in writing. 
+
+So I can't see anything but an inherent 
+
+16 power. So, for me, if there is an inherent power, it 
+
+17 has to be under a default judgment because the other 
+
+18 side is saying, I give up. 
+
+19  MR. KATYAL: Exactly. 
+
+JUSTICE SOTOMAYOR: All right. 
+
+21  MR. KATYAL: That -- that's precisely right. 
+
+22  JUSTICE SOTOMAYOR: Let's go from there, at 
+
+23 least with me, and that may answer an earlier question 
+
+24 about an inquest on damages because that is a part of 
+
+the requirements for a default judgment, so that if 
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 there is a dispute about damages, that can be resolved. 
+
+2  But my point is that liability is admitted. 
+
+3 Now, let's deal with the Chief's question and Justice 
+
+4 Scalia's question, which is in what ways is this 
+
+comparable to a shared cost, like what motivated our 
+
+6 decision in class actions, that the settlement of one 
+
+7 existing plaintiff doesn't settle the collective action. 
+
+8  How is this similar to that? 
+
+9  MR. KATYAL: So we think that the corpus of 
+
+cases that this Court has handled in the class action 
+
+11 area, such as Geraghty and Gerstein and the like, we 
+
+12 don't think that they absolutely control this question. 
+
+13 I don't want to say that. 
+
+14  But we think that they set up two principles 
+
+that help inform the Court's judgment. The first is 
+
+16 that, when you have circumstances like this, in which a 
+
+17 claim has gone away as moot because the named 
+
+18 representative of the claim has gone away for one reason 
+
+19 or another, there is play in the joints. 
+
+Essentially, you can have a bridge plaintiff 
+
+21 who acts to keep the case alive for purposes of letting 
+
+22 the class unfold. That's really what then-Justice 
+
+23 Rehnquist was getting at in his decision in Roper. And 
+
+24 we think there is a lot of force to that because, 
+
+otherwise, as Justice Ginsburg mentioned, the collective 
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 action mechanism doesn't even get off the ground. 
+
+2  JUSTICE GINSBURG: Well, you -- you don't 
+
+3 accept the argument that I suggested, that is Rule 16 --
+
+4 216, the Fair Labor Standards Act, in saying that you 
+
+can commence a suit on behalf of others similarly 
+
+6 situated, and implicit in that is that there be some 
+
+7 decent interval for you to find similarly-situated 
+
+8 people? 
+
+9  MR. KATYAL: We absolutely agree with that, 
+
+and we think that's precisely the problem. And this 
+
+11 case illustrates it, Justice Ginsburg, because they --
+
+12 we filed their complaint, and 75 days later, they filed 
+
+13 their preemptive Rule 68 offer. And now, they are 
+
+14 coming before the Court and saying something even more 
+
+radical than I think any court has accepted, to my 
+
+16 knowledge, which is even filing a class certification 
+
+17 motion along with the complaint wouldn't be enough. 
+
+18  That is something that would essentially cut 
+
+19 the heart out of the collective action mechanism 
+
+altogether. 
+
+21  JUSTICE GINSBURG: Why didn't -- why didn't 
+
+22 you file the -- the motion for certification, along with 
+
+23 the complaint? 
+
+24  MR. KATYAL: Because the text of Rule -- of 
+
+216(b) provides for two different processes, both the 
+
+35
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 filing of the complaint and then a subsequent opt-in 
+
+2 process. I suppose we could have done that. That's 
+
+3 what the Seventh Circuit has said to do in a case called 
+
+4 Damasco, but this Court's decision in Hoffman-LaRoche 
+
+says the entire collective action mechanism depends on 
+
+6 notice and discovery to find out who those people are, 
+
+7 to find out and make sure that they are similarly --
+
+8  JUSTICE GINSBURG: But you could -- you 
+
+9 could have done that with the complaint and I don't --
+
+you say you want to get joiners, so why do you have to 
+
+11 wait? Why -- why wouldn't you -- why wouldn't the most 
+
+12 logical thing be to say, court, we have labelled this a 
+
+13 collective action, and now, we want to start the ball 
+
+14 rolling in getting certification? 
+
+MR. KATYAL: Your Honor, that is what we 
+
+16 did. You know, we -- we asked the district court, right 
+
+17 after the Rule 68 offer expired, within 4 days, to say, 
+
+18 please set up a class certification process. And that 
+
+19 process was then interrupted by their subsequent motion, 
+
+after the Rule 68 offer had expired, to say, this case 
+
+21 is moot. 
+
+22  CHIEF JUSTICE ROBERTS: It doesn't matter in 
+
+23 terms of what the judge is supposed to do with your 
+
+24 motion to certify, if nobody else is in the case? I 
+
+mean, isn't that one of the factors? 
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  I don't know if it's even a sort of 
+
+2 good-faith pleading if -- if -- you want certification, 
+
+3 but there is no nobody else there. 
+
+4  MR. KATYAL: That's precisely, Mr. Chief 
+
+Justice, why we think the Seventh Circuit rule doesn't 
+
+6 make much sense. To come in and to ask for 
+
+7 certification before you've conducted the discovery and 
+
+8 gotten the names, we think is really not the right way 
+
+9 to go. 
+
+Rather, I think this Court's decisions in 
+
+11 Iqbal and Twombly suggest that you've got to have some 
+
+12 good-faith belief before you go and file a motion for 
+
+13 class certification. And I'd be very hesitant for this 
+
+14 Court to -- to recommend a rule to litigants that says 
+
+go and file your motion for class certification right 
+
+16 away. 
+
+17  This Court, in McLaughlin, I think, 
+
+18 essentially said that it's not about the timing of when 
+
+19 that motion for certification unfolds. At 500 US page 
+
+68, the Court said, "The fact the class was not 
+
+21 certified until after the named plaintiffs' claims had 
+
+22 become moot does not deprive the Court of jurisdiction. 
+
+23 We recognize in Gerstein that some claims are so 
+
+24 transitory" -- "inherently transitory that the trial 
+
+court will not even have enough time to rule on a motion 
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 for class certification." 
+
+2  JUSTICE BREYER: Well, you're 
+
+3 interpreting -- I think it's true that we're 
+
+4 interpreting the statute, and -- and I'm trying to look 
+
+at what document are we interpreting? Is there a 
+
+
+6 different rule or a different -- what -- what rule? 
+
+
+7  So I could come back to the statute. And 
+
+
+8 Congress could deprive -- could provide exactly the 
+
+
+9 system that you suggest. I don't see anything 
+
+
+unconstitutional about it. But isn't it a little hard 
+
+11 to read this statute as providing that mechanism, since 
+
+12 what it says is no party shall -- no -- you know, it 
+
+13 says what it says in the last two sentences. 
+
+14  How do we read that to foresee the mechanism 
+
+that you're talking about? 
+
+16  MR. KATYAL: Right. I take it this is 
+
+17 Mr. Mann's point, that people who aren't yet opted into 
+
+18 a class are not parties, and, therefore, the Court can't 
+
+19 properly consider them. And I think that's the same 
+
+exact thing in the class action context, is this 
+
+21 question --
+
+22  JUSTICE BREYER: Well, he says the 
+
+23 difference in the class action context is, in the class 
+
+24 action context, you can consider them there, but there 
+
+isn't a specific sentence somewhere in a statute, which 
+
+38
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 says, no one shall be a party unless he signs in 
+
+
+2 writing. 
+
+
+3  MR. KATYAL: Your -- Your Honor, I think 
+
+
+4 nothing turns on their designation as party status or 
+
+
+not; rather, the relation-back doctrine, to the extent 
+
+6 the Court wants to get into it and deem this offer where 
+
+7 we got nothing, somehow, they want to deem it against 
+
+8 us, but if it does and wants to get into the 
+
+9 relation-back doctrine, I think it would find that it is 
+
+based on the idea that the cases would otherwise go 
+
+11 away, and that you need a bridge plaintiff --
+
+12  JUSTICE BREYER: Well, why? Why? 
+
+13  MR. KATYAL: And it's a very important 
+
+14 reason --
+
+JUSTICE BREYER: Because that's -- why? 
+
+16 Why, is my question? 
+
+17  MR. KATYAL: The reason for that goes back 
+
+18 to this Court's decision in Flast -- in Flast, in which 
+
+19 it said that, in the kinds of cases we're talking about 
+
+here, it's not as if we're risking a merits judgment in 
+
+21 which relief is going to be imposed against one party 
+
+22 and possibly trench on the separation of powers. 
+
+23  Rather, the worst that happens, if you rule 
+
+24 for us, or if you rule for the plaintiffs in those 
+
+cases, is that the case goes back down on remand to find 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 out whether or not any of those parties can be 
+
+2 identified and come forward. If they do, then you can 
+
+3 reach the merits. 
+
+4  But this is a very different separation of 
+
+powers inquiry than the one -- in the case in 
+
+6 controversy inquiry than the one that the Court 
+
+7 traditionally handles. 
+
+8  JUSTICE SCALIA: It -- it's hard for me to 
+
+9 accept the relation-back doctrine for your purposes 
+
+when -- when it's clear, under the statute, that if 
+
+11 parties come in beyond the statute of limitations 
+
+12 period, they're not in. Their -- their entry is not 
+
+13 deemed to relate back to the filing of the original 
+
+14 complaint, is it? 
+
+MR. KATYAL: It -- for purposes of the 
+
+16 statute of limitations, exactly. 
+
+17  JUSTICE SCALIA: For purposes of the statute 
+
+18 of -- so you want one relation-back doctrine for the 
+
+19 statute and a different one for what we're discussing 
+
+here. 
+
+21  MR. KATYAL: Absolutely. And we think, 
+
+22 actually --
+
+23  JUSTICE SCALIA: I know you do. 
+
+24  MR. KATYAL: And -- and, Justice Scalia, we 
+
+think that that statute of limitations argument cuts the 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 other way. 
+
+2  So the statute of limitations provision, 
+
+3 which is Section 255, says that, "in determining when an 
+
+4 act is commenced for purposes of the statute," and so we 
+
+don't think it bears on the question or not of whether 
+
+6 relation back applies. 
+
+7  Much to the contrary, the real worry in the 
+
+8 class action context -- and, indeed, my friend's opening 
+
+9 line is, "These cases are going to linger forever, and 
+
+the defendants are going to have no tool." 
+
+11  But in the Fair Labor Standards Act context, 
+
+12 actually, it's the very reverse because every day counts 
+
+13 against the plaintiffs and their counsel. They are 
+
+14 incentivized to bring these cases quickly because the 
+
+clock is literally ticking. 
+
+16  And so you don't have, I think, the same 
+
+17 worry that you do in the regular class action context of 
+
+18 one plaintiff, who can essentially save the day for all 
+
+19 of the different -- for all of the different parties. 
+
+JUSTICE KAGAN: Mr. Katyal, if we do get to 
+
+21 the question that Mr. Mann wants us to raise, you spend 
+
+22 a lot of time talking about McLaughlin and talking about 
+
+23 Gerstein. Those cases were about prospective relief. 
+
+24 You're asking for retrospective relief. Why doesn't 
+
+that make a difference? 
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. KATYAL: We think that it is a 
+
+
+2 difference, but we don't think it's enough to change 
+
+
+3 this. And it's for the reasons that then-Justice 
+
+
+4 Rehnquist said in Roper. 
+
+
+Here -- here is what he said -- this is at 
+
+6 445 US 341. "The distinguishing feature here is that 
+
+7 the defendant has made an unaccepted offer. The action 
+
+8 is moot in the Article III sense, only if this Court 
+
+9 adopts a rule an individual seeking to proceed as class 
+
+representative is required to accept a tender of only 
+
+11 his individual claims acceptance need not be mandated 
+
+12 under our precedents since the defendant has not been 
+
+13 offered all that has been requested in the complaint 
+
+14 (i.e., relief for the class), and any other rule would 
+
+make the questions unreviewable." 
+
+16  And it's the same point. He is talking 
+
+17 there about a retrospective action for damages. The 
+
+18 rule that we are seeking here is no different than what 
+
+19 then-Justice Rehnquist said in Roper. 
+
+JUSTICE KENNEDY: Do we take this case on 
+
+21 the premise that you would have objected if a judgment 
+
+22 had been entered in your favor for the full amount, plus 
+
+23 attorneys' fees? 
+
+24  MR. KATYAL: I think you should. And this 
+
+is in response to what Justice Alito had said in the 
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 first part of the argument. It is not as if we didn't 
+
+2 ask for a hearing. Absolutely, we asked for a fairness 
+
+3 hearing at Joint Appendix page 110 in the district court 
+
+4 and then, again, at the Third Circuit. 
+
+And what we asked for specifically was 
+
+6 review of the contours of the offer. This is at Joint 
+
+7 Appendix page 110. We said, quote -- excuse me, 111 --
+
+8 "There has been no review and/or approval by this Court 
+
+9 of defendant's offer of judgment to the plaintiff," and 
+
+for that reason, we said, quote, "Dismissal is 
+
+11 inappropriate at this early procedural juncture." 
+
+12  So this case comes to the Court having asked 
+
+13 that particular question about the contours of the 
+
+14 offer. We think that an offer that never gave 
+
+Ms. Symczyk anything is one that didn't make her whole, 
+
+16 and for that --
+
+17  JUSTICE ALITO: If I were to -- I'm sorry. 
+
+18 If I were to think that the individual plaintiff's claim 
+
+19 isn't moot until a judgment is entered into her favor, 
+
+but that -- but that -- that issue, was not preserved, 
+
+21 can you give me an analog that I should think about, 
+
+22 with respect to the second question? 
+
+23  MR. KATYAL: Sure. 
+
+24  JUSTICE ALITO: Should I -- yes. 
+
+MR. KATYAL: I think that the best way to 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 think about it is the -- the category of cases from 
+
+2 Geraghty, Gerstein, and Swisher suggest that if the --
+
+3 if you wanted to hold that offer against us, that you 
+
+4 would then say, as Judge Sirica did, the relation-back 
+
+doctrine looks similar enough to the 216(b) context in 
+
+6 this specific area because, otherwise, the 216(b) 
+
+7 collective actions won't work the way Congress intended 
+
+8 them to work. 
+
+9  JUSTICE ALITO: Well, should I assume that 
+
+this is the same -- the case would then be the same as 
+
+11 if a default judgment had been entered in your favor for 
+
+12 that amount? 
+
+13  MR. KATYAL: I think -- well, it's hard to 
+
+14 know how you'd hold that offer against us, in that --
+
+and the way in which you did so, I think, informs that 
+
+16 second question. And that's part of the reason why we 
+
+17 think it is a predicate question. 
+
+18  I suppose that, yes, you could say -- one 
+
+19 path available is to say it is a default judgment now 
+
+that is imposed on us, along the lines of the Second 
+
+21 Circuit decision; and, if so, then, as the Solicitor 
+
+22 General says, at pages 15 to 18, the then-appropriate 
+
+23 course would have been for the district court to 
+
+24 evaluate whether other people could opt into the class 
+
+using the procedures of Hoffman-LaRoche. 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SOTOMAYOR: -- you could get the step 
+
+2 -- the Court had to evaluate whether the offer actually 
+
+3 met your personal damages claim, too. 
+
+4  MR. KATYAL: Oh, absolutely, Justice 
+
+Sotomayor. 
+
+
+6  JUSTICE SOTOMAYOR: And what you're 
+
+
+7 saying --
+
+
+8  MR. KATYAL: We were proceeding on the 
+
+
+9 hypothetical. 
+
+
+JUSTICE SOTOMAYOR: -- in those pages is the 
+
+11 Court didn't even do that. 
+
+12  MR. KATYAL: Exactly. I was proceeding on 
+
+13 the hypothetical that -- that, for one reason or 
+
+14 another, the Court can't reach that question. 
+
+And we think Lebron absolutely permits this 
+
+16 Court to do so. And we think it's prudent for this 
+
+17 Court to reach that question first because you can 
+
+18 sidestep and avoid what is, undoubtedly, a very 
+
+19 difficult constitutional question about exceptions to 
+
+Article III mootness and the relation-back doctrine. 
+
+21  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+22  We'll hear from Mr. Yang now. 
+
+23  ORAL ARGUMENT OF ANTHONY A. YANG, 
+
+24  FOR UNITED STATES, AS AMICUS CURIAE, 
+
+SUPPORTING RESPONDENT 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. YANG: Mr. Chief Justice, and may it 
+
+2 please the Court: 
+
+3  Respondent has never been compensated for 
+
+4 her individual damage claim, nor has she received a 
+
+court judgment favorably adjudicating that claim. It 
+
+6 follows that her individual claim remains live, as does 
+
+7 this collective action. 
+
+8  More generally, a settlement offer does not 
+
+9 moot a claim, if it is not accepted. Individual freedom 
+
+of contract is basic to our legal system, and mutual 
+
+11 assent is always a necessary element for any settlement. 
+
+12 Rule 68 embodies those principles. 
+
+13  JUSTICE BREYER: How does that differ from 
+
+14 an employee who says that he is annoyed for a variety of 
+
+reasons at the employer, and he sues the employer for 
+
+16 his pay -- for his pay for the month of October. The 
+
+17 employer says, He got his pay, I -- I sent him the 
+
+18 check, I mean, he gets it every month. And he says, 
+
+19 yes, but I didn't cash the check. 
+
+Is there a case for controversy? He can go 
+
+21 sue for his paycheck that he didn't cash? 
+
+22  MR. YANG: Well, if you're -- you're -- I'm 
+
+23 not sure what the injury would be in that case. 
+
+24  JUSTICE BREYER: Okay. So why is it any 
+
+different when the -- the defendant -- employer says, 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 here's the check. 
+
+2  MR. YANG: Well, there's a difference --
+
+3  JUSTICE BREYER: And he says, oh, I didn't 
+
+4 cash it. 
+
+MR. YANG: This -- this I think speaks 
+
+6 somewhat to Justice Scalia's point earlier on, which is 
+
+7 there -- there are three elements to Article III 
+
+8 standing, and it also carries through a bit to mootness. 
+
+9  One is an injury in fact. When we are 
+
+talking about retrospective claims, there is a past 
+
+11 injury. If you get a payment or court redress, it 
+
+12 doesn't eliminate the injury. The injury continues to 
+
+13 exist. Redressability --
+
+14  JUSTICE BREYER: Now, we have a case if the 
+
+employer, for some reason -- a mistake in bookkeeping or 
+
+16 something -- didn't send the check on time, so it 
+
+17 arrived 3 days late. And he says, ha, I'm not cashing 
+
+18 the check; now, I can sue him. Right? That's your 
+
+19 theory. 
+
+MR. YANG: Well, if there is a violation of 
+
+21 the Fair Labor Standards Act -- and I'm not sure that 
+
+22 that would be a violation of the Fair Labor Standards 
+
+23 Act --
+
+24  JUSTICE BREYER: No, no. He -- he -- it's a 
+
+contract -- you know. He -- he is paid every month, the 
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 end of the month. 
+
+2  MR. YANG: Well, if there is a breach of a 
+
+3 contract, that is an injury. And it is a past --
+
+4  JUSTICE BREYER: Even though the -- the 
+
+employer gave him the paycheck. He just didn't cash it, 
+
+6 plus the damage is for the 3 days. 
+
+7  MR. YANG: If I can just finish, I think it 
+
+8 is a past injury. It is traceable to the defendant, and 
+
+9 it is redressable because the requested relief would 
+
+redress it. There may well be a defense on the merits. 
+
+11 It may well be that there was payment. It could --
+
+12 there could be accord and satisfaction --
+
+13  CHIEF JUSTICE ROBERTS: I'm not sure I 
+
+14 understand. You think there is a live case, not if he 
+
+doesn't cash it, but I guess, as Justice Breyer was 
+
+16 asking, if it's a day late? You -- you said, well, 
+
+17 there was a past injury, it was a day late, it -- it --
+
+18 you know, could be redressed, by telling him what? Pay 
+
+19 him again? Or --
+
+MR. YANG: Well, no. I -- I guess there is 
+
+21 a few questions. If they -- if the defendant had paid 
+
+22 the plaintiff, then you would have what is traditionally 
+
+23 known as -- and it's accepted -- you would have accord 
+
+24 and satisfaction. It is an affirmative defense in 
+
+Rule 8(c). 
+
+48
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  CHIEF JUSTICE ROBERTS: Well, you would also 
+
+2 have what's usually known as no injury. 
+
+3  MR. YANG: Well, again, I think it's 
+
+4 important to distinguish between injury and something 
+
+that redresses an injury. Redress of an injury, like a 
+
+6 court redress, which is the only question that's 
+
+7 relevant in Article III, whether the requested relief 
+
+8 from the court would redress the injury. 
+
+9  Now --
+
+CHIEF JUSTICE ROBERTS: So you think a court 
+
+11 has to go through the whole process of a trial if the 
+
+12 check is a day late and the employer says, I'm sorry, 
+
+13 here's -- you know, whatever the interest is on the 
+
+14 check? 
+
+MR. YANG: No, certainly not. And this is 
+
+16 what -- what we say is the right approach, although it's 
+
+17 not a question of mootness, if an employer comes in and 
+
+18 throws up their hands in court and says, it's not worth 
+
+19 it, I want to forfeit, I want to just pay the 
+
+judgment -- and -- and by the way, this would not have 
+
+21 the issue preclusive effect, notwithstanding my friend's 
+
+22 statement earlier --
+
+23  CHIEF JUSTICE ROBERTS: I'm sorry. Could 
+
+24 you directly answer my question about --
+
+MR. YANG: The court can simply enter 
+
+49
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 judgment. It can simply enter judgment to -- to stop 
+
+2 pointless litigation. That's the normal course, is 
+
+3 that, if there is a past injury, it's redressable, but 
+
+4 the defendant comes in and either says accord and 
+
+satisfaction and says that there is no merits claim --
+
+6  CHIEF JUSTICE ROBERTS: Yes. 
+
+7  MR. YANG: -- or I just give up on the 
+
+8 merits --
+
+9  CHIEF JUSTICE ROBERTS: Or the plaintiff 
+
+says no -- no standing. 
+
+11  MR. YANG: Well, no. Again, I -- I don't 
+
+12 think it's a question of standing because there is two 
+
+13 issues going on. Standing has to exist at the beginning 
+
+14 of the suit. It's assessed at the date that the 
+
+complaint is filed. 
+
+16  CHIEF JUSTICE ROBERTS: And -- and, as we've 
+
+17 said, at every stage of the litigation. 
+
+18  MR. YANG: Right. That's the -- the 
+
+19 mootness inquiry, then. It has to continue to persist 
+
+throughout the litigation. 
+
+21  Now, the fact that you have had some redress 
+
+22 of some sort in the form of a private contract, that 
+
+23 doesn't eliminate the past injury, nor does it mean that 
+
+24 the court could not, if the court were to give 
+
+additional damages relief --
+
+50
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  CHIEF JUSTICE ROBERTS: So if you're due --
+
+2 if you're due $100 from your employer, it's a day late, 
+
+3 he gives you $100, and he says, well, here's another 
+
+4 dollar for interest, that, as you said, doesn't 
+
+eliminate the past injury? 
+
+6  MR. YANG: It doesn't eliminate the injury. 
+
+7 It might be compensation for the injury. The injury 
+
+8 would -- once a past injury occurs, it's there. 
+
+9 It's unlike a prospective injury, which can be stopped. 
+
+When you -- when you seek injunctive relief, you need 
+
+11 have to have an imminent on ongoing injury. If the 
+
+12 defendant stops, that can eliminate the injury, and then 
+
+13 you go into questions of voluntary cessation. But with 
+
+14 respect to past injury, it's quite different. 
+
+Now, I think the possibility of courts 
+
+16 wasting their time on this cases is quite small. There 
+
+17 is all kinds of incentives for a plaintiff not to bring 
+
+18 these suits. There is questions of vexatious 
+
+19 litigation. But that's not what we have here. We have, 
+
+in the Fair Labor Standards Act, a judgment by Congress 
+
+21 that employees are to have a right in the -- to -- to go 
+
+22 forward in the collective form. 
+
+23  And as Justice Kennedy's opinion for the 
+
+24 Court in Hoffman-LaRoche recognizes, Section 216 imposes 
+
+upon district courts a managerial responsibility to join 
+
+51
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 plaintiffs in an orderly way. And the -- the collective 
+
+2 action ties in with other aspects of the Fair Labor 
+
+3 Standards Act. The action is designed, as 
+
+4 Hoffman-LaRoche says, to serve the important function of 
+
+preventing violations. 
+
+6  It also says that the -- the collective 
+
+7 action is to be enforced to the full extent of its 
+
+8 terms. These are judgments that Congress made because 
+
+9 they were trying to protect particularly vulnerable 
+
+employees in our society. These are nonunionized, 
+
+11 generally, low-wage employees without bargaining power. 
+
+12 Congress created liquidated damages in order to provide 
+
+13 a strong deterrent for employers to comply with the law. 
+
+14  And also --
+
+JUSTICE SCALIA: Mr. Yang, would -- would 
+
+16 you continue with what you started speaking to, issue 
+
+17 preclusion, because I'm -- I'm also -- I think it's 
+
+18 questionable whether there would be issue preclusion on 
+
+19 the basis of a judgment issued with the concession of 
+
+the defendant. 
+
+21  MR. YANG: Yeah. This -- this is page 14, 
+
+22 footnote 2 of our brief. Issue -- there might be claim 
+
+23 preclusion, in that the defendant would not be able to 
+
+24 bring other claims associated, res -- traditional res 
+
+judicata. 
+
+52
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  But for a judgment entered by a concession, 
+
+2 the actual issue is not litigated and necessary to the 
+
+3 judgment. And so it's well established that that would 
+
+4 not serve any issue preclusive effect. And in fact, I 
+
+think, if it did, it would put a chill on the ability of 
+
+6 people to settle their disputes through offers of 
+
+7 judgment. 
+
+8  So our solution that we provide the Court, 
+
+9 we think, is the only solution that provides a practical 
+
+way to accommodate the very important interests that are 
+
+11 at issue in this case. 
+
+12  One, it recognizes the district court's 
+
+13 discretion to resolve the case in a sensible way, in 
+
+14 order to --
+
+JUSTICE KAGAN: So, Mr. Yang, do you think 
+
+16 it would be -- I -- I mean, I take the point completely 
+
+17 that judgment was rendered against the wrong party here. 
+
+18 But if the judgment had been rendered against 
+
+19 Ms. Symczyk -- for Ms. Symczyk, but -- but the court had 
+
+done so prior to looking at the whole class question --
+
+21  MR. YANG: Right. 
+
+22  JUSTICE KAGAN: -- do you think that that 
+
+23 would be an abuse of the court's discretion? Do you 
+
+24 think that the court has to look at the class question 
+
+before rendering judgment for an individual plaintiff? 
+
+53
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. YANG: In the context of a collective 
+
+2 action, yes, because of the Congressional policy that 
+
+3 gives plaintiffs a right to proceed collectively. 
+
+4  That said, the collective process does not 
+
+have to be a burdensome one. There are certain small 
+
+6 claims, idiosyncratic claims, that a court can simply 
+
+7 look at the -- the allegations and say, there are not 
+
+8 going to be similarly situated people here. 
+
+9  But when we have an allegation like we have 
+
+here, which there is a widespread policy of deducting 30 
+
+11 minutes a day, notwithstanding the employer's knowledge 
+
+12 that the employers -- employees are working through that 
+
+13 lunch break, there is every reason to think that there 
+
+14 is a substantial body of -- of employees similarly 
+
+situated. 
+
+16  And it would be an abuse of discretion for 
+
+17 the Court not to proceed at least down that road, 
+
+18 provide some discovery, facilitate class notice -- as 
+
+19 the Court in Hoffman-LaRoche recognizes is the 
+
+appropriate thing to do under Section 216 -- and at the 
+
+21 end of that process, which could be short for some 
+
+22 cases, a little longer for some, should be, of course, 
+
+23 always exercised in the Court's sound discretion. 
+
+24  At the end of the case, if there are more 
+
+plaintiffs who opt in, then it proceeds as a collective 
+
+54
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 action. If it remains the single plaintiff, the Court 
+
+2 might decide to enter judgment. 
+
+3  Now, we don't think that follows, Justice 
+
+4 Sotomayor, from Rule 68. It simply follows from the 
+
+fact that a defendant is willing to just to pay, to 
+
+6 give up. It won't have issue-preclusive effect, it 
+
+7 resolves the dispute, judgment in the amount of $7,500, 
+
+8 attorneys' fees, costs. 
+
+9  JUSTICE SOTOMAYOR: But what you're talking 
+
+about is imputing into this process, a fairness hearing, 
+
+11 essentially, to see, by the district court, to determine 
+
+12 whether this is a quirky case where you entered a 
+
+13 judgment and you don't need a collective action or 
+
+14 whether or not this is a genuine case that requires 
+
+joining plaintiffs. 
+
+16  MR. YANG: May I answer the question, 
+
+17 Mr. Chief Justice? 
+
+18  CHIEF JUSTICE ROBERTS: Certainly. 
+
+19  MR. YANG: I don't think it's a fairness 
+
+hearing. I think what it does is -- it -- it's a 
+
+21 question about whether there are people similarly 
+
+22 situated. And if there are plaintiffs similarly 
+
+23 situated, the case should proceed. If, at that point, 
+
+24 the defendant wants to pay everyone, it certainly could 
+
+do so. 
+
+55
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  But my guess is, usually, the -- the claims 
+
+2 would be litigated on the merits of that. 
+
+3  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+4  MR. YANG: Thank you. 
+
+CHIEF JUSTICE ROBERTS: Mr. Mann, you have 
+
+6 four minutes remaining. 
+
+7  REBUTTAL ARGUMENT OF RONALD MANN 
+
+8  ON BEHALF OF THE PETITIONERS 
+
+9  MR. MANN: Thank you, Mr. Chief Justice, and 
+
+may it please the Court: 
+
+11  I think the most useful thing to do is to 
+
+12 address the point that Justice Breyer has raised several 
+
+13 times because I think it's important to discuss the 
+
+14 relationship between what I would call the statutory 
+
+facts and the constitutional questions that they might 
+
+16 raise. And so I do think it's fair, in a sense, to 
+
+17 think about this as a statutory case. 
+
+18  When a plaintiff files suit in a Federal 
+
+19 court, often, the cause of action rests on a statute 
+
+that Congress has adopted. Those statutes have a lot of 
+
+21 attributes that Congress can control to make it easier 
+
+22 or harder for a defendant to make an offer of complete 
+
+23 relief. 
+
+24  They can provide for mandatory shifting of 
+
+attorneys' fees, as this one does. They can alter the 
+
+56
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 rules for shifting costs, as perhaps the Fair Debt 
+
+2 Collection Practices Act does from last month. They can 
+
+3 provide for injunctive or declaratory relief, which 
+
+4 makes it basically impossible. 
+
+But Congress gets to decide, when they write 
+
+6 a statute, whether they want to make it a statute for 
+
+7 which it --
+
+8  JUSTICE BREYER: All right. That's true. 
+
+9 And so what we would be reading into this statute is a 
+
+relation-back doctrine, which happens every day of the 
+
+11 week in class action cases and has historical analogies. 
+
+12  So I understand the difference you're 
+
+13 pointing to, but why not read that in? It would be 
+
+14 fair, and it would get the job done, that Congress sets 
+
+up in the statute. That's the argument the other way. 
+
+16  MR. MANN: Well, that leads me to the second 
+
+17 point I wanted to make, which is exactly what is the 
+
+18 constitutional problem. And I think the way to get to 
+
+19 it is when my colleague, Mr. Katyal, refers to the worst 
+
+that happens, well, the worst that happens, I think 
+
+21 it's -- it's important to understand what the worst 
+
+22 thing is that happens. 
+
+23  The worst thing is -- that happens is the 
+
+24 case is on the docket of the Federal district judge, and 
+
+there is no plaintiff with an interest, and the 
+
+57
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 procedure in the district court is we should spend some 
+
+2 time, have some discovery, look around to see if we can 
+
+3 find another plaintiff. 
+
+4  And so I think that that's a different 
+
+problem from how the district court should decide the 
+
+6 order of hearing -- of deciding motions. If the problem 
+
+7 is --
+
+8  JUSTICE GINSBURG: Mr. Mann, if this is --
+
+9 if what Mr. Yang just told us is so, then there would be 
+
+no issue preclusion because there has been no -- been no 
+
+11 adjudication of anything. Then it seems to me that this 
+
+12 case falls into a classic exception to mootness, which 
+
+13 is defendant's voluntary cessation doesn't moot a 
+
+14 controversy. And this controversy is capable of 
+
+repetition yet evasive review because every time -- so 
+
+16 the plaintiff's got this judgment, not preclusive. 
+
+17  The employer continues in the old ways. The 
+
+18 plaintiff sues again. This seems to me to fit exactly 
+
+19 into that category of cases. If there is no issue 
+
+preclusion, defendant doesn't have to stop the practice, 
+
+21 can continue the practice, and then every time there is 
+
+22 a suit say, okay, we'll pay the judgment. 
+
+23  MR. MANN: So I spoke unartfully before. 
+
+24 Obviously, there is a difference between claim 
+
+preclusion and issue preclusion. And what I was 
+
+58
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 attempting to say, unartfully, I will agree, was the 
+
+2 extent of preclusion will depend on the issues that are 
+
+3 actually litigated in the proceeding. 
+
+4  And so I don't --
+
+JUSTICE GINSBURG: But there is nothing 
+
+6 litigated when you have --
+
+7  MR. MANN: Claim preclusion is going to 
+
+8 apply because there's a judgment by --
+
+9  JUSTICE GINSBURG: Claim preclusion, but the 
+
+claim is, for this period of time, I wasn't given the 
+
+11 compensation. That's the claim. 
+
+12  MR. MANN: But it is --
+
+13  JUSTICE GINSBURG: And then there is another 
+
+14 period of time, and there is no issue preclusion. 
+
+MR. MANN: But in this particular case, 
+
+16 there's no further dispute likely to occur between these 
+
+17 parties. These -- she no longer works for us. There is 
+
+18 no reason to think she is going to work for us again. 
+
+19  The Court has extended the "capable of 
+
+repetition, yet evading review" to class actions in 
+
+21 three cases: Gerstein, Riverside, and Swisher. In --
+
+22 but in those cases, what happened was the plaintiff 
+
+23 sought prospective injunctive relief. The case became 
+
+24 moot. 
+
+If the Court had held that those cases were 
+
+59
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15  
+
+ 
+
+ 
+
+ 
+
+ 
+
+20  
+
+ 
+
+ 
+
+ 
+
+ 
+
+25  
+
+Official 
+
+1 outside of Article III, the result would have been that 
+
+2 the defendant could have been -- could have been 
+
+3 engaging in the conduct that allegedly violated Federal 
+
+4 law and would never have had to change. 
+
+In this case, what happened -- in this case 
+
+6 and in the cases like this, what happens is someone 
+
+7 seeks purely prospective -- retrospective relief for 
+
+8 something, an injury that is complete. Except for their 
+
+9 attorneys, she would have received complete relief. We 
+
+didn't engage in our conduct any longer. 
+
+11  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+12  The case is submitted. 
+
+13  (Whereupon, at 11:05 a.m., the case in the 
+
+14 above-entitled matter was submitted.) 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+60
+ 
+Alderson Reporting Company 
+
+
+
+61 
+OfficialOfficial 
+
+42:17 46:7 alleges 14:12 10:16 authorized 21:1A 
+52:2,3,7 54:2 allow 13:19 22:7 appropriate 9:6 authorizesability 3:12 
+55:1,13 56:19 22:20 21:13 54:20 13:15 18:332:24 33:7 
+57:11 all-inclusive appropriately authors 13:1453:5 
+
+actions 34:6 20:17 6:12 automatic 26:22able 19:1 20:10 
+44:7 59:20 alter 56:25 approval 43:8 automatically52:23 
+
+actor 28:25 altogether 35:20 area 34:11 44:6 26:19,20above-entitled 
+acts 7:12 34:21 amicus 1:22 argue 18:4 33:6 available 23:111:12 60:14 
+actual 53:2 2:10 45:24 arguing 31:4 23:22 44:19absolute 18:7 
+additional 50:25 amount 3:21 6:9 argument 1:13 avoid 45:18absolutely 27:17 
+address 6:23 7:2 6:12,15,16 2:2,5,8,12 3:3 award 32:127:23 34:12 
+
+56:12 18:22,25 19:4 3:7 6:24 8:14 a.m 1:14 3:235:9 40:21 
+addressed 16:6 19:9,12,20 27:4,16 31:20 60:1343:2 45:4,15 
+addressing 20:6 29:23 42:22 35:3 40:25abuse 53:23 Badequate 12:20 44:12 55:7 43:1 45:2354:16 back 5:2 19:23adjudicate Amtrak 28:25 56:7 57:15accept 3:15 6:3 
+
+31:22 38:711:10 analog 43:21 arrived 47:1723:2 31:17,19 
+39:17,25 40:13adjudicating analogies 57:11 Article 25:235:3 40:9 
+41:646:5 analogy 18:17 27:10 28:742:10 ball 36:13adjudication analyze 16:13 42:8 45:20acceptance bargaining58:11 and/or 43:8 47:7 49:7 60:142:11 
+52:11admissible 18:1 annoyed 46:14 ascertain 15:22accepted 3:24 based 5:6 39:1018:17 answer 9:9 14:7 asked 11:55:18,22 19:16 basic 46:10admission 3:19 15:2,6,11,14 36:16 43:2,528:15,20 29:19 basically 57:45:13,25 19:8 20:1 28:2,9 43:1230:3 31:21 basing 9:12admitted 18:21 33:23 49:24 asking 41:2433:14 35:15 basis 15:2119:3,5,17 34:2 55:16 48:1646:9 48:23 
+52:19admitting 19:19 answered 16:4 aspect 32:3,5accepting 33:11 Bayer 5:2adopt 32:22 20:2 32:18 aspects 52:2accepts 19:10 bears 41:5adopted 56:20 ANTHONY assent 46:11accommodate beginning 29:19adopts 42:9 1:20 2:9 45:23 assessed 50:1453:10 
+50:13Advisory 18:18 appeal 21:5 assist 26:15accord 48:12,23 begun 12:8affirmative appeals 3:11 Assistant 1:2050:4 behalf 1:16,1848:24 10:16,21 13:24 associated 52:24act 4:1 5:6 13:22 
+2:4,7,14 3:8Agency 24:24 appear 29:22 assume 31:2014:1 17:3 35:4 
+4:15 13:12,16ago 16:4 APPEARAN... 44:941:4,11 47:21 
+14:20 27:5agree 35:9 59:1 1:15 assuming 33:247:23 51:20 
+32:20 35:5AL 1:4 appeared 17:8 attempting 59:152:3 57:2 
+56:8Alito 17:20 21:7 17:15 32:10 attention 27:24action 3:16 5:14 behold 25:1121:20,24 22:15 Appendix 6:8 attorneys 4:38:4 9:21 11:22 belief 37:1242:25 43:17,24 43:3,7 23:13,17,20,2112:7 13:2 believe 13:744:9 applies 16:11 31:10 42:2320:13 21:1 benefit 31:3alive 34:21 41:6 55:8 56:2523:3,9 32:3 best 43:25allegation 54:9 apply 4:23 59:8 60:934:7,10 35:1 bet 26:17allegations 5:7 approach 10:20 attributes 56:2135:19 36:5,13 beyond 28:654:7 11:7 49:16 authority 21:838:20,23,24 
+40:11allegedly 60:3 approaches 22:16 30:1741:8,17 42:7 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+62 
+Official 
+
+bind 4:25 9:8 10:19 cert 29:1 Chief's 34:3 36:5,13 44:7 
+bit 25:2 47:8 11:10,14,14,18 certain 23:10 chill 53:5 46:7 51:22 
+body 28:13 12:3,8,13,17 54:5 Circuit 9:7 36:3 52:1,6 54:1,4 
+
+54:14 13:23,25 14:8 certainly 33:9 37:5 43:4 54:25 55:13 
+bookkeeping 14:12,13 15:6 49:15 55:18,24 44:21 collectively 54:3 
+
+47:15 16:1,17,17,23 certification Circuit's 24:17 come 19:23 
+bottom 12:25 16:25 17:9,12 3:17 6:23,25 circumstance 32:16 37:6 
+Bray 29:15 17:17 21:2,18 7:14,16,19 8:4 30:8,13 33:4 38:7 40:2,11 
+breach 48:2 22:2,10,11 14:15,23,25 circumstances comes 25:12 
+break 6:11,12 23:5,7,12,24 15:9,12,24 24:19 34:16 30:8 31:8 
+
+54:13 23:24 24:4,4,5 16:6,8,10,15 claim 4:11,22 43:12 49:17 
+breaks 6:10 24:5,7,19 25:3 35:16,22 36:14 8:22 11:21 50:4 
+Breyer 23:23 25:6,9,11 26:6 36:18 37:2,7 12:10,22 18:22 coming 35:14 
+
+24:14 25:1,15 26:7,12 27:9 37:13,15,19 19:4,5,21 commence 35:5 
+25:22 26:9 27:10 28:6,11 38:1 29:24 30:10 commenced 
+38:2,22 39:12 28:13,19 29:6 certified 14:20 32:3 34:17,18 41:4 
+39:15 46:13,24 31:18,21 32:15 37:21 43:18 45:3 commenting 
+47:3,14,24 34:21 35:11 certify 36:24 46:4,5,6,9 50:5 7:25 8:1 
+48:4,15 56:12 36:3,20,24 cessation 51:13 52:22 58:24 Committee 
+57:8 39:25 40:5 58:13 59:7,9,10,11 18:19 
+
+bridge 34:20 42:20 43:12 challenge 18:13 claiming 5:18 common 5:3 
+39:11 44:10 46:20,23 21:5 claims 4:14 8:16 10:2,11 
+
+brief 27:22 47:14 48:14 challenged 8:18 28:9 comparable 
+52:22 53:11,13 54:24 20:14 37:21,23 42:11 34:5 
+
+briefing 12:25 55:12,14,23 chance 13:17 47:10 52:24 compelling 
+bring 13:12 56:17 57:24 change 12:10 54:6,6 56:1 13:23 
+
+24:18 25:9 58:12 59:15,23 42:2 60:4 class 34:6,10,22 compensated 
+27:24 32:13 60:5,5,12,13 characterizing 35:16 36:18 46:3 
+41:14 51:17 cases 12:3,12 10:17 37:13,15,20 compensation 
+52:24 16:12 19:15 charged 6:13 38:1,18,20,23 51:7 59:11 
+
+brings 32:5,14 34:10 39:10,19 check 31:9 38:23 41:8,17 complaint 5:7 
+brought 4:15 39:25 41:9,14 46:18,19 47:1 42:9,14 44:24 7:20 14:19,21 
+burdensome 41:23 44:1 47:16,18 49:12 53:20,24 54:18 14:22,24 16:15 
+
+54:5 51:16 54:22 49:14 57:11 59:20 21:12 30:6 
+57:11 58:19 Chief 3:3,9 6:19 classic 58:12 32:20 35:12,17
+
+C 59:21,22,25 7:25 9:25 16:3 clear 5:11 8:25 35:23 36:1,9
+C 2:1 3:1 60:6 16:19,22 27:2 11:2 17:1 40:14 42:13 
+call 4:23 56:14 cash 46:19,21 27:6,14,18 40:10 50:15 
+called 36:3 47:4 48:5,15 28:12,18,23 client 6:4,9 31:6 complete 3:13 
+canon 25:16 cashing 47:17 29:10 31:3,16 clock 41:15 3:15 4:3 7:10 
+capable 27:13 category 44:1 36:22 37:4 colleague 57:19 19:17 21:17 
+
+58:14 59:19 58:19 45:21 46:1 Collection 57:2 32:1 56:22 
+care 16:7 18:10 cause 9:21 21:1 48:13 49:1,10 collective 3:16 60:8,9
+carries 47:8 23:9 56:19 49:23 50:6,9 8:4,5 11:22 completely 
+case 3:4 4:14,16 caused 15:10 50:16 51:1 13:2 14:22 28:22 53:16 
+
+4:25 5:3,4 7:5 16:2 55:17,18 56:3 32:3,5,8,9,13 comply 52:13 
+7:5,8,9 8:6 9:4 ceases 24:5 56:5,9 60:11 34:7,25 35:19 comprehended 
+
+Alderson Reporting Company 
+
+
+
+63 
+Official 
+
+4:24 41:17 44:5 counts 41:12 15:3 27:24 declaratory 
+concede 21:17 54:1 course 13:5 29:15 34:15 23:14 57:3 
+conceded 7:12 continue 3:16 18:12 23:3 36:4 37:10 deducting 54:10 
+
+12:19,24 13:4 11:10 20:14 29:14 31:13 39:18 53:12,23 deem 39:6,7 
+21:3 29:23,25 50:19 52:16 44:23 50:2 54:23 deemed 24:4 
+
+concession 58:21 54:22 created 9:20 40:13 
+52:19 53:1 continues 8:17 court 1:1,13 23:10 52:12 deems 25:17 
+
+concluded 19:15 9:14 47:12 3:10,11,25 4:5 curiae 1:22 2:10 default 30:14,25 
+conclusion 4:11 58:17 5:24 6:20 7:2,6 45:24 33:17,25 44:11 
+conclusively contours 43:6 9:8,10,22 cut 13:14 35:18 44:19 
+
+14:14 43:13 10:12,13 11:13 cuts 40:25 defendant 3:12 
+concrete 27:12 contract 46:10 11:15 12:9,14 4:2,2 6:2 8:10 
+
+Dconduct 12:10 47:25 48:3 12:18 13:1,23 9:1 10:5,19
+D 3:160:3,10 50:22 14:5,14 15:9 12:4,9 13:8 
+damage 5:14conducted 37:7 contrary 41:7 15:12,20,22 19:16 20:25 
+
+46:4 48:6confirm 24:6 contrast 17:17 16:1,2 17:9,12 21:15 23:15 
+damages 3:21confirms 26:10 control 34:12 17:23 18:13 30:8 42:7,12
+
+6:16 23:12,12confronted 56:21 19:24 20:8,10 46:25 48:8,21
+33:24 34:128:24 controls 29:17 21:8 22:13,16 50:4 51:12 
+42:17 45:3Congress 14:2,4 controversy 8:9 22:17 24:25 52:20,23 55:5 
+50:25 52:1223:10 24:1,8 9:20 10:18 25:5,19 27:7 55:24 56:22 
+
+Damasco 36:424:16 32:18 11:11 16:9 27:10,12 28:1 58:20 60:2 
+date 50:1438:8 44:7 19:18 20:25 28:5,24 29:2,4 defendants 28:8 
+day 30:6 41:12 51:20 52:8,12 25:3 27:11 29:6,16,16 41:10 
+
+41:18 48:16,1756:20,21 57:5 40:6 46:20 30:7,13,20,23 defendant's 
+49:12 51:257:14 58:14,14 33:9,13 34:10 15:5 43:9 
+54:11 57:10Congressional convince 12:9 35:14,15 36:12 58:13 
+
+days 24:6 35:12 54:2 12:14 36:16 37:14,17 defense 48:10,24
+36:17 47:17consequences convinced 12:12 37:20,22,25 demands 27:11 
+48:67:7 13:1 CORPORATI... 38:18 39:6 32:12 
+
+dead 30:23consider 28:1 1:4 40:6 42:8 43:3 deny 16:10 
+deal 8:7 34:3 38:19,24 corpus 34:9 43:8,12 44:23 Department
+dealing 28:19considered correct 13:7 45:2,11,14,16 1:21 
+
+31:1818:15,16 19:14 15:23 20:19,24 45:17 46:2,5 depend 59:2 
+deals 18:1726:18,19 29:4 24:18 47:11 49:6,8 depending
+Debt 57:1consistent 9:7 cost 18:10 34:5 49:10,18,25 24:12 
+December 1:10constitutional costs 4:3 9:15 50:24,24 51:24 depends 9:18 
+decent 35:723:24,25 24:9 18:2 23:13 53:8,19,24 36:5 
+decide 55:2 57:5 24:12,20,22 55:8 57:1 54:6,17,19 deprive 37:22 
+
+58:526:2 45:19 counsel 5:9 6:19 55:1,11 56:10 38:8 
+deciding 58:656:15 57:18 16:3,21 17:21 56:19 58:1,5 deprives 3:12 
+decision 3:11construed 5:13 26:16 27:2 59:19,25 designation 39:4 
+
+15:3 24:24contends 19:16 29:9,18 41:13 courts 10:3,16 designed 52:3 
+29:15 34:6,23contest 9:1 12:6 45:21 56:3 10:21 14:3 detailed 6:7 
+36:4 39:1813:9 60:11 18:15 19:14 details 24:12 
+44:21context 38:20,23 counterexample 25:24 51:15,25 determinations 
+
+decisions 37:1038:24 41:8,11 26:1 court's 12:11 16:6 
+
+Alderson Reporting Company 
+
+
+
+64 
+Official 
+
+determine 4:21 dispute 22:12 55:6 53:1 55:12 existing 34:7 
+14:15 18:2 24:3 34:1 55:7 effectual 11:16 entire 30:9 expired 36:17 
+55:11 59:16 either 30:18 33:10 36:5 36:20 
+
+determined 8:5 disputed 18:22 50:4 entitled 11:8 explicitly 17:25 
+determining 20:22 element 26:21 entry 22:7,20,23 17:25 24:16,20 
+
+41:3 disputes 53:6 46:11 31:5 33:13 33:9 
+deterrent 52:13 distinct 19:19 elements 20:9 40:12 extended 59:19 
+dies 25:6 distinguish 49:4 20:11 47:7 equity 25:5,7,17 extent 4:21,23 
+differ 46:13 distinguishing eliminate 32:24 25:21 26:1,17 39:5 52:7 59:2 
+difference 15:15 42:6 47:12 50:23 erroneous 15:12 
+
+F15:16 38:23 district 6:20 7:1 51:5,6,12 erroneously 
+face 20:2041:25 42:2 9:8 10:3 15:9 eliminated 15:10 
+faced 12:4 13:8 
+facilitate 54:18 
+
+47:2 57:12 15:12,22 16:2 20:18 26:22 error 15:22,23 
+58:24 16:14 17:5,23 embodies 46:12 15:23,25 16:2 
+
+different 35:25 fact 4:20 20:12 19:11,14 21:8 emphasizes especially 18:6 
+22:11 28:1838:6,6 40:4,19 21:18,19 26:14 15:20 ESQ 1:16,18,20
+ 
+
+41:19,19 42:18
+ 31:17 32:736:16 43:3 employee 4:14 2:3,6,9,13 
+37:20 47:946:25 51:14 44:23 51:25 13:12,15 46:14 essentially 6:8 
+50:21 53:458:4 53:12 55:11 employees 13:13 32:23 34:20 
+55:5differently 57:24 58:1,5 14:20 51:21 35:18 37:18 
+
+factors 36:25 
+facts 20:3 56:15 
+
+28:21 docket 10:20 52:10,11 54:12 41:18 55:11 
+difficult 12:8 25:7,11,23 54:14 established 4:18 
+
+fair 4:1 5:6 
+13:22,25 17:3 
+
+45:19 57:24 employer 4:16 53:3 
+dime 30:5 doctrine 16:11 24:3 46:15,15 estate 25:8 
+directly 15:3 35:4 41:11 
+
+47:21,22 51:20 
+20:7,23 39:5,9 46:17,25 47:15 26:20 
+
+49:24 40:9,18 44:5 48:5 49:12,17 ET 1:4 
+disavowed 29:2 52:2 56:16 
+
+57:1,14 
+45:20 57:10 51:2 58:17 evading 59:20 
+
+discover 14:25 document 38:5 employers 52:13 evaluate 44:24 
+discovering fairness 43:2 
+
+55:10,19
+doing 25:2 54:12 45:2 
+
+26:23 dollar 51:4 employer's evasive 58:15 
+discovery 36:6 falls 58:12 
+
+favor 10:25 11:1 
+doubt 16:20,23 54:11 evidence 17:25 
+
+37:7 54:18 16:25 employment 18:3,9 
+11:2 31:558:2 driving 24:15 6:10 exact 38:20 
+42:22 43:19discretion 53:13 drops 32:8 encourage 15:17 exactly 12:1 
+44:11 
+
+favorably 46:5 
+53:23 54:16,23 due 51:1,2 enforce 30:24,24 29:20 33:19 
+
+discuss 7:6 D.C 1:9,18,21 enforced 52:7 38:8 40:16 
+feature 29:12,14 
+
+E 
+18:19 56:13 engage 60:10 45:12 57:17 
+
+42:6discussing 40:19 engaging 60:3 58:18 
+E 2:1 3:1,1 Federal 3:25 4:5 
+earlier 33:23 
+
+discussions enter 10:3,14,21 example 25:12 
+9:10 22:1317:24 18:18 11:1 19:11,12 exception 58:12 
+
+dismiss 9:8 47:6 49:22 23:9 26:8,12 
+early 43:11 
+
+30:13,24 33:7 exceptions 
+56:18 57:2421:16 22:1 49:25 50:1 45:19 
+
+dismissal 22:24 Earth 12:1 60:3 
+easier 12:14 
+
+55:2 exclusive 20:4 
+fees 4:4 23:13,17 43:10 entered 7:11,13 excuse 21:6 43:7 
+
+dismissed 14:14 29:6 56:21 23:20,21 31:10 
+effect 5:3 8:3 
+
+7:15 12:21 exercised 54:23 
+42:23 55:821:18 21:4 42:22 exist 20:15 
+
+dismissing 9:16 49:21 53:4 56:2543:19 44:11 47:13 50:13 
+
+Alderson Reporting Company 
+
+
+
+65 
+Official 
+
+file 24:3 32:19 formal 5:23 9:3 59:21 housekeepingH 
+35:22 37:12,15 formally 9:2 getting 34:23 8:8,13,25ha 47:17 
+
+filed 6:20 7:20 12:15 14:8 36:14 10:17,24handle 22:13 
+10:12 14:24,24 forms 23:10 Ginsburg 3:18 husband 25:12handled 34:10 
+16:15 17:14 fortuity 31:17 3:23 4:7,13 26:18handles 40:7 
+30:6 35:12,12 forward 16:24 7:18 8:1 9:11 hypotheticalhands 33:12,13
+50:15 17:2 30:9 31:9 13:10 14:9,17 45:9,1349:18 
+
+files 14:12 21:16 40:2 51:22 15:14 23:17 happen 10:6 I56:18 found 25:5 32:22 34:25 21:14 30:10 idea 18:20 39:10 filing 13:18 four 56:6 35:2,11,21 31:14 identifiable 26:614:18 35:16 free 3:12 36:8 58:8 59:5 happened 7:5,7 identified 40:236:1 40:13 freedom 46:9 59:9,13 7:9 12:17,18 idiosyncraticfind 17:7 25:15 friend 28:5 give 11:8,18,19 22:4 30:19 
+54:626:15,16 35:7 32:22 11:20 13:17 59:22 60:5 ignored 13:2436:6,7 39:9,25 Friends 11:25 14:9 23:16 happens 8:15 
+14:358:3 friend's 41:8 33:18 43:21 12:18 13:5 III 25:3 28:7 finish 48:7 49:21 50:7,24 55:6 22:15 26:21 
+42:8 45:20first 3:4 4:21 7:4 full 3:15 4:3 given 30:5 32:14 39:23 57:10,20 
+47:7 49:7 60:1 14:19 15:4 6:11 10:4 32:24 33:6 57:20,22,23 III's 27:1018:12 30:2 42:22 52:7 59:10 60:6 illustrates 35:1131:13 32:6,11 fully 8:16,19 gives 18:7 21:10 happy 25:12 imagine 30:2334:15 43:1 27:12 33:8 51:3 54:3 hard 38:10 40:8 immediately45:17 function 52:4 go 17:1 31:9 44:13 
+7:20,21 13:19 fit 58:18 fundamental 33:22 37:9,12 harder 56:22 
+14:24Flast 39:18,18 17:22 37:15 39:10 HealthCare 1:3 imminent 51:11flow 4:11 15:3 further 9:10,19 46:20 49:11 3:4 impact 27:2424:23 10:18 12:22 51:13,21 hear 3:3 45:22 implicit 7:24flowed 15:25 59:16 goes 15:19 16:23 heard 10:13 
+35:6flows 11:25 31:22 39:17,25 28:16G implicitly 33:1022:10,11 going 3:20 10:13 hearing 21:9,19G 3:1 important 17:11FLSA 6:15 12:2,9 39:21 22:16 43:2,3general 1:21 39:13 49:4follow 22:23 41:9,10 50:13 55:10,20 58:6 
+
+12:4 18:20 52:4 53:10followed 10:20 54:8 59:7,18 heart 35:19
+30:12 44:22 56:13 57:21follows 46:6 good 3:22 held 59:25generally 18:16 imposed 39:2155:3,4 good-faith 37:2 help 34:15
+18:18 46:8 44:20footnote 15:18 37:12 hesitant 37:13
+52:11 imposes 51:2415:19 52:22 gotten 37:8 historical 57:11Genesis 1:3 3:4 imposing 3:25force 30:14 governing 13:11 Hoffman 17:6genuine 24:3 4:5 5:531:25 34:24 grant 11:15 16:8 Hoffman-LaR...
+55:14 impossibleforced 33:7 28:21 36:4 44:25Geraghty 15:3 11:15 57:4forcing 30:19 granted 29:16 51:24 52:4
+15:13,17 16:10 impressed 32:7foresee 38:14 grants 16:14 54:19
+17:4,11 34:11 imputing 55:10forever 41:9 ground 35:1 hold 21:9,19
+44:2 inappropriateforfeit 49:19 guess 28:23 44:3,14Gerstein 33:3 43:11forgive 15:24 48:15,20 56:1 Honor 6:17
+34:11 37:23 incentives 51:17form 5:23 50:22 guidance 13:23 27:17 31:12
+41:23 44:2 incentivized51:22 36:15 39:3 
+
+Alderson Reporting Company 
+
+
+
+66 
+Official 
+
+41:14 38:3,4,5 11:4 12:20 31:3,16 32:4 10:23 11:3 
+incidentally interrupted 18:24 19:1,9 32:17,21 33:5 22:6,14,18,22 
+
+22:22 36:19 19:12 21:4,5,9 33:20,22 34:3 42:20 
+include 3:18 interval 35:7 21:10,15 22:7 34:25 35:2,11 Kennedy's 17:6 
+
+6:16 intervene 17:14 22:20,24 23:5 35:21 36:8,22 51:23 
+including 4:3 inviting 13:20 23:6 30:14,25 37:5 38:2,22 kinds 39:19 
+
+20:12 involved 8:13 31:5 33:7,13 39:12,15 40:8 51:17 
+individual 8:15 Iqbal 37:11 33:17,25 34:15 40:17,23,24 know 16:4 19:24 
+
+8:18,22 31:24 issue 4:22 6:23 39:20 42:21 41:20 42:20,25 20:13 25:1,19 
+42:9,11 43:18 6:25 8:13 17:4 43:9,19 44:11 43:17,24 44:9 26:24 31:16 
+46:4,6,9 53:25 19:25 20:8 44:19 46:5 45:1,4,6,10,21 32:7,12 36:16 
+
+individuals 8:17 43:20 49:21 49:20 50:1,1 46:1,13,24 37:1 38:12 
+individual's 9:4 52:16,18,22 51:20 52:19 47:3,6,14,24 40:23 44:14 
+inform 34:15 53:2,4,11 53:1,3,7,17,18 48:4,13,15 47:25 48:18 
+informs 44:15 58:10,19,25 53:25 55:2,7 49:1,10,23 49:13 
+inherent 30:17 59:14 55:13 58:16,22 50:6,9,16 51:1 knowledge 
+
+33:15,16 issued 52:19 59:8 51:23 52:15 35:16 54:11 
+inherently 37:24 issues 7:2 8:8 judgments 10:3 53:15,22 55:3 known 48:23 
+injunctive 23:13 24:22 50:13 52:8 55:9,17,18 49:2 
+
+51:10 57:3 59:2 judicata 52:25 56:3,5,9,12 Knox 11:13,25 
+59:23 issue-preclusive judicial 28:6 57:8 58:8 59:5 19:23,24 
+
+injured 30:5 55:6 juncture 43:11 59:9,13 60:11 Knox's 20:16 
+injury 20:12,13 issuing 4:11 jurisdiction KUMAR 1:18 
+
+K27:12 46:23 i.e 42:14 22:2 37:22 2:6 27:4 
+KAGAN 8:1247:9,11,12,12 Justice 1:21 3:3 
+
+J L11:12 21:648:3,8,17 49:2 3:9,18,23 4:7 
+JA 5:11 30:7,16 41:20 labelled 14:2149:4,5,5,8 50:3 4:13 5:2,9,17
+job 57:14 53:15,22 36:1250:23 51:5,6,7 6:5,14,17,19
+Joe 24:1,18 26:9 Kagan's 5:2 Labor 4:1 5:6 51:7,8,9,11,12 7:18,25 8:1,12 
+join 51:25 Katyal 1:18 2:6 13:22 14:151:14 60:8 9:11,23,25,25
+joiners 36:10 27:3,4,6,17,20 17:3 35:4inquest 33:24 10:1,10,23
+joining 55:15 28:17,22 29:13 41:11 47:21,22inquiry 40:5,6 11:3,12 13:10 
+Joint 6:8 43:3,6 29:20,25 30:11 51:20 52:250:19 14:9,17 15:14 
+joints 34:19 30:18 31:12,22 lack 22:1instance 26:1 16:3,19,21,22
+judge 6:21 11:17 32:17 33:5,19 language 13:21instances 25:5 17:6,20,21
+
+16:5,14 17:5 33:21 34:9 late 47:17 48:16 25:20 18:6,23 19:7 
+17:23 19:11 35:9,24 36:15 48:17 49:12intended 44:7 19:22 20:20 
+21:18,19 36:23 37:4 38:16 51:2interest 8:8 9:5 21:6,7,20,24
+44:4 57:24 39:3,13,17 Laughter 25:1412:23 13:6 22:6,14,15,18
+
+judge's 26:14 40:15,21,24 Laura 1:7 24:2 15:5 16:17 22:22 23:17,23
+judgment 3:23 41:20 42:1,24 law 21:1 23:9 17:13,18 49:13 24:14 25:1,15
+
+3:25 4:5,8,12 43:23,25 44:13 32:12 52:1351:4 57:25 25:21,22 26:9 
+4:17,22,24 5:4 45:4,8,12 60:4interested 23:8 26:17 27:2,6
+5:5,12,18,22 57:19 Lazarus 30:21interests 53:10 27:14,18 28:12 
+5:23 6:1,4 7:11 keep 34:21 leads 57:16interpretation 28:18,23 29:2 
+7:13,21 8:20 Kennedy 9:23 leaving 26:825:17 29:8,10,18,20
+10:14,21 11:1 9:25 10:1,10 Lebron 28:24interpreting 29:22 30:7,16 
+
+Alderson Reporting Company 
+
+
+
+67 
+Official 
+
+legal 46:10 56:20 50:23 53:16 36:19,24 37:12 O 
+letter 5:10 lots 31:7 meant 20:3,16 37:15,19,25 O 2:1 3:1 
+letting 34:21 lower 14:3 mechanism 35:1 motions 17:14 objected 42:21 
+let's 23:4 33:22 low-wage 52:11 35:19 36:5 58:6 objection 23:25 
+
+34:3 lunch 54:13 38:11,14 motivated 34:5 24:9,20 26:2 
+liability 3:19,25 mentioned move 10:19 28:15M4:5,8,18 5:6,19 34:25 moved 7:20,21 objections 24:12managerial5:22 6:1 9:2 mere 13:13 14:19 30:23 obvious 22:5
+
+51:2519:8 34:2 28:10 moving 26:13 Obviously 16:8mandated 42:11liable 5:13 merits 12:25 Mustn't 13:17 58:24mandatorylimitations 18:15 29:5 mutual 46:10 occur 13:20 16:2 
+56:2440:11,16,25 39:20 40:3 59:16NMann 1:16 2:3 41:2 48:10 50:5,8 occurs 51:8
+2:13 3:6,7,9,22 N 2:1,1 3:1 line 41:9 56:2 October 46:16
+4:10,19 5:16 named 17:13lines 44:20 met 45:3 offer 3:18,23,24
+5:20 6:7,17 7:3 34:17 37:21linger 41:9 minutes 54:11 5:10,12,23,23
+7:23 8:23 9:17 names 14:25liquidated 6:15 56:6 5:25 6:1,2,4
+10:9,15,25 37:823:12 52:12 mistake 27:23 7:10,12,14
+11:4,24 13:21 naturally 11:25literally 28:3 47:15 9:14 10:4,12
+14:11 15:2,16 NEAL 1:18 2:6 30:4 41:15 moment 16:15 12:15,19 18:1 
+16:12,25 18:5 27:4litigants 37:14 Monday 1:10 18:4,13,16,20
+18:11 19:2,10 necessary 46:11litigated 13:3 month 12:4 18:24 19:2,5,8
+19:22 20:19 53:253:2 56:2 59:3 46:16,18 47:25 19:11,11,13,16
+21:6,13,22,25 need 9:10 39:11 59:6 48:1 57:2 19:17,17 21:9 
+22:9,17,21 42:11 51:10litigation 3:13 months 6:24,25 21:10,15 22:4 
+23:1,19 24:11 55:139:4 12:5,25 moot 8:22 9:5 22:6,7 23:2,3 
+24:22 26:5,11 needs 11:113:8,9 50:2,17 11:14,15,18,18 23:18,19,21
+26:25 28:5 never 22:2350:20 51:19 13:6 15:5,11 27:9,25 28:7 
+30:3 41:21 29:19 32:5,10little 25:2 33:5 22:2 27:9 28:6 28:10,20 29:14 
+56:5,7,9 57:16 43:14 46:338:10 54:22 28:11 34:17 29:19,23 30:2 
+58:8,23 59:7 60:4live 46:6 48:14 36:21 37:22 30:3,4,22,24
+59:12,15 new 1:16,16Lo 25:11 42:8 43:19 31:18,20,21,25Mann's 38:17 17:7 26:16,23logical 36:12 46:9 58:13 33:11,14 35:13 married 25:10 Nike 12:3lone 28:7 59:24 36:17,20 39:6 
+25:11 nonunionizedlong 3:14 30:19 mootness 6:21 42:7 43:6,9,14matter 1:12 10:2 52:10longer 8:9 9:1 6:22,23 9:18 43:14 44:3,14
+10:23 27:12 non-party 14:712:5 54:22 9:19 15:10,21 45:2 46:8
+28:25 30:1 normal 13:1959:17 60:10 15:24 16:2,7 56:22
+36:22 60:14 50:2look 15:18 38:4 18:9 20:24 offered 6:11matters 4:24 nostalgic 30:453:24 54:7 22:10,11 45:20 7:21 22:19
+22:3 note 26:2558:2 47:8 49:17 42:13McLaughlin Notes 18:19looked 25:2 50:19 58:12 offers 9:2 53:6 
+37:17 41:22 notice 36:6looking 5:1 14:1 moots 12:10 oh 22:18 25:1 mean 8:14 10:5 54:1853:20 morning 3:4 45:4 47:3
+11:22 17:22 notices 17:7looks 44:5 motion 8:4 okay 6:22 7:3 
+20:2 32:6 notwithstandi...loses 8:6 16:17 14:22,24 21:16 8:23 11:17,24
+36:25 46:18 49:21 54:11lot 34:24 41:22 22:1 35:17,22 18:11 46:24 
+
+Alderson Reporting Company 
+
+
+
+68 
+Official 
+
+58:22 33:24 43:1 26:6 please 3:10 27:7 58:16 
+old 58:17 44:16 personal 29:24 36:18 46:2 predicate 44:17 
+once 12:8 51:8 particular 7:5 45:3 56:10 preemptive 
+ongoing 16:9 19:9 26:21 person's 17:18 plus 42:22 48:6 35:13 
+
+51:11 43:13 59:15 petition 8:3 point 22:25 preliminarily 
+onward 3:16 particularly 28:14 25:13,19 26:3 14:19 
+opening 41:8 52:9 Petitioners 1:5 30:2 34:2 premise 12:21 
+opined 14:2,4 parties 5:5 13:3 1:17 2:4,14 3:8 38:17 42:16 42:21 
+opinion 5:2 14:3 17:23 19:19 5:11,13 56:8 47:6 53:16 present 29:1 
+
+17:6 29:2 22:12 33:12 pick 6:5 55:23 56:12 presented 8:2 
+51:23 38:18 40:1,11 piece 12:5 57:17 28:2,3,4,13 
+
+opportunity 41:19 59:17 place 32:6,11 pointed 27:22 29:11,16 31:19 
+14:10 32:19 party 11:16 15:5 plaintiff 3:14,15 pointing 57:13 preserved 43:20 
+
+opposed 17:4 38:12 39:1,4 8:6,9,10,16 pointless 50:2 prevailing 11:16 
+opposition 39:21 53:17 9:13,15 10:11 policy 54:2,10 preventing 52:5 
+
+27:22 passed 24:8 10:18,22,25 portion 15:18 principles 34:14 
+opt 32:24 44:24 path 44:19 11:1,2,19,20 position 9:12,17 46:12 
+
+54:25 pay 3:13,20 4:2 12:20 14:10,12 9:19 20:22 prior 53:20 
+opted 38:17 9:2,15 12:15 14:18,23 17:10 possibility 16:14 prisoner 17:13 
+opt-in 14:8 36:1 46:16,16,17 18:7,12 19:6 51:15 private 50:22 
+opt-ins 13:20 48:18 49:19 19:10,12 20:25 possible 7:18 problem 12:4 
+oral 1:12 2:2,5,8 55:5,24 58:22 21:4,11,11,17 30:13 31:2 16:7 20:20 
+
+3:7 27:4 45:23 paycheck 46:21 23:2,4,7,11 possibly 8:22 26:5,11 35:10 
+order 7:1 16:5 48:5 25:24 26:8,15 9:3 21:11 57:18 58:5,6 
+
+17:5 30:24 payment 3:15 26:23 27:11 23:16 28:11 procedural 
+52:12 53:14 47:11 48:11 28:7 30:14 39:22 43:11 
+58:6 penalty 18:8 31:25,25 33:14 power 28:6 33:9 procedure 24:17 
+
+orderly 52:1 people 4:9,16 34:7,20 39:11 33:16,16 52:11 24:18 33:11 
+ordinarily 19:15 5:4 14:5,13 41:18 43:9 powers 39:22 58:1 
+ordinary 6:3 15:1 17:8,14 48:22 50:9 40:5 procedures 
+original 40:13 17:16 24:2 51:17 53:25 practical 7:7 44:25 
+ought 25:18 32:9,10,16,24 55:1 56:18 53:9 proceed 42:9 
+outside 60:1 35:8 36:6 57:25 58:3,18 practice 10:2,11 54:3,17 55:23 
+
+38:17 44:24 59:22 58:20,21 proceeded 14:14 
+P 53:6 54:8 plaintiffs 4:4 Practices 57:2 proceeding 6:20 
+
+P 3:1 55:21 10:3 14:7 17:7 precedents 18:2 21:22,25 
+page 2:2 15:19 period 6:10 17:19 26:14,16 42:12 26:12 45:8,12
+
+37:19 43:3,7 26:13 30:20,25 37:21 39:24 precisely 31:13 59:3 
+52:21 40:12 59:10,14 41:13 52:1 33:21 35:10 proceeds 54:25 
+
+pages 6:8 44:22 permissible 33:7 54:3,25 55:15 37:4 process 8:5 
+45:10 permits 18:8 55:22 preclusion 4:21 13:19 32:23 
+
+paid 47:25 48:21 45:15 plaintiff's 8:15 4:22 52:17,18 36:2,18,19 
+papers 29:1 persist 50:19 8:18 19:4,4 52:23 58:10,20 49:11 54:4,21
+paragraph 14:1 person 9:3,9 26:16 28:8 58:25,25 59:2 55:10 
+paragraphs 12:16 15:7 43:18 58:16 59:7,9,14 processes 35:25 
+
+15:19 16:16 24:25 play 34:19 preclusive 4:8 promulgated
+part 14:8 27:23 25:6,6,7,10 pleading 37:2 5:3 49:21 53:4 5:24 
+
+Alderson Reporting Company 
+
+
+
+69 
+Official 
+
+prong 20:6,7,9 19:23 21:8 16:18 17:18 40:9,18 44:4 requires 6:15 
+prongs 20:14 22:15 24:24 28:1 33:1 45:20 57:10 55:14 
+proof 9:14 18:25 26:3 27:8,15 34:18 39:14,17 relatively 20:23 requiring 4:2 
+properly 38:19 28:2,3,4,9 29:5 43:10 44:16 relevant 14:6 res 52:24,24 
+proposals 24:23 29:8,11,11,14 45:13 47:15 49:7 reserve 26:25 
+propriety 14:15 29:16 32:18 54:13 59:18 relief 3:14 4:3 resolve 53:13 
+prospective 12:7 33:2,23 34:3,4 reasons 31:12 7:10 9:2,20 resolved 4:20 
+
+12:11 41:23 34:12 38:21 42:3 46:15 11:16 12:7,11 34:1 
+51:9 59:23 39:16 41:5,21 REBUTTAL 12:14 13:15 resolves 55:7 
+60:7 43:13,22 44:16 2:12 56:7 19:25 20:8,10 respect 43:22 
+
+protect 52:9 44:17 45:14,17 receipt 28:10 21:17 23:11,14 51:14 
+prove 18:21 45:19 49:6,17 received 28:15 27:13 30:14 respond 11:24 
+
+19:3,5 49:24 50:12 46:4 60:9 32:2 39:21 Respondent 
+provide 16:13 53:20,24 55:16 receives 28:7 41:23,24 42:14 1:19,23 2:7,11 
+
+19:25 20:10 55:21 recognize 37:23 48:9 49:7 5:14 7:11 27:5 
+23:21 38:8 questionable recognizes 50:25 51:10 45:25 46:3 
+52:12 53:8 52:18 51:24 53:12 56:23 57:3 Respondent's 
+54:18 56:24 questioning 54:19 59:23 60:7,9 6:10 
+57:3 20:21 recommend rely 5:21 29:10 response 9:7 
+
+provided 7:10 questions 4:20 37:14 remainder 27:1 19:23 21:14 
+provides 9:13 7:24 42:15 record 31:19 remained 25:7 42:25 
+
+13:23 21:16 48:21 51:13,18 redress 47:11 25:23 responsibility 
+23:20 35:25 56:15 48:10 49:5,6,8 remaining 56:6 51:25 
+53:9 quickly 41:14 50:21 remains 25:11 responsive 
+
+providing 27:13 quirky 55:12 Redressability 46:6 55:1 18:14 
+32:19 38:11 quite 12:8 17:24 47:13 remand 39:25 rests 56:19 
+
+proving 19:18 29:25 51:14,16 redressable 48:9 remedial 20:8,9 result 3:24 60:1 
+19:20 quote 5:12 43:7 50:3 remember 10:7 results 19:8 
+
+provision 13:18 43:10 redressed 48:18 rendered 53:17 retrospective 
+41:2 redresses 49:5 53:18 12:13 41:24 
+
+Rprudent 45:16 refers 57:19 rendering 53:25 42:17 47:10 
+R 3:1purely 60:7 reformulated repeatedly 13:4 60:7 
+radical 35:15purpose 18:21 29:11 repetition 58:15 reverse 41:12 
+raise 24:2319:18,20 refuse 18:8 59:20 review 43:6,8
+
+30:21 41:21purposes 34:21 refuses 3:15 reply 10:12 58:15 59:20 
+56:1640:9,15,17 regardless 11:21 represent 8:17 right 11:3 16:24 
+
+raised 56:1241:4 regular 41:17 representative 18:8 23:4,8,23
+reach 40:3 45:14 pursuant 17:5 Rehnquist 31:23 34:18 42:10 29:20 33:20,21
+
+45:17put 5:1 53:5 34:23 42:4,19 request 14:25 36:16 37:8,15
+read 38:11,14putative 3:16 rejecting 33:11 requested 3:21 38:16 47:18 
+
+57:13 relate 40:13 42:13 48:9 49:16 50:18 
+Q reading 57:9 relates 20:21 49:7 51:21 53:21 
+
+question 3:22 real 41:7 relation 41:6 required 42:10 54:3 57:8 
+7:1 8:2,21,25 realize 8:14 relationship requirement risking 39:20 
+10:2,17 12:23 really 11:11 56:14 27:11 Riverside 59:21 
+15:4,8 16:4 34:22 37:8 relation-back requirements road 6:24,25
+17:22 18:15,16 reason 11:9 16:10 39:5,9 33:25 54:17 
+
+Alderson Reporting Company 
+
+
+
+70 
+Official 
+
+ROBERTS 3:3 satisfy 28:8 30:9 sent 46:17 Sirica 44:4 spoke 58:23 
+6:19 9:25 16:3 save 41:18 sentence 38:25 situated 4:9,15 springs 20:13 
+16:19,22 27:2 saying 12:1 sentences 38:13 13:13,16 14:13 stage 50:17 
+27:14,18 28:12 15:20,21 17:5 separate 14:22 14:20 15:1 stages 12:24 
+28:18 29:10 33:18 35:4,14 30:1 24:2 31:6 Standards 4:1 
+31:3,16 36:22 45:7 separation 32:21 35:6 5:6 13:22 14:1 
+45:21 48:13 says 5:10 6:22 39:22 40:4 54:8,15 55:22 17:3 35:4 
+49:1,10,23 10:13 11:14,17 series 12:11 55:23 41:11 47:21,22 
+50:6,9,16 51:1 13:11 17:25 serve 52:4 53:4 situation 15:13 51:20 52:3 
+55:18 56:3,5 22:7 23:4 30:9 set 34:14 36:18 16:13,23 20:4 standing 20:1,5 
+60:11 30:22 36:5 sets 57:14 28:24 32:25 20:7,10,11,18 
+
+role 26:14 37:14 38:12,13 settle 29:24 34:7 small 51:16 54:5 47:8 50:10,12 
+rolling 36:14 38:13,22 39:1 53:6 Smith 5:2 24:1 50:13 
+RONALD 1:16 41:3 44:22 settlement 10:4 24:18 26:10 start 36:13 
+
+2:3,13 3:7 56:7 46:14,17,18,25 17:24 18:18 society 52:10 started 52:16 
+Roper 16:9 47:3,17 49:12 34:6 46:8,11 sole 3:14 8:5 starts 25:10 
+
+31:23 33:3 49:18 50:4,5 Seventh 36:3 16:16 State 28:25 
+34:23 42:4,19 50:10 51:3 37:5 Solicitor 1:20 stated 33:9 
+
+routinely 10:4 52:4,6 shared 34:5 30:12 44:21 statement 6:2 
+rule 6:3 9:12,12 Scalia 19:22 shifting 56:24 solution 53:8,9 19:24 20:3,16 
+
+9:15,18 13:14 20:20 25:21 57:1 somebody 26:7 49:22 
+13:14 17:4,22 26:17 32:4,17 short 54:21 31:8 statements 5:21 
+18:17 21:21,23 40:8,17,23,24 side 11:22 12:25 somewhat 12:14 States 1:1,13,22 
+22:1,4,8,10,19 52:15 33:18 47:6 2:10 45:24 
+22:20 23:4,5,6 Scalia's 29:2 sidestep 45:18 sorry 16:22 status 39:4 
+23:8 27:9,25 34:4 47:6 signed 17:9 43:17 49:12,23 statute 4:1,6 
+28:19 30:16,20 scheduled 6:24 signs 17:5 39:1 sort 37:1 50:22 13:11,14,22 
+30:22 32:23 second 7:6 8:7 silent 10:5 Sosna 33:3 14:11 18:7 
+33:8,8 35:3,13 18:14 43:22 similar 28:24 Sotomayor 5:9 24:8,13 38:4,7 
+35:24 36:17,20 44:16,20 57:16 34:8 44:5 5:17 6:5,14,18 38:11,25 40:10 
+37:5,14,25 Section 13:22 similarly 4:9,15 16:21 17:21 40:11,16,17,19 
+38:6,6 39:23 23:22 41:3 13:13,16 14:13 18:6,23 19:7 40:25 41:2,4 
+39:24 42:9,14 51:24 54:20 15:1 24:2 31:6 29:8,18,21,22 56:19 57:6,6,9 
+42:18 46:12 see 6:14 17:7 32:21 35:5 33:5,20,22 57:15 
+48:25 55:4 22:3 23:9 36:7 54:8,14 45:1,5,6,10 statutes 56:20 
+
+ruled 15:9 24:14 33:15 55:21,22 55:4,9 statutory 13:17 
+rules 4:10,22,23 38:9 55:11 similarly-situ... sought 59:23 18:7 23:24 
+
+6:3 57:1 58:2 35:7 sound 54:23 56:14,17 
+ruling 15:12 seeing 10:7 simple 20:23 speaking 52:16 step 45:1 
+
+seek 13:15 51:10 simply 12:18 speaks 47:5 stop 50:1 58:20 
+S seeking 42:9,18 16:5 26:15 specific 18:8 stopped 51:9 
+
+S 2:1 3:1 seeks 12:7,13 49:25 50:1 38:25 44:6 stops 51:12 
+sanction 9:13 60:7 54:6 55:4 specifically strong 52:13 
+satisfaction send 17:6 47:16 simultaneously 23:20 43:5 subject 4:17 
+
+48:12,24 50:5 sense 18:23 37:6 14:18 specifies 23:10 submit 28:9 
+satisfied 8:16,19 42:8 56:16 single 25:10 spend 41:21 submitted 60:12 
+
+11:23 sensible 53:13 55:1 58:1 60:14 
+
+Alderson Reporting Company 
+
+
+
+71 
+Official 
+
+subsequent 36:1 system 38:9 19:2 20:16,19 56:13 32:2,4 
+36:19 46:10 21:13,14 22:3 timing 37:18 understand 
+
+substantial 22:9 24:11,22 today 30:5 28:22 48:14 
+T26:13 54:14 26:5 27:21,25 told 17:23 58:9 57:12,21
+
+T 2:1,1substitute 26:6 29:5,25 30:7 tool 41:10 undoubtedly
+take 9:9 11:6,9 substituted 30:11,12,15,18 traceable 48:8 45:18 
+
+16:7 23:2426:18,20 30:20,25 31:22 traditional unfold 34:22 
+31:9 38:16substituting 32:17,21 34:9 52:24 unfolds 37:19 
+42:20 53:1626:7 34:12,14,24 traditionally United 1:1,13,22
+
+taken 10:16such-and-such 35:10,15 37:5 40:7 48:22 2:10 45:24 
+talk 7:424:6 37:8,10,17 transitory 37:24 unpack 7:24 
+talking 38:15sue 46:21 47:18 38:3,19 39:3,9 37:24 unreviewable 
+
+39:19 41:22,22sues 46:15 58:18 40:21,25 41:5 transmittal 5:10 42:15 
+42:16 47:10suffered 5:14 41:16 42:1,2 treated 14:5 upset 17:24 
+55:97:11 12:20 42:24 43:14,18 trench 39:22 use 13:13 18:3,9 
+
+talks 33:1021:4 43:21,25 44:1 trial 5:24 9:21 18:13 
+tell 10:2 14:4 suggest 17:1 44:13,15,17 18:13,15 37:24 useful 56:11 
+
+19:728:16 37:11 45:15,16 47:5 49:11 usually 49:2 
+telling 48:1838:9 44:2 48:7,14 49:3 troubled 33:6 56:1 
+tender 42:10suggested 35:3 49:10 50:12 true 38:3 57:8 
+
+Vterminate 13:9suggesting 51:15 52:17 truncate 32:23 
+terminating 8:8 v 1:6 3:5 5:2 21:16 53:5,9,15,22 trying 26:15,16 
+terms 30:2 validity 18:21suggestion 6:21 53:24 54:13 38:4 52:9 
+
+36:23 52:8 18:25 19:3,206:22 16:1 55:3,19,20 turns 15:17 39:4 
+terribly 32:7 variety 4:19suit 13:12 32:5,8 56:11,13,16,17 two 6:25 7:2,3 
+text 30:22 35:24 10:16 46:1432:9,13,14,14 57:18,20 58:4 7:23 8:23,24
+Thank 3:9 27:2 Vermont 24:2435:5 50:14 59:18 15:18 16:5 
+
+27:6 45:21 vexatious 51:1856:18 58:22 third 9:7 20:6 18:11 25:5 
+56:3,4,9 60:11 view 8:24suits 9:16 51:18 24:17 43:4 31:12 34:14 
+
+then-appropri... violated 60:3summary 4:17 thought 20:1 35:25 38:13 
+44:22 violation 47:20supporting 1:22 23:18 25:16 50:12 
+
+then-Justice 47:222:11 45:25 28:19,20 Twombly 37:11 
+31:23 34:22 violations 52:5suppose 12:3 three 6:24 47:7 type 26:11 
+42:3,19 vitiated 17:1314:17,17 28:14 59:21 
+
+Utheory 47:19 17:1936:2 44:18 throws 49:18 
+thing 12:2 18:12 unaccepted 18:1 voluntary 51:13supposed 36:23 ticking 41:15 
+
+18:14 36:12 27:25 29:13 58:13Supreme 1:1,13 ties 52:2 
+38:20 54:20 42:7 vulnerable 52:9sure 36:7 43:23 time 4:15 5:22 
+56:11 57:22,23 unartfully 58:2346:23 47:21 6:9,11,12 7:13 Wthings 7:3 8:24 59:148:13 7:14 15:4 
+
+wages 6:1118:11 uncompensatedSwisher 44:2 16:16,17 26:13 
+wait 36:11think 4:10 5:1 4:1459:21 27:1 30:19 
+waive 27:18,205:20 7:23 8:23 unconstitutio... Symczyk 1:7 3:5 37:25 41:22 
+
+27:21,21 31:20 9:17 10:15,15 38:1024:2 30:5 47:16 51:16 
+waived 27:1511:25 12:1 uncontested31:14 43:15 58:2,15,21 
+walked 8:19,2013:21 15:2 7:1053:19,19 59:10,14 
+
+8:2116:12 17:18 underminesSymczyk's 24:4 times 17:15 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+72 
+
+want 6:23 7:4 30:22 $7,500 6:6 8:21 500 37:19 
+8:17 11:4 woman 25:9 55:7 5556 5:11 
+31:11 34:13 wonderful 25:21 $7500 11:19,20 56 2:14 
+36:10,13 37:2 
+39:7 40:18 
+49:19,19 57:6 
+
+words 24:16 
+work 4:14 13:18 
+
+30:18 44:7,8 
+
+11:21 31:10,15 
+
+1 
+6 
+
+60 24:6 
+wanted 22:23,24 59:18 10:04 1:14 3:2 68 6:3 9:12,15 
+
+44:3 57:17 working 54:12 11 15:18 9:18 13:14 
+wants 7:2 32:15 works 59:17 11-1059 1:5 3:4 17:22 21:21,23 
+
+39:6,8 41:21 worry 41:7,17 11:05 60:13 22:4,8,10,19 
+55:24 worst 39:23 110 43:3,7 22:20 23:4,5,6 
+
+Washington 1:9 57:19,20,21,23 111 43:7 23:8 27:9,25 
+1:18,21 worth 49:18 12(b) 22:1 28:19 30:16,20 
+
+wasn't 23:18 wouldn't 15:15 14 52:21 30:22 33:8 
+28:15,15 30:3 15:16 35:17 14-day 30:25 35:13 36:17,20 
+59:10 36:11,11 15 44:22 37:20 46:12 
+
+wasting 51:16 write 57:5 16 35:3 55:4 
+waxing 30:4 
+way 5:1 12:10 
+
+12:15 15:9 
+16:6,13 20:17 
+24:3 25:16 
+28:13 30:19 
+37:8 41:1 
+43:25 44:7,15 
+49:20 52:1 
+53:10,13 57:15 
+57:18 
+
+ways 34:4 58:17 
+week 57:11 
+Westminster 
+
+25:3,4,23 
+we'll 3:3 45:22 
+
+58:22 
+we're 15:20,21 
+
+38:3 39:19,20 
+40:19 
+
+we've 50:16 
+widespread 
+
+54:10 
+willing 3:13 11:8 
+
+23:15 30:9 
+55:5 
+
+win 9:3 23:16 
+wish 12:5 13:8 
+wishes 9:1 
+
+writing 24:7 
+26:10 33:14 
+39:2 
+
+wrong 53:17 
+wrote 28:5 
+
+X 
+x 1:2,8 
+
+Y 
+Yang 1:20 2:9 
+
+45:22,23 46:1 
+46:22 47:2,5 
+47:20 48:2,7 
+48:20 49:3,15 
+49:25 50:7,11 
+50:18 51:6 
+52:15,21 53:15 
+53:21 54:1 
+55:16,19 56:4 
+58:9 
+
+Yeah 52:21 
+year 11:13 
+years 13:5 
+York 1:16,16 
+
+Z 
+zero 31:14 
+
+$ 
+
+1750 25:4 
+1788 25:4 
+18 44:22 
+
+2 
+2 52:22 
+2012 1:10 
+216 35:4 51:24 
+
+54:20 
+216(b) 13:22 
+
+23:22 24:1,17 
+32:19 35:25 
+44:5,6 
+
+23 17:4 
+255 41:3 
+27 2:7 
+
+3 
+3 1:10 2:4 47:17 
+
+48:6 
+30 54:10 
+341 42:6 
+
+4 
+4 36:17 
+407 15:20 
+408 18:17 
+445 42:6 
+45 2:10 
+
+7 
+75 35:12 
+77 6:8 
+79 6:8 
+
+8 
+8(c) 48:25 
+
+withdrawn 27:9 $100 51:2,3 5 
+
+Alderson Reporting Company 
+
+

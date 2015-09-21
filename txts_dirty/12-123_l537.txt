@@ -1,0 +1,4804 @@
+
+        
+         
+
+                       
+       
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10  
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20  
+21  
+22  
+23  
+24  
+25
+
+Official 
+
+Page 1
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+MARVIN D. HORNE, ET AL., : 
+
+Petitioners : No. 12-123 
+v. : 
+
+DEPARTMENT OF AGRICULTURE : 
+- - - - - - - - - - - - - - - - - x 
+
+Washington, D.C. 
+Wednesday, March 20, 2013 
+
+The above-entitled matter came on for oral 
+argument before the Supreme Court of the United States 
+at 10:10 a.m. 
+APPEARANCES: 
+MICHAEL W. McCONNELL, ESQ., Washington, D.C.; on behalf 
+
+of Petitioners. 
+JOSEPH R. PALMORE, ESQ., Assistant to the Solicitor 
+
+General, Department of Justice, Washington, D.C.; on 
+behalf of Respondent. 
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                   
+
+                    
+
+                   
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11  
+12  
+13  
+14  
+15  
+16  
+17  
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25
+
+Official 
+
+Page 2
+ C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+MICHAEL W. McCONNELL, ESQ. 
+
+On behalf of the Petitioners 3 
+ORAL ARGUMENT OF 
+JOSEPH R. PALMORE, ESQ. 
+
+On behalf of the Respondent 27 
+REBUTTAL ARGUMENT OF 
+MICHAEL W. McCONNELL, ESQ. 
+
+On behalf of the Petitioners 56 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 3
+ P R O C E E D I N G S 
+
+(10:10 a.m.) 
+CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+first this morning in Case 12-123, Horne v. Department 
+of Agriculture. 
+
+Mr. McConnell? 
+ORAL ARGUMENT OF MICHAEL W. McCONNELL 
+
+ON BEHALF OF THE PETITIONERS 
+MR. McCONNELL: Mr. Chief Justice, and may 
+
+it please the Court: 
+There's a surprising number of difficult 
+
+merits questions lurking in this case, mostly involving 
+whether there was a taking, and if so, how it should be 
+conceptualized and valued. 
+
+JUSTICE SOTOMAYOR: Could I -- could I just 
+stop you on a factual matter --
+
+MR. McCONNELL: Certainly. 
+JUSTICE SOTOMAYOR: -- because it has 
+
+confused me. As I look at the captions of the cases, 
+there appear to be two different partnerships: One 
+partnership, known as Raisin -- doing business as Raisin 
+Valley Farms, has Mr. Horne and his wife as the 
+partners. 
+
+Larsen Valley, the producer -- not the 
+producer, the handler -- has four other, the Hornes, 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 4 
+plus two other people. So who owns the raisins? Isn't 
+that the first partnership of the husband and wife? And 
+isn't the handler a second partnership that does the 
+business of handling? 
+
+MR. McCONNELL: The other two partners in 
+Lassen were Laura Horne's parents, now deceased. 
+
+JUSTICE SOTOMAYOR: But the estates have 
+been substituted. 
+
+MR. McCONNELL: Substituted. That's right. 
+JUSTICE SOTOMAYOR: So isn't it two legal 
+
+entities, one who owns and one who handles? One 
+partnership produces, one partnership handles? 
+
+MR. McCONNELL: The Department of 
+Agriculture did not distinguish among them. 
+
+JUSTICE SOTOMAYOR: Well, I don't care if 
+they did or they didn't. I mean, we should know. Are 
+they two separate legal entities? One who produces --
+
+MR. McCONNELL: They are separate -- they 
+are separate legal entities, all effectively controlled 
+by the same family. 
+
+JUSTICE SOTOMAYOR: Well, that's -- you 
+know, in the cat -- you get some limited liability by 
+creating separate entities, so the creature who owns is 
+one partnership, and the -- and the entity that 
+produces, that handles, is a second one. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 5
+ JUSTICE SCALIA: I assume this is one of 
+
+those difficult merits questions you were alluding to, 
+it doesn't go to whether there's jurisdiction, but to 
+whether the claim of a taking can be asserted by the 
+partnership in question, isn't it? 
+
+MR. McCONNELL: That's right, 
+Justice Scalia. 
+
+JUSTICE SCALIA: I don't -- I don't see how 
+it goes to jurisdiction, which is the only question 
+before us. 
+
+JUSTICE SOTOMAYOR: Well, it does to my mind 
+because what is the claim, assuming that the producer 
+owns -- the producer entity owns the raisins. What 
+exactly is being taken from the handlers? Is it the 
+percentage -- it can't be the raisins because they don't 
+own them. 
+
+MR. McCONNELL: Well, Justice Sotomayor, 
+I'm -- I'm delighted to preview our -- our argument on 
+the merits on that. 
+
+JUSTICE SOTOMAYOR: What -- what do they 
+own? 
+
+MR. McCONNELL: So the -- so the --
+JUSTICE SOTOMAYOR: What is it that's being 
+
+taken from the handler entity? 
+MR. McCONNELL: The order in this case was 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 6 
+issued against the -- the Hornes in their capacity as a 
+handler only, so the entire fine was paid by them. None 
+of the fine is attributable to anyone in their capacity 
+as a producer. 
+
+JUSTICE SOTOMAYOR: All right. So go back. 
+What is the -- what was taken from them -- you're saying 
+it's just the fine, that the fine is a taking or -- what 
+was the interest that they're claiming was taken by the 
+government? They didn't own the raisins, so they get 
+paid a fee for handling. 
+
+MR. McCONNELL: So -- so this is -- this is 
+our position, Justice Sotomayor. I think we have to 
+look at what is it that the Department of Agriculture 
+attempted to take. So, in the demand letter from the 
+Department of Agriculture addressed to the Hornes, 
+they -- they asked the Hornes to deliver California 
+raisins, or the dollar equivalent. So that's the fact 
+upon which all of this case is -- is built. 
+
+Now, what is the legal significance of that, 
+California raisins or the dollar equivalent? It is our 
+legal position, or it will be our legal position on the 
+merits that when the government seeks a specific 
+physical property, a res, or its monetary equivalent, 
+that that is a taking of the res itself. And there's --
+and there's support for that in the -- for precedent 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 7 
+from this Court. The closest case is Village of 
+Norwood v. Baker. 
+
+In this case, the -- the city condemned a 
+strip of land for the purpose of building a road. They 
+tried to get out of paying any compensation by claiming 
+that the abutting landowner would gain value. That was 
+rejected. They were assessed $2,000 compensation for 
+the taking. 
+
+And then the city turned around and issued a 
+special assessment against the landowner for precisely 
+that $2,000. The landowner came back up to this Court, 
+and this Court held that it was a taking -- a taking of 
+the land. 
+
+And in a subsequent case just a couple of 
+years later, the Court described this as a, quote 
+"actual confiscation of private property to public use." 
+
+JUSTICE KENNEDY: But you -- you began by 
+saying that these are merits defenses, but you wanted to 
+focus first on -- on the jurisdictional question that's 
+before us. 
+
+MR. McCONNELL: That's right. I hope it 
+helps to inform the jurisdictional question. But the 
+jurisdictional question is this: The Ninth Circuit held 
+that my clients could not even raise their takings claim 
+on the merits until they had first gone to the Court of 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 8 
+Claims. 
+
+I think there are three things wrong with 
+that. 
+
+JUSTICE GINSBURG: Am I right in thinking 
+that there is no dispute on that point, that the -- the 
+takings claim could have been asserted by the Hornes, as 
+producers, in the Court of Federal Claims? 
+
+MR. McCONNELL: I think that the government 
+no longer disputes, although you should ask them to 
+be -- to be clear -- I think that they no longer dispute 
+that this is not a jurisdictional client, even though 
+they prevailed after the petition for rehearing was 
+filed in the Court of Appeals --
+
+JUSTICE GINSBURG: Well, jurisdictional --
+MR. McCONNELL: -- on the ground that it was 
+
+jurisdictional. 
+JUSTICE GINSBURG: -- jurisdictional or not, 
+
+as a practical matter, producers who are not subject to 
+fine as handlers, but the producers of the raisins whose 
+raisins are being segregated, could they go to the Court 
+of Federal Claims and say my raisins have been taken? 
+
+MR. McCONNELL: The -- whether the claim is 
+being brought in the capacity of producer or handler I 
+think is not relevant to one of our arguments, and it is 
+relevant to the other argument. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 9
+ JUSTICE GINSBURG: But I'd just like a 
+
+straight answer to that question. You -- you are 
+representing producers, and they just produce. 
+
+MR. McCONNELL: No, no. No, we're 
+representing people who are both producers and handlers. 
+
+JUSTICE GINSBURG: I'm saying 
+hypothetically -- hypothetically. Is the Court of 
+Federal Claims the proper forum for a producer? 
+
+MR. McCONNELL: It depends upon whether the 
+taking has been from them or not. In the ordinary case, 
+the ordinary relationship between a producer and a 
+handler, the producer is not paid for the reserve 
+raisins and therefore any payment that would come, any 
+lawsuit on behalf of those raisins would go to the 
+producer, and that would go I think to the Court of 
+Claims. 
+
+In this case, though, the business model is 
+quite different from that and the producers in this case 
+were paid everything. They received full value --
+market value for their raisins. The only people who are 
+out any money in this case are the Hornes in their 
+capacity as handler. So that's why they are the 
+only ones --
+
+JUSTICE SOTOMAYOR: But the problem is that 
+they weren't entitled to that money. Meaning they had 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 10 
+to pay it over to the producer. The producer was going 
+to pay them a handling fee, but that money didn't belong 
+to them. It belonged to the producers who supplied them 
+with the raisins and expected payment for them --
+
+MR. McCONNELL: I'm not sure what --
+JUSTICE SOTOMAYOR: -- if they were sold in 
+
+the ordinary course. 
+MR. McCONNELL: I'm not sure which 
+
+money you're -- they have not asserted any claim on any 
+money. The producers have been completely paid off. It 
+is the handlers who have been held responsible. And the 
+reason they were held responsible was the following 
+logic, and you see this on -- on -- on page 78 of the 
+judicial officer's opinion. 
+
+They were held responsible because in 
+their -- in their processing capacity, when they were 
+doing the stemming, the seeding, the fumigating, the 
+packing, that this was regarded by the Department of 
+Agriculture as possession -- physical possession of the 
+raisins and acquisition of the raisins, even though they 
+never had title to the raisins. 
+
+It's the Department of Agriculture that has 
+attached to them a possessory interest in the raisins 
+and then assessed them the full monetary equivalent of 
+those raisins, full market value, $484,000 for the 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 11 
+market value because it's -- because under this very 
+unusual regulatory scheme the government regards them as 
+having possessed the raisins even though that -- that is 
+not --
+
+JUSTICE KAGAN: Mr. McConnell, I'm sorry. 
+Could I -- along the lines of what Justice Ginsburg was 
+saying, suppose that the Hornes had given over all the 
+raisins, right, but that they thought that this was 
+improper, that this marketing order was -- it was a 
+violation of the takings clause. Could they have gone 
+to the Court of Claims, via the Tucker Act, and said, we 
+want our money back? 
+
+They gave -- they gave over the raisins, 
+they say we're entitled to compensation. Could they 
+have gone through the Court of Claims? 
+
+MR. McCONNELL: If they had -- if they had 
+not been paid for the raisins, they had taken raisins to 
+a handler, received no money for them, I think that they 
+could go to the Court of Claims. 
+
+JUSTICE KAGAN: In other words, the Hornes 
+did what the marketing order suggested they should do. 
+They gave over the raisins. But they said this is just 
+improper. You're saying they could go to the Court of 
+Claims? 
+
+MR. McCONNELL: Yes. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 12
+ JUSTICE KAGAN: Okay. So if -- if that's 
+
+the case, I guess then the question is, why didn't they 
+have to go that route? 
+
+MR. McCONNELL: They didn't -- they didn't 
+go that route, and the question I think is what are the 
+-- what are the legal consequences of that --
+
+JUSTICE KAGAN: Right. 
+MR. McCONNELL: -- because what they -- what 
+
+they knew was that they were not going to be compensated 
+for the raisins, and therefore they came up with a --
+with a plan, a business plan that they believed made --
+eliminated any handler and made it unnecessary for any 
+of the independent producers, on whose behalf they're 
+operating, to turn over raisins to the government. 
+
+The plan was ultimately rejected and we 
+haven't brought a -- a cert petition on it, but the plan 
+actually complies with the -- with the language of 
+the -- of the regulation because they believe that in 
+their capacity as handler, as processor, that they never 
+acquired the raisins. "Acquisition" is the key term for 
+becoming a handler under the rule. 
+
+And they believe that since they were simply 
+providing a service for -- for $12 a ton to their 
+neighbors, that they never acquired the raisins, they 
+never possessed the raisins, and therefore no one had to 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 13 
+comply the regulation. 
+
+JUSTICE SCALIA: Well, some of the raisins 
+
+were their own. Some of the raisins were their own. 
+
+MR. McCONNELL: That's correct. 
+
+JUSTICE SCALIA: At least as to that, that 
+
+wouldn't be true, right? 
+
+MR. McCONNELL: That's -- that's correct. I 
+
+think that's correct. 
+
+JUSTICE KENNEDY: Well, to get you back to 
+
+the -- the jurisdiction point, let's -- let's just 
+
+assume a hypothetical case where a regulated entity has 
+
+to pay an exaction which it deems to be a penalty. And 
+
+let's assume it can go to the Court of Claims, but it 
+
+doesn't. 
+
+It waits until the penalty's assessed and 
+
+then when the penalty's assessed it says, this is a 
+
+taking. That -- is that the case that you want to 
+
+discuss with us today? 
+
+MR. McCONNELL: That's right. When the 
+
+underlying order would be a taking and they have been 
+
+assessed money because they didn't comply with the 
+
+taking, we believe they can challenge that as a taking. 
+
+And both under the AMAA procedures, in which are exclusive, 
+
+I think that they have to go through the -- through the 
+
+Department of Agriculture and then to the district 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 14 
+court, but I also think under the principles of the --
+announced by this Court in of the Apfel decision that 
+they are entitled to a remedy in the district court. 
+
+JUSTICE GINSBURG: Mr. McConnell, would you 
+explain the -- if they were just handlers and weren't 
+producing any raisins, if they were just handlers, do 
+they have a claim and where? And if they were just 
+producers -- I take it from the question I asked and the 
+question Justice Kagan asked that if they were just 
+producers, the raisins got set aside, they were paid for 
+only the ones that went to market, they could go to the 
+Court of Claims. 
+
+But now they're just handlers, as this 
+entity is for most of the raisins that are involved, 
+some 80 percent, right? It's only about 20 percent is 
+their own. So could this work for someone who was just 
+a handler, doesn't produce any raisins? 
+
+MR. McCONNELL: So if they are just a 
+handler --
+
+JUSTICE GINSBURG: Yes. 
+MR. McCONNELL: -- as the Department of 
+
+Agriculture treated them, as far as the Department of 
+Agriculture is concerned they are only a handler. They 
+are required to raise -- exhaust their claims before the 
+Department of Agriculture and then challenge the order 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 15 
+in the district court. 
+
+JUSTICE GINSBURG: What I'm -- I'm trying to 
+understand is this scheme. Apparently it wasn't enough 
+just to be a handler or just to be a producer. The 
+claim that you're making turns on the coincidence of 
+being both the producer and a handler. 
+
+MR. McCONNELL: I don't think that that's 
+so. I think that we -- that the Hornes ought to prevail 
+on either -- in either of their capacities. 
+
+JUSTICE GINSBURG: So any handler, any 
+handler could be making the same claim? 
+
+MR. McCONNELL: Any handler who has a 
+business model that is similar to this. But most 
+handlers --
+
+JUSTICE GINSBURG: But what do you mean 
+by -- what's the business model that's similar to this? 
+
+MR. McCONNELL: So most handlers, if they're 
+in compliance with the order, they take all the raisins 
+from the producers, they only pay for -- for the free 
+pool of raisins. They don't pay for the reserve raisins 
+and they never have any interest in the reserve raisins. 
+In this case, the Hornes did not operate that way. 
+The -- the producers received full value for all of 
+their raisins. 
+
+So the producers are -- are not in the case. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 16 
+They have no standing. They have no pocketbook injury. 
+The -- the entire pocketbook injury in this case is 
+borne by the Hornes in their capacity as a handler. 
+
+JUSTICE SOTOMAYOR: I'm sorry. 
+JUSTICE ALITO: In response to --
+JUSTICE SOTOMAYOR: In the Horne model, the 
+
+handlers buy -- buy the free raisins and then pay the 
+producers, is that what it --
+
+MR. McCONNELL: That's correct. 
+JUSTICE SOTOMAYOR: Oh, so that's the 
+
+difference in this model, they don't take title to the 
+raisins is what you're saying? 
+
+MR. McCONNELL: Exactly. And the Hornes 
+believed that this would mean that they were not 
+handlers. 
+
+JUSTICE SOTOMAYOR: All right. Let me --
+let me --
+
+MR. McCONNELL: And that -- and they were 
+found to be handlers anyway. 
+
+JUSTICE SOTOMAYOR: What is -- what is the 
+value in permitting a party who doesn't own property to 
+raise a taking claim on behalf of other people? 
+Meaning, doesn't the system have an interest in ensuring 
+that people comply with their legal obligations, and to 
+the extent that you choose to violate the law the way 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 17 
+they have here, that the fine is punitive and not 
+compensatory. 
+
+Meaning, you don't own the raisins, but you 
+were obligated to put raisins aside for someone else. 
+You were their agent and you failed to meet a government 
+obligation that was independently on you. 
+
+MR. McCONNELL: No. 
+JUSTICE SOTOMAYOR: So I go back to my 
+
+question: What was the taking? Since you didn't own 
+the raisins, the taking is the fine is what you want to 
+call the taking. 
+
+MR. McCONNELL: The taking is what the 
+government demanded, which was either give me your house 
+or give me your money, give me your raisins or give us 
+the monetary equivalent. 
+
+JUSTICE SOTOMAYOR: But they're not your 
+raisins. They’re not your raisins. 
+
+MR. McCONNELL: By the time -- by the time 
+this order was enforced, the raisins were gone and so as 
+a practical matter, only one of those two alternatives 
+was left as a matter of timing. 
+
+JUSTICE ALITO: Well, but in answer to 
+Justice Ginsburg's question that -- you said the 
+producers could go to the -- the Court of Federal Claims 
+to contest the taking of -- producers could go to 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 18 
+contest the taking of raisins. 
+
+MR. McCONNELL: If they had not been paid 
+for the raisins. 
+
+JUSTICE ALITO: If they had not been paid 
+for it. 
+
+MR. McCONNELL: Right. 
+JUSTICE ALITO: But are you -- does that 
+
+mean you do not think that the AMAA withdraws Tucker Act 
+jurisdiction? 
+
+MR. McCONNELL: It withdraws Tucker Act 
+jurisdiction only for handlers. So if we're talking 
+about pure producers --
+
+JUSTICE ALITO: Only for handlers. 
+MR. McCONNELL: -- pure producers do not go 
+
+to the -- don't have to go through the AMAA process. 
+JUSTICE SCALIA: Why? Why -- why does it 
+
+withdraw for the one and not the other? 
+MR. McCONNELL: These New Deal-era programs, 
+
+Justice Scalia, are somewhat -- the purpose is somewhat 
+obscure --
+
+JUSTICE SCALIA: No, I don't mean the 
+policy. I don't mean the policy reason. What in the 
+law leads you to that conclusion? 
+
+MR. McCONNELL: Oh, well, this is 
+straightforwardly set forth in the -- in the -- in 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 19 
+Sections 14(a) and 15(a) of the AMAA. I don't think 
+that's in dispute. So only producers are -- are 
+regulated by this program. Only producers have a right 
+to go through their remedies in the Department of 
+Agriculture. 
+
+Only producers have to do that. It's --
+it's a -- it's completely a producer --
+
+JUSTICE GINSBURG: You said --
+MR. McCONNELL: I'm sorry, I'm sorry. 
+
+Excuse me. Each of those was -- please substitute the 
+word "handler" for each of those. It's only the 
+handlers that are regulated under this -- under this 
+program. 
+
+So -- and -- and my clients were treated as 
+handlers. They believed that they were not. But it is 
+the Department of Agriculture that has attached this --
+this status to them. And it's -- it's I think quite a 
+Catch 22 for the government to come along and say, 
+although we are fining you $700,000 in your capacity as 
+a handler, you're not a handler for purposes of 
+challenging the legality of that order. 
+
+JUSTICE BREYER: I'm just trying to get to 
+what you're arguing about. And I might be off base by 
+now. I feel like handlers, purchasers, raisins, like an 
+old Abbott and Costello movie. I just want to see if 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 20 
+I'm right. Tell me. Just say you're wrong and I don't 
+go into it further. 
+
+There -- there are some people, they've been 
+-- they are either -- they have some raisins, all right. 
+And these particular people, whom the Department has 
+said have acquired the raisins, it said they acquired 
+the raisins. And so they're there with some raisins, 
+and then the government says, do this thing with your 
+raisins. And they don't want to do it, so they don't. 
+They don't do it even though the law says do it. 
+
+And then they say the law is 
+unconstitutional and, moreover, you fined us a huge 
+amount of money and we don't want to pay it because the 
+law is unconstitutional, and we consider that money that 
+we paid. Call it a fine, call it what you want. We 
+consider we shouldn't have paid it and now we want it 
+back and we want compensation and we think it's a taking 
+and where do we go. Can't we make that argument in the 
+Ninth Circuit? It's something like that; isn't that 
+what we're arguing about? 
+
+MR. McCONNELL: That's almost exactly right. 
+JUSTICE BREYER: But not quite. 
+(Laughter.) 
+MR. McCONNELL: With -- with one detail 
+
+different --
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 21
+ JUSTICE BREYER: Yes? 
+MR. McCONNELL: -- which is that this is the 
+
+proceeding here that decides whether they have to pay. 
+They have not yet paid the fine. 
+
+JUSTICE BREYER: Okay, okay. So we 
+shouldn't have to pay because this is all 
+unconstitutional. And -- and now what's your argument? 
+
+MR. McCONNELL: So -- so they're raising a 
+defense. It isn't that they are -- it isn't that 
+they're getting -- trying to get it back. 
+
+JUSTICE BREYER: And then the Ninth Circuit 
+says go to the Court of Claims. And you say no, we 
+don't have to go to the Court of Claims. 
+
+MR. McCONNELL: But that detail actually is 
+quite important because, remember, you can't even go to 
+the Court of Claims unless you are seeking damages for 
+an actual violation that has already taken place. We 
+could not go to the court -- the Hornes could not go to 
+the Court of Claims right now. What the government says 
+is that they should pay the $700,000 fine first and then 
+go to the Court of Claims to get it back. And that is 
+exactly what this Court said in Apfel, is a, quote, 
+"pointless set of activities that Congress could not 
+possibly have" --
+
+JUSTICE KAGAN: That's true --
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 22
+ MR. McCONNELL: -- "have contemplated." 
+JUSTICE KAGAN: I think that's true, Mr. 
+
+McConnell, as to part of the fine, that part of the fine 
+falls under Apfel, but not the other part. As to the 
+compensation part, it seems to me you have a pretty 
+decent Apfel argument. But as to the penalty part, I 
+don't really understand how the Apfel argument would go. 
+
+It seems to me that as to the penalty part, 
+the key thing is that if they had handed over the 
+raisins, they could have gone to the Court of Federal 
+Claims and had the compensation done there. And the 
+fact that the government is penalizing them for not 
+complying with the marketing order does not fall within 
+the rationale of Apfel. 
+
+MR. McCONNELL: Well, the most pertinent 
+case for that part of the fine, for the penalty part, is 
+Missouri Pacific Railroad v. Nebraska. So this is the 
+case where the railroad was told by the State to do 
+some -- some expensive work, the railroad says no, that 
+would be a taking if we were required to do that. There 
+is no compensation available and so they don't do it. 
+They're fined $500. 
+
+That gets up to this Court and an opinion by 
+Mr. -- Justice Holmes, the Court holds that that is a 
+taking and that the railroad is entitled to challenge 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 23 
+the taking in the form of the fine. So for -- for the 
+penalty portion, the punishment portion of the fine, 
+Missouri Pacific Railroad is actually the more pertinent 
+decision. 
+
+Which comes back -- I don't think I fully 
+answered all the variants of Justice Sotomayor's 
+question. 
+
+JUSTICE BREYER: All I was trying to do was 
+to get you on the basic argument, which you started 
+with, which is why is there -- why was the Ninth Circuit 
+wrong when they said they had no jurisdiction to hear 
+this, that rather, they had to go -- you had to go to 
+the --
+
+MR. McCONNELL: May I tick off the three 
+reasons? 
+
+JUSTICE BREYER: Yes. 
+MR. McCONNELL: One is it has nothing to do 
+
+with jurisdiction. 
+Second, the Tucker Act does not apply to 
+
+cases where -- where there is a defense being lodged to 
+a monetary exaction. That's Apfel, as supplemented by 
+Missouri Pacific Railroad. 
+
+And third, even if that were not so, the 
+AMAA displaces the Tucker Act and they were required to 
+exhaust their remedies before the Department of 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 24 
+Agriculture and take their case to the district court in 
+which they are residing. 
+
+JUSTICE SCALIA: What was the first? I 
+forgot the first already. What was the first? 
+
+MR. McCONNELL: The first is that it isn't 
+jurisdictional and therefore it should not have been 
+raised --
+
+JUSTICE SCALIA: What -- what isn't 
+jurisdictional? 
+
+MR. McCONNELL: The -- the requirement to go 
+to the Court of Claims when you -- when you need to is 
+not jurisdictional, that that's a matter of remedy, that 
+is, it's -- it's the equitable principle that you may 
+not pursue your case for an injunctive relief when 
+there's an adequate remedy at law. 
+
+JUSTICE SOTOMAYOR: Mr. McConnell, in --
+in -- if the producers had decided to challenge this as 
+a Tucker Act violation, they would have had to hand over 
+the raisins? Or could they have just held on to the 
+raisins and said, I'm not handing it over until I get 
+just compensation? 
+
+MR. McCONNELL: So had they held on to their 
+own raisins and sold them, I assume, you don't -- not 
+just left them rot, if they had sold them, then the 
+Department of Agriculture would have called them a 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 25 
+handler because anyone who sells raisins is called a 
+handler, and then they would be fined in their capacity 
+as a handler and it would be a somewhat similar case to 
+this one. 
+
+JUSTICE SOTOMAYOR: All right. 
+MR. McCONNELL: Maybe an easier one than 
+
+this one. 
+JUSTICE SOTOMAYOR: Well, the point is that 
+
+under a normal takings claim, you have to hand over your 
+property, you've lost the value, and you want the 
+government to pay it back to you, correct? 
+
+MR. McCONNELL: Not necessarily correct. 
+There are a whole string of cases in which property 
+owners raise takings as a defense rather than turning 
+over the property. Kaiser Aetna is perhaps the most --
+best known recent case, but out of an administrative 
+context, there's the Florida Power & Light case. Penn 
+Central was -- was like this. Loretto v. Teleprompter 
+is like this. 
+
+There's a whole string of cases. The 
+government themselves cite six such cases, most of them 
+fairly old, for this proposition. So there's nothing 
+unusual about bringing a -- a defensive takings claim. 
+
+Mr. Chief Justice, unless --
+JUSTICE GINSBURG: Mr. McConnell, I don't 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 26 
+want to encroach on your rebuttal time, but one 
+mysterious thing. The first time around, the Ninth 
+Circuit decided this case on the merits. So if you're 
+right, I take it, we remand and then they adjudicate the 
+merits of the takings claim. But they already did that. 
+
+MR. McCONNELL: Yes, Justice Ginsburg. And 
+they did that on a ground that we think is manifestly 
+inconsistent with this Court's precedents. We were 
+prepared to -- we were trying to get an en banc review 
+and were prepared to come to this Court from the merits 
+determination. 
+
+We were blocked from that because the 
+government, after the petition for rehearing was filed, 
+came up with -- calling this a jurisdictional argument, 
+raised this objection for the first time; and the Ninth 
+Circuit panel accepted their view, issued a new opinion, 
+stripping out the entire merits, and substituting this 
+jurisdictional holding that is producing so much 
+enjoyment for us this morning. 
+
+(Laughter.) 
+MR. McCONNELL: May I reserve the remaining 
+
+time? Thank you. 
+CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. McConnell. 
+Mr. Palmore? 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 27
+ ORAL ARGUMENT OF JOSEPH R. PALMORE 
+
+ON BEHALF OF THE RESPONDENT 
+MR. PALMORE: Thank you, Mr. Chief Justice, 
+
+and may it please the Court: 
+I'd like to start where Justice Sotomayor 
+
+started with Petitioner's counsel because any takings 
+analysis needs to begin with a careful identification of 
+what property was allegedly taken. Petitioners in this 
+case have actually advanced two different theories about 
+what property of theirs was taken. What taking is at 
+issue here? Raisins and money. 
+
+We think both takings claims fail for 
+threshold reasons, but they're different threshold 
+reasons that call for different analysis. 
+
+JUSTICE KAGAN: Mr. Palmore, before you do 
+that then, have you conceded the point that this is 
+not jurisdictional? 
+
+MR. PALMORE: We agree that the failure to 
+go to the Court of Claims is not properly viewed as a 
+jurisdictional defect. We did invoke Ninth Circuit 
+precedent below stating that it was jurisdictional. And 
+some of this cases -- this Court's cases put it in 
+ripeness terms, which is an Article III concept. So 
+there has been confusion --
+
+CHIEF JUSTICE ROBERTS: When did you first 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 28 
+raise the argument that it was jurisdictional? 
+
+MR. PALMORE: In our opposition to the 
+rehearing petition. 
+
+CHIEF JUSTICE ROBERTS: And now you are --
+now you are changing back again and saying it's not? 
+
+MR. PALMORE: There was Ninth Circuit 
+precedent holding that it was jurisdictional, and we 
+relied on that and there is certainly language from this 
+Court --
+
+CHIEF JUSTICE ROBERTS: You relied on that 
+when you got to rehearing. You didn't rely on that 
+before you went before the Ninth Circuit, right? 
+
+MR. PALMORE: That's correct. 
+We think -- we think this is properly viewed 
+
+as a substantive defect in the claim, so in a sense the 
+Ninth Circuit, in its initial panel decision, ruled for 
+the government on a substantive defect one, there's no 
+taking. And what it did on rehearing in our view, 
+although it attached the wrong label to it, it 
+substantively was correct in concluding that there was 
+substantive defect number two --
+
+JUSTICE KAGAN: But Mr. Palmore, if you are 
+conceding now that this is not jurisdictional, it seems 
+to me that your Tucker Act argument as a substantive 
+argument, I mean, has been waived. You didn't raise 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 29 
+that argument until the rehearing petition. 
+
+MR. PALMORE: That would certainly be 
+something that -- that the Ninth Circuit could consider 
+in the event there were a remand here. But the Ninth 
+Circuit did decide it. The substance of its bottom line 
+conclusion was correct and all of its analysis was 
+correct. It simply used the wrong words, so we think it 
+is here. 
+
+JUSTICE SCALIA: I'm really -- I'm really 
+confused. You are saying there ought to be a remand 
+here because the question is not jurisdictional, which 
+is just what your friend says, right? 
+
+MR. PALMORE: Well, the Ninth Circuit --
+JUSTICE SCALIA: So the two of you are in 
+
+agreement it ought to go back to the Ninth Circuit, they 
+should do it on the merits, and -- and if that's wrong, 
+we can review that. 
+
+MR. PALMORE: Look, if that happens, of 
+course, as Justice Ginsburg pointed out, the consequence 
+for us is they reinstate the prior panel opinion, in 
+which we win, also --
+
+JUSTICE SCALIA: That may well be, but --
+MR. PALMORE: I'm not going to resist too 
+
+strenuously that kind of remand, but they did decide it. 
+And moreover, they decided something separate, which is 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 30 
+at JA-305 they said something different, which is the 
+kind of threshold defect in the takings claim turning on 
+raisins, which is there is a capacity problem. 
+
+So there are two problems with the raisin 
+claim, a capacity problem and a just compensation 
+problem. The capacity problem is this: In 2002, after 
+having been strictly raisin producers since 1969, 
+entering into a market where there was a reserve 
+requirement from the beginning, they knew what they were 
+getting into, they decided to adopt a new business 
+model, as Petitioner's counsel says. But, as was found 
+below, they adopted a business model that was an 
+intentional, willful attempt to evade regulatory 
+requirements in order to secure an unfair competitive 
+advantage. 
+
+But what they did was they took on the 
+obligations of a handler. They became raisin handlers 
+in 2002. And what came with that status were a series 
+of regulatory obligations that apply only to handlers 
+and under the AMAA can apply only to handlers: The 
+requirement to have raisins inspected, the requirement 
+to file truthful reports, the requirement to make 
+records available, and the requirement to separate out 
+raisins into what's called free tonnage and reserve 
+tonnage, any raisins processed, it doesn't matter who 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 31 
+owns them. 
+
+Those are handler-specific regulatory 
+obligations that were imposed upon them, and they 
+violated every single one of them, willfully and 
+intentionally, in order to secure an unfair competitive 
+advantage. 
+
+And what the USDA did was impose penalties 
+on them for the violation of law that -- that attached 
+to them only as raisin handlers. And then they invoked 
+the judicial review proceedings in Section 14 that 
+provides a judicial review mechanism only for handlers. 
+
+JUSTICE SCALIA: Yes, but part of -- part of 
+that penalty was -- you know, your raisins or your life, 
+right? I mean, it was --
+
+(Laughter.) 
+JUSTICE SCALIA: -- you don't have to pay 
+
+the penalty if you give us the raisins. 
+MR. PALMORE: That's not correct, 
+
+Justice Scalia. They have to give the raisins. 
+Mr. McConnell referred to demand letters --
+
+JUSTICE SCALIA: You mean they -- Is that 
+right, they have to give the raisins? 
+
+MR. PALMORE: They are under a regulatory 
+obligation to provide the raisins. If they violate that 
+regulatory obligation, they are subject to sanctions. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 32
+ JUSTICE SCALIA: Okay. So --
+MR. PALMORE: One component of --
+JUSTICE SCALIA: -- that amounts to the same 
+
+thing, your raisins or the penalty, right? 
+MR. PALMORE: No, but it's not a choice. 
+
+And I think that's very important to point out. There 
+were actually two different demand letters. 
+Mr. McConnell referred to a demand letter saying your 
+raisins or your money. There was an initial demand 
+letter saying: You are a handler; you have to comply; 
+we're going to come get the raisins. The second demand 
+letter said, we showed up -- literally it says, we 
+showed up with our truck, you didn't provide the 
+raisins, so now you have got to provide the cash 
+equivalent. 
+
+And there were also going to be, as there 
+were, separate regulatory proceedings brought against 
+them for violating those -- those obligations. Not just 
+the failure to reserve, but all these handler-specific 
+obligations. They filed false reports. They didn't 
+make raisins available for inspection. 
+
+There were a whole host of regulatory 
+violations that were at issue here, and when they 
+invoked the handler review action in the district court 
+they could assert defenses as a handler. But, for 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 33 
+instance, another producer -- producers can't invoke 
+these -- these judicial review schemes. Another 
+producer couldn't have intervened in that action to 
+assert its producer claim. 
+
+JUSTICE ALITO: As this case stands when --
+as it comes before us, is there a claim that they --
+that money -- the government is trying to take money 
+from them without just compensation? 
+
+MR. PALMORE: That was certainly not how we 
+understood the claim to be litigated below. That's not 
+how the Ninth Circuit thought -- understood the claim. 
+We have been talking about the claim involving the 
+raisins, which fails for a to capacity reason and a just 
+compensation reason. 
+
+JUSTICE ALITO: Is that an issue -- is that 
+an issue we should decide or is that an issue that the 
+Ninth Circuit should decide, whether there is a takings 
+claim for money? 
+
+MR. PALMORE: That was certainly not decided 
+below, so a remand -- to the extent that this was 
+preserved, a remand would be possible outcome there. We 
+think, though, that that claim suffers from separate --
+separate procedural threshold defects. 
+
+JUSTICE ALITO: All right. If we assume for 
+the sake of argument that there is such a claim, why 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 34 
+does that not fall within Apfel? 
+
+MR. PALMORE: Well, we think that -- for 
+several reasons. First of all, the Apfel opinion that's 
+referred to is just a plurality. It's not been adopted 
+by the Court. Second of all, the Apfel analysis relied 
+on this one-for-one, dollar-for-dollar concept. That 
+was a critical part of the plurality's discussion there, 
+and it thought that it would simply be a pointless 
+exercise for Eastern Enterprises to be required to pay 
+the premium and then to go to the Court of Federal 
+Claims and get the exact same amount of money back. 
+
+JUSTICE ALITO: Don't they claim that --
+MR. PALMORE: We suggested that there are a 
+
+whole host of reasons --
+JUSTICE ALITO: Before you leave that, don't 
+
+they claim that the entire amount that is assessed 
+against them is a taking? Now, maybe they are wrong. 
+That the entire amount assessed against them is a taking 
+without just compensation? Maybe they are wrong, but 
+isn't that a merits question? 
+
+MR. PALMORE: That's -- that's -- they are 
+clearly wrong about that, and I -- but I think --
+however you characterize that defect, it defeats this 
+dollar-for-dollar pointless exercise point that 
+Apfel plurality --
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 35
+ JUSTICE KAGAN: Well, why is that a 
+
+necessary part of Apfel? Why didn't Apfel just mean 
+when we are dealing with cash you don't have to go to 
+the Court of Claims? So even if -- you know, you can 
+have a discussion in the district court about whether 
+it's not dollar-for-dollar and it should be discounted 
+in some way. 
+
+But why should the fact that its 
+dollar-for-dollar mean -- why is that a requirement, as 
+opposed to just it's cash and so the question of, 
+like -- you know, handing some -- handing it all over 
+and getting some back, that can be done in the district 
+court rather than making somebody file a separate suit? 
+
+MR. PALMORE: Well, I think there were two 
+things going on in Apfel and there were really two 
+distinct reasons why the plurality in Apfel thought that 
+there was no requirement to go to the Tucker Act there. 
+One was that it thought that in a statute like that, 
+that simply allocated benefits and burdens among private 
+entities, Congress would not have intended there to be 
+compensation available in the -- in the event that there 
+were a taking. 
+
+And that was actually the government's 
+position in that case and the Apfel plurality cited to 
+that portion of the government's brief. And it cited 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 36 
+cases in its discussion that weren't dollar-for-dollar 
+or even cash transfer cases in which the Court had gone 
+to the merit of takings claims without consideration of 
+a Tucker Act remedy. 
+
+Then there is the second idea, which is the 
+cash transfer idea. And we think that the 
+dollar-for-dollar aspect of that was important to the 
+plurality's analysis because it viewed that as evidence 
+that Congress would not have intended the Tucker Act to 
+be deployed because it would have been a pointless 
+exercise. So it really went to what Congress's intent 
+was. 
+
+Here, of course, for myriad reasons, that 
+dollar-for-dollar analysis breaks down. 
+
+JUSTICE BREYER: No, no, but there's a 
+similar -- I mean, it seemed to me, again simplifying, 
+that underlying this their clients think this whole 
+raisin program is unconstitutional. What it does is it 
+takes raisins that we grow, in effect throws them in the 
+river. And in the thirties, that was done to raise 
+raisin prices. 
+
+And they think as a matter of policy that 
+just hurts people by raising prices, and as a matter of 
+constitutional law it takes raisins from some people 
+that belong to them and uses them for this bad purpose. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 37 
+Okay, that's their view of it, something like that, 
+isn't it? 
+
+MR. PALMORE: Yes. 
+JUSTICE BREYER: Fine. So they're making 
+
+that kind of constitutional claim. Now, I would think 
+if all you told me was that and I knew nothing about all 
+these statutes, I would say that's the kind of claim 
+that should be made in a Federal district court, period, 
+not the Court of Claims. Because their government isn't 
+going to compensate them for anything. That's against 
+the whole point of the program. 
+
+Either this program is valid or it isn't. 
+And if it isn't, some authoritative set of courts should 
+tell us that. So I have a feeling this is somehow not a 
+right fit with the Court of Claims. 
+
+Now, you explain to me why that purely 
+instinctive feeling at this point is completely wrong. 
+
+MR. PALMORE: Sure. Justice Breyer, we've 
+now shifted back to the -- the first theory about the 
+property, which is the raisins. What they could have 
+done in 2002, would they have been a producer of 
+raisins, solely a producer of raisins for decades, at 
+any point during -- between 1969 and 2002, they could 
+have gone to the Court of Claims and said, this reserve 
+requirement, is a taking of my raisins, I want my just 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 38 
+compensation. 
+
+That is not just a remedy, as Mr. McConnell 
+suggests, it is a constitutional condition on the taking 
+of private property for public use. As long as there's 
+just compensation, there simply is no violation. So 
+that's why --
+
+JUSTICE SCALIA: That couldn't be what the 
+statute meant. I think that's what Justice Breyer says. 
+Did -- did Congress create a statute in which we're 
+going to take your raisins and then you can go to the 
+Court of Claims and get your money back. I mean, 
+that -- that surely is not what Congress contemplated. 
+The -- the whole notion of the program is you can't get 
+your money back in the Court of Claims. 
+
+Now, if you're raising a constitutional 
+objection, that's something else. That should be done 
+in district court. But to say that Congress 
+contemplated -- you know, we'll take your raisins and 
+then you sue in the Court of Claims, they give you your 
+money back. That's a weird statute. 
+
+MR. PALMORE: Justice Scalia, I have two --
+two responses to that. First of all, these claims have 
+been litigated in the Court of Claims; the Evans case, 
+the Cal-Almond case, both of which we cite in our brief. 
+Raisin producers, or in the Cal-Almond case it was an 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 39 
+almond producer, went to the Court of Claims and said 
+this reserve requirement is a taking, I want my money. 
+And they lost; and the Court of Claims -- correctly, in 
+our view -- held that there was no taking. 
+
+That said, we do agree that it is actually a 
+close question whether Congress would have intended 
+compensation to be provided in a situation like this 
+one, in the event the raisin reserve program were found 
+to be a taking. We've said -- we've said in our brief, 
+we do view that as a close question, although on 
+balance, we think that the proper answer is that there 
+is a remedy -- or, sorry, there is just compensation 
+available in the Court of Claims. 
+
+But there are cases, Justice --
+JUSTICE SCALIA: And you -- you think that's 
+
+a close question? You think that the way the statute is 
+supposed to operate, once it is held that this is an 
+unconstitutional taking, is that every year, the 
+government takes the raisins and every year, the grower 
+goes to the Court of Claims and gets the money back for 
+the raisins. Is that the program that Congress 
+anticipated? 
+
+MR. PALMORE: Well, we do agree that it's a 
+close question for the --
+
+JUSTICE SCALIA: I don't think it's close at 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 40 
+all. That's a crazy statute. Every year we're going to 
+take raisins and every year we're going to pay you in 
+the Court of Claims. What's the purpose of that? 
+
+MR. PALMORE: Well, of course, Congress 
+didn't think this was a taking. And it -- and it built 
+considerable administrative flexibility into the 
+statute, and at the end of the day, that's what 
+convinces us that Congress would not have intended to 
+preclude compensation in the Court of Claims and to --
+to opt for an injunction instead because the Secretary 
+of Agriculture has wide latitude to adjust. 
+
+So the compensation wouldn't be paid year 
+after year, as your hypothetical suggested. The program 
+could be adjusted. A reserve requirement is only one 
+way of complying with the kind of supply control 
+provisions of the statute. There are any number of 
+options available. 
+
+But I'd also point out that in this Court's 
+precedence in Monsanto and Regional Rail, those were 
+both statutory schemes which had their own compensation 
+mechanism, as does this one, this reserve raisins that 
+producers do get paid sometimes for them in a smaller 
+amount. Those were cases in which the statutes did have 
+compensation mechanisms, and this Court held that the 
+Tucker Act was available as kind of a supplementary 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 41 
+compensation in the event --
+
+JUSTICE GINSBURG: Mr. Palmore, am I 
+incorrect in thinking that the government is saying, 
+handlers cannot raise the constitutionality of the 
+Raisin Marketing Order? You've told us that the 
+producers can go to the Court of Claims. What about the 
+handlers? They're at least being fined for violating 
+the Act, and it's their position that the whole thing is 
+unconstitutional. 
+
+Can they raise the constitutionality of the 
+whole arrangement defensively, or they simply can't 
+raise the constitutionality of the Act? 
+
+MR. PALMORE: Justice Ginsburg, I think this 
+goes back again to the property question. If the claim 
+is that it's unconstitutional because it takes 
+producers' property, they can't raise that in this 
+proceeding. If the property is the raisins, they can't 
+raise that in this proceeding. They need to -- to 
+comply and go to the Court of Claims for compensation, 
+which means there has been no -- in the event there's a 
+taking, it's a constitutional taking because just 
+compensation is provided. 
+
+JUSTICE GINSBURG: But it would be --
+MR. PALMORE: If the claim -- if the claim 
+
+is that the money that was taken from me, the fine, that 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 42 
+itself is a taking, then we think that claim can and 
+must be brought in the context of the AMAA proceeding. 
+That was not how the Court of Appeals understood the 
+claim here to be, and there's no precedent for the idea 
+that a fine for violation of law can be articulated as a 
+taking of the lawbreaker's property without just 
+compensation. I haven't seen any case that -- that 
+stands for that proposition and that would be quite 
+remarkable. 
+
+JUSTICE KENNEDY: But then you just -- but 
+then you just lose on the merits. What the Ninth 
+Circuit says, they can't even argue this. 
+
+MR. PALMORE: Well, Justice Kennedy --
+JUSTICE KENNEDY: I -- I thought that what 
+
+we were going to decide was whether or not, assuming you 
+can go to the Court of Claims, you must go to the Court 
+of Claims, can you prefer to wait, have a penalty 
+assessed against you and say this is unconstitutional, 
+it's a taking. Your position is you can't say that. I 
+don't understand why. Other than, if you want to talk 
+about Williamson and so forth, we can get into that. 
+
+MR. PALMORE: But, Justice Kennedy, the --
+the Ninth Circuit didn't understand the taking claim to 
+be that the fine for my violation of law is a taking of 
+my money. That's not how the Ninth Circuit understood 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 43 
+the claim, so they didn't analyze it in that way. 
+
+They understood the claim to be that the 
+taking of producers' raisins is a taking, and we 
+lawfully resisted it because it was an unconstitutional 
+taking. The Ninth Circuit correctly rejected that 
+because there was nothing unconstitutional about it 
+because it was not without just compensation. 
+
+The Tucker Act is the just compensation. 
+This Court has held --
+
+JUSTICE BREYER: The just compensation, I 
+take it, in the program is supposed to come from the 
+fact that raisin prices go up. So the poor children 
+with their noses pressed to the glass because they can't 
+pay the raisins, their parents are the ones who are 
+paying the compensation. And certainly not the 
+taxpayer, he's not going to pay it, and maybe the other 
+producers will pay, some who get gypped or something, I 
+don't know. But I can't believe that Congress wanted 
+the taxpayers to pay for a program that's going to mean 
+they have to pay higher prices as consumers. 
+
+MR. PALMORE: Justice Breyer, and that goes 
+to the -- to the merits of the case. 
+
+JUSTICE BREYER: No, no. No, it doesn't go 
+to the merits. It goes to whether or not it makes sense 
+to think that the Court of Claims has something to say 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 44 
+about this. And suppose we did this. Suppose we said, 
+given the fact that you filed your thing, whatever it 
+was -- you know, late, and the -- and the light of this 
+very enlightening discussion which has been helpful, we 
+think this is the kind of program and challenge to 
+the program where there isn't going to be a remedy 
+really in the Court of Claims and they ought to go ahead 
+in the Ninth Circuit, and in light of all these 
+enlightening things that we'll write, you just decide 
+the merits of -- is that -- now, I'm sure you're going 
+to say that's absolutely terrible, it won't work at all. 
+So tell me why not. 
+
+MR. PALMORE: Well, Your Honor, of course, 
+the consequence of that is they reinstate our prior 
+victory in the prior panel opinion --
+
+JUSTICE BREYER: No, no, we'd say -- we'll 
+say given the way that we've talked about the program, 
+perhaps it's best to consider this matter fully. 
+
+MR. PALMORE: Well, they did consider the 
+matter fully. In the initial opinion, they said there's 
+no taking here. 
+
+JUSTICE BREYER: Yes. 
+MR. PALMORE: So all of the discussion we're 
+
+having here is about -- is predicated on the idea that 
+if there were a taking, would compensation be available 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 45 
+in the first place. 
+
+JUSTICE SOTOMAYOR: Excuse me. Can I --
+MR. PALMORE: We agree there's no taking. 
+JUSTICE SOTOMAYOR: All right. It almost 
+
+seems to me, and I'll ask Mr. McConnell when he gets up 
+at rebuttal, that there is some sort of due process 
+challenge going on here that's been created by the 
+labels they did in this new situation -- in this new 
+business venture. In the normal situation, the handler, 
+I'm being told, would actually have title to the 
+raisins, and they would pay the producers for the 
+raisins. So there would be property taking. 
+
+In that situation, where the handlers 
+actually own the property, would they be able to raise a 
+taking defense? 
+
+MR. PALMORE: No, because of the way that 
+the statute and the regulatory program works. If the 
+handler is actually buying raisins from the producer, 
+the handler never takes title to the reserve raisins. 
+And he doesn't pay for the reserve raisins. He takes 
+title to the free-tonnage raisins and the title to the 
+reserve raisins passes, as a matter of law, from the 
+producer to the Raisin Administrative Committee. The 
+handler never owns those raisins. 
+
+JUSTICE SOTOMAYOR: So they are missing a 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 46 
+business opportunity because they can't take title to 
+those raisins. And yet you're asking --
+
+MR. PALMORE: They would never pay for 
+those -- they would never pay for those raisins because 
+they can't take title. They can't lawfully take title 
+to those raisins. Now --
+
+JUSTICE SOTOMAYOR: This really does sound 
+to me -- and I think that both Justice Scalia and Breyer 
+now are being more and more convinced -- there has to be 
+a place to challenge this scheme. 
+
+MR. PALMORE: And there absolutely is. 
+JUSTICE SOTOMAYOR: Whether it's a taking --
+
+whether there's a takings claim for the handler because 
+the handler is being asked to do things --
+
+MR. PALMORE: But the handler's property is 
+not being taken, and that's critical. There are 
+separate takings claims that handlers have advanced 
+that -- that could be asserted through this process. 
+For instance, there was a case called Lion Raisins from 
+the Federal Circuit that we cite in our brief, in which 
+the issue was that the handler provided bins to store 
+the raisins, and he didn't get his bins back. Okay? 
+
+That was a handler takings claim, and that 
+had to be asserted in the context of this handler review 
+scheme. But the handler doesn't own the raisins under 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 47 
+this scheme. 
+
+JUSTICE SCALIA: That's -- that's a merits 
+question again. I mean, it's not a question of whether 
+you -- you can resist on the basis of a takings claim. 
+It's a question of whether you are going to win. 
+
+MR. PALMORE: No, Justice Scalia, I think it 
+goes to the scope, the capacity question that we were 
+talking about before because the statute is quite clear 
+in section 608c(13)(B) that this scheme does not 
+regulate producers in their capacity as producers. And 
+if someone wants to take on both roles, they will be 
+regulated only as a handler. 
+
+So the regulatory obligations that applied 
+to Petitioners when they adopted this business model 
+were handler-only regulatory obligations, and then this 
+is a handler judicial review proceeding. That's a very 
+narrow means of decision here that avoids some of these 
+kind of conceptual questions about the nature of the --
+the Takings Clause, which is that this claim simply 
+doesn't belong in this proceeding. 
+
+But there's no unfairness or no due process 
+issue here at all because they -- in 2002, when -- when 
+Petitioners decided to engage in this, these regulatory 
+violations in order to secure an unfair advantage over 
+their competitors, as was found by the ALJ at JA41, at 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 48 
+that point they could have sought compensation for the 
+past 6 years of raisins that they had provided. They 
+didn't do it. 
+
+I don't understand why they didn't do it. 
+They left that claim on the table. And to the extent 
+they wanted to claim going forward, they could have 
+continued to use compliant handlers and sued every month 
+for compensation in the Court of Claims. 
+
+JUSTICE ALITO: Did I understand you to say 
+a couple minutes ago that if the case were remanded, you 
+would be entitled to win on the reasoning of the panel 
+opinion? 
+
+MR. PALMORE: The prior panel opinion, 
+Justice. If -- if there was a remand on the basis that 
+the Ninth Circuit misunderstood this as a jurisdictional 
+Article III defect, and then the Ninth Circuit were to 
+find waiver, what the Ninth Circuit presumably would do 
+would be to reinstate its first panel decision, which we 
+think was also correct and held that there was no taking 
+here. There are two --
+
+JUSTICE KAGAN: Mr. Palmore, what would be 
+wrong -- would anything be wrong -- with a -- with a 
+disposition of this Court that went something like this: 
+Everybody agrees that this is not a jurisdictional 
+issue, including the government, so they got that wrong. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 49
+ Now, as to this whole business about the 
+
+Tucker Act and whether the Tucker Act provides a remedy, 
+the government only started talking about that in a 
+petition for rehearing en banc, and the government can't 
+do that. You know, it can't introduce an argument like 
+this in a petition for rehearing en banc. So that's 
+waived. 
+
+And now, the Ninth Circuit can go and try to 
+figure out whether this marketing order is a taking or 
+it's just the world's most outdated law. 
+
+(Laughter.) 
+MR. PALMORE: That would certainly be an 
+
+available option, or the Ninth Circuit could decide for 
+itself whether there had been a waiver. 
+
+But there's a separate issue in that there's 
+this capacity issue, which is a separate point that the 
+Ninth Circuit made at JA305, when it pointed out that 
+this was a producer claim, and that's something that --
+that was strictly a producer claim and wasn't -- wasn't 
+a fit for this handler review action, and that's 
+something that could also be considered on remand. 
+
+But the consequence of this -- of that would 
+be for the -- the Court to impose its -- if it found a 
+waiver, to rule for us for separate merits reasons. 
+
+We do view the Tucker Act -- the failure to 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 50 
+seek just compensation -- as a merits defect in the 
+Petitioners' claim here. So even putting this capacity 
+problem aside, there is simply -- there's no defense. 
+Mr. McConnell says that this can be raised as a defense. 
+But there is no defense if all you show is that there has 
+been a taking of private property for public use, full 
+stop. 
+
+JUSTICE BREYER: What does the word 
+"acquire" mean. There is some opinion here which says 
+these handlers acquired the raisins. What is -- what's 
+that about? 
+
+MR. PALMORE: "Acquire" is a defined term, 
+and it includes to possess. So they took to --
+
+JUSTICE BREYER: Like lessees or something, 
+bailees? 
+
+MR. PALMORE: There was no question under 
+the regulatory scheme here that Petitioners were 
+handlers. And in fact, there's a surprising --
+
+JUSTICE BREYER: I -- no, no. I just wanted 
+to know what the word "acquire" --
+
+MR. PALMORE: "Acquire" -- "acquire" is 
+defined to include a number of things, including to 
+possess. And a handler is anyone who sells raisins. 
+There was no mystery about this. 
+
+And, in fact, at pages 8 through 11 of our 
+
+Alderson Reporting Company 
+
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 51 
+brief, we cite communication after communication where 
+USDA told them --
+
+JUSTICE BREYER: Now, can an acquirer of my 
+car, for example -- I don't know. Forget that. 
+
+JUSTICE SCALIA: A bailee? 
+(Laughter.) 
+JUSTICE BREYER: Can they -- can they 
+
+assert a takings claim attaches to the car? It sounds 
+like a standing question. 
+
+JUSTICE SCALIA: Yes, I suppose a bailee 
+could, a bailee of the car. 
+
+MR. PALMORE: No, I don't think a bailee 
+could. I think the owner would have to assert that 
+claim, right. 
+
+But "acquire" is a defined term, and as this 
+case comes to this Court it's accepted. The Petitioner 
+has not sought cert on the underlying regulatory 
+findings. In fact, their arguments -- they were told 
+ahead of time that they were completely wrong over and 
+over and over again, and then they lost that claim at 
+every level, twice within the Department of Agriculture, 
+in the district court, in the court of appeals. They 
+lost on that regulatory claim. 
+
+This wasn't a good faith misunderstanding. 
+If you look at JA41, the ALJ found that this was a 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 52 
+willful and intentional, knowing violation of regulatory 
+requirements because they were able to undercut their 
+competitors by not playing by the rules. So this 
+doesn't present any kind of due process --
+
+JUSTICE BREYER: No, no. But still, it might 
+if they're acquirers -- but they are acquirers, okay? 
+They think this program is unconstitutional because it 
+takes some other people's property, right? So those 
+other people are in a very special relation to them. 
+Those other people are really close. 
+
+And it may be they have standing to assert 
+those other people's claims. And if they do have 
+standing to assert those other people's claims, why 
+can't they make the argument that way? 
+
+MR. PALMORE: I -- I disagree that they have 
+standing to make those other people's claims. And also, 
+Petitioners haven't argued, haven't made any third-party 
+standing argument here. 
+
+But -- this Court's requirements are quite 
+strict for third-party standing. You have to have a 
+close -- a close relationship, and I don't think a mere 
+arm's-length commercial relationship would count. 
+
+JUSTICE KENNEDY: Suppose they do have 
+standing. Could they raise the claim? 
+
+MR. PALMORE: If --
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 53
+ JUSTICE KENNEDY: You say no. 
+MR. PALMORE: Well, they have -- they 
+
+certainly have standing as producers to raise the claim. 
+JUSTICE KENNEDY: Let's assume they have 
+
+standing. Could they raise the claim --
+MR. PALMORE: Yes, that --
+JUSTICE KENNEDY: -- that this is an 
+
+unconstitutional taking? 
+MR. PALMORE: In the Court of Claims, 
+
+absolutely, as producers. 
+JUSTICE KENNEDY: No, no. In the 
+
+administrative proceeding where they are charged with --
+where a penalty is being assessed against them. 
+
+MR. PALMORE: I think that they would have 
+standing, but it's still a claim that's beyond the scope 
+of this narrow specific judicial review proceeding. I 
+think its' a -- it's a different problem. 
+
+CHIEF JUSTICE ROBERTS: I have to say -- I 
+think it comes with less than good grace for you to 
+criticize the other side for not having raised a 
+particular argument. But I do want to clarify that you 
+have no objection at this point for reversing the Ninth 
+Circuit on the ground that they erred in saying that 
+this -- they should have dismissed on jurisdictional 
+grounds. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 54
+ MR. PALMORE: Well, I'm not going to resist 
+
+that too strenuously, -- but I think if they did decide 
+the question, they decided it correctly. It was a 
+threshold defect. Their analysis was all correct. So I 
+think that's before the Court. 
+
+But yes, we -- we frankly acknowledge and we 
+acknowledged in our brief that we did not -- we did 
+suggest below that this was a jurisdictional defect. 
+Ninth Circuit authority said that it was and we relied 
+on that. 
+
+We now believe that it's best understood not 
+as a jurisdictional defect, but as a substantive defect 
+in the claims, not simply a choice of remedies issue, as 
+Petitioners suggested because choice of remedy suggests 
+that there has been a constitutional wrong and that we 
+need to decide what remedy is going to be available, an 
+injunction or damages. 
+
+JUSTICE SOTOMAYOR: The short answer is, 
+yes, reach the merits only if I win. That -- that's 
+really what you want us to do. 
+
+MR. PALMORE: Well, we -- we think you could 
+reach some of the merits. We think that the narrow 
+disposition here is actually the capacity --
+
+JUSTICE SOTOMAYOR: No, no, no. I need to 
+ask you this question because do you want us to reach 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 55 
+the merits if we're going to have you lose? You got to 
+want one or the other. 
+
+Do you want us to reach the merits, period, 
+is really the question? 
+
+MR. PALMORE: Yes. Our position is that 
+we're not acquiescing in a -- in a remand. We think you 
+can affirm, and you should affirm. However, I do 
+recognize --
+
+JUSTICE SOTOMAYOR: Do you think we should 
+reach the merits, which is a very different question? 
+
+MR. PALMORE: Well, it depends on what you 
+mean by "merits." 
+
+(Laughter.) 
+JUSTICE SOTOMAYOR: Only if you win, right? 
+MR. PALMORE: There is the taking -- no. 
+
+There is the underlying kind of takings claim, that 
+there was -- was there a taking here at all? And that's 
+not before the Court. I don't think anyone suggests 
+that that's before the Court. 
+
+But we do -- we do think that there are a 
+series of other threshold defects in the claim that this 
+Court could -- could rely on. 
+
+CHIEF JUSTICE ROBERTS: Thank you, 
+Mr. Palmore. 
+
+Mr. McConnell, you have 3 minutes remaining. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 56
+ ORAL ARGUMENT OF MICHAEL W. McCONNELL 
+
+ON BEHALF OF THE PETITIONERS 
+MR. McCONNELL: I'd like to make two quick 
+
+points. One is that I believe that the government has 
+essentially conceded here in this argument and in their 
+brief that the Tucker Act does not apply. They have 
+told us that the Tucker Act does not apply on page 50 
+and repeated here when Congress could not have 
+contemplated a compensation. Now, in addition -- and 
+their only answer to that is to say, first, that 
+Congress didn't think it would be a taking, which in 
+Regional Rail, this Court said is not the question. 
+
+And secondly, that if -- if there's one --
+we should get paid once, compensation once and then the 
+administrator's going to cancel the program, which is no 
+answer at all. Either the statute contemplates 
+compensation for everybody or it contemplates it for 
+nobody. 
+
+I think they have effectively conceded that 
+the Tucker Act does not apply. 
+
+JUSTICE SOTOMAYOR: Well, they've conceded 
+that it doesn't apply to handlers. 
+
+MR. McCONNELL: To handlers. And --
+JUSTICE SOTOMAYOR: Yes, and so they've 
+
+conceded there is no --
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+Page 57
+ MR. McCONNELL: And the second issue I 
+
+wanted to talk about so is this capacity issue. 
+Certainly, we have standing. When -- it's not 
+third-party standing. All of the money comes out of our 
+pocket, yes, we have standing. And secondly, we 
+certainly -- and then that is in our capacity as 
+handler. 
+
+Essentially, the Department of Agriculture's 
+view is that during those couple of days when the 
+raisins are going through our packing plant, that we 
+acquired them and possessed them during those couple of 
+days and that we should have given them their -- their 
+share. That's raisins, that's not money. But by the 
+time they get around to enforcing that and so forth, the 
+raisins are gone and now the money stands in -- stands 
+in for the raisins. But that is a taking claim. 
+
+We think it's a -- it's a straightforward 
+taking claim under -- under Norwood and Missouri Pacific 
+Railroad, that's a merits question. But in any event, 
+it is not a problem of capacity. Whatever might be, 
+that taking, that taking is in the capacity as a 
+handler. 
+
+Those are my two points. 
+Thank you. 
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+3
+4 
+5 
+6 
+7 
+8 
+9 
+10  
+11  
+12  
+13  
+14  
+15  
+16  
+17  
+18  
+19  
+20  
+21  
+22  
+23  
+24  
+25  
+
+Official 
+
+Page 58
+ The case is submitted. 
+(Whereupon, at 11:10 a.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+Alderson Reporting Company 
+
+
+
+OfficialOfficial 
+
+Page 59 
+
+A administrator's 34:11,16,18 52:22 B 
+Abbott 19:25 56:15 40:23 arrangement back 6:5 7:11 
+able 45:14 52:2 adopt 30:10 amounts 32:3 41:11 11:12 13:9 
+above-entitled adopted 30:12 analysis 27:7,14 Article 27:23 17:8 20:17 
+
+1:11 58:3 34:4 47:14 29:6 34:5 36:8 48:16 21:10,21 23:5 
+absolutely 44:11 advanced 27:9 36:14 54:4 articulated 42:5 25:11 28:5 
+
+46:11 53:10 46:17 analyze 43:1 aside 14:10 17:4 29:15 34:11 
+abutting 7:6 advantage 30:15 announced 14:2 50:3 35:12 37:19 
+accepted 26:16 31:6 47:24 answer 9:2 asked 6:16 14:8 38:11,14,20 
+
+51:16 Aetna 25:15 17:22 39:11 14:9 46:14 39:20 41:14 
+acknowledge affirm 55:7,7 54:18 56:10,16 asking 46:2 46:22 
+
+54:6 agent 17:5 answered 23:6 aspect 36:7 bad 36:25 
+acknowledged ago 48:10 anticipated assert 32:25 bailee 51:5,10 
+
+54:7 agree 27:18 39:5 39:22 33:4 51:8,13 51:11,12 
+acquiescing 39:23 45:3 anyway 16:19 52:11,13 bailees 50:15 
+
+55:6 agreement Apfel 14:2 21:22 asserted 5:4 8:6 Baker 7:2 
+acquire 50:9,12 29:15 22:4,6,7,14 10:9 46:18,24 balance 39:11 
+
+50:20,21,21 agrees 48:24 23:21 34:1,3,5 assessed 7:7 banc 26:9 49:4,6 
+51:15 Agriculture 1:6 34:25 35:2,2 10:24 13:15,16 base 19:23 
+
+acquired 12:20 3:5 4:14 6:13 35:15,16,24 13:21 34:16,18 basic 23:9 
+12:24 20:6,6 6:15 10:19,22 Apparently 15:3 42:18 53:13 basis 47:4 48:14 
+50:10 57:11 13:25 14:22,23 appeals 8:13 assessment 7:10 becoming 12:21 
+
+acquirer 51:3 14:25 19:5,16 42:3 51:22 Assistant 1:17 began 7:17 
+acquirers 52:6,6 24:1,25 40:11 appear 3:20 assume 5:1 beginning 30:9 
+acquisition 51:21 APPEARAN... 13:11,13 24:23 behalf 1:15,19 
+
+10:20 12:20 Agriculture's 1:14 33:24 53:4 2:4,7,10 3:8 
+Act 11:11 18:8 57:8 applied 47:13 assuming 5:12 9:14 12:13 
+
+18:10 23:19,24 ahead 44:7 apply 23:19 42:15 16:22 27:2 
+24:18 28:24 51:19 30:19,20 56:6 attached 10:23 56:2 
+35:17 36:4,9 AL 1:3 56:7,20,22 19:16 28:19 believe 12:18,22 
+40:25 41:8,12 ALITO 16:5 argue 42:12 31:8 13:22 43:18 
+43:8 49:2,2,25 17:22 18:4,7 argued 52:17 attaches 51:8 54:11 56:4 
+56:6,7,20 18:13 33:5,15 arguing 19:23 attempt 30:13 believed 12:11 
+
+action 32:24 33:24 34:12,15 20:20 attempted 6:14 16:14 19:15 
+33:3 49:20 48:9 argument 1:12 attributable 6:3 belong 10:2 
+
+activities 21:23 ALJ 47:25 51:25 2:2,5,8 3:3,7 authoritative 36:25 47:20 
+actual 7:16 allegedly 27:8 5:18 8:25 37:13 belonged 10:3 
+
+21:17 allocated 35:19 20:18 21:7 authority 54:9 benefits 35:19 
+addition 56:9 alluding 5:2 22:6,7 23:9 available 22:21 best 25:16 44:18 
+addressed 6:15 almond 39:1 26:14 27:1 30:23 32:21 54:11 
+adequate 24:15 alternatives 28:1,24,25 35:21 39:13 beyond 53:15 
+adjudicate 26:4 17:20 29:1 33:25 40:17,25 44:25 bins 46:21,22 
+adjust 40:11 AMAA 13:23 49:5 52:14,18 49:13 54:16 blocked 26:12 
+adjusted 40:14 18:8,15 19:1 53:21 56:1,5 avoids 47:17 borne 16:3 
+administrative 23:24 30:20 arguments 8:24 a.m 1:13 3:2 bottom 29:5 
+
+25:16 40:6 42:2 51:18 58:2 breaks 36:14 
+45:23 53:12 amount 20:13 arm's-length Breyer 19:22 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+Official 
+
+Page 60 
+
+20:22 21:1,5 33:13 47:7,10 charged 53:12 9:8,16 11:11 compensation 
+21:11 23:8,16 49:16 50:2 Chief 3:3,9 11:15,19,24 7:5,7 11:14 
+36:15 37:4,18 54:23 57:2,6 25:24 26:23 13:13 14:12,24 20:17 22:5,11 
+38:8 43:10,21 57:20,21 27:3,25 28:4 17:24 21:12,13 22:21 24:21 
+43:23 44:16,22 captions 3:19 28:10 53:18 21:16,19,21 30:5 33:8,14 
+46:8 50:8,14 car 51:4,8,11 55:23 57:25 22:11 24:11 34:19 35:21 
+50:19 51:3,7 care 4:15 children 43:12 27:12,19 34:11 38:1,5 39:7,12 
+52:5 careful 27:7 choice 32:5 35:4 36:3 37:9 40:9,12,20,24 
+
+brief 35:25 case 3:4,12 5:25 54:13,14 37:15,24 38:11 41:1,19,22 
+38:24 39:9 6:18 7:1,3,14 choose 16:25 38:14,19,22,23 42:7 43:7,8,10 
+46:20 51:1 9:10,17,18,21 Circuit 7:23 39:1,3,13,20 43:15 44:25 
+54:7 56:6 12:2 13:11,17 20:19 21:11 40:3,9 41:6,19 48:1,8 50:1 
+
+bringing 25:23 15:22,25 16:2 23:10 26:3,16 42:16,17 43:25 56:9,14,17 
+brought 8:23 22:16,18 24:1 27:20 28:6,12 44:7 46:17 compensatory 
+
+12:16 32:17 24:14 25:3,16 28:16 29:3,5 48:8 52:12,13 17:2 
+42:2 25:17 26:3 29:13,15 33:11 52:16 53:9 competitive 
+
+building 7:4 27:9 33:5 33:17 42:12,23 54:13 30:14 31:5 
+built 6:18 40:5 35:24 38:23,24 42:25 43:5 clarify 53:21 competitors 
+burdens 35:19 38:25 42:7 44:8 46:20 clause 11:10 47:25 52:3 
+business 3:21 43:22 46:19 48:15,16,17 47:19 completely 
+
+4:4 9:17 12:11 48:10 51:16 49:8,13,17 clear 8:10 47:8 10:10 19:7 
+15:13,16 30:10 58:1,2 53:23 54:9 clearly 34:22 37:17 51:19 
+30:12 45:9 cases 3:19 23:20 cite 25:21 38:24 client 8:11 compliance 
+46:1 47:14 25:13,20,21 46:20 51:1 clients 7:24 15:18 
+49:1 27:22,22 36:1 cited 35:24,25 19:14 36:17 compliant 48:7 
+
+buy 16:7,7 36:2 39:14 city 7:3,9 close 39:6,10,16 complies 12:17 
+buying 45:18 40:23 claim 5:4,12 39:24,25 52:10 comply 13:1,21 
+
+cash 32:14 35:3 7:24 8:6,22 52:21,21 16:24 32:10 
+C 35:10 36:2,6 10:9 14:7 15:5 closest 7:1 41:19 
+
+C 2:1 3:1 cat 4:22 15:11 16:22 coincidence complying
+California 6:16 Catch 19:18 25:9,23 26:5 15:5 22:13 40:15 
+
+6:20 Central 25:18 28:15 30:2,5 come 9:13 19:18 component 32:2 
+call 17:11 20:15 cert 12:16 51:17 33:4,6,10,11 26:10 32:11 conceded 27:16 
+
+20:15 27:14 certainly 3:17 33:12,18,22,25 43:11 56:5,19,21,25
+called 24:25 28:8 29:2 33:9 34:12,16 37:5 comes 23:5 33:6 conceding 28:23 
+
+25:1 30:24 33:19 43:15 37:7 41:14,24 51:16 53:19 concept 27:23 
+46:19 49:12 53:3 41:24 42:1,4 57:4 34:6 
+
+calling 26:14 57:3,6 42:23 43:1,2 commercial conceptual
+Cal-Almond challenge 13:22 46:13,23 47:4 52:22 47:18 
+
+38:24,25 14:25 22:25 47:19 48:5,6 Committee conceptualized
+cancel 56:15 24:17 44:5 49:18,19 50:2 45:23 3:14 
+capacities 15:9 45:7 46:10 51:8,14,20,23 communication concerned 14:23 
+capacity 6:1,3 challenging 52:24 53:3,5 51:1,1 concluding
+
+8:23 9:22 19:21 53:15 55:16,21 compensate 28:20 
+10:16 12:19 changing 28:5 57:16,18 37:10 conclusion 
+16:3 19:19 characterize claiming 6:8 7:5 compensated 18:23 29:6 
+25:2 30:3,5,6 34:23 claims 8:1,7,21 12:9 condemned 7:3 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 61 
+
+condition 38:3 convinced 46:9 27:22 40:18 32:25 19:2 
+confiscation convinces 40:8 52:19 defensive 25:23 disputes 8:9 
+
+7:16 correct 13:4,7,8 crazy 40:1 defensively distinct 35:16 
+confused 3:19 16:9 25:11,12 create 38:9 41:11 distinguish 4:14 
+
+29:10 28:13,20 29:6 created 45:7 defined 50:12,22 district 13:25 
+confusion 27:24 29:7 31:18 creating 4:23 51:15 14:3 15:1 24:1 
+Congress 21:23 48:19 54:4 creature 4:23 delighted 5:18 32:24 35:5,12 
+
+35:20 36:9 correctly 39:3 critical 34:7 deliver 6:16 37:8 38:17 
+38:9,12,17 43:5 54:3 46:16 demand 6:14 51:22 
+39:6,21 40:4,8 Costello 19:25 criticize 53:20 31:20 32:7,8,9 doing 3:21 10:17 
+43:18 56:8,11 counsel 27:6 32:11 dollar 6:17,20
+
+DCongress's 30:11 57:25 demanded dollar-for-doll... 
+D 1:3 3:1 36:11 count 52:22 17:13 34:6,24 35:6,9 
+damages 21:16consequence couple 7:14 Department 1:6 36:1,7,14
+
+54:1729:19 44:14 48:10 57:9,11 1:18 3:4 4:13 due 45:6 47:21 
+day 40:749:22 course 10:7 6:13,15 10:18 52:4 
+days 57:9,12consequences 29:19 36:13 10:22 13:25 D.C 1:8,15,18
+dealing 35:312:6 40:4 44:13 14:21,22,25 
+
+EDeal-era 18:18consider 20:14 court 1:1,12 19:4,16 20:5 
+decades 37:22 E 2:1 3:1,1 20:16 29:3 3:10 7:1,11,12 23:25 24:25 
+deceased 4:6 easier 25:644:18,19 7:15,25 8:7,13 51:21 57:8 
+decent 22:6 Eastern 34:9considerable 8:20 9:7,15 depends 9:9 
+decide 29:5,24 effect 36:1940:6 11:11,15,19,23 55:11 
+
+33:16,17 42:15 effectively 4:19consideration 13:13 14:1,2,3 deployed 36:10 
+44:9 49:13 56:1936:3 14:12 15:1 described 7:15 
+54:2,16 either 15:9,9considered 17:24 21:12,13 detail 20:24 
+
+decided 24:17 17:13 20:449:21 21:16,18,19,21 21:14 
+26:3 29:25 37:12 56:16constitutional 21:22 22:10,23 determination 
+30:10 33:19 eliminated36:24 37:5 22:24 24:1,11 26:11 
+47:23 54:3 12:1238:3,15 41:21 26:10 27:4,19 difference 16:11 
+
+decides 21:3 en 26:9 49:4,6 54:15 28:9 32:24 different 3:20 
+decision 14:2 encroach 26:1constitutionali... 34:5,10 35:4,5 9:18 20:25 
+
+23:4 28:16 enforced 17:1941:4,10,12 35:13 36:2 27:9,13,14
+47:17 48:18 enforcing 57:14consumers 37:8,9,15,24 30:1 32:7 
+
+deems 13:12 engage 47:2343:20 38:11,14,17,19 53:17 55:10 
+defeats 34:23 enjoymentcontemplated 38:23 39:1,3 difficult 3:11 5:2 
+defect 27:20 26:1922:1 38:12,18 39:13,20 40:3 disagree 52:15 
+
+28:15,17,21 enlightening56:9 40:9,24 41:6 discounted 35:6 
+30:2 34:23 44:4,9contemplates 41:19 42:3,16 discuss 13:18 
+48:16 50:1 ensuring 16:2356:16,17 42:16 43:9,25 discussion 34:7 
+54:4,8,12,12 entering 30:8contest 17:25 44:7 48:8,23 35:5 36:1 44:4 
+
+defects 33:23 Enterprises18:1 49:23 51:16,22 44:23 
+55:21 34:9context 25:17 51:22 53:9 dismissed 53:24 
+
+defense 21:9 entire 6:2 16:2 42:2 46:24 54:5 55:18,19 displaces 23:24 
+23:20 25:14 26:17 34:16,18continued 48:7 55:22 56:12 disposition
+45:15 50:3,4,5 entities 4:11,17control 40:15 courts 37:13 48:23 54:23 
+
+defenses 7:18 4:19,23 35:20 controlled 4:19 Court's 26:8 dispute 8:5,10 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 62 
+
+entitled 9:25 fact 6:17 22:12 48:18 56:10 17:23 government's 
+11:14 14:3 35:8 43:12 fit 37:15 49:20 give 17:13,14,14 35:23,25 
+22:25 48:11 44:2 50:18,25 flexibility 40:6 17:14 31:17,19 grace 53:19 
+
+entity 4:24 5:13 51:18 Florida 25:17 31:22 38:19 ground 8:15 
+5:24 13:11 factual 3:16 focus 7:19 given 11:7 44:2 26:7 53:23 
+14:14 fail 27:12 following 10:12 44:17 57:12 grounds 53:25 
+
+equitable 24:13 failed 17:5 Forget 51:4 glass 43:13 grow 36:19 
+equivalent 6:17 fails 33:13 forgot 24:4 go 5:3 6:5 8:20 grower 39:19 
+
+6:20,23 10:24 failure 27:18 form 23:1 9:14,15 11:19 guess 12:2 
+17:15 32:15 32:19 49:25 forth 18:25 11:23 12:3,5 gypped 43:17 
+
+erred 53:23 fairly 25:22 42:21 57:14 13:13,24 14:11 
+HESQ 1:15,17 2:3 faith 51:24 forum 9:8 17:8,24,25
+ 
+
+2:6,9
+ hand 24:18 25:9 
+handed 22:9 
+
+fall 22:13 34:1 forward 48:6 18:14,15 19:4 
+essentially 56:5 falls 22:4 found 16:19 20:2,18 21:12 
+
+handing 24:20 
+35:11,11 
+
+57:8 false 32:20 30:11 39:8 21:13,15,18,18 
+estates 4:7 family 4:20 47:25 49:23 21:21 22:7 
+ET 1:3 handler 3:25 4:3 far 14:22 51:25 23:12,12 24:10 
+
+5:24 6:2 8:23 evade 30:13 Farms 3:22 four 3:25 27:19 29:15 
+Evans 38:23 9:12,22 11:18 
+
+12:12,19,21 
+Federal 8:7,21 frankly 54:6 34:10 35:3,17 
+
+event 29:4 35:21 9:8 17:24 free 15:19 16:7 38:10 41:6,19 
+14:17,19,23 
+15:4,6,10,11 
+
+39:8 41:1,20 22:10 34:10 30:24 42:16,16 43:12 
+57:19 37:8 46:20 free-tonnage 43:23 44:7 
+
+15:12 16:3 
+19:11,20,20
+
+everybody fee 6:10 10:2 45:21 49:8 
+48:24 56:17 feel 19:24 friend 29:12 goes 5:9 39:20 
+
+evidence 36:8 25:1,2,3 30:17 
+32:10,24,25
+
+feeling 37:14,17 full 9:19 10:24 41:14 43:21,24 
+exact 34:11 figure 49:9 10:25 15:23 47:7 
+exaction 13:12 45:9,18,19,24 
+
+46:13,14,21,23 
+file 30:22 35:13 50:6 going 10:1 12:9 
+
+23:21 filed 8:13 26:13 fully 23:5 44:18 29:23 32:11,16 
+exactly 5:14 46:24,25 47:12 32:20 44:2 44:20 35:15 37:10 
+
+47:16 49:2016:13 20:21 find 48:17 fumigating 38:10 40:1,2 
+50:23 57:7,22 
+
+handlers 5:14 
+21:22 findings 51:18 10:17 42:15 43:16,19 
+
+example 51:4 fine 6:2,3,7,7 further 20:2 44:6,10 45:7 
+exclusive 13:23 8:19 9:5 10:11 8:19 17:1,10 47:5 48:6 54:1 
+
+G 14:5,6,13Excuse 19:10 20:15 21:4,20 54:16 55:1 
+G 3:1 15:14,17 16:7 
+gain 7:6 
+
+45:2 22:3,3,16 23:1 56:15 57:10 
+16:15,19 18:11 exercise 34:9,24 23:2 37:4 good 51:24 
+
+General 1:18 18:13 19:12,15 
+getting 21:10 
+
+36:11 41:25 42:5,24 53:19 
+19:24 30:17,19exhaust 14:24 fined 20:12 government 6:9 
+
+30:10 35:12 30:20 31:9,11 
+Ginsburg 8:4,14 
+
+23:25 22:22 25:2 6:22 8:8 11:2 
+41:4,7 45:13 expected 10:4 41:7 12:14 17:5,13 
+
+expensive 22:19 8:17 9:1,6 11:6 46:17 48:7 
+14:4,20 15:2 
+
+fining 19:19 19:18 20:8 
+50:10,18 56:22 explain 14:5 first 3:4 4:2 7:19 21:19 22:12 
+
+15:10,15 19:8 56:2337:16 7:25 21:20 25:11,21 26:13 
+25:25 26:6 handler's 46:15extent 16:25 24:3,4,4,5 26:2 28:17 33:7 
+29:19 41:2,13 handler-only33:20 48:5 26:15 27:25 37:9 39:19 
+41:23 47:1534:3 37:19 41:3 48:25 
+
+F Ginsburg's handler-specific38:22 45:1 49:3,4 56:4 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 63 
+
+31:2 32:19 impose 31:7 issue 27:11 20:22 21:1,5 47:18 52:4 
+handles 4:11,12 49:23 32:23 33:15,16 21:11,25 22:2 55:16 
+
+4:25 imposed 31:3 33:16 46:21 22:24 23:6,8 knew 12:9 30:9 
+handling 4:4 improper 11:9 47:22 48:25 23:16 24:3,8 37:6 
+
+6:10 10:2 11:23 49:15,16 54:13 24:16 25:5,8 know 4:16,22 
+happens 29:18 include 50:22 57:1,2 25:24,25 26:6 31:13 35:4,11 
+hear 3:3 23:11 includes 50:13 issued 6:1 7:9 26:23 27:3,5 38:18 43:18 
+held 7:12,23 including 48:25 26:16 27:15,25 28:4 44:3 49:5
+ 
+
+10:11,12,15
+ 50:22 28:10,22 29:9 50:20 51:4 
+J24:19,22 39:4 inconsistent 29:14,19,22 knowing 52:1 
+
+JA-305 30:139:17 40:24 26:8 31:12,16,19,21 known 3:21 
+JA305 49:1743:9 48:19 incorrect 41:3 32:1,3 33:5,15 25:16 
+
+helpful 44:4 JA41 47:25independent 33:24 34:12,15 
+L51:25helps 7:22 12:13 35:1 36:15 
+
+higher 43:20 JOSEPH 1:17 label 28:19independently 37:4,18 38:7,8 
+2:6 27:1 labels 45:8holding 26:18 17:6 38:21 39:14,15
+
+judicial 10:14 land 7:4,13 
+31:10,11 33:2 
+
+28:7 inform 7:22 39:25 41:2,13 
+landowner 7:6holds 22:24 initial 28:16 41:23 42:10,13 
+
+Holmes 22:24 47:16 53:16 7:10,11 
+jurisdiction 5:3 
+
+32:9 44:20 42:14,22 43:10 
+language 12:17Honor 44:13 injunction 40:10 43:21,23 44:16 
+
+hope 7:21 5:9 13:10 18:9 28:854:17 44:22 45:2,4
+18:11 23:11,18 Larsen 3:24Horne 1:3 3:4 injunctive 24:14 45:25 46:7,8
+
+jurisdictional Lassen 4:6 
+7:19,22,23 
+
+3:22 16:6 injury 16:1,2 46:12 47:2,6 
+late 44:3Hornes 3:25 6:1 inspected 30:21 48:9,14,21
+ 
+
+6:15,16 8:6
+ 8:11,14,16,17 latitude 40:11 
+24:6,9,12
+
+inspection 32:21 50:8,14,19 
+Laughter 20:239:21 11:7,20 instance 33:1 51:3,5,7,10
+ 
+
+15:8,22 16:3
+ 26:14,18 27:17 26:20 31:15 
+27:20,21 28:1 
+
+46:19 52:5,23 53:1,4 
+49:11 51:616:13 21:18 instinctive 37:17 53:7,11,18 
+
+Horne's 4:6 28:7,23 29:11 55:13 
+48:15,24 53:24 
+
+intended 35:20 54:18,24 55:9 
+Laura 4:6host 32:22 34:14 36:9 39:6 40:8 55:14,23 56:21 
+
+house 17:13 54:8,12 law 16:25 18:23 
+Justice 1:18 3:3 
+
+intent 36:11 56:24 57:25 
+20:10,11,14huge 20:12 intentional 
+
+K3:9,15,18 4:7 24:15 31:8 
+4:10,15,21 5:1 
+
+hurts 36:23 30:13 52:1 
+Kagan 11:5,20 36:24 42:5,24husband 4:2 intentionally 
+
+hypothetical 5:7,8,11,17,20 12:1,7 14:9 45:22 49:1031:5 
+5:23 6:5,12 21:25 22:2 lawbreaker's13:11 40:13 interest 6:8 
+
+hypothetically 7:17 8:4,14,17 27:15 28:22 42:6 
+9:1,6,24 10:6 
+
+10:23 15:21 
+35:1 48:21 lawfully 43:49:7,7 16:23
+ 
+
+intervened 33:3
+ 11:5,6,20 12:1 Kaiser 25:15 46:5 
+I 12:7 13:2,5,9 Kennedy 7:17 lawsuit 9:14introduce 49:5 
+
+idea 36:5,6 42:4 14:4,9,20 15:2 13:9 42:10,13 leads 18:23invoke 27:20 
+44:24 15:10,15 16:4 42:14,22 52:23 leave 34:1533:1 
+
+identification 16:5,6,10,16 53:1,4,7,11 left 17:21 24:24 invoked 31:9 
+27:7 16:20 17:8,16 key 12:20 22:9 48:532:24 
+
+III 27:23 48:16 17:22,23 18:4 kind 29:24 30:2 legal 4:10,17,19 
+important 21:15 
+
+involved 14:14 
+18:7,13,16,19 37:5,7 40:15 6:19,21,21involving 3:12 
+
+32:6 36:7 18:21 19:8,22 40:25 44:5 12:6 16:2433:12 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 64 
+
+lessees 50:14 44:20 45:22 merits 3:12 5:2 N 31:24,25 
+letter 6:14 32:8 58:3 5:19 6:22 7:18 N 2:1,1 3:1 obligations 
+
+32:10,12 McCONNELL 7:25 26:3,5,10 narrow 47:17 16:24 30:17,19 
+letters 31:20 1:15 2:3,9 3:6 26:17 29:16 53:16 54:22 31:3 32:18,20 
+
+32:7 3:7,9,17 4:5,9 34:20 42:11 nature 47:18 47:13,15 
+let's 13:10,10,13 4:13,18 5:6,17 43:22,24 44:10 Nebraska 22:17 obscure 18:20 
+
+53:4 5:22,25 6:11 47:2 49:24 necessarily officer's 10:14 
+level 51:21 7:21 8:8,15,22 50:1 54:19,22 25:12 Oh 16:10 18:24 
+liability 4:22 9:4,9 10:5,8 55:1,3,10,12 necessary 35:2 okay 12:1 21:5,5 
+life 31:13 11:5,16,25 57:19 need 24:11 32:1 37:1 
+light 25:17 44:3 12:4,8 13:4,7 MICHAEL 1:15 41:18 54:16,24 46:22 52:6 
+
+44:8 13:19 14:4,18 2:3,9 3:7 56:1 needs 27:7 old 19:25 25:22 
+limited 4:22 14:21 15:7,12 mind 5:11 neighbors 12:24 once 39:17 
+line 29:5 15:17 16:9,13 minutes 48:10 never 10:21 56:14,14 
+lines 11:6 16:18 17:7,12 55:25 12:19,24,25 ones 9:23 14:11 
+Lion 46:19 17:18 18:2,6 missing 45:25 15:21 45:19,24 43:14 
+literally 32:12 18:10,14,18,24 Missouri 22:17 46:3,4 one-for-one 
+litigated 33:10 19:9 20:21,24 23:3,22 57:18 new 18:18 26:16 34:6 
+
+38:23 21:2,8,14 22:1 misunderstan... 30:10 45:8,8 operate 15:22 
+lodged 23:20 22:3,15 23:14 51:24 Ninth 7:23 39:17 
+logic 10:13 23:17 24:5,10 misunderstood 20:19 21:11 operating 12:14 
+long 38:4 24:16,22 25:6 48:15 23:10 26:2,15 opinion 10:14 
+longer 8:9,10 25:12,25 26:6 model 9:17 27:20 28:6,12 22:23 26:16 
+look 3:19 6:13 26:21,24 31:20 15:13,16 16:6 28:16 29:3,4 29:20 34:3 
+
+29:18 51:25 32:8 38:2 45:5 16:11 30:11,12 29:13,15 33:11 44:15,20 48:12 
+Loretto 25:18 50:4 55:25 47:14 33:17 42:11,23 48:13 50:9 
+lose 42:11 55:1 56:1,3,23 57:1 monetary 6:23 42:25 43:5 opportunity 
+lost 25:10 39:3 mean 4:16 15:15 10:24 17:15 44:8 48:15,16 46:1 
+
+51:20,23 16:14 18:8,21 23:21 48:17 49:8,13 opposed 35:10 
+lurking 3:12 18:22 28:25 money 9:21,25 49:17 53:22 opposition 28:2 
+
+M 
+making 15:5,11 
+
+35:13 37:4 
+manifestly 26:7 
+March 1:9 
+market 9:20 
+
+10:25 11:1 
+14:11 30:8 
+
+marketing 11:9 
+11:21 22:13 
+
+31:14,21 35:2 
+35:9 36:16 
+38:11 43:19 
+47:3 50:9 
+55:12 
+
+Meaning 9:25 
+16:23 17:3 
+
+means 41:20 
+47:17 
+
+meant 38:8 
+mechanism 
+
+10:2,9,10 
+11:12,18 13:21 
+17:14 20:13,14 
+27:11 32:9 
+33:7,7,18 
+34:11 38:11,14 
+38:20 39:2,20 
+41:25 42:25 
+57:4,13,15 
+
+Monsanto 40:19 
+month 48:7 
+
+54:9 
+normal 25:9 
+
+45:9 
+Norwood 7:2 
+
+57:18 
+noses 43:13 
+notion 38:13 
+number 3:11 
+
+28:21 40:16 
+50:22 
+
+opt 40:10 
+option 49:13 
+options 40:17 
+oral 1:11 2:2,5 
+
+3:7 27:1 56:1 
+order 5:25 11:9 
+
+11:21 13:20 
+14:25 15:18 
+17:19 19:21 
+22:13 30:14 
+31:5 41:5 
+
+41:5 49:9 31:11 40:21 morning 3:4 O 47:24 49:9 
+MARVIN 1:3 mechanisms 26:19 O 2:1 3:1 ordinary 9:10 
+matter 1:11 3:16 40:24 movie 19:25 objection 26:15 9:11 10:7 
+
+8:18 17:20,21 meet 17:5 myriad 36:13 38:16 53:22 ought 15:8 
+24:12 30:25 mere 52:21 mysterious 26:2 obligated 17:4 29:10,15 44:7 
+36:22,23 44:18 merit 36:3 mystery 50:24 obligation 17:6 outcome 33:21 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 65 
+
+outdated 49:10 48:18 percentage 5:15 57:23 43:12,20 
+owner 51:13 parents 4:6 period 37:8 55:3 policy 18:22,22 principle 24:13 
+owners 25:14 43:14 permitting 36:22 principles 14:1 
+owns 4:1,11,23 part 22:3,3,4,5,6 16:21 pool 15:20 prior 29:20 
+
+5:13,13 31:1 22:8,16,16 pertinent 22:15 poor 43:12 44:14,15 48:13 
+45:24 31:12,12 34:7 23:3 portion 23:2,2 private 7:16 
+
+35:2 petition 8:12 35:25 35:19 38:4 
+P particular 20:5 12:16 26:13 position 6:12,21 50:6 
+
+P 3:1 53:21 28:3 29:1 49:4 6:21 35:24 problem 9:24 
+Pacific 22:17 partners 3:23 49:6 41:8 42:19 30:3,5,6,6 50:3 
+
+23:3,22 57:18 4:5 Petitioner 51:16 55:5 53:17 57:20 
+packing 10:18 partnership Petitioners 1:4 possess 50:13,23 problems 30:4 
+
+57:10 3:21 4:2,3,12 1:16 2:4,10 3:8 possessed 11:3 procedural 
+page 2:2 10:13 4:12,24 5:5 27:8 47:14,23 12:25 57:11 33:23 
+
+56:7 partnerships 50:2,17 52:17 possession 10:19 procedures 
+pages 50:25 3:20 54:14 56:2 10:19 13:23 
+paid 6:2,10 9:12 party 16:21 Petitioner's 27:6 possessory proceeding 21:3 
+
+9:19 10:10 passes 45:22 30:11 10:23 41:17,18 42:2 
+11:17 14:10 pay 10:1,2 13:12 physical 6:23 possible 33:21 47:16,20 53:12 
+18:2,4 20:15 15:19,20 16:7 10:19 possibly 21:24 53:16 
+20:16 21:4 20:13 21:3,6 place 21:17 45:1 Power 25:17 proceedings
+40:12,22 56:14 21:20 25:11 46:10 practical 8:18 31:10 32:17 
+
+Palmore 1:17 31:16 34:9 plan 12:11,11,15 17:20 process 18:15 
+2:6 26:25 27:1 40:2 43:14,16 12:16 precedence 45:6 46:18 
+27:3,15,18 43:17,19,20 plant 57:10 40:19 47:21 52:4 
+28:2,6,13,22 45:11,20 46:3 playing 52:3 precedent 6:25 processed 30:25 
+29:2,13,18,23 46:4 please 3:10 27:21 28:7 processing
+31:18,23 32:2 paying 7:5 43:15 19:10 27:4 42:4 10:16 
+32:5 33:9,19 payment 9:13 plurality 34:4 precedents 26:8 processor 12:19 
+34:2,13,21 10:4 34:25 35:16,24 precisely 7:10 produce 9:3 
+35:14 37:3,18 penalizing 22:12 plurality's 34:7 preclude 40:9 14:17 
+38:21 39:23 penalties 31:7 36:8 predicated producer 3:24 
+40:4 41:2,13 penalty 13:12 plus 4:1 44:24 3:25 5:12,13
+41:24 42:13,22 22:6,8,16 23:2 pocket 57:5 prefer 42:17 6:4 8:23 9:8,11 
+43:21 44:13,19 31:13,17 32:4 pocketbook premium 34:10 9:12,15 10:1,1 
+44:23 45:3,16 42:17 53:13 16:1,2 prepared 26:9 15:4,6 19:7 
+46:3,11,15 penalty's 13:15 point 8:5 13:10 26:10 33:1,3,4 37:21 
+47:6 48:13,21 13:16 25:8 27:16 present 52:4 37:22 39:1 
+49:12 50:12,16 Penn 25:17 32:6 34:24 preserved 33:21 45:18,23 49:18 
+50:21 51:12 people 4:1 9:5 37:11,17,23 pressed 43:13 49:19 
+52:15,25 53:2 9:20 16:22,24 40:18 48:1 presumably producers 8:7 
+53:6,9,14 54:1 20:3,5 36:23 49:16 53:22 48:17 8:18,19 9:3,5 
+54:21 55:5,11 36:24 52:9,10 pointed 29:19 pretty 22:5 9:18 10:3,10
+55:15,24 people's 52:8,12 49:17 prevail 15:8 12:13 14:8,10
+
+panel 26:16 52:13,16 pointless 21:23 prevailed 8:12 15:19,23,25
+28:16 29:20 percent 14:15 34:8,24 36:10 preview 5:18 16:8 17:24,25
+44:15 48:11,13 14:15 points 56:4 prices 36:21,23 18:12,14 19:2 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 66 
+
+19:3,6 24:17 purchasers 26:15 50:4 29:9 35:15 relied 28:8,10 
+30:7 33:1 19:24 53:20 36:11 44:7 34:5 54:9 
+38:25 40:22 pure 18:12,14 raisin 3:21,21 46:7 52:10 relief 24:14 
+41:6,16 43:3 purely 37:16 30:4,7,17 31:9 54:20 55:4 rely 28:11 55:22 
+43:17 45:11 purpose 7:4 36:18,21 38:25 reason 10:12 remaining 26:21 
+47:10,10 53:3 18:19 36:25 39:8 41:5 18:22 33:13,14 55:25 
+53:10 40:3 43:12 45:23 reasoning 48:11 remand 26:4 
+
+produces 4:12 purposes 19:20 raising 21:8 reasons 23:15 29:4,10,24 
+4:17,25 pursue 24:14 36:23 38:15 27:13,14 34:3 33:20,21 48:14 
+
+producing 14:6 put 17:4 27:22 raisins 4:1 5:13 34:14 35:16 49:21 55:6 
+26:18 putting 50:2 5:15 6:9,17,20 36:13 49:24 remanded 48:10 
+
+program 19:3 8:19,20,21 rebuttal 2:8 remarkable 
+Q19:13 36:18 9:13,14,20 26:1 45:6 42:9 
+
+question 5:5,937:11,12 38:13 10:4,20,20,21 received 9:19 remedies 19:4 
+7:19,22,23 9:2 39:8,21 40:13 10:23,25 11:3 11:18 15:23 23:25 54:13 
+12:2,5 14:8,9 43:11,19 44:5 11:8,13,17,17 recognize 55:8 remedy 14:3 
+17:9,23 23:7 44:6,17 45:17 11:22 12:10,14 records 30:23 24:12,15 36:4 
+29:11 34:2052:7 56:15 12:20,24,25 referred 31:20 38:2 39:12 
+35:10 39:6,10programs 18:18 13:2,3 14:6,10 32:8 34:4 44:6 49:2 
+39:16,24 41:14 proper 9:8 14:14,17 15:18 regarded 10:18 54:14,16
+47:3,3,5,739:11 15:20,20,21,24 regards 11:2 remember 
+50:16 51:9properly 27:19 16:7,12 17:3,4 Regional 40:19 21:15 
+54:3,25 55:4 28:14 17:10,14,17,17 56:12 repeated 56:8 
+55:10 56:12property 6:23 17:19 18:1,3 regulate 47:10 reports 30:22 
+57:197:16 16:21 19:24 20:4,6,7 regulated 13:11 32:20 
+
+questions 3:1225:10,13,15 20:7,9 22:10 19:3,12 47:12 representing 9:3 
+5:2 47:1827:8,10 37:20 24:19,20,23 regulation 12:18 9:5 
+
+quick 56:338:4 41:14,16 25:1 27:11 13:1 required 14:24 
+quite 9:18 19:17 41:17 42:6 30:3,21,24,25 regulatory 11:2 22:20 23:24 
+
+20:22 21:1545:12,14 46:15 31:13,17,19,22 30:13,19 31:2 34:9 
+42:8 47:850:6 52:8 31:24 32:4,9 31:23,25 32:17 requirement
+52:19proposition 32:11,14,21 32:22 45:17 24:10 30:9,21 
+
+quote 7:15 21:22 25:22 42:8 33:13 36:19,24 47:13,15,23 30:21,22,23 
+provide 31:24 37:20,22,22,25 50:17 51:17,23 35:9,17 37:25 R32:13,14 38:10,18 39:19 52:1 39:2 40:14
+
+R 1:17 2:6 3:1 provided 39:7 39:21 40:2,21 rehearing 8:12 requirements
+27:141:22 46:21 41:17 43:3,14 26:13 28:3,11 30:14 52:2,19
+
+Rail 40:19 56:12 48:2 45:11,12,18,19 28:18 29:1 res 6:23,24
+railroad 22:17provides 31:11 45:20,21,22,24 49:4,6 reserve 9:12
+
+22:18,19,2549:2 46:2,4,6,19,22 reinstate 29:20 15:20,21 26:21 
+23:3,22 57:19 providing 12:23 46:25 48:2 44:14 48:18 30:8,24 32:19 
+
+raise 7:24 14:24 provisions 40:16 50:10,23 57:10 rejected 7:7 37:24 39:2,8
+16:22 25:14public 7:16 38:4 57:13,15,16 12:15 43:5 40:14,21 45:19 
+28:1,25 36:20 50:6 rationale 22:14 relation 52:9 45:20,22
+41:4,10,12,16punishment reach 54:19,22 relationship residing 24:2
+41:18 45:1423:2 54:25 55:3,10 9:11 52:21,22 resist 29:23 47:4 
+52:24 53:3,5punitive 17:1 really 22:7 29:9 relevant 8:24,25 54:1
+
+raised 24:7 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 67 
+
+resisted 43:4 41:3 53:23 33:22,23 35:13 25:5,8 27:5 strict 52:20 
+Respondent says 13:16 20:8 46:17 49:15,16 45:2,4,25 46:7 strictly 30:7 
+
+1:19 2:7 27:2 20:10 21:12,19 49:24 46:12 54:18,24 49:19 
+response 16:5 22:19 29:12 series 30:18 55:9,14 56:21 string 25:13,20 
+responses 38:22 30:11 32:12 55:21 56:24 strip 7:4 
+responsible 38:8 42:12 service 12:23 Sotomayor's stripping 26:17 
+
+10:11,12,15 50:4,9 set 14:10 18:25 23:6 subject 8:18 
+reversing 53:22 Scalia 5:1,7,8 21:23 37:13 sought 48:1 31:25 
+review 26:9 13:2,5 18:16 share 57:13 51:17 submitted 58:1 
+
+29:17 31:10,11 18:19,21 24:3 shifted 37:19 sound 46:7 58:3 
+32:24 33:2 24:8 29:9,14 short 54:18 sounds 51:8 subsequent 7:14 
+46:24 47:16 29:22 31:12,16 show 50:5 special 7:10 52:9 substance 29:5 
+49:20 53:16 31:19,21 32:1 showed 32:12,13 specific 6:22 substantive 
+
+right 4:9 5:6 6:5 32:3 38:7,21 side 53:20 53:16 28:15,17,21,24 
+7:21 8:4 11:8 39:15,25 46:8 significance standing 16:1 54:12 
+12:7 13:6,19 47:2,6 51:5,10 6:19 51:9 52:11,13 substantively 
+14:15 16:16 scheme 11:2 similar 15:13,16 52:16,18,20,24 28:20 
+18:6 19:3 20:1 15:3 46:10,25 25:3 36:16 53:3,5,15 57:3 substitute 19:10 
+20:4,21 21:19 47:1,9 50:17 simplifying 57:4,5 substituted 4:8 
+25:5 26:4 schemes 33:2 36:16 stands 33:5 42:8 4:9 
+28:12 29:12 40:20 simply 12:22 57:15,15 substituting 
+31:14,22 32:4 scope 47:7 53:15 29:7 34:8 start 27:5 26:17 
+33:24 37:15 second 4:3,25 35:19 38:5 started 23:9 sue 38:19 
+45:4 51:14 23:19 32:11 41:11 47:19 27:6 49:3 sued 48:7 
+52:8 55:14 34:5 36:5 57:1 50:3 54:13 State 22:18 suffers 33:22 
+
+ripeness 27:23 secondly 56:13 single 31:4 States 1:1,12 suggest 54:8 
+river 36:20 57:5 situation 39:7 stating 27:21 suggested 11:21 
+road 7:4 Secretary 40:10 45:8,9,13 status 19:17 34:13 40:13 
+ROBERTS 3:3 section 31:10 six 25:21 30:18 54:14 
+
+26:23 27:25 47:9 smaller 40:22 statute 35:18 suggests 38:3 
+28:4,10 53:18 Sections 19:1 sold 10:6 24:23 38:8,9,20 54:14 55:18 
+55:23 57:25 secure 30:14 24:24 39:16 40:1,7 suit 35:13 
+
+roles 47:11 31:5 47:24 solely 37:22 40:16 45:17 supplementary 
+rot 24:24 see 5:8 10:13 Solicitor 1:17 47:8 56:16 40:25 
+route 12:3,5 19:25 somebody 35:13 statutes 37:7 supplemented 
+rule 12:21 49:24 seeding 10:17 somewhat 18:19 40:23 23:21 
+ruled 28:16 seek 50:1 18:19 25:3 statutory 40:20 supplied 10:3 
+rules 52:3 seeking 21:16 sorry 11:5 16:4 stemming 10:17 supply 40:15 
+
+seeks 6:22 19:9,9 39:12 stop 3:16 50:7 support 6:25 
+S seen 42:7 sort 45:6 store 46:21 suppose 11:7 
+
+S 2:1 3:1 segregated 8:20 Sotomayor 3:15 straight 9:2 44:1,1 51:10 
+sake 33:25 sells 25:1 50:23 3:18 4:7,10,15 straightforward 52:23 
+sanctions 31:25 sense 28:15 4:21 5:11,17 57:17 supposed 39:17 
+saying 6:6 7:18 43:24 5:20,23 6:5,12 straightforwa... 43:11 
+
+9:6 11:7,23 separate 4:17,18 9:24 10:6 16:4 18:25 Supreme 1:1,12
+16:12 28:5 4:19,23 29:25 16:6,10,16,20 strenuously sure 10:5,8
+29:10 32:8,10 30:23 32:17 17:8,16 24:16 29:24 54:2 37:18 44:10 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 68 
+
+surely 38:12 57:24,25 55:21 38:21,22 48:20 victory 44:15 
+surprising 3:11 theirs 27:10 throws 36:19 56:3 57:23 view 26:16 
+
+50:18 
+system 16:23 
+
+theories 27:9 
+theory 37:19 
+
+tick 23:14 
+time 17:18,18 U 
+
+28:18 37:1 
+39:4,10 49:25 
+
+T 
+They’re 17:17 
+thing 20:8 22:9 
+
+26:1,2,15,22 
+51:19 57:14 
+
+ultimately 12:15 
+unconstitutio... 
+
+57:9 
+viewed 27:19 
+
+T 2:1,1 26:2 32:4 41:8 timing 17:21 20:12,14 21:7 28:14 36:8 
+table 48:5 44:2 title 10:21 16:11 36:18 39:18 Village 7:1 
+take 6:14 14:8 things 8:2 35:15 45:10,19,21,21 41:9,15 42:18 violate 16:25 
+
+15:18 16:11 44:9 46:14 46:1,5,5 43:4,6 52:7 31:24 
+24:1 26:4 33:7 50:22 today 13:18 53:8 violated 31:4 
+38:10,18 40:2 think 6:12 8:2,8 told 22:18 37:6 undercut 52:2 violating 32:18 
+43:11 46:1,5,5 8:10,24 9:15 41:5 45:10 underlying 41:7 
+47:11 11:18 12:5 51:2,18 56:7 13:20 36:17 violation 11:10 
+
+taken 5:14,24 13:8,24 14:1 ton 12:23 51:17 55:16 21:17 24:18 
+6:6,8 8:21 15:7,8 18:8 tonnage 30:24 understand 15:3 31:8 38:5 42:5 
+11:17 21:17 19:1,17 20:17 30:25 22:7 42:20,23 42:24 52:1 
+27:8,10 41:25 22:2 23:5 26:7 transfer 36:2,6 48:4,9 violations 32:23 
+46:16 27:12 28:14,14 treated 14:22 understood 47:24 
+
+takes 36:19,24 
+39:19 41:15 
+
+29:7 32:6 
+33:22 34:2,22 
+
+19:14 
+tried 7:5 
+
+33:10,11 42:3 
+42:25 43:2 W 
+
+45:19,20 52:8 35:14 36:6,17 truck 32:13 54:11 W 1:15 2:3,9 3:7 
+takings 7:24 8:6 36:22 37:5 true 13:6 21:25 unfair 30:14 56:1 
+
+11:10 25:9,14 38:8 39:11,15 22:2 31:5 47:24 wait 42:17 
+25:23 26:5 39:16,25 40:5 truthful 30:22 unfairness waits 13:15 
+27:6,12 30:2 41:13 42:1 try 49:8 47:21 waived 28:25 
+33:17 36:3 43:25 44:5 trying 15:2 United 1:1,12 49:7 
+46:13,17,23 46:8 47:6 19:22 21:10 unnecessary waiver 48:17 
+47:4,19 51:8 48:19 51:12,13 23:8 26:9 33:7 12:12 49:14,24 
+55:16 52:7,21 53:14 Tucker 11:11 unusual 11:2 want 11:12 
+
+talk 42:20 57:2 53:17,19 54:2 18:8,10 23:19 25:23 13:17 17:10 
+talked 44:17 54:5,21,22 23:24 24:18 USDA 31:7 51:2 19:25 20:9,13 
+talking 18:11 55:6,9,18,20 28:24 35:17 use 7:16 38:4 20:15,16,17 
+
+33:12 47:8 56:11,19 57:17 36:4,9 40:25 48:7 50:6 25:10 26:1 
+49:3 thinking 8:4 43:8 49:2,2,25 uses 36:25 37:25 39:2 
+
+taxpayer 43:16 
+taxpayers 43:19 
+Teleprompter 
+
+25:18 
+tell 20:1 37:14 
+
+44:12 
+term 12:20 
+
+50:12 51:15 
+terms 27:23 
+terrible 44:11 
+Thank 26:22,23 
+
+27:3 55:23 
+
+41:3 
+third 23:23 
+third-party 
+
+52:17,20 57:4 
+thirties 36:20 
+thought 11:8 
+
+33:11 34:8 
+35:16,18 42:14 
+
+three 8:2 23:14 
+threshold 27:13 
+
+27:13 30:2 
+33:23 54:4 
+
+56:6,7,20 
+turn 12:14 
+turned 7:9 
+turning 25:14 
+
+30:2 
+turns 15:5 
+twice 51:21 
+two 3:20 4:1,5 
+
+4:10,17 17:20 
+27:9 28:21 
+29:14 30:4 
+32:7 35:14,15 
+
+V 
+v 1:5 3:4 7:2 
+
+22:17 25:18 
+valid 37:12 
+Valley 3:22,24 
+value 7:6 9:19 
+
+9:20 10:25 
+11:1 15:23 
+16:21 25:10 
+
+valued 3:14 
+variants 23:6 
+venture 45:9 
+
+42:20 53:21 
+54:20,25 55:2 
+55:3 
+
+wanted 7:18 
+43:18 48:6 
+50:19 57:2 
+
+wants 47:11 
+Washington 1:8 
+
+1:15,18 
+wasn't 15:3 
+
+49:19,19 51:24 
+way 15:22 16:25 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 69 
+
+35:7 39:16 
+40:15 43:1 
+44:17 45:16 
+52:14 
+
+Wednesday 1:9 
+weird 38:20 
+went 14:11 
+
+28:12 36:11 
+39:1 48:23 
+
+weren't 9:25 
+14:5 36:1 
+
+we'll 3:3 38:18 
+44:9,16 
+
+we're 9:4 11:14 
+18:11 20:20 
+32:11 38:9 
+40:1,2 44:23 
+55:1,6 
+
+we've 37:18 39:9 
+39:9 44:17 
+
+wide 40:11 
+wife 3:22 4:2 
+willful 30:13 
+
+52:1 
+willfully 31:4 
+Williamson 
+
+42:21 
+win 29:21 47:5 
+
+48:11 54:19 
+55:14 
+
+withdraw 18:17 
+withdraws 18:8 
+
+18:10 
+word 19:11 50:8 
+
+50:20 
+words 11:20 
+
+29:7 
+work 14:16 
+
+22:19 44:11 
+works 45:17 
+world's 49:10 
+wouldn't 13:6 
+
+40:12 
+write 44:9 
+wrong 8:2 20:1 
+
+23:11 28:19 
+29:7,16 34:17 
+
+34:19,22 37:17 
+48:22,22,25 
+51:19 54:15 
+
+X 
+x 1:2,7 
+
+Y 
+year 39:18,19 
+
+40:1,2,12,13 
+years 7:15 48:2 
+
+$ 
+$12 12:23 
+$2,000 7:7,11 
+$484,000 10:25 
+$500 22:22 
+$700,000 19:19 
+
+21:20 
+
+1 
+10:10 1:13 3:2 
+11 50:25 
+11:10 58:2 
+12-123 1:4 3:4 
+14 31:10 
+14(a) 19:1 
+15(a) 19:1 
+1969 30:7 37:23 
+
+2 
+20 1:9 14:15 
+2002 30:6,18 
+
+37:21,23 47:22 
+2013 1:9 
+22 19:18 
+27 2:7 
+
+3 
+3 2:4 55:25 
+
+5 
+50 56:7 
+56 2:10 
+
+6 
+6 48:2 
+608c(13)(B) 
+
+47:9 
+
+7 
+78 10:13 
+
+8 
+8 50:25 
+80 14:15 
+
+Alderson Reporting Company 
+
+

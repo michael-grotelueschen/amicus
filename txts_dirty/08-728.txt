@@ -1,0 +1,6943 @@
+
+            
+
+          
+
+                       
+
+                  
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+TAYLOR JAMES BLOATE, :
+
+ Petitioner :
+
+ v. : No. 08-728 
+
+UNITED STATES. : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Tuesday, October 6, 2009
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 12:59 p.m. 
+
+APPEARANCES: 
+
+MARK T. STANCIL, ESQ., Washington, D.C.; on behalf of
+
+ the Petitioner. 
+
+MATTHEW D. ROBERTS, ESQ., Assistant to the Solicitor
+
+ General, Department of Justice, Washington, D.C.; on
+
+ behalf of the Respondent. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                     
+
+                    
+
+                    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+
+MARK T. STANCIL, ESQ.
+
+ On behalf of the Petitioner 3
+
+
+MATTHEW D. ROBERTS, ESQ.
+
+
+ On behalf of the Respondent 26
+
+
+REBUTTAL ARGUMENT OF
+
+
+MARK T. STANCIL, ESQ.
+
+
+ On behalf of the Petitioner 53
+
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (12:59 p.m.)
+
+ CHIEF JUSTICE ROBERTS: We will hear 
+
+argument next in Case 08-728, Bloate v. United States.
+
+ Mr. Stancil.
+
+ ORAL ARGUMENT OF MARK K. STANCIL
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. STANCIL: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ Pretrial motion preparation time is not 
+
+automatically excluded under Section 3161(h)(1) of the 
+
+Speedy Trial Act. Such delays are subject to exclusion 
+
+only on a case-by-case basis under (h)(7).
+
+ I would like to focus today on three 
+
+features of the statutory text that make that abundantly 
+
+clear. First and foremost, when crafting (h)(1) 
+
+Congress specifically addressed pretrial motion delays 
+
+and precisely defined that exclusion. Subparagraph (D) 
+
+declares that the exclusion shall begin with the filing 
+
+of the motion and end with the hearing on or other 
+
+prompt disposition of the motion.
+
+ Reading the general language in (h)(1) to 
+
+encompass preparation time would circumvent the 
+
+deliberate legislative choice to limit the pretrial 
+
+motion exclusion. 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE GINSBURG: That would allow the 
+
+prosecutor's time to be excluded, right? On your theory 
+
+that it starts -- the trigger is the filing of the 
+
+motion, and it ends when the motion is disposed of. So 
+
+the prosecutor might say, I need additional time, and 
+
+that would be included in the suspension period, right?
+
+ MR. STANCIL: Yes, Your Honor. The 
+
+government's motions and the defense motions are treated 
+
+equally under (h)(1), which is why the government's rule 
+
+to treat defense motions, or defense requests for 
+
+additional time differently --
+
+JUSTICE GINSBURG: But I'm --
+
+MR. STANCIL: The exclusion -- I'm sorry, 
+
+Your Honor.
+
+ JUSTICE GINSBURG: Yes.
+
+ MR. STANCIL: The exclusion begins with the 
+
+filing of the motion, be it the defense motion or the 
+
+government's motion. That is clear on the text, the 
+
+face of the text of the statute, which --
+
+JUSTICE GINSBURG: But the clock -- the 
+
+clock would run, on your theory, during the preparation 
+
+time of the defendant. It would not run during the 
+
+preparation time of the prosecutor. So I don't think 
+
+they are being treated the same.
+
+ MR. STANCIL: No, Your Honor, that is not 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+our position. The clock runs up until the moment of 
+
+filing.
+
+ JUSTICE GINSBURG: Right.
+
+ MR. STANCIL: Whether it is a defense motion 
+
+or a government motion. So --
+
+JUSTICE GINSBURG: No, no. I'm talking 
+
+about the prosecutor's answer to the defense motion.
+
+ MR. STANCIL: Oh, yes, Your Honor. Their 
+
+response to the motion, it is tolled -- or the clock 
+
+stops during the preparation of the response by either 
+
+side. And that was a deliberate legislative choice by 
+
+Congress. It says -- on the face of (h)(1), it says the 
+
+clock stops at filing and remains stopped through the 
+
+conclusion of the hearing or other prompt disposition of 
+
+the motion.
+
+ That was an express choice by Congress. It 
+
+was not lost on them that a response time would be 
+
+treated differently. And the government's suggestion 
+
+that that, therefore, means we should factor back in 
+
+preparation time is --
+
+JUSTICE SOTOMAYOR: Shouldn't we be 
+
+looking --
+
+JUSTICE GINSBURG: One point that I would 
+
+like you to clarify. I -- I understand you to take the 
+
+position that the interest of justice would be the route 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to take, where the judge would have to stop and make a 
+
+finding. In your view, would it be appropriate, 
+
+assuming your interpretation of (B)(i) holds, for us to 
+
+send the case back, or is it too late, because the 
+
+interest of justice finding was never made?
+
+ MR. STANCIL: It is too late because this 
+
+Court answered that question -- that very question in 
+
+Zedner and held that an (h)(7) ends of justice finding 
+
+cannot be supplied retrospectively on remand. That was 
+
+the precise question put to this Court and it was 
+
+rejected by the Court unanimously.
+
+ JUSTICE GINSBURG: But you think it could be 
+
+found. If it doesn't have to be found on the spot by 
+
+the judge, when is the latest time the judge could make 
+
+the interest of justice filing?
+
+ MR. STANCIL: Zedner says that as long as it 
+
+is made -- or the latest it could be made is the time by 
+
+which the district court rules on the motion to dismiss 
+
+on speedy trial -- on speedy trial grounds. So it can 
+
+be made in the district court up until the time the 
+
+district court decides the speedy trial motion. It does 
+
+not -- at least it is left open in Zedner.
+
+ JUSTICE GINSBURG: So the result in your 
+
+case would be that the case is dismissed, period.
+
+ MR. STANCIL: Yes, Your Honor. It would be 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+-- it would be remanded with instructions to dismiss. 
+
+However, the district court -- it remains for the 
+
+district court to determine whether to dismiss with or 
+
+without prejudice according to the factors specified in 
+
+the act.
+
+ JUSTICE ALITO: Is it clear that a period of 
+
+time attributable to a defense request for time to 
+
+prepare pretrial motions can fall within (h)(7)? 
+
+Because (h)(7) speaks of a continuance. Isn't that a 
+
+very -- wouldn't that be a very odd use of the word 
+
+"continuance"?
+
+ If you make an application to a judge for 
+
+time, additional time to prepare pretrial motions, do 
+
+you say, "I want a continuance of the date on which my 
+
+pretrial motions are due"?
+
+ MR. STANCIL: I think that's not an unusual 
+
+reading of the term "continuance," yes, Your Honor. I 
+
+think they frequently -- trial counsel will frequently 
+
+ask for a continuance of the date. But what I think 
+
+both parties agree is that that is how the courts almost 
+
+universally interpret (h)(7), that any time that is 
+
+excluded, even if it doesn't result in the moving of the 
+
+trial date per se, is treated as an (h)(7) exclusion.
+
+ JUSTICE ALITO: Well, there's -- but the 
+
+courts of appeals have almost universally read 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+(h)(1)(D), or overwhelmingly read (h)(1)(D) to apply in 
+
+this situation as well.
+
+ I'm sorry. Not (h)(1)(D), but the 
+
+introductory phrase.
+
+ MR. STANCIL: Yes, Your Honor, but this rule 
+
+wasn't confined to pretrial motions. So even in those 
+
+jurisdictions that follow the majority position at issue 
+
+here, also to my understanding use (h)(7) to exclude 
+
+intermediate delays before trial. In fact, in the 
+
+government's brief, the government acknowledges that 
+
+courts treat pretrial motion delays under either (h)(1) 
+
+or (h)(7), and more specifically (h)7)(B)(iv), which 
+
+specifically speaks in terms of preparation. And in 
+
+fact, that's still further evidence that Congress 
+
+specifically contemplated that preparation time would go 
+
+under (h)(7). Both (h)(7)(B)(ii) and (h)(7)(B)(iv) 
+
+specifically direct district courts to consider the need 
+
+for additional time for adequate or effective 
+
+preparation.
+
+ And Justice Alito, back to your concern 
+
+specifically with motions. (B)(ii) specifically refers 
+
+to pretrial proceedings. So I think there, in that 
+
+sense, there is evidence that Congress didn't think that 
+
+a continuance under (h)(7) would refer only to a 
+
+continuance of the trial date. At least, that's --
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that's my understanding.
+
+ JUSTICE SOTOMAYOR: Counsel, at the time 
+
+that (h)(1)(C) -- or (D) was being looked at, wasn't it 
+
+a fact that some circuits had reviewed the prior 
+
+exclusion as applying only to the date in which there 
+
+were actual hearings before the court?
+
+ MR. STANCIL: Yes, Your Honor.
+
+ JUSTICE SOTOMAYOR: So isn't it -- shouldn't 
+
+we be looking at what you did with respect to this time 
+
+period in light of the need that it was addressing?
+
+ MR. STANCIL: Yes, Your Honor. And the 
+
+Court -- and Congress did decide to expand or clarify 
+
+the end point and beginning point of the (h)(1)(D) 
+
+exclusion.
+
+ JUSTICE SOTOMAYOR: Well, what's wrong with 
+
+the logic of district courts who have ruled in this --
+
+in the government's favor, that say Congress was only 
+
+looking at that particular part of the proceeding --
+
+what related to the hearing, the filing of the motion, 
+
+its actual adjudication -- but they weren't considering 
+
+a motion by the defendant for time to investigate, and 
+
+that can be another proceeding?
+
+ Can you imagine a situation in which a court 
+
+grants that adjournment to a defense attorney where we 
+
+would reverse that finding by the court? 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. STANCIL: I'm sorry, Your Honor? 
+
+Reverse --
+
+JUSTICE SOTOMAYOR: But -- it would seem to 
+
+me that if a defense attorney comes to a court and says, 
+
+I need an adjournment, and the Court says, you can have 
+
+it, isn't that implicitly a proceeding in which the 
+
+court is saying there is a need for this?
+
+ MR. STANCIL: Not in a speedy trial context, 
+
+Your Honor, for two reasons. First, it is not a 
+
+proceeding. There is no pretrial proceeding until the 
+
+motion is filed. That is -- that is the definition of a 
+
+pretrial motion proceeding. It is a formal initiation 
+
+before the district court.
+
+ JUSTICE SOTOMAYOR: "Proceeding" doesn't 
+
+mean an act -- it is an act before the court. The 
+
+entire action is before the court. But it is a 
+
+proceeding in which the defense attorney is looking at 
+
+whether there's anything to file motions about.
+
+ MR. STANCIL: If that were correct, Your 
+
+Honor, then preparing your witnesses is a proceeding 
+
+respecting trial. I think that takes "proceeding" and 
+
+expands it so that everything would be excludable delay.
+
+ But if -- if I may return to your original 
+
+question, Congress did look at preparation time when 
+
+drafting (h)(1) and (h)(1)B) specifically --
+
+10
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOTOMAYOR: Well, the Senate did.
+
+ MR. STANCIL: Pardon me. Yes, the Senate 
+
+Judiciary Committee specifically considered a proposal 
+
+by the government no less to include preparation time, 
+
+and the committee rejected that proposal as 
+
+unreasonable. I think this is simply not a case in 
+
+which we are left to guess whether preparation time was 
+
+on the table. It was on the table and it was declared 
+
+unreasonable to suggest that it would be within the 
+
+automatic exclusion.
+
+ Moreover, I think that makes abundant sense. 
+
+It is not the case that simply asking for more time 
+
+necessarily means that you have some prejudice in the 
+
+speedy trial context, or even that the trial date 
+
+necessarily would move. In this case, the counsel 
+
+requested the extension for pretrial motions. That 
+
+extension was granted. The trial date held. It wasn't 
+
+moved until much later, under an (h)(7) exclusion on 
+
+unrelated grounds. So I think it's a -- I think it's a 
+
+false -- a red herring, if you will, for the government 
+
+to suggest that when the defendant asks for something, 
+
+it's necessarily -- it ought to be granted, fair enough, 
+
+but that it's necessarily going to prejudice the speedy 
+
+trial calculation.
+
+ With respect, I don't think that's the case. 
+
+11
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+I think ordinarily, these things will come very early in 
+
+the speedy trial -- speedy trial clock, and there will 
+
+be relatively brief delays. And so I think it's quite 
+
+reasonable to think that district courts could be 
+
+allowed to give more flexible preparation time to decide 
+
+whether to file, what to file, and then the exclusion 
+
+starts with the filing. And I think Congress has made 
+
+that abundantly clear in -- on the text of the statute.
+
+ JUSTICE GINSBURG: That would certainly 
+
+encourage judges who don't want to get involved with 
+
+making findings, which you have to do to satisfy 
+
+interest of justice, to just say: Motion denied; I'm 
+
+sorry, I'm not going to let you have the clock run while 
+
+you -- you are asking me for a favor. You want time to 
+
+prepare, and the clock is going to run in the meantime. 
+
+Forget it. You are not going to get the extension.
+
+ MR. STANCIL: I disagree, Your Honor.
+
+ First, I think courts will granted them when 
+
+necessary. Again because it is early in the clock, 
+
+there won't necessarily be speedy trial -- some sort of 
+
+speedy prejudice to the government. But moreover, all 
+
+this means is that the court needs to put findings on 
+
+the record to say this is preparation time that is 
+
+legitimately needed, the defendant's interests here 
+
+outweigh the public's interest, and so I'm going to 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+grant that and I'm going to put those findings on the 
+
+record. And I think it's clear from the statute that 
+
+that's how Congress anticipated this would work. But 
+
+I --
+
+JUSTICE GINSBURG: What must the judge --
+
+the judge must make a finding orally or in writing. Can 
+
+it just say, okay, I'm giving it to you in the interest 
+
+of justice?
+
+ MR. STANCIL: I think -- I don't believe 
+
+that precise question has come to the Court. But courts 
+
+are very permissive in terms of how much needs to be put 
+
+on the record, and it's my understanding that this 
+
+happens quite literally every day in scores of contexts 
+
+where courts, as long as they make the finding, it is 
+
+reviewed for an abuse of discretion only and that's 
+
+sufficient.
+
+ JUSTICE ALITO: So the rule that you are 
+
+arguing for really will accomplish nothing, other than 
+
+to benefit a small set of defendants who -- who got 
+
+pretrial preparation time in reliance on court of 
+
+appeals decisions saying that those could be done 
+
+without making explicit ends of justice findings on the 
+
+record?
+
+ MR. STANCIL: No, Your Honor. If we are 
+
+correct, the decision will have significant effect on 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the public's interest. In fact, an individual defendant 
+
+has very little to gain from such gamesmanship as the 
+
+government suggests would be at issue. What you get is 
+
+a dismissal of your indictment with or without 
+
+prejudice, and there are no statute of limitations 
+
+problems --
+
+JUSTICE ALITO: Well, how is the public 
+
+going to benefit if all the judge needs -- presumably, 
+
+district judges are not granting these extensions of 
+
+time in situations in which they do not think that the 
+
+ends of justice are served by granting the extension of 
+
+time.
+
+ So what is going to be served by requiring 
+
+them to recite this -- to make this rote recitation on 
+
+the record?
+
+ MR. STANCIL: First, Your Honor, it's not 
+
+rote. It specifies four factors that they have to 
+
+consider, including and before, it says, whether its 
+
+time -- the time is necessary for effective preparation, 
+
+taking into account the exercise of due diligence.
+
+ What this -- what putting this under (h)(7) 
+
+and making that process required will do is weed out the 
+
+very worst sorts of delays where counsel, even for the 
+
+defendant or the government, comes in and asks for the 
+
+delay without the exercise of due diligence and without 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+any showing that this is actually necessary. And I 
+
+think that's exactly what Congress was doing by not 
+
+putting this under the automatic exclusion in (h)(1).
+
+ If it's automatically excluded, and there is 
+
+additional time granted for no reason whatsoever or for 
+
+something that wouldn't meet the due diligence standard 
+
+in (B)(iv), the speedy trial clock is effectively 
+
+lengthened automatically.
+
+ JUSTICE KENNEDY: Could you tell me how it 
+
+works in district courts? This district court set 
+
+September 13 originally for the -- for the motion. Do 
+
+the district courts generally have a custom schedule for 
+
+every case where they set times or do they have local 
+
+rules on the subject?
+
+ MR. STANCIL: With respect to pretrial 
+
+motions specifically?
+
+ JUSTICE KENNEDY: Yes.
+
+ MR. STANCIL: It varies widely from district 
+
+to district. For example, in some districts the default 
+
+is 21 days. So, if you try a case in Chicago, you go to 
+
+arraignment, your pretrial motions, unless set by a 
+
+different rule, are due in 21 --
+
+JUSTICE KENNEDY: And that's -- that's part 
+
+of -- that there in the local rule of court?
+
+ MR. STANCIL: Yes, Your Honor. In D.C., it 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+is 11 days. In many other jurisdictions and here, there 
+
+is no set time limit.
+
+ And one of the problems -- one of the 
+
+fundamental problems with the government's rule that a 
+
+request -- a defense request for additional time must be 
+
+treated differently and does stop the clock, is that 
+
+gives speedy trial consequences to those variations in 
+
+local rules. So, in districts where you have a very 
+
+short standard timeframe, the defendant has to run in, 
+
+if he wants to file pretrial motions, and stop the clock 
+
+almost automatically. If you have -- say, your motions 
+
+are due automatically in seven days; you have got to run 
+
+in there and stop the clock.
+
+ As a practical matter, the speedy trial, the 
+
+70 days, it's that much longer in those districts 
+
+because you have got to stop the clock compared to 
+
+districts where, say, 21 days are ordinarily allotted. 
+
+Well, they may not have to stop the clock. It's clear 
+
+that Congress did not --
+
+JUSTICE KENNEDY: But I'm -- I'm not sure 
+
+that that isn't -- that that argument doesn't cut both 
+
+ways.
+
+ MR. STANCIL: I'm sorry, Your Honor?
+
+ JUSTICE KENNEDY: I'm not sure if that -- if 
+
+you have a district where you have five days, a very 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+short period and almost nobody can comply with it, then 
+
+maybe that's an argument for the government's rule.
+
+ MR. STANCIL: I disagree, Your Honor. I 
+
+think that illustrates the problem, because if there is 
+
+a -- call it an unreasonably short time period in this 
+
+district, the speedy trial clock only burns for four or 
+
+five days or a week, and then someone is going to have 
+
+to run in and stop it. So those trials are just going 
+
+to take longer.
+
+ Let's assume that it takes two weeks on 
+
+average or three weeks on average to prepare a 
+
+reasonable pretrial motion. Well, in those 
+
+jurisdictions that have that local rule, the short local 
+
+rule, you get two extra weeks on the speedy trial clock, 
+
+because you have to run in and hit stop on the clock by 
+
+asking for additional time.
+
+ In those districts that give you 21 days by 
+
+default, by contrast, that whole 21 days counts against 
+
+the 70 days. And that is, I think -- I think that is an 
+
+essential judgment that Congress made. It decided on 70 
+
+days --
+
+JUSTICE KENNEDY: Well, I think an 
+
+assumption in your mathematical analysis is that there 
+
+will be a difference in the time that it takes to 
+
+dispose of the motion. If the time to dispose of the 
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5 --
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+motion is the same, then you are wrong, I think. I will 
+
+work it out.
+
+ MR. STANCIL: I don't believe so, Your 
+
+Honor. If you assume hypothetically 21 days to prepare 
+
+JUSTICE KENNEDY: Right.
+
+ MR. STANCIL: -- 21 days to respond and call 
+
+it 21 days to rule --
+
+JUSTICE KENNEDY: Right.
+
+ MR. STANCIL: -- in a district that allows 
+
+21 days of preparation time by default rule, 21 days 
+
+will burn and then 42 days with response and ruling.
+
+ JUSTICE KENNEDY: Right.
+
+ MR. STANCIL: In a district that allows only 
+
+five days, five days burn, and then you have to stop the 
+
+clock for the additional 16 days of preparation, plus 
+
+21, plus 21. You end up effectively, if the difference 
+
+is 5 days or 21 days, there is an 86-day speedy trial 
+
+clock in the district with the short rule and a 70-day 
+
+speedy trial clock in the district with the local 
+
+rule -- with the 21-day rule.
+
+ And so I think it's -- and it's clear that 
+
+what Congress did not want in the Speedy Trial Act was 
+
+these time periods to be amended by local rule 
+
+effectively. And that's what would happen. I think 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+more fundamentally --
+
+JUSTICE ALITO: Where does that show, 
+
+because the disposition time isn't going to be the same 
+
+from district to district? Districts vary.
+
+ MR. STANCIL: That's correct.
+
+ JUSTICE ALITO: Congress could have 
+
+required, as they have in some instances, to have a 
+
+judge decide a matter within a certain period of time. 
+
+They didn't do that, did they?
+
+ MR. STANCIL: That's not correct, Your 
+
+Honor. In subparagraph (H), 3161(h)(1)(H) allows only 
+
+30 days during which a matter is actively under --
+
+actually under advisement by the district court. So 
+
+here they actual did set a 30-day clock on which to 
+
+rule.
+
+ There is an exception to that. If there is 
+
+a hearing subparagraph (D) says, well, you know, we are 
+
+not going to govern the time in the hearing, and this 
+
+Court's in Henderson gives district courts flexibility 
+
+in that regard, when there is a hearing. But Congress 
+
+was pretty clear in trying to put a book end at either 
+
+end. It starts on filing and it ends with disposition, 
+
+and we only give you 30 days without a hearing or after 
+
+the hearing to dispose of it.
+
+ And I think more fundamentally this is a 
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+quintessentially legislative judgment. Congress said, 
+
+this is a system of rules that we need in place to move 
+
+cases more expeditiously toward trial. We are going to 
+
+give you 70 days. We are going to exclude certain 
+
+things automatically, and we are going to give district 
+
+courts flexibility under (h)(7).
+
+ CHIEF JUSTICE ROBERTS: Could a district 
+
+judge, as part of his normal pretrial order, say that I 
+
+am inclined to grant normal motions for extensions, but 
+
+I think so we don't run into these problems that it's in 
+
+the best interest of justice that whatever time I grant, 
+
+I issue an order covered by (h)(7)(A)? That avoids all 
+
+this problem. I don't have to worry about the Speedy 
+
+Trial Act when I grant you a motion, because whatever I 
+
+grant you is going to be excluded under (h)(7)(A).
+
+ MR. STANCIL: I don't -- that sounds a lot 
+
+like a prospective waiver of speedy trial, which is --
+
+this court rejected in Zedner. If I understand the 
+
+hypothetical correctly, if the district court says if I 
+
+give you extra time, we are not going to complain about 
+
+it later. I don't think that the court could do that, 
+
+and I don't think that would be consistent --
+
+CHIEF JUSTICE ROBERTS: But presumably, a 
+
+judge can do it in every case. You are saying they 
+
+can't tell you in advance this is what they are going to 
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+do, but they can do it automatically in every case?
+
+ MR. STANCIL: I don't believe so, Your 
+
+Honor. I think, if I understand the hypothetical 
+
+correctly, if a -- if we appear before the district 
+
+judge and the judge says exclusions or extensions for 
+
+pretrial motions will qualify for (h)(7), that sounds 
+
+like to me in an individual case a prospective waiver of 
+
+that defendant's Speedy Trial Act --
+
+JUSTICE SOTOMAYOR: Wait a minute. If a 
+
+defense attorney comes in to you and says -- I'm a 
+
+district court judge -- I need time to prepare; granted, 
+
+I am excluding time under (7)(A). You are saying that 
+
+is insufficient?
+
+ MR. STANCIL: No, Your Honor. If it's done 
+
+on a case-by-case basis, where the time is requested and 
+
+the continuance or the delay is granted with the (h)(7) 
+
+findings made either then or later, that would be 
+
+perfectly appropriate. That's how Congress --
+
+JUSTICE SOTOMAYOR: But it's not okay for a 
+
+district court to say, you tell me how much or you have 
+
+21 days to prepare motions and I'm excluding time 
+
+because of that?
+
+ MR. STANCIL: No. I'm not sure I -- I 
+
+apologize. I'm not sure I under --
+
+JUSTICE SOTOMAYOR: Local rule from a 
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+district court judge: Defendant is arraigned; you have 
+
+21 days to file motions.
+
+ MR. STANCIL: Yes, Your Honor. That is --
+
+that time is not excluded if it is just set by local 
+
+rule.
+
+ JUSTICE SOTOMAYOR: Could you finish 
+
+answering one earlier question. You said that there is 
+
+no statute of limitations problems if we rule in your 
+
+favor. Could you explain why?
+
+ MR. STANCIL: Yes. Under 18 U.S.C., I 
+
+believe it's 3288 and 3289, essentially gives the 
+
+government six months after the dismissal of an 
+
+indictment to reindict a defendant. And courts have 
+
+almost universally held that that applies -- or I 
+
+believe it's universally held that that applies where 
+
+the dismissal is based on Speedy Trial Act grounds. I 
+
+think we are in agreement with the government that there 
+
+is not a statute of limitations problem.
+
+ JUSTICE SOTOMAYOR: Could under that retrial 
+
+provision the court begin excluding time?
+
+ MR. STANCIL: The speedy trial clock starts 
+
+anew after a new --
+
+JUSTICE SOTOMAYOR: That's what I mean.
+
+ MR. STANCIL: Yes, Your Honor. That is 
+
+clear under the statute. 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOTOMAYOR: Do you have any idea how 
+
+many convictions would be at risk for reversal under 
+
+this rule, that would be currently pending and subject 
+
+to a ruling in your favor now?
+
+ MR. STANCIL: I don't know. My supposition 
+
+is that it's not very many. The government certainly 
+
+hasn't suggested that there are a lot. It would have to 
+
+be cases within those eight districts or -- pardon me --
+
+I guess it would be nine or ten, that have either not 
+
+taken a position or take the government's position, in 
+
+which the defendant raised this argument in the trial 
+
+court --
+
+JUSTICE SOTOMAYOR: In a timely manner.
+
+ MR. STANCIL: -- in a timely manner. So I 
+
+think if that is the case, it's an exceedingly small 
+
+number, and for that matter, that would be a problem in 
+
+any case in which this Court reverses an incorrect 
+
+ruling.
+
+ JUSTICE GINSBURG: Is -- is there any 
+
+indication in the circuits that follow what seems to be 
+
+the majority rule -- that is that the clock is stopped 
+
+during preparation time -- that there have been 
+
+excessive delays, in comparison to the -- what is it, 
+
+two circuits who go the other way?
+
+ MR. STANCIL: Not that I am aware of, Your 
+
+23
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Honor, but nor has there been any indication that 
+
+district courts in the two jurisdiction where they get 
+
+the rule right in our view deny defense requests for 
+
+additional time.
+
+ I think -- I think this rule will matter if 
+
+you assume that the average pretrial motion extension is 
+
+relatively modest and that the lawyers are fairly 
+
+reasonable in what they request. We are talking about, 
+
+you know, additional delays of a week or two weeks, but 
+
+that is -- again, that backs right up into the 
+
+congressional judgment, the legislative judgment that 
+
+Congress made.
+
+ And so those trials will on average in the 
+
+majority of jurisdictions, I think, just take that much 
+
+longer to get to trial.
+
+ JUSTICE KENNEDY: Well, what is your 
+
+systemic concern with the -- with the government's rule? 
+
+The judge has to grant the continuance under either --
+
+under either of your rules, and you say he has to make a 
+
+finding that it's good. But are you concerned the 
+
+continuance would be because the attorney wants to play 
+
+golf or take a vacation with his kids, and that that's 
+
+not the cause?
+
+ MR. STANCIL: Well, that --
+
+JUSTICE KENNEDY: Is that's what's driving 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+your concern?
+
+ MR. STANCIL: Well, that would be -- that is 
+
+the most important function of (h)(7), to screen out the 
+
+truly unmeritorious delays. That's what Congress wanted 
+
+to get at most of all.
+
+ JUSTICE KENNEDY: But wouldn't judges in 
+
+many cases do that anyway just in the course of deciding 
+
+whether to grant a continuance?
+
+ MR. STANCIL: The court may --
+
+JUSTICE KENNEDY: Give -- give me the 
+
+consequences of ruling for the government that you see 
+
+that are adverse in your view.
+
+ MR. STANCIL: The consequence -- ruling for 
+
+the government would mean that any time a defendant 
+
+needs any extra time, or -- or we would say either side 
+
+needs any extra time, the clock stops. And so any time 
+
+you need additional time for pretrial motions there is 
+
+no balancing.
+
+ So in the routine case that is not complex, 
+
+where the -- where the defendant's counsel may be just 
+
+simply not exercising due diligence, you could ask for 
+
+two weeks and there is no -- there is no balancing. The 
+
+district court doesn't even have to ask, what's the 
+
+delay, you know, why the extra delay? And that time is 
+
+automatically excluded. 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE KENNEDY: But that's my point.
+
+ MR. STANCIL: Yes.
+
+ JUSTICE KENNEDY: I assume the district 
+
+judge will ask. Or is --
+
+MR. STANCIL: In the absence --
+
+JUSTICE KENNEDY: Or do you doubt that?
+
+ MR. STANCIL: I am sure it will vary from 
+
+court to court. But in the absence of (h)(7) and 
+
+putting it on the record, the district court is 
+
+certainly not required to ask and may not -- certainly 
+
+won't put those findings on the record. And I think 
+
+this Court made that point very clear in Zedner, that 
+
+(h)(7) balances substantive open-endedness with 
+
+procedural strictness, and the procedure is what 
+
+matters, and Congress made that explicitly clear in 
+
+drafting (h)(7).
+
+ If I may, I would like to reserve the 
+
+remainder of my time for rebuttal.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Mr. Roberts.
+
+ ORAL ARGUMENT OF MATTHEW D. ROBERTS
+
+ ON BEHALF OF THE RESPONDENT
+
+ MR. ROBERTS: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ Additional time granted for preparation of 
+
+26
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+pretrial motions is automatically excluded from the 
+
+Speedy Trial Act deadline for commencing trial. For 
+
+three reasons, that time falls under section 3161(h)(1) 
+
+which excludes delay resulting from other proceedings 
+
+concerning the defendant.
+
+ First, Section (h)(1) excludes delay 
+
+resulting from various listed proceedings and other 
+
+proceedings that are analogous or ancillary to those 
+
+proceedings. A court's grant of additional motions 
+
+preparation time is ancillary to pretrial motions 
+
+themselves, which are a listed proceeding. It 
+
+facilitates the motions because adequate time to prepare 
+
+them is critical to their fair and accurate resolution. 
+
+The exclusion is similar to other excludable delays that 
+
+result from proceedings ancillary to listed proceedings.
+
+ CHIEF JUSTICE ROBERTS: Could I ask a 
+
+specific date question? Am I right that you would 
+
+exclude the time from September 7th to October 4th?
+
+ MR. ROBERTS: Yes, the time from 
+
+September 7th to October 4th.
+
+ CHIEF JUSTICE ROBERTS: Well, that 
+
+doesn't -- I'm not sure that makes much sense. Before 
+
+the motion for extension was filed, the hearing date for 
+
+pretrial motions was September 20. After the extension 
+
+was filed and granted, the hearing date was October 4th. 
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+So the only period of delay that you could say resulted 
+
+from the extension was from September 20 to October 4, 
+
+or 13 days.
+
+ Well, how can you possibly count the time as 
+
+a delay after he filed his extension up to the point 
+
+when things would have been due anyway?
+
+ MR. ROBERTS: Well, the delay is just the 
+
+time that's being used for preparation, which was 
+
+presumably the time all the way up to the period at 
+
+which the waiver of the intent to file motions was 
+
+filed.
+
+ CHIEF JUSTICE ROBERTS: Well, but how is 
+
+that a -- how is the time being spent for preparation a 
+
+delay, when some of that time was going to be allowed 
+
+anyway?
+
+ MR. ROBERTS: Well, I think the act --
+
+CHIEF JUSTICE ROBERTS: In other words, the 
+
+motions were not due until September 25th. So I don't 
+
+see how the time he spent before then can be regarded as 
+
+a delay.
+
+ MR. ROBERTS: Well, that's -- that's a 
+
+result of the fact that the act doesn't exclude the time 
+
+before a routine deadline for filing the motion, because 
+
+it only excludes the time -- the delay resulting from an 
+
+individualized proceeding. But it makes sense not to 
+
+28 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+exclude the -- the time before the routine deadline as a 
+
+general matter, because if you excluded all that time, 
+
+then you -- the result would be that the basic deadline 
+
+of the act would be extended and time would be excluded 
+
+in cases where no time was being used for consideration 
+
+or preparation of pretrial motions. But once you 
+
+know --
+
+CHIEF JUSTICE ROBERTS: What is the -- what 
+
+is the proceeding from which you count in determining 
+
+what should be excluded?
+
+ MR. ROBERTS: The time running from the 
+
+order of the district court granting additional time.
+
+ CHIEF JUSTICE ROBERTS: Okay, that order --
+
+that proceeding was initiated and ruled on the same day. 
+
+The person comes in and says: I would like time. The 
+
+judge that same day says yes.
+
+ MR. ROBERTS: There were --
+
+CHIEF JUSTICE ROBERTS: That proceeding 
+
+takes a day.
+
+ MR. ROBERTS: The request -- the request for 
+
+time, that proceeding was done. But the order -- the 
+
+order granting additional time is a proceeding, and the 
+
+additional time that --
+
+CHIEF JUSTICE ROBERTS: The additional time 
+
+flowing from the order is a proceeding? 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. ROBERTS: The order -- an order is a 
+
+step in the case, an act of the court --
+
+CHIEF JUSTICE ROBERTS: Right.
+
+ MR. ROBERTS: -- and it's a proceeding.
+
+ CHIEF JUSTICE ROBERTS: Right.
+
+ MR. ROBERTS: And it's --
+
+CHIEF JUSTICE ROBERTS: And that's one day.
+
+ MR. ROBERTS: Yes, but it's the delay 
+
+resulting from the order that we are talking about.
+
+ CHIEF JUSTICE ROBERTS: Ah. Now that -- now 
+
+-- now I don't see how that's consistent with the other 
+
+provisions of the act. If you take (h)(1)(A), that 
+
+excludes delay resulting from any proceeding to 
+
+determine mental competency. Okay?
+
+ MR. ROBERTS: Yes.
+
+ CHIEF JUSTICE ROBERTS: And under your 
+
+theory that would include the time from the filing of 
+
+that motion to the end of the determination of mental 
+
+competency, right?
+
+ MR. ROBERTS: I think courts have excluded 
+
+from the filing of a motion seeking an examination, yes. 
+
+You could also, that would probably be excluded under 
+
+(h)(1)(D) --
+
+CHIEF JUSTICE ROBERTS: Ah. Well -- yes. 
+
+Well, or -- yes ---no, I'm looking at (h)(4). Now 
+
+30
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+(h)(4) excludes any period of delay resulting from the 
+
+fact that the defendant is -- is mentally incompetent.
+
+ MR. ROBERTS: Right.
+
+ CHIEF JUSTICE ROBERTS: It seems to me 
+
+redundant if you exclude the delay from the examination 
+
+and then also exclude mental incompetence.
+
+ MR. ROBERTS: I don't think so, Your Honor, 
+
+because the delay resulting from the examination would 
+
+-- would be excluded from the order granting the 
+
+examination until the examination was complete. And 
+
+then there would be a determination of competence or 
+
+incompetence.
+
+ CHIEF JUSTICE ROBERTS: All right. Well, 
+
+let's look at (h)(1)(G). That excludes delay resulting 
+
+from consideration by the court of a proposed plea 
+
+agreement. But then (h)(2) says any period of delay in 
+
+which prosecution is deferred pursuant to a written --
+
+written agreement with the defendant, for the purpose of 
+
+allowing the defendant to demonstrate his good conduct, 
+
+which sounds an awful lot like a plea agreement to me.
+
+ MR. ROBERTS: I don't -- I think that 
+
+that's -- that that's a different -- a different 
+
+deferral, Your Honor. It's not for the court's 
+
+consideration of a plea agreement or even for 
+
+negotiations. It's saying we're going to take time out 
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+so that the defendant can demonstrate his -- his good 
+
+conduct.
+
+ I think that the plea agreement provision is 
+
+once the parties have proposed an agreement to the 
+
+court, the court has time to consider whether it should 
+
+approve that and that time's excluded. And in fact 
+
+courts have excluded the time that the parties are 
+
+engaged in plea negotiations as ancillary to that 
+
+provision of consideration of the proposed plea 
+
+agreement.
+
+ CHIEF JUSTICE ROBERTS: If I disagree with 
+
+you that, when the time that is extended before a 
+
+hearing on the pretrial motions and the acceptance of a 
+
+waiver, which runs from 13 days, September 20, the 
+
+original date, and the date that it actually took place, 
+
+which is 13 days, and if I think, contrary to your 
+
+submission, which is that the whole time from the filing 
+
+of the extension to the final hearing is delay, even 
+
+though it was only 13 days that was pushed back, then 
+
+you lose, right?
+
+ MR. ROBERTS: I'm not sure. If you think 
+
+that the -- that there's delay that results from the 
+
+grant of the extension, I don't think that the 
+
+Petitioners ever challenged the length of the delay that 
+
+was excluded, so the only issue that's before the Court 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+is whether that delay is excluded.
+
+ I don't know that the Petitioners preserved 
+
+any argument about the length of the delay, Your Honor.
+
+ CHIEF JUSTICE ROBERTS: Putting aside what 
+
+Petitioners may or may not have argued, if I think that 
+
+the delay is only how far the date for consideration of 
+
+a motion and acting on the motion has been moved -- in 
+
+this case, from September 20 to October 4; in other 
+
+words, it's 13 days, not 28 days -- then you lose, 
+
+right?
+
+ MR. ROBERTS: I'm not sure that we lose. I 
+
+have to confess that I haven't calculated the -- the 
+
+exact amount of time that that results. In any case, 
+
+there are other periods of delays --
+
+CHIEF JUSTICE ROBERTS: Well, I guess it 
+
+would be, take 15 days from what time you have 
+
+calculated, and that's -- that's under the wire -- or is 
+
+it above the wire?
+
+ MR. ROBERTS: Yeah. I'm sorry, Your Honor.
+
+ CHIEF JUSTICE ROBERTS: In other words, I am 
+
+contesting 15 of your days, and you figured out how much 
+
+days you think can be excluded or not excluded.
+
+ MR. ROBERTS: Right. I guess I would say, 
+
+if there was some question about the length of delay, 
+
+the appropriate thing would be to -- to rule for us on 
+
+33 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the issue that's before the Court, remand to the courts 
+
+below, allow them to decide whether the Petitioners 
+
+preserved the question about the length of delay and 
+
+what the effect is on a rule that would only limit the 
+
+additional delay.
+
+ You know, we also have other arguments for 
+
+the fact that we think that, even if this time isn't 
+
+excluded, that, based on -- based on the additional 
+
+preparation time, that there's still no Speedy Trial Act 
+
+here, that we raised in the -- in the brief of -- in 
+
+opposition, and we would think that that should be taken 
+
+into account on any remand like that as well.
+
+ JUSTICE GINSBURG: What was -- what was the 
+
+second point you just made, Mr. Roberts? That, even if 
+
+the clock is running, you would still have an argument 
+
+that you come within the 70 days because?
+
+ MR. ROBERTS: Because the -- on 
+
+September 25th, Petitioner filed a notice of intent to 
+
+waive pretrial motions, and then there was a hearing on 
+
+that on the 4th, and so that filing would be analogous 
+
+to a motion or a motion that would trigger it's own 
+
+delay, that it would trigger it's own exclusion of time 
+
+even if the time starting on September 7th was not 
+
+excluded.
+
+ JUSTICE KENNEDY: Just for my -- just for my 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+information, what's a motion to -- to waive? I mean, 
+
+why does he need permission to waive?
+
+ MR. ROBERTS: The -- the court had 
+
+originally said -- the court had originally provided in 
+
+its order that on the deadline for filing motions the --
+
+the Petitioner should either file the motions or 
+
+indicate whether he wanted to waive the motions and then 
+
+set a hearing on either one, on the 4th, and that's what 
+
+happened.
+
+ After he filed that paper on the 4th, the 
+
+court held a hearing, and the defendant -- discussed 
+
+with the defendant personally whether he wanted to waive 
+
+his right to file motions.
+
+ JUSTICE KENNEDY: I see.
+
+ MR. ROBERTS: And the defendant waived his 
+
+right to file motions, which had a consequence, you 
+
+know, in the case.
+
+ The second reason that the additional time 
+
+granted for preparation of pretrial motions is 
+
+automatically excluded is that the exclusion in Section 
+
+(h)(1)(D) for delay resulting from pretrial motions 
+
+themselves excludes the time that a court grants the 
+
+non-moving party to prepare a response.
+
+ And, as Justice Ginsburg, in her questions 
+
+suggested, it would make little sense automatically to 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+exclude time granted to respond to motions, but not the 
+
+time granted for the specific purpose of preparing them.
+
+ In fact, this Court employed similar 
+
+reasoning to that in the Henderson case when it held 
+
+that the Act excludes the time after a court has held a 
+
+hearing on a motion while the court's awaiting further 
+
+written submissions.
+
+ The Court reasoned that it would make no 
+
+sense not to exclude that time because the act excludes 
+
+all the time before the hearing, as well as 30 days 
+
+after a motion's taken under advisement; and likewise it 
+
+would make no sense not to exclude time that is 
+
+specifically granted to prepare motions when the Court 
+
+excludes the time granted to respond to them.
+
+ Third --
+
+JUSTICE SCALIA: Except for the -- for the 
+
+language, which -- which says that you -- you time it 
+
+from the beginning of the time granted.
+
+ MR. ROBERTS: Well, section -- Section 
+
+(h)(1), Your Honor, expressly states that it excludes 
+
+delays, including, but not limited, to the listed 
+
+delays, so no negative inference arises from the fact 
+
+that the listed examples don't specifically address 
+
+delays resulting from the grant of additional motions 
+
+preparation time. 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Section (h)(1)(D) is addressing a related, 
+
+but different delay, the delay from the pretrial motion 
+
+itself.
+
+ JUSTICE SCALIA: Well, what's the effect of 
+
+that language then? Why didn't (D) just read "delay 
+
+resulting from any pretrial motion"?
+
+ MR. ROBERTS: Because Congress specifically 
+
+amended it in 1979, in response to previous 
+
+interpretations by some courts that had excluded only 
+
+the time that was spent in actual court hearings, and 
+
+the language makes clear that all the time from the 
+
+filing of the motion through the hearings, including 
+
+the -- not just the Court hearing time -- is excluded, 
+
+and it -- the language continues to -- to make that 
+
+clear, even if preparation time is also sometimes 
+
+excluded.
+
+ JUSTICE SOTOMAYOR: Counsel, do you disagree 
+
+with your adversary, that there is no statute of 
+
+limitations problem if we rule against you?
+
+ MR. ROBERTS: No. I don't think that there 
+
+are statute of limitations problems, Your Honor, but 
+
+requiring judges to make superfluous ends of justice 
+
+findings --
+
+JUSTICE SOTOMAYOR: But is it superfluous? 
+
+Because what your adversary is saying is that Congress 
+
+37
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+wanted district courts to think about why some things 
+
+were being -- additional time was being requested. Not 
+
+all motions by defendants would a district court 
+
+actually feel were warranted and might say to that 
+
+individual if they came in: Look; that shouldn't take 
+
+you three weeks; that should only take you a week.
+
+ MR. ROBERTS: Well, a court should always be 
+
+doing that in considering whether to grant additional 
+
+time that's requested, Your Honor. Neither the 
+
+defendant nor the public is going to have an interest in 
+
+rushing to trial without adequate time to prepare --
+
+JUSTICE SOTOMAYOR: But that doesn't answer 
+
+my point. Without a requirement that the judge actually 
+
+has to make a finding in the interest of justice, once 
+
+the defense attorney comes in and says, I want a month, 
+
+and isn't the judge required to give him the month 
+
+because it's automatically excludable?
+
+ What, otherwise, forces the judge to look at 
+
+the request and say, no; is it really in the interest of 
+
+justice for me to give you that month?"
+
+ MR. ROBERTS: The -- the judge doesn't have 
+
+to give him the additional time. Presumably, the judge 
+
+should only give him the -- the additional time if more 
+
+time is needed to prepare the -- the motions, based on 
+
+the justification that the defendant --
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOTOMAYOR: So what -- so what 
+
+additional requirements are we imposing on the judge 
+
+that the statute itself doesn't command?
+
+ MR. ROBERTS: Well, what --
+
+JUSTICE SOTOMAYOR: If the judge always has 
+
+to listen to the reason, weigh it, determine whether or 
+
+not it is in fact in the interest of justice or not, how 
+
+much more burden are we putting on a judge than to say, 
+
+look, you are right, you need a month; I will exclude it 
+
+under (7)(H).
+
+ MR. ROBERTS: The judge has to specifically 
+
+consider all of the specified factors that are in (b)(1) 
+
+through (4).
+
+ JUSTICE SOTOMAYOR: We have never required 
+
+the judge to give a litany of each of the factors under 
+
+(h)(7). We have never required him or her to do a 
+
+detailed finding. We've just required them to say 
+
+there's some reason for it.
+
+ MR. ROBERTS: Well, the court -- the statute 
+
+says that the judge shall consider the specific factors, 
+
+and some courts at least have -- have reversed -- if 
+
+a -- situations where the court hasn't considered the 
+
+factors.
+
+ In addition, there have to be specific ends 
+
+of justice findings, which I would respectfully disagree 
+
+39
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+with counsel on the other side: The findings have to be 
+
+made before the continuance is granted. What --
+
+JUSTICE SOTOMAYOR: That's what Zedner seems 
+
+to suggest.
+
+ MR. ROBERTS: What Zedner says is the 
+
+findings have to be made before the continuance is 
+
+granted. They can be recorded later, but they have to 
+
+be made, because otherwise the continuance isn't made on 
+
+the basis of the findings. So if the judge didn't go 
+
+through, consider the factors, and make the findings, if 
+
+only in the judge's mind, then the judge shouldn't be 
+
+recording them later on.
+
+ JUSTICE STEVENS: Mr. Roberts --
+
+JUSTICE SCALIA: And counsel wouldn't know 
+
+until -- wouldn't know whether the time was excluded or 
+
+not until -- until a later finding is either made or not 
+
+made.
+
+ MR. ROBERTS: Is recorded. I guess -- I 
+
+guess not, Your Honor.
+
+ JUSTICE STEVENS: May I ask you, 
+
+Mr. Roberts, to comment on your opponent's argument that 
+
+you are creating a rule that if a particular district 
+
+has a standing order that motions be filed after seven 
+
+days and then another district has a standing order that 
+
+it be 21 days, the effect of your rule would be to make 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the seven-day district an 86-day -- give them 86 days 
+
+under the Speedy Trial Act?
+
+ MR. ROBERTS: Yes, Your Honor. The -- the 
+
+act just doesn't operate so that -- so that all the 
+
+districts' excludable delays are even across districts. 
+
+The exclusion in Section (h)(1)(D), the exclusion for 
+
+pretrial motions, excludes the time that's allotted to 
+
+prepare responses. And there is wide variation among 
+
+the different districts in the time that's allotted to 
+
+prepare responses.
+
+ So, for example, the Northern District of 
+
+Florida gives 14 days after the motion. The Northern 
+
+District of Illinois gives ten days after the motion.
+
+ JUSTICE STEVENS: That's for response time.
+
+ MR. ROBERTS: For response time.
+
+ JUSTICE STEVENS: And that's automatically 
+
+excluded, so that won't affect the -- well, like you 
+
+said, it's --
+
+MR. ROBERTS: It's going to be different.
+
+ JUSTICE STEVENS: Yes.
+
+ MR. ROBERTS: So it's the same -- it's the 
+
+same issue. They're just -- it isn't in lockstep.
+
+ JUSTICE STEVENS: But if the difference is 
+
+specifically authorized by Congress?
+
+ MR. ROBERTS: Well, this is specifically 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+authorized by Congress, too, because section (h)(1) is 
+
+-- is a general exclusion for delay resulting from 
+
+proceedings concerning the defendant.
+
+ And, you know, these are -- the list of 
+
+things are examples only. And this covers those 
+
+proceedings and other proceedings, including those that 
+
+like this one that are ancillary to the listed ones.
+
+ JUSTICE STEVENS: But doesn't it seem fairly 
+
+clear that the district which has a 21-day rule, they 
+
+won't have to -- normally, they won't need extra time in 
+
+the routine case for an extra motion, whereas the 
+
+districts with a seven-day rule would pretty 
+
+automatically need another 10 days or so.
+
+ MR. ROBERTS: I think it depends on the 
+
+particular case and what motions are in -- or what 
+
+motions are involved, Your Honor.
+
+ But the -- the rule is going to operate 
+
+differentially, too. Under Petitioner's theory, people 
+
+come in asking for different extensions of time to get 
+
+(h)(7) continuances, which Petitioner says are not going 
+
+to be very difficult to get granted. So I think, both 
+
+in terms of the response time varying and in terms of 
+
+the rule having the same effect, whether it's excluded 
+
+under (h)(1) or (h)(7), I'm not sure that you are going 
+
+to ever get a complete parity. That's really not what 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Congress was intending.
+
+ CHIEF JUSTICE ROBERTS: Counsel, this may be 
+
+the same question I was asking earlier, but I want to 
+
+make sure I've got your answer. Let's say the original 
+
+date for filing motions is, as it was here, 
+
+September 13th, right? On September 7th, Mr. Bloate 
+
+asks for additional time. So the judge's, you know, 
+
+runs a tight ship, and he says, I will give you one day. 
+
+One more day, so now it's due on September 14th.
+
+ You would say the delay resulting from that 
+
+extension was seven days, from September 7th, when he 
+
+filed it, to September 14th, and not one day.
+
+ MR. ROBERTS: That's the way the courts have 
+
+interpreted it, because once the -- once the 
+
+determination has been made that there should be time to 
+
+prepare a response, then you know that you're outside of 
+
+the case where you don't know whether any of this time 
+
+in the routine deadline is being used for response --
+
+for consideration of motions or preparation of motions. 
+
+You know that counsel is using time for that purpose.
+
+ But I would say, you know, the same answer 
+
+back to you, that -- that the issue here is whether 
+
+additional time should -- is excluded when it's granted. 
+
+The issue isn't how much time should have been excluded. 
+
+And if -- if the court thinks that an incorrect amount 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of time has been -- was calculated as excluded, I think 
+
+that the appropriate thing to do in that circumstance 
+
+would be for the Court to leave that open on remand, 
+
+assuming that it's -- that it's preserved. But, you 
+
+know, I think that -- that --
+
+JUSTICE GINSBURG: And you would argue it 
+
+wasn't reserved because both sides thought the period 
+
+was from September 7th until October 4th, and one 
+
+thought that that whole period should be excluded? That 
+
+was your position, and then the other side said none of 
+
+it --
+
+MR. ROBERTS: That's right, Your Honor. I 
+
+-- Petitioner never argued, at least as far as I am 
+
+aware, that the error was a miscalculation of the amount 
+
+of time, rather than the exclusion of the time under the 
+
+wrong statutory provision.
+
+ JUSTICE BREYER: How -- how do you think it 
+
+should work? It seems to me they are two separate 
+
+things. On September 7th, the defendant comes in and 
+
+says, "Judge, you've told me I have to have everything 
+
+ready by the 13th. I would like additional time to 
+
+prepare." And what he said was, "until September 25th." 
+
+He said that on the 13th: "I want until 
+
+September 25th." This is what I think the Chief Justice 
+
+is asking, in part. 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Now, what the judge did is excluded 
+
+everything from September 7th all the way to 
+
+October 4th. And if I understand your argument -- I'm 
+
+not sure I agree with it, but on the 7th to the 13th, 
+
+that really wasn't additional time, but nonetheless, 
+
+maybe there's something there.
+
+ What about the period from the 25th to the 
+
+4th? I don't know what the theory could be on excluding 
+
+that one, because what the defendant said on the 7th --
+
+on September 13th, he said, "Judge, I don't want any 
+
+more time. I don't even want to file any motions."
+
+ MR. ROBERTS: On the 25th.
+
+ JUSTICE BREYER: Yes. On the 25th, he said 
+
+that. So what is the basis of excluding the 25th to the 
+
+4th?
+
+ MR. ROBERTS: As I was saying before, what 
+
+-- he did make a filing on the 25th, and the Court took 
+
+action in response to that filing on the 4th, by holding 
+
+a hearing at which he waived the motions as he indicated 
+
+that he was doing on the -- on the 25th. So --
+
+CHIEF JUSTICE ROBERTS: So the delay -- so 
+
+saying I'm not going to file any pretrial motions 
+
+results in a delay from a pretrial motion?
+
+ MR. ROBERTS: Well, in this particular 
+
+instance, Your Honor, he made a filing and then the 
+
+45
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Court -- the Court held a hearing in response to that, 
+
+and actually engaged in a colloquy with the defendant, 
+
+asked the -- asked the defendant, "Do you understand 
+
+what you are giving up? Do you want to waive these 
+
+motions?" He said, "Yes, I want to do that," and the 
+
+Court ruled, then, on that on the 4th.
+
+ JUSTICE SOTOMAYOR: Is that a normal course 
+
+of practice? I've never quite heard of other --
+
+MR. ROBERTS: I don't think it's a general 
+
+practice, Your Honor. It does seem to be typical in 
+
+this -- in this district, but I think that --
+
+JUSTICE SOTOMAYOR: But then the Court's 
+
+view a decision or statement that no motions are going 
+
+to be filed as a request for a waiver of that 
+
+obligation?
+
+ MR. ROBERTS: Well, it was in fact a waiver 
+
+notice, a notice of intent to waive, that the defendant 
+
+filed. Not just --
+
+JUSTICE SOTOMAYOR: Intent to waive.
+
+ MR. ROBERTS: Well, I mean, it was framed as 
+
+a waiver, a waiver of pretrial motions. It's Docket 
+
+Entry 21. But I don't think it's -- you know, it's in 
+
+the record, but not in the -- in the JA.
+
+ JUSTICE SOTOMAYOR: Well, I didn't see it as 
+
+a motion. It didn't move to waive. It said, "I waive." 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. ROBERTS: That -- that's true, but the 
+
+Court didn't -- the Court held the hearing on the 4th. 
+
+And it engaged in this conversation with the defendant 
+
+and then made a decision on the 4th that the time was 
+
+waived, that the -- the waiver, not --
+
+JUSTICE BREYER: So it's --
+
+MR. ROBERTS: Not at the time it was filed.
+
+ JUSTICE BREYER: That's what I understand. 
+
+You get the period from the -- the 25th to the 4th comes 
+
+under (D) or (H). It's a motion that is filed, and it's 
+
+under advisement.
+
+ MR. ROBERTS: I think that the --
+
+JUSTICE BREYER: So it comes under (D) or 
+
+(H). Is that right?
+
+ MR. ROBERTS: It comes under -- it probably 
+
+comes under (h)(1), Your Honor.
+
+ JUSTICE BREYER: I mean, I don't mean little 
+
+(h)(1). I mean big (H). It's attributed to a period 
+
+during which any proceedings actually under any 
+
+advisement -- or maybe it comes under (D) -- a motion 
+
+not to file a motion is a motion.
+
+ MR. ROBERTS: I mean, it could come under 
+
+(D), Your Honor. It could come under (h)(1). I would 
+
+say it really comes under both -- best fits under (h)(1) 
+
+as analogous to a motion that's not exactly a motion. 
+
+47
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+But, you know, either way, the point is that 
+
+it was something that the Court required the Court 
+
+action, or at least as the Court had set the rules in 
+
+this proceeding required Court action, and then it did 
+
+ultimately did have Court action on the Court.
+
+ JUSTICE STEVENS: Would you repeat that just 
+
+so I have you: It comes under (h)(1) -- what sub?
+
+ MR. ROBERTS: I think just under -- I would 
+
+say, Your Honor, just under the general language of 
+
+(h)(1), because it's not strictly a pretrial motion, but 
+
+it's the equivalent of a pretrial motion.
+
+ But you could say that it falls under --
+
+under (h)(1)(D), and think of it as a motion itself.
+
+ JUSTICE STEVENS: Did --
+
+JUSTICE SOTOMAYOR: Do you have any idea of 
+
+how many, if we rule against you, until we -- speaking 
+
+hypothetically, how many convictions would be at risk 
+
+for --
+
+MR. ROBERTS: I couldn't say precisely, Your 
+
+Honor, but it is the rule that's been followed in eight 
+
+courts of appeals.
+
+ JUSTICE SOTOMAYOR: But it's -- it's not 
+
+everybody who invokes a Speedy Trial Act violation 
+
+objection.
+
+ MR. ROBERTS: No. That's true. That's 
+
+48
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+true. I mean, I can't say that they are going to be --
+
+and I would have to agree with -- with Petitioner's 
+
+counsel that, you know, that there are consequences in 
+
+whatever ruling that the Court -- that the Court makes 
+
+in a case.
+
+ JUSTICE SOTOMAYOR: I would have been -- I 
+
+would have been interested in knowing the effects of 
+
+Zedner.
+
+ MR. ROBERTS: Yeah.
+
+ JUSTICE SOTOMAYOR: And how -- what kind of 
+
+burden it placed.
+
+ MR. ROBERTS: I'm sorry, I don't have any 
+
+precise -- precise information on that. But I think 
+
+that, you know, even apart from the transitional effects 
+
+that there are going to be on a going-forward basis, 
+
+sometimes judges are going -- would -- would grant 
+
+additional preparation time and neglect to make the 
+
+required finding.
+
+ JUSTICE SOTOMAYOR: But that's true of all 
+
+Speedy Trial Act actions by the district court. They 
+
+always run the risk of forgetting to make a finding. 
+
+That's why you have two attorneys, presumably --
+
+MR. ROBERTS: That's right --
+
+JUSTICE SOTOMAYOR: -- to remind them.
+
+ MR. ROBERTS: And that would be perfectly 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+appropriate if findings under (h)(7) were necessary. 
+
+But section (h)(1) is designed to address frequently 
+
+recurring situations in which the ends of justice are 
+
+virtually always going to be served by delaying the 
+
+trial for the purpose. And that's exactly what we have 
+
+here.
+
+ JUSTICE SCALIA: Can I ask you about the 
+
+language of (h)(1)? Do you think it's -- do you think 
+
+it's proper to consider a period of delay that precedes 
+
+the filing of the motion? That is, a period of delay in 
+
+order to prepare the motion, as a delay resulting from a 
+
+proceeding that has not yet occurred?
+
+ MR. ROBERTS: No, we -- we agree with that, 
+
+Your Honor. That's why Petitioner is wrong in saying 
+
+that (D) addresses the delay we are talking about here 
+
+and precludes its recognition under -- under (h)(1). 
+
+The delay we are talking about here is not resulting 
+
+from the pretrial motion, it's resulting from the grant 
+
+of -- the order granting additional time to prepare for 
+
+the motion. And that, that is the related but different 
+
+proceeding and a different kind of delay related to 
+
+motions practice. So I would agree with Your Honor 
+
+that --
+
+JUSTICE SCALIA: The grant of the motion is 
+
+the proceeding? 
+
+50 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. ROBERTS: That the order granting the 
+
+additional time of the proceeding --
+
+JUSTICE SCALIA: Is the proceeding.
+
+ MR. ROBERTS: -- and if the delay results 
+
+from that order and the order is ancillary to a listed 
+
+proceeding, which is the pretrial motions because it 
+
+facilitates that proceeding, because it provides for 
+
+adequate preparation, which enabled the motions to be 
+
+resolved favorably and accurately.
+
+ JUSTICE STEVENS: But what -- what 
+
+subsection does all this? I really -- I got lost in --
+
+MR. ROBERTS: I'm sorry, Your Honor.
+
+ JUSTICE STEVENS: Because you agree, as I 
+
+understand it, it is not covered by (D).
+
+ MR. ROBERTS: Right.
+
+ JUSTICE STEVENS: And what subsection does 
+
+cover it?
+
+ MR. ROBERTS: It's (h)(1), the general 
+
+provision, which courts have used to exclude numerous --
+
+JUSTICE STEVENS: But it's not governed by 
+
+any lettered subsection?
+
+ MR. ROBERTS: No. It's a -- another 
+
+proceeding that -- that is covered by the including but 
+
+not limited to language on --
+
+JUSTICE STEVENS: But there is no period --
+
+51
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. ROBERTS: -- (h)(1).
+
+ JUSTICE STEVENS: -- no subsection talks 
+
+about another proceeding? That's just your gloss on the 
+
+statute; is that right?
+
+ MR. ROBERTS: Well, I think (h)(1) says any 
+
+period of delay resulting from other proceedings 
+
+concerning the defendant. That could be a period, and 
+
+it covers a whole range of proceedings that generate 
+
+delay. And then --
+
+JUSTICE STEVENS: I see.
+
+ MR. ROBERTS: Then there is a list of 
+
+examples. And the examples are intended only to be 
+
+illustrative. And what's -- what's covered is in 
+
+addition to those examples, other proceedings that are 
+
+analogous or ancillary to them.
+
+ JUSTICE SCALIA: And you say the order is a 
+
+proceeding for that purpose, the order granting the 
+
+extension of time?
+
+ MR. ROBERTS: That is the proceedings 
+
+beforehand, Your Honor. Yes. But the -- that's not 
+
+the -- you know, first of all, as I said, a proceeding 
+
+is a -- is an act done by the court or under the court's 
+
+authority, so in order to fit squarely within that. 
+
+Plus I would direct you to (h)(1)(F), which indicates 
+
+that orders can be proceedings here because it excludes 
+
+52
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+delay following an order of removal or an order 
+
+directing the transportation of the defendant.
+
+ And, so, I think that there's indication in 
+
+the examples themselves when orders are sometimes 
+
+proceedings.
+
+ JUSTICE STEVENS: But just one quick 
+
+question. It seems to me that everything described in 
+
+(7)(A) would fit your description of proceedings.
+
+ MR. ROBERTS: It -- there -- there would be 
+
+an order, so there would be a proceeding. But it 
+
+wouldn't be a proceeding that would be covered under 
+
+(h)(1) because it -- to be covered it has to be a 
+
+proceeding of the type that is listed here. It has to 
+
+be analogous to these proceedings or ancillary to them, 
+
+facilitating these proceedings in some way, Your Honor.
+
+ JUSTICE STEVENS: That's a tough argument.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Mr. Stancil, five minutes.
+
+ REBUTTAL ARGUMENT OF MARK T. STANCIL
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. STANCIL: I would like to quickly 
+
+address what I hope to be just four points. The first 
+
+is the government's fundamental principle. The 
+
+fundamental tenet is that the specific treatment of 
+
+pretrial motions in subparagraph (D) suggests no 
+
+53 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+negative inference or limiting inference on the general 
+
+standard of (h)(1).
+
+ The fall on that is evident by looking at 
+
+subparagraph (h), which automatically excludes up to 
+
+30 days during which a matter is under advisement by the 
+
+district court. If the government's reasoning is 
+
+correct, subparagraph (h) just does not address or 
+
+contains -- or suggests no negative inference on whether 
+
+the 31st day of a matter being under advisement is 
+
+automatically excludable under (h)(1). That's why there 
+
+are settle -- in the statutory interpretation.
+
+ We take the general standard, first of all, 
+
+is it a proceeding? There is no pretrial motion 
+
+proceeding until the motion is filed.
+
+ Second, if you think there is any 
+
+uncertainty as to what a proceeding is, well, look at 
+
+how the enumerated subparagraphs that follow, what do 
+
+they describe. One specifically addresses pretrial 
+
+motions. It has a starting point and it has an end 
+
+point. That's the end of this case.
+
+ But even if you think you want to look 
+
+further. Well, is there any support in these enumerated 
+
+subparagraphs for the government's rule that you would 
+
+treat a defense request for additional time differently? 
+
+No. None of the enumerated subparagraphs distinguishes 
+
+54 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+between defense requests and government requests. None 
+
+distinguishes between routinely granted time or 
+
+specifically alloted time.
+
+ In fact, with respect to defense requests 
+
+specifically, it was not lost on Congress how to -- how 
+
+to treat government counsel and defense counsel 
+
+differently. In (h)(7)(C), which is about the end of 
+
+justice exclusion, it specifies that the government 
+
+cannot get an end of justice exclusion based on its 
+
+inability to exercise due diligence in obtaining a 
+
+witness or preparing.
+
+ JUSTICE SCALIA: I don't understand -- I 
+
+don't understand the government to be argue -- to be 
+
+arguing that they are treated differently.
+
+ MR. STANCIL: Well, the government's rule I 
+
+think is --
+
+JUSTICE SCALIA: They are saying whoever --
+
+whoever asked for the extension of time in order to 
+
+prepare the motion gets it. And -- and it's the time 
+
+limit's suspended.
+
+ MR. STANCIL: That's not their position in 
+
+their brief, Your Honor. They say the defense requests 
+
+for additional time --
+
+JUSTICE SCALIA: Well --
+
+MR. STANCIL: They don't say anything about 
+
+55 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+government request.
+
+ JUSTICE SCALIA: -- they made it very clear 
+
+here that they think it applies to both the defendant 
+
+and the government.
+
+ MR. STANCIL: If that's their position, it's 
+
+more unmoored from the text of subparagraph (D), because 
+
+then both types of requests -- so subparagraph -- pardon 
+
+me -- so (h)(1)'s general standard is expanded even 
+
+farther --
+
+JUSTICE BREYER: You are right, (D) has a 
+
+special time limit built into it -- I mean, (h) or 
+
+whatever the number is now. It says not to exclude 
+
+30 days. Okay?
+
+ MR. STANCIL: Yes.
+
+ JUSTICE BREYER: None of the others do. So 
+
+I would say right there, Congress doesn't want the judge 
+
+to have it for more than 30 days. Congress doesn't say 
+
+a word in any of the others that says anything about 
+
+preparation time.
+
+ MR. STANCIL: Well, I disagree about 
+
+subparagraph (D) Your Honor. (D) says from point B 
+
+to --
+
+JUSTICE BREYER: No, I know. But there is 
+
+not an indication about preparation time. Their 
+
+argument is a literal argument under the statute. Is it 
+
+56 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+from other proceedings? Yes, we know that because of 
+
+(D), okay? Does it result from other proceedings? Yes, 
+
+because, in fact, the preparation time is a direct 
+
+result of the other proceedings as defined in (D). 
+
+Therefore, it is an ancillary matter related to other 
+
+proceedings that was caused by the other proceedings. 
+
+QED, their argument is literal and there is no policy 
+
+against it. That's what they said.
+
+ Now, as soon as you get to the last (h), you 
+
+would find a big policy against it. Called not 
+
+exceeding 30 days. Now, I take it that's roughly their 
+
+argument.
+
+ MR. STANCIL: But there is no --
+
+JUSTICE BREYER: At least my interpretation 
+
+of it.
+
+ MR. STANCIL: There is no difference, Your 
+
+Honor, between not exceeding 30 days and from and to. 
+
+And I think this is -- this case -- it comes to that and 
+
+that alone, which is Congress specifically addressed 
+
+pretrial motions, any delay resulting from a pretrial 
+
+motion and it said from point A to point B. And even if 
+
+you had to look behind that, you would look at the 
+
+legislative history and the Senate Judiciary Committee 
+
+was asked a specific question by the government no less, 
+
+can we include preparation time, and they said no. 
+
+57 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: Counsel, is your 
+
+friend correct that the issue of the proper calculation 
+
+is not before us? So that the time I spent figuring 
+
+that out should be excluded from something?
+
+ (Laughter.)
+
+ MR. STANCIL: As the question was presented, 
+
+Your Honor, it was specific to preparation time and the 
+
+period -- and the period from -- I don't want to get the 
+
+dates wrong but, September 7th to October 4th. But I 
+
+would add that the government didn't raise this argument 
+
+below, either. Nor did the government suggest, as I 
+
+understand it, that the delay that's at issue here 
+
+results from the grant on September 7th of additional 
+
+time. Rather their argument as I have understood it and 
+
+understood it when reading their briefs is that the 
+
+delay -- the ancillary delay stems from the pretrial 
+
+motion, the time allotted for pretrial motions itself.
+
+ CHIEF JUSTICE ROBERTS: I would have thought 
+
+that whether or not you think that type of delay is 
+
+excludable depends on what that type of delay is, which 
+
+requires some sense of how it's going to be calculated.
+
+ MR. STANCIL: Yes, Your Honor.
+
+ JUSTICE BREYER: Does six days make a 
+
+difference to your case? If they lose six days, do you 
+
+win? 
+
+58
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. STANCIL: I'm not sure, Your Honor, I 
+
+would have to plead ignorance the same.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel, 
+
+this case is submitted.
+
+ (Whereupon, at 2:01 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+59
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final ReviewOfficial - Subject to Final Review 
+
+43:7,23 44:21 allowing 31:19 2:2,7 3:4,6 average 17:11A 
+45:5 49:17 allows 18:10,14 16:21 17:2 17:11 24:6,13above-entitled 
+50:19 51:2 19:11 23:11 26:21 avoids 20:121:11 59:6 
+54:24 55:23 amended 18:24 33:3 34:15 awaiting 36:6absence 26:5,8 
+58:13 37:8 40:21 45:3 aware 23:25abundant 11:11 
+
+address 36:23 amount 33:13 53:16,19 56:25 44:14abundantly 3:15 
+50:2 53:22 43:25 44:14 56:25 57:7,12 awful 31:2012:8 
+54:7 analogous 27:8 58:10,14abuse 13:15 Baddressed 3:17 34:20 47:25 arguments 34:6acceptance b 6:3 8:12,16,1657:19 52:15 53:14 arises 36:2232:13 
+
+8:21 15:7addresses 50:15 analysis 17:23 arraigned 22:1accomplish 
+39:12 56:2154:18 ancillary 27:8 arraignment13:18 
+57:21addressing 9:10 27:10,15 32:8 15:21account 14:20 back 5:19 6:437:1 42:7 51:5 aside 33:434:12 
+8:20 32:19adequate 8:18 52:15 53:14 asked 46:3,3accurate 27:13 
+43:2227:12 38:11 57:5 58:16 55:18 57:24accurately 51:9 backs 24:1051:8 anew 22:22 asking 11:12acknowledges balances 26:13adjournment answer 5:7 12:14 17:168:10 balancing 25:189:24 10:5 38:12 43:4,21 42:19 43:3act 3:12 7:5 
+25:22adjudication answered 6:7 44:2510:15,15 18:23 based 22:169:20 answering 22:7 asks 11:21 14:2420:14 21:8 
+34:8,8 38:24advance 20:25 anticipated 13:3 43:722:16 27:2 
+55:9adversary 37:18 anyway 25:7 Assistant 1:1728:16,22 29:4 basic 29:337:25 28:6,15 assume 17:1030:2,12 34:9 basis 3:13 21:15adverse 25:12 apart 49:14 18:4 24:6 26:336:5,9 41:2,4 
+40:9 45:14advisement apologize 21:24 assuming 6:348:23 49:20 
+49:1519:13 36:11 appeals 7:25 44:452:22 beginning 9:1347:11,20 54:5 13:21 48:21 assumptionacting 33:7 
+36:1854:9 appear 21:4 17:23action 10:16 begins 4:16affect 41:17 APPEARAN... attorney 9:2445:18 48:3,4,5 behalf 1:15,19agree 7:20 45:4 1:14 10:4,17 21:10actions 49:20 
+2:4,6,9 3:749:2 50:13,22 application 7:12 24:21 38:15actively 19:12 
+26:22 53:2051:13 applies 22:14,15 attorneys 49:22actual 9:6,20 believe 13:9agreement 56:3 attributable 7:719:14 37:10 
+18:3 21:222:17 31:16,18 apply 8:1 attributed 47:18add 58:10 
+22:11,1531:20,24 32:3 applying 9:5 authority 52:23addition 39:24 benefit 13:1932:4,10 appropriate 6:2 authorized52:14 
+14:8Ah 30:10,24 21:18 33:25 41:24 42:1additional 4:5 best 20:11 47:24Alito 7:6,24 8:20 44:2 50:1 automatic 11:104:11 7:13 8:18 big 47:18 57:1013:17 14:7 approve 32:6 15:315:5 16:5 Bloate 1:3 3:419:2,6 argue 44:6 automatically17:16 18:16 
+43:6alloted 55:3 55:13 3:11 15:4,824:4,9 25:17 book 19:21allotted 16:17 argued 33:5 16:11,12 20:526:25 27:9 BREYER 44:1741:7,9 58:17 44:13 21:1 25:2529:12,22,23,24 
+45:13 47:6,8allow 4:1 34:2 arguing 13:18 27:1 35:20,2534:5,8 35:18 
+47:13,17 56:10allowed 12:5 55:14 38:17 41:1636:24 38:2,8 
+56:15,23 57:1428:14 argument 1:12 42:13 54:4,1038:22,23 39:2 
+
+60 
+Alderson Reporting CompanyAlderson Reporting Company
+
+
+
+Official - Subject to Final Review 
+
+58:23 27:16,21 28:12 27:2 14:18 32:5 counts 17:18 
+brief 8:10 12:3 28:17 29:8,13 comment 40:21 39:12,20 40:10 course 25:7 46:7 
+
+34:10 55:22 29:18,24 30:3 committee 11:3 50:9 court 1:1,12 3:9 
+briefs 58:15 30:5,7,10,16 11:5 57:23 consideration 6:7,10,11,18 
+built 56:11 30:24 31:4,13 compared 16:16 29:5 31:15,24 6:20,21 7:2,3 
+burden 39:8 32:11 33:4,15 comparison 32:9 33:6 9:6,12,23,25 
+
+49:11 33:20 43:2 23:23 43:19 10:4,5,7,13,15 
+burn 18:12,15 44:24 45:21 competence considered 11:3 10:16 12:22 
+burns 17:6 53:17 58:1,18 31:11 39:22 13:10,20 15:10 
+
+59:3 competency considering 15:24 19:13 
+C choice 3:24 5:11 30:14,19 9:20 38:8 20:18,19,21
+
+C 2:1 3:1 9:3 5:16 complain 20:20 consistent 20:22 21:11,20 22:1 
+55:7 circuits 9:4 complete 31:10 30:11 22:20 23:12,17
+
+calculated 33:12 23:20,24 42:25 contains 54:8 25:9,23 26:8,8 
+33:17 44:1 circumstance complex 25:19 contemplated 26:9,12,24
+58:21 44:2 comply 17:1 8:15 29:12 30:2 
+
+calculation circumvent 3:23 concern 8:20 contesting 33:21 31:15 32:5,5
+11:24 58:2 clarify 5:24 9:12 24:17 25:1 context 10:8 32:25 34:1 
+
+call 17:5 18:7 clear 3:16 4:18 concerned 24:20 11:14 35:3,4,11,22
+Called 57:10 7:6 12:8 13:2 concerning 27:5 contexts 13:13 36:3,5,8,13 
+case 3:4 6:4,24 16:18 18:22 42:3 52:7 continuance 7:9 37:10,13 38:3 
+
+6:24 11:6,12 19:21 22:25 conclusion 5:14 7:11,14,17,19 38:7 39:19,22
+11:15,25 15:13 26:12,15 37:11 conduct 31:19 8:24,25 21:16 43:25 44:3 
+15:20 20:24 37:15 42:9 32:2 24:18,21 25:8 45:17 46:1,1,6
+21:1,7 23:15 56:2 confess 33:12 40:2,6,8 47:2,2 48:2,2,3 
+23:17 25:19 clock 4:20,21 confined 8:6 continuances 48:4,5,5 49:4,4 
+30:2 33:8,13 5:1,9,13 12:2 Congress 3:17 42:20 49:20 52:22 
+35:17 36:4 12:13,15,19 5:12,16 8:14 continues 37:14 54:6 
+42:11,15 43:17 15:7 16:6,10 8:23 9:12,17 contrary 32:16 courts 7:20,25
+49:5 54:20 16:13,16,18 10:24 12:7 contrast 17:18 8:11,17 9:16 
+57:18 58:24 17:6,14,15 13:3 15:2 conversation 12:4,18 13:10 
+59:4,5 18:16,19,20 16:19 17:20 47:3 13:14 15:10,12 
+
+cases 20:3 23:8 19:14 22:21 18:23 19:6,20 convictions 23:2 19:19 20:6 
+25:7 29:5 23:21 25:16 20:1 21:18 48:17 22:13 24:2 
+
+case-by-case 34:15 24:12 25:4 correct 10:19 30:20 32:7 
+3:13 21:15 colloquy 46:2 26:15 37:7,25 13:25 19:5,10 34:1 37:9 38:1 
+
+cause 24:23 come 12:1 13:10 41:24 42:1 54:7 58:2 39:21 43:13 
+caused 57:6 34:16 42:19 43:1 55:5 correctly 20:19 48:21 51:19 
+certain 19:8 47:22,23 56:16,17 57:19 21:4 court's 19:19 
+
+20:4 comes 10:4 congressional counsel 7:18 9:2 27:9 31:23 
+certainly 12:9 14:24 21:10 24:11 11:15 14:23 36:6 46:12 
+
+23:6 26:10,10 29:15 38:15 consequence 25:20 26:19 52:22 
+challenged 44:19 47:9,13 25:13 35:16 37:17 40:1,14 cover 51:17 
+
+32:24 47:15,16,20,24 consequences 43:2,20 49:3 covered 20:12 
+Chicago 15:20 48:7 57:18 16:7 25:11 53:17 55:6,6 51:14,23 52:13 
+Chief 3:3,8 20:7 command 39:3 49:3 58:1 59:3 53:11,12
+
+20:23 26:19,23 commencing consider 8:17 count 28:4 29:9 covers 42:5 52:8 
+
+61 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+crafting 3:16 35:5 43:18 30:8,13 31:1,5 31:22,22 37:2 40:24 41:1,11 
+creating 40:22 decide 9:12 12:5 31:8,14,16 41:9,19 42:19 41:13 42:9 
+critical 27:13 19:8 34:2 32:18,22,24 50:20,21 46:11 49:20 
+currently 23:3 decided 17:20 33:1,3,6,24 differentially 54:6 
+custom 15:12 decides 6:21 34:3,5,22 42:18 districts 15:19 
+cut 16:21 deciding 25:7 35:21 37:2,2,5 differently 4:11 16:8,15,17 
+
+decision 13:25 42:2 43:10 5:18 16:6 17:17 19:4 
+D 46:13 47:4 45:21,23 50:9 54:24 55:7,14 23:8 41:5,5,9
+
+D 1:17 2:5 3:1 decisions 13:21 50:10,11,15,17 difficult 42:21 42:12 
+3:18 8:1,1,3 declared 11:8 50:21 51:4 diligence 14:20 Docket 46:21 
+9:3,13 19:17 declares 3:19 52:6,9 53:1 14:25 15:6 doing 15:2 38:8 
+26:21 30:23 default 15:19 57:20 58:12,16 25:21 55:10 45:20 
+35:21 37:1,5 17:18 18:11 58:16,19,20 direct 8:17 doubt 26:6 
+41:6 47:10,13 defendant 4:22 delaying 50:4 52:24 57:3 drafting 10:25 
+47:20,23 48:13 9:21 11:21 delays 3:12,17 directing 53:2 26:16 
+50:15 51:14 14:1,24 16:9 8:9,11 12:3 disagree 12:17 driving 24:25 
+53:25 56:6,10 22:1,13 23:11 14:23 23:23 17:3 32:11 due 7:15 14:20 
+56:21,21 57:2 25:14 27:5 24:9 25:4 37:17 39:25 14:25 15:6,22
+57:4 31:2,18,19 27:14 33:14 56:20 16:12 25:21 
+
+date 7:14,19,23 32:1 35:11,12 36:21,22,24 discretion 13:15 28:6,18 43:9 
+8:25 9:5 11:14 35:15 38:10,25 41:5 discussed 35:11 55:10 
+11:17 27:17,23 42:3 44:19 deliberate 3:24 dismiss 6:18 7:1 D.C 1:8,15,18
+27:25 32:15,15 45:9 46:2,3,17 5:11 7:3 15:25 
+33:6 43:5 47:3 52:7 53:2 demonstrate dismissal 14:4 
+
+Edates 58:9 56:3 31:19 32:1 22:12,16
+day 13:13 29:14 E 2:1 3:1,1 defendants denied 12:12 dismissed 6:24 
+
+29:16,19 30:7 earlier 22:7 43:3 13:19 38:3 deny 24:3 dispose 17:25,25
+43:8,9,12 54:9 early 12:1,19defendant's Department 19:24 
+
+days 15:20 16:1 effect 13:25 34:4 12:24 21:8 1:18 disposed 4:4 
+16:12,15,17,25 37:4 40:2525:20 depends 42:14 disposition 3:21 
+17:7,17,18,19 42:23defense 4:8,10 58:20 5:14 19:3,22
+17:21 18:4,7,8 effective 8:184:10,17 5:4,7 describe 54:18 distinguishes
+18:11,11,12,15 14:197:7 9:24 10:4 described 53:7 54:25 55:2 
+18:15,16,18,18 effectively 15:710:17 16:5 description 53:8 district 6:18,20
+19:12,23 20:4 18:17,2521:10 24:3 designed 50:2 6:21 7:2,3 8:17 
+21:21 22:2 effects 49:7,1438:15 54:24 detailed 39:17 9:16 10:13 
+28:3 32:14,16 eight 23:8 48:20 55:1,4,6,22 determination 12:4 14:9 
+32:19 33:9,9 either 5:10 8:11 deferral 31:23 30:18 31:11 15:10,10,12,18
+33:16,21,22 19:21 21:17deferred 31:17 43:15 15:19 16:25 
+34:16 36:10 23:9 24:18,19defined 3:18 determine 7:3 17:6 18:10,14
+40:24,25 41:1 25:15 35:6,857:4 30:14 39:6 18:19,20 19:4 
+41:12,13 42:13 40:16 48:1definition 10:11 determining 19:4,13,19
+43:11 54:5 58:11delay 10:22 29:9 20:5,7,19 21:4 
+56:13,17 57:11 employed 36:314:25 21:16 difference 17:24 21:11,20 22:1 
+57:17 58:23,24 enabled 51:825:24,24 27:4 18:17 41:23 24:2 25:23 
+
+deadline 27:2 encompass 3:2327:6 28:1,5,7 57:16 58:24 26:3,9 29:12 
+28:23 29:1,3 encourage 12:1028:14,20,24 different 15:22 38:1,3 40:22 
+
+62 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+ends 4:4 6:8 51:19 56:12 extended 29:4 file 10:18 12:6,6 focus 3:14 
+13:22 14:11 excluded 3:11 32:12 16:10 22:2 follow 8:7 23:20 
+19:22 37:22 4:2 7:22 15:4 extension 11:16 28:10 35:6,13 54:17 
+39:24 50:3 20:15 22:4 11:17 12:16 35:16 45:11,22 followed 48:20 
+
+engaged 32:8 25:25 27:1 14:11 24:6 47:21 following 53:1 
+46:2 47:3 29:2,4,10 27:23,24 28:2 filed 10:11 27:23 forces 38:18 
+
+entire 10:16 30:20,22 31:9 28:5 32:18,23 27:25 28:5,11 foremost 3:16 
+Entry 46:22 32:6,7,25 33:1 43:11 52:18 34:18 35:10 Forget 12:16 
+enumerated 33:22,22 34:8 55:18 40:23 43:12 forgetting 49:21 
+
+54:17,22,25 34:24 35:20 extensions 14:9 46:14,18 47:7 formal 10:12 
+equally 4:9 37:9,13,16 20:9 21:5 47:10 54:14 found 6:13,13 
+equivalent 40:15 41:17 42:19 filing 3:19 4:3 four 14:17 17:6 
+
+48:11 42:23 43:23,24 extra 17:14 4:17 5:2,13 53:22 
+error 44:14 44:1,9 45:1 20:20 25:15,16 6:15 9:19 12:7 framed 46:20 
+ESQ 1:15,17 2:3 58:4 25:24 42:10,11 19:22 28:23 frequently 7:18 
+
+2:5,8 excludes 27:4,6 30:17,21 32:17 7:18 50:2 
+Fessential 17:20 28:24 30:13 34:20 35:5 friend 58:2 
+
+F 52:24essentially 22:11 31:1,14 35:22 37:12 43:5 function 25:3 
+face 4:19 5:12 everybody 36:5,9,14,20 45:17,18,25 fundamental 
+facilitates 27:1248:23 41:7 52:25 50:10 16:4 53:23,24
+
+51:7evidence 8:14,23 54:4 final 32:18 fundamentally
+facilitatingevident 54:3 excluding 21:12 find 57:10 19:1,25
+
+53:15exact 33:13 21:21 22:20 finding 6:2,5,8 further 8:14 
+fact 8:9,14 9:4 exactly 15:2 45:8,14 9:25 13:6,14 36:6 54:22 
+
+14:1 28:2247:25 50:5 exclusion 3:12 24:20 38:14 
+G31:2 32:6 34:7 examination 3:18,19,25 39:17 40:16 
+
+36:3,22 39:7 G 3:1 31:14 30:21 31:5,8 4:13,16 7:23 49:18,21
+46:16 55:4 gain 14:231:10,10 9:5,14 11:10 findings 12:11 
+57:3 gamesmanshipexample 15:19 11:18 12:6 12:22 13:1,22
+
+factor 5:19 14:241:11 15:3 27:14 21:17 26:11 
+factors 7:4 general 1:18examples 36:23 34:22 35:20 37:23 39:25 
+
+14:17 39:12,15 3:22 29:2 42:2 42:5 52:12,12 41:6,6 42:2 40:1,6,9,10
+39:20,23 40:10 46:9 48:952:14 53:4 44:15 55:8,9 50:1 
+
+fair 11:22 27:13 51:18 54:1,12exceeding 57:11 exclusions 21:5 finish 22:6 
+fairly 24:7 42:8 56:857:17 exercise 14:20 first 3:16 10:9 
+fall 7:8 54:3 generally 15:12exceedingly 14:25 55:10 12:18 14:16 
+falls 27:3 48:12 generate 52:823:15 exercising 25:21 27:6 52:21 
+false 11:20 Ginsburg 4:1,12exception 19:16 expand 9:12 53:22 54:12 
+far 33:6 44:13 4:15,20 5:3,6 excessive 23:23 expanded 56:8 fit 52:23 53:8 
+farther 56:9 5:23 6:12,23excludable expands 10:22 fits 47:24 
+favor 9:17 12:14 12:9 13:510:22 27:14 expeditiously five 16:25 17:7 
+
+22:9 23:4 23:19 34:1338:17 41:5 20:3 18:15,15 53:18 
+favorably 51:9 35:24 44:654:10 58:20 explain 22:9 flexibility 19:19 
+features 3:15 give 12:5 17:17 exclude 8:8 20:4 explicit 13:22 20:6 
+feel 38:4 19:23 20:4,527:18 28:22 explicitly 26:15 flexible 12:5 
+figured 33:21 20:20 25:10,1029:1 31:5,6 express 5:16 Florida 41:12 
+figuring 58:3 38:16,20,22,2336:1,9,12 39:9 expressly 36:20 flowing 29:25 
+
+63 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+39:15 41:1 58:13 57:9 56:21 57:17 inference 36:22 
+43:8 granted 11:17 happen 18:25 58:7,22 59:1 54:1,1,8 
+
+gives 16:7 19:19 11:22 12:18 happened 35:9 hope 53:22 information 
+22:11 41:12,13 15:5 21:11,16 happens 13:13 hypothetical 35:1 49:13 
+
+giving 13:7 46:4 26:25 27:25 hear 3:3 20:19 21:3 initiated 29:14 
+gloss 52:3 35:19 36:1,2 heard 46:8 hypothetically initiation 10:12 
+go 8:15 15:20 36:13,14,18 hearing 3:20 18:4 48:17 instance 45:25 
+
+23:24 40:9 40:2,7 42:21 5:14 9:19 h)7 8:12 instances 19:7 
+going 11:23 43:23 55:2 19:17,18,20,23 instructions 7:1 
+
+I12:13,15,16,25 granting 14:9,11 19:24 27:23,25 insufficient 
+idea 23:1 48:15 13:1 14:8,13 29:12,22 31:9 32:13,18 34:19 21:13 
+ignorance 59:217:7,8 19:3,18 50:19 51:1 35:8,11 36:6 intended 52:12 
+ii 8:16,2120:3,4,5,15,20 52:17 36:10 37:13 intending 43:1 
+Illinois 41:1320:25 28:14 grants 9:24 45:19 46:1 intent 28:10 
+illustrates 17:431:25 38:10 35:22 47:2 34:18 46:17,19
+illustrative41:19 42:17,20 grounds 6:19 hearings 9:6 interest 5:25 6:5 
+
+52:1342:24 45:22 11:19 22:16 37:10,12 6:15 12:12,25
+imagine 9:2346:13 49:1,15 guess 11:7 23:9 held 6:8 11:17 13:7 14:1 
+implicitly 10:649:16 50:4 33:15,23 40:18 22:14,15 35:11 20:11 38:10,14
+important 25:358:21 40:19 36:4,5 46:1 38:19 39:7 
+imposing 39:2going-forward 47:2 interested 49:7 
+
+H inability 55:1049:15 Henderson interests 12:24 
+h 3:13,16,22 4:9 inclined 20:9golf 24:22 19:19 36:4 intermediate 
+
+5:12 6:8 7:8,9 include 11:4good 24:20 herring 11:20 8:9 
+7:21,23 8:1,1,3 30:17 57:2531:19 32:1 history 57:23 interpret 7:21 
+8:8,11,12,16 included 4:6govern 19:18 hit 17:15 interpretation
+8:16,16,24 9:3 including 14:18governed 51:20 holding 45:18 6:3 54:11 
+9:13 10:25,25 36:21 37:12government 5:5 holds 6:3 57:14 
+11:18 14:21 42:6 51:238:10 11:4,20 Honor 4:7,14,25 interpretations
+15:3 19:11 incompetence12:21 14:3,24 5:8 6:25 7:17 37:9 
+20:6,12,15 31:6,1222:12,17 23:6 8:5 9:7,11 10:1 interpreted
+21:6,16 25:3 incompetent25:11,14 55:1 10:9,20 12:17 43:14 
+26:8,13,16 31:255:6,8,13 56:1 13:24 14:16 introductory
+27:6 30:12,23 incorrect 23:1756:4 57:24 15:25 16:23 8:4 
+30:25 31:1,14 43:2558:10,11 17:3 18:4 investigate 9:21 
+31:16 35:21 indicate 35:7government's 19:11 21:3,14 invokes 48:23 
+36:20 37:1 indicated 45:194:8,9,18 5:18 22:3,24 24:1 involved 12:10 
+39:10,16 41:6 indicates 52:248:10 9:17 16:4 31:7,23 33:3 42:16 
+42:1,20,24,24 indication 23:2017:2 23:10 33:19 36:20 issue 8:7 14:3 
+47:10,14,16,18 24:1 53:324:17 53:23 37:21 38:9 20:12 32:25 
+47:18,23,24 56:2454:6,23 55:15 40:19 41:3 34:1 41:22 
+48:7,10,13 indictment 14:4grant 13:1 20:9 42:16 44:12 43:22,24 58:2 
+50:1,2,8,16 22:1320:11,14,15 45:25 46:10 58:12 
+51:18 52:1,5 individual 14:124:18 25:8 47:16,23 48:9 iv 8:12,16 15:7 
+52:24 53:12 21:7 38:527:9 32:23 48:20 50:14,22 
+
+J54:2,4,7,10 individualized36:24 38:8 51:12 52:20 
+55:7 56:8,11 28:25 JA 46:2349:16 50:18,24 53:15 55:22 
+
+64 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+JAMES 1:3 27:16,21 28:12 35:17 40:14,15 litany 39:15 MATTHEW 
+judge 6:1,14,14 28:17 29:8,13 42:4 43:7,16 literal 56:25 1:17 2:5 26:21 
+
+7:12 13:5,6 29:18,24 30:3 43:17,20,21 57:7 mean 10:15 
+14:8 19:8 20:8 30:5,7,10,16 44:5 45:8 literally 13:13 22:23 25:14 
+20:24 21:5,5 30:24 31:4,13 46:22 48:1 little 14:2 35:25 35:1 46:20 
+21:11 22:1 32:11 33:4,15 49:3,14 52:21 47:17 47:17,17,18,22 
+24:18 26:4 33:20 34:13,25 56:23 57:1 local 15:13,24 49:1 56:11 
+29:16 38:13,16 35:14,24 36:16 knowing 49:7 16:8 17:13,13 means 5:19 
+38:18,21,22 37:4,17,22,24 18:20,24 21:25 11:13 12:22 
+
+L39:2,5,8,11,15 38:12,14,20 22:4 meet 15:6 
+language 3:2239:20 40:9,11 39:1,5,7,14,25 lockstep 41:22 mental 30:14,18
+
+36:17 37:5,1144:20 45:1,10 40:3,13,14,20 logic 9:16 31:6 
+37:14 48:956:16 41:14,16,20,23 long 6:16 13:14 mentally 31:2 
+50:8 51:24judges 12:10 42:8 43:2 44:6 longer 16:15 mind 40:11 
+
+late 6:4,614:9 25:6 44:17,24 45:13 17:9 24:15 minute 21:9 
+latest 6:14,1737:22 49:16 45:21 46:7,12 look 10:24 31:14 minutes 53:18 
+Laughter 58:5judge's 40:11 46:19,24 47:6 38:5,18 39:9 miscalculation 
+lawyers 24:743:7 47:8,13,17 54:16,21 57:22 44:14 
+leave 44:3judgment 17:20 48:6,14,15,22 57:22 modest 24:7 
+left 6:22 11:7 20:1 24:11,11 49:6,10,19,24 looked 9:3 moment 5:1 
+legislative 3:24Judiciary 11:3 50:3,7,24 51:3 looking 5:22 9:9 month 38:15,16
+
+5:11 20:157:23 51:10,13,16,20 9:18 10:17 38:20 39:9 
+24:11 57:23jurisdiction 51:25 52:2,10 30:25 54:3 months 22:12 
+
+legitimately24:2 52:16 53:6,16 lose 32:20 33:9 motion 3:10,17
+12:24jurisdictions 8:7 53:17 55:8,9 33:11 58:24 3:20,21,25 4:4 
+
+length 32:2416:1 17:13 55:12,17,24 lost 5:17 51:11 4:4,17,17,18
+33:3,24 34:3 24:14 56:2,10,15,23 55:5 5:4,5,7,9,15
+
+lengthened 15:8justice 1:18 3:3 57:14 58:1,18 lot 20:16 23:7 6:18,21 8:11 
+lettered 51:213:8 4:1,12,15 58:23 59:3 31:20 9:19,21 10:11 
+let's 17:10 31:14 4:20 5:3,6,21 justification 10:12 12:12 
+
+M43:45:23,25 6:5,8 38:25 15:11 17:12,25
+light 9:10 majority 8:76:12,15,23 7:6 18:1 20:14 
+
+K likewise 36:11 23:21 24:147:24 8:20 9:2,8 24:6 27:23 
+K 3:6 limit 3:24 16:2 making 12:119:15 10:3,14 28:23 30:18,21
+KENNEDY 34:4 56:11 13:22 14:2211:1 12:9,12 33:7,7 34:21 
+
+15:9,17,23 limitations 14:5 manner 23:1313:5,8,17,22 34:21 35:1 
+16:20,24 17:22 22:8,18 37:19 23:1414:7,11 15:9 36:6 37:2,6,12
+18:6,9,13 37:21 MARK 1:15 2:3 15:17,23 16:20 41:12,13 42:11 
+24:16,25 25:6 limited 36:21 2:8 3:6 53:19 16:24 17:22 45:23 46:25 
+25:10 26:1,3,6 51:24 mathematical18:6,9,13 19:2 47:10,20,21,21
+34:25 35:14 limiting 54:1 17:2319:6 20:7,11 47:25,25 48:10 
+
+kids 24:22 limit's 55:20 matter 1:1120:23 21:9,19 48:11,13 50:10 
+kind 49:10 list 42:4 52:11 16:14 19:8,1221:25 22:6,19 50:11,18,20,24
+
+50:21 listed 27:7,11,15 23:16 24:522:23 23:1,13 54:13,14 55:19 
+know 19:17 23:5 36:21,23 42:7 29:2 54:5,923:19 24:16,25 57:21 58:17 
+
+24:9 25:24 51:5 53:13 57:5 59:625:6,10 26:1,3 motions 4:8,8,10
+29:7 33:2 34:6 listen 39:6 matters 26:1526:6,19,23 7:8,13,15 8:6 
+
+65 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+8:21 10:18 negotiations 34:11 7:6 9:10 17:1,5 practical 16:14 
+11:16 15:16,21 31:25 32:8 oral 1:11 2:2 3:6 19:8 28:1,9 practice 46:8,10 
+16:10,11 20:9 Neither 38:9 26:21 31:1,16 44:7,9 50:22 
+21:6,21 22:2 never 6:5 39:14 orally 13:6 45:7 47:9,18 precedes 50:9 
+25:17 27:1,9 39:16 44:13 order 20:8,12 50:9,10 51:25 precise 6:10 
+27:10,12,24 46:8 29:12,13,21,22 52:6,7 58:8,8 13:10 49:13,13 
+28:10,18 29:6 new 22:22 29:25 30:1,1,9 periods 18:24 precisely 3:18 
+32:13 34:19 nine 23:9 31:9 35:5 33:14 48:19 
+35:5,6,7,13,16 non-moving 40:23,24 50:11 permission 35:2 precludes 50:16 
+35:19,21 36:1 35:23 50:19 51:1,5,5 permissive prejudice 7:4 
+36:13,24 38:3 normal 20:8,9 52:16,17,23 13:11 11:13,23 12:21 
+38:24 40:23 46:7 53:1,1,10 person 29:15 14:5 
+41:7 42:15,16 normally 42:10 55:18 personally preparation 
+43:5,19,19 Northern 41:11 orders 52:25 35:12 3:10,23 4:21 
+45:11,19,22 41:12 53:4 Petitioner 1:4 4:23 5:10,20 
+46:5,13,21 notice 34:18 ordinarily 12:1 1:16 2:4,9 3:7 8:13,15,19 
+50:22 51:6,8 46:17,17 16:17 34:18 35:6 10:24 11:4,7 
+53:25 54:19 number 23:16 original 10:23 42:20 44:13 12:5,23 13:20 
+57:20 58:17 56:12 32:15 43:4 50:14 53:20 14:19 18:11,16 
+
+motion's 36:11 numerous 51:19 originally 15:11 Petitioners 23:22 26:25 
+move 11:15 20:2 35:4,4 32:24 33:2,5 27:10 28:8,13
+
+O46:25 ought 11:22 34:2 29:6 34:9 
+O 2:1 3:1 moved 11:18 outside 43:16 Petitioner's 35:19 36:25 
+objection 48:2433:7 outweigh 12:25 42:18 49:2 37:15 43:19 
+obligation 46:15moving 7:22 overwhelmingly phrase 8:4 49:17 51:8 
+obtaining 55:10 8:1 place 20:2 32:15 56:19,24 57:3 
+
+N occurred 50:12 placed 49:11 57:25 58:7 
+PN 2:1,1 3:1 October 1:9 play 24:21 prepare 7:8,13
+
+necessarily 27:18,20,25 P 3:1 plea 31:15,20,24 12:15 17:11 
+11:13,15,22,23 28:2 33:8 44:8 PAGE 2:2 32:3,8,9 18:4 21:11,21
+12:20 45:3 58:9 paper 35:10 plead 59:2 27:12 35:23 
+
+necessary 12:19 odd 7:10 pardon 11:2 please 3:9 26:24 36:13 38:11,24
+14:19 15:1 Oh 5:8 23:8 56:7 plus 18:16,17 41:8,10 43:16 
+50:1 okay 13:7 21:19 parity 42:25 52:24 44:22 50:11,19
+
+need 4:5 8:17 29:13 30:14 part 9:18 15:23 point 5:23 9:13 55:19 
+9:10 10:5,7 56:13 57:2 20:8 44:25 9:13 26:1,12 preparing 10:20 
+20:2 21:11 once 29:6 32:4 particular 9:18 28:5 34:14 36:2 55:11 
+25:17 35:2 38:14 43:14,14 40:22 42:15 38:13 48:1 presented 58:6 
+39:9 42:10,13 ones 42:7 45:24 54:19,20 56:21 preserved 33:2 
+
+needed 12:24 open 6:22 44:3 parties 7:20 57:21,21 34:3 44:4 
+38:24 open-endedness 32:4,7 points 53:22 presumably
+
+needs 12:22 26:13 party 35:23 policy 57:7,10 14:8 20:23 
+13:11 14:8 operate 41:4 pending 23:3 position 5:1,25 28:9 38:22 
+25:15,16 42:17 people 42:18 8:7 23:10,10 49:22 
+
+negative 36:22 opponent's perfectly 21:18 44:10 55:21 pretrial 3:10,17
+54:1,8 40:21 49:25 56:5 3:24 7:8,13,15
+
+neglect 49:17 opposition period 4:6 6:24 possibly 28:4 8:6,11,22 
+
+66 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+10:10,12 11:16 52:25 53:5,8 6:10 10:24 recorded 40:7 39:2 
+13:20 15:15,21 53:14,15 57:1 13:10 22:7 40:18 requires 58:21 
+16:10 17:12 57:2,4,6,6 27:17 33:24 recording 40:12 requiring 14:13 
+20:8 21:6 24:6 process 14:22 34:3 43:3 53:7 recurring 50:3 37:22 
+25:17 27:1,10 prompt 3:21 57:24 58:6 red 11:20 reserve 26:17 
+27:24 29:6 5:14 questions 35:24 redundant 31:5 reserved 44:7 
+32:13 34:19 proper 50:9 quick 53:6 refer 8:24 resolution 27:13 
+35:19,21 37:2 58:2 quickly 53:21 refers 8:21 resolved 51:9 
+37:6 41:7 proposal 11:3,5 quintessentially regard 19:20 respect 9:9 
+45:22,23 46:21 proposed 31:15 20:1 regarded 28:19 11:25 15:15 
+48:10,11 50:18 32:4,9 quite 12:3 13:13 reindict 22:13 55:4 
+51:6 53:25 prosecution 46:8 rejected 6:11 respectfully 
+54:13,18 57:20 31:17 11:5 20:18 39:25 
+
+R57:20 58:16,17 prosecutor 4:5 related 9:19 respecting 10:21 
+R 3:1pretty 19:21 4:23 37:1 50:20,21 respond 18:7 
+raise 58:1042:12 prosecutor's 4:2 57:5 36:1,14
+raised 23:11previous 37:8 5:7 relatively 12:3 Respondent
+
+34:10principle 53:23 prospective 24:7 1:19 2:6 26:22 
+range 52:8prior 9:4 20:17 21:7 reliance 13:20 response 5:9,10
+read 7:25 8:1 probably 30:22 provided 35:4 remainder 5:17 18:12 
+
+37:547:15 provides 51:7 26:18 35:23 37:8 
+reading 3:22problem 17:4 provision 22:20 remains 5:13 41:14,15 42:22 
+
+7:17 58:1520:13 22:18 32:3,9 44:16 7:2 43:16,18 45:18 
+ready 44:2123:16 37:19 51:19 remand 6:9 34:1 46:1 
+really 13:18problems 14:6 provisions 30:12 34:12 44:3 responses 41:8 
+
+38:19 42:2516:3,4 20:10 public 14:7 remanded 7:1 41:10 
+45:5 47:2422:8 37:21 38:10 remind 49:24 result 6:23 7:22 
+51:11procedural public's 12:25 removal 53:1 27:15 28:22 
+
+reason 15:526:14 14:1 repeat 48:6 29:3 57:2,4
+35:18 39:6,18procedure 26:14 purpose 31:18 request 7:7 16:5 resulted 28:1 
+
+reasonable 12:4proceeding 9:18 36:2 43:20 16:5 24:8 resulting 27:4,7
+17:12 24:89:22 10:6,10 50:5 52:17 29:20,20 38:19 28:24 30:9,13
+
+reasoned 36:810:10,12,14,17 pursuant 31:17 46:14 54:24 31:1,8,14
+reasoning 36:410:20,21 27:11 pushed 32:19 56:1 35:21 36:24 
+
+54:628:25 29:9,14 put 6:10 12:22 requested 11:16 37:6 42:2 
+reasons 10:929:18,21,22,25 13:1,11 19:21 21:15 38:2,9 43:10 50:11,17
+
+27:330:4,13 48:4 26:11 requests 4:10 50:18 52:6 
+rebuttal 2:750:12,21,25 putting 14:21 24:3 55:1,1,4 57:20 
+
+26:18 53:1951:2,3,6,7,23 15:3 26:9 33:4 55:22 56:7 results 32:22 
+recitation 14:1452:3,17,21 39:8 required 14:22 33:13 45:23 
+recite 14:1453:10,11,13 p.m 1:13 3:2 19:7 26:10 51:4 58:13 
+recognition54:13,14,16 59:5 38:16 39:14,16 retrial 22:19 
+
+50:16proceedings 39:17 48:2,4 retrospectively
+Q record 12:238:22 27:4,7,8,9 49:18 6:9 
+
+QED 57:7 13:2,12,2327:15,15 42:3 requirement return 10:23 
+qualify 21:6 14:15 26:9,1142:6,6 47:19 38:13 reversal 23:2 
+question 6:7,7 46:2352:6,8,14,19 requirements reverse 9:25 
+
+67 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+10:2 52:1,5,11,19 37:25 45:16,22 58:13 23:1,13 37:17 
+reversed 39:21 53:9,17 58:1 50:14 55:17 served 14:11,13 37:24 38:12 
+reverses 23:17 58:18 59:3 says 5:12,12 50:4 39:1,5,14 40:3 
+reviewed 9:4 rote 14:14,17 6:16 10:4,5 set 13:19 15:10 46:7,12,19,24 
+
+13:15 roughly 57:11 14:18 19:17 15:13,21 16:2 48:15,22 49:6 
+right 4:2,6 5:3 route 5:25 20:19 21:5,10 19:14 22:4 49:10,19,24 
+
+18:6,9,13 24:3 routine 25:19 29:15,16 31:16 35:8 48:3 sounds 20:16 
+24:10 27:17 28:23 29:1 36:17 38:15 settle 54:11 21:6 31:20 
+30:3,5,19 31:3 42:11 43:18 39:20 40:5 seven 16:12 speaking 48:16 
+31:13 32:20 routinely 55:2 42:20 43:8 40:23 43:11 speaks 7:9 8:13 
+33:10,23 35:13 rule 4:9 8:5 44:20 52:5 seven-day 41:1 special 56:11 
+35:16 39:9 13:17 15:22,24 56:12,18,21 42:12 specific 27:17 
+43:6 44:12 16:4 17:2,13 SCALIA 36:16 ship 43:8 36:2 39:20,24 
+47:14 49:23 17:14 18:8,11 37:4 40:14 short 16:9 17:1 53:24 57:24 
+51:15 52:4 18:19,21,21,24 50:7,24 51:3 17:5,13 18:19 58:7 
+56:10,16 19:15 21:25 52:16 55:12,17 show 19:2 specifically 3:17 
+
+risk 23:2 48:17 22:5,8 23:3,21 55:24 56:2 showing 15:1 8:12,13,15,17 
+49:21 24:3,5,17 schedule 15:12 side 5:11 25:15 8:21,21 10:25 
+
+Roberts 1:17 2:5 33:25 34:4 scores 13:13 40:1 44:10 11:3 15:16 
+3:3 20:7,23 37:19 40:22,25 screen 25:3 sides 44:7 36:13,23 37:7 
+26:19,20,21,23 42:9,12,17,23 se 7:23 significant 39:11 41:24,25 
+27:16,19,21 48:16,20 54:23 second 34:14 13:25 54:18 55:3,5 
+28:7,12,16,17 55:15 35:18 54:15 similar 27:14 57:19 
+28:21 29:8,11 ruled 9:16 29:14 section 3:11 36:3 specified 7:4 
+29:13,17,18,20 46:6 27:3,6 35:20 simply 11:6,12 39:12 
+29:24 30:1,3,4 rules 6:18 15:14 36:19,19 37:1 25:21 specifies 14:17 
+30:5,6,7,8,10 16:8 20:2 41:6 42:1 50:2 situation 8:2 55:8 
+30:15,16,20,24 24:19 48:3 see 25:11 28:19 9:23 speedy 3:12 6:19 
+31:3,4,7,13,21 ruling 18:12 30:11 35:14 situations 14:10 6:19,21 10:8 
+32:11,21 33:4 23:4,18 25:11 46:24 52:10 39:22 50:3 11:14,23 12:2 
+33:11,15,19,20 25:13 49:4 seeking 30:21 six 22:12 58:23 12:2,20,21 
+33:23 34:14,17 run 4:21,22 Senate 11:1,2 58:24 15:7 16:7,14 
+35:3,15 36:19 12:13,15 16:9 57:23 small 13:19 17:6,14 18:18 
+37:7,20 38:7 16:12 17:8,15 send 6:4 23:15 18:20,23 20:13 
+38:21 39:4,11 20:10 49:21 sense 8:23 11:11 Solicitor 1:17 20:17 21:8 
+39:19 40:5,13 running 29:11 27:22 28:25 soon 57:9 22:16,21 27:2 
+40:18,21 41:3 34:15 35:25 36:9,12 sorry 4:13 8:3 34:9 41:2 
+41:15,19,21,25 runs 5:1 32:14 58:21 10:1 12:13 48:23 49:20 
+42:14 43:2,13 43:8 separate 44:18 16:23 33:19 spent 28:13,19 
+44:12 45:12,16 rushing 38:11 September 49:12 51:12 37:10 58:3 
+45:21,24 46:9 
+46:16,20 47:1 S 
+
+15:11 27:18,20 
+27:24 28:2,18 
+
+sort 12:20 
+sorts 14:23 
+
+spot 6:13 
+squarely 52:23 
+
+47:7,12,15,22 s 2:1 3:1 56:8 32:14 33:8 SOTOMAYOR Stancil 1:15 2:3 
+48:8,19,25 satisfy 12:11 34:18,23 43:6 5:21 9:2,8,15 2:8 3:5,6,8 4:7 
+49:9,12,23,25 saying 10:7 43:6,9,11,12 10:3,14 11:1 4:13,16,25 5:4 
+50:13 51:1,4 13:21 20:24 44:8,19,22,24 21:9,19,25 5:8 6:6,16,25 
+51:12,15,18,22 21:12 31:25 45:2,10 58:9 22:6,19,23 7:16 8:5 9:7,11 
+
+68 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+10:1,8,19 11:2 17:8,15 18:15 55:20 14:10 15:2 26:18,25 27:3 
+12:17 13:9,24 stopped 5:13 suspension 4:6 17:4,19,19,22 27:10,12,18,19 
+14:16 15:15,18 23:21 system 20:2 18:1,22,25 28:4,8,9,13,14 
+15:25 16:23 stops 5:10,13 systemic 24:17 19:25 20:10,21 28:19,22,24 
+17:3 18:3,7,10 25:16 20:22 21:3 29:1,2,4,5,11
+
+T18:14 19:5,10 strictly 48:10 22:17 23:15 29:12,15,21,22
+T 1:15 2:1,1,3,8 20:16 21:2,14 strictness 26:14 24:5,5,14 29:23,24 30:17 
+
+53:1921:23 22:3,10 sub 48:7 26:11 28:16 31:25 32:5,7
+table 11:8,822:21,24 23:5 subject 3:12 30:20 31:7,21 32:12,17 33:13 
+take 5:24 6:1 23:14,25 24:24 15:14 23:3 32:3,16,21,23 33:16 34:7,9
+
+17:9 23:1025:2,9,13 26:2 submission 33:5,22 34:7 34:22,23 35:18 
+24:14,22 30:12 26:5,7 53:18 32:17 34:11 37:20 35:22 36:1,2,5
+31:25 33:1653:19,21 55:15 submissions 38:1 42:14,21 36:9,10,12,14
+38:5,6 54:12 55:21,25 56:5 36:7 44:1,5,17,24 36:17,18,25
+57:1156:14,20 57:13 submitted 59:4 46:9,11,22 37:10,11,13,15
+
+taken 23:1057:16 58:6,22 59:6 47:12 48:8,13 38:2,9,11,22
+34:11 36:1159:1 subparagraph 49:13 50:8,8 38:23,24 40:15 
+
+takes 10:21standard 15:6 3:18 19:11,17 52:5 53:3 41:7,9,14,15
+17:10,24 29:19 16:9 54:2,12 53:25 54:4,7 54:15,21 55:16 42:10,19,22
+
+talking 5:6 24:8 56:8 56:6,7,21 56:3 57:18 43:7,15,17,20
+30:9 50:15,17standing 40:23 subparagraphs 58:19 43:23,24 44:1 
+
+talks 52:240:24 54:17,23,25 thinks 43:25 44:15,15,21
+TAYLOR 1:3starting 34:23 subsection Third 36:15 45:5,11 47:4,7 
+tell 15:9 20:25 54:19 51:11,16,21 thought 44:7,9 49:17 50:19 
+
+21:20starts 4:3 12:7 52:2 58:18 51:2 52:18 
+ten 23:9 41:13 19:22 22:21 substantive three 3:14 17:11 54:24 55:2,3 
+tenet 53:24statement 46:13 26:13 27:3 38:6 55:18,19,23 
+term 7:17states 1:1,6,12 sufficient 13:16 tight 43:8 56:11,19,24 
+terms 8:133:4 36:20 suggest 11:9,21 time 3:10,23 4:2 57:3,25 58:3,7 
+
+13:11 42:22,22statute 4:19 12:8 40:4 58:11 4:5,11,22,23 58:14,17 
+text 3:15 4:18,19 13:2 14:5 22:8 suggested 23:7 5:17,20 6:14 timeframe 16:9 
+
+12:8 56:622:18,25 37:18 35:25 6:17,20 7:7,7 timely 23:13,14
+Thank 26:1937:21 39:3,19 suggestion 5:18 7:13,13,21 times 15:13 
+
+53:17 59:352:4 56:25 suggests 14:3 8:15,18 9:2,9 time's 32:6 
+theory 4:2,21statutory 3:15 53:25 54:8 9:21 10:24 today 3:14 
+
+30:17 42:1844:16 54:11 superfluous 11:4,7,12 12:5 told 44:20 
+45:8stems 58:16 37:22,24 12:14,23 13:20 tolled 5:9 
+
+thing 33:25 44:2 step 30:2 supplied 6:9 14:10,12,19,19 tough 53:16 
+things 12:1 20:5 STEVENS support 54:22 15:5 16:2,5 transitional 
+
+28:6 38:1 42:5 40:13,20 41:14 supposition 23:5 17:5,16,24,25 49:14 
+44:1941:16,20,23 Supreme 1:1,12 18:11,24 19:3 transportation
+
+think 4:23 6:12 42:8 48:6,14 sure 16:20,24 19:8,18 20:11 53:2 
+7:16,18,1951:10,13,16,20 21:23,24 26:7 20:20 21:11,12 treat 4:10 8:11 
+8:22,23 10:21 51:25 52:2,10 27:22 32:21 21:15,21 22:4 54:24 55:6 
+11:6,11,19,1953:6,16 33:11 42:24 22:20 23:22 treated 4:8,24
+11:25 12:1,3,4stop 6:1 16:6,10 43:4 45:4 59:1 24:4 25:14,15 5:18 7:23 16:6 
+12:7,18 13:2,9 16:13,16,18 suspended 25:16,16,17,24 55:14 
+
+69 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+treatment 53:24 understood 44:23 45:10,11 36:7 18 22:10 
+trial 3:12 6:19 58:14,15 46:4,5 54:21 wrong 9:15 18:1 1979 37:8
+
+
+6:19,21 7:18
+ United 1:1,6,12 56:16 58:8 44:16 50:14 
+27:23 8:9,25 3:4 wanted 25:4 58:9
+
+
+10:8,21 11:14
+ 2 31:16 
+X
+
+universally 7:21 35:7,12 38:1 
+2:01 59:511:14,17,24 7:25 22:14,15 wants 16:10
+
+
+12:2,2,20 15:7
+ x 1:2,7 20 27:24 28:2 unmeritorious 24:21 
+32:14 33:816:7,14 17:6 25:4 warranted 38:4 Y 2009 1:9 
+
+Yeah 33:19 49:9 
+17:14 18:18,20 unmoored 56:6 Washington 1:8 
+
+21 15:20,2218:23 20:3,14 unreasonable 1:15,18 
+16:17 17:17,1820:17 21:8 11:6,9 wasn't 8:6 9:3 Z 18:4,7,8,11,1122:16,21 23:11 unreasonably 11:17 44:7 Zedner 6:8,16 18:17,17,1824:15 27:2,2 17:5 45:5 6:22 20:18 21:21 22:234:9 38:11 unrelated 11:19 way 23:24 28:9 26:12 40:3,5 40:25 46:2241:2 48:23 unusual 7:16 43:13 45:2 49:8 21-day 18:2149:20 50:5 use 7:10 8:8 48:1 53:15 
+
+trials 17:8 24:13 42:9U.S.C 22:10 ways 16:22 0 
+25th 28:18 34:18 trigger 4:3 weed 14:22 08-728 1:5 3:4 V 44:22,24 45:7 
+
+v 1:5 3:4 
+34:21,22 week 17:7 24:9 
+
+45:12,13,14,17true 47:1 48:25 38:6 1 
+vacation 24:22 45:20 47:949:1,19 weeks 17:10,11 1 3:16,22 4:9 
+variation 41:8 26 2:6truly 25:4 17:14 24:9 5:12 8:1,1,3,11 
+
+try 15:20 variations 16:7 28 33:925:22 38:6 9:3,13 10:25 
+varies 15:18trying 19:21 weigh 39:6 15:3 27:6 3various 27:7Tuesday 1:9 weren't 9:20 30:12,23 31:14 3 2:4vary 19:4 26:7 two 10:9 17:10 we're 31:25 35:21 36:20 30 19:12,23varying 42:2217:14 23:24 We've 39:17 37:1 39:12 36:10 54:5view 6:2 24:3 24:2,9 25:22 whatsoever 15:5 41:6 42:1,24 56:13,17 57:11 25:12 46:1344:18 49:22 wide 41:8 47:16,18,23,24 57:17violation 48:23type 53:13 58:19 widely 15:18 48:7,10,13 30-day 19:14virtually 50:458:20 win 58:25 50:2,8,16 31st 54:9types 56:7 wire 33:17,18 51:18 52:1,5W 3161(h)(1) 3:11typical 46:10 witness 55:11 52:24 53:12Wait 21:9 27:3witnesses 10:20 54:2,10 56:8 waive 34:19 3161(h)(1)(H)U word 7:10 56:18 1)B 10:2535:1,2,7,12 19:11ultimately 48:5 words 28:17 10 42:1346:4,17,19,25 3288 22:11unanimously 33:9,20 11 16:146:25 3289 22:116:11 work 13:3 18:2 12:59 1:13 3:2 waived 35:15uncertainty 44:18 13 15:11 28:3 445:19 47:554:16 works 15:10 32:14,16,19 4 28:2 30:25 waiver 20:17understand 5:24 worry 20:13 33:9 31:1 33:821:7 28:1020:18 21:3 worst 14:23 13th 43:6 44:21 39:1332:14 46:14,1645:3 46:3 47:8 wouldn't 7:10 44:23 45:4,10 4th 27:18,20,2546:21,21 47:5 51:14 55:12,13 15:6 25:6 14 41:12 34:20 35:8,10want 7:14 12:10 58:12 40:14,15 53:11 14th 43:9,12 44:8 45:3,8,1512:14 18:23understanding writing 13:6 15 33:16,21 45:18 46:638:15 43:38:8 9:1 13:12 written 31:17,18 16 18:16 47:2,4,9 58:9 
+
+70 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+42 18:12
+
+
+5
+
+5 18:18 
+53 2:9 
+
+6 1:9
+
+6
+
+
+7
+
+7 3:13 6:8 7:8,9 
+
+7:21,23 8:8,12 
+8:16,16,16,24 
+11:18 14:21 
+20:6,12,15 
+21:6,12,16 
+25:3 26:8,13 
+26:16 39:10,16 
+42:20,24 50:1 
+53:8 55:7 
+
+7th 27:18,20 
+34:23 43:6,11 
+44:8,19 45:2,4 
+45:9 58:9,13 
+
+70 16:15 17:19 
+17:20 20:4 
+34:16 
+
+70-day 18:19 
+
+8
+
+86 41:1 
+86-day 18:18 
+
+41:1 
+
+71 
+Alderson Reporting Company 
+
+

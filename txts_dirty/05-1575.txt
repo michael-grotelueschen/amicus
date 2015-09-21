@@ -1,0 +1,9387 @@
+
+      
+
+           
+
+                    
+
+           
+
+                        
+
+  
+
+       
+
+Official - Subject to Final Review 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 DORA B. SCHRIRO, DIRECTOR, : 
+
+4 ARIZONA DEPARTMENT OF : 
+
+5 CORRECTIONS, : 
+
+6  Petitioner : 
+
+7  v. : No. 05-1575 
+
+8 JEFFREY TIMOTHY LANDRIGAN, AKA : 
+
+9 BILLY PATRICK WAYNE HILL. : 
+
+10 - - - - - - - - - - - - - - - - - x 
+
+11  Washington, D.C. 
+
+12  Tuesday, January 9, 2007 
+
+13 
+
+14  The above-entitled matter came on for 
+
+15 oral argument before the Supreme Court of the 
+
+16 United States at 10:56 a.m. 
+
+17 APPEARANCES: 
+
+18 KENT E. CATTANI, ESQ., Phoenix, Ariz; Assistant 
+
+19  Attorney General, on behalf of the Petitioner 
+
+20 DONALD B. VERRILLI, JR., Washington, D.C.; on 
+
+21  behalf of the Respondent 
+
+22 
+
+23 
+
+24 
+
+25 
+
+1 
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                   
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+
+KENT E. CATTANI, ESQ.
+
+ On behalf of the Petitioner 3 
+
+DONALD B. VERRILLI, JR., ESQ.
+
+ On behalf of the Respondent 31 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (10:56 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+next in 05-1575, Schriro versus Landrigan. 
+
+Mr. Cattani.
+
+ ORAL ARGUMENT OF KENT E. CATTANI
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. CATTANI: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ The Ninth Circuit's rejection of a reasoned 
+
+State court factual determination and decision is 
+
+improper under any deferential standard of review, and 
+
+it is particularly improper under the highly deferential 
+
+standard of review required under the AEDPA. This 
+
+morning I'd like to try to develop three -- three 
+
+points.
+
+ First, the State court's factual finding 
+
+that Landrigan instructed his attorney not to present 
+
+any mitigating evidence was not an unreasonable finding 
+
+and, in fact, is the most logical interpretation of the 
+
+record. Although Landrigan now argues that the record 
+
+does not show whether his decision not to present 
+
+mitigation evidence was knowing or voluntary, that is 
+
+not a claim that was ever developed in State court. He 
+
+never alleged in his State post-conviction proceedings 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that that, his decision to do that was not knowing or 
+
+voluntary.
+
+ Secondly, an evidentiary hearing is 
+
+unwarranted in this case --
+
+JUSTICE STEVENS: May I ask about the first 
+
+one? Does the Constitution require there be no 
+
+involuntary?
+
+ MR. CATTANI: It would require that it would 
+
+be knowing and voluntary, yes.
+
+ JUSTICE STEVENS: So if the record showed 
+
+that he didn't get, there wasn't a procedure followed to 
+
+voluntarily waive those Constitutional rights, wouldn't 
+
+the district court be able to reexamine that?
+
+ MR. CATTANI: Well, there's no colloquy 
+
+requirement for a defendant to waive presentation of 
+
+mitigation. And I think it would have been enough if 
+
+the defendant or defense counsel had simply said my --
+
+if the attorney had said my client has instructed me not 
+
+to present any mitigating evidence, and that would be 
+
+adequate. If a defendant chooses to make a claim that 
+
+his waiver was not knowing or voluntary, the burden 
+
+would shift to him to do that in a post-conviction 
+
+proceeding, and he did not do that in this case.
+
+ JUSTICE SCALIA: How would he make such a 
+
+claim in this case where in open court he was asked by 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the judge, right, with nobody twisting his arm, whether 
+
+it was the case that he did not want any mitigating 
+
+evidence introduced? And he said, right, yes, that's 
+
+correct?
+
+ MR. CATTANI: I agree, Your Honor. It would 
+
+be very difficult for him to make that argument and I 
+
+suspect that's why the argument was not raised in the 
+
+State post-conviction proceeding.
+
+ JUSTICE KENNEDY: Well, I don't know if you 
+
+got to the third point you were going to make. You were 
+
+outlining three different points. But it seems to me 
+
+that from the very start, what happens is that you and 
+
+your brother for the respondent are talking past each 
+
+other. You want to talk to us about the adequacy of the 
+
+State court's finding. The respondent says what we --
+
+all we want is a hearing in the district court, and 
+
+those are two different issues.
+
+ We want a hearing in the district court, 
+
+i.e., so that we can show the findings are insubstantial 
+
+or incorrect. Those, it seems to me, are two different 
+
+issues, and I sense the briefs are talking past each 
+
+other on this point.
+
+ Did you see the same thing?
+
+ MR. CATTANI: Yes, I did, Your Honor, and I 
+
+think the reason for that is, in our view an evidentiary 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+hearing is not necessary because the factual finding by 
+
+the State court obviates the need for one. An 
+
+evidentiary hearing would be developing evidence that 
+
+would never have been presented. Given this factual 
+
+finding, the State court is in effect saying no matter 
+
+what counsel might or might not have developed, it would 
+
+not have been presented at sentencing because this 
+
+defendant specifically instructed his attorney not to 
+
+present any mitigating evidence.
+
+ JUSTICE KENNEDY: In your view, what is the 
+
+standard for when the district court may hold an 
+
+evidentiary hearing? I know there's an element of 
+
+discretion in it.
+
+ MR. CATTANI: A district -- the district 
+
+court can order an evidentiary hearing if the defendant 
+
+has been denied an opportunity to develop relevant facts 
+
+necessary to resolve a colorable claim in State court. 
+
+And I think here the defendant fails on two different 
+
+points.
+
+ First --
+
+JUSTICE KENNEDY: That's the only time the 
+
+district court can hold a hearing?
+
+ MR. CATTANI: Well, it has to be through no 
+
+fault of his own and if the facts were not developed in 
+
+State court. Certainly it's the petitioner's 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+obligation, a defendant's obligation to present these 
+
+claims in State court and the only -- the reason --
+
+JUSTICE KENNEDY: Yes, but it seems that if 
+
+he doesn't do that, then that's a bar. But if he has 
+
+done that, when can he ask for a further hearing?
+
+ MR. CATTANI: Well, but that's the point 
+
+here. He has not done that. He did not attempt to 
+
+develop facts or he was not precluded from developing 
+
+facts that would be relevant to a resolution of his 
+
+ineffective assistance claim.
+
+ If I could, Your Honor, there are two 
+
+different parts of that question. First, the facts are 
+
+not relevant. The facts that he's seeking to develop in 
+
+an evidentiary hearing is this additional, this 
+
+mitigation that should have been developed. If, in 
+
+fact, his avowal that he did not want any mitigation to 
+
+be presented is accurate, then these other facts are not 
+
+relevant.
+
+ JUSTICE SOUTER: No, but isn't that the 
+
+problem in your argument? Because your argument 
+
+assumes, and I think you said this quite candidly a 
+
+moment ago, that once there has been a finding that he 
+
+informed the court that he did not want mitigation 
+
+evidence presented, that in effect is a matter of --
+
+binds him as a matter of law for all time. 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+And what he is saying here is look, if I had 
+
+known that there was this kind of mitigating evidence, 
+
+as opposed to what was proffered to the court at the end 
+
+of the trial in fact, I would not have made that waiver, 
+
+if you want to call it that. I would not have made that 
+
+representation to the court. And what I want is an 
+
+evidentiary hearing to show that, to show that in fact, 
+
+when I said to the court no mitigating evidence, I 
+
+didn't mean this.
+
+ And he wants a hearing for that. The only 
+
+way it seems to me that you can properly win on the 
+
+issue that he thus raises is exactly the way that I 
+
+think you said a moment ago. That once there is a 
+
+finding that he made a statement, whatever its 
+
+predicate, a statement that I don't want any mitigating 
+
+evidence presented, that is the end of the issue as a 
+
+matter of law.
+
+ My question is, do you have any authority 
+
+for that?
+
+ MR. CATTANI: Simply the AEDPA 2254(e). I 
+
+don't have a specific case that also would go directly 
+
+to that point.
+
+ Your Honor, I would also --
+
+CHIEF JUSTICE ROBERTS: Justice Souter's 
+
+question highlights an ambiguity in this Ninth Circuit 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+opinion, for me anyway. Do you understand the hearing 
+
+that they directed to be on the waiver question, or is 
+
+the hearing that they directed on the alleged mitigation 
+
+evidence that he now wants to present?
+
+ MR. CATTANI: It seems to me the hearing is 
+
+directed at presenting all of the mitigation evidence 
+
+that he now wants to present.
+
+ JUSTICE SOUTER: Doesn't it have to go to 
+
+both? Because I mean, he's saying look, first I want to 
+
+show that there's a certain kind of mitigation evidence 
+
+that was not proffered, that I didn't have in mind, that 
+
+I wouldn't have objected to.
+
+ And he then wants to proceed with respect to 
+
+his inadequacy of counsel claim based also on the 
+
+existence of this kind of evidence that counsel didn't 
+
+look to.
+
+ There's a dual purpose, I thought.
+
+ MR. CATTANI: I would agree with that, but 
+
+Your Honor --
+
+JUSTICE SCALIA: I wouldn't agree with it. 
+
+I thought that the Ninth Circuit had been very clear 
+
+that it did not agree with the district court's 
+
+determination that he had waived mitigating evidence. I 
+
+thought the Ninth Circuit simply disagreed with that 
+
+finding and remanded for a hearing on the mitigating 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+evidence.
+
+ MR. CATTANI: Yes.
+
+ JUSTICE SCALIA: Isn't that so? I mean, 
+
+that's what that -- one of the reasons the case was 
+
+here, that the Ninth Circuit simply smacked down a 
+
+district court factual finding that he had waived any 
+
+mitigating evidence. Isn't that what happened?
+
+ MR. CATTANI: That's correct, Your Honor.
+
+ JUSTICE SCALIA: So it wasn't remanding for 
+
+a hearing on whether he had waived mitigating evidence. 
+
+It made the determination that he had not waived it, and 
+
+then remanded for investigation into what that 
+
+mitigating evidence would be.
+
+ MR. CATTANI: I don't know that it's 
+
+completely clear as to what the Ninth Circuit is saying 
+
+can be developed and how that evidence can be used.
+
+ JUSTICE SCALIA: Well, it's clear at least 
+
+that they disagreed with the finding of the district 
+
+court that there had been a waiver, no?
+
+ MR. CATTANI: That's right, Your Honor, and 
+
+I think --
+
+JUSTICE SOUTER: So it's clear that they 
+
+disagreed that the finding was necessarily dispositive. 
+
+Is anything clear beyond that? I mean, I guess I'm 
+
+hesitant to say I'm raising the same question that the 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Chief Justice did, about the ambiguity of what the court 
+
+did.
+
+ I mean, there's no question that they found 
+
+that the -- the State trial court's finding with respect 
+
+to waiver or whatever we want to call it was not 
+
+necessarily dispositive. I don't think it's clear that 
+
+they found anything beyond that, but correct me if I'm 
+
+wrong.
+
+ MR. CATTANI: The Ninth Circuit ordered an 
+
+evidentiary hearing to allow him to develop whatever 
+
+mitigation he's proffered in Federal court.
+
+ JUSTICE SOUTER: Right. But that could 
+
+have, as we said a moment ago, that could have a dual 
+
+purpose. One to show the, in effect, the inadequacy or 
+
+the nondispositive character of the State court's 
+
+finding; and two, to show relief for inadequate 
+
+assistance of counsel.
+
+ And the question here is that, the immediate 
+
+question is what exactly did the State court find with 
+
+respect to -- oh, sorry -- what exactly did the Ninth 
+
+Circuit find with respect to the State court finding?
+
+ And there's no question that the Ninth 
+
+Circuit assumed that the State court finding was not 
+
+necessarily dispositive, but I don't know that it's 
+
+clear it went beyond that, and that's where perhaps you 
+
+11 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+could help me if I'm wrong.
+
+ MR. CATTANI: Well, the Ninth Circuit 
+
+clearly held that the State court's determination of the 
+
+facts was unreasonable. And that's the problem with its 
+
+decision because if the determination of facts was 
+
+reasonable, it obviates the need for any further 
+
+evidentiary hearing.
+
+ JUSTICE KENNEDY: Well, on the waiver point, 
+
+let's assume that this case had not come in -- come 
+
+here, and you had gone back to the district court 
+
+pursuant to the order of the Ninth Circuit.
+
+ Surely you would have taken the position, or 
+
+you could have taken the position if the evidence 
+
+developed that way, that he really knew or should have 
+
+known about all this mitigating evidence and he waived. 
+
+You certainly could continue to take that position in 
+
+the district court.
+
+ MR. CATTANI: Yes.
+
+ JUSTICE KENNEDY: And the district court 
+
+would say I now have a more full, factual record, and I 
+
+make the finding that there was knowing waiver, or there 
+
+wasn't.
+
+ MR. CATTANI: Yes, but the point we've tried 
+
+to make is that he was allowed an opportunity to develop 
+
+his claim about whether his -- whether he made that 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+statement and whether he intended to instruct his 
+
+attorney not to present any mitigating evidence. He 
+
+submitted an affidavit where he said, if my counsel had 
+
+told me there was this evidence of a genetic 
+
+predisposition to violence, I would have allowed that to 
+
+be presented.
+
+ The court -- there was no need for an 
+
+evidentiary hearing because the court simply accepted --
+
+accepted as true that Landrigan would have provided that 
+
+testimony.
+
+ JUSTICE ALITO: Well, how could the district 
+
+court on remand find that there was a valid waiver when 
+
+the Ninth Circuit says on A-17, the appendix to the 
+
+petition, for all the foregoing reasons, Landrigan has 
+
+not waived the right to assert a claim for ineffective 
+
+assistance of counsel?
+
+ MR. CATTANI: I think you're correct. The 
+
+Ninth Circuit has specifically found that the 
+
+determination of facts was unreasonable and found that 
+
+Landrigan has established a colorable claim of 
+
+ineffective assistance.
+
+ JUSTICE SCALIA: And it has not waived. Not 
+
+that the district court was -- didn't have enough 
+
+evidence before it. It says the foregoing, Landrigan 
+
+has not waived the right to assert a claim for effective 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+assistance.
+
+ So how can you possibly say that that 
+
+question is still open?
+
+ MR. CATTANI: Well, I --
+
+JUSTICE SCALIA: The district court has to 
+
+accept that he hasn't waived. And what it's sent back 
+
+for is for all of the facts that show -- that show he 
+
+had ineffective assistance of counsel.
+
+ JUSTICE STEVENS: Let me ask this question. 
+
+It seems to me that there are two separate parts to the 
+
+waiver issue. One, did he intend to say I don't want to 
+
+put on any mitigating evidence?
+
+ But then the second part of the question is, 
+
+was that statement made knowingly and voluntarily, just 
+
+as a guilty plea or something like that has to be.
+
+ So is it enough for you to say it's clear 
+
+what he intended, or is it also part of your burden to 
+
+say that that intent was expressed in a way that was 
+
+knowing and voluntary, compliant with the rule that 
+
+applies to waivers of constitutional rights?
+
+ MR. CATTANI: I think it's clearly enough 
+
+simply to say that, as I indicated, even if it had just 
+
+been an avowal by the attorney that this defendant has 
+
+instructed me not to present mitigating evidence, that 
+
+that would be enough. 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE STEVENS: Is that a sufficient 
+
+waiver without inquiring as to whether it was a knowing 
+
+and intelligent waiver, that he knew what he could put 
+
+in, and so forth and so on?
+
+ MR. CATTANI: Yes, it is, Your Honor. I 
+
+think to the extent that the defendant wants to raise 
+
+that, he can raise that in a State post-conviction 
+
+proceeding. He should make that type of argument in the 
+
+post-conviction proceeding.
+
+ And that's not what he did here. An 
+
+analogous situation is that -- came up in a case that 
+
+the defense, that Landrigan has cited, Iowa versus 
+
+Tovar. And this Court expressly noted that the time to 
+
+raise a claim -- that case involved whether it was a 
+
+counsel -- it was a decision to waive counsel at a plea 
+
+proceeding. And this Court noted that the time to raise 
+
+that is in a post-conviction proceeding, and that the 
+
+burden shifts to the defendant to raise that issue.
+
+ And here if you look at the, the petition 
+
+for post-conviction relief, if you look at the affidavit 
+
+that Mr. Landrigan submitted, there, there is nothing in 
+
+there that suggests that "I did not understand what I 
+
+was doing when I instructed my counsel not to present 
+
+mitigation. I, I did not understand the concept of 
+
+mitigation." There's nothing in there to suggest that. 
+
+15
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+So I would --
+
+JUSTICE SOUTER: Isn't there something that, 
+
+isn't he saying implicitly Justice Souter implicitly "I 
+
+didn't have this kind of evidence in mind; if I had been 
+
+aware of this kind of evidence, I wouldn't have given 
+
+that instruction?"
+
+ So he is, it seems to me, implicitly saying 
+
+well, my waiver was not knowing, in the sense that I 
+
+understood there was this kind of evidence and intended 
+
+to preclude its introduction? Isn't that clear?
+
+ MR. CATTANI: It's clear he is saying that I 
+
+would have permitted one type of mitigating evidence.
+
+ JUSTICE SOUTER: But that's the same thing, 
+
+isn't that the same, a way of saying that to that extent 
+
+my waiver was not knowing?
+
+ MR. CATTANI: He, he's raised to it that 
+
+extent as to that particular piece of mitigation. And 
+
+the trial court is expressly saying I disbelieve you 
+
+when you say you would have allowed presentation of that 
+
+mitigation.
+
+ JUSTICE SOUTER: And he's saying if you will 
+
+give me a hearing, district court, I will try to 
+
+demonstrate to you why, why the State court's finding on 
+
+that point was unreasonable. The State court made that 
+
+finding based on its observation of me at trial and, and 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+at the sentencing phase; but it didn't give me a, a 
+
+further chance to develop my evidence on, on 
+
+post-conviction.
+
+ And I want a hearing to develop that 
+
+evidence in front of you, Federal district court, in 
+
+order to prove that the State court's finding in light 
+
+of that evidence was unreasonable.
+
+ Isn't, isn't it correct that that's what 
+
+he's asking for now?
+
+ MR. CATTANI: He is, Your Honor, but I would 
+
+suggest that there is no further evidence that was 
+
+presented that he was attempting to present in State 
+
+court regarding whether his waiver was knowing or 
+
+voluntary.
+
+ JUSTICE SOUTER: How would -- how do we know 
+
+that?
+
+ MR. CATTANI: How do we know we know that? 
+
+Because of the, the affidavit he submitted. And he, 
+
+he's required to submit an affidavit to establish a 
+
+colorable claim. And, and he's required to allege in 
+
+his post-conviction petition that his waiver is not 
+
+knowing or voluntary. But the burden is on the 
+
+defendant --
+
+JUSTICE SOUTER: But you, I don't think you 
+
+mean this, but you're not arguing that he just omitted 
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the magic words not knowing and voluntary?
+
+ MR. CATTANI: I don't think, I don't think 
+
+he just omitted them. I think he was not raising that 
+
+claim.
+
+ JUSTICE SOUTER: No, but, I thought a second 
+
+ago you -- you admitted that to a degree he was, because 
+
+he is saying implicitly if I had known about this kind 
+
+of mitigating evidence, I wouldn't have waived. 
+
+Therefore, my waiver was, as to this, not a knowing 
+
+waiver.
+
+ MR. CATTANI: He raised that as to that one 
+
+aspect of mitigation. But it would have been very 
+
+simple for him, a simple matter for him to argue I 
+
+didn't understand the whole concept of mitigation. I 
+
+didn't understand what I was doing.
+
+ JUSTICE SOUTER: Look, it would have been a 
+
+better affidavit, it would have been better pleading. 
+
+We can stipulate to that. But is there, I don't see 
+
+there is any serious question that he is arguing right 
+
+now that as to this kind of evidence, had I known about 
+
+it I wouldn't have waived and therefore, I shouldn't be 
+
+precluded from, from getting it in now.
+
+ And, and if there's no question about that, 
+
+then -- then I think we're just fighting about words.
+
+ MR. CATTANI: Well, I think the issue was 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+resolved by the State court's factual determination that 
+
+Landrigan was not credible even in making that assertion 
+
+that I would have allowed presentation of genetic 
+
+predisposition of violence.
+
+ JUSTICE SOUTER: And he says in the 
+
+district, he says in the district court: I want a 
+
+hearing to show that I was credible. So credible that 
+
+the State court finding should be seen as an 
+
+unreasonable resolution of a factual issue. I want a 
+
+hearing.
+
+ That's all he's asking for, isn't it?
+
+ MR. CATTANI: I would just suggest that 
+
+there is no further evidence other than putting 
+
+Landrigan on the stand to say --
+
+JUSTICE SOUTER: Well, that's pretty good 
+
+evidence, isn't it? I mean, he may be a believable 
+
+witness on this point. I don't know.
+
+ MR. CATTANI: Well, I don't think there was 
+
+any need for an, for the trial court to put Landrigan on 
+
+the stand having already presided over Landrigan's trial 
+
+and sentencing.
+
+ CHIEF JUSTICE ROBERTS: If he wants, if he 
+
+wants a hearing on that, we'd have to reverse the Ninth 
+
+Circuit, right? Because the Ninth Circuit held that he 
+
+didn't waive --
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. CATTANI: That's right.
+
+ CHIEF JUSTICE ROBERTS: -- this claim?
+
+ MR. CATTANI: That's right.
+
+ CHIEF JUSTICE ROBERTS: The part of the 
+
+opinion that Justice Alito quoted on page A-17.
+
+ MR. CATTANI: That, that's right, Your 
+
+Honor. And I think that's why this case should be 
+
+relatively straightforward.
+
+ Because the Ninth Circuit, the Ninth 
+
+Circuit's finding, that the State court unreasonably 
+
+found that, that Landrigan expressly instructed that his 
+
+attorney not present any mitigation, given that --
+
+that's the problem with the Ninth Circuit's opinion. 
+
+Everything else builds on top of that.
+
+ If that's an incorrect holding, then the 
+
+rest of the ruling is, is incorrect.
+
+ JUSTICE BREYER: Even if it is incorrect, if 
+
+we -- we don't know precisely what he meant by the words 
+
+he said, why doesn't that argue even more strongly for a 
+
+hearing? At the hearing he wants to introduce, doesn't 
+
+he, his stepparents, or foster parents, a school 
+
+teacher, the various others? And he'll say anyone who 
+
+listens to those people will see that I have the most 
+
+horrendous upbringing anyone could have. The worst 
+
+you've ever heard. 
+
+20
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+And my argument is that if only my lawyer 
+
+had looked into this at that moment in the trial, he 
+
+would have said in the sentencing proceeding, look what 
+
+I can present for you.  And if he had done it and told 
+
+me that, anyone would have said, "of course, present 
+
+it." And I want a chance to show that that's true of my 
+
+case.
+
+ Now, why shouldn't he have a hearing on 
+
+that? No hearing was given him in the State court.
+
+ MR. CATTANI: Well, the problem with, that 
+
+Your Honor, is that he didn't ask for, for a hearing to 
+
+present testimony from, for example, his biological 
+
+mother and his ex-wife, who would have presented the 
+
+very evidence --
+
+JUSTICE BREYER: In State court he didn't.
+
+ MR. CATTANI: In State court in the --
+
+JUSTICE BREYER: Well, I mean, is the 
+
+requirement such that when you ask for a hearing in a 
+
+State court on a general matter, "I would like to show 
+
+through a hearing," then he gives a whole lot of 
+
+affidavits of the kind of thing he's going to produce, 
+
+that then the State says "no," you go into Federal court 
+
+and say "I'm roughly going to do the same thing, I have 
+
+a few extra witnesses, some of the people say some extra 
+
+things," no, you can't do that? 
+
+21
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. CATTANI: Well, there is a requirement 
+
+in State court that you plead with specificity what type 
+
+of claims you're raising in a post-conviction --
+
+JUSTICE BREYER: Didn't he say my claim is 
+
+ineffective assistance?
+
+ MR. CATTANI: Ineffective assistance --
+
+JUSTICE BREYER: Yeah. Because he didn't 
+
+investigate to discover the horrendous circumstances in 
+
+which I was raised, and had he done it, he would have 
+
+found roughly this kind of thing, and I would like to 
+
+show that he should have done that because it would have 
+
+changed the result?
+
+ MR. CATTANI: Well, his argument at 
+
+State court was not that he didn't investigate that; his 
+
+argument in the post-conviction proceeding was he could 
+
+have presented that through some other witnesses. 
+
+The -- his argument at the trial -- at the 
+
+post-conviction --
+
+CHIEF JUSTICE ROBERTS: That's not what I 
+
+understood his argument that he wants to raise to be. 
+
+In his affidavit, it is a different argument. It is the 
+
+biological component of violence. "Look, my grandfather 
+
+was convicted, my father was convicted," and so the 
+
+mitigating evidence he wants to present at sentencing 
+
+that is I'm biologically predetermined to commit crimes. 
+
+22
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: The criminal gene argument.
+
+ CHIEF JUSTICE ROBERTS: That -- which is 
+
+certainly an ambiguous argument to present in mitigation 
+
+at a sentencing hearing.
+
+ MR. CATTANI: Certainly. And that is, that 
+
+is the main point I'm trying to make is that that was 
+
+the only thing he was asserting in his post-conviction 
+
+proceeding, was that "I would have liked have raised 
+
+this argument that I'm generically predisposed to 
+
+violence." The rest of the argument I think would have 
+
+been frivolous because it was so obvious that he had 
+
+restricted, he had limited his counsel's, restricted his 
+
+counsel from presenting the very type of evidence that 
+
+we're talking about now, this other type of evidence.
+
+ JUSTICE SCALIA: I thought all that evidence 
+
+was basically before the district court anyway. Didn't 
+
+the district court know about all of that when it made 
+
+its ruling?
+
+ MR. CATTANI: Yes, Your Honor and the trial 
+
+court knew about it when it made its ruling.
+
+ JUSTICE SOUTER: Well, the district court 
+
+had a proffer, but the district court but had not heard 
+
+witnesses, it had not heard evidence.
+
+ MR. CATTANI: But, but the focus here is on 
+
+the reasonableness of the State court's factual finding. 
+
+23
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOUTER: Sure, but the 
+
+reasonableness of factual findings depends on what the 
+
+evidence is that can go in on the issue of 
+
+reasonableness. And there's a universe of difference 
+
+between a proffer of evidence which the district court 
+
+says "well, I'll assume that," on the one hand, and on 
+
+the other hand, the actual presentation of witnesses 
+
+perhaps including Landrigan himself, which the court 
+
+actually hears.
+
+ You know, you, sometimes you get a lot more 
+
+impressed by real evidence than by assumptions you make 
+
+for the sake of argument. And that seems to me a world 
+
+of difference.
+
+ MR. CATTANI: I don't necessarily disagree 
+
+except that we're -- the focus has to be on what the 
+
+claim was that was raised in the State post-conviction 
+
+proceeding; and --
+
+JUSTICE SOUTER: The only thing, but the --
+
+the -- I guess on that point, my only, my only reason 
+
+for raising this with you is on that point, it's not 
+
+enough to say well, the district court assumed this. Or 
+
+for that matter, the State trial court assumed this.
+
+ That is not the same thing as putting in the 
+
+evidence.
+
+ MR. CATTANI: Except in this case we 
+
+24
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+certainly had the trial court that presided over the 
+
+sentencing and had seen Landrigan in person and was 
+
+uniquely qualified to make a credibility assessment 
+
+regarding the points that Landrigan made in his 
+
+affidavit, that "I would have allowed presentation of 
+
+genetic predisposition."
+
+ JUSTICE STEVENS: May I ask what might be an 
+
+awfully elementary and stupid question? But -- it seems 
+
+to me that there's no question about the facts of what 
+
+he said. And you can interpret him saying I don't want 
+
+any mitigating evidence put it. But isn't it clear that 
+
+the waiver of the right to put in any mitigating 
+
+evidence at a capital sentencing hearing is a 
+
+constitutional right of very important dimensions?
+
+ And can that right be waived if the record 
+
+does not show whether or not he knew the full right 
+
+of -- that is available to every defendant in a capital 
+
+case? Namely, he had been advised by his counsel he 
+
+could put in all sorts of stuff. Is there anything to 
+
+show that there was that kind of waiver here, on the 
+
+face of the record?
+
+ MR. CATTANI: There, there's not a specific 
+
+colloquy that goes through --
+
+JUSTICE STEVENS: Then it is, as a matter of 
+
+law, an ineffective waiver. Isn't the Ninth Circuit 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+dead right, not factually, but just as a matter of law, 
+
+that you cannot waive this right unless the record shows 
+
+that he's fully advised of the scope of the right that 
+
+he's waiving.
+
+ MR. CATTANI: Well, first, there's no 
+
+authority that I'm aware of that would require any type 
+
+of a specific colloquy. I think this record --
+
+JUSTICE SCALIA: It's new to me also. I 
+
+never heard of it.
+
+ MR. CATTANI: And I think that would be --
+
+JUSTICE STEVENS: But why should it be, why 
+
+should there be a less complete colloquy for this kind 
+
+of waiver than a guilty plea itself? Now I admit 
+
+there's no authority on the point. But isn't it 
+
+absolutely obvious?
+
+ MR. CATTANI: Well, I think the reason 
+
+there's no need for one is because a defendant can come 
+
+in and if he really believes that his waiver was not 
+
+knowing and voluntary, he has an opportunity to pursue 
+
+that type of claim in a post-conviction proceeding. And 
+
+he can come in and proffer whatever evidence he wants to 
+
+proffer if, in fact, that's his claim, that he didn't 
+
+understand --
+
+JUSTICE SCALIA: Some kind of waivers, like 
+
+waiver to the right to counsel, we do indeed require a 
+
+26 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+colloquy, because a defendant is not likely to know what 
+
+consequences of foregoing counsel are. So the judge 
+
+discusses with him and, you know, points out what a --
+
+what a significant decision that is. But it doesn't 
+
+take a whole lot of smarts to answer yes or no to the 
+
+question, you know, "do you agree that your counsel 
+
+should not introduce any mitigating evidence?" I mean, 
+
+it's clear on, on its face.
+
+ MR. CATTANI: I would agree, Your Honor. 
+
+And I think --
+
+JUSTICE KENNEDY: But doesn't that assume 
+
+that the defendant know what mitigating evidence is? I 
+
+mean, this defendant, I suppose wants to show, "I 
+
+thought mitigating evidence was just going to be what 
+
+the, these two relatives were going to testify to. 
+
+There was really much more, if my counsel had 
+
+investigated." And that's not a knowing waiver.
+
+ MR. CATTANI: I think that type of argument 
+
+was belied by what, what happened at the time of 
+
+sentencing.
+
+ JUSTICE SCALIA: Well, unless the argument 
+
+is, and maybe this is what the other side its going to 
+
+argue, that -- that when you make waiver of all 
+
+mitigating evidence, knowing as any person knows who's 
+
+reached that far in the criminal process what mitigating 
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+evidence is, you must know, in fact, all of the elements 
+
+of mitigation that could have been introduced. Which 
+
+will almost never be the case. So that it's always 
+
+possible after waiving the right to introduce mitigating 
+
+evidence to come into the court a year later and say, 
+
+"Oh, my goodness, here's the sort of mitigating evidence 
+
+I didn't know about at the time.  My grandfather was a 
+
+criminal. I didn't realize that at the time. And now I 
+
+want" -- you know -- "therefore my waiver was 
+
+uninformed" and, you know, we go back to square one and 
+
+try the case again.
+
+ That would always be possible, wouldn't it?
+
+ MR. CATTANI: Well, I agree, Your Honor. 
+
+And it's because the nature of mitigation is so open 
+
+ended, it would be difficult to explain precisely and 
+
+have a waiver of every conceivable item of mitigation.
+
+ JUSTICE SOUTER: And so are you, are you in 
+
+effect then saying that the waiver does not need to be a 
+
+knowing waiver in the sense that it needs to be based 
+
+upon an appreciation of all the possible mitigation 
+
+evidence that in this case might come in? Are you 
+
+saying it need not be knowing in that sense?
+
+ MR. CATTANI: I think a defendant needs to 
+
+understand the nature -- the basic nature and concept of 
+
+mitigation. But this case provides a good example --
+
+28 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOUTER: Well, you're not answering 
+
+my question. I -- we all agree that he needs to 
+
+understand the basic concept of mitigation. Does his 
+
+waiver have to be a knowing one in the sense that I just 
+
+described? Or doesn't it? What's your position?
+
+ MR. CATTANI: It does have to -- it does not 
+
+have to be knowing as to every conceivable aspect of 
+
+mitigation.
+
+ JUSTICE SOUTER: And it will nonetheless 
+
+kind him if he comes in later and says look, I accept 
+
+the fact that it's my burden to show at this point that 
+
+my waiver was not a knowing one, and that there us 
+
+mitigating evidence that I would have let in?
+
+ Are you saying that he simply as a matter of 
+
+law cannot say that? Or cannot be heard to say that?
+
+ MR. CATTANI: He is bound by that, Your 
+
+Honor. And if I could --
+
+JUSTICE SOUTER: So -- so the answer to my 
+
+question is yes?
+
+ MR. CATTANI: Yes.
+
+ JUSTICE SOUTER: As a matter of law, he 
+
+cannot do what he is trying to do here?
+
+ MR. CATTANI: Yes.
+
+ JUSTICE SOUTER: Okay.
+
+ MR. CATTANI: And Your Honor, l think here 
+
+29
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+we have a situation where the defendant is now trying to 
+
+proffer evidence that is inconsistent with what counsel 
+
+was trying to present at the time of sentencing.
+
+ JUSTICE GINSBURG: But you are -- what you 
+
+are saying is that it was sufficient when he said, I 
+
+don't want my lawyer to introduce mitigating evidence, 
+
+and the trial court said, do you know what that means, 
+
+and he said yes?
+
+ MR. CATTANI: Yes.
+
+ JUSTICE GINSBURG: That doesn't have to be 
+
+fleshed out at all, unlike a Rule 11 colloquy. To see 
+
+if he really understands? Do you know what that means, 
+
+and he yes and that's the end of it?
+
+ MR. CATTANI: I think that is sufficient, 
+
+Your Honor. And again, here he's now raising this claim 
+
+of genetic predisposition. The sentencing memorandum 
+
+that counsel submitted attempted to pore Landrigan as 
+
+someone who is basically a good person who committed 
+
+this crime because he was under the influence of alcohol 
+
+and drugs. This new type of evidence -- and the 
+
+sentencing memorandum -- and you'll see that Landrigan 
+
+had been evaluated by an expert, who had said he didn't 
+
+have any mental deficiencies.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Mr. Verrilli. 
+
+30 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+ORAL ARGUMENT OF DONALD B. VERRILLI, JR.
+
+ ON BEHALF OF THE RESPONDENT
+
+ MR. VERRILLI: Thank you, Mr. Chief Justice, 
+
+and may it please the Court:
+
+ I'd like to begin by clearing up what 
+
+exactly we did and didn't argue with respect to waiver 
+
+and what exactly is and isn't before this Court on that 
+
+set of issues in our judgment. I then would like to 
+
+spend a couple of minutes on what I think the Ninth 
+
+Circuit did and what effect that would have on this 
+
+Court's disposition of the case. And if there's any 
+
+time remaining. I'd like to turn to the question of 
+
+whether we have asserted colorable claims that warrant 
+
+an evidentiary hearing here, which is all that we're 
+
+asking for.
+
+ Now, with respect to this question of 
+
+whether we pursued or didn't pursue waiver, I'm afraid 
+
+counsel for the State is just wrong about this. It's 
+
+important to understand how this comes up. We asserted 
+
+a claim for ineffective assistance of counsel, deficient 
+
+performance and prejudice. The State asserted as a 
+
+defense to that claim: No, no, he's waived.
+
+ And the trial judge, the State habeas judge 
+
+in the State court conviction ruling, agreed with that 
+
+and said, well, yes, he's waived. We then filed a 
+
+31
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+petition for rehearing in which we said, no, you can't 
+
+rely on that defense because it's got to be a knowing 
+
+and intelligent waiver under Johnson against Zerbst. 
+
+That's at page 92 of the joint appendix.
+
+ That motion for rehearing was denied without 
+
+any further comment. We then took a petition to review 
+
+to the Arizona Supreme Court. That's also in the joint 
+
+appendix and I believe the page cite is 101 and 102, in 
+
+which we specifically argued that you can't look to this 
+
+so-called waiver as a defense to our claim of 
+
+ineffective assistance because it wasn't knowingly and 
+
+intent.
+
+ Now, in the State's response to our 
+
+petition, which unfortunately is not in the joint 
+
+appendix but is in the record, the State says: No, this 
+
+waiver is binding and, furthermore, you're procedurally 
+
+defaulted because this procedure was decided on direct 
+
+review. But the one thing the State does not say is 
+
+that you raised this Johnson against Zerbst issue too 
+
+late, it can't be considered.
+
+ We then went to --
+
+JUSTICE SCALIA: Excuse me. I'm looking at 
+
+page 92 of the joint appendix. I don't, I don't see 
+
+that.
+
+ MR. VERRILLI: I may have the wrong page. 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: Well, that's rather 
+
+important, don't you think?
+
+ MR. VERRILLI: I'm sorry. I will find it 
+
+for Your Honor.
+
+ I'm sorry for the delay here. The motion 
+
+for rehearing is, I'm sorry, 99, and on 102 is where we 
+
+raise it, and then subsequently -- then subsequently we 
+
+raise it --
+
+JUSTICE SCALIA: Is that effective? Does 
+
+the court have to entertain a motion for rehearing?
+
+ MR. VERRILLI: Well, it doesn't have to, 
+
+but, Your Honor --
+
+JUSTICE SCALIA: Isn't it your obligation to 
+
+raise it in your original motion rather than in a motion 
+
+for rehearing?
+
+ MR. VERRILLI: Well, there's no -- but the 
+
+point is that's not -- when we took this to the Arizona 
+
+Supreme Court that's not an argument that the State made 
+
+in opposition to our raising Johnson against Zerbst. 
+
+Then when we got to the Federal district court we raised 
+
+this again, this exact argument in Federal district 
+
+court, and the State in Federal district court didn't 
+
+object that we had failed to raise this appropriately in 
+
+the State proceedings.
+
+ We took it to the Ninth Circuit. They 
+
+33
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+didn't raise the objection that we failed to raise it 
+
+appropriately in the State proceedings. The first time 
+
+that question has even been raised here is in the reply 
+
+brief on the merits in this Court.
+
+ And I think that's tied to the next point I 
+
+want to make, which is significant, which is as the case 
+
+comes to this Court the Ninth Circuit has ruled that we 
+
+have met the requirements of 2254(e)(2) and are 
+
+therefore entitled to an evidentiary hearing.
+
+ Now, what the State is essentially saying 
+
+is, well, no, you really aren't entitled to an 
+
+evidentiary hearing on this set of issues because you 
+
+didn't raise them adequately in the State court.
+
+ CHIEF JUSTICE ROBERTS: And is it just an 
+
+evidentiary hearing on his biological pre determination 
+
+to commit violent crime or an evidentiary hearing on the 
+
+waiver question?
+
+ MR. VERRILLI: On both, Your Honor.
+
+ CHIEF JUSTICE ROBERTS: Well, why did -- the 
+
+court on page A-17 ruled that there was no waiver. So 
+
+why would they then send it back for an evidentiary 
+
+hearing on waiver?
+
+ MR. VERRILLI: Let me move to that if I 
+
+could, because I do think that's significant. I think 
+
+the Court has elucidated the two potential readings of 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the Ninth Circuit's decision. It seemed to us as we 
+
+prepared this case on the merits that the reality is 
+
+that the two, the issue of performance and the issue of 
+
+waiver, are tied together, because if it comes out after 
+
+a hearing that counsel did perform an effective job, a 
+
+diligent job of performing the investigation, and did 
+
+instruct the client as to what the mitigation evidence 
+
+was, then you view the waiver in a different light than 
+
+of course you would if the counsel hadn't. So we 
+
+acknowledge here that the proper disposition of this 
+
+case ought to be a remand for an evidentiary hearing.
+
+ JUSTICE SCALIA: But that wasn't your 
+
+assertion even in this motion for a hearing. It wasn't 
+
+that he didn't know what he was giving up. It was 
+
+rather the sentencing transcript, you say, "does not 
+
+establish that Petitioner knowingly, voluntarily, and 
+
+intelligently waived his right to present mitigating 
+
+evidence. Rather, it shows that Petitioner gave up that 
+
+right without thought, in the heat of anger, and in 
+
+frustration with his attorney during that particular 
+
+proceeding."
+
+ MR. VERRILLI: We're trying to establish 
+
+there, Your Honor --
+
+JUSTICE SCALIA: But that was a factual 
+
+matter best, best disposed of by the judge who was 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+present at the time. And he didn't think it was in the 
+
+heat of anger. He did think that it was a valid waiver. 
+
+Now, you're raising a totally different issue. You're 
+
+saying, oh, he can't waive validly without knowing all 
+
+the elements of mitigation that the waiver might 
+
+embrace. That wasn't the argument you were making here.
+
+ MR. VERRILLI: Your Honor, I want to respond 
+
+directly to Your Honor's question, if you'll just permit 
+
+me one more thought about the Ninth Circuit and I'll 
+
+turn right back to that.
+
+ JUSTICE SCALIA: Okay.
+
+ MR. VERRILLI: So in other words, we are 
+
+making a more modest request for relief here which, is 
+
+affirmance of the judgment sending back for an 
+
+evidentiary hearing, but with a recognition that the 
+
+evidentiary hearing ought to deal with the issue of 
+
+waiver, which should be understood to be left open. I 
+
+think we're conceding something here, that waiver ought 
+
+to be left open and not definitively resolved. It's 
+
+premature to definitively resolve that against the State 
+
+without an inquiry.
+
+ Now, turning to Your Honor's point, the --
+
+with respect to whether there was a waiver here or not 
+
+and what the State judge did or didn't do, something 
+
+very significant here that I think the State's argument 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+just overlooks. There's an assumption in the State's 
+
+argument that Landrigan's conduct at the sentencing 
+
+hearing itself was a waiver and considered to be a 
+
+waiver. But if one looks at the transcript of that 
+
+hearing, and this is D to the appendix to the petition 
+
+and beginning at page D-4 -- D-3 is where the colloquy 
+
+occurs where this alleged waiver happened. The very 
+
+next thing that occurs, the very next thing that occurs, 
+
+is the trial judge says: Okay, I want to hear from the 
+
+mitigation witnesses.
+
+ Then the mitigation witnesses say: Well, 
+
+we're not going to testify. Then the very next thing 
+
+that occurs is the trial judge says: Well, I want a 
+
+proffer of what they would have said. Then when -- then 
+
+when all that's said and done, the trial judge says to 
+
+the lawyer -- - and this is at D-15 -- you got anything 
+
+else, and the lawyer says, no, Your Honor, that's all 
+
+I've got, all I've got is what's in the sentencing memo 
+
+and these two witnesses. Then the judge proceeds to 
+
+pass sentence. That's the -- the particularly important 
+
+pages are D-20 and 21, and on those pages you will see 
+
+that what the judge does is not treat Mr. Landrigan's 
+
+statements as a waiver, because if she had treated those 
+
+statements as a waiver what she would have said is, 
+
+well, here's the aggravation case, Mr. Landrigan has 
+
+37 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+waived mitigation, he has a right to do that.
+
+ JUSTICE SCALIA: This is belt and 
+
+suspenders, that's all. The -- I don't think any judge 
+
+likes to decide a case just on the basis of waiver. 
+
+This judge is saying he waived it and even if he hadn't 
+
+waived it there's nothing there --
+
+MR. VERRILLI: I respectfully --
+
+JUSTICE SCALIA: -- because he wasn't 
+
+bringing in at this point the biological -- by the way, 
+
+biological proclivity to violence is a mitigating factor 
+
+rather than an aggravating factor?
+
+ MR. VERRILLI: Let me address your second 
+
+question first and then your first question.
+
+ I think that that in two senses does not 
+
+accurately represent what this mitigation case presented 
+
+to the State court and presented to the Federal court is 
+
+all about. With respect even to his affidavit, which I 
+
+don't think fairly under Arizona procedure can define 
+
+the full scope of his claim, but with respect to that 
+
+affidavit alone, what it says is not genetic 
+
+predisposition. It says the "biological component of 
+
+violence." That's the language that Mr. Landrigan's 
+
+affidavit uses.
+
+ CHIEF JUSTICE ROBERTS: Well, but the prior 
+
+paragraph says it's because of the history of his 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+biological grandfather, biological brother, and 
+
+biological child. That suggests to me it's a genetic 
+
+claim and --
+
+MR. VERRILLI: But one other thing it does 
+
+that's very significant, Mr. Chief Justice, is it also 
+
+says that these witnesses can attest to the use of 
+
+alcohol and drugs by the biological mother when 
+
+Landrigan was in utero.
+
+ CHIEF JUSTICE ROBERTS: Well, but he knew 
+
+about that. He knew about that mitigating evidence at 
+
+the trial because his biological mother was there.
+
+ MR. VERRILLI: Yes, but what he's saying 
+
+that he would have agreed to, it seems to me the only 
+
+fair reading in this affidavit, which again I don't 
+
+think fairly defines the full scope of what he's allowed 
+
+to proceed with under Arizona procedure, but with 
+
+respect to this affidavit he's saying, well, if you had 
+
+had an expert who could have come in and given testimony 
+
+about fetal alcohol syndrome and the organic brain 
+
+damage and other impairments that it causes, I would 
+
+have cooperated with that. And that's really 
+
+significant because if you look at page D-21 of the 
+
+appendix to the petition --
+
+CHIEF JUSTICE ROBERTS: How could that be 
+
+helpful to him if he doesn't allow his biological mother 
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to testify about drug and alcohol abuse? What use would 
+
+the expert be if the potential predicate --
+
+MR. VERRILLI: Because all the biological 
+
+mother would have had to do was to give that information 
+
+to the expert. That's a routine matter, for experts to 
+
+gather factual information and assimilate it into an 
+
+expert opinion and then provide it to the court. That 
+
+could have happened easily here.
+
+ And I think it's very significant because on 
+
+page 21 you'll see that the trial judge makes a 
+
+fundamental error about this exact issue. She says: 
+
+Well, I'll grant this, I'll take the mother's testimony 
+
+as a proffer. I'll consider the possibility of fetal 
+
+alcohol syndrome, but all fetal alcohol syndrome 
+
+establishes is that the kid will also have a 
+
+predisposition to addiction.
+
+ CHIEF JUSTICE ROBERTS: The defendant would 
+
+have been happy to have his biological mother talk with 
+
+the expert, but was unwilling to have his biological 
+
+mother say the same thing in court?
+
+ MR. VERRILLI: Sure, and I don't think 
+
+there's anything unreasonable about that. Those are 
+
+very different experiences, but --
+
+JUSTICE SCALIA: I don't understand. It 
+
+seems unreasonable to me. He was trying to spare his 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+mother, what, the nervousness of testifying in court? 
+
+That's what he had in mind?
+
+ MR. VERRILLI: If I -- whatever else 
+
+happened, the trial judge here considered this evidence 
+
+of mitigation and did a weighing. And the key point I 
+
+want to make sure I make here is that therefore any 
+
+evidence that this lawyer had prepared, an expert on 
+
+fetal alcohol syndrome most prominently and any other 
+
+evidence, the trial lawyer could have proffered at the 
+
+time and had considered at the time and had weighed at 
+
+the time by this trial judge. And that's a claim of 
+
+prejudice, it seems to me, that even if one grants, even 
+
+if one assumes -- and we dispute it and I'd like too 
+
+talk about that -- but even if one assumes that there is 
+
+a finding and we can't do anything about it that 
+
+Landrigan would not have cooperated in the presentation 
+
+of any --
+
+CHIEF JUSTICE ROBERTS: Counsel, do you 
+
+think it's possible to have a valid waiver of the 
+
+presentation of mitigating evidence or is it always 
+
+possible that some additional evidence would come up and 
+
+you say, what if I had known that, I wouldn't have 
+
+waived it?
+
+ MR. VERRILLI: I don't think there's a yes 
+
+or no answer to that question. It's something --
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: You can't give a yes 
+
+answer to whether it's ever possible.
+
+ MR. VERRILLI: Yes. Yes, it's possible. 
+
+It's certainly possible.
+
+ CHIEF JUSTICE ROBERTS: Okay.
+
+ MR. VERRILLI: But I think I don't -- I want 
+
+to make sure I don't leave any implication that the rule 
+
+we're asking for here is going to open the door to lots 
+
+of claims, because I don't think it does for two sets of 
+
+reasons. One is a procedural set of reasons and that's 
+
+the -- that, we refer the Court to the Blackledge 
+
+against Allison decision -- that if -- that it's not 
+
+going to be enough in every case for you to plead an 
+
+adequate claim and then jump right to an evidentiary 
+
+hearing. As the court said in Allison, the district 
+
+court has available to it a number of tools that it can 
+
+use to test the claim before granting an evidentiary 
+
+hearing. So there's a limitation there. Now --
+
+JUSTICE GINSBURG: Could you do it 
+
+concretely, Mr. Verrilli, for this case. The defendant 
+
+is being rather obstreperous and says: I don't want any 
+
+mitigating evidence; I'm a really bad guy. And that's 
+
+how he's trying to portray himself. What -- you said, 
+
+and you allow for the possibility that there could be a 
+
+knowing waiver of mitigation. What would have had to 
+
+42
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+transpire in this case to make it a knowing waiver?
+
+ MR. VERRILLI: I think that's important, and 
+
+hopefully it will help explain why we think that this is 
+
+a narrow -- that the rule we're asking for here is a 
+
+narrow one, and it's not going to open the door to lots 
+
+of claims. It's clear that just like the waiver of any 
+
+other fundamental constitutional right to a fair trial, 
+
+the defendant's got to understand what mitigation means. 
+
+He's got to understand its significance in the 
+
+proceedings --
+
+CHIEF JUSTICE ROBERTS: Well, he certainly 
+
+understood that. He said if you want to give me the 
+
+death penalty, bring it on, I'm ready for it. The 
+
+purpose of mitigating evidence is to prevent the 
+
+imposition of the death penalty. He says bring it on.
+
+ MR. VERRILLI: And he needs to be assisted 
+
+by competent counsel. That's a consistent theme of this 
+
+Court's decisions on the Johnson inquiry. And so if you 
+
+have a situation in which you have documented that the 
+
+client understands what mitigation is -- and frankly I 
+
+don't think, with all due respect, Mr. Chief Justice, 
+
+this is the kind of documentation that ought to suffice. 
+
+But even if you had that, even if you documented that 
+
+the defendant understood it, even if you documented that 
+
+the defendant clearly waived it and documented that was 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+done with counsel's assistance, then it seems to me it 
+
+is going to be very hard for a habeas petitioner to 
+
+plead something that's going to get past --
+
+CHIEF JUSTICE ROBERTS: Why isn't the type 
+
+of documentation that would be sufficient? He 
+
+understands what the consequence of not putting 
+
+mitigating evidence on is going to be.
+
+ MR. VERRILLI: Well, because I think there 
+
+isn't clarity at all that he understands what mitigating 
+
+evidence is, what the full scope of it is and how it 
+
+could --
+
+THE COURT: He's present in the court while 
+
+they're making a proffer of this sort of mitigating 
+
+evidence. The judge is quite careful, saying okay, if 
+
+he doesn't want the evidence, I want to know what it is. 
+
+And he called the two witnesses. And all that this 
+
+defendant does is undermine his lawyer's effort to 
+
+present the mitigation.
+
+ MR. VERRILLI: But again, Mr. Chief Justice, 
+
+at the time the trial judge didn't treat that as a 
+
+waiver. And so I don't think you can cut off his 
+
+ability to litigate an ineffective assistance claim 
+
+years later on the ground that it was an ineffective 
+
+waiver.
+
+ JUSTICE ALITO: Well, are you claiming that 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+-- are you claiming that his attorney did not adequately 
+
+represent him at the sentencing hearing with respect to 
+
+the question of waiver? In other words, when -- that 
+
+the attorney should have insisted that the judge go 
+
+through some kind of more comprehensive colloquy with 
+
+him about waiver and inform him of certain things about 
+
+what he was giving up? Are you making that claim?
+
+ MR. VERRILLI: I think, Justice Alito, we're 
+
+making a couple of different claims, not that claim, but 
+
+a couple of different claims. One is, and it pertains 
+
+particularly to a mental health expert, that even if 
+
+Landrigan behaved exactly the way -- at 13 -- he in fact 
+
+behaved in the counterfactual world in which he had 
+
+received adequate representation, that the mental health 
+
+expert testimony could have been proffered to the Court, 
+
+had it been prepared and developed, would have been 
+
+considered, and could have made a critically important 
+
+difference and for precisely the reason that 
+
+Justice Ginsburg's question suggested, which is that 
+
+he's obviously behaving badly in this situation.
+
+ What the trial court ruled out of that is, 
+
+well, he's an amoral person. What the mental health 
+
+testimony would give you is an alternative frame of 
+
+reference for making a reasoned moral judgment about 
+
+this guy, and could be critically important in 
+
+45 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+explaining that behavior. So even within the confines 
+
+of accepting that the world would have unfolded exactly 
+
+the way it did, it was ineffective to have dropped the 
+
+ball on preparing that kind of evidence.
+
+ Then it's also ineffective in --
+
+JUSTICE SCALIA: Excuse me. I'm not 
+
+following you. You mean the mental health expert's 
+
+testimony could have gone to whether the judge should 
+
+have accepted the waiver?
+
+ MR. VERRILLI: No.
+
+ JUSTICE SCALIA: I thought that's what you 
+
+were saying, I'm sorry.
+
+ MR. VERRILLI: No, to the basic weighing the 
+
+mitigation which the judge undertook based on all 
+
+proffered evidence. Then beyond that, we're making an 
+
+argument that the waiver that, even if you are going to 
+
+consider that a waiver, you can't consider it a knowing 
+
+and voluntary waiver, knowing intelligent waiver 
+
+supported adequately by the efforts of counsel.
+
+ JUSTICE ALITO: Isn't that a separate 
+
+question, whether it's a knowing and intelligent waiver? 
+
+Isn't the question here whether he was prejudiced, which 
+
+is a question of fact, which is a question of whether 
+
+had he been informed of the possibility of mitigation 
+
+evidence relating to a history of family violence, he 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+would have persisted in blocking the admission of any 
+
+mitigation evidence? Isn't that the issue? Not whether 
+
+it was knowing and intelligent. That would be a 
+
+separate legal question.
+
+ MR. VERRILLI: No. I don't think that's the 
+
+issue. With all due respect, Justice Alito, I think the 
+
+test under Strickland is whether there was sufficient 
+
+performance, which we think we have a very powerful 
+
+record of here, and then a reasonable probability that 
+
+the outcome would have been different. And I think the 
+
+inquiry here that the State habeas judge is undertaking 
+
+is the reasonable probability inquiry. That seems to me 
+
+to be a mixed question that requires --
+
+JUSTICE ALITO: Yes, it's a mixed question. 
+
+But if the post-conviction relief court found as a 
+
+matter of fact that even had he known about the 
+
+possibility of this type of mitigation evidence, he 
+
+would have persisted in refusing to cooperate -- if 
+
+there was such a finding, and know you dispute it -- and 
+
+if you were granted a hearing, is it not true you would 
+
+have to disprove that by clear and convincing evidence?
+
+ MR. VERRILLI: Well, taking our first 
+
+argument to the side, our first argument which I've been 
+
+discussing about what happened at the hearing, I think 
+
+with respect to that argument the answer's no, that 
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+argument stands without any need to disprove the factual 
+
+finding, if you assume it is a factual finding, and we 
+
+don't concede that.
+
+ But if it is a factual finding, then yes, we 
+
+would have to disprove it by clear and convincing 
+
+evidence, but we think we can do that, and all we're 
+
+asking for is a hearing to enable us the opportunity.
+
+ JUSTICE BREYER: What is the standard? I 
+
+ask that because I'm not certain from what I heard 
+
+previously -- I think the State was saying that the only 
+
+issue that was raised before the State proceeding, 
+
+collateral, the State collateral post-sentencing 
+
+proceeding, was that you wanted to present evidence that 
+
+he had a biological gene, it's a faulty gene, something 
+
+like that.
+
+ When I've looked at this, it's on page 88, 
+
+the motion filed says we have two claims. One claim is 
+
+the claim that was just mentioned, it says that -- about 
+
+it's from the biological mother, and use of drugs and 
+
+alcohol.
+
+ JUSTICE SCALIA: Where are you quoting from? 
+
+I'm sorry.
+
+ JUSTICE BREYER: Joint appendix A. And then 
+
+there's a second one on page 88 that says in addition to 
+
+failing to investigate these alternative sources, we 
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+also want to say that counsel failed to explore 
+
+additional grounds, and that was the sister. And the 
+
+sister was going to testify that the mother -- the 
+
+foster mother, Mrs. Landrigan, abused alcohol, and she 
+
+has a whole list of things in her affidavit.
+
+ So is that still before us? I mean, isn't 
+
+that something you want to argue?
+
+ MR. VERRILLI: Absolutely.
+
+ JUSTICE BREYER: All right.
+
+ MR. VERRILLI: Thank you, Your Honor, for 
+
+bringing us back to that question.
+
+ JUSTICE BREYER: And then the claim would be 
+
+this: You want a hearing in which you're going to 
+
+present the sister, the Landrigans, what they did , what 
+
+the school says, what happened to him at school, all 
+
+things that are there in Affidavit 5 which was in the 
+
+State court, and that the biological gene. And you want 
+
+to say, am I right, I don't want to put words in your 
+
+mouth, and you want to say that given all this, had this 
+
+been looked into and presented to the defendant, the 
+
+defendant would not have said don't present any of that, 
+
+it would have been presented, and it would have made a 
+
+difference.
+
+ What -- is that what you want to do?
+
+ MR. VERRILLI: Yes. 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: All right.
+
+ MR. VERRILLI: With one addition, which is 
+
+this one, fetal alcohol syndrome expert testimony is 
+
+very important.
+
+ JUSTICE BREYER: All right, with that too.
+
+ MR. VERRILLI: Yes.
+
+ JUSTICE BREYER: Now, what the Ninth Circuit 
+
+said is, we'll give you a hearing. We don't know if 
+
+you're right or wrong. What's the standard for giving 
+
+you the hearing? I -- a lot of things in the law aren't 
+
+always written down exactly, and I was under the 
+
+impression that trial judges often give hearings on what 
+
+you might call seat of the pants. I'd like to hear more 
+
+about it. I've been on appellate courts where rightly 
+
+or wrongly we've said, I just think I'd like to know 
+
+more about this. I can't quite understand it. Let's 
+
+have a hearing. And we're going to tell the trial judge 
+
+to do it.
+
+ JUSTICE SCALIA: Mr. Verrilli, I thought you 
+
+already conceded that the Ninth Circuit did not ask for 
+
+a hearing on this question of whether he had waived, 
+
+effectively waived mitigating evidence.
+
+ MR. VERRILLI: No.
+
+ JUSTICE SCALIA: That isn't what the Ninth 
+
+Circuit said. 
+
+50
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. VERRILLI: Well, but --
+
+JUSTICE SCALIA: It found that he had not 
+
+waived mitigating evidence. So what --
+
+JUSTICE BREYER: I'm not actually talking 
+
+about waiver. My question was just generally what I 
+
+asked. What is the standard there on whether you get a 
+
+hearing?
+
+ MR. VERRILLI: Justice Scalia, would you 
+
+permit me to answer that question, and I'll come back to 
+
+Your Honor's?
+
+ JUSTICE SCALIA: Whatever.
+
+ MR. VERRILLI: Thank you. The -- with 
+
+respect to the standard, there are two things that we 
+
+have to show and if we do, we're entitled to a hearing. 
+
+One is that we're not disentitled under the analysis 
+
+under Section 2254(e)(2) as explicated in the Court's 
+
+Michael Williams decision, to show that the court below 
+
+found it, it was not raised in the cert petition. We 
+
+pointed out in the brief in opposition that it wasn't 
+
+raised, it had nothing about it. That's established and 
+
+the case comes to the court.
+
+ CHIEF JUSTICE ROBERTS: What is established? 
+
+That you've satisfied (e)(2)?
+
+ MR. VERRILLI: That (e)(2) does not apply to 
+
+us proceeding to an evidentiary hearing. 
+
+51
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17 --
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: Why, because you 
+
+satisfy it or because it doesn't apply?
+
+ MR. VERRILLI: Because the -- there is no 
+
+lack of diligence here that would trigger us meeting the 
+
+heightened requirements of (e)(2), and therefore it 
+
+doesn't apply to bar us. That's the theory.
+
+ Now, with -- the other thing we have to 
+
+show --
+
+CHIEF JUSTICE ROBERTS: I'm sorry, you'll 
+
+just have to bear with me.
+
+ MR. VERRILLI: I'm sorry, Mr. Chief Justice.
+
+ CHIEF JUSTICE ROBERTS: So you're saying you 
+
+satisfy (e)(2)(A)(ii), because there's no lack of 
+
+diligence. Don't you also have to satisfy (e)(2)(B), 
+
+which is to show that no reasonable factfinder would 
+
+have found him guilty, in other words words subject to 
+
+MR. VERRILLI: No. No, Your Honor. That's 
+
+-- as we understand the Michael Williams decision 
+
+interpreting that provision, Your Honor, those 
+
+requirements only kick in in a situation where you 
+
+haven't shown diligence and therefore you're at fault, 
+
+and you can overcome your fault by meeting those 
+
+heightened standards. They don't apply in a situation 
+
+where you have been diligent and therefore you're not --
+
+52
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+they don't apply to you at all.
+
+ With respect to the -- what else -- with 
+
+respect to what else we'd have to show, we'd have to 
+
+show that -- and this is the Townsend standard, which 
+
+nothing has changed -- that we've alleged facts which, 
+
+if proven, entitle us to relief. Those are the two 
+
+things we have to show and we've done both of those 
+
+things.
+
+ JUSTICE KENNEDY: And the district court has 
+
+substantial discretion in determining whether or not to 
+
+grant that hearing on that basis.
+
+ MR. VERRILLI: And the Ninth Circuit -- and 
+
+it seems to us actually, Your Honor, under Townsend in 
+
+that situation the hearing's mandatory. The district 
+
+court would have discretion under habeas, under habeas 
+
+practice, to hold a hearing as a discretionary matter 
+
+even in a situation where we haven't shown a mandatory 
+
+entitlement to it. So there is discretion there.
+
+ JUSTICE KENNEDY: Part of that discretion 
+
+is, and you've been careful to say this, that there's a 
+
+likelihood of a different result?
+
+ MR. VERRILLI: Yes. Yes.
+
+ JUSTICE KENNEDY: So it seems to me that 
+
+that is the difficult part of your case based on this 
+
+evidence. 
+
+53 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. VERRILLI: Well, but I think -- what I 
+
+think is important there is that that issue ought to be 
+
+decided after an evidentiary hearing when you know what 
+
+it's going to be. It's premature to decide that --
+
+JUSTICE KENNEDY: Well, we know what the 
+
+fetal alcohol testimony is going to be.
+
+ MR. VERRILLI: Well, that's true.
+
+ JUSTICE KENNEDY: And we could make a 
+
+determination or the court of appeals could make a 
+
+determination or the district court could make a 
+
+determination how likely that would to be affect the 
+
+result.
+
+ MR. VERRILLI: Well, they could, but it 
+
+seems to me not until you actually hear the expert 
+
+testimony, and then we have all of the other testimony 
+
+that Justice Breyer detailed that you'd want to 
+
+consider.
+
+ I do want to try to come back, 
+
+Justice Scalia, to your point. Yes, we acknowledge that 
+
+the Ninth Circuit went too far in the way Your Honor 
+
+described. But you don't get from that conclusion to 
+
+the conclusion that you ought to grant the relief that 
+
+the State is requesting here, which is a reversal and 
+
+directing dismissal of the petition, because to get to 
+
+that you have to show that there's no set of 
+
+54
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+circumstances under which we could prevail.
+
+ We're -- our position is an intermediate 
+
+one, which is that the right answer here is that the 
+
+judgment to send it back for an evidentiary hearing was 
+
+correct and should be affirmed.
+
+ CHIEF JUSTICE ROBERTS: What do you do 
+
+with -- following up on Justice Kennedy's question, the 
+
+dissent took the position in the Ninth Circuit that the 
+
+mitigating value of any proven, quoting A-24, "genetic 
+
+predisposition to violence would not have outweighed its 
+
+aggravating tendency to suggest that Landrigan was 
+
+undeterable and even from prison would present a future 
+
+danger"?
+
+ MR. VERRILLI: I think the answer is that 
+
+that is an inappropriately truncated assessment of the 
+
+mitigation case and a wrongly focused assessment of the 
+
+mitigation case, which ought to Focus on the troubled 
+
+history and the fetal alcohol syndrome, which provide a 
+
+medical mental health explanation for his conduct which 
+
+is quite different and that -- and so that's what ought 
+
+to be balanced.
+
+ CHIEF JUSTICE ROBERTS: That was presented 
+
+in the State court proceedings.
+
+ MR. VERRILLI: That's not correct, Your 
+
+Honor. 
+
+55 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: The biological 
+
+mother's abuse of alcohol and drugs.
+
+ MR. VERRILLI: The fact that she used 
+
+abusive -- that she abused alcohol, but not the medical 
+
+expert testimony explaining what effects that would 
+
+have. That's precisely the thing that wasn't there and 
+
+that was the big problem.
+
+ So I do think that that -- that's why we 
+
+need an evidentiary hearing, to develop that. This 
+
+weighing, by the way --
+
+CHIEF JUSTICE ROBERTS: So you think the 
+
+State trial court had no familiarity with fetal alcohol 
+
+syndrome?
+
+ MR. VERRILLI: Well, if you look at page 
+
+D-21, Mr. Chief Justice, what you'll see is actually 
+
+proof in the transcript that she had no familiarity, 
+
+because she said on page D-21 all it does is predispose 
+
+you to being an addict yourself. But fetal alcohol 
+
+syndrome is a much, much broader set of impairments that 
+
+can bear directly on one's, one's moral culpability.
+
+ If I could just say --
+
+JUSTICE KENNEDY: I have just one other 
+
+question on a different matter. In Judge Bias's 
+
+dissent, Judge Bay's dissent, he quotes a letter from 
+
+the Petitioner, the Petitioner does not want to proceed 
+
+56
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+with this appeal and wants the execution scheduled. Can 
+
+you comment on that?
+
+ MR. VERRILLI: Sure. What there was that 
+
+the Ninth Circuit, upon receiving this letter, contacted 
+
+counsel for Mr. Landrigan, asked him -- asked them to go 
+
+visit him in prison and find out what's going on. They 
+
+did so. They reported back to the Ninth Circuit that 
+
+Mr. Landrigan did in fact want to proceed with the 
+
+appeals. He has continued to want to proceed with the 
+
+appeals, signing the IFP papers, et cetera, and it turns 
+
+out there were neurological problems that were 
+
+afflicting him, very serious, at the time. So that's 
+
+what happened.
+
+ If I could say in conclusion, just remind 
+
+the Court what it said in the first Norrell decision, 
+
+that even in the world of habeas there's a difference 
+
+between deference and abdication. And in a situation 
+
+like this one, in which the State court has not afforded 
+
+an evidentiary hearing and has not allowed the 
+
+development of the evidence that bears directly on 
+
+Mr. Landrigan's claims, it would be a form of abdication 
+
+to hold that he can be conclusively barred from 
+
+proceeding further, even to an evidentiary hearing, on 
+
+the basis of the present record.
+
+ Thank you. 
+
+57 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. Verrilli.
+
+ The case is submitted.
+
+ (Whereupon, at 11:55 a.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+58
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 59 
+
+A 
+abdication 
+
+57:17,21 
+ability 44:22 
+able 4:13 
+above-entitled 
+
+1:14 58:5 
+absolutely 26:15 
+
+49:8 
+abuse 40:1 56:2 
+abused 49:4 
+
+56:4 
+abusive 56:4 
+accept 14:6 
+
+29:10 
+accepted 13:8,9 
+
+46:9 
+accepting 46:2 
+accurate 7:17 
+accurately 
+
+38:15 
+acknowledge 
+
+35:10 54:19 
+actual 24:7 
+addict 56:18 
+addiction 40:16 
+addition 48:24 
+
+50:2 
+additional 7:14 
+
+41:21 49:2 
+address 38:12 
+adequacy 5:14 
+adequate 4:20 
+
+42:14 45:14 
+adequately 
+
+34:13 45:1 
+46:19 
+
+admission 47:1 
+admit 26:13 
+admitted 18:6 
+advised 25:18 
+
+26:3 
+AEDPA 3:14 
+
+8:20 
+affect 54:11 
+affidavit 13:3 
+
+15:20 17:18,19 
+
+18:17 22:21 
+25:5 38:17,20 
+38:23 39:14,17 
+49:5,16 
+
+affidavits 21:21 
+affirmance 
+
+36:14 
+affirmed 55:5 
+afflicting 57:12 
+afforded 57:18 
+afraid 31:17 
+aggravating 
+
+38:11 55:11 
+aggravation 
+
+37:25 
+ago 7:22 8:13 
+
+11:13 18:6 
+agree 5:5 9:18 
+
+9:20,22 27:6,9 
+28:13 29:2 
+
+agreed 31:24 
+39:13 
+
+AKA 1:8 
+alcohol 30:19 
+
+39:7,19 40:1 
+40:14,14 41:8 
+48:20 49:4 
+50:3 54:6 
+55:18 56:2,4 
+56:12,18 
+
+Alito 13:11 20:5 
+44:25 45:8 
+46:20 47:6,14 
+
+allege 17:20 
+alleged 3:25 9:3 
+
+37:7 53:5 
+Allison 42:12,15 
+allow 11:10 
+
+39:25 42:24 
+allowed 12:24 
+
+13:5 16:19 
+19:3 25:5 
+39:15 57:19 
+
+alternative 
+45:23 48:25 
+
+ambiguity 8:25 
+11:1 
+
+ambiguous 23:3 
+amoral 45:22 
+analogous 15:11 
+analysis 51:15 
+anger 35:19 
+
+36:2 
+answer 27:5 
+
+29:18 41:25 
+42:2 51:9 55:3 
+55:14 
+
+answering 29:1 
+answer's 47:25 
+anyway 9:1 
+
+23:16 
+appeal 57:1 
+appeals 54:9 
+
+57:9,10 
+APPEARAN... 
+
+1:17 
+appellate 50:14 
+appendix 13:13 
+
+32:4,8,15,23 
+37:5 39:23 
+48:23 
+
+applies 14:20 
+apply 51:24 52:2 
+
+52:6,24 53:1 
+appreciation 
+
+28:20 
+appropriately 
+
+33:23 34:2 
+argue 18:13 
+
+20:19 27:23 
+31:6 49:7 
+
+argued 32:9 
+argues 3:21 
+arguing 17:25 
+
+18:19 
+argument 1:15 
+
+2:2 3:3,6 5:6,7 
+7:20,20 15:8 
+21:1 22:13,15 
+22:17,20,21 
+23:1,3,9,10 
+24:12 27:18,21 
+31:1 33:18,21 
+36:6,25 37:2 
+
+46:16 47:23,23 
+47:25 48:1 
+
+Ariz 1:18 
+Arizona 1:4 
+
+32:7 33:17 
+38:18 39:16 
+
+arm 5:1 
+asked 4:25 51:6 
+
+57:5,5 
+asking 17:9 
+
+19:11 31:15 
+42:8 43:4 48:7 
+
+aspect 18:12 
+29:7 
+
+assert 13:15,25 
+asserted 31:13 
+
+31:19,21 
+asserting 23:7 
+assertion 19:2 
+
+35:13 
+assessment 25:3 
+
+55:15,16 
+assimilate 40:6 
+assistance 7:10 
+
+11:17 13:16,21 
+14:1,8 22:5,6 
+31:20 32:11 
+44:1,22 
+
+Assistant 1:18 
+assisted 43:16 
+assume 12:9 
+
+24:6 27:11 
+48:2 
+
+assumed 11:23 
+24:21,22 
+
+assumes 7:21 
+41:13,14 
+
+assumption 37:1 
+assumptions 
+
+24:11 
+attempt 7:7 
+attempted 30:17 
+attempting 
+
+17:12 
+attest 39:6 
+attorney 1:19 
+
+3:18 4:18 6:8 
+
+13:2 14:23 
+20:12 35:20 
+45:1,4 
+
+authority 8:18 
+26:6,14 
+
+available 25:17 
+42:16 
+
+avowal 7:16 
+14:23 
+
+aware 16:5 26:6 
+awfully 25:8 
+A-17 13:13 20:5 
+
+34:20 
+A-24 55:9 
+a.m 1:16 3:2 
+
+58:4 
+
+B 
+B 1:3,20 2:5 
+
+31:1 52:14 
+back 12:10 14:6 
+
+28:10 34:21 
+36:10,14 49:11 
+51:9 54:18 
+55:4 57:7 
+
+bad 42:22 
+badly 45:20 
+balanced 55:21 
+ball 46:4 
+bar 7:4 52:6 
+barred 57:22 
+based 9:14 
+
+16:25 28:19 
+46:14 53:24 
+
+basic 28:24 29:3 
+46:13 
+
+basically 23:16 
+30:18 
+
+basis 38:4 53:11 
+57:24 
+
+Bay's 56:24 
+bear 52:10 
+
+56:20 
+bears 57:20 
+beginning 37:6 
+behalf 1:19,21 
+
+2:4,6 3:7 31:2 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 60 
+
+behaved 45:12 
+45:13 
+
+behaving 45:20 
+behavior 46:1 
+belied 27:19 
+believable 19:16 
+believe 32:8 
+believes 26:18 
+belt 38:2 
+best 35:25,25 
+better 18:17,17 
+beyond 10:24 
+
+11:7,25 46:15 
+Bias's 56:23 
+big 56:7 
+BILLY 1:9 
+binding 32:16 
+binds 7:25 
+biological 21:12 
+
+22:22 34:15 
+38:9,10,21 
+39:1,1,2,7,11 
+39:25 40:3,18 
+40:19 48:14,19 
+49:17 56:1 
+
+biologically 
+22:25 
+
+Blackledge 
+42:11 
+
+blocking 47:1 
+bound 29:16 
+brain 39:19 
+Breyer 20:17 
+
+21:15,17 22:4 
+22:7 48:8,23 
+49:9,12 50:1,5 
+50:7 51:4 
+54:16 
+
+brief 34:4 51:19 
+briefs 5:21 
+bring 43:13,15 
+bringing 38:9 
+
+49:11 
+broader 56:19 
+brother 5:13 
+
+39:1 
+builds 20:14 
+
+burden 4:21 
+14:17 15:18 
+17:22 29:11 
+
+C 
+C 2:1 3:1 
+call 8:5 11:5 
+
+50:13 
+called 44:16 
+candidly 7:21 
+capital 25:13,17 
+careful 44:14 
+
+53:20 
+case 4:4,23,25 
+
+5:2 8:21 10:4 
+12:9 15:11,14 
+20:7 21:7 
+24:25 25:18 
+28:3,11,21,25 
+31:11 34:6 
+35:2,11 37:25 
+38:4,15 42:13 
+42:20 43:1 
+51:21 53:24 
+55:16,17 58:3 
+58:4 
+
+Cattani 1:18 2:3 
+3:5,6,8 4:8,14 
+5:5,24 6:14,23 
+7:6 8:20 9:5,18 
+10:2,8,14,20 
+11:9 12:2,18 
+12:23 13:17 
+14:4,21 15:5 
+16:11,16 17:10 
+17:17 18:2,11 
+18:25 19:12,18 
+20:1,3,6 21:10 
+21:16 22:1,6 
+22:13 23:5,19 
+23:24 24:14,25 
+25:22 26:5,10 
+26:16 27:9,18 
+28:13,23 29:6 
+29:16,20,23,25 
+30:9,14 
+
+causes 39:20 
+
+cert 51:18 
+certain 9:10 
+
+45:6 48:9 
+certainly 6:25 
+
+12:16 23:3,5 
+25:1 42:4 
+43:11 
+
+cetera 57:10 
+chance 17:2 
+
+21:6 
+changed 22:12 
+
+53:5 
+character 11:15 
+Chief 3:3,8 8:24 
+
+11:1 19:22 
+20:2,4 22:19 
+23:2 30:24 
+31:3 34:14,19 
+38:24 39:5,9 
+39:24 40:17 
+41:18 42:1,5 
+43:11,21 44:4 
+44:19 51:22 
+52:1,9,11,12 
+55:6,22 56:1 
+56:11,15 58:1 
+
+child 39:2 
+chooses 4:20 
+Circuit 8:25 
+
+9:21,24 10:5 
+10:15 11:9,21 
+11:23 12:2,11 
+13:13,18 19:24 
+19:24 20:9 
+25:25 31:10 
+33:25 34:7 
+36:9 50:7,20 
+50:25 53:12 
+54:20 55:8 
+57:4,7 
+
+Circuit's 3:10 
+20:10,13 35:1 
+
+circumstances 
+22:8 55:1 
+
+cite 32:8 
+cited 15:12 
+claim 3:24 4:20 
+
+4:25 6:17 7:10 
+9:14 12:25 
+13:15,20,25 
+15:14 17:20 
+18:4 20:2 22:4 
+24:16 26:20,22 
+30:15 31:20,22 
+32:10 38:19 
+39:3 41:11 
+42:14,17 44:22 
+45:7,9 48:17 
+48:18 49:12 
+
+claiming 44:25 
+45:1 
+
+claims 7:2 22:3 
+31:13 42:9 
+43:6 45:9,10 
+48:17 57:21 
+
+clarity 44:9 
+clear 9:21 10:15 
+
+10:17,22,24 
+11:6,25 14:16 
+16:10,11 25:11 
+27:8 43:6 
+47:21 48:5 
+
+clearing 31:5 
+clearly 12:3 
+
+14:21 43:25 
+client 4:18 35:7 
+
+43:20 
+collateral 48:12 
+
+48:12 
+colloquy 4:14 
+
+25:23 26:7,12 
+27:1 30:11 
+37:6 45:5 
+
+colorable 6:17 
+13:20 17:20 
+31:13 
+
+come 12:9,9 
+26:17,21 28:5 
+28:21 39:18 
+41:21 51:9 
+54:18 
+
+comes 29:10 
+31:19 34:7 
+35:4 51:21 
+
+comment 32:6 
+57:2 
+
+commit 22:25 
+34:16 
+
+committed 
+30:18 
+
+competent 
+43:17 
+
+complete 26:12 
+completely 
+
+10:15 
+compliant 14:19 
+component 
+
+22:22 38:21 
+comprehensive 
+
+45:5 
+concede 48:3 
+conceded 50:20 
+conceding 36:18 
+conceivable 
+
+28:16 29:7 
+concept 15:24 
+
+18:14 28:24 
+29:3 
+
+conclusion 
+54:21,22 57:14 
+
+conclusively 
+57:22 
+
+concretely 42:20 
+conduct 37:2 
+
+55:19 
+confines 46:1 
+consequence 
+
+44:6 
+consequences 
+
+27:2 
+consider 40:13 
+
+46:17,17 54:17 
+considered 
+
+32:20 37:3 
+41:4,10 45:17 
+
+consistent 43:17 
+Constitution 4:6 
+constitutional 
+
+4:12 14:20 
+25:14 43:7 
+
+contacted 57:4 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 61 
+
+continue 12:16 
+continued 57:9 
+convicted 22:23 
+
+22:23 
+conviction 31:24 
+convincing 
+
+47:21 48:5 
+cooperate 47:18 
+cooperated 
+
+39:21 41:16 
+correct 5:4 10:8 
+
+11:7 13:17 
+17:8 55:5,24 
+
+CORRECTI... 
+1:5 
+
+counsel 4:17 6:6 
+9:14,15 11:17 
+13:3,16 14:8 
+15:15,15,23 
+23:13 25:18 
+26:25 27:2,6 
+27:16 30:2,17 
+30:24 31:18,20 
+35:5,9 41:18 
+43:17 46:19 
+49:1 57:5 
+
+counsel's 23:12 
+44:1 
+
+counterfactual 
+45:13 
+
+couple 31:9 45:9 
+45:10 
+
+course 21:5 35:9 
+court 1:1,15 3:9 
+
+3:11,24 4:13 
+4:25 5:16,18 
+6:2,5,11,15,17 
+6:22,25 7:2,23 
+8:3,6,8 10:6,19 
+11:1,11,19,21 
+11:23 12:10,17 
+12:19 13:7,8 
+13:12,23 14:5 
+15:13,16 16:18 
+16:22,24 17:5 
+17:13 19:6,8 
+19:19 20:10 
+
+21:9,15,16,19 
+21:22 22:2,14 
+23:16,17,20,21 
+23:22 24:5,8 
+24:21,22 25:1 
+28:5 30:7 31:4 
+31:7,24 32:7 
+33:10,18,20,22 
+33:22 34:4,7 
+34:13,20,25 
+38:16,16 40:7 
+40:20 41:1 
+42:11,15,16 
+44:12,12 45:15 
+45:21 47:15 
+49:17 51:17,21 
+53:9,15 54:9 
+54:10 55:23 
+56:12 57:15,18 
+
+courts 50:14 
+court's 3:17 
+
+5:15 9:22 11:4 
+11:15 12:3 
+16:23 17:6 
+19:1 23:25 
+31:11 43:18 
+51:16 
+
+credibility 25:3 
+credible 19:2,7 
+
+19:7 
+crime 30:19 
+
+34:16 
+crimes 22:25 
+criminal 23:1 
+
+27:25 28:8 
+critically 45:17 
+
+45:25 
+culpability 
+
+56:20 
+cut 44:21 
+
+D 
+D 3:1 37:5 
+damage 39:20 
+danger 55:13 
+dead 26:1 
+deal 36:16 
+
+death 43:13,15 
+decide 38:4 54:4 
+decided 32:17 
+
+54:3 
+decision 3:11,22 
+
+4:1 12:5 15:15 
+27:4 35:1 
+42:12 51:17 
+52:19 57:15 
+
+decisions 43:18 
+defaulted 32:17 
+defendant 4:15 
+
+4:17,20 6:8,15 
+6:18 14:23 
+15:6,18 17:23 
+25:17 26:17 
+27:1,12,13 
+28:23 30:1 
+40:17 42:20 
+43:24,25 44:17 
+49:20,21 
+
+defendant's 7:1 
+43:8 
+
+defense 4:17 
+15:12 31:22 
+32:2,10 
+
+deference 57:17 
+deferential 3:12 
+
+3:13 
+deficiencies 
+
+30:23 
+deficient 31:20 
+define 38:18 
+defines 39:15 
+definitively 
+
+36:19,20 
+degree 18:6 
+delay 33:5 
+demonstrate 
+
+16:23 
+denied 6:16 32:5 
+DEPARTME... 
+
+1:4 
+depends 24:2 
+described 29:5 
+
+54:21 
+detailed 54:16 
+
+determination 
+3:11 9:23 
+10:11 12:3,5 
+13:19 19:1 
+34:15 54:9,10 
+54:11 
+
+determining 
+53:10 
+
+develop 3:15 
+6:16 7:8,13 
+11:10 12:24 
+17:2,4 56:9 
+
+developed 3:24 
+6:6,24 7:15 
+10:16 12:14 
+45:16 
+
+developing 6:3 
+7:8 
+
+development 
+57:20 
+
+difference 24:4 
+24:13 45:18 
+49:23 57:16 
+
+different 5:11 
+5:17,20 6:18 
+7:12 22:21 
+35:8 36:3 
+40:23 45:9,10 
+47:10 53:21 
+55:20 56:23 
+
+difficult 5:6 
+28:15 53:24 
+
+diligence 52:4 
+52:14,22 
+
+diligent 35:6 
+52:25 
+
+dimensions 
+25:14 
+
+direct 32:17 
+directed 9:2,3,6 
+directing 54:24 
+directly 8:21 
+
+36:8 56:20 
+57:20 
+
+DIRECTOR 1:3 
+disagree 24:14 
+disagreed 9:24 
+
+10:18,23 
+disbelieve 16:18 
+discover 22:8 
+discretion 6:13 
+
+53:10,15,18,19 
+discretionary 
+
+53:16 
+discusses 27:3 
+discussing 47:24 
+disentitled 
+
+51:15 
+dismissal 54:24 
+disposed 35:25 
+disposition 
+
+31:11 35:10 
+dispositive 
+
+10:23 11:6,24 
+disprove 47:21 
+
+48:1,5 
+dispute 41:13 
+
+47:19 
+dissent 55:8 
+
+56:24,24 
+district 4:13 
+
+5:16,18 6:11 
+6:14,14,22 
+9:22 10:6,18 
+12:10,17,19 
+13:11,23 14:5 
+16:22 17:5 
+19:6,6 23:16 
+23:17,21,22 
+24:5,21 33:20 
+33:21,22 42:15 
+53:9,14 54:10 
+
+documentation 
+43:22 44:5 
+
+documented 
+43:19,23,24,25 
+
+doing 15:23 
+18:15 
+
+DONALD 1:20 
+2:5 31:1 
+
+door 42:8 43:5 
+DORA 1:3 
+dropped 46:3 
+drug 40:1 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 62 
+
+drugs 30:20 
+39:7 48:19 
+56:2 
+
+dual 9:17 11:13 
+due 43:21 47:6 
+D-15 37:16 
+D-20 37:21 
+D-21 39:22 
+
+56:15,17 
+D-3 37:6 
+D-4 37:6 
+D.C 1:11,20 
+
+E 
+e 1:18 2:1,3 3:1 
+
+3:1,6 51:23,24 
+52:5,13,14 
+
+easily 40:8 
+effect 6:5 7:24 
+
+11:14 28:18 
+31:10 
+
+effective 13:25 
+33:9 35:5 
+
+effectively 50:22 
+effects 56:5 
+effort 44:17 
+efforts 46:19 
+element 6:12 
+elementary 25:8 
+elements 28:1 
+
+36:5 
+elucidated 34:25 
+embrace 36:6 
+enable 48:7 
+ended 28:15 
+entertain 33:10 
+entitle 53:6 
+entitled 34:9,11 
+
+51:14 
+entitlement 
+
+53:18 
+error 40:11 
+ESQ 1:18 2:3,5 
+essentially 34:10 
+establish 17:19 
+
+35:16,22 
+established 
+
+13:20 51:20,22 
+establishes 
+
+40:15 
+et 57:10 
+evaluated 30:22 
+evidence 3:19,23 
+
+4:19 5:3 6:3,9 
+7:24 8:2,8,16 
+9:4,6,10,15,23 
+10:1,7,10,13 
+10:16 12:13,15 
+13:2,4,24 
+14:12,24 16:4 
+16:5,9,12 17:2 
+17:5,7,11 18:8 
+18:20 19:13,16 
+21:14 22:24 
+23:13,14,15,23 
+24:3,5,11,24 
+25:11,13 26:21 
+27:7,12,14,24 
+28:1,5,6,21 
+29:13 30:2,6 
+30:20 35:7,18 
+39:10 41:4,7,9 
+41:20,21 42:22 
+43:14 44:7,10 
+44:14,15 46:4 
+46:15,25 47:2 
+47:17,21 48:6 
+48:13 50:22 
+51:3 53:25 
+57:20 
+
+evidentiary 4:3 
+5:25 6:3,12,15 
+7:14 8:7 11:10 
+12:7 13:8 
+31:14 34:9,12 
+34:15,16,21 
+35:11 36:15,16 
+42:14,17 51:25 
+54:3 55:4 56:9 
+57:19,23 
+
+exact 33:21 
+40:11 
+
+exactly 8:12 
+11:19,20 31:6 
+
+31:7 45:12 
+46:2 50:11 
+
+example 21:12 
+28:25 
+
+Excuse 32:22 
+46:6 
+
+execution 57:1 
+existence 9:15 
+experiences 
+
+40:23 
+expert 30:22 
+
+39:18 40:2,5,7 
+40:19 41:7 
+45:11,15 50:3 
+54:14 56:5 
+
+experts 40:5 
+expert's 46:7 
+explain 28:15 
+
+43:3 
+explaining 46:1 
+
+56:5 
+explanation 
+
+55:19 
+explicated 51:16 
+explore 49:1 
+expressed 14:18 
+expressly 15:13 
+
+16:18 20:11 
+extent 15:6 
+
+16:14,17 
+extra 21:24,24 
+ex-wife 21:13 
+
+F 
+face 25:21 27:8 
+fact 3:20 7:16 
+
+8:4,7 26:22 
+28:1 29:11 
+45:12 46:23 
+47:16 56:3 
+57:8 
+
+factfinder 52:15 
+factor 38:10,11 
+facts 6:16,24 7:8 
+
+7:9,12,13,17 
+12:4,5 13:19 
+14:7 25:9 53:5 
+
+factual 3:11,17 
+6:1,4 10:6 
+12:20 19:1,9 
+23:25 24:2 
+35:24 40:6 
+48:1,2,4 
+
+factually 26:1 
+failed 33:23 34:1 
+
+49:1 
+failing 48:25 
+fails 6:18 
+fair 39:14 43:7 
+fairly 38:18 
+
+39:15 
+familiarity 
+
+56:12,16 
+family 46:25 
+far 27:25 54:20 
+father 22:23 
+fault 6:24 52:22 
+
+52:23 
+faulty 48:14 
+Federal 11:11 
+
+17:5 21:22 
+33:20,21,22 
+38:16 
+
+fetal 39:19 40:13 
+40:14 41:8 
+50:3 54:6 
+55:18 56:12,18 
+
+fighting 18:24 
+filed 31:25 48:17 
+find 11:19,21 
+
+13:12 33:3 
+57:6 
+
+finding 3:17,19 
+5:15 6:1,5 7:22 
+8:14 9:25 10:6 
+10:18,23 11:4 
+11:16,21,23 
+12:21 16:23,25 
+17:6 19:8 
+20:10 23:25 
+41:15 47:19 
+48:2,2,4 
+
+findings 5:19 
+24:2 
+
+first 3:17 4:5 
+6:20 7:12 9:9 
+26:5 34:2 
+38:13,13 47:22 
+47:23 57:15 
+
+fleshed 30:11 
+focus 23:24 
+
+24:15 55:17 
+focused 55:16 
+followed 4:11 
+following 46:7 
+
+55:7 
+foregoing 13:14 
+
+13:24 27:2 
+form 57:21 
+forth 15:4 
+foster 20:21 
+
+49:4 
+found 11:3,7 
+
+13:18,19 20:11 
+22:10 47:15 
+51:2,18 52:16 
+
+frame 45:23 
+frankly 43:20 
+frivolous 23:11 
+front 17:5 
+frustration 
+
+35:20 
+full 12:20 25:16 
+
+38:19 39:15 
+44:10 
+
+fully 26:3 
+fundamental 
+
+40:11 43:7 
+further 7:5 12:6 
+
+17:2,11 19:13 
+32:6 57:23 
+
+furthermore 
+32:16 
+
+future 55:12 
+
+G 
+G 3:1 
+gather 40:6 
+gene 23:1 48:14 
+
+48:14 49:17 
+general 1:19 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 63 
+
+21:19 
+generally 51:5 
+generically 23:9 
+genetic 13:4 
+
+19:3 25:6 
+30:16 38:20 
+39:2 55:9 
+
+getting 18:22 
+GINSBURG 
+
+30:4,10 42:19 
+Ginsburg's 
+
+45:19 
+give 16:22 17:1 
+
+40:4 42:1 
+43:12 45:23 
+50:8,12 
+
+given 6:4 16:5 
+20:12 21:9 
+39:18 49:19 
+
+gives 21:20 
+giving 35:14 
+
+45:7 50:9 
+go 8:21 9:8 
+
+21:22 24:3 
+28:10 45:4 
+57:5 
+
+goes 25:23 
+going 5:10 21:21 
+
+21:23 27:14,15 
+27:22 37:12 
+42:8,13 43:5 
+44:2,3,7 46:16 
+49:3,13 50:17 
+54:4,6 57:6 
+
+good 19:15 
+28:25 30:18 
+
+goodness 28:6 
+grandfather 
+
+22:22 28:7 
+39:1 
+
+grant 40:12 
+53:11 54:22 
+
+granted 47:20 
+granting 42:17 
+grants 41:12 
+ground 44:23 
+grounds 49:2 
+
+guess 10:24 
+24:19 
+
+guilty 14:15 
+26:13 52:16 
+
+guy 42:22 45:25 
+
+H 
+habeas 31:23 
+
+44:2 47:11 
+53:15,15 57:16 
+
+hand 24:6,7 
+happened 10:7 
+
+27:19 37:7 
+40:8 41:4 
+47:24 49:15 
+57:13 
+
+happens 5:12 
+happy 40:18 
+hard 44:2 
+health 45:11,14 
+
+45:22 46:7 
+55:19 
+
+hear 3:3 37:9 
+50:13 54:14 
+
+heard 20:25 
+23:22,23 26:9 
+29:15 48:9 
+
+hearing 4:3 5:16 
+5:18 6:1,3,12 
+6:15,22 7:5,14 
+8:7,10 9:1,3,5 
+9:25 10:10 
+11:10 12:7 
+13:8 16:22 
+17:4 19:7,10 
+19:23 20:20,20 
+21:8,9,11,18 
+21:20 23:4 
+25:13 31:14 
+34:9,12,15,16 
+34:22 35:5,11 
+35:13 36:15,16 
+37:3,5 42:15 
+42:18 45:2 
+47:20,24 48:7 
+49:13 50:8,10 
+50:17,21 51:7 
+
+51:14,25 53:11 
+53:16 54:3 
+55:4 56:9 
+57:19,23 
+
+hearings 50:12 
+hearing's 53:14 
+hears 24:9 
+heat 35:19 36:2 
+heightened 52:5 
+
+52:24 
+held 12:3 19:24 
+help 12:1 43:3 
+helpful 39:25 
+hesitant 10:25 
+he'll 20:22 
+highlights 8:25 
+highly 3:13 
+HILL 1:9 
+history 38:25 
+
+46:25 55:18 
+hold 6:11,22 
+
+53:16 57:22 
+holding 20:15 
+Honor 5:5,24 
+
+7:11 8:23 9:19 
+10:8,20 15:5 
+17:10 20:7 
+21:11 23:19 
+27:9 28:13 
+29:17,25 30:15 
+33:4,12 34:18 
+35:23 36:7 
+37:17 49:10 
+52:18,20 53:13 
+54:20 55:25 
+
+Honor's 36:8,22 
+51:10 
+
+hopefully 43:3 
+horrendous 
+
+20:24 22:8 
+
+I 
+IFP 57:10 
+ii 52:13 
+immediate 
+
+11:18 
+impairments 
+
+39:20 56:19 
+implication 42:7 
+implicitly 16:3,3 
+
+16:7 18:7 
+important 25:14 
+
+31:19 33:2 
+37:20 43:2 
+45:17,25 50:4 
+54:2 
+
+imposition 
+43:15 
+
+impressed 24:11 
+impression 
+
+50:12 
+improper 3:12 
+
+3:13 
+inadequacy 9:14 
+
+11:14 
+inadequate 
+
+11:16 
+inappropriately 
+
+55:15 
+including 24:8 
+inconsistent 
+
+30:2 
+incorrect 5:20 
+
+20:15,16,17 
+indicated 14:22 
+ineffective 7:10 
+
+13:15,21 14:8 
+22:5,6 25:25 
+31:20 32:11 
+44:22,23 46:3 
+46:5 
+
+influence 30:19 
+inform 45:6 
+information 
+
+40:4,6 
+informed 7:23 
+
+46:24 
+inquiring 15:2 
+inquiry 36:21 
+
+43:18 47:11,12 
+insisted 45:4 
+instruct 13:1 
+
+35:7 
+instructed 3:18 
+
+4:18 6:8 14:24 
+15:23 20:11 
+
+instruction 16:6 
+insubstantial 
+
+5:19 
+intelligent 15:3 
+
+32:3 46:18,21 
+47:3 
+
+intelligently 
+35:17 
+
+intend 14:11 
+intended 13:1 
+
+14:17 16:9 
+intent 14:18 
+
+32:12 
+intermediate 
+
+55:2 
+interpret 25:10 
+interpretation 
+
+3:20 
+interpreting 
+
+52:20 
+introduce 20:20 
+
+27:7 28:4 30:6 
+introduced 5:3 
+
+28:2 
+introduction 
+
+16:10 
+investigate 22:8 
+
+22:14 48:25 
+investigated 
+
+27:17 
+investigation 
+
+10:12 35:6 
+involuntary 4:7 
+involved 15:14 
+Iowa 15:12 
+issue 8:12,16 
+
+14:11 15:18 
+18:25 19:9 
+24:3 32:19 
+35:3,3 36:3,16 
+40:11 47:2,6 
+48:11 54:2 
+
+issues 5:17,21 
+31:8 34:12 
+
+item 28:16 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 64 
+
+i.e 5:19 
+
+J 
+January 1:12 
+JEFFREY 1:8 
+job 35:5,6 
+Johnson 32:3,19 
+
+33:19 43:18 
+joint 32:4,7,14 
+
+32:23 48:23 
+JR 1:20 2:5 31:1 
+judge 5:1 27:2 
+
+31:23,23 35:25 
+36:24 37:9,13 
+37:15,19,22 
+38:3,5 40:10 
+41:4,11 44:14 
+44:20 45:4 
+46:8,14 47:11 
+50:17 56:23,24 
+
+judges 50:12 
+judgment 31:8 
+
+36:14 45:24 
+55:4 
+
+jump 42:14 
+Justice 3:3,8 4:5 
+
+4:10,24 5:9 
+6:10,21 7:3,19 
+8:24,24 9:8,20 
+10:3,9,17,22 
+11:1,12 12:8 
+12:19 13:11,22 
+14:5,9 15:1 
+16:2,3,13,21 
+17:15,24 18:5 
+18:16 19:5,15 
+19:22 20:2,4,5 
+20:17 21:15,17 
+22:4,7,19 23:1 
+23:2,15,21 
+24:1,18 25:7 
+25:24 26:8,11 
+26:24 27:11,21 
+28:17 29:1,9 
+29:18,21,24 
+30:4,10,24 
+31:3 32:22 
+
+33:1,9,13 
+34:14,19 35:12 
+35:24 36:11 
+38:2,8,24 39:5 
+39:9,24 40:17 
+40:24 41:18 
+42:1,5,19 
+43:11,21 44:4 
+44:19,25 45:8 
+45:19 46:6,11 
+46:20 47:6,14 
+48:8,21,23 
+49:9,12 50:1,5 
+50:7,19,24 
+51:2,4,8,11,22 
+52:1,9,11,12 
+53:9,19,23 
+54:5,8,16,19 
+55:6,7,22 56:1 
+56:11,15,22 
+58:1 
+
+K 
+KENNEDY 5:9 
+
+6:10,21 7:3 
+12:8,19 27:11 
+53:9,19,23 
+54:5,8 56:22 
+
+Kennedy's 55:7 
+KENT 1:18 2:3 
+
+3:6 
+key 41:5 
+kick 52:21 
+kid 40:15 
+kind 8:2 9:10,15 
+
+16:4,5,9 18:7 
+18:20 21:21 
+22:10 25:20 
+26:12,24 29:10 
+43:22 45:5 
+46:4 
+
+knew 12:14 15:3 
+23:20 25:16 
+39:9,10 
+
+know 5:9 6:12 
+10:14 11:24 
+17:15,17,17 
+
+19:17 20:18 
+23:17 24:10 
+27:1,3,6,12 
+28:1,7,9,10 
+30:7,12 35:14 
+44:15 47:19 
+50:8,15 54:3,5 
+
+knowing 3:23 
+4:1,9,21 12:21 
+14:19 15:2 
+16:8,15 17:13 
+17:22 18:1,9 
+26:19 27:17,24 
+28:19,22 29:4 
+29:7,12 32:2 
+36:4 42:25 
+43:1 46:17,18 
+46:21 47:3 
+
+knowingly 
+14:14 32:11 
+35:16 
+
+known 8:2 12:15 
+18:7,20 41:22 
+47:16 
+
+knows 27:24 
+
+L 
+l 29:25 
+lack 52:4,13 
+Landrigan 1:8 
+
+3:4,18,21 13:9 
+13:14,20,24 
+15:12,21 19:2 
+19:14,19 20:11 
+24:8 25:2,4 
+30:17,21 37:25 
+39:8 41:16 
+45:12 49:4 
+55:11 57:5,8 
+
+Landrigans 
+49:14 
+
+Landrigan's 
+19:20 37:2,22 
+38:22 57:21 
+
+language 38:22 
+late 32:20 
+law 7:25 8:17 
+
+25:25 26:1 
+29:15,21 50:10 
+
+lawyer 21:1 30:6 
+37:16,17 41:7 
+41:9 
+
+lawyer's 44:17 
+leave 42:7 
+left 36:17,19 
+legal 47:4 
+letter 56:24 57:4 
+let's 12:9 50:16 
+light 17:6 35:8 
+liked 23:8 
+likelihood 53:21 
+likes 38:4 
+limitation 42:18 
+limited 23:12 
+list 49:5 
+listens 20:23 
+litigate 44:22 
+logical 3:20 
+look 8:1 9:9,16 
+
+15:19,20 18:16 
+21:3 22:22 
+29:10 32:9 
+39:22 56:14 
+
+looked 21:2 
+48:16 49:20 
+
+looking 32:22 
+looks 37:4 
+lot 21:20 24:10 
+
+27:5 50:10 
+lots 42:8 43:5 
+
+M 
+magic 18:1 
+main 23:6 
+making 19:2 
+
+36:6,13 44:13 
+45:7,9,24 
+46:15 
+
+mandatory 
+53:14,17 
+
+matter 1:14 6:5 
+7:24,25 8:17 
+18:13 21:19 
+24:22 25:24 
+
+26:1 29:14,21 
+35:25 40:5 
+47:16 53:16 
+56:23 58:5 
+
+mean 8:9 9:9 
+10:3,24 11:3 
+17:25 19:16 
+21:17 27:7,13 
+46:7 49:6 
+
+means 30:7,12 
+43:8 
+
+meant 20:18 
+medical 55:19 
+
+56:4 
+meeting 52:4,23 
+memo 37:18 
+memorandum 
+
+30:16,21 
+mental 30:23 
+
+45:11,14,22 
+46:7 55:19 
+
+mentioned 
+48:18 
+
+merits 34:4 35:2 
+met 34:8 
+Michael 51:17 
+
+52:19 
+mind 9:11 16:4 
+
+41:2 
+minutes 31:9 
+mitigating 3:19 
+
+4:19 5:2 6:9 
+8:2,8,15 9:23 
+9:25 10:7,10 
+10:13 12:15 
+13:2 14:12,24 
+16:12 18:8 
+22:24 25:11,12 
+27:7,12,14,24 
+27:25 28:4,6 
+29:13 30:6 
+35:17 38:10 
+39:10 41:20 
+42:22 43:14 
+44:7,9,13 
+50:22 51:3 
+55:9 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 65 
+
+mitigation 3:23 
+4:16 7:15,16 
+7:23 9:3,6,10 
+11:11 15:24,25 
+16:17,20 18:12 
+18:14 20:12 
+23:3 28:2,14 
+28:16,20,25 
+29:3,8 35:7 
+36:5 37:10,11 
+38:1,15 41:5 
+42:25 43:8,20 
+44:18 46:14,24 
+47:2,17 55:16 
+55:17 
+
+mixed 47:13,14 
+modest 36:13 
+moment 7:22 
+
+8:13 11:13 
+21:2 
+
+moral 45:24 
+56:20 
+
+morning 3:15 
+mother 21:13 
+
+39:7,11,25 
+40:4,18,20 
+41:1 48:19 
+49:3,4 
+
+mother's 40:12 
+56:2 
+
+motion 32:5 
+33:5,10,14,14 
+35:13 48:17 
+
+mouth 49:19 
+move 34:23 
+
+N 
+N 2:1,1 3:1 
+narrow 43:4,5 
+nature 28:14,24 
+
+28:24 
+necessarily 
+
+10:23 11:6,24 
+24:14 
+
+necessary 6:1,17 
+need 6:2 12:6 
+
+13:7 19:19 
+
+26:17 28:18,22 
+48:1 56:9 
+
+needs 28:19,23 
+29:2 43:16 
+
+nervousness 
+41:1 
+
+neurological 
+57:11 
+
+never 3:25 6:4 
+26:9 28:3 
+
+new 26:8 30:20 
+Ninth 3:10 8:25 
+
+9:21,24 10:5 
+10:15 11:9,20 
+11:22 12:2,11 
+13:13,18 19:23 
+19:24 20:9,9 
+20:13 25:25 
+31:9 33:25 
+34:7 35:1 36:9 
+50:7,20,24 
+53:12 54:20 
+55:8 57:4,7 
+
+nondispositive 
+11:15 
+
+Norrell 57:15 
+noted 15:13,16 
+number 42:16 
+
+O 
+O 2:1 3:1 
+object 33:23 
+objected 9:12 
+objection 34:1 
+obligation 7:1,1 
+
+33:13 
+observation 
+
+16:25 
+obstreperous 
+
+42:21 
+obviates 6:2 
+
+12:6 
+obvious 23:11 
+
+26:15 
+obviously 45:20 
+occurs 37:7,8,8 
+
+37:13 
+
+oh 11:20 28:6 
+36:4 
+
+okay 29:24 
+36:11 37:9 
+42:5 44:14 
+
+omitted 17:25 
+18:3 
+
+once 7:22 8:13 
+one's 56:20,20 
+open 4:25 14:3 
+
+28:14 36:17,19 
+42:8 43:5 
+
+opinion 9:1 20:5 
+20:13 40:7 
+
+opportunity 
+6:16 12:24 
+26:19 48:7 
+
+opposed 8:3 
+opposition 
+
+33:19 51:19 
+oral 1:15 2:2 3:6 
+
+31:1 
+order 6:15 12:11 
+
+17:6 
+ordered 11:9 
+organic 39:19 
+original 33:14 
+ought 35:11 
+
+36:16,18 43:22 
+54:2,22 55:17 
+55:20 
+
+outcome 47:10 
+outlining 5:11 
+outweighed 
+
+55:10 
+overcome 52:23 
+overlooks 37:1 
+
+P 
+P 3:1 
+page 2:2 20:5 
+
+32:4,8,23,25 
+34:20 37:6 
+39:22 40:10 
+48:16,24 56:14 
+56:17 
+
+pages 37:21,21 
+
+pants 50:13 
+papers 57:10 
+paragraph 
+
+38:25 
+parents 20:21 
+part 14:13,17 
+
+20:4 53:19,24 
+particular 16:17 
+
+35:20 
+particularly 
+
+3:13 37:20 
+45:11 
+
+parts 7:12 14:10 
+pass 37:20 
+PATRICK 1:9 
+penalty 43:13,15 
+people 20:23 
+
+21:24 
+perform 35:5 
+performance 
+
+31:21 35:3 
+47:8 
+
+performing 35:6 
+permit 36:8 51:9 
+permitted 16:12 
+persisted 47:1 
+
+47:18 
+person 25:2 
+
+27:24 30:18 
+45:22 
+
+pertains 45:10 
+petition 13:14 
+
+15:19 17:21 
+32:1,6,14 37:5 
+39:23 51:18 
+54:24 
+
+petitioner 1:6,19 
+2:4 3:7 35:16 
+35:18 44:2 
+56:25,25 
+
+petitioner's 6:25 
+phase 17:1 
+Phoenix 1:18 
+piece 16:17 
+plea 14:15 15:15 
+
+26:13 
+plead 22:2 42:13 
+
+44:3 
+pleading 18:17 
+please 3:9 31:4 
+point 5:10,22 
+
+7:6 8:22 12:8 
+12:23 16:24 
+19:17 23:6 
+24:19,20 26:14 
+29:11 33:17 
+34:5 36:22 
+38:9 41:5 
+54:19 
+
+pointed 51:19 
+points 3:16 5:11 
+
+6:19 25:4 27:3 
+pore 30:17 
+portray 42:23 
+position 12:12 
+
+12:13,16 29:5 
+55:2,8 
+
+possibility 40:13 
+42:24 46:24 
+47:17 
+
+possible 28:4,12 
+28:20 41:19,21 
+42:2,3,4 
+
+possibly 14:2 
+post-conviction 
+
+3:25 4:22 5:8 
+15:7,9,17,20 
+17:3,21 22:3 
+22:15,18 23:7 
+24:16 26:20 
+47:15 
+
+post-sentencing 
+48:12 
+
+potential 34:25 
+40:2 
+
+powerful 47:8 
+practice 53:16 
+pre 34:15 
+precisely 20:18 
+
+28:15 45:18 
+56:6 
+
+preclude 16:10 
+precluded 7:8 
+
+18:22 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 66 
+
+predetermined 
+22:25 
+
+predicate 8:15 
+40:2 
+
+predispose 
+56:17 
+
+predisposed 
+23:9 
+
+predisposition 
+13:5 19:4 25:6 
+30:16 38:21 
+40:16 55:10 
+
+prejudice 31:21 
+41:12 
+
+prejudiced 
+46:22 
+
+premature 
+36:20 54:4 
+
+prepared 35:2 
+41:7 45:16 
+
+preparing 46:4 
+present 3:18,22 
+
+4:19 6:9 7:1 
+9:4,7 13:2 
+14:24 15:23 
+17:12 20:12 
+21:4,5,12 
+22:24 23:3 
+30:3 35:17 
+36:1 44:12,18 
+48:13 49:14,21 
+55:12 57:24 
+
+presentation 
+4:15 16:19 
+19:3 24:7 25:5 
+41:16,20 
+
+presented 6:4,7 
+7:17,24 8:16 
+13:6 17:12 
+21:13 22:16 
+38:15,16 49:20 
+49:22 55:22 
+
+presenting 9:6 
+23:13 
+
+presided 19:20 
+25:1 
+
+pretty 19:15 
+
+prevail 55:1 
+prevent 43:14 
+previously 
+
+48:10 
+prior 38:24 
+prison 55:12 
+
+57:6 
+probability 47:9 
+
+47:12 
+problem 7:20 
+
+12:4 20:13 
+21:10 56:7 
+
+problems 57:11 
+procedural 
+
+42:10 
+procedurally 
+
+32:16 
+procedure 4:11 
+
+32:17 38:18 
+39:16 
+
+proceed 9:13 
+39:16 56:25 
+57:8,9 
+
+proceeding 4:23 
+5:8 15:8,9,16 
+15:17 21:3 
+22:15 23:8 
+24:17 26:20 
+35:21 48:11,13 
+51:25 57:23 
+
+proceedings 
+3:25 33:24 
+34:2 43:10 
+55:23 
+
+proceeds 37:19 
+process 27:25 
+proclivity 38:10 
+produce 21:21 
+proffer 23:22 
+
+24:5 26:21,22 
+30:2 37:14 
+40:13 44:13 
+
+proffered 8:3 
+9:11 11:11 
+41:9 45:15 
+46:15 
+
+prominently 
+
+41:8 
+proof 56:16 
+proper 35:10 
+properly 8:11 
+prove 17:6 
+proven 53:6 
+
+55:9 
+provide 40:7 
+
+55:18 
+provided 13:9 
+provides 28:25 
+provision 52:20 
+purpose 9:17 
+
+11:14 43:14 
+pursuant 12:11 
+pursue 26:19 
+
+31:17 
+pursued 31:17 
+put 14:12 15:3 
+
+19:19 25:11,12 
+25:19 49:18 
+
+putting 19:13 
+24:23 44:6 
+
+Q 
+qualified 25:3 
+question 7:12 
+
+8:18,25 9:2 
+10:25 11:3,18 
+11:19,22 14:3 
+14:9,13 18:19 
+18:23 25:8,9 
+27:6 29:2,19 
+31:12,16 34:3 
+34:17 36:8 
+38:13,13 41:25 
+45:3,19 46:21 
+46:22,23,23 
+47:4,13,14 
+49:11 50:21 
+51:5,9 55:7 
+56:23 
+
+quite 7:21 44:14 
+50:16 55:20 
+
+quoted 20:5 
+quotes 56:24 
+quoting 48:21 
+
+55:9 
+
+R 
+R 3:1 
+raise 15:6,7,14 
+
+15:16,18 22:20 
+33:7,8,14,23 
+34:1,1,13 
+
+raised 5:7 16:16 
+18:11 22:9 
+23:8 24:16 
+32:19 33:20 
+34:3 48:11 
+51:18,20 
+
+raises 8:12 
+raising 10:25 
+
+18:3 22:3 
+24:20 30:15 
+33:19 36:3 
+
+reached 27:25 
+reading 39:14 
+readings 34:25 
+ready 43:13 
+real 24:11 
+reality 35:2 
+realize 28:8 
+really 12:14 
+
+26:18 27:16 
+30:12 34:11 
+39:21 42:22 
+
+reason 5:25 7:2 
+24:19 26:16 
+45:18 
+
+reasonable 12:6 
+47:9,12 52:15 
+
+reasonableness 
+23:25 24:2,4 
+
+reasoned 3:10 
+45:24 
+
+reasons 10:4 
+13:14 42:10,10 
+
+received 45:14 
+receiving 57:4 
+recognition 
+
+36:15 
+record 3:21,21 
+
+4:10 12:20 
+
+25:15,21 26:2 
+26:7 32:15 
+47:9 57:24 
+
+reexamine 4:13 
+refer 42:11 
+reference 45:24 
+refusing 47:18 
+regarding 17:13 
+
+25:4 
+rehearing 32:1,5 
+
+33:6,10,15 
+rejection 3:10 
+relating 46:25 
+relatively 20:8 
+relatives 27:15 
+relevant 6:16 
+
+7:9,13,18 
+relief 11:16 
+
+15:20 36:13 
+47:15 53:6 
+54:22 
+
+rely 32:2 
+remaining 31:12 
+remand 13:12 
+
+35:11 
+remanded 9:25 
+
+10:12 
+remanding 10:9 
+remind 57:14 
+reply 34:3 
+reported 57:7 
+represent 38:15 
+
+45:2 
+representation 
+
+8:6 45:14 
+request 36:13 
+requesting 
+
+54:23 
+require 4:6,8 
+
+26:6,25 
+required 3:14 
+
+17:19,20 
+requirement 
+
+4:15 21:18 
+22:1 
+
+requirements 
+34:8 52:5,21 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 67 
+
+requires 47:13 
+resolution 7:9 
+
+19:9 
+resolve 6:17 
+
+36:20 
+resolved 19:1 
+
+36:19 
+respect 9:13 
+
+11:4,20,21 
+31:6,16 36:23 
+38:17,19 39:17 
+43:21 45:2 
+47:6,25 51:13 
+53:2,3 
+
+respectfully 
+38:7 
+
+respond 36:7 
+respondent 1:21 
+
+2:6 5:13,15 
+31:2 
+
+response 32:13 
+rest 20:16 23:10 
+restricted 23:12 
+
+23:12 
+result 22:12 
+
+53:21 54:12 
+reversal 54:23 
+reverse 19:23 
+review 3:12,14 
+
+32:6,18 
+right 5:1,3 10:20 
+
+11:12 13:15,25 
+18:19 19:24 
+20:1,3,6 25:12 
+25:14,15,16 
+26:1,2,3,25 
+28:4 35:17,19 
+36:10 38:1 
+42:14 43:7 
+49:9,18 50:1,5 
+50:9 55:3 
+
+rightly 50:14 
+rights 4:12 
+
+14:20 
+ROBERTS 3:3 
+
+8:24 19:22 
+20:2,4 22:19 
+
+23:2 30:24 
+34:14,19 38:24 
+39:9,24 40:17 
+41:18 42:1,5 
+43:11 44:4 
+51:22 52:1,9 
+52:12 55:6,22 
+56:1,11 58:1 
+
+roughly 21:23 
+22:10 
+
+routine 40:5 
+rule 14:19 30:11 
+
+42:7 43:4 
+ruled 34:7,20 
+
+45:21 
+ruling 20:16 
+
+23:18,20 31:24 
+
+S 
+S 2:1 3:1 
+sake 24:12 
+satisfied 51:23 
+satisfy 52:2,13 
+
+52:14 
+saying 6:5 8:1 
+
+9:9 10:15 16:3 
+16:7,11,14,18 
+16:21 18:7 
+25:10 28:18,22 
+29:14 30:5 
+34:10 36:4 
+38:5 39:12,17 
+44:14 46:12 
+48:10 52:12 
+
+says 5:15 13:13 
+13:24 19:5,6 
+21:22 24:6 
+29:10 32:15 
+37:9,13,15,17 
+38:20,21,25 
+39:6 40:11 
+42:21 43:15 
+48:17,18,24 
+49:15 
+
+Scalia 4:24 9:20 
+10:3,9,17 
+13:22 14:5 
+
+23:1,15 26:8 
+26:24 27:21 
+32:22 33:1,9 
+33:13 35:12,24 
+36:11 38:2,8 
+40:24 46:6,11 
+48:21 50:19,24 
+51:2,8,11 
+54:19 
+
+scheduled 57:1 
+school 20:21 
+
+49:15,15 
+Schriro 1:3 3:4 
+scope 26:3 38:19 
+
+39:15 44:10 
+seat 50:13 
+second 14:13 
+
+18:5 38:12 
+48:24 
+
+Secondly 4:3 
+Section 51:16 
+see 5:23 18:18 
+
+20:23 30:11,21 
+32:23 37:21 
+40:10 56:15 
+
+seeking 7:13 
+seen 19:8 25:2 
+send 34:21 55:4 
+sending 36:14 
+sense 5:21 16:8 
+
+28:19,22 29:4 
+senses 38:14 
+sent 14:6 
+sentence 37:20 
+sentencing 6:7 
+
+17:1 19:21 
+21:3 22:24 
+23:4 25:2,13 
+27:20 30:3,16 
+30:21 35:15 
+37:2,18 45:2 
+
+separate 14:10 
+46:20 47:4 
+
+serious 18:19 
+57:12 
+
+set 31:8 34:12 
+42:10 54:25 
+
+56:19 
+sets 42:9 
+shift 4:22 
+shifts 15:18 
+show 3:22 5:19 
+
+8:7,7 9:10 
+11:14,16 14:7 
+14:7 19:7 21:6 
+21:19 22:11 
+25:16,20 27:13 
+29:11 51:14,17 
+52:8,15 53:3,4 
+53:7 54:25 
+
+showed 4:10 
+shown 52:22 
+
+53:17 
+shows 26:2 
+
+35:18 
+side 27:22 47:23 
+significance 
+
+43:9 
+significant 27:4 
+
+34:6,24 36:25 
+39:5,22 40:9 
+
+signing 57:10 
+simple 18:13,13 
+simply 4:17 8:20 
+
+9:24 10:5 13:8 
+14:22 29:14 
+
+sister 49:2,3,14 
+situation 15:11 
+
+30:1 43:19 
+45:20 52:21,24 
+53:14,17 57:17 
+
+smacked 10:5 
+smarts 27:5 
+sorry 11:20 33:3 
+
+33:5,6 46:12 
+48:22 52:9,11 
+
+sort 28:6 44:13 
+sorts 25:19 
+sources 48:25 
+Souter 7:19 9:8 
+
+10:22 11:12 
+16:2,3,13,21 
+17:15,24 18:5 
+18:16 19:5,15 
+
+23:21 24:1,18 
+28:17 29:1,9 
+29:18,21,24 
+
+Souter's 8:24 
+so-called 32:10 
+spare 40:25 
+specific 8:21 
+
+25:22 26:7 
+specifically 6:8 
+
+13:18 32:9 
+specificity 22:2 
+spend 31:9 
+square 28:10 
+stand 19:14,20 
+standard 3:12 
+
+3:14 6:11 48:8 
+50:9 51:6,13 
+53:4 
+
+standards 52:24 
+stands 48:1 
+start 5:12 
+State 3:11,17,24 
+
+3:25 5:8,15 6:2 
+6:5,17,25 7:2 
+11:4,15,19,21 
+11:23 12:3 
+15:7 16:23,24 
+17:6,12 19:1,8 
+20:10 21:9,15 
+21:16,19,22 
+22:2,14 23:25 
+24:16,22 31:18 
+31:21,23,24 
+32:15,18 33:18 
+33:22,24 34:2 
+34:10,13 36:20 
+36:24 38:16 
+47:11 48:10,11 
+48:12 49:17 
+54:23 55:23 
+56:12 57:18 
+
+statement 8:14 
+8:15 13:1 
+14:14 
+
+statements 
+37:23,24 
+
+States 1:1,16 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 68 
+
+State's 32:13 
+36:25 37:1 
+
+stepparents 
+20:21 
+
+STEVENS 4:5 
+4:10 14:9 15:1 
+25:7,24 26:11 
+
+stipulate 18:18 
+straightforward 
+
+20:8 
+Strickland 47:7 
+strongly 20:19 
+stuff 25:19 
+stupid 25:8 
+subject 52:16 
+submit 17:19 
+submitted 13:3 
+
+15:21 17:18 
+30:17 58:3,5 
+
+subsequently 
+33:7,7 
+
+substantial 
+53:10 
+
+suffice 43:22 
+sufficient 15:1 
+
+30:5,14 44:5 
+47:7 
+
+suggest 15:25 
+17:11 19:12 
+55:11 
+
+suggested 45:19 
+suggests 15:22 
+
+39:2 
+supported 46:19 
+suppose 27:13 
+Supreme 1:1,15 
+
+32:7 33:18 
+sure 24:1 40:21 
+
+41:6 42:7 57:3 
+Surely 12:12 
+suspect 5:7 
+suspenders 38:3 
+syndrome 39:19 
+
+40:14,14 41:8 
+50:3 55:18 
+56:13,19 
+
+T 
+T 2:1,1 
+take 12:16 27:5 
+
+40:12 
+taken 12:12,13 
+talk 5:14 40:18 
+
+41:14 
+talking 5:13,21 
+
+23:14 51:4 
+teacher 20:22 
+tell 50:17 
+tendency 55:11 
+test 42:17 47:7 
+testify 27:15 
+
+37:12 40:1 
+49:3 
+
+testifying 41:1 
+testimony 13:10 
+
+21:12 39:18 
+40:12 45:15,23 
+46:8 50:3 54:6 
+54:15,15 56:5 
+
+Thank 30:24 
+31:3 49:10 
+51:12 57:25 
+58:1 
+
+theme 43:17 
+theory 52:6 
+thing 5:23 16:13 
+
+21:21,23 22:10 
+23:7 24:18,23 
+32:18 37:8,8 
+37:12 39:4 
+40:20 52:7 
+56:6 
+
+things 21:25 
+45:6 49:5,16 
+50:10 51:13 
+53:7,8 
+
+think 4:16 5:25 
+6:18 7:21 8:13 
+10:21 11:6 
+13:17 14:21 
+15:6 17:24 
+18:2,2,3,24,25 
+19:18 20:7 
+23:10 26:7,10 
+
+26:16 27:10,18 
+28:23 29:25 
+30:14 31:9 
+33:2 34:5,24 
+34:24 36:1,2 
+36:18,25 38:3 
+38:14,18 39:15 
+40:9,21 41:19 
+41:24 42:6,9 
+43:2,3,21 44:8 
+44:21 45:8 
+47:5,6,8,10,24 
+48:6,10 50:15 
+54:1,2 55:14 
+56:8,11 
+
+third 5:10 
+thought 9:17,21 
+
+9:24 18:5 
+23:15 27:14 
+35:19 36:9 
+46:11 50:19 
+
+three 3:15,15 
+5:11 
+
+tied 34:5 35:4 
+time 6:21 7:25 
+
+15:13,16 27:19 
+28:7,8 30:3 
+31:12 34:2 
+36:1 41:10,10 
+41:11 44:20 
+57:12 
+
+TIMOTHY 1:8 
+told 13:4 21:4 
+tools 42:16 
+top 20:14 
+totally 36:3 
+Tovar 15:13 
+Townsend 53:4 
+
+53:13 
+transcript 35:15 
+
+37:4 56:16 
+transpire 43:1 
+treat 37:22 
+
+44:20 
+treated 37:23 
+trial 8:4 11:4 
+
+16:18,25 19:19 
+
+19:20 21:2 
+22:17 23:19 
+24:22 25:1 
+30:7 31:23 
+37:9,13,15 
+39:11 40:10 
+41:4,9,11 43:7 
+44:20 45:21 
+50:12,17 56:12 
+
+tried 12:23 
+trigger 52:4 
+troubled 55:17 
+true 13:9 21:6 
+
+47:20 54:7 
+truncated 55:15 
+try 3:15 16:22 
+
+28:11 54:18 
+trying 23:6 
+
+29:22 30:1,3 
+35:22 40:25 
+42:23 
+
+Tuesday 1:12 
+turn 31:12 36:10 
+turning 36:22 
+turns 57:10 
+twisting 5:1 
+two 5:17,20 6:18 
+
+7:11 11:16 
+14:10 27:15 
+34:25 35:3 
+37:19 38:14 
+42:9 44:16 
+48:17 51:13 
+53:6 
+
+type 15:8 16:12 
+22:2 23:13,14 
+26:6,20 27:18 
+30:20 44:4 
+47:17 
+
+U 
+undermine 
+
+44:17 
+understand 9:1 
+
+15:22,24 18:14 
+18:15 26:23 
+28:24 29:3 
+
+31:19 40:24 
+43:8,9 50:16 
+52:19 
+
+understands 
+30:12 43:20 
+44:6,9 
+
+understood 16:9 
+22:20 36:17 
+43:12,24 
+
+undertaking 
+47:11 
+
+undertook 
+46:14 
+
+undeterable 
+55:12 
+
+unfolded 46:2 
+unfortunately 
+
+32:14 
+uninformed 
+
+28:10 
+uniquely 25:3 
+United 1:1,16 
+universe 24:4 
+unreasonable 
+
+3:19 12:4 
+13:19 16:24 
+17:7 19:9 
+40:22,25 
+
+unreasonably 
+20:10 
+
+unwarranted 
+4:4 
+
+unwilling 40:19 
+upbringing 
+
+20:24 
+use 39:6 40:1 
+
+42:17 48:19 
+uses 38:23 
+utero 39:8 
+
+V 
+v 1:7 
+valid 13:12 36:2 
+
+41:19 
+validly 36:4 
+value 55:9 
+various 20:22 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 69 
+
+Verrilli 1:20 2:5 
+30:25 31:1,3 
+32:25 33:3,11 
+33:16 34:18,23 
+35:22 36:7,12 
+38:7,12 39:4 
+39:12 40:3,21 
+41:3,24 42:3,6 
+42:20 43:2,16 
+44:8,19 45:8 
+46:10,13 47:5 
+47:22 49:8,10 
+49:25 50:2,6 
+50:19,23 51:1 
+51:8,12,24 
+52:3,11,18 
+53:12,22 54:1 
+54:7,13 55:14 
+55:24 56:3,14 
+57:3 58:2 
+
+versus 3:4 15:12 
+view 5:25 6:10 
+
+35:8 
+violence 13:5 
+
+19:4 22:22 
+23:10 38:10,22 
+46:25 55:10 
+
+violent 34:16 
+visit 57:6 
+voluntarily 4:12 
+
+14:14 35:16 
+voluntary 3:23 
+
+4:2,9,21 14:19 
+17:14,22 18:1 
+26:19 46:18 
+
+W 
+waive 4:12,15 
+
+15:15 19:25 
+26:2 36:4 
+
+waived 9:23 
+10:6,10,11 
+12:15 13:15,22 
+13:25 14:6 
+18:8,21 25:15 
+31:22,25 35:17 
+38:1,5,6 41:23 
+
+43:25 50:21,22 
+51:3 
+
+waiver 4:21 8:4 
+9:2 10:19 11:5 
+12:8,21 13:12 
+14:11 15:2,3 
+16:8,15 17:13 
+17:21 18:9,10 
+25:12,20,25 
+26:13,18,25 
+27:17,23 28:9 
+28:16,18,19 
+29:4,12 31:6 
+31:17 32:3,10 
+32:16 34:17,20 
+34:22 35:4,8 
+36:2,5,17,18 
+36:23 37:3,4,7 
+37:23,24 38:4 
+41:19 42:25 
+43:1,6 44:21 
+44:24 45:3,6 
+46:9,16,17,18 
+46:18,21 51:5 
+
+waivers 14:20 
+26:24 
+
+waiving 26:4 
+28:4 
+
+want 5:2,14,16 
+5:18 7:16,23 
+8:5,6,15 9:9 
+11:5 14:11 
+17:4 19:6,9 
+21:6 25:10 
+28:9 30:6 34:6 
+36:7 37:9,13 
+41:6 42:6,21 
+43:12 44:15,15 
+49:1,7,13,17 
+49:18,19,24 
+54:16,18 56:25 
+57:8,9 
+
+wanted 48:13 
+wants 8:10 9:4,7 
+
+9:13 15:6 
+19:22,23 20:20 
+22:20,24 26:21 
+
+27:13 57:1 
+warrant 31:13 
+Washington 
+
+1:11,20 
+wasn't 4:11 10:9 
+
+12:22 32:11 
+35:12,13 36:6 
+38:8 51:19 
+56:6 
+
+way 8:11,12 
+12:14 14:18 
+16:14 38:9 
+45:12 46:3 
+54:20 56:10 
+
+WAYNE 1:9 
+weighed 41:10 
+weighing 41:5 
+
+46:13 56:10 
+went 11:25 
+
+32:21 54:20 
+we'll 3:3 50:8 
+we're 18:24 
+
+23:14 24:15 
+31:14 35:22 
+36:18 37:12 
+42:8 43:4 45:8 
+46:15 48:6 
+50:17 51:14,15 
+55:2 
+
+we've 12:23 
+50:15 53:5,7 
+
+Williams 51:17 
+52:19 
+
+win 8:11 
+witness 19:17 
+witnesses 21:24 
+
+22:16 23:23 
+24:7 37:10,11 
+37:19 39:6 
+44:16 
+
+words 18:1,24 
+20:18 36:12 
+45:3 49:18 
+52:16,16 
+
+world 24:12 
+45:13 46:2 
+57:16 
+
+worst 20:24 
+wouldn't 4:12 
+
+9:12,20 16:5 
+18:8,21 28:12 
+41:22 
+
+written 50:11 
+wrong 11:8 12:1 
+
+31:18 32:25 
+50:9 
+
+wrongly 50:15 
+55:16 
+
+X 
+x 1:2,10 
+
+Y 
+Yeah 22:7 
+year 28:5 
+years 44:23 
+
+Z 
+Zerbst 32:3,19 
+
+33:19 
+
+0 
+05-1575 1:7 3:4 
+
+1 
+10:56 1:16 3:2 
+101 32:8 
+102 32:8 33:6 
+11 30:11 
+11:55 58:4 
+13 45:12 
+
+2 
+2 51:23,24 52:5 
+
+52:13,14 
+2007 1:12 
+21 37:21 40:10 
+2254(e) 8:20 
+2254(e)(2) 34:8 
+
+51:16 
+
+3 
+3 2:4 
+31 2:6 
+
+5 
+
+5 49:16 
+
+8 
+88 48:16,24 
+
+9 
+9 1:12 
+92 32:4,23 
+99 33:6 
+
+Alderson Reporting Company 
+
+

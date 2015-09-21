@@ -1,0 +1,3942 @@
+
+         
+
+         
+
+                       
+
+   
+
+                        
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 AKIO KAWASHIMA, ET UX., : 
+
+4  Petitioners :
+
+ v. : No. 10-577 
+
+6 ERIC H. HOLDER, JR., ATTORNEY : 
+
+7 GENERAL. : 
+
+8 - - - - - - - - - - - - - - - - - x 
+
+9  Washington, D.C.
+
+ Monday, November 7, 2011 
+
+11 
+
+12  The above-entitled matter came on for oral 
+
+13 argument before the Supreme Court of the United States 
+
+14 at 11:07 a.m. 
+
+APPEARANCES: 
+
+16 THOMAS J. WHALEN, ESQ., Washington, D.C.; for 
+
+17  Petitioners. 
+
+18 CURTIS E. GANNON, ESQ., Assistant to the Solicitor 
+
+19  General, Department of Justice, Washington, D.C.; for
+
+ Respondent. 
+
+21 
+
+22 
+
+23 
+
+24 
+
+1
+ 
+Alderson Reporting Company 
+
+
+
+                                
+
+                   
+
+                    
+
+                   
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF PAGE 
+
+3 THOMAS J. WHALEN, ESQ. 
+
+4  On behalf of the Petitioners 3 
+
+ORAL ARGUMENT OF 
+
+6 CURTIS E. GANNON, ESQ. 
+
+7  On behalf of the Respondent 17 
+
+8 REBUTTAL ARGUMENT OF 
+
+9 THOMAS J. WHALEN, ESQ.
+
+ On behalf of the Petitioners 42 
+
+11 
+
+12 
+
+13 
+
+14 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+2
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (11:07 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+4 next in Case 10-577, Kawashima v. Holder.
+
+ Mr. Whalen. 
+
+6  ORAL ARGUMENT OF THOMAS J. WHALEN 
+
+7  ON BEHALF OF THE PETITIONERS 
+
+8  MR. WHALEN: Mr. Chief Justice, and may it 
+
+9 please the Court:
+
+ Mr. and Mrs. Kawashima came here to the 
+
+11 United States as legal immigrants in 1985. And later 
+
+12 on, they pled guilty to filing a false statement under a 
+
+13 corporate tax return. The issue we bring to the Court 
+
+14 is whether that conviction under 26 U.S.C. 7206 is an 
+
+aggravated felony, specifically under (M)(i) of the 
+
+16 aggravated felony statute. 
+
+17  This Court many times has held that it is 
+
+18 the elements of the crime of conviction that determine 
+
+19 whether a crime is an aggravated felony. And the 
+
+elements of 7206 do not change when they go over to the 
+
+21 immigration statute. And the terms of that statute is 
+
+22 basically as the Department of Justice has written in 
+
+23 its Tax Manual. It is basically a tax perjury statute. 
+
+24 If you don't tell the truth, and you know what you're 
+
+saying is false, and you do it under oath, that's 
+
+3
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 perjury. 
+
+2  There are other statutes, perjury statute, 
+
+3 which in essence says the same thing. And 18 U.S.C. 
+
+4 1001 is also a perjury statute. And none of them 
+
+require the Justice Department or a court to determine 
+
+6 whether fraud and deceit was an element of that crime. 
+
+7  JUSTICE SCALIA: How would you prove fraud 
+
+8 and deceit beyond proving that the person lied, 
+
+9 intentionally lied? What -- what is added to 
+
+intentionally lying to convert that into fraud or 
+
+11 deceit? 
+
+12  MR. WHALEN: It's the intention to deceive 
+
+13 or the intention to defraud. And simply --
+
+14  JUSTICE SCALIA: Isn't intentionally 
+
+lying -- doesn't that mean that you intend to deceive? 
+
+16  MR. WHALEN: It does not, Your Honor. 
+
+17  JUSTICE SCALIA: It doesn't? 
+
+18  MR. WHALEN: It does not mean, because you 
+
+19 are saying a false -- making a false statement, that 
+
+that is evidence of an intent to deceive. 
+
+21  JUSTICE GINSBURG: Mr. Whalen, the common 
+
+22 definition of deceit is acting -- intentionally giving a 
+
+23 false impression, intentionally giving a false 
+
+24 impression with the intent that someone will act on it. 
+
+So, it seems that's exactly what filing a false return 
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 is. You give a false impression of what your income is 
+
+2 with the intent that the IRS will accept it. 
+
+3  MR. WHALEN: Justice Ginsburg, the 
+
+4 difference I'm trying to ask the Court to consider, it 
+
+is the intent which is an element of fraud and deceit. 
+
+6 Under section 7201, the tax evasion statute, that 
+
+7 includes both a requirement or a finding of fraud and 
+
+8 deceit. Section 7206 does not. 
+
+9  JUSTICE GINSBURG: But why isn't it obvious? 
+
+What proof would you need? You submit a document 
+
+11 because you want to convey a false impression for 
+
+12 someone to act on. Why do you have to have anything 
+
+13 more than that to establish deceit? 
+
+14  MR. WHALEN: Because the requirements, Your 
+
+Honor, of 7206 is a finding of -- of simply making a 
+
+16 false statement. That's all that's required. The IRS, 
+
+17 when they go after a taxpayer because they have not 
+
+18 provided -- they have not disclosed all of their income, 
+
+19 the IRS comes in, or rather the Department of Justice, 
+
+and all they have to prove is that it's false. They 
+
+21 don't have to prove --
+
+22  JUSTICE KENNEDY: And that it's willful. 
+
+23 And that it's willful. 
+
+24  MR. WHALEN: Pardon me, Your Honor.
+
+ JUSTICE KENNEDY: That it's willful. 
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Whoever willfully makes a false statement.
+ 
+
+2  MR. WHALEN: Yes, Your Honor, but as this
+ 
+
+3 Court held --
+
+4  JUSTICE KENNEDY: So, it's not correct.
+
+
+ MR. WHALEN: No, Your Honor. 
+
+6  JUSTICE KENNEDY: Well, correct me if I'm 
+
+7 wrong. It would seem to me, just from reading the 
+
+8 statute unless we have some gloss on, that if you think 
+
+9 it's true but it's false, from the way you were 
+
+indicating, would be a violation. That's not the way I 
+
+11 read it. Now, have we said something other than that in 
+
+12 later cases? 
+
+13  MR. WHALEN: If I may, Your Honor. This 
+
+14 Court has written in the Spies case, and specifically in 
+
+the Bishop case, that in order to be convicted of any 
+
+16 tax offense under the Internal Revenue Code, the IRS or 
+
+17 the Department of Justice must show it was done 
+
+18 willfully. Willfully is not intrinsic to any -- it's 
+
+19 really intrinsic to all of the tax offenses. 
+
+"Willfully" does not mean deceit or fraud. It simply 
+
+21 means that the IRS cannot bring a criminal information 
+
+22 or indictment against somebody who does something 
+
+23 unintentionally. They must do it willfully. 
+
+24 "Willfully," as this Court defined in Bishop, is simply 
+
+evidence that -- to commit any of these IRS crimes you 
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 must -- it must be shown to have been done willfully. 
+
+2  JUSTICE SCALIA: You must know that it's 
+
+3 false when you say it. Isn't that what "willfully" 
+
+4 means? You must know that the statement you're making 
+
+is false. 
+
+6  MR. WHALEN: "Willfully" means 
+
+7 intentionally. The false, I submit --
+
+8  JUSTICE SCALIA: I don't want another 
+
+9 adverb.
+
+ MR. WHALEN: No. All right. 
+
+11  JUSTICE SCALIA: I want you to describe what 
+
+12 it means in the context of a statement. Doesn't it mean 
+
+13 that you have to know that the statement you are making 
+
+14 is false? Isn't that enough for willfulness?
+
+ MR. WHALEN: That's what -- that -- yes. 
+
+16  JUSTICE SCALIA: Okay. Now, you tell me 
+
+17 what deceit involves beyond that. 
+
+18  MR. WHALEN: Deceit involves an intention to 
+
+19 induce somebody to act. And what I'm arguing to this 
+
+Court is that simply making a false statement under a 
+
+21 tax perjury statute such as we have in this case does 
+
+22 not meaning and does not evidence an intention to 
+
+23 deceive or a finding. 
+
+24  JUSTICE SOTOMAYOR: I'm sorry. I'm a little 
+
+bit lost here. 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  Your definition of "deceit" is a false
+ 
+
+2 statement with an intent for the other party to rely.
+ 
+
+3 And you don't see that when you file your tax returns
+ 
+
+4 that the government is relying on your statement to
+ 
+
+calculate your tax and to ensure that you've paid it? 
+
+6 You don't see any reliance by the government on the 
+
+7 truthful statements there and its collection of taxes? 
+
+8  MR. WHALEN: I -- I do see reliance as 
+
+9 generally is what happens. What I'm saying is that 7206 
+
+is a perjury statute and the government does not have to 
+
+11 prove, and did not have to prove in this case, anything 
+
+12 more than the -- the income was unreported or the tax --
+
+13 the tax return was -- was false. If --
+
+14  JUSTICE SOTOMAYOR: So, it also had to prove 
+
+that the government relied? Is that what you're saying 
+
+16 the --
+
+17  MR. WHALEN: I'm saying that the 
+
+18 government was -- if the government wanted to prove 
+
+19 fraud or deceit, they -- that would be an element of the 
+
+crime of tax evasion --
+
+21  JUSTICE SOTOMAYOR: I'm not even sure why, 
+
+22 because under tax evasion you can be charged with tax 
+
+23 evasion merely for avoiding the payment of tax. You 
+
+24 don't have to make a statement at all. You can take the 
+
+money from the bank, withdraw it openly, and stick it in 
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 your mattress, refuse to pay, and if somehow they find 
+
+2 your mattress, you can be charged with tax evasion. 
+
+3  MR. WHALEN: And the --
+
+4  JUSTICE SOTOMAYOR: Where's the false and 
+
+deceit in that? 
+
+6  MR. WHALEN: The government would have to 
+
+7 prove fraud or deceit, because an intent to evade is --
+
+8 the Court -- the -- the government has to prove --
+
+9  JUSTICE SOTOMAYOR: If there's a -- if there 
+
+are cases that say otherwise, what does that do to your 
+
+11 argument? Of which there are many that say that the 
+
+12 avoidance of taxes, tax payment, doesn't require an act 
+
+13 of fraud or deceit? 
+
+14  MR. WHALEN: I would be surprised by 
+
+those --
+
+16  JUSTICE BREYER: Well, suppose somebody 
+
+17 goes -- he goes to a country where we have no 
+
+18 extradition treaty, takes all his assets and writes a 
+
+19 postcard to the IRS every -- once a month saying 
+
+ha-ha-ha. 
+
+21  (Laughter.) 
+
+22  JUSTICE BREYER: I mean, why wouldn't that 
+
+23 be an attempt to evade? That's why he went; he didn't 
+
+24 like to pay his taxes.
+
+ MR. WHALEN: Then the government would bring 
+
+9
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 an action under the --
+
+2  JUSTICE BREYER: Well, 7201. Why can't 
+
+3 you -- well, why doesn't that violate 7201? I mean, my 
+
+4 simple question really is you are a drafter, imagine you 
+
+are a drafter, and you are charged with drafting section 
+
+6 (43). And you read -- you try to get the fraud and 
+
+7 deceit crimes, okay? So now we read 76 -- 7206(1) and 
+
+8 (2). And you see for both of those, you can't be 
+
+9 convicted unless you materially and willfully make a 
+
+false statement. 
+
+11  So, you think, hey, I don't need a special 
+
+12 section on that one. But then you go to 7201, and you 
+
+13 say, oh, my God, I just thought, somebody might violate 
+
+14 this by going off to some special country, taking all 
+
+his assets and writing ha-ha-ha. Now, there's no fraud 
+
+16 and deceit in that. He's totally open about it. But he 
+
+17 sure has evaded it. So, therefore, I better write a 
+
+18 special section. 
+
+19  Now, that's the simple-minded argument, but 
+
+what's wrong with it? 
+
+21  MR. WHALEN: What's wrong with it, Your 
+
+22 Honor, is that what we're talking about is the 
+
+23 aggravated felony statute. And the issue -- and it may 
+
+24 be a narrow one for this Court -- is whether the 
+
+conviction under 7206, which does not require anything 
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 more than filing of a false statement without any intent 
+
+2 to deceive or defraud -- whether that is an aggravated 
+
+3 felony. And this Court has said time and again that it 
+
+4 is the elements of the offense that determines 
+
+aggravated felony. 
+
+6  If I may illustrate the point, if -- if a 
+
+7 conviction under 7206 was viewed by this Court as 
+
+8 including fraud and deceit for the reasons many of the 
+
+9 Justices have indicated, that, you know, that when 
+
+somebody writes a false tax return, it's got to be 
+
+11 deceit, what that does is that would collaterally estop 
+
+12 a taxpayer from denying fraud and deceit in the civil 
+
+13 collection action. 
+
+14  So, this is what Commissioner Walters was 
+
+concerned about, why he has filed his brief, that it in 
+
+16 effect would undermine the ability of the government to 
+
+17 get an easy conviction based simply on a false 
+
+18 statement. 
+
+19  Similarly, if you are convicted of tax 
+
+evasion, the -- the tax evader cannot challenge fraud. 
+
+21 He is collaterally estopped. And as we know, when the 
+
+22 government goes to seek recovery -- that is, getting the 
+
+23 taxes back in a civil proceeding -- there's no statute 
+
+24 of limitations.
+
+ The intention of Congress is also reflected 
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 in the Internal Revenue Code section 6501, where if a 
+
+2 person is convicted under 7206 and the government seeks 
+
+3 to collect the unpaid taxes in an assessment proceeding, 
+
+4 Congress particularly said that where there's a 
+
+conviction under 7206, the government has the burden of 
+
+6 proving fraud, which seems to me to be evidence -- or 
+
+7 rather, the government has the -- a duty to prove there 
+
+8 was an attempt to evade the tax. But the conclusion is 
+
+9 the same.
+
+ If Congress had intended that proof of fraud 
+
+11 and deceit would be in 7206, there would be no reason at 
+
+12 all for Congress to put that in 70 -- 6501. 
+
+13 Therefore --
+
+14  CHIEF JUSTICE ROBERTS: I'm sorry. That's 
+
+26 U.S.C. 6501? 
+
+16  MR. WHALEN: Yes. To be more precise, 
+
+17 6501(c)(1). 
+
+18  CHIEF JUSTICE ROBERTS: Okay. 
+
+19  MR. WHALEN: That is the exceptions to the 
+
+running of the statute of limitations. 
+
+21  JUSTICE GINSBURG: Do we have that in the 
+
+22 briefs? 
+
+23  MR. WHALEN: I have it in my reply brief. I 
+
+24 don't have the particular statute, but I refer to it in 
+
+the reply brief. 
+
+12
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SCALIA: Do you have the text of it? 
+
+2  MR. WHALEN: I --
+
+3  JUSTICE SCALIA: I don't like counsel 
+
+4 getting up here and talking about statutes that they've 
+
+never put before us. If you're going to rely on it, we 
+
+6 -- we would like to have the text somewhere. 
+
+7  MR. WHALEN: Yes. I apologize for that, 
+
+8 Your Honor. 
+
+9  I would like to move to the second part of 
+
+my argument, if Your Honor please, that the -- this 
+
+11 Court has been very clear on deciding statutes invoking 
+
+12 canons of construction. And one of the important canons 
+
+13 is that different words have different meanings. 
+
+14  So, in (M)(i), we have loss to victim or 
+
+victims in excess of $10,000, and in (M)(ii), we have a 
+
+16 revenue loss to the government in excess of 10,000. And 
+
+17 as this Court said in Nijhawan, referring to (M)(ii), 
+
+18 this is the Internal Revenue provision, a correct 
+
+19 assessment I suggest, and that (M)(i) deals with 
+
+injuries or damage to third parties, not to the 
+
+21 government. 
+
+22  If you take the government's position that 
+
+23 fraud and deceit crimes are in -- fraud and deceit 
+
+24 revenue crimes are in (M)(i), then (M)(ii) would be 
+
+worthless or pointless. 
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SCALIA: Well, why? Because it 
+
+2 wouldn't be pointless if in fact an attempt to evade or 
+
+3 defeat tax does not require a lie, does not require a 
+
+4 willful lie. It would be adding to the -- to the fraud 
+
+and deceit offenses, 7201, which does not require a lie. 
+
+6 It just requires, you know, going to Cuba and writing 
+
+7 postcards saying, I know I owe money; I'm just not -- I 
+
+8 just ain't gonna pay it. There's no fraud and deceit 
+
+9 there. It's just what 7201 requires, an attempt to 
+
+evade or defeat tax. 
+
+11  MR. WHALEN: Well, anyone who leaves the 
+
+12 country with an intent to avoid tax is committing tax 
+
+13 evasion. 
+
+14  JUSTICE SCALIA: That's right. That's my 
+
+very point. 
+
+16  MR. WHALEN: And that is --
+
+17  JUSTICE SCALIA: Without lying -- without 
+
+18 lying -- without making a single lie. 
+
+19  MR. WHALEN: What I'm saying is that fraud, 
+
+such as you suggest, Your Honor, is going to be an 
+
+21 aggravated felony. It's the only one that Congress 
+
+22 says -- only revenue offense, only offense under the 
+
+23 Internal Revenue Code which Congress designated as an 
+
+24 aggravated felony.
+
+ What I'm saying is that if tax evasion were 
+
+14
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 also included in (M)(i), then Congress would have 
+
+2 created a useless, pointless provision. 
+
+3  JUSTICE SCALIA: Yes. And my point is that 
+
+4 it would not have been included within (M)(i). There is 
+
+no way that it could be included with (M)(i), because it 
+
+6 does not involve fraud or deceit. It does not involve a 
+
+7 lie, as 7206 does. 
+
+8  MR. WHALEN: 7201 involves, I'm suggesting 
+
+9 that --
+
+JUSTICE SCALIA: An attempt to evade or 
+
+11 defeat -- "who willfully attempts in any manner to evade 
+
+12 or defeat any tax." And one can do that without lying. 
+
+13 One can do that by simply not report income, for 
+
+14 example. Or in -- in Justice Breyer's more colorful 
+
+example, by going to Cuba. Was it Cuba or somewhere 
+
+16 else? 
+
+17  (Laughter.) 
+
+18  MR. WHALEN: Well, the point I am trying to 
+
+19 make, Your Honor, is that if your example is an example 
+
+of fraud and deceit, which I agree it is, then a crime 
+
+21 of fraud and deceit would not be in (M)(i) because it 
+
+22 would be -- it would already be captured in (M)(i) if 
+
+23 the government's position was upheld. 
+
+24  JUSTICE GINSBURG: But the point that was 
+
+being made is not that it's fraud and deceit. Quite the 
+
+15
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 opposite. I think Justice Breyer, Justice Sotomayor, 
+
+2 Justice Scalia have tried to get you to focus on the 
+
+3 evasion that involves no false statement at all, evading 
+
+4 payment where you say nothing. What would be the crime 
+
+if you simply don't pay your taxes, and you don't file a 
+
+6 return, so you are not filing anything that's false? 
+
+7 Where would that come in the Internal Revenue --
+
+8  MR. WHALEN: That would be a violation of 
+
+9 one of the other Internal Revenue crimes.
+
+ JUSTICE GINSBURG: Would it be evasion 
+
+11 simply not to report your income? 
+
+12  MR. WHALEN: If the government chose to 
+
+13 prove that it was an attempt to evade the tax, it would. 
+
+14 The Internal Revenue's statute and crimes all carry the 
+
+duty to -- it's a legal duty we all have of fairly 
+
+16 reporting our income, our deductions, what have you. 
+
+17 It's the same legal duty whether it's in 7201 or 7206. 
+
+18  The difference is, in tax evasion, there 
+
+19 must be a proof of fraud or deceit. That's inherent. 
+
+From the beginning of this country -- rather, beginning 
+
+21 of the tax statutes, Congress has always separated 
+
+22 revenue statutes from other crimes. In this case, 
+
+23 (M)(i) deals with crimes involving third parties; 
+
+24 (M)(ii) deals with revenue loss crimes to the 
+
+government. Only (i) is an aggravated felony. 
+
+16
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  I would like to reserve the remainder of my 
+
+2 time for rebuttal. 
+
+3  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+4  Mr. Gannon.
+
+ ORAL ARGUMENT OF CURTIS E. GANNON 
+
+6  ON BEHALF OF THE RESPONDENT 
+
+7  MR. GANNON: Mr. Chief Justice, and may it 
+
+8 please the Court: 
+
+9  Congress's specific reference to tax evasion 
+
+in subparagraph (M)(ii) of the INA's definition of 
+
+11 aggravated felony did not remove all other tax offenses 
+
+12 from the scope of subparagraph (M)(i). 
+
+13  JUSTICE KAGAN: Mr. Gannon, do you think 
+
+14 that you can commit tax evasion without committing 
+
+either fraud or deceit, and are there cases that show 
+
+16 that? 
+
+17  MR. GANNON: The cases that we cited in our 
+
+18 brief on page 34 that discuss this are ones that are 
+
+19 evasion of payment cases as opposed to evasion of 
+
+assessment cases. And those -- those are instances in 
+
+21 which somebody could accurately file a tax return and 
+
+22 say I owe you this amount of money and then take steps 
+
+23 to prevent the IRS from collecting on it, usually by 
+
+24 removing their assets from the IRS's reach.
+
+ As a factual matter, it so happens that most 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 of those cases will often involve some concealment along 
+
+2 the way. If somebody's taking more than $10,000 in gold 
+
+3 coins out of the country to take them to a Swiss bank, 
+
+4 they often don't mention that when they're leaving the 
+
+country. 
+
+6  JUSTICE SCALIA: What about just not filing 
+
+7 a return? 
+
+8  MR. GANNON: Just not filing a return is 
+
+9 probably not going to be enough to establish tax 
+
+evasion. That would be an offense under 7203, which 
+
+11 doesn't necessarily involve fraud or deceit. The thing 
+
+12 that distinguishes 7201 is the need for the government 
+
+13 to establish that there is an attempt to evade either 
+
+14 the assessment or payment of taxation.
+
+ JUSTICE KAGAN: I mean, I suppose what 
+
+16 confuses me is that when somebody is convicted of 7201, 
+
+17 they can't -- they're estopped from contesting a civil 
+
+18 fraud suit; isn't that right? And it also counts as a 
+
+19 crime of moral turpitude, which involves fraud. And all 
+
+of those things suggest, and I think kind of the cases 
+
+21 as a whole suggest, that tax evasion involves fraud. 
+
+22  MR. GANNON: Well, certainly in the context 
+
+23 of the civil tax fraud penalty, the Tax Court has 
+
+24 concluded that intent to evade is synonymous with an 
+
+understatement due to fraud. And the reason why it has 
+
+18
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 refused to reach that conclusion in the context of 7206 
+
+2 offenses, like the ones at issue in this case, is 
+
+3 because the 7206 offense does not require the government 
+
+4 to have proved that there was any understatement to 
+
+begin with. And so, there could not have been an 
+
+6 understatement due to fraud. 
+
+7  I'd also note that it's not at all clear 
+
+8 that in the context of the evasion of payment cases that 
+
+9 I was just discussing in the context of tax evasion, 
+
+that the same civil tax fraud penalty would be 
+
+11 applicable there, because the civil tax fraud penalty is 
+
+12 triggered by an understatement of an amount required to 
+
+13 be shown on the return. And, therefore, if it isn't --
+
+14 if it isn't actually something that's done in the 
+
+context of filing a tax return that understates how much 
+
+16 you owe the government, then -- then that may well not 
+
+17 trigger the collateral estoppel effect in the follow-on 
+
+18 civil case. 
+
+19  CHIEF JUSTICE ROBERTS: Counsel, what did 
+
+you --
+
+21  JUSTICE SOTOMAYOR: Excuse me. Are there 
+
+22 any tax provisions that you think are not covered by the 
+
+23 fraud and deceit section and the tax evasion section? 
+
+24  MR. GANNON: You mean --
+
+JUSTICE SOTOMAYOR: Any tax crime. 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. GANNON: Any tax crime --
+
+2  JUSTICE SOTOMAYOR: Felonies, I should say. 
+
+3  MR. GANNON: There are several tax offenses 
+
+4 that don't necessarily involve fraud or deceit. So, 
+
+parts of 7202, which is the willful failure to collect 
+
+6 tax, would not necessarily involve fraud and deceit, but 
+
+7 it also covers failing to truthfully account for 
+
+8 collected tax. So, some of those offenses would involve 
+
+9 fraud or deceit, and it may be divisible. 7203, which I 
+
+just mentioned --
+
+11  JUSTICE SOTOMAYOR: Does that fall under tax 
+
+12 evasion, or that's a separate statute? 
+
+13  MR. GANNON: That's not tax evasion. The 
+
+14 only thing that counts as tax evasion is 7201.
+
+ JUSTICE SOTOMAYOR: I cut you off. Which 
+
+16 are the other ones? 
+
+17  MR. GANNON: I was saying that I already 
+
+18 mentioned to Justice Scalia that section 7203 -- all of 
+
+19 these offenses I'm talking about are in 26 U.S.C.; 7203, 
+
+the willful failure to file a return or to pay tax or 
+
+21 maintain records or supply information doesn't 
+
+22 necessarily involve fraud or deceit. Parts of 7204, 
+
+23 which is failing to furnish a statement to the employee 
+
+24 reflecting the amount of taxes, but not -- but then, 
+
+again, I think it could be divisible because it would 
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 also apply to furnishing a false statement to your 
+
+2 employee. Even the misdemeanor offense under 7207 for 
+
+3 presenting false documents might be covered for fraud or 
+
+4 deceit, but in practice it's only used when there's --
+
+it's only used when the tax deficiencies are de minimis. 
+
+6 And so, it would never trigger the $10,000 loss 
+
+7 requirement that (M)(i) would also require us to 
+
+8 establish in order to make it an aggravated felony. 
+
+9  CHIEF JUSTICE ROBERTS: Counsel, what --
+
+what is your answer to your friend's 6501(c)(i) 
+
+11 argument? 
+
+12  MR. GANNON: Well, my answer is that I don't 
+
+13 think it proves really any more than the collateral 
+
+14 estoppel cases in the civil fraud context. The 
+
+provision that we're talking about is not reprinted in 
+
+16 any of the briefs, but 6501(c)(1) is an exception that 
+
+17 -- that lifts the limitation on when the IRS can levy an 
+
+18 assessment or seek collection; and it refers to the case 
+
+19 of a false or fraudulent return with the intent to evade 
+
+tax. And I think that in context, the reference to a 
+
+21 false or fraudulent return with intent to evade tax is 
+
+22 not something that clearly connotes that Congress is 
+
+23 just speaking to 7206 offenses. It uses not only the 
+
+24 word "fraudulent," but also "the intent to evade tax," 
+
+which I think --
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  CHIEF JUSTICE ROBERTS: Well, no, but I 
+
+2 think your friend's argument, which has some appeal, is 
+
+3 7206 is fraud and false statements. And he said if 
+
+4 you're right that that includes deceit, they wouldn't 
+
+have had to add "with the intent to evade tax," which is 
+
+6 what they do in 6501(c)(1). 
+
+7  MR. GANNON: Well, I -- I think if you look 
+
+8 to (c)(2), it also refers to a willful attempt in any 
+
+9 manner to defeat or evade tax. So, the next provision 
+
+also applies more broadly to 7201 and more closely 
+
+11 tracks the definition in 7201. So, I think just like 
+
+12 the statute of limitations provision that we note, 
+
+13 Congress is probably using a belt and suspenders 
+
+14 approach there, that -- we noted that Congress may well 
+
+have had reason to be concerned that 7201 offenses would 
+
+16 not necessarily be seen as having fraud or deceit as an 
+
+17 element of the offense in light of this Court's decision 
+
+18 in Scharton, which was an old case, but it had said that 
+
+19 in the -- in the statute of limitations context, that 
+
+the -- the extended statute of limitations that apply to 
+
+21 offenses in which fraud was an element was not triggered 
+
+22 by the statutory predecessor to tax evasion. And so, to 
+
+23 the --
+
+24  JUSTICE KAGAN: But Scharton was a very old 
+
+case which had been distinguished away by many courts. 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 It really has no power in the -- in the -- I mean, tell 
+
+2 me if I'm wrong, but --
+
+3  MR. GANNON: Well, to this day section 6531, 
+
+4 which is the statute of limitations provision which we 
+
+do reprint in our appendix, includes provisions that 
+
+6 refer not only generally to offenses involving fraud but 
+
+7 also specifically to a tax evasion offense. And so, I 
+
+8 think that the fact that Congress had already felt like 
+
+9 it needed to be expressed, to pull in not just fraud 
+
+offenses but also tax evasion offenses in 6531, makes it 
+
+11 unsurprising that they would have pursued a similar 
+
+12 approach here. In addition, I would --
+
+13  JUSTICE KAGAN: I mean, the paradoxical 
+
+14 thing about your argument is that, one, it makes us 
+
+think that Congress was just being hypervigilant about 
+
+16 this problem of making sure that tax evasion offenses 
+
+17 were covered, even though tax evasion offenses almost 
+
+18 always do involve fraud or deceit, but Congress was 
+
+19 thinking about these hypothetical possibilities that 
+
+maybe there was going to be some conviction out there 
+
+21 that would not involve fraud or deceit, and so Congress 
+
+22 is being super-careful about this; and yet, at the same 
+
+23 time, that Congress is being utterly careless, utterly 
+
+24 clueless about the basic rule of statutory construction 
+
+which is that one does not write superfluous language. 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. GANNON: But, Justice Kagan, we don't 
+
+2 think it's superfluous, in part because of the evasion 
+
+3 of payment cases we're talking about, but I think also 
+
+4 if you look at the context of the rest of paragraph 
+
+(43), the aggravated felony definition, you'll see that 
+
+6 there are several other provisions that have significant 
+
+7 overlap in them. And so subparagraph (A) refers to 
+
+8 murder and rape; those would also generally be covered 
+
+9 in crimes of violence in subparagraph (F). The same 
+
+thing is true in paragraph (E)(i); it pulls in various 
+
+11 explosives offenses including arson, destruction of 
+
+12 property or building by fire or explosives; that's the 
+
+13 reference to an 8441 --
+
+14  JUSTICE KAGAN: So, our rule of statutory 
+
+construction when it comes to this aggravated felony 
+
+16 statute is that superfluity doesn't matter? 
+
+17  MR. GANNON: No, Justice Kagan, I think that 
+
+18 in context, there is a lot of overlap among the 
+
+19 different provisions in -- in paragraph (43) already, 
+
+and I -- I was also going to mention subparagraph (K)(i) 
+
+21 and (ii), which like (M)(i) and (M)(ii), are ones that 
+
+22 have little (i), which has a generic reference there to 
+
+23 offenses associated with managing a prostitution 
+
+24 business, and little (ii) then expressly refers to 
+
+certain enumerated Federal statutes, all of which 
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 involve transporting individuals for purposes of
+ 
+
+2 prostitution in the case of seeking commercial
+ 
+
+3 advantage.
+ 
+
+4  And I think that virtually all of those
+ 
+
+offenses would have been included within (K)(i), but 
+
+6 Congress wanted to be sure and, therefore, added 
+
+7 (K)(ii). And as -- as Justice Breyer, I think, pointed 
+
+8 out before, textually it -- it had reason to think that 
+
+9 7206 would be picked up by fraud or deceit here in --
+
+JUSTICE GINSBURG: But 7206 is the lesser 
+
+11 offense. I mean, you don't take -- you don't dispute 
+
+12 that the heavier crime is the 7201 crime; that is, 
+
+13 evasion. It gets a more severe penalty. And when 
+
+14 Congress picks out one tax crime and one tax crime only, 
+
+why wouldn't we assume that that's what Congress meant 
+
+16 with respect to aggravated felonies? That there's one 
+
+17 tax crime, the most serious tax crime, that fits that 
+
+18 label. And the (M)(i) provision deals with the many, 
+
+19 many statutes that involve loss -- fraud or deceit and 
+
+loss to the victim? 
+
+21  MR. GANNON: The reason why we don't think 
+
+22 that's appropriate is in part because, as I've 
+
+23 explained, there would -- there is some aspect of which 
+
+24 (M)(ii) is not superfluous. But, more importantly, we 
+
+don't think that the specific controls -- the general 
+
+25
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 canon is triggered here, and we don't think that (M)(ii) 
+
+2 talks about a category of tax crimes or tax offenses 
+
+3 more generally, because it only refers to one offense. 
+
+4  And so, the cases that Petitioners invoke 
+
+here, in order to establish that there is a category 
+
+6 that's being pulled out of (M)(i), are HCSC-Laundry and 
+
+7 Leocal. Those are both cases in which the statute 
+
+8 actually identified the category of offenses in 
+
+9 question, whether it was the cooperative hospital 
+
+service organizations in HCSC-Laundry or DUI offenses in 
+
+11 Leocal. 
+
+12  And so, here we don't have Congress actually 
+
+13 saying tax offenses are covered by (M)(ii). What it 
+
+14 says is tax evasion is covered by (M)(ii). And --
+
+JUSTICE BREYER: But what about -- what 
+
+16 about -- suppose that didn't even exist here, 7201. 
+
+17 Suppose we only had 7206, and the question before us 
+
+18 was, does 7206 fit within the term "aggravated felony"; 
+
+19 i.e., does it involve fraud or deceit?
+
+ So, we read 7206; it doesn't say anything 
+
+21 about fraud or deceit. It says perjury and making a 
+
+22 false statement. So, then we go look up what were the 
+
+23 torts of fraud and deceit. And he's right. Fraud 
+
+24 traditionally requires an intent to get another person 
+
+to act, but you don't have to have that intent to 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 violate 7206. And deceit -- it not only involves that; 
+
+2 it also involves the person having acted. 
+
+3  So, the traditional tort of deceit, you have 
+
+4 to intend the acts, and he actually has to have acted to 
+
+his detriment. Fraud, you have the first of those and 
+
+6 second. You read the statute and say, well, say neither 
+
+7 of those is present here. This is just perjury, which 
+
+8 isn't good, but it's not fraud or deceit. And there we 
+
+9 are, not in the statute. What's the answer to that?
+
+ MR. GANNON: Well, I don't think that the 
+
+11 common law definitions of fraud and deceit are the ones 
+
+12 that this Court has always applied in the context --
+
+13  JUSTICE BREYER: No, no, not always. But 
+
+14 here we were dealing with a very serious statute, 
+
+aggravated felonies. That has terrible consequences for 
+
+16 the persons who fall within it. 
+
+17  MR. GANNON: And --
+
+18  JUSTICE BREYER: So -- and in most of these 
+
+19 M's and A's and B's and C's, and so forth, they refer to 
+
+statutes by number so most of it, though not all of it, 
+
+21 is very specific. So, when we read these words "fraud" 
+
+22 and "deceit" here, why don't we say fraud and deceit 
+
+23 means fraud and deceit? 
+
+24  MR. GANNON: Well, in the --
+
+JUSTICE BREYER: The traditional elements. 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. GANNON: In the criminal context, the 
+
+2 Court has recognized that fraud offenses don't require 
+
+3 the government to prove reliance or damages. And that 
+
+4 makes sense. If you think about the tort action, the 
+
+classic tort action, you would need to be an injured 
+
+6 plaintiff; and, therefore, you would need to be able to 
+
+7 say I relied on this to my detriment --
+
+8  JUSTICE BREYER: No, no, no. 
+
+9  MR. GANNON: -- and I want to recover.
+
+ JUSTICE BREYER: You have to prove that the 
+
+11 -- the liar intended reliance to -- to his detriment. 
+
+12  MR. GANNON: And --
+
+13  JUSTICE BREYER: Which he may or may not 
+
+14 have done. I mean, when you commit -- a person who 
+
+commits perjury may or may not have intended that a 
+
+16 victim rely to his detriment. Which you don't have to 
+
+17 prove here. 
+
+18  MR. GANNON: We do not have to prove as a 
+
+19 separate element that there's reliance or intended 
+
+reliance here, but we do need to prove what we think 
+
+21 satisfies the plain meaning of the term "deceit." We're 
+
+22 not focusing on fraud here but deceit, and that's the 
+
+23 act of intentionally giving a false impression, because 
+
+24 the elements of this offense are making and signing a 
+
+return under the penalties of perjury that it is false 
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 as to a material matter, that the defendant does not --
+
+2  JUSTICE BREYER: Deceit can mean that. 
+
+3 You're absolutely right. 
+
+4  MR. GANNON: -- does not believe to be true 
+
+or correct, and it's all done willfully. 
+
+6  JUSTICE BREYER: No, the tort didn't involve 
+
+7 that. The tort involved the same element of fraud which 
+
+8 you don't want to rely on. 
+
+9  MR. GANNON: That -- that's right, and we 
+
+think here Congress has used the -- the term --
+
+11  JUSTICE BREYER: Is there any -- is there 
+
+12 any evidence of what -- I mean is there any argument 
+
+13 other than that you just think that and you could argue 
+
+14 the other way? I mean, can we get anywhere?
+
+ MR. GANNON: Well, I think that Congress did 
+
+16 use the terms disjunctively here. And I think that now 
+
+17 the plain meaning of "deceit" is -- it sort of operates 
+
+18 in the opposite direction of the one that you're talking 
+
+19 about, Justice Breyer. And if you look at the way the 
+
+Court in Yermian discussed the difference between an 
+
+21 intent to defraud and intent to deceive, it talks about 
+
+22 an intent to defraud includes actually obtaining 
+
+23 something, whereas an intent to deceive just involves 
+
+24 creating a false impression. And so, I think that 
+
+actually the difference can run the other direction in a 
+
+29
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 way that supports the definition that we're relying upon 
+
+2 here. 
+
+3  But going back to the point that I was 
+
+4 trying to make about this not ruling out all tax 
+
+offenses, Justice Ginsburg, I think that the reference 
+
+6 to 7201 alone doesn't do that, nor do we think the fact 
+
+7 that Congress then added a limited -- limiting language 
+
+8 that said that when the revenue loss exceeds $10,000, it 
+
+9 would satisfy (M)(ii).
+
+ JUSTICE KAGAN: Could I make sure, 
+
+11 Mr. Gannon, that I understand your argument about 
+
+12 superfluity? Because when I asked whether (M) -- the 
+
+13 second provision was superfluous, you pointed me to 
+
+14 these evasion-of-payment cases. And you cite two of 
+
+them. But then you say even those cases will almost 
+
+16 invariably involve some affirmative acts of fraud. So, 
+
+17 are there, in fact, any cases, evasion of payment or 
+
+18 otherwise, which do not involve some affirmative acts of 
+
+19 fraud?
+
+ MR. GANNON: Well, I think that's as a 
+
+21 factual matter, Justice Kagan. We were --
+
+22  JUSTICE KAGAN: As a factual matter, are 
+
+23 there any? 
+
+24  MR. GANNON: We were observing that as a 
+
+factual matter, those evasion-of-payment cases probably 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 would not happen without there being acts of 
+
+2 concealment, but that doesn't --
+
+3  JUSTICE KAGAN: And that's what I'm asking. 
+
+4 As a factual matter, can you point me to any cases that 
+
+do not involve affirmative acts of fraud? 
+
+6  MR. GANNON: I don't believe that I can, but 
+
+7 I think that to the extent that the Court is looking to 
+
+8 the elements of the offense in 7201, if they're talking 
+
+9 about evasion of payment, that will not necessarily 
+
+require deceptive acts of concealment. And so, that's 
+
+11 the reason --
+
+12  JUSTICE KAGAN: I know, but we have a very 
+
+13 active IRS, which prosecutes lots of tax cases, and 
+
+14 you're saying that it just never prosecutes tax cases 
+
+under this section that don't involve affirmative acts 
+
+16 of fraud. 
+
+17  MR. GANNON: Well --
+
+18  JUSTICE KAGAN: And that makes me wonder why 
+
+19 Congress was so worried about this problem that it 
+
+ignored normal rules of statutory interpretation. 
+
+21  MR. GANNON: Well -- and I believe that the 
+
+22 reason that they were worried could be because of the 
+
+23 Scharton decision, in which this Court had already said 
+
+24 that evasion does not necessarily require fraud, because 
+
+the textual cues in 7201 are much further from fraud and 
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 deceit than those in 7206; that there's also -- there
+ 
+
+2 would be less certainty. Even assuming that Congress
+ 
+
+3 was well aware of the established practice at the
+ 
+
+4 Federal level of having 7201 tax evasion cases be
+ 
+
+compared with fraud, this is also a provision that 
+
+6 applies to State and foreign offenses. The penultimate 
+
+7 sentence of paragraph (43) says that the term applies to 
+
+8 an offense whether it's in violation of Federal or State 
+
+9 law.
+
+ JUSTICE GINSBURG: But that was one of the 
+
+11 problems that was brought up in the amicus brief which 
+
+12 actually you considered, that reading the (M)(i) to 
+
+13 include 7206 offenses would also -- would bring in 
+
+14 offenses that are merely misdemeanors at the State and 
+
+local level. It would really swell the category of tax 
+
+16 crimes that lead to deportation. That -- did Congress 
+
+17 really mean to turn misdemeanors into aggravated felons? 
+
+18  And then there was a very practical point 
+
+19 made, that the government is going to be hurt more than 
+
+helped by what you are seeking, because we are told that 
+
+21 very often the government will try to make a bargain. 
+
+22 It has a 7201 case, but it's going to be a little hard 
+
+23 to prove. So, they offer as a plea bargain 7206. And 
+
+24 if you -- if your position prevails, we are told, there 
+
+will be many, many people who will say: If it's a 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 question of whether I get thrown out of the United 
+
+2 States, I'm going to go to trial; I'm not going to plead 
+
+3 to something that will mean immediately when I serve my 
+
+4 time I will be thrown out of the United States.
+
+ MR. GANNON: Well, that may well be the 
+
+6 consequence of the definition that Congress has adopted 
+
+7 here of aggravated felony. And I would note that in the 
+
+8 plea agreement that Mr. Kawashima filed in this case, 
+
+9 paragraph 4, which is reprinted on page 117a of the 
+
+petition appendix says Mr. Kawashima recognizes that he 
+
+11 may be deported as a result of his conviction. That's 
+
+12 in his plea agreement to the 7206 offense here. 
+
+13  And so, it is, to be sure, the case that the 
+
+14 government may well find it more difficult to secure 
+
+guilty pleas when an alien is -- is admitting to an 
+
+16 offense that is an aggravated felony. But we think that 
+
+17 that's a consequence of Congress having expanded the 
+
+18 definition. In --
+
+19  JUSTICE BREYER: Let me go up to start with 
+
+Justice Ginsburg's first question. I mean, if this 
+
+21 falls within it, 7206, this fraud, what about perjury? 
+
+22 Is every perjury statute within it? And what about 
+
+23 lying to an FBI agent? And what about lying to a 
+
+24 government official, which is -- which is -- you know, 
+
+there are all kinds of statutes on that one. 
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. GANNON: Well --
+
+2  JUSTICE BREYER: Are all those aggravated
+ 
+
+3 felonies?
+ 
+
+4  MR. GANNON: Congress has given us two
+ 
+
+different metrics for determining whether those --
+
+6 whether those offenses are aggravated felonies. If they 
+
+7 involve fraud or deceit and there is loss to the victim 
+
+8 exceeding $10,000 --
+
+9  JUSTICE BREYER: Yes, yes.
+
+ MR. GANNON: -- then that it could fall 
+
+11 within (M)(i). If it's perjury statute that doesn't 
+
+12 involve loss or a false statement to an FBI agent that 
+
+13 doesn't involve loss to --
+
+14  JUSTICE BREYER: The government's view is 
+
+that, of course, you have to meet the other 
+
+16 requirements. But as far as the words "fraud" or 
+
+17 "deceit" is concerned, aggravated felony picks up every 
+
+18 perjury statute, every lying statute, lying to an FBI 
+
+19 agent, lying to this or lying to that. And has that 
+
+been the consistent policy of the immigration service? 
+
+21 Have they deported people where the other two conditions 
+
+22 are fulfilled? 
+
+23  MR. GANNON: In the beginning, when the 
+
+24 amount of loss was $200,000. I think most perjury 
+
+offenses don't involve a loss of more than $10,000 --
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE BREYER: But all I need are a few. 
+
+2 I mean, I just wonder, is it the policy of the INS and 
+
+3 the government to deport people where these other things 
+
+4 are met -- which they would be perhaps rarely; I don't 
+
+know -- but to deport them where the crime, the 
+
+6 underlying crime, is perjury, lying to an FBI agent or 
+
+7 lying to other government officials? 
+
+8  MR. GANNON: There -- yes, there are such 
+
+9 cases. Sometimes they go under (S), which is the 
+
+paragraph for perjury, which was actually not in 
+
+11 existence when (M)(i) was added to the statute. It was 
+
+12 added 2 years later. But, more generally, I would like 
+
+13 to mention that there are other tax offenses --
+
+14 Justice Scalia.
+
+ JUSTICE SCALIA: Well, I -- I'm confused by 
+
+16 the $10,000 requirement. Does that have to be an 
+
+17 element of the offense? 
+
+18  MR. GANNON: It does not need to be an 
+
+19 element of the offense. It's a consequence of the 
+
+Court's decision in Nijhawan. 
+
+21  JUSTICE SCALIA: Just a consequence of the 
+
+22 -- of the fraud or deceit, right? 
+
+23  MR. GANNON: It needs to be tied to the 
+
+24 offense of conviction under this Court's decision in 
+
+Nijhawan. And most instances where somebody lies to an 
+
+35
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 FBI agent probably don't involve costing somebody more 
+
+2 than $10,000. And so, I think that it doesn't often 
+
+3 come up in (M)(i). But many other tax offenses are 
+
+4 prosecuted under other provisions that potentially 
+
+involve fraud or deceits and could -- can cost the 
+
+6 government more than $10,000. 
+
+7  And Petitioner's reading of saying that all 
+
+8 tax offenses have to be pulled into (M)(ii) and then 
+
+9 only tax evasion is covered would require the Court to 
+
+bifurcate all of these other provisions. And I'm 
+
+11 thinking of, for instance, 18 U.S.C. 371. This is the 
+
+12 provision for defrauding the United States by 
+
+13 obstructing or impeding the IRS in its efforts to 
+
+14 collect taxation. This Court cited 371 as one of the 
+
+fraud offenses that it thought was covered by (M)(i) in 
+
+16 the Nijhawan decision. 
+
+17  The same is true for mail fraud. The 
+
+18 criminal division, the tax division can prosecute tax 
+
+19 cases in which somebody mails a false tax return under 
+
+18 U.S.C. 1341. False claims under 18 U.S.C. 287, 
+
+21 conspiracy to false claims under 286, false statements 
+
+22 to the government -- these are all provisions that are 
+
+23 used to prosecute tax offenses. And Petitioner's 
+
+24 reading of saying that all tax crimes are pulled out 
+
+would require the Court to bifurcate these offenses and 
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 make whether it's an aggravated felony turn on whether 
+
+2 the government has lost revenue as opposed to some other 
+
+3 form of money. And we don't think that that's what 
+
+4 Congress intended when it went to the trouble of just 
+
+stating that tax evasion was expressly covered.
+ 
+
+6  And going back, Justice Kagan, to your
+ 
+
+7 concerns about superfluity, I do think it's important
+ 
+
+8 that in the context of this statute, there's lots of
+ 
+
+9 other overlap. Congress had reasons to be unsure in
+ 
+
+light of the Scharton decision, in light of the 
+
+11 evasion-of-payment cases because, even though as a 
+
+12 factual matter --
+
+13  JUSTICE KAGAN: But it would have been 
+
+14 perfectly easy for Congress to write a provision which 
+
+said just in case that you -- you know, just in case 
+
+16 this decision called Scharton has any effect, we mean 
+
+17 tax evasion, too, without writing it in this way that 
+
+18 appears to exclude all other tax offenses. 
+
+19  MR. GANNON: I don't see how -- if Congress 
+
+wanted to exclude all other tax offenses, I think they 
+
+21 should have put that exception in (M)(i). They should 
+
+22 have said offenses involving fraud or deceit, but not 
+
+23 tax offenses, in which the loss to the victim or victims 
+
+24 exceeds $10,000. If Congress wanted to make an 
+
+exception tax offenses --
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE KAGAN: Well, that's just arguing 
+
+2 against our application of the normal rule of avoiding 
+
+3 superfluity where we can. 
+
+4  MR. GANNON: Well, yes. I agree that the 
+
+Court avoids superfluity where it can. Here we have 
+
+6 contextual reasons to think that Congress was just 
+
+7 trying to add more offenses to the definition rather 
+
+8 than rule out an entire class. And I also think that 
+
+9 there is no way to avoid the consequence of bifurcating 
+
+all of those other provisions under Petitioner's 
+
+11 reading. 
+
+12  And so, if you were to say that the 
+
+13 reference to 7201 pulls out all revenue loss offenses, 
+
+14 that would mean that some mail fraud cases against the 
+
+government in which the government loses more than 
+
+16 $10,000 count and some don't. Same for wire fraud. 
+
+17 Same for false statements. Same for false claims, 
+
+18 conspiracy to false claims, and Klein conspiracies under 
+
+19 section 371, which -- which are -- have a great deal of 
+
+overlap with 7201. 
+
+21  JUSTICE SCALIA: They still wouldn't -- no. 
+
+22 Why? They still wouldn't be tax offenses. 
+
+23  MR. GANNON: Well, I -- they would be --
+
+24  JUSTICE SCALIA: I mean, you use the mail to 
+
+avoid -- still, what you're being prosecuted for is use 
+
+38
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 of the mail to defraud.
+ 
+
+2  MR. GANNON: But the -- I mean, as I
+ 
+
+3 understand Petitioner's argument, it is the fact that
+ 
+
+4 (M)(ii) refers to revenue loss that is the thing that
+ 
+
+makes it pull in or define a category of cases involving 
+
+6 tax offenses. And I think that if a mail fraud offense 
+
+7 against the government involved taking -- getting more 
+
+8 than $10,000 worth of refunds from the government as 
+
+9 opposed to getting more than $10,000 in an ill-gotten 
+
+government contract or government benefits from the 
+
+11 government, that that could still be characterized as 
+
+12 revenue loss. 
+
+13  JUSTICE SCALIA: Well, he put it -- he put 
+
+14 it wrong. He should have said -- just tax statutes are 
+
+covered. 
+
+16  MR. GANNON: Well, that --
+
+17  JUSTICE SCALIA: Then -- then you wouldn't 
+
+18 have to bifurcate, right? 
+
+19  MR. GANNON: Then I just don't see how the 
+
+reference to a single provision of 7201 refers to all 
+
+21 other tax provisions --
+
+22  JUSTICE SCALIA: Well, it's not just that. 
+
+23 It's -- it's also that -- that (M)(i) says loss to the 
+
+24 victim or victims. And (M)(ii) says the revenue loss to 
+
+the government has to exceed 10,000. I mean, in one 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 case, it's the loss to the victim or victims. Why --
+
+2 why did it use parallel language? Why -- or why did it 
+
+3 say an offense that involves -- an offense in which the 
+
+4 loss to the victim or victims exceeds $10,000 and (i) 
+
+involves fraud or deceit or (ii) is described in section 
+
+6 7201 of Title 26? I mean, if -- if you read it, it 
+
+7 seems to contrast loss to the victim or victims with 
+
+8 revenue loss to the government. 
+
+9  And I find it hard to regard the government 
+
+as a victim in any of these cases, to tell you the 
+
+11 truth. 
+
+12  MR. GANNON: Well, I -- none of the courts 
+
+13 of appeals has had any difficulty concluding that the 
+
+14 government is a victim when it loses more than $10,000 
+
+in a fraud case or, indeed, in a tax evasion case. And 
+
+16 so, here, there is a different phrase, but I think 
+
+17 what's important is that 7201 doesn't define a class of 
+
+18 revenue loss offenses. Instead, it defines a class of 
+
+19 tax evasion offenses. It only refers to the one 
+
+statute. And -- and then in that context, where there 
+
+21 has to be a deficiency in order to -- for there to be a 
+
+22 7201 conviction, there must be a tax deficiency. Then 
+
+23 it's natural to talk about the relevant losses being 
+
+24 revenue loss to the government.
+
+ The phrase in (M)(i) is broader because it 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 also applies to other types of frauds. And I think that 
+
+2 the reference to 7201 alone doesn't indicate Congress is 
+
+3 intending to read out all tax offenses. 
+
+4  As Justice Ginsburg mentioned before, 
+
+although 7201 has a 5-year maximum statutory penalty, 
+
+6 which is longer than the 3-year maximum that applies 
+
+7 under 7206 and some of the other tax offenses in that 
+
+8 particular chapter of Title 26, as a practical matter 
+
+9 the -- the sentencing guidelines use the same thing, the 
+
+-- the same criteria that are both tied to loss. And 
+
+11 more importantly, a lot of these other offenses, like 
+
+12 371 and 1341 and 1343 in Title 18, actually have longer 
+
+13 maximum punishments. 
+
+14  So, if the government wants -- has a 
+
+particularly big fraud that they want to -- to get after 
+
+16 somebody who has a tax evasion case in which they've 
+
+17 cost the government a great deal of money, it may choose 
+
+18 to proceed under one of the other provisions where it 
+
+19 can get an even greater punishment. And so, just 
+
+referring to 7201 as the capstone I don't think allows 
+
+21 it to be a stand-in for all other tax offenses. 
+
+22  JUSTICE GINSBURG: There's a technical 
+
+23 aspect of this case I don't understand. Maybe you can 
+
+24 explain it. There was a question about what might be 
+
+the revenue loss in -- in the case of the wife. Why 
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 should the revenue loss be different? She's -- she's 
+
+2 convicted of aiding and abetting. 
+
+3  MR. GANNON: She -- although it's -- the 
+
+4 statute itself refers to aiding, assisting, procuring, 
+
+or advising, it's not a traditional aiding and abetting 
+
+6 statute. It doesn't require there to be an underlying 
+
+7 primary violation. It's an independent offense. 
+
+8  And so, as it happens in this case, we all 
+
+9 know and it's not disputed that they're for the same 
+
+underlying false tax return, the same tax return that 
+
+11 ended in 1991 for one of the corporations that 
+
+12 Petitioners co-owned, but -- but we just didn't have 
+
+13 that evidence in the record. 
+
+14  And so, I think even though it's an aiding 
+
+and abetting, it's -- it's not a classic aiding and 
+
+16 abetting violation that depends on the husband's 
+
+17 conviction. She could have been convicted under 7206, 
+
+18 too, even if the husband didn't know anything about the 
+
+19 false numbers that she was providing him from the 
+
+restaurant that they were operating. 
+
+21  So, if there are no further questions, we'd 
+
+22 urge the Court to affirm the court of appeals. 
+
+23  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+24  Mr. Whalen, you have 8 minutes remaining.
+
+ REBUTTAL ARGUMENT OF THOMAS J. WHALEN 
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  ON BEHALF OF THE PETITIONERS 
+
+2  MR. WHALEN: My colleague mentioned the 
+
+3 Yermian case, which is in our brief, but I failed to 
+
+4 present it to the Court today. And it's a very 
+
+important case decided by this Court, which said that 
+
+6 filing a false statement is not -- is not indicative, 
+
+7 not evidence, of an intent to deceive. 
+
+8  Similarly, the Harry Bridges case, as also 
+
+9 decided by this Court, said that -- and the Court held 
+
+that making a false statement about Mr. Bridges' 
+
+11 involvement with the Communist Party does not evidence 
+
+12 fraud. 
+
+13  And these cases, I believe, of this Court 
+
+14 control the issue that deceit or fraud is not an 
+
+essential element of this crime of conviction. 
+
+16 Following up what Justice Kagan has said or has asked, 
+
+17 that the rules -- canons of construction that the 
+
+18 Petitioner has invoked, the rules of superfluity --
+
+19 against superfluity; the idea that the court must give 
+
+cognizance to different words mean different things; 
+
+21 that is, revenue loss from the government is different 
+
+22 from loss to a victim or victims; and the specific 
+
+23 versus the general. 
+
+24  The answer of the Government is simply 
+
+speculation and conjecture of, among other things, 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 courts make the wrong decisions; Congress didn't 
+
+2 understand that tax evasion does involve fraud; and, 
+
+3 therefore, it will be superfluous. 
+
+4  The position of the Government in this case 
+
+is simply that tax evasion may not be in 72 -- or may 
+
+6 not be in (M)(ii), the reason that -- rather, that fraud 
+
+7 and deceit may not be in tax evasion, but that a lesser 
+
+8 revenue offense is in (M)(i). 
+
+9  I would like to remind the Court, as many of 
+
+the Justices have indicated, that we're not looking at 
+
+11 an idea of someone who suffers a penalty because -- as a 
+
+12 result of the tax offense. We're talking about 
+
+13 banishment. And we're talking about deportation. And 
+
+14 the statute in which we're -- of which we're involved 
+
+should be read in favor -- where the Congress has not 
+
+16 been clear, the statute should be read in favor of the 
+
+17 immigrant. 
+
+18  JUSTICE GINSBURG: Although it's not a 
+
+19 criminal statute?
+
+ MR. WHALEN: Pardon me, Your Honor. 
+
+21  JUSTICE GINSBURG: It's not a criminal 
+
+22 statute. 
+
+23  MR. WHALEN: This Court in the Fong case 
+
+24 said that the rule of lenity applies to an immigration 
+
+case. And the holdings of this Court have been 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 consistent that the rule of lenity applies to both 
+
+2 criminal cases as well as immigration cases. And I 
+
+3 invite the Court to look at the cases we have cited that 
+
+4 the rule of lenity has applied, in fact, to immigration 
+
+cases. 
+
+6  JUSTICE GINSBURG: There -- there's one 
+
+7 technical feature, too, that I also didn't understand. 
+
+8 The particular tax here in question, the failure to 
+
+9 report was 76-some thousand dollars, but the number that 
+
+was given for the total failure to report is over 
+
+11 1 million, and the -- the loss to the IRS at -- is 
+
+12 245,000. Well, the 245,000 loss must refer to more than 
+
+13 the failure to report 76,000. 
+
+14  MR. WHALEN: The threshold amount is not an 
+
+issue in the case. 
+
+16  JUSTICE GINSBURG: I'd just like to know how 
+
+17 we got -- how the 245,000 revenue loss was calculated, 
+
+18 given that the crime that was charged, the failure was 
+
+19 to report only 76,000?
+
+ MR. WHALEN: I don't know. It was in 
+
+21 negotiations between the government and the Kawashimas. 
+
+22 In any compromise, the government chose only to charge 
+
+23 them with a crime under 7206, which -- and to settle on 
+
+24 that basis. As Justice Alito has mentioned in the 
+
+Padilla case quite emphatically, that attorneys 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 representing immigrants deal with the government in 
+
+2 order to avoid deportation. And that -- in this case 
+
+3 whether the Kawashimas in fact had filed false returns 
+
+4 in an attempt to deceive, that was by the boards, 
+
+because the government and the taxpayer agreed that 
+
+6 their offense would be solely 7206, which as you read 
+
+7 the elements -- and you can read the Justice Department 
+
+8 handbook which tells you what the elements are, and it 
+
+9 does not include fraud and deceit.
+
+ If there are no further questions, I --
+
+11 finally, I would like to mention one case which hasn't 
+
+12 been brought up, which evolved from the questions by the 
+
+13 Justices, and that is a Third Circuit case which we 
+
+14 cited, Nugent, mentioned in response to Justice Breyer's 
+
+question, that the Nugent case said that you must 
+
+16 fulfill both elements, that is perjury, (S) under the 
+
+17 statute, and if it's included in fraud and deceit, you 
+
+18 must fulfill the elements of both crimes at issue. 
+
+19  And, of course, in this case, the Kawashimas 
+
+did not -- were imprisoned for 4 months and did not meet 
+
+21 the statutory requirement for an aggravated felony of 1 
+
+22 year. 
+
+23  But in any event, I want -- I would like the 
+
+24 Court to keep in mind that what we are dealing here with 
+
+is perjury, and we're not dealing with fraud or deceit, 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 as agreed to by the government and the taxpayer. And 
+
+2 that, I suggest to the Court, should be dispositive in 
+
+3 the decision in this case. 
+
+4  CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ The case is submitted. 
+
+6  (Whereupon, at 12:08 p.m., the case in the 
+
+7 above-entitled matter was submitted.) 
+
+8 
+
+9 
+
+11 
+
+12 
+
+13 
+
+14 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+48 
+OfficialOfficial 
+
+32:17 33:7,16 13:10 17:5 32:23 B's 27:19A 
+34:2,6,17 37:1 21:11 22:2 based 11:17abetting 42:2,5 C46:21 23:14 29:12 basic 23:2442:15,16 c 2:1 3:1 22:8agree 15:20 38:4 30:11 39:3 basically 3:22ability 11:16 calculate 8:5agreed 46:5 47:1 42:25 3:23able 28:6 calculated 45:17agreement 33:8 arson 24:11 basis 45:24above-entitled called 37:1633:12 asked 30:12 beginning 16:201:12 47:7 canon 26:1aiding 42:2,4,5 43:16 16:20 34:23absolutely 29:3 canons 13:12,1242:14,15 asking 31:3 behalf 2:4,7,10accept 5:2 
+
+43:17ain't 14:8 aspect 25:23 3:7 17:6 43:1account 20:7 capstone 41:20AKIO 1:3 41:23 believe 29:4accurately captured 15:22alien 33:15 assessment 12:3 31:6,21 43:1317:21 careless 23:23Alito 45:24 13:19 17:20 belt 22:13act 4:24 5:12 carry 16:14allows 41:20 18:14 21:18 benefits 39:107:19 9:12 case 3:4 6:14,15amicus 32:11 assets 9:18 better 10:1726:25 28:23 
+7:21 8:11amount 17:22 10:15 17:24 beyond 4:8 7:17acted 27:2,4 
+16:22 19:2,1819:12 20:24 Assistant 1:18 bifurcate 36:10acting 4:22 
+21:18 22:18,2534:24 45:14 assisting 42:4 36:25 39:18action 10:1 
+25:2 32:22answer 21:10,12 associated 24:23 bifurcating 38:911:13 28:4,5 
+33:8,13 37:1527:9 43:24 assume 25:15 big 41:15active 31:13 
+37:15 40:1,15apologize 13:7 assuming 32:2 Bishop 6:15,24acts 27:4 30:16 
+40:15 41:16,23appeal 22:2 attempt 9:23 bit 7:2530:18 31:1,5 
+41:25 42:8appeals 40:13 12:8 14:2,9 boards 46:431:10,15 
+43:3,5,8 44:442:22 15:10 16:13 Breyer 9:16,22add 22:5 38:7 
+44:23,25 45:15APPEARAN... 18:13 22:8 10:2 16:1 25:7added 4:9 25:6 
+45:25 46:2,111:15 46:4 26:15 27:13,1830:7 35:11,12 
+46:13,15,19appears 37:18 attempts 15:11 27:25 28:8,10adding 14:4 
+47:3,5,6appendix 23:5 ATTORNEY 28:13 29:2,6addition 23:12 cases 6:12 9:1033:10 1:6 29:11,19 33:19admitting 33:15 
+17:15,17,19,20applicable 19:11 attorneys 45:25 34:2,9,14 35:1adopted 33:6 
+18:1,20 19:8application 38:2 avoid 14:12 38:9 Breyer's 15:14advantage 25:3 
+21:14 24:3applied 27:12 38:25 46:2 46:14adverb 7:9 
+26:4,7 30:1445:4 avoidance 9:12 Bridges 43:8,10advising 42:5 
+30:15,17,25applies 22:10 avoiding 8:23 brief 11:15affirm 42:22 
+31:4,13,1432:6,7 41:1,6 38:2 12:23,25 17:18affirmative 
+32:4 35:944:24 45:1 avoids 38:5 32:11 43:330:16,18 31:5 
+36:19 37:11apply 21:1 22:20 aware 32:3 briefs 12:2231:15 
+38:14 39:5approach 22:14 A's 27:19 21:16agent 33:23 
+40:10 43:1323:12 a.m 1:14 3:2 bring 3:13 6:2134:12,19 35:6 
+45:2,2,3,5appropriate 9:25 32:1336:1 B category 26:2,525:22 broader 40:25aggravated 3:15 back 11:23 30:3 26:8 32:15argue 29:13 broadly 22:103:16,19 10:23 
+
+37:6 39:5arguing 7:19 brought 32:1111:2,5 14:21 banishment certain 24:2538:1 46:1214:24 16:25 
+44:13 certainly 18:22argument 1:13 building 24:1217:11 21:8 bank 8:25 18:3 certainty 32:22:2,5,8 3:3,6 burden 12:524:5,15 25:16 bargain 32:21 challenge 11:209:11 10:19 business 24:2426:18 27:15 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+49 
+Official 
+
+change 3:20 collecting 17:23 37:4,9,14,19 42:17 43:15 created 15:2 
+chapter 41:8 collection 8:7 37:24 38:6 cooperative creating 29:24 
+characterized 11:13 21:18 41:2 44:1,15 26:9 crime 3:18,19 
+
+39:11 colorful 15:14 Congress's 17:9 corporate 3:13 4:6 8:20 15:20 
+charge 45:22 come 16:7 36:3 conjecture corporations 16:4 18:19 
+charged 8:22 comes 5:19 43:25 42:11 19:25 20:1 
+
+9:2 10:5 45:18 24:15 connotes 21:22 correct 6:4,6 25:12,12,14,14 
+Chief 3:3,8 commercial consequence 13:18 29:5 25:17,17 35:5 
+
+12:14,18 17:3 25:2 33:6,17 35:19 cost 36:5 41:17 35:6 43:15 
+17:7 19:19 Commissioner 35:21 38:9 costing 36:1 45:18,23 
+21:9 22:1 11:14 consequences counsel 13:3 crimes 6:25 10:7 
+42:23 47:4 commit 6:25 27:15 17:3 19:19 13:23,24 16:9 
+
+choose 41:17 17:14 28:14 consider 5:4 21:9 42:23 16:14,22,23,24 
+chose 16:12 commits 28:15 considered 47:4 24:9 26:2 
+
+45:22 committing 32:12 count 38:16 32:16 36:24 
+Circuit 46:13 14:12 17:14 consistent 34:20 country 9:17 46:18 
+cite 30:14 common 4:21 45:1 10:14 14:12 criminal 6:21 
+cited 17:17 27:11 conspiracies 16:20 18:3,5 28:1 36:18 
+
+36:14 45:3 Communist 38:18 counts 18:18 44:19,21 45:2 
+46:14 43:11 conspiracy 20:14 criteria 41:10 
+
+civil 11:12,23 compared 32:5 36:21 38:18 course 34:15 Cuba 14:6 15:15 
+18:17,23 19:10 compromise construction 46:19 15:15
+ 
+19:11,18 21:14
+ 45:22 13:12 23:24 court 1:1,13 3:9 cues 31:25 
+
+claims 36:20,21 concealment 24:15 43:17 3:13,17 4:5 5:4 CURTIS 1:18 
+38:17,18 18:1 31:2,10 contesting 18:17 6:3,14,24 7:20 2:6 17:5 
+
+class 38:8 40:17 concerned 11:15 context 7:12 9:8 10:24 11:3 cut 20:15 
+40:18 22:15 34:17 18:22 19:1,8,9 11:7 13:11,17 C's 27:19 
+
+classic 28:5 concerns 37:7 19:15 21:14,20 17:8 18:23 
+D42:15 concluded 18:24 22:19 24:4,18 27:12 28:2 
+
+D 3:1clear 13:11 19:7 concluding 27:12 28:1 29:20 31:7,23 
+damage 13:20 
+damages 28:3 
+
+44:16 40:13 37:8 40:20 36:9,14,25 
+clearly 21:22 conclusion 12:8 contextual 38:6 38:5 42:22,22 
+closely 22:10 day 23:3 
+
+de 21:5 
+19:1 contract 39:10 43:4,5,9,9,13 
+
+clueless 23:24 conditions 34:21 contrast 40:7 43:19 44:9,23 
+Code 6:16 12:1 deal 38:19 41:17 confused 35:15 control 43:14 44:25 45:3 
+
+46:114:23 confuses 18:16 controls 25:25 46:24 47:2 
+dealing 27:14 
+
+46:24,25
+cognizance Congress 11:25 convert 4:10 courts 22:25 
+
+43:20 12:4,10,12 convey 5:11 40:12 44:1 
+coins 18:3 deals 13:19 
+
+16:23,24 25:18 
+14:21,23 15:1 convicted 6:15 Court's 22:17 
+
+collateral 19:17 16:21 21:22 10:9 11:19 35:20,24 
+deceit 4:6,8,1121:13 22:13,14 23:8 12:2 18:16 covered 19:22 
+
+4:22 5:5,8,13collaterally 23:15,18,21,23 42:2,17 21:3 23:17
+ 
+11:11,21
+ 6:20 7:17,18 
+
+8:1,19 9:5,7,13 
+25:6,14,15 conviction 3:14 24:8 26:13,14 
+
+colleague 43:2 26:12 29:10,15 3:18 10:25 36:9,15 37:5 
+collect 12:3 20:5 10:7,16 11:8 
+
+11:11,12 12:11 
+30:7 31:19 11:7,17 12:5 39:15 
+
+36:14 32:2,16 33:6 23:20 33:11 covers 20:7 
+collected 20:8 13:23,23 14:5 33:17 34:4 35:24 40:22 co-owned 42:12 
+
+Alderson Reporting Company 
+
+
+
+50 
+Official 
+
+14:8 15:6,20 27:11 dispositive 47:2 24:25 evolved 46:12 
+15:21,25 16:19 defraud 4:13 dispute 25:11 ERIC 1:6 exactly 4:25 
+17:15 18:11 11:2 29:21,22 disputed 42:9 ESQ 1:16,18 2:3 example 15:14 
+19:23 20:4,6,9 39:1 distinguished 2:6,9 15:15,19,19 
+20:22 21:4 defrauding 22:25 essence 4:3 exceed 39:25 
+22:4,16 23:18 36:12 distinguishes essential 43:15 exceeding 34:8 
+23:21 25:9,19 denying 11:12 18:12 establish 5:13 exceeds 30:8 
+26:19,21,23 Department divisible 20:9,25 18:9,13 21:8 37:24 40:4 
+27:1,3,8,11,22 1:19 3:22 4:5 division 36:18 26:5 exception 21:16 
+27:22,23 28:21 5:19 6:17 46:7 36:18 established 32:3 37:21,25 
+28:22 29:2,17 depends 42:16 document 5:10 estop 11:11 exceptions 
+32:1 34:7,17 deport 35:3,5 documents 21:3 estopped 11:21 12:19 
+35:22 37:22 deportation dollars 45:9 18:17 excess 13:15,16 
+40:5 43:14 32:16 44:13 drafter 10:4,5 estoppel 19:17 exclude 37:18 
+44:7 46:9,17 46:2 drafting 10:5 21:14 37:20 
+46:25 deported 33:11 due 18:25 19:6 ET 1:3 Excuse 19:21 
+
+deceits 36:5 34:21 DUI 26:10 evade 9:7,23 exist 26:16 
+deceive 4:12,15 describe 7:11 duty 12:7 16:15 12:8 14:2,10 existence 35:11 
+
+4:20 7:23 11:2 described 40:5 16:15,17 15:10,11 16:13 expanded 33:17 
+29:21,23 43:7 designated D.C 1:9,16,19 18:13,24 21:19 explain 41:24 
+46:4 14:23 21:21,24 22:5 explained 25:23 
+
+Edeceptive 31:10 destruction 22:9 explosives 24:11 
+E 1:18 2:1,6 3:1 decided 43:5,9 24:11 evaded 10:17 24:12 
+
+3:1 17:5 24:10 deciding 13:11 determine 3:18 evader 11:20 expressed 23:9 
+easy 11:17 37:14 decision 22:17 4:5 evading 16:3 expressly 24:24 
+effect 11:1631:23 35:20,24 determines 11:4 evasion 5:6 8:20 37:5 
+
+19:17 37:1636:16 37:10,16 determining 8:22,23 9:2 extended 22:20 
+efforts 36:1347:3 34:5 11:20 14:13,25 extent 31:7 
+either 17:15decisions 44:1 detriment 27:5 16:3,10,18 extradition 9:18 
+
+18:13deductions 28:7,11,16 17:9,14,19,19 
+Felement 4:6 5:5 16:16 difference 5:4 18:10,21 19:8 
+
+8:19 22:17,21 F 24:9defeat 14:3,10 16:18 29:20,25 19:9,23 20:12 
+28:19 29:7 fact 14:2 23:8 15:11,12 22:9 different 13:13 20:13,14 22:22 
+35:17,19 43:15 30:6,17 39:3 defendant 29:1 13:13 24:19 23:7,10,16,17
+
+elements 3:18 45:4 46:3deficiencies 21:5 34:5 40:16 24:2 25:13 
+3:20 11:4 factual 17:25deficiency 40:21 42:1 43:20,20 26:14 30:17 
+27:25 28:24 30:21,22,2540:22 43:21 31:9,24 32:4 
+31:8 46:7,8,16 31:4 37:12define 39:5 difficult 33:14 36:9 37:5,17
+46:18 failed 43:340:17 difficulty 40:13 40:15,19 41:16 
+
+emphatically failing 20:7,23defined 6:24 direction 29:18 44:2,5,7
+45:25 failure 20:5,20defines 40:18 29:25 evasion-of-pa... 
+
+employee 20:23 45:8,10,13,18definition 4:22 disclosed 5:18 30:14,25 37:11 
+21:2 fairly 16:158:1 17:10 discuss 17:18 event 46:23 
+
+ended 42:11 fall 20:11 27:16 22:11 24:5 discussed 29:20 evidence 4:20 
+ensure 8:5 34:1030:1 33:6,18 discussing 19:9 6:25 7:22 12:6 
+entire 38:8 falls 33:2138:7 disjunctively 29:12 42:13 
+enumerated false 3:12,25definitions 29:16 43:7,11 
+
+Alderson Reporting Company 
+
+
+
+51 
+Official 
+
+4:19,19,23,23 7:23 22:2 45:18 H 
+4:25 5:1,11,16 fire 24:12 fulfill 46:16,18 giving 4:22,23 H 1:6 
+5:20 6:1,9 7:3 first 27:5 33:20 fulfilled 34:22 28:23 handbook 46:8 
+7:5,7,14,20 8:1 fit 26:18 furnish 20:23 gloss 6:8 happen 31:1 
+8:13 9:4 10:10 fits 25:17 furnishing 21:1 go 3:20 5:17 happens 8:9 
+11:1,10,17 focus 16:2 further 31:25 10:12 26:22 17:25 42:8 
+16:3,6 21:1,3 focusing 28:22 42:21 46:10 33:2,19 35:9 hard 32:22 40:9 
+21:19,21 22:3 Following 43:16 God 10:13 Harry 43:8G26:22 28:23,25 follow-on 19:17 goes 9:17,17 ha-ha-ha 9:20G 3:129:24 34:12 Fong 44:23 11:22 10:15Gannon 1:1836:19,20,21,21 foreign 32:6 going 10:14 13:5 HCSC-Laundry
+
+2:6 17:4,5,7,1338:17,17,18 form 37:3 14:6,20 15:15 26:6,10
+17:17 18:8,2242:10,19 43:6 forth 27:19 18:9 23:20 hear 3:3
+19:24 20:1,343:10 46:3 fraud 4:6,7,10 24:20 30:3 heavier 25:12
+20:13,17 21:12 far 34:16 5:5,7 6:20 8:19 32:19,22 33:2 held 3:17 6:3 
+22:7 23:3 24:1 favor 44:15,16 9:7,13 10:6,15 33:2 37:6 43:9
+24:17 25:21FBI 33:23 34:12 11:8,12,20 gold 18:2 helped 32:20
+27:10,17,2434:18 35:6 12:6,10 13:23 gonna 14:8 hey 10:11
+28:1,9,12,1836:1 13:23 14:4,8 good 27:8 Holder 1:6 3:4 
+29:4,9,15feature 45:7 14:19 15:6,20 government 8:4 holdings 44:25
+30:11,20,24Federal 24:25 15:21,25 16:19 8:6,10,15,18 Honor 4:16 5:15 
+31:6,17,2132:4,8 17:15 18:11,18 8:18 9:6,8,25 5:24 6:2,5,13
+33:5 34:1,4,10felonies 20:2 18:19,21,23,25 11:16,22 12:2 10:22 13:8,10
+34:23 35:8,1825:16 27:15 19:6,10,11,23 12:5,7 13:16 14:20 15:19
+35:23 37:1934:3,6 20:4,6,9,22 13:21 16:12,25 44:20
+38:4,23 39:2 felons 32:17 21:3,14 22:3 18:12 19:3,16 hospital 26:9
+39:16,19 40:12 felony 3:15,16 22:16,21 23:6 28:3 32:19,21 hurt 32:19
+42:33:19 10:23 23:9,18,21 33:14,24 35:3 husband 42:18general 1:7,1911:3,5 14:21 25:9,19 26:19 35:7 36:6,22 husband's 42:16
+25:25 43:2314:24 16:25 26:21,23,23 37:2 38:15,15 hypervigilantgenerally 8:917:11 21:8 27:5,8,11,21 39:7,8,10,10 23:15
+23:6 24:8 26:3 24:5,15 26:18 27:22,23 28:2 39:11,25 40:8 hypothetical
+35:1233:7,16 34:17 28:22 29:7 40:9,14,24 23:19generic 24:2237:1 46:21 30:16,19 31:5 41:14,17 43:21 
+
+getting 11:22 Ifelt 23:8 31:16,24,25 43:24 44:4 
+13:4 39:7,9file 8:3 16:5 32:5 33:21 45:21,22 46:1 idea 43:19 44:11 
+
+Ginsburg 4:2117:21 20:20 34:7,16 35:22 46:5 47:1 identified 26:8 
+5:3,9 12:21 filed 11:15 33:8 36:5,15,17 government's ignored 31:20 
+15:24 16:1046:3 37:22 38:14,16 13:22 15:23 ii 13:15,17,24
+25:10 30:5filing 3:12 4:25 39:6 40:5,15 34:14 16:24 17:10 
+32:10 41:4,2211:1 16:6 18:6 41:15 43:12,14 great 38:19 24:21,21,24
+44:18,21 45:6 18:8 19:15 44:2,6 46:9,17 41:17 25:7,24 26:1 
+45:1643:6 46:25 greater 41:19 26:13,14 30:9 
+
+Ginsburg'sfinally 46:11 frauds 41:1 guidelines 41:9 36:8 39:4,24
+33:20find 9:1 33:14 fraudulent guilty 3:12 40:5 44:6 
+
+give 5:1 43:19 40:9 21:19,21,24 33:15 illustrate 11:6 
+given 34:4 45:10 finding 5:7,15 friend's 21:10 ill-gotten 39:9 
+
+Alderson Reporting Company 
+
+
+
+52 
+Official 
+
+imagine 10:4 inherent 16:19 involved 29:7 27:13,18,25 30:7 40:2 
+immediately injured 28:5 39:7 44:14 28:8,10,13 Laughter 9:21 
+
+33:3 injuries 13:20 involvement 29:2,6,11,19 15:17 
+immigrant INS 35:2 43:11 30:5,10,21,22 law 27:11 32:9 
+
+44:17 instance 36:11 involves 7:17,18 31:3,12,18 lead 32:16 
+immigrants instances 17:20 15:8 16:3 32:10 33:19,20 leaves 14:11 
+
+3:11 46:1 35:25 18:19,21 27:1 34:2,9,14 35:1 leaving 18:4 
+immigration intend 4:15 27:4 27:2 29:23 35:14,15,21 legal 3:11 16:15 
+
+3:21 34:20 intended 12:10 40:3,5 37:6,13 38:1 16:17 
+44:24 45:2,4 28:11,15,19 involving 16:23 38:21,24 39:13 lenity 44:24 45:1 
+
+impeding 36:13 37:4 23:6 37:22 39:17,22 41:4 45:4 
+important 13:12 intending 41:3 39:5 41:22 42:23 Leocal 26:7,11 
+
+37:7 40:17 intent 4:20,24 IRS 5:2,16,19 43:16 44:18,21 lesser 25:10 44:7 
+43:5 5:2,5 8:2 9:7 6:16,21,25 45:6,16,24 level 32:4,15 
+
+importantly 11:1 14:12 9:19 17:23 46:7,14 47:4 levy 21:17 
+25:24 41:11 18:24 21:19,21 21:17 31:13 Justices 11:9 liar 28:11 
+
+impression 4:23 21:24 22:5 36:13 45:11 44:10 46:13 lie 14:3,4,5,18 
+4:24 5:1,11 26:24,25 29:21 IRS's 17:24 15:7 
+
+K28:23 29:24 29:21,22,23 issue 3:13 10:23 lied 4:8,9
+K 24:20 25:5,7 imprisoned 43:7 19:2 43:14 lies 35:25 
+Kagan 17:1346:20 intention 4:12 45:15 46:18 lifts 21:17 
+
+18:15 22:24INA's 17:10 4:13 7:18,22 i.e 26:19 light 22:17 
+23:13 24:1,14include 32:13 11:25 37:10,10
+
+J 24:17 30:10,2146:9 intentionally 4:9 limitation 21:17 
+J 1:16 2:3,9 3:6 30:22 31:3,12included 15:1,4 4:10,14,22,23 limitations 
+
+42:25 31:18 37:6,1315:5 25:5 7:7 28:23 11:24 12:20 
+JR 1:6 38:1 43:1646:17 Internal 6:16 22:12,19,20
+Justice 1:19 3:3 Kawashima 1:3includes 5:7 12:1 13:18 23:4 
+
+3:8,22 4:5,7,14 3:4,10 33:8,10 22:4 23:5 14:23 16:7,9 limited 30:7 
+4:17,21 5:3,9 Kawashimas29:22 16:14 limiting 30:7 
+5:19,22,25 6:4 45:21 46:3,19including 11:8 interpretation little 7:24 24:22 
+6:6,17 7:2,8,11 keep 46:2424:11 31:20 24:24 32:22 
+7:16,24 8:14 KENNEDYincome 5:1,18 intrinsic 6:18,19 local 32:15 
+8:21 9:4,9,16 5:22,25 6:4,6 8:12 15:13 invariably 30:16 longer 41:6,12
+9:22 10:2 kind 18:2016:11,16 invite 45:3 look 22:7 24:4 
+12:14,18,21 kinds 33:25independent invoke 26:4 26:22 29:19 
+13:1,3 14:1,14 Klein 38:1842:7 invoked 43:18 45:3 
+14:17 15:3,10 know 3:24 7:2,4 indicate 41:2 invoking 13:11 looking 31:7 
+15:14,24 16:1 7:13 11:9,21indicated 11:9 involve 15:6,6 44:10 
+16:1,2,10 17:3 14:6,7 31:12 44:10 18:1,11 20:4,6 loses 38:15 
+17:7,13 18:6 33:24 35:5indicating 6:10 20:8,22 23:18 40:14 
+18:15 19:19,21 37:15 42:9,18indicative 43:6 23:21 25:1,19 loss 13:14,16
+19:25 20:2,11 45:16,20indictment 6:22 26:19 29:6 16:24 21:6 
+20:15,18 21:9 individuals 25:1 30:16,18 31:5 25:19,20 30:8 L22:1,24 23:13 induce 7:19 31:15 34:7,12 34:7,12,13,24
+
+label 25:1824:1,14,17information 34:13,25 36:1 34:25 37:23
+language 23:2525:7,10 26:15 6:21 20:21 36:5 44:2 38:13 39:4,12 
+
+Alderson Reporting Company 
+
+
+
+53 
+Official 
+
+39:23,24 40:1 29:1 30:21,22 17:22 37:3 obvious 5:9 29:18 
+40:4,7,8,18,24 30:25 31:4 41:17 offense 6:16 oral 1:12 2:2,5 
+41:10,25 42:1 37:12 41:8 month 9:19 11:4 14:22,22 3:6 17:5 
+43:21,22 45:11 47:7 months 46:20 18:10 19:3 order 6:15 21:8 
+45:12,17 mattress 9:1,2 moral 18:19 21:2 22:17 26:5 40:21 
+
+losses 40:23 maximum 41:5 move 13:9 23:7 25:11 46:2 
+lost 7:25 37:2 41:6,13 murder 24:8 26:3 28:24 organizations 
+lot 24:18 41:11 mean 4:15,18 M's 27:19 31:8 32:8 26:10 
+lots 31:13 37:8 6:20 7:12 9:22 33:12,16 35:17 overlap 24:7,18
+
+Nlying 4:10,15 10:3 18:15 35:19,24 39:6 37:9 38:20 
+N 2:1,1 3:1 14:17,18 15:12 19:24 23:1,13 40:3,3 42:7 owe 14:7 17:22 
+narrow 10:2433:23,23 34:18 25:11 28:14 44:8,12 46:6 19:16 
+natural 40:2334:18,19,19 29:2,12,14 offenses 6:19 
+
+Pnecessarily35:6,7 32:17 33:3,20 14:5 17:11 
+18:11 20:4,6 P 3:135:2 37:16 19:2 20:3,8,19
+
+M 20:22 22:16 Padilla 45:2538:14,24 39:2 21:23 22:15,21
+M 3:15 13:14,15 31:9,24 page 2:2 17:18 39:25 40:6 23:6,10,10,16
+
+13:17,19,24,24 need 5:10 10:11 33:943:20 23:17 24:11,23
+15:1,4,5,21,22 18:12 28:5,6 paid 8:5meaning 7:22 25:5 26:2,8,10
+16:23,24 17:10 28:20 35:1,18 paradoxical28:21 29:17 26:13 28:2 
+17:12 21:7 needed 23:9 23:13meanings 13:13 30:5 32:6,13
+24:21,21 25:18 needs 35:23 paragraph 24:4means 6:21 7:4 32:14 34:6,25
+25:24 26:1,6 negotiations 24:10,19 32:7 7:6,12 27:23 35:13 36:3,8
+26:13,14 30:9 45:21 33:9 35:10meant 25:15 36:15,23,25
+30:12 32:12 neither 27:6 parallel 40:2meet 34:15 37:18,20,22,23
+34:11 35:11 never 13:5 21:6 Pardon 5:2446:20 37:25 38:7,13
+36:3,8,15 31:14 44:20mention 18:4 38:22 39:6 
+37:21 39:4,23 Nijhawan 13:17 part 13:9 24:2 24:20 35:13 40:18,19 41:3 
+39:24 40:25 35:20,25 36:16 25:2246:11 41:7,11,21
+44:6,8 normal 31:20 particular 12:24mentioned offer 32:23 
+
+mail 36:17 38:14 38:2 41:8 45:820:10,18 41:4 official 33:24 
+38:24 39:1,6 note 19:7 22:12 particularly43:2 45:24 officials 35:7 
+
+mails 36:19 33:7 12:4 41:1546:14 oh 10:13 
+maintain 20:21 noted 22:14 parties 13:20merely 8:23 okay 7:16 10:7 
+making 4:19 November 1:10 16:2332:14 12:18 
+
+5:15 7:4,13,20 Nugent 46:14,15 parts 20:5,22met 35:4 old 22:18,24
+14:18 23:16 number 27:20 party 8:2 43:11 metrics 34:5 once 9:19 
+26:21 28:24 45:9 pay 9:1,24 14:8 million 45:11 ones 17:18 19:2 
+43:10 numbers 42:19 16:5 20:20mind 46:24 20:16 24:21 
+
+managing 24:23 payment 8:23minimis 21:5 27:11Omanner 15:11 9:12 16:4minutes 42:24 open 10:16
+O 2:1 3:1 22:9 17:19 18:14misdemeanor openly 8:25
+oath 3:25Manual 3:23 19:8 24:321:2 operates 29:17
+observing 30:24material 29:1 30:17 31:9misdemeanors operating 42:20
+obstructingmaterially 10:9 penalties 28:2532:14,17 opposed 17:19
+
+36:13matter 1:12 penalty 18:23Monday 1:10 37:2 39:9
+obtaining 29:2217:25 24:16 19:10,11 25:13 money 8:25 14:7 opposite 16:1 
+
+Alderson Reporting Company 
+
+
+
+54 
+Official 
+
+41:5 44:11 14:2 15:2 5:21 8:11,11 R 3:1 regard 40:9 
+penultimate policy 34:20 8:14,18 9:7,8 rape 24:8 relevant 40:23 
+
+32:6 35:2 12:7 16:13 rarely 35:4 reliance 8:6,8 
+people 32:25 position 13:22 28:3,10,17,18 reach 17:24 19:1 28:3,11,19,20 
+
+34:21 35:3 15:23 32:24 28:20 32:23 read 6:11 10:6,7 relied 8:15 28:7 
+perfectly 37:14 44:4 proved 19:4 26:20 27:6,21 rely 8:2 13:5 
+perjury 3:23 4:1 possibilities proves 21:13 40:6 41:3 28:16 29:8 
+
+4:2,4 7:21 8:10 23:19 provided 5:18 44:15,16 46:6 relying 8:4 30:1 
+26:21 27:7 postcard 9:19 providing 42:19 46:7 remainder 17:1 
+28:15,25 33:21 postcards 14:7 proving 4:8 12:6 reading 6:7 remaining 42:24 
+33:22 34:11,18 potentially 36:4 provision 13:18 32:12 36:7,24 remind 44:9 
+34:24 35:6,10 power 23:1 15:2 21:15 38:11 remove 17:11 
+46:16,25 practical 32:18 22:9,12 23:4 really 6:19 10:4 removing 17:24 
+
+person 4:8 12:2 41:8 25:18 30:13 21:13 23:1 reply 12:23,25 
+26:24 27:2 practice 21:4 32:5 36:12 32:15,17 report 15:13 
+28:14 32:3 37:14 39:20 reason 12:11 16:11 45:9,10 
+
+persons 27:16 precise 12:16 provisions 19:22 18:25 22:15 45:13,19 
+petition 33:10 predecessor 23:5 24:6,19 25:8,21 31:11 reporting 16:16 
+Petitioner 43:18 22:22 36:4,10,22 31:22 44:6 representing 
+Petitioners 1:4 present 27:7 38:10 39:21 reasons 11:8 46:1 
+
+1:17 2:4,10 3:7 43:4 41:18 37:9 38:6 reprint 23:5 
+26:4 42:12 presenting 21:3 pull 23:9 39:5 rebuttal 2:8 reprinted 21:15 
+43:1 prevails 32:24 pulled 26:6 36:8 17:2 42:25 33:9 
+
+Petitioner's 36:7 prevent 17:23 36:24 recognized 28:2 require 4:5 9:12 
+36:23 38:10 primary 42:7 pulls 24:10 recognizes 10:25 14:3,3,5 
+39:3 probably 18:9 38:13 33:10 19:3 21:7 28:2 
+
+phrase 40:16,25 22:13 30:25 punishment record 42:13 31:10,24 36:9 
+picked 25:9 36:1 41:19 records 20:21 36:25 42:6 
+picks 25:14 problem 23:16 punishments recover 28:9 required 5:16 
+
+34:17 31:19 41:13 recovery 11:22 19:12 
+plain 28:21 problems 32:11 purposes 25:1 refer 12:24 23:6 requirement 5:7 
+
+29:17 proceed 41:18 pursued 23:11 27:19 45:12 21:7 35:16 
+plaintiff 28:6 proceeding put 12:12 13:5 reference 17:9 46:21 
+plea 32:23 33:8 11:23 12:3 37:21 39:13,13 21:20 24:13,22 requirements 
+
+33:12 procuring 42:4 p.m 47:6 30:5 38:13 5:14 34:16 
+plead 33:2 proof 5:10 12:10 39:20 41:2 requires 14:6,9
+
+Qpleas 33:15 16:19 referring 13:17 26:24 
+question 10:4please 3:9 13:10 property 24:12 41:20 reserve 17:1 
+
+26:9,17 33:1 17:8 prosecute 36:18 refers 21:18 respect 25:16 
+33:20 41:24pled 3:12 36:23 22:8 24:7,24 Respondent
+45:8 46:15point 11:6 14:15 prosecuted 36:4 26:3 39:4,20 1:20 2:7 17:6 
+
+questions 42:2115:3,18,24 38:25 40:19 42:4 response 46:14 
+46:10,1230:3 31:4 prosecutes reflected 11:25 rest 24:4 
+
+quite 15:2532:18 31:13,14 reflecting 20:24 restaurant 
+45:25pointed 25:7 prostitution refunds 39:8 42:20 
+
+30:13 24:23 25:2 refuse 9:1 result 33:11Rpointless 13:25 prove 4:7 5:20 refused 19:1 44:12 
+
+Alderson Reporting Company 
+
+
+
+55 
+Official 
+
+return 3:13 4:25 says 4:3 14:22 significant 24:6 7:4,12,13,20 14:20 18:20,21 
+8:13 11:10 26:14,21 32:7 signing 28:24 8:2,4,24 10:10 47:2 
+16:6 17:21 33:10 39:23,24 similar 23:11 11:1,18 16:3 suggesting 15:8 
+18:7,8 19:13 Scalia 4:7,14,17 Similarly 11:19 20:23 21:1 suit 18:18 
+19:15 20:20 7:2,8,11,16 43:8 26:22 34:12 superfluity 
+21:19,21 28:25 13:1,3 14:1,14 simple 10:4 43:6,10 24:16 30:12 
+36:19 42:10,10 14:17 15:3,10 simple-minded statements 8:7 37:7 38:3,5 
+
+returns 8:3 46:3 16:2 18:6 10:19 22:3 36:21 43:18,19 
+revenue 6:16 20:18 35:14,15 simply 4:13 5:15 38:17 superfluous 
+
+12:1 13:16,18 35:21 38:21,24 6:20,24 7:20 States 1:1,13 23:25 24:2 
+13:24 14:22,23 39:13,17,22 11:17 15:13 3:11 33:2,4 25:24 30:13 
+16:7,9,22,24 Scharton 22:18 16:5,11 43:24 36:12 44:3 
+30:8 37:2 22:24 31:23 44:5 stating 37:5 super-careful 
+38:13 39:4,12 37:10,16 single 14:18 statute 3:16,21 23:22 
+39:24 40:8,18 scope 17:12 39:20 3:21,23 4:2,4 supply 20:21 
+40:24 41:25 second 13:9 27:6 solely 46:6 5:6 6:8 7:21 supports 30:1 
+42:1 43:21 30:13 Solicitor 1:18 8:10 10:23 suppose 9:16 
+44:8 45:17 section 5:6,8 somebody 6:22 11:23 12:20,24 18:15 26:16,17 
+
+Revenue's 16:14 10:5,12,18 7:19 9:16 16:14 20:12 Supreme 1:1,13 
+right 7:10 14:14 12:1 19:23,23 10:13 11:10 22:12,19,20 sure 8:21 10:17 
+
+18:18 22:4 20:18 23:3 17:21 18:16 23:4 24:16 23:16 25:6 
+26:23 29:3,9 31:15 38:19 35:25 36:1,19 26:7 27:6,9,14 30:10 33:13 
+35:22 39:18 40:5 41:16 33:22 34:11,18 surprised 9:14 
+
+ROBERTS 3:3 secure 33:14 somebody's 34:18 35:11 suspenders 
+12:14,18 17:3 see 8:3,6,8 10:8 18:2 37:8 40:20 22:13 
+19:19 21:9 24:5 37:19 sorry 7:24 12:14 42:4,6 44:14 swell 32:15 
+22:1 42:23 39:19 sort 29:17 44:16,19,22 Swiss 18:3 
+47:4 seek 11:22 21:18 Sotomayor 7:24 46:17 synonymous 
+
+rule 23:24 24:14 seeking 25:2 8:14,21 9:4,9 statutes 4:2 13:4 18:24
+ 
+38:2,8 44:24
+ 32:20 16:1 19:21,25 13:11 16:21,22 
+
+T45:1,4 seeks 12:2 20:2,11,15 24:25 25:19 
+T 2:1,1rules 31:20 seen 22:16 speaking 21:23 27:20 33:25
+ 
+
+43:17,18
+ take 8:24 13:22 sense 28:4 special 10:11,14 39:14 
+17:22 18:3ruling 30:4 sentence 32:7 10:18 statutory 22:22 
+
+run 29:25 25:11 
+takes 9:18
+
+sentencing 41:9 specific 17:9 23:24 24:14 
+running 12:20 separate 20:12 25:25 27:21 31:20 41:5 
+
+talk 40:23 
+S 
+
+28:19 43:22 46:21 
+talking 10:22separated 16:21 specifically 3:15 steps 17:22 
+
+S 2:1 3:1 35:9 13:4 20:19serious 25:17 6:14 23:7 stick 8:25 
+46:16 21:15 24:327:14 speculation submit 5:10 7:7 
+
+satisfies 28:21 29:18 31:8 
+satisfy 30:9 
+
+serve 33:3 43:25 submitted 47:5 
+44:12,13service 26:10 Spies 6:14 47:7 
+
+saying 3:25 4:19 talks 26:2 29:21 
+8:9,15,17 9:19 
+
+34:20 stand-in 41:21 subparagraph 
+tax 3:13,23,23settle 45:23 start 33:19 17:10,12 24:7
+ 
+
+14:7,19,25
+ 5:6 6:16,19severe 25:13 State 32:6,8,14 24:9,20
+20:17 26:13 7:21 8:3,5,12show 6:17 17:15 statement 3:12 suffers 44:11 
+31:14 36:7,24 8:13,20,22,22shown 7:1 19:13 4:19 5:16 6:1 suggest 13:19 
+
+Alderson Reporting Company 
+
+
+
+56 
+Official 
+
+8:23 9:2,12 terrible 27:15 told 32:20,24 understates W 
+11:10,19,20 text 13:1,6 tort 27:3 28:4,5 19:15 Walters 11:14 
+12:8 14:3,10 textual 31:25 29:6,7 unintentionally want 5:11 7:8,11 
+14:12,12,25 textually 25:8 torts 26:23 6:23 28:9 29:8 
+15:12 16:13,18 Thank 17:3 total 45:10 United 1:1,13 41:15 46:23 
+16:21 17:9,11 42:23 47:4 totally 10:16 3:11 33:1,4 wanted 8:18 
+17:14,21 18:9 thing 4:3 18:11 tracks 22:11 36:12 25:6 37:20,24
+18:21,23,23 20:14 23:14 traditional 27:3 unpaid 12:3 wants 41:14 
+19:9,10,11,15 24:10 39:4 27:25 42:5 unreported 8:12 Washington 1:9 
+19:22,23,25 41:9 traditionally unsure 37:9 1:16,19
+20:1,3,6,8,11 things 18:20 26:24 unsurprising way 6:9,10 15:5 
+20:13,14,20 35:3 43:20,25 transporting 23:11 18:2 29:14,19
+21:5,20,21,24 think 6:8 10:11 25:1 upheld 15:23 30:1 37:17 
+22:5,9,22 23:7 16:1 17:13 treaty 9:18 urge 42:22 38:9 
+23:10,16,17 18:20 19:22 trial 33:2 use 29:16 38:24 went 9:23 37:4 
+25:14,14,17,17 20:25 21:13,20 tried 16:2 38:25 40:2 We'll 3:3 
+26:2,2,13,14 21:25 22:2,7 trigger 19:17 41:9 we're 10:22 
+30:4 31:13,14 22:11 23:8,15 21:6 useless 15:2 21:15 24:3 
+32:4,15 35:13 24:2,3,17 25:4 triggered 19:12 uses 21:23 28:21 30:1 
+36:3,8,9,18,18 25:7,8,21,25 22:21 26:1 usually 17:23 44:10,12,13,14
+36:19,23,24 26:1 27:10 trouble 37:4 utterly 23:23,23 44:14 46:25 
+37:5,17,18,20 28:4,20 29:10 true 6:9 24:10 UX 1:3 Whalen 1:16 2:3 
+37:23,25 38:22 29:13,15,16,24 29:4 36:17 U.S.C 3:14 4:3 2:9 3:5,6,8
+39:6,14,21 30:5,6,20 31:7 truth 3:24 40:11 12:15 20:19 4:12,16,18,21
+40:15,19,22 33:16 34:24 truthful 8:7 36:11,20,20 5:3,14,24 6:2,5 
+41:3,7,16,21 36:2 37:3,7,20 truthfully 20:7 6:13 7:6,10,15V42:10,10 44:2 38:6,8 39:6 try 10:6 32:21 7:18 8:8,17 9:3 v 1:5 3:4 44:5,7,12 45:8 40:16 41:1,20 trying 5:4 15:18 9:6,14,25various 24:10taxation 18:14 42:14 30:4 38:7 10:21 12:16,19versus 43:2336:14 thinking 23:19 turn 32:17 37:1 12:23 13:2,7victim 13:14taxes 8:7 9:12 36:11 turpitude 18:19 14:11,16,19
+
+25:20 28:169:24 11:23 third 13:20 two 30:14 34:4 15:8,18 16:8 
+34:7 37:2312:3 16:5 16:23 46:13 34:21 16:12 42:24,25
+39:24 40:1,4,720:24 THOMAS 1:16 types 41:1 43:2 44:20,23
+40:10,14 43:22 taxpayer 5:17 2:3,9 3:6 42:25 45:14,20U victims 13:1511:12 46:5 thought 10:13 wife 41:25underlying 35:6 37:23 39:2447:1 36:15 willful 5:22,23
+
+42:6,10 40:1,4,7 43:22 technical 41:22 thousand 45:9 5:25 14:4 20:5 undermine view 34:1445:7 threshold 45:14 20:20 22:8
+11:16 viewed 11:7tell 3:24 7:16 thrown 33:1,4 willfully 6:1,18understand violate 10:3,1323:1 40:10 tied 35:23 41:10 6:18,20,23,24
+30:11 39:3 27:1tells 46:8 time 11:3 17:2 7:1,3,6 10:9 
+41:23 44:2 violation 6:10term 26:18 23:23 33:4 15:11 29:5
+45:7 16:8 32:8 42:7 28:21 29:10 times 3:17 willfulness 7:14understatement 42:1632:7 Title 40:6 41:8 wire 38:16
+18:25 19:4,6 violence 24:9terms 3:21 41:12 withdraw 8:25
+19:12 virtually 25:429:16 today 43:4 wonder 31:18 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+57 
+
+35:2 
+word 21:24 
+words 13:13 
+
+27:21 34:16 
+43:20 
+
+worried 31:19 
+31:22 
+
+worth 39:8 
+worthless 13:25 
+wouldn't 9:22 
+
+14:2 22:4 
+25:15 38:21,22 
+39:17 
+
+write 10:17 
+23:25 37:14 
+
+writes 9:18 
+11:10 
+
+writing 10:15 
+14:6 37:17 
+
+written 3:22 
+6:14 
+
+wrong 6:7 10:20 
+10:21 23:2 
+39:14 44:1 
+
+X 
+x 1:2,8 
+
+Y 
+year 46:22 
+years 35:12 
+Yermian 29:20 
+
+43:3 
+
+$ 
+$10,000 13:15 
+
+18:2 21:6 30:8 
+34:8,25 35:16 
+36:2,6 37:24 
+38:16 39:8,9 
+40:4,14 
+
+$200,000 34:24 
+
+1 
+1 45:11 46:21 
+10,000 13:16 
+
+39:25 
+10-577 1:5 3:4 
+
+1001 4:4 
+11:07 1:14 3:2 
+117a 33:9 
+12:08 47:6 
+1341 36:20 
+
+41:12 
+1343 41:12 
+17 2:7 
+18 4:3 36:11,20 
+
+36:20 41:12 
+1985 3:11 
+1991 42:11 
+
+2 
+2 10:8 22:8 
+
+35:12 
+2011 1:10 
+245,000 45:12 
+
+45:12,17 
+26 3:14 12:15 
+
+20:19 40:6 
+41:8 
+
+286 36:21 
+287 36:20 
+
+3 
+3 2:4 
+3-year 41:6 
+34 17:18 
+371 36:11,14 
+
+38:19 41:12 
+
+4 
+4 33:9 46:20 
+42 2:10 
+43 10:6 24:5,19 
+
+32:7 
+
+5 
+5-year 41:5 
+
+6 
+6501 12:1,12,15 
+6501(c)(i) 21:10 
+6501(c)(1) 12:17 
+
+21:16 22:6 
+6531 23:3,10 
+
+7 
+7 1:10 
+70 12:12 
+72 44:5 
+7201 5:6 10:2,3 
+
+10:12 14:5,9 
+15:8 16:17 
+18:12,16 20:14 
+22:10,11,15 
+25:12 26:16 
+30:6 31:8,25 
+32:4,22 38:13 
+38:20 39:20 
+40:6,17,22 
+41:2,5,20 
+
+7202 20:5 
+7203 18:10 20:9 
+
+20:18,19 
+7204 20:22 
+7206 3:14,20 5:8 
+
+5:15 8:9 10:25 
+11:7 12:2,5,11 
+15:7 16:17 
+19:1,3 21:23 
+22:3 25:9,10 
+26:17,18,20 
+27:1 32:1,13 
+32:23 33:12,21 
+41:7 42:17 
+45:23 46:6 
+
+7206(1) 10:7 
+7207 21:2 
+76 10:7 
+76,000 45:13,19 
+76-some 45:9 
+
+8 
+8 42:24 
+8441 24:13 
+
+Alderson Reporting Company 
+
+

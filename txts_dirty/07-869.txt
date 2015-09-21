@@ -1,0 +1,6364 @@
+
+     
+
+               
+
+         
+
+                       
+
+             
+
+             
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+BEN YSURSA, IDAHO SECRETARY : 
+
+OF STATE, ET AL., :
+
+ Petitioners :
+
+ v. : No. 07-869 
+
+POCATELLO EDUCATION : 
+
+ASSOCIATION, ET AL. : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Monday, November 3, 2008
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:08 a.m. 
+
+APPEARANCES: 
+
+CLAY R. SMITH, ESQ., Deputy Attorney General, Boise,
+
+ Idaho; on behalf of the Petitioners. 
+
+JEREMIAH A. COLLINS, ESQ., Washington, D.C.; on behalf
+
+ of the RespondentS. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                   
+
+                   
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S
+
+
+ORAL ARGUMENT OF PAGE 
+
+CLAY R. SMITH, ESQ.
+
+ On behalf of the Petitioners 3
+
+
+JEREMIAH A. COLLINS, ESQ.
+
+
+ On behalf of the Respondents 25
+
+
+REBUTTAL ARGUMENT OF
+
+
+CLAY R. SMITH, ESQ.
+
+
+ On behalf of the Petitioners 51
+
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (11:08 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+next in Case 07-869, Ysursa v. Pocatello Education 
+
+Association.
+
+ Mr. Smith.
+
+ ORAL ARGUMENT OF CLAY R. SMITH
+
+ ON BEHALF OF THE PETITIONERS
+
+ MR. SMITH: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ This case is narrowed to a single, but from 
+
+the Petitioner's perspective a critical, dispute over 
+
+the scope of internal State sovereignty: whether the 
+
+First Amendment trumps the otherwise existing authority 
+
+of the Idaho legislature to direct political 
+
+subdivisions of the State to take an action, here 
+
+restricting access to their payroll systems, that the 
+
+subdivisions could take independently without violating 
+
+the Amendment.
+
+ The genesis of this dispute is Idaho Code 
+
+Section 44-2004(2), which was adopted in 2003. That 
+
+provision prohibits State and local government public 
+
+employers from deducting amounts for political 
+
+activities from the payroll checks due to their 
+
+employees and remitting those amounts to third parties. 
+
+3
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE STEVENS: Didn't the statute also 
+
+prohibit private employers from doing that?
+
+ MR. SMITH: As construed by the district 
+
+court, it did. The base legislation in this, the 
+
+Voluntary Contribution Act, excluded from application an 
+
+employee -- an employer subject to the two major labor 
+
+-- Federal labor relations statutes, the NLRA and the 
+
+RLA.
+
+ But there was obviously a group of 
+
+employers, private employers, in -- who were not engaged 
+
+in commerce, as well as the agricultural sector.
+
+ JUSTICE STEVENS: And you concede the 
+
+statute was unconstitutional as applied to them?
+
+ MR. SMITH: The district court concluded 
+
+that the -- yes, Your Honor, we did.
+
+ JUSTICE STEVENS: And you agree with that 
+
+conclusion?
+
+ MR. SMITH: We do.
+
+ JUSTICE STEVENS: And what is the difference 
+
+between the private employer and the county agency?
+
+ MR. SMITH: Well, the principal difference 
+
+is that one is a private employer -- that is to say, 
+
+engaging in private speech -- while the public employer 
+
+is a -- is a subdivision of the State of Idaho, subject, 
+
+we would argue, to the plenary control, pursuant to the 
+
+4
+
+Alderson Reporting Company 
+
+
+
+      
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Idaho Constitution, of the Idaho legislature.
+
+ CHIEF JUSTICE ROBERTS: I think Justice 
+
+Stevens's question highlights for me one of the 
+
+confusing parts of this case. You sort of paired off a 
+
+number of the people who would otherwise be covered, and 
+
+you are left with the county employees. If you 
+
+had started with the county employees, is this how you 
+
+would have gone about telling them they can't do this? 
+
+I mean the county employers.  Would you have passed a 
+
+law saying that the county employers are not allowed to 
+
+have this checkoff? If you think they are part of the 
+
+State, I guess you could have just written them a letter 
+
+and say don't do this, right?
+
+ MR. SMITH: Your Honor, in a word, the 
+
+answer is no. I don't believe we, referring to the 
+
+Petitioners in this case, could have written the -- the 
+
+political subdivisions of a State to direct them to take 
+
+an action unless there was a legislative basis for doing 
+
+so.
+
+ In this instance, the -- the legislature 
+
+concluded that it wanted all public employers, among 
+
+others, to not allow access to their payroll systems.
+
+ JUSTICE STEVENS: Do I understand that the 
+
+counties, if they elected to, could decide not to -- not 
+
+to do the checkoff? 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. SMITH: Prior to the adoption of the 
+
+statute in 2003, yes.
+
+ JUSTICE STEVENS: And so why should counties 
+
+be different from -- from -- I'm still puzzled about why 
+
+counties -- county employers are different from private 
+
+employers in terms of the State interest in preventing 
+
+the checkoff.
+
+ MR. SMITH: Well, there is a fundamental 
+
+difference, Your Honor. And -- and it rests in the 
+
+notion that the State has no interest in the -- in 
+
+private employers' determination to be involved or not 
+
+involved in political matters. The State legislature, 
+
+however, has a very concrete interest in avoiding either 
+
+the reality or the appearance --
+
+JUSTICE KENNEDY: If you -- if you think of 
+
+the case as a principal-agent case so that the principal 
+
+can direct the agent as to what to do, the agent being 
+
+the county, then it seems to me that the unions might 
+
+still have an argument that this is an unconstitutional 
+
+condition.
+
+ I've been looking for ways to examine this 
+
+case. The public forum doesn't really work for me. 
+
+Subsidy doesn't really work for me. It seems to me to 
+
+be an unconstitutional-condition case. At least that's 
+
+the argument. 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+That doesn't mean you necessarily can't 
+
+prevail. But suppose the State told the city: You 
+
+can't have a parade that you sponsor for this particular 
+
+cause. That would raise an unconstitutional-conditions 
+
+argument; wouldn't it?
+
+ MR. SMITH: It might, Your Honor, but that 
+
+situation, of course, is not the situation presented 
+
+here.
+
+ JUSTICE KENNEDY: Why isn't it? And I say 
+
+that because I think that follows on Justice Stevens's 
+
+line of questioning. I didn't mean to interrupt him, 
+
+but it seems to me that is consistent with what he is 
+
+asking.
+
+ MR. SMITH: Because the statute at issue 
+
+here, Justice Kennedy, speaks across the board to a 
+
+specific kind of conduct, political activities. It does 
+
+so in the a viewpoint-neutral fashion. To prohibit a 
+
+particular parade might well raise viewpoint 
+
+non-neutrality issues.
+
+ CHIEF JUSTICE ROBERTS: Yes, because the 
+
+State couldn't --
+
+JUSTICE KENNEDY: You stand up and say that 
+
+this isn't viewpoint -- that this is -- that this is 
+
+viewpoint-based. Isn't it where the union -- and 
+
+aren't they right about that? 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. SMITH: Your Honor, they are incorrect 
+
+about that. The district court concluded that the 
+
+statute is viewpoint-neutral. Indeed --
+
+JUSTICE GINSBURG: But does it get at any 
+
+speech other than union speech? I mean you say, yes, it 
+
+is content-based, but it's viewpoint neutral. But it 
+
+seems that what is banned by the statute is union 
+
+speech. Is any other organization affected? Does the 
+
+ban affect any other organization? Isn't it simply 
+
+union speech that's at stake?
+
+ MR. SMITH: The answer is no. It -- the --
+
+the statute just -- does not just affect union speech by 
+
+its literal terms.
+
+ JUSTICE GINSBURG: But, in practice, is 
+
+there any other application?
+
+ MR. SMITH: Well, there is no evidence in 
+
+the record, Your Honor, as to any other entity who is 
+
+affected by the statute. But that is hardly -- that's 
+
+hardly remarkable, given the fact that the plaintiffs in 
+
+the litigation are six labor organizations. I should 
+
+add that --
+
+JUSTICE SCALIA: Are there -- are there in 
+
+counties some charitable drives that occur annually and 
+
+that permit employees to donate to those charities 
+
+through deductions from their wages? 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. SMITH: There are, Your Honor.
+
+ JUSTICE SCALIA: And would they presumably 
+
+be covered by this? United Fund drives, so-called, my 
+
+-- my recollection is that usually the contributions to 
+
+that simply come out of -- are deducted from the wages. 
+
+And if they existed in the counties, presumably they 
+
+would have been covered. But we don't know if they 
+
+would.
+
+ MR. SMITH: Well, to the extent that the --
+
+the contribution was for political activities --
+
+JUSTICE SCALIA: Oh, it's only political 
+
+activities?
+
+ MR. SMITH: That's correct.
+
+ JUSTICE SCALIA: I see. Well, none of those 
+
+would allow that --
+
+JUSTICE BREYER: But if in fact there is a 
+
+charity, which charity in Idaho is a charity that makes 
+
+all of its contributions to help support right-to-work 
+
+laws. All right. So that charity goes and says, could 
+
+you -- we'd like a payroll deduction. Can they get it, 
+
+or not?
+
+ MR. SMITH: Your Honor, again, it depends. 
+
+I -- I don't know the answer.
+
+ JUSTICE BREYER: You don't know. Okay. So, 
+
+then, we do know this. We do know -- what I'm wondering 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+is: Isn't this case, to me, quite confused about 
+
+something fairly simple? The question would be: Look, 
+
+one, do you or do you not in Idaho allow anybody to have 
+
+payroll deductions for anything? And I take it your 
+
+answer to that question is: Yes, we do allow some 
+
+payroll deductions for some things. Okay?
+
+ So then we look at this one, and it says: 
+
+No payroll deductions for union activities that are 
+
+political. All right? Now, you either do have or you 
+
+do not have a justification for that difference. If you 
+
+have a reasonable, or whatever the sufficient test is, 
+
+justification for the difference, you win. And if you 
+
+don't, you lose. And, indeed, whether you are the State 
+
+or the county could have to do with the plausibility of 
+
+the justification.
+
+ Here we are, end of case, traditional. You 
+
+just -- you didn't argue it that way, I guess, below. 
+
+What's wrong with that?
+
+ MR. SMITH: Your Honor, in fact, we argued 
+
+below that there was no constitutional right of access 
+
+to the payroll system for purposes of making political 
+
+contributions. And let me reiterate at this --
+
+JUSTICE BREYER: There certainly, I would 
+
+think, would be a problem if the right-to-work people 
+
+can get there. And you are not going to let the unions 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+get there. But I don't know the facts. So shouldn't we 
+
+just send this case back and say: Please look at what 
+
+the situation is? If they have to treat some people one 
+
+way, some people another, bad; if they don't, everybody 
+
+is treated alike for good reason, probably okay.
+
+ MR. SMITH: Well, the -- I would suggest 
+
+that a remand for that purpose would be futile. The 
+
+district court, as I said before, concluded that the 
+
+statute is viewpoint neutral. And let me stress that 
+
+the term "political activities" does not -- is not 
+
+defined with reference to unions or speech by other 
+
+entities that might be controlled by unions.
+
+ It addresses political contributions for 
+
+electoral matters, independent expenditures, and 
+
+expenditures to political parties.
+
+ JUSTICE SCALIA: Would -- would they include 
+
+contributions to an organization that makes 
+
+contributions to political parties --
+
+MR. SMITH: Yes, to the --
+
+JUSTICE SCALIA: -- such as a right-to 
+
+work-organization?
+
+ MR. SMITH: To the extent that the -- the 
+
+organization is, for example, a political action 
+
+committee, it would.
+
+ And let me go back to Justice Ginsburg's 
+
+11 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+question for a moment. Had the legislature intended 
+
+44-2004(2) to apply only to unions, they would have --
+
+it would have been engaging in a redundancy because 
+
+under another provision of the same legislation, 
+
+44-2603(1)(b)(iv), which appears at petition appendix 
+
+70, the Idaho legislature proscribed amounts being --
+
+amounts -- required all amounts to be paid -- paid to a 
+
+separate segregated fund which was established pursuant 
+
+to the legislation that was invalidated by the district 
+
+court, required those kinds of contributions to be made 
+
+directly by the employee and not through -- or not by 
+
+the employee's employer.
+
+ JUSTICE SCALIA: Does the State give some 
+
+particular favor to unions? I mean, does it allow --
+
+what -- what is the situation? Can you be forced to 
+
+contribute to the union even though you're not a union 
+
+member?
+
+ MR. SMITH: No, Your Honor. The --
+
+44-2004(2) is part of the Idaho Right to Work Act, which 
+
+was adopted in the mid 1980s. It allows amounts to be 
+
+deducted through payroll checkoffs for union dues.
+
+ JUSTICE SCALIA: But unions do have a 
+
+special prerogative which -- which no other 
+
+organizations, as far as you're aware, have in the 
+
+State, which is to have money deducted from people's 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3 --
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+payrolls?
+
+ MR. SMITH: That's -- that's correct. The 
+
+CHIEF JUSTICE ROBERTS: No other 
+
+organization other than the Federal, State and local 
+
+governments.
+
+ MR. SMITH: True. But let -- let me -- let 
+
+me continue with my response to Justice Scalia's 
+
+question.
+
+ The special prerogative that, for example, 
+
+the Pocatello Education Association or the firefighters 
+
+union has is the ability to engage in collective 
+
+bargaining pursuant to State statute as the exclusive 
+
+bargaining representative of, for example, the Pocatello 
+
+School District's teachers.
+
+ That exclusivity which is granted to a 
+
+limited number of -- of -- in fact, two areas under 
+
+Colorado -- excuse me -- under Idaho law, namely, 
+
+firefighters and teachers, is the extraordinary benefit 
+
+that unions have.
+
+ JUSTICE SCALIA: Yes. The point of my 
+
+question is it doesn't seem to be terribly 
+
+discriminatory if indeed the only organizations in the 
+
+State that are given the right, whether by Federal or 
+
+State law, to deduct, private organizations, given the 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+right to deduct from the salary a municipal or private 
+
+employer pays. It doesn't seem to me particularly 
+
+discriminatory to say that, moreover, in making those 
+
+deductions, no part of it will be given for political 
+
+activities. I mean you're only addressing a narrow 
+
+class, but it's a narrow class that has a special 
+
+benefit.
+
+ MR. SMITH: Well, I would agree that -- that 
+
+unions have, and particularly these -- particularly the 
+
+Respondents have a special benefit. But again, I go 
+
+back to the basic point that 2004(2) addresses all 
+
+public employers or public employees and is not limited 
+
+to political activity contributions. That might be, for 
+
+example, as the situation is here, to a union-sponsored 
+
+political action -- political action committee.
+
+ JUSTICE STEVENS: May I ask a question 
+
+about, say, an attempt to deduct contributions to a 
+
+charity like the United Fund? Do counties have a choice 
+
+to either do that or not do it, or does State law 
+
+require them to accept such requests?
+
+ MR. SMITH: Local governments have 
+
+discretion.
+
+ JUSTICE STEVENS: They have discretion to do 
+
+that?
+
+ MR. SMITH: That's correct. 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE STEVENS: With respect to the union 
+
+situation, the statute takes away that discretion.
+
+ MR. SMITH: With respect --
+
+JUSTICE STEVENS: And the question is why is 
+
+there -- why is there a State interest in taking away 
+
+that discretion for unions, but not as to charities.
+
+ MR. SMITH: Well, it takes away that 
+
+discretion with respect to any third party who might 
+
+receive amounts for political activities.
+
+ JUSTICE STEVENS: For political activities. 
+
+But what is -- what is the reason for differentiating 
+
+political activities from charities?
+
+ MR. SMITH: The reason, as we articulate in 
+
+our brief, is the desire to avoid either the appearance 
+
+or the reality of public employer involvement in, in 
+
+this instance, electoral politics.
+
+ JUSTICE STEVENS: I see.
+
+ CHIEF JUSTICE ROBERTS: Are there other 
+
+areas in which the State exercises the authority you're 
+
+asserting here with respect to county employers, telling 
+
+them what they can and can't do?
+
+ MR. SMITH: Outside the area of elections, 
+
+not with respect to payroll deductions.
+
+ CHIEF JUSTICE ROBERTS: I mean more 
+
+generally. Your assertion is that this is part of the 
+
+15
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+State, and therefore, as I gather, it's conceded on the 
+
+other side, this is acceptable with respect to State 
+
+employees but not other public employers. Are there 
+
+other areas in which you act like the counties are part 
+
+of the State?
+
+ MR. SMITH: Your Honor, the -- the county --
+
+counties in Idaho and I suppose in most States act as 
+
+political subdivisions of the State. And whatever 
+
+authority they have or don't have derives, if not 
+
+exclusively, virtually exclusively from State law.
+
+ CHIEF JUSTICE ROBERTS: I'm looking for --
+
+JUSTICE SOUTER: No. Please.
+
+ CHIEF JUSTICE ROBERTS: I'm looking for a 
+
+specific example. I mean, maybe counties or 
+
+municipalities, you know, contract for trash collection 
+
+or water services and maybe the State tells them, look, 
+
+you've got to deal with these people, you've got to do 
+
+it by open bidding, whatever.
+
+ MR. SMITH: Your Honor, let me go back to 
+
+the election context for a moment to try to address that 
+
+question. Prior to its amendments pursuant to the 
+
+legislation at hand, Idaho Code Section 67-6605, which 
+
+is part of Idaho's election campaign finance and 
+
+reporting statute or general statutes, allowed payroll 
+
+deductions to be made for contributions to political 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+committees. In that sense, it allowed counties, as well 
+
+as other public employers, to make deductions of the 
+
+kind at issue today.
+
+ Now, that authority was rescinded by virtue 
+
+of the amendment to 2004(2). The point simply is that 
+
+if necessary, we -- we could describe in detail various 
+
+kinds of -- of requirements that exist with respect to 
+
+counties or school districts or cities.
+
+ CHIEF JUSTICE ROBERTS: Well, that's --
+
+since I asked the question, I think it's necessary. So 
+
+what's the best example where the State exercises 
+
+control over what the counties would otherwise have 
+
+discretion to do? You mentioned school districts. Is 
+
+that -- is that an area?
+
+ MR. SMITH: Well, Your Honor, for example, 
+
+with respect to -- take open meetings, for example, take 
+
+public records, for example. Those are general kinds of 
+
+statutes that impose requirements on all levels of State 
+
+government. So, for example, with respect to open 
+
+meetings, the Idaho law requires essentially all 
+
+meetings, except for certain exclusions, to be open to 
+
+the public. In that sense, it's akin to the Wisconsin 
+
+statute.
+
+ JUSTICE SCALIA: What about a Hatch Act? 
+
+Does -- does -- does the State allow State employees to 
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+engage in political activity?
+
+ MR. SMITH: Your Honor, it does, but not --
+
+not in connection with their public employment 
+
+activities.
+
+ JUSTICE SCALIA: I don't know -- I don't 
+
+know what that means.
+
+ MR. SMITH: It means that there is no 
+
+prohibition under State law, for example, for a public 
+
+employee to engage in political activity. If -- but our 
+
+statute in Idaho applies actually only to State 
+
+employees. It doesn't govern those kinds of activities 
+
+by local government.
+
+ JUSTICE SCALIA: That's interesting. Why 
+
+not?
+
+ JUSTICE KENNEDY: The general proposition 
+
+that underlies your argument that the local entities are 
+
+creatures of State law and they cannot receive Federal 
+
+powers from the Federal Government when the States 
+
+object, is that -- is that an acceptable proposition?
+
+ MR. SMITH: It would be an acceptable 
+
+proposition to the extent that Federal law doesn't 
+
+pre-empt State law, Your Honor.
+
+ JUSTICE KENNEDY: Right.
+
+ MR. SMITH: In this instance, we would argue 
+
+that the First Amendment does not interpose some kind of 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+barrier to essentially vulcanize local government from 
+
+State legislative control.
+
+ JUSTICE KENNEDY: There is -- there is a 
+
+case out of the Ninth Circuit, and it was affirmed by 
+
+this Court on a procedural point, but not on a -- not on 
+
+the merits -- out of the neighboring State of 
+
+Washington, where the State says a locality cannot build 
+
+a dam more than 25 feet high.  The locality then gets a 
+
+license from the Federal Power Commission, and the State 
+
+said, well, you still don't have this authority. And 
+
+the Ninth Circuit said you do. The Federal power then 
+
+supersedes.
+
+ Would you agree that that case is valid?
+
+ MR. SMITH: Depending on -- on the facts, I 
+
+-- I would agree that it is certainly possible for the 
+
+State law to --
+
+JUSTICE KENNEDY: Because there the local 
+
+entity has powers greater than what the State wants to 
+
+give it, even over the State's objection.
+
+ MR. SMITH: Well, but -- but, Your Honor, 
+
+that is, I think, beyond cavil; that is to say that 
+
+Federal law --
+
+CHIEF JUSTICE ROBERTS: I -- I didn't hear 
+
+you. You think that's what?
+
+ MR. SMITH: Beyond cavil, beyond --
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE KENNEDY: Really, if the State can 
+
+-- can opt not to do something, it can't tell its 
+
+subdivisions, we don't want you to do it, either? And 
+
+the subdivision can then go to the -- directly to the 
+
+Federal Government and say, please let us do this, even 
+
+if the State would be free to reject it on its own?
+
+ MR. SMITH: Well, it -- it depends on --
+
+JUSTICE KENNEDY: It seems to me that that 
+
+is the argument you should be making here.
+
+ MR. SMITH: Your Honor, perhaps it was --
+
+it was an argument that we don't have to make in this 
+
+instance. Needless to say, by virtue of the Supremacy 
+
+Clause, there may be instances where Federal law --
+
+JUSTICE GINSBURG: But I thought your whole 
+
+argument was that the counties are simply 
+
+instrumentalities of the State, and the State has full 
+
+power over them. It chooses to delegate to them 
+
+autonomy, but it holds the control rein. And now you're 
+
+saying no, that the Federal Government can give the 
+
+State local-unit authority that the State, itself, 
+
+chooses not to give. And you say that's beyond cavil. 
+
+I really don't understand your argument.
+
+ MR. SMITH: It is beyond cavil if the 
+
+Federal law, in fact, supersedes State law. There may 
+
+be issues --
+
+20
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: That depends -- I 
+
+mean the whole case turns on -- and the response to 
+
+Justice Kennedy, I think, would be -- if the Federal 
+
+Government is simply saying you can do it if you want, 
+
+that's one thing. If the Federal Government is saying 
+
+you must do it because it's covered by the Federal Power 
+
+Act, or whatever, that's different.
+
+ If it's just a grant of permission, I would 
+
+suppose the State can say, well, fine, it's okay with 
+
+the Feds, but you can't do it because we don't want you 
+
+to.
+
+ MR. SMITH: That's correct.
+
+ JUSTICE SOUTER: And don't -- don't you 
+
+suffer from -- doesn't your position suffer from a -- a 
+
+more serious problem that doesn't even implicate the 
+
+pre-emption doctrine? And that is, as I understand your 
+
+argument, the -- the local governments are creatures of 
+
+the State. Their powers are the powers that the State 
+
+gives them by statute, as -- as you were pointing out.
+
+ The same thing is true for corporations. 
+
+Corporations are creatures of the State. They have the 
+
+powers, and only the powers, that the State gives to 
+
+them. It -- it seems to me, going back to Justice 
+
+Stevens's initial question, that I don't see where the 
+
+distinction lies between the -- in effect, the position 
+
+21
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of the local-government units and corporations, and --
+
+and between the local-government units and the 
+
+corporations. And it seems to me that that's a problem 
+
+for you quite apart from any application of Federal law.
+
+ MR. SMITH: I disagree, Justice Souter. The 
+
+-- as I stated in response to Justice Stevens, the 
+
+difference is a central one. That is to say, a 
+
+corporation is a private entity with -- with distinct 
+
+rights under the First Amendment.
+
+ JUSTICE SOUTER: Well, it has distinct 
+
+rights under the First Amendment if State law creates a 
+
+corporate form of -- of -- of business organization. 
+
+And the -- the -- when -- when it comes into existence, 
+
+it then does acquire some rights under the national 
+
+Constitution. But if in the first instance it's a 
+
+creature of State law, its powers, generally speaking, 
+
+are the powers that State law gives it. And that is --
+
+that same proposition is true of counties and towns and 
+
+-- and other sub-State governmental units.
+
+ MR. SMITH: I disagree to the extent that 
+
+there is any attempt to equate a private corporation 
+
+with essentially an agent or an arm of the State such as 
+
+a county, which has been delegated governmental 
+
+functions.
+
+ JUSTICE SOUTER: All right. Then -- then it 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+seems to me that your argument is not that State law 
+
+controls what it may do and defines its powers. Your 
+
+argument, it seems to me, has to rest upon the fact that 
+
+what it is doing is a public, as opposed to a private, 
+
+function. And that's the extent of the argument. Isn't 
+
+that true?
+
+ MR. SMITH: Well, that is -- certainly is 
+
+the distinction between a private corporation and, for 
+
+example, a county.
+
+ JUSTICE SOUTER: That's the only distinction 
+
+that you can maintain. You can't maintain the 
+
+distinction based upon the superiority of State law in 
+
+defining the -- the extent of the governmental unit's 
+
+powers and so on, because that is just as true of a 
+
+corporation. So your distinction has simply got to be a 
+
+distinction based on the nature of the function that is 
+
+being performed.
+
+ MR. SMITH: And -- and the very nature of 
+
+the entity, itself, Your Honor. A county --
+
+JUSTICE SOUTER: What -- what do you mean by 
+
+the "nature of" --
+
+MR. SMITH: A county or school district 
+
+performs functions assigned to it by the State 
+
+legislature to carry out the function, to carry out 
+
+activities that are public in nature. 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOUTER: Yes, it's doing -- it's 
+
+doing a governmental job.
+
+ MR. SMITH: That's correct.
+
+ JUSTICE SOUTER: We understand what that is, 
+
+so I understand that point.
+
+ MR. SMITH: Your Honor, I -- I can only 
+
+repeat that the distinction between the private 
+
+corporation and the -- and a political subdivision of 
+
+the State is that, in fact, one is an entity created by 
+
+the legislature for the very purpose of carrying out 
+
+State governmental functions. That -- that, I think, is 
+
+entirely consistent with the position argued throughout 
+
+this case.
+
+ JUSTICE SOUTER: No. But -- it -- it is, 
+
+but I mean when you say, as I think you are now saying, 
+
+the -- the law for the State to be the law for the 
+
+subdivision because they are both governmental, the 
+
+counter-argument is, in fact, there are resemblances to 
+
+private organizations, too. And those resemblances are, 
+
+in effect, their creation and definition by State law; 
+
+their enjoyment of the powers, and only those powers, 
+
+which State law gives them; so that, in fact, there 
+
+is -- there is not only an analogy with the State 
+
+government, there is an analogy with private 
+
+corporations, too. And the question is why should we 
+
+24
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+choose one analogy rather than the other analogy?
+
+ MR. SMITH: And Your Honor, I think I 
+
+responded.
+
+ JUSTICE ALITO: You don't think that under 
+
+our Federal system, the States have greater powers 
+
+deciding how they are going to organize themselves than 
+
+they have with respect to the regulation of artificial 
+
+private entities that they choose to permit under State 
+
+law?
+
+ MR. SMITH: Yes. States -- of course States 
+
+do have that authority.
+
+ CHIEF JUSTICE ROBERTS: Counsel, we'll give 
+
+you a minute for rebuttal --
+
+MR. SMITH: Thank you.
+
+ CHIEF JUSTICE ROBERTS: Since our 
+
+questioning has taken away from your time.
+
+ CHIEF JUSTICE ROBERTS: Mr. Collins.
+
+ ORAL ARGUMENT OF JEREMIAH A. COLLINS
+
+ ON BEHALF OF THE RESPONDENTS
+
+ MR. COLLINS: Mr. Chief Justice and may it 
+
+please the Court:
+
+ This case turns on three points. First, the 
+
+statute at issue is a content-based restriction on 
+
+speech which is therefore presumptively invalid, 
+
+requires heightened scrutiny, which Petitioners 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+acknowledge they have not satisfied, unless one of the 
+
+exceptions to heightened scrutiny is applicable here, 
+
+those being exceptions which as the Court has explained 
+
+in R.A.V. and Davenport, are limited to circumstances 
+
+where there is no real risk of viewpoint suppression.
+
+ JUSTICE SCALIA: Mr. Collins, suppose -- I 
+
+gather Idaho doesn't have it, but suppose Idaho wanted a 
+
+Hatch Act similar to the Federal Hatch Act that 
+
+prohibits Federal employees from engaging in political 
+
+activity, and suppose it decided that not only should 
+
+the State employees at the capital not engage in 
+
+political activities, but it's a problem for any 
+
+governmental employee to do that; they ought to be 
+
+neutral and we don't want patronage to be passed out on 
+
+the basis of whether they are campaigning for one party 
+
+or another, and we don't want them to be coerced into 
+
+campaigning for one party or another. Now, I assume 
+
+that such a law would violate the First Amendment if it 
+
+were extended to all employers. Saying no -- no company 
+
+employee, no private employee can engage in political 
+
+activity would surely violate the First Amendment. 
+
+Would it violate the First Amendment if it was extended? 
+
+Certainly, it doesn't when it's applied to State 
+
+employees because there are a lot of State Hatch Acts. 
+
+And you're saying it would violate the First Amendment 
+
+26 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+as applied to county and municipal employees?
+
+ MR. COLLINS: Not at all, Your Honor.
+
+ JUSTICE SCALIA: Why not?
+
+ MR. COLLINS: We don't take that position at 
+
+all, because, as the Court has indicated in Letter 
+
+Carriers and Broadrick and other cases, there is a 
+
+compelling interest in a statute which says that 
+
+government employees -- and it could be State or local 
+
+-- will not be performing their jobs as servants of 
+
+politics.
+
+ JUSTICE SCALIA: You're saying -- you're 
+
+analogizing these to private entities. That's your 
+
+whole point.
+
+ MR. COLLINS: That's not our point.
+
+ JUSTICE SCALIA: This is not a creature of 
+
+the State. You're saying what the First Amendment -- as 
+
+the First Amendment applies to private individuals, so 
+
+it applies here. This is regulation by the State, 
+
+rather than the State's control of State government.
+
+ MR. COLLINS: We are saying that, Your 
+
+Honor, because the only defense that the State can 
+
+possibly offer here to this content discrimination is 
+
+the forum notion that the State has introduced. In the 
+
+case of --
+
+JUSTICE KENNEDY: Now --
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. COLLINS: It's not a forum analysis.
+
+ JUSTICE KENNEDY: Let me just establish something at 
+
+the outset. You had conceded below, and I thought I saw 
+
+this in your brief as well, that as to the State of 
+
+Idaho, its determination not to allow the deductibility 
+
+is permissible.
+
+ MR. COLLINS: That's correct, Your Honor.
+
+ JUSTICE KENNEDY: All right. So, we begin 
+
+with the proposition that a State may do this if it 
+
+chooses; i.e., this -- refused on its own to have the 
+
+payroll deduction.
+
+ MR. COLLINS: Yes. And the reason for that 
+
+is that, under Regan and Finley and Rust and the other 
+
+cases, the State has perfect freedom to decide not to 
+
+devote its own resources and expenditure. But 
+
+interestingly and very much on point here --
+
+JUSTICE KENNEDY: And if -- and if a State 
+
+had a system in which all payroll deductions were -- by 
+
+local entities -- were routinely controlled by the 
+
+State, the State did all the pay roles for the local 
+
+entities, then it -- in that case the nondeductibility 
+
+would also be permitted, I take it.
+
+ MR. COLLINS: Yes, Your Honor, and let me 
+
+explain because those are two -- the answer to both 
+
+questions is "yes" but for two very different reasons. 
+
+28
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+The answer to the second question is that our contention 
+
+is not that the State is never a proprietor and never 
+
+entitled to the kind of deference that goes with the 
+
+proprietor when it's dealing with local government 
+
+programs. As the Court noted in the Council of 
+
+Greenberg case, a government can become a proprietor 
+
+with respect to property or programs it doesn't actually 
+
+own. Our point is quite simply that the State has not 
+
+done that here. That's why, if the State had done it, 
+
+if the State said we are going to dictate the nature of 
+
+payroll deduction systems for and local governments, the 
+
+State could do that, and it would be then --
+
+CHIEF JUSTICE ROBERTS: Did you have any 
+
+doubt how they would? I mean, they passed a law 
+
+dictating that with respect to everybody. And then it's 
+
+pared down by litigation and concessions. So, we don't 
+
+have any real question of what the State is wanting to 
+
+do here. It's --
+
+MR. COLLINS: What I'm suggesting, Mr. Chief 
+
+Justice, is that since we are beginning with a 
+
+content-based restriction -- and I do want to emphasize 
+
+it's a law here which says that for all employers --
+
+public, private, or State -- the only expenditure you 
+
+can't make through payroll deduction is for political 
+
+activities, and also the only resource of an employer 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that can't be used for any kind of political activity is 
+
+payroll deduction, this being in a statute targeted at 
+
+employee support of union activity. So, we have a 
+
+content-based restriction, and the question is: Can it 
+
+come within an exception to the heightened scrutiny that 
+
+Petitioners acknowledge they can't satisfy?
+
+ But when I'm suggesting that the State could 
+
+come within reduced scrutiny if it were actually 
+
+managing the payroll system, I'm referring to situations 
+
+like Council of Greenburg, where the government with 
+
+respect to a particular kind of facility or program 
+
+says, we don't own it, but we -- it's an integral part 
+
+of a system that we are managing, establishing, not just 
+
+saying -- not just to say all we care about is one kind 
+
+of speech we don't want to go on there. If the 
+
+government says we have -- we want to be the manager, 
+
+the operator of a particular kind of local government 
+
+operation, the State is free to do that --
+
+JUSTICE GINSBURG: Well, if the State wants 
+
+to, it's because it can exercise a heavy hand and 
+
+control its local units, but if it wants to give the 
+
+local units discretion, then it has to leave it to the 
+
+local units whether or not they want to enact such a 
+
+ban. That's your position?
+
+ MR. COLLINS: No. It's not a question of 
+
+30 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+whether the State has the power to regulate. The 
+
+question is if the State regulation is in the form of a 
+
+content-based restriction on speech, can it elude 
+
+heightened scrutiny? And --
+
+JUSTICE GINSBURG: My question really is, if 
+
+you look at this at the most basic level, we have two 
+
+important concessions. You don't question the 
+
+constitutionality of the ban as to State employees. And 
+
+the other side doesn't question that it is 
+
+unconstitutional as to private employees. So here we 
+
+have State local employees. Do we bracket them with 
+
+with State employees or with private employees as 
+
+essential --
+
+MR. COLLINS: Your Honor, functionally 
+
+that's the question, but I think analytically we don't 
+
+see it that way because the question is, as we see it, 
+
+is the State, with regard to this challenged statute in 
+
+its application to the local governments, acting in a 
+
+capacity that entitles it to be free from the normal 
+
+First Amendment scrutiny that it acknowledges it would 
+
+fail-- and that's where our point is. The reason it is 
+
+free from that scrutiny as to its own employees is 
+
+because of the cases that say the government doesn't 
+
+have to spend its money.
+
+ JUSTICE BREYER: It's at that part, just 
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+where you are, that I've always had a hard time not for 
+
+lack of trying. I don't understand what the word 
+
+"content-based" means, and I know it's all over the law, 
+
+but I've never understood it and maybe since you're 
+
+relying on it 15 times you can explain it. And the 
+
+thing I don't understand it about is it seems to me 
+
+government engages in thousands of different kinds of 
+
+activity, and there isn't some special test. When they 
+
+say that in the jury room, the jury room is there for 
+
+juries; it's not to show movies of Steven Spielberg. 
+
+And there isn't some special test when you say the 
+
+purpose of the biology class is to teach biology, and we 
+
+don't want people coming in here teaching some other 
+
+thing. I don't understand what this special test called 
+
+"content-based" is, and that's rather a deep 
+
+misunderstanding on my part, but since you're depending 
+
+on it, why don't you take 30 seconds or 45 seconds to 
+
+see if you can help me?
+
+ MR. COLLINS: Well, Justice Breyer, the --
+
+the concept of content discrimination may blur on some 
+
+edges, but one thing that the Court has been clear on is 
+
+that when a government says speech -- one form of speech 
+
+will not be allowed and that will be political speech, 
+
+that is treated as requiring heightened scrutiny. And I 
+
+should say --
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: It doesn't -- for example, 
+
+in biology class, the school board says: You know, 
+
+biology teacher, I want you to teach biology; I don't 
+
+want you to teach politics. And then there is some 
+
+special scrutiny about how the biology teacher is to 
+
+teach or -- but they say just face it. The jury room is 
+
+for juries. It's not for politics. All that is subject 
+
+to some special First Amendment test?
+
+ MR. COLLINS: Well, first of all, Your 
+
+Honor, all of those would pass muster either because --
+
+JUSTICE BREYER: They might. They might. 
+
+But you know a lot of them, you know you could show 
+
+movies in jury rooms in the evening and people might 
+
+find it much better.
+
+ (Laughter.)
+
+ MR. COLLINS: They would pass muster either 
+
+because they are within exceptions to heightened 
+
+scrutiny -- because not all content distinctions require 
+
+heightened scrutiny -- or they would pass muster even 
+
+under heightened scrutiny. But one kind of content 
+
+distinction that the Court consistently has indicated 
+
+requires heightened scrutiny is in -- well, in Burson, a 
+
+majority court at least, you can talk about anything you 
+
+want near the polling place but not politics. That was 
+
+content. Consolidated Edison -- you can talk about 
+
+33
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+anything -- billing envelopes but not controversial 
+
+issues. Davenport, very recently -- from fees that 
+
+individuals are required to pay to you -- and in this 
+
+case we are not talking about any compelled fees -- but 
+
+with compelled fees, you can use them for anything you 
+
+want but not politics.
+
+ CHIEF JUSTICE ROBERTS: Since we are in 
+
+confessional mode, I've never understood forum analysis. 
+
+I don't understand how --
+
+(Laughter.)
+
+ CHIEF JUSTICE ROBERTS: -- how you can say 
+
+that this payroll deduction system is some kind of a 
+
+forum. A forum is, you know, the corner at Hyde Park or 
+
+something. This is -- this is something that 
+
+governmental entities and private entities do, and they 
+
+can either exclude this type of activity or they can't. 
+
+And the problem with the forum analysis is it's all or 
+
+nothing. I mean -- and both parties seem to agree: If 
+
+it's a State forum, you could do it; if it's a private 
+
+forum or if it's an open forum, you can't. That's not 
+
+how we usually analyze these things.
+
+ MR. COLLINS: Well, two points in response 
+
+to that, Mr. Chief Justice. First, we are not the ones 
+
+who say that this must be looked at under forum 
+
+analysis. We'd be quite happy, and I think the most 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+sensible way actually to approach the case is that this 
+
+is a content distinction, and it's presumptively 
+
+invalid, and there is no sufficient justification.
+
+ The other side says wait a minute; there is 
+
+a line of cases that says that when there is a forum 
+
+involved of the government, and the government is 
+
+restricting speech in that forum, there can be an 
+
+exception to heightened scrutiny. In Davenport --
+
+JUSTICE ALITO: You say there is a 
+
+sufficient -- presumably you concede there is a 
+
+sufficient justification for this content-based 
+
+restriction as to State employees.
+
+ MR. COLLINS: What we say as the State 
+
+employees, Justice Alito, is that if falls under the 
+
+Regan-Findley line of cases; that you don't even get to 
+
+a First Amendment scrutiny because it's under the 
+
+doctrine that when the government says we won't spend 
+
+our money on something, that's not an infringement of 
+
+speech in the first place. And interestingly --
+
+JUSTICE ALITO: So if there is State money 
+
+involved in these payroll systems that would be 
+
+sufficient?
+
+ MR. COLLINS: If the State said you can't 
+
+use our money for payroll deductions of this kind then 
+
+it would arguably be into that category. But I think 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+what's important to recognize --
+
+JUSTICE GINSBURG: Isn't there -- isn't 
+
+there some State tax money that goes to fund local 
+
+units? I mean, you say here there are State taxpayers' 
+
+funds involved; therefore the State doesn't have to pay 
+
+for what it doesn't want to buy. But are there State 
+
+funds that fund local government entities?
+
+ MR. SMITH: There is State funding, but the 
+
+reason, I believe, why the Respondents -- excuse me the 
+
+Petitioners -- have conceded that the subsidization case 
+
+law does not apply to this statute in its application to 
+
+the local governments, is that what the subsidization 
+
+cases are talking about -- cases like Regan, Rust, 
+
+Findley -- are situations where we'll say the State is 
+
+involved in developing a program which it will pay for, 
+
+and it says because we are paying for that, our 
+
+priorities are to be honored.
+
+ The government in this instance, it's been 
+
+conceded, as the Court of Appeals pointed out, there is 
+
+no actual subsidization to the payroll systems. In 
+
+effect the State says we have some money we give to our 
+
+local governments -- by no means, all revenue, but they 
+
+get some money. But we -- the State does not set the 
+
+kinds of budget priorities that are protected by the 
+
+Regan line of cases. Specifically, the State in effect 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+says that as far as payroll systems and in fact as far 
+
+as most employment matters and most administrative 
+
+matters are concerned, here's some money for you, local 
+
+government. The only thing we say about it is don't use 
+
+it for political payroll deductions.
+
+ JUSTICE SOUTER: No, but another way of 
+
+looking at it is to say in each of these instances --
+
+whether we are talking about the State taxing in order 
+
+to perform functions at the State level or whether the 
+
+State is authorizing taxation for functions for 
+
+functions to be performed at the local level -- in all 
+
+of these instances, the State is in the position to say 
+
+not that it is sort of our money, but to say it is 
+
+public money. And our decision is that public money 
+
+will not be used to -- by a public entity to underwrite 
+
+political activity.
+
+ And why isn't the State in exactly the same 
+
+position in making that judgment, whether it's talking 
+
+about money that goes directly into the State coffer or 
+
+public tax money that happens to be going into a -- a 
+
+town coffer?
+
+ MR. COLLINS: Because, Your Honor, I think 
+
+the courts never applied the Regan subsidization 
+
+analysis in that kind of --
+
+JUSTICE SOUTER: But I'm -- I'm asking you 
+
+37 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+why shouldn't --
+
+MR. COLLINS: It shouldn't --
+
+JUSTICE SOUTER: Why shouldn't we, on the 
+
+theory that what is important is not which particular 
+
+coffer the penny goes into, but the fact that it is 
+
+public money, i.e., money being raised from taxpayers 
+
+under a statute passed by the State authorizing 
+
+taxation; and it is going to -- and its justification 
+
+for taxation is the performance of public functions. 
+
+And if the State can say it is not a proper public 
+
+function when the money is being filtered through our 
+
+particular treasury, why isn't it equally valid for the 
+
+State legislature to say that when the money is being 
+
+filtered through a local treasury?
+
+ MR. COLLINS: For the following reason, I 
+
+think, Justice Souter. That -- the doctrine that says 
+
+when a government is refusing to subsidize something 
+
+there is no violation in the first place in the First 
+
+Amendment, and therefore except in the rarest, rarest of 
+
+cases -- the rarest of cases there can be no First 
+
+Amendment claim; that's very powerful medicine and it 
+
+turns on the notion that -- somewhat alike but different 
+
+from in detail the proprietor concept -- but it turns on 
+
+the notion that the government is making judgments about 
+
+how its money is going to be used. It decides what it 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+wants its money to be used for, and we are going to 
+
+honor that --
+
+JUSTICE SOUTER: Yes, but what you're saying 
+
+is, I -- you're saying in effect that I -- that you 
+
+reject my -- my hypothetical assumption here, that what 
+
+we ought to regard as the proper characterization of the 
+
+money is not "our" State money, but public money raised 
+
+under a system of public taxation; and you're saying you 
+
+should not go -- you should not characterize the funds 
+
+that way.
+
+ Of course that's your position --
+
+MR. COLLINS: No, I --
+
+JUSTICE SOUTER: -- because if you do 
+
+characterize the funds that way, it seems to me you're 
+
+in trouble.
+
+ MR. COLLINS: Now --
+
+JUSTICE SOUTER: But why shouldn't I 
+
+characterize them that way?
+
+ MR. COLLINS: The -- even characterizing --
+
+even characterizing it that way, the reason that I think 
+
+the analysis breaks down as to applying subsidization 
+
+law, is that the subsidization law doctrine, 
+
+subsidization doctrine -- Regan and those cases -- as 
+
+the Court has explained it, it is to protect the 
+
+prerogatives of the government that is making decisions 
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+about how it wants particular programs to be operated.
+
+ JUSTICE SOUTER: The State -- the State 
+
+legislature is making a decision as to how it wants the 
+
+-- the programs which comprise local government to be 
+
+operated.
+
+ MR. SMITH: But the difference, Your Honor, 
+
+in all of the other cases one could look at Regan and 
+
+the like, there is a program where the government is 
+
+involved in its manifold details. The government 
+
+determines the purpose of the program; it has an 
+
+overriding interest in the program; and it says in the 
+
+course of that, in the course of dealing with this 
+
+program, we don't want government money to be used for 
+
+the following things.
+
+ If you -- if that were extended to say that 
+
+there will be essentially no First Amendment claim 
+
+whenever the government says as to some program that it 
+
+has no other involvement and that it has no other 
+
+interest in, we don't want the following speech, and 
+
+over here we don't have the following speech --
+
+JUSTICE SOUTER: Well, but the point in the 
+
+case that you concede that the government may make that 
+
+choice is that the government is subsidizing it by the 
+
+activity which the government is refusing to perform. 
+
+So it's not nearly a case of saying there shall be this 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+kind of speech and not that kind of speech. In each 
+
+instance there is a decision being made in my 
+
+hypothetical that the government will not subsidize that 
+
+kind of activity, that kind of speech, by using public 
+
+money.
+
+ MR. COLLINS: But the difference for First 
+
+Amendment analysis, I would submit, Your Honor, and the 
+
+reason why I think the subsidization doctrine has been 
+
+confined in the areas it's been confined, is when we are 
+
+talking in this case, for example, about the State, the 
+
+State determines whether it's going to have a payroll 
+
+deduction system. It determines whether it's going to 
+
+allow deductions for charities; whether it's going to 
+
+allow deductions for this that and the other. It 
+
+determines who -- who's going to administer the program, 
+
+how expensive it's going to be, all of those things. 
+
+Its money is going into that program and it is as to 
+
+that program making all of these decisions about how its 
+
+money is going to be spent. That is -- and if the 
+
+course of that it says we don't want this one, this 
+
+element as part of it just as we do want charitable, we 
+
+don't want political; maybe we don't want charitable 
+
+either -- it is a different situation in items of basic 
+
+First Amendment analysis, I believe, if you have a 
+
+government that's saying we don't care anything about 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+government payroll systems.
+
+ JUSTICE STEVENS: Mr. Collins, may I 
+
+interrupt you and ask you the converse of the question I 
+
+asked your opponent?
+
+ He conceded that it was unconstitutionally 
+
+what you call it, content discrimination -- whatever --
+
+to have the deduction from the private sector, but the 
+
+counties were different; and he justified the counties 
+
+on the ground that the State's interest in avoiding 
+
+taking a position with regard to union matters justifies 
+
+it. But that's the only justification for the -- it's 
+
+not the administrative justification -- this statute 
+
+wasn't enacted to save the government administrative 
+
+expenses. The purpose of the statute is perfectly 
+
+clear, and I'm surprised that you concede that it's 
+
+constitutional as applied to the State government, when 
+
+there's no evidence whatsoever that it serves the 
+
+purpose that everybody is talking about.
+
+ MR. COLLINS: Your Honor, we conceded that 
+
+reluctantly under the view that where the question is 
+
+whether the State -- our claim against the State would 
+
+say we are -- we are going to require the State to start 
+
+devoting money that it doesn't want to spend as we -- we 
+
+have chosen given the force of cases like Regan, not to 
+
+make that contention, but to accept the ruling that the 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+State's refusal to spend money on its own programs is in 
+
+a different category.
+
+ JUSTICE STEVENS: But this is not a case 
+
+involving a State's decision not to spend the time and 
+
+energy to do payroll deductions because they do them for 
+
+everybody else. It's simply based on the reason for the 
+
+payroll deduction, which is, in your view, an 
+
+impermissible reason. Is that not correct.
+
+ MR. COLLINS: That's correct, Your Honor. 
+
+And if it were clear that as to what kinds of reasons 
+
+are considered impermissible under subsidization --
+
+JUSTICE STEVENS: How can it not be clear? 
+
+It enacted a general statute that had the same 
+
+justification throughout the State. And now you're 
+
+justifying on the ground it doesn't apply to all their 
+
+other government activities because they allow payroll 
+
+deductions.
+
+ MR. COLLINS: Well, in Davenport, Your 
+
+Honor, the Court did indicate that a statute that 
+
+applies to public and private, even though it's a 
+
+unitary statute, you have to analyze it separately in 
+
+the two contexts.
+
+ But our point, though -- I think the point 
+
+that is being lost, we don't see this as a question 
+
+about what can the State do with respect to its own 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+operations as such and what can it do with respect to 
+
+local government operations. We see it as a case that 
+
+asks the question whether a content distinction directed 
+
+at certain kinds of political activities that would 
+
+normally require heightened scrutiny gets the pass from 
+
+that scrutiny because it's in a "forum"?
+
+ And we -- our position is quite simply that 
+
+if the State were, in fact, managing these local 
+
+government payroll systems, which it would have a 
+
+perfect right to do, that then it could avail itself of 
+
+that analysis, but because it doesn't, it cannot.
+
+ JUSTICE STEVENS: I see your argument.
+
+ JUSTICE KENNEDY: Suppose the State at the 
+
+State level says this is a contentious area, we want to 
+
+stay out of it. We are going to be neutral. We are 
+
+simply not allowing payroll deduction for right to work 
+
+clauses, for union clauses. We don't want this. If the 
+
+State can say that, and your concession indicates to me 
+
+that it can, then why can't it tell its subdivisions you 
+
+have to be efficient, we don't want arguments from one 
+
+city to the next city about payroll deduction that's 
+
+going to consume the time of the city council's, the 
+
+time of the citizens, we want to take this off the table 
+
+for you just the way we've taken it off the table for 
+
+us? 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8 --
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. COLLINS: Because I think the difference 
+
+here, Your Honor, as I understand the case law, is that 
+
+when the State is simply saying we choose not to spend 
+
+our own money on this activity, it does not have the 
+
+same burden of explaining why it's made that choice that 
+
+it has when it reaches out and says, and by the way, we 
+
+don't want local government or even private government 
+
+JUSTICE KENNEDY: Well, of course, that's 
+
+the interest. This is a very strong Federal interest in 
+
+allowing the States to organize their governmental 
+
+systems the way they choose. Our gun control 
+
+registration case, where we said the Federal Government 
+
+cannot tell the counties that it has certain duties for 
+
+gun control.
+
+ MR. COLLINS: And we have no quarrel at all 
+
+with that notion. Our position in no way dictates, in 
+
+no way has the First Amendment dictating how a State is 
+
+going to structure its government. It simply says, 
+
+look, we begin with the proposition that normally this 
+
+restriction on public speech would be heightened to 
+
+public scrutiny.
+
+ JUSTICE KENNEDY: I -- I -- I'm not sure 
+
+that's right. I'm not sure the State isn't saying we 
+
+want to determine how our government is structured in 
+
+45
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+this respect.
+
+ MR. COLLINS: If the -- if the State wants 
+
+to have a uniform law for itself -- for public 
+
+employer -- employees, its own employees and local 
+
+government employees because of some unitary interest 
+
+that the State wants to pursue, there is nothing wrong 
+
+with the state pursuing that objective. But when it 
+
+does it through restricting political speech, it has to 
+
+either satisfy heightened scrutiny or come within one of 
+
+the exceptions.
+
+ And the distinction -- maybe I can put it 
+
+this way, Justice Kennedy. The reason why for First 
+
+Amendment scrutiny analysis, there is a sharp 
+
+distinction in this case between what the State's 
+
+treatment of its own employees and the State treatment 
+
+of local governments is -- I think it's basically 
+
+threefold.
+
+ That, first, when the State says, we don't 
+
+choose to allow certain speech in our own forum, it is 
+
+simply declining to facilitate speech that couldn't take 
+
+place without an affirmative grant. When it says to 
+
+local governments, who in the state of nature can allow 
+
+whatever they want in the way of speech, when it says 
+
+that there we will not allow these kinds of deductions, 
+
+it's blocking speech that would take place but for the 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+government's intervention. And so --
+
+JUSTICE KENNEDY: I'll read Russo again, but 
+
+I didn't think Pocatello, Idaho, was part of the state 
+
+of major.
+
+ MR. COLLINS: I just meant that no -- it's 
+
+this simple, Justice Kennedy, and the point I'm trying 
+
+to make is that for someone to get access to 
+
+political -- to a payroll deduction system of the State 
+
+government, it needs an affirmative grant from the 
+
+State. To have access to the use of payroll deduction 
+
+from local governments, it doesn't need an affirmative 
+
+grant from the State. It simply needs the State not to 
+
+interfere and reject the local government.
+
+ So it's -- it's a different kind of action. 
+
+But equally important, the basis for the kind of relaxed 
+
+scrutiny that the -- that the Petitioners have argued 
+
+for, the forum cases like Cornelius, et cetera, those 
+
+are all situations where a government, that is, that has 
+
+established and managed a facility is determining on a 
+
+day-to-day basis what's the purpose of our program, what 
+
+are we going to allow --
+
+JUSTICE KENNEDY: Could you help me with 
+
+this? Would you object if we analyzed this as a 
+
+constitutional condition case? I don't know that you 
+
+would prevail or not. But it -- the forum analysis 
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+doesn't seem to me to quite fit.
+
+ MR. COLLINS: It's fine with me, but if you 
+
+analyze it in any way that says that heightened scrutiny 
+
+is applicable and there is no exception --
+
+JUSTICE KENNEDY: Why is that?
+
+ (Laughter.)
+
+ MR. COLLINS -- the problem with 
+
+constitutional condition -- if it were a condition on 
+
+the local governments, then it's not really --
+
+JUSTICE BREYER: Are you saying -- is it 
+
+your view that heightened scrutiny applies whenever a 
+
+government tells any group that wants to raise money for 
+
+political purposes in any way they want involving the 
+
+government that it can't?
+
+ MR. COLLINS: No, Your Honor.
+
+ JUSTICE BREYER: No. Okay. I thought the 
+
+answer would be no.
+
+ Then, will you try to say in a sentence or 
+
+two if the answer is it heightened scrutiny doesn't 
+
+apply to any kind of an effort to raise money for 
+
+political purposes where they say to the government you 
+
+got to help me, when does it apply and when doesn't it?
+
+ MR. COLLINS: The -- well, there are 
+
+exceptions to heightened scrutiny where the government 
+
+is acting as a proprietor. There are exceptions to 
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+heightened scrutiny where the government --
+
+JUSTICE BREYER: But then you are making --
+
+say it always applies except in a few little exceptions. 
+
+I mean I know there is one for government speech and so 
+
+forth. But you're saying whenever the government tells 
+
+a person you can't, for example, go to the city hall and 
+
+raise money, you can't do it in the jury room, you can't 
+
+raise money here, you can't raise money there, dah, dah, 
+
+dah, or you can't speak there, you can't -- it's always 
+
+heightened scrutiny?
+
+ MR. COLLINS: Well, if the government is 
+
+allowing other speech it would be heightened scrutiny.
+
+ JUSTICE BREYER: You cannot -- you have to 
+
+use heightened scrutiny when the FDA, for example -- you 
+
+know, the case I wrote in -- the FDA says you cannot 
+
+advertise on a label for a drug. We don't want 
+
+advertising. We don't want advertising on the label. 
+
+That's heightened scrutiny.
+
+ MR. COLLINS: It -- if it's -- if it's 
+
+commercial speech, it might fall under a different 
+
+standard. It would easily pass it is the point. I 
+
+mean, this is no question that a lot of situations 
+
+easily pass heightened scrutiny, and a lot of 
+
+circumstances are an exception. And the problem in this 
+
+case is that the Petitioner's sole submission --
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: And regulation of 
+
+government employees is the same?
+
+ MR. COLLINS: It basically would trigger 
+
+the -- the heightened scrutiny except where the 
+
+government is involved. When the government is involved 
+
+in managing employees in just as when it's managing a 
+
+forum, there -- there could be a different analysis.
+
+ But the problem -- where the shoe doesn't 
+
+fit the Petitioner's are trying to put on this case is 
+
+Petitioner's concede everything there is to concede 
+
+about this case and then say but it's just like 
+
+Cornelius, and it's just the government deciding what to 
+
+do with its own programs. And our point is quite simply 
+
+that unlike every case where the court has applied 
+
+relaxed scrutiny in a proprietary situation, this is a 
+
+case where the government does not play any role with 
+
+respect to the -- to limit the speech.
+
+ CHIEF JUSTICE ROBERTS: Why are you -- why 
+
+are you focusing on heightened scrutiny? We have a 
+
+whole series of cases about employee speech Darcetti and 
+
+Pickering where it's quite different than heightened 
+
+scrutiny, and here we are talking about the employees 
+
+being able to deduct checkoffs from their paycheck for 
+
+political speech?
+
+ MR. COLLINS: If I may answer that question, 
+
+50
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Mr. Chief Justice? It's correct that where a law is 
+
+based on employee behavior, that other kinds of scrutiny 
+
+can be involved. Darcetti is, obviously if it's speech 
+
+in your capacity of doing your job.
+
+ But the Hatch Act cases, letter carriers use 
+
+the Pickering balance. That's not a mere reasonableness 
+
+test by a long shot. That's a comparison as in the 
+
+NT -- National Treasury Employees honoraria case, same 
+
+situation, a balancing test between the harm that's 
+
+perceived from allowing the speech and the benefits of 
+
+the speech to the individual.
+
+ So, there can be that separate analysis, 
+
+which if it were applied here, the State would also 
+
+fail. The State, it says it only prevails under a 
+
+reasonableness test. But none of those are near 
+
+reasonableness analyses.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Mr. Smith, you have one minute.
+
+ REBUTTAL ARGUMENT OF CLAY R. SMITH
+
+ ON BEHALF OF THE PETITIONERS
+
+ MR. SMITH: Two points that I think are 
+
+critical. First, the concession with respect to the 
+
+State government employees based on Regan it itself 
+
+entails a concession as to the reasonableness and the 
+
+due point neutrality of the statute. 
+
+51 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Two, Respondents' theory of government with 
+
+respect to the legislature having to speak in some kind 
+
+of specific term, we would suggest, ignores -- would ask 
+
+this Court to create entirely new case law. But it also 
+
+ignores in this situation the fact that the Idaho 
+
+legislature contributes in 2006-2007 about half of the 
+
+funds used by school districts in the State. And over 
+
+80 percent of those funds that go into what is known as 
+
+a general maintenance and operations fund from which 
+
+salary compensation is paid.
+
+ Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+The case is submitted.
+
+ (Whereupon, the case in the above-entitled 
+
+matter was submitted.) 
+
+52
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+41:15 amendments apply 12:2 36:11 autonomy 20:18A 
+administrative 16:21 43:15 48:20,22 avail 44:10ability 13:12 
+
+37:2 42:12,13 amounts 3:23,25 applying 39:21 avoid 15:14able 50:23 
+adopted 3:21 12:6,7,7,20 approach 35:1 avoiding 6:13above-entitled 
+
+12:20 15:9 area 15:22 17:14 42:91:13 52:14 
+adoption 6:1 analogizing 44:14 aware 12:24accept 14:20 
+advertise 49:16 27:12 areas 13:17 a.m 1:15 3:2 42:25 
+advertising analogy 24:23 15:19 16:4acceptable 16:2 B49:17,17 24:24 25:1,1 41:918:19,20 back 11:2,25affect 8:9,12 analyses 51:16 arguably 35:25access 3:17 5:22 
+
+14:11 16:19affirmative analysis 28:1 argue 4:2510:20 47:7,10 
+21:2346:21 47:9,11 34:8,17,25 10:17 18:24acknowledge bad 11:4affirmed 19:4 37:24 39:21 argued 10:1926:1 30:6 balance 51:6agency 4:20 41:7,24 44:11 24:12 47:16acknowledges balancing 51:9agent 6:17,17 46:13 47:25 argument 1:1431:20 ban 8:9 30:24 22:22 50:7 51:12 2:2,7 3:3,7 acquire 22:14 
+31:8agree 4:16 14:8 analytically 6:19,25 7:5 act 4:5 12:19 banned 8:719:13,15 34:18 31:15 18:16 20:9,1116:4,7 17:24 bargainingagricultural analyze 34:21 20:15,22 21:17 21:7 26:8,8 
+13:13,144:11 43:21 48:3 23:1,3,5 25:18 51:5 barrier 19:1akin 17:22 analyzed 47:23 44:12 51:19acting 31:18 base 4:4AL 1:4,8 annually 8:23 arguments48:25 based 23:12,16alike 11:5 38:22 answer 5:15 44:20action 3:16 5:18 
+43:6 51:2,23Alito 25:4 35:9 8:11 9:23 10:5 arm 22:2211:23 14:15,15 basic 14:11 31:6 35:14,20 28:24 29:1 articulate 15:1347:14 
+41:23allow 5:22 9:15 48:17,19 50:25 artificial 25:7activities 3:24 basically 46:1610:3,5 12:14 anybody 10:3 asked 17:107:16 9:10,12 
+50:317:25 28:5 apart 22:4 42:410:8 11:10 basis 5:18 26:15 41:13,14 43:16 Appeals 36:19 asking 7:1314:5 15:9,10 
+47:15,2046:19,22,24 appearance 37:2515:12 18:4,11 beginning 29:2047:21 6:14 15:14 asks 44:323:25 26:12 behalf 1:18,19allowed 5:10 APPEARAN... asserting 15:2029:25 43:16 
+2:4,6,9 3:8 16:24 17:1 1:16 assertion 15:2544:4 
+25:19 51:2032:23 appears 12:5 assigned 23:23activity 14:13 behavior 51:2allowing 44:16 appendix 12:5 Association 1:818:1,9 26:10 believe 5:1545:11 49:12 applicable 26:2 3:5 13:1126:21 30:1,3 
+36:9 41:2451:10 48:4 assume 26:1732:8 34:16 BEN 1:3allows 12:20 application 4:5 assumption 39:537:16 40:24 benefit 13:19amendment 8:15 22:4 attempt 14:1741:4 45:4 
+14:7,103:14,19 17:5 31:18 36:11 22:21Acts 26:24 benefits 51:1018:25 22:9,11 applied 4:13 Attorney 1:17actual 36:20 best 17:1126:18,21,22,25 26:23 27:1 authority 3:14add 8:21 better 33:1427:16,17 31:20 37:23 42:16 15:19 16:9address 16:20 beyond 19:21,2533:8 35:16 50:14 51:13 17:4 19:10addresses 11:13 
+19:25 20:21,2338:19,21 40:16 applies 18:10 20:20 25:1114:11 bidding 16:1841:7,24 45:18 27:17,18 43:20 authorizingaddressing 14:5 billing 34:146:13 48:11 49:3 37:10 38:7administer 
+
+53 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+biology 32:12,12 44:2 45:2,13 15:18,24 16:11 41:6 42:2,19 conduct 7:16 
+33:2,3,3,5 46:14 47:24 16:13 17:9 43:9,18 45:1 confessional 
+
+blocking 46:25 49:15,25 50:9 19:23 21:1 45:16 46:2 34:8 
+blur 32:20 50:11,14,16 25:12,15,17,20 47:5 48:2,7,15 confined 41:9,9 
+board 7:15 33:2 51:8 52:4,13 29:13,19 34:7 48:23 49:11,19 confused 10:1 
+Boise 1:17 52:14 34:11,23 50:18 50:3,25 confusing 5:4 
+bracket 31:11 cases 27:6 28:14 51:1,17 52:12 Colorado 13:18 connection 18:3 
+breaks 39:21 31:23 35:5,15 choice 14:18 come 9:5 30:5,8 considered 
+Breyer 9:16,24 36:13,13,25 40:23 45:5 46:9 43:11 
+
+10:23 31:25 38:20,20 39:23 choose 25:1,8 comes 22:13 consistent 7:12 
+32:19 33:1,11 40:7 42:24 45:3,12 46:19 coming 32:13 24:12 
+48:10,16 49:2 47:17 50:20 chooses 20:17 commerce 4:11 consistently 
+49:13 50:1 51:5 20:21 28:10 commercial 33:21 
+
+brief 15:14 28:4 category 35:25 chosen 42:24 49:20 Consolidated 
+Broadrick 27:6 43:2 Circuit 19:4,11 Commission 33:25 
+budget 36:24 cause 7:4 circumstances 19:9 Constitution 5:1 
+build 19:7 cavil 19:21,25 26:4 49:24 committee 22:15 
+burden 45:5 20:21,23 cities 17:8 11:24 14:15 constitutional 
+Burson 33:22 central 22:7 citizens 44:23 committees 17:1 10:20 42:16 
+business 22:12 certain 17:21 city 7:2 44:21,21 company 26:19 47:24 48:8 
+buy 36:6 44:4 45:14 44:22 49:6 comparison constitutionali... 
+
+46:19 claim 38:21 51:7 31:8 
+C certainly 10:23 40:16 42:21 compelled 34:4 construed 4:3 
+
+C 2:1 3:1 19:15 23:7 class 14:6,6 34:5 consume 44:22 
+call 42:6 26:23 32:12 33:2 compelling 27:7 content 27:22 
+called 32:14 cetera 47:17 Clause 20:13 compensation 32:20 33:18,20
+campaign 16:23 challenged clauses 44:17,17 52:10 33:25 35:2 
+campaigning 31:17 CLAY 1:17 2:3 comprise 40:4 42:6 44:3 
+
+26:15,17 characterizati... 2:8 3:7 51:19 concede 4:12 contention 29:1 
+capacity 31:19 39:6 clear 32:21 35:10 40:22 42:25 
+
+51:4 characterize 42:15 43:10,12 42:15 50:10,10 contentious 
+capital 26:11 39:9,14,18 Code 3:20 16:22 conceded 16:1 44:14 
+care 30:14 41:25 characterizing coerced 26:16 28:3 36:10,19 content-based 
+carriers 27:6 39:19,20 coffer 37:19,21 42:5,19 8:6 25:23 
+
+51:5 charitable 8:23 38:5 concept 32:20 29:21 30:4 
+carry 23:24,24 41:21,22 collection 16:15 38:23 31:3 32:3,15
+carrying 24:10 charities 8:24 collective 13:12 concerned 37:3 35:11 
+case 3:4,11 5:4 15:6,12 41:13 Collins 1:19 2:5 concession context 16:20 
+
+5:16 6:16,16 charity 9:17,17 25:17,18,20 44:18 51:22,24 contexts 43:22 
+6:22,24 10:1 9:17,19 14:18 26:6 27:2,4,14 concessions continue 13:8 
+10:16 11:2 checkoff 5:11,25 27:20 28:1,7 29:16 31:7 contract 16:15 
+19:4,13 21:2 6:7 28:12,23 29:19 concluded 4:14 contribute 
+24:13 25:22 checkoffs 12:21 30:25 31:14 5:21 8:2 11:8 12:16 
+27:24 28:21 50:23 32:19 33:9,16 conclusion 4:17 contributes 52:6 
+29:6 34:4 35:1 checks 3:24 34:22 35:13,23 concrete 6:13 contribution 4:5 
+36:10 40:22,25 Chief 3:3,9 5:2 37:22 38:2,15 condition 6:20 9:10 
+41:10 43:3 7:20 13:4 39:12,16,19 47:24 48:8,8 contributions 
+
+54 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+9:4,18 10:22 23:9,19,22 50:12 determine 45:25 46:11,14
+
+11:13,17,18
+ 27:1 decision 37:14 determines distinctions 
+12:10 14:13,17 course 7:7 25:10 40:3 41:2 43:4 40:10 41:11,12 33:18 
+16:25 39:11 40:12,12 decisions 39:25 41:15 district 4:3,14 
+
+control 4:25 41:20 45:9 41:18 determining 8:2 11:8 12:9 
+17:12 19:2 court 1:1,14 declining 46:20 47:19 23:22 
+20:18 27:19 3:10 4:4,14 8:2 deduct 13:25 developing districts 17:8,13 
+30:21 45:12,15 11:8 12:10 14:1,17 50:23 36:15 52:7 
+
+controlled 11:12 19:5 25:21 deducted 9:5 devote 28:15 District's 13:15 
+28:19 26:3 27:5 29:5 12:21,25 devoting 42:23 doctrine 21:16 
+
+controls 23:2 32:21 33:21,23 deductibility dictate 29:10 35:17 38:16 
+controversial 36:19 39:24 28:5 dictates 45:17 39:22,23 41:8 
+
+34:1 43:19 50:14 deducting 3:23 dictating 29:15 doing 4:2 5:18 
+converse 42:3 52:4 deduction 9:20 45:18 23:4 24:1,2 
+Cornelius 47:17 courts 37:23 28:11 29:11,24 difference 4:19 51:4 
+
+50:12 covered 5:5 9:3 30:2 34:12 4:21 6:9 10:10 donate 8:24 
+corner 34:13 9:7 21:6 41:12 42:7 10:12 22:7 doubt 29:14 
+corporate 22:12 create 52:4 43:7 44:16,21 40:6 41:6 45:1 drives 8:23 9:3 
+corporation created 24:9 47:8,10 different 6:4,5 drug 49:16
+
+
+22:8,21 23:8
+ creates 22:11 deductions 8:25 21:7 28:25 due 3:24 51:25 
+23:15 24:8 creation 24:20 10:4,6,8 14:4 32:7 38:22 dues 12:21 
+
+corporations creature 22:16 15:23 16:25 41:23 42:8 duties 45:14
+
+21:20,21 22:1
+ 27:15 17:2 28:18 43:2 47:14 D.C 1:10,19 
+22:3 24:25 creatures 18:17 35:24 37:5 49:20 50:7,21 
+
+Ecorrect 9:13 21:17,21 41:13,14 43:5 differentiating 
+E 2:1 3:1,1 13:2 14:25 critical 3:12 43:17 46:24 15:11 
+easily 49:21,23 
+edges 32:21 
+
+21:12 24:3 51:22 deep 32:15 direct 3:15 5:17 
+28:7 43:8,9 defense 27:21 6:17 
+
+D Edison 33:25 
+D 3:1 
+
+51:1 deference 29:3 directed 44:3 
+Education 1:7Council 29:5 defined 11:11 directly 12:11 
+
+dah 49:8,8,9 3:4 13:11 
+dam 19:8 
+
+30:10 defines 23:2 20:4 37:19 
+effect 21:25council's 44:22 defining 23:13 disagree 22:5,20 
+
+counsel 25:12 Darcetti 50:20 24:20 36:21,25definition 24:20 discretion 14:22 
+51:3 39:451:17 52:12 delegate 20:17 14:23 15:2,6,8
+
+Davenport 26:4 efficient 44:20counter-argu... delegated 22:23 17:13 30:22 
+34:2 35:8 effort 48:2024:18 depending discrimination 
+
+counties 5:24 43:18 either 6:13 10:9 
+day-to-day 
+
+19:14 32:16 27:22 32:20 
+14:19 15:146:3,5 8:23 9:6 depends 9:22 42:6 
+
+47:20 20:3 33:10,16 
+deal 16:17 
+
+14:18 16:4,7 20:7 21:1 discriminatory 
+34:16 41:2316:14 17:1,8 Deputy 1:17 13:23 14:3 
+
+dealing 29:4 46:917:12 20:15 derives 16:9 dispute 3:12,20
+40:12 elected 5:2422:18 42:8,8 describe 17:6 distinct 22:8,10
+
+decide 5:24 election 16:2045:14 desire 15:14 distinction 
+28:14 16:23county 4:20 5:6 detail 17:6 38:23 21:25 23:8,10
+
+
+5:7,9,10 6:5,18
+ decided 26:10 elections 15:22 
+decides 38:25 
+
+details 40:9 23:12,15,16 
+electoral 11:1410:14 15:20 determination 24:7 33:21 
+
+deciding 25:6 15:1616:6 22:23 6:11 28:5 35:2 44:3 
+
+55 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+element 41:21 24:21 exceptions 26:2 20:24 23:3 force 42:24 
+elude 31:3 entails 51:24 26:3 33:17 24:9,18,22 forced 12:15 
+emphasize entirely 24:12 46:10 48:24,25 37:1 38:5 44:8 form 22:12 31:2 
+
+29:21 52:4 49:3 52:5 32:22 
+employee 4:6 entities 11:12 exclude 34:16 facts 11:1 19:14 forth 49:5 
+
+12:11 18:9 18:16 25:8 excluded 4:5 fail 31:21 51:14 forum 6:22
+
+26:13,20,20
+ 27:12 28:19,21 exclusions 17:21 fairly 10:2 27:23 28:1 
+30:3 50:20 34:15,15 36:7 exclusive 13:13 fall 49:20 34:8,13,13,17 
+51:2 entitled 29:3 exclusively falls 35:14 34:19,20,20,24 
+
+employees 3:25 entitles 31:19 16:10,10 far 12:24 37:1,1 35:5,7 44:6
+
+5:6,7 8:24
+ entity 8:17 exclusivity fashion 7:17 46:19 47:17,25 
+14:12 16:3 19:18 22:8 13:16 favor 12:14 50:7 
+17:25 18:11 23:19 24:9 excuse 13:18 FDA 49:14,15 free 20:6 30:18 
+26:9,11,24 37:15 36:9 Federal 4:7 13:5 31:19,22
+
+27:1,8 31:8,10
+ envelopes 34:1 exercise 30:20 13:24 18:17,18 freedom 28:14 
+31:11,12,12,22 equally 38:12 exercises 15:19 18:21 19:9,11 full 20:16
+
+35:12,14 46:4
+ 47:15 17:11 19:22 20:5,13 function 23:5,16 
+46:4,5,15 50:2 equate 22:21 exist 17:7 20:19,24 21:3 23:24 38:11 
+50:6,22 51:8 ESQ 1:17,19 2:3 existed 9:6 21:5,6 22:4 functionally 
+51:23 2:5,8 existence 22:13 25:5 26:8,9 31:14 
+
+employee's essential 31:13 existing 3:14 45:10,13 functions 22:24 
+12:12 essentially 17:20 expenditure Feds 21:10 23:23 24:11 
+
+employer 4:6,20 19:1 22:22 28:15 29:23 fees 34:2,4,5 37:9,10,11
+
+4:22,23 12:12
+ 40:16 expenditures feet 19:8 38:9 
+14:2 15:15 establish 28:2 11:14,15 filtered 38:11,14 fund 9:3 12:8 
+29:25 46:4 established 12:8 expenses 42:14 finance 16:23 14:18 36:3,7 
+
+employers 3:23 47:19 expensive 41:16 find 33:14 52:9
+
+4:2,10,10 5:9
+ establishing explain 28:24 Findley 36:14 fundamental 
+5:10,21 6:5,6 30:13 32:5 fine 21:9 48:2 6:8 
+6:11 14:12 et 1:4,8 47:17 explained 26:3 Finley 28:13 funding 36:8 
+15:20 16:3 evening 33:13 39:24 firefighters funds 36:5,7 
+17:2 26:19 everybody 11:4 explaining 45:5 13:11,19 39:9,14 52:7,8 
+29:22 29:15 42:18 extended 26:19 first 3:14 18:25 futile 11:7 
+
+employment 43:6 26:22 40:15 22:9,11,15 
+G18:3 37:2 evidence 8:16 extent 9:9 11:22 25:22 26:18,21 
+
+G 3:1enact 30:23 42:17 18:21 22:20 26:22,25 27:16 
+enacted 42:13 gather 16:1 26:7 
+
+general 1:17
+exactly 37:17 23:5,13 27:17 31:20 
+
+43:13 examine 6:21 extraordinary 33:8,9 34:23 
+energy 43:5 16:24 17:17example 11:23 13:19 35:16,19 38:18 
+
+18:15 43:13engage 13:12 13:10,14 14:14 38:18,20 40:16 
+F 52:9 
+
+face 33:6
+18:1,9 26:11 16:14 17:11,15 41:6,24 45:18 
+
+generally 15:2526:20 17:16,17,19 46:12,18 51:22 
+engaged 4:10 facilitate 46:20 22:16 
+
+facility 30:11 
+18:8 23:9 33:1 fit 48:1 50:9 
+
+genesis 3:20engages 32:7 41:10 49:6,14 focusing 50:19 
+engaging 4:23 47:19 GINSBURG 8:4 
+
+fact 8:19 9:16 
+exception 30:5 following 38:15 
+
+8:14 20:1412:3 26:9 35:8 48:4 40:14,19,20
+10:19 13:17 30:19 31:5enjoyment 49:24 follows 7:10 
+
+56 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+36:2 49:1,4,5,11 33:20,22 35:8 impose 17:18 involved 6:11,12 
+Ginsburg's 50:2,5,5,12,16 44:5 45:21 include 11:16 35:6,21 36:5 
+
+11:25 51:23 52:1 46:9 48:3,11 incorrect 8:1 36:15 40:9 
+give 12:13 19:19 governmental 48:19,24 49:1 independent 50:5,5 51:3
+
+
+20:19,21 25:12
+ 22:19,23 23:13 49:10,12,14,18 11:14 involvement 
+30:21 36:21 24:2,11,17 49:23 50:4,19 independently 15:15 40:18 
+
+given 8:19 13:24 26:13 34:15 50:21 3:18 involving 43:4 
+13:25 14:4 45:11 help 9:18 32:18 indicate 43:19 48:13 
+42:24 governments 47:22 48:22 indicated 27:5 issue 7:14 17:3 
+
+gives 21:19,22 13:6 14:21 high 19:8 33:21 25:23 
+22:17 24:22 21:17 29:11 highlights 5:3 indicates 44:18 issues 7:19 
+
+go 11:25 14:10 31:18 36:12,22 holds 20:18 individual 51:11 20:25 34:2 
+16:19 20:4 46:16,22 47:11 honor 4:15 5:14 individuals items 41:23 
+30:15 39:9 48:9 6:9 7:6 8:1,17 27:17 34:3 i.e 28:10 38:6 
+49:6 52:8 government's 9:1,22 10:19 infringement 
+
+Jgoes 9:19 29:3 47:1 12:18 16:6,19 35:18 
+JEREMIAH36:3 37:19 grant 21:8 46:21 17:15 18:2,22 initial 21:24 
+
+1:19 2:5 25:18 38:5 47:9,12 19:20 20:10 instance 5:20 
+going 10:25 job 24:2 51:4 
+
+jobs 27:9
+granted 13:16 23:19 24:6 15:16 18:24 
+
+21:23 25:6 greater 19:18 25:2 27:2,21 20:12 22:15 
+judgment 37:18 
+judgments 
+
+29:10 37:20 25:5 28:7,23 31:14 36:18 41:2 
+38:8,25 39:1 Greenberg 29:6 33:10 37:22 instances 20:13
+
+41:11,12,13,15
+ 38:24 
+
+juries 32:10
+Greenburg 39:2 40:6 41:7 37:7,12 
+
+41:16,17,19 30:10 42:19 43:9,19 instrumentalit... 
+33:7 
+
+jury 32:9,9 33:6 
+42:22 44:15,22 ground 42:9 45:2 48:15 20:16 
+45:19 47:21 43:15 honoraria 51:8 integral 30:12 
+
+good 11:5 33:13 49:7 
+Justice 3:3,9 4:1 
+
+group 4:9 48:12 honored 36:17 intended 12:1 
+govern 18:11 guess 5:12 10:17 Hyde 34:13 interest 6:6,10 
+government 4:12,16,19 5:2 
+
+5:2,23 6:3,15 
+gun 45:12,15 hypothetical 6:13 15:5 27:7 
+
+3:22 17:19 39:5 41:3 40:11,19 42:9 
+H 7:9,10,15,20 
+
+half 52:6
+18:12,18 19:1 45:10,10 46:5 
+
+I 7:22 8:4,14,2220:5,19 21:4,5 interesting
+hall 49:6 Idaho 1:3,18 9:2,11,14,16 
+hand 16:22 
+
+24:24 27:8,19 18:13 
+3:15,20 4:24 9:24 10:2329:4,6 30:10 interestingly
+
+30:20 5:1,1 9:17 10:3 11:16,20,25 
+happens 37:20
+
+30:16,17 31:23 28:16 35:19 
+12:6,19 13:18 12:13,22 13:4 32:7,22 35:6,6 interfere 47:13 
+
+happy 34:25 16:7,22 17:20 13:8,21 14:16 
+hard 32:1 
+
+35:17 36:7,18 internal 3:13 
+18:10 26:7,7 14:23 15:1,437:4 38:17,24 interpose 18:25 
+
+harm 51:9 28:5 47:3 52:5 15:10,17,18,24 
+Hatch 17:24 
+
+39:25 40:4,8,9 interrupt 7:11 
+Idaho's 16:23 16:11,12,1340:13,17,22,23 42:3 
+
+26:8,8,24 51:5 ignores 52:3,5 17:9,24 18:5 
+hear 3:3 19:23 
+
+40:24 41:3,25 intervention 
+impermissible 18:13,15,2342:1,13,16 47:1 
+
+heavy 30:20 43:8,11 19:3,17,2343:16 44:2,9 introduced 
+heightened implicate 21:15 20:1,8,14 21:1 45:7,7,13,19 27:23 
+
+25:25 26:2 important 31:7 21:3,13,2345:25 46:5 invalid 25:24 
+30:5 31:4 36:1 38:4 22:5,6,10,2547:9,13,18 35:3
+
+
+48:12,14,21,24
+ 32:24 33:17,19 47:15 23:10,20 24:1 invalidated 12:9 
+
+57 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+24:4,14 25:4 17:17 18:11 37:11 44:14 major 4:6 47:4 35:24 36:3,21 
+25:12,15,17,20 32:7 36:24 levels 17:18 majority 33:23 36:23 37:3,13 
+26:6 27:3,11 43:10 44:4 license 19:9 making 10:21 37:14,14,19,20 
+27:15,25 28:2 46:24 51:2 lies 21:25 14:3 20:9 38:6,6,11,13 
+28:8,17 29:13 know 9:7,23,24 limit 50:17 37:18 38:24 38:25 39:1,7,7 
+29:20 30:19 9:25,25 11:1 limited 13:17 39:25 40:3 39:7 40:13 
+31:5,25 32:19 16:15 18:5,6 14:12 26:4 41:18 49:2 41:5,17,19 
+33:1,11 34:7 32:3 33:2,12 line 7:11 35:5,15 managed 47:19 42:23 43:1 
+34:11,23 35:9 33:12 34:13 36:25 manager 30:16 45:4 48:12,20 
+35:14,20 36:2 47:24 49:4,15 literal 8:13 managing 30:9 49:7,8,8 
+37:6,25 38:3 known 52:8 litigation 8:20 30:13 44:8 movies 32:10 
+38:16 39:3,13 29:16 50:6,6 33:13 
+
+L39:17 40:2,21 little 49:3 manifold 40:9 municipal 14:1 
+label 49:16,1742:2 43:3,12 local 3:22 13:5 matter 1:13 27:1 
+labor 4:6,7 8:20 44:12,13 45:9 14:21 18:12,16 52:15 municipalities
+lack 32:245:23 46:12 19:1,17 21:17 matters 6:12 16:15 
+Laughter 33:1547:2,6,22 48:5 27:8 28:19,20 11:14 37:2,3 muster 33:10,16
+
+34:10 48:648:10,16 49:2 29:4,11 30:17 42:10 33:19 
+law 5:10 13:18 49:13 50:1,18 30:21,22,23 mean 5:9 7:1,11 
+
+N13:25 14:1951:1,17 52:12 31:11,18 36:3 8:5 12:14 14:5 
+16:10 17:20 N 2:1,1 3:1 justification 36:7,12,22 15:24 16:14 
+18:8,17,21,22 narrow 14:5,610:10,12,15 37:3,11 38:14 21:2 23:20 
+19:16,22 20:13 narrowed 3:1135:3,11 38:8 40:4 44:2,8 24:15 29:14 
+20:24,24 22:4 national 22:1442:11,12 43:14 45:7 46:4,16 34:18 36:4 
+22:11,16,17 51:8justified 42:8 46:22 47:11,13 49:4,22
+23:1,12 24:16 nature 23:16,18justifies 42:10 48:9 means 18:6,7
+24:16,20,22 23:21,25 29:10 justifying 43:15 locality 19:7,8 32:3 36:22 
+25:9 26:18 46:22local-governm... meant 47:5 
+
+K 29:14,22 32:3 near 33:2422:1,2 medicine 38:21 
+Kennedy 6:15 36:11 39:22,22 51:15local-unit 20:20 meetings 17:16 
+
+7:9,15,22 45:2 46:3 51:1 nearly 40:25long 51:7 17:20,21
+18:15,23 19:3 52:4 necessarily 7:1look 10:2,7 11:2 member 12:17 
+19:17 20:1,8 laws 9:19 necessary 17:616:16 31:6 mentioned 
+21:3 27:25 leave 30:22 17:1040:7 45:20 17:13 
+28:2,8,17 left 5:6 need 47:11looked 34:24 mere 51:6 
+44:13 45:9,23 legislation 4:4 Needless 20:12looking 6:21 merits 19:6 
+46:12 47:2,6 12:4,9 16:22 needs 47:9,1216:11,13 37:7 mid 12:20 
+47:22 48:5 legislative 5:18 neighboringlose 10:13 minute 25:13 
+
+kind 7:16 17:3 19:2 19:6lost 43:24 35:4 51:18 
+18:25 29:3 legislature 3:15 neutral 8:6 11:9 lot 26:24 33:12 misunderstan... 
+30:1,11,14,17 5:1,20 6:12 26:14 44:1549:22,23 32:16 
+33:20 34:12 12:1,6 23:24 neutrality 51:25mode 34:8 
+
+M35:24 37:24 24:10 38:13 never 29:2,2moment 12:1 
+41:1,1,4,4 40:3 52:2,6 maintain 23:11 32:4 34:816:20 
+47:14,15 48:20 letter 5:12 27:5 23:11 37:23Monday 1:11 
+52:2 51:5 maintenance new 52:4money 12:25 
+
+kinds 12:10 17:7 level 31:6 37:9 52:9 Ninth 19:4,1131:24 35:18,20 
+
+58 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+NLRA 4:7 8:9 11:17,23 paying 36:16 Pickering 50:21 27:4 30:24 
+nondeductibil... 13:5 22:12 payroll 3:17,24 51:6 37:12,18 39:11 
+
+28:21 organizations 5:22 9:20 10:4 place 33:24 42:10 44:7 
+non-neutrality 8:20 12:24 10:6,8,21 35:19 38:18 45:17 
+
+7:19 13:23,25 24:19 12:21 15:23 46:21,25 possible 19:15 
+normal 31:19 organize 25:6 16:24 28:11,18 plaintiffs 8:19 possibly 27:22 
+normally 44:5 45:11 29:11,24 30:2 plausibility power 19:9,11 
+
+45:20 ought 26:13 30:9 34:12 10:14 20:17 21:6 
+noted 29:5 39:6 35:21,24 36:20 play 50:16 31:1 
+notion 6:10 outset 28:3 37:1,5 41:11 please 3:10 11:2 powerful 38:21 
+
+27:23 38:22,24 Outside 15:22 42:1 43:5,7,16 16:12 20:5 powers 18:18 
+45:17 overriding 44:9,16,21 25:21 19:18 21:18,18 
+
+November 1:11 40:11 47:8,10 plenary 4:25 21:22,22 22:16 
+NT 51:8 payrolls 13:1 Pocatello 1:7 3:4 22:17 23:2,14
+
+Pnumber 5:5 pays 14:2 13:11,14 47:3 24:21,21 25:5 
+P 3:113:17 penny 38:5 point 13:21 practice 8:14 
+PAGE 2:2 people 5:5 10:24 14:11 17:5 prerogative
+
+O paid 12:7,7 11:3,4 16:17 19:5 24:5 12:23 13:10 
+O 2:1 3:1 52:10 32:13 33:13 27:13,14 28:16 prerogatives
+object 18:19 paired 5:4 people's 12:25 29:8 31:21 39:25 
+
+47:23 parade 7:3,18 perceived 51:10 40:21 43:23,23 presented 7:7 
+objection 19:19 pared 29:16 percent 52:8 47:6 49:21 presumably 9:2 
+objective 46:7 Park 34:13 perfect 28:14 50:13 51:25 9:6 35:10 
+obviously 4:9 part 5:11 12:19 44:10 pointed 36:19 presumptively
+
+51:3 14:4 15:25 perfectly 42:14 pointing 21:19 25:24 35:2 
+occur 8:23 16:4,23 30:12 perform 37:9 points 25:22 prevail 7:2 
+offer 27:22 31:25 32:16 40:24 34:22 51:21 47:25 
+Oh 9:11 41:21 47:3 performance political 3:15,23 prevails 51:14 
+okay 9:24 10:6 particular 7:3 38:9 5:17 6:12 7:16 preventing 6:6 
+
+11:5 21:9 7:18 12:14 performed 9:10,11 10:9 pre-empt 18:22 
+48:16 30:11,17 38:4 23:17 37:11 10:21 11:10,13 pre-emption 
+
+ones 34:23 38:12 40:1 performing 27:9 11:15,18,23 21:16 
+open 16:18 particularly performs 23:23 14:4,13,15,15 principal 4:21 
+
+17:16,19,21 14:2,9,9 permissible 28:6 15:9,10,12 6:16 
+34:20 parties 3:25 permission 21:8 16:8,25 18:1,9 principal-agent
+
+operated 40:1,5 11:15,18 34:18 permit 8:24 25:8 24:8 26:9,12 6:16 
+operation 30:18 parts 5:4 permitted 28:22 26:20 29:24 Prior 6:1 16:21 
+operations 44:1 party 15:8 26:15 person 49:6 30:1 32:23 priorities 36:17 
+
+44:2 52:9 26:17 perspective 3:12 37:5,16 41:22 36:24 
+operator 30:17 pass 33:10,16,19 petition 12:5 44:4 46:8 47:8 private 4:2,10 
+opponent 42:4 44:5 49:21,23 Petitioners 1:5 48:13,21 50:24 4:20,22,23 6:5 
+opposed 23:4 passed 5:9 26:14 1:18 2:4,9 3:8 politics 15:16 6:11 13:25 
+opt 20:2 29:14 38:7 5:16 25:25 27:10 33:4,7 14:1 22:8,21
+oral 1:13 2:2 3:7 patronage 26:14 30:6 36:10 33:24 34:6 23:4,8 24:7,19 
+
+25:18 pay 28:20 34:3 47:16 51:20 polling 33:24 24:24 25:8 
+order 37:8 36:5,15 Petitioner's 3:12 position 21:14 26:20 27:12,17
+organization 8:8 paycheck 50:23 49:25 50:9,10 21:25 24:12 29:23 31:10,12 
+
+59 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+34:15,19 42:7 39:8 41:4 reaches 45:6 45:13 responded 25:3 
+43:20 45:7 43:20 45:21,22 read 47:2 regulate 31:1 RespondentS 
+
+probably 11:5 46:3 real 26:5 29:17 regulation 25:7 1:20 2:6 14:10 
+problem 10:24 purpose 11:7 reality 6:14 27:18 31:2 25:19 36:9 
+
+21:15 22:3 24:10 32:12 15:15 50:1 52:1 
+26:12 34:17 40:10 42:14,18 really 6:22,23 rein 20:18 response 13:8 
+48:7 49:24 47:20 20:1,22 31:5 reiterate 10:22 21:2 22:6 
+50:8 purposes 10:21 48:9 reject 20:6 39:5 34:22 
+
+procedural 19:5 48:13,21 reason 11:5 47:13 rest 23:3 
+program 30:11 pursuant 4:25 15:11,13 28:12 relations 4:7 restricting 3:17 
+
+36:15 40:8,10 12:8 13:13 31:21 36:9 relaxed 47:15 35:7 46:8 
+40:11,13,17 16:21 38:15 39:20 50:15 restriction 
+41:15,17,18 pursue 46:6 41:8 43:6,8 reluctantly 25:23 29:21 
+47:20 pursuing 46:7 46:12 42:20 30:4 31:3 
+
+programs 29:5,7 put 46:11 50:9 reasonable relying 32:5 35:12 45:21 
+40:1,4 43:1 puzzled 6:4 10:11 remand 11:7 rests 6:9 
+50:13 
+
+prohibit 4:2 Q 
+reasonableness 
+
+51:6,15,16,24 
+remarkable 
+
+8:19 
+revenue 36:22 
+right 5:13 7:25 
+
+7:17 quarrel 45:16 reasons 28:25 remitting 3:25 9:19 10:9,20 
+prohibition 18:8 question 5:3 43:10 repeat 24:7 12:19 13:24 
+prohibits 3:22 10:2,5 12:1 rebuttal 2:7 reporting 16:24 14:1 18:23 
+
+26:9 13:9,22 14:16 25:13 51:19 representative 22:25 28:8 
+proper 38:10 15:4 16:21 receive 15:9 13:14 44:10,16 45:24 
+
+39:6 17:10 21:24 18:17 requests 14:20 rights 22:9,11 
+property 29:7 24:25 29:1,17 recognize 36:1 require 14:20 22:14 
+proposition 30:4,25 31:2,5 recollection 9:4 33:18 42:22 right-to 11:20 
+
+18:15,19,21 31:7,9,15,16 record 8:17 44:5 right-to-work 
+22:18 28:9 42:3,20 43:24 records 17:17 required 12:7 9:18 10:24 
+45:20 44:3 49:22 reduced 30:8 12:10 34:3 risk 26:5 
+
+proprietary 50:25 redundancy requirements RLA 4:8 
+50:15 questioning 12:3 17:7,18 ROBERTS 3:3 
+
+proprietor 29:2 7:11 25:16 reference 11:11 requires 17:20 5:2 7:20 13:4 
+29:4,6 38:23 questions 28:25 referring 5:15 25:25 33:22 15:18,24 16:11 
+48:25 quite 10:1 22:4 30:9 requiring 32:24 16:13 17:9 
+
+proscribed 12:6 29:8 34:25 refusal 43:1 rescinded 17:4 19:23 21:1 
+protect 39:24 44:7 48:1 refused 28:10 resemblances 25:12,15,17 
+protected 36:24 50:13,21 refusing 38:17 24:18,19 29:13 34:7,11 
+provision 3:22 
+
+12:4 
+public 3:22 4:23 
+
+5:21 6:22 
+14:12,12 15:15 
+16:3 17:2,17 
+17:22 18:3,8 
+23:4,25 29:23 
+37:14,14,15,20 
+38:6,9,10 39:7 
+
+R 
+R 1:17 2:3,8 3:1 
+
+3:7 51:19 
+raise 7:4,18 
+
+48:12,20 49:7 
+49:8,8 
+
+raised 38:6 39:7 
+rarest 38:19,19 
+
+38:20 
+
+40:24 
+Regan 28:13 
+
+36:13,25 37:23 
+39:23 40:7 
+42:24 51:23 
+
+Regan-Findley 
+35:15 
+
+regard 31:17 
+39:6 42:10 
+
+registration 
+
+resource 29:25 
+resources 28:15 
+respect 15:1,3,8 
+
+15:20,23 16:2 
+17:7,16,19 
+25:7 29:7,15 
+30:11 43:25 
+44:1 46:1 
+50:17 51:22 
+52:2 
+
+50:18 51:17 
+52:12 
+
+role 50:16 
+roles 28:20 
+room 32:9,9 
+
+33:6 49:7 
+rooms 33:13 
+routinely 28:19 
+ruling 42:25 
+Russo 47:2 
+
+60 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+Rust 28:13 33:19,20,22 44:16 45:3,19 speaks 7:15 21:18,21,22 
+36:13 35:8,16 44:5,6 46:20 47:12 special 12:23 22:11,16,17,22 
+
+R.A.V 26:4 45:22 46:9,13 50:13 13:10 14:6,10 23:1,12,23 
+47:16 48:3,11 single 3:11 32:8,11,14 24:9,11,16,20
+
+S 48:19,24 49:1 situation 7:7,7 33:5,8 24:22,23 25:8 
+S 2:1 3:1 49:10,12,14,18 11:3 12:15 specific 7:16 26:11,23,24
+salary 14:1 49:23 50:4,15 14:14 15:2 16:14 52:3 27:8,16,18,19
+
+52:10 50:19,22 51:2 41:23 50:15 Specifically 27:21,23 28:4 
+satisfied 26:1 second 29:1 51:9 52:5 36:25 28:9,14,17,20
+satisfy 30:6 46:9 seconds 32:17 situations 30:9 speech 4:23 8:5 28:20 29:2,8,9 
+save 42:13 32:17 36:14 47:18 8:5,8,10,12 29:10,12,17,23 
+saw 28:3 SECRETARY 49:22 11:11 25:24 30:7,18,19
+saying 5:10 1:3 six 8:20 30:15 31:3 31:1,2,8,11,12
+
+20:19 21:4,5 Section 3:21 Smith 1:17 2:3,8 32:22,22,23 31:17 34:19 
+24:15 26:19,25 16:22 3:6,7,9 4:3,14 35:7,19 40:19 35:12,13,20,23
+27:11,16,20 sector 4:11 42:7 4:18,21 5:14 40:20 41:1,1,4 36:3,4,5,6,8,14
+30:14 39:3,4,8 see 9:14 15:17 6:1,8 7:6,14 45:21 46:8,19 36:21,23,25
+40:25 41:25 21:24 31:16,16 8:1,11,16 9:1,9 46:20,23,25 37:8,9,10,12
+45:3,24 48:10 32:18 43:24 9:13,22 10:19 49:4,12,20 37:17,19 38:7 
+49:5 44:2,12 11:6,19,22 50:17,20,24 38:10,13 39:7 
+
+says 9:19 10:7 segregated 12:8 12:18 13:2,7 51:3,10,11 40:2,2 41:10 
+19:7 27:7 send 11:2 14:8,21,25 spend 31:24 41:11 42:16,21
+29:22 30:12,16 sense 17:1,22 15:3,7,13,22 35:17 42:23 42:21,22 43:14 
+32:22 33:2 sensible 35:1 16:6,19 17:15 43:1,4 45:3 43:25 44:8,13
+35:4,5,17 sentence 48:18 18:2,7,20,24 spent 41:19 44:14,18 45:3 
+36:16,21 37:1 separate 12:8 19:14,20,25 Spielberg 32:10 45:18,24 46:2 
+38:16 40:11,17 51:12 20:7,10,23 sponsor 7:3 46:6,7,15,18
+41:20 44:14 separately 43:21 21:12 22:5,20 stake 8:10 46:22 47:3,8
+45:6,19 46:18 series 50:20 23:7,18,22 stand 7:22 47:10,12,12
+46:21,23 48:3 serious 21:15 24:3,6 25:2,10 standard 49:21 51:13,14,23
+49:15 51:14 servants 27:9 25:14 36:8 start 42:22 52:7 
+
+SCALIA 8:22 serves 42:17 40:6 51:18,19 started 5:7 stated 22:6 
+9:2,11,14 services 16:16 51:21 state 1:4 3:13,16 States 1:1,14
+11:16,20 12:13 set 36:23 sole 49:25 3:22 4:24 5:12 16:7 18:18 
+12:22 13:21 sharp 46:13 somewhat 38:22 5:17 6:6,10,12 25:5,10,10
+17:24 18:5,13 shoe 50:8 sort 5:4 37:13 7:2,21 10:13 45:11 
+26:6 27:3,11 shot 51:7 Souter 16:12 12:13,25 13:5 State's 19:19 
+27:15 show 32:10 21:13 22:5,10 13:13,24,25 27:19 42:9 
+
+Scalia's 13:8 33:12 22:25 23:10,20 14:19 15:5,19 43:1,4 46:14 
+school 13:15 side 16:2 31:9 24:1,4,14 37:6 16:1,2,5,8,10 statute 4:1,13
+
+17:8,13 23:22 35:4 37:25 38:3,16 16:16 17:11,18 6:2 7:14 8:3,7 
+33:2 52:7 similar 26:8 39:3,13,17 17:25,25 18:8 8:12,18 11:9 
+
+scope 3:13 simple 10:2 47:6 40:2,21 18:10,17,22 13:13 15:2 
+scrutiny 25:25 simply 8:9 9:5 sovereignty 3:13 19:2,6,7,9,16 16:24 17:23 
+
+26:2 30:5,8 17:5 20:15 so-called 9:3 19:18 20:1,6 18:10 21:19 
+31:4,20,22 21:4 23:15 speak 49:9 52:2 20:16,16,20,20 25:23 27:7 
+32:24 33:5,18 29:8 43:6 44:7 speaking 22:16 20:24 21:9,18 30:2 31:17 
+
+61 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+36:11 38:7 suggest 11:6 50:22 thought 20:14 unconstitutio... 
+42:12,14 43:13 52:3 targeted 30:2 28:3 48:16 7:4 
+43:19,21 51:25 suggesting tax 36:3 37:20 thousands 32:7 underlies 18:16 
+
+statutes 4:7 29:19 30:7 taxation 37:10 three 25:22 understand 5:23 
+16:24 17:18 superiority 38:8,9 39:8 threefold 46:17 20:22 21:16 
+
+stay 44:15 23:12 taxing 37:8 time 25:16 32:1 24:4,5 32:2,6 
+Steven 32:10 supersedes taxpayers 36:4 43:4 44:22,23 32:14 34:9 
+Stevens 4:1,12 19:12 20:24 38:6 times 32:5 45:2 
+
+4:16,19 5:23 support 9:18 teach 32:12 33:3 today 17:3 understood 32:4 
+6:3 14:16,23 30:3 33:4,6 told 7:2 34:8 
+15:1,4,10,17 suppose 7:2 16:7 teacher 33:3,5 town 37:21 underwrite 
+22:6 42:2 43:3 21:9 26:6,7,10 teachers 13:15 towns 22:18 37:15 
+43:12 44:12 44:13 13:19 traditional uniform 46:3 
+
+Stevens's 5:3 suppression teaching 32:13 10:16 union 7:24 8:5,7 
+7:10 21:24 26:5 tell 20:2 44:19 trash 16:15 8:10,12 10:8 
+
+stress 11:9 Supremacy 45:14 treasury 38:12 12:16,16,21 
+strong 45:10 20:12 telling 5:8 15:20 38:14 51:8 13:12 15:1 
+structure 45:19 Supreme 1:1,14 tells 16:16 48:12 treat 11:3 30:3 42:10 
+structured sure 45:23,24 49:5 treated 11:5 44:17 
+
+45:25 surely 26:21 term 11:10 52:3 32:24 unions 6:18 
+subdivision 4:24 surprised 42:15 terms 6:6 8:13 treatment 46:15 10:25 11:11,12 
+
+20:4 24:8,17 system 10:21 terribly 13:22 46:15 12:2,14,22 
+subdivisions 25:5 28:18 test 10:11 32:8 trigger 50:3 13:20 14:9 
+
+3:16,18 5:17 30:9,13 34:12 32:11,14 33:8 trouble 39:15 15:6 
+16:8 20:3 39:8 41:12 51:7,9,15 true 13:7 21:20 union-sponsor... 
+44:19 47:8 Thank 25:14 22:18 23:6,14 14:14 
+
+subject 4:6,24 systems 3:17 51:17 52:11,12 trumps 3:14 unitary 43:21 
+33:7 5:22 29:11 theory 38:4 52:1 try 16:20 48:18 46:5 
+
+submission 35:21 36:20 thing 21:5,20 trying 32:2 47:6 United 1:1,14 
+49:25 37:1 42:1 44:9 32:6,14,21 50:9 9:3 14:18 
+
+submit 41:7 45:12 37:4 turns 21:2 25:22 units 22:1,2,19 
+submitted 52:13 things 10:6 38:22,23 30:21,22,23
+
+T52:15 34:21 40:14 two 4:6 13:17 36:4 
+T 2:1,1subsidization 41:16 28:24,25 31:6 unit's 23:13 
+table 44:23,2436:10,12,20 think 5:2,11 34:22 43:22 use 34:5 35:24 
+take 3:16,1837:23 39:21,22 6:15 7:10 48:19 51:21 37:4 47:10 
+
+5:17 10:439:23 41:8 10:24 17:10 52:1 49:14 51:5 
+17:16,16 27:4 43:11 19:21,24 21:3 type 34:16 usually 9:4 
+28:22 32:17subsidize 38:17 24:11,15 25:2 34:21 
+
+U44:23 46:20,2541:3 25:4 31:15 
+Vtaken 25:16 unconstitutio... subsidizing 34:25 35:25 
+
+44:24 4:13 6:19 v 1:6 3:4 40:23 37:22 38:16 
+takes 15:2,7 31:10 valid 19:13Subsidy 6:23 39:20 41:8 
+talk 33:23,25 unconstitutio... 38:12sub-State 22:19 43:23 45:1 
+talking 34:4 42:5 various 17:6suffer 21:14,14 46:16 47:3 
+
+36:13 37:8,18 unconstitutio... view 42:20 43:7 sufficient 10:11 51:21 
+41:10 42:18 6:24 48:1135:3,10,11,22 third 3:25 15:8 
+
+62 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+viewpoint 7:18 46:12,23 48:3 4 
+7:23 8:6 11:9 48:13 44-2004(2) 3:21 
+26:5 ways 6:21 12:2,19
+
+viewpoint-bas... we'll 3:3 25:12 44-2603(1)(b)(... 
+7:24 36:14 12:5 
+
+viewpoint-neu... we've 44:24 45 32:17 
+7:17 8:3 whatsoever 
+
+violate 26:18,21 542:17 
+26:22,25 win 10:12 51 2:9 
+
+violating 3:18 Wisconsin 17:22 
+6violation 38:18 wondering 9:25 
+
+virtually 16:10 67-6605 16:22 
+virtue 17:4 
+
+word 5:14 32:2 
+work 6:22,23 
+
+720:12 12:19 44:16 
+70 12:6Voluntary 4:5 work-organiz... 
+
+vulcanize 19:1 11:21 8wouldn't 7:5 80 52:8W written 5:12,16 
+wages 8:25 9:5 wrong 10:18 
+wait 35:4 46:6 
+want 20:3 21:4 wrote 49:15 
+
+21:10 26:14,16 
+X29:21 30:15,16 
+
+30:23 32:13 x 1:2,9
+
+33:3,4,24 34:6
+
+
+Y36:6 40:13,19
+
+Ysursa 1:3 3:4
+41:20,21,22,22 
+
+42:23 44:14,17 044:20,23 45:7 
+07-869 1:6 3:4 45:25 46:23 
+
+48:13 49:16,17 1
+wanted 5:21 11:08 1:15 3:2 26:7 15 32:5wanting 29:17 1980s 12:20wants 19:18 
+
+30:19,21 39:1 2 
+40:1,3 46:2,6 2003 3:21 6:2 
+48:12 2004(2) 14:11
+
+Washington 17:5
+1:10,19 19:7 2006-2007 52:6
+
+wasn't 42:13 2008 1:11 
+water 16:16 25 2:6 19:8 
+way 10:17 11:4 
+
+31:16 35:1 3 
+37:6 39:10,14 3 1:11 2:4
+
+39:18,20 44:24
+ 30 32:17
+
+45:6,12,17,18
+
+
+63 
+Alderson Reporting Company 
+
+

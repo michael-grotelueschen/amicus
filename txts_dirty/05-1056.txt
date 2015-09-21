@@ -1,0 +1,8899 @@
+
+          
+
+          
+
+                       
+
+                      
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+MICROSOFT CORPORATION, :
+
+ Petitioner :
+
+ v. : No. 05-1056 
+
+AT&T CORP. : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Wednesday, February 21, 2007
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 10:14 a.m. 
+
+APPEARANCES: 
+
+THEODORE B. OLSON, ESQ., Washington, D.C.; on behalf of
+
+ Petitioner. 
+
+DARYL JOSEFFER, ESQ., Assistant to the Solicitor
+
+ General, Department of Justice, Washington, D.C.;
+
+ On behalf of the United States, as amicus curiae,
+
+ supporting Petitioner. 
+
+SETH P. WAXMAN, ESQ., Washington, D.C.; on behalf of
+
+ Respondent. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                     
+
+                  
+
+                    
+
+                    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+
+THEODORE B. OLSON, ESQ.
+
+ On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+DARYL JOSEFFER, ESQ.
+
+ On behalf of the United States, as amicus
+
+ curiae, supporting Petitioner 16 
+
+ORAL ARGUMENT OF 
+
+SETH P. WAXMAN, ESQ.
+
+ On behalf of the Respondent 27 
+
+REBUTTAL ARGUMENT OF 
+
+THEODORE B. OLSON, ESQ.
+
+ On behalf of the Petitioner 51 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ [10:14 a.m.]
+
+ JUSTICE STEVENS: We'll hear argument now in 
+
+No. 05-1056, Microsoft against AT&T.
+
+ Mr. Olson.
+
+ ORAL ARGUMENT OF THEODORE B. OLSON
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. OLSON: Thank you, Justice Stevens. May 
+
+it please the Court:
+
+ The limited monopoly granted by U.S. patent 
+
+laws protects against the making, using or selling a 
+
+patented invention within the United States. Section 
+
+271(f) also makes it an infringement to make components 
+
+of a patented invention within the United States and 
+
+then simply ship them abroad for reassembly.
+
+ JUSTICE SCALIA: Mr. Olson, before you get 
+
+into the merits I have a question, a preliminary 
+
+question. I understand from AT&T's brief that there has 
+
+been a stipulation entered into between the parties 
+
+after the judgment below which preserved Microsoft's 
+
+right to appeal and prescribed different dollar amounts 
+
+that Microsoft must pay AT&T depending on the outcome of 
+
+the appeal. Does that raise any, any muteness problem? 
+
+Can you sort of wager on the outcome of an appeal that 
+
+way? 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. OLSON: No, I don't believe so, Justice 
+
+Scalia.
+
+ JUSTICE SCALIA: Well, suppose two parties 
+
+just, you know, parties that otherwise do not have a 
+
+case or controversy, bet each other that the district 
+
+court will come out one way or the other way in, in a 
+
+trumped-up suit. Does that create a standing --
+
+MR. OLSON: This is by no means a trumped-up 
+
+suit. It's a very serious suit. The outcome, the 
+
+judgment, the amount of damages that must be paid is not 
+
+a matter of wager. It depends upon the decision of a 
+
+matter of law of an interpretation of a statute of the 
+
+United States.
+
+ JUSTICE SCALIA: Well, you could say the 
+
+same thing in the hypothetical I gave. It is a matter 
+
+of wager, which way the Court will come out.
+
+ MR. OLSON: This is an entirely legitimate, 
+
+I submit, means by which parties may preserve a legal 
+
+issue depending upon how a legal question is decided. 
+
+The only thing that's been resolved is the amount that 
+
+will be paid as damages depending upon the outcome of 
+
+the appeal.
+
+ JUSTICE SCALIA: Do you know of any, any 
+
+precedent for that?
+
+ MR. OLSON: It seems to me, Justice Scalia, 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that it happens frequently, especially in criminal cases 
+
+where there is -- someone pleads guilty in and 
+
+preserving a right to appeal a certain issue. I don't 
+
+have a case to cite to you but it strikes me as quite 
+
+understandable that the parties might agree if the 
+
+outcome of the legal question that the judge might 
+
+decide is going to be X, then the consequence will be a 
+
+liability for Y. If it's -- if it's of the opposite 
+
+outcome, the outcome will be different. That's --
+
+JUSTICE KENNEDY: Suppose the amount were 
+
+trivial and you just wanted to get a resolution of this 
+
+question?
+
+ MR. OLSON: Well, I think that if the 
+
+amount --
+
+JUSTICE KENNEDY: Then there would be a case 
+
+with a controversy problem, I should think.
+
+ MR. OLSON: I don't know what the Court 
+
+might mean by the word trivial, Justice Kennedy, but 
+
+this is a very significant major amount involved in this 
+
+case. There is no question that the parties are very 
+
+serious. It's a very significant legal question with 
+
+respect to the interpretation.
+
+ JUSTICE SCALIA: That's so, but is there a 
+
+lot of money involved depending on whether you win or 
+
+lose? 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. OLSON: Yes.
+
+ JUSTICE SCALIA: Okay.
+
+ MR. OLSON: In this case, notwithstanding 
+
+the limitation of in Section 271(f) that the components, 
+
+there's -- liability of the components are created here, 
+
+and reassemble the broad. The Federal Circuit held that 
+
+foreign made tangible reproductions of computer 
+
+operating code installed in foreign-made computers may 
+
+be components which are deemed or essentially supplied 
+
+from the United States, because copying is part and 
+
+parcel of software distribution, and thus subsumed in 
+
+the act of supplying. Under this ruling, U.S. companies 
+
+may be held liable for patent infringement whenever 
+
+their products are copied or replicated abroad. This --
+
+the court of appeals decision and the position of 
+
+Respondents requires reworking several words in the 
+
+statute.
+
+ The statute says supplied from the United 
+
+States. The court of appeals said, well, it might be 
+
+deemed supplied from the United States after it's copied 
+
+abroad. The Respondent takes the words "such 
+
+components" in the statute and reads them as not the 
+
+same components.
+
+ JUSTICE STEVENS: Mr. Olson, isn't one of 
+
+the questions whether the software is really being 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+copied when it's transferred from the golden disk to the 
+
+new manufacturer, or whether it's actually being 
+
+supplied?
+
+ MR. OLSON: It is being copied. There isn't 
+
+any question that it's being copied, Justice Stevens. 
+
+The stipulation which is in pages 44-A through 47-A of 
+
+the petition appendix contains the words -- this is 
+
+words to which respondent stipulated -- foreign-made 
+
+copies replicated object code, foreign manufactured 
+
+copies, foreign replicated object code. What happens, 
+
+Justice Stevens, is that the golden master of the disk 
+
+which contains the physical manifestation of the object 
+
+code is read by a machine somewhere outside the United 
+
+States, looked at and then copied onto another physical 
+
+medium, either a hard drive or a disk. Many hard 
+
+drives, many disks. Those foreign replicated physical 
+
+tangible copies are then installed in computers and they 
+
+become components of those computers.
+
+ JUSTICE KENNEDY: Is the master disk a 
+
+component?
+
+ MR. OLSON: The master -- well, AT&T has 
+
+taken two positions on that. We --
+
+JUSTICE KENNEDY: What's your position?
+
+ MR. OLSON: Our position is that it's not a 
+
+component of the final product computers that are made 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+abroad. What is a component is a replication, a copy of 
+
+a new hard drive or a new disk that's made a part of 
+
+those computers which, without which --
+
+JUSTICE KENNEDY: Just the disk but not the 
+
+information on the disk is the component.
+
+ MR. OLSON: The information on the disk is 
+
+of no use to the computer unless it's made into a 
+
+physical machine readable document -- object.
+
+ JUSTICE GINSBURG: That -- Mr. Olson, that 
+
+is the position of AT&T as I understand it, that what 
+
+you call the object code appears in the -- in the 
+
+computer that it's -- that is what is sent, along with 
+
+the master disk, and the object code is the critical 
+
+component, according to AT&T. In fact, wasn't that the 
+
+first question that you raised, whether digital software 
+
+code, an intangible sequence of 1's and 0's may be 
+
+considered a component of a patent, patented invention?
+
+ MR. OLSON: If I understand your question, 
+
+Justice Ginsburg, let me answer it this way. AT&T has 
+
+taken two positions. The most recent position is that 
+
+it's the intangible object code, the series of 1's and 
+
+0's, or instructions to a computer switch to be on or 
+
+off, that is a component. They also took a position 
+
+earlier in the case and which is referred to in the 
+
+stipulation that it was the golden master, the physical 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+manifestation on the -- on a master disk that went 
+
+abroad that was the component.
+
+ JUSTICE KENNEDY: But I still would like to 
+
+know your position. The golden disk is or is not a 
+
+component?
+
+ MR. OLSON: It is not a component --
+
+JUSTICE KENNEDY: But copies of the golden 
+
+disk are or are not components?
+
+ MR. OLSON: The copies, the physical 
+
+manifestation on a hard drive --
+
+JUSTICE KENNEDY: Physical manifestation?
+
+ MR. OLSON: Our components of the foreign 
+
+manufactured computers. Those components are not 
+
+supplied from --
+
+JUSTICE KENNEDY: I suppose if you could, if 
+
+you made 99 copies, those would be 99 components. Then 
+
+if you used -- if you're going to make 100 machines. If 
+
+you used for your disk the master disk for the last 
+
+copy, then that would have been -- that would -- then 
+
+the master disk would be a copy, a component of the last 
+
+machine.
+
+ MR. OLSON: If -- well, I think, if I 
+
+understand your question, if you make -- and it depends 
+
+upon where you make it, where you transfer --
+
+JUSTICE KENNEDY: You make them abroad. 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. OLSON: If you make it abroad, that --
+
+and it's -- that is where the component is supplied 
+
+from. Copies are made abroad. There's no question 
+
+about that and --
+
+JUSTICE KENNEDY: But if the disk, if the 
+
+golden disk itself after they finish the copies, were 
+
+used --
+
+MR. OLSON: If the physical --
+
+JUSTICE KENNEDY: -- in a hardware, then 
+
+that would be a component.
+
+ MR. OLSON: If that physical golden disk 
+
+were actually put into a computer and used without more.
+
+ JUSTICE STEVENS: Well, I'm a little 
+
+confused, because I thought the golden disk was just one 
+
+method of getting the software into the new computers. 
+
+And I thought it was the software which was arguably the 
+
+component, not any physical manifestation.
+
+ MR. OLSON: Well, that's why I said AT&T has 
+
+taken two positions. Here's the position that they took 
+
+in their brief before the court of appeals. Three 
+
+decades of patent jurisprudence have authoritatively 
+
+recognized software to be a physical and structural 
+
+component of patented machines. The problem, Justice 
+
+Stevens --
+
+JUSTICE STEVENS: But do you -- what is your 
+
+10
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+view on whether or not software is a component?
+
+ MR. OLSON: The -- if I may answer that by 
+
+saying that people use the word "software" in two 
+
+different ways. One of which, they use it as the 
+
+intangible series of 1's and 0's. We submit that the 
+
+correct way to understand the word "software" is the 
+
+physical manifestation of that what is called source 
+
+code, which is made into object code, which is made into 
+
+machine readable code.
+
+ JUSTICE SCALIA: Or at least the correct way 
+
+to understand component.
+
+ MR. OLSON: It is the correct way to 
+
+understand the --
+
+JUSTICE SOUTER: And the component then 
+
+would be either a disk which is put into a computer or 
+
+the portion of the hard drive to which the code is 
+
+transferred.
+
+ MR. OLSON: Yes. As I understand it, 
+
+Justice Souter, and I think the stipulations make this 
+
+clear, there's a reference in the stipulations to 
+
+encoded transmissions but there's a -- but the parties 
+
+also agree that's the same process as the golden disk. 
+
+The golden disk is sent abroad. That is read by a 
+
+machine and then the machine understands -- it's almost 
+
+as if you were to read physically any other type of 
+
+11 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+document, read it to a machine. The machine understands 
+
+what is said, puts it into a physical manifestation on a 
+
+disk or on a hard drive. Many copies are made in that 
+
+fashion. They are installed in computers made abroad, 
+
+sold to foreign purchasers.
+
+ JUSTICE KENNEDY: So are you saying that 
+
+neither the source code nor the compilation are a 
+
+component?
+
+ MR. OLSON: Of the foreign? The language of 
+
+the statute is the foreign manufactured product. Those 
+
+are the computers that are sold abroad. It is our 
+
+position that the only components that are in issue in 
+
+this case are the physical manifestations of the object 
+
+code on a hard drive or on a disk.
+
+ JUSTICE KENNEDY: So that neither the source 
+
+code nor the compilation are a component, save as, the 
+
+compilation is put on a disk?
+
+ MR. OLSON: That's correct. And the -- the 
+
+thing that's on the disk in the foreign --
+
+JUSTICE KENNEDY: That seems odd. I mean, 
+
+Microsoft doesn't say please buy our disk because it's 
+
+the prettiest disk in the business.
+
+ MR. OLSON: Justice Kennedy --
+
+JUSTICE KENNEDY: It says buy our program 
+
+because the program means something. 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. OLSON: But the program is nothing until 
+
+made into a physical manifestation that can be made by 
+
+the computer.
+
+ JUSTICE STEVENS: What is patented? Is the 
+
+physical object patented or is the software patented?
+
+ MR. OLSON: The AT&T patent --
+
+JUSTICE STEVENS: Right.
+
+ MR. OLSON: The '580 patent is a program, as 
+
+I understand it, that's married to a computer, has to be 
+
+married to a computer in order to be patented.
+
+ JUSTICE SCALIA: You can't patent, you know, 
+
+on-off, on-off code in the abstract, can you?
+
+ MR. OLSON: That's correct, Justice Scalia.
+
+ JUSTICE SCALIA: There needs to be a device.
+
+ MR. OLSON: An idea or a principle, two plus 
+
+two equals four can't be patented. It has to be put 
+
+together with a machine and made into a usable device. 
+
+The bind that AT&T is in here is that the components 
+
+that make the machines run that are produced abroad are 
+
+not supplied from the United States. They are made in 
+
+Belgium or Frankfurt or something.
+
+ JUSTICE GINSBURG: That depends on what you 
+
+consider the component. They define component as 
+
+including the, what you've been calling the abstract.
+
+ MR. OLSON: They have attempted, Justice 
+
+13
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Ginsburg, with respect, to have it both ways. They've 
+
+said that it is a physical and structural thing, 
+
+something that's on the golden master disk. And then 
+
+they say it's just the binary code in the abstract, but 
+
+that in the abstract never becomes a part of the 
+
+computer.
+
+ JUSTICE GINSBURG: What did the Federal 
+
+Circuit say? And I read the opinion a couple of times 
+
+and it was, it seemed to me ambiguous whether the 
+
+Federal Circuit was identifying the component as the 
+
+object code itself or the master disk.
+
+ MR. OLSON: Yes. I agree with you. The 
+
+Federal Circuit was ambiguous, in part because there 
+
+were two separate decisions. The court considered the 
+
+component issue in the Eolas case and then when this 
+
+case came along, said we've already decided the 
+
+component portion of the statute; now we must decide the 
+
+supplied from. So the language which the Federal 
+
+Circuit used is a bit confusing. Basically what it 
+
+said, though, is that the act of supplying embraces the 
+
+act of copying. That means that any, any company 
+
+sending a machine or a patented product abroad, that 
+
+that machine must be copied in order to be mass produced 
+
+abroad. It might be a pill. It might be a mousetrap. 
+
+It might be a Buick. That exact identical copy if 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+replicated abroad does not violate the statutes, the 
+
+patent laws, it doesn't constitute an infringement.
+
+ JUSTICE KENNEDY: Suppose you had a patent 
+
+on a biological organism and it was contained in a 
+
+little vial, and you shipped it abroad. Just by doing 
+
+nothing at all, it grew, and it had -- it grew into 100 
+
+different parts.
+
+ MR. OLSON: If it reproduces itself, Justice 
+
+Kennedy, somewhere outside the United States --
+
+JUSTICE KENNEDY: Right.
+
+ MR. OLSON: What you're suggesting is that 
+
+there is a pattern or a recipe or a template or a mold. 
+
+It could be the same thing. If it's reproduced outside 
+
+the United States by some laboratory outside the United 
+
+States, then the components are not being sent from the 
+
+United States for reassembly abroad.
+
+ JUSTICE ALITO: Isn't this an artificial 
+
+distinction in -- when you're talking about the making 
+
+of a tangible part, there's at least some cost involved 
+
+in doing it here or doing it abroad, and some time 
+
+involved. But with, with software, the Federal 
+
+Circuit's point was that it is so easy and inexpensive 
+
+and fast to copy it that simply sending the information 
+
+abroad, sending the object code abroad in the form of 
+
+the golden disk, is tantamount to manufacturing copies 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+overseas.
+
+ MR. OLSON: I think there are three answers 
+
+to that. Surely the patent laws cannot be determined 
+
+according to whether it's easy or fast or efficient to 
+
+replicate something. There has to be a line that makes 
+
+some sense. Number two, it may be fast and efficient 
+
+but there are certainly costs involved in taking the 
+
+machines to do it. Number three, where would that take 
+
+us? A design -- every product contains its own 
+
+manifestation of its design. That would take us 
+
+everywhere, because any product can be copied abroad. 
+
+However -- and maybe there are going to be fast ways to 
+
+produce other things. These are replicas, 
+
+reproductions, copies. These are not such components 
+
+that are supplied from the United States. If I may 
+
+reserve the balance of my time? Thank you.
+
+ JUSTICE STEVENS: Mr. Joseffer.
+
+ ORAL ARGUMENT OF DARYL JOSEFFER
+
+ ON BEHALF OF THE UNITED STATES AS AMICUS CURIAE
+
+ SUPPORTING THE PETITIONER
+
+ MR. JOSEFFER: Justice Stevens, and may it 
+
+please the Court:
+
+ It might help if I could start by putting 
+
+this case into its context in both the United States and 
+
+international patent law. Section 271(f) is a limited 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+extension of normal territoriality principles that is 
+
+designed to shore up the prohibition against actually 
+
+making a patented invention in the United States, but it 
+
+does not take the further and extraordinary step of 
+
+applying United States law to the conduct of copying 
+
+parts abroad for assembly and sale abroad conduct is 
+
+properly the subject of foreign law.
+
+ As a result, in the context of traditional 
+
+manufacturing, for example, it has always been 
+
+understood pursuant to the statute's text, that while 
+
+companies cannot make parts in the United States for 
+
+final assembly abroad -- that's too close to making it 
+
+here -- they may make copies in a foreign country by, 
+
+for example, sending the design to the foreign country 
+
+or sending a specific part to the foreign country that 
+
+can be copied there.
+
+ That distinction between copying in the 
+
+United States and copying in the foreign country has two 
+
+critical dimensions. The first is that it protects the 
+
+foreign government's sovereign prerogative to establish 
+
+the rules of competition that will govern companies that 
+
+wish to compete in that foreign country's markets by 
+
+copying their products abroad, assembling them there and 
+
+selling them there.
+
+ The second, which is the flip side of 
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that point, is that it enables United States companies 
+
+to compete on an even playing field abroad against their 
+
+foreign competitors by manufacturing, assembling, and 
+
+selling parts abroad, subject --
+
+JUSTICE GINSBURG: Mr. Joseffer, to the, to 
+
+the extent that you are claiming that there are foreign 
+
+nations that would have an interest in this, usually 
+
+when that is so, hear from them and in this case there 
+
+is a strange silence in that regard.
+
+ MR. JOSEFFER: I think that -- I can say --
+
+a couple points I can make. One is, this case has, has 
+
+been viewed because of the Federal Circuit's attempt to 
+
+tie this to software on the grounds that software can 
+
+easily be copied abroad, I think this case has been 
+
+somewhat narrowly viewed as a software case. But in 
+
+truth, there's no basis for distinguishing software from 
+
+anything else, and if the Federal Circuit's decision was 
+
+actually taken to its logical conclusion I have no doubt 
+
+that other nations would be quite concerned, like in --
+
+in two ways.
+
+ One is we have looked, not exhaustively but 
+
+we have looked, and we have not been able to find a 
+
+single other country that would apply its law in the 
+
+circumstances if they were reversed. In other words if 
+
+a German condition wanted to compete in the United 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+States subject to German law by making copies here, 
+
+assembling them here, selling them here, Germany would 
+
+stay out of that because it's the United States' 
+
+prerogative. Also there are significant differences 
+
+between the nations' patent laws. For software in 
+
+particular, the United States is much more bullish on 
+
+the patentability of software-related inventions than 
+
+many other countries. But even for more mundane 
+
+reasons, if we were talking about anything -- it could 
+
+be that the foreign government doesn't think that an 
+
+invention is particularly novel, it just disagrees with 
+
+us about that, or it doesn't think there is sufficient 
+
+advance in the prior art sufficiently inventive to 
+
+warrant patent protection. And if the foreign country 
+
+is going to make that determination regarding 
+
+competition policy in its own borders, it's entitled to 
+
+make that determination.
+
+ JUSTICE GINSBURG: Let me ask you about a 
+
+domestic law question. One side is telling us it's the 
+
+component that's supplied, whether it's the master disk 
+
+or the object code. And the other side says this is 
+
+just like a blueprint, like a mold, like a template. 
+
+Can a blueprint be patented? Can a mold be patented?
+
+ MR. JOSEFFER: Not ordinarily. I mean --
+
+I'm sorry. 
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: Copyright. Copyright. You 
+
+normally copyright.
+
+ MR. JOSEFFER: You can certainly copyright 
+
+something like that.
+
+ JUSTICE GINSBURG: Yeah, but patent --
+
+MR. JOSEFFER: Well the -- no, but the -- I 
+
+think the most important point here is that the 
+
+components of patented inventions do not have to be 
+
+patentable. Many patented inventions are comprised of a 
+
+bunch of parts where the parts themselves would not be 
+
+patentable because say they were standard off the shelf 
+
+parts.
+
+ JUSTICE KENNEDY: Well, there can be a 
+
+process patent.
+
+ MR. JOSEFFER: Yes, and we don't -- I mean, 
+
+process patents, a process patent is a series of steps 
+
+or acts for performing a certain function, such as 
+
+turning rubber into a tire. We don't think process 
+
+patents are relevant -- are, are covered by this statute 
+
+for a couple of reasons. And it's not --
+
+JUSTICE STEVENS: What, what is your view of 
+
+what the component is in this case.
+
+ MR. JOSEFFER: The component is the, is the 
+
+actual machine readable copy of software that is 
+
+inserted in --
+
+20
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE STEVENS: The software is the 
+
+component?
+
+ MR. JOSEFFER: Well, but the, the -- but 
+
+like with anything, you could say a computer is also the 
+
+component, but it's the actual computer, not you know, 
+
+any copy of the same computer.
+
+ JUSTICE SOUTER: But in this case, you're --
+
+but Mr. Olson said the component is either the disk or 
+
+the portion of the hard drive to which the, the coded 
+
+instructions are transferred.
+
+ MR. JOSEFFER: Right.
+
+ JUSTICE SOUTER: Do you accept that?
+
+ MR. JOSEFFER: The United States view -- I'm 
+
+not sure exactly how much we disagree on this -- but the 
+
+United States view is that, for example, a blank disk is 
+
+not a component of this invention because you don't need 
+
+a blank disk to practice this invention. The -- the 
+
+actual component is the physical substantiation, the 
+
+physical copy of the software that's inserted into a 
+
+computer and if you get a disk --
+
+JUSTICE SOUTER: In other words, the disk 
+
+plus the -- plus the coded instructions.
+
+ MR. JOSEFFER: Yes. And again the coded --
+
+the software could be on a disk or it could be on some 
+
+other technology. It doesn't matter how it --
+
+21
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOUTER: It could be on the hard 
+
+drive.
+
+ MR. JOSEFFER: And once it's copied on to 
+
+the hard drive, then the copy on the hard drive is 
+
+itself a component.
+
+ JUSTICE BREYER: I take it that we are 
+
+operating under the assumption that software is 
+
+patentable? We have never held that in this Court, have 
+
+we?
+
+ MR. JOSEFFER: No, but as I was saying 
+
+before --
+
+JUSTICE BREYER: So what should we do here? 
+
+Should, if we are writing this, since it's never been 
+
+held that it's patentable in this Court --
+
+MR. JOSEFFER: I think if --
+
+JUSTICE BREYER: If I were writing 
+
+something, should I say on the assumption that it's 
+
+patentable? Since the issue isn't raised?
+
+ MR. JOSEFFER: No. I think, I think the 
+
+reason that's not relevant here is that the patented 
+
+invention in this case is not software. It's computer 
+
+that has software loaded into it. And the components of 
+
+a patented invention do not themselves have to be 
+
+patented.
+
+ JUSTICE KENNEDY: Can have you have a 
+
+22
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+copyright on a program?
+
+ MR. JOSEFFER: Ah, if you wrote it out, yes. 
+
+If I wrote out a string of 1's and 0's I could copyright 
+
+the strings of 1's and 0's that was -- that was written 
+
+out on a piece of paper. But the -- in terms of what 
+
+the component is here, the other things --
+
+JUSTICE SCALIA: Can I ask you, the point I 
+
+don't understand when you say the -- the component is 
+
+the disk that contains material, I understand that 
+
+because here is a separate piece; it's a disk. You plug 
+
+it in; it has the information on it. But then you say, 
+
+if you put it on the hard drive it becomes the 
+
+component. But the hard drive is not a separate thing 
+
+like a disk. And when you say you put it on the hard 
+
+drive you have nothing there but -- but -- but ons and 
+
+offs. You have nothing there but the -- but the 
+
+thought.
+
+ MR. JOSEFFER: Well --
+
+JUSTICE SCALIA: How can you call, you know, 
+
+what? Is it a separate section of the hard drive? No.
+
+ MR. JOSEFFER: Well, you could go later in 
+
+and delete that software off the hard drive which 
+
+confirms that the software does have a separate physical 
+
+existence in there. But the main point is that the --
+
+the component is the, is the physical substantiation of 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the software. The actual copy of the software. It 
+
+doesn't matter if it's on a hard disk; doesn't mean it's 
+
+on a disk; it doesn't matter if it's in the air in 
+
+wireless transmission. It's just the physical copy of 
+
+the software. And you could have a situation where 
+
+there are multiple copies of that same component in a 
+
+computer. One --
+
+JUSTICE ALITO: If these -- if these 
+
+computers are built abroad and are sold with Windows 
+
+installed, the component is the electrons on the hard 
+
+drive? Is that what, that's your position?
+
+ MR. JOSEFFER: It's the physical embodiment 
+
+of the software which in some instances is manifested by 
+
+-- by those electrons. Now AT&T's contrary view is that 
+
+the abstract code in the abstract is the component. The 
+
+reason that can't be is that object code in the abstract 
+
+is just a series of 1's and 0's. In theory I could 
+
+memorize in my head or write down on a piece of paper. 
+
+But that's not going to combine with other, with other 
+
+parts to make a patented invention.
+
+ And if I could illustrate that with a simple 
+
+lock and key example, a key has a series of ridges on it 
+
+that enable it to open a lock. And that series of 
+
+ridges can be denoted by a sequence of numbers, bigger 
+
+numbers for deeper ridges. But the component is the key 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that actually turns the lock, not the abstract sequence 
+
+of ridges on the key. And you can then say that about 
+
+anything; you can always say that any physical product, 
+
+any physical part, is a physical manifestation of its 
+
+abstract design.
+
+ JUSTICE KENNEDY: Is that analogous to the 
+
+source and the compilation, the source being the design, 
+
+the compilation being the key?
+
+ MR. JOSEFFER: No. The source code and 
+
+object code are just different computer languages for 
+
+expressing the same thing. There is no -- there's no 
+
+difference between them. One is words and one is 
+
+numbers, but they mean the same thing. There is no 
+
+reason to treat them differently.
+
+ The point is just that if you treat the --
+
+either the source code or the object code as the 
+
+component, that's just the design of the actual physical 
+
+software that goes into the computer. If you did that 
+
+you'd have a vastly different statute because any 
+
+physical part has a design, but the whole point of the 
+
+statute is to prohibit copying of parts in the United 
+
+States while permitting copying of parts abroad for sale 
+
+abroad.
+
+ But if the design itself was a component 
+
+then you could never copy parts abroad when something 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+was designed in the United States, because something 
+
+designed abroad would always infringe because the 
+
+something designed abroad would itself be the component, 
+
+and that would be a vastly different statute there's no 
+
+reason to think Congress intended here, especially 
+
+because of the extraterritorial consequences.
+
+ JUSTICE GINSBURG: Windows wasn't around 
+
+when this statute was passed.
+
+ MR. JOSEFFER: Well, the statute was enacted 
+
+in 1984 when software was certainly present. It's fair 
+
+to say that Congress was not thinking of software, but 
+
+that's further caution for not expanding the statute 
+
+beyond traditional territorial reaches. Because first, 
+
+this Court has cautioned, has said that it should be 
+
+cautious in applying existing electrical property 
+
+statutes to new technologies. And in addition it's 
+
+emphasized in Deepsouth that the caution against 
+
+extraterritoriality applies in this very context. So 
+
+Congress is writing against the backdrop of normal 
+
+territorial principles, which are the making, using or 
+
+selling inventions of foreign countries subject only to 
+
+foreign law, and against the backdrop of Deepsouth, 
+
+which has specifically held that Congress has to speak 
+
+clearly to enact of statute like this.
+
+ JUSTICE GINSBURG: I thought it was the 
+
+26 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+position of the Federal Circuit that Deepsouth has to be 
+
+brought into an electronic era, and so the -- the 
+
+Federal Circuit was taking a statute that had a shrimp 
+
+deveiner in mind and saying well, this is how that 
+
+notion should apply to an electronic world.
+
+ MR. JOSEFFER: Right. And the reason that 
+
+doesn't work in the statutory text and policies is that 
+
+the component that we are talking about here is the 
+
+specific part that goes in the machine. And if -- and 
+
+if -- and under the statute you have to let the company 
+
+send the design abroad to manufacture it abroad, both to 
+
+protect the company's ability to compete abroad and to 
+
+protect the foreign government's prerogatives. 
+
+Otherwise it's just a vastly different statute than the 
+
+one that Congress enacted. That's really our terms of 
+
+the politics.
+
+ JUSTICE STEVENS: Your time is up, but I 
+
+want to ask you one yes or no question. In your view is 
+
+software patentable?
+
+ MR. JOSEFFER: Standing alone in and of 
+
+itself, no.
+
+ JUSTICE STEVENS: Thank you. 
+
+Mr. Waxman.
+
+ ORAL ARGUMENT OF SETH P. WAXMAN,
+
+ ON BEHALF OF RESPONDENT 
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. WAXMAN: Mr. Justice Stevens, and may it 
+
+please the Court.
+
+ There is no question that Microsoft supplies 
+
+the Windows object code, that is the precise, machine 
+
+readable sequence of commands that instructs a 
+
+computer's processor. From the United States, that is 
+
+paragraph 7 of the stipulation.
+
+ There is likewise no question that it does 
+
+so with the intent that precisely the same sequence, 
+
+which runs to millions of lines of binary digits, will 
+
+be installed and stored -- those are Microsoft's 
+
+words -- in foreign computers precisely so that they may 
+
+practice AT&T's invention.
+
+ Those facts resolve this case because it is 
+
+thus entirely consistent with the ordinary meaning of 
+
+the words of the statute to say that Microsoft has 
+
+quote, "supplied" a quote, "component" that when quote, 
+
+"combined with hardware" enables the practice of AT&T's 
+
+invention. Now let's look at --
+
+JUSTICE BREYER: Suppose I send someone to 
+
+the Patent Office --
+
+MR. WAXMAN: Excuse me?
+
+ JUSTICE BREYER: Suppose I send someone to 
+
+the Patent Office, goes there, picks up the patent, and 
+
+this patent is written very, very, very concretely and 
+
+28
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+specifically. Gets on the phone, phones somebody in 
+
+Germany and reads it to him. And that person, having an 
+
+excellent memory, takes everything in and now he has the 
+
+precise instruction necessary to change the machine 
+
+around or put various things into it. So now it is a 
+
+precise copy of the machine in the United States.
+
+ MR. WAXMAN: That's not the --
+
+JUSTICE BREYER: Is that -- how is that 
+
+different from this? How is it different?
+
+ MR. WAXMAN: That is very different than 
+
+this case because what -- first of all, we all agree 
+
+that software code in and of itself, removed from a 
+
+physical structure, cannot be patentable and when 
+
+software -- when some -- when an invention that is 
+
+practiced with software is patented, at the most what 
+
+you will see is preferred embodiments of the source code 
+
+which is language that humans understand and which 
+
+computers do not.
+
+ A lot of work has to be done in items of 
+
+debugging and testing and compiling to create what is, 
+
+by stipulation, at issue in this case, which is the 
+
+precise, machine readable sequence that commands a 
+
+computer's CPU millions of times a second. Source code 
+
+would do nothing. Source code has to be worked on 
+
+overseas. 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: No, no. We have a genius 
+
+-- we have, as they used to have to get all the stuff 
+
+that we stole from England, with the -- with the --
+
+remember the weaving machines and the cotton spinners 
+
+and so forth? This genius comes over here; he looks at 
+
+a really complex machine; it is now stored in his head, 
+
+the precise details that nobody else could do. He runs 
+
+back to Germany, and he builds it. Well, he has 
+
+absolutely stolen the precise, incredibly complex 
+
+details of this machine.
+
+ MR. WAXMAN: Well --
+
+JUSTICE BREYER: Now, does it matter, if 
+
+instead of sending the individual, we send the machine 
+
+to Germany. This genius looks at it in Germany and 
+
+there he makes the copy. Are they any different?
+
+ MR. WAXMAN: When you're talking -- when 
+
+you're talking about sending designs over or blueprints 
+
+or management instructions or a high level version of, 
+
+gee let's have a code that will perform the following 
+
+functions, and you have people design and make and 
+
+compile and test and debug that code overseas, of course 
+
+that component, the component is the object code, the 
+
+precise commands that reside in the computer and 
+
+continually interact with the hardware of the computer 
+
+in a way I'm going to describe and is not disputed, 
+
+30
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+millions of times a second.
+
+ Let's take this case. Okay. Is it -- the 
+
+question is, is it a component and whether what was 
+
+supplied was in fact combined. That's, that's -- that's 
+
+what this case boils down to. As to the component.
+
+ We have something, software program, the 
+
+NetMeeting and sound recorded program that can in its 
+
+object, its machine readable command form, is developed, 
+
+bought and sold entirely separately from any hardware 
+
+that it commands.
+
+ JUSTICE SOUTER: And that is what is on 
+
+master disk.
+
+ MR. WAXMAN: And that is what is either on 
+
+the master disk or, although either side obscures this, 
+
+that is what is represented in the electric --
+
+electronic transmission, that is another means by which 
+
+the code is supplied.
+
+ And in paragraph 7 of the stipulation 
+
+Microsoft acknowledges that it supplies the Windows 
+
+object code by transmitting it to manufacturers 
+
+overseas. And the way that happens is the code, the 
+
+machine language, is resident in Redmond, either in the 
+
+pits and lands of a CD or on the varying magnetic 
+
+orientations of a hard drive, and a, some engineer from 
+
+Microsoft presses a button and it is essentially, it is 
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+taken and converted into photons which stream whatever 
+
+it is, 7,000 miles, under the land and under the 
+
+Atlantic Ocean and emerges into a machine, a computer, a 
+
+bit of otherwise inanimate parts that are sitting there 
+
+in Dusseldorf, where it is loaded onto the hard drive, 
+
+it's converted from photons to a series of electrical 
+
+pulses.
+
+ JUSTICE STEVENS: Is that really what 
+
+happens? As I understand it there is an intermediate 
+
+step. They don't send it directly from the United 
+
+States to each of the individual computers in Germany. 
+
+They send it to a central point which then redistributes 
+
+it. Is that not right.
+
+ MR. WAXMAN: Well, I think that paragraph 7 
+
+of the stipulation, it doesn't specify one way or the 
+
+other, but their case, Justice Stevens, depends upon the 
+
+following. Because if I --
+
+JUSTICE STEVENS: If you're correct that 
+
+they're just sending from New York direct to the 500 
+
+different machines all on one transmission from New 
+
+York, there's no lawsuit here.
+
+ MR. WAXMAN: Let me give you two examples --
+
+JUSTICE STEVENS: Is that what you're trying 
+
+to tell us, that they do send it directly from New York 
+
+to 500 different recipients in Germany? 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. WAXMAN: No, no, no. And it wouldn't --
+
+what I'm saying is there is at least one violation of 
+
+271(f) here. 271(f) looks exclusively at what is done 
+
+in the United States. It is entirely irrelevant to 
+
+271(f) what, if anything, is done overseas. The Federal 
+
+Circuit has made this clear in the Waymark case and it's 
+
+consistent with the language.
+
+ JUSTICE STEVENS: Would it be a violation if 
+
+they sent, if they sent the golden disk abroad and 
+
+nobody ever copied anything off the golden disk?
+
+ MR. WAXMAN: If they sent the golden disk 
+
+abroad or if the Microsoft engineer --
+
+JUSTICE STEVENS: Would you answer my 
+
+question?
+
+ MR. WAXMAN: I think I am. The answer is --
+
+JUSTICE STEVENS: If they send the golden 
+
+disk abroad and never use it, would that be a violation?
+
+ MR. WAXMAN: If they had the necessary 
+
+intent and purpose. They had to have had the specific 
+
+intent and purpose that it be combined in order to 
+
+create a device that wouldn't --
+
+JUSTICE STEVENS: Suppose it is never, it is 
+
+never combined?
+
+ MR. WAXMAN: It wouldn't matter.
+
+ JUSTICE SOUTER: So you -- and the reason it 
+
+33
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+wouldn't matter on your view is that the component is 
+
+the object code on the disk, not the disk itself?
+
+ MR. WAXMAN: That's right.
+
+ JUSTICE SOUTER: All right. Then why 
+
+doesn't that get you --
+
+MR. WAXMAN: It could be --
+
+JUSTICE SOUTER: Why doesn't that get you 
+
+right back to the point that Justice Breyer was making? 
+
+You are saying, I think, in essence if you send a 
+
+blueprint -- this is like a blueprint. It tells, it 
+
+tells a machine which may be in Europe how to put the 
+
+object code on other disks or on hard drives. The 
+
+machine in Europe is following instructions just the way 
+
+an artisan would follow a blueprint.
+
+ MR. WAXMAN: Here's the difference.
+
+ JUSTICE SOUTER: What is the difference?
+
+ MR. WAXMAN: And it's nicely embodied in 
+
+Microsoft's reply's use, repeated use of the word 
+
+"antecedent." A blueprint or a design is a precursor to 
+
+the actual device. It is the instructions about how to 
+
+make something. It's not the thing itself. And here 
+
+what we have is the object code that is the precise 
+
+commands that, unlike design information, interact 
+
+continuously with the hard drive and with the processor 
+
+in order to make physical changes on an ongoing basis. 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOUTER: Yes, but the "continuously" 
+
+does not describe the process of going from the master 
+
+disk to what you claim to be the infringing computer 
+
+sold in Europe. There is no continuous process there. 
+
+As I understand it, what happens is -- let's just take 
+
+the master disk and forget the photon for the moment. 
+
+The master disk functions like a blueprint. They send, 
+
+from the United States they send the blueprint to 
+
+Europe. The blueprint is put in some kind of a machine 
+
+in Europe. And by the use of the blueprint the machine 
+
+puts electrical charges on a disk or on a hard drive, 
+
+and that it seems to me does bear out the blueprint 
+
+analogy. And if it does, then any export of a blueprint 
+
+or indeed the simple export, the simple sending of the 
+
+'820, if that's the right number, patent in this case 
+
+would be a violation.
+
+ MR. WAXMAN: I have to disagree, Justice 
+
+Souter, because the blueprint -- the patent is not the 
+
+actual series of commands that runs the machine and 
+
+neither is the blueprint. The blueprint is 
+
+instructions, to be sure, and it can be reflected in 
+
+intangible code, but it's instructions about how to make 
+
+something and once it's made it's done. You can say, as 
+
+Mr. Olson did, that the design is embodied in the thing 
+
+that is made. The blueprint for a semiconductor chip in 
+
+35
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+some sense is always reflected in that chip. But if you 
+
+don't like the chip you have to get rid of it. Software 
+
+can be -- if you don't like Microsoft Word, you can 
+
+download it and you can delete it and download 
+
+WordPerfect and use that. And what happens in the 
+
+computer -- and I think this does bear on what the 
+
+nature of the component is and why in the ordinary sense 
+
+of the word "component" and the ordinary sense of the 
+
+words "supply" and "combine," they apply naturally to 
+
+what Microsoft does.
+
+ I mean, is a disk, is a typewriter, is a 
+
+screen, is a hard drive, is a CPU a component? Are they 
+
+components when they have the code embedded in it? Of 
+
+course. But that doesn't -- a tire doesn't become not a 
+
+component of a car just because a tire with a wheel 
+
+attached to it is also a component. The question is --
+
+JUSTICE KENNEDY: But suppose, suppose you 
+
+had a machine that makes another machine, and if you 
+
+ship that machine to Europe -- and there's a patent for 
+
+the machine that makes it. If you ship it to Europe and 
+
+it starts making another machine, the statute is not 
+
+violated; and isn't that just what's happening here?
+
+ MR. WAXMAN: No, no, no. This is not a 
+
+machine tool. The thing that was violated, the machine 
+
+readable object code, is precisely what is installed on 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the computer and precisely what is moved from one part 
+
+of the computer to another in different forms as the 
+
+computer operates and it continually instructs. This is 
+
+dynamic. It's not --
+
+JUSTICE BREYER: How would you, how would 
+
+you -- go back for a second, please, because, if you're 
+
+finished with that, because I don't see how to decide 
+
+for you without at the same time permitting a person to 
+
+walk over to the Patent Office, to read that application 
+
+and the description, which after all at least can be a 
+
+very highly detailed set of instructions of how to make 
+
+a machine, getting on the phone, explaining that just 
+
+like the blueprint which it is just like to somebody in 
+
+Europe. They then make it. And that on your reading 
+
+would violate the statute. It can't be right that that 
+
+would and you don't even think it would.
+
+ MR. WAXMAN: I don't because --
+
+JUSTICE SOUTER: And so what's the 
+
+difference between that and this case for you?
+
+ MR. WAXMAN: Justice Breyer, there is a 
+
+long, long spectrum with respect to software that goes, 
+
+goes from high level system architecture to all the way 
+
+down through component architecture, pseudo code, source 
+
+code, which is, which is a description that humans 
+
+understand, and the actual machine language that a 
+
+37 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+computer will understand. Invention -- patents do not 
+
+specify machine language. The machine code is totally 
+
+dependent on what type of processor it's relating to and 
+
+somebody who takes source code -- I could make an 
+
+argument that if you take, steal the Microsoft source 
+
+code, which is the crown jewel, it is the greatest trade 
+
+secret of this country, it will not be sent overseas, 
+
+but if somebody took it with a bunch of smart engineers 
+
+and said, you know, convert this into, convert this into 
+
+something a computer will understand that will combine 
+
+with a computer, that involves a question of whether 
+
+what's going on overseas is manufacture as opposed to 
+
+assembly.
+
+ Look at it from the perspective -- maybe 
+
+this helps. Let's look at the question from the 
+
+perspective of Microsoft, the OEM, and the user 
+
+overseas. Object code is the end of Microsoft's 
+
+manufacturing process. That is what they make. They 
+
+don't make hard drives, they don't make disks, they 
+
+don't make computers. They fully finish their product, 
+
+the Windows operating code, and then send it overseas. 
+
+The OEM is --
+
+JUSTICE SCALIA: That, that code is not 
+
+patentable, you've said.
+
+ MR. WAXMAN: The code is not patentable. 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+The expression is copyrightable. AT&T has not sought to 
+
+get a patent on the code. AT&T has a patent on a system 
+
+that can be practiced, among other ways, through the use 
+
+of software.
+
+ JUSTICE SOUTER: But what is it that they 
+
+export and send overseas?
+
+ MR. WAXMAN: They export in a variety of 
+
+different physical forms --
+
+JUSTICE SOUTER: Right, it's a thing. It's 
+
+an object of some sort, isn't it?
+
+ MR. WAXMAN: It is an intangible sequence of 
+
+commands that is carrying --
+
+JUSTICE SOUTER: It is an object that has 
+
+coded onto it, transferred to it in a readable way, 
+
+those commands. But it's an object, isn't it?
+
+ MR. WAXMAN: Well, it's not necessarily an 
+
+object. I don't know whether you would call a stream of 
+
+photons that is constantly repeated under the Atlantic 
+
+Ocean an object.
+
+ JUSTICE GINSBURG: Mr. Waxman, this may, 
+
+this may help focus that question. Suppose the master 
+
+disks were made abroad. You would be taking the same 
+
+position, would you not?
+
+ MR. WAXMAN: If -- that depends how it were 
+
+made. If it were --
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: I hope we can continue 
+
+calling it the golden disk. It has a certain 
+
+Scheherazade quality that really adds a lot of interest 
+
+to this case.
+
+ (Laughter.)
+
+ MR. WAXMAN: Justice Ginsburg, the question 
+
+is what is made. If making it means somehow creating, 
+
+reconfiguring the precise sequence of commands --
+
+JUSTICE GINSBURG: No. That's given by 
+
+Microsoft to one of its offices in Europe. But the 
+
+golden disk itself is made abroad.
+
+ MR. WAXMAN: If the, if the object code 
+
+itself, the very precise sequence that can't be changed, 
+
+is supplied from the United States --
+
+JUSTICE GINSBURG: Yes.
+
+ MR. WAXMAN: -- the act is implicated.
+
+ JUSTICE GINSBURG: So the only thing --
+
+MR. WAXMAN: Regardless of --
+
+JUSTICE GINSBURG: The only thing supplied 
+
+is this, one side calls it abstract, one side calls it 
+
+something else. But anyway, it is the series of 0's and 
+
+1's; that's the only thing that's supplied from the 
+
+United States?
+
+ MR. WAXMAN: That's right.
+
+ JUSTICE GINSBURG: Any physical 
+
+40
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+manifestation of it is done abroad. You would still be 
+
+taking the position that you're taking, is that not so?
+
+ MR. WAXMAN: Well, yes, except that the 
+
+intangible sequence of commands can only be carried in 
+
+the form of, by attaching it to a physical platform or a 
+
+bucket.
+
+ JUSTICE STEVENS: Yes, but it doesn't have 
+
+to be --
+
+MR. WAXMAN: Even a radio wave. Microsoft 
+
+has patent claims for software.
+
+ JUSTICE STEVENS: The physical object does 
+
+not have to originate in the United States. Can they 
+
+not transmit the commands to a physical object in 
+
+Germany and have that be the substitute for the golden 
+
+disk?
+
+ MR. WAXMAN: Well, of course, and they do 
+
+that.
+
+ JUSTICE STEVENS: Yes.
+
+ MR. WAXMAN: They press a button and they 
+
+have an electronic transmission that sends a stream of 
+
+protons under the Atlantic Ocean and are changed into 
+
+electrical impulses that are used to inscribe the 
+
+precise code onto a hard drive in the form of 
+
+electromagnetic pulses.
+
+ JUSTICE STEVENS: But that they now send to 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+some central point which redistributes them. They send 
+
+one copy to, say, the wholesaler, who then makes 500 
+
+copies that are sent to the retail customers, isn't that 
+
+correct?
+
+ MR. WAXMAN: That may be. We don't --
+
+JUSTICE STEVENS: Which is exactly what 
+
+happens in this case?
+
+ MR. WAXMAN: It's one of the things that 
+
+happens in this case. We have a stipulated record that 
+
+is not very detailed, but in that instance there is only 
+
+one violation.
+
+ JUSTICE STEVENS: My question is if that is 
+
+what happens, when the retransmission takes place when 
+
+one copy is converted into 500 how can those 500 all be 
+
+components rather than copies of the single component?
+
+ MR. WAXMAN: Well, the only -- I have two 
+
+answers to that question, both of them I think directly 
+
+answering your question. First of all, the statute is 
+
+violated only when the precise object code is 
+
+expatriated from the United States, when it is supplied 
+
+from the United States. That's the violation. The 
+
+other issues are damages, what damages are you entitled 
+
+to. What is combined with the computer is the precise 
+
+thing that is supplied because it is the precise 
+
+sequence of commands. 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: But is there any precedent 
+
+for that sort of thing? That is, I understand your 
+
+point now, I think, but however you put it, it has to 
+
+come down to the fact that this very, very complex and 
+
+detailed thing that is being supplied is an abstract set 
+
+of numbers. And I can understand how the patent 
+
+application does not itself contain that set of numbers, 
+
+but rather contains an instruction as to how to generate 
+
+that set of numbers.
+
+ But I then would be quite frightened of 
+
+deciding for you and discovering that all over the world 
+
+there are vast numbers of inventions that really can be 
+
+thought of in the same way that you're thinking of this 
+
+one, and suddenly all kinds of transmissions of 
+
+information themselves and alone become components. So 
+
+I'm asking you, is there any outside the computer field 
+
+analogous instance where the transmission of information 
+
+has itself been viewed as the transmission of a 
+
+component?
+
+ MR. WAXMAN: I'm not aware of any. In the 
+
+lower courts, Microsoft was arguing that the biotech 
+
+industry was an analogy, but there is some very obvious 
+
+differences between what is supplied in terms of object 
+
+code that instructs a machine and a, you know, a 
+
+sequence of nucleotides, the abstract sequence of 
+
+43
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+nucleotides. But I think we need to be quite precise 
+
+here. We are not complaining that the component is an 
+
+idea. We're not complaining -- we're not arguing that a 
+
+component is some form of information. What we're 
+
+saying here is -- I mean, nobody is paying billions of 
+
+dollars from an idea. When the commands are loaded onto 
+
+the hard drive of a computer in the form of 
+
+electromagnetic orientations and when you press a button 
+
+saying give me NetMeeting, and the processor says -- and 
+
+this is what electrical engineers say -- fetch the 
+
+instructions, fetch the commands to the random access 
+
+memory where it's -- where it is there reflected in a --
+
+in a form of patterns of electrical charges. And when 
+
+the code then moves back and forth, the instructions 
+
+move back and forth from the CPU and RAM, they --
+
+they -- millions of times a second they are replicating 
+
+themselves.
+
+ JUSTICE KENNEDY: Well, is it an answer to 
+
+Justice Breyer, or maybe it isn't, that we have no 
+
+conceptual problem saying there would be liability if 
+
+this happened within the territorial limits of the 
+
+United States?
+
+ MR. WAXMAN: Absolutely not.
+
+ JUSTICE KENNEDY: And so there shouldn't be 
+
+a greater conceptual problem if you prevail, in applying 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+it abroad.
+
+ MR. WAXMAN: That's --
+
+JUSTICE BREYER: Well, sure, there is. It's 
+
+a bigger --
+
+MR. WAXMAN: If I can, I just want to make 
+
+sure I answer your question.
+
+ JUSTICE BREYER: But it's totally different 
+
+in that of course it violates the patent in the United 
+
+States. The whole question here is whether or not the 
+
+person has to go get a patent in Germany, which he can 
+
+do or not do. And the -- the concern that I'm worried 
+
+about is in the future it might be outside your field, 
+
+it might be in biology, but if you suddenly say that the 
+
+transmission purely of information is the transmission 
+
+of a component, no matter how detailed, I can easily see 
+
+in biology or medicine where a patent has an instruction 
+
+and indeed, that instruction is an instruction to create 
+
+other detailed procedures, processes, dishes, Petri 
+
+dishes, I don't know what it is, and we transmit that 
+
+detailed information abroad. Then suddenly it's our 
+
+patent law and not the foreign patent law that would 
+
+govern. That's why I asked for precedent.
+
+ MR. WAXMAN: Okay. First of all, this 
+
+statute does not reach anything that is done overseas. 
+
+It doesn't reach what the German OEM does. It doesn't 
+
+45 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+reach what anybody does overseas. It -- it makes liable 
+
+as an infringer somebody who supplies -- who is in the 
+
+United States who supplies from the United States a 
+
+component with the intent, with the express intent that 
+
+that component be combined in a way to create a device 
+
+that would practice a U.S. patent. Now I don't believe 
+
+-- I firmly am confident that if you look at what's at 
+
+issue in this case, there may be all sorts of questions 
+
+about what is or isn't a component. I might think that 
+
+a design is a component or it isn't a component, but 
+
+think of these three features: One, this is something 
+
+that is totally modular. It is developed, bought and 
+
+sold entirely independent of any of the hardware to 
+
+which it is, with which it is combined, and between 
+
+which it moves continuously as it operates. Number two, 
+
+it can be removed or updated entirely independently of 
+
+the other components. And it is dynamic, unlike 
+
+designs, unlike molds, unlike instructions about how to 
+
+make something, all of which are exhausted. They have 
+
+done their work when the thing is made. That's why 
+
+those things are called hardware.
+
+ JUSTICE SOUTER: All right. But --
+
+MR. WAXMAN: These are instructions not 
+
+about how to make something. They are instructions 
+
+about what the other things that are made should do and 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+how they do it.
+
+ JUSTICE SOUTER: You can perfectly well say 
+
+that in this case. You can say that the instruction is 
+
+exhausted once the golden disk has sent its information 
+
+through an intermediary machine onto the new disk that 
+
+is made.
+
+ MR. WAXMAN: You could not say that because 
+
+if you take the information from a golden master or a 
+
+stream of photons and put it on a hard drive, unless 
+
+that continues to move and change in form, the computer 
+
+will not work. The computer operates by having you 
+
+press a button saying do this function. The central 
+
+processing unit then says where are my instructions on 
+
+how to do it. It says find them and put them in random 
+
+access memory, where it is then replicated in the form 
+
+of patterns of electrical charges, quite a different 
+
+physical form than it exists on the hard drive. And the 
+
+program counter --
+
+JUSTICE SOUTER: That simply means that 
+
+after the -- the -- the -- the idea as you put it, has 
+
+been placed on the hard drive, certain other processes 
+
+must take place too before we get the result that people 
+
+are buying computers to -- to obtain. But it's still 
+
+the case that the -- that the code on the golden disk is 
+
+exhausted once that has been transferred from the disk 
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+through an intermediary machine on its way ultimately to 
+
+a working computer just -- and my only point is -- just 
+
+the way you can say that the blueprint in effect is 
+
+exhausted once the house has been built.
+
+ MR. WAXMAN: It's not because the blueprint 
+
+has no further work to do. It was something that --
+
+JUSTICE SOUTER: Sure. You can use it 
+
+again.
+
+ MR. WAXMAN: Something you teach, has no 
+
+further work to do with respect to the infringing 
+
+device, but the object code works continuously and gives 
+
+continuous instructions to the various hardware 
+
+components completely unlike. But let me go to --
+
+JUSTICE SOUTER: The object code has several 
+
+jobs. One job when embodied on the golden disk is tell 
+
+a -- is to tell a machine how to make disks or how to 
+
+put a message on a hard drive. Another job that the 
+
+object code has is when the object code gets on the 
+
+resulting disk or the hard drive. But in fact, the 
+
+manifestation of the object code on the golden disk and 
+
+the manifestation of the object code on the resulting 
+
+disk are separable, just as the blueprint is separable 
+
+from what is constructed.
+
+ MR. WAXMAN: Justice Souter, just taking 
+
+your -- taking that as -- that as the case, the United 
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+States in footnote 2 of its brief repeats what Microsoft 
+
+argued in the court of appeals and the district court, 
+
+which is that if it took instead of one golden master, 
+
+but 100,000 CDs, which is what a golden master is, one 
+
+for each computer, that would be a 271(f) infringement. 
+
+But that also requires copying and transforming the code 
+
+that is on the CD-ROM which is in the form of physical 
+
+pits and lands and indentations, and downloading it into 
+
+the hard drive where the same exact sequence is 
+
+manifested as varying orientations of electronic, 
+
+electromagnetic fields, and that is no different 
+
+whatsoever than this case.
+
+ If you say, well, what destroys you in this 
+
+case is that the code has to be copied, replication, 
+
+precise instantaneous replication is simply how software 
+
+works. It's not just how it's supplied. It's not just 
+
+how it's combined. It's how it interacts dynamically 
+
+within the computer. And that's why we say it's a 
+
+component.
+
+ Let me just be clear about what the 
+
+statutory interpretation question here is. It's not as 
+
+whether our conception of the component as the code --
+
+as the -- as the command is better than their conception 
+
+of the component as a CD or a light wave or a telephone 
+
+wire that contains that. 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+The question is, there may very -- it may 
+
+very well be both things. The question is whether the 
+
+word component naturally applies to what we do. And our 
+
+-- we have given dozens of references to the use of 
+
+intangible software, program software as components. We 
+
+have given you the dictionary definition with an example 
+
+from Webster's. They have not responded with one 
+
+counter-example. The only dictionary example they 
+
+provide you relates to the word "such", and it's in 
+
+their reply brief on page 5. But they have given you 
+
+not the first definition of such under Black, in Black's 
+
+Eighth, they have given you the second one. The first 
+
+one is, of this or that kind, she collects a variety of 
+
+things. And that definition, under that definition it 
+
+wouldn't matter whether you said, well, the component 
+
+has to be physical or, you know, it could be either. 
+
+Because even if it has to be physical --
+
+JUSTICE ALITO: Can you think of any 
+
+machine -- can you think of any machine other than a 
+
+computer that has a component that is not a physical 
+
+thing?
+
+ MR. WAXMAN: I can't. And that's why it 
+
+seems to me, I mean -- and there are -- there are 
+
+machines that have nonphysical things in them but not 
+
+that operate in the sort of same dynamic way. We gave 
+
+50
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the example of the intangible text of Moby Dick in a 
+
+book. And they give the example of, you know, an 
+
+incredibly complicated series of circuits on a -- on a 
+
+chip. But those don't continue to operate and interact 
+
+in the way that this paradigmatic component does. Thank 
+
+you.
+
+ JUSTICE STEVENS: Thank you, Mr. Waxman. 
+
+Mr. Olson, you have, let's see, four minutes.
+
+ REBUTTAL ARGUMENT OF THEODORE B. OLSON
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. OLSON: Thank you, Justice Scalia. I 
+
+mean Justice Stevens.
+
+ (Laughter.)
+
+ I was about to address Justice Scalia and 
+
+recite the case -- cite the case Nixon versus 
+
+Fitzgerald, which is directly responsive to the question 
+
+Justice Scalia raised at the very beginning of the 
+
+audience, that a stipulation with respect to damages 
+
+does not make a case moot. And also with respect to a 
+
+question raised by Justice Scalia, or a comment made by 
+
+him, it doesn't have to be gold. It's a master disk.
+
+ JUSTICE SCALIA: I'm sorry.
+
+ MR. OLSON: What this essentially comes down 
+
+to is something that Mr. Waxman repeatedly said. It is 
+
+the commands that are a component. The commands to the 
+
+51 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+individual foreign made computers. Those are -- those 
+
+commands cannot be understood and cannot be used by that 
+
+computer unless they are in a physical medium that is 
+
+created as a copy of the master disk that sends abroad 
+
+-- that's sent abroad.
+
+ As I said at the beginning, the stipulation 
+
+is full of the word "copies", foreign replicated copies. 
+
+That's what we're talking about here, something that is 
+
+recreated. And Justice Breyer, your question about 
+
+someone who's got a really good memory and can go abroad 
+
+and recite the 1's and 0's, pictures can be taken, 
+
+copies can be made in lots of different ways.
+
+ And in response to Justice --
+
+JUSTICE BREYER: His answer to me is that --
+
+that -- it's sort of misleading to think of this as if 
+
+it's just information, because it's really a method that 
+
+switches things at a level of detail that is impossible 
+
+to put in a patent application. It's taking the 
+
+information in a patent application, it's transforming 
+
+it into what we think of as 1's and 0's, but they're not 
+
+really even 1's and 0's. What they are is things that 
+
+happen with electricity.
+
+ MR. OLSON: That's right.
+
+ JUSTICE BREYER: And it's putting that on 
+
+the disk and then it makes other things happen. 
+
+52 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. OLSON: I agree.
+
+ JUSTICE BREYER: It's putting something 
+
+physical on a disk, pits and lands, instructions that 
+
+are copied from the master disk and then put into either 
+
+a hard drive or a disk, it's the same thing.  It's 
+
+something that is into the computer that will make the 
+
+computer operate.
+
+ You're right, Justice Ginsburg, that the 
+
+court of appeals for the Federal Circuit thought it was 
+
+bringing this statute up to date and it even said so. 
+
+We are making an extension of the statute to keep up to 
+
+date with the technology. That is not for courts to do. 
+
+This Court is --
+
+JUSTICE KENNEDY: Are you saying that the 
+
+infringement act that happened in the United States 
+
+involved no components?
+
+ MR. OLSON: The infringement that happened 
+
+in the United States which was under Section B, which 
+
+provides Section B inducement liability for making 
+
+copies domestically of -- the same thing that happened 
+
+here. Copies of the object code were put on physical 
+
+mediums and sent to domestic manufacturers. Domestic 
+
+reproduction constitutes infringement under Section 
+
+271(b) but foreign reproduction is not a violation of 
+
+Section 271(a) or 271(b). Hence, we're talking about 
+
+53
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the two sections where --
+
+JUSTICE BREYER: So they had a license to do 
+
+that, because if they didn't have a license to make the 
+
+master disk here in the United States, the making of it 
+
+would have violated the patent; is that right?
+
+ MR. OLSON: The making of the master disk if 
+
+actually used in a computer with a microphone and a 
+
+speaker, and that's the liability that existed in the 
+
+stipulation under 271(a). Making copies is liability 
+
+domestically under 271(b). If it's going to be liable 
+
+for foreign made replications, then it must be under 
+
+271(f). The language of the statute, we submit is 
+
+clear. Physical things must be components under 271(f) 
+
+because they must be supplied from somewhere. Ideas 
+
+have no physical from. They're in the air. The words 
+
+used, "supplied from" tells us that it must be a 
+
+physical thing combined with. Ideas don't combine with 
+
+physical things to make a patented invention. Physical 
+
+things do. Thank you, Your Honor.
+
+ JUSTICE STEVENS: Thank you, Mr. Olson. The 
+
+case is submitted.
+
+ [Whereupon, at 11:15 a.m., the case in the 
+
+above-entitled matter was submitted.] 
+
+54 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 55 
+
+A 
+ability 27:12 
+able 18:22 
+above-entitled 
+
+1:11 54:23 
+abroad 3:15 
+
+6:14,21 8:1 9:2 
+9:25 10:1,3 
+11:23 12:4,11 
+13:19 14:22,24 
+15:1,5,16,20 
+15:24,24 16:11 
+17:6,6,12,23 
+18:2,4,14 24:9 
+25:22,23,25 
+26:2,3 27:11 
+27:11,12 33:9 
+33:12,17 39:22 
+40:11 41:1 
+45:1,20 52:4,5 
+52:10 
+
+absolutely 30:9 
+44:23 
+
+abstract 13:12 
+13:24 14:4,5 
+24:15,15,16 
+25:1,5 40:20 
+43:5,25 
+
+accept 21:12 
+access 44:11 
+
+47:15 
+acknowledges 
+
+31:19 
+act 6:12 14:20 
+
+14:21 40:16 
+53:15 
+
+acts 20:17 
+actual 20:24 
+
+21:5,18 24:1 
+25:17 34:20 
+35:19 37:25 
+
+addition 26:16 
+address 51:14 
+adds 40:3 
+advance 19:13 
+agree 5:5 11:22 
+
+14:12 29:11 
+
+53:1 
+Ah 23:2 
+air 24:3 54:15 
+ALITO 15:17 
+
+24:8 50:18 
+ambiguous 14:9 
+
+14:13 
+amicus 1:19 2:7 
+
+16:19 
+amount 4:10,20 
+
+5:10,14,19 
+amounts 3:21 
+analogous 25:6 
+
+43:17 
+analogy 35:13 
+
+43:22 
+answer 8:19 
+
+11:2 33:13,15 
+44:18 45:6 
+52:14 
+
+answering 42:18 
+answers 16:2 
+
+42:17 
+antecedent 
+
+34:19 
+anybody 46:1 
+anyway 40:21 
+appeal 3:21,23 
+
+3:24 4:22 5:3 
+appeals 6:15,19 
+
+10:20 49:2 
+53:9 
+
+APPEARAN... 
+1:14 
+
+appears 8:11 
+appendix 7:7 
+application 37:9 
+
+43:7 52:18,19 
+applies 26:18 
+
+50:3 
+apply 18:23 27:5 
+
+36:9 
+applying 17:5 
+
+26:15 44:25 
+architecture 
+
+37:22,23 
+arguably 10:16 
+
+argued 49:2 
+arguing 43:21 
+
+44:3 
+argument 1:12 
+
+2:2,5,9,12 3:3 
+3:6 16:18 
+27:24 38:5 
+51:9 
+
+art 19:13 
+artificial 15:17 
+artisan 34:14 
+asked 45:22 
+asking 43:16 
+assembling 
+
+17:23 18:3 
+19:2 
+
+assembly 17:6 
+17:12 38:13 
+
+Assistant 1:17 
+assumption 22:7 
+
+22:17 
+Atlantic 32:3 
+
+39:18 41:21 
+attached 36:16 
+attaching 41:5 
+attempt 18:12 
+attempted 13:25 
+AT&T 1:6 3:4 
+
+3:22 7:21 8:10 
+8:14,19 10:18 
+13:6,18 39:1,2 
+
+AT&T's 3:18 
+24:14 28:13,18 
+
+audience 51:18 
+authoritatively 
+
+10:21 
+aware 43:20 
+a.m 1:13 3:2 
+
+54:22 
+
+B 
+B 1:15 2:3,13 
+
+3:6 51:9 53:18 
+53:19 
+
+back 30:8 34:8 
+37:6 44:14,15 
+
+backdrop 26:19 
+
+26:22 
+balance 16:16 
+Basically 14:19 
+basis 18:16 
+
+34:25 
+bear 35:12 36:6 
+beginning 51:17 
+
+52:6 
+behalf 1:15,19 
+
+1:21 2:4,7,11 
+2:14 3:7 16:19 
+27:25 51:10 
+
+Belgium 13:21 
+believe 4:1 46:6 
+bet 4:5 
+better 49:23 
+beyond 26:13 
+bigger 24:24 
+
+45:4 
+billions 44:5 
+binary 14:4 
+
+28:10 
+bind 13:18 
+biological 15:4 
+biology 45:13,16 
+biotech 43:21 
+bit 14:19 32:4 
+Black 50:11 
+Black's 50:11 
+blank 21:15,17 
+blueprint 19:22 
+
+19:23 34:10,10 
+34:14,19 35:7 
+35:8,9,10,12 
+35:13,18,20,20 
+35:25 37:13 
+48:3,5,22 
+
+blueprints 30:17 
+boils 31:5 
+book 51:2 
+borders 19:16 
+bought 31:9 
+
+46:12 
+Breyer 20:1 
+
+22:6,12,16 
+28:20,23 29:8 
+30:1,12 34:8 
+
+37:5,20 43:1 
+44:19 45:3,7 
+52:9,14,24 
+53:2 54:2 
+
+brief 3:18 10:20 
+49:1 50:10 
+
+bringing 53:10 
+broad 6:6 
+brought 27:2 
+bucket 41:6 
+Buick 14:25 
+builds 30:8 
+built 24:9 48:4 
+bullish 19:6 
+bunch 20:10 
+
+38:8 
+business 12:22 
+button 31:25 
+
+41:19 44:8 
+47:12 
+
+buy 12:21,24 
+buying 47:23 
+
+C 
+C 2:1 3:1 
+call 8:11 23:19 
+
+39:17 
+called 11:7 
+
+46:21 
+calling 13:24 
+
+40:2 
+calls 40:20,20 
+car 36:15 
+carried 41:4 
+carrying 39:12 
+case 4:5 5:4,15 
+
+5:20 6:3 8:24 
+12:13 14:15,16 
+16:24 18:8,11 
+18:14,15 20:22 
+21:7 22:21 
+28:14 29:11,21 
+31:2,5 32:16 
+33:6 35:15 
+37:19 40:4 
+42:7,9 46:8 
+47:3,24 48:25 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 56 
+
+49:12,14 51:15 
+51:15,19 54:21 
+54:22 
+
+cases 5:1 
+caution 26:12,17 
+cautioned 26:14 
+cautious 26:15 
+CD 31:23 49:24 
+CDs 49:4 
+CD-ROM 49:7 
+central 32:12 
+
+42:1 47:12 
+certain 5:3 
+
+20:17 40:2 
+47:21 
+
+certainly 16:7 
+20:3 26:10 
+
+change 29:4 
+47:10 
+
+changed 40:13 
+41:21 
+
+changes 34:25 
+charges 35:11 
+
+44:13 47:16 
+chip 35:25 36:1 
+
+36:2 51:4 
+Circuit 6:6 14:8 
+
+14:10,13,19 
+27:1,3 33:6 
+53:9 
+
+circuits 51:3 
+Circuit's 15:22 
+
+18:12,17 
+circumstances 
+
+18:24 
+cite 5:4 51:15 
+claim 35:3 
+claiming 18:6 
+claims 41:10 
+clear 11:20 33:6 
+
+49:20 54:13 
+clearly 26:24 
+close 17:12 
+code 6:8 7:9,10 
+
+7:13 8:11,13 
+8:16,21 11:8,8 
+11:9,16 12:7 
+
+12:14,16 13:12 
+14:4,11 15:24 
+19:21 24:15,16 
+25:9,10,16,16 
+28:4 29:12,16 
+29:23,24 30:19 
+30:21,22 31:17 
+31:20,21 34:2 
+34:12,22 35:22 
+36:13,25 37:23 
+37:24 38:2,4,6 
+38:17,21,23,25 
+39:2 40:12 
+41:23 42:19 
+43:24 44:14 
+47:24 48:11,14 
+48:18,18,20,21 
+49:6,14,22 
+53:21 
+
+coded 21:9,22 
+21:23 39:14 
+
+collects 50:13 
+combine 24:19 
+
+36:9 38:10 
+54:17 
+
+combined 28:18 
+31:4 33:20,23 
+42:23 46:5,14 
+49:17 54:17 
+
+come 4:6,16 
+43:4 
+
+comes 30:5 
+51:23 
+
+command 31:8 
+49:23 
+
+commands 28:5 
+29:22 30:23 
+31:10 34:23 
+35:19 39:12,15 
+40:8 41:4,13 
+42:25 44:6,11 
+51:25,25 52:2 
+
+comment 51:20 
+companies 6:12 
+
+17:11,21 18:1 
+company 14:21 
+
+27:10 
+
+company's 
+27:12 
+
+compete 17:22 
+18:2,25 27:12 
+
+competition 
+17:21 19:16 
+
+competitors 
+18:3 
+
+compilation 
+12:7,16,17 
+25:7,8 
+
+compile 30:21 
+compiling 29:20 
+complaining 
+
+44:2,3 
+completely 
+
+48:13 
+complex 30:6,9 
+
+43:4 
+complicated 
+
+51:3 
+component 7:20 
+
+7:25 8:1,5,14 
+8:17,23 9:2,5,6 
+9:20 10:2,10 
+10:17,23 11:1 
+11:11,14 12:8 
+12:16 13:23,23 
+14:10,15,17 
+19:20 20:22,23 
+21:2,5,8,16,18 
+22:5 23:6,8,13 
+23:25 24:6,10 
+24:15,25 25:17 
+25:24 26:3 
+27:8 28:17 
+30:22,22 31:3 
+31:5 34:1 36:7 
+36:8,12,15,16 
+37:23 42:15 
+43:19 44:2,4 
+45:15 46:4,5,9 
+46:10,10 49:19 
+49:22,24 50:3 
+50:15,20 51:5 
+51:25 
+
+components 
+
+3:13 6:4,5,9,22 
+6:23 7:18 9:8 
+9:12,13,16 
+12:12 13:18 
+15:15 16:14 
+20:8 22:22 
+36:13 42:15 
+43:15 46:17 
+48:13 50:5 
+53:16 54:13 
+
+comprised 20:9 
+computer 6:7 
+
+8:7,12,22 
+10:12 11:15 
+13:3,9,10 14:6 
+21:4,5,6,20 
+22:21 24:7 
+25:10,18 30:23 
+30:24 32:3 
+35:3 36:6 37:1 
+37:2,3 38:1,10 
+38:11 42:23 
+43:16 44:7 
+47:10,11 48:2 
+49:5,18 50:20 
+52:3 53:6,7 
+54:7 
+
+computers 6:8 
+7:17,18,25 8:3 
+9:13 10:15 
+12:4,11 24:9 
+28:12 29:18 
+32:11 38:20 
+47:23 52:1 
+
+computer's 28:6 
+29:23 
+
+conception 
+49:22,23 
+
+conceptual 
+44:20,25 
+
+concern 45:11 
+concerned 18:19 
+conclusion 
+
+18:18 
+concretely 28:25 
+condition 18:25 
+conduct 17:5,6 
+
+confident 46:7 
+confirms 23:23 
+confused 10:14 
+confusing 14:19 
+Congress 26:5 
+
+26:11,19,23 
+27:15 
+
+consequence 5:7 
+consequences 
+
+26:6 
+consider 13:23 
+considered 8:17 
+
+14:14 
+consistent 28:15 
+
+33:7 
+constantly 39:18 
+constitute 15:2 
+constitutes 
+
+53:23 
+constructed 
+
+48:23 
+contain 43:7 
+contained 15:4 
+contains 7:7,12 
+
+16:9 23:9 43:8 
+49:25 
+
+context 16:24 
+17:8 26:18 
+
+continually 
+30:24 37:3 
+
+continue 40:1 
+51:4 
+
+continues 47:10 
+continuous 35:4 
+
+48:12 
+continuously 
+
+34:24 35:1 
+46:15 48:11 
+
+contrary 24:14 
+controversy 4:5 
+
+5:16 
+convert 38:9,9 
+converted 32:1 
+
+32:6 42:14 
+copied 6:14,20 
+
+7:1,4,5,14 
+14:23 16:11 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 57 
+
+17:16 18:14 
+22:3 33:10 
+49:14 53:4 
+
+copies 7:9,10,17 
+9:7,9,16 10:3,6 
+12:3 15:25 
+16:14 17:13 
+19:1 24:6 42:3 
+42:15 52:7,7 
+52:12 53:20,21 
+54:9 
+
+copy 8:1 9:19,20 
+14:25 15:23 
+20:24 21:6,19 
+22:4 24:1,4 
+25:25 29:6 
+30:15 42:2,14 
+52:4 
+
+copying 6:10 
+14:21 17:5,17 
+17:18,23 25:21 
+25:22 49:6 
+
+copyright 20:1,1 
+20:2,3 23:1,3 
+
+copyrightable 
+39:1 
+
+CORP 1:6 
+CORPORATI... 
+
+1:3 
+correct 11:6,10 
+
+11:12 12:18 
+13:13 32:18 
+42:4 
+
+cost 15:19 
+costs 16:7 
+cotton 30:4 
+counter 47:18 
+counter-exam... 
+
+50:8 
+countries 19:8 
+
+26:21 
+country 17:13 
+
+17:14,15,18 
+18:23 19:14 
+38:7 
+
+country's 17:22 
+couple 14:8 
+
+18:11 20:20 
+course 30:21 
+
+36:14 41:16 
+45:8 
+
+court 1:1,12 3:9 
+4:6,16 5:17 
+6:15,19 10:20 
+14:14 16:22 
+22:8,14 26:14 
+28:2 49:2,2 
+53:9,13 
+
+courts 43:21 
+53:12 
+
+covered 20:19 
+CPU 29:23 
+
+36:12 44:15 
+create 4:7 29:20 
+
+33:21 45:17 
+46:5 
+
+created 6:5 52:4 
+creating 40:7 
+criminal 5:1 
+critical 8:13 
+
+17:19 
+crown 38:6 
+curiae 1:19 2:8 
+
+16:19 
+customers 42:3 
+
+D 
+D 3:1 
+damages 4:10 
+
+4:21 42:22,22 
+51:18 
+
+DARYL 1:17 
+2:6 16:18 
+
+date 53:10,12 
+debug 30:21 
+debugging 
+
+29:20 
+decades 10:21 
+decide 5:7 14:17 
+
+37:7 
+decided 4:19 
+
+14:16 
+deciding 43:11 
+decision 4:11 
+
+6:15 18:17 
+decisions 14:14 
+deemed 6:9,20 
+deeper 24:25 
+Deepsouth 
+
+26:17,22 27:1 
+define 13:23 
+definition 50:6 
+
+50:11,14,14 
+delete 23:22 
+
+36:4 
+denoted 24:24 
+Department 
+
+1:18 
+dependent 38:3 
+depending 3:22 
+
+4:19,21 5:24 
+depends 4:11 
+
+9:23 13:22 
+32:16 39:24 
+
+describe 30:25 
+35:2 
+
+description 
+37:10,24 
+
+design 16:9,10 
+17:14 25:5,7 
+25:17,20,24 
+27:11 30:20 
+34:19,23 35:24 
+46:10 
+
+designed 17:2 
+26:1,2,3 
+
+designs 30:17 
+46:18 
+
+destroys 49:13 
+detail 52:17 
+detailed 37:11 
+
+42:10 43:5 
+45:15,18,20 
+
+details 30:7,10 
+determination 
+
+19:15,17 
+determined 16:3 
+deveiner 27:4 
+developed 31:8 
+
+46:12 
+device 13:14,17 
+
+33:21 34:20 
+46:5 48:11 
+
+Dick 51:1 
+dictionary 50:6 
+
+50:8 
+difference 25:12 
+
+34:15,16 37:19 
+differences 19:4 
+
+43:23 
+different 3:21 
+
+5:9 11:4 15:7 
+25:10,19 26:4 
+27:14 29:9,9 
+29:10 30:15 
+32:20,25 37:2 
+39:8 45:7 
+47:16 49:11 
+52:12 
+
+differently 
+25:14 
+
+digital 8:15 
+digits 28:10 
+dimensions 
+
+17:19 
+direct 32:19 
+directly 32:10 
+
+32:24 42:17 
+51:16 
+
+disagree 21:14 
+35:17 
+
+disagrees 19:11 
+discovering 
+
+43:11 
+dishes 45:18,19 
+disk 7:1,11,15 
+
+7:19 8:2,4,5,6 
+8:13 9:1,4,8,18 
+9:18,20 10:5,6 
+10:11,14 11:15 
+11:22,23 12:3 
+12:14,17,19,21 
+12:22 14:3,11 
+15:25 19:20 
+21:8,15,17,20 
+21:21,24 23:9 
+23:10,14 24:2 
+24:3 31:12,14 
+
+33:9,10,11,17 
+34:2,2 35:3,6,7 
+35:11 36:11 
+40:2,11 41:15 
+47:4,5,24,25 
+48:15,19,20,22 
+51:21 52:4,25 
+53:3,4,5 54:4,6 
+
+disks 7:16 34:12 
+38:19 39:22 
+48:16 
+
+disputed 30:25 
+distinction 
+
+15:18 17:17 
+distinguishing 
+
+18:16 
+distribution 
+
+6:11 
+district 4:5 49:2 
+document 8:8 
+
+12:1 
+doing 15:5,20,20 
+dollar 3:21 
+dollars 44:6 
+domestic 19:19 
+
+53:22,22 
+domestically 
+
+53:20 54:10 
+doubt 18:18 
+download 36:4,4 
+downloading 
+
+49:8 
+dozens 50:4 
+drive 7:15 8:2 
+
+9:10 11:16 
+12:3,14 21:9 
+22:2,4,4 23:12 
+23:13,15,20,22 
+24:11 31:24 
+32:5 34:24 
+35:11 36:12 
+41:23 44:7 
+47:9,17,21 
+48:17,19 49:9 
+53:5 
+
+drives 7:16 
+34:12 38:19 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 58 
+
+Dusseldorf 32:5 
+dynamic 37:4 
+
+46:17 50:25 
+dynamically 
+
+49:17 
+D.C 1:8,15,18 
+
+1:21 
+
+E 
+E 2:1 3:1,1 
+earlier 8:24 
+easily 18:14 
+
+45:15 
+easy 15:22 16:4 
+effect 48:3 
+efficient 16:4,6 
+Eighth 50:12 
+either 7:15 
+
+11:15 21:8 
+25:16 31:13,14 
+31:22 50:16 
+53:4 
+
+electric 31:15 
+electrical 26:15 
+
+32:6 35:11 
+41:22 44:10,13 
+47:16 
+
+electricity 52:22 
+electromagnetic 
+
+41:24 44:8 
+49:11 
+
+electronic 27:2,5 
+31:16 41:20 
+49:10 
+
+electrons 24:10 
+24:14 
+
+embedded 36:13 
+embodied 34:17 
+
+35:24 48:15 
+embodiment 
+
+24:12 
+embodiments 
+
+29:16 
+embraces 14:20 
+emerges 32:3 
+emphasized 
+
+26:17 
+
+enable 24:23 
+enables 18:1 
+
+28:18 
+enact 26:24 
+enacted 26:9 
+
+27:15 
+encoded 11:21 
+engineer 31:24 
+
+33:12 
+engineers 38:8 
+
+44:10 
+England 30:3 
+entered 3:19 
+entirely 4:17 
+
+28:15 31:9 
+33:4 46:13,16 
+
+entitled 19:16 
+42:22 
+
+Eolas 14:15 
+equals 13:16 
+era 27:2 
+especially 5:1 
+
+26:5 
+ESQ 1:15,17,21 
+
+2:3,6,10,13 
+essence 34:9 
+essentially 6:9 
+
+31:25 51:23 
+establish 17:20 
+Europe 34:11,13 
+
+35:4,9,10 
+36:19,20 37:14 
+40:10 
+
+exact 14:25 49:9 
+exactly 21:14 
+
+42:6 
+example 17:9,14 
+
+21:15 24:22 
+50:6,8 51:1,2 
+
+examples 32:22 
+excellent 29:3 
+exclusively 33:3 
+Excuse 28:22 
+exhausted 46:19 
+
+47:4,25 48:4 
+exhaustively 
+
+18:21 
+
+existed 54:8 
+existence 23:24 
+existing 26:15 
+exists 47:17 
+expanding 
+
+26:12 
+expatriated 
+
+42:20 
+explaining 
+
+37:12 
+export 35:13,14 
+
+39:6,7 
+express 46:4 
+expressing 
+
+25:11 
+expression 39:1 
+extension 17:1 
+
+53:11 
+extent 18:6 
+extraordinary 
+
+17:4 
+extraterritorial 
+
+26:6 
+extraterritori... 
+
+26:18 
+
+F 
+fact 8:14 31:4 
+
+43:4 48:19 
+facts 28:14 
+fair 26:10 
+fashion 12:4 
+fast 15:23 16:4,6 
+
+16:12 
+features 46:11 
+February 1:9 
+Federal 6:6 14:7 
+
+14:10,13,18 
+15:21 18:12,17 
+27:1,3 33:5 
+53:9 
+
+fetch 44:10,11 
+field 18:2 43:16 
+
+45:12 
+fields 49:11 
+final 7:25 17:12 
+find 18:22 47:14 
+
+finish 10:6 38:20 
+finished 37:7 
+firmly 46:7 
+first 8:15 17:19 
+
+26:13 29:11 
+42:18 45:23 
+50:11,12 
+
+Fitzgerald 51:16 
+flip 17:25 
+focus 39:21 
+follow 34:14 
+following 30:19 
+
+32:17 34:13 
+footnote 49:1 
+foreign 6:7 7:9 
+
+7:10,16 9:12 
+12:5,9,10,19 
+17:7,13,14,15 
+17:18,20,22 
+18:3,6 19:10 
+19:14 26:21,22 
+27:13 28:12 
+45:21 52:1,7 
+53:24 54:11 
+
+foreign-made 
+6:8 7:8 
+
+forget 35:6 
+form 15:24 31:8 
+
+41:5,23 44:4,7 
+44:13 47:10,15 
+47:17 49:7 
+
+forms 37:2 39:8 
+forth 30:5 44:14 
+
+44:15 
+four 13:16 51:8 
+Frankfurt 13:21 
+frequently 5:1 
+frightened 
+
+43:10 
+full 52:7 
+fully 38:20 
+function 20:17 
+
+47:12 
+functions 30:20 
+
+35:7 
+further 17:4 
+
+26:12 48:6,10 
+
+future 45:12 
+
+G 
+G 3:1 
+gee 30:19 
+General 1:18 
+generate 43:8 
+genius 30:1,5,14 
+German 18:25 
+
+19:1 45:25 
+Germany 19:2 
+
+29:2 30:8,14 
+30:14 32:11,25 
+41:14 45:10 
+
+getting 10:15 
+37:12 
+
+Ginsburg 8:9,19 
+13:22 14:1,7 
+18:5 19:18 
+20:5 26:7,25 
+39:20 40:6,9 
+40:15,17,19,25 
+53:8 
+
+give 32:22 44:9 
+51:2 
+
+given 40:9 50:4 
+50:6,10,12 
+
+gives 48:11 
+go 23:21 37:6 
+
+45:10 48:13 
+52:10 
+
+goes 25:18 27:9 
+28:24 37:21,22 
+
+going 5:7 9:17 
+16:12 19:15 
+24:19 30:25 
+35:2 38:12 
+54:10 
+
+gold 51:21 
+golden 7:1,11 
+
+8:25 9:4,7 10:6 
+10:11,14 11:22 
+11:23 14:3 
+15:25 33:9,10 
+33:11,16 40:2 
+40:11 41:14 
+47:4,8,24 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 59 
+
+48:15,20 49:3 helps 38:15 47:8 52:16,19 47:5 48:1 10:21 
+49:4 high 30:18 37:22 infringe 26:2 intermediate Justice 1:18 3:3 
+
+good 52:10 highly 37:11 infringement 32:9 3:8,16 4:1,3,14 
+govern 17:21 Honor 54:19 3:13 6:13 15:2 international 4:23,25 5:10 
+
+45:22 hope 40:1 49:5 53:15,17 16:25 5:15,18,23 6:2 
+government house 48:4 53:23 interpretation 6:24 7:5,11,19 
+
+19:10 humans 29:17 infringer 46:2 4:12 5:22 7:23 8:4,9,19 
+government's 37:24 infringing 35:3 49:21 9:3,7,11,15,25 
+
+17:20 27:13 hypothetical 48:10 invention 3:12 10:5,9,13,23 
+granted 3:10 4:15 inscribe 41:22 3:14 8:17 17:3 10:25 11:10,14 
+greater 44:25 inserted 20:25 19:11 21:16,17 11:19 12:6,15 
+
+Igreatest 38:6 21:19 22:21,23 24:20 12:20,23,24
+idea 13:15 44:3 grew 15:6,6 installed 6:8 28:13,19 29:14 13:4,7,11,13
+
+44:6 47:20 grounds 18:13 7:17 12:4 38:1 54:18 13:14,22,25
+Ideas 54:14,17guilty 5:2 24:10 28:11 inventions 19:7 14:7 15:3,8,10 
+identical 14:25 36:25 20:8,9 26:21 15:17 16:17,21 
+
+H identifying instance 42:10 43:12 18:5 19:18 
+happen 52:22,25 14:10 43:17 inventive 19:13 20:1,5,13,21
+happened 44:21 illustrate 24:21 instances 24:13 involved 5:19,24 21:1,7,12,21
+
+53:15,17,20 implicated instantaneous 15:19,21 16:7 22:1,6,12,16
+happening 40:16 49:15 53:16 22:25 23:7,19 
+
+36:22 important 20:7 instruction 29:4 involves 38:11 24:8 25:6 26:7 
+happens 5:1 impossible 43:8 45:16,17 irrelevant 33:4 26:25 27:17,22 
+
+7:10 31:21 52:17 45:17 47:3 issue 4:19 5:3 28:1,20,23
+32:9 35:5 36:5 impulses 41:22 instructions 12:12 14:15 29:8 30:1,12 
+42:7,9,13 inanimate 32:4 8:22 21:10,22 22:18 29:21 31:11 32:8,16 
+
+hard 7:15,15 8:2 including 13:24 30:18 34:13,20 46:8 32:18,23 33:8 
+9:10 11:16 incredibly 30:9 35:21,22 37:11 issues 42:22 33:13,16,22,25
+12:3,14 21:9 51:3 44:11,14 46:18 items 29:19 34:4,7,8,16
+22:1,4,4 23:12 indentations 46:23,24 47:13 35:1,17 36:17 
+
+J23:13,14,20,22 49:8 48:12 53:3 37:5,18,20
+24:2,10 31:24 independent jewel 38:6instructs 28:5 38:23 39:5,9 
+32:5 34:12,24 46:13 job 48:15,1737:3 43:24 39:13,20 40:1 
+35:11 36:12 independently jobs 48:15intangible 8:16 40:6,9,15,17
+38:19 41:23 46:16 Joseffer 1:17 2:6 8:21 11:5 40:19,25 41:7 
+44:7 47:9,17 individual 30:13 16:17,18,2135:22 39:11 41:11,18,25
+47:21 48:17,19 32:11 52:1 18:5,10 19:24 41:4 50:5 51:1 42:6,12 43:1 
+49:9 53:5 inducement 20:3,6,15,23intended 26:5 44:18,19,24
+
+hardware 10:9 53:19 21:3,11,13,23intent 28:9 45:3,7 46:22 
+28:18 30:24 industry 43:22 22:3,10,15,1933:19,20 46:4 47:2,19 48:7 
+31:9 46:13,21 inexpensive 23:2,18,2146:4 48:14,24 50:18 
+48:12 15:22 24:12 25:9 interact 30:24 51:7,11,12,14
+
+head 24:18 30:6 information 8:5 26:9 27:6,20 34:23 51:4 51:17,20,22
+hear 3:3 18:8 8:6 15:23 judge 5:6interacts 49:17 52:9,13,14,24
+held 6:6,13 22:8 23:11 34:23 judgment 3:20interest 18:7 53:2,8,14 54:2 
+
+22:14 26:23 43:15,17 44:4 4:1040:3 54:20 
+help 16:23 39:21 45:14,20 47:4 jurisprudenceintermediary 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 60 
+
+K 
+keep 53:11 
+Kennedy 5:10 
+
+5:15,18 7:19 
+7:23 8:4 9:3,7 
+9:11,15,25 
+10:5,9 12:6,15 
+12:20,23,24 
+15:3,9,10 
+20:13 22:25 
+25:6 36:17 
+44:18,24 53:14 
+
+key 24:22,22,25 
+25:2,8 
+
+kind 35:9 50:13 
+kinds 43:14 
+know 4:4,23 
+
+5:17 9:4 13:11 
+21:5 23:19 
+38:9 39:17 
+43:24 45:19 
+50:16 51:2 
+
+L 
+laboratory 
+
+15:14 
+land 32:2 
+lands 31:23 49:8 
+
+53:3 
+language 12:9 
+
+14:18 29:17 
+31:22 33:7 
+37:25 38:2 
+54:12 
+
+languages 25:10 
+Laughter 40:5 
+
+51:13 
+law 4:12 16:25 
+
+17:5,7 18:23 
+19:1,19 26:22 
+45:21,21 
+
+laws 3:11 15:2 
+16:3 19:5 
+
+lawsuit 32:21 
+legal 4:18,19 5:6 
+
+5:21 
+legitimate 4:17 
+
+let's 28:19 30:19 
+31:2 35:5 
+38:15 51:8 
+
+level 30:18 
+37:22 52:17 
+
+liability 5:8 6:5 
+44:20 53:19 
+54:8,9 
+
+liable 6:13 46:1 
+54:10 
+
+license 54:2,3 
+light 49:24 
+likewise 28:8 
+limitation 6:4 
+limited 3:10 
+
+16:25 
+limits 44:21 
+line 16:5 
+lines 28:10 
+little 10:13 15:5 
+loaded 22:22 
+
+32:5 44:6 
+lock 24:22,23 
+
+25:1 
+logical 18:18 
+long 37:21,21 
+look 28:19 38:14 
+
+38:15 46:7 
+looked 7:14 
+
+18:21,22 
+looks 30:5,14 
+
+33:3 
+lose 5:25 
+lot 5:24 29:19 
+
+40:3 
+lots 52:12 
+lower 43:21 
+
+M 
+machine 7:13 
+
+8:8 9:21 11:9 
+11:24,24 12:1 
+12:1 13:17 
+14:22,23 20:24 
+27:9 28:4 29:4 
+29:6,22 30:6 
+30:10,13 31:8 
+
+31:22 32:3 
+34:11,13 35:9 
+35:10,19 36:18 
+36:18,19,20,21 
+36:24,24 37:12 
+37:25 38:2,2 
+43:24 47:5 
+48:1,16 50:19 
+50:19 
+
+machines 9:17 
+10:23 13:19 
+16:8 30:4 
+32:20 50:24 
+
+magnetic 31:23 
+main 23:24 
+major 5:19 
+making 3:11 
+
+15:18 17:3,12 
+19:1 26:20 
+34:8 36:21 
+40:7 53:11,19 
+54:4,6,9 
+
+management 
+30:18 
+
+manifestation 
+7:12 9:1,10,11 
+10:17 11:7 
+12:2 13:2 
+16:10 25:4 
+41:1 48:20,21 
+
+manifestations 
+12:13 
+
+manifested 
+24:13 49:10 
+
+manufacture 
+27:11 38:12 
+
+manufactured 
+7:9 9:13 12:10 
+
+manufacturer 
+7:2 
+
+manufacturers 
+31:20 53:22 
+
+manufacturing 
+15:25 17:9 
+18:3 38:18 
+
+markets 17:22 
+married 13:9,10 
+
+mass 14:23 
+master 7:11,19 
+
+7:21 8:13,25 
+9:1,18,20 14:3 
+14:11 19:20 
+31:12,14 35:2 
+35:6,7 39:21 
+47:8 49:3,4 
+51:21 52:4 
+53:4 54:4,6 
+
+material 23:9 
+matter 1:11 4:11 
+
+4:12,15 21:25 
+24:2,3 30:12 
+33:24 34:1 
+45:15 50:15 
+54:23 
+
+mean 5:18 12:20 
+19:24 20:15 
+24:2 25:13 
+36:11 44:5 
+50:23 51:12 
+
+meaning 28:15 
+means 4:8,18 
+
+12:25 14:21 
+31:16 40:7 
+47:19 
+
+medicine 45:16 
+medium 7:15 
+
+52:3 
+mediums 53:22 
+memorize 24:18 
+memory 29:3 
+
+44:12 47:15 
+52:10 
+
+merits 3:17 
+message 48:17 
+method 10:15 
+
+52:16 
+microphone 
+
+54:7 
+Microsoft 1:3 
+
+3:4,22 12:21 
+28:3,16 31:19 
+31:25 33:12 
+36:3,10 38:5 
+38:16 40:10 
+
+41:9 43:21 
+49:1 
+
+Microsoft's 3:20 
+28:11 34:18 
+38:17 
+
+miles 32:2 
+millions 28:10 
+
+29:23 31:1 
+44:16 
+
+mind 27:4 
+minutes 51:8 
+misleading 
+
+52:15 
+Moby 51:1 
+modular 46:12 
+mold 15:12 
+
+19:22,23 
+molds 46:18 
+moment 35:6 
+money 5:24 
+monopoly 3:10 
+moot 51:19 
+mousetrap 
+
+14:24 
+move 44:15 
+
+47:10 
+moved 37:1 
+moves 44:14 
+
+46:15 
+multiple 24:6 
+mundane 19:8 
+muteness 3:23 
+
+N 
+N 2:1,1 3:1 
+narrowly 18:15 
+nations 18:7,19 
+
+19:5 
+naturally 36:9 
+
+50:3 
+nature 36:7 
+necessarily 
+
+39:16 
+necessary 29:4 
+
+33:18 
+need 21:16 44:1 
+needs 13:14 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 61 
+
+neither 12:7,15 
+35:20 
+
+NetMeeting 
+31:7 44:9 
+
+never 14:5 22:8 
+22:13 25:25 
+33:17,22,23 
+
+new 7:2 8:2,2 
+10:15 26:16 
+32:19,20,24 
+47:5 
+
+nicely 34:17 
+Nixon 51:15 
+nonphysical 
+
+50:24 
+normal 17:1 
+
+26:19 
+normally 20:2 
+notion 27:5 
+notwithstandi... 
+
+6:3 
+novel 19:11 
+nucleotides 
+
+43:25 44:1 
+number 16:6,8 
+
+35:15 46:15 
+numbers 24:24 
+
+24:25 25:13 
+43:6,7,9,12 
+
+O 
+O 2:1 3:1 
+object 7:9,10,12 
+
+8:8,11,13,21 
+11:8 12:13 
+13:5 14:11 
+15:24 19:21 
+24:16 25:10,16 
+28:4 30:22 
+31:8,20 34:2 
+34:12,22 36:25 
+38:17 39:10,13 
+39:15,17,19 
+40:12 41:11,13 
+42:19 43:23 
+48:11,14,18,18 
+48:20,21 53:21 
+
+obscures 31:14 
+obtain 47:23 
+obvious 43:22 
+Ocean 32:3 
+
+39:19 41:21 
+odd 12:20 
+OEM 38:16,22 
+
+45:25 
+Office 28:21,24 
+
+37:9 
+offices 40:10 
+offs 23:16 
+Okay 6:2 31:2 
+
+45:23 
+Olson 1:15 2:3 
+
+2:13 3:5,6,8,16 
+4:1,8,17,25 
+5:13,17 6:1,3 
+6:24 7:4,21,24 
+8:6,9,18 9:6,9 
+9:12,22 10:1,8 
+10:11,18 11:2 
+11:12,18 12:9 
+12:18,23 13:1 
+13:6,8,13,15 
+13:25 14:12 
+15:8,11 16:2 
+21:8 35:24 
+51:8,9,11,23 
+52:23 53:1,17 
+54:6,20 
+
+once 22:3 35:23 
+47:4,25 48:4 
+
+ongoing 34:25 
+ons 23:15 
+on-off 13:12,12 
+open 24:23 
+operate 50:25 
+
+51:4 53:7 
+operates 37:3 
+
+46:15 47:11 
+operating 6:8 
+
+22:7 38:21 
+opinion 14:8 
+opposed 38:12 
+opposite 5:8 
+oral 1:11 2:2,5,9 
+
+3:6 16:18 
+27:24 
+
+order 13:10 
+14:23 33:20 
+34:25 
+
+ordinarily 19:24 
+ordinary 28:15 
+
+36:7,8 
+organism 15:4 
+orientations 
+
+31:24 44:8 
+49:10 
+
+originate 41:12 
+outcome 3:22,24 
+
+4:9,21 5:6,9,9 
+outside 7:13 
+
+15:9,13,14 
+43:16 45:12 
+
+overseas 16:1 
+29:25 30:21 
+31:21 33:5 
+38:7,12,17,21 
+39:6 45:24 
+46:1 
+
+P 
+P 1:21 2:10 3:1 
+
+27:24 
+page 2:2 50:10 
+pages 7:6 
+paid 4:10,21 
+paper 23:5 
+
+24:18 
+paradigmatic 
+
+51:5 
+paragraph 28:7 
+
+31:18 32:14 
+parcel 6:11 
+part 6:10 8:2 
+
+14:5,13 15:19 
+17:15 25:4,20 
+27:9 37:1 
+
+particular 19:6 
+particularly 
+
+19:11 
+parties 3:19 4:3 
+
+4:4,18 5:5,20 
+
+11:21 
+parts 15:7 17:6 
+
+17:11 18:4 
+20:10,10,12 
+24:20 25:21,22 
+25:25 32:4 
+
+passed 26:8 
+patent 3:10 6:13 
+
+8:17 10:21 
+13:6,8,11 15:2 
+15:3 16:3,25 
+19:5,14 20:5 
+20:14,16 28:21 
+28:24,24,25 
+35:15,18 36:19 
+37:9 39:2,2 
+41:10 43:6 
+45:8,10,16,21 
+45:21 46:6 
+52:18,19 54:5 
+
+patentability 
+19:7 
+
+patentable 20:9 
+20:11 22:8,14 
+22:18 27:19 
+29:13 38:24,25 
+
+patented 3:12 
+3:14 8:17 
+10:23 13:4,5,5 
+13:10,16 14:22 
+17:3 19:23,23 
+20:8,9 22:20 
+22:23,24 24:20 
+29:15 54:18 
+
+patents 20:16,19 
+38:1 
+
+pattern 15:12 
+patterns 44:13 
+
+47:16 
+pay 3:22 
+paying 44:5 
+people 11:3 
+
+30:20 47:22 
+perfectly 47:2 
+perform 30:19 
+performing 
+
+20:17 
+
+permitting 
+25:22 37:8 
+
+person 29:2 37:8 
+45:10 
+
+perspective 
+38:14,16 
+
+petition 7:7 
+Petitioner 1:4 
+
+1:16,20 2:4,8 
+2:14 3:7 16:20 
+51:10 
+
+Petri 45:18 
+phone 29:1 
+
+37:12 
+phones 29:1 
+photon 35:6 
+photons 32:1,6 
+
+39:18 47:9 
+physical 7:12,14 
+
+7:16 8:8,25 9:9 
+9:11 10:8,11 
+10:17,22 11:7 
+12:2,13 13:2,5 
+14:2 21:18,19 
+23:23,25 24:4 
+24:12 25:3,4,4 
+25:17,20 29:13 
+34:25 39:8 
+40:25 41:5,11 
+41:13 47:17 
+49:7 50:16,17 
+50:20 52:3 
+53:3,21 54:13 
+54:15,17,18,18 
+
+physically 11:25 
+picks 28:24 
+pictures 52:11 
+piece 23:5,10 
+
+24:18 
+pill 14:24 
+pits 31:23 49:8 
+
+53:3 
+place 42:13 
+
+47:22 
+placed 47:21 
+platform 41:5 
+playing 18:2 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 62 
+
+pleads 5:2 
+please 3:9 12:21 
+
+16:22 28:2 
+37:6 
+
+plug 23:10 
+plus 13:15 21:22 
+
+21:22 
+point 15:22 18:1 
+
+20:7 23:7,24 
+25:15,20 32:12 
+34:8 42:1 43:3 
+48:2 
+
+points 18:11 
+policies 27:7 
+policy 19:16 
+politics 27:16 
+portion 11:16 
+
+14:17 21:9 
+position 6:15 
+
+7:23,24 8:10 
+8:20,23 9:4 
+10:19 12:12 
+24:11 27:1 
+39:23 41:2 
+
+positions 7:22 
+8:20 10:19 
+
+practice 21:17 
+28:13,18 46:6 
+
+practiced 29:15 
+39:3 
+
+precedent 4:24 
+43:1 45:22 
+
+precise 28:4 
+29:4,6,22 30:7 
+30:9,23 34:22 
+40:8,13 41:23 
+42:19,23,24 
+44:1 49:15 
+
+precisely 28:9 
+28:12 36:25 
+37:1 
+
+precursor 34:19 
+preferred 29:16 
+preliminary 
+
+3:17 
+prerogative 
+
+17:20 19:4 
+
+prerogatives 
+27:13 
+
+prescribed 3:21 
+present 26:10 
+preserve 4:18 
+preserved 3:20 
+preserving 5:3 
+press 41:19 44:8 
+
+47:12 
+presses 31:25 
+prettiest 12:22 
+prevail 44:25 
+principle 13:15 
+principles 17:1 
+
+26:20 
+prior 19:13 
+problem 3:23 
+
+5:16 10:23 
+44:20,25 
+
+procedures 
+45:18 
+
+process 11:22 
+20:14,16,16,18 
+35:2,4 38:18 
+
+processes 45:18 
+47:21 
+
+processing 
+47:13 
+
+processor 28:6 
+34:24 38:3 
+44:9 
+
+produce 16:13 
+produced 13:19 
+
+14:23 
+product 7:25 
+
+12:10 14:22 
+16:9,11 25:3 
+38:20 
+
+products 6:14 
+17:23 
+
+program 12:24 
+12:25 13:1,8 
+23:1 31:6,7 
+47:18 50:5 
+
+prohibit 25:21 
+prohibition 17:2 
+properly 17:7 
+
+property 26:15 
+protect 27:12,13 
+protection 19:14 
+protects 3:11 
+
+17:19 
+protons 41:21 
+provide 50:9 
+provides 53:19 
+pseudo 37:23 
+pulses 32:7 
+
+41:24 
+purchasers 12:5 
+purely 45:14 
+purpose 33:19 
+
+33:20 
+pursuant 17:10 
+put 10:12 11:15 
+
+12:17 13:16 
+23:12,14 29:5 
+34:11 35:9 
+43:3 47:9,14 
+47:20 48:17 
+52:18 53:4,21 
+
+puts 12:2 35:11 
+putting 16:23 
+
+52:24 53:2 
+
+Q 
+quality 40:3 
+question 3:17,18 
+
+4:19 5:6,12,20 
+5:21 7:5 8:15 
+8:18 9:23 10:3 
+19:19 27:18 
+28:3,8 31:3 
+33:14 36:16 
+38:11,15 39:21 
+40:6 42:12,17 
+42:18 45:6,9 
+49:21 50:1,2 
+51:16,20 52:9 
+
+questions 6:25 
+46:8 
+
+quite 5:4 18:19 
+43:10 44:1 
+47:16 
+
+quote 28:17,17 
+
+28:17 
+
+R 
+R 3:1 
+radio 41:9 
+raise 3:23 
+raised 8:15 
+
+22:18 51:17,20 
+RAM 44:15 
+random 44:11 
+
+47:14 
+reach 45:24,25 
+
+46:1 
+reaches 26:13 
+read 7:13 11:23 
+
+11:25 12:1 
+14:8 37:9 
+
+readable 8:8 
+11:9 20:24 
+28:5 29:22 
+31:8 36:25 
+39:14 
+
+reading 37:14 
+reads 6:22 29:2 
+really 6:25 
+
+27:15 30:6 
+32:8 40:3 
+43:12 52:10,16 
+52:21 
+
+reason 22:20 
+24:16 25:14 
+26:5 27:6 
+33:25 
+
+reasons 19:9 
+20:20 
+
+reassemble 6:6 
+reassembly 3:15 
+
+15:16 
+REBUTTAL 
+
+2:12 51:9 
+recipe 15:12 
+recipients 32:25 
+recite 51:15 
+
+52:11 
+recognized 
+
+10:22 
+reconfiguring 
+
+40:8 
+record 42:9 
+recorded 31:7 
+recreated 52:9 
+redistributes 
+
+32:12 42:1 
+Redmond 31:22 
+reference 11:20 
+references 50:4 
+referred 8:24 
+reflected 35:21 
+
+36:1 44:12 
+regard 18:9 
+regarding 19:15 
+Regardless 
+
+40:18 
+relates 50:9 
+relating 38:3 
+relevant 20:19 
+
+22:20 
+remember 30:4 
+removed 29:12 
+
+46:16 
+repeated 34:18 
+
+39:18 
+repeatedly 
+
+51:24 
+repeats 49:1 
+replicas 16:13 
+replicate 16:5 
+replicated 6:14 
+
+7:9,10,16 15:1 
+47:15 52:7 
+
+replicating 
+44:16 
+
+replication 8:1 
+49:14,15 
+
+replications 
+54:11 
+
+reply 50:10 
+reply's 34:18 
+represented 
+
+31:15 
+reproduced 
+
+15:13 
+reproduces 15:8 
+reproduction 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 63 
+
+53:23,24 
+reproductions 
+
+6:7 16:14 
+requires 6:16 
+
+49:6 
+reserve 16:16 
+reside 30:23 
+resident 31:22 
+resolution 5:11 
+resolve 28:14 
+resolved 4:20 
+respect 5:22 
+
+14:1 37:21 
+48:10 51:18,19 
+
+responded 50:7 
+respondent 1:22 
+
+2:11 6:21 7:8 
+27:25 
+
+Respondents 
+6:16 
+
+response 52:13 
+responsive 
+
+51:16 
+result 17:8 
+
+47:22 
+resulting 48:19 
+
+48:21 
+retail 42:3 
+retransmission 
+
+42:13 
+reversed 18:24 
+reworking 6:16 
+rid 36:2 
+ridges 24:22,24 
+
+24:25 25:2 
+right 3:21 5:3 
+
+13:7 15:10 
+21:11 27:6 
+32:13 34:3,4,8 
+35:15 37:15 
+39:9 40:24 
+46:22 52:23 
+53:8 54:5 
+
+rubber 20:18 
+rules 17:21 
+ruling 6:12 
+run 13:19 
+
+runs 28:10 30:7 
+35:19 
+
+S 
+S 2:1 3:1 
+sale 17:6 25:22 
+save 12:16 
+saying 11:3 12:6 
+
+22:10 27:4 
+33:2 34:9 44:5 
+44:9,20 47:12 
+53:14 
+
+says 6:18 12:24 
+19:21 44:9 
+47:13,14 
+
+Scalia 3:16 4:2,3 
+4:14,23,25 
+5:23 6:2 11:10 
+13:11,13,14 
+23:7,19 38:23 
+40:1 51:11,14 
+51:17,20,22 
+
+Scheherazade 
+40:3 
+
+screen 36:12 
+second 17:25 
+
+29:23 31:1 
+37:6 44:16 
+50:12 
+
+secret 38:7 
+section 3:12 6:4 
+
+16:25 23:20 
+53:18,19,23,25 
+
+sections 54:1 
+see 29:16 37:7 
+
+45:15 51:8 
+selling 3:11 
+
+17:24 18:4 
+19:2 26:21 
+
+semiconductor 
+35:25 
+
+send 27:11 
+28:20,23 30:13 
+32:10,12,24 
+33:16 34:9 
+35:7,8 38:21 
+39:6 41:25 
+
+42:1 
+sending 14:22 
+
+15:23,24 17:14 
+17:15 30:13,17 
+32:19 35:14 
+
+sends 41:20 52:4 
+sense 16:6 36:1 
+
+36:7,8 
+sent 8:12 11:23 
+
+15:15 33:9,9 
+33:11 38:7 
+42:3 47:4 52:5 
+53:22 
+
+separable 48:22 
+48:22 
+
+separate 14:14 
+23:10,13,20,23 
+
+separately 31:9 
+sequence 8:16 
+
+24:24 25:1 
+28:5,9 29:22 
+39:11 40:8,13 
+41:4 42:25 
+43:25,25 49:9 
+
+series 8:21 11:5 
+20:16 24:17,22 
+24:23 32:6 
+35:19 40:21 
+51:3 
+
+serious 4:9 5:21 
+set 37:11 43:5,7 
+
+43:9 
+SETH 1:21 2:10 
+
+27:24 
+shelf 20:11 
+ship 3:15 36:19 
+
+36:20 
+shipped 15:5 
+shore 17:2 
+shrimp 27:3 
+side 17:25 19:19 
+
+19:21 31:14 
+40:20,20 
+
+significant 5:19 
+5:21 19:4 
+
+silence 18:9 
+simple 24:21 
+
+35:14,14 
+simply 3:15 
+
+15:23 47:19 
+49:15 
+
+single 18:23 
+42:15 
+
+sitting 32:4 
+situation 24:5 
+smart 38:8 
+software 6:11,25 
+
+8:15 10:15,16 
+10:22 11:1,3,6 
+13:5 15:21 
+18:13,13,15,16 
+19:5 20:24 
+21:1,19,24 
+22:7,21,22 
+23:22,23 24:1 
+24:1,5,13 
+25:18 26:10,11 
+27:19 29:12,14 
+29:15 31:6 
+36:2 37:21 
+39:4 41:10 
+49:15 50:5,5 
+
+software-relat... 
+19:7 
+
+sold 12:5,11 
+24:9 31:9 35:4 
+46:13 
+
+Solicitor 1:17 
+somebody 29:1 
+
+37:13 38:4,8 
+46:2 
+
+somewhat 18:15 
+sorry 19:25 
+
+51:22 
+sort 3:24 39:10 
+
+43:2 50:25 
+52:15 
+
+sorts 46:8 
+sought 39:1 
+sound 31:7 
+source 11:7 12:7 
+
+12:15 25:7,7,9 
+25:16 29:16,23 
+29:24 37:23 
+
+38:4,5 
+Souter 11:14,19 
+
+21:7,12,21 
+22:1 31:11 
+33:25 34:4,7 
+34:16 35:1,18 
+37:18 39:5,9 
+39:13 46:22 
+47:2,19 48:7 
+48:14,24 
+
+sovereign 17:20 
+speak 26:23 
+speaker 54:8 
+specific 17:15 
+
+27:9 33:19 
+specifically 
+
+26:23 29:1 
+specify 32:15 
+
+38:2 
+spectrum 37:21 
+spinners 30:4 
+standard 20:11 
+standing 4:7 
+
+27:20 
+start 16:23 
+starts 36:21 
+States 1:1,12,19 
+
+2:7 3:12,14 
+4:13 6:10,19 
+6:20 7:14 
+13:20 15:9,14 
+15:15,16 16:15 
+16:19,24 17:3 
+17:5,11,18 
+18:1 19:1,3,6 
+21:13,15 25:22 
+26:1 28:6 29:6 
+32:11 33:4 
+35:8 40:14,23 
+41:12 42:20,21 
+44:22 45:9 
+46:3,3 49:1 
+53:15,18 54:4 
+
+statute 4:12 6:17 
+6:18,22 12:10 
+14:17 20:19 
+25:19,21 26:4 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 64 
+
+27:3,10,14 
+28:16 36:21 
+37:15 42:18 
+45:24 53:10,11 
+54:12 
+
+statutes 15:1 
+26:16 
+
+statute's 17:10 
+statutory 27:7 
+
+49:21 
+stay 19:3 
+steal 38:5 
+step 17:4 32:10 
+steps 20:16 
+Stevens 3:3,8 
+
+6:24 7:5,11 
+10:13,24,25 
+13:4,7 16:17 
+16:21 20:21 
+21:1 27:17,22 
+28:1 32:8,16 
+32:18,23 33:8 
+33:13,16,22 
+41:7,11,18,25 
+42:6,12 51:7 
+51:12 54:20 
+
+stipulated 7:8 
+42:9 
+
+stipulation 3:19 
+7:6 8:25 28:7 
+29:21 31:18 
+32:15 51:18 
+52:6 54:9 
+
+stipulations 
+11:19,20 
+
+stole 30:3 
+stolen 30:9 
+stored 28:11 
+
+30:6 
+strange 18:9 
+stream 32:1 
+
+39:17 41:20 
+47:9 
+
+strikes 5:4 
+string 23:3 
+strings 23:4 
+structural 10:22 
+
+14:2 
+structure 29:13 
+stuff 30:2 
+subject 17:7 
+
+18:4 19:1 
+26:21 
+
+submit 4:18 
+11:5 54:12 
+
+submitted 54:21 
+54:23 
+
+substantiation 
+21:18 23:25 
+
+substitute 41:14 
+subsumed 6:11 
+suddenly 43:14 
+
+45:13,20 
+sufficient 19:12 
+sufficiently 
+
+19:13 
+suggesting 
+
+15:11 
+suit 4:7,9,9 
+supplied 6:9,18 
+
+6:20 7:3 9:14 
+10:2 13:20 
+14:18 16:15 
+19:20 28:17 
+31:4,17 40:14 
+40:19,22 42:20 
+42:24 43:5,23 
+49:16 54:14,16 
+
+supplies 28:3 
+31:19 46:2,3 
+
+supply 36:9 
+supplying 6:12 
+
+14:20 
+supporting 1:20 
+
+2:8 16:20 
+suppose 4:3 5:10 
+
+9:15 15:3 
+28:20,23 33:22 
+36:17,17 39:21 
+
+Supreme 1:1,12 
+sure 21:14 35:21 
+
+45:3,6 48:7 
+Surely 16:3 
+switch 8:22 
+
+switches 52:17 
+system 37:22 
+
+39:2 
+
+T 
+T 2:1,1 
+take 16:8,10 
+
+17:4 22:6 31:2 
+35:5 38:5 47:8 
+47:22 
+
+taken 7:22 8:20 
+10:19 18:18 
+32:1 52:11 
+
+takes 6:21 29:3 
+38:4 42:13 
+
+talking 15:18 
+19:9 27:8 
+30:16,17 52:8 
+53:25 
+
+tangible 6:7 
+7:17 15:19 
+
+tantamount 
+15:25 
+
+teach 48:9 
+technologies 
+
+26:16 
+technology 
+
+21:25 53:12 
+telephone 49:24 
+tell 32:24 48:15 
+
+48:16 
+telling 19:19 
+tells 34:10,11 
+
+54:16 
+template 15:12 
+
+19:22 
+terms 23:5 
+
+27:15 43:23 
+territorial 26:13 
+
+26:20 44:21 
+territoriality 
+
+17:1 
+test 30:21 
+testing 29:20 
+text 17:10 27:7 
+
+51:1 
+Thank 3:8 16:16 
+
+27:22 51:5,7 
+51:11 54:19,20 
+
+THEODORE 
+1:15 2:3,13 3:6 
+51:9 
+
+theory 24:17 
+thing 4:15,20 
+
+12:19 14:2 
+15:13 23:13 
+25:11,13 34:21 
+35:24 36:24 
+39:9 40:17,19 
+40:22 42:24 
+43:2,5 46:20 
+50:21 53:5,20 
+54:17 
+
+things 16:13 
+23:6 29:5 42:8 
+46:21,25 50:2 
+50:14,24 52:17 
+52:21,25 54:13 
+54:18,19 
+
+think 5:13,16 
+9:22 11:19 
+16:2 18:10,14 
+19:10,12 20:7 
+20:18 22:15,19 
+22:19 26:5 
+32:14 33:15 
+34:9 36:6 
+37:16 42:17 
+43:3 44:1 46:9 
+46:11 50:18,19 
+52:15,20 
+
+thinking 26:11 
+43:13 
+
+thought 10:14 
+10:16 23:17 
+26:25 43:13 
+53:9 
+
+three 10:20 16:2 
+16:8 46:11 
+
+tie 18:13 
+time 15:20 16:16 
+
+27:17 37:8 
+times 14:8 29:23 
+
+31:1 44:16 
+
+tire 20:18 36:14 
+36:15 
+
+tool 36:24 
+totally 38:2 45:7 
+
+46:12 
+trade 38:6 
+traditional 17:8 
+
+26:13 
+transfer 9:24 
+transferred 7:1 
+
+11:17 21:10 
+39:14 47:25 
+
+transforming 
+49:6 52:19 
+
+transmission 
+24:4 31:16 
+32:20 41:20 
+43:17,18 45:14 
+45:14 
+
+transmissions 
+11:21 43:14 
+
+transmit 41:13 
+45:19 
+
+transmitting 
+31:20 
+
+treat 25:14,15 
+trivial 5:11,18 
+trumped-up 4:7 
+
+4:8 
+truth 18:16 
+trying 32:23 
+turning 20:18 
+turns 25:1 
+two 4:3 7:22 
+
+8:20 10:19 
+11:3 13:15,16 
+14:14 16:6 
+17:18 18:20 
+32:22 42:16 
+46:15 54:1 
+
+type 11:25 38:3 
+typewriter 
+
+36:11 
+
+U 
+ultimately 48:1 
+understand 3:18 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 65 
+
+8:10,18 9:23 
+11:6,11,13,18 
+13:9 23:8,9 
+29:17 32:9 
+35:5 37:25 
+38:1,10 43:2,6 
+
+understandable 
+5:5 
+
+understands 
+11:24 12:1 
+
+understood 
+17:10 52:2 
+
+unit 47:13 
+United 1:1,12,19 
+
+2:7 3:12,14 
+4:13 6:10,18 
+6:20 7:13 
+13:20 15:9,14 
+15:14,16 16:15 
+16:19,24 17:3 
+17:5,11,18 
+18:1,25 19:3,6 
+21:13,15 25:21 
+26:1 28:6 29:6 
+32:10 33:4 
+35:8 40:14,23 
+41:12 42:20,21 
+44:22 45:8 
+46:3,3 48:25 
+53:15,18 54:4 
+
+updated 46:16 
+usable 13:17 
+use 8:7 11:3,4 
+
+33:17 34:18,18 
+35:10 36:5 
+39:3 48:7 50:4 
+
+user 38:16 
+usually 18:7 
+U.S 3:10 6:12 
+
+46:6 
+
+V 
+v 1:5 
+variety 39:7 
+
+50:13 
+various 29:5 
+
+48:12 
+
+varying 31:23 
+49:10 
+
+vast 43:12 
+vastly 25:19 
+
+26:4 27:14 
+version 30:18 
+versus 51:15 
+vial 15:5 
+view 11:1 20:21 
+
+21:13,15 24:14 
+27:18 34:1 
+
+viewed 18:12,15 
+43:18 
+
+violate 15:1 
+37:15 
+
+violated 36:22 
+36:24 42:19 
+54:5 
+
+violates 45:8 
+violation 33:2,8 
+
+33:17 35:16 
+42:11,21 53:24 
+
+W 
+wager 3:24 4:11 
+
+4:16 
+walk 37:9 
+want 27:18 45:5 
+wanted 5:11 
+
+18:25 
+warrant 19:14 
+Washington 1:8 
+
+1:15,18,21 
+wasn't 8:14 26:7 
+wave 41:9 49:24 
+Waxman 1:21 
+
+2:10 27:23,24 
+28:1,22 29:7 
+29:10 30:11,16 
+31:13 32:14,22 
+33:1,11,15,18 
+33:24 34:3,6 
+34:15,17 35:17 
+36:23 37:17,20 
+38:25 39:7,11 
+39:16,20,24 
+40:6,12,16,18 
+
+40:24 41:3,9 
+41:16,19 42:5 
+42:8,16 43:20 
+44:23 45:2,5 
+45:23 46:23 
+47:7 48:5,9,24 
+50:22 51:7,24 
+
+way 3:25 4:6,6 
+4:16 8:19 11:6 
+11:10,12 30:25 
+31:21 32:15 
+34:13 37:22 
+39:14 43:13 
+46:5 48:1,3 
+50:25 51:5 
+
+Waymark 33:6 
+ways 11:4 14:1 
+
+16:12 18:20 
+39:3 52:12 
+
+weaving 30:4 
+Webster's 50:7 
+Wednesday 1:9 
+went 9:1 
+We'll 3:3 
+we're 44:3,3,4 
+
+52:8 53:25 
+we've 14:16 
+whatsoever 
+
+49:12 
+wheel 36:15 
+wholesaler 42:2 
+win 5:24 
+Windows 24:9 
+
+26:7 28:4 
+31:19 38:21 
+
+wire 49:25 
+wireless 24:4 
+wish 17:22 
+word 5:18 11:3 
+
+11:6 34:18 
+36:3,8 50:3,9 
+52:7 
+
+WordPerfect 
+36:5 
+
+words 6:16,21 
+7:7,8 18:24 
+21:21 25:12 
+
+28:12,16 36:9 
+54:15 
+
+work 27:7 29:19 
+46:20 47:11 
+48:6,10 
+
+worked 29:24 
+working 48:2 
+works 48:11 
+
+49:16 
+world 27:5 
+
+43:11 
+worried 45:11 
+wouldn't 33:1 
+
+33:21,24 34:1 
+50:15 
+
+write 24:18 
+writing 22:13,16 
+
+26:19 
+written 23:4 
+
+28:25 
+wrote 23:2,3 
+
+X 
+x 1:2,7 5:7 
+
+Y 
+Y 5:8 
+Yeah 20:5 
+York 32:19,21 
+
+32:24 
+
+0 
+0's 8:16,22 11:5 
+
+23:3,4 24:17 
+40:21 52:11,20 
+52:21 
+
+05-1056 1:5 3:4 
+
+1 
+1's 8:16,21 11:5 
+
+23:3,4 24:17 
+40:22 52:11,20 
+52:21 
+
+10:14 1:13 3:2 
+100 9:17 15:6 
+100,000 49:4 
+11:15 54:22 
+16 2:8 
+
+1984 26:10 
+
+2 
+2 49:1 
+2007 1:9 
+21 1:9 
+27 2:11 
+271(a) 53:25 
+
+54:9 
+271(b) 53:24,25 
+
+54:10 
+271(f) 3:13 6:4 
+
+16:25 33:3,3,5 
+49:5 54:12,13 
+
+3 
+3 2:4 
+
+4 
+44-A 7:6 
+47-A 7:6 
+
+5 
+5 50:10 
+500 32:19,25 
+
+42:2,14,14 
+51 2:14 
+580 13:8 
+
+7 
+7 28:7 31:18 
+
+32:14 
+7,000 32:2 
+
+8 
+820 35:15 
+
+9 
+99 9:16,16 
+
+Alderson Reporting Company 
+
+

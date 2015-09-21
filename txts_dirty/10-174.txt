@@ -1,0 +1,5605 @@
+
+         
+
+          
+
+         
+
+                       
+
+             
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 AMERICAN ELECTRIC POWER : 
+
+4 COMPANY, INC., ET AL., :
+
+ Petitioners : No. 10-174 
+
+6  v. : 
+
+7 CONNECTICUT, ET AL. : 
+
+8 - - - - - - - - - - - - - - - - - x 
+
+9  Washington, D.C.
+
+ Tuesday, April 19, 2011 
+
+11 
+
+12  The above-entitled matter came on for oral 
+
+13 argument before the Supreme Court of the United States 
+
+14 at 10:13 a.m. 
+
+APPEARANCES: 
+
+16 PETER D. KEISLER, ESQ., Washington, D.C.; on behalf of 
+
+17  Petitioners. 
+
+18 NEAL KUMAR KATYAL, ESQ., Acting Solicitor General, 
+
+19  Department of Justice, Washington, D.C.; on
+
+ behalf of Respondent Tennessee Valley Authority, in 
+
+21  support of Petitioners. 
+
+22 BARBARA D. UNDERWOOD, ESQ., Solicitor General, New York, 
+
+23  New York; on behalf of Respondents. 
+
+24 
+
+1
+ 
+Alderson Reporting Company 
+
+
+
+                                
+
+                   
+
+           
+
+                   
+
+                   
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF PAGE 
+
+3 PETER D. KEISLER, ESQ. 
+
+4  On behalf of the Petitioners 3 
+
+ORAL ARGUMENT OF 
+
+6 NEAL KUMAR KATYAL, ESQ. 
+
+7  On behalf of Respondent Tennessee Valley 
+
+8  Authority, in support of Petitioners 17 
+
+9 ORAL ARGUMENT OF 
+
+BARBARA D. UNDERWOOD, ESQ. 
+
+11  On behalf of the Respondents 36 
+
+12 REBUTTAL ARGUMENT OF 
+
+13 PETER D. KEISLER, ESQ. 
+
+14  On behalf of the Petitioners 67 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+2
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  P R O C E E D I N G S 
+
+2  (10:13 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+4 today in Case 10-174, American Electric Power Company v. 
+
+Connecticut, et al. 
+
+6  Mr. Keisler. 
+
+7  ORAL ARGUMENT OF PETER D. KEISLER 
+
+8  ON BEHALF OF THE PETITIONERS 
+
+9  MR. KEISLER: Mr. Chief Justice and may it 
+
+please the Court: 
+
+11  This is a case in which the courts are being 
+
+12 asked to perform a legislative and regulatory function 
+
+13 in a matter in which the necessary balancing of 
+
+14 contending policy interests is among the most complex, 
+
+multifaceted, and consequential of any policy issue now 
+
+16 before the country. 
+
+17  The States ask that the courts assess 
+
+18 liability and design a new common law remedy for 
+
+19 contributing to climate change, and to do so by applying 
+
+a general standard of reasonableness to determine for 
+
+21 each defendant, in this case and in future cases, what, 
+
+22 if any, its share of global reductions in greenhouse gas 
+
+23 emissions ought to be. That would require the courts 
+
+24 not to interpret and enforce the policy choices placed 
+
+into law by the other branches, but to make those policy 
+
+3
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 choices themselves. And all of our arguments here -­
+
+2 that plaintiffs lack standing, that the Federal common 
+
+3 law shouldn't be expanded to include this new cause of 
+
+4 action, and that the case presents nonjusticiable 
+
+political questions -- while all of them represent 
+
+6 distinct points, All of them flow from the same basic 
+
+7 separation of powers principles that establish, we 
+
+8 believe, that the case ought to be dismissed. 
+
+9  CHIEF JUSTICE ROBERTS: I think that's -­
+
+MR. KEISLER: Now, all of these issues -­
+
+11  CHIEF JUSTICE ROBERTS: That's exactly one 
+
+12 thing that's concerned me. They do all flow from the 
+
+13 same basic argument, and I'm concerned why you think we 
+
+14 should focus on prudential standing, basically, which 
+
+cuts off our jurisdiction at our own whim, as opposed to 
+
+16 dealing with this on the merits. 
+
+17  MR. KEISLER: Well -­
+
+18  CHIEF JUSTICE ROBERTS: In either case, your 
+
+19 argument is that this is too generalized for the Court 
+
+to -- to address. 
+
+21  MR. KEISLER: Mr. Chief Justice, our 
+
+22 principal argument has not been prudential standing. 
+
+23 The government has focused on the prudential standing 
+
+24 argument. We join that and we'd be happy to see the 
+
+case resolved on that basis, but our principal argument 
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 on standing has been Article III standing. And we 
+
+2 actually believe that the Court could resolve this case 
+
+3 and address the issues in any order, with one possible 
+
+4 exception, which is that we do read the Court's decision 
+
+in Steel Co. as holding that the Court has to address 
+
+6 Article III standing before reaching the question 
+
+7 whether there's a valid cause of action. 
+
+8  JUSTICE SCALIA: Mr. Keisler, what -- what 
+
+9 good does it do you to have this Court say that there is 
+
+no Article III standing? The suit will just be brought 
+
+11 in State court -­
+
+12  MR. KEISLER: Well -­
+
+13  JUSTICE SCALIA: -- under State common 
+
+14 law and -- and the States' rules of standing are not 
+
+ours. 
+
+16  MR. KEISLER: Well, many States, Your Honor, 
+
+17 have similar doctrines of standing, similar doctrines of 
+
+18 political questions. 
+
+19  JUSTICE SCALIA: They only need one.
+
+ MR. KEISLER: Well, in any event, Your 
+
+21 Honor, we believe we would have a very strong motion to 
+
+22 dismiss in State court on a variety of grounds, 
+
+23 including -­
+
+24  JUSTICE SCALIA: We're not sure about that, 
+
+are we? So we -- we -- we -- may be just spinning our 
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 wheels here. 
+
+2  MR. KEISLER: Well, I don't -­
+
+3  JUSTICE SCALIA: Indeed, you know, tapping 
+
+4 the case to State judges instead of Federal judges, I 
+
+would frankly rather have Federal judges do it, 
+
+6 probably. 
+
+7  MR. KEISLER: Well, as I said, Your Honor, I 
+
+8 think we would be able to defeat a State common law 
+
+9 claim on grounds of State law, for lack of proximate 
+
+cause, on standing and political question grounds that 
+
+11 many States have that parallel these; but in any case, 
+
+12 whichever ground the Court resolves this case on, we 
+
+13 think it's clear that the cause of action can proceed. 
+
+14  JUSTICE KENNEDY: Well, if -- if you had a 
+
+State court suit with a State plaintiff, wouldn't the 
+
+16 State be able to adduce Federal common law as a ground 
+
+17 for recovery? And then we would get to the merits and 
+
+18 see if there is a Federal common law cause of action. 
+
+19  MR. KEISLER: It's -- it's possible, Your 
+
+Honor, although we think they would be more likely to 
+
+21 proceed under State common law. But either way, we 
+
+22 don't think the elements of a State or Federal common 
+
+23 law cause of action under nuisance could be met here, 
+
+24 and we're very confident we could defeat that claim in 
+
+State court as well. 
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  JUSTICE KENNEDY: Well, we all -- we all 
+
+2 know that you sometimes have to peek at the merits to 
+
+3 see if there's standing. There's a little cheating that 
+
+4 goes on. But -- but in this case it does seem to me 
+
+that you're lacking any clear precedent. When I think 
+
+6 of standing, I think of Frothingham v. Mellon. That 
+
+7 isn't this case. 
+
+8  MR. KEISLER: But the Court has said in 
+
+9 Warth v. Seldin that the plaintiff has to demonstrate 
+
+that it will benefit in some tangible way from the 
+
+11 Court's intervention. And that's -­
+
+12  JUSTICE GINSBURG: If you have -- if you 
+
+13 have the precedent of Massachusetts v. EPA and if any 
+
+14 one plaintiff has standing, I guess that's enough. So 
+
+if you look at standing alone, it seems to me the States 
+
+16 would have standing on the same basis that Massachusetts 
+
+17 had standing. 
+
+18  MR. KEISLER: Justice Ginsburg, we believe 
+
+19 that Massachusetts was very carefully qualified to focus 
+
+on the particular regulatory context of that opinion. 
+
+21 The Court said that it was addressing standing to 
+
+22 challenge the denial of a petition for rulemaking, when 
+
+23 the agency would be proceeding incrementally to address 
+
+24 a broader problem, and a statute specifically gave the 
+
+petitioners the right to seek that kind of incremental 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 protection. The Court was very specific about that. 
+
+2 The statutory right was of critical importance, it said, 
+
+3 to the standing inquiry. 
+
+4  JUSTICE KAGAN: Mr. Keisler, the Court did 
+
+say that, but it's cut off from the Court's actual 
+
+6 analysis in the case. When the Court goes through 
+
+7 injury and causation and redressability, the Court never 
+
+8 refers to the statutory cause of action. 
+
+9  MR. KEISLER: But it does, Justice Kagan, 
+
+specifically refer to the regulatory context in which 
+
+11 the case is taking place. The Court said that if the 
+
+12 EPA's arguments there about traceability and 
+
+13 redressability were adopted, it would doom most 
+
+14 challenges to agency action because agencies proceed 
+
+incrementally. 
+
+16  Here we have no statute, we have no agency 
+
+17 proceeding incrementally, and we believe there is no 
+
+18 basis for the plaintiffs to seek that kind of 
+
+19 incremental relief when they've acknowledged that will 
+
+have no material effect on their injury; and they 
+
+21 acknowledged that in the State's complaint when they 
+
+22 specifically said that the relief they seek here would 
+
+23 only constitute these defendants' share of the larger 
+
+24 overall emissions reductions that would be necessary in 
+
+order to have any material effect on climate change or 
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 the injuries that they assert. That is an 
+
+2 acknowledgment that the relief they seek here would not 
+
+3 provide them any redress except in connection with other 
+
+4 reductions that would be obtained elsewhere, and that we 
+
+think means that this is a classic case in which the 
+
+6 injuries are not the product of the defendants' conduct 
+
+7 but of the collective independent actions of numerous 
+
+8 third parties not before the Court. 
+
+9  JUSTICE KAGAN: But the Court clearly 
+
+understood that in Massachusetts v. EPA and said that it 
+
+11 was enough, and I would think under traditional standing 
+
+12 principles the standing there was actually harder to 
+
+13 find because one had to go through the EPA first. One 
+
+14 had to say the EPA should regulate, and then the EPA 
+
+would regulate, and then the question was would that 
+
+16 reduce emissions levels? Here the EPA is out of the 
+
+17 picture. The action is much more direct. 
+
+18  MR. KEISLER: But there, Your Honor, they 
+
+19 were suing a defendant, the EPA, that had regulatory 
+
+authority over the entire country. Here they're suing 
+
+21 five separate defendants, each of whom has to be 
+
+22 evaluated individually, and there is not a single one of 
+
+23 them against whom the relief sought would have any 
+
+24 tangible effect on the injuries that the plaintiffs 
+
+claim here. But we also think that Massachusetts is 
+
+9
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 relevant in a completely different respect, which is the 
+
+2 Court was very specific in Massachusetts about what its 
+
+3 role was and what it wasn't. The Court said: We lack 
+
+4 the expertise or the authority to second-guess the 
+
+policy choices of the EPA, but its role there was to 
+
+6 compel the agency to adhere to the statute as the Court 
+
+7 interpreted it. 
+
+8  In this case, the States are asking the 
+
+9 courts to play exactly the role that this Court 
+
+disclaimed in Massachusetts v. EPA, which is to make 
+
+11 those policy choices in the first instance, and they say 
+
+12 that the courts can do this because the courts have done 
+
+13 this in prior nuisance cases, but this case is nothing 
+
+14 like any of the prior nuisance cases this Court has 
+
+held. It's nothing like an instance in which one State 
+
+16 is complaining that another State has dumped sewage into 
+
+17 a body of water that's crossed the border. The case -­
+
+18  CHIEF JUSTICE ROBERTS: So how many States 
+
+19 does it take? I think, you know, if it's three States 
+
+who have made that allegation, I don't know exactly how 
+
+21 you draw the line between a case like Tennessee Copper 
+
+22 and this case. 
+
+23  MR. KEISLER: It's not a question of the 
+
+24 quantity of plaintiffs, Mr. Chief Justice, it's the 
+
+nature of the task that the Court would have to perform, 
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 and this task is different because of the global nature 
+
+2 of the phenomenon. 
+
+3  JUSTICE KENNEDY: I'm more receptive to this 
+
+4 kind of argument if I know we're going to the merits as 
+
+opposed to standing -­
+
+6  MR. KEISLER: It -- it -­
+
+7  JUSTICE KENNEDY: -- and I recognize that we 
+
+8 slip in and out of the two categories, and don't want to 
+
+9 make it difficult on you. But I take it that these 
+
+arguments also go to whether there's a cause of action 
+
+11 on the merits. 
+
+12  MR. KEISLER: Exactly, Your Honor, and 
+
+13 whether the Court should expand the Federal common law 
+
+14 to recognize this. The global nature of this phenomenon 
+
+makes it different because every sector of the economy 
+
+16 worldwide produces greenhouse gases, and there is no 
+
+17 geographic nexus, as there was in Tennessee Copper and 
+
+18 every one of the other nuisance cases, between the 
+
+19 source of the emission and the victim that claims the 
+
+harm. And that changes what the Court has to do. It 
+
+21 means that any court or policymaker thinking about how 
+
+22 to alleviate the kinds of injuries that are pled here 
+
+23 has to first think what is the appropriate overall level 
+
+24 of greenhouse gas emissions in the atmosphere and then 
+
+make a comparative judgment about how the reductions 
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 that would be necessary to achieve that level should be 
+
+2 allocated among all the different sectors based on the 
+
+3 social good that that sector produces and what 
+
+4 reductions would mean to that social good.
+
+ JUSTICE GINSBURG: I thought your -- your 
+
+6 first argument when you addressed this issue was there 
+
+7 is a decisionmaker and that decisionmaker is EPA. So 
+
+8 you wouldn't get to even how arduous a task this would 
+
+9 be if it was within the court's bailiwick. I thought 
+
+your position was that the function, this regulatory 
+
+11 function, has been assigned to the EPA and not to the 
+
+12 courts. 
+
+13  MR. KEISLER: We are making both arguments, 
+
+14 Justice Ginsburg. We don't think there would be an 
+
+appropriate Federal common law cause of action even if 
+
+16 the Clean Air Act hadn't been enacted. But certainly 
+
+17 the argument is even stronger and easier because of the 
+
+18 existence of the Clean Air Act and in particular because 
+
+19 this Court in Massachusetts v. EPA interpreted the Clean 
+
+Air Act so that the term "pollutant" specifically 
+
+21 includes greenhouse gases, and that means that Congress 
+
+22 has assigned to EPA the task of making precisely the 
+
+23 determinations that plaintiffs ask the courts to make 
+
+24 here: Do greenhouse gases endanger the public, and if 
+
+so, what regulatory consequence -­
+
+12
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  JUSTICE SCALIA: Well, the EPA is given 
+
+2 authority to regulate other pollutants, including those 
+
+3 that do not go up into the atmosphere, but that does not 
+
+4 prevent California, for example, from enacting stricter 
+
+standards for its -- for automobiles in its State. 
+
+6  MR. KEISLER: Oh, and -­
+
+7  JUSTICE SCALIA: So why should we say the 
+
+8 EPA preempts the Federal common law? 
+
+9  MR. KEISLER: Because this issue, and I 
+
+would prefer to refer to it as displacement rather than 
+
+11 preemption, is very different from the question of 
+
+12 preemption of State law. The Clean Air Act has a 
+
+13 savings clause that preserves State authority across a 
+
+14 variety of areas, but the Court in second Milwaukee v. 
+
+Illinois cases specifically distinguished between 
+
+16 displacement of State law and displacement of Federal 
+
+17 common law. It said the -- the presumption is against 
+
+18 preemption of State law because of various concepts of 
+
+19 State sovereignty, but because of Federal concepts of 
+
+separation of powers, the presumption is in favor of 
+
+21 lawmaking by Congress and not lawmaking by courts, and 
+
+22 that means that the standard is very different. It 
+
+23 means that if Congress has addressed the problem, then 
+
+24 Federal common law is displaced.
+
+ JUSTICE SCALIA: What's your best case? 
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  MR. KEISLER: Milwaukee v Illinois II. That 
+
+2 was the case in which the Court held that the Clean 
+
+3 Water Act displaced a Federal common law nuisance claim 
+
+4 by Illinois against Milwaukee and specifically said 
+
+because Congress had addressed the problem, Federal 
+
+6 common law had no role to play. Here Congress has 
+
+7 established a process and it's a process in which the 
+
+8 States and the private parties here can participate. 
+
+9 They can file petitions for rulemaking, they can appeal 
+
+EPA decisions that they oppose, and it would be 
+
+11 completely inconsistent with that process if they could 
+
+12 also take a complete end run around it and go to court 
+
+13 and ask courts to make the decisions that Congress has 
+
+14 assigned to EPA.
+
+ JUSTICE SCALIA: This is a merits argument, 
+
+16 right? 
+
+17  MR. KEISLER: Yes, it is a merits argument, 
+
+18 because it says that any Federal common law action would 
+
+19 be displaced by the Clean Air Act.
+
+ Now, the -­
+
+21  JUSTICE KAGAN: Is the consequence of that 
+
+22 argument, Mr. Keisler, that there in fact is no Federal 
+
+23 common law of interstate pollution claims? 
+
+24  MR. KEISLER: I don't think there is very 
+
+much left of any Federal common law of interstate 
+
+14
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 pollution claims, just because the field has been so 
+
+2 heavily occupied by statutes. You know, all the 
+
+3 nuisance cases that the court of appeals relied on, Your 
+
+4 Honor, they were in a completely different time. They 
+
+were at a time when the Court's view of its common law 
+
+6 authority was extremely broad and its view of Congress's 
+
+7 constitutional power under the Commerce Clause was very 
+
+8 narrow. 
+
+9  JUSTICE SCALIA: Of course, you're going to 
+
+have to struggle with the preemption question sooner or 
+
+11 later. You're confident you can establish not only 
+
+12 displacement of Federal common law, but also preemption 
+
+13 of State common law, right? 
+
+14  MR. KEISLER: It will ultimately depend on 
+
+the state of the law at the time that such a 
+
+16 hypothetical case is filed, but we would welcome the 
+
+17 opportunity, Your Honor. 
+
+18  JUSTICE KENNEDY: Is part of the inquiry, 
+
+19 part of the dynamic, how imminent the Federal regulation 
+
+is? 
+
+21  MR. KEISLER: I don't think so, Justice 
+
+22 Kennedy. I think the question is always what Congress 
+
+23 has done, not what the stage of the EPA rulemaking 
+
+24 process is. Congress, not EPA, can create or modify or 
+
+destroy causes of action, and that's why the Court said 
+
+15
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 in that Milwaukee 2 case that when Congress has 
+
+2 addressed the problem that's the end of the inquiry. 
+
+3 And there is no question that Congress has addressed not 
+
+4 just the general problem, but the specific problem here. 
+
+It has the statute which assigns EPA the authority to 
+
+6 regulate pollutants in certain ways and pollutants have 
+
+7 been defined under Massachusetts v. EPA to include the 
+
+8 precise greenhouse gasses that are at issue here. 
+
+9  There couldn't be a more specific example of 
+
+Congress having addressed the problem and assigned a 
+
+11 different approach to dealing with it than letting the 
+
+12 courts work it out under Federal common law. 
+
+13  The States' and the private plaintiffs' 
+
+14 argument is that the Federal common law will only be 
+
+displaced when EPA adopts the precise regulation that 
+
+16 provides the precise form of relief that they're asking 
+
+17 for. There's no case that says that and that's not the 
+
+18 law. 
+
+19  JUSTICE GINSBURG: EPA couldn't give -­
+
+could EPA give that relief? We're dealing with existing 
+
+21 stationary sources. We're not dealing with new or 
+
+22 modified sources. 
+
+23  MR. KEISLER: We believe that the EPA can 
+
+24 consider, as it's undertaking to do, regulating existing 
+
+nonmodified sources under section 111 of the Clean Air 
+
+16
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 Act, and that's the process that's engaged in now. It's 
+
+2 announced that it will propose standards in the summer 
+
+3 and complete a rulemaking by May. Obviously, at the 
+
+4 close of that process there could be APA challenges on a 
+
+variety of grounds, but we do believe that they have the 
+
+6 authority to consider standards under section 111. 
+
+7  And if the Court has no questions, with the 
+
+8 Court's permission I would like to reserve the balance 
+
+9 of my time.
+
+ CHIEF JUSTICE ROBERTS: Thank you, Mr. 
+
+11 Keisler. 
+
+12  General Katyal. 
+
+13  ORAL ARGUMENT OF NEAL KUMAR KATYAL, 
+
+14  ON BEHALF OF RESPONDENT TENNESSEE VALLEY
+
+ AUTHORITY, IN SUPPORT OF PETITIONERS 
+
+16  GENERAL KATYAL: Thank you, Mr. Chief 
+
+17 Justice, and may it please the Court: 
+
+18  In the 222 years that this Court has been 
+
+19 sitting, it has never heard a case with so many 
+
+potential perpetrators and so many potential victims, 
+
+21 and that quantitative difference with the past is 
+
+22 eclipsed only by the qualitative differences presented 
+
+23 today. Accordingly, the Court should apply the 
+
+24 prudential standing doctrine and hold these lawsuits not 
+
+fit for judicial resolution. The very name of the 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 alleged nuisance, "global warming," itself tells you 
+
+2 much of what you need to know. There are billions of 
+
+3 emitters of greenhouse gasses on the planet and billions 
+
+4 of potential victims as well.
+
+ JUSTICE KENNEDY: Well, again, that just 
+
+6 goes to the merits. You make that argument to the 
+
+7 district court that your injunction is meaningless, 
+
+8 equity does not require an idle act. End of case. 
+
+9  GENERAL KATYAL: Well, Justice Kennedy, I 
+
+think it goes to both. That is, this Court in outlining 
+
+11 what the prudential standing doctrine is all about in, 
+
+12 for example, Newdow has said the following at page 11: 
+
+13 "Without prudential standing limitations, the Court 
+
+14 would be called upon to decide abstract questions of why 
+
+public significance, even though other governmental 
+
+16 institutions may be more competent to address the 
+
+17 questions and even though judicial intervention may be 
+
+18 unnecessary to protect individual rights. 
+
+19  JUSTICE SCALIA: I'll add a third thing that 
+
+it goes to and that's Article III standing. It's clear 
+
+21 in our cases, if as you say the relief requested here 
+
+22 will not remedy the complaint of these people, you don't 
+
+23 have to go to prudential standing. That it seems to me 
+
+24 would deny Article III standing.
+
+ GENERAL KATYAL: Well, Justice Scalia, I 
+
+18
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 think that this case is best like Newdow, in which the 
+
+2 Court went to prudential standing first before Article 
+
+3 III. And the reason for that is because this court in 
+
+4 Massachusetts v. EPA, in analyzing the redressability 
+
+prong of what you're asking said that the reductions 
+
+6 that were sought there, if granted, would, quote, "slow 
+
+7 or reduce the problem." 
+
+8  JUSTICE KENNEDY: Well, I'll think about it, 
+
+9 but Newdow was a case where we thought that this 
+
+particular litigant was not directly injured. Here the 
+
+11 State said it's directly injured. That's the 
+
+12 distinction. 
+
+13  JUSTICE GINSBURG: More than that, Newdow 
+
+14 was a case of a father trying to assert a right on 
+
+behalf of a child, and the child herself did not want 
+
+16 that right nor did her mother. So it seems to me it's 
+
+17 worlds apart, and when you describe prudential standing 
+
+18 as involving generalized grievance, I thought that the 
+
+19 generalized grievance was Article III. I thought that's 
+
+what Mrs. Frothingham's case was about; it was a 
+
+21 grievance that she shared with everybody in the 
+
+22 populations, so she didn't have standing. 
+
+23  GENERAL KATYAL: Justice Ginsburg, we're not 
+
+24 here saying that this case follows inexorably, 
+
+inexorably from the facts of Newdow or, frankly, from 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 any case that this Court has decided. There is no case 
+
+2 in the 222 years that announces the precise rule we're 
+
+3 seeking here, and the reason is because you have never 
+
+4 heard a case like this before involving the quantity and 
+
+quality of the claims sought here, the -­
+
+6  JUSTICE KAGAN: But it seems, General 
+
+7 Katyal, that there also is no case where we've ever used 
+
+8 this language of generalized grievance as a prudential 
+
+9 matter rather than as an Article III matter. So am I 
+
+wrong about that? 
+
+11  GENERAL KATYAL: Well, I think that this 
+
+12 Court has in Newdow and in Warth v. Seldin used the 
+
+13 language of generalized grievances to reflect prudential 
+
+14 considerations.
+
+ JUSTICE KAGAN: But Newdow -- Newdow quoted 
+
+16 the language of generalized grievance that came from 
+
+17 Warth, but it didn't specifically pin anything on that 
+
+18 language. 
+
+19  GENERAL KATYAL: I quite agree with you, 
+
+Justice Kagan. This is not like a case in which the 
+
+21 government is announcing some rule of standing that 
+
+22 requires the Court to, for example, call into question 
+
+23 previous precedents of this Court that reached the 
+
+24 merits or something like that. It's that this Court has 
+
+never had a case involving this scale and scope, and we 
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 think that the prudential standing doctrine, at least in 
+
+2 a circumstance like this, which is a Federal common law 
+
+3 cause of action in which the Court is already being 
+
+4 asked to fashion the rules and, as Justice Scalia says, 
+
+an equitable action in which the Court has I think 
+
+6 special abilities to fashion relief if appropriate and 
+
+7 not -- I think prudential standing reflects best the 
+
+8 kind of tapestry of different factors. 
+
+9  JUSTICE KAGAN: Well, General Katyal, how 
+
+about the Aiken case, because in the Aiken case I think 
+
+11 the government came in and made the same argument, that 
+
+12 even though the injury was concrete, it was too 
+
+13 generalized and therefore there should be no standing, 
+
+14 the Court specifically rejected that argument both as to 
+
+Article III and as to prudential standing. 
+
+16  GENERAL KATYAL: Right, and I think Aiken 
+
+17 says that the prudential standing cases thus far have 
+
+18 been about has concrete injury been shown to a 
+
+19 particular person. And we're not disputing that for 
+
+purposes of Article III concrete injury has been shown 
+
+21 to at least one plaintiff, but we think that -­
+
+22  JUSTICE GINSBURG: To that extent you 
+
+23 disagree with Mr. Keisler because he says there is no 
+
+24 Article III?
+
+ GENERAL KATYAL: That is absolutely correct, 
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 we do disagree to that extent. We think that prudential 
+
+2 standing best reflects the Court's general intuition in 
+
+3 this area that when a problem is of this magnitude and 
+
+4 literally involving the world, where everyone is a 
+
+potential perpetrator, everyone is a potential victim, 
+
+6 and where their own theory at page 15 of their brief and 
+
+7 32 and 40 states: "If someone contributes one drop to 
+
+8 the nuisance, they can be sued. 
+
+9  CHIEF JUSTICE ROBERTS: Counsel, you don't 
+
+usually -- your phrase is exactly what bothers me. We 
+
+11 don't usually base a decision on our general intuition, 
+
+12 and the idea of prudential standing that we have 
+
+13 jurisdiction of the case but we're not going to decide 
+
+14 it is contrary to Chief Justice Marshall's famous line 
+
+that if we don't have jurisdiction, we can't decide it, 
+
+16 but if we do, we have to decide it. 
+
+17  GENERAL KATYAL: But I think that the 
+
+18 prudential standing doctrine generally and the zone of 
+
+19 interest test in particular really do focus on this 
+
+question, Mr. Chief Justice, about whether or not a case 
+
+21 can be cut down to judicially manageable standards. 
+
+22  CHIEF JUSTICE ROBERTS: I'll give that you 
+
+23 on the zone of interests, but there you're dealing with 
+
+24 administrative law and a very narrow proposition. I 
+
+think it's Justice Kennedy's point, or at least the 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 point of his questions, that these issues meld into the 
+
+2 merits and, at least for anyone who is troubled by the 
+
+3 idea that we are not going to decide a case even though 
+
+4 we have jurisdiction to decide it, maybe that's the 
+
+better place to address it. 
+
+6  GENERAL KATYAL: I'll move to that and take 
+
+7 your invitation, Mr. Chief Justice. But before doing 
+
+8 so, I would say that if you're going to give me 
+
+9 administrative law and zone of interest I think you 
+
+should then give me Federal common law, which this Court 
+
+11 is at its height in terms of fashioning who can come 
+
+12 into court and what those rules may be. 
+
+13  JUSTICE SCALIA: I don't understand why you 
+
+14 assert that the remedy here will not provide the 
+
+relief -- you acknowledge that, don't you, that the 
+
+16 remedy here cannot possibly stop global warming, right? 
+
+17  GENERAL KATYAL: We acknowledge that the 
+
+18 relief that they are seeking looks like the relief in 
+
+19 Massachusetts v. EPA, which is that it would, if the 
+
+Court -­
+
+21  JUSTICE SCALIA: It does? It does? In 
+
+22 Massachusetts v. EPA the relief was allowing a Federal 
+
+23 agency to regulate the entire society's carbon 
+
+24 emissions.
+
+ GENERAL KATYAL: Justice Scalia, that isn't 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 what the Court said. What the Court said is that it 
+
+2 would allow regulation in the transportation sector, 
+
+3 which would be approximately 1.7 billion tons, and here 
+
+4 they are saying 650 million tons. And so, I agree it's 
+
+less, but I think that the -- and one can criticize the 
+
+6 reasoning in the majority, but if that -- that is the 
+
+7 rule of this Court, and I think that as long as a 
+
+8 slowing or reduction -­
+
+9  JUSTICE SCALIA: Do you think -- do you 
+
+think that was the holding of Massachusetts v. EPA, that 
+
+11 EPA can only regulate the transportation section? 
+
+12  GENERAL KATYAL: That is what the Court 
+
+13 based its redressability analysis on. 
+
+14  JUSTICE SCALIA: Is that the holding of the 
+
+case and -- and do you think the -- the -- the 
+
+16 forthcoming EPA rules can only govern transportation? 
+
+17  GENERAL KATYAL: Of course not. I'm just 
+
+18 saying that the -­
+
+19  JUSTICE SCALIA: Of course not. Of course 
+
+the case covers -­
+
+21  GENERAL KATYAL: But I am talking -­
+
+22  JUSTICE SCALIA: -- what the EPA could do. 
+
+23  GENERAL KATYAL: Right. And I'm just 
+
+24 talking about the redressability part of the analysis, 
+
+Justice Scalia. For that the Court said that this 
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 reduction in the transportation sector was sufficient. 
+
+2  If I could take the Mr. -- the Chief 
+
+3 Justice's invitation to address displacement at this 
+
+4 time. We believe that we meet the State's own test for 
+
+displacement, which is found at page 46 of their brief, 
+
+6 which is: "A Federal common law nuisance claim is 
+
+7 displaced when a Federal statute or regulatory action 
+
+8 addresses the nuisance." And here you have not just the 
+
+9 Clean Air Act, you have the Clean Air Act plus, a 
+
+cascade of a number of different actions taken after, 
+
+11 Justice Scalia, the opinion in Massachusetts v. EPA. 
+
+12  JUSTICE ALITO: At what point in this -- in 
+
+13 what point in this cascade did the displacement occur? 
+
+14  GENERAL KATYAL: We think that the Court 
+
+doesn't really need to get into it. And for the -- the 
+
+16 reason is this: Displacement actions are extremely 
+
+17 rare, Federal common law actions are rare, so we don't 
+
+18 think you should announce some sort of general standard 
+
+19 for when displacement occurs. It's a more case-by-case 
+
+situation. 
+
+21  Here you have undoubted evidence that it 
+
+22 occurred -- that it has occurred because of a number of 
+
+23 different things. 
+
+24  JUSTICE ALITO: We don't know what EPA may 
+
+do down the road, we don't know what Congress may do 
+
+25
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 down the road. So don't we have to have some idea about 
+
+2 when this takes place in order so that this precedent 
+
+3 may -­
+
+4  GENERAL KATYAL: Certainly -­
+
+JUSTICE ALITO: -- be applied to the future 
+
+6 course of conduct? 
+
+7  GENERAL KATYAL: Certainly, Justice Alito, I 
+
+8 think it's appropriate for the Court to look at what 
+
+9 has -- what is happening right now. And here's what's 
+
+happening. First, in December 2009 the EPA issued an 
+
+11 endangerment finding, finding these greenhouse gases 
+
+12 significant pollutants. 
+
+13  JUSTICE KAGAN: But, General Katyal, suppose 
+
+14 that the EPA had decided not to issue the endangerment 
+
+finding. Would your argument still apply? 
+
+16  GENERAL KATYAL: I think that that would 
+
+17 present a difficult case, because it would be the one 
+
+18 like the Petitioners make, which is the Clean Air Act 
+
+19 alone. And I think that what the States themselves 
+
+acknowledge and what the language of Milwaukee II -­
+
+21 excuse me -- Milwaukee I says in it is that -- and this 
+
+22 is at page 107 of the opinion: "It may happen that new 
+
+23 Federal laws and new Federal regulations may in time 
+
+24 preempt the Federal common law of nuisance. We think 
+
+that both together presents the best and easiest case 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 for displacement," and you have that here. You have not 
+
+2 just the endangerment finding; you have the EPA 
+
+3 regulating all passenger cars, all light motor vehicles 
+
+4 right now.
+
+ JUSTICE KAGAN: But if I insisted you answer 
+
+6 the hypothetical I gave you, what would the answer be? 
+
+7 No endangerment finding. Is there displacement? 
+
+8  GENERAL KATYAL: I think that it's a -- it's 
+
+9 a difficult case to make for -- for displacement, but I 
+
+think it could be made, for the reasons Mr. Keisler 
+
+11 suggests. But I -­
+
+12  CHIEF JUSTICE ROBERTS: Why is it -- I don't 
+
+13 want to make -- try to make a case for you, but why is 
+
+14 it that much more difficult? It's just -- I mean, it's 
+
+sort of like the negative commerce clause, right? The 
+
+16 fact that EPA has the authority to regulate in a 
+
+17 particular area means that the ball has passed from the 
+
+18 courts to the agency, to the executive branch, and 
+
+19 they've made an implicit decision not to regulate a 
+
+particular question. 
+
+21  GENERAL KATYAL: Absolutely. I think that 
+
+22 there's a good argument to be made. I imagine the 
+
+23 argument on the other side that you'll hear in a moment 
+
+24 is that the Clean Air Act doesn't look precisely like 
+
+the Clean Water Act in terms of forcing the agency to 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 decide various things. 
+
+2  CHIEF JUSTICE ROBERTS: I guess that would 
+
+3 be a preemption question rather than -- rather than a 
+
+4 displacement question.
+
+ GENERAL KATYAL: I think that very well may 
+
+6 be. And with respect to that, Mr. Chief Justice, you 
+
+7 had asked before about State common law causes of action 
+
+8 and whether they would be -- they would kind -- the 
+
+9 existence of those would somehow mean that the Court 
+
+should either find jurisdiction or reach the merits in a 
+
+11 way. And we think that the same arguments that prohibit 
+
+12 the Court from -- from -- from recognizing a Federal 
+
+13 common law cause of action for displacement very well 
+
+14 may be preemption questions as well that could be 
+
+addressed down the road with respect to State common law 
+
+16 actions. 
+
+17  And we don't think the Court should be 
+
+18 troubled by the existence of a potential State common 
+
+19 law cause of action. It's just like Milwaukee II, in 
+
+which the dissenters made precisely this argument. They 
+
+21 said: If you don't recognize it, then the States will 
+
+22 regulate it and it will balkanize and the like. And 
+
+23 what the majority said is: That's a question for down 
+
+24 the road; the question for now is has displacement 
+
+occurred? 
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  JUSTICE ALITO: I understand that that's not 
+
+2 the issue here, but does the government have a position 
+
+3 on that if -- if New York law provides exactly the same 
+
+4 public nuisance claim that is now asserted under Federal 
+
+common law, would that be consistent? 
+
+6  GENERAL KATYAL: I -- I don't think we have 
+
+7 a position at this time on that. That's I think an 
+
+8 enormously complicated question we can get to at an 
+
+9 appropriate time. Our central -- our central submission 
+
+to you on displacement is this: That there is literally 
+
+11 no precedent for the argument that they are making here, 
+
+12 which is that the Federal Government has to regulate the 
+
+13 precise jot and tittle, the specific relief that they 
+
+14 are seeking before displacement occurs.
+
+ JUSTICE KAGAN: Do you have a position on 
+
+16 whether there's anything to be displaced here? Do you 
+
+17 have a position on whether there is, in fact, a Federal 
+
+18 cause of action? 
+
+19  GENERAL KATYAL: Well, we think, again, the 
+
+Court doesn't need to get into that question because 
+
+21 it -- you know, the -- there are few Federal common law 
+
+22 causes of action in the area of nuisance -- I mean, and 
+
+23 there have been two that the Federal Government has 
+
+24 filed since 1970 and three that we can find all together 
+
+in the Federal courts of appeals, all of which have 
+
+29
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 failed for various displacement reasons, and the others. 
+
+2  We think none of those look anything like 
+
+3 the -- the common law cause of action here. And, so, it 
+
+4 would at least require this Court to extend quite 
+
+dramatically Federal common law to cover this type of 
+
+6 situation in which everyone is a potential perpetrator 
+
+7 and everyone is a potential victim. And it would 
+
+8 require the Court, in fashioning relief, to think 
+
+9 through a number of things that the Federal courts 
+
+haven't ever had to grapple with from the nature -­
+
+11  JUSTICE ALITO: So, if there were -- if 
+
+12 there were no Clean Air Act, you would still say that 
+
+13 this suit, a suit like this, would -- would fail 
+
+14 prudential standing, but you don't have a position as to 
+
+whether there would be a claim under Federal common law? 
+
+16  GENERAL KATYAL: That is correct. We think 
+
+17 it would still fail prudential standing because of the 
+
+18 quantity and quality of the nature of the problem here, 
+
+19 and the multitude of different policy judgments that 
+
+would be required -- that this Court would be required 
+
+21 to undertake to adjudicate a Federal common law cause of 
+
+22 action in the absence of a statute. 
+
+23  JUSTICE KAGAN: But I'm sorry, General, 
+
+24 because I was understanding your answer differently, and 
+
+maybe I misheard you, as saying that if there were no 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 legislation here, you doubted that there was a Federal 
+
+2 law cause of action. Is that correct? 
+
+3  GENERAL KATYAL: I doubted that there was 
+
+4 prudential standing.
+
+ JUSTICE KAGAN: No, but as to whether the 
+
+6 cause of action exists under Federal common law in a 
+
+7 case like this, where you said it was so different from 
+
+8 the other Federal common law cases that the Court has 
+
+9 seen.
+
+ GENERAL KATYAL: I -- I -- I think I put it 
+
+11 as we doubt it. I mean, I think that it would require a 
+
+12 dramatic extension, Justice Kagan, of a case like 
+
+13 Tennessee Copper and the other cases that this Court has 
+
+14 heard, which are essentially: A pollutes a river or 
+
+something and hurts B. A here is the world and B is the 
+
+16 world, and that is such a difference in scale and scope 
+
+17 to pose enormously difficult questions as to whether 
+
+18 this Court should recognize such a cause of action. 
+
+19  JUSTICE KENNEDY: Same -- same hypothetical, 
+
+assume no Federal statute, and -- and assume no Federal 
+
+21 common law. What about State law? Does State common 
+
+22 law become displaced because it's a matter of Federal 
+
+23 concern? We don't -- we don't -- we don't usually have 
+
+24 preemption of Federal common law.
+
+ GENERAL KATYAL: Well -- well, there may be 
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 arguments, Justice Kennedy -- I'm not sure if the 
+
+2 premise of your question has a Clean Air Act in 
+
+3 existence or not. There may be some sort of arguments 
+
+4 about displacement or preemption under the Clean Air 
+
+Act -­
+
+6  JUSTICE KENNEDY: The hypothetical is that 
+
+7 the Federal law -- Federal statutory law doesn't apply. 
+
+8  GENERAL KATYAL: Then I think that again for 
+
+9 purposes of State common law, I think this Court would 
+
+approach that question the same way it did in Milwaukee 
+
+11 II, which is to say that's a really separate 
+
+12 policy-based question that the Court doesn't use to 
+
+13 answer the questions about whether a cause of action 
+
+14 should be recognized or whether displacement has 
+
+occurred. But I would point out that the States that 
+
+16 have sued generally have doctrines like prudential 
+
+17 standing, doctrines like political question, that may 
+
+18 very well bar the reaching of these claims in State 
+
+19 courts as well.
+
+ JUSTICE KENNEDY: It would be very odd to 
+
+21 say that there's no Federal common law, but also that 
+
+22 there's no -- no displacement of State law. That -­
+
+23 that seems to me odd. 
+
+24  GENERAL KATYAL: That's precisely the 
+
+situation that -- that this Court was grappling with in 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 Milwaukee II, and it said that -­
+
+2  JUSTICE GINSBURG: Can we get to -- to the 
+
+3 situation that now exists? They are seeking standards 
+
+4 for existing sources. I asked Mr. Keisler, and do you 
+
+agree with him, this is not a -- this is not a new 
+
+6 source or a modified source; we're talking about 
+
+7 existing sources. Does EPA, could EPA, regulate and set 
+
+8 standards for existing sources? 
+
+9  GENERAL KATYAL: Absolutely, Justice 
+
+Ginsburg. Let me say three things about that. First 
+
+11 is, EPA is currently regulating existing sources. To 
+
+12 the extent that a power plant is modified in any way to 
+
+13 increase carbon dioxide above a certain amount -- and 
+
+14 this is one of the so-called tailoring rules -- then 
+
+those power plants right now are subject to regulation. 
+
+16 Indeed, one has already had to get a permit. These 
+
+17 regulations just went into effect in January 2011 for 
+
+18 existing power plants that seek to modify. 
+
+19  Second, there is a settlement agreement in 
+
+place that commits EPA by May of 2012 to deciding how 
+
+21 and whether to regulate existing power sources, the 
+
+22 existing stationary sources. 
+
+23  And third, and I think most fundamentally, 
+
+24 there is no precedent, Justice Ginsburg, that says that 
+
+the government must regulate the specific industry, the 
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 specific thing that the plaintiff isolates, in order for 
+
+2 displacement to occur. Rather, Sea Clammers and 
+
+3 Milwaukee II I think make explicit that that's the wrong 
+
+4 question. And so long as the nuisance is being 
+
+addressed -- and here the nuisance is undoubtedly being 
+
+6 addressed with a panoply of different Federal actions in 
+
+7 the area of global warming, and an executive order that 
+
+8 says that fighting global warming is one of the 
+
+9 government's highest priorities -- and concrete steps 
+
+taken, such as the 500-page tailoring rule, the 
+
+11 400-page -- the -- the other hundreds of pages that EPA 
+
+12 has done with its experts to appropriately regulate 
+
+13 greenhouse gas emissions, as opposed to a Federal common 
+
+14 law court of action doing something which would frankly 
+
+put you all at sea in terms of the complexity, 
+
+16 economics, international nature of the problem. 
+
+17  JUSTICE KAGAN: General, could I take you 
+
+18 back on that last point to another threshold question, 
+
+19 which is the political question doctrine? Because a lot 
+
+of your arguments really sound like prongs two and three 
+
+21 from Baker v. Carr, but you say that we shouldn't go 
+
+22 there, that we should instead address this matter on 
+
+23 prudential standing grounds. But the political question 
+
+24 doctrine actually seems more natural, given the kinds of 
+
+arguments you're making. So why not? 
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  GENERAL KATYAL: Well, Justice Kagan, I'm 
+
+2 not going to tarry too long on which different way we 
+
+3 should win this case. I think either is an appropriate 
+
+4 way.
+
+ (Laughter.) 
+
+6  GENERAL KATYAL: But I think that the 
+
+7 prudential standing doctrine is a bit narrower because 
+
+8 it -- it contemplates a variety of factors, including 
+
+9 the fact that this is a Federal common law cause of 
+
+action where the Court is fashioning relief in the first 
+
+11 place, as opposed to the political question doctrine 
+
+12 which looks -- looks more to the standardless nature of 
+
+13 the adjudication. 
+
+14  We agree that -- that the political question 
+
+doctrine is an appropriate way to dismiss of this case, 
+
+16 but we think that, like Newdow, like Kowalski, this 
+
+17 Court can handle this case on prudential standing first 
+
+18 and recognize that this is an unprecedented action 
+
+19 involving literally the world, and it is not suited for 
+
+judicial resolution, and that flows quite naturally from 
+
+21 the precepts of the prudential standing doctrine. 
+
+22  JUSTICE GINSBURG: It's not an area where 
+
+23 the Court can't go. To take a political question we all 
+
+24 agree on, I think, the courts can't mess with the 
+
+impeachment of a president, just -- but here the Court 
+
+35
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 does deal with the subject matter all the time. It 
+
+2 reviews decisions that the EPA has made. 
+
+3  GENERAL KATYAL: Justice Ginsburg, we quite 
+
+4 agree, and that is why we say that if a statute were -­
+
+were announced to provide standards, that that would 
+
+6 provide a way around the political question problem that 
+
+7 exists in this case. 
+
+8  CHIEF JUSTICE ROBERTS: Thank you, General. 
+
+9  General Underwood.
+
+ ORAL ARGUMENT OF BARBARA D. UNDERWOOD 
+
+11  ON BEHALF OF THE RESPONDENTS 
+
+12  MS. UNDERWOOD: Mr. Chief Justice, and may 
+
+13 it please the Court: 
+
+14  This case rests on the longstanding 
+
+fundamental authority of the States to protect their 
+
+16 land, their natural resources, and their citizens from 
+
+17 air pollution emitted in other States. It rests on 
+
+18 three propositions: One, the interests of the States 
+
+19 are harmed by global warming; two, these defendants, as 
+
+the five largest U.S. emitters of carbon dioxide, are 
+
+21 significant contributors to it; and, three, these 
+
+22 defendants could take reasonable, cost-effective 
+
+23 measures to reduce their emissions in a way that would 
+
+24 slow the effects of global warming.
+
+ We will have to prove these propositions, 
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 and after we do the district court will have to 
+
+2 determine whether it can frame an appropriate equitable 
+
+3 injunction. That's what discovery and trials are for. 
+
+4 But this Court should not close the courthouse door to 
+
+this case at the outset. The common law action for 
+
+6 public nuisance has been around for hundreds of years, 
+
+7 has been adapted by courts to cover new environmental 
+
+8 threats, and there's no reason why the courts can't do 
+
+9 the same thing here.
+
+ The defendants say there are too many 
+
+11 plaintiffs, too many potential defendants, and that 
+
+12 adjudication of this case will require courts to solve 
+
+13 the entire problem of global warming, but that is simply 
+
+14 not so.
+
+ On the plaintiffs' side, this is about the 
+
+16 States. We are alleging the kind of injury to States 
+
+17 that has been traditionally recognized by this Court; 
+
+18 their lands, their citizens, their businesses are being 
+
+19 injured by pollution emitted in other States.
+
+ JUSTICE GINSBURG: General Underwood, the -­
+
+21 the relief that you're seeking, asking a court to set 
+
+22 standards for emissions, sounds like the kind of thing 
+
+23 that EPA does. I mean, Congress set up the EPA to 
+
+24 promulgate standards for emissions, and now what -- the 
+
+relief you're seeking seems to me to set up a district 
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 judge, who does not have the resources, the expertise, 
+
+2 as a kind of super EPA. 
+
+3  MS. UNDERWOOD: It's not as a super EPA. 
+
+4 It's something much smaller. It's a different question. 
+
+Interstate pollution disputes have historically been 
+
+6 entrusted to the courts, including the determination of 
+
+7 how much is unreasonable, which is -­
+
+8  JUSTICE GINSBURG: But if we just 
+
+9 concentrate on I think the relief you want, you say: 
+
+District court, if we pass everything else, you set 
+
+11 emissions standards, you put a cap immediately, you set 
+
+12 a cap, and then annually you require further reductions. 
+
+13 Well, that just sounds to me like what EPA does when it 
+
+14 sets emission standards.
+
+ MS. UNDERWOOD: Well, it's also like what 
+
+16 the Court did in Tennessee Copper. That is to say, this 
+
+17 case doesn't ask the Court to decide how much, contrary 
+
+18 to what Petitioners suggest, to decide how much emission 
+
+19 reduction is required to solve the whole problem of 
+
+global warming and then allocate a portion to these 
+
+21 defendants. It asks the Court to do something simpler, 
+
+22 and that is to decide whether these defendants can take 
+
+23 reasonable cost-effective measures that would help to 
+
+24 slow the pace of global warming. So -­
+
+JUSTICE ALITO: How does a district judge 
+
+38
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 decide what is reasonable and cost-effective? There are 
+
+2 considerations -- this is not a situation in which the 
+
+3 emission of greenhouse gases can be totally prohibited. 
+
+4  MS. UNDERWOOD: Correct.
+
+ JUSTICE ALITO: There are other -- there are 
+
+6 countervailing interests. So how does the court -- how 
+
+7 can a district court balance those interests? 
+
+8  MS. UNDERWOOD: Well, I would say two things 
+
+9 about that. One, it was also true in Tennessee Copper 
+
+that it was not the case that the sulfur emissions could 
+
+11 be eliminated or that the plant was to be put out of 
+
+12 business. The Court in that case ordered a reduction of 
+
+13 sulfur, a quite specific reduction of sulfur emissions 
+
+14 in one season and more in another season. And how 
+
+does -­
+
+16  JUSTICE ALITO: But do you seriously argue 
+
+17 this isn't -- this isn't orders of magnitude more 
+
+18 complicated than that case? 
+
+19  MS. UNDERWOOD: It's somewhat more -- it's 
+
+larger. I don't know if it's more complicated. The way 
+
+21 a court would do that is presumably the way it did it in 
+
+22 Tennessee Copper. That is, there could be expert 
+
+23 testimony, there could also be evidence about whether -­
+
+24 what other emitters are doing, what they do that is 
+
+feasible and cost-effective to reduce their emissions. 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 In Tennessee Copper, one of the defendants settled, and 
+
+2 the other was subject to an order, and it would have 
+
+3 been available to the Court to look to what the settling 
+
+4 defendant did for some indication of what the 
+
+nonsettling defendant might well be ordered to do. So 
+
+6 there is evidence available from which a court could 
+
+7 conclude what is reasonable. 
+
+8  CHIEF JUSTICE ROBERTS: What -- what is the 
+
+9 -- what factors go into the cost-benefit analysis that 
+
+would have to be undertaken to decide what level of 
+
+11 emissions are reasonable in light of the threat of 
+
+12 global -- global warming? 
+
+13  MS. UNDERWOOD: The available technology, 
+
+14 the cost of that technology -­
+
+CHIEF JUSTICE ROBERTS: Obviously the 
+
+16 greatest benefit to reduce global warming would be, of 
+
+17 course, to shut down the power plants, right? 
+
+18  MS. UNDERWOOD: Well, we haven't asked for 
+
+19 that and nobody suggests that that would be appropriate. 
+
+It's not, any more than it was in Tennessee Copper. 
+
+21  CHIEF JUSTICE ROBERTS: Because -- right. 
+
+22 But I mean, across the economy, the whole problem of 
+
+23 dealing with global warming is that there are costs and 
+
+24 benefits on both sides, and you have to determine how 
+
+much you want to readjust the world economy to address 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 global warming, and I think that's a pretty big burden 
+
+2 to post -- to impose on a district court judge. 
+
+3  MS. UNDERWOOD: Well, it's also a burden 
+
+4 that the plaintiffs would have to bear. That is to say, 
+
+we have alleged, and are entitled to try to prove -- and 
+
+6 we might fail; that would be for the district judge to 
+
+7 determine -- that "the defendants have available to them 
+
+8 practical, feasible" -- I'm reading from the 
+
+9 complaint -- "and economically viable options for 
+
+reducing carbon dioxide emissions without significantly 
+
+11 increasing the cost of electricity to their customers, 
+
+12 including changing fuels, improving efficiency, and 
+
+13 altering" -­
+
+14  CHIEF JUSTICE ROBERTS: We're dealing with 
+
+an electric grid that connects I don't know how vast an 
+
+16 area, but certainly a vast area here. And the fact that 
+
+17 they can reduce their emissions in a way that doesn't 
+
+18 affect their customers is based on the fact that other 
+
+19 power plants that are part of the grid will serve part 
+
+of those -- will serve the customers' needs to some 
+
+21 extent. 
+
+22  MS. UNDERWOOD: It may or may not be based 
+
+23 on this. These are facts that can be proven or not 
+
+24 proven at trial.
+
+ JUSTICE KAGAN: But, General, they're 
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 usually facts that are determined by an administrative 
+
+2 agency. I mean, even just reading that part of your 
+
+3 complaint, it sounds like the paradigmatic thing that 
+
+4 administrative agencies do rather than courts.
+
+ MS. UNDERWOOD: But if there were no agency 
+
+6 and if there were no Clean Air Act and somebody was 
+
+7 shooting poison into the air in a way that injured 
+
+8 people in another State, the States would have the -­
+
+9  JUSTICE KAGAN: But if there were no and if 
+
+there were no, we would be living in a different world. 
+
+11 There is an administrative agency and there is a Clean 
+
+12 Air Act. 
+
+13  MS. UNDERWOOD: But those -- those are 
+
+14 questions about what has been called the merits or 
+
+displacement. The question of Article III standing, the 
+
+16 question of justiciability, the question of political 
+
+17 question, those are the same questions whether there's 
+
+18 an agency or not. 
+
+19  JUSTICE KENNEDY: We can concede that, but 
+
+we still have the displacement argument -­
+
+21  MS. UNDERWOOD: Yes. 
+
+22  JUSTICE KENNEDY -- in front of us, and I 
+
+23 thought that's what we were addressing. 
+
+24  MS. UNDERWOOD: We can talk about the 
+
+displacement argument. I just wanted to be sure that -­
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 I understood the question of standards to be a question 
+
+2 addressed to the political question point. And even if 
+
+3 it might be desirable to have an agency set standards, 
+
+4 it is not something that is beyond the power of a court 
+
+to do. 
+
+6  JUSTICE BREYER: Can the courts set a tax? 
+
+7  JUSTICE GINSBURG: The agency -- the agency 
+
+8 is engaged in that, in it right now, and that's another 
+
+9 facet of this case, the potential for conflict. The 
+
+EPA, after acting for a while, has now agreed that it 
+
+11 does have authority to classify this as a pollutant and 
+
+12 it has taken the first steps. 
+
+13  One argument that the EPA -- that the United 
+
+14 States is presenting is the way agencies go about this 
+
+is incrementally, so they're starting with motor 
+
+16 vehicles and then maybe they will go to new sources, and 
+
+17 then they'll get to maybe where you are. But you want 
+
+18 the Court to start with the existing sources, to set 
+
+19 limits that may be in conflict with what an existing 
+
+agency is doing. 
+
+21  Do we ignore the fact that the EPA is there 
+
+22 and that it is regulating in this area? 
+
+23  MS. UNDERWOOD: No, we do not ignore that. 
+
+24 This is a very peculiar moment in time for this case to 
+
+arrive in this Court, because what is offered as 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 displacing is something that is said to be imminent, not 
+
+2 something that actually exists, and something that is 
+
+3 imminent may never happen. It was, of course, for that 
+
+4 reason that I believe the United States suggested a GBR 
+
+and we suggested that the case be dismissed so that the 
+
+6 lower courts could deal with the unfolding events as 
+
+7 they occur. 
+
+8  But the case is here now, and there is no 
+
+9 Federal statute or regulation that currently regulates 
+
+the emission of greenhouse gases by existing unmodified 
+
+11 power plants, like the ones operated by the defendants. 
+
+12 And the Clean Air Act works very differently from the 
+
+13 Clean Water Act. It did not put in place a permit 
+
+14 system for all emissions when it was enacted in 1970. 
+
+Unlike the Clean Water Act 2 years later, which forbids 
+
+16 all discharges until they're authorized by permit, the 
+
+17 Clean Air Act doesn't regulate anything until the EPA 
+
+18 makes findings and imposes restrictions. 
+
+19  CHIEF JUSTICE ROBERTS: I -- I suppose there 
+
+were reasons that Congress adopted that approach, and 
+
+21 your suit would override those determinations. 
+
+22  MS. UNDERWOOD: No, our suit is consistent 
+
+23 with those determinations. That is to say, the design 
+
+24 of the statute leaves preexisting law in place until EPA 
+
+steps in. 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  If the Clean Air Act were thought to 
+
+2 displace the common law before any regulation occurred, 
+
+3 that would mean the immediate effect of this 
+
+4 antipollution law in 1970 was to reduce pollution 
+
+control because -­
+
+6  CHIEF JUSTICE ROBERTS: How much -- how much 
+
+7 regulation do you need before you would admit that there 
+
+8 is displacement? Is it -- is it a preemption analysis 
+
+9 that you're adopting or a displacement analysis?
+
+ MS. UNDERWOOD: It's a displacement 
+
+11 analysis. I believe it's a displacement analysis. 
+
+12 What -- what we start from is that the States have a 
+
+13 historic right to go to court under the Federal common 
+
+14 law and that to -- to -- to deal with the problem of 
+
+interstate pollution, and that that was a promise that 
+
+16 they obtained, the Federal remedy, in exchange for the 
+
+17 surrender of sovereignty in joining the Union. So there 
+
+18 has to be -- there's a strong Federal interest in there 
+
+19 being a Federal remedy.
+
+ Now, when the Clean Air Act was -- was 
+
+21 passed, without any regulations, if it displaced the 
+
+22 Federal common law, there would be no Federal law 
+
+23 applicable at all, because the Federal common law would 
+
+24 be displaced and there would be no Federal regulatory 
+
+law. The States would have recourse at that point to 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 State common law, as has been suggested. That would be 
+
+2 available still. 
+
+3  But this Court has said repeatedly, and it's 
+
+4 correct, that there is a strong Federal interest in 
+
+regulating this subject matter of interstate pollution 
+
+6 with Federal law. Federal common law is the default 
+
+7 position, and when some -- when -- when Congress and the 
+
+8 agency act to displace Federal law and put in place -­
+
+9 to displace Federal common law and put in place Federal 
+
+regulatory law, that's when the displacement occurs. So 
+
+11 when -­
+
+12  CHIEF JUSTICE ROBERTS: What is -- what is 
+
+13 your test for displacement? When do we tell whether 
+
+14 there's displacement or not? Has there been some 
+
+displacement in this case but just not total 
+
+16 displacement or -­
+
+17  MS. UNDERWOOD: There's been displacement as 
+
+18 to automobiles. The EPA made a considered judgment 
+
+19 about emissions of carbon dioxide with respect to light 
+
+motor vehicles. The EPA has made no judgment with 
+
+21 respect to stationary sources. 
+
+22  JUSTICE KAGAN: What if the EPA made a 
+
+23 judgment, but it just was not the judgment that you 
+
+24 liked? Suppose that the EPA said: We've looked at 
+
+stationary sources; we're not going to regulate. Would 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 that displace? 
+
+2  MS. UNDERWOOD: I think if it were a 
+
+3 judgment that the amount of carbon dioxide emission from 
+
+4 stationary sources that was currently happening was 
+
+the -- was the correct amount, that would displace. If 
+
+6 the -­
+
+7  CHIEF JUSTICE ROBERTS: That sounds like -­
+
+8 that sounds like preemption to me and not displacement, 
+
+9 or at least preemption with another label.
+
+ MS. UNDERWOOD: Well, of course, there are 
+
+11 some similarities between the two. In each case we're 
+
+12 talking about whether Federal -- whether one law 
+
+13 substitutes for another, whether one law ousts another. 
+
+14  CHIEF JUSTICE ROBERTS: Well, maybe you can 
+
+tell me in what -- to what extent displacement is 
+
+16 different from preemption. Tell me in this area you're 
+
+17 going to have displacement but not preemption. Or I 
+
+18 guess it's the other way around, in which there's going 
+
+19 to be preemption but not -- well, what's the difference?
+
+ You said in response to Justice Kagan that 
+
+21 if they've made a considered decision that this is the 
+
+22 amount and no other amount higher or lower, then there 
+
+23 would be displacement. In what way is that different 
+
+24 from preemption?
+
+ MS. UNDERWOOD: Well, the difference isn't 
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 on that front. The difference is that with respect to 
+
+2 preemption Congress has to decide that it does -- that 
+
+3 it wishes to override State law expressly. Here what 
+
+4 we're talking about is simply whether Congress or the 
+
+agency has acted. It's a little different. They don't 
+
+6 have to have in mind Federal common law. They simply 
+
+7 have to act in a way that over -- that -- that 
+
+8 substitutes for Federal common law, because the promise 
+
+9 of the republic really for the States was that the 
+
+States would have a Federal law applicable to their 
+
+11 interstate pollution disputes, and until -­
+
+12  JUSTICE SCALIA: Well, I don't think -­
+
+13  MS. UNDERWOOD: -- there's a new one, they 
+
+14 have the old one.
+
+ JUSTICE SCALIA: I don't think that they 
+
+16 have to have in mind State law for preemption, either. 
+
+17 If indeed the State law just positively conflicts with a 
+
+18 Federal statute, it doesn't matter whether Congress had 
+
+19 State law in mind, does it? I don't know -­
+
+MS. UNDERWOOD: No, but -- perhaps not. But 
+
+21 we -- we talk about, though, whether there was intent -­
+
+22 that -- that preemption is ultimately a matter of 
+
+23 congressional intent and whether Congress intended 
+
+24 and -- and preemption should not be lightly inferred. 
+
+It's probably the case that preemption should be harder 
+
+48
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 to find in a close case. 
+
+2  JUSTICE SCALIA: But you haven't told us 
+
+3 how. It -- it -- it's certainly not harder to find 
+
+4 because for preemption you require congressional intent, 
+
+whereas here -- whereas for displacement you don't. 
+
+6 That's not the -- that's not the difference. What -­
+
+7 what is the difference? 
+
+8  MS. UNDERWOOD: Well, I think in this 
+
+9 context they probably work pretty similarly. I would 
+
+just say that in each case the question is, what is 
+
+11 the -- what does the new law do with respect to the law 
+
+12 that it is said to replace? And -­
+
+13  CHIEF JUSTICE ROBERTS: I think you're right 
+
+14 that under your theory they operate pretty similarly and 
+
+I thought the whole point of Milwaukee v. Illinois was 
+
+16 that they are two very distinct propositions. 
+
+17  MS. UNDERWOOD: Well, they have different 
+
+18 reasons for existing, that's certainly what Milwaukee v. 
+
+19 Illinois said. That doesn't mean they have to in every 
+
+instance operate differently. The point of preemption 
+
+21 is about the Federal-State balance, and displacement is 
+
+22 simply -- is about separation of powers and the 
+
+23 interaction of various agencies within the Federal 
+
+24 Government. It shouldn't be surprising -­
+
+JUSTICE GINSBURG: Your point is that EPA, 
+
+49
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 unless and until EPA gets to the point of setting 
+
+2 standards for existing sources, the court can be side by 
+
+3 side with the agency; we know that the agency is 
+
+4 beginning, it starts with light motor vehicles, and then 
+
+it's moving forward. But you say as long as the EPA 
+
+6 hasn't gotten to stationary sources, the court can be 
+
+7 conducting a similar function with -- one of many 
+
+8 differences is that if the EPA is setting the standards 
+
+9 they will set -- they will do it through notice and 
+
+comment, everybody will be able to put in a submission; 
+
+11 but the court substituting for the EPA, how does the 
+
+12 court replicate that notice and comment process? 
+
+13  MS. UNDERWOOD: Well, you say the court 
+
+14 substituting for the EPA. It would be the EPA 
+
+substituting for the court. That is, the default, the 
+
+16 beginning position before there was legislation, before 
+
+17 there was an agency, was a common law remedy. 
+
+18  JUSTICE GINSBURG: But now there is an 
+
+19 agency, and we know that it operates in a certain way, 
+
+through notice and comment rulemaking. 
+
+21  MS. UNDERWOOD: I -­
+
+22  JUSTICE GINSBURG: And here is the court and 
+
+23 how does it operate to get to those standards? 
+
+24  MS. UNDERWOOD: Well, TVA suggests that 
+
+there's an inexorable march, that there's a regulatory 
+
+50
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 program underway. But what they point to is an 
+
+2 agreement by EPA to begin considering whether to 
+
+3 regulate new and existing power plants. That can't be 
+
+4 enough. The Federal common law exists for the purpose 
+
+of giving States a remedy for interstate pollution, and 
+
+6 if it's displaced when -- when the EPA begins thinking 
+
+7 about it, then EPA could think about it for a long time. 
+
+8 They've said when they hope to complete this rulemaking, 
+
+9 but it is not uncommon for delays to -- to enter into 
+
+such processes, and it could be a long time before EPA 
+
+11 actually arrives at a judgment. A lot can happen to 
+
+12 delay or derail the fulfillment of a promise. 
+
+13  JUSTICE KAGAN: General, do you think that 
+
+14 you have a Federal common law cause of action against 
+
+anybody in the world? Your briefs talk a lot about how 
+
+16 these are the five largest emissions producers, but I 
+
+17 saw nothing in your theory to limit it to those five. 
+
+18 Is there something that you think limits it to large 
+
+19 emissions producers rather than anybody in the world?
+
+ MS. UNDERWOOD: Yes. I think limitations, a 
+
+21 limitation to substantial sources -- and I'll talk in a 
+
+22 minute about what that might mean -- comes from the 
+
+23 Restatement definition, from garden variety State cases 
+
+24 about -- involving nuisance, and also perhaps from the 
+
+requirements of standing itself. 
+
+51
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  This case asks the Court to recognize that 
+
+2 the States can sue the largest emitters of carbon 
+
+3 dioxide. These defendants produce 650 million tons a 
+
+4 year or 10 percent of U.S. emissions, and individually 
+
+they produce amounts ranging from 1 to 3 and a half 
+
+6 percent of U.S. emissions. There is no other company 
+
+7 that comes close except perhaps for a handful of the 
+
+8 next largest power companies. 
+
+9  JUSTICE SCALIA: You're -- you're lumping 
+
+them all together. Suppose you lump together all the 
+
+11 cows in the country. Would -- would that allow you to 
+
+12 sue all those farmers? I mean, don't you have to do it 
+
+13 defendant by defendant? 
+
+14  MS. UNDERWOOD: Courts sometimes -­
+
+JUSTICE SCALIA: Cow by cow, or at least 
+
+16 farm by farm? 
+
+17  MS. UNDERWOOD: Courts sometimes aggregate 
+
+18 joint contributors to pollution, particularly where the 
+
+19 remedy that's sought is injunctive relief. If this were 
+
+a damage action there would be a different problem of 
+
+21 allocating to each individual defendant. But the relief 
+
+22 that's sought here is the same injunction. 
+
+23  JUSTICE SCALIA: So you can lump everybody 
+
+24 together, so you can lump together all the people in the 
+
+United States -­
+
+52
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  MS. UNDERWOOD: Well -­
+
+2  JUSTICE SCALIA: -- who breathe, I suppose. 
+
+3  MS. UNDERWOOD: No. I think that breathers 
+
+4 are not really -- for one thing, they don't even really 
+
+contribute carbon dioxide because they absorb as well as 
+
+6 -- as exhale it. For another thing, there's no way that 
+
+7 breathing -­
+
+8  JUSTICE SCALIA: All right. All -- all 
+
+9 homes -­
+
+MS. UNDERWOOD: -- could be found 
+
+11 unreasonable. 
+
+12  JUSTICE SCALIA: -- all homes that -- that 
+
+13 emit carbon dioxide in their -- in their heating 
+
+14 systems.
+
+ MS. UNDERWOOD: No, we're talking -­
+
+16  JUSTICE SCALIA: The whole country, and you 
+
+17 lump them all together, and -­
+
+18  MS. UNDERWOOD: No. 
+
+19  JUSTICE SCALIA: -- you say that, you know, 
+
+that equals 10 percent or whatever. Does that give you 
+
+21 a basis? 
+
+22  MS. UNDERWOOD: It is not necessary to 
+
+23 aggregate to have these five defendants stand apart from 
+
+24 everybody else.
+
+ JUSTICE SCALIA: Well, then don't give us a 
+
+53
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 10 percent figure. 
+
+2  MS. UNDERWOOD: I -­
+
+3  JUSTICE SCALIA: Give us the, you know, the 
+
+4 maximum figure for a single one of them.
+
+ MS. UNDERWOOD: 3 1/2 percent of U.S. 
+
+6 emissions. 
+
+7  CHIEF JUSTICE ROBERTS: Well, why do you 
+
+8 stop at U.S. emissions? What percentage of worldwide 
+
+9 emissions, every one of which I assume harms your 
+
+clients, do these five power plants represent? 
+
+11 Infinitesimal, right? 
+
+12  MS. UNDERWOOD: Not infinitesimal, actually. 
+
+13 I believe that U.S. emissions are a quarter of world 
+
+14 emissions, so you would divide these numbers by four 
+
+approximately. 
+
+16  CHIEF JUSTICE ROBERTS: From power plants or 
+
+17 total emissions? 
+
+18  MS. UNDERWOOD: Total emissions. And -­
+
+19  JUSTICE ALITO: And anybody who is a 
+
+substantial contributor could be sued? 
+
+21  MS. UNDERWOOD: Yes. And in terms of 
+
+22 determining what -- who is a substantial contributor, 
+
+23 there are -- because I do think that at some point a 
+
+24 company's emissions or a cow's would be too small to 
+
+give rise to a standing or -- to either standing or a 
+
+54
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 nuisance claim, and there are various ways to draw the 
+
+2 lines. It's a familiar task for common law courts to 
+
+3 decide how much is substantial, too. But for an 
+
+4 example, if the cut-off were producers of 100,000 tons 
+
+per year, as in the EPA tailoring rule for new sources, 
+
+6 just to take an example, then according to EPA's own 
+
+7 technical data there would be at most a few thousand 
+
+8 potential defendants. 
+
+9  CHIEF JUSTICE ROBERTS: Do you agree --
+
+General Katyal began his argument in fairly dramatic 
+
+11 fashion by saying we've never in 222 years had a case 
+
+12 where the relief, the damages and the relief sought, 
+
+13 were as broad as they are here. Do you have anything to 
+
+14 rebut his proposition? Any case where it has been as 
+
+broad as it is here? 
+
+16  MS. UNDERWOOD: Well, of course it depends 
+
+17 on what you call broad. There are -- there are many 
+
+18 cases, small cases involving an attempt to limit 
+
+19 discharges by companies.
+
+ CHIEF JUSTICE ROBERTS: What's your best -­
+
+21 what's your candidate to rebut his proposition? 
+
+22  MS. UNDERWOOD: Well -­
+
+23  CHIEF JUSTICE ROBERTS: A broader case with 
+
+24 respect to the infliction of damage and the need for 
+
+relief. 
+
+55
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  MS. UNDERWOOD: Well, I guess what I would 
+
+2 say is that cases allowing suits against large 
+
+3 contributors, with or without others, and dismissing 
+
+4 against small and remote contributors, I give you three 
+
+State cases that are cited in our briefs: A California 
+
+6 case about a large mine that was sued for polluting a 
+
+7 river when lots of -- lots of others polluted it and 
+
+8 were not before the court. 
+
+9  CHIEF JUSTICE ROBERTS: Well, not as many as 
+
+contribute to global warming? 
+
+11  MS. UNDERWOOD: No, that's correct. But we 
+
+12 could talk about -- if we talk about large contributors 
+
+13 here, then we're not talking about so many contributors. 
+
+14 We could have it -- we could have it down to, to 
+
+thousands or hundreds or tens, depending on how we 
+
+16 defined large. 
+
+17  JUSTICE GINSBURG: One aspect of the 
+
+18 litigation process as opposed to the agency process, the 
+
+19 agency makes its rule and that can be challenged in 
+
+court, but suppose your plaintiffs lost this case on 
+
+21 merits. I take it this is not a class action, there's 
+
+22 no certification of any class. Other plaintiffs before 
+
+23 another district court could launch a similar action 
+
+24 against these very same defendants, right? There would 
+
+be nothing to preclude that? 
+
+56
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  MS. UNDERWOOD: No. Well, the parens 
+
+2 patriae actions by the States might have some 
+
+3 consequence for the citizens of those States, but, yes. 
+
+4  JUSTICE GINSBURG: That means you have -­
+
+MS. UNDERWOOD: There would be others who 
+
+6 have -- would have -- who would have the ability, other 
+
+7 States, I suppose. I mean, our claim here is that this 
+
+8 Federal common law nuisance is available first and 
+
+9 foremost for the States; and the question of whether the 
+
+land trusts or any other private parties could even 
+
+11 bring it is -­
+
+12  JUSTICE ALITO: Even if you won and the 
+
+13 district court imposed some sort of limit would be there 
+
+14 any other obstacle to other plaintiffs bringing suits 
+
+and another district court issuing a different standard? 
+
+16  MS. UNDERWOOD: Well, the -- ultimately such 
+
+17 things would be resolved by appeal and by -- by the 
+
+18 circuit courts. I mean, there are conflicts in many 
+
+19 areas. That's true about every district court 
+
+litigation. 
+
+21  CHIEF JUSTICE ROBERTS: Well, no, it's not, 
+
+22 and it's not true of every litigation in this sense, 
+
+23 that everyone is harmed by global warming. So unless 
+
+24 you limit your suits to the States, which would -- I'm 
+
+not aware of a principled basis for doing that -- every 
+
+57
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 individual can bring -- every individual in the world if 
+
+2 they can establish jurisdiction can bring one of these 
+
+3 cause of -- causes of action. 
+
+4  MS. UNDERWOOD: Well, a principal basis to 
+
+limit -- the common -- the Federal common law of 
+
+6 nuisance, as I said, exists principally for the States, 
+
+7 for the reason it survived Erie was the Court spoke of 
+
+8 the strong Federal interest in providing the States with 
+
+9 a remedy for interstate pollution. So there is a 
+
+principle there. 
+
+11  And then beyond the States, plaintiffs would 
+
+12 have to, to bring a common law nuisance claim as well as 
+
+13 to have standing, would have to have a special injury of 
+
+14 some kind that would distinguish them from the 
+
+general -- from the general public. The Land Trusts 
+
+16 here argue that they, because they hold their lands in 
+
+17 trust for the public, they have special standing. 
+
+18 That's -- there's no need to reach that question. This 
+
+19 case could turn and should turn on the right of the 
+
+States to protect their people from -- and their -- and 
+
+21 their land from -- from interstate -­
+
+22  JUSTICE KAGAN: But, General, much of your 
+
+23 argument depends on this notion that this suit is really 
+
+24 like any other pollution suit, but all those other 
+
+pollution suits that you've been talking about are much 
+
+58
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 more localized affairs. One factory emitting discharge 
+
+2 into one stream. They don't involve these kinds of 
+
+3 national/international policy issues of the kind that 
+
+4 this case does. I mean, there's a huge gap, a chasm 
+
+between the precedents you have and this case, isn't 
+
+6 there? 
+
+7  MS. UNDERWOOD: I don't know if I would call 
+
+8 it a chasm, but there's a large distance between them, 
+
+9 and -- but I would like to separate two things. The 
+
+international aspects of this are simply, I think, 
+
+11 beyond -- we're not suggesting that this -- this -- that 
+
+12 the Federal common law of nuisance entails relief 
+
+13 against international defendants. It does exist for 
+
+14 interstate -- for conflicts between the States 
+
+essentially. So I would like to put those aside. 
+
+16  And then, in terms of the magnitude, well, 
+
+17 there are many cases, not just one factory, the 
+
+18 Milwaukee v. Illinois itself involved not just the 
+
+19 Milwaukee sewage district that -- that was sued, but 
+
+there were many other contributors to pollution in that 
+
+21 lake. 
+
+22  JUSTICE ALITO: In setting these standards, 
+
+23 there would somebody difficult trade-offs, wouldn't 
+
+24 there? Could you just explain in concrete terms how a 
+
+district judge would deal with those? Let -- and just 
+
+59
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 determining the facts is going to be hard enough, but 
+
+2 let's assume all the facts are proven, there's not a 
+
+3 dispute about the facts. So that if a certain reduction 
+
+4 in greenhouse gas emissions is ordered, that will have 
+
+this effect, it will increase the cost of electricity by 
+
+6 a certain amount, and that will produce certain effects. 
+
+7 It will result in the loss of a certain number of jobs, 
+
+8 it will mean that consumers will have less money to 
+
+9 spend on other -- other things. Some people will not be 
+
+able to have air conditioning in the summer. That will 
+
+11 have health effects. 
+
+12  How is the district judge -- what standard 
+
+13 does the district judge have to decide those? It's 
+
+14 just -- what is it, just what's reasonable?
+
+ MS. UNDERWOOD: Well, reasonableness is the 
+
+16 beginning. I -- I've suggested already first that we've 
+
+17 alleged that this can be done without increasing the 
+
+18 cost to the consumers. That may seem -- that -- that is 
+
+19 a subject for proof.
+
+ JUSTICE SCALIA: Implausible -- implausible 
+
+21 is the word you're looking for. 
+
+22  (Laughter.) 
+
+23  MS. UNDERWOOD: Thank you, Justice Scalia. 
+
+24  But a very good place to look is what other 
+
+companies have been able to do or have done, including, 
+
+60
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 as I suggested, in Tennessee Copper and perhaps in this 
+
+2 area as well, companies that settle this litigation or 
+
+3 companies that don't litigate but instead do adopt 
+
+4 measures that haven't been widely adopted. There -­
+
+there is a practice to examine in the world about what's 
+
+6 feasible and what's cost-effective, and that's not 
+
+7 different from -­
+
+8  JUSTICE BREYER: Well, I suppose 
+
+9 cost-effective -- suppose your complaint is the same but 
+
+you alleged, what I get from reading these might be the 
+
+11 best way to deal with the problem. I would like the 
+
+12 court to impose a tax of $20 a ton on carbon, right? 
+
+13 And we bring all the polluters in, and the same injury 
+
+14 that you have, everything's the same, you have 14 
+
+experts who say this is how to get it done. It's 
+
+16 cost-effective, it will lead to substitution, it will 
+
+17 actually bring about a world without global warming, and 
+
+18 so let's do it. 
+
+19  Now, does the district judge, in your 
+
+opinion, have the power to enter that order? 
+
+21  MS. UNDERWOOD: I don't think so. 
+
+22  JUSTICE BREYER: All right, now next 
+
+23 question is going to be, if he does not have the power 
+
+24 to enter that order, which could be proved to be 
+
+extremely effective, and least possible harm to the 
+
+61
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 consumer, why does he have the power to enter the order 
+
+2 you want? 
+
+3  MS. UNDERWOOD: Because the common law of 
+
+4 nuisance is addressed to direct the polluter to abate 
+
+the nuisance. 
+
+6  JUSTICE BREYER: Oh, this will. This is 
+
+7 addressed to that. It says abate the nuisance, here's 
+
+8 how you're going to do it. You're going to put a $20 a 
+
+9 tax ton on carbon, and lo and behold, you will discover 
+
+that nuisance will be abated. And we bring in 15 
+
+11 economists. 
+
+12  MS. UNDERWOOD: Actually, the order we're 
+
+13 asking for is less intrusive than that. We ask the 
+
+14 defendants to abate the nuisance, we ask the court to 
+
+order them to abate the nuisance by some amount, 
+
+16 informed by what information is available about methods. 
+
+17 And then -­
+
+18  JUSTICE BREYER: Well, why is it less 
+
+19 intrusive -­
+
+MS. UNDERWOOD: Because -­
+
+21  JUSTICE BREYER: -- to try to get into the 
+
+22 details of how an electricity company will in fact run 
+
+23 its operation, than to say all you have to do is make a 
+
+24 change in the dollar sign that you charge for your 
+
+product? 
+
+62
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1  MS. UNDERWOOD: Well, because we're not 
+
+2 suggesting that the court would get into the details on 
+
+3 our theory, either. It would be the defendants that 
+
+4 would get into the details, that would figure out for 
+
+themselves what the best way was to meet these standards 
+
+6 -- to meet the objective. 
+
+7  JUSTICE SCALIA: I wish Justice Breyer had 
+
+8 made this argument in the EPA case. I don't think the 
+
+9 EPA case -­
+
+(Laughter.) 
+
+11  MS. UNDERWOOD: And of course it's true that 
+
+12 if you conclude that the Federal statutes displace the 
+
+13 Federal -- and the Federal regulations displace the 
+
+14 Federal common law either now or in the future, then 
+
+under Ouellette, the same Federal statute that replaces 
+
+16 Federal common law will revive source State common law, 
+
+17 because of the savings clause in that statute, because 
+
+18 of a choice Congress made; and that result, while less 
+
+19 -- less respectful of the Federal interest in providing 
+
+Federal law to govern these disputes, would nevertheless 
+
+21 leave common law courts in the business that they're -­
+
+22 of attempting to address pollution problems. 
+
+23  The suggestion has been made that the EPA 
+
+24 has entered the field of greenhouse gas, and that's 
+
+enough, but it isn't just one field. It only seems like 
+
+63
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 one because the EPA once said the whole subject was off 
+
+2 limits and beyond their jurisdiction. Once that 
+
+3 obstacle is removed, there still remain a series of 
+
+4 programs under the statute, a series of kinds of sources 
+
+that need to be regulated. The Clean Air Act regulates 
+
+6 by substance and by source. It's a collection of 
+
+7 statutory programs, and taking action under one program 
+
+8 can't displace the common law as it applies to matters 
+
+9 outside that program.
+
+ It may well be that there will be a 
+
+11 regulation soon that displaces, but it would be very 
+
+12 surprising if this Court concluded that the promise of 
+
+13 regulation is enough to displace the Federal common law 
+
+14 as distinguished from the actuality of it.
+
+ The Court has suggested that a court might 
+
+16 impose standards that would conflict with what the EPA 
+
+17 is doing, but there's really no reason to think that 
+
+18 would happen because if what a court sets out to do is 
+
+19 find out what feasible methods there are for reduction 
+
+and then order the defendants to make reductions that 
+
+21 are feasible, that's a much less taxing inquiry, a much 
+
+22 less demanding inquiry than the EPA is likely ultimately 
+
+23 to make. 
+
+24  JUSTICE SCALIA: What if the EPA comes up 
+
+with a different number? Would it -- than the one you 
+
+64
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 achieve in this litigation; would the EPA prevail? 
+
+2 Would the EPA's number prevail or your number prevail? 
+
+3  MS. UNDERWOOD: You mean an emission 
+
+4 reduction?
+
+ JUSTICE SCALIA: Yes, yes. I mean you -­
+
+6  MS. UNDERWOOD: If the EPA -- when the EPA 
+
+7 speaks, the EPA's rule will displace the Federal common 
+
+8 law. We're talking entirely -­
+
+9  JUSTICE SCALIA: And will displace the 
+
+judgment that has been obtained under Federal law? 
+
+11  MS. UNDERWOOD: If -- it would presumably 
+
+12 provide a basis for the defendant to go back to the 
+
+13 court and -- and vacate the judgment or alter the 
+
+14 judgment to comply with regulations, should that happen.
+
+ JUSTICE SCALIA: Right. And the court says 
+
+16 no? 
+
+17  MS. UNDERWOOD: That's what appellate courts 
+
+18 are here for, isn't it? 
+
+19  (Laughter.)
+
+ CHIEF JUSTICE ROBERTS: Well, I guess, just 
+
+21 to follow up, what is the appellate court reviewing? Is 
+
+22 it reviewing the reasonableness of EPA's judgment or the 
+
+23 continuing validity of the injunction it entered 
+
+24 previously?
+
+ MS. UNDERWOOD: The continuing validity of 
+
+65
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 the injunction it entered previously because once the 
+
+2 EPA -­
+
+3  CHIEF JUSTICE ROBERTS: But that seems to be 
+
+4 a displacement of the normal process of administrative 
+
+law, which we would review the agency's determination of 
+
+6 how best and to what extent to regulate the emissions. 
+
+7  MS. UNDERWOOD: On a different litigation 
+
+8 track, it is -- would also be possible to challenge the 
+
+9 EPA's regulatory judgment, but in the case in which a 
+
+judgment had already been entered, it is the ordinary 
+
+11 litigation track to, if -- if intervening events make 
+
+12 equitable relief no longer equitable, to go back to the 
+
+13 court and ask the court to modify its injunction. 
+
+14  CHIEF JUSTICE ROBERTS: Yes. And I guess 
+
+that's the central problem. Once you turn it over to 
+
+16 litigation, it's an entirely different set of standards 
+
+17 that would regulate emissions as opposed to the 
+
+18 standards that would apply with respect to an agency's 
+
+19 determination.
+
+ MS. UNDERWOOD: I don't think it's a 
+
+21 different set -- yes, one set of standards for reviewing 
+
+22 an agency's determination, but the ultimate standards 
+
+23 that are reached are going to be a level of emission 
+
+24 reduction through either process.
+
+ When the agency speaks to the question, the 
+
+66
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 Federal common law is displaced. When it doesn't, and 
+
+2 during what could be a long period of time when it 
+
+3 doesn't, the States are entitled to a Federal law 
+
+4 governing their dispute. So we urge this Court to keep 
+
+the Federal courts open to States exercising their 
+
+6 historic power to protect their land and their citizens 
+
+7 from air pollution emitted in other States. 
+
+8  CHIEF JUSTICE ROBERTS: Thank you, General 
+
+9 Underwood.
+
+ Mr. Keisler, you have five minutes 
+
+11 remaining. 
+
+12  REBUTTAL ARGUMENT OF PETER D. KEISLER 
+
+13  ON BEHALF OF THE PETITIONERS 
+
+14  MR. KEISLER: Thank you, Mr. Chief Justice. 
+
+Just a few points. 
+
+16  First, with respect to the merits and what 
+
+17 it would involve to adjudicate this case, Justice Kagan, 
+
+18 it is a -- there's a reason that this issue is so 
+
+19 fraught and difficult in international negotiations and 
+
+at the EPA and in the halls of Congress, and that's 
+
+21 because it requires policymakers to allocate burdens 
+
+22 among critical social goods in favor of important 
+
+23 environmental considerations; and the remedies that are 
+
+24 being considered are potentially transformative because 
+
+they involve the way we use and supply and pay for 
+
+67
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 energy. And the problems with courts attempting to 
+
+2 replicate what's going on in those venues are not simply 
+
+3 the matter is complex, although of course it's extremely 
+
+4 complex, but there is no legal principle here to guide 
+
+the decision. It's a question of trade-offs, how the 
+
+6 country wants to balance the projected environmental 
+
+7 risks and benefits against the projected economic 
+
+8 benefits and costs. 
+
+9  If Congress enacts a statute providing a 
+
+standard, then our political question argument goes 
+
+11 away. It's not that this is permanently off limits to 
+
+12 the judiciary. It's that it requires a standard. And 
+
+13 in a big intractable issue like this, Congress can often 
+
+14 create an orderly framework for consideration within a 
+
+statutory context, which it has done in part by enacting 
+
+16 the Clean Air Act. 
+
+17  And the final point I would make my friend 
+
+18 and I come at this really from opposite angles, in the 
+
+19 following sense, which is the plaintiffs say that this 
+
+is a deeply historically rooted cause of action with a 
+
+21 very strong and ancient pedigree, and therefore it can't 
+
+22 possibly present justiciability problems, under 
+
+23 standing, political question doctrines; and we say that 
+
+24 the very powerful standing and political question 
+
+obstacles that we think are apparent on the face of this 
+
+68
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official - Subject to Final Review 
+
+1 are a signal that this is nothing like the historical 
+
+2 cause of action that they've relied on. 
+
+3  To classify climate change as a tort would 
+
+4 trigger a massive shift of institutional authority away 
+
+from the politically accountable branches and to the 
+
+6 courts, which we think would be inconsistent with 
+
+7 separation of powers, and for those reasons we ask that 
+
+8 the Court reverse the judgment and direct that the case 
+
+9 be dismissed.
+
+ CHIEF JUSTICE ROBERTS: Thank you, 
+
+11 Mr. Keisler, counsel. The case is submitted. 
+
+12  (Whereupon, at 11:28 a.m., the case in the 
+
+13 above-entitled matter was submitted.) 
+
+14 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+69
+ 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final ReviewOfficial - Subject to Final Review
+
+35:10,18 37:5 8:16 10:6 23:23 allowing 23:22 apply 17:23A 
+51:14 52:20 27:18,25 42:2,5 56:2 26:15 32:7abate 62:4,7,14 
+56:21,23 58:3 42:11,18 43:3,7 alter65:13 66:1862:15 
+64:7 68:20 69:2 43:7,20 46:8 altering 41:13 applying 3:19abated62:10 
+
+actions 9:7 25:10 48:5 50:3,3,17 American 1:3 3:4 approach 16:11abilities 21:6 
+25:16,17 28:16 50:19 56:18,19 amount 33:13 32:10 44:20ability 57:6 
+34:6 57:2 66:25 47:3,5,22,22 appropriateable 6:8,16 50:10 
+
+actual 8:5 agency's 66:5,18 60:6 62:15 11:23 12:1560:10,25 
+actuality 64:14 66:22 amounts 52:5 21:6 26:8 29:9above-entitled 
+adapted37:7 aggregate 52:17 analysis 8:6 35:3,15 37:21:12 69:13 
+add 18:19 53:23 24:13,24 40:9 40:19absence 30:22 
+address 4:20 5:3 agree 20:19 24:4 45:8,9,11,11 appropriatelyabsolutely 21:25 
+
+5:5 7:23 18:16 33:5 35:14,24 analyzing 19:4 34:1227:21 33:9 
+23:5 25:3 34:22 36:4 55:9 ancient 68:21 approximatelyabsorb 53:5 
+40:25 63:22 agreed43:10 angles 68:18 24:3 54:15abstract 18:14 
+
+addressed12:6 agreement 33:19 announce 25:18 April 1:10accountable 69:5 
+13:23 14:5 16:2 51:2 announced17:2 arduous 12:8achieve 12:1 
+16:3,10 28:15 Aiken21:10,10 36:5 area 22:3 27:1765:1 
+34:5,6 43:2 21:16 announces 20:2 29:22 34:7acknowledge 
+62:4,7 air 12:16,18,20 announcing 35:22 41:16,1623:15,17 26:20 
+
+addresses 25:8 13:12 14:19 20:21 43:22 47:16acknowledged 
+addressing 7:21 16:25 25:9,9 annually 38:12 61:28:19,21 
+
+42:23 26:18 27:24 answer27:5,6 areas 13:14acknowledgme... 
+adduce 6:16 30:12 32:2,4 30:24 32:13 57:199:2 
+adhere 10:6 36:17 42:6,7,12 antipollution argue 39:16act 12:16,18,20 
+adjudicate 30:21 44:12,17 45:1 45:4 58:1613:12 14:3,19 
+
+67:17 45:20 60:10 anybody 51:15 argument 1:1317:1 18:8 25:9 
+adjudication 64:5 67:7 68:16 51:19 54:19 2:2,5,9,12 3:3,725:9 26:18 
+
+35:13 37:12 al 1:4,7 3:5 APA 17:4 4:13,19,22,2427:24,25 30:12 
+administrative Alito 25:12,24 apart 19:17 4:25 11:4 12:632:2,5 42:6,12 
+
+22:24 23:9 42:1 26:5,7 29:1 53:23 12:17 14:15,1744:12,13,15,17 
+42:4,11 66:4 30:11 38:25 apparent 68:25 14:22 16:1445:1,20 46:8 
+
+admit 45:7 39:5,16 54:19 appeal 14:9 17:13 18:648:7 64:5 68:16 
+adopt 61:3 57:12 59:22 57:17 21:11,14 26:15acted48:5 
+adopted8:13 allegation 10:20 appeals 15:3 27:22,23 28:20acting 1:18 43:10 
+
+44:20 61:4 alleged18:1 41:5 29:25 29:11 36:10action 4:4 5:7 
+adopting 45:9 60:17 61:10 APPEARANC... 42:20,25 43:136:13,18,23 8:8 
+adopts 16:15 alleging 37:16 1:15 55:10 58:238:14 9:17 11:10 
+affairs 59:1 alleviate 11:22 appellate 65:17 63:8 67:1212:15 14:18 
+affect 41:18 allocate 38:20 65:21 68:1015:25 21:3,5 
+agencies 8:14 67:21 applicable 45:23 arguments 4:125:7 28:7,13,19 
+
+42:4 43:14 allocated12:2 48:10 8:12 11:1029:18,22 30:3 
+49:23 allocating 52:21 applied26:5 12:13 28:1130:22 31:2,6,18 
+
+agency 7:23 8:14 allow24:2 52:11 applies 64:8 32:1,3 34:20,2532:13 34:14 
+
+70 
+
+Alderson Reporting CompanyAlderson Reporting Company
+
+
+
+Official - Subject to Final Review 
+
+arrive 43:25 a.m 1:14 3:2 68:7,8 56:5 69:12 
+arrives 51:11 69:12 best 13:25 19:1 call 20:22 55:17 cases 3:21 10:13 
+Article 5:1,6,10 21:7 22:2 26:25 59:7 10:14 11:18 
+
+B18:20,24 19:2 55:20 61:11 called18:14 13:15 15:3 
+B 31:15,15 19:19 20:9 63:5 66:6 42:14 18:21 21:17 
+back 34:18 65:12 21:15,20,24 better23:5 candidate 55:21 31:8,13 51:23 
+
+66:1242:15 beyond 43:4 cap 38:11,12 55:18,18 56:2,5 
+bailiwick 12:9aside 59:15 58:11 59:11 carbon 23:23 59:17 
+Baker34:21asked3:12 21:4 64:2 33:13 36:20 case-by-case
+balance 17:828:7 33:4 40:18 big 41:1 68:13 41:10 46:19 25:19 
+
+39:7 49:21 68:6 asking 10:8 billion 24:3 47:3 52:2 53:5 categories 11:8 
+balancing 3:1316:16 19:5 billions 18:2,3 53:13 61:12 causation 8:7 
+balkanize 28:2237:21 62:13 bit 35:7 62:9 cause 4:3 5:7 
+ball 27:17asks 38:21 52:1 body 10:17 carefully 7:19 6:10,13,18,23 
+bar 32:18aspect 56:17 border10:17 Carr 34:21 8:8 11:10 12:15 
+BARBARA 1:22aspects 59:10 bothers 22:10 cars 27:3 21:3 28:13,19 
+
+2:10 36:10assert 9:1 19:14 branch27:18 cascade 25:10 29:18 30:3,21 
+base 22:1123:14 branches 3:25 25:13 31:2,6,18 32:13 
+based12:2 24:13 asserted29:4 69:5 case 3:4,11,21 35:9 51:14 58:3 
+
+41:18,22 assess 3:17 breathe 53:2 4:4,8,18,25 5:2 68:20 69:2 
+basic 4:6,13 assigned12:11 breathers 53:3 6:4,11,12 7:4,7 causes 15:25 
+basically 4:1412:22 14:14 breathing 53:7 8:6,11 9:5 10:8 28:7 29:22 58:3 
+basis 4:25 7:16 16:10 Breyer43:6 61:8 10:13,17,21,22 central 29:9,9 
+
+8:18 53:21assigns 16:5 61:22 62:6,18 13:25 14:2 66:15 
+57:25 58:4assume 31:20,20 62:21 63:7 15:16 16:1,17 certain 16:6 
+65:1254:9 60:2 brief 22:6 25:5 17:19 18:8 19:1 33:13 50:19 
+
+bear 41:4atmosphere briefs 51:15 56:5 19:9,14,20,24 60:3,6,6,7 
+began 55:1011:24 13:3 bring 57:11 58:1 20:1,1,4,7,20 certainly 12:16 
+beginning 50:4attempt 55:18 58:2,12 61:13 20:25 21:10,10 26:4,7 41:16 
+
+50:16 60:16attempting 63:22 61:17 62:10 22:13,20 23:3 49:3,18 
+begins 51:668:1 bringing 57:14 24:15,20 26:17 certification 
+behalf 1:16,20 authority 1:20 broad15:6 55:13 26:25 27:9,13 56:22 
+
+1:23 2:4,7,11 2:8 9:20 10:4 55:15,17 31:7,12 35:3,15 challenge 7:22 
+2:14 3:8 17:14 13:2,13 15:6 broader7:24 35:17 36:7,14 66:8 
+19:15 36:1116:5 17:6,15 55:23 37:5,12 38:17 challenged56:19 
+67:1327:16 36:15 brought 5:10 39:10,12,18 challenges 8:14 
+
+behold 62:943:11 69:4 burden41:1,3 43:9,24 44:5,8 17:4 
+believe 4:8 5:2 authorized44:16 burdens 67:21 46:15 47:11 change 3:19 8:25 
+
+5:21 7:18 8:17 automobiles 13:5 business 39:12 48:25 49:1,10 62:24 69:3 
+16:23 17:5 25:4 46:18 63:21 52:1 55:11,14 changes 11:20 
+44:4 45:11available 40:3,6 businesses 37:18 55:23 56:6,20 changing 41:12 
+54:1340:13 41:7 46:2 58:19 59:4,5 charge 62:24 
+
+Cbenefit 7:1057:8 62:16 63:8,9 66:9 chasm59:4,8 
+40:16 C 2:1 3:1 aware 57:25 67:17 69:8,11 cheating 7:3 
+
+benefits 40:24 California 13:4 
+
+71 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+Chief 3:3,9 4:9 25:9,9 26:18 55:2 57:8 58:5 60:10 consumer62:1 
+4:11,18,21 27:24,25 30:12 58:5,12 59:12 conduct 9:6 26:6 consumers 60:8 
+10:18,24 17:10 32:2,4 42:6,11 62:3 63:14,16 conducting 50:7 60:18 
+17:16 22:9,14 44:12,13,15,17 63:16,21 64:8 confident 6:24 contemplates 
+22:20,22 23:7 45:1,20 64:5 64:13 65:7 67:1 15:11 35:8 
+25:2 27:12 28:2 68:16 companies 52:8 conflict 43:9,19 contending 3:14 
+28:6 36:8,12 clear 6:13 7:5 55:19 60:25 64:16 context 7:20 8:10 
+40:8,15,21 18:20 61:2,3 conflicts 48:17 49:9 68:15 
+41:14 44:19 clearly 9:9 company 1:4 3:4 57:18 59:14 continuing 65:23 
+45:6 46:12 47:7 clients 54:10 52:6 62:22 Congress 12:21 65:25 
+47:14 49:13 climate 3:19 8:25 company's 54:24 13:21,23 14:5,6 contrary 22:14 
+54:7,16 55:9,20 69:3 comparative 14:13 15:22,24 38:17 
+55:23 56:9 close 17:4 37:4 11:25 16:1,3,10 25:25 contribute 53:5 
+57:21 65:20 49:1 52:7 compel 10:6 37:23 44:20 56:10 
+66:3,14 67:8,14 collection 64:6 competent 18:16 46:7 48:2,4,18 contributes 22:7 
+69:10 collective 9:7 complaining 48:23 63:18 contributing 3:19 
+
+child 19:15,15 come 23:11 10:16 67:20 68:9,13 contributor 
+choice 63:18 68:18 complaint 8:21 congressional 54:20,22 
+choices 3:24 4:1 comes 51:22 18:22 41:9 42:3 48:23 49:4 contributors 
+
+10:5,11 52:7 64:24 61:9 Congress's 15:6 36:21 52:18 
+circuit 57:18 comment 50:10 complete 14:12 Connecticut 1:7 56:3,4,12,13 
+circumstance 50:12,20 17:3 51:8 3:5 59:20 
+
+21:2 commerce 15:7 completely 10:1 connection 9:3 control 45:5 
+cited56:5 27:15 14:11 15:4 connects 41:15 Copper10:21 
+citizens 36:16 commits 33:20 complex 3:14 consequence 11:17 31:13 
+
+37:18 57:3 67:6 common3:18 4:2 68:3,4 12:25 14:21 38:16 39:9,22 
+claim6:9,24 9:25 5:13 6:8,16,18 complexity 34:15 57:3 40:1,20 61:1 
+
+14:3 25:6 29:4 6:21,22 11:13 complicated29:8 consequential correct 21:25 
+30:15 55:1 57:7 12:15 13:8,17 39:18,20 3:15 30:16 31:2 39:4 
+58:12 13:24 14:3,6,18 comply 65:14 consider16:24 46:4 47:5 56:11 
+
+claims 11:19 14:23,25 15:5 concede 42:19 17:6 cost 40:14 41:11 
+14:23 15:1 20:5 15:12,13 16:12 concentrate 38:9 consideration 60:5,18 
+32:18 16:14 21:2 concepts 13:18 68:14 costs 40:23 68:8 
+
+Clammers 34:2 23:10 25:6,17 13:19 considerations cost-benefit 40:9 
+class 56:21,22 26:24 28:7,13 concern 31:23 20:14 39:2 cost-effective 
+classic 9:5 28:15,18 29:5 concerned4:12 67:23 36:22 38:23 
+classify 43:11 29:21 30:3,5,15 4:13 considered46:18 39:1,25 61:6,9 
+
+69:3 30:21 31:6,8,21 conclude 40:7 47:21 67:24 61:16 
+clause 13:13 31:21,24 32:9 63:12 considering 51:2 counsel 22:9 
+
+15:7 27:15 32:21 34:13 concluded64:12 consistent 29:5 69:11 
+63:17 35:9 37:5 45:2 concrete 21:12 44:22 countervailing 
+
+Clean 12:16,18 45:13,22,23 21:18,20 34:9 constitute 8:23 39:6 
+12:19 13:12 46:1,6,9 48:6,8 59:24 constitutional country 3:16 
+14:2,19 16:25 50:17 51:4,14 conditioning 15:7 9:20 52:11 
+
+72 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+53:16 68:6 courts 3:11,17 16:11,20,21 denial 7:22 26:17 27:9,14 
+course 15:9 3:23 10:9,12,12 22:23 40:23 deny 18:24 31:17 59:23 
+
+24:17,19,19 12:12,23 13:21 41:14 Department 1:19 67:19 
+26:6 40:17 44:3 14:13 16:12 December26:10 depend 15:14 dioxide 33:13 
+47:10 55:16 27:18 29:25 decide 18:14 depending 56:15 36:20 41:10 
+63:11 68:3 30:9 32:19 22:13,15,16 depends 55:16 46:19 47:3 52:3 
+
+court 1:1,13 3:10 35:24 37:7,8,12 23:3,4 28:1 58:23 53:5,13 
+4:19 5:2,5,9,11 38:6 42:4 43:6 38:17,18,22 derail 51:12 direct 9:17 62:4 
+5:22 6:12,15,25 44:6 52:14,17 39:1 40:10 48:2 describe 19:17 69:8 
+7:8,21 8:1,4,6,7 55:2 57:18 55:3 60:13 design 3:18 directly 19:10,11 
+8:11 9:8,9 10:2 63:21 65:17 decided20:1 44:23 disagree 21:23 
+10:3,6,9,14,25 67:5 68:1 69:6 26:14 desirable 43:3 22:1 
+11:13,20,21 court's 5:4 7:11 deciding 33:20 destroy 15:25 discharge 59:1 
+12:19 13:14 8:5 12:9 15:5 decision 5:4 details 62:22 discharges 44:16 
+14:2,12 15:3,25 17:8 22:2 22:11 27:19 63:2,4 55:19 
+17:7,17,18,23 cover30:5 37:7 47:21 68:5 determination disclaimed10:10 
+18:7,10,13 19:2 covers 24:20 decisionmaker 38:6 66:5,19,22 discover62:9 
+19:3 20:1,12,22 cow52:15,15 12:7,7 determinations discovery 37:3 
+20:23,24 21:3,5 cows 52:11 decisions 14:10 12:23 44:21,23 dismiss 5:22 
+21:14 23:10,12 cow's 54:24 14:13 36:2 determine 3:20 35:15 
+23:20 24:1,1,7 create 15:24 deeply 68:20 37:2 40:24 41:7 dismissed4:8 
+24:12,25 25:14 68:14 default 46:6 determined42:1 44:5 69:9 
+26:8 28:9,12,17 critical 8:2 67:22 50:15 determining dismissing 56:3 
+29:20 30:4,8,20 criticize 24:5 defeat 6:8,24 54:22 60:1 displace 45:2 
+31:8,13,18 32:9 crossed10:17 defendant 3:21 difference 17:21 46:8,9 47:1,5 
+32:12,25 34:14 currently 33:11 9:19 40:4,5 31:16 47:19,25 63:12,13 64:8 
+35:10,17,23,25 44:9 47:4 52:13,13,21 48:1 49:6,7 64:13 65:7,9 
+36:13 37:1,4,17 customers 41:11 65:12 differences displaced13:24 
+37:21 38:10,16 41:18,20 defendants 8:23 17:22 50:8 14:3,19 16:15 
+38:17,21 39:6,7 cut 8:5 22:21 9:6,21 36:19,22 different 10:1 25:7 29:16 
+39:12,21 40:3,6 cuts 4:15 37:10,11 38:21 11:1,15 12:2 31:22 45:21,24 
+41:2 43:4,18,25 cut-off 55:4 38:22 40:1 41:7 13:11,22 15:4 51:6 67:1 
+45:13 46:3 50:2 44:11 52:3 16:11 21:8 displacement
+
+D50:6,11,12,13 53:23 55:8 25:10,23 30:19 13:10,16,16 
+D 1:16,22 2:3,10 50:15,22 52:1 56:24 59:13 31:7 34:6 35:2 15:12 25:3,5,13 
+
+2:13 3:1,7 56:8,20,23 62:14 63:3 38:4 42:10 25:16,19 27:1,7 
+36:10 67:1257:13,15,19 64:20 47:16,23 48:5 27:9 28:4,13,24 
+
+damage 52:2058:7 61:12 defined16:7 49:17 52:20 29:10,14 30:1 
+55:2462:14 63:2 56:16 57:15 61:7 32:4,14,22 34:2 
+
+damages 55:1264:12,15,15,18 definition51:23 64:25 66:7,16 42:15,20,25 
+data 55:765:13,15,21 delay 51:12 66:21 45:8,9,10,11 
+deal 36:1 44:6 66:13,13 67:4 delays 51:9 differently 30:24 46:10,13,14,15 
+
+45:14 59:2569:8 demanding 64:22 44:12 49:20 46:16,17 47:8 
+61:11courthouse 37:4 demonstrate 7:9 difficult 11:9 47:15,17,23 
+
+dealing 4:16 
+
+73 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+49:5,21 66:4 D.C 1:9,16,19 54:13,14,17,18 16:15,19,20,23 exactly 4:11 10:9 
+displaces 64:11 54:24 60:4 66:6 19:4 23:19,22 10:20 11:12 
+
+Edisplacing 44:1 66:17 24:10,11,16,22 22:10 29:3 
+E 2:1 3:1,1 dispute 60:3 67:4 emit 53:13 25:11,24 26:10 examine 61:5 
+easier12:17disputes 38:5 emitted36:17 26:14 27:2,16 example 13:4 
+easiest 26:2548:11 63:20 37:19 67:7 33:7,7,11,20 16:9 18:12 
+eclipsed17:22disputing 21:19 emitters 18:3 34:11 36:2 20:22 55:4,6 
+economic 68:7dissenters 28:20 36:20 39:24 37:23,23 38:2,3 exception 5:4 
+economicallydistance 59:8 52:2 38:13 43:10,13 exchange 45:16 
+
+41:9distinct 4:6 49:16 emitting 59:1 43:21 44:17,24 excuse 26:21 
+economics 34:16distinction19:12 enacted12:16 46:18,20,22,24 executive 27:18 
+economistsdistinguish58:14 44:14 49:25 50:1,5,8 34:7 
+
+62:11distinguished enacting 13:4 50:11,14,14 exercising 67:5 
+economy 11:1513:15 64:14 68:15 51:2,6,7,10 exhale 53:6 
+
+40:22,25 district 18:7 37:1 enacts 68:9 55:5 63:8,9,23 exist 59:13 
+effect 8:20,25 37:25 38:10,25 endanger12:24 64:1,16,22,24 existence 12:18 
+
+9:24 33:17 45:3 39:7 41:2,6 endangerment 65:1,6,6 66:2 28:9,18 32:3 
+60:556:23 57:13,15 26:11,14 27:2,7 67:20 existing 16:20,24 
+
+effective 61:2557:19 59:19,25 energy 68:1 EPA's 8:12 55:6 33:4,7,8,11,18 
+effects 36:2460:12,13 61:19 enforce 3:24 65:2,7,22 66:9 33:21,22 43:18 
+
+60:6,11 divide 54:14 engaged17:1 equals 53:20 43:19 44:10 
+efficiency 41:12doctrine 17:24 43:8 equitable 21:5 49:18 50:2 51:3 
+either4:18 6:21 18:11 21:1 enormously 29:8 37:2 66:12,12 exists 31:6 33:3 
+
+28:10 35:322:18 34:19,24 31:17 equity 18:8 36:7 44:2 51:4 
+48:16 54:2535:7,11,15,21 entails 59:12 Erie 58:7 58:6 
+63:3,14 66:24 doctrines 5:17 enter51:9 61:20 ESQ 1:16,18,22 expand 11:13 
+
+electric 1:3 3:4 5:17 32:16,17 61:24 62:1 2:3,6,10,13 expanded4:3 
+41:1568:23 entered63:24 essentially 31:14 expert 39:22 
+
+electricity 41:11doing 23:7 34:14 65:23 66:1,10 59:15 expertise 10:4 
+60:5 62:2239:24 43:20 entire 9:20 23:23 establish4:7 38:1 
+
+elements 6:2257:25 64:17 37:13 15:11 58:2 experts 34:12 
+eliminated39:11dollar 62:24 entirely 65:8 established14:7 61:15 
+emission 11:19doom8:13 66:16 et 1:4,7 3:5 explain 59:24 
+
+38:14,18 39:3 door 37:4 entitled41:5 evaluated9:22 explicit 34:3 
+44:10 47:3 65:3 doubt 31:11 67:3 event 5:20 expressly 48:3 
+66:23doubted31:1,3 entrusted38:6 events 44:6 extend 30:4 
+
+emissions 3:23dramatic 31:12 environmental 66:11 extension 31:12 
+8:24 9:16 11:24 55:10 37:7 67:23 68:6 everybody 19:21 extent 21:22 
+23:24 34:13dramatically EPA 7:13 9:10 50:10 52:23 22:1 33:12 
+36:23 37:22,24 30:5 9:13,14,14,16 53:24 41:21 47:15 
+38:11 39:10,13 draw10:21 55:1 9:19 10:5,10 everything's 66:6 
+39:25 40:11drop22:7 12:7,11,19,22 61:14 extremely 15:6 
+41:10,17 44:14 dumped10:16 13:1,8 14:10,14 evidence 25:21 25:16 61:25 
+46:19 51:16,19 dynamic 15:19 15:23,24 16:5,7 39:23 40:6 68:3 
+52:4,6 54:6,8,9 
+
+74 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+31:24 32:7,7,21 focused4:23 39:3 44:10 giving 51:5F 
+34:6,13 35:9 follow65:21 gasses 16:8 18:3 global 3:22 11:1 face 68:25 
+44:9 45:13,16 following 18:12 GBR 44:4 11:14 18:1facet 43:9 
+45:18,19,22,22 68:19 general 1:18,22 23:16 34:7,8 fact 14:22 27:16 
+45:23,24 46:4,6 follows 19:24 3:20 16:4 17:12 36:19,24 37:13 29:17 35:9 
+46:6,8,9,9 forbids 44:15 17:16 18:9,25 38:20,24 40:12 41:16,18 43:21 
+47:12 48:6,8,10 forcing 27:25 19:23 20:6,11 40:12,16,23 62:22 
+48:18 49:23 foremost 57:9 20:19 21:9,16 41:1 56:10factors 21:8 35:8 
+51:4,14 57:8 form 16:16 21:25 22:2,11 57:23 61:1740:9 
+58:5,8 59:12 forthcoming 22:17 23:6,17 go 9:13 11:10 factory 59:1,17 
+63:12,13,13,14 24:16 23:25 24:12,17 13:3 14:12facts 19:25 41:23 
+63:15,16,19,20 forward 50:5 24:21,23 25:14 18:23 34:2142:1 60:1,2,3 
+64:13 65:7,10 found 25:5 53:10 25:18 26:4,7,13 35:23 40:9fail 30:13,17 41:6 
+67:1,3,5 four 54:14 26:16 27:8,21 43:14,16 45:13 failed30:1 
+
+Federal-State frame 37:2 28:5 29:6,19 65:12 66:12fairly 55:10 
+49:21 framework 68:14 30:16,23 31:3 goes 7:4 8:6 18:6 familiar55:2 
+
+field 15:1 63:24 frankly 6:5 19:25 31:10,25 32:8 18:10,20 68:10 famous 22:14 
+63:25 34:14 32:24 33:9 going 11:4 15:9 far 21:17 
+
+fighting 34:8 fraught 67:19 34:17 35:1,6 22:13 23:3,8 farm 52:16,16 
+figure 54:1,4 friend 68:17 36:3,8,9 37:20 35:2 46:25farmers 52:12 
+
+63:4 front 42:22 48:1 41:25 51:13 47:17,18 60:1 fashion 21:4,6 
+file 14:9 Frothingham7:6 55:10 58:15,15 61:23 62:8,8 55:11 
+filed15:16 29:24 Frothingham's 58:22 67:8 66:23 68:2fashioning 23:11 
+final 68:17 19:20 generalized4:19 good 5:9 12:3,4 30:8 35:10 
+find 9:13 28:10 fuels 41:12 19:18,19 20:8 27:22 60:24father19:14 
+
+29:24 49:1,3 fulfillment 51:12 20:13,16 21:13 goods 67:22favor 13:20 
+64:19 function3:12 generally 22:18 gotten50:667:22 
+
+finding 26:11,11 12:10,11 50:7 32:16 govern 24:16feasible 39:25 
+26:15 27:2,7 fundamental geographic 63:2041:8 61:6 64:19 
+
+findings 44:18 36:15 11:17 governing 67:464:21 
+first 9:13 10:11 fundamentally Ginsburg 7:12 government 4:23Federal 4:2 6:4,5 
+
+11:23 12:6 19:2 33:23 7:18 12:5,14 20:21 21:116:16,18,22 
+26:10 33:10 further38:12 16:19 19:13,23 29:2,12,23 11:13 12:15 
+35:10,17 43:12 future 3:21 26:5 21:22 33:2,10 33:25 49:2413:8,16,19,24 
+57:8 60:16 63:14 33:24 35:22 governmental14:3,5,18,22 
+67:16 36:3 37:20 38:8 18:1514:25 15:12,19 Gfit 17:25 43:7 49:25 government's16:12,14 21:2 
+
+G 3:1five 9:21 36:20 50:18,22 56:17 34:923:10,22 25:6,7 
+gap 59:451:16,17 53:23 57:4 granted19:625:17 26:23,23 
+garden51:2354:10 67:10 give 16:19,20 grapple 30:1026:24 28:12 
+gas 3:22 11:24 flow4:6,12 22:22 23:8,10 grappling 32:2529:4,12,17,21 
+
+34:13 60:4flows 35:20 53:20,25 54:3 greatest 40:1629:23,25 30:5,9 
+63:24focus 4:14 7:19 54:25 56:4 greenhouse 3:2230:15,21 31:1,6 
+
+gases 11:1622:19 given13:1 34:24 11:16,24 12:21 31:8,20,20,22 
+12:21,24 26:11 
+
+75 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+12:24 16:8 18:3 higher47:22 impeachment informed62:16 intervention 7:11 
+26:11 34:13 highest 34:9 35:25 injunction18:7 18:17 
+39:3 44:10 60:4 historic 45:13 implausible 37:3 52:22 intractable 68:13 
+63:24 67:6 60:20,20 65:23 66:1,13 intrusive 62:13 
+
+grid 41:15,19 historical 69:1 implicit 27:19 injunctive 52:19 62:19 
+grievance 19:18 historically 38:5 importance 8:2 injured19:10,11 intuition22:2,11 
+
+19:19,21 20:8 68:20 important 67:22 37:19 42:7 invitation 23:7 
+20:16 hold 17:24 58:16 impose 41:2 injuries 9:1,6,24 25:3 
+
+grievances 20:13 holding 5:5 24:10 61:12 64:16 11:22 involve 59:2 
+ground 6:12,16 24:14 imposed57:13 injury 8:7,20 67:17,25 
+grounds 5:22 6:9 homes 53:9,12 imposes 44:18 21:12,18,20 involved59:18 
+
+6:10 17:5 34:23 Honor 5:16,21 improving 41:12 37:16 58:13 involving 19:18 
+guess 7:14 28:2 6:7,20 9:18 include 4:3 16:7 61:13 20:4,25 22:4 
+
+47:18 56:1 11:12 15:4,17 includes 12:21 inquiry 8:3 15:18 35:19 51:24 
+65:20 66:14 hope 51:8 including 5:23 16:2 64:21,22 55:18 
+
+guide 68:4 huge 59:4 13:2 35:8 38:6 insisted27:5 isolates 34:1 
+hundreds 34:11 41:12 60:25 instance 10:11 issue 3:15 12:6 
+
+H 37:6 56:15 inconsistent 10:15 49:20 13:9 16:8 26:14 
+half 52:5 hurts 31:15 14:11 69:6 institutional 69:4 29:2 67:18 
+halls 67:20 hypothetical increase 33:13 institutions 68:13 
+handful 52:7 15:16 27:6 60:5 18:16 issued26:10 
+handle 35:17 31:19 32:6 increasing 41:11 intended48:23 issues 4:10 5:3 
+happen26:22 60:17 intent 48:21,23 23:1 59:3 
+
+I44:3 51:11 incremental 7:25 49:4 issuing 57:15 
+64:18 65:14 idea 22:12 23:3 8:19 interaction49:23 
+
+Jhappening 26:9 26:1 incrementally interest 22:19 
+26:10 47:4 idle 18:8 January 33:177:23 8:15,17 23:9 45:18 46:4 
+
+happy 4:24 ignore 43:21,23 jobs 60:743:15 58:8 63:19 
+hard 60:1 II 14:1 26:20 join 4:24independent 9:7 interests 3:14 
+harder9:12 28:19 32:11 joining 45:17indication 40:4 22:23 36:18 
+
+48:25 49:3 33:1 34:3 joint 52:18individual 18:18 39:6,7 
+harm 11:20 III 5:1,6,10 jot 29:1352:21 58:1,1 international 
+
+61:25 18:20,24 19:3 judge 38:1,25 individually 9:22 34:16 59:10,13 
+harmed36:19 19:19 20:9 41:2,6 59:25 52:4 67:19 
+
+57:23 21:15,20,24 60:12,13 61:19 industry 33:25 interpret3:24 
+harms 54:9 42:15 judges 6:4,4,5 inexorable 50:25 interpreted10:7 
+health 60:11 Illinois 13:15 judgment 11:25inexorably 19:24 12:19 
+hear 3:3 27:23 14:1,4 49:15,19 46:18,20,23,23 19:25 interstate 14:23 
+heard 17:19 20:4 59:18 47:3 51:11inferred48:24 14:25 38:5 
+
+31:14 imagine 27:22 65:10,13,14,22 infinitesimal 45:15 46:5 
+heating 53:13 immediate 45:3 66:9,10 69:8 54:11,12 48:11 51:5 58:9 
+heavily 15:2 immediately judgments 30:19infliction55:24 58:21 59:14 
+height 23:11 38:11 judicial 17:25information intervening
+held 10:15 14:2 imminent 15:19 18:17 35:2062:16 66:11 
+help 38:23 44:1,3 judicially 22:21 
+
+76 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+judiciary 68:12 55:9,20,23 56:9 8:4,9 9:18 56:6,12,16 59:8 leave 63:21 
+jurisdiction4:15 56:17 57:4,12 10:23 11:6,12 larger8:23 39:20 leaves 44:24 
+
+22:13,15 23:4 57:21 58:22 12:13 13:6,9 largest 36:20 left 14:25 
+28:10 58:2 64:2 59:22 60:20,23 14:1,17,22,24 51:16 52:2,8 legal 68:4 
+
+Justice 1:19 3:3 61:8,22 62:6,18 15:14,21 16:23 Laughter35:5 legislation 31:1 
+3:9 4:9,11,18 62:21 63:7,7 17:11 21:23 60:22 63:10 50:16 
+4:21 5:8,13,19 64:24 65:5,9,15 27:10 33:4 65:19 legislative 3:12 
+5:24 6:3,14 7:1 65:20 66:3,14 67:10,12,14 launch56:23 letting 16:11 
+7:12,18 8:4,9 67:8,14,17 69:11 law3:18,25 4:3 let's 60:2 61:18 
+9:9 10:18,24 69:10 Kennedy 6:14 5:14 6:8,9,16 level 11:23 12:1 
+11:3,7 12:5,14 Justice's 25:3 7:1 11:3,7 6:18,21,23 40:10 66:23 
+13:1,7,25 14:15 justiciability 15:18,22 18:5,9 11:13 12:15 levels 9:16 
+14:21 15:9,18 42:16 68:22 19:8 31:19 32:1 13:8,12,16,17 liability 3:18 
+15:21 16:19 32:6,20 42:19 13:18,24 14:3,6 light 27:3 40:11 
+
+K17:10,17 18:5,9 42:22 14:18,23,25 46:19 50:4 
+Kagan 8:4,9 9:9 18:19,25 19:8 Kennedy's 22:25 15:5,12,13,15 lightly 48:24 
+
+14:21 20:6,15 19:13,23 20:6 kind 7:25 8:18 16:12,14,18 liked46:24 
+20:20 21:920:15,20 21:4,9 11:4 21:8 28:8 21:2 22:24 23:9 limit 51:17 55:18 
+26:13 27:521:22 22:9,14 37:16,22 38:2 23:10 25:6,17 57:13,24 58:5 
+29:15 30:2322:20,22,25 58:14 59:3 26:24 28:7,13 limitation 51:21 
+31:5,12 34:17 23:7,13,21,25 kinds 11:22 28:15,19 29:3,5 limitations 18:13 
+35:1 41:25 42:9 24:9,14,19,22 34:24 59:2 64:4 29:21 30:3,5,15 51:20 
+46:22 47:2024:25 25:11,12 know6:3 7:2 30:21 31:2,6,8 limits 43:19 
+51:13 58:2225:24 26:5,7,13 10:19,20 11:4 31:21,21,22,24 51:18 64:2 
+67:1727:5,12 28:2,6 15:2 18:2 25:24 32:7,7,9,21,22 68:11 
+
+Katyal 1:18 2:6 29:1,15 30:11 25:25 29:21 34:14 35:9 37:5 line 10:21 22:14 
+17:12,13,16 30:23 31:5,12 39:20 41:15 44:24 45:2,4,14 lines 55:2 
+18:9,25 19:23 31:19 32:1,6,20 48:19 50:3,19 45:22,22,23,25 literally 22:4 
+20:7,11,19 21:9 33:2,9,24 34:17 53:19 54:3 59:7 46:1,6,6,8,9,10 29:10 35:19 
+21:16,25 22:17 35:1,22 36:3,8 Kowalski 35:16 47:12,13 48:3,6 litigant 19:10 
+23:6,17,25 36:12 37:20 KUMAR 1:18 48:8,10,16,17 litigate 61:3 
+24:12,17,21,23 38:8,25 39:5,16 2:6 17:13 48:19 49:11,11 litigation 56:18 
+25:14 26:4,7,13 40:8,15,21 50:17 51:4,14 57:20,22 61:2 
+
+L26:16 27:8,21 41:14,25 42:9 55:2 57:8 58:5 65:1 66:7,11,16 
+28:5 29:6,19 label 47:942:19,22 43:6,7 58:12 59:12 little 7:3 48:5 
+30:16 31:3,10 lack 4:2 6:9 10:3 44:19 45:6 62:3 63:14,16 living 42:10 
+31:25 32:8,24 lacking 7:546:12,22 47:7 63:16,20,21 lo 62:9 
+33:9 35:1,6 lake 59:2147:14,20 48:12 64:8,13 65:8,10 localized59:1 
+36:3 55:10 land 36:16 57:10 48:15 49:2,13 66:5 67:1,3 long 24:7 34:4 
+
+keep67:4 58:15,21 67:6 49:25 50:18,22 lawmaking 13:21 35:2 50:5 51:7 
+Keisler1:16 2:3 lands 37:1851:13 52:9,15 13:21 51:10 67:2 
+
+2:13 3:6,7,9 58:1652:23 53:2,8,12 laws 26:23 longer66:12 
+4:10,17,21 5:8 language 20:8,13 53:16,19,25 lawsuits 17:24 longstanding
+5:12,16,20 6:2 20:16,18 26:20 54:3,7,16,19 lead 61:16 36:14 
+6:7,19 7:8,18 large 51:18 56:2 
+
+77 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+look 7:15 26:8 31:11 37:23 money 60:8 26:23 29:3 33:5 44:7 
+27:24 30:2 40:3 40:22 42:2 45:3 mother19:16 37:7 43:16 occurred25:22 
+60:24 49:19 51:22 motion5:21 48:13 49:11 25:22 28:25 
+
+looked46:24 52:12 57:7,18 motor 27:3 43:15 51:3 55:5 32:15 45:2 
+looking 60:21 59:4 60:8 65:3 46:20 50:4 Newdow18:12 occurs 25:19 
+looks 23:18 65:5 move 23:6 19:1,9,13,25 29:14 46:10 
+
+35:12,12 meaningless moving 50:5 20:12,15,15 odd 32:20,23 
+loss 60:7 18:7 multifaceted 35:16 offered43:25 
+lost 56:20 means 9:5 11:21 3:15 nexus 11:17 Oh 13:6 62:6 
+lot 34:19 51:11 12:21 13:22,23 multitude 30:19 nonjusticiable old 48:14 
+
+51:15 27:17 57:4 4:4 once 64:1,2 66:1 
+Nlots 56:7,7 measures 36:23 nonmodified 66:15 
+
+N 2:1,1 3:1 lower44:6 47:22 38:23 61:4 16:25 ones 44:11 
+name 17:25lump 52:10,23,24 meet 25:4 63:5,6 nonsettling 40:5 open67:5 
+narrow15:853:17 meld 23:1 normal 66:4 operate 49:14,20 
+
+22:24lumping 52:9 Mellon 7:6 notice 50:9,12,20 50:23 
+narrower35:7merits 4:16 6:17 notion 58:23 operated44:11 
+
+M national/intern... 7:2 11:4,11 nuisance 6:23 operates 50:19 
+magnitude 22:3 59:314:15,17 18:6 10:13,14 11:18 operation 62:23 
+
+39:17 59:16 natural 34:2420:24 23:2 14:3 15:3 18:1 opinion7:20 
+majority 24:6 36:1628:10 42:14 22:8 25:6,8 25:11 26:22 
+
+28:23 naturally 35:2056:21 67:16 26:24 29:4,22 61:20 
+making 12:13,22 nature 10:25mess 35:24 34:4,5 37:6 opportunity
+
+29:11 34:25 11:1,14 30:10 met 6:23 51:24 55:1 57:8 15:17 
+manageable 30:18 34:16methods 62:16 58:6,12 59:12 oppose 14:10 
+
+22:21 35:1264:19 62:4,5,7,10,14 opposed4:15 
+march50:25 NEAL 1:18 2:6 million24:4 52:3 62:15 11:5 34:13 
+Marshall's 22:14 17:13Milwaukee number25:10,22 35:11 56:18 
+Massachusetts necessary 3:1313:14 14:1,4 30:9 60:7 64:25 66:17 
+
+7:13,16,19 9:10 8:24 12:1 53:22 16:1 26:20,21 65:2,2 opposite 68:18 
+9:25 10:2,10 need5:19 18:2 28:19 32:10 numbers 54:14 options 41:9 
+12:19 16:7 19:4 25:15 29:2033:1 34:3 49:15 numerous 9:7 oral 1:12 2:2,5,9 
+23:19,22 24:10 45:7 55:2449:18 59:18,19 3:7 17:13 36:10 
+
+O25:11 58:18 64:5mind 48:6,16,19 order5:3 8:25 
+massive 69:4 needs 41:20 O 2:1 3:1 mine 56:6 26:2 34:1,7 
+material 8:20,25 negative 27:15 objective 63:6minute 51:22 40:2 61:20,24 
+matter1:12 3:13 negotiations obstacle 57:14minutes 67:10 62:1,12,15 
+
+20:9,9 31:22 67:19 64:3misheard 30:25 64:20 
+34:22 36:1 46:5 never8:7 17:19 obstacles 68:25modified16:22 ordered39:12 
+48:18,22 68:3 20:3,25 44:3 obtained9:433:6,12 40:5 60:4 
+69:13 55:11 45:16 65:10modify 15:24 orderly 68:14 
+
+matters 64:8 nevertheless Obviously 17:333:18 66:13 orders 39:17 
+maximum 54:4 63:20 40:15moment 27:23 ordinary 66:10 
+mean 12:4 27:14 new1:22,23 3:18 occupied15:243:24 Ouellette 63:15 
+
+28:9 29:22 4:3 16:21 26:22 occur 25:13 34:2 
+
+78 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+ought 3:23 4:8 percent 52:4,6 plant 33:12 39:11 15:1 36:17 precepts 35:21 
+ousts 47:13 53:20 54:1,5 plants 33:15,18 37:19 38:5 45:4 precise 16:8,15 
+outlining 18:10 percentage 54:8 40:17 41:19 45:15 46:5 16:16 20:2 
+outset 37:5 perform 3:12 44:11 51:3 48:11 51:5 29:13 
+outside 64:9 10:25 54:10,16 52:18 58:9,24 precisely 12:22 
+overall 8:24 period 67:2 play 10:9 14:6 58:25 59:20 27:24 28:20 
+
+11:23 permanently please 3:10 63:22 67:7 32:24 
+override 44:21 68:11 17:17 36:13 populations preclude 56:25 
+
+48:3 permission 17:8 pled11:22 19:22 preempt 26:24 
+permit 33:16 plus 25:9 portion38:20 preemption
+
+P 44:13,16 point 22:25 23:1 pose 31:17 13:11,12,18 
+P 3:1 perpetrator22:5 25:12,13 32:15 position 12:10 15:10,12 28:3 
+pace 38:24 30:6 34:18 43:2 29:2,7,15,17 28:14 31:24 
+page 2:2 18:12 perpetrators 45:25 49:15,20 30:14 46:7 32:4 45:8 47:8 
+
+22:6 25:5 26:22 17:20 49:25 50:1 51:1 50:16 47:9,16,17,19 
+pages 34:11 person 21:19 54:23 68:17 positively 48:17 47:24 48:2,16 
+panoply 34:6 PETER 1:16 2:3 points 4:6 67:15 possible 5:3 6:19 48:22,24,25 
+paradigmatic 2:13 3:7 67:12 poison 42:7 61:25 66:8 49:4,20 
+
+42:3 petition 7:22 policy 3:14,15,24 possibly 23:16 preempts 13:8 
+parallel 6:11 petitioners 1:5 3:25 10:5,11 68:22 preexisting 
+parens 57:1 1:17,21 2:4,8 30:19 59:3 post 41:2 44:24 
+part 15:18,19 2:14 3:8 7:25 policymaker potential 17:20 prefer13:10 
+
+24:24 41:19,19 17:15 26:18 11:21 17:20 18:4 22:5 premise 32:2 
+42:2 68:15 38:18 67:13 policymakers 22:5 28:18 30:6 present 26:17 
+
+participate 14:8 petitions 14:9 67:21 30:7 37:11 43:9 68:22 
+particular7:20 phenomenon policy-based 55:8 presented17:22 
+
+12:18 19:10 11:2,14 32:12 potentially 67:24 presenting 43:14 
+21:19 22:19 phrase 22:10 political 4:5 5:18 power1:3 3:4 presents 4:4 
+27:17,20 picture 9:17 6:10 32:17 15:7 33:12,15 26:25 
+
+particularly pin 20:17 34:19,23 35:11 33:18,21 40:17 preserves 13:13 
+52:18 place 8:11 23:5 35:14,23 36:6 41:19 43:4 president 35:25 
+
+parties 9:8 14:8 26:2 33:20 42:16 43:2 44:11 51:3 52:8 presumably
+57:10 35:11 44:13,24 68:10,23,24 54:10,16 61:20 39:21 65:11 
+
+pass 38:10 46:8,9 60:24 politically 69:5 61:23 62:1 67:6 presumption
+passed27:17 placed3:24 pollutant 12:20 powerful 68:24 13:17,20 
+
+45:21 plaintiff 6:15 7:9 43:11 powers 4:7 13:20 pretty 41:1 49:9 
+passenger27:3 7:14 21:21 34:1 pollutants 13:2 49:22 69:7 49:14 
+patriae 57:2 plaintiffs 4:2 16:6,6 26:12 practical 41:8 prevail 65:1,2,2 
+pay 67:25 8:18 9:24 10:24 polluted56:7 practice 61:5 prevent 13:4 
+peculiar 43:24 12:23 16:13 polluter62:4 precedent 7:5,13 previous 20:23 
+pedigree 68:21 37:11,15 41:4 polluters 61:13 26:2 29:11 previously 65:24 
+peek 7:2 56:20,22 57:14 pollutes 31:14 33:24 66:1 
+people 18:22 58:11 68:19 polluting 56:6 precedents principal 4:22,25 
+
+42:8 52:24 planet 18:3 pollution14:23 20:23 59:5 58:4 
+58:20 60:9 
+
+79 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+principally 58:6 prohibit 28:11 purpose 51:4 recognizingR 
+principle 58:10 prohibited39:3 purposes 21:20 28:12R 3:1 
+
+68:4 projected68:6,7 32:9 recourse 45:25ranging 52:5 
+principled57:25 promise 45:15 put 31:10 34:15 recovery 6:17rare 25:17,17 
+principles 4:7 48:8 51:12 38:11 39:11 redress 9:3reach 28:10 
+
+9:12 64:12 44:13 46:8,9 redressability58:18 
+prior10:13,14 promulgate 50:10 59:15 8:7,13 19:4 reached20:23 
+priorities 34:9 37:24 62:8 24:13,24 66:23 
+private 14:8 prong 19:5 reduce 9:16 19:7 reaching 5:6Q16:13 57:10 prongs 34:20 36:23 39:2532:18
+
+qualified7:19probably 6:6 proof 60:19 40:16 41:17read 5:4
+qualitative 17:2248:25 49:9 propose 17:2 45:4reading 41:8
+quality 20:5problem7:24 proposition reducing 41:1042:2 61:10
+
+30:1813:23 14:5 16:2 22:24 55:14,21 reduction24:8readjust 40:25
+quantitative16:4,4,10 19:7 propositions 25:1 38:19really 22:19
+
+17:2122:3 30:18 36:18,25 49:16 39:12,13 60:3 25:15 32:11
+quantity 10:2434:16 36:6 protect 18:18 64:19 65:434:20 48:9 53:4 
+
+20:4 30:1837:13 38:19 36:15 58:20 66:2453:4 58:23 
+quarter54:1340:22 45:14 67:6 reductions 3:2264:17 68:18
+question 5:6 6:10 52:20 61:11 protection 8:1 8:24 9:4 11:25 reason 19:3 20:3 
+
+9:15 10:2366:15 prove 36:25 41:5 12:4 19:5 38:12 25:16 37:8 44:4 
+13:11 15:10,22 problems 63:22 proved61:24 64:2058:7 64:17
+16:3 20:2268:1,22 proven41:23,24 refer8:10 13:10 67:18
+22:20 27:20proceed6:13,21 60:2 refers 8:8reasonable
+28:3,4,23,24 8:14 provide 9:3 reflect 20:1336:22 38:23
+29:8,20 32:2,10 proceeding 7:23 23:14 36:5,6 reflects 21:739:1 40:7,11 
+32:12,17 34:4 8:17 65:12 22:260:14
+34:18,19,23 process 14:7,7 provides 16:16 regulate 9:14,15 reasonableness
+35:11,14,23 14:11 15:24 29:3 13:2 16:6 23:23 3:20 60:15
+36:6 38:4 42:15 17:1,4 50:12 providing 58:8 24:11 27:16,19 65:22
+42:16,16,17 56:18,18 66:4 63:19 68:9 28:22 29:12reasoning 24:6
+43:1,1,2 49:10 66:24 proximate 6:9 33:7,21,25 reasons 27:10
+57:9 58:18processes 51:10 prudential 4:14 34:12 44:1730:1 44:20
+61:23 66:25produce 52:3,5 4:22,23 17:24 46:25 51:3 66:6 49:18 69:7
+68:5,10,23,24 60:6 18:11,13,23 66:17rebut 55:14,21 
+
+questions 4:5producers 51:16 19:2,17 20:8,13 regulated64:5REBUTTAL
+5:18 17:7 18:14 51:19 55:4 21:1,7,15,17 regulates 44:92:12 67:12
+18:17 23:1produces 11:16 22:1,12,18 64:5receptive 11:3
+28:14 31:1712:3 30:14,17 31:4 regulating 16:24recognize 11:7
+32:13 42:14,17 product 9:6 32:16 34:23 27:3 33:1111:14 28:21
+
+quite 20:19 30:4 62:25 35:7,17,21 43:22 46:531:18 35:18
+35:20 36:3program51:1 public 12:24 regulation 15:1952:1
+39:1364:7,9 18:15 29:4 37:6 16:15 24:2recognized32:14 
+
+quote 19:6programs 64:4,7 58:15,17 33:15 44:9 45:2 37:17
+quoted20:15 
+
+80 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+45:7 64:11,13 required30:20 43:8 45:13 55:11 32:11 59:9 
+regulations 30:20 38:19 49:13 53:8 says 14:18 16:17 separation 4:7 
+
+26:23 33:17 requirements 54:11 56:24 21:4,17,23 13:20 49:22 
+45:21 63:13 51:25 58:19 61:12,22 26:21 33:24 69:7 
+65:14 requires 20:22 65:15 34:8 62:7 65:15 series 64:3,4 
+
+regulatory 3:12 67:21 68:12 rights 18:18 scale 20:25 seriously 39:16 
+7:20 8:10 9:19 reserve 17:8 rise 54:25 31:16 serve 41:19,20 
+12:10,25 25:7 resolution 17:25 risks 68:7 Scalia 5:8,13,19 set 33:7 37:21,23 
+45:24 46:10 35:20 river31:14 56:7 5:24 6:3 13:1,7 37:25 38:10,11 
+50:25 66:9 resolve 5:2 road25:25 26:1 13:25 14:15 43:3,6,18 50:9 
+
+rejected21:14 resolved4:25 28:15,24 15:9 18:19,25 66:16,21,21 
+relevant 10:1 57:17 ROBERTS 3:3 21:4 23:13,21 sets 38:14 64:18 
+relied15:3 69:2 resolves 6:12 4:9,11,18 10:18 23:25 24:9,14 setting 50:1,8 
+relief 8:19,22 9:2 resources 36:16 17:10 22:9,22 24:19,22,25 59:22 
+
+9:23 16:16,20 38:1 27:12 28:2 36:8 25:11 48:12,15 settle 61:2 
+18:21 21:6 respect 10:1 28:6 40:8,15,21 49:2 52:9,15,23 settled40:1 
+23:15,18,18,22 28:15 46:19,21 41:14 44:19 53:2,8,12,16 settlement 33:19 
+29:13 30:8 48:1 49:11 45:6 46:12 47:7 53:19,25 54:3 settling 40:3 
+35:10 37:21,25 55:24 66:18 47:14 49:13 60:20,23 63:7 sewage 10:16 
+38:9 52:19,21 67:16 54:7,16 55:9,20 64:24 65:5,9,15 59:19 
+55:12,12,25 respectful 63:19 55:23 56:9 scope 20:25 share 3:22 8:23 
+59:12 66:12 Respondent 1:20 57:21 65:20 31:16 shared19:21 
+
+remain 64:3 2:7 17:14 66:3,14 67:8 sea 34:2,15 shift 69:4 
+remaining 67:11 Respondents 69:10 season 39:14,14 shooting 42:7 
+remedies 67:23 1:23 2:11 36:11 role 10:3,5,9 second 13:14 shown 21:18,20 
+remedy 3:18 response 47:20 14:6 33:19 shut 40:17 
+
+18:22 23:14,16 Restatement rooted68:20 second-guess side 27:23 37:15 
+45:16,19 50:17 51:23 rule 20:2,21 24:7 10:4 50:2,3 
+51:5 52:19 58:9 restrictions 34:10 55:5 section 16:25 sides 40:24 
+
+remote 56:4 44:18 56:19 65:7 17:6 24:11 sign 62:24 
+removed64:3 rests 36:14,17 rulemaking 7:22 sector 11:15 12:3 signal 69:1 
+repeatedly 46:3 result 60:7 63:18 14:9 15:23 17:3 24:2 25:1 significance 
+replace 49:12 reverse 69:8 50:20 51:8 sectors 12:2 18:15 
+replaces 63:15 review66:5 rules 5:14 21:4 see 4:24 6:18 7:3 significant 26:12 
+replicate 50:12 reviewing 65:21 23:12 24:16 seek 7:25 8:18 36:21 
+
+68:2 65:22 66:21 33:14 8:22 9:2 33:18 significantly 
+represent 4:5 reviews 36:2 run 14:12 62:22 seeking 20:3 41:10 
+
+54:10 revive 63:16 23:18 29:14 similar 5:17,17 
+Srepublic 48:9 right 7:25 8:2 33:3 37:21,25 50:7 56:23 
+
+S 2:1 3:1 requested18:21 14:16 15:13 seen 31:9 similarities 
+savings 13:13require 3:23 18:8 19:14,16 21:16 Seldin 7:9 20:12 47:11 
+
+63:1730:4,8 31:11 23:16 24:23 sense 57:22 similarly 49:9,14 
+saw51:1737:12 38:12 26:9 27:4,15 68:19 simpler38:21 
+saying 19:2449:4 33:15 40:17,21 separate 9:21 simply 37:13 
+
+24:4,18 30:25 
+
+81 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+48:4,6 49:22 64:4 20:21 21:1,7,13 statute 7:24 8:16 46:1 60:16 61:1 
+59:10 68:2 sovereignty 21:15,17 22:2 10:6 16:5 25:7 64:15 
+
+single 9:22 54:4 13:19 45:17 22:12,18 30:14 30:22 31:20 suggesting 59:11 
+sitting 17:19 so-called33:14 30:17 31:4 36:4 44:9,24 63:2 
+situation 25:20 speaks 65:7 32:17 34:23 48:18 63:15,17 suggestion 63:23 
+
+30:6 32:25 33:3 66:25 35:7,17,21 64:4 68:9 suggests 27:11 
+39:2 special 21:6 42:15 51:25 statutes 15:2 40:19 50:24 
+
+slip 11:8 58:13,17 54:25,25 58:13 63:12 suing 9:19,20 
+slow19:6 36:24 specific 8:1 10:2 58:17 68:23,24 statutory 8:2,8 suit 5:10 6:15 
+
+38:24 16:4,9 29:13 start 43:18 45:12 32:7 64:7 68:15 30:13,13 44:21 
+slowing 24:8 33:25 34:1 starting 43:15 Steel 5:5 44:22 58:23,24 
+small 54:24 39:13 starts 50:4 steps 34:9 43:12 suited35:19 
+
+55:18 56:4 specifically 7:24 state 5:11,13,22 44:25 suits 56:2 57:14 
+smaller38:4 8:10,22 12:20 6:4,8,9,15,15 stop 23:16 54:8 57:24 58:25 
+social 12:3,4 13:15 14:4 6:16,21,22,25 stream 59:2 sulfur 39:10,13 
+
+67:22 20:17 21:14 10:15,16 13:5 stricter13:4 39:13 
+society's 23:23 spend 60:9 13:12,13,16,18 strong 5:21 summer17:2 
+Solicitor 1:18,22 spinning 5:25 13:19 15:13,15 45:18 46:4 58:8 60:10 
+solve 37:12 spoke 58:7 19:11 28:7,15 68:21 super38:2,3 
+
+38:19 stage 15:23 28:18 31:21,21 stronger12:17 supply 67:25 
+somebody 42:6 stand 53:23 32:9,18,22 42:8 struggle 15:10 support 1:21 2:8 
+
+59:23 standard 3:20 46:1 48:3,16,17 subject 33:15 17:15 
+somewhat 39:19 13:22 25:18 48:19 51:23 36:1 40:2 46:5 suppose 26:13 
+soon 64:11 57:15 60:12 56:5 63:16 60:19 64:1 44:19 46:24 
+sooner15:10 68:10,12 states 1:1,13 submission 29:9 52:10 53:2 
+sorry 30:23 standardless 3:17 5:14,16 50:10 56:20 57:7 61:8 
+sort 25:18 27:15 35:12 6:11 7:15 10:8 submitted69:11 61:9 
+
+32:3 57:13 standards 13:5 10:18,19 14:8 69:13 Supreme 1:1,13 
+sought 9:23 19:6 17:2,6 22:21 16:13 22:7 substance 64:6 sure 5:24 32:1 
+
+20:5 52:19,22 33:3,8 36:5 26:19 28:21 substantial 51:21 42:25 
+55:12 37:22,24 38:11 32:15 36:15,17 54:20,22 55:3 surprising 49:24 
+
+sound 34:20 38:14 43:1,3 36:18 37:16,16 substitutes 47:13 64:12 
+sounds 37:22 50:2,8,23 59:22 37:19 42:8 48:8 surrender45:17 
+
+38:13 42:3 47:7 63:5 64:16 43:14 44:4 substituting survived58:7 
+47:8 66:16,18,21,22 45:12,25 48:9 50:11,14,15 system44:14 
+
+source 11:19 standing 4:2,14 48:10 51:5 52:2 substitution systems 53:14 
+33:6,6 63:16 4:22,23 5:1,1,6 52:25 57:2,3,7 61:16 
+
+T64:6 5:10,14,17 6:10 57:9,24 58:6,8 sue 52:2,12 
+T 2:1,1 sources 16:21,22 7:3,6,14,15,16 58:11,20 59:14 sued22:8 32:16 
+tailoring 33:1416:25 33:4,7,8 7:17,21 8:3 67:3,5,7 54:20 56:6 
+
+34:10 55:533:11,21,22 9:11,12 11:5 State's 8:21 25:4 59:19 
+take 10:19 11:9 43:16,18 46:21 17:24 18:11,13 stationary 16:21 sufficient 25:1 
+
+14:12 23:6 25:2 46:25 47:4 50:2 18:20,23,24 33:22 46:21,25 suggest 38:18 
+34:17 35:2350:6 51:21 55:5 19:2,17,22 47:4 50:6 suggested44:4,5 
+36:22 38:22 
+
+82 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+55:6 56:21 49:14 51:17 thousands 56:15 try 27:13 41:5 54:2,5,12,18 
+taken25:10 63:3 threat 40:11 62:21 54:21 55:16,22 
+
+34:10 43:12 thing 4:12 18:19 threats 37:8 trying 19:14 56:1,11 57:1,5 
+takes 26:2 34:1 37:9,22 three 10:19 Tuesday 1:10 57:16 58:4 59:7 
+talk 42:24 48:21 42:3 53:4,6 29:24 33:10 turn 58:19,19 60:15,23 61:21 
+
+51:15,21 56:12 things 25:23 28:1 34:20 36:18,21 66:15 62:3,12,20 63:1 
+56:12 30:9 33:10 39:8 56:4 TVA 50:24 63:11 65:3,6,11 
+
+talking 24:21,24 57:17 59:9 60:9 threshold 34:18 two 11:8 29:23 65:17,25 66:7 
+33:6 47:12 48:4 think 4:9,13 6:8 time 15:4,5,15 34:20 36:19 66:20 67:9 
+53:15 56:13 6:13,20,22 7:5 17:9 25:4 26:23 39:8 47:11 undoubted25:21 
+58:25 65:8 7:6 9:5,11,25 29:7,9 36:1 49:16 59:9 undoubtedly 
+
+tangible 7:10 10:19 11:23 43:24 51:7,10 type 30:5 34:5 
+9:24 12:14 14:24 67:2 unfolding 44:6 
+
+Utapestry 21:8 15:21,22 18:10 tittle 29:13 Union45:17 
+ultimate 66:22tapping 6:3 19:1,8 20:11 today 3:4 17:23 United1:1,13 
+ultimately 15:14tarry 35:2 21:1,5,7,10,16 told 49:2 43:13 44:4 
+
+48:22 57:16task 10:25 11:1 21:21 22:1,17 ton 61:12 62:9 52:25 
+64:2212:8,22 55:2 22:25 23:9 24:5 tons 24:3,4 52:3 unmodified 
+
+uncommon51:9tax 43:6 61:12 24:7,9,10,15 55:4 44:10 
+understand62:9 25:14,18 26:8 tort 69:3 unnecessary
+
+23:13 29:1taxing 64:21 26:16,19,24 total 46:15 54:17 18:18 
+understandingtechnical 55:7 27:8,10,21 28:5 54:18 unprecedented
+
+30:24technology 40:13 28:11,17 29:6,7 totally 39:3 35:18 
+understood 9:1040:14 29:19 30:2,8,16 traceability 8:12 unreasonable 
+
+43:1tell 46:13 47:15 31:10,11 32:8,9 track 66:8,11 38:7 53:11 
+undertake 30:2147:16 33:23 34:3 35:3 trade-offs 59:23 urge 67:4 
+undertakentells 18:1 35:6,16,24 38:9 68:5 use 32:12 67:25 
+
+40:10Tennessee 1:20 41:1 47:2 48:12 traditional 9:11 usually 22:10,11 
+undertaking2:7 10:21 11:17 48:15 49:8,13 traditionally 31:23 42:1 
+
+16:2417:14 31:13 51:7,13,18,20 37:17 U.S 36:20 52:4,6 
+underway 51:138:16 39:9,22 53:3 54:23 transformative 54:5,8,13 
+Underwood1:2240:1,20 61:1 59:10 61:21 67:24 
+
+V2:10 36:9,10,12 tens 56:15 63:8 64:17 transportation 
+37:20 38:3,15 v 1:6 3:4 7:6,9,13 term 12:20 66:20 68:25 24:2,11,16 25:1 
+39:4,8,19 40:13 9:10 10:10terms 23:11 69:6 trial 41:24 
+40:18 41:3,22 12:19 13:1427:25 34:15 thinking 11:21 trials 37:3 
+42:5,13,21,24 14:1 16:7 19:4 54:21 59:16,24 51:6 trigger69:4 
+43:23 44:22 20:12 23:19,22 test 22:19 25:4 third 9:8 18:19 troubled23:2 
+45:10 46:17 24:10 25:1146:13 33:23 28:18 
+47:2,10,25 34:21 49:15,18 testimony 39:23 thought 12:5,9 true 39:9 57:19 
+48:13,20 49:8 59:18Thank 17:10,16 19:9,18,19 57:22 63:11 
+49:17 50:13,21 vacate 65:1336:8 60:23 67:8 42:23 45:1 trust 58:17 
+50:24 51:20 valid 5:767:14 69:10 49:15 trusts 57:10 
+52:14,17 53:1,3 validity 65:23,25 theory 22:6 thousand 55:7 58:15 
+53:10,15,18,22 Valley 1:20 2:7 
+
+83 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+17:14 42:7 43:14 32 22:7Y 
+variety 5:22 47:18,23 48:7 36 2:11year 52:4 55:5 
+
+13:14 17:5 35:8 50:19 53:6 years 17:18 20:2 451:23 61:11 63:5 37:6 44:15 
+40 22:7various 13:18 67:25 55:11 
+400-page 34:1128:1 30:1 49:23 ways 16:6 55:1 York 1:22,23 
+46 25:555:1 welcome 15:16 29:3 
+
+vast 41:15,16 went 19:2 33:17 5Zvehicles 27:3 We'll 3:3 
+500-page 34:1043:16 46:20 we're 5:24 6:24 zone 22:18,23 
+
+50:4 11:4 16:20,21 23:9 6 
+venues 68:2 19:23 20:2 650 24:4 52:3 $viable 41:9 21:19 22:13 67 2:14$20 61:12 62:8 victim11:19 22:5 33:6 41:14 
+
+30:7 46:25 47:11 1
+victims 17:20 48:4 53:15 
+
+1 52:518:4 56:13 59:11 
+1.7 24:3view15:5,6 62:12 63:1 65:8 
+1/2 54:5we've 20:7 46:24 
+10 52:4 53:20 W 55:11 60:16 
+
+54:1want 11:8 19:15 wheels 6:1 
+10-174 1:5 3:4 27:13 38:9 whichever6:12 
+10:13 1:14 3:2 40:25 43:17 whim4:15 
+100,000 55:462:2 widely 61:4 
+107 26:22wanted42:25 win 35:3 
+11 18:12wants 68:6 wish63:7 
+11:28 69:12warming 18:1 wishes 48:3 
+111 16:25 17:6 23:16 34:7,8 won57:12 
+14 61:1436:19,24 37:13 word 60:21 
+15 22:6 62:10 38:20,24 40:12 work 16:12 49:9 
+17 2:840:16,23 41:1 works 44:12 
+19 1:1056:10 57:23 world 22:4 31:15 
+1970 29:24 44:14 61:17 31:16 35:19 
+
+45:4Warth7:9 20:12 40:25 42:10 
+20:17 51:15,19 54:13 2
+
+Washington1:9 58:1 61:5,17 2 16:1 44:15 1:16,19 worlds 19:17 2009 26:10wasn't 10:3 worldwide 11:16 2011 1:10 33:17 water10:17 14:3 54:8 2012 33:2027:25 44:13,15 wouldn't 6:15 222 17:18 20:2 way 6:21 7:10 12:8 59:23 55:1128:11 32:10 wrong 20:10 34:3 
+33:12 35:2,4,15 3
+
+X36:6,23 39:20 3 2:4 52:5 54:5 
+39:21 41:17 x 1:2,8 
+
+84 
+
+Alderson Reporting Company 
+
+

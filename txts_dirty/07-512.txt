@@ -1,0 +1,6444 @@
+
+          
+
+                
+
+             
+
+         
+
+                       
+
+        
+
+                    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+PACIFIC BELL TELEPHONE : 
+
+COMPANY DBA AT&T : 
+
+CALIFORNIA, ET AL., :
+
+ Petitioners :
+
+ v. : No. 07-512 
+
+LINKLINE COMMUNICATIONS, : 
+
+INC., ET AL. : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Monday,December 8, 2008
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:04 a.m. 
+
+APPEARANCES: 
+
+AARON PANNER, ESQ., Washington, D.C.; on behalf of the
+
+ Petitioners. 
+
+DEANNE E. MAYNARD, ESQ., Assistant to the Solicitor
+
+ General, Department of Justice, Washington,
+
+ D.C.; on behalf of the United States, as amicus
+
+ curiae, supporting the Petitioners. 
+
+MAXWELL M. BLECHER, ESQ., Los Angeles, Cal.; on behalf
+
+ of the Respondents. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+RICHARD BRUNNELL, ESQ., Newton, Mass., on behalf of
+
+ American Antitrust Institute, as amicus curiae,
+
+ supporting the Respondents. 
+
+2 
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+             
+
+                   
+
+      
+
+                   
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S
+
+
+ORAL ARGUMENT OF PAGE
+
+
+AARON PANNER, ESQ.
+
+
+ On behalf of the Petitioners 4
+
+
+DEANNE E. MAYNARD, ESQ.
+
+
+ On behalf of the United States, as amicus
+
+
+ curiae, supporting the Petitioners 19
+
+
+MAXWELL M. BLECHER, ESQ.
+
+
+ On behalf of the Respondents 28
+
+
+RICHARD BRUNNELL, ESQ.
+
+
+ On behalf of American Antitrust Institute, as
+
+
+ amicus curiae, supporting the Respondents 41
+
+
+REBUTTAL ARGUMENT OF
+
+
+AARON PANNER, ESQ.
+
+
+ On behalf of the Petitioners 52
+
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (11:04 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We will hear 
+
+argument next this morning in Case 07-512, Pacific Bell 
+
+v. LinkLine Communications.
+
+ Mr. Panner.
+
+ ORAL ARGUMENT OF AARON PANNER
+
+ ON BEHALF OF THE PETITIONERS
+
+ MR. PANNER: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ The Court should reverse the Ninth Circuit's 
+
+decision because it asserts that this Court's holding in 
+
+Trinko and principles regarding unilateral pricing 
+
+decisions as explained in Brooke and elsewhere.
+
+ CHIEF JUSTICE ROBERTS: You are probably 
+
+feeling pretty good about your chances since your 
+
+opponent has given up, right?
+
+ (Laughter.)
+
+ MR. PANNER: Well, Your Honor, it is correct 
+
+that this Court observed in Roberts that the 
+
+Respondents' agreement that the legal position of the 
+
+court below is incorrect, certainly should provide this 
+
+Court great comfort in reversing the decision in the 
+
+Ninth Circuit. And, indeed, a decision on the merits 
+
+here is important because the Ninth Circuit's decision 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+is harmful to consumers, deterring beneficial price cuts 
+
+and sufficient particle integration.
+
+ CHIEF JUSTICE ROBERTS: Any question should 
+
+we have about the Article III status of this aspect of 
+
+the dispute?
+
+ MR. PANNER: No, Your Honor. The parties' 
+
+agreement on a point of law does not deprive this Court 
+
+of jurisdiction in any way, and the parties remain 
+
+adverse in this case. The Respondents continue to 
+
+pursue a section 2 claim, and the same intend to --
+
+evidently intend to pursue the same relief.
+
+ CHIEF JUSTICE ROBERTS: Well, you might be 
+
+right, but, you know, with respect to standing we have 
+
+held that that is an issue-by-issue inquiry, not a live 
+
+case broadly conceived.
+
+ MR. PANNER: Well, in Laidlaw the Court said 
+
+that it was for a particular type of relief, that the 
+
+plaintiff had to establish standing, but that's not at 
+
+issue here. The Respondents continue to pursue a 
+
+section 2 claim and pursue, evidently, the same type of 
+
+relief based on the same course of conduct.
+
+ I would also like to point out that 
+
+Respondents, while conceding that the position of the 
+
+Ninth Circuit was incorrect, have not clearly stated 
+
+that they would not take advantage of a decision by this 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6 --
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Court affirming the Ninth Circuit. And I think that 
+
+that's important, because there really would be no 
+
+reason for these Respondents to say that if for whatever 
+
+reason the Court decided that the Ninth Circuit is 
+
+right, that they would not go ahead and take advantage 
+
+JUSTICE GINSBURG: I thought they asked to 
+
+have the Ninth Circuit decision vacated. They didn't 
+
+ask us to affirm it. They said vacate that decision is 
+
+wrong.
+
+ MR. PANNER: That is right, 
+
+Justice Ginsburg, but the point is that if this Court 
+
+were to disagree -- for example, it is well established 
+
+that the Solicitor General's confession of error, for 
+
+example, or a State attorney general's confession of 
+
+error does not bind this Court. Indeed, a party's 
+
+position with respect to the proper disposition of the 
+
+case never binds the Court.
+
+ So the Court certainly has the power to say, 
+
+now that the case is properly before it: We think that 
+
+the Ninth Circuit got it right.
+
+ Obviously, we don't think that that's what 
+
+we think the Court should say; but, given that 
+
+circumstance, if the Court, for whatever reason, were to 
+
+affirm the Ninth Circuit, there would be nothing that 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+would bar the Respondents from taking advantage of that. 
+
+Even though they said that that was a legal error, if 
+
+that were the established law, there would be no reason 
+
+for them not to pursue it.
+
+ And I think that that's relevant, again, to 
+
+the question whether the parties remain adverse for 
+
+Article III purposes. As a jurisdictional issue, the 
+
+adversity of the parties with respect, even to the 
+
+section 2 claim, even if intended to pursue it 
+
+differently, the theory is sufficient.
+
+ But the point I am making is simply to 
+
+illustrate that adversity even with respect to the 
+
+narrow legal issue remains, even though they are not 
+
+contesting the proper -- contesting the proper 
+
+disposition of that legal issue.
+
+ JUSTICE GINSBURG: When this comes up, we 
+
+usually, if a -- if a party abandons a position in 
+
+support of a decision, the court of appeals decision, we 
+
+have appointed -- as you noted in your brief, we have 
+
+appointed a friend of the court to represent the 
+
+position of the circuit.
+
+ And here we don't have that. We don't have 
+
+anyone that we have appointed and say you presented the 
+
+position. You defend the position below.
+
+ MR. PANNER: Well, that's true, Your Honor, 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+but there is an amicus arguing before the Court today 
+
+defending the Ninth Circuit's decision. And there were 
+
+two amicus briefs filed on that. Had those not been 
+
+filed, the Court could have sought additional help. But 
+
+the positions -- the arguments in favor of the Ninth 
+
+Circuit decision had been put forward in the amicus 
+
+brief, and there will be argument in support of the 
+
+Ninth Circuit's decision today.
+
+ And I think -- I think that the 
+
+jurisdictional issue is answered by your question. That 
+
+is to say, the fact that the Court could appoint amicus 
+
+shows that this Court retains Article III jurisdiction. 
+
+And it's very important in this case for the Court to 
+
+reach the merits of the decision and clearly to rule 
+
+that there is no independent price-squeeze theory under 
+
+Section 2 because recognition of such a theory, as in 
+
+the Ninth Circuit's, decision is very -- very harmful to 
+
+consumers.
+
+ CHIEF JUSTICE ROBERTS: Is there any way in 
+
+which the resolution of their price-squeeze claim would 
+
+affect their Brooke Group Section 2 claim?
+
+ MR. PANNER: I think it could, Your Honor. 
+
+In their brief they refer to the possibility that the 
+
+wholesale price that was charged could be in some way a 
+
+proxy for costs. And this Court clearly stated that 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+there's a different issue as to whether a single 
+
+economic unit is charging prices below cost; that the 
+
+wholesale prices that may be charged are not an 
+
+appropriate proxy.
+
+ But I -- so, in that respect, I think that a 
+
+clear declaration with respect to what is required -- I 
+
+guess the distinction between the predatory-pricing 
+
+theory of liability and a price-squeeze claim as 
+
+recognized by the Ninth Circuit could have an impact.
+
+ JUSTICE STEVENS: May I just clarify: Are 
+
+you arguing there is never a price-squeeze claim under 
+
+Section 2? In other words, are you challenging Judge 
+
+Hand's reasoning in the Alcoa case?
+
+ MR. PANNER: Well, Your Honor, I believe, I 
+
+am challenging Judge Hand's reasoning in Alcoa. I think 
+
+that I would not go so far as to say that there would 
+
+never be a situation in which a price squeeze, that is, 
+
+an insufficient margin between wholesale and retail 
+
+prices to allow a competitor to compete -- that that 
+
+course of conduct could never support a claim under 
+
+Section 2.
+
+ But the basis for the claim would have to be 
+
+that there was a -- a duty to deal -- or a duty to deal 
+
+under Section 2, an antitrust duty to deal that was 
+
+effectively being debased through that sort of pricing 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+conduct. But --
+
+JUSTICE STEVENS: Was there such a duty in 
+
+the Alcoa case?
+
+ MR. PANNER: Well, I think that the Alcoa 
+
+case was wrongly decided, Your Honor, in several 
+
+respects. The critical point about -- the first point 
+
+about Alcoa is that the conduct that was at issue was 
+
+said to be unlawful because it was an abuse of the power 
+
+in the ingot market and not monopolization of the 
+
+downstream market in sheet.
+
+ And so what Judge Hand said was that that 
+
+was unlawful. But he expressed some doubt as to whether 
+
+it was appropriate to treat it as an independent basis 
+
+for -- or an independent wrong under section 2.
+
+ But the notion that the abuse -- that 
+
+charging too high a price at the wholesale level could 
+
+be an independent section 2 wrong is quite inconsistent 
+
+with what this Court said in -- in -- most recently in 
+
+Trinko where it recognize --
+
+JUSTICE BREYER: So there is regulation 
+
+involved there. I mean, suppose you had no regulation 
+
+at all involved. Why couldn't you have a monopolist at 
+
+the primary stage, say, ingot, and what that monopolist 
+
+wants to do is to extend its power into the secondary 
+
+stage, say, fabrication, in order to make it less likely 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that there would be a new entries to attack its primary 
+
+monopoly? That would -- suppose you have those 
+
+circumstances? Perhaps they would be rare, but if you 
+
+have them, wouldn't that set forth a Section 2 
+
+violation?
+
+ MR. PANNER: It -- it -- it wouldn't, Your 
+
+Honor, for the following reason: That I think it is --
+
+it is true that the -- the key point of the -- the basis 
+
+upon which the question -- the question presented has 
+
+been granted and upon which the analysis has to turn is 
+
+that there is no duty to deal at all at the wholesale 
+
+level.
+
+ So that the ingot monopolist has no 
+
+obligation to provide an ingot to a downstream rival. 
+
+And that judgment is a judgment that it is not worth 
+
+protecting downstream dependent competitors in order to 
+
+promote the competitive process.
+
+ JUSTICE SOUTER: Well, that may be the 
+
+assumption on this case, but that may not be the 
+
+assumption on the next case. And I understood you to be 
+
+arguing that you wanted us to hold that at -- well, you 
+
+wanted us to hold whether we are dealing with a 
+
+regulatory case or in Justice Breyer's example, where 
+
+there is -- where there is no independent regulation, 
+
+that the greater includes the lesser; that A, there is 
+
+11 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+no duty to deal and therefore there is no obligation 
+
+that can be violated under the antitrust laws by a price 
+
+squeeze that does not rise to the level of predatory 
+
+pricing.
+
+ Is that your position?
+
+ MR. PANNER: Well, Justice Souter, trying to 
+
+be clear about the relationship.
+
+ JUSTICE SOUTER: Well, the best way to do 
+
+that is to start with a yes or no answer. That way, so 
+
+I know where you are going.
+
+ MR. PANNER: Thank you, Your Honor. And I 
+
+think that's not precisely our position.
+
+ JUSTICE SOUTER: Okay.
+
+ MR. PANNER: Our position is that in the 
+
+absence of a duty to deal, one does not look at an 
+
+allegation of insufficient margin as a potential section 
+
+2 --
+
+JUSTICE SOUTER: Okay. But what I think we 
+
+are trying to get at is, should we foresee a situation, 
+
+with or without the regulatory participation of 
+
+something like the agency here, in which there would be 
+
+a duty to deal, which would support a price squeeze 
+
+theory that did not amount to predatory pricing?
+
+ MR. PANNER: Your Honor, I don't think that 
+
+the Court has to anticipate that. I think what the 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Court should say is that there are narrow circumstances 
+
+as recognized in Trinko, where there may be a duty to 
+
+deal under section 2. And in that circumstance there 
+
+may be conduct that constitutes a refusal to deal, even 
+
+a constructive refusal to deal.  There is really -- to 
+
+give a simple example, if a widget, if the downstream 
+
+product costs $10 and a widget is made available for a 
+
+million dollars, that is not really dealing at all.
+
+ But the point is that the section -- the 
+
+price squeeze piece of the allegation really does not 
+
+add to the underlying question of what is the section 2 
+
+duty that needs to be enforced.
+
+ JUSTICE BREYER: Well, that's it -- I mean, 
+
+now maybe you can get me off what I am thinking, but now 
+
+it sounds that the answer to Justice Stevens's question 
+
+is yes. Now, I have, yes, overruled Judge Hand's 
+
+opinion in Alcoa. I always thought there were 
+
+circumstances, whether true of Alcoa or not, where that 
+
+did make out the claim, namely, the one I suggested.
+
+ Well, it's quite a different battle if, in 
+
+fact, the person whose injured, namely, the fabricator 
+
+who is complaining, has a place to go, such as the FCC 
+
+or the Alcoa regulatory agency, because under those 
+
+circumstances, he has a place to complain that these 
+
+prices are out of line. 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+But if there is no place to go, well, I'm 
+
+suddenly -- I'm a little hesitant to overturn Alcoa 
+
+under those circumstances, and the reason the duty to 
+
+deal doesn't deal with it is we could come into an 
+
+existing world where duty or no duty, there have been 
+
+independent fabricators who for a long time have bought 
+
+their ingot from this monopolist.
+
+ MR. PANNER: Well, Your Honor, the answer to 
+
+that is two-fold. First of all, because there is no 
+
+duty to deal, by assumption the producer of ingot, the 
+
+alleged wholesale monopolist, has the privilege to 
+
+withdraw the supply of that.
+
+ JUSTICE BREYER: Then I would say that 
+
+shouldn't be the law. The reason it shouldn't be the 
+
+law is because that ingot may, by either withdrawing or, 
+
+in fact, raising his price way above a competitive level 
+
+and charging just no room to remain in business, is 
+
+trying to drive out possible new entrants into the ingot 
+
+stage of the business. And the fabricators are a number 
+
+one out there as possibilities to break down the 
+
+monopolist in ingot.
+
+ And if that is the motive, as shown by the 
+
+behavior, there should be a section 2 claim. If you 
+
+want to argue that straight on the merits, what's the 
+
+answer to that argument? 
+
+14
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. PANNER: The answer to that argument, 
+
+Your Honor, is the one that Trinko offers, is that it's 
+
+very important in establishing the antitrust rules to 
+
+recognize the incentive that those rules will create for 
+
+investment and for innovation.
+
+ If the monopolist is forced to share the 
+
+benefit of the monopoly with downstream rivals on the 
+
+basis there is potential entry, that is going to be a 
+
+significant disincentive to innovation at the upstream 
+
+level. And the establishment of clear rules, ones that 
+
+recognize that in the general run of cases there is not 
+
+going to be harm and recognizes that the very scrutiny 
+
+of that conduct will deter beneficial conduct and 
+
+beneficial innovation and beneficial investment by the 
+
+upstream monopolist, that recognition is the one that 
+
+argues in favor of saying, in the absence of a duty to 
+
+deal, where -- where the wholesale input could be 
+
+withdraw from the market and where, therefore, the 
+
+incremental harm from a price squeeze is really quite 
+
+hard to identify. But that in that circumstance it is 
+
+inappropriate to recognize any sort of a duty under 
+
+section 2.
+
+ JUSTICE BREYER: Just out of curiosity, is 
+
+there a place where in this case the plaintiffs could 
+
+go, a place which has a label "regulator" under it? 
+
+15
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. PANNER: Yes, there is, Your Honor.
+
+ JUSTICE BREYER: And that place is --
+
+MR. PANNER: The Federal Communications 
+
+Commission.
+
+ JUSTICE BREYER: So we needn't reach the 
+
+issue in this case?
+
+ MR. PANNER: Well, Your Honor, I think that 
+
+the -- significant regulation is not necessary. I agree 
+
+with Your Honor that that is a factor that the Court 
+
+could allow to be placed somehow on the scale. But the 
+
+analysis that took place in Trinko is, first of all, 
+
+whether there is an antitrust duty there at all and 
+
+whether to extend it in light of the regulatory scheme 
+
+that existed. And so, in this case, even in the absence 
+
+of regulation, there should be no duty under section 2.
+
+ JUSTICE SOUTER: With respect to your 
+
+argument that there is going to be an upstream 
+
+disincentive to investment in the monopolist if we do 
+
+not come up with a clear rule that you want, are we at a 
+
+stage or is the fashion of economics at a stage where we 
+
+can say that there is a clear consensus supporting your 
+
+argument?
+
+ And if the answer is no, then isn't the only 
+
+sensible thing for this Court to do to is leave it to 
+
+rule of greedy? 
+
+16
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. PANNER: Your Honor, I think there is a 
+
+consensus in all of the scholar literature that was 
+
+cited by the American Antitrust Institute, there wasn't 
+
+anyone who supported, there was no scholar who supported 
+
+the recognition of a price squeeze claim under section 
+
+2. 	 I do think that --
+
+JUSTICE SOUTER: For the reasons you gave, 
+
+in effect, the investment disincentive?
+
+ MR. PANNER: Well, I think the scholarly 
+
+literature that explains the recognition of price 
+
+squeeze duty would be harmful does indeed rely on the 
+
+sorts of reasons that --
+
+JUSTICE SOUTER: Is that, in effect, 
+
+uncontested within the profession except for the 
+
+margins?
+
+ MR. PANNER: I would assume as in any 
+
+academic discipline, there would be those who are trying 
+
+to find counterexamples. But I think the point there 
+
+and one for example Professor Carlton stresses in his 
+
+article and stressed another scholarly works is that the 
+
+search for the rare case itself can cause very grave 
+
+harm in the conduct that is following.
+
+ JUSTICE SOUTER: I follow the argument. The 
+
+trouble I have that I have is I don't know whether, in 
+
+the practical sense, that argument is a significant 
+
+17
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+argument or not. I don't know what's going on out 
+
+there. And unless we reach the point in which the 
+
+economic literature makes this a kind of slam dunk 
+
+decision, then it seems for me the only thing for a 
+
+Court to do is leave it for reasoning and analysis.
+
+ MR. PANNER: Well, I think that the Brooke 
+
+decision -- and as reaffirmed the answer to that.
+
+ JUSTICE SOUTER: Is there --
+
+MR. PANNER: There is a certain kinds of 
+
+conduct where it is possible to create a model where 
+
+there would be some negative consequences of the 
+
+conduct, but that the very search for it risks deterring 
+
+conduct that is of obvious benefit to the consumers. 
+
+And that's true here.
+
+ The recognition of an independent price 
+
+squeeze duty would deter retail price reductions that 
+
+are immediately beneficial to consumers, and it deters 
+
+entry into the downstream market by a vertical -- by a 
+
+wholesale monopolist who may then encounter a duty to 
+
+protect downstream rivals; and, of course, it would 
+
+deter voluntary dealing.
+
+ And I think that that you know, discussions 
+
+with my client reflect that this is a real effect, that 
+
+they are on the margin, the concern about the potential 
+
+for litigation makes investment and certainly 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+innovations not worth the gamble.
+
+ Unless the Court has further questions I, 
+
+will reserve the remainder of my time.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Ms. Maynard.
+
+ ORAL ARGUMENT OF DEANNE E. MAYNARD
+
+ ON BEHALF OF THE UNITED STATES,
+
+ AS AMICUS CURIAE,
+
+ SUPPORTING THE PETITIONERS
+
+ MS. MAYNARD: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ If a retail level rival can state a section 
+
+2 claim against a vertically integrated company by 
+
+alleging nothing more than a margin-based price squeeze, 
+
+one of two outcomes will result. Either the vertically 
+
+integrated company will have to raise its retail prices 
+
+to its consumers or it will be forced to share the 
+
+benefits of its lawful monopoly with its rivals by 
+
+lowering its wholesale price. Either outcome is 
+
+inconsistent with this Court's antitrust jurisprudence.
+
+ As we know from Trinko, in the absence of a 
+
+duty to deal, a monopolist cannot be forced to share the 
+
+benefits of its lawful monopoly with its rivals at any 
+
+particular turn.
+
+ JUSTICE STEVENS: Ms. Maynard, do you join 
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+in your colleague's suggestion that we should overrule 
+
+the Alcoa case?
+
+ MS. MAYNARD: I do think -- the government 
+
+believes the Alcoa case is wrongly decided, 
+
+Justice Stevens.
+
+ JUSTICE STEVENS: Do you think it's 
+
+necessary to do so to decide this case?
+
+ MS. MAYNARD: I mean if -- I mean, one could 
+
+say that Judge Hand didn't necessarily recognize a price 
+
+squeeze claim standing alone, because he has some 
+
+language about, to the effect of perhaps this isn't an 
+
+independent wrong, but the way that he analyzed it 
+
+separately and the way courts have ruled -- have relied 
+
+upon it, to suggest that a mere margin-based price 
+
+squeeze without more, does state a section 2 claim, is 
+
+incorrect.
+
+ JUSTICE STEVENS: My question is really, you 
+
+think it's necessary to overrule that decision in order 
+
+to decide this case correctly?
+
+ MS. MAYNARD: Well, I don't think 
+
+technically it needs overruling. It's a Second Circuit 
+
+decision, and I think it is -- has in effect --
+
+JUSTICE STEVENS: Do we have to say it was 
+
+decided incorrectly?
+
+ MS. MAYNARD: I think the Court should say 
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+it was decided incorrectly.
+
+ JUSTICE STEVENS: That's not my question.
+
+ MS. MAYNARD: Yes, Justice Stevens, I think 
+
+it's incorrect.
+
+ JUSTICE STEVENS: I know you think it's 
+
+incorrect. I am asking whether you think we have to say 
+
+it's incorrect in order to decide this case correctly?
+
+ MS. MAYNARD: Yes, unless you're willing to 
+
+say Judge Hand didn't hold that a price squeeze claim 
+
+without more is an independent theory that supports the 
+
+section 2 claim. As long as you think that's what he 
+
+did hold, and many people do think that is what he held, 
+
+then, yes, you do need to say that it was wrongly 
+
+decided and the government believes it is wrongly 
+
+decided, and that it has already been overruled.
+
+ JUSTICE BREYER: Well, why -- why can't we 
+
+just say Trinko is a case, as is this case, where there 
+
+is a regulator? So, in fact, if you, Mr. Plaintiff, are 
+
+upset about this, and feel you are being very badly 
+
+treated and squeezed out under circumstances where 
+
+competition might be hurt as a result, then you go to 
+
+the Commission, and you say: "This is an unreasonable 
+
+price. " All right?
+
+ Now I thought Trinko was a case where that 
+
+was involved. 
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MS. MAYNARD: The regulation, 
+
+Justice Breyer, in Trinko was relevant for two reasons 
+
+that are not relevant to the question before the Court 
+
+here. First, the Court looked to the regulations, the 
+
+regulatory duty, and made a decision whether the 
+
+regulatory duty itself created an antitrust duty to 
+
+deal, and the Court held it did not.
+
+ JUSTICE STEVENS: Right.
+
+ MS. MAYNARD: That holding is relevant here, 
+
+because it means that Petitioners' regulatory duty to 
+
+deal -- duty to deal does not create an antitrust duty 
+
+to deal. But then the Court went on and looked at the 
+
+Court's existing antitrust jurisprudence, to decide 
+
+whether or not the Court's antitrust jurisprudence 
+
+recognized a duty to deal in that circumstance, and 
+
+concluded it did not. It only looked to the regulation 
+
+that --
+
+JUSTICE BREYER: But it -- it -- it said 
+
+that the issue in that case was a duty to deal. That's 
+
+not the issue in this case. And it was about Aspen, and 
+
+whether you had a duty to deal. And the Court said no, 
+
+you don't have a special duty to deal.
+
+ Here we are dealing with quite a different 
+
+thing. We are dealing with someone who has chosen to 
+
+deal in the past, and they are setting a price such that 
+
+22
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the plaintiff thinks he is being squeezed out.
+
+ Now I can't find anything in Trinko that 
+
+tells me I can't say, we're at least not worried about 
+
+this where there is a regulator that you can go and 
+
+complain to. And if that's so, I don't have to reach 
+
+the question of whether Judge Hand is right or wrong. 
+
+What's wrong with what I just said?
+
+ MS. MAYNARD: Well, a couple of things. To 
+
+me, this case, as the case comes to the Court there is 
+
+no antitrust duty to deal.
+
+ And the -- the Petitioners here, the 
+
+district court determined weren't dealing voluntarily, 
+
+Justice Breyer; they were dealing as a result of 
+
+regulatory compulsion; but be that as it may, the -- the 
+
+important point from Trinko that is relevant here is 
+
+that a lawful monopolist without an antitrust duty to 
+
+deal has no duty to deal on any particular terms; and 
+
+Trinko specifically says that a lawful monopolist is 
+
+entitled to charge the monopoly price.
+
+ JUSTICE SOUTER: But --
+
+MS. MAYNARD: In that case --
+
+JUSTICE SOUTER: No, I didn't -- I didn't 
+
+want to interrupt your answer, go ahead -- just go 
+
+ahead.
+
+ MS. MAYNARD: I'm sorry. That takes the 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+wholesale price and possibility of lowering that, 
+
+Justice Breyer, off the table; and without the top 
+
+pincer as it were, there is no price squeeze; and that 
+
+leaves the Respondents with only a claim that the 
+
+Petitioner's prices are too low. And whenever a party 
+
+claims that its rival's prices are too low for it to be 
+
+able to compete, that triggers all of the concerns that 
+
+this Court expressed in Brooke Group.
+
+ JUSTICE SOUTER: Isn't it -- isn't it the 
+
+case that if in effect, we -- we refuse to come down 
+
+with a -- the kind of blanket answer, with a rule that 
+
+you want, that the parties here can go out -- the 
+
+complaining party here can go back to the FCC and say 
+
+there's something wrong with your wholesale pricing 
+
+order; look what's happening; and the FCC may adjust the 
+
+wholesale pricing order as a result of that.
+
+ And if that is true, if they can do that, 
+
+and the FCC can act, isn't that a good reason for us not 
+
+to be developing new antitrust doctrine, if there is no 
+
+need of it?
+
+ MS. MAYNARD: Well, the government's view is 
+
+that the current antitrust doctrine already forecloses 
+
+this claim for the reasons that I was explaining. Now 
+
+if the Court were going to consider this as whether were 
+
+you going to reach out and extend the antitrust law --
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOUTER: Well, you're certainly 
+
+asking us to -- at the very least -- to clarify the 
+
+significance of Alcoa. You're -- you are asking for an 
+
+articulation of something -- of the significance of 
+
+Alcoa today, which we have not done. So in that sense 
+
+you are asking for something more than we've got on the 
+
+books now; and my question is, if the agency in effect 
+
+can deal with -- with -- with what the -- the monopolist 
+
+is concerned with, and what the entrant is concerned 
+
+with, why do we have to take -- why is it wise for us to 
+
+take the step of making or clarifying new antitrust law?
+
+ MS. MAYNARD: Well, the -- the Respondents 
+
+here were attempting to press, and the Ninth Circuit has 
+
+allowed them to go forward on, a treble damages claim 
+
+where they seek $40 million under a pure margin-based 
+
+price squeeze theory. And in the government's view, 
+
+that -- such a rule would protect only competitors, and 
+
+doesn't allege any harm to the competitive process, 
+
+which section 2 requires.
+
+ Whether or not the FCC has regulatory 
+
+authority or not over the basic question -- over its own 
+
+issues -- isn't relevant to the antitrust question 
+
+before the Court here, which is, does the Court's 
+
+current antitrust jurisprudence foreclose such a pure 
+
+margin-based price squeeze. 
+
+25
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+And the government is not saying that there 
+
+might not be some exclusionary conduct, Justice Breyer, 
+
+that could someday be alleged, if there was an attempt 
+
+say, to claim an attempt of the upstream market, as you 
+
+were positing. That's not the claim here, nor in most 
+
+price squeeze claims of which I'm aware; the claim is 
+
+that they are attempting to monopolize the downstream 
+
+market. The government does not mean to foreclose; at 
+
+this point it has recognized there are myriad ways in 
+
+which companies can engage in exclusionary conduct. So 
+
+the government's position is a narrow one, which is that 
+
+a pure margin-based price squeeze, in the absence of a 
+
+duty to deal -- that is, this person who is dealing with 
+
+me is -- is charging me too much, so that I can't 
+
+compete against it at retail -- that is nothing more 
+
+than proof that they can't compete.
+
+ That doesn't show any harm to the 
+
+competitive process, which is what this Court has 
+
+repeatedly held is required for liability under section 
+
+2, and for good reason. And Justice Souter, in response 
+
+to your question, the government is not saying that it 
+
+is not plausible that there isn't some anticompetitive 
+
+conduct that will go unchecked as a result of such a 
+
+rule, but the Court's analysis in Brooke Group is the 
+
+proper one, which is that ultimately what you will be 
+
+26
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+doing is telling a retail level competitor that it must 
+
+raise its prices in order to prevent liability.
+
+ That really isn't, as Mr. Panner said, worth 
+
+the candle, and it creates the risk of chilling 
+
+legitimate price cutting, and it puts the courts in the 
+
+role, essentially, of being a regulator, maybe not just 
+
+at one level, but at two.
+
+ JUSTICE SOUTER: So you are saying in 
+
+practical terms that if there is a squeeze, it's highly 
+
+unlikely it's going to be anything but a Brooke Group 
+
+kind of squeeze, and therefore it's --
+
+MS. MAYNARD: That if there is something 
+
+anticompetitive going on, that section 2 cares about --
+
+JUSTICE SOUTER: Yes.
+
+ MS. MAYNARD: -- they would need to allege 
+
+that the Petitioners' retail prices are below some 
+
+appropriate measure of the Petitioners' costs; and what 
+
+they want to do is essentially what Alcoa does, which is 
+
+why it's mistaken, is it attributes -- it would 
+
+attribute to Petitioners the wholesale price they are 
+
+willing to sell their upstream input to others, and what 
+
+Brooke Group makes clear is that the relevant cost is 
+
+the internal cost to the Petitioners.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ JUSTICE KENNEDY: If I could just ask some 
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+-- everything you said is applicable to a predatory 
+
+price claim as well as a price squeeze?
+
+ MS. MAYNARD: We believe that if they can 
+
+allege the elements of a predatory pricing claim under 
+
+Brooke Group, then they would still have that claim even 
+
+in the absence of a duty to deal, and then labeling it a 
+
+predatory price squeeze doesn't add anything. The court 
+
+just clarified that there isn't a separate price squeeze 
+
+liability. But there would remain a predatory pricing 
+
+theory under Brooke Group if those allegations could be 
+
+met.
+
+ Does that answer your question?
+
+ CHIEF JUSTICE ROBERTS: Yes. Thank you, 
+
+counsel.
+
+ Mr. Blecher?
+
+ ORAL ARGUMENT OF MAXWELL M. BLECHER
+
+ ON BEHALF OF THE RESPONDENTS
+
+ MR. BLECHER: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ I don't have a white flag and I don't think 
+
+we particularly have given up, but let me start by 
+
+suggesting that you don't need to decide the totality of 
+
+Alcoa. I think you need to vacate the decision of the 
+
+Ninth Circuit -- not because it's erroneous, but because 
+
+it's incomplete. Just send the case back to the 
+
+28 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+district court to consider Judge Gould's suggestion that 
+
+we file an amended complaint.
+
+ JUSTICE GINSBURG: I don't understand what 
+
+you just said. Judge Gould dissented. He said the 
+
+Ninth Circuit majority was wrong. And you're urging us 
+
+to accept Judge Gould's position.
+
+ MR. BLECHER: Not -- yes.
+
+ JUSTICE GINSBURG: How can we do that 
+
+without saying that the majority was wrong?
+
+ MR. BLECHER: There is a difference between 
+
+being wrong and being incomplete. The Ninth Circuit 
+
+decision responded to a very narrow question certified 
+
+by the district judge, which was whether or not price 
+
+squeeze taken as a generic violation was subsumed or not 
+
+subsumed by the Trinko decision. It answered that 
+
+question correctly; but in doing that, it did not 
+
+consider whether or not price squeeze survived -- the 
+
+living margin part of price squeezing survived Brooke.
+
+ And to that extent, Judge Gould picked up 
+
+the -- the -- the argument and said, in effect, 
+
+especially in a regulated industry where the wholesale 
+
+price is -- is regulated, the offense of price squeeze 
+
+becomes predatory pricing, just as in a primary 
+
+Robinson-Patman case, the offense becomes predatory 
+
+pricing. 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+There is no more Robinson-Patman primary 
+
+line law. It's -- it's -- like it or not -- I'm not 
+
+saying we like it; I'm not saying we agree with it, but 
+
+the state of the law is that when you are challenging a 
+
+monopolist price under section 2 of the Sherman Act, 
+
+Brooke and its predecessors determine the legality of 
+
+the conduct. And that's -- and that's what we are 
+
+recognizing here.
+
+ Now, understand that when the issue was 
+
+framed to the Ninth Circuit, the district judge, in a 
+
+footnote, said he thought that they ought to consider 
+
+the Brooke issue, but he did not decide that question, 
+
+and he did not certify it. So when the Ninth Circuit --
+
+JUSTICE KENNEDY: Well, you don't certify 
+
+questions; you certify orders. And in the certification 
+
+of this order, I take it, your position was in support 
+
+of what the district court did and in support of what 
+
+the court of appeals did, correct?
+
+ MR. BLECHER: Partly, Justice Kennedy. What 
+
+-- in part what we said was --
+
+JUSTICE KENNEDY: You made -- you made --
+
+you made an argument, or did you not, that is consistent 
+
+with what the court of appeals did hold in this case?
+
+ MR. BLECHER: Well, I question whether 
+
+that's what they held. I view what they did is answer a 
+
+30
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+question: "Does a pure price squeeze get subsumed by 
+
+Trinko as it involves the question that we heard 
+
+articulated, the duty to deal?" Now --
+
+JUSTICE KENNEDY: Was the court of appeals' 
+
+decision consistent with the argument that you made to 
+
+the court of appeals?
+
+ MR. BLECHER: It is consistent, but it 
+
+didn't say, we endorse Alcoa, and it didn't say we 
+
+require a -- a -- predatory pricing. It was silent on 
+
+the elements of the offense of a price squeeze. It 
+
+answered this very narrow question: Does price squeeze 
+
+generically -- is it an existing kind of antitrust 
+
+violation that is not subsumed by the Trinko rule?
+
+ CHIEF JUSTICE ROBERTS: Counsel, I am 
+
+confused --
+
+MR. BLECHER: That's all that was decided.
+
+ CHIEF JUSTICE ROBERTS: I am confused about 
+
+what you mean when you say "the price squeeze claim."
+
+ MR. BLECHER: A non-predatory --
+
+CHIEF JUSTICE ROBERTS: Is that any 
+
+different -- is that any different than a Brooke Group 
+
+claim?
+
+ MR. BLECHER: A non-predatory price squeeze 
+
+case.
+
+ CHIEF JUSTICE ROBERTS: So you still want to 
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+be able to argue that --
+
+MR. BLECHER: No.
+
+ CHIEF JUSTICE ROBERTS: -- above-cost retail 
+
+prices --
+
+MR. BLECHER: No.
+
+ CHIEF JUSTICE ROBERTS: -- somehow violate 
+
+Brooke Group?
+
+ MR. BLECHER: I am very content to go back 
+
+to file an amended complaint purely under Brooke for 
+
+this no games --
+
+CHIEF JUSTICE ROBERTS: And you -- you agree 
+
+that that requires --
+
+MR. BLECHER: We would --
+
+CHIEF JUSTICE ROBERTS: That requires 
+
+below-cost retail pricing?
+
+ MR. BLECHER: Yes. We have below-cost 
+
+pricing. I have no concern about that, because, unlike 
+
+what Mr. Panner told you, this is not proxy pricing. 
+
+This is a case in which AT&T is mandated by the FCC to 
+
+sell the DSL transfer to itself, to its own affiliate 
+
+and to outside independent companies like the plaintiffs 
+
+at the same price.
+
+ CHIEF JUSTICE ROBERTS: Is the wholesale 
+
+price claim that the Ninth Circuit looked at in -- in 
+
+the case below, in the decision below, a necessary or 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+significant or partial element of your Brooke Group 
+
+claim, or is it totally irrelevant?
+
+ MR. BLECHER: More or less irrelevant. Only 
+
+-- it only sets the benchmark for the costs that the 
+
+retail affiliate is selling below. There -- there is no 
+
+question the retail affiliate, in many of the time 
+
+periods covered by the complaint, sold below -- just the 
+
+DSL transport; and in addition to that, they threw in a 
+
+modem, installation, and online services. So, if you 
+
+put those into the cost bundle, they will be below cost 
+
+for the -- substantially the entire damage period that 
+
+we are complaining about; and --
+
+JUSTICE KENNEDY: Is the first -- is the 
+
+first time that you indicated that you were in agreement 
+
+with the Gould dissent in your -- the brief that you 
+
+filed here in this Court?
+
+ MR. BLECHER: Yes, directly, but we did 
+
+have --
+
+JUSTICE KENNEDY: But it --
+
+MR. BLECHER: -- a predatory pricing --
+
+JUSTICE KENNEDY: -- it seems to me that, in 
+
+that instance, you seriously prejudiced the Petitioners 
+
+here, and that that should be weighed heavily against 
+
+you when you ask to -- for permission to amend your 
+
+complaint in the district court. 
+
+33 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. BLECHER: No --
+
+JUSTICE KENNEDY: I mean, there have --
+
+there have been costs and time --
+
+MR. BLECHER: See, see-- Justice Kennedy, 
+
+you granted certiorari and agreed to review a decision 
+
+that was essentially moot, because the complaint that 
+
+you are talking about in this case has been superseded. 
+
+Judge Wilson said it was superseded by a complaint 
+
+charging predatory pricing, and he said, generously 
+
+construed, you have pled predatory pricing, and let's go 
+
+forward.
+
+ Judge Gould said he didn't think the 
+
+complaint under Twombly's standard which intervened 
+
+satisfied the Brooke standard; And so he said --
+
+CHIEF JUSTICE ROBERTS: Well, I guess it 
+
+would have been nice if you thought the case was 
+
+essentially moot, to hear about that in the cert 
+
+opposition.
+
+ MR. BLECHER: I'm sorry?
+
+ CHIEF JUSTICE ROBERTS: You didn't argue 
+
+that the decision below was essentially moot in your 
+
+opposition to certiorari here.
+
+ MR. BLECHER: In -- in the opposition, 
+
+that's correct.
+
+ JUSTICE KENNEDY: Nor did you give notice to 
+
+34
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the Petitioners' attorney that that was your position so 
+
+you could have asked for a stipulation on the point.
+
+ MR. BLECHER: Well, I think what you are 
+
+overlooking, though, is when we went to the Ninth 
+
+Circuit, we endorsed Judge Wilson's suggestion that they 
+
+decide the Brooke issue, so that, when we went back, we 
+
+would have guidance as to what the appropriate standard 
+
+was. They elected not to deal with either Alcoa or 
+
+Brooke. They just decided the very narrow question he 
+
+certified.
+
+ In the Ninth Circuit, AT&T said, to the 
+
+Ninth Circuit, don't reach the Brooke issue; you don't 
+
+need to reach the Brooke issue to decide this case, even 
+
+though the complaint you are ruling on has been 
+
+superseded by an allegation in an amended complaint that 
+
+states a Brooke violation, or purported to or attempted 
+
+to state a Brooke violation.
+
+ JUSTICE BREYER: So can we write this 
+
+following, we say: In the district court, as of this 
+
+moment, there is no complaint that alleges the price 
+
+squeeze theory of the majority of the Ninth Circuit. 
+
+There is a complaint that alleges a price theory under 
+
+Brooke -- a predatory pricing under Brooke Group. That 
+
+is what is there. Nothing else is there. Therefore, 
+
+that issue which the Ninth Circuit decided has no 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25 --
+
+Official - Subject to Final Review 
+
+bearing on this case. We therefore vacate their 
+
+decision, leaving it up to the district court to proceed 
+
+as it believes appropriate under the law with the Brooke 
+
+Group claim?
+
+ MR. BLECHER: I think --
+
+JUSTICE BREYER: Is that a possible thing to 
+
+say?
+
+ MR. BLECHER: And --
+
+JUSTICE BREYER: Yes or no, please.
+
+ MR. BLECHER: It avoids the need to --
+
+JUSTICE BREYER: Is it, yes, we could do 
+
+that, or no --
+
+MR. BLECHER: Yes.
+
+ JUSTICE BREYER: Yes we can?
+
+ MR. BLECHER: Yes, you can. That's what 
+
+we're suggesting.
+
+ JUSTICE BREYER: Isn't it --
+
+MR. BLECHER: That you --
+
+JUSTICE BREYER: -- that --
+
+MR. BLECHER: -- don't need to reach Alcoa 
+
+here, because the Ninth Circuit did not endorse Alcoa. 
+
+It just didn't reach that question.
+
+ JUSTICE KENNEDY: Has the Brooke Group 
+
+complaint been allowed in the district court or was it 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. BLECHER: It was allowed.
+
+ JUSTICE KENNEDY: Yes, it was?
+
+ MR. BLECHER: Judge Wilson ruled that it 
+
+was, a, quote, "generously construed," we stated a 
+
+Brooke claim, and he would review it again at summary 
+
+judgment stage. Judge Gould disagreed with that, and he 
+
+said, if you want to state a Brooke claim, you should go 
+
+back and amend the complaint and do it.
+
+ CHIEF JUSTICE ROBERTS: Justice Breyer's 
+
+draft judgment said we would vacate the decision below. 
+
+Shouldn't we reverse it, because if we think on the 
+
+price squeeze claim, as distinct from the Brooke Group 
+
+claim, the Ninth Circuit was wrong. You don't just 
+
+throw it out and let everybody go home. You say whether 
+
+it was right or wrong. And if you are saying it's 
+
+wrong, we would reverse.
+
+ MR. BLECHER: That's certainly as an option, 
+
+but I think it would be more appropriate to vacate it 
+
+because I don't consider that they did a direct frontal 
+
+assault on Brooke. They didn't consider Brooke because 
+
+AT&T suggested that they didn't need to read it.
+
+ JUSTICE GINSBURG: The Ninth Circuit had a 
+
+precedent that it thought it was following. Was it 
+
+Anaheim?
+
+ MR. BLECHER: Yes. 
+
+37
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE GINSBURG: So isn't it important 
+
+that if you think that they were wrong and we agree with 
+
+you, that we get -- not just vacate but say you were 
+
+wrong on the law; you were wrong in this case, and you 
+
+were wrong in Anaheim. And then the Ninth Circuit will 
+
+not follow those decisions anymore.
+
+ MR. BLECHER: Well, that's if you want to 
+
+approach the rules and decide that there can only be a 
+
+price squeeze claim if the price is predatory. You may 
+
+want to get there. I'm saying you don't need to get 
+
+there here.
+
+ You could simply say the Ninth Circuit 
+
+decision, I think, correctly decided the very narrow 
+
+question that was presented by the certification order. 
+
+They abided AT&T's suggestion not to go outside that 
+
+order, and, therefore, their decision can be viewed as 
+
+incomplete because they didn't go on to discuss what the 
+
+elements of a price squeeze claim were.
+
+ CHIEF JUSTICE ROBERTS: You are saying we 
+
+don't have to cross the Rubicon because your Brooke 
+
+Group predatory pricing claim will say that the prices 
+
+here were below cost?
+
+ MR. BLECHER: Correct.
+
+ CHIEF JUSTICE ROBERTS: So we don't have to 
+
+consider, I guess, what I thought we had to consider --
+
+38
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. BLECHER: This is not a case where we 
+
+are confronting you with the necessity of the settings 
+
+or the vitality of Alcoa. You --
+
+CHIEF JUSTICE ROBERTS: And you are not 
+
+going to amend your complaint to raise such a claim on 
+
+remand?
+
+ MR. BLECHER: I am going to file an amended 
+
+complaint that will be limited entirely to the Brooke 
+
+predatory pricing.
+
+ CHIEF JUSTICE ROBERTS: Which you understand 
+
+to require that the retail prices be below cost?
+
+ MR. BLECHER: And we are very comfortable 
+
+with that. The answer is yes, and we are comfortable 
+
+with that. But we haven't given up, and we live to 
+
+fight another day on another field.
+
+ JUSTICE ALITO: But if we follow your 
+
+proposal, then, you could, in a case filed next week or 
+
+the week after we decide the case, assert exactly the 
+
+same claim that you asserted here originally, and that 
+
+would be good law in the Ninth Circuit?
+
+ MR. BLECHER: The answer to that, 
+
+Justice Alito, I think you can remand it --
+
+JUSTICE ALITO: I don't mean in this case. 
+
+I mean in another case.
+
+ MR. BLECHER: Oh, we could raise that, and 
+
+39
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the Ninth Circuit --
+
+JUSTICE SOUTER: Either you or anybody else 
+
+in the Ninth Circuit?
+
+ MR. BLECHER: I think if you abide my idea 
+
+how to deal with this, the issue of Alcoa's vitality 
+
+would remain open to be decided in another case on 
+
+another day.
+
+ JUSTICE BREYER: If we vacate, you would be 
+
+in favor of vacating their decision?
+
+ MR. BLECHER: Yes, because a vacation can 
+
+rest on grounds that the Ninth Circuit did not reach the 
+
+issue. They said, we are prepared to abide Judge 
+
+Gould's view that, in a regulated industry, we can only 
+
+have a, quote, "price squeeze" if the price is 
+
+predatory.
+
+ CHIEF JUSTICE ROBERTS: But the reason you 
+
+think we should vacate is not because the Ninth Circuit 
+
+didn't decide the question, but because you are willing 
+
+not to press it?
+
+ MR. BLECHER: No. I don't think they 
+
+decided the Alcoa question. That's the way I read the 
+
+decision. Because I know what was certified. I know 
+
+what they said. They responded only to a very narrow 
+
+question, and AT&T said don't venture beyond that. 
+
+Don't --
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: So, I guess -- I 
+
+guess that's where we are about to go. But in answer to 
+
+Justice Alito's question, if you think the Ninth Circuit 
+
+was wrong and don't want to see those claims raised 
+
+again, we need to address the merits and reverse?
+
+ MR. BLECHER: Or you can simply say that the 
+
+case is remanded, the district court may decide the 
+
+propriety of an amended complaint, except that the 
+
+amended complaint cannot state a non-predatory price 
+
+squeeze claim. We are prepared to live with that.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ MR. BLECHER: Thank you.
+
+ CHIEF JUSTICE ROBERTS: Mr. Brunell.
+
+ ORAL ARGUMENT OF RICHARD M. BRUNELL
+
+ ON BEHALF OF THE AMERICAN ANTITRUST
+
+ INSTITUTE, AS AMICUS CURIAE,
+
+ SUPPORTING THE RESPONDENTS
+
+ MR. BRUNELL: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ We think the proper disposition of this case 
+
+is to vacate the decision below and to remand and let 
+
+the district court decide whether the complaint should 
+
+be amended or not. Vacating the judgment would amount 
+
+to a dismissal with prejudice of the price squeeze 
+
+claim, and, therefore, this Court would have nothing to 
+
+41
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+decide.
+
+ The Court doesn't need to reach out to 
+
+decide the vitality of Alcoa, the question of which is 
+
+not even presented by the question raised in the cert 
+
+petition. And there are many reasons why -- and I am 
+
+happy to address why Alcoa should remain good law, if 
+
+the Court wishes to get into that. However, we don't 
+
+think it's necessary.
+
+ On the specific issue here, if the Court 
+
+decides not to vacate the judgment below and wants to 
+
+examine the correctness of the Ninth Circuit judgment, 
+
+the specific issue of whether the absence of a duty to 
+
+deal thereby dooms any kind of claim -- a price squeeze 
+
+claim or really any other type of antitrust claim, 
+
+including a predatory pricing claim, if the regulators 
+
+can address the issue.
+
+ We think that is -- that is the case, that 
+
+that is the incorrect view of the law, and indeed, to 
+
+some extent we agree with the Solicitor General that the 
+
+existence of a regulatory remedy is not sufficient to 
+
+bar a price-squeeze claim because there is no exhaustion 
+
+requirement under the antitrust laws, and this Court's 
+
+decision in Trinko, as the Solicitor General suggested 
+
+when it looked at the regulatory remedies, that was with 
+
+respect to expanding section 2 enforcement and not with 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+respect to traditional antitrust claims, which Alcoa 
+
+certainly is.
+
+ Now, with respect to the issue of the duty 
+
+to deal. What does that mean, that there's no duty to 
+
+deal? In our view --
+
+CHIEF JUSTICE ROBERTS: Well, that means 
+
+they don't have to deal. They don't have to sell you 
+
+the stuff if they don't want to.
+
+ MR. BRUNELL: In our view, it means that a 
+
+court has found that there's no liability in the event 
+
+of a refusal to deal, which is what Trinko did. And one 
+
+has to ask whether the rationale for finding no 
+
+liability for refusal to deal also applies to a 
+
+predatory -- excuse me, a price squeeze claim.
+
+ CHIEF JUSTICE ROBERTS: You mean a Brooke 
+
+Group retail price squeeze claim?
+
+ MR. BRUNELL: No, I mean a traditional price 
+
+squeeze claim. That doesn't have to meet the Brooke 
+
+Group standard. Mr. Panner suggested --
+
+JUSTICE STEVENS: May I ask this: I'm not 
+
+familiar on this point. Apart from Alcoa, what are the 
+
+cases applying a traditional price squeeze claim?
+
+ MR. BRUNELL: We've listed them in our 
+
+brief. I believe that 9 out of the 12 circuits, not 
+
+including the Federal Circuit, have recognized an 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Alcoa-type price squeeze claim. And in the other three 
+
+circuits, district courts -- in each of the other three 
+
+circuits, district courts have recognized an Alcoa-type 
+
+claim.
+
+ JUSTICE STEVENS: Do you agree with your 
+
+opponent's submission that antitrust scholars uniformly 
+
+agree that the Alcoa case was incorrectly decided?
+
+ MR. BRUNELL: No, I do not agree with that. 
+
+And, indeed, our brief cites an eminent professor, John 
+
+Vickers at Oxford, an economist who supports a 
+
+traditional Alcoa-type claim, that is a claim based on 
+
+what we've call the transfer price test, where one looks 
+
+at the margin between the retail and wholesale prices 
+
+and asks whether that is sufficient to cover the 
+
+monopolist's downstream costs. Professor Vickers --
+
+JUSTICE SOUTER: Does he support --
+
+MR. BRUNELL: Pardon me?
+
+ JUSTICE SOUTER: I thought somebody else was 
+
+-- does he support recognition of that claim in the 
+
+circumstances in which there was regulatory involvement 
+
+like the FCC here?
+
+ MR. BRUNELL: I believe he does, Your Honor. 
+
+I believe the European Commission also recognizes such a 
+
+claim in the presence of regulation. I believe the 
+
+Federal Trade Commission recognizes such a claim. 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOUTER: Why do we need to?
+
+ MR. BRUNELL: Why do we need to? Because 
+
+a -- you mean in the absence why can't regulation handle 
+
+this or why do we worry about the anticompetitive 
+
+effects of a price squeeze?
+
+ JUSTICE SOUTER: Why can't regulation handle 
+
+it?
+
+ MR. BRUNELL: Well, in this case, regulation 
+
+-- simply the -- the regulation that is referred to is 
+
+simply the prospect of the complainant going to the 
+
+Federal Communications Commission and simply asking for 
+
+some kind of post hoc relief, as opposed to a situation 
+
+as in Town of Concord or in Trinko where the regulation 
+
+at issue was quite extensive. All of the conduct at 
+
+issue in Trinko was heavily regulated. And in this 
+
+case, we have wholesale rates that are lightly regulated 
+
+and retail rates that are completely unregulated.
+
+ JUSTICE BREYER: So why couldn't you -- why 
+
+wouldn't you -- couldn't you go to the FCC or the other 
+
+regulator and say: Regulator, they are selling me this 
+
+widget or line at a dollar. All right. That's 
+
+considerably higher than their costs of producing it. 
+
+And, in addition to that, they sell the same service I 
+
+do for $1.20, even though it costs me or would cost any 
+
+human being at least 60 cents to provide that added 
+
+45
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+service. So we are asking you to tell them that if they 
+
+continue to sell it at $1.20, they lower their wholesale 
+
+price to us so that we only have to pay at most 80 
+
+cents, or whatever the right number is there.
+
+ I mean, they have someone to complain to. 
+
+They could make the same complaint. I'm quite surprised 
+
+that Vickers has written that under the circumstances I 
+
+have outlined that there is a valid price squeeze 
+
+antitrust claim or that the British Commission has held 
+
+that.
+
+ I would be very interested to know the 
+
+citation of that. Because he may have done. I don't 
+
+read everything.
+
+ MR. BRUNELL: The European commission --
+
+JUSTICE BREYER: I'm not saying the European 
+
+Commission. They have done all kinds of things. I am 
+
+saying the -- the --
+
+(Laughter.)
+
+ JUSTICE BREYER: I am saying the British 
+
+Monopolies or Restricted Practices Commission of which 
+
+Vickers was the head. I agree with you that he is very 
+
+knowledgeable, but I would be surprised if he had 
+
+written contrary to what I just said in that example. 
+
+But I am often surprised and willing to read it.
+
+ MR. BRUNELL: The question of the 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+relationship between the regulatory authority to address 
+
+a question and whether an antitrust claim exists is 
+
+normally decided on the basis of implied antitrust 
+
+immunity. The mere existence of a regulatory remedy is 
+
+insufficient under this Court's precedent in Credit 
+
+Suisse, certainly, for -- for having implied immunity.
+
+ JUSTICE KENNEDY: Well, would you say that 
+
+absent the regulatory regime, there would be a duty to 
+
+deal here?
+
+ MR. BRUNELL: Absent the regulatory regime, 
+
+would there be a duty to deal? Would the Court have 
+
+found -- in this case, the Petitioners may well have 
+
+voluntarily dealt with the Respondents --
+
+JUSTICE KENNEDY: No. No. My question was: 
+
+Was there a duty to deal under the antitrust laws? 
+
+Because it seems to me the only reason that there is a 
+
+duty to deal is because of the regulation. So, you use 
+
+the regulation in order to establish the duty, but then 
+
+you don't want to go to the regulators to regulate the 
+
+price. And it seems to me that that's inconsistent.
+
+ MR. BRUNELL: Whether there is a duty to 
+
+deal can only be answered by asking whether a violation 
+
+-- a refusal to deal would constitute an antitrust 
+
+violation. And in this case, had -- had there been no 
+
+required dealing and, therefore, no dealing whatsoever, 
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+then the issue of antitrust duty to deal would be 
+
+totally academic. Furthermore --
+
+JUSTICE KENNEDY: It's still seems to me 
+
+that you, therefore, must rely on the regulation to 
+
+establish the initial predicate of a duty to deal. And 
+
+You rely on the regulation that far, but you don't want 
+
+to go to the regulators to -- to argue about the price. 
+
+You want us to look at regulation first and antitrust 
+
+law second.
+
+ Why can't we just look at this case as 
+
+purely antitrust; and then, as Justice Breyer said, if 
+
+it's a regulatory problem, go to the regulators.
+
+ MR. BRUNELL: Well, the mere fact that there 
+
+is a regulatory duty to deal does not completely oust 
+
+antitrust. Otherwise, there would be no predatory-
+
+pricing claim.
+
+ The petitioner -- the -- the respondent 
+
+injured by a predatory-pricing claim could also go to 
+
+the FCC, presumably. And we don't -- and no one is 
+
+contending that the -- that a predatory-pricing claim 
+
+wouldn't lie and --
+
+JUSTICE SCALIA: Would that lie here first? 
+
+I mean, you don't -- you don't think -- you don't think 
+
+that the regulatory agency would be acting properly if 
+
+it prescribed a price that was predatory or allowed the 
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+charge of a price that was predatory, would you?
+
+ MR. BRUNELL: No. I -- I don't think the 
+
+regulators would -- would permit predatory pricing.
+
+ JUSTICE SCALIA: They wouldn't permit it. 
+
+Then is there -- is there no such thing as primary 
+
+agency responsibility to take care of that problem 
+
+rather than rushing into a court and take care of it 
+
+through the -- through the Sherman Act?
+
+ MR. BRUNELL: There certainly is the 
+
+doctrine of primary jurisdiction, which arises typically 
+
+when the agency is already dealing with a problem and 
+
+not --
+
+JUSTICE SCALIA: Well, they are dealing with 
+
+the problem there. They are decreeing the price that 
+
+could be charged, aren't they? Don't they have to 
+
+approve the pricing?
+
+ MR. BRUNELL: They certainly don't approve 
+
+the retail pricing, no. The retail pricing in this case 
+
+is entirely unregulated. It purports to be in a 
+
+competitive market.
+
+ But let me back up for one second. The --
+
+the regulatory regime here is quite different from the 
+
+one in Trinko. In -- in Trinko you had a regulatory 
+
+duty that essentially required the monopolist to 
+
+cooperate with its rivals in the monopoly market in 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+order to dismantle the monopoly.
+
+ In this case you have a regulation that is 
+
+designed to ensure that the monopolist does not extend 
+
+its monopoly power into unregulated competitive markets. 
+
+And so the -- surely, the regulators focus -- can focus 
+
+on the wholesale rates and ensure in this case that the 
+
+rate that the monopolist charges itself is the same as 
+
+the rate it charges its rivals with the object of 
+
+ensuring a competitive downstream market.
+
+ But that doesn't mean that that should oust 
+
+antitrust law. The regulators may, in fact, think that 
+
+it's important to have antitrust law available to 
+
+enforce claims in order for them to cut back on their 
+
+regulations. And indeed, in this case, when the -- when 
+
+AT&T sought to de-tariff its wholesale offering, the 
+
+regulators referred to the fact that one of the 
+
+justifications for de-tariffing would be that the 
+
+antitrust laws would be available in case there were a 
+
+problem.
+
+ So the -- the relationship between antitrust 
+
+and regulation is symbiotic and complementary. And we 
+
+would suggest that in this case the mere fact that the 
+
+district court determined that the complaint of 
+
+insufficient cooperation by the Petitioner in this case 
+
+did not state a claim for refusal to deal shouldn't 
+
+50 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+preclude a -- a price-squeeze claim any more than it 
+
+should preclude a predatory pricing claim, which the 
+
+government and the Petitioners seem to concede would 
+
+still lie.
+
+ Now, finally, this point about an 
+
+over-deterrence and whether there is any evidence that 
+
+any monopolist at any time has ever been deterred from 
+
+engaging in legitimate retail price-cutting or efficient 
+
+vertical integration, I would submit that there is 
+
+absolutely no evidence anywhere in the literature, no 
+
+empirical evidence, that there is a problem of over-
+
+deterrence.
+
+ And had there been a problem over the last 
+
+63 years that Alcoa has existed, one would think it 
+
+wouldn't be too hard to find evidence of that. There is 
+
+no evidence.
+
+ Furthermore, in Brooke Group the Court did 
+
+not simply rely on the risk of over-deterrence as a 
+
+basis for holding that above-cost price-cutting was not 
+
+actionable. In Brooke Group it relied on two factors: 
+
+The fact -- the fear that making above-cost 
+
+price-cutting illegal would deter legitimate 
+
+price-cutting, but also the fact that above-cost 
+
+price-cutting would not eliminate equally efficient 
+
+rivals. Any equally efficient rival could meet an 
+
+51 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+above-cost price. The price squeeze doctrine under the 
+
+transfer price test protects equally efficient 
+
+downstream rivals.
+
+ So that issue is quite different. The 
+
+deterrence issue is -- is quite different when you --
+
+when have a price squeeze. Furthermore, the notion that 
+
+a monopolist would respond to a price squeeze complaint 
+
+-- thank you, Your Honors.
+
+ CHIEF JUSTICE ROBERTS: You can finish your 
+
+sentence there.
+
+ MR. BRUNELL: The notion that they would 
+
+respond to a price squeeze complaint by raising their 
+
+retail price, rather than lowering their wholesale 
+
+price, I would submit is certainly as belied by the 
+
+facts of the Alcoa case which in the district court 
+
+reflect that when the government started looking into 
+
+the price squeeze and the price squeeze was ended, it 
+
+was ended voluntarily by Alcoa lowering its wholesale 
+
+price, not raising its retail price.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Now, Mr. Panner, you have two minutes 
+
+remaining.
+
+ REBUTTAL ARGUMENT OF AARON PANNER
+
+ ON BEHALF OF THE PETITIONERS
+
+ MR. PANNER: I have two points I would like 
+
+52 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to make. First of all, I think, in agreement with 
+
+Justice Breyer and Justice Kennedy, and others, I do 
+
+think that the presence of a regulatory remedy here is a 
+
+critical factor arguing in favor of reversal of the 
+
+Ninth Circuit's decision.
+
+ The second point that I really want to make 
+
+is the importance of clear rules. In the antitrust 
+
+context where we are talking about a system of rules 
+
+that is going to govern decisionmaking by businesses 
+
+where most of those decisions are never going to lead to 
+
+litigation or are never going to come before the courts, 
+
+it is critically important to have clear rules that 
+
+avoid deterring beneficial conduct, that avoid having 
+
+the rules themselves harm consumers.
+
+ I think that was the point that 
+
+Justice Alito and Justice Ginsburg were getting at in 
+
+the questioning. It is critical to adopt a decision on 
+
+the merits explaining why the Ninth Circuit's price 
+
+squeeze decision -- not just here, but in the prior 
+
+decision, in City of Anaheim -- is incorrect and 
+
+inconsistent with this Court's precedents.
+
+ And, more broadly, it is critical to have a 
+
+clear rule stating that in the absence of a duty to 
+
+deal, an allegation of price squeeze, it doesn't stay a 
+
+claim. 
+
+53 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+And I think that it's also -- would be very 
+
+valuable to say that the complaint that was before the 
+
+district court -- and the amended complaint at a minimum 
+
+is supplying one version of the facts that might try to 
+
+be elaborated -- fail to state a claim under this 
+
+Court's precedents. The clear gravamen of 
+
+that complaint, indeed the explicit gravamen of that 
+
+complaint, was that the margin between the wholesale 
+
+price and retail price was insufficient. And --
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ The case is now submitted.
+
+ (Wherepon, at 12:05 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+54
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+13:23 25:7 39:7 41:8,9,23 anymore 38:6 aspect 5:4A 
+48:24 49:6,11 54:3 Apart 43:21 Aspen 22:20AARON 1:18 
+
+agree 16:8 30:3 American 2:2 appeals 7:18 assault 37:203:3,14 4:7 
+32:11 38:2 3:11 17:3 30:18,23 31:4 assert 39:1852:23 
+42:19 44:5,7,8 41:15 31:6 asserted 39:19abandons 7:17 
+46:21 amicus 1:22 2:2 APPEARAN... asserts 4:12abide 40:4,12 
+
+agreed 34:5 3:6,12 8:1,3,6 1:17 Assistant 1:20abided 38:15 
+agreement 4:21 8:11 19:8 applicable 28:1 assume 17:16able 24:7 32:1 
+
+5:7 33:14 53:1 41:16 applies 43:13 assumptionabove-cost 32:3 
+ahead 6:5 23:23 amount 12:23 applying 43:22 11:19,20 14:10 51:19,21,23 
+
+23:24 41:23 appoint 8:11 attack 11:152:1 
+AL 1:5,9 Anaheim 37:24 appointed 7:19 attempt 26:3,4above-entitled 
+Alcoa 9:13,15 38:5 53:20 7:20,23 attempted 35:161:14 54:13 
+
+10:3,4,7 13:17 analysis 11:10 approach 38:8 attemptingabsence 12:15 
+13:18,23 14:2 16:11 18:5 appropriate 9:4 25:13 26:715:16 16:14 
+20:2,4 25:3,5 26:24 10:13 27:17 attorney 6:1519:21 26:12 
+27:18 28:23 analyzed 20:12 35:7 36:3 35:128:6 42:12 
+31:8 35:8 Angeles 1:24 37:18 attribute 27:2045:3 53:23 
+36:20,21 39:3 answer 12:9 approve 49:16 attributes 27:19absent 47:8,10 
+40:21 42:3,6 13:15 14:8,25 49:17 AT&T 1:4 32:19 absolutely 51:10 
+43:1,21 44:7 15:1 16:23 argue 14:24 35:11 37:21abuse 10:8,15 
+51:14 52:15,18 18:7 23:23 32:1 34:20 40:24 50:15academic 17:17 
+
+Alcoa's 40:5 24:11 28:12 48:7 AT&T's 38:1548:2 
+Alcoa-type 44:1 30:25 39:13,21 argues 15:16 authority 25:21accept 29:6 
+
+44:3,11 41:2 arguing 8:1 9:11 47:1act 24:18 30:5 
+Alito 39:16,22 answered 8:10 11:21 53:4 available 13:749:8 
+
+39:23 53:16 29:15 31:11 argument 1:15 50:12,18acting 48:24 
+Alito's 41:3 47:22 3:2,13 4:4,7 avoid 53:13,13actionable 51:20 
+allegation 12:16 anticipate 12:25 8:7 14:25 15:1 avoids 36:10add 13:11 28:7 
+
+13:10 35:15 anticompetitive 16:17,22 17:23 aware 26:6added 45:25 
+53:24 26:22 27:13 17:25 18:1 a.m 1:16 4:2 addition 33:8 
+
+allegations 45:4 19:6 28:1645:23 B28:10 antitrust 2:2 29:20 30:22additional 8:4 back 24:13allege 25:18 3:11 9:24 12:2 31:5 41:14address 41:5 
+28:25 32:827:15 28:4 15:3 16:12 52:2342:6,16 47:1 
+35:6 37:8alleged 14:11 17:3 19:20 arguments 8:5adjust 24:15 
+49:21 50:1326:3 22:6,11,13,14 arises 49:10adopt 53:17 badly 21:19alleges 35:20,22 23:10,16 24:19 article 5:4 7:7 advantage 5:25 bar 7:1 42:21 alleging 19:14 24:22,25 25:11 8:12 17:206:5 7:1 based 5:21allow 9:19 16:10 25:22,24 31:12 articulated 31:3adverse 5:9 7:6 
+44:11allowed 25:14 41:15 42:14,22 articulationadversity 7:8,12 basic 25:2136:24 37:1 43:1 44:6 46:9 25:4affect 8:21 basis 9:22 10:13 48:25 47:2,3,15,23 asked 6:7 35:2 affiliate 32:20 
+11:8 15:8 47:3 amend 33:24 48:1,8,11,15 asking 21:6 25:2 33:5,6 
+51:1937:8 39:5 50:11,12,18,20 25:3,6 45:11 affirm 6:9,25 battle 13:20amended 29:2 53:7 46:1 47:22affirming 6:1 bearing 36:132:9 35:15 anybody 40:2 asks 44:14agency 12:21 
+
+55 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+behalf 1:18,22 13:13 14:13 35:10 40:22 53:5,18C 
+1:24 2:1 3:4,6 15:23 16:2,5 certify 30:13,14 circumstanceC 3:1 4:1 
+3:9,11,15 4:8 21:16 22:2,18 30:15 6:24 13:3Cal 1:24 
+19:7 28:17 23:13 24:2 certiorari 34:5 15:20 22:15CALIFORNIA 
+41:15 52:24 26:2 35:18 34:22 circumstances1:5 
+
+behavior 14:23 36:6,9,11,14 challenging 9:12 11:3 13:1,18call 44:12 
+belied 52:14 36:17,19 40:8 9:15 30:4 13:24 14:3candle 27:4 
+believe 9:14 45:18 46:15,19 chances 4:16 21:20 44:20care 49:6,7
+
+28:3 43:24 48:11 53:2 charge 23:19 46:7cares 27:13 
+44:22,23,24 Breyer's 11:23 49:1 citation 46:12Carlton 17:19 
+
+believes 20:4 37:9 charged 8:24 cited 17:3case 4:4 5:9,15 
+21:14 36:3 brief 7:19 8:7,23 9:3 49:15 cites 44:96:18,20 8:13 
+
+Bell 1:3 4:4 33:15 43:24 charges 50:7,8 City 53:209:13 10:3,5
+below-cost 44:9 charging 9:2 claim 5:10,2011:19,20,23
+
+32:15,16 briefs 8:3 10:16 14:17 7:9 8:20,21 9:8 15:24 16:6,14
+benchmark 33:4 British 46:9,19 26:14 34:9 9:11,20,2217:21 20:2,4,7
+beneficial 5:1 broadly 5:15 Chief 4:3,9,15 13:19 14:2320:19 21:7,17
+
+15:13,14,14 53:22 5:3,12 8:19 17:5 19:1321:17,24 22:19 
+18:17 53:13 Brooke 4:14 19:4,10 27:24 20:10,15 21:9 22:20 23:9,9
+
+benefit 15:7 8:21 18:6 24:8 28:13,18 31:14 21:11 24:4,2323:21 24:10 
+18:13 26:24 27:10,22 31:17,20,25 25:14 26:4,5,628:25 29:24 
+
+benefits 19:18 28:5,10 29:18 32:3,6,11,14 28:2,4,5 31:18 30:23 31:24 
+19:23 30:6,12 31:21 32:23 34:15,20 31:22 32:2432:19,25 34:7 
+
+best 12:8 32:7,9 33:1 37:9 38:19,24 33:2 36:4 37:5 34:16 35:13 
+beyond 40:24 34:14 35:6,9 39:4,10 40:16 37:7,12,1336:1 38:4 39:1 
+bind 6:16 35:12,13,16,17 41:1,11,13,18 38:9,18,2139:17,18,23,24
+binds 6:18 35:23,23 36:3 43:6,15 52:9 39:5,19 41:10 40:6 41:7,20
+blanket 24:11 36:23 37:5,7 52:20 54:10 41:25 42:13,1442:17 44:7 
+Blecher 1:24 3:8 37:12,20,20 chilling 27:4 42:14,15,2145:8,16 47:12 
+
+28:15,16,18 38:20 39:8 chosen 22:24 43:14,16,18,2247:24 48:10 
+29:7,10 30:19 43:15,18 51:17 circuit 4:24 5:24 44:1,4,11,1149:18 50:2,6
+30:24 31:7,16 51:20 6:1,4,8,21,25 44:19,24,2550:14,18,22,24
+31:19,23 32:2 Brunell 41:13 7:21 8:6 9:9 46:9 47:252:15 54:11,12
+32:5,8,13,16 41:14,18 43:9 20:21 25:13 48:16,18,20cases 15:11 
+33:3,17,20 43:17,23 44:8 28:24 29:5,11 50:25 51:1,243:22 
+34:1,4,19,23 44:17,22 45:2 30:10,13 32:24 53:25 54:5cause 17:21 
+35:3 36:5,8,10 45:8 46:14,25 35:5,11,12,21 claims 24:6 26:6 cents 45:25 46:4 
+36:13,15,18,20 47:10,21 48:13 35:25 36:21 41:4 43:1cert 34:17 42:4 
+37:1,3,17,25 49:2,9,17 37:13,22 38:5 50:13certain 18:9 
+38:7,23 39:1,7 52:11 38:12 39:20 clarified 28:8certainly 4:22 
+39:12,21,25 BRUNNELL 40:1,3,11,17 clarify 9:10 25:2 6:19 18:25 
+40:4,10,20 2:1 3:10 41:3 42:11 clarifying 25:1125:1 37:17 
+41:6,12 bundle 33:10 43:25 clear 9:6 12:7 43:2 47:6 49:9 
+
+books 25:7 business 14:17 circuits 43:24 15:10 16:19,2149:17 52:14 
+bought 14:6 14:19 44:2,3 27:22 53:7,12certification 
+break 14:20 businesses 53:9 Circuit's 4:11 53:23 54:630:15 38:14 
+Breyer 10:20 4:25 8:2,8,17 clearly 5:24 8:14 certified 29:12 
+
+56 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+8:25 54:2,3,7,8 37:4 8:11,12,13,25 D 
+client 18:23 complementary consumers 5:1 10:18 12:25 D 4:1 
+colleague's 20:1 50:21 8:18 18:13,17 13:1 16:9,24 damage 33:11 
+come 14:4 16:19 completely 19:17 53:14 18:5 19:2,11 damages 25:14 
+
+24:10 53:11 45:17 48:14 contending 20:25 22:3,4,7 day 39:15 40:7 
+comes 7:16 23:9 compulsion 48:20 22:12,21 23:9 DBA 1:4 
+comfort 4:23 23:14 content 32:8 23:12 24:8,24 deal 9:23,23,24
+comfortable concede 51:3 contesting 7:14 25:23 26:18 11:11 12:1,15
+
+39:12,13 conceding 5:23 7:14 28:7,19 29:1 12:22 13:3,4,5
+commission conceived 5:15 context 53:8 30:17,18,23 14:4,4,10
+
+16:4 21:22 concern 18:24 continue 5:9,19 31:4,6 33:16 15:17 19:22 
+44:23,25 45:11 32:17 46:2 33:25 35:19 22:7,11,11,12
+46:9,14,16,20 concerned 25:9 contrary 46:23 36:2,24 41:7 22:15,19,21,22
+
+Communicati... 25:9 cooperate 49:25 41:19,22,25 22:25 23:10,17
+1:8 4:5 16:3 concerns 24:7 cooperation 42:2,7,9 43:10 23:17 25:8 
+45:11 concluded 22:16 50:24 47:11 49:7 26:13 28:6 
+
+companies Concord 45:13 correct 4:19 50:23 51:17 31:3 35:8 40:5 
+26:10 32:21 conduct 5:21 30:18 34:24 52:15 54:3 42:13 43:4,5,7 
+
+company 1:4 9:20 10:1,7 38:23 courts 20:13 43:11,13 47:9 
+19:13,16 13:4 15:13,13 correctly 20:19 27:5 44:2,3 47:11,15,17,22
+
+compete 9:19 17:22 18:10,12 21:7 29:16 53:11 47:23 48:1,5
+24:7 26:15,16 18:13 26:2,10 38:13 Court's 4:12 48:14 50:25 
+
+competition 26:23 30:7 correctness 19:20 22:13,14 53:24 
+21:21 45:14 53:13 42:11 25:23 26:24 dealing 11:22 
+
+competitive confession 6:14 cost 9:2 27:22 42:22 47:5 13:8 18:21 
+11:17 14:16 6:15 27:23 33:10,10 53:21 54:6 22:23,24 23:12 
+25:18 26:18 confronting 38:22 39:11 cover 44:14 23:13 26:13 
+49:20 50:4,9 39:2 45:24 covered 33:7 47:25,25 49:11 
+
+competitor 9:19 confused 31:15 costs 8:25 13:7 create 15:4 49:13 
+27:1 31:17 27:17 33:4 18:10 22:11 dealt 47:13 
+
+competitors consensus 16:21 34:3 44:15 created 22:6 DEANNE 1:20 
+11:16 25:17 17:2 45:22,24 creates 27:4 3:5 19:6 
+
+complain 13:24 consequences counsel 19:4 Credit 47:5 debased 9:25 
+23:5 46:5 18:11 27:24 28:14 critical 10:6 decide 20:7,19
+
+complainant consider 24:24 31:14 41:11 53:4,17,22 21:7 22:13 
+45:10 29:1,17 30:11 52:20 54:10 critically 53:12 28:22 30:12 
+
+complaining 37:19,20 38:25 counterexamp... cross 38:20 35:6,13 38:8 
+13:22 24:13 38:25 17:18 curiae 1:23 2:2 39:18 40:18 
+33:12 considerably couple 23:8 3:7,12 19:8 41:7,22 42:1,3 
+
+complaint 29:2 45:22 course 5:21 9:20 41:16 decided 6:4 10:5 
+32:9 33:7,25 consistent 30:22 18:20 curiosity 15:23 20:4,24 21:1 
+34:6,8,13 31:5,7 court 1:1,15 current 24:22 21:14,15 31:16 
+35:14,15,20,22 constitute 47:23 4:10,11,20,22 25:24 35:9,25 38:13 
+36:24 37:8 constitutes 13:4 4:23 5:7,16 6:1 cut 50:13 40:6,21 44:7 
+39:5,8 41:8,9 constructive 6:4,12,16,18 cuts 5:1 47:3 
+41:22 46:6 13:5 6:19,23,24 cutting 27:5 decides 42:10 
+50:23 52:7,12 construed 34:10 7:18,20 8:1,4 decision 4:12,23 
+
+57 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+4:24,25 5:25 differently 7:10 10:2 11:11 36:21 5:20 
+6:8,9 7:18,18 direct 37:19 12:1,15,22 endorsed 35:5 exactly 39:18 
+8:2,6,8,14,17 directly 33:17 13:2,12 14:3,5 enforce 50:13 examine 42:11 
+18:4,7 20:18 disagree 6:13 14:5,10 15:16 enforced 13:12 example 6:13,15 
+20:22 22:5 disagreed 37:6 15:21 16:12,15 enforcement 11:23 13:6 
+28:23 29:12,15 discipline 17:17 17:11 18:16,19 42:25 17:19 46:23 
+31:5 32:25 discuss 38:17 19:22 22:5,6,6 engage 26:10 exclusionary 
+34:5,21 36:2 discussions 22:10,11,11,15 engaging 51:8 26:2,10 
+37:10 38:13,16 18:22 22:19,21,22 ensure 50:3,6 excuse 43:14 
+40:9,22 41:21 disincentive 23:10,16,17 ensuring 50:9 exhaustion 
+42:23 53:5,17 15:9 16:18 26:13 28:6 entire 33:11 42:21 
+53:19,20 17:8 31:3 42:12 entirely 39:8 existed 16:14 
+
+decisionmaking dismantle 50:1 43:3,4 47:8,11 49:19 51:14 
+53:9 dismissal 41:24 47:15,17,18,21 entitled 23:19 existence 42:20 
+
+decisions 4:14 disposition 6:17 48:1,5,14 entrant 25:9 47:4 
+38:6 53:10 7:15 41:20 49:24 53:23 entrants 14:18 existing 14:5 
+
+declaration 9:6 dispute 5:5 D.C 1:11,18,22 entries 11:1 22:13 31:12 
+decreeing 49:14 dissent 33:15 entry 15:8 18:18 exists 47:2 
+
+Edefend 7:24 dissented 29:4 equally 51:24,25 expanding
+E 1:20 3:1,5 4:1 defending 8:2 distinct 37:12 52:2 42:25 
+
+4:1 19:6Department distinction 9:7 erroneous 28:24 explained 4:14 
+economic 9:21:21 district 23:12 error 6:14,16 explaining
+
+18:3dependent 29:1,13 30:10 7:2 24:23 53:18 
+economics 16:2011:16 30:17 33:25 especially 29:21 explains 17:10 
+economist 44:10deprive 5:7 35:19 36:2,24 ESQ 1:18,20,24 explicit 54:7 
+effect 17:8,13designed 50:3 41:7,22 44:2,3 2:1 3:3,5,8,10 expressed 10:12 
+
+18:23 20:11,22deter 15:13 50:23 52:15 3:14 24:8 
+24:10 25:718:16,21 51:22 54:3 essentially 27:6 extend 10:24 
+29:20determine 30:6 doctrine 24:19 27:18 34:6,17 16:13 24:25 
+
+effectively 9:25determined 24:22 49:10 34:21 49:24 50:3 
+effects 45:523:12 50:23 52:1 establish 5:18 extensive 45:14 
+efficient 51:8,24deterred 51:7 doing 27:1 29:16 47:18 48:5 extent 29:19 
+
+51:25 52:2deterrence dollar 45:21 established 6:13 42:19 
+either 14:1551:12 52:5 dollars 13:8 7:3 
+
+F19:15,19 35:8 deterring 5:1 dooms 42:13 establishing
+40:2 fabrication18:12 53:13 doubt 10:12 15:3 
+
+elaborated 54:5 10:25deters 18:17 downstream establishment 
+elected 35:8 fabricator 13:21developing 10:10 11:14,16 15:10 
+element 33:1 fabricators 14:624:19 13:6 15:7 ET 1:5,9
+elements 28:4 14:19de-tariff 50:15 18:18,20 26:7 European 44:23 
+
+31:10 38:18 fact 8:11 13:21 de-tariffing 44:15 50:9 46:14,15
+eliminate 51:24 14:16 21:1850:17 52:3 event 43:10 
+eminent 44:9 48:13 50:11,16difference 29:10 draft 37:10 everybody
+empirical 51:11 50:22 51:21,23different 9:1 drive 14:18 37:14 
+encounter 18:19 factor 16:9 53:4 13:20 22:23 DSL 32:20 33:8 evidence 51:6,10
+ended 52:17,18 factors 51:2031:21,21 49:22 dunk 18:3 51:11,15,16
+endorse 31:8 facts 52:15 54:4 52:4,5 duty 9:23,23,24 evidently 5:11 
+
+58 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+fail 54:5 forward 8:6 39:7 45:10 happy 42:6 implied 47:3,6 
+familiar 43:21 25:14 34:11 53:9,10,11 hard 15:20 importance 53:7 
+far 9:16 48:6 found 43:10 good 4:16 24:18 51:15 important 4:25 
+fashion 16:20 47:12 26:20 39:20 harm 15:12,19 6:2 8:13 15:3 
+favor 8:5 15:16 framed 30:10 42:6 17:22 25:18 23:15 38:1 
+
+40:9 53:4 friend 7:20 Gould 29:4,19 26:17 53:14 50:12 53:12 
+FCC 13:22 frontal 37:19 33:15 34:12 harmful 5:1 inappropriate 
+
+24:13,15,18 further 19:2 37:6 8:17 17:11 15:21 
+25:20 32:19 Furthermore Gould's 29:1,6 head 46:21 incentive 15:4 
+44:21 45:19 48:2 51:17 40:13 hear 4:3 34:17 includes 11:25 
+48:19 52:6 govern 53:9 heard 31:2 including 42:15 
+
+fear 51:21 
+Federal 16:3 G 
+
+government 
+20:3 21:14 
+
+heavily 33:23 
+45:15 
+
+43:25 
+incomplete 
+
+43:25 44:25 G 4:1 26:1,8,21 51:3 held 5:14 21:12 28:25 29:11 
+45:11 gamble 19:1 52:16 22:7 26:19 38:17 
+
+feel 21:19 games 32:10 government's 30:25 46:9 inconsistent 
+feeling 4:16 general 1:21 24:21 25:16 help 8:4 10:17 19:20 
+field 39:15 15:11 42:19,23 26:11 hesitant 14:2 47:20 53:21 
+fight 39:15 general's 6:14 granted 11:10 high 10:16 incorrect 4:22 
+file 29:2 32:9 6:15 34:5 higher 45:22 5:24 20:16 
+
+39:7 generic 29:14 gravamen 54:6 highly 27:9 21:4,6,7 42:18 
+filed 8:3,4 33:16 generically 54:7 hoc 45:12 53:20 
+
+39:17 31:12 grave 17:21 hold 11:21,22 incorrectly 
+finally 51:5 generously 34:9 great 4:23 21:9,12 30:23 20:24 21:1 
+find 17:18 23:2 37:4 greater 11:25 holding 4:12 44:7 
+
+51:15 getting 53:16 greedy 16:25 22:9 51:19 incremental 
+finding 43:12 Ginsburg 6:7,12 grounds 40:11 home 37:14 15:19 
+finish 52:9 7:16 29:3,8 Group 8:21 24:8 Honor 4:19 5:6 independent 
+first 10:6 14:9 37:22 38:1 26:24 27:10,22 7:25 8:22 9:14 8:15 10:13,14 
+
+16:11 22:4 53:16 28:5,10 31:21 10:5 11:7 10:17 11:24 
+33:13,14 48:8 give 13:6 34:25 32:7 33:1 12:11,24 14:8 14:6 18:15 
+48:22 53:1 given 4:17 6:23 35:23 36:4,23 15:2 16:1,7,9 20:12 21:10 
+
+flag 28:20 28:21 39:14 37:12 38:21 17:1 44:22 32:21 
+focus 50:5,5 go 6:5 9:16 43:16,19 51:17 Honors 52:8 indicated 33:14 
+follow 17:23 13:22 14:1 51:20 human 45:25 industry 29:21 
+
+38:6 39:16 15:25 21:21 guess 9:7 34:15 hurt 21:21 40:13 
+following 11:7 
+
+17:22 35:19 
+23:4,23,23 
+24:12,13 25:14 
+
+38:25 41:1,2 
+guidance 35:7 I 
+
+ingot 10:9,23 
+11:13,14 14:7 
+
+37:23 
+footnote 30:11 
+
+26:23 32:8 
+34:10 37:7,14 H 
+
+idea 40:4 
+identify 15:20 
+
+14:10,15,18,21 
+initial 48:5 
+
+forced 15:6 38:15,17 41:2 Hand 10:11 20:9 III 5:4 7:7 8:12 injured 13:21 
+19:17,22 45:19 47:19 21:9 23:6 illegal 51:22 48:18 
+
+foreclose 25:24 48:7,12,18 handle 45:3,6 illustrate 7:12 innovation 15:5 
+26:8 going 12:10 15:8 Hand's 9:13,15 immediately 15:9,14 
+
+forecloses 24:22 15:12 16:17 13:16 18:17 innovations 
+foresee 12:19 18:1 24:24,25 happening immunity 47:4,6 19:1 
+forth 11:4 27:10,13 39:5 24:15 impact 9:9 input 15:17 
+
+59 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+27:21 join 19:25 37:22 38:1,19 39:20 42:6,18 42:24 
+inquiry 5:14 judge 9:12,15 38:24 39:4,10 48:9 50:11,12 looking 52:16 
+installation 33:9 10:11 13:16 39:16,22,23 lawful 19:18,23 looks 44:12 
+instance 33:22 20:9 21:9 23:6 40:2,8,16 41:1 23:16,18 Los 1:24 
+Institute 2:2 29:1,4,6,13,19 41:3,11,13,18 laws 12:2 42:22 low 24:5,6 
+
+3:11 17:3 30:10 34:8,12 43:6,15,20 47:15 50:18 lower 46:2 
+41:16 35:5 37:3,6 44:5,16,18 lead 53:10 lowering 19:19 
+
+insufficient 9:18 40:12 45:1,6,18 leave 16:24 18:5 24:1 52:13,18 
+12:16 47:5 judgment 11:15 46:15,19 47:7 leaves 24:4 
+
+M50:24 54:9 11:15 37:6,10 47:14 48:3,11 leaving 36:2 
+integrated 19:13 M 1:24 3:8 41:23 42:10,11 48:22 49:4,13 legal 4:21 7:2,13 
+
+28:16 41:1419:16 jurisdiction 5:8 52:9,20 53:2,2 7:15 
+integration 5:2 majority 29:5,98:12 49:10 53:16,16 54:10 legality 30:6 
+
+35:2151:9 jurisdictional justifications legitimate 27:5 
+intend 5:10,11 making 7:117:7 8:10 50:17 51:8,22 
+
+25:11 51:21intended 7:9 jurisprudence lesser 11:25 
+K mandated 32:19 
+
+Kennedy 27:25 
+interested 46:11 19:20 22:13,14 let's 34:10 
+
+margin 9:18internal 27:23 25:24 level 10:16 
+interrupt 23:23 30:14,19,21 12:16 18:24Justice 1:21 4:3 11:12 12:3 
+
+31:4 33:13,19 29:18 44:13intervened 4:9,15 5:3,12 14:16 15:10 
+33:21 34:2,4 54:834:13 6:7,12 7:16 19:12 27:1,7
+34:25 36:23 margins 17:15investment 15:5 8:19 9:10 10:2 liability 9:8 
+37:2 47:7,14 margin-based15:14 16:18 10:20 11:18,23 26:19 27:2 
+48:3 53:2 19:14 20:1417:8 18:25 12:6,8,13,18 28:9 43:10,13 
+
+involved 10:21 key 11:8 25:15,25 26:12 
+kind 18:3 24:11 
+
+13:13,15 14:13 lie 48:21,22 51:4 
+market 10:9,1010:22 21:25 15:23 16:2,5 light 16:13 
+
+involvement 27:11 31:12 15:18 18:1816:16 17:7,13 lightly 45:16 
+42:13 45:12 26:4,8 49:20 44:20 17:23 18:8 limited 39:8 
+
+involves 31:2 kinds 18:9 46:16 49:25 50:9 
+know 5:13 12:10 
+
+19:4,10,25 line 13:25 30:2 
+markets 50:4irrelevant 33:2 20:5,6,17,23 45:21 
+
+17:24 18:1,22 Mass 2:133:3 21:2,3,5,16 LinkLine 1:8 
+19:21 21:5 matter 1:14issue 5:19 7:7,13 22:2,8,18 4:5 
+40:22,22 46:11 54:137:15 8:10 9:1 23:13,20,22 listed 43:23 
+
+knowledgeable MAXWELL10:7 16:6 24:2,9 25:1 literature 17:2
+
+22:19,20 30:9
+ 46:22 1:24 3:8 28:16 
+
+Maynard 1:20
+26:2,20 27:8 17:10 18:3 
+
+30:12 35:6,12 27:14,24,25 51:10L 3:5 19:5,6,10
+label 15:25
+
+35:13,25 40:5 28:13,18 29:3 litigation 18:25 
+19:25 20:3,840:12 42:9,12 29:8 30:14,19 53:11
+
+labeling 28:6 20:20,25 21:3 
+Laidlaw 5:16
+
+42:16 43:3 30:21 31:4,14 little 14:2 
+21:8 22:1,945:14,15 48:1 31:17,20,25 live 5:14 39:14 
+
+language 20:11 23:8,21,25
+Laughter 4:18
+
+52:4,5 32:3,6,11,14 41:10 
+24:21 25:12issues 25:22 32:23 33:13,19 living 29:18
+
+46:18 27:12,15 28:3 
+law 5:7 7:3 
+
+issue-by-issue 33:21 34:2,4 long 14:6 21:11 
+mean 10:215:14 34:15,20,25 look 12:15 24:15 
+
+14:14,15 24:25 13:13 20:8,835:18 36:6,9 48:8,10
+25:11 30:2,4J 26:8 31:1836:11,14,17,19 looked 22:4,12
+36:3 38:4John 44:9 34:2 39:23,2436:23 37:2,9,9 22:16 32:24 
+
+60 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+43:4,15,17 myriad 26:9 normally 47:3 outlined 46:8 pay 46:3 
+45:3 46:5 noted 7:19 outside 32:21 people 21:12 
+
+N48:23 50:10 notice 34:25 38:15 period 33:11 
+N 3:1,1 4:1 means 22:10 notion 10:15 overlooking periods 33:7 
+narrow 7:1343:6,9 52:6,11 35:4 permission
+
+13:1 26:11measure 27:17 number 14:19 overrule 20:1,18 33:24 
+29:12 31:11meet 43:18 46:4 overruled 13:16 permit 49:3,4
+35:9 38:1351:25 21:15 person 13:21 
+
+O40:23mere 20:14 47:4 overruling 26:13 
+necessarily 20:9 O 3:1 4:1 48:13 50:22 20:21 petition 42:5 
+necessary 16:8 object 50:8merits 4:24 8:14 overturn 14:2 petitioner 48:17 
+
+20:7,18 32:25 obligation 11:1414:24 41:5 over-deterrence 50:24 
+42:8 12:153:18 51:6,18 Petitioners 1:6 
+
+necessity 39:2 observed 4:20met 28:11 Oxford 44:10 1:19,23 3:4,7 
+need 21:13 obvious 18:13million 13:8 3:15 4:8 19:9 
+
+P24:20 27:15 Obviously 6:2225:15 22:10 23:11 
+28:22,23 35:13 offense 29:22,24 P 4:1minimum 54:3 27:16,17,20,23
+36:10,20 37:21 31:10 Pacific 1:3 4:4 minutes 52:21 33:22 35:1 
+38:10 41:5 offering 50:15 PAGE 3:2mistaken 27:19 47:12 51:3 
+42:2 45:1,2 offers 15:2 Panner 1:18 3:3 model 18:10 52:24 
+
+needn't 16:5 Oh 39:25 3:14 4:6,7,9,19modem 33:9 Petitioner's 24:5 
+needs 13:12 Okay 12:13,18 5:6,16 6:11 moment 35:20 picked 29:19 
+
+20:21 ones 15:10 7:25 8:22 9:14 Monday,Dece... piece 13:10 
+negative 18:11 online 33:9 10:4 11:6 12:6 1:12 pincer 24:3 
+never 6:18 9:11 open 40:6 12:11,14,24Monopolies place 13:22,24
+
+9:17,20 53:10 opinion 13:17 14:8 15:1 16:1 46:20 14:1 15:24,25
+53:11 opponent 4:17 16:3,7 17:1,9 monopolist 16:2,11 
+
+new 11:1 14:18 opponent's 44:6 17:16 18:6,910:22,23 11:13 placed 16:10 
+24:19 25:11 opposed 45:12 27:3 32:1814:7,11,21 plaintiff 5:18 
+
+Newton 2:1 opposition 43:19 52:21,2315:6,15 16:18 21:18 23:1 
+nice 34:16 34:18,22,23 52:2518:19 19:22 plaintiffs 15:24 
+Ninth 4:11,24 option 37:17 Pardon 44:1723:16,18 25:8 32:21 
+
+4:25 5:24 6:1,4 oral 1:14 3:2 4:7 part 29:18 30:20 30:5 49:24 plausible 26:22 
+6:8,21,25 8:2,5 19:6 28:16 partial 33:150:3,7 51:7 please 4:10 
+8:8,17 9:9 41:14 participation52:7 19:11 28:19 
+25:13 28:24 order 10:25 12:20monopolist's 36:9 41:19 
+29:5,11 30:10 11:16 20:18 particle 5:244:15 pled 34:10 
+30:13 32:24 21:7 24:15,16 particular 5:17monopolization point 5:7,22
+35:4,11,12,21 27:2 30:16 19:24 23:1710:9 6:12 7:11 10:6 
+35:25 36:21 38:14,16 47:18 particularlymonopolize 26:7 10:6 11:8 13:9 
+37:13,22 38:5 50:1,13 28:21monopoly 11:2 17:18 18:2 
+38:12 39:20 orders 30:15 parties 5:6,8 7:6 15:7 19:18,23 23:15 26:9 
+40:1,3,11,17 originally 39:19 7:8 24:1223:19 49:25 35:2 43:21 
+41:3 42:11 ought 30:11 Partly 30:1950:1,4 51:5 53:6,15
+53:5,18 oust 48:14 50:10 party 7:17 24:5 moot 34:6,17,21 points 52:25 
+
+non-predatory outcome 19:19 24:13morning 4:4 positing 26:5 
+31:19,23 41:9 outcomes 19:15 party's 6:16motive 14:22 position 4:21 
+
+61 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+5:23 6:17 7:17 presence 44:24 51:24 protects 52:2 39:5,25 
+7:21,24,24 53:3 price-squeeze provide 4:22 raised 41:4 42:4 
+12:5,12,14 presented 7:23 8:15,20 9:8,11 11:14 45:25 raising 14:16 
+26:11 29:6 11:9 38:14 42:21 51:1 proxy 8:25 9:4 52:12,19 
+30:16 35:1 42:4 pricing 4:13 32:18 rare 11:3 17:21 
+
+positions 8:5 press 25:13 9:25 12:4,23 pure 25:15,24 rate 50:7,8 
+possibilities 40:19 24:14,16 28:4 26:12 31:1 rates 45:16,17 
+
+14:20 presumably 28:9 29:23,25 purely 32:9 50:6 
+possibility 8:23 48:19 31:9 32:15,17 48:11 rationale 43:12 
+
+24:1 pretty 4:16 32:18 33:20 purported 35:16 reach 8:14 16:5 
+possible 14:18 prevent 27:2 34:9,10 35:23 purports 49:19 18:2 23:5 
+
+18:10 36:6 price 5:1 8:24 38:21 39:9 purposes 7:7 24:25 35:12,13 
+post 45:12 9:17 10:16 42:15 48:16 pursue 5:10,11 36:20,22 40:11 
+potential 12:16 12:2,22 13:10 49:3,16,18,18 5:19,20 7:4,9 42:2 
+
+15:8 18:24 14:16 15:19 51:2 put 8:6 33:10 read 37:21 
+power 6:19 10:8 17:5,10 18:15 primary 10:23 puts 27:5 40:21 46:13,24 
+
+10:24 50:4 18:16 19:14,19 11:1 29:23 p.m 54:12 reaffirmed 18:7 
+practical 17:25 20:9,14 21:9 30:1 49:5,10 real 18:23 
+
+Q27:9 21:23 22:25 principles 4:13 really 6:2 13:5,8 
+question 5:3 7:6 Practices 46:20 23:19 24:1,3 prior 53:19 13:10 15:19 
+
+8:10 11:9,9precedent 37:23 25:16,25 26:6 privilege 14:11 20:17 27:3 
+13:11,15 20:17 47:5 26:12 27:5,20 probably 4:15 42:14 53:6 
+21:2 22:3 23:6 precedents 28:2,2,7,8 problem 48:12 reason 6:3,4,24
+25:7,21,2253:21 54:6 29:13,17,18,22 49:6,11,14 7:3 11:7 14:3 
+26:21 28:12precisely 12:12 29:22 30:5 50:19 51:11,13 14:14 24:18 
+29:12,16 30:12 preclude 51:1,2 31:1,10,11,18 proceed 36:2 26:20 40:16 
+30:24 31:1,2predatory 12:3 31:23 32:22,24 process 11:17 47:16 
+31:11 33:612:23 28:1,4,7 35:20,22 37:12 25:18 26:18 reasoning 9:13 
+35:9 36:2228:9 29:23,24 38:9,9,18 producer 14:10 9:15 18:5 
+38:14 40:18,2131:9 33:20 40:14,14 41:9 producing 45:22 reasons 17:7,12
+40:24 41:334:9,10 35:23 41:24 42:13 product 13:7 22:2 24:23 
+42:3,4 46:25 38:9,21 39:9 43:14,16,17,22 profession 17:14 42:5 
+47:2,1440:15 42:15 44:1,12 45:5 professor 17:19 REBUTTAL 
+
+questioning43:14 48:15,25 46:3,8 47:20 44:9,15 3:13 52:23 
+53:1749:1,3 51:2 48:7,25 49:1 promote 11:17 recognition 8:16 
+
+questions 19:2predatory-pri... 49:14 52:1,1,2 proof 26:16 15:15 17:5,10
+30:159:7 48:18,20 52:6,7,12,13 proper 6:17 18:15 44:19 
+
+quite 10:17predecessors 52:14,17,17,19 7:14,14 26:25 recognize 10:19 
+13:20 15:1930:6 52:19 53:18,24 41:20 15:4,11,21
+22:23 45:14predicate 48:5 54:9,9 properly 6:20 20:9 
+46:6 49:22prejudice 41:24 prices 9:2,3,19 48:24 recognized 9:9 
+52:4,5prejudiced 13:25 19:16 proposal 39:17 13:2 22:15 
+
+quote 37:4 40:14 33:22 24:5,6 27:2,16 propriety 41:8 26:9 43:25 
+prepared 40:12 32:4 38:21 prospect 45:10 44:3R41:10 39:11 44:13 protect 18:20 recognizes
+
+R 4:1prescribed price-cutting 25:17 15:12 44:23,25
+raise 19:16 27:2 48:25 51:8,19,22,23 protecting 11:16 recognizing 
+
+62 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+30:8 relevant 7:5 4:21 5:9,19,23 31:14,17,20,25 53:6 
+reductions 22:2,3,9 23:15 6:3 7:1 24:4 32:3,6,11,14 secondary 10:24 
+
+18:16 25:22 27:22 25:12 28:17 32:23 34:15,20 section 5:10,20 
+refer 8:23 relied 20:13 41:17 47:13 37:9 38:19,24 7:9 8:16,21 
+referred 45:9 51:20 response 26:20 39:4,10 40:16 9:12,21,24 
+
+50:16 relief 5:11,17,21 responsibility 41:1,11,13 10:14,17 11:4 
+reflect 18:23 45:12 49:6 43:6,15 52:9 12:16 13:3,9 
+
+52:16 rely 17:11 48:4 rest 40:11 52:20 54:10 13:11 14:23 
+refusal 13:4,5 48:6 51:18 Restricted 46:20 Robinson-Pat... 15:22 16:15 
+
+43:11,13 47:23 remain 5:8 7:6 result 19:15 29:24 30:1 17:5 19:12 
+50:25 14:17 28:9 21:21 23:13 role 27:6 20:15 21:11 
+
+refuse 24:10 40:6 42:6 24:16 26:23 room 14:17 25:19 26:19 
+regarding 4:13 remainder 19:3 retail 9:18 18:16 Rubicon 38:20 27:13 30:5 
+regime 47:8,10 remaining 52:22 19:12,16 26:15 rule 8:14 16:19 42:25 
+
+49:22 remains 7:13 27:1,16 32:3 16:25 24:11 see 34:4,4 41:4 
+regulate 47:19 remand 39:6,22 32:15 33:5,6 25:17 26:24 seek 25:15 
+regulated 29:21 41:21 39:11 43:16 31:13 53:23 sell 27:21 32:20 
+
+29:22 40:13 remanded 41:7 44:13 45:17 ruled 20:13 37:3 43:7 45:23 
+45:15,16 remedies 42:24 49:18,18 51:8 rules 15:3,4,10 46:2 
+
+regulation 10:20 remedy 42:20 52:13,19 54:9 38:8 53:7,8,12 selling 33:5 
+10:21 11:24 47:4 53:3 retains 8:12 53:14 45:20 
+16:8,15 22:1 repeatedly reversal 53:4 ruling 35:14 send 28:25 
+22:16 44:24 26:19 reverse 4:11 run 15:11 sense 17:25 25:5 
+45:3,6,8,9,13 represent 7:20 37:11,16 41:5 rushing 49:7 sensible 16:24 
+47:17,18 48:4 require 31:9 reversing 4:23 sentence 52:10 
+
+S48:6,8 50:2,21 39:11 review 34:5 37:5 separate 28:8 
+S 3:1 4:1 regulations 22:4 required 9:6 RICHARD 2:1 separately 20:13 
+satisfied 34:1450:14 26:19 47:25 3:10 41:14 seriously 33:22 
+saying 15:16regulator 15:25 49:24 right 4:17 5:13 service 45:23 
+
+26:1,21 27:8 21:18 23:4 requirement 6:5,11,21 46:1 
+29:9 30:3,327:6 45:20,20 42:22 21:23 22:8 services 33:9 
+37:15 38:10,19regulators 42:15 requires 25:19 23:6 37:15 set 11:4 
+46:15,17,1947:19 48:7,12 32:12,14 45:21 46:4 sets 33:4 
+
+says 23:1849:3 50:5,11 reserve 19:3 rise 12:3 setting 22:25 
+scale 16:1050:16 resolution 8:20 risk 27:4 51:18 settings 39:2 
+SCALIA 48:22regulatory respect 5:13 risks 18:12 share 15:6 19:17 
+
+49:4,1311:23 12:20 6:17 7:8,12 9:5 rival 11:14 19:22 
+scheme 16:1313:23 16:13 9:6 16:16 19:12 51:25 sheet 10:10 
+scholar 17:2,422:5,6,10 42:25 43:1,3 rivals 15:7 18:20 Sherman 30:5 
+scholarly 17:923:14 25:20 respects 10:6 19:18,23 49:25 49:8 
+
+17:2042:20,24 44:20 respond 52:7,12 50:8 51:25 show 26:17 
+scholars 44:647:1,4,8,10 responded 52:3 shown 14:22 
+scrutiny 15:1248:12,14,24 29:12 40:23 rival's 24:6 shows 8:12 
+search 17:2149:22,23 53:3 respondent Roberts 4:3,15 significance
+
+18:12relationship 48:17 4:20 5:3,12 25:3,4
+second 20:2112:7 47:1 Respondents 8:19 19:4 significant 15:9 
+
+48:9 49:2150:20 1:25 2:3 3:9,12 27:24 28:13 16:8 17:25 
+
+63 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+silent 31:9 42:13 43:14,16 substantially 40:4,17,20T 
+simple 13:6 43:18,22 44:1 33:11 41:3,20 42:8 T 3:1,1
+simply 7:11 45:5 46:8 52:1 subsumed 29:14 42:17 48:23,23table 24:2 
+
+38:12 41:6 52:6,7,12,17 29:15 31:1,13 49:2 50:11take 5:25 6:5 
+45:9,10,11 52:17 53:19,24 suddenly 14:2 51:14 53:1,325:10,11 30:16 
+51:18 squeezed 21:20 sufficient 5:2 53:15 54:149:6,7
+
+single 9:1 23:1 7:10 42:20 thinking 13:14taken 29:14 
+situation 9:17 squeezing 29:18 44:14 thinks 23:1takes 23:25 
+
+12:19 45:12 stage 10:23,25 suggest 20:14 thought 6:7talking 34:7 
+slam 18:3 14:19 16:20,20 50:22 13:17 21:2453:8 
+sold 33:7 37:6 suggested 13:19 30:11 34:16technically
+Solicitor 1:20 standard 34:13 37:21 42:23 37:23 38:2520:21 
+
+6:14 42:19,23 34:14 35:7 43:19 44:18TELEPHONE 
+somebody 44:18 43:19 suggesting three 44:1,21:3 
+someday 26:3 standing 5:13,18 28:22 36:16 threw 33:8tell 46:1 
+sorry 23:25 20:10 suggestion 20:1 throw 37:14telling 27:1 
+
+34:19 start 12:9 28:21 29:1 35:5 time 14:6 19:3 tells 23:3 
+sort 9:25 15:21 started 52:16 38:15 33:6,14 34:3 terms 23:17 
+sorts 17:12 state 6:15 19:12 Suisse 47:6 51:727:9 
+sought 8:4 50:15 20:15 30:4 summary 37:5 today 8:1,8 25:5 test 44:12 52:2 
+sounds 13:15 35:17 37:7 superseded 34:7 told 32:18thank 12:11 
+Souter 11:18 41:9 50:25 34:8 35:15 top 24:219:4 27:24 
+
+12:6,8,13,18 54:5 supply 14:12 totality 28:2228:13 41:11,12
+16:16 17:7,13 stated 5:24 8:25 supplying 54:4 totally 33:2 48:2 52:8,20 54:10 
+17:23 18:8 37:4 support 7:18 8:7 Town 45:13theory 7:10 8:15 
+23:20,22 24:9 states 1:1,15,22 9:20 12:22 Trade 44:258:16 9:8 12:23 
+25:1 26:20 3:6 19:7 35:16 30:16,17 44:16 traditional 43:121:10 25:16 
+27:8,14 40:2 stating 53:23 44:19 43:17,22 44:11 28:10 35:21,22
+44:16,18 45:1 status 5:4 supported 17:4 transfer 32:20thing 16:24 18:4 
+45:6 stay 53:24 17:4 44:12 52:222:24 36:6 
+
+special 22:22 step 25:11 supporting 1:23 transport 33:849:5 
+specific 42:9,12 Stevens 9:10 2:3 3:7,12 treat 10:13things 23:8 
+specifically 10:2 19:25 16:21 19:9 treated 21:2046:16 
+
+23:18 20:5,6,17,23 41:17 treble 25:14think 6:1,20,22 
+squeeze 9:17 21:2,3,5 22:8 supports 21:10 triggers 24:76:23 7:5 8:9,9 
+
+12:3,22 13:10 43:20 44:5 44:10 Trinko 4:138:22 9:5,15
+15:19 17:5,11 Stevens's 13:15 suppose 10:21 10:19 13:210:4 11:7 
+18:16 19:14 stipulation 35:2 11:2 15:2 16:1112:12,18,24,25
+20:10,15 21:9 straight 14:24 Supreme 1:1,15 19:21 21:17,2416:7 17:1,6,9
+24:3 25:16,25 stressed 17:20 surely 50:5 22:2 23:2,1517:18 18:6,22
+26:6,12 27:9 stresses 17:19 surprised 46:6 23:18 29:1520:3,6,18,20
+27:11 28:2,7,8 stuff 43:8 46:22,24 31:2,13 42:23 20:22,25 21:3 
+29:14,17,22 submission 44:6 survived 29:17 43:11 45:13,1521:5,6,11,12
+31:1,10,11,18 submit 51:9 29:18 49:23,2328:20,23 34:12 
+31:23 35:21 52:14 symbiotic 50:21 trouble 17:2435:3 36:5 
+37:12 38:9,18 submitted 54:11 system 53:8 true 7:25 11:8 37:11,18 38:2 
+40:14 41:10,24 54:13 13:18 18:1438:13 39:22 
+
+64 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+24:17 wants 10:24 works 17:20 19:13 20:15V 
+try 54:4 42:10 world 14:5 21:11 25:19v 1:7 4:5 
+trying 12:6,19 Washington worried 23:3 26:20 27:13vacate 6:9 28:23 
+
+14:18 17:17 1:11,18,21 worry 45:4 30:5 42:2536:1 37:10,18
+turn 11:10 19:24 wasn't 17:3 worth 11:15 2008 1:1238:3 40:8,17
+two 8:3 19:15 way 5:8 8:19,24 19:1 27:3 28 3:941:21 42:10 
+
+22:2 27:7 12:8,9 14:16 wouldn't 11:4,6vacated 6:8 451:20 52:21,25 20:12,13 40:21 45:19 48:21vacating 40:9 4 3:4Twombly's ways 26:9 49:4 51:1541:23 41 3:1234:13 week 39:17,18 write 35:18vacation 40:10 
+two-fold 14:9 weighed 33:23 written 46:7,23valid 46:8 5type 5:17,20 went 22:12 35:4 wrong 6:10valuable 54:2 52 3:1542:14 35:6 10:14,17 20:12 venture 40:24 
+typically 49:10 weren't 23:12 23:6,7 24:14 version 54:4 6
+
+we're 23:3 36:16 29:5,9,11vertical 18:18 60 45:25U we've 25:6 43:23 37:13,15,1651:9 63 51:14ultimately 26:25 44:12 38:2,4,4,5 41:4 vertically 19:13unchecked whatsoever wrongly 10:5 819:15
+26:23 47:25 20:4 21:13,14Vickers 44:10 8 1:12uncontested Wherepon44:15 46:7,21 80 46:3X17:14 54:12view 24:21underlying x 1:2,10white 28:20 925:16 30:25
+13:11 wholesale 8:24 9 43:2440:13 42:18 Yunderstand 29:3 9:3,18 10:16 43:5,9 years 51:1430:9 39:10 11:11 14:11viewed 38:16understood 15:17 18:19violate 32:6 $11:20 19:19 24:1,14violated 12:2 $1.20 45:24 46:2 uniformly 44:6 24:16 27:20violation 11:5 $10 13:7unilateral 4:13 29:21 32:2329:14 31:13 $40 25:15unit 9:2 44:13 45:1635:16,17 47:22 United 1:1,15,22 46:2 50:6,15 047:24
+3:6 19:7 52:13,18 54:8 vitality 39:3 07-512 1:7 4:4 unlawful 10:8 widget 13:6,740:5 42:3
+10:12 45:21 1voluntarilyunreasonable willing 21:8 11:04 1:16 4:2 23:12 47:13
+21:22 27:21 40:18 12 43:2452:18unregulated 46:24 12:05 54:12voluntary 18:21
+45:17 49:19 Wilson 34:8 19 3:7
+50:4 W 37:3 
+
+upset 21:19 2Wilson's 35:5want 14:24 
+upstream 15:9 wise 25:10 2 5:10,20 7:9 16:19 23:23 
+
+15:15 16:17 wishes 42:7 8:16,21 9:12 24:12 27:18 
+26:4 27:21 withdraw 14:12 9:21,24 10:14 31:25 37:7 
+
+urging 29:5 15:18 10:17 11:438:7,10 41:4 
+use 47:17 withdrawing 12:17 13:3,1143:8 47:19 
+usually 7:17 14:15 14:23 15:2248:6,8 53:6 
+
+words 9:12 16:15 17:6wanted 11:21,22 
+
+65 
+Alderson Reporting Company 
+
+

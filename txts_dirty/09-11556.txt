@@ -1,0 +1,6642 @@
+
+                 
+
+          
+
+                       
+
+                        
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+JOSE TOLENTINO, :
+
+ Petitioner :
+
+ v. : No. 09-11556 
+
+NEW YORK : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Monday, March 21, 2011
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:03 a.m. 
+
+APPEARANCES: 
+
+KRISTINA SCHWARZ, ESQ., New York, New York; on behalf of
+
+ Petitioner. 
+
+CAITLIN J. HALLIGAN, ESQ., General Counsel, New York
+
+ County District Attorney, New York, New York; on
+
+ behalf of Respondent. 
+
+PRATIK A. SHAH, ESQ., Assistant to the Solicitor
+
+ General, Department of Justice, Washington, D.C.; on
+
+ behalf of United States, as amicus curiae. 
+
+1
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                    
+
+                                  
+
+                    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+
+KRISTINA SCHWARZ, ESQ.
+
+ On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+CAITLIN J. HALLIGAN, ESQ.
+
+ On behalf of the Respondent 24 
+
+ORAL ARGUMENT OF 
+
+PRATIK A. SHAH, ESQ.
+
+ On behalf of the United States, as
+
+ amicus curiae 43 
+
+REBUTTAL ARGUMENT OF 
+
+KRISTINA SCHWARZ, ESQ.
+
+ On behalf of the Petitioner 52 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (11:03 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We will hear 
+
+argument next this morning in Case 09-11556, Tolentino 
+
+v. New York.
+
+ Ms. Schwarz.
+
+ ORAL ARGUMENT OF KRISTINA SCHWARZ
+
+ ON BEHALF OF THE PETITIONER
+
+ MS. SCHWARZ: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ The Court held in Delaware v. Prouse that, 
+
+in the absence of reasonable suspicion, it is an 
+
+unreasonable seizure under the Fourth Amendment for 
+
+police to stop a car for the purpose of checking the 
+
+motorist's driving credentials.
+
+ In Brown v. Texas, the Court similarly ruled 
+
+that police may not stop a person without reasonable 
+
+suspicion for the purpose of requiring the individual to 
+
+identify him or herself. These cases are grounded in 
+
+the principle that in this country we enjoy the right to 
+
+go about our business free from government interference 
+
+unless or until the police have just cause to detain us.
+
+ Petitioner's motion to suppress alleged that 
+
+the police acted exactly as they did in Prouse and 
+
+Brown. They stopped the car without justification, 
+
+3
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+elicited his name, and gained access to his DMV records, 
+
+which otherwise would not have been discovered. Instead 
+
+of suppressing the poisonous fruit of the illegal car 
+
+stop, the DMV records, the New York Court of Appeals 
+
+chose to create a new categorical rule that prevents 
+
+application of the exclusionary rule whenever the police 
+
+act in violation of Prouse.
+
+ JUSTICE SCALIA: Was -- was -- was the 
+
+poisonous fruit the DMV records, or was the poisonous 
+
+fruit the fact that this person who is contained in the 
+
+records was the one driving the car? Why wasn't that 
+
+the -- why wasn't that the fruit? I mean, the records 
+
+were there anyway. What -- what -- what new information 
+
+came from the stop was the fact that that is the person 
+
+who was driving the car. Why -- why didn't -- why 
+
+wasn't that what should have been suppressed?
+
+ MS. SCHWARZ: Well, Justice Scalia, that is 
+
+also a fruit of the poisonous tree. As -­
+
+JUSTICE SCALIA: I would agree with you on 
+
+that fruit. Did -- did you ask for that to be 
+
+suppressed?
+
+ MS. SCHWARZ: Yes, that was asked for in the 
+
+-- in the motion at the trial level. In addition -­
+
+JUSTICE SCALIA: But that's not what's 
+
+before us here, right? 
+
+4 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MS. SCHWARZ: That's right, and that's 
+
+because the court below decided that -- in deciding the 
+
+case only addressed the DMV record, and -- and indicated 
+
+that the DMV records were not properly suppressible 
+
+fruit.
+
+ JUSTICE ALITO: Suppose that the -­
+
+MS. SCHWARZ: And that's the issue.
+
+ JUSTICE ALITO: Suppose that -- that you had 
+
+won at the trial level; the judge suppresses everything 
+
+and dismisses the indictment; and Mr. Tolentino walks 
+
+out of the courtroom and is observed by the officer that 
+
+conducted the stop in this case. The officer sees him 
+
+getting into a car and driving away, even though his 
+
+license is still suspended. Now, could -- could he be 
+
+arrested for that?
+
+ MS. SCHWARZ: Yes, Justice Alito, he could.
+
+ JUSTICE ALITO: Even though the officer 
+
+would have no reason to know that this particular person 
+
+has a suspended license were it not for the chain of 
+
+events that followed from the initial allegedly illegal 
+
+stop?
+
+ MS. SCHWARZ: Well, although that initial 
+
+stop provided the tainted information that he didn't 
+
+have a license, the subsequent re- offense would 
+
+certainly taint the -- the illegality of the first stop 
+
+5
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+and make the second offense properly -­
+
+JUSTICE ALITO: All right. Let me ask a 
+
+related question. Suppose that after you filed your 
+
+suppression motion the -- the State of New York became 
+
+nervous about this issue and they checked all the 
+
+surveillance cameras in the vicinity of the stop, and, 
+
+lo and behold, they found a tape showing Mr. Tolentino 
+
+driving the car shortly before the stop here. Could he 
+
+be prosecuted for illegal -- for driving without a 
+
+license, with a suspended license, using that evidence?
+
+ MS. SCHWARZ: Well, that -- I believe that 
+
+under those circumstances it would be entirely proper to 
+
+prosecute the case. With that, that would be evidence 
+
+that came from an independent source.
+
+ JUSTICE ALITO: Well, I mean, in light of 
+
+those two answers, it does seem to me that your real 
+
+problem here is not with the -- the DMV records. It's 
+
+with the police officer's observation after the stop 
+
+that Mr. Tolentino was driving the car.
+
+ MS. SCHWARZ: Well, Justice Alito, again, 
+
+all of -- there's lots of evidence that could be 
+
+properly the fruit of the poisonous tree. There was a 
+
+statement made here that the Petitioner said that he did 
+
+not have a New York State license, there's the 
+
+observations of the officer, and there's the DMV 
+
+6 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+records. They're all properly considered fruit, and in 
+
+this case the DMV records are of important evidentiary 
+
+significance.
+
+ JUSTICE GINSBURG: Is there -- is there any 
+
+case in this Court where what was suppressed was 
+
+information that was lawfully in the government's 
+
+possession, as opposed to evidence that was acquired 
+
+originally through the search? Here we have the DMV 
+
+records, they're public records. I don't know of any 
+
+decision of this Court that deals with suppression of 
+
+evidence that is already in the government's possession, 
+
+and if I'm wrong about that, you tell me.
+
+ MS. SCHWARZ: Yes. Yes, Justice Ginsburg, I 
+
+don't believe there has been precedent on that issue. 
+
+However, in the independent source doctrine cases, there 
+
+-- they've always required that the possession -- or 
+
+that they have knowledge of the information in order for 
+
+it to defeat the exclusionary rule application. So in 
+
+this case, although the government had the DMV records 
+
+-- well, first of all, law enforcement didn't have the 
+
+DMV records. It was only until the illegality and the 
+
+exploitation of that illegality that they acquired the 
+
+records from the Department of Motor Vehicles. So in 
+
+that sense it was clearly a fruit of the poisonous tree.
+
+ But even if you look at government as an 
+
+7 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+integrated whole, the prior possession of the -- the 
+
+records was meaningless, of no value to them, until the 
+
+illegality when it acquired its meaning.
+
+ JUSTICE GINSBURG: Suppose the police 
+
+following Mr. Tolentino had noted down his license 
+
+plate, and then got this information, not as a result of 
+
+his driver's license, but from the plate on the car?
+
+ MS. SCHWARZ: Well, Justice Ginsburg, the -­
+
+the -- the plates of the car would not indicate the -­
+
+the driver's license of the driver, and in this case Mr. 
+
+Tolentino -­
+
+JUSTICE GINSBURG: They might show him as 
+
+the owner of the car.
+
+ MS. SCHWARZ: The owner of the car. And I 
+
+believe in Respondent's brief they indicated that -­
+
+that some of the police computers will even show 
+
+descriptive features or maybe even a picture of the 
+
+driver. But in this case Mr. Tolentino was not the 
+
+registered owner of the vehicle, so that wouldn't have 
+
+provided them with cause to pull the car over.
+
+ JUSTICE KENNEDY: This -- this goes back to 
+
+a question Justice Alito asked in a probably more artful 
+
+way, but I'm not quite sure what's supposed to happen 
+
+under your view after this stop. They stop the person, 
+
+they get the information that he's driving under a 
+
+8 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+suspended license, and are they supposed to say, Oh, you 
+
+know, we shouldn't have stopped you; I'm sorry, have a 
+
+nice day, go ahead, and then he leaves? Is that what 
+
+goes on?
+
+ MS. SCHWARZ: No, Justice Kennedy, that's 
+
+not what would happen. The State would impound the car. 
+
+They would not allow a -- a person without a proper 
+
+license to get back in the car and -- and drive on. 
+
+That -- in order for the Petitioner to get the vehicle 
+
+back, he would -- if it was his vehicle -­
+
+JUSTICE KENNEDY: Well, why isn't impounding 
+
+the car the fruit of the illegal search?
+
+ MS. SCHWARZ: Because the -- the impoundment 
+
+statutes are based on a public safety interest, and so 
+
+it doesn't -­
+
+JUSTICE KENNEDY: But why doesn't the public 
+
+safety interest then permit us to use this evidence in 
+
+order to protect the public safety further by punishing 
+
+him for -- not driving? I don't see the difference.
+
+ MS. SCHWARZ: Because in order to do that, 
+
+it would be tantamount to sanctioning a -- a fishing 
+
+expedition in this case, Justice Kennedy, because it 
+
+would be allowing the police without reasonable 
+
+suspicion -­
+
+JUSTICE KENNEDY: Well, why wouldn't you say 
+
+9 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the same thing about impounding the car?
+
+ MS. SCHWARZ: Because the -- the -- the 
+
+interests are different and because it's not a forever 
+
+removal of the Petitioner's right to get the car, 
+
+whoever the -- the rightful owner is. It's just making 
+
+sure that the Petitioner can't get back in the car and 
+
+continue driving. In order to get the vehicle back, at 
+
+least in New York State, the -- if it was the 
+
+Petitioner's, they would have to show proof that they 
+
+had a valid license; and if it wasn't his vehicle, then 
+
+the other -- the true owner would have to get -- provide 
+
+proper credentials to establish that they could take the 
+
+-- the vehicle into their possession; and also they 
+
+would have to have proof that the Petitioner himself had 
+
+cleared up his record or get some sort of a -- a release 
+
+from the court or from the district attorney's office. 
+
+So the whole purpose of that impoundment statute is for 
+
+public safety.
+
+ JUSTICE BREYER: I don't understand the 
+
+answer you gave to Justice Alito. Maybe I mixed it up. 
+
+The police stop the car without cause.
+
+ MS. SCHWARZ: Uh-huh.
+
+ JUSTICE BREYER: So illegal stop. And you 
+
+say as a result of the stop they found out all these 
+
+things in the records, that he had no license, right? 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MS. SCHWARZ: Yes.
+
+ JUSTICE BREYER: So that shouldn't be 
+
+introduced into his trial for driving without a license.
+
+ MS. SCHWARZ: Yes.
+
+ JUSTICE BREYER: All right. Now the 
+
+question I had heard put was, suppose after they got 
+
+this information, they don't arrest him then, but he 
+
+gets into the car again and starts driving. You said 
+
+then they could arrest him?
+
+ MS. SCHWARZ: Well -­
+
+JUSTICE BREYER: Is that right? Why? Why 
+
+isn't -- why isn't that just as much the fruit of the 
+
+poisonous tree? They found out he doesn't have a 
+
+license by the record which came to them from an illegal 
+
+stop. I just don't understand it. Did I get you right 
+
+as to what you said?
+
+ MS. SCHWARZ: Justice Breyer, what I -- what 
+
+I meant to say is the attenuation doctrine would apply. 
+
+Now, if the person was -- got back in his car 
+
+immediately at that scene and started off driving, then 
+
+I'm not sure that the attenuation doctrine would -­
+
+would -- would kick in.
+
+ JUSTICE BREYER: So therefore they couldn't 
+
+arrest him. So what they do is they -- is that right?
+
+ MS. SCHWARZ: Well, yes, but -­
+
+11
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: They see -- they see he -­
+
+they stopped him, they get the records, wrongly. They 
+
+see he has no license. He says: How did you know? 
+
+Because we just looked at your license. That was 
+
+illegal; good-bye, gets into the car and drives off, and 
+
+they can do nothing?
+
+ MS. SCHWARZ: Except I just have to remind 
+
+you that they -- they could -­
+
+JUSTICE BREYER: Is that right or not? Is 
+
+that right?
+
+ MS. SCHWARZ: -- impound the car.
+
+ JUSTICE BREYER: I -- how could they --­
+
+they can impound the car.
+
+ MS. SCHWARZ: Impound the car.
+
+ JUSTICE BREYER: Because?
+
+ MS. SCHWARZ: So -­
+
+JUSTICE BREYER: Because?
+
+ MS. SCHWARZ: Because of the statutory 
+
+rights, the Court -- because they now know that he has 
+
+no license to drive, so either the car will -- if 
+
+there's another person who can properly take possession 
+
+of the vehicle, then that person can drive off with the 
+
+car. But the Petitioner himself, who doesn't have a 
+
+valid license, he can't get back in the car.
+
+ JUSTICE KAGAN: Ms. Schwarz, suppose -­
+
+12
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MS. SCHWARZ: And -­
+
+JUSTICE KAGAN: I'm sorry.
+
+ MS. SCHWARZ: Well, I'm done.
+
+ JUSTICE KAGAN: Ms. Schwarz, suppose the 
+
+police arrest the guy, find out who he is, don't -- stop 
+
+the guy, find out who he is, don't arrest him, but then 
+
+now they know that this is the kind of guy who drives 
+
+without a license. And so they go to his house the next 
+
+day and they see him getting back in the car. Could 
+
+they arrest him then?
+
+ MS. SCHWARZ: Justice Kagan, I think the 
+
+answer would be yes, and the reason why is because if 
+
+they see him on a subsequent occasion and they're seeing 
+
+him re-offend, that would attenuate the taint of the 
+
+first -­
+
+JUSTICE KAGAN: So the re-offense -- the 
+
+re-offense just cuts off the original taint?
+
+ MS. SCHWARZ: I believe so, yes. I mean, it 
+
+would be attenuation analysis, but to me it would be 
+
+pretty clear-cut that that's how it would resolve.
+
+ CHIEF JUSTICE ROBERTS: So the only way that 
+
+the police can prevent an unlicensed driver from driving 
+
+in this situation is to take away his car? Impound the 
+
+car, as you say?
+
+ MS. SCHWARZ: Well -­
+
+13
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20 --
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: Unless they want -­
+
+for any offense, you know, expired driver's license. 
+
+Expired last week. They can't just give the guy -- they 
+
+can't give the guy a ticket, right? All they can do is 
+
+take away his car?
+
+ Your answer to a number of the questions has 
+
+been that -- that have tried to address the issue of 
+
+what are they supposed to do, since they know they have 
+
+somebody who is violating the law, is that, well, they 
+
+can take away the car. And I just want to know if 
+
+that's the only permissible response by the police when 
+
+they know that the person driving has violated the law.
+
+ MS. SCHWARZ: If the -- if the stop was -­
+
+CHIEF JUSTICE ROBERTS: Totally illegal.
+
+ MS. SCHWARZ: -- Totally illegal -­
+
+CHIEF JUSTICE ROBERTS: Totally, yes.
+
+ MS. SCHWARZ: Then I don't think that -- if 
+
+there were -- I don't think that they could prosecute 
+
+that case. They could -- they couldn't charge him with 
+
+CHIEF JUSTICE ROBERTS: And the only way to 
+
+prevent him from reoffending immediately is to impound 
+
+the car? Because if he gets into the car and drives, 
+
+then -- or can the police arrest him right away?
+
+ MS. SCHWARZ: Well, again, that would be 
+
+14
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+attenuation analysis. But I think that the taint of the 
+
+initial illegality would make that a much more difficult 
+
+case. But in that situation, the police also could -­
+
+again, if there was another person who had authority to 
+
+take possession of the vehicle, that person could take 
+
+the vehicle, the registered owner or someone with 
+
+authority to do that. But the police would not be 
+
+powerless to see the defendant get back in the -- in the 
+
+car.
+
+ I mean, it would -- that would be -­
+
+CHIEF JUSTICE ROBERTS: Why not? Why 
+
+wouldn't they -­
+
+MS. SCHWARZ: Because of the impoundment 
+
+statutes.
+
+ CHIEF JUSTICE ROBERTS: Is that your answer, 
+
+then: They've got to impound the car every time or let 
+
+the guy just go?
+
+ MS. SCHWARZ: Well, they -- they could drive 
+
+the person home to his house or take him to the corner 
+
+or tell him not to drive until he cleared up his 
+
+license. They could do that.
+
+ CHIEF JUSTICE ROBERTS: They could tell him 
+
+not to drive until he clears up his license?
+
+ MS. SCHWARZ: I -- yes. I mean, that would 
+
+be another alternative. 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+But the scenario that you are talking about 
+
+would be highly unlikely, and it would be almost in bad 
+
+faith if the police stopped him illegally, found out 
+
+that he had the suspended license, and then let him get 
+
+back in right away. That wouldn't be the way that the 
+
+police would normally do that, unless there was a way to 
+
+properly maintain the safety of the road -­
+
+JUSTICE GINSBURG: How much time do they 
+
+have to wait? Justice Kagan brought up if the police go 
+
+to his home the next day. You've brought up attenuation 
+
+theory a number of times.
+
+ MS. SCHWARZ: Yes.
+
+ JUSTICE GINSBURG: You -- I think now you 
+
+have answered, he gets back into the car, drives it 
+
+away, they can do nothing because it's too close to when 
+
+they discovered his record of -- his suspended license.
+
+ How much of an interval must there be? What 
+
+do you mean by attenuation doctrine?
+
+ MS. SCHWARZ: Well, that would be -­
+
+attenuation would be evaluated on a case-by-case basis, 
+
+Justice Ginsburg, but I would think if, even an hour 
+
+later, if the Petitioner brazenly drove by those same 
+
+officers, you know, thumbing his nose at them, hi, that 
+
+would be -- attenuation analysis would apply at that 
+
+point. 
+
+16
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE KAGAN: Because you could say that 
+
+if he got back in the car right after the stop, if the 
+
+police for some reason did not impound the car and he 
+
+got back in the car, that's another offense, and so by 
+
+your theory, then they could properly arrest him and use 
+
+all of this knowledge in a prosecution?
+
+ MS. SCHWARZ: And a court very well -- very 
+
+well may agree with you on that. My only qualm with 
+
+that is that when the officers illegally find out that 
+
+he has a suspended license and then to let him get back 
+
+in and immediately arrest him, it's sort of in bad 
+
+faith.
+
+ JUSTICE BREYER: Well, what -- what is that 
+
+word, the "bad faith"? I take it your rule is identical 
+
+if when they wrongly stop the car, they look up the 
+
+records, the records say he has no license, and in 
+
+addition, he's wanted on 17 drug warrants and for 3 
+
+triple axe murders. Again, you can't do anything about 
+
+it?
+
+ MS. SCHWARZ: No. No, Justice Breyer.
+
+ JUSTICE BREYER: What? Can you? You cannot 
+
+do anything about it or you can?
+
+ MS. SCHWARZ: You can.
+
+ JUSTICE BREYER: What? How?
+
+ MS. SCHWARZ: Well, the -- the warrants are 
+
+17
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+entirely different -­
+
+JUSTICE BREYER: Why?
+
+ MS. SCHWARZ: -- because of the Ker-Frisbie 
+
+doctrine. The warrants for -- for other cases are a 
+
+method by which the court brings the body of the 
+
+defendant to court. And so there is -­
+
+JUSTICE BREYER: So if, in fact, a policeman 
+
+stops a person without cause and learns as a result of 
+
+that that there are many warrants outstanding against 
+
+him, he then can arrest the person, and -- but can he 
+
+introduce those warrants into court as evidence or 
+
+whatever if it's relevant?
+
+ MS. SCHWARZ: Absolutely, he can bring them 
+
+in. But the warrants are not evidentiary.
+
+ JUSTICE BREYER: Suppose the way that the 
+
+policeman stops the person and gets the information 
+
+illegally is he takes an axe and breaks into the house, 
+
+the policeman, and thereby -- what I'm showing -- I just 
+
+think this case has lots of implications, and I'm 
+
+looking for a rule here that's going to work in a lot of 
+
+different situations.
+
+ MS. SCHWARZ: Well, there's -- actually, I'm 
+
+sorry, Justice Breyer, I'm not sure I follow.
+
+ JUSTICE BREYER: Well, you say that if, in 
+
+fact, he learns that this man from the public records is 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+a triple axe murderer -­
+
+MS. SCHWARZ: Right.
+
+ JUSTICE BREYER: -- he can do nothing about 
+
+it, I said? And you said no, he can do something about 
+
+it. I just wanted to know the distinction.
+
+ MS. SCHWARZ: Okay. So there's different -­
+
+again, just to be clear, the warrant, the arrest 
+
+warrant, is not of evidentiary value, according to 
+
+the -- Davis. That's not something that would be 
+
+introduced in court. It's just a method for bringing 
+
+the defendant into court. And so in that case, they 
+
+would properly be allowed to arrest him. And if there 
+
+was -­
+
+JUSTICE BREYER: It happens to be a 
+
+description of the individual, not a warrant, he gets 
+
+from the public record which is read off to him when he 
+
+calls in, a description: A red tie. Can he use that 
+
+and introduce it into evidence?
+
+ I mean, is this case about -- what's it 
+
+about, driving? Or does it have broader implications?
+
+ I thought that the Court had held that any 
+
+public record at all is immune. Is that right? Immune 
+
+from the normal fruit of the poisonous tree rule.
+
+ MS. SCHWARZ: The New York Court of Appeals 
+
+rule categorically removes it, that's true. 
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: Yes, and I was testing 
+
+that. I want to know: Is that, in your opinion, a 
+
+correct rule in all cases?
+
+ MS. SCHWARZ: No. And in fact, one of 
+
+the -­
+
+JUSTICE BREYER: I mean, not an incorrect 
+
+rule, the opposite rule. No rule.
+
+ MS. SCHWARZ: Well, it's -- the problem with 
+
+that rule, the categorical rule, is that it will create 
+
+a fresh incentive for police officers to make these kind 
+
+of suspicionless stops, and so it will encourage police 
+
+to violate the Fourth Amendment, and not only -­
+
+JUSTICE SCALIA: Not -- not if you allow the 
+
+suppression of the policeman's identification of the 
+
+individual driving the car. I mean, that -- nobody's 
+
+contending that that can't be suppressed. So if you 
+
+can't bring in the policeman to say, yes, this fellow 
+
+Smith, whose record we have here, was the fellow driving 
+
+the car. Once that's out, what incentive is there to 
+
+make these suspicionless stops?
+
+ MS. SCHWARZ: Because -­
+
+JUSTICE SCALIA: What I'm saying is, you're 
+
+getting at it from the wrong end. What should have been 
+
+suppressed was the policeman's identification of the 
+
+person who was driving the car. 
+
+20
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MS. SCHWARZ: Ah. Yes. And if -- and if 
+
+this case -- if this case -- we prevail, and this case 
+
+was returned to trial court, both of those issues would 
+
+be at play and would be litigated. The observations of 
+
+the defendant and the DMV records are both suppressible 
+
+fruit and both of them would be subject to suppression.
+
+ JUSTICE ALITO: But that's not the argument 
+
+you seem to be making. You want to suppress the 
+
+knowledge that the police derived from the stop that 
+
+Mr. Tolentino's license is suspended, and you would 
+
+allow an exception to that only if there was 
+
+attenuation. But why isn't the simpler solution to a 
+
+case like this that you can't suppress the knowledge of 
+
+matters that are in a government record, however you can 
+
+suppress observations by the police on the scene that 
+
+flow directly from the illegal stop?
+
+ MS. SCHWARZ: Well, again, our position is 
+
+that both of those items are properly suppressible. And 
+
+it's true in this circumstance that the observations 
+
+would probably subsume the need for the DMV records. 
+
+However, the observations may not be sufficient in 
+
+certain circumstances. And in those cases, it would be 
+
+more important -- it would be very important to have 
+
+both of the items suppressible, and there's no reason, 
+
+there's not -­
+
+21
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE GINSBURG: I thought there was some 
+
+rule about not being able to suppress a person's 
+
+identity? You've been asked a couple of times why are 
+
+you going after the DMV record; you should go after the 
+
+police identification of Joe Smith or whoever. I 
+
+thought there was some rule that says the identity of 
+
+the person is not suppressible. Am I wrong about that?
+
+ MS. SCHWARZ: That -- that is a restatement 
+
+of the Ker-Frisbie doctrine, that essentially says that 
+
+a person cannot suppress himself, his body, in order to 
+
+defeat the jurisdiction of the court.
+
+ JUSTICE KENNEDY: And so how does that fit 
+
+with your earlier answers that his identity here could 
+
+be suppressed? And then I'll ask a second question. If 
+
+you say that you can suppress his identity from 
+
+information they gained after the stop when they saw 
+
+him, why couldn't they say, well, we saw this man before 
+
+we stopped him?
+
+ MS. SCHWARZ: There's -- there's a 
+
+distinction between the identity and the elicitation of 
+
+his name, and the elicitation of his name which led to 
+
+the DMV records.
+
+ JUSTICE SCALIA: Well, it -- it gets you 
+
+nowhere to say John Smith. You have to say John Smith 
+
+was driving the car. It's the driving of the car that 
+
+22
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+you want suppressed. That's not the identity. I mean, 
+
+John Smith, fine, you can say John Smith, John Smith, 
+
+John Smith all you like at court. It's -- it's not 
+
+going to get a conviction.
+
+ But when you say John Smith was driving the 
+
+car, then you are eliciting testimony from the officer 
+
+concerning information he would not have had but for the 
+
+stop, that John Smith was driving the car, right?
+
+ MS. SCHWARZ: Well, this Court has always 
+
+defined evidentiary fruit as something that -- of 
+
+evidentiary value which the public authorities have 
+
+caused an arrested person to yield to them during an 
+
+illegal detention, and that's from the Davis case. And 
+
+the DMV records would fit that definition of evidentiary 
+
+fruit.
+
+ And in this case, because it is the classic 
+
+situation where there's sufficient causal connection 
+
+between the Fourth Amendment violation and the 
+
+subsequent discovery of the evidence to justify 
+
+suppression, there's no reason not to apply the 
+
+exclusionary rule here, and in fact, it meets all the 
+
+definition of the sort of case where there would be very 
+
+high level of deterrence as a result of applying the 
+
+exclusionary rule.
+
+ I see that I have 5 minutes. I would like 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to reserve the rest of my time.
+
+ CHIEF JUSTICE ROBERTS: Thank you, 
+
+Ms. Schwarz.
+
+ Ms. Halligan.
+
+ ORAL ARGUMENT OF CAITLIN J. HALLIGAN
+
+ ON BEHALF OF THE RESPONDENT
+
+ MS. HALLIGAN: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ I would like to start with your question, 
+
+Justice Breyer, about what the ruling below was and 
+
+what's at stake in this case. What the court of appeals 
+
+held was quite narrow. It said -- and I'm reading from 
+
+page 105a of the appendix: "We merely hold that a 
+
+defendant may not invoke the fruit of the poisonous tree 
+
+doctrine when the only link between improper police 
+
+activity and the disputed evidence is that the police 
+
+learned the defendant's name."
+
+ So the court of appeals is focusing on the 
+
+fact that all that was elicited here is the name of the 
+
+defendant, and that's appropriate. Asking a name is 
+
+fundamental to any encounter between police and 
+
+citizens, and that's because the officer -­
+
+JUSTICE SOTOMAYOR: You're suggesting that 
+
+it's okay for the police to walk up to any citizen, 
+
+anywhere, and say, you're under arrest until you give me 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+your name?
+
+ MS. HALLIGAN: Absolutely not, Your Honor.
+
+ JUSTICE SOTOMAYOR: Well, there's -- there's 
+
+been no doubt here that it was a stop without suspicion. 
+
+That's been presumed. So how is that different from 
+
+what I just asked you -­
+
+MS. HALLIGAN: Because -­
+
+JUSTICE SOTOMAYOR: That they took a person 
+
+randomly, detained them without any suspicion, and said 
+
+give me your name. Are you suggesting that that's okay?
+
+ MS. HALLIGAN: No, I'm not. The legality of 
+
+the stop here has not been adjudicated. We are 
+
+presuming that the police acted illegally.
+
+ JUSTICE SOTOMAYOR: I am presuming. I know 
+
+that there's counter-arguments to that.
+
+ MS. HALLIGAN: We are not at all challenging 
+
+this Court's decisions, certainly not Delaware v. Prouse 
+
+or any others, which hold that the police may not stop 
+
+someone without basis and may not certainly enforce the 
+
+sort of statute that was at issue in Hiibel without some 
+
+basis for asking for identification.
+
+ JUSTICE SOTOMAYOR: So isn't the eliciting 
+
+of the name as a result of an unlawful stop something 
+
+that could be suppressed?
+
+ MS. HALLIGAN: It should not be subject to 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+suppression, and that's a distinct question from whether 
+
+or not there was a constitutional violation that 
+
+occurred in the stop and the asking of the name.
+
+ JUSTICE SOTOMAYOR: The name is different 
+
+than the person, the body of the person, which has to do 
+
+with the Court's jurisdiction. But why isn't the name 
+
+any different than a wallet that's in somebody's pocket 
+
+or a shirt or a hat, whatever is on the person? Why is 
+
+a name not subject to suppression?
+
+ Let's go past what happens here, because I 
+
+understand the disconnect between the name, the DMV 
+
+record, and seeing the person driving. How we tie those 
+
+together are a different issue. But you made a bold 
+
+statement when you started. You said that the police 
+
+securing a name is never suppressible.
+
+ MS. HALLIGAN: Because it has ae unique 
+
+status, as this Court recognized in Hiibel, in the 
+
+criminal justice system. Asking for a name is a routine 
+
+and accepted part of any stop because the officer needs 
+
+to know who he's dealing with. He faces an inordinate 
+
+risk, as this Court noted in Mimms and most recently in 
+
+Arizona v. Gant, of being shot when he approaches a car.
+
+ JUSTICE GINSBURG: What's the difference 
+
+between stopping a car and stopping a person on the 
+
+street, as Justice Sotomayor asked? You can't stop 
+
+26 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+somebody on the street for no reason. The person looks 
+
+to you suspicious, so you stop the person and say: Tell 
+
+me your name. For a Terry stop, you have to have 
+
+reasonable suspicion. So why isn't it the same for 
+
+somebody who is driving a car?
+
+ MS. HALLIGAN: I think it is the same in 
+
+terms of what the Fourth Amendment requires, and 
+
+Delaware v. Prouse holds that. We're not taking issue 
+
+with that or asking this Court to retreat from that.
+
+ What we are saying is that where all that is 
+
+elicited is the name, it's not appropriate to apply the 
+
+exclusionary rule, which is a very distinct question.
+
+ JUSTICE KAGAN: So, Ms. Halligan, suppose -­
+
+you're suggesting there should be an exception for 
+
+knowledge of identity. Suppose there were a clearly 
+
+illegal search and the government is looking for a head 
+
+of some kind of criminal syndicate and knows this only 
+
+by an alias, all right; and -- and finds out as a result 
+
+of this illegal search -- pick your -- pick your alias, 
+
+you know, John Smith -- finds out, you know -- finds out 
+
+that this person whose house they're searching is John 
+
+Smith, is the head of this criminal syndicate.
+
+ Can the government then use that knowledge 
+
+of identity, knowledge that this person goes under this 
+
+alias, in order to build a case around this guy? 
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MS. HALLIGAN: In your hypothetical I'm not 
+
+sure whether there would be any Fifth Amendment issues 
+
+that would be at play, but -­
+
+JUSTICE KAGAN: No, they find out this 
+
+person's alias as the result of the illegal search, and 
+
+that allows them to build a substantial criminal case.
+
+ MS. HALLIGAN: If all that is obtained is 
+
+the name, then the exclusionary rule should not be 
+
+applied.
+
+ JUSTICE KAGAN: So there's a diary, and it 
+
+says: I am John Smith. That's Keyser Soze.
+
+ (Laughter.)
+
+ JUSTICE KAGAN: I am Keyser Soze. That 
+
+would not be suppressible?
+
+ MS. HALLIGAN: The diary itself, the 
+
+document would be suppressible. The knowledge that that 
+
+person is the -- is Keyser Soze would not be subject to 
+
+suppression, and knowledge should never be something 
+
+that is subject to suppression, in any event.
+
+ JUSTICE ALITO: Suppose that when -- when 
+
+the police stopped this particular car, they saw that 
+
+Mr. Tolentino was smoking marijuana or snorting cocaine 
+
+or drinking from a bottle of alcohol or he had somebody 
+
+tied up, bound and gagged on the back seat of the car. 
+
+Now, all of those things would clearly be the fruit -­
+
+28
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+all those observations would clearly be the fruit of the 
+
+allegedly illegal stop, right?
+
+ MS. HALLIGAN: That's correct, and -­
+
+JUSTICE ALITO: Even though they were in 
+
+plain view, they would all be suppressed, right?
+
+ MS. HALLIGAN: That's correct, Your Honor.
+
+ JUSTICE ALITO: But you're saying that the 
+
+observation that Mr. Tolentino is at the wheel of the 
+
+car, that is not suppressed?
+
+ MS. HALLIGAN: I would like to distinguish 
+
+between the observation of the person driving the car, 
+
+to the extent that you might have a case in which that 
+
+observation is made after the stop as opposed to before 
+
+the stop; that's a different and distinct question. 
+
+It's not presented in the case that's before the Court 
+
+right now -- from the question of whether the 
+
+exclusionary rule should be applied when only the name 
+
+is elicited.
+
+ The observations, it may be as -- as Justice 
+
+Ginsburg suggested that under Crews, because the 
+
+physiognomy of a person -- five justices determined 
+
+there the appearance is not something that's subject to 
+
+suppression, the police officer's observation that it 
+
+was in fact this individual who looks like this driving 
+
+the car would not be subject to suppression, either. 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+But that's not presented. All that is at issue here is 
+
+whether or not the elicitation of the name and the 
+
+records directly linked to that are subject to 
+
+suppression.
+
+ JUSTICE BREYER: He made a mistake and said: 
+
+I'm driving the car.
+
+ MS. HALLIGAN: Pardon?
+
+ JUSTICE BREYER: He made a mistake. He said 
+
+in court: I was driving the core -- car. He never 
+
+should have said it. All right, now once he said it, 
+
+now we know he's driving the car.
+
+ MS. HALLIGAN: Well -­
+
+JUSTICE BREYER: So now you're saying why 
+
+does this case even come up? Because once you have his 
+
+name, the second he said it in court you could go up 
+
+looking his -- you could go look at his -- his records 
+
+anyway; you could find all these -- the facts about him 
+
+which I guess could you bring in.
+
+ MS. HALLIGAN: Well, that's right, and 
+
+that's why part of why a name should not be -­
+
+JUSTICE BREYER: So this case shouldn't be a 
+
+special rule, it should just be a case of -- what is it 
+
+called? It's a doctrine, you would have found it 
+
+anyway; inevitable discovery.
+
+ MS. HALLIGAN: You could resolve the case on 
+
+30 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the theory that by definition government records that 
+
+are previously held -­
+
+JUSTICE BREYER: But they're only inevitably 
+
+discovered if he makes a mistake of saying what his name 
+
+is. No, no, not that -- the mistake of saying: I was 
+
+driving the car. And then, as Justice Scalia pointed 
+
+out, maybe you could suppress that, so it would -- it 
+
+would -­
+
+MS. HALLIGAN: In this case the question of 
+
+any observations of the defendant is waived. It was 
+
+abandoned by operation of State law. You could have 
+
+another case in which that at issue.
+
+ JUSTICE BREYER: Wait. One -­
+
+JUSTICE SCALIA: I was going to ask that. 
+
+She said that -­
+
+JUSTICE BREYER: Why is -­
+
+JUSTICE SCALIA: -- your -- your friend said 
+
+that it was raised below. What -- what happened to it?
+
+ MS. HALLIGAN: What happened is this: In 
+
+the suppression motion initially, the defendant sought 
+
+to suppress a number of things, including the 
+
+observations of the police. The trial court judge did 
+
+not rule specifically on that aspect of the suppression 
+
+motion. The trial court judge said that there would be 
+
+a suppression hearing on the statement that the 
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+defendant made, but there would not be a suppression 
+
+hearing with regard to the DMV records because DMV 
+
+records were not subject to suppression.
+
+ At that point the defendant pled guilty, and 
+
+so by operation of State law -- because first of all 
+
+there was not a ruling specifically on the question of 
+
+observations and the defendant failed to bring that to 
+
+the trial court judge's attention, and because the 
+
+guilty plea was taken, and you can only appeal when you 
+
+plead guilty on a suppression motion where there's a 
+
+final order, there's no final order on the observation. 
+
+That's out of the case, that would be our position.
+
+ You could have a subsequent case where that 
+
+question would be presented if, in fact, an officer does 
+
+not see a defendant until after he approaches the car, 
+
+and in that case he would have to determine whether or 
+
+not Crews and the five justices, which says the 
+
+physiognomy of the defendant is not subject to 
+
+suppression, controls and therefore allows the 
+
+observations to come in; but it's not presented here.
+
+ CHIEF JUSTICE ROBERTS: Do you -- is your 
+
+position that they can do anything in terms of the 
+
+search of a name? Could they punch it into Google or 
+
+something like that and find out a lot more than just 
+
+what they have in their own possession? 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MS. HALLIGAN: I think that would be 
+
+correct, Your Honor, but here you have records that not 
+
+only are in the government's possession -- and this 
+
+Court never has suggested -­
+
+CHIEF JUSTICE ROBERTS: I know -- I know it 
+
+raises a different question, but you know, you keep 
+
+saying they're just -- or you know, you're just talking 
+
+about the name, but names are meaningless in the 
+
+abstract. It's not just that the officer wants to know 
+
+what to call him. It's what he wants to find out from 
+
+the name.
+
+ MS. HALLIGAN: The -­
+
+CHIEF JUSTICE ROBERTS: And these days 
+
+there's so many electronic databases, you can find out 
+
+an awful lot just, you know, with the punch of a few -­
+
+a few buttons.
+
+ MS. HALLIGAN: You could, and I think that 
+
+that's why if the Court was concerned about the 
+
+potential breadth of that holding, it could narrow it to 
+
+the use of the name to link to government records. In 
+
+the field, in particular, what an officer is going to 
+
+look for is records that suggest danger, so for example 
+
+what the officers have in New York State is they -­
+
+CHIEF JUSTICE ROBERTS: No, but it's not 
+
+limited to suggesting danger or whatever. It's -- it 
+
+33
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+can -- that may be what the officer on the scene is most 
+
+interested in, of course, but once you get the guy's 
+
+name you're interested in a lot of things.
+
+ MS. HALLIGAN: That's right, and that's 
+
+because you are in the process of conducting some sort 
+
+of investigation, and to suppress the knowledge of 
+
+someone's identity would -- would blink reality.
+
+ CHIEF JUSTICE ROBERTS: Well, they're not 
+
+suppressing the knowledge of somebody's identity. All 
+
+that -- what's being suppressed is the evidence of 
+
+criminal activity that you derive from that.
+
+ MS. HALLIGAN: I think it's very different 
+
+than when you have drugs in a car which could clearly be 
+
+subject to suppression. All that you have here, first 
+
+of all, that's elicited, is the name. The name itself 
+
+is not subject to suppression, nor did the defendant 
+
+seek to have it suppressed, as the court of appeals 
+
+observed. And so that should be the end of the inquiry. 
+
+If the antecedent piece of evidence is not subject to 
+
+suppression then there's no poison that can flow from 
+
+that to contaminate anything like the DMV record.
+
+ JUSTICE ALITO: Could I go back and -­
+
+JUSTICE KAGAN: I think that that's not 
+
+right, Ms. Halligan, because the search is the poisonous 
+
+tree. Now, it might be that the name can't be 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+I 
+
+Official - Subject to Final Review 
+
+suppressed, but it still might be that everything that's 
+
+discovered as a result of knowing the name, which would 
+
+never be discovered unless the search had taken place, 
+
+could be suppressible.
+
+ MS. HALLIGAN: Two points, Justice Kagan. 
+
+believe, first of all, that if the name is not 
+
+suppressed and then something flows from the name, I 
+
+don't think that you can skip that step and then 
+
+suppress something that comes further down the road. 
+
+But, secondly, the fact that these records were already 
+
+in the government's possession is precisely what takes 
+
+this outside the scope of the fruits doctrine. The 
+
+fruits -- fruits doctrine has been held to apply 
+
+repeatedly in cases where the evidence is in some sense 
+
+the product of the illegal government activity. These 
+
+records are simply not the product of any government 
+
+activity.
+
+ JUSTICE KAGAN: Why does it -­
+
+JUSTICE ALITO: Could I go back and ask you 
+
+to -- to explain what -- how you -- you think the -- the 
+
+request for suppression of the police officer's 
+
+observation was waived? That was raised in the motion 
+
+to suppress, page 17A of the joint appendix.
+
+ MS. HALLIGAN: Yes, Your Honor.
+
+ JUSTICE ALITO: Now, the -- the New York 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Supreme Court apparently didn't understand that that 
+
+issue was in the case and ruled only on suppression of 
+
+the records and tangible evidence, is that right, 78A?
+
+ MS. HALLIGAN: Yes.
+
+ JUSTICE ALITO: What is the -- what is Mr. 
+
+Tolentino supposed to do at that point to preserve the 
+
+issue of the suppression of a police officer's 
+
+observation?
+
+ MS. HALLIGAN: To preserve the issue, Mr. 
+
+Tolentino should have raised that fact to the judge, 
+
+should have pointed it out pursuant to CPLR 71070, 
+
+subsection (2). There's also case law explaining that 
+
+when that happens, that is the obligation of the 
+
+defendant and the defendant cannot raise the issue on 
+
+appeal if it's not brought to the attention of the trial 
+
+court judge at that point.
+
+ JUSTICE ALITO: The defendant raises an 
+
+issue before the trial judge, the trial judge ignores 
+
+that issue, misses the issue -­
+
+MS. HALLIGAN: And then the defendant pleads 
+
+guilty.
+
+ JUSTICE ALITO: -- and then the defendant 
+
+waives the issue unless the defendant says by the way, 
+
+you missed -- you failed to address one of the arguments 
+
+that I made? 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MS. HALLIGAN: At the point at which the 
+
+defendant pleads guilty, that is correct, Your Honor. 
+
+The defendant pled guilty prior to seeking any ruling on 
+
+that, specifically, or any clarification. None of this 
+
+is -- is briefed before the Court, but the defendant 
+
+also did not raise the issue of the observations in the 
+
+brief to the intermediate State appellate court, the 
+
+State court of appeals or this Court. So it has been 
+
+deemed abandoned a long time ago. And in the oral 
+
+argument before the New York Court of Appeals, the 
+
+defendant seemed to concur in the fact that it had been 
+
+abandoned.
+
+ CHIEF JUSTICE ROBERTS: You -- you make the 
+
+point that these records are already in the government's 
+
+possession.
+
+ MS. HALLIGAN: Yes.
+
+ CHIEF JUSTICE ROBERTS: I mean, isn't that 
+
+true of everything that's available on any type of 
+
+database? Everything in Google or whatever the other 
+
+search engines are is in the government's possession in 
+
+the sense that they've got it; all they've got to do is 
+
+identify it in their search, and they've got it.
+
+ MS. HALLIGAN: Well, this is in the 
+
+government's possession in the literal sense of the 
+
+word, and in fact to correct something that was said 
+
+37
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+previously, although it's not in the record, the DMV 
+
+records, along with other records, such as arrest 
+
+warrants, are in fact in the NYPD's possession. They 
+
+use a database that the State police generate which they 
+
+download onto their server. So they have it in their 
+
+actual possession, which is different from -­
+
+CHIEF JUSTICE ROBERTS: Well, it can't make 
+
+a difference on whose server it is, does it?
+
+ MS. HALLIGAN: No, I'm simply saying that it 
+
+is in their possession.
+
+ CHIEF JUSTICE ROBERTS: It is information 
+
+that they can get if they have the correct way of 
+
+searching it, which is here by name.
+
+ MS. HALLIGAN: And -- and the fact that they 
+
+are drawn to the records because they have stopped this 
+
+individual and they have this name does not disqualify 
+
+them from using those records. This Court has cited 
+
+several times with approval to a case called Bynum in 
+
+the D.C. circuit in which there were prints that were 
+
+taken following an illegal detention, and those prints 
+
+were suppressed. The prosecution knew that the 
+
+defendant had committed the crime, because those prints 
+
+had been taken and matched, and the defendant -- or the 
+
+prosecution was allowed to use a set of prints that it 
+
+already had in its files on retrial. 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+The same thing happened in both Davis and 
+
+Hayes. In fact, in both of those cases, there were 
+
+convictions on remand, and the prosecution's attention 
+
+was drawn to the defendant only following some illegal 
+
+activity.
+
+ I would like to -­
+
+JUSTICE GINSBURG: May I ask you something 
+
+about the practice in New York? I mean, there is an 
+
+artificiality to this case because we are assuming that 
+
+the stop was unlawful.
+
+ MS. HALLIGAN: Yes, Your Honor.
+
+ JUSTICE GINSBURG: But the police said it 
+
+was lawful, because the radio was blasting so loud. Why 
+
+did this issue even -- the issue of "suppose it was 
+
+unlawful" even come up, instead of the city or the 
+
+county saying what the police stopped him for was a 
+
+traffic violation, was perfectly legal? Why get to the 
+
+constitutional question when the prosecutor brought into 
+
+play the argument that this was a lawful stop?
+
+ MS. HALLIGAN: The prosecutor made two 
+
+arguments on the -- in response to the suppression 
+
+motion. One was that the DMV records were not subject 
+
+to suppression as a category. The second was, as you 
+
+say, that the stop was legal. The trial court judge 
+
+ruled only on the first ground and did not hold a 
+
+39
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+hearing to adjudicate the facts of the stop, and so 
+
+that's why it comes to you in this posture.
+
+ JUSTICE ALITO: It does seem rather strange. 
+
+That would have been, like, a 10-minute hearing. Why 
+
+did you stop him? Well, he was playing the music too 
+
+loud. Defendant testifies, I wasn't playing my music 
+
+too loud. The trial judge says, Well, I believe you, or 
+
+I believe you, and that's the end of the matter. It 
+
+does seem really -- that's how things are done in trial 
+
+court in New York City? You jump to these big 
+
+constitutional issues and -­
+
+MS. HALLIGAN: I'm not sure that anyone 
+
+realized that this case would -- would eventually come 
+
+before this Court, but that is the way this particular 
+
+case.
+
+ JUSTICE KENNEDY: Of course we know it's too 
+
+loud. It's always too loud.
+
+ MS. HALLIGAN: There's actually a provision 
+
+of the New York City Administrative Code, Your Honor, 
+
+which is on point -­
+
+CHIEF JUSTICE ROBERTS: Are these things 
+
+public records? If I wanted to find out if you had 
+
+been, you know, stopped for driving without a license, 
+
+can I find that out?
+
+ MS. HALLIGAN: Frankly, I think that's a 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+difficult question, Your Honor. There are certain 
+
+entities to which driving records can be disclosed 
+
+pursuant to the Federal Driver's Privacy Protection Act, 
+
+and there are also certain restrictions. So I think the 
+
+answer to your question would depend on who was asking. 
+
+But they are certainly the administrative adjudications 
+
+that are made by a judge in traffic court, and in that 
+
+sense, they are every bit as valid a record as the 
+
+decision of any other court. There are simply certain 
+
+protections with respect to DMV records specifically.
+
+ JUSTICE KAGAN: Your government records 
+
+argument, is it limited to New York City records or does 
+
+it also apply to FBI records, to records of other cities 
+
+and states which, presumably, would be available on a 
+
+reciprocal basis?
+
+ MS. HALLIGAN: I think it would apply to 
+
+records available on a reciprocal basis, Your Honor.
+
+ I would like to touch on the -­
+
+JUSTICE SOTOMAYOR: Counsel, do you see no 
+
+difference between Crews and Bynum, in the typical case 
+
+where the evidence against the defendant is not 
+
+developed as a result of an illegal stop -- it exists 
+
+independent of that stop -- and one in which the stop 
+
+itself creates the ground for arrest? Don't you see a 
+
+difference between those two things? 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MS. HALLIGAN: I guess I would say that what 
+
+creates the grounds for arrest here is the fact that the 
+
+individual was driving with a suspended license, and 
+
+no -­
+
+JUSTICE SOTOMAYOR: But there was no 
+
+suspicion of that when that person was stopped. The 
+
+suspicion to arrest arose not independent of the 
+
+illegality, but as part of it.
+
+ MS. HALLIGAN: But so, too, with Bynum. It 
+
+was the match of the prints that caused the prosecutor 
+
+to realize that this individual was guilty -­
+
+JUSTICE SOTOMAYOR: But all of the evidence 
+
+at trial really had nothing to do with the fingerprint. 
+
+It had to do with the victims and everyone else walking 
+
+in and saying, That's the guy who did lie to me.
+
+ MS. HALLIGAN: I believe in Bynum, Your 
+
+Honor, the prints were critical, and here the only 
+
+element -­
+
+JUSTICE SOTOMAYOR: In the arrest.
+
+ MS. HALLIGAN: No, in the adjudication 
+
+itself. The appellate decision -- may I finish my 
+
+answer? -- on remand in Bynum went back, suggests that 
+
+the ability to locate those prior prints in the FBI file 
+
+was essential to the conviction there.
+
+ CHIEF JUSTICE ROBERTS: Thank you, 
+
+42
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Ms. Halligan.
+
+ MS. HALLIGAN: Thank you.
+
+ CHIEF JUSTICE ROBERTS: Mr. Shah.
+
+ ORAL ARGUMENT OF PRATIK A. SHAH,
+
+ ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE
+
+ MR. SHAH: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ Petitioner seeks to suppress official 
+
+records that were lawfully in the State's possession 
+
+before any Fourth Amendment violation occurred. That 
+
+unprecedented request should be rejected for three 
+
+reasons.
+
+ One, the DMV records were accessed merely 
+
+through use of Petitioner's name; two, those records 
+
+were produced and possessed by the State long before the 
+
+allegedly illegal stop at issue; and, three, deterrence 
+
+does not outweigh the costs, the substantial costs of 
+
+suppression under the circumstances present here.
+
+ JUSTICE SOTOMAYOR: Are you -­
+
+CHIEF JUSTICE ROBERTS: Is everything that 
+
+the government has access to through any database 
+
+considered in the government's possession?
+
+ MR. SHAH: No, I don't -- I don't think I 
+
+would go that far in terms of our government records 
+
+argument. I think it would have to be information -­
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: Well, you said -- as 
+
+you phrased it, I thought it was in the government's 
+
+possession.
+
+ MR. SHAH: Right, effectively in the 
+
+government's possession I think would be the standard. 
+
+So here I think we're talking, not about Google, but I 
+
+think we're talking about governmental records.
+
+ CHIEF JUSTICE ROBERTS: Well, what's the 
+
+difference? In either case, they need some search term, 
+
+and then they will get the answers. I don't see why it 
+
+makes a difference.
+
+ MR. SHAH: I think for the governmental 
+
+records part of our argument, that rationale is an 
+
+independent rationale. The key part of it is that the 
+
+information was actually in the government's possession 
+
+before the Fourth Amendment violation occurred. I think 
+
+it's fairer to say that governmental records that are 
+
+produced and owned and possessed by the government 
+
+qualify. I think it's a harder argument to make that 
+
+something -­
+
+CHIEF JUSTICE ROBERTS: Well, what if -- I'm 
+
+sorry, go ahead.
+
+ MR. SHAH: That something might be -- that 
+
+something that could be found by using Google was 
+
+already in the government's possession before the 
+
+44
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+violation occurred.
+
+ CHIEF JUSTICE ROBERTS: Well, what if it's 
+
+in the -- the government of Colorado's possession, and 
+
+they have an arrangement with New York that they will 
+
+let them check their files to find out, you know, 
+
+whatever it is, nationwide or something? Does that -­
+
+your argument apply to that?
+
+ MR. SHAH: I think it could. I think it 
+
+would depend on the arrangement. If it's a fully 
+
+reciprocal arrangement that effectively allows the State 
+
+full access to those records, then I think it may be 
+
+tantamount to the State having effective possession.
+
+ JUSTICE KAGAN: How about private databases 
+
+that are going to be available to the government upon 
+
+request?
+
+ MR. SHAH: I think -- I think that's 
+
+stretching it a little bit further. That's a little bit 
+
+harder. Again, if it were the case that the State could 
+
+be said to have effectively have possession of those 
+
+records because, for example, a copy of them are sitting 
+
+on their servers or they have such full access that even 
+
+though they're prepared by a private database, the State 
+
+has paid for them, so they're effectively State records, 
+
+that may also fall within the scope. But those are 
+
+questions that are essentially pushing the boundary of 
+
+45 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+what's effectual -­
+
+JUSTICE BREYER: Why? The facts of this 
+
+case, I find confusing. Let's imagine the policeman 
+
+goes with a hatchet and breaks into somebody's house 
+
+illegally.
+
+ MR. SHAH: Okay.
+
+ JUSTICE BREYER: And there, he sees on the 
+
+desk the name is Dagwood. With other information, he 
+
+goes to a certain alley and starts shouting "Dagwood" 
+
+and people shower him with drugs. You have no doubt, if 
+
+that is the fruit of the poisonous tree, an out, 
+
+correct?
+
+ MR. SHAH: I think if I understand your -­
+
+JUSTICE BREYER: I mean, that's how they -­
+
+they knew the name, they got the evidence, they get to 
+
+the place. Without the name, they wouldn't have gotten 
+
+the drugs.
+
+ MR. SHAH: Right.
+
+ JUSTICE BREYER: Okay. Out, right?
+
+ MR. SHAH: If I understand the hypothetical, 
+
+they break into someone's house -­
+
+JUSTICE BREYER: Yes, illegally. Very 
+
+illegally.
+
+ MR. SHAH: Right, and they find -­
+
+JUSTICE BREYER: His name. 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. SHAH: They find the defendant's name?
+
+ JUSTICE BREYER: Yes, correct.
+
+ MR. SHAH: Right. The defendant's name 
+
+itself is not suppressible under these -­
+
+JUSTICE BREYER: I just wondered if you were 
+
+going to also say in my example, which I could make more 
+
+realistic with more time, which you don't want to give 
+
+me, the -- but -- that he uses the name, and as a result 
+
+gets all kinds of evidence in the form of drugs, murder 
+
+victims, whatever you want. Have you any doubt that 
+
+that would be suppressible?
+
+ MR. SHAH: I think the government could have 
+
+an argument that the fruits would not be suppressible.
+
+ JUSTICE BREYER: They're not suppressible 
+
+simply because you get them through a name? You break 
+
+into a house, get a name; as a result of the name, you 
+
+know what criminal enterprise to go to; as a result of 
+
+that criminal enterprise going to, you get every 
+
+evidence under the sun, absolute direct connection. And 
+
+you say that's not suppressible?
+
+ MR. SHAH: A couple of responses, Your 
+
+Honor. There is, first, already extensive deterrent 
+
+value from -­
+
+JUSTICE BREYER: Okay, okay. I just wanted 
+
+to know the ultimate response. 
+
+47
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. SHAH: Right.
+
+ JUSTICE BREYER: Now assume it's the 
+
+opposite response. If it's the opposite response, for 
+
+state of argument, how is it any different whether he's 
+
+showered with drugs or showered with government records?
+
+ MR. SHAH: Okay. So I think my -- my 
+
+response is that the fruits are not necessarily 
+
+suppressible in your -- in your hypothetical.
+
+ JUSTICE BREYER: I know. I wanted you to 
+
+assume the opposite. I got -- you win if my 
+
+hypothetical -- if it's not even drugs, it's not even 
+
+government records. But if it is drugs, why isn't it 
+
+government records? This won't hurt you very much, 
+
+because often there will be an alternative source, but 
+
+suppose there isn't. Why are government records 
+
+different from drugs?
+
+ MR. SHAH: Right. Because the government 
+
+already possesses those records. Those records were 
+
+within the government's possession before any Fourth 
+
+Amendment violation occurred. It would be depriving the 
+
+government of information it already had, and there is 
+
+no precedent within this Court's Fourth Amendment 
+
+jurisprudence that would -­
+
+JUSTICE ALITO: Suppose they -- they -- they 
+
+break into the house with an axe, and they find out the 
+
+48
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+name, they see this guy is Dagwood, and so they run that 
+
+through their -- their database, and they find this is 
+
+the guy we've been looking for, for the last 20 years. 
+
+He is responsible for all the drugs that come into this 
+
+country, he's committed numerous acts of terrorism, he's 
+
+a -- he's a serial killer, he's killed 50 people, we've 
+
+been chasing him forever, and so the -- the result would 
+
+be all that knowledge, that this is Dagwood is the fruit 
+
+of the poisonous tree and nothing can be done about 
+
+Dagwood?
+
+ MR. SHAH: No, no, Your Honor. I want to be 
+
+very clear. My response is that that is not subject to 
+
+suppression. And -- and -- and even my friend on the 
+
+other side conceded that if it were an -- an outstanding 
+
+arrest warrant such as in your hypothetical that would 
+
+lead to of the name, even if the name were a fruit of an 
+
+illegal stop or search, that that arrest warrant would 
+
+still provide a basis to arrest the defendant and 
+
+prosecute the defendant.
+
+ Now, it may be that other fruits that are 
+
+discovered in the home or statements taken from the 
+
+defendant in the home would be suppressed, but certainly 
+
+the prosecution could proceed under the Ker-Frisbie 
+
+Rule, and any preexisting evidence that this person was 
+
+an axe murderer or whatever else evidence that the 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+government had would certainly still be admissible in 
+
+the prosecution for whatever.
+
+ JUSTICE GINSBURG: You mentioned some -­
+
+before you finish, you -- you said a name is not 
+
+suppressible, and that's because this Court held -- we 
+
+started out by saying the observation of the person that 
+
+dropped out of this case, so we're talking only about 
+
+records, but the extraction of a name, you say that's 
+
+not suppressible, even though it was unlawfully 
+
+extracted because there were no reasonable suspicions 
+
+that this person did anything wrong?
+
+ MR. SHAH: Yes -- yes, Your Honor, we would 
+
+say that a name is different, that it's not 
+
+suppressible, and we would rely on the language this 
+
+Court used in Lopez-Mendoza, which says the respondent's 
+
+body or identity is never suppressible, even if it's 
+
+obtained as a result of an illegal search, seizure or 
+
+interrogation.
+
+ We think name is -- is part and parcel of a 
+
+defendant's identity, and that it has a special status 
+
+within -- within the criminal justice system.
+
+ JUSTICE KAGAN: Mr. Shah, how would you 
+
+think about this problem? Suppose the police start 
+
+stopping people and rather than asking for your name, 
+
+they take a blood sample, they prick your finger, and 
+
+50 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+then they take that blood and they look in their very 
+
+extensive DNA databases, and they discover, oh, this is 
+
+a guy who, you know, did these various terrible things, 
+
+and start building cases. Would that be all right?
+
+ MR. SHAH: Your Honor, I think other types 
+
+of biometric evidence that you suggest, for example, of 
+
+blood evidence, might well implicate competing 
+
+considerations that would dictate a different result. 
+
+And let me suggest a couple of the competing 
+
+considerations, why I think the Court doesn't need to 
+
+reach so far and say all sorts of biometric information 
+
+should be treated the same.
+
+ For -- for one -- for one thing, things like 
+
+a name or even a fingerprint, this Court has said is not 
+
+a separate Fourth Amendment event to acquire that. For 
+
+example, once someone is detained, it's not also a 
+
+search to ask for their name or to take a fingerprint.
+
+ However, in your example, pricking someone 
+
+with a needle to obtain their blood would be a separate 
+
+Fourth Amendment event, because that would be a separate 
+
+invasion of their -- of their bodily integrity, privacy, 
+
+and that might warrant different considerations, since 
+
+there are two violations there. There might be a need 
+
+for greater deterrent.
+
+ I think the other sort of consideration that 
+
+51 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+might be implicated in -- in that type of hypothetical 
+
+is that evidence unlike a name or fingerprint, DNA 
+
+evidence, for example, that you suggest, might provide 
+
+competing considerations in the sense that it could lead 
+
+to other types of information that not -- that may not 
+
+be relevant to the criminal justice system, medical 
+
+records, genetic information. It may pose a specter of 
+
+other competing considerations that might require a 
+
+different balance in the end.
+
+ I think it would be premature for this Court 
+
+to weigh in one way or another as to whether that would 
+
+be appropriate. I think we would need a record and we 
+
+would want time to -- to -- to -- we would want that to 
+
+play out and see -- and see what the consequences were. 
+
+So I don't think the Court has to go that far. I think 
+
+the Court can limit it, as in this case, to name, 
+
+fingerprints and other traditionally -- other 
+
+information traditionally used to identify a defendant. 
+
+Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, Mr. Shah.
+
+ Ms. Schwarz, you have 4 minutes remaining.
+
+ REBUTTAL ARGUMENT OF KRISTINA SCHWARZ
+
+ ON BEHALF OF THE PETITIONER
+
+ MS. SCHWARZ: I would first just like to 
+
+address Justice Breyer's concern about what the rule 
+
+52 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+should be, and -- excuse me. So long as there's 
+
+sufficient causal relationship between the Fourth 
+
+Amendment violation and the later discovery of evidence, 
+
+this Court has expressed continued allegiance to this 
+
+rule. So in this case the reason why the DMV records 
+
+are suppressible fruit is it fits that classic 
+
+definition.
+
+ Why are the observations suppressible when 
+
+the identity isn't? That's another issue that was 
+
+raised. The observations are -- again, they fit the 
+
+definition whereas the identity does -- does not fit 
+
+that. The Ker-Frisbie rule prevents a person himself 
+
+from being suppressible, but the elicitation of his name 
+
+is something entirely separate. So in other word, in 
+
+the Crews case a majority of the Court said that a -- a 
+
+person could not suppress their person or their face 
+
+from being in court; five of the justices said that; but 
+
+five justices said that the in-court identification 
+
+could under certain circumstances be suppressible. So 
+
+they drew a distinction between the person's body being 
+
+brought into court, which is not suppressible because of 
+
+the Ker-Frisbie rule, and then the evidentiary use of 
+
+the identity, the fact that the five of the justices 
+
+said that in certain circumstances not applicable in 
+
+that case, the in-court identification could be 
+
+53 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+suppressible shows the distinction. And that's the 
+
+distinction that has been -- is confusing about this 
+
+case, because the elicitation of his name is what led to 
+
+the DMV records. But even if this Court found that the 
+
+elicitation of the name was not sufficient or was 
+
+somehow related to Ker-Frisbie and could not be 
+
+suppressible, the DMV records directly flow from the 
+
+Fourth Amendment violation here, from the Prouse 
+
+violation. And so it really doesn't really matter.
+
+ Especially in light of the decision in Whren 
+
+to remove subjective motivations from the determinations 
+
+of constitutional reasonableness in car stops, it's 
+
+essential to enforce what remains of motorists' core 
+
+Fourth Amendment rights; and the Whren standards just 
+
+must be enforced; otherwise these core Fourth Amendment 
+
+values will be undermined and police will be left free 
+
+to stop people on the roads with no objective basis and 
+
+check their ID and status and do fishing expeditions 
+
+into this sea of data that will be linked to the police 
+
+computers; and this would violate Prouse and Brown and 
+
+Hiibel.
+
+ CHIEF JUSTICE ROBERTS: And I suppose would 
+
+subject the police officers to liability, though, right? 
+
+In civil actions?
+
+ MS. SCHWARZ: Well, again, this is a classic 
+
+54 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+case where there's a clear relationship, a causal 
+
+relationship, so this is the sort of case where this 
+
+Court has continued allegiance to application of the 
+
+exclusionary rule where the exclusionary rule is very 
+
+strong; and so why would the Court say that the second 
+
+sister of the exclusionary rule, in this circumstance 
+
+where there's sufficiently deliberate, that exclusion 
+
+would be meaningful and sufficiently culpable, that the 
+
+evidence would be -- that application of the rule would 
+
+be worth the cost? In this situation there's no reason 
+
+to abandon the exclusionary rule.
+
+ JUSTICE SOTOMAYOR: Counsel, are you 
+
+agreeing with your adversary that you abandoned and are 
+
+not entitled to raise the suppressibility of the 
+
+observation?
+
+ MS. SCHWARZ: No. Well -­
+
+JUSTICE SOTOMAYOR: And if you're not, in 
+
+what ways is it tied to the question presented about 
+
+identity, which is the issue you sought cert on?
+
+ MS. SCHWARZ: Right. I -- I have no qualms 
+
+in my adversary explaining that the question presented 
+
+was limited because of the procedure, of the way the 
+
+trial court's decision was made. However if this Court 
+
+remanded the case, the question of whether the 
+
+observations were suppressible would be very much at 
+
+55
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+play.
+
+ JUSTICE GINSBURG: Why? Because when he 
+
+entered a guilty plea, you reserved only the question 
+
+concerning the motor vehicle records; you didn't reserve 
+
+any other questions.
+
+ MS. SCHWARZ: Well, but at the suppression 
+
+hearing, the -- the court would be free to consider all 
+
+of the suppressible fruit, including the -- the 
+
+statement that was made and the observations and also 
+
+the DMV records.
+
+ Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+The case is submitted.
+
+ (Whereupon, at 12:04 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+56 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final ReviewOfficial - Subject to Final Review
+
+55:21 15:15 41:5 44:19 45:7 19:1 48:25A 
+ae 26:16 42:22 47:13 48:4 49:25abandon55:11 
+ago 37:9 answered16:14 52:22 a.m 1:13 3:2abandoned31:11 
+agree 4:19 17:8 answers 6:16 arguments 36:2437:9,12 55:13 Bagreeing 55:13 22:13 44:10 39:21ability 42:23 
+
+back 8:21 9:8,10Ah 21:1 antecedent Arizona 26:22able 22:2 
+10:6,7 11:19ahead 9:3 44:22 34:19 arose 42:7above-entitled 
+12:24 13:9 15:8alcohol 28:23 anyway 4:13 arrangement1:11 56:15 
+16:5,14 17:2,4alias 27:18,19,25 30:17,24 45:4,9,10absence 3:12 
+17:10 28:2428:5 apparently 36:1 arrest 11:7,9,24absolute 47:19 
+34:22 35:19Alito 5:6,8,16,17 appeal 32:9 13:5,6,10 14:24Absolutely 18:13 
+42:226:2,15,20 8:22 36:15 17:5,11 18:1025:2 
+
+bad16:2 17:1110:20 21:7 appeals 4:4 19:7,12 24:25abstract 33:9 
+17:1428:20 29:4,7 19:24 24:11,18 38:2 41:24 42:2accepted26:19 
+
+balance 52:934:22 35:19,25 34:17 37:8,10 42:7,19 49:15access 4:1 43:21 
+based9:1436:5,17,22 40:3 appearance 49:17,1845:11,21 
+basis 16:2048:24 29:22 arrested5:15accessed43:13 
+
+25:19,21 41:15alleged3:23 APPEARANC... 23:12acquire 51:15 
+41:17 49:18allegedly 5:20 1:14 artful 8:22acquired7:7,22 
+54:1729:2 43:16 appellate 37:7 artificiality 39:98:3 
+
+behalf 1:15,19allegiance 53:4 42:21 asked4:22 8:22act 4:7 41:3 
+1:22 2:4,7,1055:3 appendix 24:13 22:3 25:6 26:25acted3:24 25:13 
+2:14 3:8 24:6alley 46:9 35:23 asking 24:20actions 54:24 
+43:5 52:23allow9:7 20:13 applicable 53:24 25:21 26:3,18activity 24:16 
+
+behold 6:721:11 application 4:6 27:9 41:5 50:2434:11 35:15,17 
+believe 6:11 7:14allowed19:12 7:18 55:3,9 aspect 31:2339:5 
+
+8:15 13:18 35:638:24 applied28:9 Assistant 1:20acts 49:5 
+40:7,8 42:16allowing 9:23 29:17 assume 48:2,10actual 38:6 
+
+big 40:10allows 28:6 32:19 apply 11:18 assuming 39:9addition 4:23 
+biometric 51:645:10 16:24 23:20 attention 32:817:17 
+
+51:11alternative 15:25 27:11 35:13 36:15 39:3address 14:7 
+bit 41:8 45:17,1748:14 41:13,16 45:7 attenuate 13:1436:24 52:25 
+blasting 39:13Amendment 3:13 applying 23:23 attenuationaddressed5:3 
+blink 34:720:12 23:18 approaches 11:18,21 13:19adjudicate 40:1 
+blood50:25 51:127:7 28:2 43:10 26:22 32:15 15:1 16:10,18adjudicated 
+
+51:7,1944:16 48:20,22 appropriate 16:20,24 21:1225:12 
+bodily 51:2151:15,20 53:3 24:20 27:11 Attorney 1:18adjudication 
+body 18:5 22:1054:8,14,15 52:12 attorney's 10:1642:20 
+
+26:5 50:16amicus 1:22 2:11 approval 38:18 authorities 23:11adjudications 
+53:2043:5 argument 1:12 authority 15:4,741:6 
+
+bold 26:13analysis 13:19 2:2,5,8,12 3:4,7 available 37:18administrative 
+bottle 28:2315:1 16:24 21:7 24:5 37:10 41:14,17 45:1440:19 41:6 
+bound 28:24answer10:20 39:19 41:12 awful 33:15admissible 50:1 
+boundary 45:2513:12 14:6 43:4,25 44:13 axe 17:18 18:17adversary 55:13 
+brazenly 16:22 
+
+57 
+
+Alderson Reporting CompanyAlderson Reporting Company
+
+
+
+Official - Subject to Final Review 
+
+breadth33:19 called30:23 cases 3:19 7:15 circumstance conducted5:12 
+break 46:21 38:18 18:4 20:3 21:22 21:19 55:6 conducting 34:5 
+
+47:15 48:25 calls 19:17 35:14 39:2 51:4 circumstances confusing 46:3 
+breaks 18:17 cameras 6:6 case-by-case 6:12 21:22 54:2 
+
+46:4 car 3:14,25 4:3 16:20 43:18 53:19,24 connection 23:17 
+Breyer10:19,23 4:11,15 5:13 categorical 4:5 cited38:17 47:19 
+
+11:2,5,11,17 6:8,19 8:7,9,13 20:9 cities 41:13 consequences 
+11:23 12:1,9,12 8:14,20 9:6,8 categorically citizen24:24 52:14 
+12:15,17 17:13 9:12 10:1,4,6 19:25 citizens 24:22 consider56:7 
+17:20,21,24 10:21 11:8,19 category 39:23 city 39:15 40:10 consideration 
+18:2,7,15,23 12:5,11,13,14 causal 23:17 40:19 41:12 51:25 
+18:24 19:3,14 12:20,23,24 53:2 55:1 civil 54:24 considerations 
+20:1,6 24:10 13:9,23,24 14:5 cause 3:22 8:20 clarification37:4 51:8,10,22 52:4 
+30:5,8,13,21 14:10,23,23 10:21 18:8 classic 23:16 52:8 
+31:3,13,16 46:2 15:9,16 16:14 caused23:12 53:6 54:25 considered7:1 
+46:7,14,19,22 17:2,3,4,15 42:10 clear 19:7 49:12 43:22 
+46:25 47:2,5,14 20:15,19,25 cert 55:19 55:1 constitutional 
+47:24 48:2,9 22:25,25 23:6,8 certain 21:22 cleared10:15 26:2 39:18 
+
+Breyer's 52:25 26:22,24 27:5 41:1,4,9 46:9 15:20 40:11 54:12 
+brief 8:15 37:7 28:21,24 29:9 53:19,24 clearly 7:24 contained4:10 
+briefed37:5 29:11,25 30:6,9 certainly 5:25 27:15 28:25 contaminate 
+bring 18:13 30:11 31:6 25:17,19 41:6 29:1 34:13 34:21 
+
+20:17 30:18 32:15 34:13 49:22 50:1 clears 15:23 contending 20:16 
+32:7 54:12 chain 5:19 clear-cut 13:20 continue 10:7 
+
+bringing 19:10 case 3:4 5:3,12 challenging close 16:15 continued53:4 
+brings 18:5 6:13 7:2,5,19 25:16 cocaine 28:22 55:3 
+broader19:20 8:10,18 9:22 charge 14:19 Code 40:19 controls 32:19 
+brought 16:9,10 14:19 15:3 chasing 49:7 Colorado's 45:3 conviction 23:4 
+
+36:15 39:18 18:19 19:11,19 check 45:5 54:18 come 30:14 42:24 
+53:21 21:2,2,2,13 checked6:5 32:20 39:15 convictions 39:3 
+
+Brown 3:16,25 23:13,16,22 checking 3:14 40:13 49:4 copy 45:20 
+54:20 24:11 27:25 Chief 3:3,9 13:21 comes 35:9 40:2 core 30:9 54:13 
+
+build 27:25 28:6 28:6 29:12,15 14:1,14,16,21 committed38:22 54:15 
+building 51:4 30:14,21,22,25 15:11,15,22 49:5 corner15:19 
+business 3:21 31:9,12 32:12 24:2,7 32:21 competing 51:7,9 correct 20:3 29:3 
+buttons 33:16 32:13,16 36:2 33:5,13,24 34:8 52:4,8 29:6 33:2 37:2 
+Bynum 38:18 36:12 38:18 37:13,17 38:7 computers 8:16 37:25 38:12 
+
+41:20 42:9,16 39:9 40:13,15 38:11 40:21 54:20 46:12 47:2 
+42:22 41:20 44:9 42:25 43:3,6,20 conceded49:14 cost 55:10 
+
+45:18 46:3 50:7 44:1,8,21 45:2 concern 52:25 costs 43:17,17 
+C 52:16 53:5,15 52:20 54:22 concerned33:18 counsel 1:17 
+
+C 2:1 3:1 53:25 54:3 55:1 56:12 concerning 23:7 41:19 55:12 
+CAITLIN 1:17 55:2,24 56:13 chose 4:5 56:4 56:12 
+
+2:6 24:5 56:14 circuit 38:19 concur 37:11 counter-argum... 
+call 33:10 
+
+58 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+25:15 criminal 26:18 38:23 39:4 40:6 different 10:3 18:4 22:9 24:15 
+country 3:20 27:17,22 28:6 41:21 49:18,19 18:1,21 19:6 30:23 35:12,13 
+
+49:5 34:11 47:17,18 49:22 52:18 25:5 26:4,7,13 document 28:16 
+county 1:18 50:21 52:6 defendant's 29:14 33:6 doubt 25:4 46:10 
+
+39:16 critical 42:17 24:17 47:1,3 34:12 38:6 48:4 47:10 
+couple 22:3 culpable 55:8 50:20 48:16 50:13 download38:5 
+
+47:21 51:9 curiae 1:22 2:11 defined23:10 51:8,22 52:9 drawn 38:15 39:4 
+course 34:2 43:5 definition23:14 difficult 15:2 drew53:20 
+
+40:16 cuts 13:17 23:22 31:1 53:7 41:1 drinking 28:23 
+court 1:1,12 3:10 53:11 direct 47:19 drive 9:8 12:20 
+
+D3:11,16 4:4 5:2 Delaware 3:11 directly 21:16 12:22 15:18,20 
+D 3:17:5,10 10:16 25:17 27:8 30:3 54:7 15:23 
+Dagwood 46:8,9 12:19 17:7 18:5 deliberate 55:7 disclosed41:2 driver8:10,18 
+
+49:1,8,10 18:6,11 19:10 Department 1:21 disconnect 26:11 13:22 
+danger33:22,25 19:11,21,24 7:23 discover51:2 driver's 8:7,10 
+data 54:1921:3 22:11 23:3 depend 41:5 45:9 discovered4:2 14:2 41:3 
+database 37:1923:9 24:8,11,18 depriving 48:20 16:16 31:4 35:2 drives 12:5 13:7 
+
+38:4 43:2126:17,21 27:9 derive 34:11 35:3 49:21 14:23 16:14 
+45:22 49:229:15 30:9,15 derived21:9 discovery 23:19 driving 3:15 4:11 
+
+databases 33:1431:22,24 32:8 description 30:24 53:3 4:15 5:13 6:8,9 
+45:13 51:233:4,18 34:17 19:15,17 dismisses 5:10 6:19 8:25 9:19 
+
+Davis 19:9 23:13 36:1,16 37:5,7 descriptive 8:17 disputed24:16 10:7 11:3,8,20 
+39:137:8,8,10 38:17 desk 46:8 disqualify 38:16 13:22 14:12 
+
+day 9:3 13:9 39:24 40:10,14 detain 3:22 distinct 26:1 19:20 20:15,18 
+16:1041:7,9 43:7 detained25:9 27:12 29:14 20:25 22:25,25 
+
+days 33:1350:5,15 51:10 51:16 distinction 19:5 23:5,8 26:12 
+dealing 26:2051:14 52:10,15 detention 23:13 22:20 53:20 27:5 29:11,24 
+deals 7:1052:16 53:4,15 38:20 54:1,2 30:6,9,11 31:6 
+decided5:253:17,21 54:4 determinations distinguish29:10 40:23 41:2 42:3 
+deciding 5:255:3,5,23 56:7 54:11 district 1:18 dropped50:7 
+decision 7:10courtroom5:11 determine 32:16 10:16 drove 16:22 
+
+41:9 42:21court's 25:17 determined DMV 4:1,4,9 5:3 drug 17:17 
+54:10 55:2326:6 48:22 29:21 5:4 6:17,25 7:2 drugs 34:13 
+
+decisions 25:1755:23 deterrence 23:23 7:8,19,21 21:5 46:10,17 47:9 
+deemed37:9CPLR 36:11 43:16 21:20 22:4,22 48:5,11,12,16 
+defeat 7:18create 4:5 20:9 deterrent 47:22 23:14 26:11 49:4 
+
+22:11creates 41:24 51:24 32:2,2 34:21 D.C 1:8,21 38:19 
+defendant 15:842:2 developed41:22 38:1 39:22 
+
+E18:6 19:11 21:5 credentials 3:15 diary 28:10,15 41:10 43:13 
+24:14,20 31:10 E 2:1 3:1,1 10:12 dictate 51:8 53:5 54:4,7 
+31:20 32:1,4,7 earlier22:13Crews 29:20 difference 9:19 56:10 
+32:15,18 34:16 effective 45:1232:17 41:20 26:23 38:8 DNA 51:2 52:2 
+36:14,14,17,20 effectively 44:453:15 41:20,25 44:9 doctrine 7:15 
+36:22,23 37:2,3 45:10,19,23 crime 38:22 44:11 11:18,21 16:18 
+37:5,11 38:22 effectual 46:1 
+
+59 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+29:25 44:9 24:16 34:10,19 23:21 24:19 fishing 9:21 48:7 49:20 
+electronic 33:14 35:14 36:3 29:24 32:14 54:18 full 45:11,21 
+element 42:18 41:21 42:12 35:10 36:10 fit 22:12 23:14 fully 45:9 
+elicitation 22:20 46:15 47:9,19 37:11,25 38:3 53:10,11 fundamental 
+
+22:21 30:2 49:24,25 51:6,7 38:14 39:2 42:2 fits 53:6 24:21 
+53:13 54:3,5 52:2,3 53:3 53:23 five 29:21 32:17 further9:18 35:9 
+
+elicited4:1 24:19 55:9 facts 30:17 40:1 53:17,18,23 45:17 
+27:11 29:18 evidentiary 7:2 46:2 flow21:16 34:20 
+
+G34:15 18:14 19:8 failed32:7 36:24 54:7 
+G 3:1eliciting 23:6 23:10,11,14 fairer44:17 flows 35:7 
+gagged28:2425:22 53:22 faith 16:3 17:12 focusing 24:18 
+gained4:1 22:16 encounter24:21 exactly 3:24 17:14 follow18:23 
+Gant 26:22encourage 20:11 example 33:22 fall 45:24 followed5:20 
+General 1:17,21 enforce 25:19 45:20 47:6 51:6 far 43:24 51:11 following 8:5 
+generate 38:454:13 51:16,18 52:3 52:15 38:20 39:4 
+genetic 52:7enforced54:15 exception 21:11 FBI 41:13 42:23 forever10:3 49:7 
+getting 5:13 13:9 enforcement 27:14 features 8:17 form 47:9 
+
+20:237:20 exclusion 55:7 Federal 41:3 found 6:7 10:24 
+Ginsburg 7:4,13 engines 37:20 exclusionary 4:6 fellow20:17,18 11:13 16:3 
+
+8:4,8,12 16:8 enjoy 3:20 7:18 23:21,24 field 33:21 30:23 44:24 
+16:13,21 22:1 entered56:3 27:12 28:8 Fifth 28:2 54:4 
+26:23 29:20enterprise 47:17 29:17 55:4,4,6 file 42:23 Fourth3:13 
+39:7,12 50:3 47:18 55:11 filed6:3 20:12 23:18 
+56:2entirely 6:12 excuse 53:1 files 38:25 45:5 27:7 43:10 
+
+give 14:3,4 24:25 18:1 53:14 exists 41:22 final 32:11,11 44:16 48:19,22 
+25:10 47:7entities 41:2 expedition 9:22 find 13:5,6 17:9 51:15,20 53:2 
+
+go 3:21 9:3 13:8 entitled55:14 expeditions 28:4 30:17 54:8,14,15 
+15:17 16:9 22:4 Especially 54:10 54:18 32:24 33:10,14 Frankly 40:25 
+26:10 30:15,16 ESQ 1:15,17,20 expired14:2,3 40:22,24 45:5 free 3:21 54:16 
+34:22 35:192:3,6,9,13 explain 35:20 46:3,24 47:1 56:7 
+43:24 44:22essential 42:24 explaining 36:12 48:25 49:2 fresh20:10 
+47:17 52:1554:13 55:21 finds 27:18,20,20 friend 31:17 
+
+goes 8:21 9:4 essentially 22:9 exploitation 7:22 fine 23:2 49:13 
+27:24 46:4,9 45:25 expressed53:4 finger50:25 fruit 4:3,9,10,12 
+
+going 18:20 22:4 establish10:12 extensive 47:22 fingerprint 42:13 4:18,20 5:5 
+23:4 31:14evaluated16:20 51:2 51:14,17 52:2 6:22 7:1,24 
+33:21 45:14event 28:19 extent 29:12 fingerprints 9:12 11:12 
+47:6,18 51:15,20 extracted50:10 52:17 19:23 21:6 
+
+good-bye 12:5events 5:20 extraction 50:8 finish42:21 50:4 23:10,15 24:14 
+Google 32:23eventually 40:13 first 5:25 7:20 28:25 29:1 
+
+F 37:19 44:6,24 evidence 6:10,13 13:15 32:5 46:11 49:8,16 
+face 53:16 gotten46:166:21 7:7,11 34:14 35:6 53:6 56:8 
+faces 26:20 government 3:219:17 18:11 39:25 47:22 fruits 35:12,13 
+fact 4:10,14 18:7 7:19,25 21:14 19:18 23:19 52:24 35:13 47:13 
+
+18:25 20:4 27:16,23 31:1 
+
+60 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+33:20 35:15,16 42:20 43:1,2 28:1 46:20 48:8 21:23,23 interest 9:14,17 
+41:11 43:21,24 happen8:23 9:6 48:11 49:15 impound 9:6 interested34:2,3 
+44:18 45:3,14 happened31:18 52:1 12:11,13,14 interests 10:3 
+47:12 48:5,12 31:19 39:1 13:23 14:22 interference 
+
+I48:13,15,17,21 happens 19:14 15:16 17:3 3:21 
+ID 54:1850:1 26:10 36:13 impounding 9:11 intermediate 
+identical 17:14governmental harder44:19 10:1 37:7 
+identification44:7,12,17 45:18 impoundment interrogation
+
+20:14,24 22:5 government's hat 26:8 9:13 10:17 50:18 
+25:21 53:18,25 7:6,11 33:3 hatchet 46:4 15:13 interval 16:17 
+
+identify 3:1935:11 37:14,20 Hayes 39:2 improper24:15 introduce 18:11 
+37:22 52:1837:24 43:22 head 27:16,22 incentive 20:10 19:18 
+
+identity 22:3,6 44:2,5,15,25 hear 3:3 20:19 introduced11:3 
+22:13,15,20 48:19 heard 11:6 including 31:21 19:10 
+23:1 27:15,24 greater51:24 hearing 31:25 56:8 invasion 51:21 
+34:7,9 50:16,20 ground 39:25 32:2 40:1,4 incorrect 20:6 investigation
+53:9,11,23 41:24 56:7 independent 34:6 
+55:19grounded3:19 held 3:11 19:21 6:14 7:15 41:23 invoke 24:14 
+
+ignores 36:18grounds 42:2 24:12 31:2 42:7 44:14 in-court 53:18,25 
+illegal 4:3 5:20 guess 30:18 42:1 35:13 50:5 indicate 8:9 issue 5:7 6:5 7:14 
+
+6:9 9:12 10:23 guilty 32:4,9,10 hi 16:23 indicated5:3 14:7 25:20 
+11:14 12:536:21 37:2,3 high23:23 8:15 26:13 27:8 30:1 
+14:14,15 21:16 42:11 56:3 highly 16:2 indictment 5:10 31:12 36:2,7,9 
+23:13 27:16,19 guy 13:5,6,7 14:3 Hiibel 25:20 individual 3:18 36:14,18,19,19 
+28:5 29:2 35:15 14:4 15:17 26:17 54:21 19:15 20:15 36:23 37:6 
+38:20 39:427:25 42:15 hold 24:13 25:18 29:24 38:16 39:14,14 43:16 
+41:22 43:1649:1,3 51:3 39:25 42:3,11 53:9 55:19 
+49:17 50:17guy's 34:2 holding 33:19 inevitable 30:24 issues 21:3 28:2 
+
+illegality 5:25holds 27:8 inevitably 31:3 40:11 
+H 7:21,22 8:3 home 15:19 information4:13 items 21:18,24 
+
+Halligan 1:17 2:6 15:2 42:816:10 49:21,22 5:23 7:6,17 8:6 
+J24:4,5,7 25:2,7 illegally 16:3Honor 25:2 29:6 8:25 11:7 18:16 
+
+25:11,16,25 17:9 18:17 J 1:17 2:6 24:5 33:2 35:24 37:2 22:16 23:7 
+26:16 27:6,13 25:13 46:5,22 Joe 22:539:11 40:19 38:11 43:25 
+28:1,7,15 29:3 46:23 John 22:24,24 41:1,17 42:17 44:15 46:8 
+29:6,10 30:7,12 imagine 46:3 23:2,2,2,3,5,8 47:22 49:11 48:21 51:11 
+30:19,25 31:9 immediately 27:20,21 28:11 50:12 51:5 52:5,7,18 
+31:19 33:1,12 11:20 14:22 joint 35:23hour 16:21 initial 5:20,22 
+33:17 34:4,12 17:11 JOSE 1:3house 13:8 15:19 15:2 
+34:24 35:5,24 immune 19:22,22 judge 5:9 31:22 18:17 27:21 initially 31:20 
+36:4,9,20 37:1 implicate 51:7 31:24 36:10,16 46:4,21 47:16 inordinate 26:20 
+37:16,23 38:9 implicated52:1 36:18,18 39:24 48:25 inquiry 34:18 
+38:14 39:11,20 implications 40:7 41:7hurt 48:13 integrated8:1 
+40:12,18,25 18:19 19:20 judge's 32:8hypothetical integrity 51:21 
+41:16 42:1,9,16 important 7:2 jump 40:10 
+
+61 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+jurisdiction 46:19,22,25 26:20 27:20,20 21:10 40:23 13:18 15:10,24 
+22:11 26:6 47:2,5,14,24 30:11 33:5,5,6 42:3 16:18 19:19 
+
+jurisprudence 48:2,9,24 50:3 33:7,9,15 40:16 lie 42:15 20:6,15 23:1 
+48:23 50:21,22 52:6 40:23 45:5 light 6:15 54:10 37:17 39:8 
+
+justice 1:21 3:3,9 52:20,25 54:22 47:17,25 48:9 limit 52:16 46:14 
+4:8,17,19,24 55:12,17 56:2 51:3 limited33:25 meaning 8:3 
+5:6,8,16,17 6:2 56:12 knowing 35:2 41:12 55:22 meaningful 55:8 
+6:15,20 7:4,13 justices 29:21 knowledge 7:17 link 24:15 33:20 meaningless 8:2 
+8:4,8,12,21,22 32:17 53:17,18 17:6 21:9,13 linked30:3 54:19 33:8 
+9:5,11,16,22 53:23 27:15,23,24 literal 37:24 meant 11:18 
+9:25 10:19,20 justification3:25 28:16,18 34:6,9 litigated21:4 medical 52:6 
+10:23 11:2,5,11 justify 23:19 49:8 little 45:17,17 meets 23:21 
+11:17,23 12:1,9 knows 27:17 lo 6:7 mentioned50:3 
+
+K12:12,15,17,25 KRISTINA 1:15 locate 42:23 merely 24:13 
+Kagan 12:2513:2,4,11,16 2:3,13 3:7 long 37:9 43:15 43:13 
+
+13:2,4,11,16 13:21 14:1,14 52:22 53:1 method 18:5 
+16:9 17:1 27:13 14:16,21 15:11 look 7:25 17:15 19:10 
+
+L28:4,10,13 15:15,22 16:8,9 30:16 33:22 Mimms 26:21 
+34:23 35:5,18 language 50:1416:13,21 17:1 51:1 minutes 23:25 
+41:11 45:13 Laughter28:1217:13,20,21,24 looked12:4 52:21 
+50:22 law7:20 14:9,12 18:2,7,15,23 looking 18:20 missed36:24 
+
+keep33:6 31:11 32:518:24 19:3,14 27:16 30:16 misses 36:19 
+Kennedy 8:21 36:1220:1,6,13,22 49:3 mistake 30:5,8 
+
+9:5,11,16,22 lawful 39:13,19 21:7 22:1,12,23 looks 27:1 29:24 31:4,5 
+9:25 22:12 lawfully 7:6 43:9 24:2,7,10,23 Lopez-Mendoza mixed10:20 
+40:16 lead 49:16 52:4 25:3,8,14,22 50:15 Monday 1:9 
+
+Ker-Frisbie 18:3 learned24:1726:4,18,23,25 lot 18:20 32:24 morning 3:4 
+22:9 49:23 learns 18:8,25 27:13 28:4,10 33:15 34:3 motion 3:23 4:23 
+53:12,22 54:6 leaves 9:328:13,20 29:4,7 lots 6:21 18:19 6:4 31:20,24 
+
+key 44:14 led22:21 54:3 29:19 30:5,8,13 loud 39:13 40:6,7 32:10 35:22 
+Keyser28:11,13 left 54:1630:21 31:3,6,13 40:17,17 39:22 
+
+28:17 legal 39:17,24 31:14,16,17 motivations 
+Mkick 11:22 legality 25:1132:21 33:5,13 54:11 
+
+killed49:6 Let's 26:10 46:3 maintain 16:733:24 34:8,22 motor7:23 56:4 
+killer49:6 level 4:23 5:9 majority 53:1534:23 35:5,18 motorists 54:13 
+kind 13:7 20:10 23:23 making 10:5 21:8 35:19,25 36:5 motorist's 3:15 
+
+27:17 liability 54:23 man18:25 22:17 36:17,22 37:13 murder47:9 
+kinds 47:9 license 5:14,19 March 1:937:17 38:7,11 murderer19:1 
+knew38:21 5:24 6:10,10,24 marijuana 28:2239:7,12 40:3,16 49:25 
+
+46:15 8:5,7,10 9:1,8 match 42:1040:21 41:11,19 murders 17:18 
+know5:18 7:9 10:10,25 11:3 matched38:2342:5,12,19,25 music 40:5,6 
+
+9:2 12:3,19 11:14 12:3,4,20 matter1:11 40:8 43:3,6,19,20 
+N13:7 14:2,8,10 12:24 13:8 14:2 54:9 56:1544:1,8,21 45:2 
+
+14:12 16:23 15:21,23 16:4 matters 21:14 N 2:1,1 3:1 45:13 46:2,7,14 
+19:5 20:2 25:14 16:16 17:10,16 mean 4:12 6:15 name 4:1 22:21 
+
+62 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+22:21 24:17,19 nose 16:23 official 43:8 49:6 50:24 pleads 36:20 
+24:20 25:1,10 noted8:5 26:21 oh 9:1 51:2 54:17 37:2 
+25:23 26:3,4,6 number14:6 okay 19:6 24:24 perfectly 39:17 please 3:10 24:8 
+26:9,11,15,18 16:11 31:21 25:10 46:6,19 permissible 43:7 
+27:3,11 28:8 numerous 49:5 47:24,24 48:6 14:11 pled32:4 37:3 
+29:17 30:2,15 NYPD's 38:3 once 20:19 30:10 permit 9:17 pocket 26:7 
+30:20 31:4 30:14 34:2 person 3:17 4:10 point 16:25 32:4 
+
+O32:23 33:8,11 51:16 4:14 5:18 8:24 36:6,16 37:1,14 
+O 2:1 3:1 33:20 34:3,15 operation 31:11 9:7 11:19 12:21 40:20 
+objective 54:1734:15,25 35:2,6 32:5 12:22 14:12 pointed31:6 
+obligation36:1335:7 38:13,16 opinion 20:2 15:4,5,19 18:8 36:11 
+observation 6:1843:14 46:8,15 opposed7:7 18:10,16 20:25 points 35:5 
+
+29:8,11,13,23 46:16,25 47:1,3 29:13 22:7,10 23:12 poison 34:20 
+32:11 35:2247:8,15,16,16 opposite 20:7 25:8 26:5,5,8 poisonous 4:3,9 
+36:8 50:6 55:15 49:1,16,16 50:4 48:3,3,10 26:12,24 27:1,2 4:9,18 6:22 
+
+observations50:8,13,19,24 oral 1:11 2:2,5,8 27:21,24 28:17 7:24 11:13 
+6:25 21:4,15,19 51:14,17 52:2 3:7 24:5 37:9 29:11,21 42:6 19:23 24:14 
+21:21 29:1,19 52:16 53:13 43:4 49:24 50:6,11 34:24 46:11 
+31:10,22 32:7 54:3,5 order7:17 9:9,18 53:12,16,16 49:9 
+32:20 37:6 53:8 names 33:8 9:20 10:7 22:10 person's 22:2 police 3:14,17,22 
+53:10 55:25narrow24:12 27:25 32:11,11 28:5 53:20 3:24 4:6 6:18 
+56:933:19 original 13:17 Petitioner1:4,16 8:4,16 9:23 
+
+observed5:11nationwide 45:6 originally 7:8 2:4,14 3:8 6:23 10:21 13:5,22 
+34:18necessarily 48:7 outside 35:12 9:9 10:6,14 14:11,24 15:3,7 
+
+obtain 51:19need21:20 44:9 outstanding 18:9 12:23 16:22 16:3,6,9 17:3 
+obtained28:751:10,23 52:12 49:14 43:8 52:23 20:10,11 21:9 
+
+50:17needle 51:19 outweigh 43:17 Petitioner's 3:23 21:15 22:5 
+occasion 13:13needs 26:19 owned44:18 10:4,9 43:14 24:15,16,21,24 
+occurred26:3nervous 6:5 owner8:13,14,19 phrased44:2 25:13,18 26:14 
+
+43:10 44:16never26:15 10:5,11 15:6 physiognomy 28:21 29:23 
+45:1 48:2028:18 30:9 33:4 29:21 32:18 31:22 35:21 
+
+Poffense 5:24 6:1 35:3 50:16 pick 27:19,19 36:7 38:4 39:12 
+14:2 17:4 P 3:1new1:6,15,15,17 picture 8:17 39:16 50:23 
+
+office 10:16 page 2:2 24:13 1:18,18 3:5 4:4 piece 34:19 54:16,19,23 
+officer5:11,12 35:234:5,13 6:4,24 place 35:3 46:16 policeman18:7 
+
+5:17 6:25 23:6 paid 45:2310:8 19:24 plain 29:5 18:16,18 20:17 
+24:22 26:19 parcel 50:1933:23 35:25 plate 8:6,7 46:3 
+32:14 33:9,21 Pardon30:737:10 39:8 plates 8:9 policeman's
+34:1 part 26:19 30:20 40:10,19 41:12 play 21:4 28:3 20:14,24 
+
+officers 16:23 42:8 44:13,14 45:4 39:19 52:14 pose 52:7 
+17:9 20:10 50:19nice 9:3 56:1 position 21:17 
+33:23 54:23 particular5:18nobody's 20:15 playing 40:5,6 32:12,22 
+
+officer's 6:18 28:21 33:21normal 19:23 plea 32:9 56:3 possessed43:15 
+29:23 35:21 40:14normally 16:6 plead 32:10 44:18 
+36:7 people 46:10 
+
+63 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+possesses 48:18 prints 38:19,20 provided5:23 rationale 44:13 37:14 38:2,2,15 
+possession 7:7 38:22,24 42:10 8:20 44:14 38:17 39:22 
+
+7:11,16 8:1 42:17,23 provision 40:18 reach 51:11 40:22 41:2,10 
+10:13 12:21 prior8:1 37:3 public 7:9 9:14 read 19:16 41:11,12,13,13 
+15:5 32:25 33:3 42:23 9:16,18 10:18 reading 24:12 41:17 43:9,13 
+35:11 37:15,20 privacy 41:3 18:25 19:16,22 real 6:16 43:14,24 44:7 
+37:24 38:3,6,10 51:21 23:11 40:22 realistic 47:7 44:13,17 45:11 
+43:9,22 44:3,5 private 45:13,22 pull 8:20 reality 34:7 45:20,23 48:5 
+44:15,25 45:3 probably 8:22 punch32:23 realize 42:11 48:12,13,15,18 
+45:12,19 48:19 21:20 33:15 realized40:13 48:18 50:8 52:7 
+
+posture 40:2 problem6:17 punishing 9:18 really 40:9 42:13 53:5 54:4,7 
+potential 33:19 20:8 50:23 purpose 3:14,18 54:9,9 56:4,10 
+powerless 15:8 procedure 55:22 10:17 reason 5:18 red19:17 
+practice 39:8 proceed49:23 pursuant 36:11 13:12 17:3 regard 32:2 
+PRATIK 1:20 process 34:5 41:3 21:24 23:20 registered8:19 
+
+2:9 43:4 produced43:15 pushing 45:25 27:1 53:5 55:10 15:6 
+precedent 7:14 44:18 put 11:6 reasonable 3:12 rejected43:11 
+
+48:22 product 35:15,16 p.m56:14 3:17 9:23 27:4 related6:3 54:6 
+precisely 35:11 proof 10:9,14 50:10 relationship 53:2 
+
+Qpreexisting proper6:12 9:7 reasonableness 55:1,2 
+qualify 44:1949:24 10:12 54:12 release 10:15 
+qualm17:8premature 52:10 properly 5:4 6:1 reasons 43:12 relevant 18:12 
+qualms 55:20prepared45:22 6:22 7:1 12:21 REBUTTAL 52:6 
+question 6:3 8:22 present 43:18 16:7 17:5 19:12 2:12 52:22 rely 50:14 
+
+11:6 22:14 24:9 presented29:15 21:18 reciprocal 41:15 remaining 52:21 
+26:1 27:1230:1 32:14,20 prosecute 6:13 41:17 45:10 remains 54:13 
+29:14,16 31:9 55:18,21 14:18 49:19 recognized26:17 remand 39:3 
+32:6,14 33:6 preserve 36:6,9 prosecuted6:9 record 5:3 10:15 42:22 
+39:18 41:1,5 presumably prosecution 17:6 11:14 16:16 remanded55:24 
+55:18,21,24 41:14 38:21,24 49:23 19:16,22 20:18 remind 12:7 
+56:3presumed25:5 50:2 21:14 22:4 removal 10:4 
+
+questions 14:6presuming 25:13 prosecution's 26:12 34:21 remove 54:11 
+45:25 56:525:14 39:3 38:1 41:8 52:12 removes 19:25 
+
+quite 8:23 24:12 pretty 13:20 prosecutor 39:18 records 4:1,4,9 reoffending 
+prevail 21:2 39:20 42:10 4:11,12 5:4 14:22R
+prevent 13:22 protect 9:18 6:17 7:1,2,9,9 repeatedly 35:14
+
+R 3:114:22 Protection 41:3 7:19,21,23 8:2 request 35:21
+radio 39:13prevents 4:5 protections 10:25 12:2 43:11 45:15
+raise 36:14 37:6 53:12 41:10 17:16,16 18:25 require 52:8
+
+55:14previously 31:2 Prouse 3:11,24 21:5,20 22:22 required7:16
+raised31:1838:1 4:7 25:17 27:8 23:14 30:3,16 requires 27:7
+
+35:22 36:10prick 50:25 54:8,20 31:1 32:2,3 requiring 3:18
+53:10pricking 51:18 provide 10:11 33:2,20,22 reserve 24:1
+
+raises 33:6 36:17 principle 3:20 49:18 52:3 35:10,16 36:3 56:4
+randomly 25:9 
+
+64 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+reserved56:3 risk 26:21 42:15 50:6 seat 28:24 showered48:5,5 
+resolve 13:20 road 16:7 35:9 says 12:3 22:6,9 second 6:1 22:14 showing 6:7 
+
+30:25 roads 54:17 28:11 32:17 30:15 39:23 18:18 
+respect 41:10 ROBERTS 3:3 36:23 40:7 55:5 shows 54:1 
+Respondent 1:19 13:21 14:1,14 50:15 secondly 35:10 side 49:14 
+
+2:7 24:6 14:16,21 15:11 Scalia 4:8,17,19 securing 26:15 significance 7:3 
+respondent's 15:15,22 24:2 4:24 20:13,22 see 9:19 12:1,1,3 similarly 3:16 
+
+8:15 50:15 32:21 33:5,13 22:23 31:6,14 13:9,13 15:8 simpler21:12 
+response 14:11 33:24 34:8 31:17 23:25 32:15 simply 35:16 
+
+39:21 47:25 37:13,17 38:7 scenario 16:1 41:19,24 44:10 38:9 41:9 47:15 
+48:3,3,7 49:12 38:11 40:21 scene 11:20 49:1 52:14,14 sister55:6 
+
+responses 47:21 42:25 43:3,20 21:15 34:1 seeing 13:13 sitting 45:20 
+responsible 49:4 44:1,8,21 45:2 Schwarz 1:15 2:3 26:12 situation 13:23 
+rest 24:1 52:20 54:22 2:13 3:6,7,9 seek 34:17 15:3 23:17 
+restatement 22:8 56:12 4:17,22 5:1,7 seeking 37:3 55:10 
+restrictions 41:4 routine 26:18 5:16,22 6:11,20 seeks 43:8 situations 18:21 
+result 8:6 10:24 rule 4:5,6 7:18 7:13 8:8,14 9:5 sees 5:12 46:7 skip 35:8 
+
+18:8 23:23 17:14 18:20 9:13,20 10:2,22 seizure 3:13 Smith 20:18 22:5 
+25:23 27:18 19:23,25 20:3,7 11:1,4,10,17 50:17 22:24,24 23:2,2 
+28:5 35:2 41:22 20:7,7,9,9 22:2 11:25 12:7,11 sense 7:24 35:14 23:2,3,5,8 
+47:8,16,17 49:7 22:6 23:21,24 12:14,16,18,25 37:21,24 41:8 27:20,22 28:11 
+50:17 51:8 27:12 28:8 13:1,3,4,11,18 52:4 smoking 28:22 
+
+retreat 27:9 29:17 30:22 13:25 14:13,15 separate 51:15 snorting 28:22 
+retrial 38:25 31:23 49:24 14:17,25 15:13 51:19,20 53:14 Solicitor 1:20 
+returned21:3 52:25 53:5,12 15:18,24 16:12 serial 49:6 solution 21:12 
+re-offend 13:14 53:22 55:4,4,6 16:19 17:7,20 server38:5,8 somebody 14:9 
+re-offense 13:16 55:9,11 17:23,25 18:3 servers 45:21 27:1,5 28:23 
+
+13:17 ruled3:16 36:2 18:13,22 19:2,6 set 38:24 somebody's 26:7 
+right 3:20 4:25 39:25 19:24 20:4,8,21 Shah 1:20 2:9 34:9 46:4 
+
+5:1 6:2 10:4,25 ruling 24:10 32:6 21:1,17 22:8,19 43:3,4,6,23 someone's 34:7 
+11:5,11,15,24 37:3 23:9 24:3 52:21 44:4,12,23 45:8 46:21 
+12:9,10 14:4,24 run 49:1 52:22,24 54:25 45:16 46:6,13 sorry 9:2 13:2 
+16:5 17:2 19:2 55:16,20 56:6 46:18,20,24 18:23 44:22 
+
+S19:22 23:8 scope 35:12 47:1,3,12,21 sort 10:15 17:11 
+S 2:1 3:1 27:18 29:2,5,16 45:24 48:1,6,17 49:11 23:22 25:20 
+safety 9:14,17 30:10,19 34:4 sea 54:19 50:12,22 51:5 34:5 51:25 55:2 
+
+9:18 10:18 16:7 34:24 36:3 44:4 search 7:8 9:12 52:20 sorts 51:11 
+sample 50:2546:18,19,24 27:16,19 28:5 shirt 26:8 Sotomayor 24:23 
+sanctioning 9:2147:3 48:1,17 32:23 34:24 shortly 6:8 25:3,8,14,22 
+saw22:16,17 51:4 54:23 35:3 37:20,22 shot 26:22 26:4,25 41:19 
+
+28:2155:20 44:9 49:17 shouting 46:9 42:5,12,19 
+saying 20:22rightful 10:5 50:17 51:17 show8:12,16 43:19 55:12,17 
+
+27:10 29:7rights 12:19 searching 27:21 10:9 sought 31:20 
+30:13 31:4,5 54:14 38:13 shower46:10 55:19 
+33:7 38:9 39:16 
+
+65 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+source 6:14 7:15 13:5 14:13 17:2 suggest 33:22 34:9 38:20,23 49:21 
+48:14 17:15 21:9,16 51:6,9 52:3 suppression 6:4 takes 18:17 
+
+Soze 28:11,13,17 22:16 23:8 25:4 suggested29:20 7:10 20:14 21:6 35:11 
+special 30:22 25:12,18,23 33:4 23:20 26:1,9 talking 16:1 33:7 
+
+50:20 26:3,19,25 27:2 suggesting 24:23 28:18,19 29:23 44:6,7 50:7 
+specifically 27:3 29:2,13,14 25:10 27:14 29:25 30:4 tangible 36:3 
+
+31:23 32:6 37:4 39:10,19,24 33:25 31:20,23,25 tantamount 9:21 
+41:10 40:1,5 41:22,23 suggests 42:22 32:1,3,10,19 45:12 
+
+specter52:7 41:23 43:16 sun 47:19 34:14,16,20 tape 6:7 
+stake 24:11 49:17 54:17 suppose 5:6,8 35:21 36:2,7 tell 7:12 15:20,22 
+standard 44:5 stopped3:25 9:2 6:3 8:4 11:6 39:21,23 43:18 27:2 
+standards 54:14 12:2 16:3 22:18 12:25 13:4 49:13 56:6 term 44:9 
+start 24:9 50:23 28:21 38:15 18:15 27:13,15 Supreme 1:1,12 terms 27:7 32:22 
+
+51:4 39:16 40:23 28:20 39:14 36:1 43:24 
+started11:20 42:6 48:15,24 50:23 sure 8:23 10:6 terrible 51:3 
+
+26:14 50:6 stopping 26:24 54:22 11:21 18:23 terrorism49:5 
+starts 11:8 46:9 26:24 50:24 supposed8:23 28:2 40:12 Terry 27:3 
+state 6:4,24 9:6 stops 18:8,16 9:1 14:8 36:6 surveillance 6:6 testifies 40:6 
+
+10:8 31:11 32:5 20:11,20 54:12 suppress 3:23 suspended5:14 testimony 23:6 
+33:23 37:7,8 strange 40:3 21:8,13,15 22:2 5:19 6:10 9:1 testing 20:1 
+38:4 43:15 street 26:25 27:1 22:10,15 31:7 16:4,16 17:10 Texas 3:16 
+45:10,12,18,22 stretching 45:17 31:21 34:6 35:9 21:10 42:3 Thank 24:2 
+45:23 48:4 strong 55:5 35:23 43:8 suspicion 3:12 42:25 43:2 
+
+statement 6:23 subject 21:6 53:16 3:18 9:24 25:4 52:19,20 56:11 
+26:14 31:25 25:25 26:9 suppressed4:16 25:9 27:4 42:6 56:12 
+56:9 28:17,19 29:22 4:21 7:5 20:16 42:7 theory 16:11 
+
+statements 29:25 30:3 32:3 20:24 22:14 suspicionless 17:5 31:1 
+49:21 32:18 34:14,16 23:1 25:24 29:5 20:11,20 thing 10:1 39:1 
+
+states 1:1,12,22 34:19 39:22 29:9 34:10,17 suspicions 50:10 51:13 
+2:10 41:14 43:5 49:12 54:23 35:1,7 38:21 suspicious 27:2 things 10:25 
+
+State's 43:9 subjective 54:11 49:22 syndicate 27:17 28:25 31:21 
+status 26:17 submitted56:13 suppresses 5:9 27:22 34:3 40:9,21 
+
+50:20 54:18 56:15 suppressibility system26:18 41:25 51:3,13 
+statute 10:17 subsection 36:12 55:14 50:21 52:6 think 13:11 
+
+25:20 subsequent 5:24 suppressible 5:4 14:17,18 15:1 
+Tstatutes 9:14 13:13 23:19 21:5,18,24 22:7 16:13,21 18:19 
+
+T 2:1,1 15:14 32:13 26:15 28:14,16 27:6 33:1,17 
+taint 5:25 13:14 statutory 12:18 substantial 28:6 35:4 47:4,11,13 34:12,23 35:8 
+
+13:17 15:1step35:8 43:17 47:14,20 48:8 35:20 40:25 
+tainted5:23stop 3:14,17 4:4 subsume 21:20 50:5,9,14,16 41:4,16 43:23 
+take 10:12 12:21 4:14 5:12,21,23 sufficient 21:21 53:6,8,13,19 43:25 44:5,6,7 
+
+13:23 14:5,10 5:25 6:6,8,18 23:17 53:2 54:5 53:21 54:1,7 44:12,16,19 
+15:5,5,19 17:14 8:24,24 10:21 sufficiently 55:7 55:25 56:8 45:8,8,11,16 
+50:25 51:1,17 10:23,24 11:15 55:8 suppressing 4:3 45:16 46:13 
+
+taken32:9 35:3 
+
+66 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+47:12 48:6 two 6:16 35:5 12:22 15:5,6 4:16 10:10 40:6 09-11556 1:5 3:4 
+50:19,23 51:5 39:20 41:25 56:4 way 8:23 13:21 
+
+151:10,25 52:10 43:14 51:23 Vehicles 7:23 14:21 16:5,6 
+10-minute 40:452:12,15,15 type 37:18 52:1 vicinity 6:6 18:15 36:23 
+105a 24:13thought 19:21 types 51:5 52:5 victims 42:14 38:12 40:14 
+11:03 1:13 3:2 22:1,6 44:2 typical 41:20 47:10 52:11 55:22 
+12:04 56:14three 43:11,16 view8:24 29:5 ways 55:18 
+
+U 17 17:17thumbing 16:23 violate 20:12 week 14:3 
+Uh-huh 10:22 17A 35:23ticket 14:4 54:20 weigh 52:11 
+ultimate 47:25tie 19:17 26:12 violated14:12 went 42:22 2underminedtied28:24 55:18 violating 14:9 we're 27:8 44:6,7 
+
+2 36:1254:16time 15:16 16:8 violation 4:7 50:7 
+20 49:3understand24:1 37:9 47:7 23:18 26:2 we've 49:3,6 
+2011 1:910:19 11:1552:13 39:17 43:10 wheel 29:8 
+21 1:926:11 36:1times 16:11 22:3 44:16 45:1 Whren54:10,14 
+24 2:746:13,20 38:18 48:20 53:3 54:8 win 48:10 
+
+unique 26:16Tolentino 1:3 3:4 54:9 won5:9 3
+United1:1,12,22 5:10 6:7,19 8:5 violations 51:23 wondered47:5 3 2:4 17:17 2:10 43:58:11,18 28:22 word 17:14 37:25 
+
+Wunlawful 25:2329:8 36:6,10 53:14 4 
+39:10,15 wait 16:9 31:13 Tolentino's work 18:20 4 52:21
+
+unlawfully 50:9 waived31:1021:10 worth55:10 43 2:11
+unlicensed13:22 35:22Totally 14:14,15 wouldn't 8:19 
+unprecedented waives 36:23 514:16 9:25 15:12 16:5 
+
+43:11 walk 24:24 5 23:25touch41:18 46:16 
+unreasonable walking 42:14 50 49:6traditionally wrong 7:12 20:23 
+
+3:13 walks 5:10 52 2:1452:17,18 22:7 50:11 
+use 9:17 17:5 wallet 26:7traffic 39:17 41:7 wrongly 12:2 
+
+719:17 27:23 want 14:1,10 treated51:12 17:15 
+71070 36:1133:20 38:4,24 20:2 21:8 23:1 tree 4:18 6:22 
+
+X 78A 36:343:14 53:22 47:7,10 49:11 7:24 11:13 
+uses 47:8 52:13,13 x 1:2,7 19:23 24:14 
+
+wanted17:1734:25 46:11 V Y19:5 40:2249:9 
+v 1:5 3:5,11,16 years 49:347:24 48:9trial 4:23 5:9 
+
+25:17 26:22 yield 23:12wants 33:9,10 11:3 21:3 31:22 
+27:8 York 1:6,15,15 warrant 19:7,8 31:24 32:8 
+
+valid 10:10 12:24 1:17,18,18 3:5 19:15 49:15,17 36:15,18,18 
+41:8 4:4 6:4,24 10:8 51:2239:24 40:7,9 
+
+value 8:2 19:8 19:24 33:23warrants 17:1742:13 55:23 
+23:11 47:23 35:25 37:1017:25 18:4,9,11 tried14:7 
+
+values 54:16 39:8 40:10,19 18:14 38:3triple 17:18 19:1 
+various 51:3 41:12 45:4Washington 1:8true 10:11 19:25 
+vehicle 8:19 9:9 1:2121:19 37:18 09:10 10:7,10,13 wasn't 4:11,12 
+
+67 
+
+Alderson Reporting Company 
+
+

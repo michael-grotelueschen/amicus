@@ -1,0 +1,9297 @@
+
+                  
+
+          
+
+                       
+
+                
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+UNITED STATES, :
+
+ Petitioner :
+
+ v. : No. 06-694 
+
+MICHAEL WILLIAMS : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Tuesday, October 30, 2007
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 10:02 a.m. 
+
+APPEARANCES: 
+
+GEN. PAUL D. CLEMENT, ESQ., Solicitor General,
+
+ Department of Justice, Washington, D.C.; on behalf of
+
+ the Petitioner. 
+
+RICHARD J. DIAZ, ESQ., Coral Gables, Fla.; on behalf of
+
+ the Respondent. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                   
+
+                   
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S
+
+
+ORAL ARGUMENT OF PAGE 
+
+GEN. PAUL D. CLEMENT, ESQ.
+
+ On behalf of the Petitioner 3
+
+
+RICHARD J. DIAZ, ESQ.
+
+
+ On behalf of the Respondent 29
+
+
+REBUTTAL ARGUMENT OF
+
+
+GEN. PAUL D. CLEMENT, ESQ.
+
+
+ On behalf of the Petitioner 52
+
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (10:02 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+first this morning in case 06-694, United States v. 
+
+Williams.
+
+ General Clement.
+
+ GENERAL CLEMENT: Mr. Chief Justice, and may 
+
+it please the Court:
+
+ This Court has made clear that speech 
+
+proposing an unlawful transaction is not protected by 
+
+the First Amendment.
+
+ And speech that falsely proposes an unlawful 
+
+transaction is likewise unprotected.
+
+ The statute at issue here properly construed 
+
+does no more than prohibit efforts to offer or solicit 
+
+materials that are contraband and then prevents somebody 
+
+from turning around after soliciting or offering 
+
+contraband and suggesting that the materials either did 
+
+not exist or were not contraband after all. The statute 
+
+does not prohibit truthful speech about lawful 
+
+materials.
+
+ Accordingly, the court of appeals erred in 
+
+striking the statute down on its face.
+
+ CHIEF JUSTICE ROBERTS: But if I could start 
+
+with one of the more compelling hypotheticals on the 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+other side. Let's say I'm a movie reviewer. I write a 
+
+review saying this is an awful movie. It portrays child 
+
+pornography. Aren't I presenting information in a way 
+
+that would cause others to believe that the movie 
+
+contains child pornography, and wouldn't that be covered 
+
+by the statute?
+
+ GENERAL CLEMENT: Mr. Chief Justice, we do 
+
+not think that would be covered by the statute. We 
+
+don't think that that would involve -- in the first 
+
+point, we don't think it would involve presentation or 
+
+promotion of the movie in the meaning of this statute.
+
+ We think those terms are really limited to 
+
+efforts to make the product available to the market.
+
+ And I think if you read those terms in 
+
+conjunction with each other, they are all directed at 
+
+efforts to make the product available to the market.
+
+ Now, so if the person whose actually 
+
+distributing the film wants to try to market it as 
+
+actual child pornography, then I suppose that would come 
+
+within the ambit of the statute. But a movie reviewer 
+
+does not have anything to worry about in the first 
+
+instance because I don't think that would come within 
+
+the term --
+
+JUSTICE KENNEDY: Suppose the distributor 
+
+attaches the movie review. It's in amazon.com, and then 
+
+4
+
+Alderson Reporting Company 
+
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+it has the movie review.
+
+ GENERAL CLEMENT: Again, Justice Kennedy, it 
+
+might be conceptually possible for somebody to market, 
+
+let's say a mainstream movie, on the basis of a --
+
+either their own statement or an attached review, that 
+
+misrepresents the nature of the movie and makes a claim 
+
+for the movie, that it's actual child pornography. I 
+
+suppose in that unusual circumstance, it would be 
+
+covered. But I guess it would be equally possible for 
+
+somebody to take one of the countless mainstream movies 
+
+that portrays a murder on screen, and say this is 
+
+actually a snuff film. There's actually -- this was a 
+
+snuff film. This was an actual murder. Now, somebody 
+
+who did that would be clearly misrepresenting the film. 
+
+I don't think they would turn around if somebody tried 
+
+to do something about that false or misleading speech 
+
+and be able to defend on that speech because it would be 
+
+clearly false and misleading speech.
+
+ And I think what is important here is if the 
+
+underlying movie is not child pornography, then truthful 
+
+efforts to promote that movie won't be captured.
+
+ JUSTICE STEVENS: Supposing the underlying 
+
+movie is a depiction of atrocities being committed in 
+
+some foreign country, in a war zone or something, by 
+
+soldiers who rape young kids. And so it comes within 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the literal terms of the statute. And if one said I'd 
+
+like to take a look at this movie, wouldn't that be 
+
+covered by the statute?
+
+ GENERAL CLEMENT: If the movie itself comes 
+
+within the --
+
+JUSTICE STEVENS: The movie itself would be 
+
+pictures of soldiers raping young kids.
+
+ GENERAL CLEMENT: And if it were done in a 
+
+sufficiently graphic way, that it was captured --
+
+JUSTICE STEVENS: If the news -- I'm 
+
+thinking of the news reel -- somebody makes as exhibit 
+
+at a war crimes trial, or something like that -- sees 
+
+this actually happening. Now, as I understand the 
+
+language of the statute, if the person who had that film 
+
+described it to someone he wanted to send it to, he 
+
+would violate the statute.
+
+ GENERAL CLEMENT: Well, Justice Stevens, 
+
+there's -- I guess there's an anterior problem, which is 
+
+if the depiction were sufficiently graphic --
+
+JUSTICE STEVENS: They are.
+
+ GENERAL CLEMENT: The person that would have 
+
+that film would be in possession of child pornography, 
+
+which itself would be a problem under the statute. He's 
+
+in the possession of it.
+
+ JUSTICE STEVENS: Depiction of a war crime 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+taking place? He saw that on camera -- that would be a 
+
+crime?
+
+ GENERAL CLEMENT: And that might be an 
+
+example where, starting with the basic prohibition on 
+
+the possession of child pornography, that might be a 
+
+situation where there was a valid as-applied challenge. 
+
+And that also might be a situation where there would be 
+
+a valid as-applied challenge to the pandering and 
+
+solicitation provision. But I think the proper way to 
+
+analyze that is to ask first whether or not something is 
+
+covered by the basic prohibition.
+
+ JUSTICE STEVENS: You do agree I guess that 
+
+there are some -- there would be some valid as-applied 
+
+challenges to this statute.
+
+ GENERAL CLEMENT: I agree, and I think in 
+
+theory, at least, there may be valid as-applied 
+
+challenges to the underlying prohibition. And this 
+
+Court of course in Ferber recognized that possibility in 
+
+upholding the basic prohibition on the promotion of 
+
+child pornography in that context.
+
+ JUSTICE GINSBURG: But Ferber confined the 
+
+meaning of child pornography to, I think, the greater 
+
+extent than this statute does. It talks about artistic 
+
+value, but this -- there were several examples given in 
+
+the briefs. One was this film depicts 12 year old child 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+having sexual relations with an old man. Now that 
+
+statement could be perceived as this film shows child 
+
+pornography.
+
+ Just that statement. But it's a truthful 
+
+statement about Lolita, is it not?
+
+ GENERAL CLEMENT: It is, Justice Ginsburg 
+
+but I think in context that would not be something that 
+
+comes within the ambit of the statute. And again, if 
+
+you start with the proposition that --
+
+JUSTICE GINSBURG: Why not? If you say --
+
+if you say, 12 year old child -- this film shows a 12 
+
+year old child, and it doesn't tell you that the person 
+
+who's playing a 12 year old is a young adult?
+
+ GENERAL CLEMENT: I understand that, Justice 
+
+Ginsburg. What I would say is this statute in order to 
+
+apply, at least the way we interpret it, requires both 
+
+an objective and a subjective component. And so you 
+
+would have to have a situation where that promotion of 
+
+the movie objectively would lead somebody to believe 
+
+that you're marketing in a manner that portrays it as 
+
+actual child pornography. Now I think what you've just 
+
+said right there would probably fail at the objective 
+
+test because I think particularly when you start talking 
+
+about it being a motion picture and the like, the 
+
+natural assumption -- let's say it's a mainstream motion 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22 --
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+picture, is going to be oh, that's just actors, it's 
+
+probably adult actors, or a body double or something. I 
+
+don't think that comes within the statute.
+
+ The other thing that's required, of course, 
+
+is a subjective component -- specific intent is the way 
+
+that we would read the statute. And clearly the person 
+
+who's marketing Lolita itself and wants people to go see 
+
+it in a mainstream box office does not have the intent 
+
+to convey to people that this is actual, forbidden child 
+
+pornography.
+
+ JUSTICE SOUTER: Well what if an individual 
+
+received actual child pornography in the mail that had 
+
+not been solicited. And he calls the chief of police in 
+
+town and says I just opened my mail, and this envelope 
+
+is full of child porn. And he's right. I mean, there 
+
+are no body doubles. This is the real thing in here.
+
+ He has presented child pornography to that 
+
+chief of police and he's violated the statute, hasn't 
+
+he?
+
+ GENERAL CLEMENT: Justice Souter, I would 
+
+say that the better answer is no, that he has not. Now 
+
+JUSTICE SOUTER: You say no, but you say no 
+
+because we won't enforce it that way. But the -- but 
+
+the objective component and the subjective component in 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+my example are both satisfied.
+
+ GENERAL CLEMENT: Justice Souter, I would 
+
+say no for a more fundamental reason, which is I think 
+
+you have to read two provisions of the statute here in 
+
+pari materia. And the other provision I think that is 
+
+relevant is the affirmative defense that's in subsection 
+
+(d) of the statute, which is at 6a of the appendix to 
+
+our opening gray brief. And that provides an 
+
+affirmative defense in the situation where somebody is 
+
+in possession of child pornography.
+
+ Now, the first problem the person who gets 
+
+child pornography in the mail has is that the statute --
+
+the bans of possession would apply. Now, there's an 
+
+affirmative defense. The affirmative defense is 
+
+specific to possession, but one of the things that's a 
+
+prerequisite to qualify for the affirmative defense, 
+
+which is in (d)(2)(B) is that you have to afford that 
+
+material -- you have to afford the agency, the law 
+
+enforcement agency, access to the material. Now --
+
+JUSTICE SOUTER: That's -- that's fine, but 
+
+before you get to that point, you have -- there's still 
+
+an indictable offense. You don't prevent -- you don't 
+
+present affirmative defenses until you're already 
+
+indicted.
+
+ GENERAL CLEMENT: You're right, Justice 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Souter, but that is a problem both for the prohibition 
+
+on possession and it is not a unique problem for the 
+
+pandering solicitation provision. And I don't think the 
+
+fact that you might have to if -- in that situation, you 
+
+might have to actually present your affirmative defense 
+
+in some case is a reason to strike a ban on possession 
+
+as overbroad. But the --
+
+JUSTICE SOUTER: But the ban on possession 
+
+is not the real problem because, under a normal 
+
+possession statute, you would indeed have a problem not 
+
+merely in terms of -- that could be raised not merely by 
+
+affirmative defense but as an element of the statute. 
+
+If the possession is merely a matter of happenstance, 
+
+there's an intent problem and presumably there's no --
+
+there's no offense. There's no knowing offense in 
+
+acquiring material for the possession.
+
+ But in the pandering statute, what we've got 
+
+here is there is -- as you put it earlier, there is an 
+
+understanding which happens to be correct, objectively 
+
+correct, that there is child porn, and there is a very 
+
+clear intent to convey that message by way of presenting 
+
+this material to a third party, in this case the police. 
+
+So I think this is not merely comparable to the problem 
+
+of haphazard possession.
+
+ GENERAL CLEMENT: Well, Justice Souter, let 
+
+11 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+me try two responses. One is I do think you have a 
+
+problem even in possession because once you get it in 
+
+the mail, your possession of it is knowing. And that is 
+
+precisely why Congress included this affirmative defense 
+
+in the statute. The second thing I would say though is 
+
+again, we have to read these statutes in pari materia, 
+
+and if one of the ways you qualify for the affirmative 
+
+defense is you afford access to law enforcement agency 
+
+of the material, I don't think that which is a 
+
+prerequisite for qualifying for the affirmative defense 
+
+can be independently prohibited --
+
+JUSTICE SCALIA: What if --
+
+GENERAL CLEMENT: -- by the statute.
+
+ JUSTICE SCALIA: What if you call up your 
+
+neighbor and say God, I got this disgusting child porn 
+
+in the mail?
+
+ GENERAL CLEMENT: Well -- and, again, I 
+
+think if you did no more than that, I don't know that 
+
+you would necessarily be covered by the statute, but if 
+
+you said I got this disgusting child pornography in the 
+
+mail, it's clearly unlawful, here take a look, I mean I 
+
+suppose that is covered by the statute. But that 
+
+doesn't seem like a natural reaction.
+
+ JUSTICE BREYER: Indeed, it is covered by 
+
+the statute because I read your brief as saying that the 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+statute applies only in instances where either you're 
+
+trying to sell it or trade it. That is what you're 
+
+trying -- now it seems to me a different matter if it's 
+
+covering only -- covering as well instances where 
+
+somebody's simply showing it to someone else to show him 
+
+what he got in the mail. Well, I'd appreciate clarity 
+
+on that.
+
+ GENERAL CLEMENT: Justice Breyer, I think 
+
+that we would take the position that even if you are 
+
+presenting the material, making it available, but you're 
+
+not charging for it, you're not exchanging it, you're 
+
+just offering it for free, here's a quick free look, 
+
+it's still covered by the statute.
+
+ JUSTICE BREYER: If that's covered by the 
+
+statute, what you're going to do then is suddenly 
+
+criminalize what could be an awful lot of activity that 
+
+goes on in schools all over the place and somebody 
+
+has -- they think it's funny, and maybe it isn't funny, 
+
+but they think it is and it's kind of school-boy 
+
+behavior, and they're showing this stuff around, not 
+
+totally certain what it is. Suddenly that can become a 
+
+Federal crime. Seems like quite an extension. And I 
+
+thought you'd written your way out of that problem, and 
+
+now I think you haven't.
+
+ GENERAL CLEMENT: Well, Justice Breyer, I 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+mean, you know, I think you could certainly interpret 
+
+the statute to write around that problem if you wanted 
+
+to, but I do think the most natural reading of the terms 
+
+"promotes, distributes, presents, and advertises" is to 
+
+capture not just somebody who is making that available 
+
+to the market for sale or for barter, but also somebody 
+
+who says look, I have child pornography, I want to get 
+
+you interested in this, this is the real stuff, here 
+
+take a look.
+
+ CHIEF JUSTICE ROBERTS: Well, that's a very 
+
+different thing. I read your brief the same way Justice 
+
+Breyer did and particularly footnote 4 of the reply 
+
+brief, which I understood to be giving "presents," for 
+
+example in this statute, a promotional meaning in light 
+
+of the other words around it, "advertises, promotes" and 
+
+simply telling your -- you know, your neighbor, I got 
+
+this, what should I do about it, isn't promotional. It 
+
+may be in a technical term "presents," but it's not 
+
+promotional.
+
+ And, again, I understood your brief to 
+
+suggest that you have to interpret all of those words in 
+
+an advertising, soliciting sense.
+
+ GENERAL CLEMENT: Well, Mr. Chief Justice, 
+
+here -- I mean I think my first cut at drawing the line 
+
+would to be say it's not a problem to say, can you 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+believe what I got in the mail, and talk to your 
+
+neighbor about it, describe it.
+
+ On the other hand, I do think you're 
+
+presenting the materials if you say, I got this in the 
+
+mail, look at this, isn't this disgusting, this is 
+
+clearly child pornography.
+
+ JUSTICE BREYER: All right. Then take it as 
+
+that.
+
+ GENERAL CLEMENT: If you think though --
+
+JUSTICE BREYER: Take it as that. I would 
+
+say looking and presenting to schoolmates dirty pictures 
+
+is a fairly common adolescent and post-adolescent 
+
+activity. And I would suspect a very high-level 
+
+percentage of that class of people don't examine too 
+
+carefully what the age of the individuals depicted is, 
+
+and many might misrepresent what that age is. So this 
+
+sounds like a statute that has enormous reach, whereas 
+
+previously I thought it hadn't.
+
+ GENERAL CLEMENT: Well, Justice Breyer, if 
+
+you think that's the difference between expanding this 
+
+statute in some enormous way and not, then I would 
+
+invite you to have a more restrictive view of 
+
+"presents." And we certainly want you to interpret the 
+
+statute in a way that renders it not overbroad. And, of 
+
+course, this Court has made clear on a number of 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+occasions that, before you get to the overbreadth 
+
+analysis, you are applying the early constructions to 
+
+make sure that the statute if possible --
+
+JUSTICE GINSBURG: But --
+
+GENERAL CLEMENT: -- is construed to be 
+
+constitutional. But if I could just -- I'm sorry.
+
+ JUSTICE GINSBURG: I just wanted to clarify 
+
+the footnote to which the Chief referred, that footnote 
+
+4 in your reply brief.  It says, to the contrary, the 
+
+government's brief expressly acknowledges that the 
+
+statute's proscription encompasses noncommercial speech.
+
+ So I think Justice Breyer's suggestion that 
+
+you said in your brief, that the statute is limited to 
+
+commercial speech, is something that you -- say, no, 
+
+that's not so; we say it encompasses noncommercial 
+
+speech.
+
+ GENERAL CLEMENT: Well, Justice Ginsburg, I 
+
+think there may be a distinction to be drawn. We 
+
+certainly don't think that it's limited to commercial 
+
+speech if by "commercial speech" you mean only efforts 
+
+to buy or sell or even only efforts to barter. Because 
+
+we think that somebody who sort of systematically is 
+
+operating a web site where they are giving away child 
+
+pornography and advertising it as such would be clearly 
+
+covered by the statute. 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+So, to the extent that the distinction 
+
+between commercial and noncommercial is at the line 
+
+where you would say you're giving it away gratis, we 
+
+think that's still covered. Now, I gather that maybe 
+
+Justice Breyer had a different conception in mind, that 
+
+you really have the --
+
+CHIEF JUSTICE ROBERTS: My understanding was 
+
+not that it was limited to commercial speech. That was 
+
+clear from the footnote that I cited. But that 
+
+"presents" was limited to promotional activity. It's 
+
+one thing to present and say either whether to law 
+
+enforcement or your neighbor; it's another thing to 
+
+promote the child pornography. And I thought your brief 
+
+was adopting a limited construction of words like 
+
+"presents" that would cover only promotional activity.
+
+ GENERAL CLEMENT: Well, in fairness, 
+
+Mr. Chief Justice, I think we had a slightly broader 
+
+conception of "presents." What we were thinking that 
+
+"presents" means is really when you are not just sort 
+
+of -- you know -- in some abstract way talking about 
+
+presenting the material, but you're actually furnishing 
+
+the material to somebody else.
+
+ JUSTICE ALITO: Well, General Clement, is 
+
+there --
+
+GENERAL CLEMENT: And --
+
+17
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE ALITO: Is there anything to suggest 
+
+that some of these hypotheticals, where people get child 
+
+pornography unsolicited in the mail or that kids at 
+
+school are showing each other not just dirty pictures 
+
+but actual child pornography, are situations that occur 
+
+with any frequency in the real world?
+
+ GENERAL CLEMENT: Not at all, Justice Alito, 
+
+and I think that's an important point with respect to 
+
+Justice Breyer's hypothetical. I mean you have to 
+
+remember that the materials that we're talking about 
+
+here are in the main materials that are unlawful even to 
+
+possess. And it is also true that the -- in the wake of 
+
+Ferber, a pretty good job was done of getting these 
+
+materials out of the real world. So the kind of 
+
+pictures that are --
+
+CHIEF JUSTICE ROBERTS: I'm sorry. I 
+
+lost -- in your answer, I lost a negative or something. 
+
+Are you saying that this type of activity frequently 
+
+occurs or infrequently occurs?
+
+ GENERAL CLEMENT: Infrequently occurs --
+
+especially in the real world, which is to say when 
+
+pictures or magazines are being handed around from 
+
+adolescent to adolescent, there is really no reason in 
+
+the world to suspect that what's being handed from 
+
+adolescent to adolescent is child pornography as opposed 
+
+18
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to adult pornography -- Playboy and that sort of thing.
+
+ Because the truth of the matter is in the 
+
+wake of Ferber, a pretty good job has been done in 
+
+stamping out child pornography in the real world. It 
+
+has moved, unfortunately, on to the Internet. And, in 
+
+that context, when people are promoting it as actual 
+
+child pornography or soliciting it as actual child 
+
+pornography --
+
+JUSTICE STEVENS: The universe of child 
+
+pornography includes activities of 17-year olds.
+
+ GENERAL CLEMENT: It does, Justice Stevens, 
+
+but so, too, for the basic prohibition. And I think 
+
+what's important here is there may be some definitional, 
+
+you know, questions. Or you may have a view that there 
+
+are applications of the statute that would be 
+
+unconstitutional.
+
+ But what's important, I think, is that this 
+
+pandering and solicitation provision doesn't add some 
+
+new definition, some more aggressive definition. It 
+
+simply picks up the notion of the basic definition of 
+
+child pornography, and it says that if you're taking 
+
+materials and you are offering them to the market as 
+
+actual child pornography, if you are soliciting actual 
+
+child pornography, then the government can go after the 
+
+direct acts of solicitation and offering and -- and --
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+prosecute those acts without --
+
+JUSTICE GINSBURG: Even though -- even 
+
+though what you are, in fact, showing or presenting does 
+
+not fit the definition? Even if what you're showing --
+
+you say, have I got some hot child porn and here it is, 
+
+and the "it" is -- is -- an adult pretending to be a 
+
+child, or a virtual image.
+
+ So the -- the problem is not an accurate 
+
+representation that this is hardcore porn, and it is, 
+
+but saying, have I got the real stuff, but what you 
+
+present is not at all the real stuff.
+
+ GENERAL CLEMENT: That's right, Justice 
+
+Ginsburg. If the scienter requirements are satisfied 
+
+and I'm consciously trying to get you to believe that 
+
+even though I have something that for some technical 
+
+reason is not the real thing, what I'm offering you is 
+
+the real thing, the statute does target that. But that 
+
+seems to me to not be a First Amendment problem.
+
+ It seems to be a natural consequence of 
+
+Congress taking the Court's advice in Free Speech 
+
+Coalition and moving from a prohibition on materials 
+
+that had been pandered to the actual acts of pandering 
+
+and solicitation themselves.
+
+ JUSTICE KENNEDY: And is that your answer to 
+
+the -- all of the hypotheticals that are put forth in 
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the Coalition for Free Speech, the Catholic Bishops, the 
+
+advertisement in amazon.com or Netflix, then?
+
+ GENERAL CLEMENT: Well, Justice Kennedy, we 
+
+think that all those hypotheticals are taken out with 
+
+more than one reason. I mean, I think from the Catholic 
+
+Bishops --
+
+JUSTICE KENNEDY: Let's -- pardon me.
+
+ GENERAL CLEMENT: Sure.
+
+ JUSTICE KENNEDY: Let's assume for the 
+
+moment that there are minors, so that the content aspect 
+
+of it is film.
+
+ GENERAL CLEMENT: Oh --
+
+JUSTICE KENNEDY: That there are real minors 
+
+in some of these things.
+
+ GENERAL CLEMENT: But are there real minors 
+
+engaging in forbidden activity?
+
+ JUSTICE KENNEDY: Yes.
+
+ GENERAL CLEMENT: Actual child pornography?
+
+ JUSTICE KENNEDY: Yes.
+
+ GENERAL CLEMENT: Well, if the underlying 
+
+material is actually child pornography, then you may be 
+
+in a different situation. All of the hypotheticals in 
+
+that brief were with materials -- the underlying 
+
+materials were not child pornography.
+
+ And I think that's an important distinction, 
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+because if you're taking a movie like "Traffic" or 
+
+"American Beauty," which is not child pornography --
+
+JUSTICE KENNEDY: Right.
+
+ GENERAL CLEMENT: -- and you're simply 
+
+truthfully promoting it, you have nothing to worry about 
+
+with this statute.
+
+ Now, if you took something -- I also think 
+
+that the Catholic Bishop situation isn't covered, 
+
+because that is not promoting, presenting and 
+
+distributing --
+
+JUSTICE KENNEDY: If one had a hand held 
+
+video at a school or something like that?
+
+ GENERAL CLEMENT: Well, I mean, again -- I 
+
+mean, if you had a hand held video and the video itself 
+
+was child pornography, and then you got that on the 
+
+Internet or otherwise and decided you wanted to promote 
+
+that, I mean would be covered by the statute. But --
+
+JUSTICE KENNEDY: There are two things that 
+
+you -- that all of us have to work with here. One is 
+
+the scienter component here. Is that overly broad, 
+
+vague, and so forth? The other is the content.
+
+ And my concern is the same as that indicated 
+
+by Justice Stevens at the outset. There are some 
+
+terrible practices in the child-trafficking area where 
+
+children are held in brothels for the most debased of 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+acts. There are abuses in prisons, abuses in schools.
+
+ If there are videotapes showing those 
+
+things, it seems to me that the statute is -- that 
+
+they're clearly covered by the statute, and maybe even a 
+
+killing of a little girl in public might be sadistic. 
+
+Assume that that's covered by the statute.
+
+ Is there anything in the "presents" and the 
+
+"promotes" language in the scienter component of the 
+
+statute that gives some protection to these materials? 
+
+Is it just as-applied? Is that what we have to do?
+
+ GENERAL CLEMENT: Here is how I would try to 
+
+analyze it, Justice Kennedy, which is I would say that 
+
+there would be an as- applied challenge there because 
+
+the basic prohibition on child pornography that would 
+
+apply to the underlying materials, there would be an 
+
+as-applied exception to that. And therefore, the 
+
+pandering and the solicitation of that would be equally 
+
+outside the constitutional --
+
+JUSTICE KENNEDY: So we want the public to 
+
+see this to show them how bad it is, and that is 
+
+permitted under the statute, because it is not 
+
+"presenting"?
+
+ GENERAL CLEMENT: I mean there would be 
+
+another way to try to get at that.
+
+ JUSTICE KENNEDY: I agree with you that we 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+have different motives.
+
+ GENERAL CLEMENT: Right.
+
+ JUSTICE KENNEDY: But I'm not sure that the 
+
+statute covers that.
+
+ GENERAL CLEMENT: Well, there might be a way 
+
+in which the statute could cover it, and it would be, as 
+
+follows, which basically is if I'm going to portray that 
+
+as material that is -- and I'm going to portray it only 
+
+in a way that makes it clear that I have a valid 
+
+as-applied challenge, then I'm not sure I would be 
+
+satisfying the objective and the subjective scienter 
+
+requirements for that statute. Because it would be 
+
+clear that, although I was presenting it as visual 
+
+depictions of children who had that happen to them, I 
+
+was presenting it exclusively for its scientific, 
+
+artistic, literary value. And, therefore, in a sense, I 
+
+was building my as-applied challenge into the way I was 
+
+marketing it. I think you could --
+
+JUSTICE SCALIA: Of course, you have a 
+
+problem not just with the presenting, not just with the 
+
+pandering of it. You have a problem with the mere 
+
+possession of it. You have to find some exception for 
+
+that anyway. You have to find some as- applied 
+
+challenge exception for the mere possession of it, even 
+
+if you don't pander it. 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+GENERAL CLEMENT: Well, Justice Scalia, 
+
+that's exactly right. And that's why I would think the 
+
+logical way to proceed would be you would find an 
+
+as-applied exception to the basic prohibition. And 
+
+then, naturally, that would apply to the pandering 
+
+provision.
+
+ I was only sort of suggesting, if pressed, 
+
+that in some ways it might actually be easier to find a 
+
+way to get that outside the statute with respect to the 
+
+pandering and solicitation provision than for the 
+
+possession for this.
+
+ JUSTICE SOUTER: But how would you do it in 
+
+the case -- you mentioned that if there is not actual 
+
+child porn shown, and there is a truthful or honest 
+
+statement about it, that there is nothing to worry 
+
+about.
+
+ But what about the movie reviewer who is 
+
+reviewing the latest re-release or something of the 
+
+"Lolita" film and says this depicts sexual activity with 
+
+a minor?
+
+ That statement is true. It would be taken 
+
+by some naive people as saying boy, this is what it 
+
+shows, the real thing. That is a truthful statement. 
+
+And yet, it would still fall within the prohibition of 
+
+the statute. 
+
+25
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+As I understand your position, the only way 
+
+that statement would be truthful in a way that would 
+
+excuse would be if the reviewer said this depicts sexual 
+
+activity with a minor, but of course the actor wasn't 
+
+really a minor. Isn't that correct?
+
+ GENERAL CLEMENT: No, that is not correct, 
+
+Justice Souter. And I would say that that hypothetical 
+
+is outside the ambit of the statute for two reasons.
+
+ First of all, I don't think that the movie 
+
+reviewer is promoting or presenting the underlying 
+
+materials. They would be out for that reason.
+
+ I also think they would be out because, when 
+
+you started applying the objective and the subjective 
+
+requirements of the statute, you would not find either 
+
+of them satisfied with respect to that.
+
+ If I know you're talking about a mainstream 
+
+movie, and you say it depicts sex with a minor, I'm not 
+
+going to naturally think that comes within the ambit of 
+
+the statute, that it is actual child pornography within 
+
+the meaning of the statute.
+
+ JUSTICE SOUTER: What if you are 17 years 
+
+old and you haven't gone to law school and you haven't 
+
+read these cases? You may very well assume that.
+
+ GENERAL CLEMENT: With respect, Justice 
+
+Souter, that's why I think it is important to have both 
+
+26
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13 --
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+an objective and a subjective requirement. And I think 
+
+the objective requirement alone would take that out.
+
+ If I could reserve the remainder of --
+
+JUSTICE SCALIA: Do we use a seven year old 
+
+for the objective requirement?
+
+ GENERAL CLEMENT: No, I wouldn't think so.
+
+ JUSTICE SCALIA: We would use a --
+
+GENERAL CLEMENT: I think we would use a 
+
+reasonable person. That's why --
+
+JUSTICE SCALIA: -- reasonable adult, I had 
+
+thought.
+
+ GENERAL CLEMENT: Exactly, and that's why I 
+
+JUSTICE SOUTER: Wouldn't we use -- wouldn't 
+
+we use a reasonable personal of the sort who goes to 
+
+movies?
+
+ GENERAL CLEMENT: That would be fine, 
+
+Justice Souter, and if --
+
+JUSTICE SOUTER: I would suppose my 17 year 
+
+old, non- law-school graduate would be within the ambit 
+
+of the reasonable class.
+
+ GENERAL CLEMENT: And I would submit that 
+
+even a 17 year old, non-law student would know that 
+
+movies depict things that don't actually happen. When 
+
+they see a murder on screen, that's not actually a 
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+murder. And so I think they would understand that 
+
+that's a movie. It's not child pornography.
+
+ If I may reserve the remainder of my time.
+
+ JUSTICE GINSBURG: You could -- just one 
+
+question. You mentioned a film, "Traffic," which I did 
+
+not see, but one of the briefs said there was an actual 
+
+17 year old playing that part.
+
+ But you said that wouldn't be -- that 
+
+wouldn't fit.
+
+ GENERAL CLEMENT: "Traffic" is not child 
+
+pornography. I understand that the actress was 17 at 
+
+the time of the film, but we don't think that comes 
+
+within the ambit of the basic prohibition on child 
+
+pornography, because we think that simulated sexual 
+
+activity has to be interpreted with enough subtlety that 
+
+it doesn't capture that. And that's the position --
+
+JUSTICE GINSBURG: But the statute says 
+
+simulated.
+
+ GENERAL CLEMENT: It does. But so does the 
+
+statute in Ferber. And we don't think that introduced 
+
+any overbreadth or vagueness that was fatal. This 
+
+statute here just picks up on that definition. It 
+
+doesn't add to it.
+
+ If I may reserve --
+
+CHIEF JUSTICE ROBERTS: Thank you, 
+
+28 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Mr. Clement.
+
+ Mr. Diaz.
+
+ ORAL ARGUMENT OF RICHARD J. DIAZ
+
+ ON BEHALF OF RESPONDENT
+
+ MR. DIAZ: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ The pandering provision of the PROTECT Act 
+
+carries a 5-year mandatory minimum prison term and a 
+
+possible 20-year prison term, has no affirmative defense 
+
+provision. It is unconstitutionally vague and 
+
+overbroad, because on its face it captures protected 
+
+speech about materials. And it captures speech about 
+
+materials that may not even in fact exist.
+
+ The language "in a manner that reflects the 
+
+belief, or that is intended to cause another to 
+
+believe," does not sufficiently define prohibited 
+
+conduct giving law enforcement unfettered discretion to 
+
+subjectively enforce the statute.
+
+ In essence, as the Eleventh Circuit held, 
+
+the determination does not rest on what materials 
+
+contain, but rather on how someone conveys his or her 
+
+impression about what the materials convey. In other 
+
+words, this statute, in short, punishes thought, 
+
+beliefs, expressions, and opinions.
+
+ CHIEF JUSTICE ROBERTS: Well, there's a 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+difference, isn't there, between beliefs and thoughts 
+
+about -- what, the legality of a particular type of 
+
+pornography or something like that, and a factual 
+
+matter? I thought this was child pornography? Saying 
+
+this regulates thoughts and beliefs, those are two quite 
+
+different questions, aren't they?
+
+ MR. DIAZ: Yes, it is, Mr. Chief Justice. 
+
+And one of the problems with the statute, and just 
+
+another example of what we've been talking about here --
+
+amazon.com and Netflix -- there's also, for example, a 
+
+series of photography that we've seen nationwide by 
+
+famous photographers of minors or children, 
+
+photographers of child modeling agencies --
+
+JUSTICE BREYER: But none of those -- I 
+
+mean, we've gone through this with the Solicitor 
+
+General. He went through every example in his brief 
+
+that you've been able to produce, and he said they 
+
+aren't caught by the statute. What's wrong with what he 
+
+said? Why isn't that so?
+
+ MR. DIAZ: If --
+
+JUSTICE BREYER: Photographers, for example. 
+
+That's not child pornography. And if it was, they would 
+
+have to act -- if it is child pornography under Ferber, 
+
+it isn't protected. If it isn't child pornography under 
+
+Ferber, well, then there's no problem. Okay. That's 
+
+30 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+their view of the photographers. And the same with 
+
+Amazon, the same with Netflix.
+
+ MR. DIAZ: Correct. The problem is if I 
+
+were to take anything such as the CNN video of an actual 
+
+sexually explicit conduct involving a minor, or if I 
+
+were to take any of these films, if I were to start an 
+
+Internet blog and say, look, this film contains sexual 
+
+conduct of a minor, and I think we should do something 
+
+about this, I think we should form a coalition or I 
+
+think we should boycott it. And I am conveying the 
+
+belief. I am intending to make you believe that what 
+
+those materials contain, albeit what they really have or 
+
+what they really are, is illegal.
+
+ JUSTICE BREYER: Problem with Ferber, you 
+
+said. Same problem.
+
+ MR. DIAZ: Yes, sir.
+
+ JUSTICE BREYER: So what's your response to 
+
+what he said? It is the -- with possession. You 
+
+possess these materials. What you are trying to do is 
+
+take them to the police and stop them. Under Ferber, is 
+
+that protected or not? If it is protected, as I think 
+
+it would be, so is it here.
+
+ MR. DIAZ: I do not think it would be 
+
+protected.
+
+ JUSTICE BREYER: Then under Ferber he's 
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+going to go right to jail because he has them. I would 
+
+think it would be protected. I can't imagine somebody 
+
+who collects, on these sites where they are molesting 
+
+children, material to prevent children being molested 
+
+and presents it to the proper authority is going to be 
+
+prosecuted under the New York statute in Ferber.
+
+ MR. DIAZ: If the material substantively 
+
+violates the statute, then the mere possession of them 
+
+is illegal. And there is a defense under the possession 
+
+part of the statute for presenting them to the police 
+
+within a certain amount of time and within a certain 
+
+manner of your conduct.
+
+ What we're talking about here is not the 
+
+possession of the materials. We're talking about the 
+
+expression about what the materials contain. Even if 
+
+you're wrong about it, even if you're mistaken, even if 
+
+you're lying about it, even if you're bragging about it, 
+
+the traditional prankster, as Senator Leahy said in the 
+
+congressional report, one of the things we're concerned 
+
+about with the statute is that it could capture people 
+
+who are expressing salacious thoughts.
+
+ JUSTICE SCALIA: Or just good honest liars, 
+
+right? I had thought that the purpose of the First 
+
+Amendment was to protect speech that had some value, and 
+
+that the reason obscenity is excluded entirely from 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+First Amendment protection is that it has no redeeming 
+
+social value.
+
+ What social value do you find in being able 
+
+to lie about the content of what you're offering to 
+
+somebody else? You say somehow if you're lying about 
+
+it, oh, well, then the First Amendment protects that. I 
+
+would think if you're lying about it, it is clearer than 
+
+ever the First Amendment doesn't protect it. There is 
+
+no social value in protecting lies.
+
+ MR. DIAZ: One of the problems with the 
+
+issue of social value and lying is that we don't put 
+
+people in jail for 5 mandatory minimum years or 20 years 
+
+in prison for simply lying. We simply don't do that. I 
+
+agree with Your Honor --
+
+JUSTICE SCALIA: But it depends on what 
+
+they're lying about. If they're lying about the value 
+
+of what they're selling, you know, it's fraud.
+
+ MR. DIAZ: And I agree with Your Honor --
+
+Justice Scalia, that we have a slew of State statutes 
+
+particularly in the area of consumer fraud. If I 
+
+pretend to have something that's illegal and offer it to 
+
+you or promote it to you or advertise it to you, and I 
+
+have nothing, then that person can and should be 
+
+punished, but not for -- not under this statute.
+
+ JUSTICE SCALIA: Tell me what social value 
+
+33 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+are we protecting here, by protecting the lie about 
+
+whether this thing that really isn't child pornography 
+
+is? What -- why would we want to protect that?
+
+ MR. DIAZ: We necessarily do not want to 
+
+protect that. But we don't punish it with a 5 to 
+
+20-year prison sentence.
+
+ JUSTICE SCALIA: Are you complaining about 
+
+the degree of the penalty?
+
+ MR. DIAZ: It is not just the degree of the 
+
+penalty. The statute doesn't just cover liars, Justice 
+
+Scalia. It also covers people who are mistaken. It 
+
+covers exaggeration. It covers puffing.
+
+ For example, if I have a legitimate clean 
+
+videotape that I want to duplicate, I may be violating 
+
+trademark or other patent laws or whatnot, but I want to 
+
+take this and I want to sell it in the marketplace over 
+
+the Internet. And I exaggerate by the words that I 
+
+choose to use in promoting that tape for commercial 
+
+purpose, for example, and I'm exaggerating.
+
+ That person if they market the materials in 
+
+a way that causes the potential buyers to believe that 
+
+what it has is illegal, even if I'm just puffing or 
+
+bragging, the car salesman in a car sales situation, we 
+
+don't like it --
+
+CHIEF JUSTICE ROBERTS: But that's an 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+entirely different thing to say that this car is a great 
+
+car and it turns out not to be a great car, and to say 
+
+what you have is either -- is not -- is child 
+
+pornography when, in fact, it's not. Those are two 
+
+different things.
+
+ MR. DIAZ: I think it could be very -- in 
+
+the real world I think it is very easy for a person to 
+
+puff about what materials contain that are lawful to 
+
+possess, such as Titanic, Lolita or American Beauty. 
+
+And all you would have to say is, put a trailer on it 
+
+and say that this is hot graphic teen sex, and you're 
+
+puffing about what it really is. We know -- you know it 
+
+really isn't.
+
+ CHIEF JUSTICE ROBERTS: The statute has an 
+
+objective component. To the objective observer, it must 
+
+reasonably cause them to believe that it's actually 
+
+child pornography. So that -- that would be -- that 
+
+would prevent sort of the vague puffery that you're 
+
+talking about from being covered while still covering 
+
+something that satisfies both the subjective and 
+
+objective test.
+
+ MR. DIAZ: Mr. Chief Justice, I think that 
+
+if a person listens to or hears somebody describe 
+
+Titanic, Lolita, American Beauty or any of the films of 
+
+the like as hot graphic teen sex, I think a reasonable 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+ordinary person could believe that what is being 
+
+portrayed is proscribed material, even if it doesn't 
+
+exist, or even if it exists and is protected under 
+
+Ferber.
+
+ JUSTICE SCALIA: You seem to think we are 
+
+punishing the lying. I don't read the statute as 
+
+punishing the lying.
+
+ MR. DIAZ: No, Justice Scalia.
+
+ JUSTICE SCALIA: You'd be punished even if 
+
+it were true. What is being punished is the pandering. 
+
+You are the one that's bringing in the lying example. 
+
+You say, my goodness, even if the pandering is a lie, 
+
+pandering is pandering. And I don't see why there is 
+
+some special protection against pandering when in 
+
+addition to pandering, you're lying.
+
+ Maybe you ought to get extra penalty.
+
+ (Laughter.)
+
+ JUSTICE SCALIA: But, in fact, the statute 
+
+does not provide extra penalty. It just provides a 
+
+penalty for pandering. And I don't know why it's a good 
+
+defense to that to say, oh, I was actually lying. I 
+
+mean --
+
+MR. DIAZ: I don't think -- I think the 
+
+statute covers people who brag, people who puff, people 
+
+who tell the truth, who --
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE GINSBURG: What about "present"? 
+
+The word "pandering" itself is not used in the statute. 
+
+It uses a lot of words, "promote" and "advertise" --
+
+well, maybe that's just redundant. I guess that would 
+
+be the government's position -- but "present," 
+
+"distribute" -- what else?
+
+ JUSTICE SCALIA: All of those verbs only 
+
+become pandering when they are attached to explicit 
+
+sexual material. When you promote explicit sex, you are 
+
+pandering. I mean, the word pandering does have a 
+
+sexual connotation. I -- I think -- I had thought it 
+
+was accepted that we have here a statute that's directed 
+
+against pandering.
+
+ MR. DIAZ: But the problem with the statute, 
+
+while it does capture pandering and illegal conduct, it 
+
+goes beyond that and captures a slew of innocent conduct 
+
+which we discussed this morning in the examples --
+
+JUSTICE ALITO: What would you say is the 
+
+best realistic example that you can provide to show that 
+
+this is overbroad?
+
+ MR. DIAZ: The best and realistic example 
+
+would be any person, not necessarily amazon.com or 
+
+Netflix, it could be a private citizen. It could be a 
+
+religious leader of a religious group, regardless of 
+
+what type of religion we're talking about. 
+
+37
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+It could be any of those people --
+
+JUSTICE ALITO: Doing -- doing what?
+
+ MR. DIAZ: Who look at the -- the Nan Goldin 
+
+pictures, who look at Lolita, Traffic and all of these 
+
+other movies and harbor a belief that it is obscene, 
+
+which is one of the two types of materials that's 
+
+proscribed.
+
+ JUSTICE BREYER: Suppose we did this? What 
+
+would you think about an opinion, and why, which says 
+
+the following? We take every one of those examples and 
+
+all the ones listed here and put them in appendix A, and 
+
+the opinion says this is the Solicitor General's 
+
+interpretation of the statute, as amended, say with the 
+
+word presentment, which comes out of promotion infer, 
+
+and we think under that interpretation of the statute, 
+
+none of these things, nor anything like them, could be 
+
+prosecuted.
+
+ And if so understood, we can find no 
+
+example, at least none not present in Ferber itself, 
+
+where this would be overbroad. Therefore, it is 
+
+constitutional. I'm not saying that is my view. I am 
+
+saying simply I want to know your opinion about what 
+
+would be wrong with such an opinion.
+
+ MR. DIAZ: My opinion, Justice Breyer, is 
+
+that could be done. We could put a dozen or two dozen 
+
+38
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+or three dozen, an exponential number of examples, that 
+
+would be excluded. Essentially we would be writing an 
+
+affirmative defense into the statute or an absolute 
+
+defense that would prohibit even the prosecution. The 
+
+concern that that raises for me, in answer to Your 
+
+Honor's question, is you're still going to have a 
+
+chilling on free speech. There are still going to be 
+
+people out there who are not covered by one of these 
+
+examples who we haven't thought of, and that person is 
+
+going to be afraid to express opinions.
+
+ JUSTICE KENNEDY: Well, I suppose if we were 
+
+going to do that it would be simpler and maybe prudent 
+
+for us to reexamine our overbreadth rule. Your client 
+
+here falls within none of these examples. He was 
+
+convicted of having what everyone recognizes as not only 
+
+child pornography but involving a very small child. And 
+
+he knew what it was. And he -- and he conveyed that 
+
+belief.
+
+ Given the fact that it would appear that 
+
+child pornography is a growing problem, a serious 
+
+problem on the Internet, maybe we should examine the 
+
+overbreadth rule and just say that your client cannot 
+
+make this challenge.
+
+ MR. DIAZ: The Court can certainly do that, 
+
+Justice Kennedy. Essentially, though, I think what the 
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Court would be doing would be taking the four areas of 
+
+speech that have been taken out of the First Amendment 
+
+protection, which is defamation, the fighting words 
+
+under Brandenburg, Miller, which is obscenity, and the 
+
+additional extension of Ferber. Now what we would be 
+
+doing is carving yet another area of speech out of the 
+
+First Amendment, and we're just going to continue 
+
+chipping it away and chipping it away.
+
+ CHIEF JUSTICE ROBERTS: No. I don't think 
+
+that is responsive to Justice Kennedy's point. You 
+
+wouldn't be carving it out of the First Amendment. You 
+
+would be saying we're going to treat this area like 
+
+other areas, which would say that whoever is challenging 
+
+it has to show that they're a problematic case.
+
+ In other words, your client is relying -- he 
+
+didn't produce Lolita. You're relying on the effect on 
+
+other people, and that is what our overbreadth doctrine 
+
+allows, if there's a substantial amount of speech that's 
+
+protected. And what I understood the question to 
+
+suggest is that we would wait basically for as-applied 
+
+challenges when Lolita is being prosecuted and we would 
+
+hear from them, but not in your case.
+
+ MR. DIAZ: That certainly could be done, 
+
+Mr. Chief Justice. Again, and as I suggested earlier, 
+
+the problem with that is that we're not talking about 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+anything less than a criminal statute, a criminal 
+
+statute that implicates the First Amendment, freedom and 
+
+thought which this Court since its very existence has 
+
+said we have to honor and respect, even if people are 
+
+thinking about nasty or dirty things.
+
+ That's what this country is based upon, and 
+
+the grave concern if we're going to do it on an 
+
+as-applied challenge, is people who might be afraid to 
+
+express their views about whether this is or is not 
+
+obscene. It's is the parent of a neighborhood group who 
+
+see a movie and wants to tell everybody about it and 
+
+say, look --
+
+JUSTICE ALITO: Here we have -- we have one 
+
+statute that covers advertising, promoting, presenting, 
+
+distributing, and soliciting. Suppose that all of those 
+
+activities were not lumped together in one statute, and 
+
+there was a separate provision for each, and suppose 
+
+that the Court were to conclude that there is a problem 
+
+with one of them. Let's say promotes or presents.
+
+ Would all of the others fall as well, under 
+
+the overbreadth doctrine, if they were set out in 
+
+separate statutory provisions?
+
+ MR. DIAZ: I believe that that would more 
+
+narrowly tailor the statute, but I don't believe, 
+
+Justice Alito, that it would solve the problem of 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+chilling speech.
+
+ JUSTICE SOUTER: No, but isn't the problem 
+
+the problem of your answer to Justice Breyer's 
+
+hypothetical. He said, you know, what if we have this 
+
+appendix and we list -- I forget what he said, three 
+
+dozen examples that the Solicitor General says wouldn't 
+
+be covered and that sounds fine to us. Your answer was 
+
+well, there would still be some examples not covered.
+
+ But isn't -- isn't the answer to that that 
+
+there would be some conceivable overbreadth, I suppose, 
+
+no matter what the appendix said? Somewhere out there 
+
+there would be an example not covered that would be the 
+
+basis for an as-applied challenge, but there wouldn't be 
+
+substantial overbreadth. And isn't that the case? That 
+
+if Justice Breyer's hypo were in fact the decision of 
+
+this case, there wouldn't be a fair argument that there 
+
+is any substantial overbreadth left to the statute, 
+
+isn't that so?
+
+ MR. DIAZ: That -- it could be, and that 
+
+would depend. I agree with Your Honor, Justice Souter, 
+
+that we have this world or this universe of overbroad 
+
+speech, and the appendix would shrink it and make it 
+
+narrower.
+
+ JUSTICE GINSBURG: And rewrite -- and 
+
+essentially rewriting the law, and that's my question 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+about this technique that Justice Breyer has proposed. 
+
+This Court is not generally in the business of writing 
+
+appendices that say well, the statute couldn't apply in 
+
+this situation, and it couldn't apply and as long as we 
+
+put those contours around it. Certainly the Court could 
+
+write an opinion that would inform Congress why this 
+
+particular statute as written is overbroad, and explain 
+
+what kind of statute wouldn't be overbroad.
+
+ But for the Court itself, I think that 
+
+that -- I don't know any instance in which we have 
+
+provided that kind of appendix that said things that are 
+
+like Traffic, they're okay, and things that are like 
+
+something else are not okay. I don't know.
+
+ MR. DIAZ: With respect, my initial response 
+
+to Justice Breyer's suggestion, if you will, was the 
+
+same as Your Honor, Justice Ginsburg. I don't know that 
+
+creating an appendix of examples is going to cure the 
+
+problem. I do concede that it would lessen the problem. 
+
+We would -- we would --
+
+JUSTICE SCALIA: Why would it lessen? I 
+
+assume whatever you put in an appendix, saying all these 
+
+other situations that are not before us are not covered. 
+
+Isn't that the most blatant dictum? But -- but -- and, 
+
+of course, we're not bound in later cases by our dicta. 
+
+But come to think of it, I guess the whole doctrine of 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+overbreadth rests upon dictum, doesn't it? It -- it 
+
+rests upon our determination in this case, which 
+
+involves somebody who undoubtedly was selling child 
+
+porn, and a horrible kind of child porn -- we say in 
+
+this case, oh, we can -- we can contemplate other cases, 
+
+where we would not hold the person guilty. That is all 
+
+dictum, too, isn't it?
+
+ So I guess the whole doctrine is -- is based 
+
+on dictum. So we may as well put it in all an appendix. 
+
+Let's put our dictum in an appendix. I agree.
+
+ MR. DIAZ: In answer to Your Honor's 
+
+question or comment --
+
+(Laughter.)
+
+ MR. DIAZ: -- the -- I agree that the issue 
+
+of overbreadth is something where we're looking at 
+
+boundaries. And that's really what I think the Court 
+
+does in a situation of overbreadth analysis. You look 
+
+at the boundaries. How much -- how far we've gone 
+
+outside of the boundaries of what is protected.
+
+ CHIEF JUSTICE ROBERTS: Well, but it's the 
+
+boundary between what is -- what should be protected in 
+
+relation to what's unprotected.
+
+ So what's the ratio between legitimate films 
+
+like Lolita and illegitimate child pornography? In 
+
+other words, is, in fact, the protected material 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+substantial in relation to the law's legitimate sweep?
+
+ MR. DIAZ: The problem is we don't have an 
+
+empirical answer, a mathematic answer to that question. 
+
+What we do know is that films like Lolita, American 
+
+Beauty, and whatnot, which if presented in a certain way 
+
+can bring people under the coverage of the statute, have 
+
+received acclaim around the world, I mean all sorts of 
+
+academy awards. They're seen time and time again. 
+
+They're seen on Netflix. They're seen on cable TV. To 
+
+this day, some of these movies have been around for 30 
+
+years.
+
+ JUSTICE BREYER: Of course, the point of the 
+
+-- the point of the appendix, which unfortunately has 
+
+the failing of many charming metaphors, is that it has 
+
+acquired a life of its own.
+
+ (Laughter.)
+
+ JUSTICE BREYER: It distracts from the 
+
+question. But it -- as I read the Solicitor General's 
+
+interpretation of the statute, and amended it, taking 
+
+the word "presentment" from its context in Ferber, where 
+
+it was part of the definition of promotion, I thought 
+
+that was the appendix. At least, that's my hypothetical 
+
+question. And so whether you like appendices or don't 
+
+like appendices, you could focus on why isn't it the 
+
+appendix I'm talking about? 
+
+45 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+He's filled it with qualifications using the 
+
+words "knowingly, reasonable," and a context that if it 
+
+is not purely commercial, as I understood, is at least 
+
+commercial plus a few things such as bartering.
+
+ That was really my question, and you've come 
+
+back to American Beauty and so forth, and if there's one 
+
+thing I think his definition keeps out of this 
+
+discussion, it is American Beauty and Traffic, because I 
+
+don't see under his interpretation how anyone could 
+
+conceivably be prosecuted even if he's talking to a 
+
+group who have never seen a movie. That isn't a 
+
+reasonable group of people. So what is your response to 
+
+what he said?
+
+ MR. DIAZ: My response, Justice Breyer, is 
+
+that if you take the word "present" and you give it the 
+
+meaning that it was given in Ferber, you make the 
+
+statute narrower. You make it -- bring it into more of 
+
+a constitutionally acceptable realm, but I respectfully 
+
+do not believe that it cures the entire problem, and my 
+
+basis for saying that the question of Justice Souter of 
+
+the Solicitor General. You know -- the concern is, when 
+
+you don't have lawyers who understand these 
+
+hypertechnical meanings that the Court is going to give 
+
+and the interpretations we're going to put on them --
+
+JUSTICE SOUTER: But isn't the answer to 
+
+46
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that you may still have some overbreadth left, but it's 
+
+not substantial? Most 17 year olds are, in fact, going 
+
+to realize that the real thing is not going on in, you 
+
+know, the Lolita movie. And if we accept that as a 
+
+factual proposition, which was the Solicitor General's 
+
+answer, and if we also accept, not by way of appendix 
+
+but way of rationale in the opinion, that these various 
+
+activities have got to be given an essentially 
+
+commercial or quasi-commercial character, so that they 
+
+don't pick up the conversations with the neighbor, then 
+
+that's simply a matter of statutory interpretation that 
+
+could be part of our rationale. If we accept the 
+
+factual proposition about what reasonable viewers are 
+
+likely to know, and we engage in that kind of 
+
+interpretation following the Solicitor General's view of 
+
+how this serial list of activities should be construed, 
+
+don't we eliminate the possibility -- wouldn't we 
+
+eliminate the possibility of substantial overbreadth? 
+
+Some things may get by. There may still be legitimate 
+
+applied challenges, but substantial overbreadth, would 
+
+that be left?
+
+ MR. DIAZ: I think it would, but concededly 
+
+to a lesser degree, because once you make it clear as to 
+
+what matters are not covered by the statute, it makes it 
+
+easier for people to conform their conduct and their 
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+words accordingly. The concern that I have is that it 
+
+still chills a -- it still chills free speech. If a 
+
+person looks at an appendix or looks at the rationale in 
+
+the Court's opinion in this case --
+
+JUSTICE SOUTER: It can, but can you give me 
+
+an example of a class of activities that would not be, 
+
+in effect, insulated from indictment by these two steps 
+
+in the opinion, that would be of substantial character?
+
+ MR. DIAZ: Certainly, and I go back to the 
+
+question of Justice Breyer which is adolescents, 17 year 
+
+olds, 18 year olds, who like to look at these types of 
+
+materials and one of them could simply say to another 
+
+over the Internet, you know, do you think we can get 
+
+some hardcore child porn? He's soliciting child porn 
+
+from another person, and that individual, that 17 year 
+
+old kid, who's fantasizing or experimenting with his own 
+
+sexuality, can go to jail for 5 to 20 years. And we see 
+
+that in everyday America, in high schools around the 
+
+country.
+
+ JUSTICE GINSBURG: Do we see them getting 
+
+prosecuted in any state?
+
+ MR. DIAZ: If he's soliciting materials 
+
+under sub (i) or sub (ii) of the statute, of the 
+
+pandering provision of the statute, yes. That person 
+
+can be prohibited. Excuse me, that person can be 
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+prosecuted.
+
+ JUSTICE GINSBURG: I asked you have there 
+
+been such cases? A lot of states have pandering laws 
+
+now, and is the case that you posit a case that has 
+
+occurred in any of those states?
+
+ MR. DIAZ: Your Honor, I cannot cite a 
+
+specific example, but I can certainly tell Your Honor 
+
+this -- prosecutions from 1997 to 2004 have increased 
+
+over 452 percent. The conviction rate --
+
+JUSTICE GINSBURG: Maybe that's because the 
+
+quantity of material has increased.
+
+ MR. DIAZ: Exactly. And the conviction rate 
+
+is 99.6 percent. And --
+
+JUSTICE ALITO: And if one person says to 
+
+another, can we get some child pornography, how is that 
+
+solicitation?
+
+ MR. DIAZ: "Can you get me."
+
+ JUSTICE ALITO: Oh, "can you get me."
+
+ MR. DIAZ: "Can you get me."
+
+ JUSTICE ALITO: And you think that's 
+
+protected by the First Amendment? Asking someone for 
+
+child pornography is protected?
+
+ MR. DIAZ: First of all, it may not be 
+
+protected by the First Amendment, but it shouldn't be 
+
+captured by this statute, which puts that 17 year old in 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+jail for 5 to 20 years.
+
+ JUSTICE GINSBURG: The only thing that 
+
+limits the statute is the First Amendment. What else --
+
+you say it may not be covered by the First Amendment. 
+
+What else gives you a right to challenge the statute?
+
+ MR. DIAZ: I don't think that it is 
+
+necessarily not covered by the First Amendment. I think 
+
+certainly the First Amendment -- and this Court has 
+
+held, that we protect salacious thoughts, salacious 
+
+ideas.
+
+ JUSTICE ALITO: But it's not thought at that 
+
+point. It's a request to obtain contraband, which fuels 
+
+the production of the contraband. Is it protected by 
+
+the First Amendment or not, soliciting child 
+
+pornography?
+
+ MR. DIAZ: I think the First Amendment is 
+
+implied, but I don't think it becomes criminal conduct 
+
+until you get to either an attempt, solicitation, or a 
+
+conspiracy. You have to do more than just say I would 
+
+like to get it or can you get it for me, to be guilty of 
+
+the statute.
+
+ JUSTICE ALITO: To fall -- to fall under the 
+
+statute or to be protected by the First Amendment or not 
+
+protected by the First Amendment?
+
+ MR. DIAZ: Right. 
+
+50 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE ALITO: Which is it?
+
+ MR. DIAZ: To fall within the protection of 
+
+the First Amendment. And another example that comes to 
+
+mind is a person has material which they believe is 
+
+child pornography. They give it to somebody else, such 
+
+as Lolita, for an opinion and they present to it that 
+
+person. One of the biggest problems or one of the 
+
+biggest -- the verb that's most objectionable in the 
+
+statute is "present," because it does not have to have 
+
+any commercial requirement.
+
+ JUSTICE ALITO: I mean the model penal code 
+
+has a general prohibition of soliciting illegal 
+
+activities. Are you saying that that's -- that 
+
+provision violates the First Amendment? Because it's 
+
+just words?
+
+ MR. DIAZ: Solicitation is a crime in and of 
+
+itself, and talking about or expressing a desire to 
+
+obtain is not -- doesn't quite go to the level of 
+
+solicitation or intent, where there has to be a 
+
+proximity in time, in immediacy, and a certain 
+
+geographical proximity between the words and the comment 
+
+that you intend.
+
+ JUSTICE ALITO: But I thought the word in 
+
+the statute is "solicit."
+
+ MR. DIAZ: Well, there's "solicit" and 
+
+51
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+there's also "present." It works in both directions.
+
+ JUSTICE ALITO: If you're asking somebody 
+
+for child pornography, you're not presenting child 
+
+pornography.
+
+ MR. DIAZ: Correct. I agree.
+
+ Thank you, Your Honor.
+
+ CHIEF JUSTICE ROBERTS: Thank you, Mr. Diaz.
+
+ General Clement, you have three minutes 
+
+remaining.
+
+ REBUTTAL ARGUMENT OF GEN. PAUL D. CLEMENT
+
+ ON BEHALF OF THE PETITIONER
+
+ GENERAL CLEMENT: Thank you, Mr. Chief 
+
+Justice.
+
+ Overbreadth, as this court has reminded us 
+
+any number of times, is strong medicine, and that is 
+
+why, even in the First Amendment context, as-applied 
+
+challenges remain the basic building blocks of 
+
+adjudication. Rejection of this overbreadth challenge 
+
+here does not mean that the courts will not be open to 
+
+here as-applied challenges going forward. Of course, 
+
+the Respondent here has no claim that the statute is 
+
+unconstitutional as applied to him.
+
+ JUSTICE KENNEDY: Can we reject the 
+
+overbreadth challenge here and still leave an 
+
+overbreadth doctrine for some other cases? I'm not sure 
+
+52 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+how we could do that.
+
+ GENERAL CLEMENT: Well, I think you could, 
+
+Justice Kennedy. You could -- I mean the burden here is 
+
+on the challenger who doesn't say that the statute's 
+
+unconstitutional as-applied to them to show substantial 
+
+overbreadth in absolute terms and relative to the 
+
+statute's legitimate sweep. And it's interesting that 
+
+neither Respondent nor the court of appeals ever engaged 
+
+in that latter inquiry. And that's a critical inquiry.
+
+ JUSTICE GINSBURG: How is it different it 
+
+would be strange to trust out the document -- the 
+
+doctrine as I -- as I understand it is what we relied on 
+
+when we had the predecessor to this statute before.
+
+ GENERAL CLEMENT: Justice Ginsburg I'm not 
+
+urging that you get rid of overbreadth doctrine once and 
+
+for all -- probably be in the government's interest. I 
+
+am simply saying that if you apply overbreadth analyses, 
+
+the way it supposed to be applied it's not satisfied 
+
+here. It's not just enough for you to envision a couple 
+
+of hypotheticals. It has to be the overbreadth has to 
+
+be substantial relative to the legitimate sweep of the 
+
+statute. This Court in Virginia against Hicks said 
+
+faulted the lower court opinion because it had no 
+
+analyses whatsoever of valid versus invalid 
+
+applications. The proportionality aspect of this courts 
+
+53 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+overbreadth jurisprudence was ignored entirely. That 
+
+could be verbatim the holding of this case. The 11 
+
+circuit did engage in that relative analysis. When my 
+
+brother was asked for empirical evidence about the 
+
+comparison he said he didn't have any. With all due 
+
+respect, I think that's fatal to his case.
+
+ JUSTICE GINSBURG: How did that occur in --
+
+free speech coalition.
+
+ GENERAL CLEMENT: I think, in the way I 
+
+would explain that is I didn't think you get -- you 
+
+found there was such absolute overbreadth that you 
+
+didn't even reach the proportionality inquiry. In any 
+
+invent Hicks was decided afterwards, and I think Hicks 
+
+makes very clear that you have to have both absolute and 
+
+relative. I would say one last thing, though. This is 
+
+first and foremost you start with the facts of this case 
+
+and the facts of this case I think caution against 
+
+reading the word presents out of the statute or reading 
+
+it unduly narrowly.
+
+ The gravamen of the pandering here was not 
+
+just the offer of pictures of this individual and his 
+
+daughter, but was his claim that I can post these actual 
+
+images of child pornography on this group site because 
+
+I'm for real and I'm not an undercover agent. Now that 
+
+seems to be within the epicenter of the statute but it's 
+
+54 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+not for profit. It was doing it to establish his bona 
+
+fide. Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you general 
+
+the case is submitted.
+
+ (Whereupon, at 11:01 a.m., the case in the 
+
+above-entitled matter was submitted .) 
+
+55 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 56 
+
+A 
+able 5:17 30:17 
+
+33:3 
+above-entitled 
+
+1:11 55:6 
+absolute 39:3 
+
+53:6 54:11,14 
+abstract 17:20 
+abuses 23:1,1 
+academy 45:8 
+accept 47:4,6,12 
+acceptable 
+
+46:18 
+accepted 37:12 
+access 10:19 
+
+12:8 
+acclaim 45:7 
+accurate 20:8 
+acknowledges 
+
+16:10 
+acquired 45:15 
+acquiring 11:16 
+act 29:7 30:23 
+activities 19:10 
+
+41:16 47:8,16 
+48:6 51:13 
+
+activity 13:16 
+15:13 17:10,15 
+18:18 21:16 
+25:19 26:4 
+28:15 
+
+actor 26:4 
+actors 9:1,2 
+actress 28:11 
+acts 19:25 20:1 
+
+20:22 23:1 
+actual 4:19 5:7 
+
+5:13 8:21 9:9 
+9:12 18:5 19:6 
+19:7,23,23 
+20:22 21:18 
+25:13 26:19 
+28:6 31:4 
+54:22 
+
+add 19:18 28:23 
+addition 36:15 
+additional 40:5 
+
+adjudication 
+52:18 
+
+adolescent 
+15:12 18:23,23 
+18:25,25 
+
+adolescents 
+48:10 
+
+adopting 17:14 
+adult 8:13 9:2 
+
+19:1 20:6 
+27:10 
+
+advertise 33:22 
+37:3 
+
+advertisement 
+21:2 
+
+advertises 14:4 
+14:15 
+
+advertising 
+14:22 16:24 
+41:14 
+
+advice 20:20 
+affirmative 10:6 
+
+10:9,14,14,16 
+10:23 11:5,12 
+12:4,7,10 29:9 
+39:3 
+
+afford 10:17,18 
+12:8 
+
+afraid 39:10 
+41:8 
+
+age 15:15,16 
+agencies 30:13 
+agency 10:18,19 
+
+12:8 
+agent 54:24 
+aggressive 19:19 
+agree 7:12,15 
+
+23:25 33:14,18 
+42:20 44:10,14 
+52:5 
+
+albeit 31:12 
+Alito 17:23 18:1 
+
+18:7 37:18 
+38:2 41:13,25 
+49:14,18,20 
+50:11,22 51:1 
+51:11,23 52:2 
+
+allows 40:18 
+Amazon 31:2 
+amazon.com 
+
+4:25 21:2 
+30:10 37:22 
+
+ambit 4:20 8:8 
+26:8,18 27:20 
+28:13 
+
+amended 38:13 
+45:19 
+
+Amendment 
+3:11 20:18 
+32:24 33:1,6,8 
+40:2,7,11 41:2 
+49:21,24 50:3 
+50:4,7,8,14,16 
+50:23,24 51:3 
+51:14 52:16 
+
+America 48:18 
+American 22:2 
+
+35:9,24 45:4 
+46:6,8 
+
+amount 32:11 
+40:18 
+
+analyses 53:17 
+53:24 
+
+analysis 16:2 
+44:17 54:3 
+
+analyze 7:10 
+23:12 
+
+answer 9:21 
+18:17 20:24 
+39:5 42:3,7,9 
+44:11 45:3,3 
+46:25 47:6 
+
+anterior 6:18 
+anyway 24:23 
+appeals 3:22 
+
+53:8 
+appear 39:19 
+APPEARAN... 
+
+1:14 
+appendices 43:3 
+
+45:23,24 
+appendix 10:7 
+
+38:11 42:5,11 
+42:22 43:11,17 
+
+43:21 44:9,10 
+45:13,22,25 
+47:6 48:3 
+
+applications 
+19:15 53:25 
+
+applied 23:13 
+24:23 47:20 
+52:22 53:18 
+
+applies 13:1 
+apply 8:16 10:13 
+
+23:15 25:5 
+43:3,4 53:17 
+
+applying 16:2 
+26:13 
+
+appreciate 13:6 
+area 22:24 33:20 
+
+40:6,12 
+areas 40:1,13 
+argument 1:12 
+
+2:2,7 3:3 29:3 
+42:16 52:10 
+
+artistic 7:23 
+24:16 
+
+asked 49:2 54:4 
+asking 49:21 
+
+52:2 
+aspect 21:10 
+
+53:25 
+assume 21:9 
+
+23:6 26:23 
+43:21 
+
+assumption 8:25 
+as-applied 7:6,8 
+
+7:13,16 23:10 
+23:16 24:10,17 
+25:4 40:20 
+41:8 42:13 
+52:16,20 53:5 
+
+atrocities 5:23 
+attached 5:5 
+
+37:8 
+attaches 4:25 
+attempt 50:18 
+authority 32:5 
+available 4:13 
+
+4:16 13:10 
+14:5 
+
+awards 45:8 
+awful 4:2 13:16 
+a.m 1:13 3:2 
+
+55:5 
+
+B 
+B 10:17 
+back 46:6 48:9 
+bad 23:20 
+ban 11:6,8 
+bans 10:13 
+barter 14:6 
+
+16:21 
+bartering 46:4 
+based 41:6 44:8 
+basic 7:4,11,19 
+
+19:12,20 23:14 
+25:4 28:13 
+52:17 
+
+basically 24:7 
+40:20 
+
+basis 5:4 42:13 
+46:20 
+
+Beauty 22:2 
+35:9,24 45:5 
+46:6,8 
+
+behalf 1:16,18 
+2:4,6,9 29:4 
+52:11 
+
+behavior 13:20 
+belief 29:15 
+
+31:11 38:5 
+39:18 
+
+beliefs 29:24 
+30:1,5 
+
+believe 4:4 8:19 
+15:1 20:14 
+29:16 31:11 
+34:21 35:16 
+36:1 41:23,24 
+46:19 51:4 
+
+best 37:19,21 
+better 9:21 
+beyond 37:16 
+biggest 51:7,8 
+Bishop 22:8 
+Bishops 21:1,6 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 57 
+
+blatant 43:23 
+blocks 52:17 
+blog 31:7 
+body 9:2,16 
+bona 55:1 
+bound 43:24 
+boundaries 
+
+44:16,18,19 
+boundary 44:21 
+box 9:8 
+boy 25:22 
+boycott 31:10 
+brag 36:24 
+bragging 32:17 
+
+34:23 
+Brandenburg 
+
+40:4 
+Breyer 12:24 
+
+13:8,14,25 
+14:12 15:7,10 
+15:19 17:5 
+30:14,21 31:14 
+31:17,25 38:8 
+38:24 43:1 
+45:12,17 46:14 
+48:10 
+
+Breyer's 16:12 
+18:9 42:3,15 
+43:15 
+
+brief 10:8 12:25 
+14:11,13,20 
+16:9,10,13 
+17:13 21:23 
+30:16 
+
+briefs 7:25 28:6 
+bring 45:6 46:17 
+bringing 36:11 
+broad 22:20 
+broader 17:17 
+brothels 22:25 
+brother 54:4 
+building 24:17 
+
+52:17 
+burden 53:3 
+business 43:2 
+buy 16:21 
+buyers 34:21 
+
+C 
+C 2:1 3:1 
+cable 45:9 
+call 12:14 
+calls 9:13 
+camera 7:1 
+capture 14:5 
+
+28:16 32:20 
+37:15 
+
+captured 5:21 
+6:9 49:25 
+
+captures 29:11 
+29:12 37:16 
+
+car 34:23,23 
+35:1,2,2 
+
+carefully 15:15 
+carries 29:8 
+carving 40:6,11 
+case 3:4 11:6,22 
+
+25:13 40:14,22 
+42:14,16 44:2 
+44:5 48:4 49:4 
+49:4 54:2,6,16 
+54:17 55:4,5 
+
+cases 26:23 
+43:24 44:5 
+49:3 52:25 
+
+Catholic 21:1,5 
+22:8 
+
+caught 30:18 
+cause 4:4 29:15 
+
+35:16 
+causes 34:21 
+caution 54:17 
+certain 13:21 
+
+32:11,11 45:5 
+51:20 
+
+certainly 14:1 
+15:23 16:19 
+39:24 40:23 
+43:5 48:9 49:7 
+50:8 
+
+challenge 7:6,8 
+23:13 24:10,17 
+24:24 39:23 
+41:8 42:13 
+50:5 52:18,24 
+
+challenger 53:4 
+challenges 7:14 
+
+7:17 40:21 
+47:20 52:17,20 
+
+challenging 
+40:13 
+
+character 47:9 
+48:8 
+
+charging 13:11 
+charming 45:14 
+chief 3:3,7,24 
+
+4:7 9:13,18 
+14:10,23 16:8 
+17:7,17 18:16 
+28:25 29:5,25 
+30:7 34:25 
+35:14,22 40:9 
+40:24 44:20 
+52:7,12 55:3 
+
+child 4:2,5,19 
+5:7,20 6:22 7:5 
+7:20,22,25 8:2 
+8:11,12,21 9:9 
+9:12,15,17 
+10:10,12 11:20 
+12:15,20 14:7 
+15:6 16:23 
+17:13 18:2,5 
+18:25 19:4,7,7 
+19:9,21,23,24 
+20:5,7 21:18 
+21:21,24 22:2 
+22:15 23:14 
+25:14 26:19 
+28:2,10,13 
+30:4,13,22,23 
+30:24 34:2 
+35:3,17 39:16 
+39:16,20 44:3 
+44:4,24 48:14 
+48:14 49:15,22 
+50:14 51:5 
+52:3,3 54:23 
+
+children 22:25 
+24:14 30:12 
+32:4,4 
+
+child-trafficki... 
+
+22:24 
+chilling 39:7 
+
+42:1 
+chills 48:2,2 
+chipping 40:8,8 
+choose 34:18 
+circuit 29:19 
+
+54:3 
+circumstance 
+
+5:8 
+cite 49:6 
+cited 17:9 
+citizen 37:23 
+claim 5:6 52:21 
+
+54:22 
+clarify 16:7 
+clarity 13:6 
+class 15:14 
+
+27:21 48:6 
+clean 34:13 
+clear 3:9 11:21 
+
+15:25 17:9 
+24:9,13 47:23 
+54:14 
+
+clearer 33:7 
+clearly 5:14,18 
+
+9:6 12:21 15:6 
+16:24 23:4 
+
+Clement 1:15 
+2:3,8 3:6,7 4:7 
+5:2 6:4,8,17,21 
+7:3,15 8:6,14 
+9:20 10:2,25 
+11:25 12:13,17 
+13:8,25 14:23 
+15:9,19 16:5 
+16:17 17:16,23 
+17:25 18:7,20 
+19:11 20:12 
+21:3,8,12,15 
+21:18,20 22:4 
+22:13 23:11,23 
+24:2,5 25:1 
+26:6,24 27:6,8 
+27:12,17,22 
+28:10,19 29:1 
+52:8,10,12 
+
+53:2,14 54:9 
+client 39:13,22 
+
+40:15 
+CNN 31:4 
+coalition 20:21 
+
+21:1 31:9 54:8 
+code 51:11 
+collects 32:3 
+come 4:19,22 
+
+43:25 46:5 
+comes 5:25 6:4 
+
+8:8 9:3 26:18 
+28:12 38:14 
+51:3 
+
+comment 44:12 
+51:21 
+
+commercial 
+16:14,19,20 
+17:2,8 34:18 
+46:3,4 47:9 
+51:10 
+
+committed 5:23 
+common 15:12 
+comparable 
+
+11:23 
+comparison 
+
+54:5 
+compelling 3:25 
+complaining 
+
+34:7 
+component 8:17 
+
+9:5,25,25 
+22:20 23:8 
+35:15 
+
+concede 43:18 
+concededly 
+
+47:22 
+conceivable 
+
+42:10 
+conceivably 
+
+46:10 
+conception 17:5 
+
+17:18 
+conceptually 5:3 
+concern 22:22 
+
+39:5 41:7 
+46:21 48:1 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 58 
+
+concerned 32:19 
+conclude 41:18 
+conduct 29:17 
+
+31:5,8 32:12 
+37:15,16 47:25 
+50:17 
+
+confined 7:21 
+conform 47:25 
+Congress 12:4 
+
+20:20 43:6 
+congressional 
+
+32:19 
+conjunction 
+
+4:15 
+connotation 
+
+37:11 
+consciously 
+
+20:14 
+consequence 
+
+20:19 
+conspiracy 
+
+50:19 
+constitutional 
+
+16:6 23:18 
+38:21 
+
+constitutionally 
+46:18 
+
+construction 
+17:14 
+
+constructions 
+16:2 
+
+construed 3:14 
+16:5 47:16 
+
+consumer 33:20 
+contain 29:21 
+
+31:12 32:15 
+35:8 
+
+contains 4:5 
+31:7 
+
+contemplate 
+44:5 
+
+content 21:10 
+22:21 33:4 
+
+context 7:20 8:7 
+19:6 45:20 
+46:2 52:16 
+
+continue 40:7 
+
+contours 43:5 
+contraband 
+
+3:16,18,19 
+50:12,13 
+
+contrary 16:9 
+conversations 
+
+47:10 
+convey 9:9 
+
+11:21 29:22 
+conveyed 39:17 
+conveying 31:10 
+conveys 29:21 
+convicted 39:15 
+conviction 49:9 
+
+49:12 
+Coral 1:18 
+correct 11:19,20 
+
+26:5,6 31:3 
+52:5 
+
+countless 5:10 
+country 5:24 
+
+41:6 48:19 
+couple 53:19 
+course 7:18 9:4 
+
+15:25 24:19 
+26:4 43:24 
+45:12 52:20 
+
+court 1:1,12 3:8 
+3:9,22 7:18 
+15:25 29:6 
+39:24 40:1 
+41:3,18 43:2,5 
+43:9 44:16 
+46:23 50:8 
+52:14 53:8,22 
+53:23 
+
+courts 52:19 
+53:25 
+
+Court's 20:20 
+48:4 
+
+cover 17:15 24:6 
+34:10 
+
+coverage 45:6 
+covered 4:5,8 
+
+5:9 6:3 7:11 
+12:19,22,24 
+13:13,14 16:25 
+
+17:4 22:8,17 
+23:4,6 35:19 
+39:8 42:7,8,12 
+43:22 47:24 
+50:4,7 
+
+covering 13:4,4 
+35:19 
+
+covers 24:4 
+34:11,12,12 
+36:24 41:14 
+
+creating 43:17 
+crime 6:25 7:2 
+
+13:22 51:16 
+crimes 6:12 
+criminal 41:1,1 
+
+50:17 
+criminalize 
+
+13:16 
+critical 53:9 
+cure 43:17 
+cures 46:19 
+cut 14:24 
+
+D 
+d 1:15 2:3,8 3:1 
+
+10:7,17 52:10 
+daughter 54:22 
+day 45:10 
+debased 22:25 
+decided 22:16 
+
+54:13 
+decision 42:15 
+defamation 40:3 
+defend 5:17 
+defense 10:6,9 
+
+10:14,14,16 
+11:5,12 12:4,8 
+12:10 29:9 
+32:9 36:21 
+39:3,4 
+
+defenses 10:23 
+define 29:16 
+definition 19:19 
+
+19:19,20 20:4 
+28:22 45:21 
+46:7 
+
+definitional 
+
+19:13 
+degree 34:8,9 
+
+47:23 
+Department 
+
+1:16 
+depend 42:20 
+depends 33:15 
+depict 27:24 
+depicted 15:15 
+depiction 5:23 
+
+6:19,25 
+depictions 24:14 
+depicts 7:25 
+
+25:19 26:3,17 
+describe 15:2 
+
+35:23 
+described 6:15 
+desire 51:17 
+determination 
+
+29:20 44:2 
+Diaz 1:18 2:5 
+
+29:2,3,5 30:7 
+30:20 31:3,16 
+31:23 32:7 
+33:10,18 34:4 
+34:9 35:6,22 
+36:8,23 37:14 
+37:21 38:3,24 
+39:24 40:23 
+41:23 42:19 
+43:14 44:11,14 
+45:2 46:14 
+47:22 48:9,22 
+49:6,12,17,19 
+49:23 50:6,16 
+50:25 51:2,16 
+51:25 52:5,7 
+
+dicta 43:24 
+dictum 43:23 
+
+44:1,7,9,10 
+difference 15:20 
+
+30:1 
+different 13:3 
+
+14:11 17:5 
+21:22 24:1 
+30:6 35:1,5 
+53:10 
+
+direct 19:25 
+directed 4:15 
+
+37:12 
+directions 52:1 
+dirty 15:11 18:4 
+
+41:5 
+discretion 29:17 
+discussed 37:17 
+discussion 46:8 
+disgusting 12:15 
+
+12:20 15:5 
+distinction 
+
+16:18 17:1 
+21:25 
+
+distracts 45:17 
+distribute 37:6 
+distributes 14:4 
+distributing 
+
+4:18 22:10 
+41:15 
+
+distributor 4:24 
+doctrine 40:17 
+
+41:21 43:25 
+44:8 52:25 
+53:12,15 
+
+document 53:11 
+doing 38:2,2 
+
+40:1,6 55:1 
+double 9:2 
+doubles 9:16 
+dozen 38:25,25 
+
+39:1 42:6 
+drawing 14:24 
+drawn 16:18 
+due 54:5 
+duplicate 34:14 
+D.C 1:8,16 
+
+E 
+E 2:1 3:1,1 
+earlier 11:18 
+
+40:24 
+early 16:2 
+easier 25:8 
+
+47:25 
+easy 35:7 
+effect 40:16 48:7 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 59 
+
+efforts 3:15 4:13 
+4:16 5:21 
+16:20,21 
+
+either 3:18 5:5 
+13:1 17:11 
+26:14 35:3 
+50:18 
+
+element 11:12 
+Eleventh 29:19 
+eliminate 47:17 
+
+47:18 
+empirical 45:3 
+
+54:4 
+encompasses 
+
+16:11,15 
+enforce 9:24 
+
+29:18 
+enforcement 
+
+10:19 12:8 
+17:12 29:17 
+
+engage 47:14 
+54:3 
+
+engaged 53:8 
+engaging 21:16 
+enormous 15:17 
+
+15:21 
+entire 46:19 
+entirely 32:25 
+
+35:1 54:1 
+envelope 9:14 
+envision 53:19 
+epicenter 54:25 
+equally 5:9 
+
+23:17 
+erred 3:22 
+especially 18:21 
+ESQ 1:15,18 2:3 
+
+2:5,8 
+essence 29:19 
+essentially 39:2 
+
+39:25 42:25 
+47:8 
+
+establish 55:1 
+everybody 
+
+41:11 
+everyday 48:18 
+evidence 54:4 
+
+exactly 25:2 
+27:12 49:12 
+
+exaggerate 
+34:17 
+
+exaggerating 
+34:19 
+
+exaggeration 
+34:12 
+
+examine 15:14 
+39:21 
+
+example 7:4 
+10:1 14:14 
+30:9,10,16,21 
+34:13,19 36:11 
+37:19,21 38:19 
+42:12 48:6 
+49:7 51:3 
+
+examples 7:24 
+37:17 38:10 
+39:1,9,14 42:6 
+42:8 43:17 
+
+exception 23:16 
+24:22,24 25:4 
+
+exchanging 
+13:11 
+
+excluded 32:25 
+39:2 
+
+exclusively 
+24:15 
+
+excuse 26:3 
+48:25 
+
+exhibit 6:11 
+exist 3:19 29:13 
+
+36:3 
+existence 41:3 
+exists 36:3 
+expanding 
+
+15:20 
+experimenting 
+
+48:16 
+explain 43:7 
+
+54:10 
+explicit 31:5 
+
+37:8,9 
+exponential 
+
+39:1 
+express 39:10 
+
+41:9 
+expressing 
+
+32:21 51:17 
+expression 
+
+32:15 
+expressions 
+
+29:24 
+expressly 16:10 
+extension 13:22 
+
+40:5 
+extent 7:23 17:1 
+extra 36:16,19 
+
+F 
+face 3:23 29:11 
+fact 11:4 20:3 
+
+29:13 35:4 
+36:18 39:19 
+42:15 44:25 
+47:2 
+
+facts 54:16,17 
+factual 30:3 
+
+47:5,13 
+fail 8:22 
+failing 45:14 
+fair 42:16 
+fairly 15:12 
+fairness 17:16 
+fall 25:24 41:20 
+
+50:22,22 51:2 
+falls 39:14 
+false 5:16,18 
+falsely 3:12 
+famous 30:12 
+fantasizing 
+
+48:16 
+far 44:18 
+fatal 28:21 54:6 
+faulted 53:23 
+Federal 13:22 
+Ferber 7:18,21 
+
+18:13 19:3 
+28:20 30:23,25 
+31:14,20,25 
+32:6 36:4 
+38:19 40:5 
+45:20 46:16 
+
+fide 55:2 
+fighting 40:3 
+filled 46:1 
+film 4:18 5:12 
+
+5:13,14 6:14 
+6:22 7:25 8:2 
+8:11 21:11 
+25:19 28:5,12 
+31:7 
+
+films 31:6 35:24 
+44:23 45:4 
+
+find 24:22,23 
+25:3,8 26:14 
+33:3 38:18 
+
+fine 10:20 27:17 
+42:7 
+
+first 3:4,11 4:9 
+4:21 7:10 
+10:11 14:24 
+20:18 26:9 
+32:23 33:1,6,8 
+40:2,7,11 41:2 
+49:21,23,24 
+50:3,4,7,8,14 
+50:16,23,24 
+51:3,14 52:16 
+54:16 
+
+fit 20:4 28:9 
+Fla 1:18 
+focus 45:24 
+following 38:10 
+
+47:15 
+follows 24:7 
+footnote 14:12 
+
+16:8,8 17:9 
+forbidden 9:9 
+
+21:16 
+foreign 5:24 
+foremost 54:16 
+forget 42:5 
+form 31:9 
+forth 20:25 
+
+22:21 46:6 
+forward 52:20 
+found 54:11 
+four 40:1 
+fraud 33:17,20 
+
+free 13:12,12 
+20:20 21:1 
+39:7 48:2 54:8 
+
+freedom 41:2 
+frequency 18:6 
+frequently 
+
+18:18 
+fuels 50:12 
+full 9:15 
+fundamental 
+
+10:3 
+funny 13:18,18 
+furnishing 
+
+17:21 
+
+G 
+G 3:1 
+Gables 1:18 
+gather 17:4 
+GEN 1:15 2:3,8 
+
+52:10 
+general 1:15 3:6 
+
+3:7 4:7 5:2 6:4 
+6:8,17,21 7:3 
+7:15 8:6,14 
+9:20 10:2,25 
+11:25 12:13,17 
+13:8,25 14:23 
+15:9,19 16:5 
+16:17 17:16,23 
+17:25 18:7,20 
+19:11 20:12 
+21:3,8,12,15 
+21:18,20 22:4 
+22:13 23:11,23 
+24:2,5 25:1 
+26:6,24 27:6,8 
+27:12,17,22 
+28:10,19 30:16 
+42:6 46:21 
+51:12 52:8,12 
+53:2,14 54:9 
+55:3 
+
+generally 43:2 
+General's 38:12 
+
+45:18 47:5,15 
+geographical 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 60 
+
+51:21 
+getting 18:13 
+
+48:20 
+Ginsburg 7:21 
+
+8:6,10,15 16:4 
+16:7,17 20:2 
+20:13 28:4,17 
+37:1 42:24 
+43:16 48:20 
+49:2,10 50:2 
+53:10,14 54:7 
+
+girl 23:5 
+give 46:15,23 
+
+48:5 51:5 
+given 7:24 39:19 
+
+46:16 47:8 
+gives 23:9 50:5 
+giving 14:13 
+
+16:23 17:3 
+29:17 
+
+go 9:7 19:24 
+32:1 48:9,17 
+51:18 
+
+God 12:15 
+goes 13:17 27:15 
+
+37:16 
+going 9:1 13:15 
+
+24:7,8 26:18 
+32:1,5 39:6,7 
+39:10,12 40:7 
+40:12 41:7 
+43:17 46:23,24 
+47:2,3 52:20 
+
+Goldin 38:3 
+good 18:13 19:3 
+
+32:22 36:20 
+goodness 36:12 
+government 
+
+19:24 
+government's 
+
+16:10 37:5 
+53:16 
+
+graduate 27:20 
+graphic 6:9,19 
+
+35:11,25 
+gratis 17:3 
+gravamen 54:20 
+
+grave 41:7 
+gray 10:8 
+great 35:1,2 
+greater 7:22 
+group 37:24 
+
+41:10 46:11,12 
+54:23 
+
+growing 39:20 
+guess 5:9 6:18 
+
+7:12 37:4 
+43:25 44:8 
+
+guilty 44:6 
+50:20 
+
+H 
+hand 15:3 22:11 
+
+22:14 
+handed 18:22,24 
+haphazard 
+
+11:24 
+happen 24:14 
+
+27:24 
+happening 6:13 
+happens 11:19 
+happenstance 
+
+11:13 
+harbor 38:5 
+hardcore 20:9 
+
+48:14 
+hear 3:3 40:22 
+hears 35:23 
+held 22:11,14,25 
+
+29:19 50:9 
+Hicks 53:22 
+
+54:13,13 
+high 48:18 
+high-level 15:13 
+hold 44:6 
+holding 54:2 
+honest 25:14 
+
+32:22 
+honor 33:14,18 
+
+41:4 42:20 
+43:16 49:6,7 
+52:6 
+
+Honor's 39:6 
+44:11 
+
+horrible 44:4 
+hot 20:5 35:11 
+
+35:25 
+hypertechnical 
+
+46:23 
+hypo 42:15 
+hypothetical 
+
+18:9 26:7 42:4 
+45:22 
+
+hypotheticals 
+3:25 18:2 
+20:25 21:4,22 
+53:20 
+
+I 
+ideas 50:10 
+ignored 54:1 
+ii 48:23 
+illegal 31:13 
+
+32:9 33:21 
+34:22 37:15 
+51:12 
+
+illegitimate 
+44:24 
+
+image 20:7 
+images 54:23 
+imagine 32:2 
+immediacy 
+
+51:20 
+implicates 41:2 
+implied 50:17 
+important 5:19 
+
+18:8 19:13,17 
+21:25 26:25 
+
+impression 
+29:22 
+
+included 12:4 
+includes 19:10 
+increased 49:8 
+
+49:11 
+independently 
+
+12:11 
+indicated 22:22 
+indictable 10:22 
+indicted 10:24 
+indictment 48:7 
+individual 9:11 
+
+48:15 54:21 
+individuals 
+
+15:15 
+infer 38:14 
+inform 43:6 
+information 4:3 
+infrequently 
+
+18:19,20 
+initial 43:14 
+innocent 37:16 
+inquiry 53:9,9 
+
+54:12 
+instance 4:22 
+
+43:10 
+instances 13:1,4 
+insulated 48:7 
+intend 51:22 
+intended 29:15 
+intending 31:11 
+intent 9:5,8 
+
+11:14,21 51:19 
+interest 53:16 
+interested 14:8 
+interesting 53:7 
+Internet 19:5 
+
+22:16 31:7 
+34:17 39:21 
+48:13 
+
+interpret 8:16 
+14:1,21 15:23 
+
+interpretation 
+38:13,15 45:19 
+46:9 47:11,15 
+
+interpretations 
+46:24 
+
+interpreted 
+28:15 
+
+introduced 
+28:20 
+
+invalid 53:24 
+invent 54:13 
+invite 15:22 
+involve 4:9,10 
+involves 44:3 
+involving 31:5 
+
+39:16 
+issue 3:14 33:11 
+
+44:14 
+
+J 
+J 1:18 2:5 29:3 
+jail 32:1 33:12 
+
+48:17 50:1 
+job 18:13 19:3 
+jurisprudence 
+
+54:1 
+Justice 1:16 3:3 
+
+3:7,24 4:7,24 
+5:2,22 6:6,10 
+6:17,20,25 
+7:12,21 8:6,10 
+8:14 9:11,20 
+9:23 10:2,20 
+10:25 11:8,25 
+12:12,14,24 
+13:8,14,25 
+14:10,11,23 
+15:7,10,19 
+16:4,7,12,17 
+17:5,7,17,23 
+18:1,7,9,16 
+19:9,11 20:2 
+20:12,24 21:3 
+21:7,9,13,17 
+21:19 22:3,11 
+22:18,23 23:12 
+23:19,25 24:3 
+24:19 25:1,12 
+26:7,21,24 
+27:4,7,10,14 
+27:18,19 28:4 
+28:17,25 29:5 
+29:25 30:7,14 
+30:21 31:14,17 
+31:25 32:22 
+33:15,19,25 
+34:7,10,25 
+35:14,22 36:5 
+36:8,9,18 37:1 
+37:7,18 38:2,8 
+38:24 39:11,25 
+40:9,10,24 
+41:13,25 42:2 
+42:3,15,20,24 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 61 
+
+46:14,20,25 
+48:5,10,20 
+49:2,10,14,18 
+49:20 50:2,11 
+50:22 51:1,11 
+51:23 52:2,7 
+52:13,23 53:3 
+53:10,14 54:7 
+55:3 
+
+K 
+keeps 46:7 
+Kennedy 4:24 
+
+5:2 20:24 21:3 
+21:7,9,13,17 
+21:19 22:3,11 
+22:18 23:12,19 
+23:25 24:3 
+39:11,25 52:23 
+53:3 
+
+Kennedy's 
+40:10 
+
+kid 48:16 
+kids 5:25 6:7 
+
+18:3 
+killing 23:5 
+kind 13:19 
+
+18:14 43:8,11 
+44:4 47:14 
+
+knew 39:17 
+know 12:18 14:1 
+
+14:16 17:20 
+19:14 26:16 
+27:23 33:17 
+35:12,12 36:20 
+38:22 42:4 
+43:10,13,16 
+45:4 46:21 
+47:4,14 48:13 
+
+knowing 11:15 
+12:3 
+
+knowingly 46:2 
+
+L 
+language 6:14 
+
+23:8 29:14 
+latest 25:18 
+Laughter 36:17 
+
+44:13 45:16 
+law 10:18 12:8 
+
+17:11 26:22 
+29:17 42:25 
+
+lawful 3:20 35:8 
+laws 34:15 49:3 
+lawyers 46:22 
+law's 45:1 
+law-school 
+
+27:20 
+lead 8:19 
+leader 37:24 
+Leahy 32:18 
+leave 52:24 
+left 42:17 47:1 
+
+47:21 
+legality 30:2 
+legitimate 34:13 
+
+44:23 45:1 
+47:19 53:7,21 
+
+lessen 43:18,20 
+lesser 47:23 
+let's 4:1 5:4 8:25 
+
+21:7,9 41:19 
+44:10 
+
+level 51:18 
+liars 32:22 34:10 
+lie 33:4 34:1 
+
+36:12 
+lies 33:9 
+life 45:15 
+light 14:14 
+likewise 3:13 
+limited 4:12 
+
+16:13,19 17:8 
+17:10,14 
+
+limits 50:3 
+line 14:24 17:2 
+list 42:5 47:16 
+listed 38:11 
+listens 35:23 
+literal 6:1 
+literary 24:16 
+little 23:5 
+logical 25:3 
+Lolita 8:5 9:7 
+
+25:19 35:9,24 
+
+38:4 40:16,21 
+44:24 45:4 
+47:4 51:6 
+
+long 43:4 
+look 6:2 12:21 
+
+13:12 14:7,9 
+15:5 31:7 38:3 
+38:4 41:12 
+44:17 48:11 
+
+looking 15:11 
+44:15 
+
+looks 48:3,3 
+lost 18:17,17 
+lot 13:16 37:3 
+
+49:3 
+lower 53:23 
+lumped 41:16 
+lying 32:17 33:5 
+
+33:7,11,13,16 
+33:16 36:6,7 
+36:11,15,21 
+
+M 
+magazines 
+
+18:22 
+mail 9:12,14 
+
+10:12 12:3,16 
+12:21 13:6 
+15:1,5 18:3 
+
+main 18:11 
+mainstream 5:4 
+
+5:10 8:25 9:8 
+26:16 
+
+making 13:10 
+14:5 
+
+man 8:1 
+mandatory 29:8 
+
+33:12 
+manner 8:20 
+
+29:14 32:12 
+market 4:13,16 
+
+4:18 5:3 14:6 
+19:22 34:20 
+
+marketing 8:20 
+9:7 24:18 
+
+marketplace 
+34:16 
+
+materia 10:5 
+12:6 
+
+material 10:18 
+10:19 11:16,22 
+12:9 13:10 
+17:21,22 21:21 
+24:8 32:4,7 
+36:2 37:9 
+44:25 49:11 
+51:4 
+
+materials 3:16 
+3:18,21 15:4 
+18:10,11,14 
+19:22 20:21 
+21:23,24 23:9 
+23:15 26:11 
+29:12,13,20,22 
+31:12,19 32:14 
+32:15 34:20 
+35:8 38:6 
+48:12,22 
+
+mathematic 
+45:3 
+
+matter 1:11 
+11:13 13:3 
+19:2 30:4 
+42:11 47:11 
+55:6 
+
+matters 47:24 
+mean 9:15 12:21 
+
+14:1,24 16:20 
+18:9 21:5 
+22:13,14,17 
+23:23 30:15 
+36:22 37:10 
+45:7 51:11 
+52:19 53:3 
+
+meaning 4:11 
+7:22 14:14 
+26:20 46:16 
+
+meanings 46:23 
+means 17:19 
+medicine 52:15 
+mentioned 
+
+25:13 28:5 
+mere 24:21,24 
+
+32:8 
+
+merely 11:11,11 
+11:13,23 
+
+message 11:21 
+metaphors 
+
+45:14 
+MICHAEL 1:6 
+Miller 40:4 
+mind 17:5 51:4 
+minimum 29:8 
+
+33:12 
+minor 25:20 
+
+26:4,5,17 31:5 
+31:8 
+
+minors 21:10,13 
+21:15 30:12 
+
+minutes 52:8 
+misleading 5:16 
+
+5:18 
+misrepresent 
+
+15:16 
+misrepresenting 
+
+5:14 
+misrepresents 
+
+5:6 
+mistaken 32:16 
+
+34:11 
+model 51:11 
+modeling 30:13 
+molested 32:4 
+molesting 32:3 
+moment 21:10 
+morning 3:4 
+
+37:17 
+motion 8:24,25 
+motives 24:1 
+moved 19:5 
+movie 4:1,2,4,11 
+
+4:20,25 5:1,4,6 
+5:7,20,21,23 
+6:2,4,6 8:19 
+22:1 25:17 
+26:9,17 28:2 
+41:11 46:11 
+47:4 
+
+movies 5:10 
+27:16,24 38:5 
+45:10 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 62 
+
+moving 20:21 
+murder 5:11,13 
+
+27:25 28:1 
+
+N 
+N 2:1,1 3:1 
+naive 25:22 
+Nan 38:3 
+narrower 42:23 
+
+46:17 
+narrowly 41:24 
+
+54:19 
+nasty 41:5 
+nationwide 
+
+30:11 
+natural 8:25 
+
+12:23 14:3 
+20:19 
+
+naturally 25:5 
+26:18 
+
+nature 5:6 
+necessarily 
+
+12:19 34:4 
+37:22 50:7 
+
+negative 18:17 
+neighbor 12:15 
+
+14:16 15:2 
+17:12 47:10 
+
+neighborhood 
+41:10 
+
+neither 53:8 
+Netflix 21:2 
+
+30:10 31:2 
+37:23 45:9 
+
+never 46:11 
+new 19:19 32:6 
+news 6:10,11 
+non 27:20 
+noncommercial 
+
+16:11,15 17:2 
+non-law 27:23 
+normal 11:9 
+notion 19:20 
+number 15:25 
+
+39:1 52:15 
+
+O 
+O 2:1 3:1 
+
+objectionable 
+51:8 
+
+objective 8:17 
+8:22 9:25 
+24:11 26:13 
+27:1,2,5 35:15 
+35:15,21 
+
+objectively 8:19 
+11:19 
+
+obscene 38:5 
+41:10 
+
+obscenity 32:25 
+40:4 
+
+observer 35:15 
+obtain 50:12 
+
+51:18 
+occasions 16:1 
+occur 18:5 54:7 
+occurred 49:5 
+occurs 18:19,19 
+
+18:20 
+October 1:9 
+offense 10:22 
+
+11:15,15 
+offer 3:15 33:21 
+
+54:21 
+offering 3:17 
+
+13:12 19:22,25 
+20:16 33:4 
+
+office 9:8 
+oh 9:1 21:12 
+
+33:6 36:21 
+44:5 49:18 
+
+okay 30:25 
+43:12,13 
+
+old 7:25 8:1,11 
+8:12,13 26:22 
+27:4,20,23 
+28:7 48:16 
+49:25 
+
+olds 19:10 47:2 
+48:11,11 
+
+once 12:2 47:23 
+53:15 
+
+ones 38:11 
+open 52:19 
+opened 9:14 
+
+opening 10:8 
+operating 16:23 
+opinion 38:9,12 
+
+38:22,23,24 
+43:6 47:7 48:4 
+48:8 51:6 
+53:23 
+
+opinions 29:24 
+39:10 
+
+opposed 18:25 
+oral 1:11 2:2 
+
+29:3 
+order 8:15 
+ordinary 36:1 
+ought 36:16 
+outset 22:23 
+outside 23:18 
+
+25:9 26:8 
+44:19 
+
+overbreadth 
+16:1 28:21 
+39:13,22 40:17 
+41:21 42:10,14 
+42:17 44:1,15 
+44:17 47:1,18 
+47:20 52:14,18 
+52:24,25 53:6 
+53:15,17,20 
+54:1,11 
+
+overbroad 11:7 
+15:24 29:11 
+37:20 38:20 
+42:21 43:7,8 
+
+overly 22:20 
+
+P 
+P 3:1 
+PAGE 2:2 
+pander 24:25 
+pandered 20:22 
+pandering 7:8 
+
+11:3,17 19:18 
+20:22 23:17 
+24:21 25:5,10 
+29:7 36:10,12 
+36:13,13,14,15 
+36:20 37:2,8 
+
+37:10,10,13,15 
+48:24 49:3 
+54:20 
+
+pardon 21:7 
+parent 41:10 
+pari 10:5 12:6 
+part 28:7 32:10 
+
+45:21 47:12 
+particular 30:2 
+
+43:7 
+particularly 
+
+8:23 14:12 
+33:20 
+
+party 11:22 
+patent 34:15 
+PAUL 1:15 2:3 
+
+2:8 52:10 
+penal 51:11 
+penalty 34:8,10 
+
+36:16,19,20 
+people 9:7,9 
+
+15:14 18:2 
+19:6 25:22 
+32:20 33:12 
+34:11 36:24,24 
+36:24 38:1 
+39:8 40:17 
+41:4,8 45:6 
+46:12 47:25 
+
+perceived 8:2 
+percent 49:9,13 
+percentage 
+
+15:14 
+permitted 23:21 
+person 4:17 6:14 
+
+6:21 8:12 9:6 
+10:11 27:9 
+33:23 34:20 
+35:7,23 36:1 
+37:22 39:9 
+44:6 48:3,15 
+48:24,25 49:14 
+51:4,7 
+
+personal 27:15 
+Petitioner 1:4 
+
+1:17 2:4,9 
+52:11 
+
+photographers 
+30:12,13,21 
+31:1 
+
+photography 
+30:11 
+
+pick 47:10 
+picks 19:20 
+
+28:22 
+picture 8:24 9:1 
+pictures 6:7 
+
+15:11 18:4,15 
+18:22 38:4 
+54:21 
+
+place 7:1 13:17 
+Playboy 19:1 
+playing 8:13 
+
+28:7 
+please 3:8 29:6 
+plus 46:4 
+point 4:10 10:21 
+
+18:8 40:10 
+45:12,13 50:12 
+
+police 9:13,18 
+11:22 31:20 
+32:10 
+
+porn 9:15 11:20 
+12:15 20:5,9 
+25:14 44:4,4 
+48:14,14 
+
+pornography 
+4:3,5,19 5:7,20 
+6:22 7:5,20,22 
+8:3,21 9:10,12 
+9:17 10:10,12 
+12:20 14:7 
+15:6 16:24 
+17:13 18:3,5 
+18:25 19:1,4,7 
+19:8,10,21,23 
+19:24 21:18,21 
+21:24 22:2,15 
+23:14 26:19 
+28:2,11,14 
+30:3,4,22,23 
+30:24 34:2 
+35:4,17 39:16 
+39:20 44:24 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 63 
+
+49:15,22 50:15 
+51:5 52:3,4 
+54:23 
+
+portray 24:7,8 
+portrayed 36:2 
+portrays 4:2 
+
+5:11 8:20 
+posit 49:4 
+position 13:9 
+
+26:1 28:16 
+37:5 
+
+possess 18:12 
+31:19 35:9 
+
+possession 6:22 
+6:24 7:5 10:10 
+10:13,15 11:2 
+11:6,8,10,13 
+11:16,24 12:2 
+12:3 24:22,24 
+25:11 31:18 
+32:8,9,14 
+
+possibility 7:18 
+47:17,18 
+
+possible 5:3,9 
+16:3 29:9 
+
+post 54:22 
+post-adolescent 
+
+15:12 
+potential 34:21 
+practices 22:24 
+prankster 32:18 
+precisely 12:4 
+predecessor 
+
+53:13 
+prerequisite 
+
+10:16 12:10 
+present 10:23 
+
+11:5 17:11 
+20:11 37:1,5 
+38:19 46:15 
+51:6,9 52:1 
+
+presentation 
+4:10 
+
+presented 9:17 
+45:5 
+
+presenting 4:3 
+11:21 13:10 
+
+15:4,11 17:21 
+20:3 22:9 
+23:22 24:13,15 
+24:20 26:10 
+32:10 41:14 
+52:3 
+
+presentment 
+38:14 45:20 
+
+presents 14:4,13 
+14:18 15:23 
+17:10,15,18,19 
+23:7 32:5 
+41:19 54:18 
+
+pressed 25:7 
+presumably 
+
+11:14 
+pretend 33:21 
+pretending 20:6 
+pretty 18:13 
+
+19:3 
+prevent 10:22 
+
+32:4 35:18 
+prevents 3:16 
+previously 
+
+15:18 
+prison 29:8,9 
+
+33:13 34:6 
+prisons 23:1 
+private 37:23 
+probably 8:22 
+
+9:2 53:16 
+problem 6:18,23 
+
+10:11 11:1,2,9 
+11:10,14,23 
+12:2 13:23 
+14:2,25 20:8 
+20:18 24:20,21 
+30:25 31:3,14 
+31:15 37:14 
+39:20,21 40:25 
+41:18,25 42:2 
+42:3 43:18,18 
+45:2 46:19 
+
+problematic 
+40:14 
+
+problems 30:8 
+33:10 51:7 
+
+proceed 25:3 
+produce 30:17 
+
+40:16 
+product 4:13,16 
+production 
+
+50:13 
+profit 55:1 
+prohibit 3:15,20 
+
+39:4 
+prohibited 
+
+12:11 29:16 
+48:25 
+
+prohibition 7:4 
+7:11,17,19 
+11:1 19:12 
+20:21 23:14 
+25:4,24 28:13 
+51:12 
+
+promote 5:21 
+17:13 22:16 
+33:22 37:3,9 
+
+promotes 14:4 
+14:15 23:8 
+41:19 
+
+promoting 19:6 
+22:5,9 26:10 
+34:18 41:14 
+
+promotion 4:11 
+7:19 8:18 
+38:14 45:21 
+
+promotional 
+14:14,17,19 
+17:10,15 
+
+proper 7:9 32:5 
+properly 3:14 
+proportionality 
+
+53:25 54:12 
+proposed 43:1 
+proposes 3:12 
+proposing 3:10 
+proposition 8:9 
+
+47:5,13 
+proscribed 36:2 
+
+38:7 
+proscription 
+
+16:11 
+prosecute 20:1 
+
+prosecuted 32:6 
+38:17 40:21 
+46:10 48:21 
+49:1 
+
+prosecution 
+39:4 
+
+prosecutions 
+49:8 
+
+protect 29:7 
+32:24 33:8 
+34:3,5 50:9 
+
+protected 3:10 
+29:11 30:24 
+31:21,21,24 
+32:2 36:3 
+40:19 44:19,21 
+44:25 49:21,22 
+49:24 50:13,23 
+50:24 
+
+protecting 33:9 
+34:1,1 
+
+protection 23:9 
+33:1 36:14 
+40:3 51:2 
+
+protects 33:6 
+provide 36:19 
+
+37:19 
+provided 43:11 
+provides 10:8 
+
+36:19 
+provision 7:9 
+
+10:5 11:3 
+19:18 25:6,10 
+29:7,10 41:17 
+48:24 51:14 
+
+provisions 10:4 
+41:22 
+
+proximity 51:20 
+51:21 
+
+prudent 39:12 
+public 23:5,19 
+puff 35:8 36:24 
+puffery 35:18 
+puffing 34:12,22 
+
+35:12 
+punish 34:5 
+punished 33:24 
+
+36:9,10 
+punishes 29:23 
+punishing 36:6 
+
+36:7 
+purely 46:3 
+purpose 32:23 
+
+34:19 
+put 11:18 20:25 
+
+33:11 35:10 
+38:11,25 43:5 
+43:21 44:9,10 
+46:24 
+
+puts 49:25 
+
+Q 
+qualifications 
+
+46:1 
+qualify 10:16 
+
+12:7 
+qualifying 12:10 
+quantity 49:11 
+quasi-commer... 
+
+47:9 
+question 28:5 
+
+39:6 40:19 
+42:25 44:12 
+45:3,18,23 
+46:5,20 48:10 
+
+questions 19:14 
+30:6 
+
+quick 13:12 
+quite 13:22 30:5 
+
+51:18 
+
+R 
+R 3:1 
+raised 11:11 
+raises 39:5 
+rape 5:25 
+raping 6:7 
+rate 49:9,12 
+ratio 44:23 
+rationale 47:7 
+
+47:12 48:3 
+reach 15:17 
+
+54:12 
+reaction 12:23 
+read 4:14 9:6 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 64 
+
+10:4 12:6,25 
+14:11 26:23 
+36:6 45:18 
+
+reading 14:3 
+54:18,18 
+
+real 9:16 11:9 
+14:8 18:6,14 
+18:21 19:4 
+20:10,11,16,17 
+21:13,15 25:23 
+35:7 47:3 
+54:24 
+
+realistic 37:19 
+37:21 
+
+realize 47:3 
+really 4:12 17:6 
+
+17:19 18:23 
+26:5 31:12,13 
+34:2 35:12,13 
+44:16 46:5 
+
+realm 46:18 
+reason 10:3 11:6 
+
+18:23 20:16 
+21:5 26:11 
+32:25 
+
+reasonable 27:9 
+27:10,15,21 
+35:25 46:2,12 
+47:13 
+
+reasonably 
+35:16 
+
+reasons 26:8 
+REBUTTAL 
+
+2:7 52:10 
+received 9:12 
+
+45:7 
+recognized 7:18 
+recognizes 
+
+39:15 
+redeeming 33:1 
+redundant 37:4 
+reel 6:11 
+reexamine 
+
+39:13 
+referred 16:8 
+reflects 29:14 
+regardless 37:24 
+
+regulates 30:5 
+reject 52:23 
+Rejection 52:18 
+relation 44:22 
+
+45:1 
+relations 8:1 
+relative 53:6,21 
+
+54:3,15 
+relevant 10:6 
+relied 53:12 
+religion 37:25 
+religious 37:24 
+
+37:24 
+relying 40:15,16 
+remain 52:17 
+remainder 27:3 
+
+28:3 
+remaining 52:9 
+remember 
+
+18:10 
+reminded 52:14 
+renders 15:24 
+reply 14:12 16:9 
+report 32:19 
+representation 
+
+20:9 
+request 50:12 
+required 9:4 
+requirement 
+
+27:1,2,5 51:10 
+requirements 
+
+20:13 24:12 
+26:14 
+
+requires 8:16 
+reserve 27:3 
+
+28:3,24 
+respect 18:8 
+
+25:9 26:15,24 
+41:4 43:14 
+54:6 
+
+respectfully 
+46:18 
+
+Respondent 
+1:19 2:6 29:4 
+52:21 53:8 
+
+response 31:17 
+43:14 46:12,14 
+
+responses 12:1 
+responsive 
+
+40:10 
+rest 29:20 
+restrictive 15:22 
+rests 44:1,2 
+review 4:2,25 
+
+5:1,5 
+reviewer 4:1,20 
+
+25:17 26:3,10 
+reviewing 25:18 
+rewrite 42:24 
+rewriting 42:25 
+re-release 25:18 
+RICHARD 1:18 
+
+2:5 29:3 
+rid 53:15 
+right 8:22 9:15 
+
+10:25 15:7 
+20:12 22:3 
+24:2 25:2 32:1 
+32:23 50:5,25 
+
+ROBERTS 3:3 
+3:24 14:10 
+17:7 18:16 
+28:25 29:25 
+34:25 35:14 
+40:9 44:20 
+52:7 55:3 
+
+rule 39:13,22 
+
+S 
+S 2:1 3:1 
+sadistic 23:5 
+salacious 32:21 
+
+50:9,9 
+sale 14:6 
+sales 34:23 
+salesman 34:23 
+satisfied 10:1 
+
+20:13 26:15 
+53:18 
+
+satisfies 35:20 
+satisfying 24:11 
+saw 7:1 
+saying 4:2 12:25 
+
+18:18 20:10 
+
+25:22 30:4 
+38:21,22 40:12 
+43:21 46:20 
+51:13 53:17 
+
+says 9:14 14:7 
+16:9 19:21 
+25:19 28:17 
+38:9,12 42:6 
+49:14 
+
+Scalia 12:12,14 
+24:19 25:1 
+27:4,7,10 
+32:22 33:15,19 
+33:25 34:7,11 
+36:5,8,9,18 
+37:7 43:20 
+
+school 18:4 
+22:12 26:22 
+
+schoolmates 
+15:11 
+
+schools 13:17 
+23:1 48:18 
+
+school-boy 
+13:19 
+
+scienter 20:13 
+22:20 23:8 
+24:11 
+
+scientific 24:15 
+screen 5:11 
+
+27:25 
+second 12:5 
+see 9:7 23:20 
+
+27:25 28:6 
+36:13 41:11 
+46:9 48:17,20 
+
+seen 30:11 45:8 
+45:9,9 46:11 
+
+sees 6:12 
+sell 13:2 16:21 
+
+34:16 
+selling 33:17 
+
+44:3 
+Senator 32:18 
+send 6:15 
+sense 14:22 
+
+24:16 
+sentence 34:6 
+
+separate 41:17 
+41:22 
+
+serial 47:16 
+series 30:11 
+serious 39:20 
+set 41:21 
+seven 27:4 
+sex 26:17 35:11 
+
+35:25 37:9 
+sexual 8:1 25:19 
+
+26:3 28:14 
+31:7 37:9,11 
+
+sexuality 48:17 
+sexually 31:5 
+short 29:23 
+show 13:5 23:20 
+
+37:19 40:14 
+53:5 
+
+showing 13:5,20 
+18:4 20:3,4 
+23:2 
+
+shown 25:14 
+shows 8:2,11 
+
+25:23 
+shrink 42:22 
+side 4:1 
+simpler 39:12 
+simply 13:5 
+
+14:16 19:20 
+22:4 33:13,13 
+38:22 47:11 
+48:12 53:17 
+
+simulated 28:14 
+28:18 
+
+sir 31:16 
+site 16:23 54:23 
+sites 32:3 
+situation 7:6,7 
+
+8:18 10:9 11:4 
+21:22 22:8 
+34:23 43:4 
+44:17 
+
+situations 18:5 
+43:22 
+
+slew 33:19 37:16 
+slightly 17:17 
+small 39:16 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 65 
+
+snuff 5:12,13 
+social 33:2,3,9 
+
+33:11,25 
+soldiers 5:25 6:7 
+solicit 3:15 
+
+51:24,25 
+solicitation 7:9 
+
+11:3 19:18,25 
+20:23 23:17 
+25:10 49:16 
+50:18 51:16,19 
+
+solicited 9:13 
+soliciting 3:17 
+
+14:22 19:7,23 
+41:15 48:14,22 
+50:14 51:12 
+
+Solicitor 1:15 
+30:15 38:12 
+42:6 45:18 
+46:21 47:5,15 
+
+solve 41:25 
+somebody 3:16 
+
+5:3,10,13,15 
+6:11 8:19 10:9 
+13:17 14:5,6 
+16:22 17:22 
+32:2 33:5 
+35:23 44:3 
+51:5 52:2 
+
+somebody's 
+13:5 
+
+sorry 16:6 18:16 
+sort 16:22 17:19 
+
+19:1 25:7 
+27:15 35:18 
+
+sorts 45:7 
+sounds 15:17 
+
+42:7 
+Souter 9:11,20 
+
+9:23 10:2,20 
+11:1,8,25 
+25:12 26:7,21 
+26:25 27:14,18 
+27:19 42:2,20 
+46:20,25 48:5 
+
+special 36:14 
+specific 9:5 
+
+10:15 49:7 
+speech 3:9,12,20 
+
+5:16,17,18 
+16:11,14,16,20 
+16:20 17:8 
+20:20 21:1 
+29:12,12 32:24 
+39:7 40:2,6,18 
+42:1,22 48:2 
+54:8 
+
+stamping 19:4 
+start 3:24 8:9,23 
+
+31:6 54:16 
+started 26:13 
+starting 7:4 
+state 33:19 
+
+48:21 
+statement 5:5 
+
+8:2,4,5 25:15 
+25:21,23 26:2 
+
+states 1:1,3,12 
+3:4 49:3,5 
+
+statute 3:14,19 
+3:23 4:6,8,11 
+4:20 6:1,3,14 
+6:16,23 7:14 
+7:23 8:8,15 9:3 
+9:6,18 10:4,7 
+10:12 11:10,12 
+11:17 12:5,13 
+12:19,22,25 
+13:1,13,15 
+14:2,14 15:17 
+15:21,24 16:3 
+16:13,25 19:15 
+20:17 22:6,17 
+23:3,4,6,9,21 
+24:4,6,12 25:9 
+25:25 26:8,14 
+26:19,20 28:17 
+28:20,22 29:18 
+29:23 30:8,18 
+32:6,8,10,20 
+33:24 34:10 
+35:14 36:6,18 
+36:24 37:2,12 
+37:14 38:13,15 
+
+39:3 41:1,2,14 
+41:16,24 42:17 
+43:3,7,8 45:6 
+45:19 46:17 
+47:24 48:23,24 
+49:25 50:3,5 
+50:21,23 51:9 
+51:24 52:21 
+53:13,22 54:18 
+54:25 
+
+statutes 12:6 
+33:19 
+
+statute's 16:11 
+53:4,7 
+
+statutory 41:22 
+47:11 
+
+steps 48:7 
+Stevens 5:22 6:6 
+
+6:10,17,20,25 
+7:12 19:9,11 
+22:23 
+
+stop 31:20 
+strange 53:11 
+strike 11:6 
+striking 3:23 
+strong 52:15 
+student 27:23 
+stuff 13:20 14:8 
+
+20:10,11 
+sub 48:23,23 
+subjective 8:17 
+
+9:5,25 24:11 
+26:13 27:1 
+35:20 
+
+subjectively 
+29:18 
+
+submit 27:22 
+submitted 55:4 
+
+55:6 
+subsection 10:6 
+substantial 
+
+40:18 42:14,17 
+45:1 47:2,18 
+47:20 48:8 
+53:5,21 
+
+substantively 
+32:7 
+
+subtlety 28:15 
+suddenly 13:15 
+
+13:21 
+sufficiently 6:9 
+
+6:19 29:16 
+suggest 14:21 
+
+18:1 40:20 
+suggested 40:24 
+suggesting 3:18 
+
+25:7 
+suggestion 
+
+16:12 43:15 
+suppose 4:19,24 
+
+5:8 12:22 
+27:19 38:8 
+39:11 41:15,17 
+42:10 
+
+supposed 53:18 
+Supposing 5:22 
+Supreme 1:1,12 
+sure 16:3 21:8 
+
+24:3,10 52:25 
+suspect 15:13 
+
+18:24 
+sweep 45:1 53:7 
+
+53:21 
+systematically 
+
+16:22 
+
+T 
+T 2:1,1 
+tailor 41:24 
+take 5:10 6:2 
+
+12:21 13:9 
+14:9 15:7,10 
+27:2 31:4,6,20 
+34:16 38:10 
+46:15 
+
+taken 21:4 25:21 
+40:2 
+
+talk 15:1 
+talking 8:23 
+
+17:20 18:10 
+26:16 30:9 
+32:13,14 35:19 
+37:25 40:25 
+45:25 46:10 
+
+51:17 
+talks 7:23 
+tape 34:18 
+target 20:17 
+technical 14:18 
+
+20:15 
+technique 43:1 
+teen 35:11,25 
+tell 8:12 33:25 
+
+36:25 41:11 
+49:7 
+
+telling 14:16 
+term 4:23 14:18 
+
+29:8,9 
+terms 4:12,14 
+
+6:1 11:11 14:3 
+53:6 
+
+terrible 22:24 
+test 8:23 35:21 
+Thank 28:25 
+
+52:6,7,12 55:2 
+55:3 
+
+theory 7:16 
+thing 9:4,16 
+
+12:5 14:11 
+17:11,12 19:1 
+20:16,17 25:23 
+34:2 35:1 46:7 
+47:3 50:2 
+54:15 
+
+things 10:15 
+21:14 22:18 
+23:3 27:24 
+32:19 35:5 
+38:16 41:5 
+43:11,12 46:4 
+47:19 
+
+think 4:8,9,10 
+4:12,14,22 
+5:15,19 7:9,15 
+7:22 8:7,21,23 
+9:3 10:3,5 11:3 
+11:23 12:1,9 
+12:18 13:8,18 
+13:19,24 14:1 
+14:3,24 15:3,9 
+15:20 16:12,18 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 66 
+
+16:19,22 17:4 
+17:17 18:8 
+19:12,17 21:4 
+21:5,25 22:7 
+24:18 25:2 
+26:9,12,18,25 
+27:1,6,8 28:1 
+28:12,14,20 
+31:8,9,10,21 
+31:23 32:2 
+33:7 35:6,7,22 
+35:25 36:5,23 
+36:23 37:11 
+38:9,15 39:25 
+40:9 43:9,25 
+44:16 46:7 
+47:22 48:13 
+49:20 50:6,7 
+50:16,17 53:2 
+54:6,9,10,13 
+54:17 
+
+thinking 6:11 
+17:18 41:5 
+
+third 11:22 
+thought 13:23 
+
+15:18 17:13 
+27:11 29:23 
+30:4 32:23 
+37:11 39:9 
+41:3 45:21 
+50:11 51:23 
+
+thoughts 30:1,5 
+32:21 50:9 
+
+three 39:1 42:5 
+52:8 
+
+time 28:3,12 
+32:11 45:8,8 
+51:20 
+
+times 52:15 
+Titanic 35:9,24 
+totally 13:21 
+town 9:14 
+trade 13:2 
+trademark 
+
+34:15 
+traditional 
+
+32:18 
+
+Traffic 22:1 
+28:5,10 38:4 
+43:12 46:8 
+
+trailer 35:10 
+transaction 3:10 
+
+3:13 
+treat 40:12 
+trial 6:12 
+tried 5:15 
+true 18:12 25:21 
+
+36:10 
+trust 53:11 
+truth 19:2 36:25 
+truthful 3:20 
+
+5:20 8:4 25:14 
+25:23 26:2 
+
+truthfully 22:5 
+try 4:18 12:1 
+
+23:11,24 
+trying 13:2,3 
+
+20:14 31:19 
+Tuesday 1:9 
+turn 5:15 
+turning 3:17 
+turns 35:2 
+TV 45:9 
+two 10:4 12:1 
+
+22:18 26:8 
+30:5 35:4 38:6 
+38:25 48:7 
+
+type 18:18 30:2 
+37:25 
+
+types 38:6 48:11 
+
+U 
+unconstitutio... 
+
+19:16 52:22 
+53:5 
+
+unconstitutio... 
+29:10 
+
+undercover 
+54:24 
+
+underlying 5:20 
+5:22 7:17 
+21:20,23 23:15 
+26:10 
+
+understand 6:13 
+
+8:14 26:1 28:1 
+28:11 46:22 
+53:12 
+
+understanding 
+11:19 17:7 
+
+understood 
+14:13,20 38:18 
+40:19 46:3 
+
+undoubtedly 
+44:3 
+
+unduly 54:19 
+unfettered 
+
+29:17 
+unfortunately 
+
+19:5 45:13 
+unique 11:2 
+United 1:1,3,12 
+
+3:4 
+universe 19:9 
+
+42:21 
+unlawful 3:10 
+
+3:12 12:21 
+18:11 
+
+unprotected 
+3:13 44:22 
+
+unsolicited 18:3 
+unusual 5:8 
+upholding 7:19 
+urging 53:15 
+use 27:4,7,8,14 
+
+27:15 34:18 
+uses 37:3 
+
+V 
+v 1:5 3:4 
+vague 22:21 
+
+29:10 35:18 
+vagueness 28:21 
+valid 7:6,8,13,16 
+
+24:9 53:24 
+value 7:24 24:16 
+
+32:24 33:2,3,9 
+33:11,16,25 
+
+various 47:7 
+verb 51:8 
+verbatim 54:2 
+verbs 37:7 
+
+versus 53:24 
+video 22:12,14 
+
+22:14 31:4 
+videotape 34:14 
+videotapes 23:2 
+view 15:22 
+
+19:14 31:1 
+38:21 47:15 
+
+viewers 47:13 
+views 41:9 
+violate 6:16 
+violated 9:18 
+violates 32:8 
+
+51:14 
+violating 34:14 
+Virginia 53:22 
+virtual 20:7 
+visual 24:13 
+
+W 
+wait 40:20 
+wake 18:12 19:3 
+want 14:7 15:23 
+
+23:19 34:3,4 
+34:14,15,16 
+38:22 
+
+wanted 6:15 
+14:2 16:7 
+22:16 
+
+wants 4:18 9:7 
+41:11 
+
+war 5:24 6:12 
+6:25 
+
+Washington 1:8 
+1:16 
+
+wasn't 26:4 
+way 4:3 6:9 7:9 
+
+8:16 9:5,24 
+11:21 13:23 
+14:11 15:21,24 
+17:20 23:24 
+24:5,9,17 25:3 
+25:9 26:1,2 
+34:21 45:5 
+47:6,7 53:18 
+54:9 
+
+ways 12:7 25:8 
+
+web 16:23 
+went 30:16 
+We'll 3:3 
+we're 18:10 
+
+32:13,14,19 
+37:25 40:7,12 
+40:25 41:7 
+43:24 44:15 
+46:24 
+
+we've 11:17 30:9 
+30:11,15 44:18 
+
+whatnot 34:15 
+45:5 
+
+whatsoever 
+53:24 
+
+Williams 1:6 3:5 
+word 37:2,10 
+
+38:14 45:20 
+46:15 51:23 
+54:18 
+
+words 14:15,21 
+17:14 29:23 
+34:17 37:3 
+40:3,15 44:25 
+46:2 48:1 
+51:15,21 
+
+work 22:19 
+works 52:1 
+world 18:6,14 
+
+18:21,24 19:4 
+35:7 42:21 
+45:7 
+
+worry 4:21 22:5 
+25:15 
+
+wouldn't 4:5 6:2 
+27:6,14,14 
+28:8,9 40:11 
+42:6,13,16 
+43:8 47:17 
+
+write 4:1 14:2 
+43:6 
+
+writing 39:2 
+43:2 
+
+written 13:23 
+43:7 
+
+wrong 30:18 
+32:16 38:23 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 67 
+
+X 
+x 1:2,7 
+
+Y 
+year 7:25 8:11 
+
+8:12,13 27:4 
+27:19,23 28:7 
+47:2 48:10,11 
+48:15 49:25 
+
+years 26:21 
+33:12,12 45:11 
+48:17 50:1 
+
+York 32:6 
+young 5:25 6:7 
+
+8:13 
+
+Z 
+zone 5:24 
+
+0 
+06-694 1:5 3:4 
+
+1 
+10:02 1:13 3:2 
+11 54:2 
+11:01 55:5 
+12 7:25 8:11,11 
+
+8:13 
+17 26:21 27:19 
+
+27:23 28:7,11 
+47:2 48:10,15 
+49:25 
+
+17-year 19:10 
+18 48:11 
+1997 49:8 
+
+2 
+2 10:17 
+20 33:12 48:17 
+
+50:1 
+20-year 29:9 
+
+34:6 
+2004 49:8 
+2007 1:9 
+29 2:6 
+
+3 
+3 2:4 
+
+30 1:9 45:10 
+
+4 
+4 14:12 16:9 
+452 49:9 
+
+5 
+5 33:12 34:5 
+
+48:17 50:1 
+5-year 29:8 
+52 2:9 
+
+6 
+6a 10:7 
+
+9 
+99.6 49:13 
+
+Alderson Reporting Company 
+
+

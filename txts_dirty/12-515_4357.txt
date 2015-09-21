@@ -1,0 +1,5337 @@
+
+                       
+
+          
+
+                       
+
+ 
+
+ 
+
+ 
+
+ 
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+3 MICHIGAN,  : 
+
+4  Petitioner  :  No. 12­515 
+
+5  v.  : 
+
+6 BAY MILLS INDIAN COMMUNITY, ET AL.: 
+
+7 ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+8  Washington, D.C. 
+
+9  Monday, December 2, 2013 
+
+10 
+
+11  The above­entitled matter came on for oral 
+
+12 argument before the Supreme Court of the United States 
+
+13 at 10:04 a.m. 
+
+14 APPEARANCES: 
+
+15 JOHN J. BURSCH, ESQ., Michigan Solicitor General, 
+
+16  Lansing, Michigan; on behalf of Petitioner. 
+
+17 NEAL KUMAR KATYAL, ESQ., Washington, D.C.; on behalf of 
+
+18  Respondents. 
+
+19 EDWIN S. KNEEDLER, ESQ., Deputy Solicitor General, 
+
+20  Department of Justice, Washington, D.C.; for United 
+
+21  States, as amicus curiae, supporting Respondents. 
+
+22 
+
+23 
+
+24 
+
+25 
+
+1
+ 
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                   
+
+           
+
+                    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF  PAGE 
+
+3 JOHN J. BURSCH, ESQ. 
+
+4  On behalf of the Petitioner  3 
+
+5 ORAL ARGUMENT OF 
+
+6 NEAL KUMAR KATYAL, ESQ. 
+
+7  On behalf of the Respondents  29 
+
+8 ORAL ARGUMENT OF 
+
+9 EDWIN S. KNEEDLER, ESQ. 
+
+10  For United States, as amicus curiae,  50 
+
+11  supporting Respondents 
+
+12 REBUTTAL ARGUMENT OF 
+
+13 JOHN J. BURSCH, ESQ. 
+
+14  On behalf of the Petitioner  60 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+2
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (10:04 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS:  We will hear 
+
+4 argument first this morning in Case 12­515, 
+
+5 Michigan v. Bay Mills Indian Community. 
+
+6  Mr. Bursch. 
+
+7  ORAL ARGUMENT OF JOHN J. BURSCH 
+
+8  ON BEHALF OF THE PETITIONER 
+
+9  MR. BURSCH:  Thank you, Mr. Chief Justice, 
+
+10 and may it please the Court: 
+
+11  After Bay Mills' concession on the first 
+
+12 question presented, the only issue is whether Bay Mills 
+
+13 enjoys blanket immunity from suit when it engages in 
+
+14 illegal, off­reservation, commercial conduct.  And the 
+
+15 answer is no, for at least two reasons. 
+
+16  First, it makes no sense that Congress 
+
+17 intended States to have a Federal injunctive remedy for 
+
+18 illegal gaming on reservation, but no injunctive remedy 
+
+19 if that gaming takes place on land that is subject to 
+
+20 the State's exclusive jurisdiction. 
+
+21  Second, a tribe should not have greater 
+
+22 immunity than foreign nations.  There's no dispute that, 
+
+23 if France opened up an illegal business in Michigan, 
+
+24 casino or otherwise, it would have no blanket immunity. 
+
+25  JUSTICE SOTOMAYOR:  Counsel, before you go 
+
+3
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 on, could you address the jurisdiction question for me? 
+
+2 I'm not sure why you're here.  The only injunction that 
+
+3 I see was entered on behalf of Little ­­ Little 
+
+4 Traverse's and not on behalf of the State. 
+
+5  But ­­ and so, the counts that you're 
+
+6 arguing about were added after the injunction was 
+
+7 issued.  How do you have jurisdiction to act ­­ to argue 
+
+8 someone else's injunction? 
+
+9  MR. BURSCH:  That's not quite correct, 
+
+10 Justice Sotomayor.  Originally, this case was filed as 
+
+11 two separate lawsuits.  Michigan was a plaintiff, and 
+
+12 then the other tribe was a plaintiff in the separate 
+
+13 case.  Those cases were consolidated, and then when the 
+
+14 motion for injunction was filed, Michigan joined in that 
+
+15 motion, filed a brief supporting it, and everyone 
+
+16 proceeded under the assumption that both the tribe and 
+
+17 the State were asking for the injunction. 
+
+18  JUSTICE SOTOMAYOR:  That, in fact, is not 
+
+19 what the district court said.  The district court 
+
+20 explicitly said in its order granting the injunction 
+
+21 that the State hadn't filed an injunction, hadn't 
+
+22 intervened, and had only filed supporting papers in 
+
+23 support of Little Traverse's case. 
+
+24  I'm a little ­­ I'm very, very confused as I 
+
+25 look at what the district court said.  It explicitly 
+
+4
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 said you weren't part of the order. 
+
+2  MR. BURSCH:  Well, again, they were 
+
+3 consolidated cases.  We were supporting the 
+
+4 injunction ­­
+
+5  JUSTICE SOTOMAYOR:  I think "consolidated" 
+
+6 can have two meanings and ­­ and ­­ to be heard together 
+
+7 or to be joined together.  I don't think the district 
+
+8 court understood that this was going to be joined 
+
+9 together.  Why did it say what it did? 
+
+10  MR. BURSCH:  Well, I think it was 
+
+11 everybody's understanding that these were joined 
+
+12 together because the parties were pursuing the exact 
+
+13 same issues.  And so then, once this went up to the 
+
+14 Sixth Circuit, there was no question in the Sixth 
+
+15 Circuit's mind ­­
+
+16  JUSTICE SOTOMAYOR:  So why didn’t you file an 
+
+17 injunction ­­ why does your brief say that you filed it 
+
+18 only in support of Little Traverse and not on your own 
+
+19 behalf? 
+
+20  MR. BURSCH:  Because, once the cases were 
+
+21 consolidated ­­ and at that point, we were even using 
+
+22 the same docket entries, there was already a motion on 
+
+23 file, so there was no need to have a second motion.  It 
+
+24 was clear to everyone that the State of Michigan and the 
+
+25 tribe were both pursuing that injunctive relief 
+
+5
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 together.  And that's exactly the way the Sixth Circuit 
+
+2 treated it. 
+
+3  JUSTICE SOTOMAYOR:  I'll ask ­­ I'll ask 
+
+4 your opposition, but I don't see why the district court 
+
+5 would have made the point it did, if it believed that it 
+
+6 was dealing with both of you as parties. 
+
+7  MR. BURSCH:  Well, everyone has proceeded up 
+
+8 the chain, including in the Sixth Circuit opinion, on 
+
+9 the assumption that it was consolidated, that Michigan 
+
+10 was requesting an injunction and, in fact, that kind of 
+
+11 a procedural objection has never been raised by anybody, 
+
+12 certainly not at the petition stage. 
+
+13  JUSTICE SOTOMAYOR:  No, but we have to ­­ we 
+
+14 have to, if we're not sure, raise any jurisdictional 
+
+15 issue. 
+
+16  MR. BURSCH:  Sure.  But I think it was 
+
+17 eminently clear to the Sixth Circuit, if you read its 
+
+18 opinion ­­
+
+19  JUSTICE SOTOMAYOR:  Well, it wasn't 
+
+20 eminently clear to the district court who entered the 
+
+21 order. 
+
+22  CHIEF JUSTICE ROBERTS:  Is that a 
+
+23 jurisdictional objection or a procedural one? 
+
+24  MR. BURSCH:  Your Honor, it's a procedural 
+
+25 objection.  The only jurisdictional question in this 
+
+6
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 case is whether there's Federal question jurisdiction 
+
+2 under 1331, which has been conceded, and the United 
+
+3 States agrees to that, and so I'm not going to spend my 
+
+4 time on that.  Where I would like to spend my time is on 
+
+5 the scope of tribal immunity. 
+
+6  JUSTICE GINSBURG:  Before you do that, can 
+
+7 you tell ­­ tell us why Michigan didn't resort to the 
+
+8 dispute resolution means that the compact provided?  The 
+
+9 compact said, if there's a dispute, it'll be decided by 
+
+10 arbitration.  Michigan bypassed that. 
+
+11  MR. BURSCH:  That's correct, Justice 
+
+12 Ginsburg, and there were two reasons for that.  The 
+
+13 first is that that provision was only discretionary, as 
+
+14 we explain in our reply brief.  But even more important, 
+
+15 the compact also makes clear that the tribe did not 
+
+16 waive its sovereign immunity for purposes of 
+
+17 arbitration. 
+
+18  So if we had gone to arbitration and 
+
+19 prevailed, if the arbitrator had reached the same result 
+
+20 as the Federal government did, as to the status of these 
+
+21 lands being not Indian lands, then ­­
+
+22  JUSTICE KAGAN:  I'm sorry.  Could you 
+
+23 explain that?  Because I thought that the purpose ­­
+
+24 that the whole point of the C&L Enterprises case is to 
+
+25 say that when a tribe agrees to arbitration, it has 
+
+7
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 waived its sovereign immunity for that purpose in that 
+
+2 proceeding.  Are you saying that there was something 
+
+3 special in this agreement? 
+
+4  MR. BURSCH:  I am, Justice Kagan, and I'm 
+
+5 glad you brought up C&L because, there, you had a 
+
+6 construction contract where there was invocation of an 
+
+7 arbitration remedy and it didn't specifically preserve 
+
+8 tribal immunity. 
+
+9  Here, we have the exact opposite.  In the 
+
+10 same paragraph 7 of the compact where we have the 
+
+11 arbitration provision, the tribe and the State agree 
+
+12 that, notwithstanding the arbitration provision, both 
+
+13 parties' sovereign immunity is not waived and that 
+
+14 it's ­­ it's preserved. 
+
+15  So, if we took a successful arbitration 
+
+16 judgment and then tried to reduce that to a Federal 
+
+17 judgment in court, they would have asserted immunity and 
+
+18 we would be in the exact same procedural posture that we 
+
+19 are right now, talking about the scope of tribal 
+
+20 immunity involving illegal off­reservation gaming. 
+
+21  CHIEF JUSTICE ROBERTS:  Why ­­ why did ­­
+
+22 along the same lines, why did you assert sovereign 
+
+23 immunity as a defense when the tribe brought a 
+
+24 declaratory judgment action concerning the status of 
+
+25 those lands? 
+
+8
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. BURSCH:  Because, again, it wouldn't 
+
+2 have done any good for us to stipulate to jurisdiction 
+
+3 on the tribe's claim about the status of the lands 
+
+4 because simply having a declaratory judgment wouldn't 
+
+5 have given us any relief.  We would have had to file a 
+
+6 counterclaim for injunctive relief and the tribe, 
+
+7 undoubtedly, would have filed ­­ or 
+would have 
+
+8 asserted a tribal immunity there as well. 
+
+9  So, really, all roads lead to tribal 
+
+10 immunity, no matter how ­­
+
+11  JUSTICE SOTOMAYOR:  All roads lead to one 
+
+12 issue, I think.  If you had gotten a declaratory 
+
+13 judgment, they would have had to stop their gaming 
+
+14 activity. 
+
+15  MR. BURSCH:  No ­­
+
+16  JUSTICE SOTOMAYOR:  But you wouldn't have 
+
+17 gotten their property; isn't that what this suit is 
+
+18 about, you trying to take over the ­­ the casino? 
+
+19  MR. BURSCH:  No, we don't want to take over 
+
+20 the casino.  We want to stop illegal gaming on lands, 
+
+21 subject to Michigan's exclusive jurisdiction. 
+
+22  JUSTICE SOTOMAYOR:  So why not Ex Parte 
+
+23 Young?  You point to one or two cases in the lower 
+
+24 courts that suggest there not might be Ex Parte Young 
+
+25 jurisdiction, but those cases are distinguishable.  So 
+
+9
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 why not go after just the officials? 
+
+2  MR. BURSCH:  Two responses to that, Justice 
+
+3 Sotomayor, one, kind of a practical consideration and 
+
+4 then one a broader federalism principle that I ­­ that I 
+
+5 want to emphasize.  The narrow practical point is that 
+
+6 Ex Parte Young is an imperfect remedy for lots of 
+
+7 reasons, as we express in the brief. 
+
+8  It's well settled that you can't get 
+
+9 specific performance on the contract, you can't enforce 
+
+10 a State law in Federal court, you can't get money or 
+
+11 seize assets in an Ex Parte Young action.  And that's 
+
+12 why lower courts ­­
+
+13  JUSTICE SOTOMAYOR:  But all you wanted to do 
+
+14 was stop them from doing the gaming casino. 
+
+15  MR. BURSCH:  Well, it's not clear ­­
+
+16  JUSTICE SOTOMAYOR:  You would have gotten 
+
+17 that. 
+
+18  MR. BURSCH:  It's not clear at all to us 
+
+19 that we would be able to get that relief, based on the 
+
+20 lower court holdings. 
+
+21  Now, the bigger sovereignty point is that, 
+
+22 if a foreign country, if France or Haiti came in and 
+
+23 opened the same casino, the State would have the full 
+
+24 panoply of remedies available to it.  And it should have 
+
+25 those remedies because any additional immunity you give 
+
+10
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 to the tribe, when it's engaging in illegal conduct on 
+
+2 lands subject to Michigan's exclusive jurisdiction, you 
+
+3 are necessarily taking away from the sovereign authority 
+
+4 of the State of Michigan.  That's a lesser remedy. 
+
+5  JUSTICE GINSBURG:  That's ­­ all that ­­ the 
+
+6 enigma that you pointed out ­­ or the anomaly is ­­ is 
+
+7 certainly clear.  But what about Kiowa?  This Court 
+
+8 seemed to say that the tribe is immune on reservation, 
+
+9 off reservation, commercial activity, government 
+
+10 activity, it is immune, blanket immunity. 
+
+11  So how can you prevail without having this 
+
+12 Court modify Kiowa. 
+
+13  MR. BURSCH:  Here's how, Justice Ginsburg: 
+
+14 Because Kiowa involved a private party plaintiff.  It 
+
+15 did not involve a sovereign State.  And this Court has 
+
+16 stated, repeatedly, that States are different.  We are 
+
+17 constitutional sovereigns, and so we aren't treated like 
+
+18 ordinary business plaintiffs. 
+
+19  In that case, the fact that the plaintiff 
+
+20 could not enforce his promissory note did not directly 
+
+21 implicate a State police power.  Here ­­
+
+22  JUSTICE KENNEDY:  What's your best 
+
+23 authority ­­ what's your best case for that proposition? 
+
+24  MR. BURSCH:  For the proposition that States 
+
+25 are different? 
+
+11
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  JUSTICE KENNEDY:  That ­­ that States have a 
+
+2 lesser burden when they're faced with a sovereign 
+
+3 immunity defense? 
+
+4  MR. BURSCH:  I wouldn't say that it's a 
+
+5 lesser burden, but I think you need to analyze this as a 
+
+6 zero sum gain, that when you're talking about activity 
+
+7 taking place on sovereign State land and you're not 
+
+8 allowing the State to have its whole panoply of 
+
+9 remedies, that you've taken away an attribute of 
+
+10 sovereignty that ­­ that would have existed. 
+
+11  JUSTICE KENNEDY:  What's your best case for 
+
+12 that? 
+
+13  MR. BURSCH:  I would basically just cite all 
+
+14 of the cases this Court has decided over the last 
+
+15 quarter century involving the ADA, the ADEA, where this 
+
+16 Court has consistently recognized that States are 
+
+17 different.  Sovereigns ­­
+
+18  JUSTICE KENNEDY:  You know, that's ­­ that's 
+
+19 a big reading assignment. 
+
+20  (Laughter.) 
+
+21  JUSTICE BREYER:  The question is this: 
+
+22 Three situations ­­ I think it's the same question 
+
+23 Justice Kennedy was driving at.  One, France opens up a 
+
+24 casino. 
+
+25  MR. BURSCH:  Yes. 
+
+12
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  JUSTICE BREYER:  Two, California opens up a 
+
+2 casino. 
+
+3  MR. BURSCH:  Yes. 
+
+4  JUSTICE BREYER:  Three, an Indian tribe 
+
+5 opens up a casino, okay? 
+
+6  MR. BURSCH:  Correct. 
+
+7  JUSTICE BREYER:  Now, what is it that says 
+
+8 that the State where the casino is located can sue 
+
+9 France?  What is it that says it can sue California? 
+
+10 All ­­ they all object.  What is it that says it can sue 
+
+11 the Indian tribe? 
+
+12  MR. BURSCH:  Thank you, Justice Breyer. 
+
+13 And, Justice Kennedy, hopefully, this will reduce the 
+
+14 reading assignment. 
+
+15  The case that says we can sue France is 
+
+16 Alfred Dunhill, which was this Court's decision that 
+
+17 first recognized the commercial distinction for foreign 
+
+18 nation immunity.  Now ­­
+
+19  JUSTICE BREYER:  Now, was that a statute or 
+
+20 common law? 
+
+21  MR. BURSCH:  That was common law, common law 
+
+22 development in Alfred Dunhill. 
+
+23  Now, shortly after that, Congress did enact 
+
+24 the Foreign Sovereign Immunities Act, which essentially 
+
+25 codified this Court's common law rule, and once that 
+
+13
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 happens, then the common law development ­­
+
+2  JUSTICE BREYER:  Okay.  California? 
+
+3  MR. BURSCH:  So California, the case is 
+
+4 Nevada v. Hall in which ­­ this case said that a State's 
+
+5 sovereign immunity from suit does not extend when it's 
+
+6 got actors in another State.  There, Nevada's agent was 
+
+7 acting in California, and the Court held that that actor 
+
+8 could be liable for suit in California. 
+
+9  JUSTICE BREYER:  Okay.  All those are common 
+
+10 law.  Both ­­
+
+11  MR. BURSCH:  All common law. 
+
+12  JUSTICE BREYER:  Then what do you do about 
+
+13 Kiowa? 
+
+14  MR. BURSCH:  Well, that's the thing.  Kiowa 
+
+15 or Kiowa did not involve a State as sovereign.  It 
+
+16 involved a private business plaintiff, and it's 
+
+17 distinguishable on that basis. 
+
+18  And if you disagree with me and you think 
+
+19 that sovereign States should be treated the same way as 
+
+20 private party plaintiffs, then we would ask you to 
+
+21 overrule that part of Kiowa which suggested that tribes 
+
+22 can engage in illegal commercial conduct on land subject 
+
+23 to exclusive State jurisdiction without any ­­
+
+24  JUSTICE KAGAN:  But I think this is what 
+
+25 Justice Kennedy was ­­ was getting at, when he asked you 
+
+14
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 for a case, because what you're saying now is that when 
+
+2 the State is the plaintiff ­­
+
+3  MR. BURSCH:  Yes. 
+
+4  JUSTICE KAGAN:  ­­ the sovereign immunity of 
+
+5 the tribe disappears, so ­­
+
+6  MR. BURSCH:  Well, not disappears.  But 
+
+7 it ­­ it disappears when they move off reservation and 
+
+8 they're acting in a commercial capacity. 
+
+9  JUSTICE KAGAN:  Okay.  So what ­­ I guess 
+
+10 what's ­­ what's ­­ what's the case that would suggest 
+
+11 that, when the plaintiff shifts, the sovereign immunity 
+
+12 is ­­ goes away? 
+
+13  MR. BURSCH:  This Court's case that would 
+
+14 suggest that is the Oklahoma Tax Commission case because 
+
+15 that was a case where a State, not exercising a police 
+
+16 power, but one of its lesser powers, the power of 
+
+17 taxation, was attempting to tax cigarettes that were 
+
+18 being sold on Indian trust land by a tribe. 
+
+19  And in that case, the Court acknowledged 
+
+20 that, even on trust lands ­­ so this isn't on land 
+
+21 that's subject to State exclusive jurisdiction, that the 
+
+22 State would be able to tax those cigarettes being sold 
+
+23 to non­tribal members.  It's not ­­
+
+24  JUSTICE BREYER:  You know, but the question 
+
+25 specifically then ­­ I think we're driving at the same 
+
+15
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 thing ­­ is, remember, you just cited to me two cases ­­
+
+2  MR. BURSCH:  Yes. 
+
+3  JUSTICE BREYER:  ­­ one involving France and 
+
+4 one involving California. 
+
+5  MR. BURSCH:  Yes. 
+
+6  JUSTICE BREYER:  And I had assumed ­­ but 
+
+7 maybe I was wrong to assume ­­ that when I read those 
+
+8 cases, I will see, although a State can sue France, 
+
+9 although Nevada can sue California, a private individual 
+
+10 could not.  Am I going to find that when I read those 
+
+11 two cases? 
+
+12  MR. BURSCH:  Well ­­
+
+13  JUSTICE BREYER:  Now, I think the answer to 
+
+14 Justice Kagan is I'm not going to find it.  So we're 
+
+15 looking for authority, back to Justice Kennedy, that 
+
+16 will support your proposition that the State could sue 
+
+17 France, Nevada could sue California, but a private 
+
+18 individual could not. 
+
+19  MR. BURSCH:  I think the Oklahoma Tax 
+
+20 Commission case would be the closest because, even if 
+
+21 you had a private individual who was trying to sue a 
+
+22 tribe for conduct that was taking place on trust land, 
+
+23 they would not be able to do it.  What ­­
+
+24  JUSTICE BREYER:  Now, what you're asking us 
+
+25 to do then, if the answer is what I now think you're 
+
+16
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 saying, is to say it's awfully complicated that, 
+
+2 although a State could sue an Indian tribe for something 
+
+3 that is outside the reservation, the State ­­ it's so 
+
+4 complicated that I'd like some good authority for it, 
+
+5 because a private person couldn't, but a State could 
+
+6 sue, and it's only in certain places. 
+
+7  MR. BURSCH:  Well, there ­­ there's lots of 
+
+8 places that you could draw the line in this case. 
+
+9  JUSTICE BREYER:  How about drawing the line 
+
+10 with Kiowa? 
+
+11  MR. BURSCH:  Here's what I'm going to 
+
+12 suggest:  Nine justices in Kiowa, both the majority and 
+
+13 the dissent, recognized that there were substantial 
+
+14 issues with applying tribal immunity on or off 
+
+15 reservation in the commercial context. 
+
+16  This Court had done away with that for 
+
+17 foreign nations in Alfred Dunhill.  It decided to give 
+
+18 Congress one more chance in ­­ in Kiowa, but ­­ but left 
+
+19 the question open for further common law development. 
+
+20  JUSTICE GINSBURG:  But once the Congress 
+
+21 didn't respond, the majority opinion in Kiowa ­­ I don't 
+
+22 know whether it's "Kiowa" or "Kiowa" ­­ said ­­ you 
+
+23 know, this is an unfortunate result, but Congress can do 
+
+24 something about it.  Well, now Congress hasn't done 
+
+25 anything about it, and you are asking this Court, 
+
+17
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 essentially, to modify the ­­ that precedent. 
+
+2  MR. BURSCH:  I am.  I mean, I don't think 
+
+3 you need to modify it.  I think you could distinguish it 
+
+4 based on the fact that there's a private party plaintiff 
+
+5 there.  But if you feel otherwise, that you need to 
+
+6 modify it in order to rule in our favor, it's ­­ it's 
+
+7 totally within your power. 
+
+8  As we explained, at length in the context of 
+
+9 foreign nation sovereign immunity, it's a body of common 
+
+10 law that this Court is free to modify as appropriate. 
+
+11  JUSTICE ALITO:  Well, why is the ­­ why is 
+
+12 that important?  Why is the issue that you've brought 
+
+13 before us important?  In addition to the possibility of 
+
+14 an Ex Parte Young action, you could certainly arrest 
+
+15 people who are running what you believe is an illegal 
+
+16 casino in the State, can't you? 
+
+17  MR. BURSCH:  Well, there are ­­ there are at 
+
+18 least two reasons why that is also an imperfect remedy. 
+
+19 The most obvious one is that it creates exactly the kind 
+
+20 of inter­sovereign conflict that Congress was trying to 
+
+21 avoid when it allowed, under IGRA, for States to get 
+
+22 injunctions, even for on­reservation conduct. 
+
+23  JUSTICE ALITO:  But, in addition to that, 
+
+24 couldn't you have stopped this before it even started by 
+
+25 insisting in the compact that the tribe waive sovereign 
+
+18
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 immunity? 
+
+2  MR. BURSCH:  Well, that's ­­ that's a great 
+
+3 question, and the answer to that is twofold.  First, 
+
+4 when the compact was negotiated back in 1993, this Court 
+
+5 had not decided Kiowa.  That came five years later in 
+
+6 1998.  And so Congress and the States reasonably assumed 
+
+7 at that time that, if a tribe was engaged in illegal 
+
+8 commercial conduct off reservation, that, of course, a 
+
+9 State would have the ability ­­
+
+10  JUSTICE ALITO:  Going forward then ­­
+
+11  JUSTICE KENNEDY:  Why couldn't you at 
+
+12 least ­­ I think this is Justice Alito's question.  I 
+
+13 don't mean to interrupt.  But why couldn't you say that 
+
+14 it's a matter of compact interpretation whether these 
+
+15 are Indian lands? 
+
+16  MR. BURSCH:  A matter of compact 
+
+17 interpretation whether these are Indian lands? 
+
+18  JUSTICE KENNEDY:  Right.  So you go to 
+
+19 Federal court to interpret the contract.  There's no ­­
+
+20 immunity has been waived, and you say these are not 
+
+21 Indian lands.  I think that's what Justice Alito was 
+
+22 asking.  I didn't mean to interrupt him. 
+
+23  MR. BURSCH:  I ­­ I didn't get quite the 
+
+24 same question from Justice Alito. 
+
+25  JUSTICE ALITO:  Well, that's a more 
+
+19
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 sophisticated version of my question. 
+
+2  (Laughter.) 
+
+3  JUSTICE ALITO:  No.  Seriously, it gets into 
+
+4 a more ­­ more difficult issue. 
+
+5  MR. BURSCH:  Right.  Well, if I can finish 
+
+6 answering Justice Alito's question.  You asked why we 
+
+7 can't just go in and arrest.  And ­­ and the second 
+
+8 answer to that, besides the ­­ the conflict of going in 
+
+9 with armed police guards and arresting tribal officials 
+
+10 and hauling them off to county jail, which Congress 
+
+11 tried to avoid when it enacted IGRA in the first place, 
+
+12 it's what everybody wanted. 
+
+13  Again, it's limiting State sovereignty ­­
+
+14  JUSTICE ALITO:  Well, I understand that. 
+
+15  MR. BURSCH:  ­­ any time you take out 
+
+16 our ­­
+
+17  JUSTICE ALITO:  But going forward, is this 
+
+18 of any importance?  Why ­­
+
+19  MR. BURSCH:  Oh, this is of tremendous 
+
+20 importance. 
+
+21  JUSTICE ALITO:  It seems to me, if a tribe 
+
+22 wants to open a casino and the State has to ­­ it has to 
+
+23 have a compact with the State, isn't all the bargaining 
+
+24 power on the ­­ on the side of the State?  So the State 
+
+25 says, fine, if you want to do that, you have to waive 
+
+20
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 sovereign immunity? 
+
+2  MR. BURSCH:  Well, we had a compact in place 
+
+3 in 1993 that limited their casinos, so that this 
+
+4 wouldn't happen.  Going forward ­­
+
+5  JUSTICE ALITO:  Well, I ­­ but I mean, when 
+
+6 will ­­ when will this compact expire? 
+
+7  MR. BURSCH:  Right.  Let me give you a very 
+
+8 practical answer to that question.  This compact, in 
+
+9 1993, had a 20­year term on it.  And so it essentially 
+
+10 expired at the end of ­­ of November, just a few days 
+
+11 ago, although it has an evergreen clause that allows it 
+
+12 to continue while the parties try to negotiate a new 
+
+13 compact. 
+
+14  And, as you would imagine, the very first 
+
+15 thing Michigan asked for in its proposed amended compact 
+
+16 was to waive tribal sovereign immunity to deal with 
+
+17 issues like this.  And, unsurprisingly, the tribe said, 
+
+18 we're really not interested in that; we kind of like the 
+
+19 way the sovereignty issue is preserved in the existing 
+
+20 compact. 
+
+21  Now, the question about whether this has an 
+
+22 impact beyond tribal gaming, the answer is ­­
+
+23  JUSTICE ALITO:  If I could just pursue that? 
+
+24  MR. BURSCH:  Sure. 
+
+25  JUSTICE ALITO:  So the compact has expired, 
+
+21
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 and there's ­­ so then how can they operate the casino? 
+
+2  MR. BURSCH:  Well, it hasn't expired.  Until 
+
+3 the parties ­­
+
+4  JUSTICE ALITO:  Until they reach a new 
+
+5 compact, it continues. 
+
+6  MR. BURSCH:  Until they reach a new compact, 
+
+7 it continues in effect. 
+
+8  CHIEF JUSTICE ROBERTS:  Is the status of the 
+
+9 land as Indian lands determined by the compact? 
+
+10  MR. BURSCH:  No, it's not determined by the 
+
+11 compact.  It would be determined as a matter of Federal 
+
+12 law.  That's the Federal question in this case.  And ­­
+
+13  JUSTICE SOTOMAYOR:  Could I ask you a 
+
+14 question? 
+
+15  JUSTICE KENNEDY:  But the compact refers to 
+
+16 Indian lands.  Surely, you could take the position that 
+
+17 there is a waiver of immunity to determine whether or 
+
+18 not these are Indian lands under the compact. 
+
+19  MR. BURSCH:  I don't think we could, 
+
+20 respectfully, Justice Kennedy, because the compact does 
+
+21 not envision that the tribe has waived immunity for any 
+
+22 purposes.  If you look at Section 7 of the compact, 
+
+23 it's ­­ it's really unequivocal about the tribe not 
+
+24 waiving immunity. 
+
+25  JUSTICE SOTOMAYOR:  Could I ask you a 
+
+22
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 question?  What ­­ what would happen if this were Indian 
+
+2 lands, and they went ahead and did exactly what they 
+
+3 did?  They ­­ there was no dispute that these were 
+
+4 Indian lands. 
+
+5  Would you have had grounds to object to them 
+
+6 building a casino on these lands. 
+
+7  MR. BURSCH:  We would not. 
+
+8  JUSTICE SOTOMAYOR:  You would not? 
+
+9  MR. BURSCH:  Correct.  If these are Indian 
+
+10 lands, then it's permissible under IGRA and under the 
+
+11 compact for them to have and operate a casino. 
+
+12  JUSTICE SOTOMAYOR:  All right.  The issue of 
+
+13 what constitutes Indian lands is between the Federal 
+
+14 government and the Indians, pursuant to the Land Trust 
+
+15 Settlement, correct? 
+
+16  MR. BURSCH:  I disagree with that because ­­
+
+17  JUSTICE SOTOMAYOR:  Well, I know you do, and 
+
+18 I know why you do.  But ­­ but what defines the lands is 
+
+19 the Settlement Trust, correct? 
+
+20  MR. BURSCH:  Federal court interpretation of 
+
+21 the Michigan Indian Land Claims Settlement Act, yes, 
+
+22 would determine the status of these lands.  The reason 
+
+23 why it's not just between the tribe and the Federal 
+
+24 government is because Michigan has a huge interest in 
+
+25 having lands that are currently under its exclusive 
+
+23
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 sovereign jurisdiction be determined to be Indian 
+
+2 lands ­­
+
+3  JUSTICE SOTOMAYOR:  Put ­­ put this aside of 
+
+4 gambling.  Let's assume that it was just their buying 
+
+5 this land. 
+
+6  MR. BURSCH:  Yes. 
+
+7  JUSTICE SOTOMAYOR:  Could you have stopped 
+
+8 the buying of this land or unravelled it?  Didn't we 
+
+9 have a recent decision that said no? 
+
+10  MR. BURSCH:  If you're referring to the ­­
+
+11 the Patchak case ­­
+
+12  JUSTICE SOTOMAYOR:  Yes. 
+
+13  MR. BURSCH:  In that case, you held that the 
+
+14 plaintiff could, quite a bit after the fact, file a 
+
+15 lawsuit to unravel that transaction, if the lands were 
+
+16 not eligible for Indian gaming, if I'm remembering the 
+
+17 holding correctly.  And ­­ and Michigan does have a 
+
+18 substantial interest, not just in the gaming context. 
+
+19  JUSTICE SOTOMAYOR:  Well, wouldn't you have 
+
+20 had to follow ­­ if you were going to object to this 
+
+21 land being taken into the land trust, wouldn't you have 
+
+22 had to follow the administrative process? 
+
+23  MR. BURSCH:  We would, but the land has 
+
+24 never been taken in trust.  Even the Federal government, 
+
+25 the National Indian Gaming Commission, has concluded 
+
+24
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 that these are not Indian lands for purposes of the 
+
+2 Settlement Act.  And so we never got to the point where 
+
+3 they got in Patchak, where they went through the 
+
+4 administrative process to take the lands in trust. 
+
+5  JUSTICE KAGAN:  General, if ­­ if I could 
+
+6 assume that this is not Indian lands and just ask why 
+
+7 you need for sovereign immunity to go away?  And ­­ so 
+
+8 you have the ability to arrest people.  You have the 
+
+9 ability to bring Ex Parte Young actions. 
+
+10  Presumably, you have the ability on 
+
+11 non­Indian lands simply to shut down a casino. 
+
+12 Presumably, you have the ability on non­Indian lands to 
+
+13 condition any licensing of the casino on whatever you 
+
+14 want. 
+
+15  I guess the question is:  On non­Indian 
+
+16 lands, you have a thousand ways to stop a casino that 
+
+17 you don't want.  Why do you need the abrogation of 
+
+18 sovereign immunity? 
+
+19  MR. BURSCH:  Because we tried to take the 
+
+20 least intrusive means necessary to stop the casino, to 
+
+21 not go in with the billy clubs and the guns and to 
+
+22 arrest tribal members, but to ask for a Federal civil 
+
+23 injunction. 
+
+24  JUSTICE KAGAN:  Well, I think that all of 
+
+25 our cases suggest that sovereign immunity is quite 
+
+25
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 important to a sovereign's dignity and that it's not 
+
+2 nothing to abrogate sovereign immunity.  And so you can 
+
+3 say, well ­­ you know, that would be less intrusive than 
+
+4 all these other things, bringing Ex Parte Young suits, 
+
+5 arresting people, just ­­ you know, conditioning the ­­
+
+6 a license, stopping the casino from operating. 
+
+7  But ­­ you know, I suspect that the 
+
+8 sovereign tribe here would say that, no, it's ­­ it's an 
+
+9 affront to their sovereignty to take ­­ to strip them of 
+
+10 sovereign immunity, and ­­ and none of these other 
+
+11 options that you have are that. 
+
+12  MR. BURSCH:  Right.  But, again, arresting 
+
+13 the other sovereign's officers is, with all respect, not 
+
+14 respectful to the tribe, which is why that's the course 
+
+15 we've pursued.  And the change we're asking for here is 
+
+16 not as big as the tribe makes it seem because, in IGRA, 
+
+17 Section 2710, we have the ability to get an injunction 
+
+18 to stop illegal gaming taking place on reservation. 
+
+19  And so it's really not that big a leap to 
+
+20 say, if they're engaging in illegal gaming off 
+
+21 reservation, likewise, there, we should be able to get 
+
+22 the least intrusive remedy, the one that is most 
+
+23 respectful of the tribe's sovereignty. 
+
+24  And, frankly, we're kind of surprised that 
+
+25 the United States would take the position that we're 
+
+26
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 better off going in and arresting or suing individual 
+
+2 officers because that's not the way sovereigns are 
+
+3 supposed to interact. 
+
+4  And it would be a big deal if France opened 
+
+5 up a casino in Michigan and, rather than seeking a civil 
+
+6 injunction, we tried to arrest the French president and 
+
+7 throw them in a Michigan County jail. 
+
+8  JUSTICE ALITO:  I mean, is ­­ is it not 
+
+9 correct that the people who work in these casinos are 
+
+10 just employees?  They have no other connection with the 
+
+11 tribe?  Am I wrong on that? 
+
+12  MR. BURSCH:  I believe some of the employees 
+
+13 are tribal members, some are not.  And we cite a number 
+
+14 of cases in our reply brief where tribal immunity has 
+
+15 been extended to tribal employees whether they are 
+
+16 members of the tribe or not. 
+
+17  CHIEF JUSTICE ROBERTS:  Can you prosecute 
+
+18 people who frequent this illegal casino? 
+
+19  MR. BURSCH:  Sue Michigan citizens? 
+
+20  CHIEF JUSTICE ROBERTS:  Yes. 
+
+21  MR. BURSCH:  Yes, we could do that.  But ­­
+
+22 you know, again, I want you to understand the scope of 
+
+23 the invasion of the State's sovereignty here.  If any 
+
+24 other entity, foreign nation, another State, an 
+
+25 individual, set up an illegal business, whether it's 
+
+27
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 prostitution, underage drinking, gaming, you name it, we 
+
+2 would have the full panoply of State civil and criminal 
+
+3 regulatory remedies available to us and could pick the 
+
+4 most appropriate one. 
+
+5  And, somehow, because this is a tribe, even 
+
+6 though they are operating on Michigan's land, where we 
+
+7 have exclusive regulatory jurisdiction, somehow, all 
+
+8 those remedies are circumscribed to imperfect remedies, 
+
+9 like Ex parte Young, which may or may not be successful, 
+
+10 or arresting our own citizens, and that's not respecting 
+
+11 the constitutional sovereign that Michigan represents in 
+
+12 this case. 
+
+13  And to get back to a question a number of 
+
+14 you had about the implications of this aside from 
+
+15 gaming, this happens in all kinds of other contexts off 
+
+16 reservation.  You just had a case in 2011 involving the 
+
+17 Oneida tribe in New York, where they failed to pay their 
+
+18 property taxes in New York.  And so the State moved in 
+
+19 to foreclose for nonpayment of taxes those 
+
+20 off­reservation properties. 
+
+21  And the Second Circuit, interpreting Kiowa, 
+
+22 reluctantly concluded that the State did not have 
+
+23 ability to enforce by foreclosing on that property 
+
+24 because the tribe had immunity and invited this Court to 
+
+25 review Kiowa.  This Court granted cert.  Eventually, 
+
+28
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 cert was dismissed because the tribe waived immunity, 
+
+2 and they were able to go forward and pursue that remedy. 
+
+3  But ­­ you know, whether it's in the tax 
+
+4 context, whether it's the gaming context, whether it's 
+
+5 the criminal context ­­ you know, the amici briefs of 
+
+6 Oklahoma and Alabama are replete with the issues that 
+
+7 they are having as sovereigns in running up against the 
+
+8 tribal sovereign immunity when it comes to these 
+
+9 contexts. 
+
+10  If there are no further questions, I will 
+
+11 reserve the balance of my time. 
+
+12  CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+13  Mr. Katyal. 
+
+14  ORAL ARGUMENT OF NEAL KUMAR KATYAL 
+
+15  ON BEHALF OF THE RESPONDENTS 
+
+16  MR. KATYAL:  Thank you, Mr. Chief Justice, 
+
+17 and may it please the Court: 
+
+18  I would like to begin where my friend did 
+
+19 not, with the text of the statute.  Congress enacted 
+
+20 Subsection (A)(ii), like the rest of IGRA, to address 
+
+21 gaming solely on Indian lands.  In fact, Congress used 
+
+22 that phrase "on Indian lands" a whopping 24 times in 
+
+23 IGRA.  By contrast, IGRA says not a word about 
+
+24 off­Indian­lands activity. 
+
+25  JUSTICE SCALIA:  So you think Congress 
+
+29
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 really wanted the States to have power to stop illegal 
+
+2 gambling on Indian lands, but not to have the power to 
+
+3 stop illegal gaming on State lands?  Is that ­­ is that 
+
+4 the law you think Congress wrote? 
+
+5  MR. KATYAL:  I do think so, and if I could 
+
+6 say first of all ­­
+
+7  JUSTICE SCALIA:  Why would anybody want such 
+
+8 a ­­ such a disposition? 
+
+9  MR. KATYAL:  Two reasons, Your Honor, why I 
+
+10 think Congress made the choice they did.  But, even 
+
+11 before that, I don't think that's the proper inquiry for 
+
+12 this Court.  The proper inquiry for this Court, as C&L 
+
+13 and other cases have said, is it requires an unequivocal 
+
+14 expression of purpose of Congress before tribal immunity 
+
+15 is abrogated, and we don't get into this kind of 
+
+16 question of what Congress might have thought, which 
+
+17 creates a guessing game. 
+
+18  But, just to answer your question, why would 
+
+19 Congress have thought that ­­
+
+20  JUSTICE SCALIA:  Well, you think that rule 
+
+21 would apply even when, at the time the statute in 
+
+22 question was enacted, there was no belief that there was 
+
+23 tribal immunity on State lands? 
+
+24  MR. KATYAL:  Well, Your Honor, I know my 
+
+25 friend on the other side has said that.  That is just 
+
+30
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 flatly wrong.  Puyallup, in 1977, Your Honor, precisely 
+
+2 said that it involved both on­ and off­reservation 
+
+3 activity, it was commercial activity, it was fishing, 
+
+4 and this Court said that tribal immunity protected 
+
+5 against that. 
+
+6  And so ­­ so I do think ­­
+
+7  JUSTICE SCALIA:  I thought that was just on 
+
+8 reservation.  You think that was off reservation as 
+
+9 well? 
+
+10  MR. KATYAL:  It is.  At page 167, Your 
+
+11 Honor, it says that the injunction was both on and off 
+
+12 reservation.  And then, in Kiowa, at page 754, this 
+
+13 Court made clear that that's how it read ­­
+
+14  JUSTICE SCALIA:  Kiowa was later, of course. 
+
+15  MR. KATYAL:  Of course, but I think that 
+
+16 Congress, in enacting IGRA in 1988, certainly was under 
+
+17 the same set of assumptions as this Court in 19 ­­ in 
+
+18 the Kiowa ­­
+
+19  JUSTICE SCALIA:  You think they read 
+
+20 Puyallup that closely? 
+
+21  MR. KATYAL:  I ­­ well, I think it's several 
+
+22 places in Puyallup, and certainly, that's what this 
+
+23 Court in Kiowa said. 
+
+24  JUSTICE SCALIA:  I see. 
+
+25  MR. KATYAL:  And I do think the text is the 
+
+31
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 best guide to what Congress wanted, and the text uses 
+
+2 "on Indian lands" 24 times.  And the reason for that, 
+
+3 the reason why there's not an absurdity, is twofold: 
+
+4 First, Congress, in IGRA, was reacting to this Court's 
+
+5 decision in Cabazon the year earlier, which had ousted 
+
+6 State court ­­ State regulatory jurisdiction entirely 
+
+7 from on­Indian­lands activity, so it changed the game 
+
+8 entirely. 
+
+9  Cabazon did nothing with respect to 
+
+10 off­Indian­lands activity. It left entirely intact all 
+
+11 the remedies we've been talking about, Justice Alito's 
+
+12 remedy about criminal sanctions ­­
+
+13  JUSTICE GINSBURG:  You agree with that, that 
+
+14 they could ­­ the State could go in and arrest all the 
+
+15 customers that are gambling there?  Could it seize the 
+
+16 slot machines? 
+
+17  MR. KATYAL:  Well, it certainly could arrest 
+
+18 the customers, the employees, and so on.  And that's why 
+
+19 we would not operate this casino without a square 
+
+20 ruling.  It is shuttered, Justice Alito, right now, 
+
+21 because we need a square ruling that says this is 
+
+22 on­Indian­lands activity.  And we would like that ­­
+
+23  CHIEF JUSTICE ROBERTS:  Well, you don't 
+
+24 it ­­ You don't have a square ruling, so I want to make 
+
+25 clear, because both you and the Solicitor General have 
+
+32
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 suggested this as an option:  You think it is all right 
+
+2 for the State to go in and arrest every employee, 
+
+3 management ­­ you know, labor, who is participating in 
+
+4 this casino and subject them to criminal sanctions, 
+
+5 civil penalties and an injunction.  You have got no 
+
+6 problem with that? 
+
+7  MR. KATYAL:  We think that that's a 
+
+8 consequence of tribal immunity, that when you ­­ when 
+
+9 they are seeking relief qua tribe, that's a different 
+
+10 thing, and that's, I think, a standard principle ­­
+
+11  CHIEF JUSTICE ROBERTS:  You, as a tribe ­­
+
+12 you, as a tribe, would have no objection to that action? 
+
+13  MR. KATYAL:  Well, Your Honor, I think, if 
+
+14 that sort of circumstance unfolded, we might say let's 
+
+15 try and figure out a different way to deal with that. 
+
+16 First, of course, the most primary way is the compact 
+
+17 itself, and many compacts, for example, have arbitration 
+
+18 clauses ­­
+
+19  CHIEF JUSTICE ROBERTS:  Well, I know, you 
+
+20 could suggest different ways, and the State could tell 
+
+21 you ­­ you know, go fly a kite, we are prosecuting these 
+
+22 people.  And you'd have no objection to that? 
+
+23  MR. KATYAL:  Absolutely.  We are not here, 
+
+24 trying to say that we want to evade the law.  We want a 
+
+25 ruling ­­ a definitive ruling.  We believe, very 
+
+33
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 squarely, that this is on­Indian­lands activity. 
+
+2  CHIEF JUSTICE ROBERTS:  Okay.  What about Ex 
+
+3 Parte Young?  Are you willing to waive the tribe's 
+
+4 sovereign immunity in an Ex Parte Young action? 
+
+5 Because, in your opposition to the complaint in this 
+
+6 case, you raised sovereign immunity as an objection to 
+
+7 the Ex Parte Young ­­
+
+8  MR. KATYAL:  Sure.  Sure.  As part in the 
+
+9 district court, as part of ordinary ­­ as part of 
+
+10 ordinary litigation, we said that Ex Parte Young wasn't 
+
+11 applicable.  But we do think ­­ and our brief in 
+
+12 opposition says this, our merits brief says this, the 
+
+13 United States' brief says this, that Ex Parte Young 
+
+14 actions are available against tribes, just as ­­
+
+15  CHIEF JUSTICE ROBERTS:  Not just are 
+
+16 available; that you would not assert sovereign immunity 
+
+17 if they brought an Ex Parte Young action. 
+
+18  MR. KATYAL:  Well, Your Honor, we would not 
+
+19 assert it to the limits of Ex Parte Young.  So, for 
+
+20 example, Ex Parte Young doesn't ­­ doesn't permit 
+
+21 reaching into the State coffers, and here, Count 5 of 
+
+22 the complaint tries to reach into the tribe's coffers. 
+
+23 So we do think that that type of Ex Parte Young ­­ that 
+
+24 is not permitted by Ex Parte Young, and that would be 
+
+25 impermissible. 
+
+34
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  If I could return to the second reason why I 
+
+2 think what Congress did wasn't ­­ wasn't ­­ you know, 
+
+3 creating any sort of anomaly like my friend says, the 
+
+4 reason is this:  All IGRA did in (A)(ii) is empower 
+
+5 compacts.  It didn't abrogate immunity by itself 
+
+6 directly; it requires the tribe to affirmatively buy 
+
+7 into the idea of State law applying on the reservation. 
+
+8  So if we could, just imagine a casino, 
+
+9 Justice Scalia, opened blatantly on a reservation, a 
+
+10 casino without a compact that was absolutely illegal. 
+
+11 We will call it "Casino Red."  (A)(ii) would not 
+
+12 abrogate immunity in that circumstance.  The State would 
+
+13 have no remedy. 
+
+14  JUSTICE KENNEDY:  I thought the statute says 
+
+15 that there is Federal court jurisdiction over any cause 
+
+16 of action initiated by a State or Indian tribe to enjoin 
+
+17 gaming activity that is conducted in violation of the 
+
+18 compact. 
+
+19  MR. KATYAL:  Yeah, on Indian lands, exactly. 
+
+20 And so my example of the casino here would be ­­
+
+21  JUSTICE KENNEDY:  Why couldn't this ­­
+
+22  MR. KATYAL:  If there is no compact, 
+
+23 Justice Kennedy, there is no abrogation.  And so what 
+
+24 (A)(ii) does is it empowers the tribe and the compact, 
+
+25 and it requires the tribe affirmatively to come in.  And 
+
+35
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 that's why, off Indian land, there is standard tribal 
+
+2 immunity because the tribe hasn't said anything one way 
+
+3 or the other. 
+
+4  JUSTICE KENNEDY:  And you don't think that 
+
+5 1166 abrogates the immunity, which provides that, for 
+
+6 purposes of Federal law, all State laws are applicable? 
+
+7  MR. KATYAL:  Yeah, not at all, Your Honor. 
+
+8 All 1166 does is bring Federal ­­ that's about Federal 
+
+9 enforcement, not at all about State enforcement. 
+
+10 Indeed, Michigan's own position and Michigan's supreme 
+
+11 court said 1166 does says nothing with respect to 
+
+12 States ­­
+
+13  JUSTICE KENNEDY:  And you do not take the 
+
+14 position that this casino in this case is part of a 
+
+15 compact? 
+
+16  MR. KATYAL:  Which casino? 
+
+17  JUSTICE KENNEDY:  The casino in this case, 
+
+18 in your view, is not subject to any ­­ is not covered by 
+
+19 any compact? 
+
+20  MR. KATYAL:  No, we do.  We think that the 
+
+21 proper remedy here, if they had an objection, would have 
+
+22 been to arbitrate and say this is not Indian lands. 
+
+23 Petition Appendix 77A and 78A lay out the terms of the 
+
+24 compact and what gaming is allowed. 
+
+25  JUSTICE SCALIA:  But he says that, if they 
+
+36
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 arbitrated, when they tried to enforce the arbitral 
+
+2 judgment, you would assert sovereign immunity. 
+
+3  MR. KATYAL:  Well, two responses to that, 
+
+4 Your Honor.  First, of course, that is the remedy they 
+
+5 agreed to in the compact itself, and, of course, they 
+
+6 should try.  And second ­­
+
+7  JUSTICE SCALIA:  Well, I mean, that's not an 
+
+8 answer. 
+
+9  MR. KATYAL:  Well, it is an answer in the 
+
+10 sense that, Your Honor, had they asked we ­­ and I can 
+
+11 tell you I've discussed this with the tribe ­­ that they 
+
+12 would, of course, not ­­ they would, of course, not 
+
+13 assert sovereign immunity to enforce the arbitration 
+
+14 agreement.  We have ­­
+
+15  JUSTICE SOTOMAYOR:  How do you win in an 
+
+16 arbitration when the gaming commission has said it's not 
+
+17 Indian lands?  I mean, I actually am not sure that the 
+
+18 ruling of the district court was right on this, okay? 
+
+19 But putting my own beliefs ­­ or questions about that 
+
+20 ruling, how do you win if the Federal government has 
+
+21 said it's not Indian lands? 
+
+22  MR. KATYAL:  Well, we think that that isn't 
+
+23 a final decision and is wrong for any number of reasons 
+
+24 on the merits that ­­ you know, laid out in the Joint 
+
+25 Appendix, and so we do think that would be the argument 
+
+37
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 that we would make to the arbitration board.  That 
+
+2 should have been the remedy ­­
+
+3  JUSTICE SOTOMAYOR:  But how does the 
+
+4 arbitration board change the mind of the gaming 
+
+5 commission?  Aren't they the final deciders of whether 
+
+6 this is trust land or not? 
+
+7  MR. KATYAL:  Well ­­ no, I think that ­­ I 
+
+8 think that that isn't, itself, a final decision, and 
+
+9 there are any number of mechanisms that may be available 
+
+10 to try and get the issue properly teed up to the NIGC. 
+
+11  CHIEF JUSTICE ROBERTS:  I don't see how an 
+
+12 arbitration works.  The Federal government has a very 
+
+13 keen interest in whether this is Indian land or not. 
+
+14 And the arbitrator is going to decide that in a way 
+
+15 that's going to bind anybody? 
+
+16  MR. KATYAL:  Well, it would bind, I think, 
+
+17 the parties before it, and that's what the parties 
+
+18 agreed to.  In many compacts ­­
+
+19  CHIEF JUSTICE ROBERTS:  So ongoing, as far 
+
+20 as the tribe and the State is concerned, they proceed 
+
+21 from then on as if this is Indian lands, even though the 
+
+22 Federal government is saying, no, it's not. 
+
+23  MR. KATYAL:  Well, I think that we would 
+
+24 still have to persuade the Federal government in one 
+
+25 way, shape, or form because of the NIGC's authority in 
+
+38
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 this area, so I think that's two separate questions. 
+
+2  CHIEF JUSTICE ROBERTS:  Yes.  So the 
+
+3 arbitration doesn't get ­­ so the arbitration doesn't 
+
+4 get you anywhere at all. 
+
+5  MR. KATYAL:  Well, it at least resolves the 
+
+6 issue with respect to Michigan.  Our central point here 
+
+7 is that there's lots of different ways to deal with this 
+
+8 question, including the question you asked earlier, the 
+
+9 declaratory judgment action, which we brought against 
+
+10 Michigan.  There's lots of ways to resolve the 
+
+11 underlying Indian lands question. 
+
+12  The last thing I think this Court needs to 
+
+13 do is entirely change the rules of the game with respect 
+
+14 to tribal immunity. 
+
+15  JUSTICE SOTOMAYOR:  Just so we understand ­­
+
+16  JUSTICE GINSBURG:  What would be the big ­­
+
+17 what would be the big change, other than modifying 
+
+18 Kiowa, which is a divided opinion, and was dealing with 
+
+19 a money claim.  It wasn't dealing with injunctive 
+
+20 relief. 
+
+21  MR. KATYAL:  Well, certainly, this Court's 
+
+22 decision in Puyallup, as well as Oklahoma ­­ Oklahoma 
+
+23 Tax Commission, both did deal with injunctive relief, 
+
+24 and both were against States, to deal with his argument. 
+
+25  Now, he has said ­­ my friend on the other 
+
+39
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 side has said, we'll look to the foreign sovereign 
+
+2 immunity context, and that's what's giving him his 
+
+3 reason for saying that it wouldn't be such a big change, 
+
+4 and we think that's wrong for two reasons. 
+
+5  Number one, Kiowa itself, at page 759, dealt 
+
+6 with this and said that it was the political branches 
+
+7 that led the change on commercial immunity, not this 
+
+8 Court.  And, number two, my friend has quoted Alfred 
+
+9 Dunhill, and I think that everything ­­
+
+10  JUSTICE GINSBURG:  But – Mr. Katyal, is that 
+
+11 right?  The distinction between commercial and 
+
+12 governmental, it was court made in the first instance, 
+
+13 and then the Foreign Sovereign Immunities Act codified 
+
+14 law that was court made.  So it was the courts that made 
+
+15 the distinction between acting in a commercial capacity 
+
+16 and acting in a governmental capacity. 
+
+17  MR. KATYAL:  Justice Ginsburg, the majority 
+
+18 of Kiowa, on page 759, responds to that and says that it 
+
+19 was actually the political branches that led with the ­­
+
+20  JUSTICE BREYER:  Yes, but he was wrong on 
+
+21 that, apparently, if that's what he says.  He was wrong, 
+
+22 that, if we look at the cases, what we will see is it 
+
+23 was the courts that said there's a common law abrogation 
+
+24 of France's sovereign immunity, when they go into 
+
+25 business in downtown Iowa somewhere. 
+
+40
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. KATYAL:  And Justice Breyer ­­
+
+2  JUSTICE BREYER:  The same thing ­­ same 
+
+3 thing with the State, he says in Nevada and California, 
+
+4 and then he says it would be totally anomalous to think 
+
+5 that an Indian tribe could go into downtown Des Moines 
+
+6 and open up a clearly illegal business, and you could 
+
+7 sue France ­­ the State, which was not Kiowa ­­ they 
+
+8 could sue ­­ France could ­­ the State could sue France, 
+
+9 it could sue California, but it couldn't sue the Indian 
+
+10 tribe. 
+
+11  MR. KATYAL:  Justice Breyer, we would 
+
+12 encourage the Court to look at precisely the case he is 
+
+13 citing for this proposition, which is Alfred Dunhill, 
+
+14 because, as the case was vigorously argued by a Justice 
+
+15 Department attorney, and what ­­ and what my friend 
+
+16 doesn't tell you is that the pages he is citing actually 
+
+17 don't command a majority of the Court. 
+
+18  They're about not commercial ­­ they're not 
+
+19 about foreign sovereign immunity.  They are about active 
+
+20 State immunity. 
+
+21  JUSTICE BREYER:  All right.  What about the 
+
+22 California and Nevada? 
+
+23  MR. KATYAL:  In the California v. Nevada, I 
+
+24 think this Court dealt with in Kiowa itself because in 
+
+25 Kiowa ­­ because that's about basically the State ­­
+
+41
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  JUSTICE BREYER:  Now, Kiowa is about ­­ is 
+
+2 it Kiowa? ­­ is about individuals who are not the State. 
+
+3  MR. KATYAL:  Yes, exactly.  But I think this 
+
+4 Court has recognized in Blatchford and in Kiowa that, in 
+
+5 Nevada v. Hall situations, which is what the dissent in 
+
+6 Kiowa raised and what my friend is trying to 
+
+7 resuscitate, that's a difference in circumstance because 
+
+8 there was a mutuality of concession. 
+
+9  JUSTICE BREYER:  All right.  I'll look at 
+
+10 those with care.  But, now, assuming you are right on 
+
+11 that, is the question in front of us, on the assumption 
+
+12 that these are Indian lands, does the Indian tribe have 
+
+13 sovereign immunity?  Is that the question you want 
+
+14 answered? 
+
+15  MR. KATYAL:  We think that ­­
+
+16  JUSTICE BREYER:  Yes or no? 
+
+17  MR. KATYAL:  ­­ that if they are on Indian 
+
+18 lands, yes, there is ­­
+
+19  JUSTICE BREYER:  Do you want us to say on 
+
+20 that assumption ­­ now, on that assumption, I look at i 
+
+21 and number ii under a, 7(a), and a quick reading of them 
+
+22 suggests to me that they're in parallel, that the Indian 
+
+23 tribe can sue the State when the State won't open 
+
+24 negotiations, and the State or an Indian tribe can sue 
+
+25 the Indian tribe when the Indian tribe refuses to follow 
+
+42
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 the compact. 
+
+2  Now, what's your answer to that? 
+
+3  MR. KATYAL:  When it's on Indian lands, 
+
+4 exactly. 
+
+5  JUSTICE BREYER:  Well, I know, but you said 
+
+6 to decide this on the assumption that it's on Indian 
+
+7 lands.  If I make that assumption and then I look over 
+
+8 and read i and ii, it sounds as if, as I said, i, the 
+
+9 tribe can sue the State to get the compact; ii, the 
+
+10 State can sue the tribe when it violates the compact. 
+
+11  MR. KATYAL:  Your Honor, I may have 
+
+12 misunderstood your earlier question, but, certainly, our 
+
+13 position is that you can look to our answer to determine 
+
+14 whether or not there is tribal immunity in the case. 
+
+15 That is not something my friend has argued.  It's 
+
+16 outside of the questions presented entirely, which both 
+
+17 proceed on the assumption that this is off of Indian 
+
+18 lands. 
+
+19  JUSTICE ALITO:  Well, for purposes of 
+
+20 sovereign immunity, does it make any difference that you 
+
+21 have at least a colorable claim that this is on Indian 
+
+22 lands? 
+
+23  MR. KATYAL:  Well, I think that it ­­ I ­­ I 
+
+24 don't think it matters either way.  Our position is one 
+
+25 way or the other. 
+
+43
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  JUSTICE ALITO:  Yes.  So if your ­­ if your 
+
+2 client or another tribe just decided to go into the 
+
+3 gaming business all over the country and began opening 
+
+4 casinos in places that clearly are not Indian lands, you 
+
+5 still would have sovereign immunity. 
+
+6  MR. KATYAL:  Right, there would be tribal 
+
+7 immunity for that, just as if the blatant casino on 
+
+8 Indian lands opened a casino ­­ a tribe opened a casino 
+
+9 without a compact, the State would not have an A2 
+
+10 injunctive remedy, and that's why there is no anomaly. 
+
+11  JUSTICE BREYER:  That's why I want to ­­ I'm 
+
+12 trying to get what question I'm supposed to answer.  If 
+
+13 I'm supposed to answer the sovereign immunity question 
+
+14 on the assumption that these are Indian lands, contrary 
+
+15 to what was decided below, I might get one answer.  But 
+
+16 if I'm ­­ supposed to do it on the assumption that 
+
+17 they're not Indian lands, I might get a different 
+
+18 answer.  What assumption am I supposed to make? 
+
+19  MR. KATYAL:  The latter, Your Honor, for two 
+
+20 reasons.  Number one, that's what the questions 
+
+21 presented say; and number two, one of the most venerable 
+
+22 precedence of this Court is the ­­ is Justice Holmes' 
+
+23 opinion in Kohler Die ­­ which says you don't look to our answer to 
+
+24 determine ­­
+
+25  JUSTICE SOTOMAYOR:  What happens if you 
+
+44
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 can't convince the Federal government that these are 
+
+2 Indian lands, and despite the gaming commission's final 
+
+3 ruling, there is no other way to overturn it, you decide 
+
+4 to operate the casino, it's not Indian lands by the 
+
+5 Federal government, you haven't convinced them 
+
+6 otherwise, what occurs at that moment? 
+
+7  MR. KATYAL:  Well, I suppose ­­
+
+8  JUSTICE SOTOMAYOR:  Who can stop you and 
+
+9 using what mechanisms? 
+
+10  MR. KATYAL:  The Federal government has a 
+
+11 variety of mechanisms available to it in that 
+
+12 circumstance, including closure orders and the like, and 
+
+13 I suppose even the State may have any number of actions, 
+
+14 both ­­ you know, many States will have this worked out 
+
+15 in the compact, but, if they don't have it worked out in 
+
+16 the compact, then there may be the possibility of 
+
+17 criminal prosecutions. 
+
+18  JUSTICE SOTOMAYOR:  Well, the compact only 
+
+19 comes into play if it's Indian lands.  But, if the 
+
+20 Federal government has said it's not Indian lands, 
+
+21 that's what I'm asking. 
+
+22  MR. KATYAL:  Right.  I think that, still, 
+
+23 the State may have any number of criminal or civil 
+
+24 remedies available to it.  That is, off Indian lands ­­
+
+25 and this is why there isn't an anomaly in A2 ­­ off 
+
+45
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 Indian lands, the State has vast regulatory power.  IGRA 
+
+2 was reacting to a circumstance in which this Court 
+
+3 ousted State regulatory jurisdiction on Indian lands. 
+
+4 And so the State has a whole bunch of mechanisms 
+
+5 available to it. 
+
+6  JUSTICE KAGAN:  Mr. Katyal, isn’t the 
+
+7 difference ­­ the State can really ­­ it can shut down 
+
+8 these gambling operations easily if it's off Indian 
+
+9 lands.  What the State can't do is get any kind of 
+
+10 damages or money remedies; isn't that really the 
+
+11 difference? 
+
+12  MR. KATYAL:  I do think so.  I think that 
+
+13 that's ­­ I think that that's underlying some of this, 
+
+14 absolutely. 
+
+15  JUSTICE KAGAN:  Maybe that's an important 
+
+16 difference.  I mean, maybe we should give the State the 
+
+17 ability to collect damages. 
+
+18  MR. KATYAL:  Well ­­ well, I certainly would 
+
+19 disagree with the idea that you, the Court, should.  I 
+
+20 think the proper response would be exactly what this 
+
+21 Court said in Kiowa, which is, if there's a dispute 
+
+22 about the contours of immunity, commercial, off land, 
+
+23 State is plaintiff, all of that, those are all things 
+
+24 that Congress is well­suited for dealing with. 
+
+25  JUSTICE GINSBURG:  Mr. Katyal, isn't it odd 
+
+46
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 to say that when this is the Court ­­ the doctrine of 
+
+2 tribal immunity is something that was announced by this 
+
+3 Court.  Congress never passed a law that said the tribes 
+
+4 have immunity.  It's all this Court.  And then you say, 
+
+5 what this Court made, only Congress can unmake.  That 
+
+6 seems strange to me. 
+
+7  MR. KATYAL:  Justice Ginsburg, that was 
+
+8 precisely the argument that was made in Kiowa, was 
+
+9 accepted by the dissent in Kiowa.  But what the majority 
+
+10 said is, really, Congress is best able to balance the 
+
+11 rights, remedies, and reliance interests on the parties. 
+
+12 And I'd note, picking up on your question to my friend 
+
+13 earlier, that, after Kiowa, Congress hasn't been silent. 
+
+14  Congress has reaffirmed tribal immunity in 
+
+15 the Patriot Act extension in 2005 and the SIGR Act of 
+
+16 2009.  They've cut it back in the Arizona Water Act and 
+
+17 the Zuni Acts of 2003.  This is not a circumstance in 
+
+18 which ­­
+
+19  JUSTICE KENNEDY:  But, if the tribe takes 
+
+20 such an obscure position ­­ such a changing position, as 
+
+21 to whether or not we are dealing with Federal lands 
+
+22 here ­­ or pardon me, with Indian land, maybe that's a 
+
+23 reason that we should confine and limit Kiowa so that it 
+
+24 doesn't apply to Indian gaming, and we won't have this 
+
+25 problem. 
+
+47
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. KATYAL:  Well, I think that's ­­
+
+2  JUSTICE KENNEDY:  Because I wanted to get 
+
+3 the answer to Justice Breyer's question, is it your 
+
+4 position that these are Indian lands?  And I still don't 
+
+5 understand your position. 
+
+6  MR. KATYAL:  Our position is ­­
+
+7  JUSTICE KENNEDY:  And if that's true, then 
+
+8 maybe this whole idea of immunity doesn't work very well 
+
+9 in the context of gaming. 
+
+10  MR. KATYAL:  Our position, Justice Kennedy, 
+
+11 is that they are Indian lands, and there is lots of 
+
+12 different remedies available, both on and off Indian 
+
+13 lands, and that this Court in Kiowa set out a way to 
+
+14 deal with any sort of cutting back, which is to leave it 
+
+15 to Congress. 
+
+16  JUSTICE ALITO:  What remedy ­­
+
+17  CHIEF JUSTICE ROBERTS:  If we get ­­ go 
+
+18 ahead. 
+
+19  JUSTICE ALITO:  What remedy would a private 
+
+20 person have?  Suppose a patron of a casino was beaten up 
+
+21 by casino employees.  What remedy could that person 
+
+22 have? 
+
+23  MR. KATYAL:  I think what the Court should 
+
+24 do is the same thing it did in Kiowa, which is bracket 
+
+25 that question because this is as far away from that as 
+
+48
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 you can possibly get.  Here, the State entered into a 
+
+2 contract with its eyes open that, not just ­­ it didn't 
+
+3 say anything about tribal immunity, it reaffirmed tribal 
+
+4 immunity, at Petition Appendix Page 90. 
+
+5  Now, Michigan doesn't like the terms of that 
+
+6 deal, and so they are coming and trying to renegotiate 
+
+7 that now, So there may be ­­ for the tort plaintiff, I 
+
+8 understand there may be any number of arguments 
+
+9 available, but this is so far from that. 
+
+10  CHIEF JUSTICE ROBERTS:  We've talked about 
+
+11 this prosecuting the employees.  I suppose, if you bring 
+
+12 a criminal action against one of the employees, the 
+
+13 State would have to prove, beyond a reasonable doubt, 
+
+14 that this was not Indian lands? 
+
+15  MR. KATYAL:  They would. 
+
+16  CHIEF JUSTICE ROBERTS:  That's not much of 
+
+17 a ­­
+
+18  MR. KATYAL:  I'm not sure, for an element of 
+
+19 that crime, whether that piece of it would be beyond a 
+
+20 reasonable doubt.  It would be an attendant circumstance 
+
+21 and not subject to beyond reasonable doubt. 
+
+22  CHIEF JUSTICE ROBERTS:  That makes it a much 
+
+23 more difficult remedy than the typical injunction 
+
+24 action. 
+
+25  MR. KATYAL:  But there is still civil 
+
+49
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 remedies and other things going. 
+
+2  CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+3  Not yet.  We are going to hear from 
+
+4 Mr. Kneedler first. 
+
+5  (Laughter.) 
+
+6  CHIEF JUSTICE ROBERTS:  He might have 
+
+7 something you would like to respond to. 
+
+8  Mr. Kneedler. 
+
+9  ORAL ARGUMENT OF EDWIN S. KNEEDLER, 
+
+10  FOR UNITED STATES, AS AMICUS CURIAE, 
+
+11  SUPPORTING the RESPONDENTS 
+
+12  MR. KNEEDLER:  Mr. Chief Justice and may it 
+
+13 please the Court: 
+
+14  I would like to respond, at the outset, to the 
+
+15 suggestion that this Court might modify the categorical 
+
+16 rule in Kiowa that an Indian tribe is subject to suit 
+
+17 only if Congress unequivocally consents in order to 
+
+18 allow suits by States. 
+
+19  First of all, both Puyallup and Pottawatomi 
+
+20 were suits by States for prospective injunctive relief, 
+
+21 and the Court found them barred.  Puyallup was off 
+
+22 reservation. 
+
+23  But there's another point that I think ties 
+
+24 in with the questions about foreign sovereign immunity. 
+
+25 In this Court's decision in Blatchford, the Court held 
+
+50
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 that the State of Alaska could not be sued by an Indian 
+
+2 tribe complaining about the distribution of State ­­
+
+3 some State funds in Alaska, which does not have Indian 
+
+4 country.  The Court held that the suit was barred. 
+
+5  In doing so, the Court recognized that the 
+
+6 Eleventh Amendment had originally been understood to bar 
+
+7 suits only by individuals.  But relying on this Court's 
+
+8 decision in Principality of Monaco, the Court said that 
+
+9 the Eleventh Amendment also barred suits by foreign 
+
+10 sovereigns. 
+
+11  And the Court's rationale in Principality of 
+
+12 Monaco was that foreign sovereigns were not parties to 
+
+13 the convention.  There was no reciprocal abrogation of 
+
+14 immunity between foreign sovereigns and States.  And, in 
+
+15 fact, the Court specifically pointed out that the State 
+
+16 of Mississippi could not sue Monaco, and, in this case, 
+
+17 Monaco could not sue Mississippi. 
+
+18  The Court applied that very same reasoning 
+
+19 in Blatchford to an Indian tribe.  The Court said, we 
+
+20 have held in the past that Indian tribes may not be 
+
+21 sued.  And they cited Puyallup, which was a suit by a 
+
+22 State.  And the Court said, logically, it follows that a 
+
+23 tribe may not sue a State ­­
+
+24  JUSTICE BREYER:  So you are prepared to live 
+
+25 with the following:  Is it the case that if California 
+
+51
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 opens a business in a commercial activity in 20 other 
+
+2 States, at least one of which it is totally illegal, 
+
+3 this other State, say, Utah, cannot ­­ can sue 
+
+4 California or not?  What's the answer? 
+
+5  MR. KNEEDLER:  The State where that gaming 
+
+6 occurs can be, but that's because of Nevada v. Hall 
+
+7 where the Court ­­ where the Court drew a distinction 
+
+8 between ­­ for States.  In the States there was a  ­­
+
+9  JUSTICE BREYER:  So what the opposition 
+
+10 says, in your view, is absolutely correct, that a 
+
+11 foreign nation opens up an illegal business in a State. 
+
+12 The State can sue them, now, because of a treaty, but 
+
+13 previously, because of the common law. 
+
+14  If California opens up an illegal business, 
+
+15 the State can put them out of business by bringing a 
+
+16 suit.  But an Indian tribe, they can't?  That's the 
+
+17 United States' view? 
+
+18  MR. KNEEDLER:  California ­­ in the 
+
+19 State­to­State situation, it's because of the 
+
+20 reciprocity ­­
+
+21  JUSTICE BREYER:  But I'm saying that is your 
+
+22 view, though?  I just want the bottom line. 
+
+23  MR. KNEEDLER:  Yes, but let me ­­ if I may 
+
+24 explain?  It's important to understand the 
+
+25 reasoning.  The reasoning why a suit by a State against 
+
+52
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 the sovereign would now be okay is because of the 
+
+2 Foreign Sovereign Immunities Act.  As I mentioned with 
+
+3 the Principality of Monaco, part of what the Court said 
+
+4 there is the State could not sue the Principality of 
+
+5 Monaco because, at the time, there was no abrogation of 
+
+6 immunity. 
+
+7  Foreign sovereign immunity ­­
+
+8  JUSTICE SCALIA:  That ­­ that statute was 
+
+9 based upon judicial decisions that had ­­ had already 
+
+10 held that. 
+
+11  MR. KNEEDLER:  With all respect, 
+
+12 Justice Scalia, it was based upon the Executive Branch's 
+
+13 determination in the Tate letter.  In this Court's 
+
+14 decision in Republic of Mexico v. Hoffman.  The Court 
+
+15 said it is not for the Courts to deny an immunity that 
+
+16 the government recognizes. 
+
+17  Prior to 1952, when the United States 
+
+18 adopted the restrictive theory of sovereign immunity, 
+
+19 foreign sovereigns were absolutely immune from suit, 
+
+20 unless the political branches said otherwise. 
+
+21  In the Tate letter, the Executive Branch 
+
+22 adopted what was the developing body of international 
+
+23 law for foreign sovereign immunity and said that 
+
+24 commercial activities could be the subject of suit. 
+
+25 That was codified, but the Court did not take it upon 
+
+53
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 itself to modify that foreign sovereign immunity.  And 
+
+2 this is ­­ this is the point that the Court made in Kiowa. 
+
+3  JUSTICE SCALIA:  Took it upon itself to 
+
+4 accept the Executive's determination of how it ought to 
+
+5 play out? 
+
+6  MR. KNEEDLER:  Well, yes, but it didn't 
+
+7 treat it just as a matter of common law, like a maritime 
+
+8 common law claim or something like that.  It treated it 
+
+9 as structural under the Constitution, and the same thing 
+
+10 is true of Indian tribes. 
+
+11  The Constitution refers to Indian tribes ­­
+
+12 Worcester v. Georgia announced that Indian tribes are 
+
+13 sovereigns.  We’ve made treaties with sovereigns. 
+
+14  CHIEF JUSTICE ROBERTS:  But they are 
+
+15 quasi ­­ quasi­sovereigns, which means ­­
+
+16  JUSTICE GINSBURG:  Dependent sovereigns. 
+
+17  CHIEF JUSTICE ROBERTS:  Dependent 
+
+18 sovereigns, which means the ­­ it is surprising that the 
+
+19 scope of their immunity exceeds that of States or 
+
+20 foreign sovereigns. 
+
+21  MR. KNEEDLER:  They ­­ they are dependent 
+
+22 sovereigns, but they are dependent upon the plenary 
+
+23 power of Congress, not the plenary power of this Court. 
+
+24  CHIEF JUSTICE ROBERTS:  So the ­­ so the 
+
+25 Federal government can certainly take enforcement action 
+
+54
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 against this casino. 
+
+2  MR. KNEEDLER:  Yes. 
+
+3  CHIEF JUSTICE ROBERTS:  The Federal 
+
+4 government, the Solicitor of Interior has said these are 
+
+5 not Indian lands, the NIGC has adopted that 
+
+6 interpretation.  The NIGC has said, but we can't do 
+
+7 anything because they are not Indian lands, and we work 
+
+8 on Indian lands.  And then they've referred, as I 
+
+9 understand, the matter to the United States Attorney who 
+
+10 has, thus far, not done anything, right? 
+
+11  MR. KNEEDLER:  Well ­­
+
+12  CHIEF JUSTICE ROBERTS:  So, basically, as I 
+
+13 see it, the Federal government is saying, States, you 
+
+14 can't take action against this illegal casino.  We're 
+
+15 the only ones who can.  We agree that it's illegal, but 
+
+16 we are not going to do anything. 
+
+17  MR. KNEEDLER:  We are ­­ first of all, by ­­
+
+18 the casino was promptly closed.  And whether it would 
+
+19 have been a prudent exercise of Federal criminal 
+
+20 prosecutorial authority or civil action under 1955, is 
+
+21 committed to the ordinary prosecutorial discretion of 
+
+22 the United States government. 
+
+23  JUSTICE SCALIA:  Who made these Indian tribe 
+
+24 sovereign?  Was it Congress? 
+
+25  MR. KNEEDLER:  The Constitution. 
+
+55
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  JUSTICE SCALIA:  I mean, you are appealing 
+
+2 to ­­ you know, other branches' determination.  Who 
+
+3 decided that Indian tribes are sovereign? 
+
+4  MR. KNEEDLER:  The Constitution by in the Commerce clause ­­
+
+5  JUSTICE SCALIA:  Who pronounced them to be 
+
+6 sovereign? 
+
+7  MR. KNEEDLER:  This ­­ this Court. 
+
+8  JUSTICE SCALIA:  This Court. 
+
+9  MR. KNEEDLER:  But ­­
+
+10  JUSTICE SCALIA:  So I assume that this Court 
+
+11 could also determine the scope of their sovereignty. 
+
+12  MR. KNEEDLER:  But this Court didn't do it 
+
+13 as a matter of common law.  It did it by looking at the 
+
+14 Constitution.  We have treaties with Indian tribes, we 
+
+15 have the Commerce Clause ­­
+
+16  JUSTICE SCALIA:  We do virtually nothing as 
+
+17 a matter of common law.  We do virtually everything on 
+
+18 the basis of the Constitution or statutes.  I don't 
+
+19 think that that's much of an exception. 
+
+20  MR. KNEEDLER:  As this Court said in Lara, 
+
+21 it's a general proposition that diminishment of tribal 
+
+22 sovereignty is for the political branches.  The Court 
+
+23 said that ­­
+
+24  JUSTICE BREYER:  Why?  Because you are 
+
+25 representing the United States.  You have ­­ you 
+
+56
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 understand Indian policy.  This case has tremendous 
+
+2 implications, if we follow your approach.  It seems to 
+
+3 me well beyond anything to do with gaming.  My belief is 
+
+4 Indian tribes all over the country operate businesses 
+
+5 off the reservation, and businesses all over the country 
+
+6 are regulated. 
+
+7  And does the State, I guess, in your view, 
+
+8 does not have the power to enforce the regulation 
+
+9 against the Indian tribe. 
+
+10  MR. KNEEDLER:  Not against ­­
+
+11  JUSTICE BREYER:  Why is that ­­ not against 
+
+12 the tribe itself.  Why is that in the Indian tribe's 
+
+13 interest?  And is it a trap for the unwary lawyer?  And 
+
+14 how is this supposed to work out, in your view? 
+
+15  MR. KNEEDLER:  Well, Congress has addressed 
+
+16 this problem in numerous ways.  For example, the ­­ and 
+
+17 in deciding whether to abrogate immunity, they're 
+
+18 complex decisions.  Should it be under tribal law? 
+
+19 Should it be under State law?  Should it be under 
+
+20 Federal law?  Should the suit be in Federal court? 
+
+21 Should it be in State court? 
+
+22  JUSTICE ALITO:  What about ­­ what about 
+
+23 private individuals who may have a claim against ­­ as a 
+
+24 result of the operation of the casino?  Vendors who want 
+
+25 to be paid, somebody who slips and falls.  That's all 
+
+57
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 barred by sovereign immunity? 
+
+2  MR. KNEEDLER:  Unless ­­ unless the tribe 
+
+3 consents.  As the ­­ as two of the amicus briefs point 
+
+4 out, a number of the tribal compacts provide for waivers 
+
+5 of sovereign immunity for tort claims that may arise out 
+
+6 of ­­ out of the gaming operation. 
+
+7  Contract claims could be ­­ could be brought 
+
+8 in tribal court ­­
+
+9  JUSTICE GINSBURG:  Justice Alito's question 
+
+10 was the Kiowa case.  It was off reservation, the tribe 
+
+11 owed money on a contract, which it refused to pay, and 
+
+12 the Court said sovereign immunity. 
+
+13  MR. KNEEDLER:  Exactly.  And I should also 
+
+14 point out that the Court said in Kiowa, in addition to 
+
+15 reaffirming this analysis that I described from 
+
+16 Blatchford and Coeur d'Alene Tribe v. Idaho, the Court 
+
+17 reaffirmed that reciprocity and Principality of Monaco 
+
+18 point. 
+
+19  But it also pointed out the tremendous 
+
+20 reliance interests that have grown up on ­­ the basis of 
+
+21 foreign sovereign immunity.  It pointed out that, for 
+
+22 example, 450n of Title 25, which specifically preserves 
+
+23 immunity, something that was reiterated in the No Child 
+
+24 Left Behind Act. 
+
+25  But it also specifically pointed out that 
+
+58
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 Congress has sometimes created narrow exceptions to the 
+
+2 immunity.  And critically, one of the ones it cited was 
+
+3 the very one on which Michigan is relying in this case, 
+
+4 2710(d)(7)(A)(ii), that is a limited exception for 
+
+5 injunctive actions by a State against a tribe.  Congress 
+
+6 addressed ­­
+
+7  JUSTICE GINSBURG:  Mr. Kneedler, you went 
+
+8 through the development of the foreign sovereign 
+
+9 immunity and whether the courts were influenced by the 
+
+10 government.  It was the courts that recognized this 
+
+11 distinction between commercial activity and governmental 
+
+12 activity. 
+
+13  Why couldn't the Court extend that same 
+
+14 distinction to Indian tribes and say, it makes sense in 
+
+15 the foreign country context, it also makes sense in the 
+
+16 context of the tribes, to distinguish commercial from 
+
+17 governmental? 
+
+18  MR. KNEEDLER:  It may well not make sense, 
+
+19 or it may not lend itself to one answer, for the reasons 
+
+20 that I said.  Congress, for example, when it comes to 
+
+21 tort claims against tribes, adopted a provision making 
+
+22 the United States liable for tort claims and not ­­ and 
+
+23 not others. 
+
+24  It may not lend itself to one principal 
+
+25 answer, which is why the Court, in Kiowa, said it's up 
+
+59
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 to the legislature, the Congress, to weigh the various 
+
+2 pros and cons or up to the tribe itself in deciding 
+
+3 whether to weigh it. 
+
+4  CHIEF JUSTICE ROBERTS:  Thank you, 
+
+5 Mr. Kneedler. 
+
+6  Mr. Bursch, you have five minutes left. 
+
+7  REBUTTAL ARGUMENT OF JOHN J. BURSCH 
+
+8  ON BEHALF OF THE PETITIONER 
+
+9  MR. BURSCH:  Thank you, Mr. Chief Justice. 
+
+10  I want to clarify just two things about the 
+
+11 Court's precedent and then get back to the remedies 
+
+12 issue, which has taken up so much of our time this 
+
+13 morning. 
+
+14  First, the state of the law, when IGRA was 
+
+15 adopted in 1988 ­­ again, that was before Kiowa, I heard 
+
+16 my friend on the other side talk about Puyallup and how 
+
+17 that was an off­reservation case.  And what you need to 
+
+18 understand was that Puyallup was the third in a series 
+
+19 of three opinions that this Court issued.  And it's true 
+
+20 that some of the earlier cases involved on­ and 
+
+21 off­reservation conduct. 
+
+22  But as we point out in our reply brief ­­
+
+23 this is at pages 167 to 68 of that opinion ­­ here, the 
+
+24 tribe's contention was that the fishing activities on 
+
+25 its reservation were immune, and Justice Stevens wrote 
+
+60
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 that opinion, and then, only a few short years later, in 
+
+2 Kiowa, wrote his dissent, where he said we've never 
+
+3 before drawn that on/off­reservation distinction.  So 
+
+4 that's what Puyallup says. 
+
+5  With respect to Alfred Dunhill and the 
+
+6 evolution of foreign sovereign immunity as a common law 
+
+7 doctrine, four Justices agreed ­­ or signed on to the 
+
+8 entire opinion where that discussion was held. 
+
+9  One Justice agreed only with parts one and 
+
+10 two, but part two, on page 694, draws the commercial 
+
+11 line and says the problem here is that the district 
+
+12 court found the only evidence of an active state, as 
+
+13 opposed to a commercial act, was a statement by counsel 
+
+14 that the Cuban government and the intervenors denied 
+
+15 liability, and that's not enough. 
+
+16  And ­­ and the Court did reference the Tate 
+
+17 letter, but that's not why the Court changed the common 
+
+18 law of foreign nation sovereign immunity.  It ­­ it gave 
+
+19 respectful consideration to the Executive Branch's 
+
+20 views, and then it reached its own conclusion about what 
+
+21 the common law should say. 
+
+22  And, Justice Ginsburg, you are exactly right 
+
+23 to say, if it makes sense in the foreign nation context 
+
+24 and it makes sense here, apply it to both. 
+
+25  JUSTICE SCALIA:  If we modified it to make 
+
+61
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 an exception for commercial activities off reservation, 
+
+2 could Congress reinstitute sovereign immunity if they 
+
+3 wanted? 
+
+4  MR. BURSCH:  No question they could.  Just 
+
+5 like when this Court in Cabazon said that States didn't 
+
+6 have the regulatory authority they thought they did to 
+
+7 regulate illegal gaming on reservation, and this Court 
+
+8 said ­­ you know, States can't really touch that. 
+
+9 Congress immediately jumped in and corrected course. 
+
+10  You know, conversely, with Alfred Dunhill, 
+
+11 when this Court drew the line at commercial conduct, 
+
+12 Congress immediately jumped in.  And it put its stamp of 
+
+13 approval on that, and essentially adopted the line ­­
+
+14  JUSTICE KAGAN:  Well, there seems something 
+
+15 sort of strange about that, General, because as I read 
+
+16 Kiowa, what it was, was an invitation to Congress.  It 
+
+17 was saying ­­ you know, we have some concerns about 
+
+18 this, we're not sure it makes sense, we are dropping a 
+
+19 very broad hint that Congress should change it. 
+
+20  And, 15 years later, Congress has done 
+
+21 nothing.  And then to come back 15 years later and to 
+
+22 say ­­ you know, Congress didn't really accept our hint, 
+
+23 so we'll just do it ourselves and make Congress reverse 
+
+24 it.  Wouldn't you think that that's a strange procedure 
+
+25 to use? 
+
+62
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. BURSCH:  Actually, Justice Kagan, I 
+
+2 think that's the way that the common law works, that the 
+
+3 Court does extend invitations to the Legislative And 
+
+4 Executive Branches. 
+
+5  JUSTICE SCALIA:  Maybe we've learned 
+
+6 something in 15 years, such as the fact that ­­
+
+7  (Laughter.) 
+
+8  JUSTICE KAGAN:  Maybe we learned that Congress thought 
+
+9 that this did make sense. 
+
+10  MR. BURSCH:  I think you could draw the 
+
+11 conclusion either way.  And the suggestion by the tribe 
+
+12 and the government that somehow this Court lacks the 
+
+13 power to define common law tribal immunity, we think, 
+
+14 doesn't hold water. 
+
+15  JUSTICE KAGAN:  But I would have thought, 
+
+16 General Bursch, that one of the principles behind Indian 
+
+17 law in this country goes something like this:  Congress 
+
+18 can do pretty much whatever it wants with respect to 
+
+19 Indian tribes, but we will not likely assume that 
+
+20 Congress means to undermine tribal sovereignty.  We 
+
+21 will ­­ we will insist that Congress says that before we 
+
+22 put it into effect. 
+
+23  And, here, it's not just ­­ I mean, Congress 
+
+24 has given every indication that it does not wish to 
+
+25 change this, notwithstanding our hints that it should. 
+
+63
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. BURSCH:  I respectfully disagree.  And 
+
+2 the best evidence of that congressional intent is in 
+
+3 IGRA itself, where Congress abrogated immunity, even for 
+
+4 on­reservation conduct. 
+
+5  Think about what an extraordinary remedy 
+
+6 that is, that, even on the reservation, a State would 
+
+7 have the ability to go into court and get a Federal 
+
+8 injunction, rather than send in police to arrest ­­
+
+9  JUSTICE BREYER:  He's adding one thing, 
+
+10 which is, as you've just heard, that the Indian tribes 
+
+11 are in the same Eleventh Amendment type position as the 
+
+12 Principality of Monaco before the treaty. 
+
+13  MR. BURSCH:  Right, but ­­
+
+14  JUSTICE BREYER:  They didn't participate in 
+
+15 the convention and the Principality of Monaco was held 
+
+16 to be immune, presumably, even from commercial activity. 
+
+17 Let Congress change it.  That's what Kiowa says.  And 
+
+18 that, I think, is their basic argument. 
+
+19  And if it's a wash ­­ I mean, I hate to put 
+
+20 it this way because it sounds like a joke, but it isn't 
+
+21 meant to be ­­ in this case, if it's a wash, follow the 
+
+22 precedent. 
+
+23  MR. BURSCH:  I think Alfred Dunhill makes 
+
+24 clear that this Court can change the stream of the 
+
+25 common law when it comes to ­­ to immunity. 
+
+64
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  Really quickly on ­­ on these remedies ­­
+
+2  JUSTICE SOTOMAYOR:  Then go back to the 
+
+3 beginning question.  You have remedies you don't like, 
+
+4 but the waiver under IGRA is not for damages.  It's only 
+
+5 for injunctive relief.  You have that in Ex Parte Young. 
+
+6 Why are you asking us to waive sovereign immunity with 
+
+7 respect to damages? 
+
+8  MR. BURSCH:  I'll explain why, if I may 
+
+9 answer the question.  With respect to arresting, Ex 
+
+10 Parte Young remedies, enforcing the arbitration and 
+
+11 having them waive immunity, all these things are unclear 
+
+12 whether they're available to us.  And if this Court 
+
+13 issued a definitive opinion that said, we have each one 
+
+14 of those remedies, that would do great good in this 
+
+15 area. 
+
+16  But the reason why we think that you should 
+
+17 go farther than that is because, if sovereignty means 
+
+18 anything, it means allowing people to define what is 
+
+19 illegal on their own lands, whether it's prostitution, 
+
+20 gaming, or underage drinking, and being able to use the 
+
+21 full enforcement power of the sovereign State, civil and 
+
+22 criminal, to enforce those laws. 
+
+23  CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+24  The case is submitted. 
+
+25  (Whereupon, at 11:06 a.m., the case in the 
+
+65
+ 
+
+Alderson Reporting Company 
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Official 
+
+1
+ above­entitled matter was submitted.) 
+
+
+2
+ 
+
+3
+ 
+
+4
+ 
+
+5
+ 
+
+6
+ 
+
+7
+ 
+
+8
+ 
+
+9
+ 
+
+10
+ 
+
+11
+ 
+
+12
+ 
+
+13
+ 
+
+14
+ 
+
+15
+ 
+
+16
+ 
+
+17
+ 
+
+18
+ 
+
+19
+ 
+
+20
+ 
+
+21
+ 
+
+22
+ 
+
+23
+ 
+
+24
+ 
+
+25
+ 
+
+66
+ 
+
+Alderson Reporting Company 
+
+
+
+OfficialOfficial 
+
+Page 67 
+
+A 59:11,12 64:16 32:11 58:9 approval 62:13 assuming 42:10 
+
+a2 44:9 45:25 actor 14:7 allow 50:18 arbitral 37:1 assumption 4:16 
+
+ability 19:9 25:8,9 actors 14:6 allowed 18:21 arbitrate 36:22 6:9 42:11,20,20 
+
+25:10,12 26:17 acts 47:17 36:24 arbitrated 37:1 43:6,7,17 44:14 
+
+28:23 46:17 64:7 ada 12:15 allowing 12:8 arbitration 7:10,17 44:16,18 
+
+able 10:19 15:22 added 4:6 65:18 7:18,25 8:7,11,12 assumptions 31:17 
+
+16:23 26:21 29:2 adding 64:9 allows 21:11 8:15 33:17 37:13 attempting 15:17 
+
+47:10 65:20 addition 18:13,23 amended 21:15 37:16 38:1,4,12 attendant 49:20 
+
+aboveentitled 1:11 58:14 amendment 51:6,9 39:3,3 65:10 attorney 41:15 55:9 
+
+66:1 additional 10:25 64:11 arbitrator 7:19 attribute 12:9 
+
+abrogate 26:2 35:5 address 4:1 29:20 amici 29:5 38:14 authority 11:3,23 
+
+35:12 57:17 addressed 57:15 amicus 1:21 2:10 area 39:1 65:15 16:15 17:4 38:25 
+
+abrogated 30:15 59:6 50:10 58:3 arent 11:17 38:5 55:20 62:6 
+
+64:3 adea 12:15 analysis 58:15 argue 4:7 available 10:24 
+
+abrogates 36:5 administrative analyze 12:5 argued 41:14 43:15 28:3 34:14,16 
+
+abrogation 25:17 24:22 25:4 announced 47:2 arguing 4:6 38:9 45:11,24 
+
+35:23 40:23 51:13 adopted 53:18,22 54:12 argument 1:12 2:2 46:5 48:12 49:9 
+
+53:5 55:5 59:21 60:15 anomalous 41:4 2:5,8,12 3:4,7 65:12 
+
+absolutely 33:23 62:13 anomaly 11:6 35:3 29:14 37:25 39:24 avoid 18:21 20:11 
+
+35:10 46:14 52:10 affirmatively 35:6 44:10 45:25 47:8 50:9 60:7 awfully 17:1 
+
+53:19 
+
+absurdity 32:3 
+
+35:25 
+
+affront 26:9 
+
+answer 3:15 16:13 
+
+16:25 19:3 20:8 
+
+64:18 
+
+arguments 49:8 B 
+
+accept 54:4 62:22 agent 14:6 21:8,22 30:18 arizona 47:16 
+back 16:15 19:4 
+
+accepted 47:9 ago 21:11 37:8,9 43:2,13 armed 20:9 
+28:13 47:16 48:14 
+
+acknowledged agree 8:11 32:13 44:12,13,15,18,23 arrest 18:14 20:7 
+60:11 62:21 65:2 
+
+15:19 55:15 48:3 52:4 59:19 25:8,22 27:6 
+balance 29:11 
+
+act 4:7 13:24 23:21 agreed 37:5 38:18 59:25 65:9 32:14,17 33:2 
+47:10 
+
+25:2 40:13 47:15 61:7,9 answered 42:14 64:8 
+bar 51:6 
+
+47:15,16 53:2 agreement 8:3 answering 20:6 arresting 20:9 26:5 
+bargaining 20:23 
+
+58:24 61:13 37:14 anybody 6:11 30:7 26:12 27:1 28:10 
+barred 50:21 51:4 
+
+acting 14:7 15:8 agrees 7:3,25 38:15 65:9 
+51:9 58:1 
+
+40:15,16 ahead 23:2 48:18 apparently 40:21 aside 24:3 28:14 
+based 10:19 18:4 
+
+action 8:24 10:11 al 1:6 appealing 56:1 asked 14:25 20:6 
+53:9,12 
+
+18:14 33:12 34:4 alabama 29:6 appearances 1:14 21:15 37:10 39:8 
+basic 64:18 
+
+34:17 35:16 39:9 alaska 51:1,3 appendix 36:23 asking 4:17 16:24 
+basically 12:13 
+
+49:12,24 54:25 alfred 13:16,22 37:25 49:4 17:25 19:22 26:15 
+41:25 55:12 
+
+55:14,20 17:17 40:8 41:13 applicable 34:11 45:21 65:6 
+basis 14:17 56:18 
+
+actions 25:9 34:14 61:5 62:10 64:23 36:6 assert 8:22 34:16 
+58:20 
+
+45:13 59:5 alito 18:11,23 applied 51:18 34:19 37:2,13 
+bay 1:6 3:5,11,12 
+
+active 41:19 61:12 19:10,21,24,25 apply 30:21 47:24 asserted 8:17 9:8 
+beaten 48:20 
+
+activities 53:24 20:3,14,17,21 61:24 assets 10:11 
+began 44:3 
+
+60:24 62:1 21:5,23,25 22:4 applying 17:14 assignment 12:19 
+beginning 65:3 
+
+activity 9:14 11:9 27:8 32:20 43:19 35:7 13:14 
+behalf 1:16,17 2:4 
+
+11:10 12:6 29:24 44:1 48:16,19 approach 57:2 assume 16:7 24:4 
+2:7,14 3:8 4:3,4 
+
+31:3,3 32:7,10,22 57:22 appropriate 18:10 25:6 56:10 63:19 
+5:19 29:15 60:8 
+
+34:1 35:17 52:1 alitos 19:12 20:6 28:4 assumed 16:6 19:6 
+belief 30:22 57:3 
+
+Alderson Reporting CompanyAlderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 68 
+
+beliefs 37:19 briefs 29:5 58:3 62:5 cause 35:15 claim 9:3 39:19 
+
+believe 18:15 27:12 bring 25:9 36:8 california 13:1,9 central 39:6 43:21 54:8 57:23 
+
+33:25 49:11 14:2,3,7,8 16:4,9 century 12:15 claims 23:21 58:5,7 
+
+believed 6:5 bringing 26:4 16:17 41:3,9,22 cert 28:25 29:1 59:21,22 
+
+best 11:22,23 12:11 52:15 41:23 51:25 52:4 certain 17:6 clarify 60:10 
+
+32:1 47:10 64:2 broad 62:19 52:14,18 certainly 6:12 11:7 clause 21:11 56:4 
+
+better 27:1 broader 10:4 call 35:11 18:14 31:16,22 56:15 
+
+beyond 21:22 49:13 brought 8:5,23 cant 10:8,9,10 32:17 39:21 43:12 clauses 33:18 
+
+49:19,21 57:3 18:12 34:17 39:9 18:16 20:7 45:1 46:18 54:25 clear 5:24 6:17,20 
+
+big 12:19 26:16,19 58:7 46:9 52:16 55:6 chain 6:8 7:15 10:15,18 
+
+27:4 39:16,17 building 23:6 55:14 62:8 chance 17:18 11:7 31:13 32:25 
+
+40:3 bunch 46:4 capacity 15:8 40:15 change 26:15 38:4 64:24 
+
+bigger 10:21 burden 12:2,5 40:16 39:13,17 40:3,7 clearly 41:6 44:4 
+
+billy 25:21 bursch 1:15 2:3,13 care 42:10 62:19 63:25 64:17 client 44:2 
+
+bind 38:15,16 3:6,7,9 4:9 5:2,10 case 3:4 4:10,13,23 64:24 closed 55:18 
+
+bit 24:14 5:20 6:7,16,24 7:1,24 11:19,23 changed 32:7 61:17 closely 31:20 
+
+blanket 3:13,24 7:11 8:4 9:1,15,19 12:11 13:15 14:3 changing 47:20 closest 16:20 
+
+11:10 10:2,15,18 11:13 14:4 15:1,10,13 chief 3:3,9 6:22 closure 45:12 
+
+blatant 44:7 11:24 12:4,13,25 15:14,15,19 16:20 8:21 22:8 27:17 clubs 25:21 
+
+blatantly 35:9 13:3,6,12,21 14:3 17:8 22:12 24:11 27:20 29:12,16 codified 13:25 
+
+blatchford 42:4 14:11,14 15:3,6 24:13 28:12,16 32:23 33:11,19 40:13 53:25 
+
+50:25 51:19 58:16 15:13 16:2,5,12 34:6 36:14,17 34:2,15 38:11,19 coeur 58:16 
+
+board 38:1,4 16:19 17:7,11 41:12,14 43:14 39:2 48:17 49:10 coffers 34:21,22 
+
+body 18:9 53:22 18:2,17 19:2,16 51:16,25 57:1 49:16,22 50:2,6 collect 46:17 
+
+bottom 52:22 19:23 20:5,15,19 58:10 59:3 60:17 50:12 54:14,17,24 colorable 43:21 
+
+bracket 48:24 21:2,7,24 22:2,6 64:21 65:24,25 55:3,12 60:4,9 come 35:25 62:21 
+
+branch 53:21 22:10,19 23:7,9 cases 4:13 5:3,20 65:23 comes 29:8 45:19 
+
+branches 40:6,19 23:16,20 24:6,10 9:23,25 12:14 child 58:23 59:20 64:25 
+
+53:20 56:2,22 24:13,23 25:19 16:1,8,11 25:25 choice 30:10 coming 49:6 
+
+63:4 26:12 27:12,19,21 27:14 30:13 40:22 cigarettes 15:17,22 command 41:17 
+
+branchs 53:12 60:6,7,9 62:4 63:1 60:20 circuit 5:14 6:1,8 commerce 56:4,15 
+
+61:19 63:10,16 64:1,13 casino 3:24 9:18,20 6:17 28:21 commercial 3:14 
+
+breyer 12:21 13:1,4 64:23 65:8 10:14,23 12:24 circuits 5:15 11:9 13:17 14:22 
+
+13:7,12,19 14:2,9 business 3:23 11:18 13:2,5,8 18:16 circumscribed 28:8 15:8 17:15 19:8 
+
+14:12 15:24 16:3 14:16 27:25 40:25 20:22 22:1 23:6 circumstance 33:14 31:3 40:7,11,15 
+
+16:6,13,24 17:9 41:6 44:3 52:1,11 23:11 25:11,13,16 35:12 42:7 45:12 41:18 46:22 52:1 
+
+40:20 41:1,2,11 52:14,15 25:20 26:6 27:5 46:2 47:17 49:20 53:24 59:11,16 
+
+41:21 42:1,9,16 businesses 57:4,5 27:18 32:19 33:4 cite 12:13 27:13 61:10,13 62:1,11 
+
+42:19 43:5 44:11 buy 35:6 35:8,10,11,20 cited 16:1 51:21 64:16 
+
+51:24 52:9,21 buying 24:4,8 36:14,16,17 44:7 59:2 commission 15:14 
+
+56:24 57:11 64:9 bypassed 7:10 44:8,8 45:4 48:20 citing 41:13,16 16:20 24:25 37:16 
+
+64:14 48:21 55:1,14,18 citizens 27:19 38:5 39:23 
+
+breyers 48:3 C 57:24 28:10 commissions 45:2 
+
+brief 4:15 5:17 7:14 c 1:8,17,20 2:1 3:1 casinos 21:3 27:9 civil 25:22 27:5 committed 55:21 
+
+10:7 27:14 34:11 7:24 8:5 30:12 44:4 28:2 33:5 45:23 common 13:20,21 
+
+34:12,13 60:22 cabazon 32:5,9 categorical 50:15 49:25 55:20 65:21 13:21,25 14:1,9 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 69 
+
+14:11 17:19 18:9 20:10 29:19,21,25 convinced 45:5 62:5,7,11 63:3,12 decision 13:16 24:9 
+
+40:23 52:13 54:7 30:4,10,14,16,19 correct 4:9 7:11 64:7,24 65:12 32:5 37:23 38:8 
+
+54:8 56:13,17 31:16 32:1,4 35:2 13:6 23:9,15,19 courts 9:24 10:12 39:22 50:25 51:8 
+
+61:6,17,21 63:2 46:24 47:3,5,10 27:9 52:10 13:16,25 15:13 53:14 
+
+63:13 64:25 47:13,14 48:15 corrected 62:9 32:4 39:21 40:14 decisions 53:9 
+
+community 1:6 3:5 50:17 54:23 55:24 correctly 24:17 40:23 50:25 51:7 57:18 
+
+compact 7:8,9,15 57:15 59:1,5,20 couldnt 17:5 18:24 51:11 53:13,15 declaratory 8:24 
+
+8:10 18:25 19:4 60:1 62:2,9,12,16 19:11,13 35:21 59:9,10 60:11 9:4,12 39:9 
+
+19:14,16 20:23 62:19,20,22,23 41:9 59:13 covered 36:18 defense 8:23 12:3 
+
+21:2,6,8,13,15,20 63:8,17,20,21,23 counsel 3:25 29:12 created 59:1 define 63:13 65:18 
+
+21:25 22:5,6,9,11 64:3,17 50:2 61:13 65:23 creates 18:19 30:17 defines 23:18 
+
+22:15,18,20,22 congressional 64:2 count 34:21 creating 35:3 definitive 33:25 
+
+23:11 33:16 35:10 connection 27:10 counterclaim 9:6 crime 49:19 65:13 
+
+35:18,22,24 36:15 cons 60:2 country 10:22 44:3 criminal 28:2 29:5 denied 61:14 
+
+36:19,24 37:5 consents 50:17 58:3 51:4 57:4,5 59:15 32:12 33:4 45:17 deny 53:15 
+
+43:1,9,10 44:9 consequence 33:8 63:17 45:23 49:12 55:19 department 1:20 
+
+45:15,16,18 consideration 10:3 counts 4:5 65:22 41:15 
+
+compacts 33:17 61:19 county 20:10 27:7 critically 59:2 dependent 54:16 
+
+35:5 38:18 58:4 consistently 12:16 course 19:8 26:14 cuban 61:14 54:17,21,22 
+
+complaining 51:2 consolidated 4:13 31:14,15 33:16 curiae 1:21 2:10 deputy 1:19 
+
+complaint 34:5,22 5:3,5,21 6:9 37:4,5,12,12 62:9 50:10 des 41:5 
+
+complex 57:18 constitutes 23:13 court 1:1,12 3:10 currently 23:25 described 58:15 
+
+complicated 17:1,4 constitution 54:9 4:19,19,25 5:8 6:4 customers 32:15,18 despite 45:2 
+
+conceded 7:2 54:11 55:25 56:4 6:20 8:17 10:10 cut 47:16 determination 
+
+concerned 38:20 56:14,18 10:20 11:7,12,15 cutting 48:14 53:13 54:4 56:2 
+
+concerning 8:24 constitutional 12:14,16 14:7 determine 22:17 
+
+concerns 62:17 11:17 28:11 15:19 17:16,25 D 23:22 43:13 44:24 
+
+concession 3:11 construction 8:6 18:10 19:4,19 d 1:8,17,20 3:1 59:4 56:11 
+
+42:8 contention 60:24 23:20 28:24,25 dalene 58:16 determined 22:9,10 
+
+concluded 24:25 context 17:15 18:8 29:17 30:12,12 damages 46:10,17 22:11 24:1 
+
+28:22 24:18 29:4,4,5 31:4,13,17,23 65:4,7 developing 53:22 
+
+conclusion 61:20 40:2 48:9 59:15 32:6 34:9 35:15 days 21:10 development 13:22 
+
+63:11 59:16 61:23 36:11 37:18 39:12 deal 21:16 27:4 14:1 17:19 59:8 
+
+condition 25:13 contexts 28:15 29:9 40:8,12,14 41:12 33:15 39:7,23,24 didn 5:16 
+
+conditioning 26:5 continue 21:12 41:17,24 42:4 48:14 49:6 didnt 7:7 8:7 17:21 
+
+conduct 3:14 11:1 continues 22:5,7 44:22 46:2,19,21 dealing 6:6 39:18 19:22,23 24:8 
+
+14:22 16:22 18:22 contours 46:22 47:1,3,4,5 48:13 39:19 46:24 47:21 35:5 49:2 54:6 
+
+19:8 60:21 62:11 contract 8:6 10:9 48:23 50:13,15,21 dealt 40:5 41:24 56:12 62:5,22 
+
+64:4 19:19 49:2 58:7 50:25 51:4,5,8,15 december 1:9 64:14 
+
+conducted 35:17 58:11 51:18,19,22 52:7 decide 38:14 43:6 die 44:23 
+
+confine 47:23 contrary 44:14 52:7 53:3,14,25 45:3 difference 42:7 
+
+conflict 18:20 20:8 contrast 29:23 54:2,23 56:7,8,10 decided 7:9 12:14 43:20 46:7,11,16 
+
+confused 4:24 convention 51:13 56:12,20,22 57:20 17:17 19:5 44:2 different 11:16,25 
+
+congress 3:16 64:15 57:21 58:8,12,14 44:15 56:3 12:17 33:9,15,20 
+
+13:23 17:18,20,23 conversely 62:10 58:16 59:13,25 deciders 38:5 39:7 44:17 48:12 
+
+17:24 18:20 19:6 convince 45:1 60:19 61:12,16,17 deciding 57:17 60:2 difficult 20:4 49:23 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 70 
+
+dignity 26:1 draw 17:8 63:10 engaged 19:7 exclusive 3:20 9:21 64:7 
+
+diminishment drawing 17:9 engages 3:13 11:2 14:23 15:21 federalism 10:4 
+
+56:21 drawn 61:3 engaging 11:1 23:25 28:7 feel 18:5 
+
+directly 11:20 35:6 draws 61:10 26:20 executive 53:12,21 figure 33:15 
+
+disagree 14:18 drew 52:7 62:11 enigma 11:6 61:19 63:4 file 5:16,23 9:5 
+
+23:16 46:19 64:1 drinking 28:1 enjoin 35:16 executives 54:4 24:14 
+
+disappears 15:5,6,7 65:20 enjoys 3:13 exercise 55:19 filed 4:10,14,15,21 
+
+discretion 55:21 driving 12:23 15:25 entered 4:3 6:20 exercising 15:15 4:22 5:17 9:7 
+
+discretionary 7:13 dropping 62:18 49:1 existed 12:10 final 37:23 38:5,8 
+
+discussed 37:11 dunhill 13:16,22 enterprises 7:24 existing 21:19 45:2 
+
+discussion 61:8 17:17 40:9 41:13 entire 61:8 expire 21:6 find 16:10,14 
+
+dismissed 29:1 61:5 62:10 64:23 entirely 32:6,8,10 expired 21:10,25 fine 20:25 
+
+disposition 30:8 39:13 43:16 22:2 finish 20:5 
+
+dispute 3:22 7:8,9 E entity 27:24 explain 7:14,23 first 3:4,11,16 7:13 
+
+23:3 46:21 e 2:1 3:1,1 entries 5:22 52:24 65:8 13:17 19:3 20:11 
+
+dissent 17:13 42:5 earlier 32:5 39:8 envision 22:21 explained 18:8 21:14 30:6 32:4 
+
+47:9 61:2 43:12 47:13 60:20 esq 1:15,17,19 2:3 explicitly 4:20,25 33:16 37:4 40:12 
+
+distinction 13:17 easily 46:8 2:6,9,13 express 10:7 50:4,19 55:17 
+
+40:11,15 52:7 edwin 1:19 2:9 50:9 essentially 13:24 expression 30:14 60:14 
+
+59:11,14 61:3 effect 22:7 63:22 18:1 21:9 62:13 extend 14:5 59:13 fishing 31:3 60:24 
+
+distinguish 18:3 either 43:24 63:11 et 1:6 63:3 five 19:5 60:6 
+
+59:16 element 49:18 evade 33:24 extended 27:15 flatly 31:1 
+
+distinguishable eleventh 51:6,9 eventually 28:25 extension 47:15 fly 33:21 
+
+9:25 14:17 64:11 evergreen 21:11 extraordinary 64:5 follow 24:20,22 
+
+distribution 51:2 eligible 24:16 everybody 20:12 eyes 49:2 42:25 57:2 64:21 
+
+district 4:19,19,25 elses 4:8 everybodys 5:11 following 51:25 
+
+5:7 6:4,20 34:9 eminently 6:17,20 evidence 61:12 F follows 51:22 
+
+37:18 61:11 emphasize 10:5 64:2 faced 12:2 foreclose 28:19 
+
+divided 39:18 employee 33:2 evolution 61:6 fact 4:18 6:10 foreclosing 28:23 
+
+docket 5:22 employees 27:10,12 ex 9:22,24 10:6,11 11:19 18:4 24:14 foreign 3:22 10:22 
+
+doctrine 47:1 61:7 27:15 32:18 48:21 18:14 25:9 26:4 29:21 51:15 63:6 13:17,24 17:17 
+
+doesnt 34:20,20 49:11,12 28:9 34:2,4,7,10 failed 28:17 18:9 27:24 40:1 
+
+39:3,3 41:16 empower 35:4 34:13,17,19,20,23 falls 57:25 40:13 41:19 50:24 
+
+47:24 48:8 49:5 empowers 35:24 34:24 65:5,9 far 38:19 48:25 51:9,12,14 52:11 
+
+63:14 enact 13:23 exact 5:12 8:9,18 49:9 55:10 53:2,7,19,23 54:1 
+
+doing 10:14 51:5 enacted 20:11 exactly 6:1 18:19 farther 65:17 54:20 58:21 59:8 
+
+dont 5:7 6:4 9:19 29:19 30:22 23:2 35:19 42:3 favor 18:6 59:15 61:6,18,23 
+
+17:21 18:2 19:13 enacting 31:16 43:4 46:20 58:13 federal 3:17 7:1,20 form 38:25 
+
+22:19 25:17 30:11 encourage 41:12 61:22 8:16 10:10 19:19 forward 19:10 
+
+30:15 32:23,24 enforce 10:9 11:20 example 33:17 22:11,12 23:13,20 20:17 21:4 29:2 
+
+36:4 38:11 41:17 28:23 37:1,13 34:20 35:20 57:16 23:23 24:24 25:22 found 50:21 61:12 
+
+43:24 44:23 45:15 57:8 65:22 58:22 59:20 35:15 36:6,8,8 four 61:7 
+
+48:4 56:18 65:3 enforcement 36:9,9 exceeds 54:19 37:20 38:12,22,24 france 3:23 10:22 
+
+doubt 49:13,20,21 54:25 65:21 exception 56:19 45:1,5,10,20 12:23 13:9,15 
+
+downtown 40:25 enforcing 65:10 59:4 62:1 47:21 54:25 55:3 16:3,8,17 27:4 
+
+41:5 engage 14:22 exceptions 59:1 55:13,19 57:20,20 41:7,8,8 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 71 
+
+frances 40:24 giving 40:2 44:25 52:2,11,14 55:14 implications 28:14 
+
+frankly 26:24 glad 8:5 hasnt 17:24 22:2 55:15 62:7 65:19 57:2 
+
+free 18:10 go 3:25 10:1 19:18 36:2 47:13 im 4:2,24,24 7:3,22 importance 20:18 
+
+french 27:6 20:7 25:7,21 29:2 hate 64:19 8:4 16:14 17:11 20:20 
+
+frequent 27:18 32:14 33:2,21 hauling 20:10 24:16 44:11,12,13 important 7:14 
+
+friend 29:18 30:25 40:24 41:5 44:2 havent 45:5 44:16 45:21 49:18 18:12,13 26:1 
+
+35:3 39:25 40:8 48:17 64:7 65:2 hear 3:3 50:3 52:21 46:15 52:24 
+
+41:15 42:6 43:15 65:17 heard 5:6 60:15 imagine 21:14 35:8 including 6:8 39:8 
+
+47:12 60:16 goes 15:12 63:17 64:10 immediately 62:9 45:12 
+
+front 42:11 going 5:8 7:3 16:10 held 14:7 24:13 62:12 indian 1:6 3:5 7:21 
+
+full 10:23 28:2 16:14 17:11 19:10 50:25 51:4,20 immune 11:8,10 13:4,11 15:18 
+
+65:21 20:8,17 21:4 53:10 61:8 64:15 53:19 60:25 64:16 17:2 19:15,17,21 
+
+funds 51:3 24:20 27:1 38:14 heres 11:13 17:11 immunities 13:24 22:9,16,18 23:1,4 
+
+further 17:19 29:10 38:15 50:1,3 hes 64:9 40:13 53:2 23:9,13,21 24:1 
+
+55:16 hint 62:19,22 immunity 3:13,22 24:16,25 25:1,6 
+G good 9:2 17:4 65:14 hints 63:25 3:24 7:5,16 8:1,8 29:21,22 30:2 
+
+g 3:1 gotten 9:12,17 hoffman 53:14 8:13,17,20,23 9:8 32:2 35:16,19 
+gain 12:6 10:16 hold 63:14 9:10 10:25 11:10 36:1,22 37:17,21 
+gambling 24:4 30:2 government 7:20 holding 24:17 12:3 13:18 14:5 38:13,21 39:11 
+32:15 46:8 11:9 23:14,24 holdings 10:20 15:4,11 17:14 41:5,9 42:12,12 
+
+game 30:17 32:7 24:24 37:20 38:12 holmes 44:22 18:9 19:1,20 21:1 42:17,22,24,25,25 
+39:13 38:22,24 45:1,5 honor 6:24 30:9,24 21:16 22:17,21,24 43:3,6,17,21 44:4 
+
+gaming 3:18,19 45:10,20 53:16 31:1,11 33:13 25:7,18,25 26:2 44:8,14,17 45:2,4 
+8:20 9:13,20 54:25 55:4,13,22 34:18 36:7 37:4 26:10 27:14 28:24 45:19,20,24 46:1 
+10:14 21:22 24:16 59:10 61:14 63:12 37:10 43:11 44:19 29:1,8 30:14,23 46:3,8 47:22,24 
+24:18,25 26:18,20 governmental hopefully 13:13 31:4 33:8 34:4,6 48:4,11,12 49:14 
+28:1,15 29:4,21 40:12,16 59:11,17 huge 23:24 34:16 35:5,12 50:16 51:1,3,19 
+30:3 35:17 36:24 granted 28:25 36:2,5 37:2,13 51:20 52:16 54:10 
+37:16 38:4 44:3 granting 4:20 I 39:14 40:2,7,24 54:11,12 55:5,7,8 
+45:2 47:24 48:9 great 19:2 65:14 id 17:4 47:12 41:19,20 42:13 55:23 56:3,14 
+52:5 57:3 58:6 greater 3:21 idaho 58:16 43:14,20 44:5,7 57:1,4,9,12 59:14 
+62:7 65:20 grounds 23:5 idea 35:7 46:19 44:13 46:22 47:2 63:16,19 64:10 
+
+general 1:15,19 grown 58:20 48:8 47:4,14 48:8 49:3 indians 23:14 
+25:5 32:25 56:21 guards 20:9 igra 18:21 20:11 49:4 50:24 51:14 indication 63:24 
+62:15 63:16 guess 15:9 25:15 23:10 26:16 29:20 53:6,7,15,18,23 individual 16:9,18 
+
+georgia 54:12 57:7 29:23,23 31:16 54:1,19 57:17 16:21 27:1,25 
+getting 14:25 guessing 30:17 32:4 35:4 46:1 58:1,5,12,21,23 individuals 42:2 
+ginsburg 7:6,12 guide 32:1 60:14 64:3 65:4 59:2,9 61:6,18 51:7 57:23 
+11:5,13 17:20 guns 25:21 ii 29:20 35:4,11,24 62:2 63:13 64:3 influenced 59:9 
+32:13 39:16 40:10 42:21 43:8,9 59:4 64:25 65:6,11 initiated 35:16 
+40:17 46:25 47:7 H ill 6:3,3 42:9 65:8 impact 21:22 injunction 4:2,6,8 
+54:16 58:9 59:7 hadnt 4:21,21 illegal 3:14,18,23 imperfect 10:6 4:14,17,20,21 5:4 
+61:22 haiti 10:22 8:20 9:20 11:1 18:18 28:8 5:17 6:10 25:23 
+
+give 10:25 17:17 hall 14:4 42:5 52:6 14:22 18:15 19:7 impermissible 26:17 27:6 31:11 
+21:7 46:16 happen 21:4 23:1 26:18,20 27:18,25 34:25 33:5 49:23 64:8 
+
+given 9:5 63:24 happens 14:1 28:15 30:1,3 35:10 41:6 implicate 11:21 injunctions 18:22 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 72 
+
+injunctive 3:17,18 45:25 46:10,25 16:13,14,15,24 29:13,14,16 30:5 56:12,20 57:10,15 
+
+5:25 9:6 39:19,23 64:20 17:9,20 18:11,23 30:9,24 31:10,15 58:2,13 59:7,18 
+
+44:10 50:20 59:5 issue 3:12 6:15 9:12 19:10,11,12,18,21 31:21,25 32:17 60:5 
+
+65:5 18:12 20:4 21:19 19:24,25 20:3,6 33:7,13,23 34:8 know 12:18 15:24 
+
+inquiry 30:11,12 23:12 38:10 39:6 20:14,17,21 21:5 34:18 35:19,22 17:22,23 23:17,18 
+
+insist 63:21 60:12 21:23,25 22:4,8 36:7,16,20 37:3,9 26:3,5,7 27:22 
+
+insisting 18:25 issued 4:7 60:19 22:13,15,20,25 37:22 38:7,16,23 29:3,5 30:24 33:3 
+
+instance 40:12 65:13 23:8,12,17 24:3,7 39:5,21 40:10,17 33:19,21 35:2 
+
+intact 32:10 issues 5:13 17:14 24:12,19 25:5,24 41:1,11,23 42:3 37:24 43:5 45:14 
+
+intended 3:17 21:17 29:6 27:8,17,20 29:12 42:15,17 43:3,11 56:2 62:8,10,17 
+
+intent 64:2 itll 7:9 29:16,25 30:7,20 43:23 44:6,19 62:22 
+
+interact 27:3 ive 37:11 31:7,14,19,24 45:7,10,22 46:6 kohler 44:23 
+
+interest 23:24 32:11,13,20,23 46:12,18,25 47:7 kumar 1:17 2:6 
+
+24:18 38:13 57:13 J 33:11,19 34:2,15 48:1,6,10,23 29:14 
+
+interested 21:18 j 1:15 2:3,13 3:7 35:9,14,21,23 49:15,18,25 
+
+interests 47:11 60:7 36:4,13,17,25 keen 38:13 L 
+
+58:20 jail 20:10 27:7 37:7,15 38:3,11 kennedy 11:22 12:1 l 7:24 8:5 30:12 
+
+interior 55:4 john 1:15 2:3,13 38:19 39:2,15,16 12:11,18,23 13:13 labor 33:3 
+
+international 53:22 3:7 60:7 40:10,17,20 41:1 14:25 16:15 19:11 lacks 63:12 
+
+interpret 19:19 joined 4:14 5:7,8 41:2,11,14,21 19:18 22:15,20 laid 37:24 
+
+interpretation 5:11 42:1,9,16,19 43:5 35:14,21,23 36:4 land 3:19 12:7 
+
+19:14,17 23:20 joint 37:24 43:19 44:1,11,22 36:13,17 47:19 14:22 15:18,20 
+
+55:6 joke 64:20 44:25 45:8,18 48:2,7,10 16:22 22:9 23:14 
+
+interpreting 28:21 judgment 8:16,17 46:6,15,25 47:7 kind 6:10 10:3 23:21 24:5,8,21 
+
+interrupt 19:13,22 8:24 9:4,13 37:2 47:19 48:2,3,7,10 18:19 21:18 26:24 24:21,23 28:6 
+
+intersovereign 39:9 48:16,17,19 49:10 30:15 46:9 36:1 38:6,13 
+
+18:20 judicial 53:9 49:16,22 50:2,6 kinds 28:15 46:22 47:22 
+
+intervened 4:22 jumped 62:9,12 50:12 51:24 52:9 kiowa 11:7,12,14 lands 7:21,21 8:25 
+
+intervenors 61:14 jurisdiction 3:20 52:21 53:8,12 14:13,14,15,21 9:3,20 11:2 15:20 
+
+intrusive 25:20 4:1,7 7:1 9:2,21 54:3,14,16,17,24 17:10,12,18,21,22 19:15,17,21 22:9 
+
+26:3,22 9:25 11:2 14:23 55:3,12,23 56:1,5 17:22 19:5 28:21 22:16,18 23:2,4,6 
+
+invasion 27:23 15:21 24:1 28:7 56:8,10,16,24 28:25 31:12,14,18 23:10,13,18,22,25 
+
+invitation 62:16 32:6 35:15 46:3 57:11,22 58:9,9 31:23 39:18 40:5 24:2,15 25:1,4,6 
+
+invitations 63:3 jurisdictional 6:14 59:7 60:4,9,25 40:18 41:7,24,25 25:11,12,16 29:21 
+
+invited 28:24 6:23,25 61:9,22,25 62:14 42:1,2,4,6 46:21 29:22 30:2,3,23 
+
+invocation 8:6 justice 1:20 3:3,9 63:1,5,8,15 64:9 47:8,9,13,23 32:2 35:19 36:22 
+
+involve 11:15 14:15 3:25 4:10,18 5:5 64:14 65:2,23 48:13,24 50:16 37:17,21 38:21 
+
+involved 11:14 5:16 6:3,13,19,22 justices 17:12 61:7 54:2 58:10,14 39:11 42:12,18 
+
+14:16 31:2 60:20 7:6,11,22 8:4,21 59:25 60:15 61:2 43:3,7,18,22 44:4 
+
+involving 8:20 9:11,16,22 10:2 K 62:16 64:17 44:8,14,17 45:2,4 
+
+12:15 16:3,4 10:13,16 11:5,13 kagan 7:22 8:4 kite 33:21 45:19,20,24 46:1 
+
+28:16 11:22 12:1,11,18 14:24 15:4,9 kneedler 1:19 2:9 46:3,9 47:21 48:4 
+
+iowa 40:25 12:21,23 13:1,4,7 16:14 25:5,24 50:4,8,9,12 52:5 48:11,13 49:14 
+
+isn 46:6 13:12,13,19 14:2 46:6,15 62:14 52:18,23 53:11 55:5,7,8 65:19 
+
+isnt 9:17 15:20 14:9,12,24,25 63:1,8,15 54:6,21 55:2,11 lansing 1:16 
+
+20:23 37:22 38:8 15:4,9,24 16:3,6 katyal 1:17 2:6 55:17,25 56:4,7,9 lara 56:20 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 73 
+
+laughter 12:20 20:2 little 4:3,3,23,24 3:5,23 4:11,14 necessarily 11:3 officers 26:13 27:2 
+
+50:5 63:7 5:18 5:24 6:9 7:7,10 necessary 25:20 officials 10:1 20:9 
+
+law 10:10 13:20,21 live 51:24 11:4 21:15 23:21 need 5:23 12:5 18:3 offindianlands 
+
+13:21,25 14:1,10 located 13:8 23:24 24:17 27:5 18:5 25:7,17 29:24 32:10 
+
+14:11 17:19 18:10 logically 51:22 27:7,19 28:11 32:21 60:17 offreservation 3:14 
+
+22:12 30:4 33:24 look 4:25 22:22 39:6,10 49:5 59:3 needs 39:12 8:20 28:20 31:2 
+
+35:7 36:6 40:14 40:1,22 41:12 michigans 9:21 negotiate 21:12 60:17,21 61:3 
+
+40:23 47:3 52:13 42:9,20 43:7,13 11:2 28:6 36:10 negotiated 19:4 oh 20:19 
+
+53:23 54:7,8 44:23 36:10 negotiations 42:24 okay 13:5 14:2,9 
+
+56:13,17 57:18,19 looking 16:15 mills 1:6 3:5,11,12 nevada 14:4 16:9 15:9 34:2 37:18 
+
+57:20 60:14 61:6 56:13 mind 5:15 38:4 16:17 41:3,22,23 53:1 
+
+61:18,21 63:2,13 lots 10:6 17:7 39:7 minutes 60:6 42:5 52:6 oklahoma 15:14 
+
+63:17 64:25 39:10 48:11 mississippi 51:16 nevadas 14:6 16:19 29:6 39:22 
+
+laws 36:6 65:22 lower 9:23 10:12 51:17 never 6:11 24:24 39:22 
+
+lawsuit 24:15 10:20 misunderstood 25:2 47:3 61:2 once 5:13,20 13:25 
+
+lawsuits 4:11 43:12 new 21:12 22:4,6 17:20 
+
+lawyer 57:13 M modified 61:25 28:17,18 oneida 28:17 
+
+lay 36:23 m 1:13 3:2 65:25 modify 11:12 18:1 nigc 38:10 55:5,6 ones 55:15 59:2 
+
+lead 9:9,11 machines 32:16 18:3,6,10 50:15 nigcs 38:25 ongoing 38:19 
+
+leap 26:19 majority 17:12,21 54:1 nine 17:12 onindianlands 32:7 
+
+learned 63:5,8 40:17 41:17 47:9 modifying 39:17 nonindian 25:11,12 32:22 34:1 
+
+leave 48:14 making 59:21 moines 41:5 25:15 onreservation 
+
+led 40:7,19 management 33:3 moment 45:6 nonpayment 28:19 18:22 64:4 
+
+left 17:18 32:10 maritime 54:7 monaco 51:8,12,16 nontribal 15:23 open 17:19 20:22 
+
+58:24 60:6 matter 1:11 9:10 51:17 53:3,5 note 11:20 47:12 41:6 42:23 49:2 
+
+legislative 63:3 19:14,16 22:11 58:17 64:12,15 notwithstanding opened 3:23 10:23 
+
+legislature 60:1 54:7 55:9 56:13 monday 1:9 8:12 63:25 27:4 35:9 44:8,8 
+
+lend 59:19,24 56:17 66:1 money 10:10 39:19 november 21:10 opening 44:3 
+
+length 18:8 matters 43:24 46:10 58:11 number 27:13 opens 12:23 13:1,5 
+
+lesser 11:4 12:2,5 mean 18:2 19:13,22 morning 3:4 60:13 28:13 37:23 38:9 52:1,11,14 
+
+15:16 21:5 27:8 37:7,17 motion 4:14,15 40:5,8 42:21 operate 22:1 23:11 
+
+letter 53:13,21 46:16 56:1 63:23 5:22,23 44:20,21 45:13,23 32:19 45:4 57:4 
+
+61:17 64:19 move 15:7 49:8 58:4 operating 26:6 28:6 
+
+liability 61:15 meanings 5:6 moved 28:18 numerous 57:16 operation 57:24 
+
+liable 14:8 59:22 means 7:8 25:20 mutuality 42:8 58:6 
+
+license 26:6 54:15,18 63:20 O operations 46:8 
+
+licensing 25:13 65:17,18 N o 2:1 3:1 opinion 6:8,18 
+
+likewise 26:21 meant 64:21 n 2:1,1 3:1 object 13:10 23:5 17:21 39:18 44:23 
+
+limit 47:23 mechanisms 38:9 name 28:1 24:20 60:23 61:1,8 
+
+limited 21:3 59:4 45:9,11 46:4 narrow 10:5 59:1 objection 6:11,23 65:13 
+
+limiting 20:13 members 15:23 nation 13:18 18:9 6:25 33:12,22 opinions 60:19 
+
+limits 34:19 25:22 27:13,16 27:24 52:11 61:18 34:6 36:21 opposed 61:13 
+
+line 17:8,9 52:22 mentioned 53:2 61:23 obscure 47:20 opposite 8:9 
+
+61:11 62:11,13 merits 34:12 37:24 national 24:25 obvious 18:19 opposition 6:4 34:5 
+
+lines 8:22 mexico 53:14 nations 3:22 17:17 occurs 45:6 52:6 34:12 52:9 
+
+litigation 34:10 michigan 1:3,15,16 neal 1:17 2:6 29:14 odd 46:25 option 33:1 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 74 
+
+options 26:11 18:4 police 11:21 15:15 principle 10:4 provision 7:13 8:11 
+
+oral 1:11 2:2,5,8 passed 47:3 20:9 64:8 33:10 8:12 59:21 
+
+3:7 29:14 50:9 patchak 24:11 25:3 policy 57:1 principles 63:16 prudent 55:19 
+
+order 4:20 5:1 6:21 patriot 47:15 political 40:6,19 prior 53:17 purpose 7:23 8:1 
+
+18:6 50:17 patron 48:20 53:20 56:22 private 11:14 14:16 30:14 
+
+orders 45:12 pay 28:17 58:11 position 22:16 14:20 16:9,17,21 purposes 7:16 
+
+ordinary 11:18 penalties 33:5 26:25 36:10,14 17:5 18:4 48:19 22:22 25:1 36:6 
+
+34:9,10 55:21 people 18:15 25:8 43:13,24 47:20,20 57:23 43:19 
+
+originally 4:10 51:6 26:5 27:9,18 48:4,5,6,10 64:11 problem 33:6 47:25 pursuant 23:14 
+
+ought 54:4 33:22 65:18 possibility 18:13 57:16 61:11 pursue 21:23 29:2 
+
+ousted 32:5 46:3 performance 10:9 45:16 procedural 6:11,23 pursued 26:15 
+
+outset 50:14 permissible 23:10 possibly 49:1 6:24 8:18 pursuing 5:12,25 
+
+outside 17:3 43:16 permit 34:20 posture 8:18 procedure 62:24 put 24:3,3 52:15 
+
+overrule 14:21 permitted 34:24 pottawatomi 50:19 proceed 38:20 62:12 63:22 64:19 
+
+overturn 45:3 person 17:5 48:20 power 11:21 15:16 43:17 putting 37:19 
+
+owed 58:11 48:21 15:16 18:7 20:24 proceeded 4:16 6:7 puyallup 31:1,20 
+
+persuade 38:24 30:1,2 46:1 54:23 proceeding 8:2 31:22 39:22 50:19 
+P petition 6:12 36:23 54:23 57:8 63:13 process 24:22 25:4 50:21 51:21 60:16 
+
+p 3:1 49:4 65:21 promissory 11:20 60:18 61:4 
+page 2:2 31:10,12 petitioner 1:4,16 powers 15:16 promptly 55:18 
+40:5,18 49:4 2:4,14 3:8 60:8 practical 10:3,5 pronounced 56:5 Q 
+
+61:10 phrase 29:22 21:8 proper 30:11,12 qua 33:9 
+
+pages 41:16 60:23 pick 28:3 precedence 44:22 36:21 46:20 quarter 12:15 
+
+paid 57:25 picking 47:12 precedent 18:1 properly 38:10 quasi 54:15 
+
+panoply 10:24 12:8 piece 49:19 60:11 64:22 properties 28:20 quasisovereigns 
+
+28:2 place 3:19 12:7 precisely 31:1 property 9:17 54:15 
+
+papers 4:22 16:22 20:11 21:2 41:12 47:8 28:18,23 question 3:12 4:1 
+
+paragraph 8:10 26:18 prepared 51:24 proposed 21:15 5:14 6:25 7:1 
+
+parallel 42:22 places 17:6,8 31:22 presented 3:12 proposition 11:23 12:21,22 15:24 
+
+pardon 47:22 44:4 43:16 44:21 11:24 16:16 41:13 17:19 19:3,12,24 
+
+part 5:1 14:21 34:8 plaintiff 4:11,12 preserve 8:7 56:21 20:1,6 21:8,21 
+
+34:9,9 36:14 53:3 11:14,19 14:16 preserved 8:14 pros 60:2 22:12,14 23:1 
+
+61:10 15:2,11 18:4 21:19 prosecute 27:17 25:15 28:13 30:16 
+
+parte 9:22,24 10:6 24:14 46:23 49:7 preserves 58:22 prosecuting 33:21 30:18,22 39:8,8 
+
+10:11 18:14 25:9 plaintiffs 11:18 president 27:6 49:11 39:11 42:11,13 
+
+26:4 28:9 34:3,4,7 14:20 presumably 25:10 prosecutions 45:17 43:12 44:12,13 
+
+34:10,13,17,19,20 play 45:19 54:5 25:12 64:16 prosecutorial 47:12 48:3,25 
+
+34:23,24 65:5,10 please 3:10 29:17 pretty 63:18 55:20,21 58:9 62:4 65:3,9 
+
+participate 64:14 50:13 prevail 11:11 prospective 50:20 questions 29:10 
+
+participating 33:3 plenary 54:22,23 prevailed 7:19 prostitution 28:1 37:19 39:1 43:16 
+
+parties 5:12 6:6 point 5:21 6:5 7:24 previously 52:13 65:19 44:20 50:24 
+
+8:13 21:12 22:3 9:23 10:5,21 25:2 primary 33:16 protected 31:4 quick 42:21 
+
+38:17,17 47:11 39:6 50:23 54:2 principal 59:24 prove 49:13 quickly 65:1 
+
+51:12 58:3,14,18 60:22 principality 51:8 provide 58:4 quite 4:9 19:23 
+
+parts 61:9 pointed 11:6 51:15 51:11 53:3,4 provided 7:8 24:14 25:25 
+
+party 11:14 14:20 58:19,21,25 58:17 64:12,15 provides 36:5 quoted 40:8 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 75 
+
+R referring 24:10 11:8,9 15:7 17:3 8:21 22:8 27:17 seeking 27:5 33:9 
+
+r 3:1 refers 22:15 54:11 17:15 19:8 26:18 27:20 29:12 32:23 seize 10:11 32:15 
+
+raise 6:14 refused 58:11 26:21 28:16 31:8 33:11,19 34:2,15 send 64:8 
+
+raised 6:11 34:6 refuses 42:25 31:8,12 35:7,9 38:11,19 39:2 sense 3:16 37:10 
+
+42:6 regulate 62:7 50:22 57:5 58:10 48:17 49:10,16,22 59:14,15,18 61:23 
+
+rationale 51:11 regulated 57:6 60:25 62:1,7 64:6 50:2,6 54:14,17 61:24 62:18 63:9 
+
+reach 22:4,6 34:22 regulation 57:8 reserve 29:11 54:24 55:3,12 separate 4:11,12 
+
+reached 7:19 61:20 regulatory 28:3,7 resolution 7:8 60:4 65:23 39:1 
+
+reaching 34:21 32:6 46:1,3 62:6 resolve 39:10 rule 13:25 18:6 series 60:18 
+
+reacting 32:4 46:2 reinstitute 62:2 resolves 39:5 30:20 50:16 seriously 20:3 
+
+read 6:17 16:7,10 reiterated 58:23 resort 7:7 rules 39:13 set 27:25 31:17 
+
+31:13,19 43:8 reliance 47:11 respect 26:13 32:9 ruling 32:20,21,24 48:13 
+
+62:15 58:20 36:11 39:6,13 33:25,25 37:18,20 settled 10:8 
+
+reading 12:19 relief 5:25 9:5,6 53:11 61:5 63:18 45:3 settlement 23:15,19 
+
+13:14 42:21 10:19 33:9 39:20 65:7,9 running 18:15 29:7 23:21 25:2 
+
+reaffirmed 47:14 
+
+49:3 58:17 
+
+39:23 50:20 65:5 
+
+reluctantly 28:22 
+
+respectful 26:14,23 
+
+61:19 S 
+shape 38:25 
+
+shifts 15:11 
+
+reaffirming 58:15 relying 51:7 59:3 respectfully 22:20 
+s 1:19 2:1,9 3:1 short 61:1 
+
+really 9:9 21:18 remedies 10:24,25 64:1 
+50:9 shortly 13:23 
+
+22:23 26:19 30:1 12:9 28:3,8,8 respecting 28:10 
+sanctions 32:12 shut 25:11 46:7 
+
+46:7,10 47:10 32:11 45:24 46:10 respond 17:21 50:7 
+33:4 shuttered 32:20 
+
+62:8,22 65:1 47:11 48:12 50:1 50:14 
+saying 8:2 15:1 side 20:24 30:25 
+
+reason 23:22 32:2,3 60:11 65:1,3,10 respondents 1:18 
+17:1 38:22 40:3 40:1 60:16 
+
+35:1,4 40:3 47:23 65:14 1:21 2:7,11 29:15 
+52:21 55:13 62:17 signed 61:7 
+
+65:16 remedy 3:17,18 8:7 50:11 
+says 13:7,9,10,15 sigr 47:15 
+
+reasonable 49:13 10:6 11:4 18:18 responds 40:18 
+20:25 29:23 31:11 silent 47:13 
+
+49:20,21 26:22 29:2 32:12 response 46:20 
+32:21 34:12,12,13 simply 9:4 25:11 
+
+reasonably 19:6 35:13 36:21 37:4 responses 10:2 37:3 
+35:3,14 36:11,25 situation 52:19 
+
+reasoning 51:18 38:2 44:10 48:16 rest 29:20 
+40:18,21 41:3,4 situations 12:22 
+
+52:25,25 48:19,21 49:23 restrictive 53:18 
+44:23 52:10 61:4 42:5 
+
+reasons 3:15 7:12 64:5 result 7:19 17:23 
+61:11 63:21 64:17 sixth 5:14,14 6:1,8 
+
+10:7 18:18 30:9 remember 16:1 57:24 
+scalia 29:25 30:7 6:17 
+
+37:23 40:4 44:20 remembering resuscitate 42:7 
+30:20 31:7,14,19 slips 57:25 
+
+59:19 24:16 return 35:1 
+31:24 35:9 36:25 slot 32:16 
+
+rebuttal 2:12 60:7 renegotiate 49:6 reverse 62:23 
+37:7 53:8,12 54:3 sold 15:18,22 
+
+reciprocal 51:13 repeatedly 11:16 review 28:25 
+55:23 56:1,5,8,10 solely 29:21 
+
+reciprocity 52:20 replete 29:6 right 8:19 19:18 
+56:16 61:25 63:5 solicitor 1:15,19 
+
+58:17 reply 7:14 27:14 20:5 21:7 23:12 
+scope 7:5 8:19 32:25 55:4 
+
+recognized 12:16 60:22 26:12 32:20 33:1 
+27:22 54:19 56:11 somebody 57:25 
+
+13:17 17:13 42:4 representing 56:25 37:18 40:11 41:21 
+second 3:21 5:23 sophisticated 20:1 
+
+51:5 59:10 represents 28:11 42:9,10 44:6 
+20:7 28:21 35:1 sorry 7:22 
+
+recognizes 53:16 republic 53:14 45:22 55:10 61:22 
+37:6 sort 33:14 35:3 
+
+red 35:11 requesting 6:10 64:13 
+section 22:22 26:17 48:14 62:15 
+
+reduce 8:16 13:13 requires 30:13 35:6 rights 47:11 
+see 4:3 6:4 16:8 sotomayor 3:25 
+
+reference 61:16 35:25 roads 9:9,11 
+31:24 38:11 40:22 4:10,18 5:5,16 6:3 
+
+referred 55:8 reservation 3:18 roberts 3:3 6:22 
+55:13 6:13,19 9:11,16 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 76 
+
+9:22 10:3,13,16 36:1 stipulate 9:2 support 4:23 5:18 29:12,16 50:2 
+
+22:13,25 23:8,12 started 18:24 stop 9:13,20 10:14 16:16 60:4,9 65:23 
+
+23:17 24:3,7,12 state 4:4,17,21 5:24 25:16,20 26:18 supporting 1:21 thats 4:9 6:1 7:11 
+
+24:19 37:15 38:3 8:11 10:10,23 30:1,3 45:8 2:11 4:15,22 5:3 10:11 11:4,5 
+
+39:15 44:25 45:8 11:4,15,21 12:7,8 stopped 18:24 24:7 50:11 12:18,18 14:14 
+
+45:18 65:2 13:8 14:6,15,23 stopping 26:6 suppose 45:7,13 15:21 19:2,2,21 
+
+sounds 43:8 64:20 15:2,15,21,22 strange 47:6 62:15 48:20 49:11 19:25 22:12 26:14 
+
+sovereign 7:16 8:1 16:8,16 17:2,3,5 62:24 supposed 27:3 27:2 28:10 30:11 
+
+8:13,22 11:3,15 18:16 19:9 20:13 stream 64:24 44:12,13,16,18 31:13,22 32:18 
+
+12:2,7 13:24 14:5 20:22,23,24,24 strip 26:9 57:14 33:7,9,10 36:1,8 
+
+14:15,19 15:4,11 27:24 28:2,18,22 structural 54:9 supreme 1:1,12 37:7 38:15,17 
+
+18:9,25 21:1,16 30:3,23 32:6,6,14 subject 3:19 9:21 36:10 39:1 40:2,4,21 
+
+24:1 25:7,18,25 33:2,20 34:21 11:2 14:22 15:21 sure 4:2 6:14,16 41:25 42:7 44:10 
+
+26:2,8,10 28:11 35:7,12,16 36:6,9 33:4 36:18 49:21 21:24 34:8,8 44:11,20 45:21 
+
+29:8 34:4,6,16 38:20 41:3,7,8,20 50:16 53:24 37:17 49:18 62:18 46:13,13,15 47:22 
+
+37:2,13 40:1,13 41:25 42:2,23,23 submitted 65:24 surely 22:16 48:1,7 49:16 52:6 
+
+40:24 41:19 42:13 42:24 43:9,10 66:1 surprised 26:24 52:16 56:19 57:25 
+
+43:20 44:5,13 44:9 45:13,23 subsection 29:20 surprising 54:18 61:4,15,17 62:24 
+
+50:24 53:1,2,7,18 46:1,3,4,7,9,16,23 substantial 17:13 suspect 26:7 63:2 64:17 
+
+53:23 54:1 55:24 49:1,13 51:1,2,3 24:18 theory 53:18 
+
+56:3,6 58:1,5,12 51:15,22,23 52:3 successful 8:15 T theres 3:22 7:1,9 
+
+58:21 59:8 61:6 52:5,11,12,15,25 28:9 t 2:1,1 5:16 46:6 17:7 18:4 19:19 
+
+61:18 62:2 65:6 53:4 57:7,19,21 sue 13:8,9,10,15 take 9:18,19 20:15 22:1 32:3 39:7,10 
+
+65:21 59:5 60:14 61:12 16:8,9,16,17,21 22:16 25:4,19 40:23 46:21 50:23 
+
+sovereigns 11:17 64:6 65:21 17:2,6 27:19 41:7 26:9,25 36:13 theyre 12:2 15:8 
+
+12:17 26:1,13 stated 11:16 41:8,8,9,9 42:23 53:25 54:25 55:14 26:20 41:18,18 
+
+27:2 29:7 51:10 statement 61:13 42:24 43:9,10 taken 12:9 24:21 42:22 44:17 57:17 
+
+51:12,14 53:19 states 1:1,12,21 51:16,17,23 52:3 24:24 60:12 65:12 
+
+54:13,13,16,18,20 2:10 3:17,20 7:3 52:12 53:4 takes 3:19 47:19 theyve 47:16 55:8 
+
+54:22 11:16,24 12:1,16 sued 51:1,21 talk 60:16 thing 14:14 16:1 
+
+sovereignty 10:21 14:4,19 18:21 suggest 9:24 15:10 talked 49:10 21:15 33:10 39:12 
+
+12:10 20:13 21:19 19:6 26:25 27:23 15:14 17:12 25:25 talking 8:19 12:6 41:2,3 48:24 54:9 
+
+26:9,23 27:23 30:1 34:13 36:12 33:20 32:11 64:9 
+
+56:11,22 63:20 39:24 45:14 50:10 suggested 14:21 tate 53:13,21 61:16 things 26:4 46:23 
+
+65:17 50:18,20 51:14 33:1 tax 15:14,17,22 50:1 60:10 65:11 
+
+special 8:3 52:2,8,8,17 53:17 suggestion 50:15 16:19 29:3 39:23 think 5:5,7,10 6:16 
+
+specific 10:9 54:19 55:9,13,22 63:11 taxation 15:17 9:12 12:5,22 
+
+specifically 8:7 56:25 59:22 62:5 suggests 42:22 taxes 28:18,19 14:18,24 15:25 
+
+15:25 51:15 58:22 62:8 suing 27:1 teed 38:10 16:13,19,25 18:2 
+
+58:25 statetostate 52:19 suit 3:13 9:17 14:5 tell 7:7,7 33:20 18:3 19:12,21 
+
+spend 7:3,4 status 7:20 8:24 9:3 14:8 50:16 51:4 37:11 41:16 22:19 25:24 29:25 
+
+square 32:19,21,24 22:8 23:22 51:21 52:16,25 term 21:9 30:4,5,10,11,20 
+
+squarely 34:1 statute 13:19 29:19 53:19,24 57:20 terms 36:23 49:5 31:6,8,15,19,21 
+
+stage 6:12 30:21 35:14 53:8 suits 26:4 50:18,20 text 29:19 31:25 31:25 33:1,7,10 
+
+stamp 62:12 statutes 56:18 51:7,9 32:1 33:13 34:11,23 
+
+standard 33:10 stevens 60:25 sum 12:6 thank 3:9 13:12 35:2 36:4,20 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 77 
+
+37:22,25 38:7,8 43:14 44:6 47:2 7:12 9:23 10:2 V 38:25 43:24,25 
+
+38:16,23 39:1,12 47:14 49:3,3 13:1 16:1,11 v 1:5 3:5 14:4 41:23 45:3 48:13 63:2 
+
+40:4,9 41:4,24 56:21 57:18 58:4 18:18 30:9 37:3 42:5 52:6 53:14 63:11 64:20 
+
+42:3,15 43:23,24 58:8 63:13,20 39:1 40:4,8 44:19 54:12 58:16 ways 25:16 33:20 
+
+45:22 46:12,12,13 tribe 3:21 4:12,16 44:21 58:3 60:10 variety 45:11 39:7,10 57:16 
+
+46:20 48:1,23 5:25 7:15,25 8:11 61:10,10 various 60:1 weigh 60:1,3 
+
+50:23 56:19 62:24 8:23 9:6 11:1,8 twofold 19:3 32:3 vast 46:1 wellsuited 46:24 
+
+63:2,10,13 64:5 13:4,11 15:5,18 type 34:23 64:11 vendors 57:24 went 5:13 23:2 25:3 
+
+64:18,23 65:16 16:22 17:2 18:25 typical 49:23 venerable 44:21 59:7 
+
+third 60:18 
+
+thought 7:23 30:16 
+
+19:7 20:21 21:17 
+
+22:21,23 23:23 U 
+version 20:1 
+
+view 36:18 52:10 
+
+weve 26:15 32:11 
+
+49:10 61:2 63:5 
+
+30:19 31:7 35:14 26:8,14,16 27:11 unclear 65:11 52:17,22 57:7,14 whats 11:22,23 
+
+62:6 63:8,15 27:16 28:5,17,24 underage 28:1 views 61:20 12:11 15:10,10,10 
+
+thousand 25:16 29:1 33:9,11,12 65:20 vigorously 41:14 40:2 43:2 52:4 
+
+three 12:22 13:4 35:6,16,24,25 underlying 39:11 violates 43:10 whopping 29:22 
+
+60:19 36:2 37:11 38:20 46:13 violation 35:17 willing 34:3 
+
+throw 27:7 41:5,10 42:12,23 undermine 63:20 virtually 56:16,17 win 37:15,20 
+
+ties 50:23 42:24,25,25 43:9 understand 20:14 wish 63:24 
+
+time 7:4,4 19:7 43:10 44:2,8 27:22 39:15 48:5 W wont 42:23 47:24 
+
+20:15 29:11 30:21 47:19 50:16 51:2 49:8 52:24 55:9 waive 7:16 18:25 worcester 54:12 
+
+53:5 60:12 51:19,23 52:16 57:1 60:18 20:25 21:16 34:3 word 29:23 
+
+times 29:22 32:2 55:23 57:9,12 understanding 65:6,11 work 27:9 48:8 
+
+title 58:22 58:2,10,16 59:5 5:11 waived 8:1,13 55:7 57:14 
+
+tort 49:7 58:5 60:2 63:11 understood 5:8 19:20 22:21 29:1 worked 45:14,15 
+
+59:21,22 tribes 9:3 14:21 51:6 waiver 22:17 65:4 works 38:12 63:2 
+
+totally 18:7 41:4 26:23 34:3,14,22 undoubtedly 9:7 waivers 58:4 wouldnt 9:1,4,16 
+
+52:2 47:3 51:20 54:10 unequivocal 22:23 waiving 22:24 12:4 21:4 24:19 
+
+touch 62:8 54:11,12 56:3,14 30:13 want 9:19,20 10:5 24:21 40:3 62:24 
+
+transaction 24:15 57:4,12 59:14,16 unequivocally 20:25 25:14,17 wrong 16:7 27:11 
+
+trap 57:13 59:21 60:24 63:19 50:17 27:22 30:7 32:24 31:1 37:23 40:4 
+
+traverse 5:18 64:10 unfolded 33:14 33:24,24 42:13,19 40:20,21 
+
+traverses 4:4,23 tried 8:16 20:11 unfortunate 17:23 44:11 52:22 57:24 wrote 30:4 60:25 
+
+treat 54:7 25:19 27:6 37:1 united 1:1,12,20 60:10 61:2 
+
+treated 6:2 11:17 tries 34:22 2:10 7:2 26:25 wanted 10:13 20:12 
+14:19 54:8 true 48:7 54:10 34:13 50:10 52:17 30:1 32:1 48:2 X 
+
+treaties 54:13 60:19 53:17 55:9,22 62:3 x 1:2,7 
+
+56:14 
+
+treaty 52:12 64:12 
+
+trust 15:18,20 
+
+16:22 23:14,19 
+
+56:25 59:22 
+
+unmake 47:5 
+wants 20:22 63:18 
+
+wash 64:19,21 
+Y 
+
+tremendous 20:19 24:21,24 25:4 unravel 24:15 washington 1:8,17 
+yeah 35:19 36:7 
+
+57:1 58:19 38:6 unravelled 24:8 1:20 
+year 32:5 
+
+tribal 7:5 8:8,19 try 21:12 33:15 unsurprisingly wasnt 6:19 34:10 
+years 19:5 61:1 
+
+9:8,9 17:14 20:9 37:6 38:10 21:17 35:2,2 39:19 
+62:20,21 63:6 
+
+21:16,22 25:22 trying 9:18 16:21 unwary 57:13 water 47:16 63:14 
+york 28:17,18 
+
+27:13,14,15 29:8 18:20 33:24 42:6 use 62:25 65:20 way 6:1 14:19 
+youd 33:22 
+
+30:14,23 31:4 44:12 49:6 uses 32:1 21:19 27:2 33:15 
+young 9:23,24 10:6 
+
+33:8 36:1 39:14 two 3:15 4:11 5:6 utah 52:3 33:16 36:2 38:14 
+10:11 18:14 25:9 
+
+Alderson Reporting Company
+ 
+
+
+
+26:4 28:9 34:3,4,7 
+
+34:10,13,17,19,20 
+
+34:23,24 65:5,10 
+
+youre 4:2,5 12:6,7 
+
+15:1 16:24,25 
+
+24:10 
+
+youve 12:9 18:12 
+
+64:10 
+
+Z 
+
+zero 12:6 
+
+zuni 47:17 
+
+0 
+
+04 1:13 3:2 
+
+06 65:25 
+
+1 
+
+10 1:13 3:2 
+
+11 65:25 
+
+1166 36:5,8,11 
+
+12515 1:4 3:4 
+
+1331 7:2 
+
+15 62:20,21 63:6 
+
+167 31:10 60:23 
+
+19 31:17 
+
+1952 53:17 
+
+1955 55:20 
+
+1977 31:1 
+
+1988 31:16 60:15 
+
+1993 19:4 21:3,9 
+
+1998 19:6 
+
+2 
+
+2 1:9 
+
+20 52:1 
+
+2003 47:17 
+
+2005 47:15 
+
+2009 47:16 
+
+2011 28:16 
+
+2013 1:9 
+
+20year 21:9 
+
+24 29:22 32:2 
+
+25 58:22 
+
+2710 26:17 59:4 
+
+29 2:7 
+
+3 
+
+3 2:4 
+
+4 
+
+450n 58:22 
+
+5 
+
+5 34:21 
+
+50 2:10 
+
+6 
+
+60 2:14 
+
+68 60:23 
+
+694 61:10 
+
+7 
+
+7 8:10 22:22 42:21 
+
+59:4 
+
+754 31:12 
+
+759 40:5,18 
+
+77a 36:23 
+
+78a 36:23 
+
+8 
+
+9 
+
+90 49:4 
+
+Official 
+
+Page 78 
+
+Alderson Reporting Company
+ 
+
+

@@ -1,0 +1,3723 @@
+
+              
+
+          
+
+                       
+
+               
+
+ 
+
+ 
+
+ 
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+3 GREGORY P. WARGER,  : 
+
+4  Petitioner  : 
+
+5  v.  :  No. 13­517 
+
+6 RANDY D. SHAUERS.  : 
+
+7 ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+8  Washington, D.C. 
+
+9  Wednesday, October 8, 2014 
+
+10 
+
+11  The above­entitled matter came on for oral 
+
+12 argument before the Supreme Court of the United States 
+
+13 at 11:06 a.m. 
+
+14 APPEARANCES: 
+
+15 KANNON K. SHANMUGAM, ESQ., Washington, D.C.; on behalf 
+
+16  of Petitioners. 
+
+17 SHEILA L. BIRNBAUM, ESQ., New York, N.Y.; on behalf of 
+
+18  Respondent. 
+
+19 SARAH E. HARRINGTON, ESQ., Assistant to the Solicitor 
+
+20  General, Department of Justice, Washington, D.C.; on 
+
+21  behalf of United States, as amicus curiae, supporting 
+
+22  the Respondent. 
+
+23 
+
+24 
+
+25 
+
+1
+ 
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                   
+
+                    
+
+    
+
+                   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF  PAGE 
+
+3 KANNON K. SHANMUGAM, ESQ. 
+
+4  On behalf of the Petitioners  3 
+
+5 ORAL ARGUMENT OF 
+
+6 SHEILA L. BIRNBAUM, ESQ. 
+
+7  On behalf of the Respondent  23 
+
+8 ORAL ARGUMENT OF 
+
+9 SARAH E. HARRINGTON, ESQ. 
+
+10  On behalf of United States, 
+
+11  as amicus curiae, supporting the Respondent  34 
+
+12 REBUTTAL ARGUMENT OF 
+
+13 KANNON K. SHANMUGAM, ESQ. 
+
+14  On behalf of the Petitioners  38 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+2
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (11:06 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS:  We'll here argument 
+
+4 next in case 13­517, Warger v. Shauers. 
+
+5  Mr. Shanmugam. 
+
+6  ORAL ARGUMENT OF KANNON K. SHANMUGAM 
+
+7  ON BEHALF OF THE PETITIONER 
+
+8  MR. SHANMUGAM:  Thank you, Mr. Chief 
+
+9 Justice, and may it please the Court: 
+
+10  In McDonough v. Greenwood, this Court held 
+
+11 that a party is entitled to a new trial where it can 
+
+12 show that a juror was materially dishonest at voir dire, 
+
+13 regardless of whether the juror's dishonesty actually 
+
+14 infected the verdict. 
+
+15  A McDonough claim is thus an inquiry into 
+
+16 the composition of the jury.  It is not an inquiry into 
+
+17 the validity of the verdict.  And for that reason, 
+
+18 Federal Rule of Evidence 606(b) unambiguously permits 
+
+19 the introduction of testimony about statements made 
+
+20 during deliberations in support of a McDonough claim. 
+
+21  JUSTICE KENNEDY:  But ­­ but wasn't that a 
+
+22 case in which a third party came and gave the 
+
+23 information? 
+
+24  MR. SHANMUGAM:  That is correct.  And so we 
+
+25 are certainly not arguing that McDonough itself resolved 
+
+3
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 the question of the scope of Rule 606(b).  But we do 
+
+2 think that the nature of the McDonough inquiry is really 
+
+3 critical here in determining whether Rule 606(b) 
+
+4 applies. 
+
+5  And in particular we think that the critical 
+
+6 fact is that McDonough in no way requires an inquiry 
+
+7 into what actually took place in the jury room.  It is, 
+
+8 as we say in the briefs, a type of structural error. 
+
+9 And by that, I mean that it has no prejudice component. 
+
+10  And in that regard it is critically 
+
+11 different from other types of claims, such as a claim of 
+
+12 outright jury bias, where prejudice is required.  And 
+
+13 it's really for that reason that we think Rule 606(b) 
+
+14 unambiguously permits evidence of this variety to be 
+
+15 admitted. 
+
+16  JUSTICE GINSBURG:  I thought that the whole 
+
+17 rationale behind this is we don't want to invade the 
+
+18 jury province with information about what went on in the 
+
+19 jury room.  And that's a pretty old rule.  And some 
+
+20 people might think it makes no sense.  You can have an 
+
+21 eavesdropper, and that's okay, but you can't have a 
+
+22 juror itself. 
+
+23  So this, what's involved here is a juror 
+
+24 reporting what she heard during the deliberations.  And 
+
+25 it seems to me that's exactly the kind of thing that is 
+
+4
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 not permitted. 
+
+2  MR. SHANMUGAM:  Justice Ginsburg, we're 
+
+3 certainly talking about statements made during 
+
+4 deliberations, and we are not disputing that this is the 
+
+5 type of evidence that is subject to the rule.  Our 
+
+6 argument concerns the first requirement of Rule 606(b), 
+
+7 which goes to the type of inquiry during which evidence 
+
+8 that is otherwise covered by the rule would be 
+
+9 admissible.  And I do think that Rule 606(b) embodies a 
+
+10 balance.  It isn't simply about the countervailing 
+
+11 policy concerns, which Respondent and the government 
+
+12 understandably emphasize, of finality and jury secrecy. 
+
+13  There is, of course, a countervailing 
+
+14 concern here about fairness.  That is, after all, the 
+
+15 principal concern on which the rule of McDonough itself 
+
+16 was based. 
+
+17  JUSTICE GINSBURG:  But it's too easy to 
+
+18 convert anything that occurs into the jury room as 
+
+19 reflecting on the voir dire.  So the judge instructs the 
+
+20 jury.  Can you follow my instructions?  Oh, yes, I can 
+
+21 follow my instructions.  In the jury room, that juror 
+
+22 says:  Oh, come on, let's just average it all up and go 
+
+23 home.  Didn't ­­ didn't follow instructions.  On your 
+
+24 theory that could come in, because it goes to dishonesty 
+
+25 at the voir dire stage. 
+
+5
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. SHANMUGAM:  So two responses to that, 
+
+2 Justice Ginsburg.  First of all, as we point out in our 
+
+3 reply brief, our rule has been the rule, both on the 
+
+4 Federal level and on the State level, in numerous 
+
+5 jurisdictions.  And we would respectfully submit that 
+
+6 there is really no evidence of the floodgates problem 
+
+7 that Respondents suggest will follow if this Court 
+
+8 adopts our interpretation. 
+
+9  JUSTICE GINSBURG:  Well, perhaps if you 
+
+10 prevail.  Why not? 
+
+11  MR. SHANMUGAM:  Well, that goes to my second 
+
+12 response, which is that I think that it is going to be 
+
+13 very difficult in the hypothetical you posit for a party 
+
+14 to make out a successful McDonough claim.  And that is 
+
+15 simply because the requirements of McDonough are in fact 
+
+16 quite stringent. 
+
+17  And in particular, the first requirement of 
+
+18 McDonough is that the moving party must show that the 
+
+19 response was intentionally dishonest.  And by that, I 
+
+20 think that the Court really meant intentionally 
+
+21 dishonest at the time of  voir dire.  So to take the 
+
+22 hypothetical that the government uses in its brief ­­
+
+23  JUSTICE ALITO:  I think you're missing the 
+
+24 point of Justice Ginsburg's question.  The question is 
+
+25 not whether the McDonough claim ultimately would 
+
+6
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 prevail.  The question is whether the testimony from 
+
+2 jurors about what went on in the jury room is going to 
+
+3 be solicited in an effort to prove a McDonough claim. 
+
+4  MR. SHANMUGAM:  Well ­­
+
+5  JUSTICE ALITO:  And I guess your answer to 
+
+6 ­­ what's implicit in what you're saying is that it 
+
+7 would be permissible to receive that testimony in that 
+
+8 situation. 
+
+9  MR. SHANMUGAM:  Well, Justice Alito, I think 
+
+10 there are two separate issues here.  The first is the 
+
+11 concern about undue solicitation.  And as we have 
+
+12 explained, there are a variety of rules that I think 
+
+13 impose appropriate limits on a lawyer's ability to go 
+
+14 out and get evidence of this variety.  And of course 
+
+15 lawyers always have an incentive to talk to jurors if 
+
+16 they are able to do so. 
+
+17  Our point is simply that, to the extent that 
+
+18 there is a concern raised about harassment of jurors, 
+
+19 that is already dealt with, and appropriately so, by 
+
+20 governing rules. 
+
+21  Now, I think Justice Ginsburg's question ­­
+
+22  CHIEF JUSTICE ROBERTS:  I'm sorry.  I didn't 
+
+23 follow that.  You said lawyers always have an interest 
+
+24 in talking to ­­ what's to prevent them from doing so if 
+
+25 the payoff could be as significant as you're looking for. 
+
+7
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. SHANMUGAM:  Well, I think at a minimum, 
+
+2 Mr. Chief Justice, lawyers certainly would have that 
+
+3 incentive, even if we were to lose this case, because in 
+
+4 talking to jurors, that conversation could very well 
+
+5 lead to evidence that unquestionably would be 
+
+6 admissible, because, after all, a party can always make 
+
+7 a McDonough claim based on extrinsic evidence. 
+
+8  And so, for instance, if in fact a juror had 
+
+9 posted something on Facebook that indicated that the 
+
+10 juror had been dishonest at voir dire, there's really no 
+
+11 debate that that would be admissible. 
+
+12  But to go to Justice Ginsburg's question, 
+
+13 really sort of the second part of this, I think it's 
+
+14 important to remember that the mere fact that the 
+
+15 evidence is admissible under Rule 606(b) is not the end 
+
+16 of the inquiry.  The evidence still has to be probative 
+
+17 and probative with regard to the requirements of 
+
+18 McDonough. 
+
+19  And I think perhaps the best example that I 
+
+20 would give is actually an example that the government 
+
+21 uses in its brief, the example of the situation where 
+
+22 the jurors go back into the jury room and they flip a 
+
+23 coin in order to resolve the case. 
+
+24  Now, the government suggests that perhaps a 
+
+25 party could seek to use that as evidence that the jurors 
+
+8
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 were in fact dishonest when they said that they could be 
+
+2 fair and impartial at the time of voir dire.  But if so, 
+
+3 that is pretty weak evidence of that for the simple 
+
+4 reason that the requisite showing under McDonough is 
+
+5 that the juror intended to be dishonest at the time of 
+
+6 voir dire. 
+
+7  And in the coin flip hypothetical, it might 
+
+8 very well have been that the jurors flipped a coin 
+
+9 because they were frustrated with their inability to 
+
+10 reach a decision.  They may have wanted to go watch the 
+
+11 football game.  There any number of reasons.  But that 
+
+12 is not really very strong evidence of intentional 
+
+13 dishonesty at the time of voir dire.  I think this 
+
+14 case ­­
+
+15  JUSTICE GINSBURG:  But what is the strong 
+
+16 evidence of intentional dishonesty in this case?  The 
+
+17 woman says:  I can judge this case fairly, I can award 
+
+18 damages.  And one of the other things that the judge 
+
+19 instructs the jury:  You can take account of your own 
+
+20 life experience. 
+
+21  What is so blatant about that?  How do we 
+
+22 infer that she intended to be dishonest at the time of 
+
+23 the voir dire? 
+
+24  MR. SHANMUGAM:  Well, again, I think that 
+
+25 this really goes to the requirements of McDonough as 
+
+9
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 opposed to the interpretation of Rule 606(b).  But I 
+
+2 think that there's a meaningful difference between a 
+
+3 juror simply bringing personal experiences to bear on 
+
+4 the one hand and a juror doing so in a way that 
+
+5 indicates that the juror was, as was true in this case, 
+
+6 simply unwilling to award damages to Petitioner in a 
+
+7 case of this variety. 
+
+8  And I think it's important to underscore the 
+
+9 extent that the facts of this case shed some light on 
+
+10 the legal question.  But this is not simply a case about 
+
+11 a question involving fairness and impartiality.  There 
+
+12 were also questions asked about whether the jurors would 
+
+13 be willing to award damages of various types in a case 
+
+14 of this variety. 
+
+15  And to point to the evidence of dishonesty 
+
+16 in the record at pages 40a, to 41a of the appendix to the 
+
+17 petition, Juror Titus said that Juror Whipple said in the 
+
+18 discussions that if her daughter had been sued for the 
+
+19 accident for which she was responsible, it would have 
+
+20 ruined her life. 
+
+21  In our view, that is evidence that the juror 
+
+22 was unwilling to follow the instructions and to apply 
+
+23 the law to the facts.  And we believe that it also 
+
+24 strongly supports the inference that the juror was 
+
+25 dishonest at the time of voir dire when she answered ­­
+
+10
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  CHIEF JUSTICE ROBERTS:  Well, it's pretty 
+
+2 ambiguous.  She said if ­­ if she had been sued, she 
+
+3 would have to pay a lot of damages, right?  Well, this 
+
+4 guy has been sued.  I mean, I don't know that you can 
+
+5 just take that and says that means she's not going to 
+
+6 award a judgment in favor of the ­­ of the plaintiff. 
+
+7  MR. SHANMUGAM:  Well, she said it would have 
+
+8 ruined her life if she had been sued.  And to be fair, 
+
+9 this is obviously not smoking gun evidence.  This is not 
+
+10 a situation where the juror comes into the jury room and 
+
+11 says, look, I really lied when I answered those 
+
+12 questions at voir dire. 
+
+13  It is inferential evidence, and it will be a 
+
+14 matter for Judge Viken on remand if this Court agrees 
+
+15 with our interpretation to determine first of all 
+
+16 whether this affidavit is in fact probative evidence of 
+
+17 intentional dishonesty, and second ­­
+
+18  CHIEF JUSTICE ROBERTS:  Well I guess the reason 
+
+19 I ask is precisely for that reason.  In other words, it's 
+
+20 a fairly broad inquiry.  The circumstances in which you 
+
+21 would allow an inquiry are fairly broad.  It's not 
+
+22 simply when there's a smoking gun, but a very debatable 
+
+23 point about, well, she ­­ she didn't want to award 
+
+24 damages because if her daughter had been sued it would 
+
+25 ruin her life, as opposed to, well, she realized there'd 
+
+11
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  be a lot of damages here because the guy was sued. 
+
+2  MR. SHANMUGAM:  And again, that really goes 
+
+3  to the application of the McDonough standard.  And we've 
+
+4  now had 30 years of experience with the McDonough 
+
+5  standard.  This is not a recent decision of this Court. 
+
+6  Justice Kennedy:  But McDonough did not 
+
+7  have ­­
+
+8  JUSTICE SCALIA:  My problem is not ­­ is not 
+
+9  that, the difficulty 
+
+10  of proving that it did demonstrate dishonesty during the 
+
+11  voir dire.  My problem is what you also have to 
+
+12  establish, namely that this does not constitute an 
+
+13  inquiry into the validity of a verdict or indictment. 
+
+14  MR. SHANMUGAM:  Well, thank you, Justice 
+
+15  Scalia, because this is obviously ­­
+
+16  JUSTICE SCALIA:  That’s 606(b)(1), and why 
+
+17  are you raising this issue?  Because you want to set 
+
+18  aside the verdict, right? 
+
+19  MR. SHANMUGAM:  Well, this is obviously a 
+
+20  case about the interpretation of that language. 
+
+21  JUSTICE SCALIA:  Right. 
+
+22  MR. SHANMUGAM:  But I think it's critical to 
+
+23  realize that that language does not simply refer to any 
+
+24  challenge to the verdict.  It refers to inquiries into 
+
+25  the validity of the verdict.  And in our view, that 
+
+12
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  language unambiguously ­­
+
+2  JUSTICE SOTOMAYOR:  Except ­­ why ­­ why 
+
+3  would you have an inquiry into the validity of the 
+
+4  verdict absent juror misconduct?  You're not going to 
+
+5  use that statement in any other part of your case. 
+
+6  MR. SHANMUGAM:  But the critical point, 
+
+7  Justice Sotomayor, is that that language focuses on the 
+
+8  inquiry and it focuses on the substantive inquiry 
+
+9  mandated by the claim at issue. 
+
+10  And again, as I indicated at the outset, a 
+
+11  claim of juror dishonesty during voir dire does not 
+
+12  require any examination of the verdict itself.  It does 
+
+13  not depend in any way on what took place in the jury 
+
+14  room.  And it's really for that reason that we think 
+
+15  that a McDonough claim is qualitatively different from a 
+
+16  claim ­­
+
+17  JUSTICE KAGAN:  I guess I don't understand 
+
+18  that, Mr. Shanmugam.  I mean, one reason that a verdict 
+
+19  can be invalid has to do with what happens in the jury 
+
+20  room.  And another reason why a verdict can be invalid 
+
+21  might have to do with the composition of the jury 
+
+22  itself. 
+
+23  And why we should read that language to 
+
+24  include the first but not the second I guess I'm just 
+
+25  not getting as a matter of language. 
+
+13
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MR. SHANMUGAM:  Sure.  Well, I do think that 
+
+2  you have to give meaning to every word in this 
+
+3  provision.  And I really do think that this provision is 
+
+4  different from a provision that just refers to 
+
+5  challenges to the verdict.  And it certainly it true 
+
+6  that in this case, as in many others, we are seeking as 
+
+7  the remedy on our McDonough claim a new trial.  And a 
+
+8  component of that, once a verdict has been reached, is 
+
+9  obviously that the verdict should be set aside. 
+
+10  In other words, I'm not disputing the 
+
+11  proposition that our purpose here is to obtain a new 
+
+12  trial, and of course, therefore, to set aside the 
+
+13  verdict that has already been reached. 
+
+14  My point is simply that a McDonough claim in 
+
+15  no way turns on the manner in which the jury has reached 
+
+16  the verdict. 
+
+17  JUSTICE KAGAN:  I know, but ­­ so maybe 
+
+18  we're just going back and forth here.  But an inquiry 
+
+19  into the validity of the verdict means asking the 
+
+20  question, is the verdict valid?  And the question, is 
+
+21  the verdict valid, can have answers that refer either to 
+
+22  the deliberative process itself or to the composition of 
+
+23  the jury. 
+
+24  MR. SHANMUGAM:  But that is not the question 
+
+25  that a McDonough claim asks.  And I think the best 
+
+14
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  evidence of that is that I think it's really undisputed 
+
+2  that a McDonough claim can be brought even before a 
+
+3  verdict has been reached. 
+
+4  JUSTICE KENNEDY:  I haven't ­­ I haven't 
+
+5  quite counted, but you keep saying this is a McDonough 
+
+6  claim.  If you read the McDonough case, Chief Justice 
+
+7  Rehnquist does not cite Rule 606.  He does not cite. 
+
+8  I think I'm correct. 
+
+9  MR. SHANMUGAM:  You're absolutely correct. 
+
+10  JUSTICE KENNEDY:  And so you want to tell 
+
+11  us, don't look at Rule 606.  Just look at McDonough. 
+
+12  That's what you're telling us.  It's a whole ­­
+
+13  MR. SHANMUGAM:  I am eager for you to look 
+
+14  at the language of Rule 606 because I think it supports 
+
+15  our position.  The only reason that we're talking about 
+
+16  McDonough at all is because Rule 606 requires you to 
+
+17  look at the type of inquiry that the claim at issue 
+
+18  mandates.  And I think in many ways this nature ­­
+
+19  JUSTICE KENNEDY:  But it also requires you 
+
+20  to look at who is producing the evidence.  And here, the 
+
+21  juror is producing the evidence and McDonough was a 
+
+22  third person.  It's different. 
+
+23  MR. SHANMUGAM:  Well, the rest of Rule 
+
+24  606(b)is, of course, all about that, because it is all 
+
+25  about the type of evidence that is subject to exclusion. 
+
+15
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  And again, there's no debate that that portion of the 
+
+2  rule sweeps quite broadly and would otherwise include 
+
+3  the evidence at issue here. 
+
+4  Our point is simply that a McDonough claim 
+
+5  is a type of structural error and I think that that 
+
+6  points up the ­­
+
+7  JUSTICE GINSBURG:  But you're taking a case 
+
+8  that had nothing to do with a juror testifying about 
+
+9  what ­­ what ­­ the deliberations in the jury room.  I 
+
+10  think you're using the case for much more than it's 
+
+11  worth, much more than the opinion writer put into it. 
+
+12  It just didn't present the question of what about a 
+
+13  juror testifying about the deliberations in the jury 
+
+14  room. 
+
+15  MR. SHANMUGAM:  But, Justice Ginsburg, I do 
+
+16  think that the nature of a McDonough claim points up one 
+
+17  of the oddities of Respondent's position, which is that 
+
+18  there's really no dispute that if a McDonough claim is 
+
+19  brought before a verdict has been reached, that 
+
+20  evidence ­­ even evidence from the jury room would be 
+
+21  admissible.  And so, for instance, if a juror came 
+
+22  forward before the jury actually completed its 
+
+23  discussions and reached a verdict, I think there's no 
+
+24  dispute here ­­ at least I don't see any dispute in the 
+
+25  briefs ­­ that that evidence would be admissible. 
+
+16
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  And so, too, of course, in Clark, this Court 
+
+2  held that evidence of this variety would be admissible 
+
+3  in a contempt proceeding after the verdict has been 
+
+4  reached.  And so ­­
+
+5  JUSTICE ALITO:  This is what troubles me 
+
+6  about your ­­ your argument.  I suspect, maybe I'm wrong 
+
+7  and you tell me if I am, that in a case where there's a 
+
+8  lot at stake, a really good lawyer loses a case and 
+
+9  there was a lot on the line.  And let's suppose this 
+
+10  lawyer gets a transcript of what was said in the jury 
+
+11  room.  Do you think it is going to be very hard for the 
+
+12  lawyer to find something that some juror said that can 
+
+13  be used to make out a somewhat plausible claim that 
+
+14  the ­­ that the juror was dishonest during voir dire? 
+
+15  The juror promises during voir dire to be fair, and it 
+
+16  appears from this transcript the lawyer was for the 
+
+17  plaintiff or for the defendant from the first minute of 
+
+18  deliberations.  Or the juror says, I will follow the 
+
+19  jury instructions.  And then at some point, the juror is 
+
+20  making an argument that's inconsistent with the jury 
+
+21  instructions.  Do you see the problem? 
+
+22  MR. SHANMUGAM:  I ­­ I see the problem.  I 
+
+23  would just respectfully submit, Justice Alito, that it 
+
+24  hasn't proven to be a problem in practice.  And as we 
+
+25  note in our reply brief, this has been the rule in the 
+
+17
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  Ninth Circuit, it's been the rule in the nation's 
+
+2  largest State jurisdiction, California, for decades. 
+
+3  And yet in those jurisdictions, there is less than one 
+
+4  decision per year that we've been able to find involving 
+
+5  a McDonough claim based on this type of evidence. 
+
+6  And, of course, as we ­­ I was just going to 
+
+7  say, one last thing, Justice Alito, which is that, of 
+
+8  course, as we also point out, our rule was, if anything, 
+
+9  the prevailing rule at common law even before the 
+
+10  enactment of Rule 606(b) and there's no evidence that 
+
+11  there was a floodgates problem at common law either. 
+
+12  CHIEF JUSTICE ROBERTS:  Is ­­ under your 
+
+13  reading of 606(b), is there anything that is an inquiry 
+
+14  into the validity of a verdict other than a motion to 
+
+15  set aside the verdict? 
+
+16  MR. SHANMUGAM:  Well, I think that there 
+
+17  might be certain types of claims of which prejudice is a 
+
+18  component.  And certainly, if you brought a motion that 
+
+19  was based on pure juror bias of the type that was at 
+
+20  issue in cases such as Remmer v. United States and Smith 
+
+21  v. Phillips ­­
+
+22  CHIEF JUSTICE ROBERTS:  Well, what would ­­
+
+23  that motion would be presumably a motion to set aside 
+
+24  the verdict. 
+
+25  MR. SHANMUGAM:  I assume it would be framed 
+
+18
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  that way rather than as a motion for a new trial. 
+
+2  CHIEF JUSTICE ROBERTS:  The reason I ask is 
+
+3  because they don't say that.  It seems to me a broader 
+
+4  definition of any inquiry into the validity of a 
+
+5  verdict.  If they wanted to say, you know ­­ if they 
+
+6  only meant a motion to set aside a verdict, you'd think 
+
+7  they would have said that. 
+
+8  MR. SHANMUGAM:  Yeah.  I mean, I ­­ off the 
+
+9  top of my head, I can't think of another type of motion 
+
+10  for new trial that would be treated differently.  But 
+
+11  certainly, wherever the claim depends in any way on what 
+
+12  took place in the jury room, the evidence would, of 
+
+13  course, still be subject to the rule.  And again, that 
+
+14  sweeps in claims of juror bias, it sweeps in all of the 
+
+15  types of claims about which the framers of Rule 606(b) 
+
+16  were clearly concerned.  Claims involving the manner in 
+
+17  which the jury reached the verdict, claims involving 
+
+18  compromised verdicts, quotient verdicts and the like. 
+
+19  And I think if anything, to the extent that 
+
+20  the drafting history of Rule 606(b) is relevant, it 
+
+21  tells us two things.  First, there's no indication that 
+
+22  the framers of the rule intended to disturb what was the 
+
+23  prevailing practice at common law, particularly after 
+
+24  this Court's decision in Clark.  There is simply nothing 
+
+25  in the history of the rule that suggests that.  And if 
+
+19
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  anything, I think that the history of the rule suggests 
+
+2  that the central focus in framing the rule was on 
+
+3  excluding evidence concerning the manner in which the 
+
+4  jury reached its verdict, and not evidence that was used 
+
+5  to demonstrate that the jury was improperly constituted. 
+
+6  Now, again, because the rule focuses on the 
+
+7  inquiry mandated by the claim at issue, we think that 
+
+8  ours is the better textual interpretation.  But at a 
+
+9  minimum, if the Court thinks that the rule is somehow, 
+
+10  by its terms, ambiguous, I would simply make two points. 
+
+11  First, we do think that the canon of constitutional 
+
+12  avoidance would apply in this context.  At least one 
+
+13  court of appeals has held that there would be a 
+
+14  constitutional problem with excluding evidence in cases 
+
+15  involving racial bias.  We believe that there would be a 
+
+16  serious constitutional concern.  More generally, because 
+
+17  the right to adequate voir dire is, as this Court has 
+
+18  said, part of the right to trial by an impartial jury. 
+
+19  But even if the Court doesn't think that 
+
+20  this is a matter for constitutional avoidance, we 
+
+21  certainly think that there is a constitutionally based 
+
+22  interest here.  The interest in protecting a litigant's 
+
+23  right to a fair trial.  And we believe that that 
+
+24  interest does outweigh the countervailing interest in 
+
+25  finality in jury secrecy.  Now, in Clark ­­
+
+20
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  JUSTICE ALITO:  A party has a right to a 
+
+2  competent jury, doesn't it? 
+
+3  MR. SHANMUGAM:  Yes, that is true. 
+
+4  JUSTICE ALITO:  Constitutional right to 
+
+5  that.  And yet, you couldn't inquire ­­ we ­­ the Court 
+
+6  has held that there can't be an inquiry into whether the 
+
+7  jurors were intoxicated? 
+
+8  MR. SHANMUGAM:  Well, that is true.  But I 
+
+9  think that the Court reached that conclusion based 
+
+10  entirely on the outside influence exception.  And I 
+
+11  think part of the reason why that is true is that I 
+
+12  think that the Court viewed the inquiry in that case in 
+
+13  Tanner as requiring a showing of prejudice.  In other 
+
+14  words, I think that the Court was operating on the 
+
+15  premise that the underlying claim there would require a 
+
+16  showing that the drunkenness actually redounded to the 
+
+17  moving party's prejudice. 
+
+18  My point is simply that when we're looking 
+
+19  at the policy balancing that is required here, the 
+
+20  better point of reference is this Court's decision in 
+
+21  Clark where the Court suggested ­­ albeit in the context 
+
+22  of contempt proceedings ­­ the concerns about fairness 
+
+23  outweighed the litany of concerns about jury secrecy and 
+
+24  harassment.  And to be sure ­­
+
+25  JUSTICE GINSBURG:  That was leaving out the 
+
+21
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  conspicuous difference, there was no jury verdict 
+
+2  impugned in the contempt case. 
+
+3  MR. SHANMUGAM:  That is correct.  Although 
+
+4  the Court did indicate that its rule was consistent with 
+
+5  the common law no impeachment rule.  But I think with 
+
+6  regard to the policy considerations, it certainly is 
+
+7  true that this case is different because it does possess 
+
+8  a final verdict.  But I think with regard to finality, I 
+
+9  would point to the experience in the jurisdictions that 
+
+10  have adopted our rule, which confirms that if evidence 
+
+11  of this variety is admissible, verdicts are only rarely 
+
+12  set aside and that is because McDonough itself sets an 
+
+13  appropriately high standard. 
+
+14  And, of course, the only question before the 
+
+15  Court in this case concerns the admissibility of this 
+
+16  evidence.  It would be open to the district court on 
+
+17  remand to decide what to do with this evidence if it is 
+
+18  admitted.  Our submission is simply that Rule 606(b) by 
+
+19  its terms permits the admission of this evidence because 
+
+20  it is not being admitted in an inquiry into the validity 
+
+21  of the verdict. 
+
+22  And if I can reserve the balance of my time 
+
+23  for rebuttal. 
+
+24  CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+25  Miss Birnbaum. 
+
+22
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  ORAL ARGUMENT OF SHEILA L. BIRNBAUM 
+
+2  ON BEHALF OF THE RESPONDENT 
+
+3  MS. BIRNBAUM:  Thank you, Your Honor.  May 
+
+4  it please the Court, Mr. Chief Justice: 
+
+5  What the Petitioner would do here is change 
+
+6  the rules of 606 and how it would apply.  606 is clear. 
+
+7  This Court has said its language is clear.  What 
+
+8  Petitioner does not emphasize is that what they did 
+
+9  below was to make a motion for a new trial and to 
+
+10  invalidate the verdict.  The fact that the ground was 
+
+11  dishonesty of the juror doesn't change anything from the 
+
+12  Tanner case where the grounds for the new trial was that 
+
+13  the jurors were drinking during the trial and during 
+
+14  deliberations. 
+
+15  McDonough doesn't change the nature of 
+
+16  606(b).  All McDonough says, I think as you have pointed 
+
+17  out, is that if there is an inquiry, that inquiry would 
+
+18  have to be such, but it does not tell you why it's 
+
+19  admissible.  And Rule 606 tells us what's admissible. 
+
+20  And this, the Petitioner has conceded is not admissible. 
+
+21  It is jury testimony of what happened during 
+
+22  deliberations.  So that's clear. 
+
+23  So what are we fighting about?  We're 
+
+24  fighting about what did Congress mean by during an 
+
+25  inquiry into the validity of the verdict.  This is an 
+
+23
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  inquiry into the validity of the verdict.  You can't 
+
+2  just separate the grounds.  What they want here is a new 
+
+3  trial and the verdict invalidated. 
+
+4  And so it falls exactly into 606(b), and the 
+
+5  legislative history absolutely supports that.  Congress, 
+
+6  this Court made decisions and balanced the fairness on 
+
+7  one hand of allowing in this testimony and problems 
+
+8  about the sanctity of a jury trial and the entire 
+
+9  structure of our judicial system.  And to adopt 
+
+10  Petitioner's analysis would put this all on its head. 
+
+11  What would we have?  I think we all know what we would 
+
+12  have here.  Every lawyer, good ones or bad ones, Your 
+
+13  Honor, would try to ask generalized questions ­­ can you 
+
+14  be fair ­­ and then wait and see what happens. 
+
+15  CHIEF JUSTICE ROBERTS:  Your friend says 
+
+16  that hasn't been the experience in a large portion of 
+
+17  the country. 
+
+18  MS. BIRNBAUM:  Well, that's not true 
+
+19  because, first of all, my friend doesn't tell you that 
+
+20  there are only five States that allow in this kind of 
+
+21  evidence at all. 
+
+22  CHIEF JUSTICE ROBERTS:  Is California one of 
+
+23  them? 
+
+24  MS. BIRNBAUM:  California is one of them. 
+
+25  CHIEF JUSTICE ROBERTS:  Well ­­
+
+24
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  MS. BIRNBAUM:  But even in California, Your 
+
+2  Honor, there are different requirements.  These cases go 
+
+3  off ­­ I'll just give you a perfect example.  He cites a 
+
+4  bunch of cases in the Ninth Circuit that he says these 
+
+5  are the cases that apply the rule.  Well, they don't. 
+
+6  Even the cases that they rely on from the Ninth Circuit, 
+
+7  Henley and Hard, it is dicta in those cases that you can 
+
+8  admit testimony on ­­ of a juror on what happened during 
+
+9  deliberations if you're trying to determine whether 
+
+10  there's dishonesty.  In those cases themselves, that was 
+
+11  not the holding of the case.  There was dicta that says 
+
+12  you should be able to do that, but the holdings of the 
+
+13  case went off on extraneous prejudicial influences or 
+
+14  extraneous prejudicial information. 
+
+15  And there are ­­
+
+16  CHIEF JUSTICE ROBERTS:  But your argument ­­
+
+17  your argument is this is going to be something lawyers 
+
+18  are going to ask about in every case. 
+
+19  MS. BIRNBAUM:  And they will ­­
+
+20  CHIEF JUSTICE ROBERTS:  It seems to me ­­ it 
+
+21  seems to me if you're dealing with California, you would 
+
+22  have a lot more evidence of that, since they operate 
+
+23  under the rule that your friend is arguing for. 
+
+24  MS. BIRNBAUM:  Well, they do and they don't, 
+
+25  Your Honor.  They ­­ you can introduce certain things in 
+
+25
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  California, but you can't introduce the mental processes 
+
+2  in California. 
+
+3  But the answer to that is we don't know 
+
+4  what's happening in California.  There is no ­­ no 
+
+5  experience that anybody has about what's going on in 
+
+6  California or how the courts are applying it.  We didn't 
+
+7  have an opportunity to respond to all those California 
+
+8  cases, because they are only cited in the reply.  But 
+
+9  we've gone through all those cases and in many of those 
+
+10  cases this kind of testimony was not let into evidence. 
+
+11  So we don't know what the experience was in 
+
+12  California, but we do know what Congress said.  And we 
+
+13  do know what Congress had before them and what Congress 
+
+14  wanted.  Congress did the balancing here.  Congress 
+
+15  balanced the fairness of jurors, the fairness of a jury 
+
+16  trial against all of the issues and policies of keeping 
+
+17  the jury in a black box because it's good for the 
+
+18  system.  Without it, we couldn't function. 
+
+19  JUSTICE SOTOMAYOR:  Ms. Birnbaum, what sense 
+
+20  does it make to do what we did in Clark, which is to say 
+
+21  you can invade the jury deliberations in a contempt 
+
+22  proceeding.  So that ­­ the jury is not sacrosanct.  The 
+
+23  court has already said that the proceeding for contempt 
+
+24  doesn't involve the verdict and it's a criminal action, 
+
+25  and not permit the use of that evidence in the civil 
+
+26
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  trial. 
+
+2  The same thing will have happened in both 
+
+3  situations.  The jury's sanctity has been invaded. 
+
+4  MS. BIRNBAUM:  But, Your Honor, the reason 
+
+5  that we allow it in a contempt proceeding is it doesn't 
+
+6  affect the validity of the verdict.  It doesn't go to 
+
+7  what happened with regard to the verdict. 
+
+8  And the contempt proceedings are few and far 
+
+9  between.  Jurors aren't going to be harassed on a 
+
+10  regular basis, and if you have a criminal contempt 
+
+11  proceeding, you have a prosecutor who is going to make a 
+
+12  determination and stand between the jurors and the ­­
+
+13  and the contempt proceeding before they will bring a 
+
+14  contempt proceeding.  We know how few these are. 
+
+15  Here we're talking about in every criminal 
+
+16  case, in every important civil case, or not such an 
+
+17  important civil case.  This is a run­of­the­mill case we 
+
+18  have here, a simple accident case. 
+
+19  JUSTICE GINSBURG:  Is ­­ Ms. Birnbaum, is 
+
+20  there no way, is there no way to police the honesty of 
+
+21  jurors' answers on voir dire?  This is an obvious way, 
+
+22  if it were permissible, to police the honesty.  But is 
+
+23  there any other way? 
+
+24  MS. BIRNBAUM:  Your Honor, in this case 
+
+25  especially, and I'm not sure I'm answering your 
+
+27
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  question, we could have had a different kind of voir 
+
+2  dire.  There was no ­­ there was no specific question 
+
+3  here:  Has any member of your family or you been 
+
+4  involved in an automobile accident?  That was never 
+
+5  asked of the jury.  And bad if a juror lied about that; 
+
+6  well, they could, or the juror could have said yes. 
+
+7  Assuming there was ­­ assuming that the juror 
+
+8  foreperson's daughter was involved in an auto accident, 
+
+9  she could have said that, and they could have inquired. 
+
+10  But they didn't do that. 
+
+11  And look at the gamesmanship that can be 
+
+12  played with lawyers.  They don't ask specific questions 
+
+13  which they should to get to the right answers and to get 
+
+14  to the right jurors in voir dire, and then they sit back 
+
+15  and wait and game the system and see how the verdict 
+
+16  comes back, talk to the jurors, and then they have a 
+
+17  ground to set aside a verdict. 
+
+18  This is not what Congress wanted.  That's 
+
+19  not what the Supreme Court said should happen in Tanner. 
+
+20  And the Petitioner here says under the common law, this 
+
+21  was the rule.  You could admit this kind of testimony. 
+
+22  That's utterly untrue.  In Tanner, this Court said under 
+
+23  the common law, it is clear that you could not admit 
+
+24  this evidence. 
+
+25  That was the majority rule.  There was a 
+
+28
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  minority rule.  And you know what happened?  When 
+
+2  Congress looked at this issue, they adopted the majority 
+
+3  rule.  They said the jury room is a black box except for 
+
+4  certain extraneous influences, extraneous prejudicial 
+
+5  information.  This is not it.  Doesn't fall within that 
+
+6  category. 
+
+7  JUSTICE ALITO:  And why not? 
+
+8  MS. BIRNBAUM:  Because, Your Honor, this is 
+
+9  generalized information.  When we talk about extraneous 
+
+10  prejudicial information, I think the case law is 
+
+11  absolutely clear.  It has to be about the case, about 
+
+12  information that you put into the jury room about the 
+
+13  defendant or about the incident, the accident. 
+
+14  If you went and looked at the scene of the 
+
+15  accident and then came back and talked to the jurors 
+
+16  about it, that would be extraneous.  But this kind of 
+
+17  generalized information, assuming it's true ­­ my 
+
+18  daughter was in an auto accident.  Okay, the Petitioner 
+
+19  talks about her unwillingness to determine certain 
+
+20  damages.  This case never came to damages.  What 
+
+21  actually happened in this case is the jury met for two 
+
+22  hours.  This was a question of contributory fault and 
+
+23  what happened was the jurors came, asked the court a 
+
+24  question:  If we apply ­­ if we apply contributory 
+
+25  negligence and we find that there's slight contributory 
+
+29
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  negligence, must we find for the defendant? 
+
+2  JUSTICE ALITO:  What would happen in the 
+
+3  really egregious case?  The jurors are asked during voir 
+
+4  dire, can you be fair to every ­­ to parties regardless 
+
+5  of race.  Oh, yes, yes, we can.  And then after there's 
+
+6  a verdict, a juror comes ­­ comes forward and says 
+
+7  during the jury deliberations, the jurors were making 
+
+8  all kinds of biased statements and they were clearly 
+
+9  prejudiced.  What would happen there? 
+
+10  MS. BIRNBAUM:  I think, Your Honor, under 
+
+11  606(b), there would be no difference.  You still could 
+
+12  not introduce that juror testimony.  Now, maybe that's 
+
+13  wrong and maybe Congress should change 606(b), but 
+
+14  that's a job for Congress in connection with the 
+
+15  judicial conference and with all of the people that 
+
+16  would ask Congress to come in and testify and Congress 
+
+17  can make that decision if they want to have an 
+
+18  exception. 
+
+19  But Congress knew about that when ­­ when it 
+
+20  passed 606(b), and it ­­ it didn't make an exception for 
+
+21  racial bias.  And if Congress wants to do it, it could 
+
+22  do it, but this Court can't do it or shouldn't do it 
+
+23  because it's not part of what Congress intended. 
+
+24  Congress knew quite well, there was a lot of discussion 
+
+25  here, and the Petitioner is correct.  Most of the 
+
+30
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  discussion did not go to the words "during an inquiry 
+
+2  into the validity of the verdict." 
+
+3  JUSTICE KAGAN:  Well, do you think that with 
+
+4  respect to the kind of case that Justice Alito has in 
+
+5  mind, a case of racial bias and let's put it in a 
+
+6  criminal context, that maybe it's not up to Congress, 
+
+7  that at some point one begins to run into constitutional 
+
+8  issues? 
+
+9  MS. BIRNBAUM:  Well, I think at least if 
+
+10  this Court, in Tanner, looked at those constitutional 
+
+11  issues not in ­­ not in the racial bias context, but in 
+
+12  the context of having a drunk juror deciding a 
+
+13  particular case ­­
+
+14  JUSTICE SCALIA:  Why ­­ why is that the ­­ I 
+
+15  mean, would we make an exception to normal hearsay rules 
+
+16  where racial bias is the issue? 
+
+17  MS. BIRNBAUM:  You would not, Your Honor. 
+
+18  JUSTICE SCALIA:  I don't think so. 
+
+19  MS. BIRNBAUM:  But the ­­ but the further 
+
+20  answer to that is this Court has already said there are 
+
+21  other safeguards that are in place that we feel will be 
+
+22  sufficient in order to safeguard the Sixth Amendment 
+
+23  rights in that particular instance, or the Seventh 
+
+24  Amendment rights, of a fair trial.  This Court has said 
+
+25  we can't give litigants a perfect trial.  We ­­ we know 
+
+31
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  that there are going to be some cases where a juror acts 
+
+2  improperly, acts with bias, but we can't change the 
+
+3  system and open it up to jurors being harassed, to 
+
+4  jurors being asked what happened in the jury room, 
+
+5  because we will then take a private process and make it 
+
+6  a public inquiry.  And Congress didn't want that.  This 
+
+7  Court in Tanner said that was not ­­
+
+8  JUSTICE KAGAN:  I suppose one idea ­­
+
+9  because we have relied a lot on the efficacy of other 
+
+10  safeguards, and this isn't this case, so you can just 
+
+11  say it's not this case.  But ­­ that those safeguards 
+
+12  might not be so effective in certain contexts and 
+
+13  particularly with respect to ferreting out racial bias 
+
+14  or religious or ethnic or something like that. 
+
+15  MS. BIRNBAUM:  I think, Your Honor, again 
+
+16  I'll come back to really this is an issue for Congress. 
+
+17  The rules of evidence are now adopted.  Even if the 
+
+18  Court feels there is unfairness in them, they have to 
+
+19  interpret them.  And they have to interpret them as 
+
+20  Congress wrote them.  Certainly, Congress knew about 
+
+21  racial bias and ethnic bias when it was writing these 
+
+22  rules and passing these rules in 1972.  There were 
+
+23  not ­­
+
+24  CHIEF JUSTICE ROBERTS:  Is there any ­­ is 
+
+25  there any alternative remedy available that doesn't go 
+
+32
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  to the validity of the verdict?  You know, the 
+
+2  Petitioners allegedly were injured to a great extent by 
+
+3  the jurors' ­­ I could call it fraud, I guess.  Can they 
+
+4  bring an act ­­ direct action against her? 
+
+5  MS. BIRNBAUM:  No, Your Honor, I don't ­­ I 
+
+6  don't think so.  I think the only thing is if a juror 
+
+7  lies, there is the contempt proceeding that can be 
+
+8  brought.  It's ­­ it's part of what we have to live with 
+
+9  in the system because we can't provide perfect trials 
+
+10  for people.  We can only provide as fair as they can. 
+
+11  And in this particular case, the broad 
+
+12  questions that were asked, the fact that ­­ there was 
+
+13  no ­­ they didn't ­­ the Petitioner says there was an 
+
+14  unwillingness on this ­­ on this juror to find damages. 
+
+15  There's nothing in the affidavit that was presented that 
+
+16  even hints at that.  It says she may have influenced 
+
+17  other jurors.  By the way, do we bring in the other 
+
+18  jurors?  Well, this is what this would open up. 
+
+19  Let's say we go back.  The juror that put in 
+
+20  the affidavit goes and testifies.  The forelady goes and 
+
+21  testifies.  They have diametrically different views of 
+
+22  what happened in the jury room.  Do we then bring in all 
+
+23  the rest of the jurors?  That's what ­­ and the fact 
+
+24  that McDonough may, in certain circumstances, allow 
+
+25  jurors to ­­ and by the way, McDonough does not allow 
+
+33
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  jurors to testify.  As you said, there was no juror 
+
+2  testimony there. 
+
+3  And the fact is that the rule is clear on 
+
+4  its face.  This falls exactly within 606(b) and the 
+
+5  legislative history and the policy behind it, and we 
+
+6  should not be extending it to this kind of situation. 
+
+7  Thank you. 
+
+8  CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+9  Ms. Harrington. 
+
+10  ORAL ARGUMENT OF SARAH E. HARRINGTON 
+
+11  FOR THE UNITED STATES, 
+
+12  AS AMICUS CURIAE, SUPPORTING RESPONDENT 
+
+13  MS. HARRINGTON:  Thank you, Mr. Chief 
+
+14  Justice, and may it please the Court: 
+
+15  Any hearing on a motion for a new trial is 
+
+16  an inquiry into the validity of a verdict.  That's true 
+
+17  when a plaintiff ­­ when a litigant brings a McDonough 
+
+18  claim because of what it ­­ the litigant is arguing is 
+
+19  that verdict that was issued in his case is invalid 
+
+20  because the tribunal that issued the verdict was 
+
+21  improperly constituted.  It would be the same if the 
+
+22  litigant were arguing that the judge that issued a 
+
+23  decision in a case should have recused herself from the 
+
+24  case based on some sort of conflict.  It would be the 
+
+25  same if a litigant were arguing that the jury had 5 
+
+34
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  members or 25 members. 
+
+2  In each of those examples, how the argument 
+
+3  goes is that the ­­ the tribunal was improperly 
+
+4  constituted and so the verdict that was issued was 
+
+5  invalid because an improperly constituted tribunal 
+
+6  cannot issue a valid verdict. 
+
+7  Now, Mr. Shanmugam says that we should limit 
+
+8  the phrase "inquiry into the validity of a verdict" to 
+
+9  cases where what you're inquiring into is what happened 
+
+10  in a jury room.  But just as a matter of normal English 
+
+11  usage, I think we ­­ it's not hard to imagine an inquiry 
+
+12  into the validity of a verdict that would not look into 
+
+13  what happened in a jury room.  For example, if a 
+
+14  criminal defendant who's convicted files a motion for a 
+
+15  new trial based on sufficiency of the evidence, I think 
+
+16  anyone would think that the hearing on that motion is an 
+
+17  inquiry into the validity of a verdict because a verdict 
+
+18  that's based on insufficient evidence is not valid.  You 
+
+19  wouldn't look at what happened in the jury room and so 
+
+20  you may have no occasion to apply Rule 606(b) in that 
+
+21  kind of inquiry, but it would certainly be an inquiry 
+
+22  into the validity of a verdict. 
+
+23  When someone brings a McDonough claim, it's 
+
+24  just not a freestanding thing.  They bring it as part of 
+
+25  a motion for a new trial; that's part of an inquiry into 
+
+35
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  the validity of a verdict. 
+
+2  Now, there's been some questions about 
+
+3  what's happened in California where this type of 
+
+4  evidence is admitted.  What Mr. Shanmugam says is that 
+
+5  there have not been ­­ there hasn't been an appreciable 
+
+6  increase in the number of successful McDonough claims in 
+
+7  California.  Of course, the problem that Rule 606(b) 
+
+8  targets is not too many successful McDonough claims, 
+
+9  it's overly intrusive inquiries into what's happened 
+
+10  in ­­ during jury deliberations and so that's really not 
+
+11  responsive. 
+
+12  But it is true that in California and in 
+
+13  about five other States, this type of evidence is 
+
+14  admitted because those States apply the common ­­ the 
+
+15  Iowa version of the common law rule.  And under the Iowa 
+
+16  rule, anything that jurors said during deliberations you 
+
+17  can admit testimony about because it wasn't something 
+
+18  that was internal to a juror's mind, it was something 
+
+19  that could be corroborated or rebutted by other jurors. 
+
+20  And so this type of evidence would be admissible in 
+
+21  those five or six States because of they apply a 
+
+22  different type of ­­ different version of ­­ in the 
+
+23  no­impeachment rule. 
+
+24  Of course, Congress was aware that that was 
+
+25  an option available to it when it adopted Rule 606(b) 
+
+36
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  and that was the version of the rule that the House of 
+
+2  Representatives wanted.  There's lots of back and forth 
+
+3  that's covered in the briefs. 
+
+4  It's not true that that was the prevailing 
+
+5  rule of common law.  The Wigmore Treatise of 1961 
+
+6  identifies 12 out of 50 States that apply the Iowa 
+
+7  version.  The other 38 States applied the majority 
+
+8  version, which was more restrictive or ­­ you know, 
+
+9  excluded more evidence.  That was plainly the version of 
+
+10  the rule that was adopted by the Senate. 
+
+11  And so I think that really points up the 
+
+12  fact that in this kind of area where you have these 
+
+13  competing important interests, it's really up to the 
+
+14  legislature to decide where it's going to draw the line. 
+
+15  Here the line is pretty clear.  Congress couldn't 
+
+16  have ­­ it would have been hard for them to write the 
+
+17  rule any more broadly than they wrote it.  It applies in 
+
+18  any ­­ during any inquiry to the validity of a verdict. 
+
+19  It covers anything that happens in the jury room unless 
+
+20  one of the specific exceptions applies. 
+
+21  The exception for extraneous information 
+
+22  does not apply here, it's our view, because that 
+
+23  exception has been construed only to apply to evidence 
+
+24  that specifically related to the case.  Congress 
+
+25  understood that.  That's reflected in the legislative 
+
+37
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  history.  It's reflected in the common law.  And if the 
+
+2  Court doesn't have any questions, I think I've hit the 
+
+3  highlights. 
+
+4  CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+5  MS. HARRINGTON:  Thank you. 
+
+6  CHIEF JUSTICE ROBERTS:  Mr. Shanmugam, you 
+
+7  have 7 minutes remaining. 
+
+8  REBUTTAL ARGUMENT OF KANNON K. SHANMUGAM 
+
+9  ON BEHALF OF THE PETITIONER 
+
+10  MR. SHANMUGAM:  Thank you, Mr. Chief 
+
+11  Justice. 
+
+12  I think there are just four very quick 
+
+13  points that I'd like to make.  First of all, with regard 
+
+14  to the text of the rule and this question of whether 
+
+15  this constitutes an inquiry into the validity of the 
+
+16  verdict, I would just say one thing in response to what 
+
+17  Ms. Harrington has just said.  If, for instance, a party 
+
+18  files a motion for a new trial based on the 
+
+19  insufficiency of the evidence, that is, by definition, a 
+
+20  claim that can be brought only at the close of the 
+
+21  evidence in the case. 
+
+22  A McDonough claim is critically different 
+
+23  because that claim ripens at the point at which the 
+
+24  allegedly dishonest juror is actually empaneled.  And so 
+
+25  a McDonough claim could be brought before the verdict 
+
+38
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  has been reached or after the verdict has been reached. 
+
+2  And to the extent that the argument here is that the 
+
+3  jury is a black box and that one shouldn't look into the 
+
+4  jury's deliberations, I would note, again, that evidence 
+
+5  of this variety would plainly be admissible either 
+
+6  before a verdict has been reached or in a contempt 
+
+7  proceeding after a verdict has been reached. 
+
+8  JUSTICE SCALIA:  Yes.  But, of course, 
+
+9  you'd ­­ you'd have no incentive to do that until you 
+
+10  lose, right?  So you would rather sit around and see if 
+
+11  the verdict goes against you at which point you ­­ you 
+
+12  would make the claim. 
+
+13  MR. SHANMUGAM:  Well, that is ­­ that is 
+
+14  certainly true, but the ­­
+
+15  JUSTICE SCALIA:  Nobody is going to make the 
+
+16  claim before verdict comes out.  Is anybody going to do 
+
+17  that? 
+
+18  MR. SHANMUGAM:  Well, there are cases where 
+
+19  the evidence comes to light, typically when a juror 
+
+20  actually comes to the judge and then the judge takes 
+
+21  some action based on the statements that have been 
+
+22  recorded.  But I think it's important to realize that a 
+
+23  McDonough claim doesn't in any way depend on the 
+
+24  outcome.  One could be the prevailing party and seek 
+
+25  relief on a McDonough claim, although one would, 
+
+39
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  obviously, have no incentive to do so. 
+
+2  That simply points up the fact that a 
+
+3  McDonough claim, again, in no way depends on what 
+
+4  actually took place in the jury room in terms of the 
+
+5  manner in which the jury reached its verdict. 
+
+6  Second, I want to address this question of 
+
+7  the state of the law which I think is critically 
+
+8  important here because it really goes ­­
+
+9  JUSTICE GINSBURG:  Can you explain the 
+
+10  manner in which the jury reached its verdict?  I thought 
+
+11  that the testimony of Titus was she made this statement 
+
+12  about her daughter and she persuaded all the other 
+
+13  jurors to go along with her.  That's the manner in which 
+
+14  the jury reached its verdict.  It didn't follow the law, 
+
+15  it followed what this woman was alleged to have said. 
+
+16  MR. SHANMUGAM:  Justice Ginsburg, the Titus 
+
+17  affidavit does contain those allegations, but those 
+
+18  allegations are utterly irrelevant to the resolution of 
+
+19  a McDonough claim.  In other words, it doesn't matter 
+
+20  for purposes of the McDonough claim whether the other 
+
+21  jurors were influenced or whether the other jurors said, 
+
+22  we don't care about your daughter's experience, that 
+
+23  doesn't affect our decisionmaking in the slightest.  And 
+
+24  that is because a McDonough claim is designed to 
+
+25  identify juror dishonesty at voir dire without regard to 
+
+40
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  the impact on the jury's deliberations. 
+
+2  Now, second, I want to say something about 
+
+3  the current state of the law ­­
+
+4  JUSTICE KAGAN:  Well, presumably that's 
+
+5  because we assume impact, isn't it?  So the impact is 
+
+6  sort of built into the rule. 
+
+7  MR. SHANMUGAM:  Well, it's built into the 
+
+8  rule only in the sense that it has to be material 
+
+9  dishonesty.  And so, if a juror dishonestly answered a 
+
+10  question about his or her name at voir dire, a court 
+
+11  would say that that's immaterial.  My point is simply 
+
+12  that McDonough does not require any analysis of actual 
+
+13  prejudice as the proceedings actually played out, and 
+
+14  that in our view is the critical distinction. 
+
+15  Now, let me say something about the current 
+
+16  state of the law because I think there's a certain 
+
+17  amount of uncertainty based on this argument about that 
+
+18  and I want to clarify that.  It has unambiguously been 
+
+19  the rule in the Ninth Circuit since its decision in Hard 
+
+20  that evidence of this variety is admissible.  And I 
+
+21  respectfully submit that my friend Ms. Birnbaum simply 
+
+22  misreads the Hard case when she argues that that is 
+
+23  dicta, and the best evidence of that is how that rule 
+
+24  has been applied in the Ninth Circuit because I think it 
+
+25  has been treated as the law now for some three decades. 
+
+41
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  And it is clearly the law in California in the wake of 
+
+2  the California Supreme Court's decision in People v. 
+
+3  Castaldia. 
+
+4  Our point is that there has been less than 
+
+5  one decision that we've been able to find, whether 
+
+6  reported or unreported, in each of those jurisdictions 
+
+7  per year since those rules were adopted.  And when I'm 
+
+8  talking about decisions, I'm not just talking about 
+
+9  decisions in which McDonough claims were successful. 
+
+10  I'm talking about decisions in which evidence of this 
+
+11  variety has even been sought to be admitted.  And so 
+
+12  there's really no evidence that this is a problem in 
+
+13  those jurisdictions and we have been unable to find any 
+
+14  suggestion in the secondary literature that this is a 
+
+15  problem either. 
+
+16  And to the extent that Ms. Birnbaum 
+
+17  complains that we only cited those cases in our reply 
+
+18  brief, I would note that it's really Respondent's burden 
+
+19  here to identify evidence that this is, in fact, proven 
+
+20  to be a problem. 
+
+21  Now, Respondent and the government say that 
+
+22  there are five States in which evidence of this variety 
+
+23  is admissible.  I think that actually understates the 
+
+24  current state of the law.  We've identified 
+
+25  approximately 14 States where the evidence is 
+
+42
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  admissible.  But this points out another point of 
+
+2  confusion here.  Respondent and the government talk 
+
+3  about this distinction between the Iowa rule and the 
+
+4  Federal rule, and the Iowa rule applies to jurisdictions 
+
+5  where only evidence of the jurors' thought processes is 
+
+6  subject to exclusion and the Federal rule, like Rule 
+
+7  606(b), covers a broader type of evidence. 
+
+8  But even in jurisdictions that apply the 
+
+9  Federal rule, courts have held that evidence of this 
+
+10  variety is admissible.  And that's simply because we're 
+
+11  talking about two separate questions:  On the one hand, 
+
+12  the type of evidence that is subject to exclusion; and 
+
+13  on the other hand, the type of inquiry during which such 
+
+14  evidence is excluded. 
+
+15  So again, we would respectfully submit that 
+
+16  there is no evidence that this is anything other than a 
+
+17  speculative concern that our interpretation would lead 
+
+18  to these difficulties with juror harassment and 
+
+19  undermining the finality of verdicts. 
+
+20  Let me say just a word about the issue of 
+
+21  racial bias.  I think this is critically different from 
+
+22  a case involving, say, the application of the hearsay 
+
+23  rule, because this really goes to the fundamental 
+
+24  question of whether the factfinder itself was racially 
+
+25  biased. 
+
+43
+ 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+1  JUSTICE SCALIA:  How about religious bias? 
+
+2  Is that also an exception? 
+
+3  MR. SHANMUGAM:  Well ­­
+
+4  JUSTICE SCALIA:  What about bias against 
+
+5  handicapped people?  I mean, all of those things are 
+
+6  difficult to find.  Right? 
+
+7  MR. SHANMUGAM:  Well, it raises 
+
+8  constitutional concerns, beyond the constitutional 
+
+9  concerns that we think are applicable in every case of 
+
+10  this variety, because, after all, regardless of the type 
+
+11  of bias, what we're talking about here is the right to 
+
+12  trial by an impartial jury.  A right that is founded 
+
+13  both on the specific constitutional rights involving 
+
+14  jury trials and the fundamental right to due process. 
+
+15  And our point is simply that to the extent that the 
+
+16  Court thinks the rule is ambiguous, those concerns 
+
+17  should come into play and support our interpretation. 
+
+18  I would just say one last thing before the 
+
+19  end of the argument and that is simply that Ms. Birnbaum 
+
+20  referred to this as a run­of­the­mill case and my 
+
+21  client, Petitioner Greg Warger, I think would strongly 
+
+22  object to that.  He, after all, lost his leg in this 
+
+23  accident.  And so, while this case doesn't involve 
+
+24  multiple millions of dollars or some fundamental 
+
+25  constitutional right, it is vitally important to him. 
+
+44
+ 
+
+Alderson Reporting Company 
+
+
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+         
+
+Official 
+
+1  And while Ms. Birnbaum refers to the concern 
+
+2  about gaming the system, it's important to remember that 
+
+3  this was a case in which the juror in question, Stacey 
+
+4  Titus, actually came to the lawyer.  And if Mr. Warger 
+
+5  is unable to seek the admission of this evidence, he 
+
+6  will have no ability to obtain relief on his underlying 
+
+7  McDonough claim. 
+
+8  We would respectfully submit that the 
+
+9  judgment of the court of appeals should be reversed. 
+
+10  CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+11  The case is submitted. 
+
+12  (Whereupon, at 11:56 a.m., the case in the 
+
+13  above­entitled matter was submitted.) 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+45 
+
+Alderson Reporting Company 
+
+
+
+OfficialOfficial 
+
+Page 46 
+
+A 21:4 29:7 30:2 appropriate 7:13 43:7 briefs 4:8 16:25 
+
+ability 7:13 45:6 31:4 appropriately 7:19 back 8:22 14:18 37:3 
+
+able 7:16 18:4 allegations 40:17 22:13 28:14,16 29:15 bring 27:13 33:4,17 
+
+25:12 42:5 40:18 approximately 32:16 33:19 37:2 33:22 35:24 
+
+aboveentitled 1:11 alleged 40:15 42:25 bad 24:12 28:5 bringing 10:3 
+
+45:13 allegedly 33:2 area 37:12 balance 5:10 22:22 brings 34:17 35:23 
+
+absent 13:4 38:24 arent 27:9 balanced 24:6 broad 11:20,21 
+
+absolutely 15:9 allow 11:21 24:20 argues 41:22 26:15 33:11 
+
+24:5 29:11 27:5 33:24,25 arguing 3:25 25:23 balancing 21:19 broader 19:3 43:7 
+
+accident 10:19 allowing 24:7 34:18,22,25 26:14 broadly 16:2 37:17 
+
+27:18 28:4,8 alternative 32:25 argument 1:12 2:2 based 5:16 8:7 18:5 brought 15:2 16:19 
+
+29:13,15,18 44:23 ambiguous 11:2 2:5,8,12 3:3,6 5:6 18:19 20:21 21:9 18:18 33:8 38:20 
+
+account 9:19 20:10 44:16 17:6,20 23:1 34:24 35:15,18 38:25 
+
+act 33:4 amendment 31:22 25:16,17 34:10 38:18 39:21 41:17 built 41:6,7 
+
+action 26:24 33:4 31:24 35:2 38:8 39:2 basis 27:10 bunch 25:4 
+
+39:21 amicus 1:21 2:11 41:17 44:19 bear 10:3 burden 42:18 
+
+acts 32:1,2 
+
+actual 41:12 
+
+34:12 
+
+amount 41:17 
+
+aside 12:18 14:9,12 
+
+18:15,23 19:6 
+
+begins 31:7 
+
+behalf 1:15,17,21 C 
+
+address 40:6 analysis 24:10 22:12 28:17 2:4,7,10,14 3:7 
+c 1:8,15,20 2:1 3:1 
+
+adequate 20:17 41:12 asked 10:12 28:5 23:2 38:9 
+california 18:2 
+
+admissibility 22:15 answer 7:5 26:3 29:23 30:3 32:4 believe 10:23 20:15 
+24:22,24 25:1,21 
+
+admissible 5:9 8:6 31:20 33:12 20:23 
+26:1,2,4,6,7,12 
+
+8:11,15 16:21,25 answered 10:25 asking 14:19 best 8:19 14:25 
+36:3,7,12 42:1,2 
+
+17:2 22:11 23:19 11:11 41:9 asks 14:25 41:23 
+call 33:3 
+
+23:19,20 36:20 answering 27:25 assistant 1:19 better 20:8 21:20 
+canon 20:11 
+
+39:5 41:20 42:23 answers 14:21 assume 18:25 41:5 beyond 44:8 
+cant 4:21 19:9 21:6 
+
+43:1,10 27:21 28:13 assuming 28:7,7 bias 4:12 18:19 
+24:1 26:1 30:22 
+
+admission 22:19 anybody 26:5 29:17 19:14 20:15 30:21 
+31:25 32:2 33:9 
+
+45:5 39:16 auto 28:8 29:18 31:5,11,16 32:2 
+care 40:22 
+
+admit 25:8 28:21 appeals 20:13 45:9 automobile 28:4 32:13,21,21 43:21 
+case 3:4,22 8:3,23 
+
+28:23 36:17 appearances 1:14 available 32:25 44:1,4,11 
+9:14,16,17 10:5,7 
+
+admitted 4:15 appears 17:16 36:25 biased 30:8 43:25 
+10:9,10,13 12:20 
+
+22:18,20 36:4,14 appendix 10:16 average 5:22 birnbaum 1:17 2:6 
+13:5 14:6 15:6 
+
+42:11 applicable 44:9 avoidance 20:12,20 22:25 23:1,3 
+16:7,10 17:7,8 
+
+adopt 24:9 application 12:3 award 9:17 10:6,13 24:18,24 25:1,19 
+21:12 22:2,7,15 
+
+adopted 22:10 29:2 43:22 11:6,23 25:24 26:19 27:4 
+23:12 25:11,13,18 
+
+32:17 36:25 37:10 applied 37:7 41:24 aware 36:24 27:19,24 29:8 
+27:16,16,17,17,18 
+
+42:7 
+
+adopts 6:8 
+
+applies 4:4 37:17 
+
+37:20 43:4 B 
+30:10 31:9,17,19 
+
+32:15 33:5 41:21 
+
+27:24 29:10,11,20 
+
+29:21 30:3 31:4,5 
+
+affect 27:6 40:23 apply 10:22 20:12 
+b 3:18 4:1,3,13 5:6 42:16 44:19 45:1 31:13 32:10,11 
+
+affidavit 11:16 23:6 25:5 29:24 
+5:9 8:15 10:1 black 26:17 29:3 33:11 34:19,23,24 
+
+33:15,20 40:17 29:24 35:20 36:14 
+12:16 15:24 18:10 39:3 37:24 38:21 41:22 
+
+agrees 11:14 36:21 37:6,22,23 
+18:13 19:15,20 blatant 9:21 43:22 44:9,20,23 
+
+albeit 21:21 43:8 
+22:18 23:16 24:4 box 26:17 29:3 39:3 45:3,11,12 
+
+alito 6:23 7:5,9 applying 26:6 
+30:11,13,20 34:4 brief 6:3,22 8:21 cases 18:20 20:14 
+
+17:5,23 18:7 21:1 appreciable 36:5 
+35:20 36:7,25 17:25 42:18 25:2,4,5,6,7,10 
+
+Alderson Reporting CompanyAlderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 47 
+
+26:8,9,10 32:1 clark 17:1 19:24 29:2 30:13,14,16 course 5:13 7:14 decades 18:2 41:25 
+
+35:9 39:18 42:17 20:25 21:21 26:20 30:16,19,21,23,24 14:12 15:24 17:1 decide 22:17 37:14 
+
+castaldia 42:3 clear 23:6,7,22 31:6 32:6,16,20 18:6,8 19:13 deciding 31:12 
+
+category 29:6 28:23 29:11 34:3 32:20 36:24 37:15 22:14 36:7,24 decision 9:10 12:5 
+
+central 20:2 37:15 37:24 39:8 18:4 19:24 21:20 
+
+certain 18:17 25:25 clearly 19:16 30:8 connection 30:14 court 1:1,12 3:9,10 30:17 34:23 41:19 
+
+29:4,19 32:12 42:1 considerations 6:7,20 11:14 12:5 42:2,5 
+
+33:24 41:16 client 44:21 22:6 17:1 20:9,13,17 decisionmaking 
+
+certainly 3:25 5:3 close 38:20 consistent 22:4 20:19 21:5,9,12 40:23 
+
+8:2 14:5 18:18 coin 8:23 9:7,8 conspicuous 22:1 21:14,21 22:4,15 decisions 24:6 42:8 
+
+19:11 20:21 22:6 come 5:22,24 30:16 constitute 12:12 22:16 23:4,7 24:6 42:9,10 
+
+32:20 35:21 39:14 32:16 44:17 constituted 20:5 26:23 28:19,22 defendant 17:17 
+
+challenge 12:24 comes 11:10 28:16 34:21 35:4,5 29:23 30:22 31:10 29:13 30:1 35:14 
+
+challenges 14:5 30:6,6 39:16,19 constitutes 38:15 31:20,24 32:7,18 definition 19:4 
+
+change 23:5,11,15 39:20 constitutional 34:14 38:2 41:10 38:19 
+
+30:13 32:2 common 18:9,11 20:11,14,16,20 44:16 45:9 deliberations 3:20 
+
+chief 3:3,8 7:22 8:2 19:23 22:5 28:20 21:4 31:7,10 44:8 courts 19:24 21:20 4:24 5:4 16:9,13 
+
+11:1,18 15:6 28:23 36:14,15 44:8,13,25 26:6 42:2 43:9 17:18 23:14,22 
+
+18:12,22 19:2 37:5 38:1 constitutionally covered 5:8 37:3 25:9 26:21 30:7 
+
+22:24 23:4 24:15 competent 21:2 20:21 covers 37:19 43:7 36:10,16 39:4 
+
+24:22,25 25:16,20 competing 37:13 construed 37:23 criminal 26:24 41:1 
+
+32:24 34:8,13 complains 42:17 contain 40:17 27:10,15 31:6 deliberative 14:22 
+
+38:4,6,10 45:10 completed 16:22 contempt 17:3 35:14 demonstrate 12:10 
+
+circuit 18:1 25:4,6 component 4:9 21:22 22:2 26:21 critical 4:3,5 12:22 20:5 
+
+41:19,24 14:8 18:18 26:23 27:5,8,10 13:6 41:14 department 1:20 
+
+circumstances composition 3:16 27:13,14 33:7 critically 4:10 depend 13:13 39:23 
+
+11:20 33:24 13:21 14:22 39:6 38:22 40:7 43:21 depends 19:11 40:3 
+
+cite 15:7,7 compromised context 20:12 21:21 curiae 1:21 2:11 designed 40:24 
+
+cited 26:8 42:17 19:18 31:6,11,12 34:12 determination 
+
+cites 25:3 conceded 23:20 contexts 32:12 current 41:3,15 27:12 
+
+civil 26:25 27:16,17 concern 5:14,15 contributory 29:22 42:24 determine 11:15 
+
+claim 3:15,20 4:11 7:11,18 20:16 29:24,25 25:9 29:19 
+
+6:14,25 7:3 8:7 43:17 45:1 conversation 8:4 D determining 4:3 
+
+13:9,11,15,16 concerned 19:16 convert 5:18 d 1:6,8,15,20 3:1 diametrically 33:21 
+
+14:7,14,25 15:2,6 concerning 20:3 convicted 35:14 damages 9:18 10:6 dicta 25:7,11 41:23 
+
+15:17 16:4,16,18 concerns 5:6,11 correct 3:24 15:8,9 10:13 11:3,24 didnt 5:23,23 7:22 
+
+17:13 18:5 19:11 21:22,23 22:15 22:3 30:25 12:1 29:20,20 11:23 16:12 26:6 
+
+20:7 21:15 34:18 44:8,9,16 corroborated 36:19 33:14 28:10 30:20 32:6 
+
+35:23 38:20,22,23 conclusion 21:9 couldnt 21:5 26:18 daughter 10:18 33:13 40:14 
+
+38:25 39:12,16,23 conference 30:15 37:15 11:24 28:8 29:18 difference 10:2 
+
+39:25 40:3,19,20 confirms 22:10 counsel 22:24 34:8 40:12 22:1 30:11 
+
+40:24 45:7 conflict 34:24 38:4 45:10 daughters 40:22 different 4:11 
+
+claims 4:11 18:17 confusion 43:2 counted 15:5 dealing 25:21 13:15 14:4 15:22 
+
+19:14,15,16,17 congress 23:24 countervailing dealt 7:19 22:7 25:2 28:1 
+
+36:6,8 42:9 24:5 26:12,13,13 5:10,13 20:24 debatable 11:22 33:21 36:22,22 
+
+clarify 41:18 26:14,14 28:18 country 24:17 debate 8:11 16:1 38:22 43:21 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 48 
+
+differently 19:10 drunk 31:12 42:10,12,19,22,25 fairness 5:14 10:11 framers 19:15,22 
+
+difficult 6:13 44:6 drunkenness 21:16 43:5,7,9,12,14,16 21:22 24:6 26:15 framing 20:2 
+
+difficulties 43:18 due 44:14 45:5 26:15 fraud 33:3 
+
+difficulty 12:9 exactly 4:25 24:4 fall 29:5 freestanding 35:24 
+
+dire 3:12 5:19,25 E 34:4 falls 24:4 34:4 friend 24:15,19 
+
+6:21 8:10 9:2,6,13 e 1:19 2:1,9 3:1,1 examination 13:12 family 28:3 25:23 41:21 
+
+9:23 10:25 11:12 34:10 example 8:19,20,21 far 27:8 frustrated 9:9 
+
+12:11 13:11 17:14 eager 15:13 25:3 35:13 fault 29:22 function 26:18 
+
+17:15 20:17 27:21 easy 5:17 examples 35:2 favor 11:6 fundamental 43:23 
+
+28:2,14 30:4 eavesdropper 4:21 exception 21:10 federal 3:18 6:4 44:14,24 
+
+40:25 41:10 effective 32:12 30:18,20 31:15 43:4,6,9 further 31:19 
+
+direct 33:4 efficacy 32:9 37:21,23 44:2 feel 31:21 
+
+discussion 30:24 effort 7:3 exceptions 37:20 feels 32:18 G 
+
+31:1 egregious 30:3 excluded 37:9 ferreting 32:13 g 3:1 
+
+discussions 10:18 either 14:21 18:11 43:14 fighting 23:23,24 game 9:11 28:15 
+
+16:23 39:5 42:15 excluding 20:3,14 files 35:14 38:18 gamesmanship 
+
+dishonest 3:12 6:19 embodies 5:9 exclusion 15:25 final 22:8 28:11 
+
+6:21 8:10 9:1,5,22 empaneled 38:24 43:6,12 finality 5:12 20:25 gaming 45:2 
+
+10:25 17:14 38:24 emphasize 5:12 experience 9:20 22:8 43:19 general 1:20 
+
+dishonestly 41:9 23:8 12:4 22:9 24:16 find 17:12 18:4 generalized 24:13 
+
+dishonesty 3:13 enactment 18:10 26:5,11 40:22 29:25 30:1 33:14 29:9,17 
+
+5:24 9:13,16 english 35:10 experiences 10:3 42:5,13 44:6 generally 20:16 
+
+10:15 11:17 12:10 entire 24:8 explain 40:9 first 5:6 6:2,17 7:10 getting 13:25 
+
+13:11 23:11 25:10 entirely 21:10 explained 7:12 11:15 13:24 17:17 ginsburg 4:16 5:2 
+
+40:25 41:9 entitled 3:11 extending 34:6 19:21 20:11 24:19 5:17 6:2,9 9:15 
+
+dispute 16:18,24,24 error 4:8 16:5 extent 7:17 10:9 38:13 16:7,15 21:25 
+
+disputing 5:4 14:10 especially 27:25 19:19 33:2 39:2 five 24:20 36:13,21 27:19 40:9,16 
+
+distinction 41:14 esq 1:15,17,19 2:3 42:16 44:15 42:22 ginsburgs 6:24 
+
+43:3 2:6,9,13 extraneous 25:13 flip 8:22 9:7 7:21 8:12 
+
+district 22:16 establish 12:12 25:14 29:4,4,9,16 flipped 9:8 give 8:20 14:2 25:3 
+
+disturb 19:22 ethnic 32:14,21 37:21 floodgates 6:6 31:25 
+
+doesnt 20:19 21:2 evidence 3:18 4:14 extrinsic 8:7 18:11 go 5:22 7:13 8:12 
+
+23:11,15 24:19 5:5,7 6:6 7:14 8:5 focus 20:2 8:22 9:10 25:2 
+
+26:24 27:5,6 29:5 8:7,15,16,25 9:3 F focuses 13:7,8 20:6 27:6 31:1 32:25 
+
+32:25 38:2 39:23 9:12,16 10:15,21 face 34:4 follow 5:20,21,23 33:19 40:13 
+
+40:19,23 44:23 11:9,13,16 15:1 facebook 8:9 6:7 7:23 10:22 goes 5:7,24 6:11 
+
+doing 7:24 10:4 15:20,21,25 16:3 fact 4:6 6:15 8:8,14 17:18 40:14 9:25 12:2 33:20 
+
+dollars 44:24 16:20,20,25 17:2 9:1 11:16 23:10 followed 40:15 33:20 35:3 39:11 
+
+dont 4:17 11:4 18:5,10 19:12 33:12,23 34:3 football 9:11 40:8 43:23 
+
+13:17 15:11 16:24 20:3,4,14 22:10 37:12 40:2 42:19 forelady 33:20 going 6:12 7:2 11:5 
+
+19:3 25:5,24 26:3 22:16,17,19 24:21 factfinder 43:24 forepersons 28:8 13:4 14:18 17:11 
+
+26:11 28:12 31:18 25:22 26:10,25 facts 10:9,23 forth 14:18 37:2 18:6 25:17,18 
+
+33:5,6 40:22 28:24 32:17 35:15 fair 9:2 11:8 17:15 forward 16:22 30:6 26:5 27:9,11 32:1 
+
+drafting 19:20 35:18 36:4,13,20 20:23 24:14 30:4 founded 44:12 37:14 39:15,16 
+
+draw 37:14 37:9,23 38:19,21 31:24 33:10 four 38:12 good 17:8 24:12 
+
+drinking 23:13 39:4,19 41:20,23 fairly 9:17 11:20,21 framed 18:25 26:17 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 49 
+
+governing 7:20 43:22 37:13 39:22 40:8 38:15 43:13 20:7 29:2 31:16 
+
+government 5:11 held 3:10 17:2 44:25 45:2 instance 8:8 16:21 32:16 35:6 43:20 
+
+6:22 8:20,24 20:13 21:6 43:9 impose 7:13 31:23 38:17 issued 34:19,20,22 
+
+42:21 43:2 henley 25:7 improperly 20:5 instructions 5:20 35:4 
+
+great 33:2 high 22:13 32:2 34:21 35:3,5 5:21,23 10:22 issues 7:10 26:16 
+
+greenwood 3:10 highlights 38:3 impugned 22:2 17:19,21 31:8,11 
+
+greg 44:21 hints 33:16 inability 9:9 instructs 5:19 9:19 ive 38:2 
+
+gregory 1:3 history 19:20,25 incentive 7:15 8:3 insufficiency 38:19 
+
+ground 23:10 28:17 20:1 24:5 34:5 39:9 40:1 insufficient 35:18 J 
+
+grounds 23:12 24:2 38:1 incident 29:13 intended 9:5,22 job 30:14 
+
+guess 7:5 11:18 hit 38:2 include 13:24 16:2 19:22 30:23 judge 5:19 9:17,18 
+
+13:17,24 33:3 holding 25:11 inconsistent 17:20 intentional 9:12,16 11:14 34:22 39:20 
+
+gun 11:9,22 holdings 25:12 increase 36:6 11:17 39:20 
+
+guy 11:4 12:1 home 5:23 indicate 22:4 intentionally 6:19 judgment 11:6 45:9 
+
+honesty 27:20,22 indicated 8:9 13:10 6:20 judicial 24:9 30:15 
+H honor 23:3 24:13 indicates 10:5 interest 7:23 20:22 jurisdiction 18:2 
+
+hand 10:4 24:7 25:2,25 27:4,24 indication 19:21 20:22,24,24 jurisdictions 6:5 
+
+43:11,13 29:8 30:10 31:17 indictment 12:13 interests 37:13 18:3 22:9 42:6,13 
+
+handicapped 44:5 32:15 33:5 infected 3:14 internal 36:18 43:4,8 
+
+happen 28:19 30:2 hours 29:22 infer 9:22 interpret 32:19,19 juror 3:12 4:22,23 
+
+30:9 house 37:1 inference 10:24 interpretation 6:8 5:21 8:8,10 9:5 
+
+happened 23:21 hypothetical 6:13 inferential 11:13 10:1 11:15 12:20 10:3,4,5,17,17,21 
+
+25:8 27:2,7 29:1 6:22 9:7 influence 21:10 20:8 43:17 44:17 10:24 11:10 13:4 
+
+29:21,23 32:4 influenced 33:16 intoxicated 21:7 13:11 15:21 16:8 
+
+33:22 35:9,13,19 I 40:21 introduce 25:25 16:13,21 17:12,14 
+
+36:3,9 id 38:13 influences 25:13 26:1 30:12 17:15,18,19 18:19 
+
+happening 26:4 idea 32:8 29:4 introduction 3:19 19:14 23:11 25:8 
+
+happens 13:19 identified 42:24 information 3:23 intrusive 36:9 28:5,6,7 30:6,12 
+
+24:14 37:19 identifies 37:6 4:18 25:14 29:5,9 invade 4:17 26:21 31:12 32:1 33:6 
+
+harassed 27:9 32:3 identify 40:25 29:10,12,17 37:21 invaded 27:3 33:14,19 34:1 
+
+harassment 7:18 42:19 injured 33:2 invalid 13:19,20 38:24 39:19 40:25 
+
+21:24 43:18 ill 25:3 32:16 inquire 21:5 34:19 35:5 41:9 43:18 45:3 
+
+hard 17:11 25:7 im 7:22 13:24 inquired 28:9 invalidate 23:10 jurors 3:13 7:2,15 
+
+35:11 37:16 41:19 14:10 15:8 17:6 inquiries 12:24 invalidated 24:3 7:18 8:4,22,25 9:8 
+
+41:22 27:25,25 42:7,8 36:9 involve 26:24 44:23 10:12 21:7 23:13 
+
+harrington 1:19 42:10 inquiring 35:9 involved 4:23 28:4 26:15 27:9,12,21 
+
+2:9 34:9,10,13 imagine 35:11 inquiry 3:15,16 4:2 28:8 28:14,16 29:15,23 
+
+38:5,17 immaterial 41:11 4:6 5:7 8:16 involving 10:11 30:3,7 32:3,4 33:3 
+
+hasnt 17:24 24:16 impact 41:1,5,5 11:20,21 12:13 18:4 19:16,17 33:17,18,23,25 
+
+36:5 impartial 9:2 20:18 13:3,8,8 14:18 20:15 43:22 44:13 34:1 36:16,18,19 
+
+havent 15:4,4 44:12 15:17 18:13 19:4 iowa 36:15,15 37:6 40:13,21,21 43:5 
+
+head 19:9 24:10 impartiality 10:11 20:7 21:6,12 43:3,4 jury 3:16 4:7,12,18 
+
+heard 4:24 impeachment 22:5 22:20 23:17,17,25 irrelevant 40:18 4:19 5:12,18,20 
+
+hearing 34:15 implicit 7:6 24:1 31:1 32:6 isnt 5:10 32:10 41:5 5:21 7:2 8:22 
+
+35:16 important 8:14 34:16 35:8,11,17 issue 12:17 13:9 9:19 11:10 13:13 
+
+hearsay 31:15 10:8 27:16,17 35:21,21,25 37:18 15:17 16:3 18:20 13:19,21 14:15,23 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 50 
+
+16:9,13,20,22 26:10 28:1,21 literature 42:14 38:22,25 39:23,25 41:19,24 
+
+17:10,19,20 19:12 29:16 31:4 34:6 litigant 34:17,18,22 40:3,19,20,24 noimpeachment 
+
+19:17 20:4,5,18 35:21 37:12 34:25 41:12 42:9 45:7 36:23 
+
+20:25 21:2,23 kinds 30:8 litigants 20:22 mean 4:9 11:4 normal 31:15 35:10 
+
+22:1 23:21 24:8 knew 30:19,24 31:25 13:18 19:8 23:24 note 17:25 39:4 
+
+26:15,17,21,22 32:20 live 33:8 31:15 44:5 42:18 
+
+28:5 29:3,12,21 know 11:4 14:17 look 11:11 15:11,11 meaning 14:2 number 9:11 36:6 
+
+30:7 32:4 33:22 19:5 24:11 26:3 15:13,17,20 28:11 meaningful 10:2 numerous 6:4 
+
+34:25 35:10,13,19 26:11,12,13 27:14 35:12,19 39:3 means 11:5 14:19 
+
+36:10 37:19 39:3 29:1 31:25 33:1 looked 29:2,14 meant 6:20 19:6 O 
+
+40:4,5,10,14 37:8 31:10 member 28:3 o 2:1 3:1 
+
+44:12,14 looking 7:25 21:18 members 35:1,1 object 44:22 
+
+jurys 27:3 39:4 L lose 8:3 39:10 mental 26:1 obtain 14:11 45:6 
+
+41:1 l 1:17 2:6 23:1 loses 17:8 mere 8:14 obvious 27:21 
+
+justice 1:20 3:3,9 language 12:20,23 lost 44:22 met 29:21 obviously 11:9 
+
+3:21 4:16 5:2,17 13:1,7,23,25 lot 11:3 12:1 17:8,9 millions 44:24 12:15,19 14:9 
+
+6:2,9,23,24 7:5,9 15:14 23:7 25:22 30:24 32:9 mind 31:5 36:18 40:1 
+
+7:21,22 8:2,12 large 24:16 lots 37:2 minimum 8:1 20:9 occasion 35:20 
+
+9:15 11:1,18 12:6 largest 18:2 minority 29:1 occurs 5:18 
+
+12:8,14,16,21 law 10:23 18:9,11 M minute 17:17 october 1:9 
+
+13:2,7,17 14:17 19:23 22:5 28:20 m 1:13 3:2 45:12 minutes 38:7 oddities 16:17 
+
+15:4,6,10,19 16:7 28:23 29:10 36:15 majority 28:25 misconduct 13:4 oh 5:20,22 30:5 
+
+16:15 17:5,23 37:5 38:1 40:7,14 29:2 37:7 misreads 41:22 okay 4:21 29:18 
+
+18:7,12,22 19:2 41:3,16,25 42:1 making 17:20 30:7 missing 6:23 old 4:19 
+
+21:1,4,25 22:24 42:24 mandated 13:9 motion 18:14,18,23 once 14:8 
+
+23:4 24:15,22,25 lawyer 17:8,10,12 20:7 18:23 19:1,6,9 ones 24:12,12 
+
+25:16,20 26:19 17:16 24:12 45:4 mandates 15:18 23:9 34:15 35:14 open 22:16 32:3 
+
+27:19 29:7 30:2 lawyers 7:13,15,23 manner 14:15 35:16,25 38:18 33:18 
+
+31:3,4,14,18 32:8 8:2 25:17 28:12 19:16 20:3 40:5 moving 6:18 21:17 operate 25:22 
+
+32:24 34:8,14 lead 8:5 43:17 40:10,13 multiple 44:24 operating 21:14 
+
+38:4,6,11 39:8,15 leaving 21:25 material 41:8 opinion 16:11 
+
+40:9,16 41:4 44:1 leg 44:22 materially 3:12 N opportunity 26:7 
+
+44:4 45:10 legal 10:10 matter 1:11 11:14 n 1:17 2:1,1 3:1 opposed 10:1 11:25 
+
+legislative 24:5 13:25 20:20 35:10 name 41:10 option 36:25 
+K 34:5 37:25 40:19 45:13 nations 18:1 oral 1:11 2:2,5,8 
+
+k 1:15 2:3,13 3:6 legislature 37:14 mcdonough 3:10 nature 4:2 15:18 3:6 23:1 34:10 
+
+38:8 level 6:4,4 3:15,20,25 4:2,6 16:16 23:15 order 8:23 31:22 
+
+kagan 13:17 14:17 lied 11:11 28:5 5:15 6:14,15,18 negligence 29:25 outcome 39:24 
+
+31:3 32:8 41:4 lies 33:7 6:25 7:3 8:7,18 30:1 outright 4:12 
+
+kannon 1:15 2:3,13 life 9:20 10:20 11:8 9:4,25 12:3,4,6 never 28:4 29:20 outset 13:10 
+
+3:6 38:8 11:25 13:15 14:7,14,25 new 1:17 3:11 14:7 outside 21:10 
+
+keep 15:5 light 10:9 39:19 15:2,5,6,11,16,21 14:11 19:1,10 outweigh 20:24 
+
+keeping 26:16 limit 35:7 16:4,16,18 18:5 23:9,12 24:2 outweighed 21:23 
+
+kennedy 3:21 12:6 limits 7:13 22:12 23:15,16 34:15 35:15,25 overly 36:9 
+
+15:4,10,19 line 17:9 37:14,15 33:24,25 34:17 38:18 
+
+kind 4:25 24:20 litany 21:23 35:23 36:6,8 ninth 18:1 25:4,6 P 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 51 
+
+p 1:3 3:1 plausible 17:13 principal 5:15 11:12 24:13 28:12 rebutted 36:19 
+
+page 2:2 play 44:17 private 32:5 33:12 36:2 38:2 receive 7:7 
+
+pages 10:16 played 28:12 41:13 probative 8:16,17 43:11 record 10:16 
+
+part 8:13 13:5 please 3:9 23:4 11:16 quick 38:12 recorded 39:22 
+
+20:18 21:11 30:23 34:14 problem 6:6 12:8 quite 6:16 15:5 recused 34:23 
+
+33:8 35:24,25 point 6:2,24 7:17 12:11 17:21,22,24 16:2 30:24 redounded 21:16 
+
+particular 4:5 6:17 10:15 11:23 13:6 18:11 20:14 36:7 quotient 19:18 refer 12:23 14:21 
+
+31:13,23 33:11 14:14 16:4 17:19 42:12,15,20 reference 21:20 
+
+particularly 19:23 18:8 21:18,20 problems 24:7 R referred 44:20 
+
+32:13 22:9 31:7 38:23 proceeding 17:3 r 3:1 refers 12:24 14:4 
+
+parties 30:4 39:11 41:11 42:4 26:22,23 27:5,11 race 30:5 45:1 
+
+party 3:11,22 6:13 43:1 44:15 27:13,14 33:7 racial 20:15 30:21 reflected 37:25 
+
+6:18 8:6,25 21:1 pointed 23:16 39:7 31:5,11,16 32:13 38:1 
+
+38:17 39:24 points 16:6,16 proceedings 21:22 32:21 43:21 reflecting 5:19 
+
+partys 21:17 20:10 37:11 38:13 27:8 41:13 racially 43:24 regard 4:10 8:17 
+
+passed 30:20 40:2 43:1 process 14:22 32:5 raised 7:18 22:6,8 27:7 38:13 
+
+passing 32:22 police 27:20,22 44:14 raises 44:7 40:25 
+
+pay 11:3 policies 26:16 processes 26:1 43:5 raising 12:17 regardless 3:13 
+
+payoff 7:25 policy 5:11 21:19 producing 15:20,21 randy 1:6 30:4 44:10 
+
+people 4:20 30:15 22:6 34:5 promises 17:15 rarely 22:11 regular 27:10 
+
+33:10 42:2 44:5 portion 16:1 24:16 proposition 14:11 rationale 4:17 rehnquist 15:7 
+
+perfect 25:3 31:25 posit 6:13 prosecutor 27:11 reach 9:10 related 37:24 
+
+33:9 position 15:15 protecting 20:22 reached 14:8,13,15 relevant 19:20 
+
+permissible 7:7 16:17 prove 7:3 15:3 16:19,23 relied 32:9 
+
+27:22 possess 22:7 proven 17:24 42:19 17:4 19:17 20:4 relief 39:25 45:6 
+
+permit 26:25 posted 8:9 provide 33:9,10 21:9 39:1,1,6,7 religious 32:14 
+
+permits 3:18 4:14 practice 17:24 province 4:18 40:5,10,14 44:1 
+
+22:19 19:23 proving 12:10 read 13:23 15:6 rely 25:6 
+
+permitted 5:1 precisely 11:19 provision 14:3,3,4 reading 18:13 remaining 38:7 
+
+person 15:22 prejudice 4:9,12 public 32:6 realize 12:23 39:22 remand 11:14 
+
+personal 10:3 18:17 21:13,17 pure 18:19 realized 11:25 22:17 
+
+persuaded 40:12 41:13 purpose 14:11 really 4:2,13 6:6,20 remedy 14:7 32:25 
+
+petition 10:17 prejudiced 30:9 purposes 40:20 8:10,13 9:12,25 remember 8:14 
+
+petitioner 1:4 3:7 prejudicial 25:13 put 16:11 24:10 11:11 12:2 13:14 45:2 
+
+10:6 23:5,8,20 25:14 29:4,10 29:12 31:5 33:19 14:3 15:1 16:18 remmer 18:20 
+
+28:20 29:18 30:25 premise 21:15 17:8 30:3 32:16 reply 6:3 17:25 
+
+33:13 38:9 44:21 present 16:12 Q 36:10 37:11,13 26:8 42:17 
+
+petitioners 1:16 2:4 presented 33:15 qualitatively 13:15 40:8 42:12,18 reported 42:6 
+
+2:14 24:10 33:2 presumably 18:23 question 4:1 6:24 43:23 reporting 4:24 
+
+phillips 18:21 41:4 6:24 7:1,21 8:12 reason 3:17 4:13 representatives 
+
+phrase 35:8 pretty 4:19 9:3 10:10,11 14:20,20 9:4 11:18,19 37:2 
+
+place 4:7 13:13 11:1 37:15 14:24 16:12 22:14 13:14,18,20 15:15 require 13:12 
+
+19:12 31:21 40:4 prevail 6:10 7:1 28:1,2 29:22,24 19:2 21:11 27:4 21:15 41:12 
+
+plainly 37:9 39:5 prevailing 18:9 38:14 40:6 41:10 reasons 9:11 required 4:12 
+
+plaintiff 11:6 17:17 19:23 37:4 39:24 43:24 45:3 rebuttal 2:12 22:23 21:19 
+
+34:17 prevent 7:24 questions 10:12 38:8 requirement 5:6 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 52 
+
+6:17 16:9,14,20 17:11 31:14,18 39:8,15 21:16 states 1:1,12,21 
+
+requirements 6:15 19:12 29:3,12 44:1,4 significant 7:25 2:10 18:20 24:20 
+
+8:17 9:25 25:2 32:4 33:22 35:10 scene 29:14 simple 9:3 27:18 34:11 36:13,14,21 
+
+requires 4:6 15:16 35:13,19 37:19 scope 4:1 simply 5:10 6:15 37:6,7 42:22,25 
+
+15:19 40:4 second 6:11 8:13 7:17 10:3,6,10 stringent 6:16 
+
+requiring 21:13 ruin 11:25 11:17 13:24 40:6 11:22 12:23 14:14 strong 9:12,15 
+
+requisite 9:4 ruined 10:20 11:8 41:2 16:4 19:24 20:10 strongly 10:24 
+
+reserve 22:22 rule 3:18 4:1,3,13 secondary 42:14 21:18 22:18 40:2 44:21 
+
+resolution 40:18 4:19 5:5,6,8,9,15 secrecy 5:12 20:25 41:11,21 43:10 structural 4:8 16:5 
+
+resolve 8:23 6:3,3 8:15 10:1 21:23 44:15,19 structure 24:9 
+
+resolved 3:25 15:7,11,14,16,23 see 16:24 17:21,22 sit 28:14 39:10 subject 5:5 15:25 
+
+respect 31:4 32:13 16:2 17:25 18:1,8 24:14 28:15 39:10 situation 7:8 8:21 19:13 43:6,12 
+
+respectfully 6:5 18:9,10 19:13,15 seek 8:25 39:24 11:10 34:6 submission 22:18 
+
+17:23 41:21 43:15 19:20,22,25 20:1 45:5 situations 27:3 submit 6:5 17:23 
+
+45:8 20:2,6,9 22:4,5,10 seeking 14:6 six 36:21 41:21 43:15 45:8 
+
+respond 26:7 22:18 23:19 25:5 senate 37:10 sixth 31:22 submitted 45:11,13 
+
+respondent 1:18,22 25:23 28:21,25 sense 4:20 26:19 slight 29:25 substantive 13:8 
+
+2:7,11 5:11 23:2 29:1,3 34:3 35:20 41:8 slightest 40:23 successful 6:14 
+
+34:12 42:21 43:2 36:7,15,16,23,25 separate 7:10 24:2 smith 18:20 36:6,8 42:9 
+
+respondents 6:7 37:1,5,10,17 43:11 smoking 11:9,22 sued 10:18 11:2,4,8 
+
+16:17 42:18 38:14 41:6,8,19 serious 20:16 solicitation 7:11 11:24 12:1 
+
+response 6:12,19 41:23 43:3,4,4,6,6 set 12:17 14:9,12 solicited 7:3 sufficiency 35:15 
+
+38:16 43:9,23 44:16 18:15,23 19:6 solicitor 1:19 sufficient 31:22 
+
+responses 6:1 rules 7:12,20 23:6 22:12 28:17 somewhat 17:13 suggest 6:7 
+
+responsible 10:19 31:15 32:17,22,22 sets 22:12 sorry 7:22 suggested 21:21 
+
+responsive 36:11 42:7 seventh 31:23 sort 8:13 34:24 suggestion 42:14 
+
+rest 15:23 33:23 run 31:7 shanmugam 1:15 41:6 suggests 8:24 19:25 
+
+restrictive 37:8 runofthemill 27:17 2:3,13 3:5,6,8,24 sotomayor 13:2,7 20:1 
+
+reversed 45:9 44:20 5:2 6:1,11 7:4,9 26:19 support 3:20 44:17 
+
+right 11:3 12:18,21 8:1 9:24 11:7 sought 42:11 supporting 1:21 
+
+20:17,18,23 21:1 S 12:2,14,19,22 specific 28:2,12 2:11 34:12 
+
+21:4 28:13,14 s 2:1 3:1 12:16 13:6,18 14:1,24 37:20 44:13 supports 10:24 
+
+39:10 44:6,11,12 sacrosanct 26:22 15:9,13,23 16:15 specifically 37:24 15:14 24:5 
+
+44:14,25 safeguard 31:22 17:22 18:16,25 speculative 43:17 suppose 17:9 32:8 
+
+rights 31:23,24 safeguards 31:21 19:8 21:3,8 22:3 stacey 45:3 supreme 1:1,12 
+
+44:13 32:10,11 35:7 36:4 38:6,8 stage 5:25 28:19 42:2 
+
+ripens 38:23 sanctity 24:8 27:3 38:10 39:13,18 stake 17:8 sure 14:1 21:24 
+
+roberts 3:3 7:22 sarah 1:19 2:9 40:16 41:7 44:3,7 stand 27:12 27:25 
+
+11:1,18 18:12,22 34:10 shauers 1:6 3:4 standard 12:3,5 suspect 17:6 
+
+19:2 22:24 24:15 saying 7:6 15:5 shed 10:9 22:13 sweeps 16:2 19:14 
+
+24:22,25 25:16,20 says 5:22 9:17 11:5 sheila 1:17 2:6 23:1 state 6:4 18:2 40:7 19:14 
+
+32:24 34:8 38:4,6 11:11 17:18 23:16 shes 11:5 41:3,16 42:24 system 24:9 26:18 
+
+45:10 24:15 25:4,11 shouldnt 30:22 statement 13:5 28:15 32:3 33:9 
+
+room 4:7,19 5:18 28:20 30:6 33:13 39:3 40:11 45:2 
+
+5:21 7:2 8:22 33:16 35:7 36:4 show 3:12 6:18 statements 3:19 5:3 
+
+11:10 13:14,20 scalia 12:8,15,16,21 showing 9:4 21:13 30:8 39:21 T 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 53 
+
+t 2:1,1 theres 8:10 10:2 26:16 27:1 31:24 unquestionably 8:5 40:14 
+
+take 6:21 9:19 11:5 11:22 16:1,18,23 31:25 34:15 35:15 unreported 42:6 verdicts 19:18,18 
+
+32:5 17:7 18:10 19:21 35:25 38:18 44:12 untrue 28:22 22:11 43:19 
+
+takes 39:20 25:10 29:25 30:5 trials 33:9 44:14 unwilling 10:6,22 version 36:15,22 
+
+talk 7:15 28:16 33:15 36:2 37:2 tribunal 34:20 35:3 unwillingness 37:1,7,8,9 
+
+29:9 43:2 41:16 42:12 35:5 29:19 33:14 view 10:21 12:25 
+
+talked 29:15 thing 4:25 18:7 troubles 17:5 usage 35:11 37:22 41:14 
+
+talking 5:3 7:24 8:4 27:2 33:6 35:24 true 10:5 14:5 21:3 use 8:25 13:5 26:25 viewed 21:12 
+
+15:15 27:15 42:8 38:16 44:18 21:8,11 22:7 uses 6:22 8:21 views 33:21 
+
+42:8,10 43:11 things 9:18 19:21 24:18 29:17 34:16 utterly 28:22 40:18 viken 11:14 
+
+44:11 25:25 44:5 36:12 37:4 39:14 vitally 44:25 
+
+talks 29:19 think 4:2,5,13,20 try 24:13 V voir 3:12 5:19,25 
+
+tanner 21:13 23:12 5:9 6:12,20,23 7:9 trying 25:9 v 1:5 3:4,10 18:20 6:21 8:10 9:2,6,13 
+
+28:19,22 31:10 7:12,21 8:1,13,19 turns 14:15 18:21 42:2 9:23 10:25 11:12 
+
+32:7 9:13,24 10:2,8 two 6:1 7:10 19:21 valid 14:20,21 35:6 12:11 13:11 17:14 
+
+targets 36:8 12:22 13:14 14:1 20:10 29:21 43:11 35:18 17:15 20:17 27:21 
+
+tell 15:10 17:7 14:3,25 15:1,8,14 type 4:8 5:5,7 15:17 validity 3:17 12:13 28:1,14 30:3 
+
+23:18 24:19 15:18 16:5,10,16 15:25 16:5 18:5 12:25 13:3 14:19 40:25 41:10 
+
+telling 15:12 16:23 17:11 18:16 18:19 19:9 36:3 18:14 19:4 22:20 
+
+tells 19:21 23:19 19:6,9,19 20:1,7 36:13,20,22 43:7 23:25 24:1 27:6 W 
+
+terms 20:10 22:19 20:11,19,21 21:9 43:12,13 44:10 31:2 33:1 34:16 wait 24:14 28:15 
+
+40:4 21:11,12,14 22:5 types 4:11 10:13 35:8,12,17,22 wake 42:1 
+
+testifies 33:20,21 22:8 23:16 24:11 18:17 19:15 36:1 37:18 38:15 want 4:17 11:23 
+
+testify 30:16 34:1 29:10 30:10 31:3 typically 39:19 variety 4:14 7:12 12:17 15:10 24:2 
+
+testifying 16:8,13 31:9,18 32:15 7:14 10:7,14 17:2 30:17 32:6 40:6 
+
+testimony 3:19 7:1 33:6,6 35:11,15 U 22:11 39:5 41:20 41:2,18 
+
+7:7 23:21 24:7 35:16 37:11 38:2 ultimately 6:25 42:11,22 43:10 wanted 9:10 19:5 
+
+25:8 26:10 28:21 38:12 39:22 40:7 unable 42:13 45:5 44:10 26:14 28:18 37:2 
+
+30:12 34:2 36:17 41:16,24 42:23 unambiguously various 10:13 wants 30:21 
+
+40:11 43:21 44:9,21 3:18 4:14 13:1 verdict 3:14,17 warger 1:3 3:4 
+
+text 38:14 thinks 20:9 44:16 41:18 12:13,18,24,25 44:21 45:4 
+
+textual 20:8 third 3:22 15:22 uncertainty 41:17 13:4,12,18,20 washington 1:8,15 
+
+thank 3:8 12:14 thought 4:16 40:10 underlying 21:15 14:5,8,9,13,16,19 1:20 
+
+22:24 23:3 34:7,8 43:5 45:6 14:20,21 15:3 wasnt 3:21 36:17 
+
+34:13 38:4,5,10 three 41:25 undermining 43:19 16:19,23 17:3 watch 9:10 
+
+45:10 time 6:21 9:2,5,13 underscore 10:8 18:14,15,24 19:5 way 4:6 10:4 13:13 
+
+thats 4:19,21,25 9:22 10:25 22:22 understand 13:17 19:6,17 20:4 22:1 14:15 19:1,11 
+
+15:12 17:20 23:22 titus 10:17 40:11 understandably 22:8,21 23:10,25 27:20,20,21,23 
+
+24:18 28:18,22 40:16 45:4 5:12 24:1,3 26:24 27:6 33:17,25 39:23 
+
+30:12,14 33:23 top 19:9 understates 42:23 27:7 28:15,17 40:3 
+
+34:16 35:18,25 transcript 17:10,16 understood 37:25 30:6 31:2 33:1 ways 15:18 
+
+36:10 37:3,25 treated 19:10 41:25 undisputed 15:1 34:16,19,20 35:4 weak 9:3 
+
+40:13 41:4,11 treatise 37:5 undue 7:11 35:6,8,12,17,17 wednesday 1:9 
+
+43:10 trial 3:11 14:7,12 unfairness 32:18 35:22 36:1 37:18 went 4:18 7:2 25:13 
+
+theory 5:24 19:1,10 20:18,23 united 1:1,12,21 38:16,25 39:1,6,7 29:14 
+
+thered 11:25 23:9,12,13 24:3,8 2:10 18:20 34:11 39:11,16 40:5,10 weve 12:3 18:4 
+
+Alderson Reporting Company
+ 
+
+
+
+Official 
+
+Page 54 
+
+26:9 42:5,24 1972 32:22 
+
+whats 4:23 7:6,24 
+
+23:19 26:4,5 36:3 
+
+36:9 
+
+whipple 10:17 
+
+whos 35:14 
+
+2 
+
+2014 1:9 
+
+23 2:7 
+
+25 35:1 
+
+wigmore 37:5 
+
+willing 10:13 
+
+woman 9:17 40:15 
+
+word 14:2 43:20 
+
+words 11:19 14:10 
+
+21:14 31:1 40:19 
+
+3 
+
+3 2:4 
+
+30 12:4 
+
+34 2:11 
+
+38 2:14 37:7 
+
+worth 16:11 
+
+wouldnt 35:19 
+
+write 37:16 
+
+writer 16:11 
+
+4 
+
+40a 10:16 
+
+41a 10:16 
+
+writing 32:21 
+
+wrong 17:6 30:13 
+
+wrote 32:20 37:17 
+5 34:25 
+
+50 37:6 
+
+5 
+
+X 
+56 45:12 
+
+x 1:2,7 6 
+
+Y 
+
+y 1:17 
+
+yeah 19:8 
+
+year 18:4 42:7 
+
+years 12:4 
+
+york 1:17 
+
+youd 19:6 39:9,9 
+
+youre 6:23 7:6,25 
+
+13:4 15:9,12 16:7 
+
+606 3:18 4:1,3,13 
+
+5:6,9 8:15 10:1 
+
+12:16 15:7,11,14 
+
+15:16,24 18:10,13 
+
+19:15,20 22:18 
+
+23:6,6,16,19 24:4 
+
+30:11,13,20 34:4 
+
+35:20 36:7,25 
+
+43:7 
+
+16:10 25:9,21 
+
+35:9 7 38:7 
+
+7 
+
+Z 8 
+
+0 
+8 1:9 
+
+06 1:13 3:2 9 
+
+1 
+
+1 12:16 
+
+11 1:13 3:2 45:12 
+
+12 37:6 
+
+13517 1:5 3:4 
+
+14 42:25 
+
+1961 37:5 
+
+Alderson Reporting Company
+ 
+
+
+
+

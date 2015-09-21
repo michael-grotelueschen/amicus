@@ -1,0 +1,9651 @@
+
+          
+
+               
+
+                        
+
+         
+
+                       
+
+        
+
+                        
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+TRAVELERS CASUALTY AND : 
+
+SURETY COMPANY OF : 
+
+AMERICA, :
+
+ Petitioner :
+
+ v. : No. 05-1429 
+
+PACIFIC GAS AND ELECTRIC : 
+
+COMPANY. : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Tuesday, January 16, 2007
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:01 a.m. 
+
+APPEARANCES: 
+
+G. ERIC BRUNSTAD, JR., Hartford, Conn.; on behalf of
+
+ Petitioner. 
+
+E. JOSHUA ROSENKRANZ, New York, N.Y.; on
+
+ behalf of Respondent. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                   
+
+                       
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+ORAL ARGUMENT OF PAGE 
+
+G. ERIC BRUNSTAD, JR.
+
+ On behalf of the Petitioner 3
+
+
+ORAL ARGUMENT OF
+
+
+E. JOSHUA ROSENKRANZ
+
+ On behalf of the Respondent 25
+
+
+REBUTTAL ARGUMENT OF
+
+
+G. ERIC BRUNSTAD, JR.
+
+
+ On behalf of Petitioner 51
+
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (11:01 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+next in 05-1429, Travelers Casualty and Surety Company 
+
+versus Pacific Gas and Electric Company.
+
+ Mr. Brunstad.
+
+ ORAL ARGUMENT OF G. ERIC BRUNSTAD, JR.
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. BRUNSTAD: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ The Ninth Circuit's Fobian rule creates an 
+
+unwarranted Federal common law rule that exists outside 
+
+the structure of the Bankruptcy Code. The Bankruptcy 
+
+Code has a distinct structure. For example, if a debtor 
+
+has a right to an attorneys' fees valid under State law, 
+
+after the petition date, the date the debtor files for 
+
+bankruptcy, that right passes to the bankruptcy estate. 
+
+If a creditor has a State law right to attorneys' fees, 
+
+after the petition date, that right becomes a claim in 
+
+bankruptcy.
+
+ The Ninth Circuit's Fobian rule intercepts 
+
+those rights even before we get to what the Bankruptcy 
+
+Code provides or does to them and basically says, if 
+
+you're litigating Federal issues, you simply cannot have 
+
+a right to attorneys' fees unless the Federal law 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+authorizes that right, in this case, contractual rights, 
+
+or alternatively rights available under State statute.
+
+ That, we submit, is an impermissible 
+
+creation of a Federal common law rule. There is no 
+
+basis for it under this Court's preemption precedents. 
+
+There's no conflict between Federal policy and State 
+
+policy which would justify the creation of the rule, and 
+
+accordingly, it is unwarranted.
+
+ JUSTICE KENNEDY: Can you tell me -- this is 
+
+just basic bankruptcy. I should know, but I looked it 
+
+up and couldn't find it. A standard promissory note 
+
+which provides for attorneys' fees, the holder of the 
+
+note is the creditor, the maker of the note is the 
+
+bankrupt -- the maker of the note goes bankrupt. The 
+
+holder of the note gets his attorney and says: File a 
+
+claim in bankruptcy. And the attorney sends him a bill. 
+
+Is the attorneys' fees, the attorney fee for filing the 
+
+bankruptcy claim, recoverable as part of the claim?
+
+ MR. BRUNSTAD: It depends, Justice Kennedy. 
+
+It depends on what their contractual right provides. 
+
+Here we have a contractual --
+
+JUSTICE KENNEDY: It's the standard, it's 
+
+the standard attorneys' fee provision, all attorneys' 
+
+fees in connection with collection of this note and 
+
+enforcement of the terms of this note. 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. BRUNSTAD: Then, yes, Justice Kennedy, I 
+
+would say it probably would be covered. It probably 
+
+would be covered and the analysis --
+
+JUSTICE KENNEDY: Is there something where I 
+
+can look that up in Collier? Are there millions of 
+
+cases? I mean, this seems to me fairly rudimentary.
+
+ MR. BRUNSTAD: Yes, Justice Kennedy. In our 
+
+reply brief, we do cite to Collier, where we talk about 
+
+exactly that scenario and it is described. And it 
+
+basically works like this. A claim under the Bankruptcy 
+
+Code is defined under Section 1015. The claim includes 
+
+any right to payment whether it's contingent or fixed, 
+
+matured, unmatured, et cetera. Any right to payment, 
+
+literally any right to payment, when the debtor files 
+
+for bankruptcy, that becomes a claim. If the right --
+
+JUSTICE KENNEDY: No, no. But in my case, 
+
+it's a post-petition action.
+
+ MR. BRUNSTAD: Yes, Justice Kennedy. The 
+
+key concept -- and this is explained clearly in Collier 
+
+-- is where does the right come from? If it arises out 
+
+of a pre-petition contract, then the right is 
+
+pre-petition in nature, even though the fees are 
+
+incurred post-petition. Think of a guarantee. Think of 
+
+if PG&E had guaranteed its parent's debt for the $100 
+
+million, let's say. 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE STEVENS: Could you just back up 
+
+just for a second? Supposing at the time of the 
+
+bankruptcy that the services have not been performed. 
+
+It's post-petition conduct by the lawyer.
+
+ MR. BRUNSTAD: Right.
+
+ CHIEF JUSTICE ROBERTS: Now, in that case, 
+
+are you saying that routinely the lawyer recovers fees 
+
+in the bankruptcy case even if the debtor, the debtor 
+
+was insolvent? And we're assuming insolvency in the 
+
+hypothetical, although it may not fit this case.
+
+ MR. BRUNSTAD: Exactly, yes, Justice 
+
+Stevens, if in fact, though, the creditor bothers to 
+
+assert the claim for fees in the bankruptcy case. In 
+
+most cases, creditors don't, because it's not worth the 
+
+effort of asserting the claim for fees subsequently. In 
+
+cases such as this, where you have a solvent debtor who 
+
+can pay all claims in full, there's no reason why they 
+
+should be able to get out of their contractual 
+
+obligations in bankruptcy.
+
+ JUSTICE STEVENS: Well, why wouldn't it be 
+
+worth -- I know here. But why wouldn't it be worth the 
+
+effort, instead of getting $90 on the note, to get 95?
+
+ MR. BRUNSTAD: Well, because there's a 
+
+transaction cost in actually filing the additional claim 
+
+setting forth the amount that you've incurred. In most 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+cases, Justice Stevens, creditors don't even hire 
+
+attorneys to pursue or file a claim in bankruptcy. In 
+
+most Chapter 7 cases, for example, they are no-asset 
+
+cases.
+
+ JUSTICE STEVENS: Are you telling me just 
+
+based on your experience that in Justice Kennedy's 
+
+hypothetical, normally, no fees are recovered?
+
+ MR. BRUNSTAD: Normally, there's no 
+
+distribution on unsecured claims in most bankruptcy 
+
+cases. So why bother?
+
+ JUSTICE STEVENS: But assuming in those 
+
+cases where there's some distribution, is it correct, as 
+
+I'm assuming your answer to Justice Kennedy's question, 
+
+that the normal practice is you don't bother because 
+
+there is not enough involved?
+
+ MR. BRUNSTAD: Typically, Justice Stevens, 
+
+that is correct. But in cases such as this, where the 
+
+attorneys' fees are substantial, the debtor is solvent, 
+
+and there are substantial --
+
+JUSTICE KENNEDY: Just in the hypothetical, 
+
+I would think that in many cases, there's going to be 
+
+some payout for the promissory note, and the holder of 
+
+the note tells his attorneys: Make sure I get that 
+
+claim in bankruptcy. The attorney files a claim. And 
+
+every attorney that files a claim for a promissory note 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9 --
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+which is entitled to a fee from the bankruptcy court for 
+
+filing in the bankruptcy court.
+
+ MR. BRUNSTAD: For the work done in 
+
+performing, filing the proof of claim, that's correct. 
+
+And even though, Justice Kennedy, the attorney's conduct 
+
+was after the debtor filed for bankruptcy, the right to 
+
+payment arises out of the pre-petition contract. Again, 
+
+think of the guarantee hypothetical. There you had the 
+
+JUSTICE STEVENS: The pre-petition contract, 
+
+but not out of pre-petition conduct.
+
+ MR. BRUNSTAD: That's correct, Justice 
+
+Stevens. But just think about the pre-petition tort 
+
+claim, where there has been exposure to asbestos 
+
+products pre-petition, but the injury arises 
+
+post-petition. It's still a pre-petition claim.
+
+ JUSTICE SOUTER: Okay, but you're one step 
+
+ahead of that here, because here there hasn't been any, 
+
+in effect, any exposure. Here there isn't any certain 
+
+default on the note. So far as we know, here, there may 
+
+never be any default on the workers comp obligation. So 
+
+that your contingency is a much more remote contingency. 
+
+Why should that, why should this case fall into the same 
+
+category as the promissory note?
+
+ MR. BRUNSTAD: Justice Souter, it's 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+different in this sense. This is an indemnity, all-loss 
+
+indemnity provision. The surety is not supposed to 
+
+incur any loss, any cost whatsoever, for supplying these 
+
+surety bonds to PG&E.
+
+ JUSTICE SOUTER: And so far as we know, it 
+
+won't.
+
+ MR. BRUNSTAD: But it has, because when PG&E 
+
+filed for bankruptcy --
+
+JUSTICE SOUTER: Well, it has, but that 
+
+depends on a totally circular argument. The minute it 
+
+filed for bankruptcy, although there had been no default 
+
+on the comp obligation, your client started incurring 
+
+attorneys' fees, and it was not incurring attorneys' 
+
+fees based on any default by the, by the debtor.
+
+ MR. BRUNSTAD: Justice Souter, you can 
+
+visualize bankruptcy itself as being a default. When 
+
+the debtor files for bankruptcy, you must come to the 
+
+bankruptcy court to present your rights --
+
+JUSTICE SOUTER: You can call bankruptcy a 
+
+default, but that's not what I mean, and you know that's 
+
+not what I mean. I'm talking about a default on the 
+
+workers comp obligation.
+
+ MR. BRUNSTAD: Yes, sir.
+
+ JUSTICE SOUTER: There has been no default 
+
+on the workers comp obligation, and because they intend 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to keep on running this business, there is reason to 
+
+suppose that there will not be.
+
+ MR. BRUNSTAD: Well, by analogy, Justice 
+
+Souter, in the LTV case, the same posture at the 
+
+beginning of the case. We don't know what's going to 
+
+happen in the future. You must file your claim at the 
+
+beginning of the case. In LTV --
+
+JUSTICE SOUTER: Yes, and maybe you don't 
+
+have a claim at the beginning of the case. I mean, 
+
+that's what we're getting at. We can understand the 
+
+claim when the note -- when you've got a promissory note 
+
+and you're out of money. The claim is inevitable. In 
+
+this case, there is no inevitable claim.
+
+ MR. BRUNSTAD: But that's precisely the 
+
+point of why claim is defined so broadly to include 
+
+contingent claims.
+
+ JUSTICE SOUTER: But if it is defined as 
+
+broadly as this, we're in a situation exactly like this. 
+
+There has been no default on the obligation, and prior 
+
+to getting to this Court, $167,000 has been racked up in 
+
+legal fees that accomplishes absolutely nothing.
+
+ MR. BRUNSTAD: Absolutely false, Justice 
+
+Souter. In bankruptcy, if you do not present your 
+
+rights, if the rights of the workers themselves are not 
+
+properly treated, they are lost. Under Section 1141, 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+they are extinguished.
+
+ JUSTICE SOUTER: All right, in this case, 
+
+$167,000 has been spent to come to the conclusion, as I 
+
+understand it. That if the time comes to assert a right 
+
+of indemnification, you can assert a right of 
+
+indemnification and we can oppose it. If we are going 
+
+to construe the bankruptcy law to provide a law like 
+
+this, then maybe there is something wrong in the, in the 
+
+construction of the bankruptcy law.
+
+ MR. BRUNSTAD: No, Justice Souter, because 
+
+if you look at what Section 1141 of the Bankruptcy Code 
+
+does, it provides that a plan of reorganization binds 
+
+all parties. If you're not provided for adequately in 
+
+the plan under Section 1141(d), your rights are 
+
+extinguished forever. You must come to the bankruptcy 
+
+court; you must be sure that the rights are properly 
+
+characterized. Excuse me.
+
+ JUSTICE GINSBURG: But that's not what this 
+
+bankruptcy court thought about the claim. This 
+
+bankruptcy court said some rather critical things.
+
+ MR. BRUNSTAD: Yes, Justice Ginsburg, but I 
+
+think we need to distinguish two different things. 
+
+There was the work that was performed in preserving the 
+
+rights of the injured employees, to make sure they were 
+
+properly classified, that their rights were rendered 
+
+11 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+unimpaired. If that hadn't been in the plan, then their 
+
+rights would have been extinguished under Section 1141.
+
+ Then there was the claim that the surety 
+
+provides for having had to have done all of that work.
+
+ JUSTICE GINSBURG: And I don't -- there was 
+
+never a time that the plan said we are not going to pay 
+
+our workers' compensation.
+
+ MR. BRUNSTAD: The problem, Justice 
+
+Ginsburg, is that the plan said nothing at all. And 
+
+when the plan says nothing at all, the default rule in 
+
+bankruptcy is that rights are extinguished; they are 
+
+discharged under Section 1141(d). It must be in the 
+
+plan in order to be invalid after the confirmation of 
+
+the plan. We had to assure those rights were properly 
+
+treated in the plan, because if they weren't, they would 
+
+have been discharged under the general -- general 
+
+discharge provision.
+
+ That is why one must come to the bankruptcy 
+
+court, one must file a proof of claim, one must enforce 
+
+your rights in bankruptcy; if you don't, you lose them. 
+
+That's why the surety here stepped forward, said it has 
+
+subrogation rights; the workers have rights. And the 
+
+bankruptcy court agreed with Travelers. It directed the 
+
+debtor to put that language in the plan. Travelers --
+
+JUSTICE GINSBURG: I thought there was a 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+section of the code that preserved subrogation rights.
+
+ MR. BRUNSTAD: That's Section 509, Justice 
+
+Ginsburg.
+
+ JUSTICE GINSBURG: Yes.
+
+ MR. BRUNSTAD: But that's not what I was 
+
+speaking of just momentarily. The rights of the injured 
+
+employees, the workers, when they filed for -- when PG&E 
+
+filed for bankruptcy, the injured workers had claims. 
+
+They were going to receive periodic benefit payments off 
+
+into the future. If PG&E had not properly provided for 
+
+those claims in the bankruptcy case in their plan, those 
+
+claims would have been extinguished. As a result, 
+
+though, Travelers would not have been off the hook on 
+
+its surety bond, Travelers would have had to have 
+
+stepped forward and make the payments if PG&E did not.
+
+ But if Travelers hadn't come to the 
+
+bankruptcy court and said, these are our rights, these 
+
+need to be preserved, its recourse against PG&E would 
+
+have extinguished as well. If one does not come to the 
+
+bankruptcy court and assert one's rights, one loses 
+
+them. And of course, creditors when they do have to 
+
+assert their rights, incur attorneys' fees for doing so. 
+
+And here we had a pre-petition contract that said, 
+
+whatever loss we incur, including attorneys' fees, we 
+
+have a right to recover, a right to payment. That 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+becomes the claim.
+
+ JUSTICE SOUTER: Let's assume, let's assume 
+
+that one of the recipients of comp payments had come 
+
+forward and said: I object to the plan, I have a claim 
+
+for comp payments and I object to the plan because it 
+
+doesn't provide for them. And the -- the court said, 
+
+you're, you're right. The plan is going to include 
+
+provision for comp payments and it had been so amended, 
+
+and it was then -- the plan was then amended.
+
+ Would you, under those circumstances, have 
+
+had any -- would Travelers, under those circumstances, 
+
+have had any reason to assert a claim?
+
+ MR. BRUNSTAD: We would not have done that 
+
+work. No, Justice Souter, because the injured worker 
+
+him or herself would have done it.
+
+ JUSTICE SOUTER: No, I know it. But would 
+
+you have had any other claim that you would have 
+
+asserted, had that been done?
+
+ MR. BRUNSTAD: Well, with respect to the, 
+
+the treatment of the workers under the plan, no. With 
+
+respect to --
+
+JUSTICE SOUTER: With respect to any 
+
+interest of Travelers?
+
+ MR. BRUNSTAD: Yes, Justice Souter.
+
+ JUSTICE SOUTER: If that had been done, 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+would Travelers have asserted a claim?
+
+ MR. BRUNSTAD: Yes, Justice Souter.
+
+ JUSTICE SOUTER: What?
+
+ MR. BRUNSTAD: We would have said, in our 
+
+proof of claim, as we did: If we must make payment in 
+
+the future, we are entitled to two things. One, we are 
+
+entitled to reimbursement from PG&E for any amount that 
+
+we must spend in the future whenever that might occur. 
+
+Two, if we have to pay any of the employees, we are 
+
+subrogated. We stand in the shoes of the employees and 
+
+may assert those rights.
+
+ The subrogation right would have been fully 
+
+protected, though, Justice Souter, because of the 
+
+treatment of the workers in the plan rendering them 
+
+unimpaired. We would have left simply -- with simply 
+
+saying we have these reimbursement rights which we would 
+
+have in case we have to make payment.
+
+ Now, in the LTV case, which we cite in our 
+
+papers, at the beginning of the LTV case, the surety who 
+
+has had $40 million in surety bonds was in a position, 
+
+very much the same as in this case, when PG&E filed. 
+
+PG&E got an order authorizing it to continue to pay but 
+
+not requiring it to pay. That can only be done in the 
+
+plan of reorganization. LTV started paying the workers' 
+
+comp benefits, but then defaulted and stopped, long 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+after the bankruptcy case had commenced, but far short 
+
+of when it concluded. The surety had to step up to the 
+
+plate and make the payments.
+
+ If the surety had not filed a proof of claim 
+
+at the beginning of the case, the surety would have lost 
+
+its recourse against the debtor, LTV, even though it 
+
+subsequently, far later, had to make payment.
+
+ JUSTICE GINSBURG: Correct me if I'm 
+
+wrong --
+
+MR. BRUNSTAD: That's how bankruptcy works.
+
+ JUSTICE GINSBURG: In -- in this case, I 
+
+thought that if a contingency claim for indemnification 
+
+is not allowed, but if it becomes fixed at some time, 
+
+then the claim can be made and is not lost.
+
+ MR. BRUNSTAD: No, Justice Ginsburg. There 
+
+is a bar date set in the beginning of Chapter 11 cases. 
+
+You must file your claim by the bar date or you'll be 
+
+forever barred, even if your liability becomes fixed 
+
+later.
+
+ JUSTICE GINSBURG: I'm talking about 
+
+502(e)(1).
+
+ MR. BRUNSTAD: Yes, Justice Ginsburg, if 
+
+your reimbursement claim is contingent, it will be 
+
+disallowed, subject to reconsideration under Section 
+
+502(j). And that's what the parties stipulated to in 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+this case in our stipulation. We filed our proof of 
+
+claim, then PG&E objected to our proof of claim, but 
+
+Justice Ginsburg, PG&E did a lot more than just object 
+
+to our contingent reimbursement rights. They 
+
+mischaracterized our subrogation rights as claims; they 
+
+sought to disallow our subrogation claims; and they 
+
+sought to subordinate our claims. Plus in addition, 
+
+they sought to disallow the claims of the injured 
+
+workers.
+
+ So we had to respond to the litigation that 
+
+was commenced. We had to defend our rights, and we were 
+
+successful. The workers' claims were ultimately left 
+
+unimpaired in the bankruptcy as they should have been. 
+
+PG&E was fully responsible for paying the workers' 
+
+claims.
+
+ JUSTICE GINSBURG: In any case, this has 
+
+nothing to do with the, Fobian, so-called Fobian issue, 
+
+whether the Ninth Circuit drew the bright line.
+
+ MR. BRUNSTAD: Correct, Justice Ginsburg. 
+
+The Fobian rule, we submit, is an impermissible creation 
+
+of Federal common law. It's not justified by any 
+
+concept of preemption; there is no conflict with 
+
+bankruptcy policy --
+
+JUSTICE KENNEDY: Are they --
+
+JUSTICE BREYER: Question --
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE KENNEDY: Let me just ask you about 
+
+the Fobian, and I know Justice Breyer has a question.
+
+ Let's assume that you're correct in that the 
+
+fees are allowable. Can the bankruptcy court make the 
+
+determination of the reasonableness of the fees?
+
+ MR. BRUNSTAD: It depends, Justice Kennedy. 
+
+If State law, if it's an unsecured claim under Section 
+
+501(b)(1) --
+
+JUSTICE KENNEDY: In this case.
+
+ MR. BRUNSTAD: In this case, that would be a 
+
+determination under State law. Every State, Your Honor, 
+
+has a reasonableness requirement.
+
+ JUSTICE KENNEDY: So -- so if the bankruptcy 
+
+judge isn't sure of what the amount is, he looks to 
+
+State law to determine the amount?
+
+ MR. BRUNSTAD: Yes, Justice Kennedy. Under 
+
+Section 501(b)(1) --
+
+JUSTICE KENNEDY: But the bankruptcy court 
+
+does determine reasonableness.
+
+ MS. MAHONEY: If State law provides for it, 
+
+and all States do. The bankruptcy court adopts the 
+
+State reasonableness standard for unsecured claims under 
+
+Section 502(b)(1). Yes, Justice Breyer?
+
+ JUSTICE BREYER: I'm sort of back where 
+
+Justice Kennedy started on this. Forget -- I'd like to 
+
+18
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+forget your case, because your case seems to me to be a 
+
+case where parties argue reasonably about whether the 
+
+contract itself covers this kind of fee. And maybe it 
+
+doesn't, if it's very unreasonable, et cetera.
+
+ But let's take a very straightforward case. 
+
+It's an obvious contract to collect a debt, or maybe a 
+
+mortgage, and in the debt or the mortgage agreement, it 
+
+says, attorneys' fees will be paid for collection. It 
+
+clearly covers bankruptcy, too, by its language.
+
+ And now there must be many instances or 
+
+some, anyway, where the security is inadequate.
+
+ MR. BRUNSTAD: The security --
+
+JUSTICE BREYER: And there must be other 
+
+instances in which there wasn't any security. And if I 
+
+read Collier as you pointed to, that seems to say, in 
+
+such cases, very simple, the creditor has the status of 
+
+an unsecured creditor in respect to those attorneys' 
+
+fees.
+
+ BRUNSTAD: And in --
+
+JUSTICE BREYER: Overage in the secured 
+
+case, and the whole claim in the unsecured case. So get 
+
+in the queue and you can collect your pro-rata share.
+
+ MR. BRUNSTAD: Absolutely, Justice Breyer.
+
+ JUSTICE BREYER: My question is, I have 19 
+
+professors on the other side coming to tell me that 
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that's never happened. They can't even find an 
+
+instance. So it isn't as if, it isn't as if you haven't 
+
+found an instance, it is that they are prepared to say 
+
+it never happened. And then there may be one exception 
+
+or two or something like that.
+
+ And I can't, that -- I'm now totally 
+
+puzzled. Because if it's so clear as you say, and I 
+
+follow your logic, and I followed Collier, why? After 
+
+all, there are bankrupt people who do have some assets. 
+
+Explain it.
+
+ MR. BRUNSTAD: Justice Breyer it happens all 
+
+the time. In our brief, we cite to many, many cases in 
+
+which attorneys' fees are allowed as unsecured claims. 
+
+It's actually been happening for over 100 years, it 
+
+happened in the Bankruptcy Act of 1998.
+
+ JUSTICE KENNEDY: No, no. But -- but we are 
+
+talking about attorneys' fees for services performed in 
+
+the bankruptcy proceeding?
+
+ MR. BRUNSTAD: Correct, Your Honor.
+
+ JUSTICE KENNEDY: The cost of filing the 
+
+claim, the cost of talking to the bankruptcy judge, et 
+
+cetera.
+
+ MR. BRUNSTAD: Correct, Your Honor. And in 
+
+a key case we cited, the Second Circuit's decision, 
+
+United Manufacturers and Merchants, where they didn't 
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+even hire an attorney until after the bankruptcy case 
+
+was filed, the attorney performed services, filing a 
+
+proof of claim, protecting the equitable rights, and the 
+
+Second Circuit clearly held that those attorneys' fees 
+
+were properly part of the unsecured claim, but it 
+
+couldn't be any clearer. And the Second Circuit --
+
+JUSTICE STEVENS: But what I don't -- there 
+
+is a body of law on the other side of that issue, too, 
+
+isn't there?
+
+ MR. BRUNSTAD: There is, Justice Stevens, 
+
+but those are lower court decisions.
+
+ JUSTICE STEVENS: Yes. Absolutely. The 
+
+Second Circuit is a lower court.
+
+ MR. BRUNSTAD: Well, compared to this Court, 
+
+certainly, Justice Stevens.
+
+ JUSTICE STEVENS: That's exactly right. 
+
+There are no cases from this Court speaking to this 
+
+precise issue, are there? On which there is a 
+
+disagreement among the lower courts?
+
+ MR. BRUNSTAD: Justice Stevens, I think it's 
+
+important to say that the alternative rule that PG&E 
+
+asked for is one that every court of appeals to have 
+
+addressed has rejected. What they are saying is, oh, 
+
+you can't get your attorneys' fees based on a 
+
+construction of the Bankruptcy Code. No court of 
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+appeals has accepted it. There are some lower 
+
+bankruptcy court decisions that have accepted it, but 
+
+that is routinely overturned on appeal.
+
+ The issue of whether you get your attorneys' 
+
+fees as part of an unsecured claim, Cohen versus De La 
+
+Cruz, in that case this Court had to construe whether 
+
+the term debt, which means under the Bankruptcy Code the 
+
+same thing as a claim, is defined as liability on a 
+
+claim, there the Court, this Court concluded that that 
+
+debt included attorneys' fees, the treble damages, the 
+
+whole nine yards.
+
+ JUSTICE BREYER: You would have thought that 
+
+the one group of people who ought to know this 
+
+thoroughly, or at least have a view are the bankruptcy 
+
+bar.
+
+ MR. BRUNSTAD: Well --
+
+JUSTICE BREYER: And, and yet there are no 
+
+briefs from them; there are not -- there is no article 
+
+that I could find in Bankruptcy Journal.
+
+ CHIEF JUSTICE ROBERTS: Well, there may be 
+
+no briefs from them because it isn't the question on 
+
+which we granted cert, is it?
+
+ MR. BRUNSTAD: Chief Justice Roberts, that's 
+
+correct. And our view is that the Court should deal 
+
+only with the Fobian rule. And the alternative argument 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+which Respondent presented was never argued below, was 
+
+not decided below, was not presented in the opposition 
+
+to certiorari. It's been rejected by every single court 
+
+of appeals --
+
+JUSTICE GINSBURG: But it would be proper to 
+
+remand for the Ninth Circuit to consider those other 
+
+arguments?
+
+ MR. BRUNSTAD: Yes, Justice Ginsburg. And 
+
+that's exactly what this Court should do. It should 
+
+remand their statutory interpretation argument to the 
+
+Court of Appeals to consider, for the lower courts to 
+
+consider. This Court deserves more than just a 20-page 
+
+reply brief in response to 80 pages of briefing by the 
+
+other side on an issue that was never raised below, not 
+
+presented in the opposition to certiorari.
+
+ Remand would be the proper thing to do with 
+
+respect to their claim. I do believe that is true, 
+
+Justice Ginsburg.
+
+ JUSTICE GINSBURG: On both their statutory 
+
+interpretation and the contract?
+
+ MR. BRUNSTAD: The contract, reasonableness, 
+
+all of those issues. The circuit split, which we 
+
+presented to the Court, and which I understand 
+
+certiorari was -- well, I'm guessing -- certiorari was 
+
+granted on, it deals with the Fobian rule. As this 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+common law rule, this sort of construct, that if you're 
+
+litigating Federal law issues, well, as a matter of 
+
+general Federal common law, you can't get the attorneys' 
+
+fees unless it's authorized by Federal law.
+
+ And our brief was entirely devoted to that. 
+
+You can't justify that rule in our view under preemption 
+
+principles; there's no conflict; there is no Congress 
+
+preempting the field in any way; you can't justify this 
+
+under Atherton as a, as a -- something that's necessary 
+
+because of a conflict with Federal policy.
+
+ And also the Fobian rule is inappropriately 
+
+categorical, in violation of what we submit are these 
+
+Court's principles in the Nolan case, in the CF and I 
+
+case. In those cases, the Court said: It's not for the 
+
+courts to create these claims processing rules in 
+
+bankruptcy. But that exactly is what the Ninth Circuit 
+
+did here.
+
+ If there are no further questions I'd like 
+
+to reserve the balance of my time for rebuttal.
+
+ JUSTICE STEVENS: One quick question, if I 
+
+may. Would one of the issues open on remand be the 
+
+construction of the contract? Is there an issue at 
+
+State law as to whether Travelers pays for these 
+
+particular services?
+
+ MR. BRUNSTAD: Yes, Justice Stevens. That 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13 --
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+would be appropriate on remand. I reserve the balance 
+
+of my time.
+
+ CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+
+ MR. BRUNSTAD: Thank you.
+
+ CHIEF JUSTICE ROBERTS: Mr. Rosenkranz.
+
+ ORAL ARGUMENT OF E. JOSHUA ROSENKRANZ
+
+ ON BEHALF OF THE RESPONDENT
+
+ MR. ROSENKRANZ: Mr. Chief Justice, and may 
+
+it please the Court:
+
+ Let me begin at the threshold, on whether 
+
+this Court should consider the statutory construction 
+
+argument that we've presented. The issue of statutory 
+
+JUSTICE GINSBURG: And can we be, take one 
+
+step before that and tell us if you are conceding that 
+
+the Fobian rule has no basis in the statute and is 
+
+wrong?
+
+ MR. ROSENKRANZ: Your Honor, the Fobian rule 
+
+reaches the correct conclusion in this case, but Your 
+
+Honor is correct. The problem with the Fobian rule is 
+
+that it doesn't go far enough in presenting, in 
+
+preventing creditors from requiring other creditors to 
+
+pay for their attorneys' fees.
+
+ JUSTICE KENNEDY: Well, if you say it 
+
+doesn't go far enough then I infer from that you say 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that it's valid as far as it goes?
+
+ MR. ROSENKRANZ: It is valid as far as it 
+
+covers this case but not on the rationale of the Ninth 
+
+Circuit. In other words, the Ninth Circuit did begin in 
+
+the wrong place, which was not to read the statute, 
+
+Section 502, which is why that is a rational predicate 
+
+to the issue that Travelers is presenting here.
+
+ CHIEF JUSTICE ROBERTS: I'm not sure I 
+
+agree, Counsel, that the Fobian rule is both narrower 
+
+and broader than the question you try to present. For 
+
+example it applies to the claims of a secured creditor 
+
+for attorneys fees on a secured claim as well.
+
+ MR. ROSENKRANZ: No, Your Honor --
+
+CHIEF JUSTICE ROBERTS: Why -- it doesn't?
+
+ MR. ROSENKRANZ: No, Mr. Chief Justice. No 
+
+court has ever held that the Fobian rule applies to 
+
+oversecured creditors. Everyone acknowledges that 
+
+Section 506(b) applies to oversecured creditors so.
+
+ CHIEF JUSTICE ROBERTS: So if you're an 
+
+oversecured creditor with a claim for attorneys' fees 
+
+arising under solely issues of matters of Federal 
+
+bankruptcy law, the Fobian rule doesn't prevent that?
+
+ MR. ROSENKRANZ: No, Your Honor. Everyone 
+
+is absolutely clear that Fobian to the extent that it 
+
+applies --
+
+26 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: Well, not everyone. 
+
+I'm not clear on it.
+
+ MR. ROSENKRANZ: I'm sorry, Your Honor. All 
+
+the bankruptcy practitioners and courts are clear that 
+
+to the extent that Fobian applies, it applies only to 
+
+unsecured creditors. But again this is a rational 
+
+predicate to this Court's analysis of Fobian. How do we 
+
+know?
+
+ CHIEF JUSTICE ROBERTS: If it is a rational 
+
+predicate, we might have expected to hear about it in 
+
+the opposition to certiorari.
+
+ MR. ROSENKRANZ: Yes, Your Honor. I 
+
+apologize for focusing only on the issue that Travelers 
+
+was focusing on, which was whether this was, whether the 
+
+Fobian rule was itself cert-worthy question. But it is 
+
+a rational predicate because, as you can see from 
+
+Travelers' brief, Travelers says no fewer than a dozen 
+
+times, including in two point headings: Read the code; 
+
+read the code. It will tell you that unsecured 
+
+creditors have an allowable claim for post-petition 
+
+attorneys' fees, and only if you begin by reading the 
+
+code can you figure out whether the Fobian common law 
+
+overlay is correct or not. So when we say, Your Honors, 
+
+yes, let's read the code, that's not an ambush and that 
+
+is not smuggling in. 
+
+27
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: No, it's an ambush 
+
+and it is smuggling in the sense we don't have a court 
+
+of appeals decision one way or the other on that 
+
+question, do we?
+
+ MR. ROSENKRANZ: Your Honor, we do have 
+
+court of appeals decisions on this precise question, not 
+
+in this case because the court of appeals had Fobian and 
+
+the rule that underlay Fobian for 20 years. But there 
+
+are three courts of appeals --
+
+JUSTICE KENNEDY: Justice Ginsburg has a 
+
+question I'm very interested in. Do you defend the 
+
+Fobian rule?
+
+ MR. ROSENKRANZ: We do not, Your Honor. The 
+
+Fobian rule is wrong at least, especially as to the 
+
+distinction that it draws between State law and Federal 
+
+litigation. There's only one answer to the question --
+
+JUSTICE STEVENS: Well, why then isn't the 
+
+proper disposition of this case to send it back to the 
+
+Ninth Circuit to consider all these other arguments?
+
+ MR. ROSENKRANZ: Well, Your Honor, because 
+
+this issue has been fully ventilated among the lower 
+
+courts.
+
+ JUSTICE GINSBURG: Yes, but we are not a 
+
+court of first view and you know that very well. We are 
+
+a court of review. So no matter how well it's been 
+
+28
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+aired, we wait to see what the lower courts have said on 
+
+a question.  We don't take it in the first instance.
+
+ MR. ROSENKRANZ: Yes, I understand that, 
+
+Your Honor. It would have been futile to argue this 
+
+before the Ninth Circuit. The Ninth Circuit would have 
+
+said that --
+
+JUSTICE GINSBURG: I understand that because 
+
+they have the Fobian rule.
+
+ MR. ROSENKRANZ: Yes. Now, but, Your Honor, 
+
+let me just add two additional reasons why this Court 
+
+should consider it now. The first is this has been 
+
+fully ventilated in the lower courts. There is not a 
+
+single argument in the briefs on either side on which 
+
+there is not a lower court opinion going one way or 
+
+another on every argument.
+
+ Secondly, there is an enormous amount of 
+
+affirmative harm that can come from this Court simply 
+
+saying, let us conclude that the Ninth Circuit was wrong 
+
+in disallowing these claims on the logic that the Ninth 
+
+Circuit followed, but we will reserve for a later day an 
+
+open question of law on what Section 502(b) and 506(b) 
+
+means. And the harm comes from the fact that 
+
+overwhelmingly the lower courts in the last 10 years 
+
+have concluded that 502(b) and 506(b) mean that 
+
+unsecured creditors do not have these claims. 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+If this Court declares that it is now an 
+
+open question --
+
+JUSTICE STEVENS: Let me ask you a question 
+
+about that. Your argument depends -- you analogize --
+
+you would agree, I take it, that if this was an 
+
+oversecured, secured creditor they'd be entitled to 
+
+fees?
+
+ MR. ROSENKRANZ: Your Honor, we would 
+
+dispute the contractual interpretation, but yes, Your 
+
+Honor.
+
+ JUSTICE STEVENS: But assuming, assuming the 
+
+contract provides that.
+
+ MR. ROSENKRANZ: Yes, Your Honor.
+
+ CHIEF JUSTICE ROBERTS: And if that's true 
+
+-- and the reason for that I suppose is that doesn't 
+
+impair the rights of the general creditors at all.
+
+ MR. ROSENKRANZ: That's one logic of the --
+
+JUSTICE STEVENS: If that's so, why isn't 
+
+their argument that, well, your client is solvent, the 
+
+complete answer to your position?
+
+ MR. SHORR: Well, Your Honor, because 
+
+Congress didn't say that. Congress gave only one answer 
+
+to the question whether unsecured creditors get their 
+
+attorneys' fees allowed, that is post-petition 
+
+attorneys' fees allowed. It's either yes or no. There 
+
+30
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+is no on-off switch for solvent or insolvent creditors 
+
+within the code, which is why Travelers never argued 
+
+that as a, an objection to the plan of confirmation.
+
+ JUSTICE STEVENS: They argue it in their 
+
+reply brief here.
+
+ MR. ROSENKRANZ: Yes, Your Honor, and that 
+
+is absolutely incorrect. If you look at the case that 
+
+they cite, that case relies on a provision of the code, 
+
+which is Section 726. And Section 726 is only about 
+
+post-petition interest for solvent debtors, not 
+
+post-petition attorneys' fees.
+
+ JUSTICE BREYER: Well, how do you avoid --
+
+what about their statement from Collier?
+
+ MR. ROSENKRANZ: Your Honor, the statement 
+
+that Travelers quotes from Collier is about a 
+
+proposition that we don't dispute, which is whether it 
+
+is a pre-petition claim. But Collier.
+
+ JUSTICE BREYER: No. No. It said -- a 
+
+pre-petition claim, if a creditor incurs the attorneys' 
+
+fees post-petition, they incur it post-petition, 
+
+afterwards they file, after the petition they file a 
+
+claim with the bankruptcy court, in exercising or 
+
+protecting a pre-petition claim that included a right to 
+
+recover attorneys' fees. And they say that's what we 
+
+have, we had a contract that gave us this right to 
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24 --
+
+25
+
+Official - Subject to Final Review 
+
+attorneys' fees. The fees will be pre- petitioned in 
+
+nature, constituting a contingent pre-petition 
+
+obligation that became fixed post-petition when the fees 
+
+were incurred. All right. Now, what is your response 
+
+to that?
+
+ MR. ROSENKRANZ: Your Honor, my response is 
+
+I urge you, Justice Breyer, to look back at Colliers, 
+
+because that is absolutely accurate and it doesn't apply 
+
+to this case.
+
+ JUSTICE BREYER: Because?
+
+ MR. ROSENKRANZ: Because, Your Honor, that 
+
+is a statement about whether it is a pre-petition claim, 
+
+not about whether the claim is allowable or not, which 
+
+is what we are arguing about.
+
+ JUSTICE BREYER: Then you explain that to 
+
+me?
+
+ MR. ROSENKRANZ: Yes, Your Honor. Step one 
+
+is, is it a claim. No one disputes that this is a 
+
+claim. It is a right to payment. Step two, is this an 
+
+allowable claim? The answer under the code is 
+
+absolutely not, because the code says there is only one 
+
+class of creditors that gets their attorneys' fees 
+
+claims allowed and that is oversecured creditors and so 
+
+JUSTICE BREYER: Well, that's because 506 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+had to do that in order to tell the bankruptcy courts 
+
+how to deal with secured claims.
+
+ MR. ROSENKRANZ: No, Your Honor.
+
+ JUSTICE KENNEDY: That doesn't -- and then 
+
+you have the negative inference or the exclusio unius 
+
+argument, whatever, which I think is misplaced in this 
+
+context.
+
+ MR. ROSENKRANZ: Your Honor, Congress put 
+
+506(b) in the code for one purpose and one purpose only, 
+
+and that was to allow claims that are not elsewhere 
+
+allowed, because if it doesn't do that 506(b) serves no 
+
+purpose at all. 506(b) says nothing at all about 
+
+whether the claim is secured.
+
+ JUSTICE GINSBURG: Why doesn't it serve the 
+
+purpose of saying that the fees will be covered by the 
+
+security? They'll not be just be claims for fees that 
+
+would stand together with the unsecured creditors, but 
+
+that the oversecured -- the security will cover the 
+
+interest, will cover the attorneys' fees, and that's the 
+
+function of 506 whatever --
+
+MR. ROSENKRANZ: Your Honor, the answer is 
+
+506(b) does not say anything about whether the allowed 
+
+claim is secured or not. It is completely silent about 
+
+that. Now, if we accept, as we explain in our brief in 
+
+much more detail, if we accept Travelers' argument that 
+
+33 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24 --
+
+25
+
+Official - Subject to Final Review 
+
+it was an allowed claim in the first instance and it is 
+
+therefore furthermore an allowed security claim, 506(a) 
+
+tells you what to do with that. 506(a) tells us that an 
+
+allowed claim to a secured creditor is a secured claim. 
+
+It still leaves Section 506(b) with nothing left to do.
+
+ Now, let me just back up and underscore: 
+
+Any creditor would love to get the other creditors to 
+
+pay its attorneys' fees. Tort claimants would love it, 
+
+trade creditors would love it, local tax collectors 
+
+would love it. But Congress said only one category of 
+
+claimants get to claim their post-petition attorneys' 
+
+fees.
+
+ JUSTICE BREYER: Of course, that is exactly 
+
+what's puzzling me. But why haven't they gone out and 
+
+got? So why -- what you're pointing to so far is that 
+
+Congress has said a particular class of people get the 
+
+attorneys' fees out of the security insofar as the 
+
+security will support it. It doesn't say a word about 
+
+what happens to the attorneys' fees after the security 
+
+is exhausted, nor about anybody else's attorneys' fees, 
+
+where so provided by contract. Colliers says they can 
+
+get it.
+
+ MR. ROSENKRANZ: Your Honor, Congress said 
+
+JUSTICE BREYER: Same puzzlement. 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. ROSENKRANZ: Your Honor, Congress has 
+
+said no such thing. What Congress says is that an 
+
+allowed claim is allowed as of the date of the filing of 
+
+the petition. That is when you value the claim and you 
+
+value the claim as of the date of the filing of the 
+
+petition. At that point, it is worth zero because no 
+
+post-petition attorneys' fees have been incurred. And 
+
+the fact of the matter is it may well have never 
+
+occurred to the drafters of the code when --
+
+JUSTICE BREYER: Suppose I sell you a house 
+
+and I make a promise that I'll fix any leaks in the 
+
+bathroom. And lo and behold, before there's a leak 
+
+the -- I'm bankrupt. And while I'm bankrupt it floods, 
+
+the bathroom. No claim?
+
+ MR. ROSENKRANZ: Your Honor, that is a 
+
+claim. It is a --
+
+JUSTICE BREYER: It is a contingent claim. 
+
+And you're saying this is the same.
+
+ MR. ROSENKRANZ: I'm saying -- they are 
+
+saying this is a contingent claim. If -- and it is a 
+
+very strange sort of a contingency. It is Travelers 
+
+saying, we have a claim, it is a contingent claim; the 
+
+contingency is whether tomorrow morning we're going to 
+
+pick up the phone and called Weil Gotshal to monitor the 
+
+bankruptcy proceeding. 
+
+35
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+But let's assume it is a contingent claim. 
+
+It is still a disallowed claim and Congress provided 
+
+numerous statutory indications that it was. I already 
+
+mentioned 506(b) but there are more. Congress said that 
+
+attorneys' fees are available only, quote, "to the 
+
+extent that a claim is oversecured." Now that would be 
+
+a very --
+
+CHIEF JUSTICE ROBERTS: No. It's quite 
+
+unlike the situation, for example in Timbers, where had 
+
+you in 502 a disallowance of post-petition interest. 
+
+There is not in 502 a disallowance of attorneys' fees.
+
+ MR. ROSENKRANZ: Well, Your Honor, I was 
+
+just going to get there. Timbers underscores this 
+
+proposition. Timbers focused on the structure of 506 
+
+and it began with and it underscored, the only words 
+
+that it underscored were, "to the extent that." But let 
+
+me turn to that.
+
+ JUSTICE KENNEDY: Well, Timbers cited, as 
+
+the Chief Justice indicates, the interest section in 
+
+506. That's all it's about. I don't -- I think Timbers 
+
+is misleading on this point.
+
+ MR. ROSENKRANZ: Your Honor, Timbers has the 
+
+structural argument that focuses on what the purpose of 
+
+506(b) is. But there are more indications. It would be 
+
+odd for Congress, for example, to draft this provision 
+
+36
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+506(b) that purports to put post-petition attorneys' 
+
+fees on the same footing at post-petition interest if it 
+
+intended to put them on different footings. It's an 
+
+observation this Court made in Ron Pair. Moreover, 
+
+Congress was not oblivious to the existence of 
+
+attorneys' fees post-petition. There are 15 occasions 
+
+in the code where Congress spoke to attorneys' fees and 
+
+if Congress had intended attorneys' fees to be available 
+
+to this enormous class of unsecured creditors, one would 
+
+think that it would not have hidden that in the 
+
+definition of "claim" --
+
+JUSTICE BREYER: Well, are those 15 places 
+
+-- do they involve attorneys' fees as administrative 
+
+expenses? Do any of them involve attorneys' fees simply 
+
+as an unsecured claim for attorneys' fees?
+
+ MR. ROSENKRANZ: Your Honor, as to 
+
+creditors, four of them apply to attorneys' fees as 
+
+administrative expenses. It's a very important point 
+
+because the code says and it adopts this age old rule 
+
+that if you are going to take money away from some 
+
+unsecured creditors and give it to attorneys it better 
+
+be because you're expanding the pot for all of the other 
+
+creditors.
+
+ JUSTICE BREYER: What's the answer to my 
+
+question? Is the answer that 11 of them say you can 
+
+37 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+collect attorneys' fees, but only as an unsecured claim 
+
+against creditors.
+
+ MR. ROSENKRANZ: Your Honor, for the, for 
+
+creditors there are only six that apply. Four of them 
+
+are the administrative.
+
+ JUSTICE BREYER: All right, so six.
+
+ MR. ROSENKRANZ: Yes.
+
+ JUSTICE BREYER: So six are administrative, 
+
+and then the remaining two say that the creditor can 
+
+collect it as an unsecured debt?
+
+ MR. ROSENKRANZ: Yes, Your Honor.
+
+ JUSTICE BREYER: Which are those two?
+
+ MR. ROSENKRANZ: Well, one of them does.
+
+ JUSTICE BREYER: Which is that?
+
+ MR. ROSENKRANZ: That is the provision that 
+
+Travelers cites -- and I apologize it's not in any of 
+
+the appendices -- 502(b)(4). And 502(b)(4) underscores 
+
+our point. 502(b)(4) says, and I'm quoting directly 
+
+from the code: "A claim is allowed to the" -- "is 
+
+disallowed to the extent that," and then "(4) if such 
+
+claim is for services of an insider or attorney and such 
+
+claim exceeds the reasonable value of such services." 
+
+That is focused on pre-petition activities of the 
+
+lawyers on behalf of the debtor.
+
+ JUSTICE BREYER: That seems to cut the other 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+way because it says it's disallowed insofar as it's 
+
+unreasonable of course, and therefore it would be 
+
+allowed insofar as it's reasonable.
+
+ MR. ROSENKRANZ: Well, yes. Pre-petition 
+
+claims for services provided by an attorney before for 
+
+the petition.
+
+ JUSTICE KENNEDY: No, attorney for the 
+
+debtor.
+
+ MR. ROSENKRANZ: An attorney for the debtor 
+
+and, Your Honor, the code is clear it's noteworthy.
+
+ JUSTICE BREYER: Yes, but I mean you don't 
+
+have exactly what I was driving to. I was quite 
+
+interested that you said there are 11 other provisions 
+
+that we could look at for support, and I wouldn't think 
+
+it was support if those consider -- concern 
+
+administrative expenses, which nobody's asking for here, 
+
+they just want an unsecured claim, or if they concern 
+
+some other --
+
+MR. ROSENKRANZ: Fair enough Your Honor.
+
+ JUSTICE BREYER: -- irrelevant thing.
+
+ MR. ROSENKRANZ: Fair enough, Your Honor. 
+
+My point is that Congress knew about attorneys' fees and 
+
+if it wanted this huge class of unsecured creditors to 
+
+collect their attorneys' fees for post-petition 
+
+activities, it wouldn't have hidden that in a general 
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+definition of claim or in the general statement of 
+
+allowability.
+
+ CHIEF JUSTICE ROBERTS: Counsel, your 
+
+brother in his reply brief said that no court of appeals 
+
+has endorsed your theory, and I -- earlier you told me 
+
+one had. Which one in particular?
+
+ MR. ROSENKRANZ: Your Honor, the First 
+
+Circuit -- there are three courts of appeals that have 
+
+addressed the question, all in dictum but in very 
+
+extensive dictum. So the First Circuit comes out our 
+
+way in Adams versus Zimmerman. The Second Circuit comes 
+
+out also in dictum on Travelers' side in United 
+
+Merchants. And then the Sixth Circuit splits the baby 
+
+in half, or reads the code all the way up to our 
+
+position as we do, and then takes a detour in another 
+
+direction.
+
+ CHIEF JUSTICE ROBERTS: So you really want 
+
+us to reach out and decide a question that's not 
+
+presented when there has been no holding of the court of 
+
+appeals one way or the other on the issue?
+
+ MR. ROSENKRANZ: Your Honor, we didn't come 
+
+here asking this Court to address this question. 
+
+Travelers put it front and center. They conceded --
+
+CHIEF JUSTICE ROBERTS: If you thought the 
+
+Fobian rule was wrong, you could have said that. 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11 --
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. ROSENKRANZ: Well, Your Honor, it would 
+
+have made no sense for us to argue that Fobian was wrong 
+
+when we were trying to defend the judgment below. But I 
+
+concede, Your Honor, this Court has discretion to decide 
+
+whether it's going to address what we believe is an 
+
+absolute factual predicate, and what Travelers seems --
+
+I'm sorry, legal predicate -- and what Travelers seems 
+
+to believe is a legal predicate, which is why we're 
+
+saying to the Court this case, this issue has been 
+
+ventilating for 20 years, and a lot of mischief can be 
+
+JUSTICE BREYER: How -- can we decide? But 
+
+I'm wondering about, maybe you don't want to answer 
+
+this, but I mean, if we were to say Fobian is wrong, 
+
+everybody will agree with us. But we should have to say 
+
+why it's wrong. And if we say the reason that it's 
+
+wrong is because you can't collect attorneys' fees at 
+
+all, you'll be delighted. And if we say the reason it's 
+
+wrong is because you can collect attorneys' fees 
+
+regardless, they'll be delighted. And our only other 
+
+alternative is to not say why it's wrong or -- I mean, 
+
+that's the problem.
+
+ MR. ROSENKRANZ: That's exactly --
+
+CHIEF JUSTICE ROBERTS: That's an added 
+
+complication. There's another case on which the Ninth 
+
+41
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Circuit's based its decision in your case, DeRoche. 
+
+Your proposed solution here doesn't address the issue in 
+
+DeRoche because there it's the debtor that's seeking 
+
+attorneys' fees.
+
+ MR. ROSENKRANZ: Absolutely, Your Honor.
+
+ CHIEF JUSTICE ROBERTS: So we still have to 
+
+decide the Fobian issue. And your failure to defend it 
+
+here means that we're going to have to decide in on that 
+
+inadequate record. If you have mentioned that in an 
+
+opposition to certiorari, perhaps we would have granted 
+
+cert in the DeRoche case and had an argument about the 
+
+rule that we have to decide.
+
+ MR. ROSENKRANZ: Your Honor, I appreciate 
+
+that, and I apologize for not having raised it in the 
+
+cert petition, cert opposition, we were simply focused 
+
+on why it is that this little sliver of the Fobian rule 
+
+was not worth this Court's attention. But I understand 
+
+that this Court needs to look forward and try and figure 
+
+out what exactly the issues are that are presented. I 
+
+only add that the statutory question that is presented 
+
+in DeRoche and in this case are as Your Honor has 
+
+pointed out, mirror images of each other.
+
+ So whatever this Court decides as to the 
+
+statutory construction question on 502(b), this Court 
+
+can say it's not resolving Fobian because this is a 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+predicate question. And this Court can say there may 
+
+well be circumstances in which a creditor can say, you 
+
+know what, for State law litigation we have this common 
+
+law right, and we reserve for a later day the question 
+
+of whether there is an exception to the statutory rule 
+
+that we are articulating.
+
+ Now I want to underscore that Congress had 
+
+very important reasons that are built into the code for 
+
+coming out this way and disallowing unsecured creditors 
+
+attorneys' fees. Bear in mind that these sorts of fee 
+
+shifting provisions are absolutely ubiquitous. They are 
+
+in every credit card contract. They are in every bank 
+
+loan. They are in virtually any written contract, and 
+
+when a contract doesn't provide for it, quite often 
+
+State law statutes do. Allowing all of these unsecured 
+
+creditors to pay their lawyers out of the hides of all 
+
+of the other unsecured creditors --
+
+JUSTICE STEVENS: Yes, but that's not the 
+
+facts of this case. Isn't that correct?
+
+ MR. ROSENKRANZ: Well, Your Honor --
+
+JUSTICE STEVENS: This will not have any 
+
+adverse, if I understand the facts, any adverse impact 
+
+whatsoever on any unsecured creditor.
+
+ MR. ROSENKRANZ: Your Honor, on the facts of 
+
+this case if the rule had been otherwise, we don't know 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+whether PG&E would have been solvent at all. But we are 
+
+arguing about a rule that is not one rule for Travelers 
+
+and one rule for everyone else. We are arguing about a 
+
+rule for the vast majority of cases.
+
+ JUSTICE STEVENS: No, but just looking at 
+
+this case itself, if there is plenty of money there to 
+
+pay a State law obligation, why shouldn't just ordinary 
+
+rules of contract law apply?
+
+ MR. ROSENKRANZ: Well, Your Honor, the 
+
+answer is, Congress dealt with this issue and decided 
+
+that no one gets to get in line and get their attorneys' 
+
+fees, regardless of whether they're solvent or not. 
+
+It's a --
+
+JUSTICE GINSBURG: You're raising a 
+
+provision that says just that, it's the absence of a 
+
+provision for attorneys' fees that you're relying on.
+
+ MR. ROSENKRANZ: Well, no, Your Honor. 
+
+We've been talking about why the only natural way to 
+
+read the code is to disallow attorneys' fees, and I'm 
+
+explaining that if attorneys' fees are generally 
+
+disallowed to everyone, there's no exception to that 
+
+rule in the code that says ah, yes, but if there's an 
+
+insolvent -- if there's a solvent debtor, the rule is 
+
+otherwise.
+
+ JUSTICE GINSBURG: Where is the provision 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that generally disallows attorneys' fees?
+
+ MR. ROSENKRANZ: I'm sorry. What I'm saying 
+
+is 502(b) when you read "as of the time of the filing of 
+
+the petition," it says -- that means, that must mean 
+
+that it doesn't apply to post-petition attorneys' fees, 
+
+especially when you look at 502(b) through the lens, as 
+
+this Court did in Timbers, of the rest of the code. 
+
+506(b), all of these other attorneys' fees --
+
+JUSTICE KENNEDY: Well, on that point you 
+
+disagree with the Collier citation at page 9 of the 
+
+reply brief then?
+
+ MR. ROSENKRANZ: Yes, Your Honor, I disagree 
+
+with Colliers, but I don't think Colliers comes out one 
+
+way or another on this particular question. That was 
+
+the same question that was asked earlier about whether 
+
+it's a claim, whether it's a pre-petition claim.
+
+ JUSTICE KENNEDY: Well, it says if the 
+
+creditor incurs the attorneys' fees post petition in 
+
+connection with protecting a pre-petition claim --
+
+MR. ROSENKRANZ: Yes, Your Honor.
+
+ JUSTICE KENNEDY: -- the fees will be 
+
+pre-petition.
+
+ MR. ROSENKRANZ: That was the same --
+
+JUSTICE KENNEDY: So you disagree with that?
+
+ MR. ROSENKRANZ: I don't disagree with that, 
+
+45 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Your Honor. I was referring to another provision of 
+
+Colliers, not the one that's cited in the reply brief. 
+
+That is a correct statement but it has no application 
+
+here because we are not arguing about whether it's a 
+
+pre-petition obligation. Of course it's a pre-petition 
+
+obligation. Just like pre-petition interest -- excuse 
+
+me -- post-petition interest is a pre-petition 
+
+obligation we are arguing that the code cancels that 
+
+obligation because there are very important reasons, 
+
+such as equality among all unsecured creditors, the --
+
+JUSTICE BREYER: You're saying this 
+
+particular set of pre-petition obligations. Collier, I 
+
+think in context must be saying, you get paid the money. 
+
+I mean, he goes on in the next sentence and says by the 
+
+way, despite my last sentence, you don't get the money?
+
+ MR. ROSENKRANZ: No, Your Honor. What 
+
+Colliers is talking about is a completely different 
+
+question. He doesn't answer that question one way or 
+
+another in Colliers.
+
+ JUSTICE BREYER: Oh, in other words what he 
+
+implies, if I ready the whole page I'll see, although he 
+
+just said what we quoted, the whole page means, by the 
+
+way, I'm not telling you if you get the money or not?
+
+ MR. ROSENKRANZ: This was a completely 
+
+different discussion on a --
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: Sorry, I'll --
+
+MR. ROSENKRANZ: -- completely different 
+
+section referring to setoffs.
+
+ JUSTICE BREYER: I think your 506(b) 
+
+argument, I see your point, I see your point, is there 
+
+-- I mean, and you'd have to say well, 506(b) simply 
+
+repeats 506(a), as sometimes provisions do, and then it 
+
+becomes somewhat superfluous, somewhat not. I got that 
+
+point. I also have your point about, well, there are 
+
+other references. Now, is there any other point in the 
+
+code?
+
+ MR. ROSENKRANZ: Yes, Your Honor. There is 
+
+one other point and that is, 502(c) tells the court what 
+
+it is supposed to do with contingent claims. It is 
+
+supposed to either liquidate them or estimate them. 
+
+These are -- this is a very strange sort of contingency, 
+
+as I mentioned earlier.
+
+ JUSTICE SCALIA: That's not in the 
+
+materials, 502(c)?
+
+ MR. ROSENKRANZ: 502(c) is, Your Honor. 
+
+It's on the very back of the cert petition appendix on 
+
+page, I believe 28. And so it says either estimate or 
+
+liquidate, but always as of the date of the filing of 
+
+the petition. Now as of the date of the filing of the 
+
+petition it would be impossible to estimate without a 
+
+47
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+crystal ball.
+
+ JUSTICE BREYER: How do they do it with my 
+
+leaky bathroom?
+
+ MR. ROSENKRANZ: Your Honor, what you do is 
+
+-- that is a classic contingency. What you do is to 
+
+estimate the likelihood that the bathroom will in fact 
+
+leak and the cost of those expenses, and you put 
+
+something into the, into the bankruptcy estate for that 
+
+purpose. That would be something that Congress would 
+
+never have wanted to do with thousands and thousands of 
+
+unsecured creditors.
+
+ JUSTICE KENNEDY: I -- I am concerned about 
+
+your point that there are all kinds of attorneys' fees 
+
+contracts out there and if everybody can get fees for 
+
+filing the claim post-petition act, we have a huge 
+
+amount of claims to pay.
+
+ Travelers would tell us, though, that a 
+
+surety is different, that they somehow stand in the 
+
+shoes of PG&E or something.
+
+ MR. ROSENKRANZ: Your Honor, I don't 
+
+understand why a surety is different from any other 
+
+contract. All contractual creditors will want their 
+
+fees. The reason that they haven't been applying for 
+
+them is that the overwhelming majority of bankruptcy 
+
+courts will tell you no, you can't have them, because 
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the overwhelming majority of cases have been saying 
+
+exactly what I'm saying to you. 502(b) does not allow 
+
+them, and we can tell that by looking at 506(b).
+
+ And there are other reasons that Congress 
+
+would not have wanted to do that. It would have 
+
+burdened the administration of the state -- of the 
+
+estate. The court would be spending more time 
+
+administering claims about fees and what does this 
+
+contract mean, and fees upon fees upon fees, than it 
+
+would be spending administering the basic bankruptcy 
+
+estate.
+
+ JUSTICE SOUTER: Well, of course the 
+
+argument here is that this is something different from 
+
+the general abuse that you're describing, because the 
+
+plan didn't make any provision here for, for paying the 
+
+workers comp obligation at all. What is your response 
+
+to that?
+
+ MR. ROSENKRANZ: Your Honor, my response is 
+
+that is absolutely wrong. The first draft of the plan 
+
+which you can see on page 28 of the appendix says 
+
+explicitly, and I quote, "all workers compensation 
+
+programs are treated as executory contract." Treated as 
+
+executory contracts and deemed assumed by the debtor, 
+
+and that means that the workers got the most favorable 
+
+treatment that they could have gotten. These are not 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+just unsecured claims.
+
+ CHIEF JUSTICE ROBERTS: Your friend says 
+
+it's more favorable to say the claims are unimpaired.
+
+ MR. ROSENKRANZ: Your Honor, that's what 
+
+they argued. The bankruptcy court explicitly held 
+
+otherwise and the Ninth Circuit agreed with the 
+
+bankruptcy court. The bankruptcy court said, none of 
+
+your interventions were reasonably necessary to reach --
+
+excuse me -- to advance your interests. Therefore, you 
+
+are absolutely wrong when you argue to us that you are 
+
+on the State law side of the Fobian rule.
+
+ Now if you ask me, Your Honor, where in the 
+
+bankruptcy court decision does it say that, I would 
+
+refer the Court to page 24a of the -- of the cert 
+
+petition appendix, where you see asterisks for a missing 
+
+paragraph right in the middle of the opinion. That, and 
+
+just to orient the Court, we're looking at the first 
+
+paragraph that says first of all. Then there's a --
+
+there is an asterisk eliminating a paragraph. Look at 
+
+page 140a, 141 of the joint appendix where the missing 
+
+paragraph that Travelers eliminated is filled in, and 
+
+there the court summarizes a 15-page colloquy with 
+
+Travelers about why it is completely wrong in claiming 
+
+that its steps were reasonably necessary.
+
+ And on page 141, just to orient the Court 
+
+50 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+again, you see that it begins, second paragraph, first 
+
+of all. That's the same paragraph. The next paragraph 
+
+refers to Mr. Brunstad's arguments. It says, "I just 
+
+simply don't by it. I don't think you can sort of say, 
+
+you know, we thought there was a thief hiding under the 
+
+bed so we had to clear out under the bed. I don't think 
+
+there was a risk there." And that was the gist of 15 
+
+pages proceeding the joint appendix, where the court 
+
+methodically demolishes each of the argument Travelers 
+
+presents here.
+
+ Thank you, Your Honor.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+Mr. Brunstad, you have eight minutes remaining.
+
+ REBUTTAL ARGUMENT OF G. ERIC BRUNSTAD, JR.
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. BRUNSTAD: Justice Breyer, in our brief 
+
+on pages 25 and 26, we cite to a number of cases where 
+
+the courts allowed attorneys' fees as an unsecured 
+
+claim, both for pre-petition work done and also 
+
+post-petition work done where the contractual right was 
+
+pre-petitioned. We also cite a bunch of cases around 
+
+page 44 -- 43 and 44 of our brief, including an article 
+
+in the middle of page 44, quote: "In cases decided 
+
+under the Bankruptcy Act, the higher courts consistently 
+
+held that attorneys' fees were allowable even as 
+
+51 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+unsecured claims in bankruptcy." Close quote. I've 
+
+been a bankruptcy lawyer for over 20 years. I've been 
+
+teaching bankruptcy law for 17 years. It is absolutely 
+
+not true that courts routinely disallow claims for 
+
+attorneys' fees as part of unsecured claims. It's the 
+
+opposite is true it's routine that they are allowed in 
+
+practical reality however they are not presented because 
+
+creditors don't bother to present them because 
+
+distributions are generally so low in bankruptcy.
+
+ On the point about the plan completely 
+
+protected the rights of the injured workers, nothing 
+
+could be farther from the truth. The provision that 
+
+counsel cites in the plan refers to exec, as executory 
+
+contracts, workers' compensation benefit programs. 
+
+Those are the contractual relationships between PG&E and 
+
+its administrators, not the claims of the workers 
+
+themselves. Tellingly, PG&E never argued in the 
+
+bankruptcy court that the claims of the workers were 
+
+fine under the plan. In fact, they said, we will do 
+
+what Travelers wants after the bankruptcy court directed 
+
+-- and it's in the transcript -- that that was the 
+
+appropriate thing to do.
+
+ In fact, what Travelers insisted is 
+
+required by Section 1123 of the Bankruptcy Code, claims 
+
+such as the workers' must be classified, their treatment 
+
+52 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+must be specified. If they are not they are eliminated.
+
+ The reference to executory contracts 
+
+clearly doesn't apply. As we explain in our reply 
+
+brief, the workers' claims were not executory contracts 
+
+under applicable law. That section does not apply.
+
+ Of course, I think, Chief Justice 
+
+Roberts, there is a lot more that we would like to say 
+
+about their alternative arguments than we were able to 
+
+put in our 20-page reply brief. The issue that they 
+
+raised has not been fully ventilated in the lower 
+
+courts. In fact, there are many more things we would 
+
+say about it on remand.
+
+ I also think it's important to point out, 
+
+Justice Stevens, they are a solvent debtor, and under 
+
+the concept of absolute priority shareholders are not 
+
+allowed to recover anything unless creditors are paid in 
+
+full. What they are trying to do is they're trying to 
+
+get rid of their contractual obligations in bankruptcy 
+
+for the benefit of their shareholders. There's no 
+
+implication between creditors, creditors' recoveries in 
+
+this case one versus the other.
+
+ In the Dow Corning case which we cite in 
+
+our reply brief the Sixth Circuit expressly held where 
+
+you have a solvent debtor you have to pay all of the 
+
+attorneys' fees. That is an additional argument we 
+
+53 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+would develop on remand.
+
+ But all of their arguments about Section 
+
+506 and their interpretation of 502 simply don't matter, 
+
+because as a solvent debtor they're not entitled to take 
+
+advantage of that theory even if it were valid. And we 
+
+contend that it isn't valid. The court of appeals have 
+
+resoundingly rejected it. The Second Circuit rejected 
+
+it in United Merchants and Manufacturers. The Sixth 
+
+Circuit rejected it in Dow Corning. The Eleventh 
+
+Circuit it en banc in the Wellsville case. All of them 
+
+considered the 506 argument that they're making and 
+
+rejected it, and properly so.
+
+ Counsel cites to Section 502(b)(4). 
+
+That's an important section because that demonstrates 
+
+that Congress understood that attorneys' fees would be 
+
+allowable as an unsecured claim under Section 502. And 
+
+in Section 502(b)(4) it provided the only exception, the 
+
+only one where attorneys' fees would not be allowable as 
+
+an unsecured claim. It provided expressly attorneys' 
+
+fees would not be allowable for the attorney for the 
+
+debtor to the extent the claim for the fees exceeded the 
+
+reasonable value of the services performed. Why is that 
+
+provision there? Because Congress saw there was a 
+
+problem. There was a problem of debtors sending money 
+
+to their attorneys. Congress understood that to be a 
+
+54 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+problem and it remedied it.
+
+ Congress did not think there was a 
+
+problem with respect to this historic practice of going 
+
+on over 100 years of attorneys' fees being allowed as 
+
+unsecured claims, and so in Section 502 it allows them. 
+
+Respondents' argument about Section 506(b) renders 
+
+Section 502(b)(4) superfluous. If attorneys' fees were 
+
+never allowable as part of an unsecured claim except for 
+
+how 506(b) allows it, then there would not be a need for 
+
+Section 502(b)(4). In addition, Respondent overstates 
+
+the office of Section 506. 506, as this Court explained 
+
+in Ron Pair, provides, essentially tells us what secured 
+
+creditors get out of their collateral and in what order 
+
+-- the pre-petition amount and then, if there's any 
+
+value left, the value of the collateral. After you pay 
+
+the pre-petition amount of the claim, you can add 
+
+attorneys' fees and you can add, post-petition you can 
+
+add interest. Their interpretation of Section 506(b) 
+
+would render Section 502(b)(2) superfluous. Under their 
+
+theory, only oversecured creditors get post-petition 
+
+interest, get interest.
+
+ JUSTICE KENNEDY: If you prevail, why can't 
+
+every attorney who represents a creditor who has a 
+
+credit card or a promissory note providing for 
+
+attorneys' fees file something in bankruptcy and get 
+
+55 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+attorneys' fees for the filing of the claim?
+
+ MR. BRUNSTAD: That already happens, Justice 
+
+Kennedy. In all the circuits that recognize that 
+
+attorneys' fees are allowed as unsecured claims, that 
+
+already happens. And that has not cause any disaster or 
+
+any problem. It's been a practice for 100 years. If 
+
+Congress had wished to change the practice, it would 
+
+have when it codified the Bankruptcy Code in 1979. The 
+
+fact that it hasn't perceived it to be a problem 
+
+demonstrates that Congress wanted to leave the practice 
+
+unchanged.
+
+ Now, what happens, though, again, Justice 
+
+Kennedy, is that creditors don't bother to file claims 
+
+for those amounts. And where it matters is in cases 
+
+where it should matter, like in this case, in the PG&E 
+
+case, where a solvent debtor is simply trying to get out 
+
+of its contractual relationships. And under principles 
+
+of absolute priority they are not allowed to do that for 
+
+the benefit of shareholders where creditors are not 
+
+being paid in full. And I think it's important to 
+
+underscore again, Justice Kennedy.
+
+ JUSTICE STEVENS: It's interesting. You're 
+
+of course a teacher too. The amicus brief by a bunch of 
+
+professors has a different view of the history than 
+
+you're describing. 
+
+56 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. BRUNSTAD: Justice Stevens, what I take, 
+
+what I take from their analysis is a hostility towards 
+
+attorneys' fees being allowed in bankruptcy. And 
+
+perhaps maybe as a matter of policy, if we were to start 
+
+from scratch, well, maybe we shouldn't allow attorneys' 
+
+fees to be allowed in bankruptcy. Maybe we shouldn't 
+
+allow tort claims to be allowed in bankruptcy. Maybe we 
+
+shouldn't allow certain kinds of environmental claims to 
+
+be allowed in bankruptcy. They don't like the rule, 
+
+apparently, but their analysis of the history is wrong.
+
+ And we cite innumerable cases and law review 
+
+articles that demonstrate that the practice is as we say 
+
+that it is. And policy reasons are no grounds to sort 
+
+of create these Federal common law rules or these 
+
+categorical rules of preclusions.
+
+ JUSTICE STEVENS: Would you say a word about 
+
+Justice Holmes' opinion in the Scruggs case.
+
+ MR. BRUNSTAD: Yes, Justice Stevens. The 
+
+Randolph case was decided in 1903 and the law changed 
+
+dramatically since then. For example, in 1903 
+
+contingent claims were not provable under the Bankruptcy 
+
+Act. That changed in 1938 when contingent claims became 
+
+provable under the Bankruptcy Act.
+
+ Randolph & Randolph versus Scruggs involved 
+
+the claim of a custodian, a custodian, an assignee, who 
+
+57
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+took control of all the debtor's assets before the 
+
+bankruptcy filing. Now under Section 503(b)(3)(E), the 
+
+Randolph versus Scruggs analysis as it pertains to the 
+
+claims of the assignee, those are now treated as an 
+
+administrative expense under Section 503 dealing with 
+
+administrative expenses.
+
+ In Randolph, it's interesting, the fees --
+
+Justice Kennedy, the fees incurred in preparing the 
+
+assignment were allowed as an unsecured claim in the 
+
+bankruptcy case. Justice Holmes for the Court said they 
+
+are allowed. So in fact Randolph I think refutes their 
+
+analysis rather than supports it.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+The case is submitted.
+
+ (Whereupon, at 12:01 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+58 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 59 
+
+A 
+able 6:18 53:8 
+above-entitled 
+
+1:14 58:16 
+absence 44:15 
+absolute 41:6 
+
+53:15 56:18 
+absolutely 10:21 
+
+10:22 19:23 
+21:12 26:24 
+31:7 32:8,21 
+42:5 43:11 
+49:19 50:10 
+52:3 
+
+abuse 49:14 
+accept 33:24,25 
+accepted 22:1,2 
+accomplishes 
+
+10:21 
+accurate 32:8 
+acknowledges 
+
+26:17 
+act 20:15 48:15 
+
+51:24 57:22,23 
+action 5:17 
+activities 38:23 
+
+39:25 
+Adams 40:11 
+add 29:10 42:20 
+
+55:16,17,18 
+added 41:24 
+addition 17:7 
+
+55:10 
+additional 6:24 
+
+29:10 53:25 
+address 40:22 
+
+41:5 42:2 
+addressed 21:23 
+
+40:9 
+adequately 
+
+11:13 
+administering 
+
+49:8,10 
+administration 
+
+49:6 
+administrative 
+
+37:13,18 38:5 
+
+38:8 39:16 
+58:5,6 
+
+administrators 
+52:16 
+
+adopts 18:21 
+37:19 
+
+advance 50:9 
+advantage 54:5 
+adverse 43:22 
+
+43:22 
+affirmative 
+
+29:17 
+age 37:19 
+agree 26:9 30:5 
+
+41:15 
+agreed 12:23 
+
+50:6 
+agreement 19:7 
+ah 44:22 
+ahead 8:18 
+aired 29:1 
+allow 33:10 49:2 
+
+57:5,7,8 
+allowability 
+
+40:2 
+allowable 18:4 
+
+27:20 32:13,20 
+51:25 54:16,18 
+54:20 55:8 
+
+allowed 16:13 
+20:13 30:24,25 
+32:23 33:11,22 
+34:1,2,4 35:3,3 
+38:19 39:3 
+51:18 52:6 
+53:16 55:4 
+56:4,18 57:3,6 
+57:7,9 58:9,11 
+
+Allowing 43:15 
+allows 55:5,9 
+all-loss 9:1 
+alternative 
+
+21:21 22:25 
+41:21 53:8 
+
+alternatively 4:2 
+ambush 27:24 
+
+28:1 
+
+amended 14:8,9 
+AMERICA 1:5 
+amicus 56:23 
+amount 6:25 
+
+15:7 18:14,15 
+29:16 48:16 
+55:14,16 
+
+amounts 56:14 
+analogize 30:4 
+analogy 10:3 
+analysis 5:3 27:7 
+
+57:2,10 58:3 
+58:12 
+
+answer 7:13 
+28:16 30:20,22 
+32:20 33:21 
+37:24,25 41:13 
+44:10 46:18 
+
+anybody 34:20 
+anyway 19:11 
+apologize 27:13 
+
+38:16 42:14 
+apparently 
+
+57:10 
+appeal 22:3 
+appeals 21:22 
+
+22:1 23:4,11 
+28:3,6,7,9 40:4 
+40:8,20 54:6 
+
+APPEARAN... 
+1:17 
+
+appendices 
+38:17 
+
+appendix 47:21 
+49:20 50:15,20 
+51:8 
+
+applicable 53:5 
+application 46:3 
+applies 26:11,16 
+
+26:18,25 27:5 
+27:5 
+
+apply 32:8 37:17 
+38:4 44:8 45:5 
+53:3,5 
+
+applying 48:23 
+appreciate 
+
+42:13 
+
+appropriate 
+25:1 52:22 
+
+argue 19:2 29:4 
+31:4 41:2 
+50:10 
+
+argued 23:1 
+31:2 50:5 
+52:17 
+
+arguing 32:14 
+44:2,3 46:4,8 
+
+argument 1:15 
+2:1,4,7 3:3,7 
+9:10 22:25 
+23:10 25:6,12 
+29:13,15 30:4 
+30:19 33:6,25 
+36:23 42:11 
+47:5 49:13 
+51:9,14 53:25 
+54:11 55:6 
+
+arguments 23:7 
+28:19 51:3 
+53:8 54:2 
+
+arises 5:20 8:7 
+8:15 
+
+arising 26:21 
+article 22:18 
+
+51:22 
+articles 57:12 
+articulating 
+
+43:6 
+asbestos 8:14 
+asked 21:22 
+
+45:15 
+asking 39:16 
+
+40:22 
+assert 6:13 11:4 
+
+11:5 13:20,22 
+14:12 15:11 
+
+asserted 14:18 
+15:1 
+
+asserting 6:15 
+assets 20:9 58:1 
+assignee 57:25 
+
+58:4 
+assignment 58:9 
+assume 14:2,2 
+
+18:3 36:1 
+assumed 49:23 
+assuming 6:9 
+
+7:11,13 30:11 
+30:11 
+
+assure 12:14 
+asterisk 50:19 
+asterisks 50:15 
+Atherton 24:9 
+attention 42:17 
+attorney 4:15,16 
+
+4:17 7:24,25 
+21:1,2 38:21 
+39:5,7,9 54:20 
+55:23 
+
+attorneys 3:15 
+3:18,25 4:12 
+4:17,23,23 7:2 
+7:18,23 9:13 
+9:13 13:22,24 
+19:8,17 20:13 
+20:17 21:4,24 
+22:4,10 24:3 
+25:23 26:12,20 
+27:21 30:24,25 
+31:11,19,24 
+32:1,22 33:19 
+34:8,11,17,19 
+34:20 35:7 
+36:5,11 37:1,6 
+37:7,8,13,14 
+37:15,17,21 
+38:1 39:22,24 
+41:17,19 42:4 
+43:10 44:11,16 
+44:19,20 45:1 
+45:5,8,18 
+48:13 51:18,25 
+52:5 53:25 
+54:15,18,19,25 
+55:4,7,17,25 
+56:1,4 57:3,5 
+
+attorney's 8:5 
+authorized 24:4 
+authorizes 4:1 
+authorizing 
+
+15:22 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 60 
+
+available 4:2 
+36:5 37:8 
+
+avoid 31:12 
+a.m 1:16 3:2 
+
+B 
+baby 40:13 
+back 6:1 18:24 
+
+28:18 32:7 
+34:6 47:21 
+
+balance 24:19 
+25:1 
+
+ball 48:1 
+banc 54:10 
+bank 43:12 
+bankrupt 4:14 
+
+4:14 20:9 
+35:13,13 
+
+bankruptcy 
+3:13,13,17,17 
+3:20,22 4:10 
+4:16,18 5:10 
+5:15 6:3,8,13 
+6:19 7:2,9,24 
+8:1,2,6 9:8,11 
+9:16,17,18,19 
+10:23 11:7,9 
+11:11,15,19,20 
+12:11,18,20,23 
+13:8,11,17,20 
+16:1,10 17:13 
+17:23 18:4,13 
+18:18,21 19:9 
+20:15,18,21 
+21:1,25 22:2,7 
+22:14,19 24:16 
+26:22 27:4 
+31:22 33:1 
+35:25 48:8,24 
+49:10 50:5,7,7 
+50:13 51:24 
+52:1,2,3,9,18 
+52:20,24 53:18 
+55:25 56:8 
+57:3,6,7,9,21 
+57:23 58:2,10 
+
+bar 16:16,17 
+
+22:15 
+barred 16:18 
+based 7:6 9:14 
+
+21:24 42:1 
+basic 4:10 49:10 
+basically 3:23 
+
+5:10 
+basis 4:5 25:16 
+bathroom 35:12 
+
+35:14 48:3,6 
+Bear 43:10 
+bed 51:6,6 
+began 36:15 
+beginning 10:5 
+
+10:7,9 15:19 
+16:5,16 
+
+begins 51:1 
+behalf 1:18,21 
+
+2:3,6,9 3:8 
+25:7 38:24 
+51:15 
+
+behold 35:12 
+believe 23:17 
+
+41:5,8 47:22 
+benefit 13:9 
+
+52:14 53:19 
+56:19 
+
+benefits 15:25 
+better 37:21 
+bill 4:16 
+binds 11:12 
+body 21:8 
+bond 13:14 
+bonds 9:4 15:20 
+bother 7:10,14 
+
+52:8 56:13 
+bothers 6:12 
+Breyer 17:25 
+
+18:2,23,24 
+19:13,20,23,24 
+20:11 22:12,17 
+31:12,18 32:7 
+32:10,15,25 
+34:13,25 35:10 
+35:17 37:12,24 
+38:6,8,12,14 
+38:25 39:11,20 
+
+41:12 46:11,20 
+47:1,4 48:2 
+51:16 
+
+brief 5:8 20:12 
+23:13 24:5 
+27:17 31:5 
+33:24 40:4 
+45:11 46:2 
+51:16,22 53:4 
+53:9,23 56:23 
+
+briefing 23:13 
+briefs 22:18,21 
+
+29:13 
+bright 17:18 
+broader 26:10 
+broadly 10:15 
+
+10:18 
+brother 40:4 
+Brunstad 1:18 
+
+2:2,8 3:6,7,9 
+4:19 5:1,7,18 
+6:5,11,23 7:8 
+7:16 8:3,12,25 
+9:7,15,23 10:3 
+10:14,22 11:10 
+11:21 12:8 
+13:2,5 14:13 
+14:19,24 15:2 
+15:4 16:10,15 
+16:22 17:19 
+18:6,10,16 
+19:12,19,23 
+20:11,19,23 
+21:10,14,20 
+22:16,23 23:8 
+23:21 24:25 
+25:4 51:13,14 
+51:16 56:2 
+57:1,18 
+
+Brunstad's 51:3 
+built 43:8 
+bunch 51:21 
+
+56:23 
+burdened 49:6 
+business 10:1 
+
+C 
+
+C 3:1 
+call 9:19 
+called 35:24 
+cancels 46:8 
+card 43:12 
+
+55:24 
+case 4:1 5:16 6:6 
+
+6:8,10,13 8:23 
+10:4,5,7,9,13 
+11:2 13:11 
+15:17,18,19,21 
+16:1,5,11 17:1 
+17:16 18:9,10 
+19:1,1,2,5,21 
+19:21 20:24 
+21:1 22:6 
+24:13,14 25:19 
+26:3 28:7,18 
+31:7,8 32:9 
+41:9,25 42:1 
+42:11,21 43:19 
+43:25 44:6 
+53:21,22 54:10 
+56:15,16 57:17 
+57:19 58:10,14 
+58:15 
+
+cases 5:6 6:14 
+6:16 7:1,3,4,10 
+7:12,17,21 
+16:16 19:16 
+20:12 21:17 
+24:14 44:4 
+49:1 51:17,21 
+51:23 56:14 
+57:11 
+
+Casualty 1:3 3:4 
+categorical 
+
+24:12 57:15 
+category 8:24 
+
+34:10 
+cause 56:5 
+center 40:23 
+cert 22:22 42:11 
+
+42:15,15 47:21 
+50:14 
+
+certain 8:19 
+57:8 
+
+certainly 21:15 
+certiorari 23:3 
+
+23:15,24,24 
+27:11 42:10 
+
+cert-worthy 
+27:15 
+
+cetera 5:13 19:4 
+20:22 
+
+CF 24:13 
+change 56:7 
+changed 57:19 
+
+57:22 
+Chapter 7:3 
+
+16:16 
+characterized 
+
+11:17 
+Chief 3:3,9 6:6 
+
+22:20,23 25:3 
+25:5,8 26:8,14 
+26:15,19 27:1 
+27:9 28:1 
+30:14 36:8,19 
+40:3,17,24 
+41:24 42:6 
+50:2 51:12 
+53:6 58:13 
+
+circuit 17:18 
+21:4,6,13 23:6 
+23:22 24:16 
+26:4,4 28:19 
+29:5,5,18,20 
+40:8,10,11,13 
+50:6 53:23 
+54:7,9,10 
+
+circuits 56:3 
+Circuit's 3:11 
+
+3:21 20:24 
+42:1 
+
+circular 9:10 
+circumstances 
+
+14:10,11 43:2 
+citation 45:10 
+cite 5:8 15:18 
+
+20:12 31:8 
+51:17,21 53:22 
+57:11 
+
+cited 20:24 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 61 
+
+36:18 46:2 
+cites 38:16 52:13 
+
+54:13 
+claim 3:19 4:16 
+
+4:18,18 5:10 
+5:11,15 6:13 
+6:15,24 7:2,24 
+7:24,25 8:4,14 
+8:16 10:6,9,11 
+10:12,13,15 
+11:19 12:3,19 
+14:1,4,12,17 
+15:1,5 16:4,12 
+16:14,17,23 
+17:2,2 18:7 
+19:21 20:21 
+21:3,5 22:5,8,9 
+23:17 26:12,20 
+27:20 31:17,19 
+31:22,23 32:12 
+32:13,18,19,20 
+33:13,23 34:1 
+34:2,4,4,11 
+35:3,4,5,14,16 
+35:17,20,22,22 
+36:1,2,6 37:11 
+37:15 38:1,19 
+38:21,22 39:17 
+40:1 45:16,16 
+45:19 48:15 
+51:19 54:16,19 
+54:21 55:8,16 
+56:1 57:25 
+58:9 
+
+claimants 34:8 
+34:11 
+
+claiming 50:23 
+claims 6:17 7:9 
+
+10:16 13:8,11 
+13:12 17:5,6,7 
+17:8,12,15 
+18:22 20:13 
+24:15 26:11 
+29:19,25 32:23 
+33:2,10,16 
+39:5 47:14 
+48:16 49:8 
+
+50:1,3 52:1,4,5 
+52:16,18,24 
+53:4 55:5 56:4 
+56:13 57:7,8 
+57:21,22 58:4 
+
+class 32:22 
+34:16 37:9 
+39:23 
+
+classic 48:5 
+classified 11:25 
+
+52:25 
+clear 20:7 26:24 
+
+27:2,4 39:10 
+51:6 
+
+clearer 21:6 
+clearly 5:19 19:9 
+
+21:4 53:3 
+client 9:12 30:19 
+Close 52:1 
+code 3:13,14,23 
+
+5:11 11:11 
+13:1 21:25 
+22:7 27:18,19 
+27:22,24 31:2 
+31:8 32:20,21 
+33:9 35:9 37:7 
+37:19 38:19 
+39:10 40:14 
+43:8 44:19,22 
+45:7 46:8 
+47:11 52:24 
+56:8 
+
+codified 56:8 
+Cohen 22:5 
+collateral 55:13 
+
+55:15 
+collect 19:6,22 
+
+38:1,10 39:24 
+41:17,19 
+
+collection 4:24 
+19:8 
+
+collectors 34:9 
+Collier 5:5,8,19 
+
+19:15 20:8 
+31:13,15,17 
+45:10 46:12 
+
+Colliers 32:7 
+
+34:21 45:13,13 
+46:2,17,19 
+
+colloquy 50:22 
+come 5:20 9:17 
+
+11:3,15 12:18 
+13:16,19 14:3 
+29:17 40:21 
+
+comes 11:4 
+29:22 40:10,11 
+45:13 
+
+coming 19:25 
+43:9 
+
+commenced 
+16:1 17:11 
+
+common 3:12 
+4:4 17:21 24:1 
+24:3 27:22 
+43:3 57:14 
+
+comp 8:21 9:12 
+9:22,25 14:3,5 
+14:8 15:25 
+49:16 
+
+Company 1:4,9 
+3:4,5 
+
+compared 21:14 
+compensation 
+
+12:7 49:21 
+52:14 
+
+complete 30:20 
+completely 
+
+33:23 46:17,24 
+47:2 50:23 
+52:10 
+
+complication 
+41:25 
+
+concede 41:4 
+conceded 40:23 
+conceding 25:15 
+concept 5:19 
+
+17:22 53:15 
+concern 39:15 
+
+39:17 
+concerned 48:12 
+conclude 29:18 
+concluded 16:2 
+
+22:9 29:24 
+conclusion 11:3 
+
+25:19 
+conduct 6:4 8:5 
+
+8:11 
+confirmation 
+
+12:13 31:3 
+conflict 4:6 
+
+17:22 24:7,10 
+Congress 24:7 
+
+30:22,22 33:8 
+34:10,16,23 
+35:1,2 36:2,4 
+36:25 37:5,7,8 
+39:22 43:7 
+44:10 48:9 
+49:4 54:15,23 
+54:25 55:2 
+56:7,10 
+
+Conn 1:18 
+connection 4:24 
+
+45:19 
+consider 23:6,11 
+
+23:12 25:11 
+28:19 29:11 
+39:15 
+
+considered 
+54:11 
+
+consistently 
+51:24 
+
+constituting 
+32:2 
+
+construct 24:1 
+construction 
+
+11:9 21:25 
+24:22 25:11 
+42:24 
+
+construe 11:7 
+22:6 
+
+contend 54:6 
+context 33:7 
+
+46:13 
+contingency 
+
+8:22,22 16:12 
+35:21,23 47:16 
+48:5 
+
+contingent 5:12 
+10:16 16:23 
+17:4 32:2 
+
+35:17,20,22 
+36:1 47:14 
+57:21,22 
+
+continue 15:22 
+contract 5:21 
+
+8:7,10 13:23 
+19:3,6 23:20 
+23:21 24:22 
+30:12 31:25 
+34:21 43:12,13 
+43:14 44:8 
+48:22 49:9,22 
+
+contracts 48:14 
+49:23 52:14 
+53:2,4 
+
+contractual 4:1 
+4:20,21 6:18 
+30:9 48:22 
+51:20 52:15 
+53:18 56:17 
+
+control 58:1 
+Corning 53:22 
+
+54:9 
+correct 7:12,17 
+
+8:4,12 16:8 
+17:19 18:3 
+20:19,23 22:24 
+25:19,20 27:23 
+43:19 46:3 
+
+cost 6:24 9:3 
+20:20,21 48:7 
+
+counsel 25:3 
+26:9 40:3 
+51:12 52:13 
+54:13 58:13 
+
+course 13:21 
+34:13 39:2 
+46:5 49:12 
+53:6 56:23 
+
+court 1:1,15 
+3:10 8:1,2 9:18 
+10:20 11:16,19 
+11:20 12:19,23 
+13:17,20 14:6 
+18:4,18,21 
+21:11,13,14,17 
+21:22,25 22:2 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 62 
+
+22:6,9,9,24 
+23:3,9,11,12 
+23:23 24:14 
+25:9,11 26:16 
+28:2,6,7,24,25 
+29:10,14,17 
+30:1 31:22 
+37:4 40:4,19 
+40:22 41:4,9 
+42:18,23,24 
+43:1 45:7 
+47:13 49:7 
+50:5,7,7,13,14 
+50:17,22,25 
+51:8 52:18,20 
+54:6 55:11 
+58:10 
+
+courts 21:19 
+23:11 24:15 
+27:4 28:9,22 
+29:1,12,23 
+33:1 40:8 
+48:25 51:18,24 
+52:4 53:11 
+
+Court's 4:5 
+24:13 27:7 
+42:17 
+
+cover 33:18,19 
+covered 5:2,3 
+
+33:15 
+covers 19:3,9 
+
+26:3 
+create 24:15 
+
+57:14 
+creates 3:11 
+creation 4:4,7 
+
+17:20 
+credit 43:12 
+
+55:24 
+creditor 3:18 
+
+4:13 6:12 
+19:16,17 26:11 
+26:20 30:6 
+31:19 34:4,7 
+38:9 43:2,23 
+45:18 55:23 
+
+creditors 6:14 
+
+7:1 13:21 
+25:22,22 26:17 
+26:18 27:6,20 
+29:25 30:16,23 
+31:1 32:22,23 
+33:17 34:7,9 
+37:9,17,21,23 
+38:2,4 39:23 
+43:9,16,17 
+46:10 48:11,22 
+52:8 53:16,20 
+53:20 55:13,20 
+56:13,19 
+
+critical 11:20 
+Cruz 22:6 
+crystal 48:1 
+custodian 57:25 
+
+57:25 
+cut 38:25 
+
+D 
+D 3:1 
+damages 22:10 
+date 3:16,16,19 
+
+16:16,17 35:3 
+35:5 47:23,24 
+
+day 29:20 43:4 
+De 22:5 
+deal 22:24 33:2 
+dealing 58:5 
+deals 23:25 
+dealt 44:10 
+debt 5:24 19:6,7 
+
+22:7,10 38:10 
+debtor 3:14,16 
+
+5:14 6:8,8,16 
+7:18 8:6 9:14 
+9:17 12:24 
+16:6 38:24 
+39:8,9 42:3 
+44:23 49:23 
+53:14,24 54:4 
+54:21 56:16 
+
+debtors 31:10 
+54:24 
+
+debtor's 58:1 
+decide 40:18 
+
+41:4,12 42:7,8 
+42:12 
+
+decided 23:2 
+44:10 51:23 
+57:19 
+
+decides 42:23 
+decision 20:24 
+
+28:3 42:1 
+50:13 
+
+decisions 21:11 
+22:2 28:6 
+
+declares 30:1 
+deemed 49:23 
+default 8:20,21 
+
+9:11,14,16,20 
+9:21,24 10:19 
+12:10 
+
+defaulted 15:25 
+defend 17:11 
+
+28:11 41:3 
+42:7 
+
+defined 5:11 
+10:15,17 22:8 
+
+definition 37:11 
+40:1 
+
+delighted 41:18 
+41:20 
+
+demolishes 51:9 
+demonstrate 
+
+57:12 
+demonstrates 
+
+54:14 56:10 
+depends 4:19,20 
+
+9:10 18:6 30:4 
+DeRoche 42:1,3 
+
+42:11,21 
+described 5:9 
+describing 
+
+49:14 56:25 
+deserves 23:12 
+despite 46:15 
+detail 33:25 
+determination 
+
+18:5,11 
+determine 18:15 
+
+18:19 
+detour 40:15 
+
+develop 54:1 
+devoted 24:5 
+dictum 40:9,10 
+
+40:12 
+different 9:1 
+
+11:22 37:3 
+46:17,25 47:2 
+48:18,21 49:13 
+56:24 
+
+directed 12:23 
+52:20 
+
+direction 40:16 
+directly 38:18 
+disagree 45:10 
+
+45:12,24,25 
+disagreement 
+
+21:19 
+disallow 17:6,8 
+
+44:19 52:4 
+disallowance 
+
+36:10,11 
+disallowed 
+
+16:24 36:2 
+38:20 39:1 
+44:21 
+
+disallowing 
+29:19 43:9 
+
+disallows 45:1 
+disaster 56:5 
+discharge 12:17 
+discharged 
+
+12:12,16 
+discretion 41:4 
+discussion 46:25 
+disposition 
+
+28:18 
+dispute 30:9 
+
+31:16 
+disputes 32:18 
+distinct 3:14 
+distinction 
+
+28:15 
+distinguish 
+
+11:22 
+distribution 7:9 
+
+7:12 
+distributions 
+
+52:9 
+doing 13:22 
+Dow 53:22 54:9 
+dozen 27:17 
+draft 36:25 
+
+49:19 
+drafters 35:9 
+dramatically 
+
+57:20 
+draws 28:15 
+drew 17:18 
+driving 39:12 
+D.C 1:11 
+
+E 
+E 1:20 2:5 3:1,1 
+
+25:6 
+earlier 40:5 
+
+45:15 47:17 
+effect 8:19 
+effort 6:15,22 
+eight 51:13 
+either 29:13 
+
+30:25 47:15,22 
+Electric 1:8 3:5 
+Eleventh 54:9 
+eliminated 
+
+50:21 53:1 
+eliminating 
+
+50:19 
+else's 34:20 
+employees 11:24 
+
+13:7 15:9,10 
+en 54:10 
+endorsed 40:5 
+enforce 12:19 
+enforcement 
+
+4:25 
+enormous 29:16 
+
+37:9 
+entirely 24:5 
+entitled 8:1 15:6 
+
+15:7 30:6 54:4 
+environmental 
+
+57:8 
+equality 46:10 
+equitable 21:3 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 63 
+
+ERIC 1:18 2:2,8 
+3:7 51:14 
+
+especially 28:14 
+45:6 
+
+essentially 55:12 
+estate 3:17 48:8 
+
+49:7,11 
+estimate 47:15 
+
+47:22,25 48:6 
+et 5:13 19:4 
+
+20:21 
+everybody 
+
+41:15 48:14 
+exactly 5:9 6:11 
+
+10:18 21:16 
+23:9 24:16 
+34:13 39:12 
+41:23 42:19 
+49:2 
+
+example 3:14 
+7:3 26:11 36:9 
+36:25 57:20 
+
+exceeded 54:21 
+exceeds 38:22 
+exception 20:4 
+
+43:5 44:21 
+54:17 
+
+exclusio 33:5 
+excuse 11:17 
+
+46:6 50:9 
+exec 52:13 
+executory 49:22 
+
+49:23 52:13 
+53:2,4 
+
+exercising 31:22 
+exhausted 34:20 
+existence 37:5 
+exists 3:12 
+expanding 
+
+37:22 
+expected 27:10 
+expense 58:5 
+expenses 37:14 
+
+37:18 39:16 
+48:7 58:6 
+
+experience 7:6 
+explain 20:10 
+
+32:15 33:24 
+53:3 
+
+explained 5:19 
+55:11 
+
+explaining 
+44:20 
+
+explicitly 49:21 
+50:5 
+
+exposure 8:14 
+8:19 
+
+expressly 53:23 
+54:19 
+
+extensive 40:10 
+extent 26:24 
+
+27:5 36:6,16 
+38:20 54:21 
+
+extinguished 
+11:1,15 12:2 
+12:11 13:12,19 
+
+F 
+fact 6:12 29:22 
+
+35:8 48:6 
+52:19,23 53:11 
+56:9 58:11 
+
+facts 43:19,22 
+43:24 
+
+factual 41:6 
+failure 42:7 
+Fair 39:19,21 
+fairly 5:6 
+fall 8:23 
+false 10:22 
+far 8:20 9:5 16:1 
+
+16:7 25:21,25 
+26:1,2 34:15 
+
+farther 52:12 
+favorable 49:24 
+
+50:3 
+Federal 3:12,24 
+
+3:25 4:4,6 
+17:21 24:2,3,4 
+24:10 26:21 
+28:15 57:14 
+
+fee 4:17,23 8:1 
+19:3 43:10 
+
+fees 3:15,18,25 
+
+4:12,17,24 
+5:22 6:7,13,15 
+7:7,18 9:13,14 
+10:21 13:22,24 
+18:4,5 19:8,18 
+20:13,17 21:4 
+21:24 22:5,10 
+24:4 25:23 
+26:12,20 27:21 
+30:7,24,25 
+31:11,20,24 
+32:1,1,3,22 
+33:15,16,19 
+34:8,12,17,19 
+34:20 35:7 
+36:5,11 37:2,6 
+37:7,8,13,14 
+37:15,17 38:1 
+39:22,24 41:17 
+41:19 42:4 
+43:10 44:12,16 
+44:19,20 45:1 
+45:5,8,18,21 
+48:13,14,23 
+49:8,9,9,9 
+51:18,25 52:5 
+53:25 54:15,18 
+54:20,21 55:4 
+55:7,17,25 
+56:1,4 57:3,6 
+58:7,8 
+
+fewer 27:17 
+field 24:8 
+figure 27:22 
+
+42:18 
+file 4:15 7:2 10:6 
+
+12:19 16:17 
+31:21,21 55:25 
+56:13 
+
+filed 8:6 9:8,11 
+13:7,8 15:21 
+16:4 17:1 21:2 
+
+files 3:16 5:14 
+7:24,25 9:17 
+
+filing 4:17 6:24 
+8:2,4 20:20 
+21:2 35:3,5 
+
+45:3 47:23,24 
+48:15 56:1 
+58:2 
+
+filled 50:21 
+find 4:11 20:1 
+
+22:19 
+fine 52:19 
+first 28:24 29:2 
+
+29:11 34:1 
+40:7,10 49:19 
+50:17,18 51:1 
+
+fit 6:10 
+fix 35:11 
+fixed 5:12 16:13 
+
+16:18 32:3 
+floods 35:13 
+Fobian 3:11,21 
+
+17:17,17,20 
+18:2 22:25 
+23:25 24:11 
+25:16,18,20 
+26:9,16,22,24 
+27:5,7,15,22 
+28:7,8,12,14 
+29:8 40:25 
+41:2,14 42:7 
+42:16,25 50:11 
+
+focused 36:14 
+38:23 42:15 
+
+focuses 36:23 
+focusing 27:13 
+
+27:14 
+follow 20:8 
+followed 20:8 
+
+29:20 
+footing 37:2 
+footings 37:3 
+forever 11:15 
+
+16:18 
+forget 18:25 
+
+19:1 
+forth 6:25 
+forward 12:21 
+
+13:15 14:4 
+42:18 
+
+found 20:3 
+four 37:17 38:4 
+
+friend 50:2 
+front 40:23 
+full 6:17 53:17 
+
+56:20 
+fully 15:12 
+
+17:14 28:21 
+29:12 53:10 
+
+function 33:20 
+further 24:18 
+furthermore 
+
+34:2 
+futile 29:4 
+future 10:6 
+
+13:10 15:6,8 
+
+G 
+G 1:18 2:2,8 3:1 
+
+3:7 51:14 
+Gas 1:8 3:5 
+general 12:16,16 
+
+24:3 30:16 
+39:25 40:1 
+49:14 
+
+generally 44:20 
+45:1 52:9 
+
+getting 6:22 
+10:10,20 
+
+Ginsburg 11:18 
+11:21 12:5,9 
+12:25 13:3,4 
+16:8,11,15,20 
+16:22 17:3,16 
+17:19 23:5,8 
+23:18,19 25:14 
+28:10,23 29:7 
+33:14 44:14,25 
+
+gist 51:7 
+give 37:21 
+go 25:21,25 
+goes 4:14 26:1 
+
+46:14 
+going 7:21 10:5 
+
+11:6 12:6 13:9 
+14:7 29:14 
+35:23 36:13 
+37:20 41:5 
+42:8 55:3 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 64 
+
+Gotshal 35:24 
+gotten 49:25 
+granted 22:22 
+
+23:25 42:10 
+grounds 57:13 
+group 22:13 
+guarantee 5:23 
+
+8:8 
+guaranteed 5:24 
+guessing 23:24 
+
+H 
+half 40:14 
+happen 10:6 
+happened 20:1,4 
+
+20:15 
+happening 
+
+20:14 
+happens 20:11 
+
+34:19 56:2,5 
+56:12 
+
+harm 29:17,22 
+Hartford 1:18 
+headings 27:18 
+hear 3:3 27:10 
+held 21:4 26:16 
+
+50:5 51:25 
+53:23 
+
+hidden 37:10 
+39:25 
+
+hides 43:16 
+hiding 51:5 
+higher 51:24 
+hire 7:1 21:1 
+historic 55:3 
+history 56:24 
+
+57:10 
+holder 4:12,15 
+
+7:22 
+holding 40:19 
+Holmes 57:17 
+
+58:10 
+Honor 18:11 
+
+20:19,23 25:18 
+25:20 26:13,23 
+27:3,12 28:5 
+28:13,20 29:4 
+
+29:9 30:8,10 
+30:13,21 31:6 
+31:14 32:6,11 
+32:17 33:3,8 
+33:21 34:23 
+35:1,15 36:12 
+36:22 37:16 
+38:3,11 39:10 
+39:19,21 40:7 
+40:21 41:1,4 
+42:5,13,21 
+43:20,24 44:9 
+44:17 45:12,20 
+46:1,16 47:12 
+47:20 48:4,20 
+49:18 50:4,12 
+51:11 
+
+Honors 27:23 
+hook 13:13 
+hostility 57:2 
+house 35:10 
+huge 39:23 
+
+48:15 
+hypothetical 
+
+6:10 7:7,20 8:8 
+
+I 
+images 42:22 
+impact 43:22 
+impair 30:16 
+impermissible 
+
+4:3 17:20 
+implication 
+
+53:20 
+implies 46:21 
+important 21:21 
+
+37:18 43:8 
+46:9 53:13 
+54:14 56:20 
+
+impossible 
+47:25 
+
+inadequate 
+19:11 42:9 
+
+inappropriately 
+24:11 
+
+include 10:15 
+14:7 
+
+included 22:10 
+31:23 
+
+includes 5:11 
+including 13:24 
+
+27:18 51:22 
+incorrect 31:7 
+incur 9:3 13:22 
+
+13:24 31:20 
+incurred 5:23 
+
+6:25 32:4 35:7 
+58:8 
+
+incurring 9:12 
+9:13 
+
+incurs 31:19 
+45:18 
+
+indemnification 
+11:5,6 16:12 
+
+indemnity 9:1,2 
+indicates 36:19 
+indications 36:3 
+
+36:24 
+inevitable 10:12 
+
+10:13 
+infer 25:25 
+inference 33:5 
+injured 11:24 
+
+13:6,8 14:14 
+17:8 52:11 
+
+injury 8:15 
+innumerable 
+
+57:11 
+insider 38:21 
+insisted 52:23 
+insofar 34:17 
+
+39:1,3 
+insolvency 6:9 
+insolvent 6:9 
+
+31:1 44:23 
+instance 20:2,3 
+
+29:2 34:1 
+instances 19:10 
+
+19:14 
+intend 9:25 
+intended 37:3,8 
+intercepts 3:21 
+interest 14:23 
+
+31:10 33:19 
+
+36:10,19 37:2 
+46:6,7 55:18 
+55:21,21 
+
+interested 28:11 
+39:13 
+
+interesting 
+56:22 58:7 
+
+interests 50:9 
+interpretation 
+
+23:10,20 30:9 
+54:3 55:18 
+
+interventions 
+50:8 
+
+invalid 12:13 
+involve 37:13,14 
+involved 7:15 
+
+57:24 
+irrelevant 39:20 
+issue 17:17 21:8 
+
+21:18 22:4 
+23:14 24:22 
+25:12 26:7 
+27:13 28:21 
+40:20 41:9 
+42:2,7 44:10 
+53:9 
+
+issues 3:24 
+23:22 24:2,21 
+26:21 42:19 
+
+J 
+January 1:12 
+joint 50:20 51:8 
+JOSHUA 1:20 
+
+2:5 25:6 
+Journal 22:19 
+JR 1:18 2:2,8 
+
+3:7 51:14 
+judge 18:14 
+
+20:21 
+judgment 41:3 
+Justice 3:3,9 4:9 
+
+4:19,22 5:1,4,7 
+5:16,18 6:1,6 
+6:11,20 7:1,5,6 
+7:11,13,16,20 
+8:5,10,12,17 
+
+8:25 9:5,9,15 
+9:19,24 10:3,8 
+10:17,22 11:2 
+11:10,18,21 
+12:5,8,25 13:2 
+13:4 14:2,14 
+14:16,22,24,25 
+15:2,3,13 16:8 
+16:11,15,20,22 
+17:3,16,19,24 
+17:25 18:1,2,6 
+18:9,13,16,18 
+18:23,24,25 
+19:13,20,23,24 
+20:11,16,20 
+21:7,10,12,15 
+21:16,20 22:12 
+22:17,20,23 
+23:5,8,18,19 
+24:20,25 25:3 
+25:5,8,14,24 
+26:8,14,15,19 
+27:1,9 28:1,10 
+28:10,17,23 
+29:7 30:3,11 
+30:14,18 31:4 
+31:12,18 32:7 
+32:10,15,25 
+33:4,14 34:13 
+34:25 35:10,17 
+36:8,18,19 
+37:12,24 38:6 
+38:8,12,14,25 
+39:7,11,20 
+40:3,17,24 
+41:12,24 42:6 
+43:18,21 44:5 
+44:14,25 45:9 
+45:17,21,24 
+46:11,20 47:1 
+47:4,18 48:2 
+48:12 49:12 
+50:2 51:12,16 
+53:6,14 55:22 
+56:2,12,21,22 
+57:1,16,17,18 
+58:8,10,13 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 65 
+
+justified 17:21 
+justify 4:7 24:6 
+
+24:8 
+
+K 
+keep 10:1 
+Kennedy 4:9,19 
+
+4:22 5:1,4,7,16 
+5:18 7:20 8:5 
+17:24 18:1,6,9 
+18:13,16,18,25 
+20:16,20 25:24 
+28:10 33:4 
+36:18 39:7 
+45:9,17,21,24 
+48:12 55:22 
+56:3,13,21 
+58:8 
+
+Kennedy's 7:6 
+7:13 
+
+key 5:19 20:24 
+kind 19:3 
+kinds 48:13 57:8 
+knew 39:22 
+know 4:10 6:21 
+
+8:20 9:5,20 
+10:5 14:16 
+18:2 22:13 
+27:8 28:24 
+43:3,25 51:5 
+
+L 
+La 22:5 
+language 12:24 
+
+19:9 
+law 3:12,15,18 
+
+3:25 4:4 11:7,7 
+11:9 17:21 
+18:7,11,15,20 
+21:8 24:1,2,3,4 
+24:23 26:22 
+27:22 28:15 
+29:21 43:3,4 
+43:15 44:7,8 
+50:11 52:3 
+53:5 57:11,14 
+57:19 
+
+lawyer 6:4,7 
+
+52:2 
+lawyers 38:24 
+
+43:16 
+leak 35:12 48:7 
+leaks 35:11 
+leaky 48:3 
+leave 56:10 
+leaves 34:5 
+left 15:15 17:12 
+
+34:5 55:15 
+legal 10:21 41:7 
+
+41:8 
+lens 45:6 
+let's 5:25 14:2,2 
+
+18:3 19:5 
+27:24 36:1 
+
+liability 16:18 
+22:8 
+
+likelihood 48:6 
+line 17:18 44:11 
+liquidate 47:15 
+
+47:23 
+literally 5:14 
+litigating 3:24 
+
+24:2 
+litigation 17:10 
+
+28:16 43:3 
+little 42:16 
+lo 35:12 
+loan 43:13 
+local 34:9 
+logic 20:8 29:19 
+
+30:17 
+long 15:25 
+look 5:5 11:11 
+
+31:7 32:7 
+39:14 42:18 
+45:6 50:19 
+
+looked 4:10 
+looking 44:5 
+
+49:3 50:17 
+looks 18:14 
+lose 12:20 
+loses 13:20 
+loss 9:3 13:24 
+lost 10:25 16:5 
+
+16:14 
+
+lot 17:3 41:10 
+53:7 
+
+love 34:7,8,9,10 
+low 52:9 
+lower 21:11,13 
+
+21:19 22:1 
+23:11 28:21 
+29:1,12,14,23 
+53:10 
+
+LTV 10:4,7 
+15:18,19,24 
+16:6 
+
+M 
+MAHONEY 
+
+18:20 
+majority 44:4 
+
+48:24 49:1 
+maker 4:13,14 
+making 54:11 
+Manufacturers 
+
+20:25 54:8 
+materials 47:19 
+matter 1:14 24:2 
+
+28:25 35:8 
+54:3 56:15 
+57:4 58:16 
+
+matters 26:21 
+56:14 
+
+matured 5:13 
+mean 5:6 9:20 
+
+9:21 10:9 
+29:24 39:11 
+41:14,21 45:4 
+46:14 47:6 
+49:9 
+
+means 22:7 
+29:22 42:8 
+45:4 46:22 
+49:24 
+
+mentioned 36:4 
+42:9 47:17 
+
+Merchants 
+20:25 40:13 
+54:8 
+
+methodically 
+51:9 
+
+middle 50:16 
+51:23 
+
+million 5:25 
+15:20 
+
+millions 5:5 
+mind 43:10 
+minute 9:10 
+minutes 51:13 
+mirror 42:22 
+mischaracteri... 
+
+17:5 
+mischief 41:10 
+misleading 
+
+36:21 
+misplaced 33:6 
+missing 50:15 
+
+50:20 
+momentarily 
+
+13:6 
+money 10:12 
+
+37:20 44:6 
+46:13,15,23 
+54:24 
+
+monitor 35:24 
+morning 35:23 
+mortgage 19:7,7 
+
+N 
+N 3:1 
+narrower 26:9 
+natural 44:18 
+nature 5:22 32:2 
+necessary 24:9 
+
+50:8,24 
+need 11:22 
+
+13:18 55:9 
+needs 42:18 
+negative 33:5 
+never 8:21 12:6 
+
+20:1,4 23:1,14 
+31:2 35:8 
+48:10 52:17 
+55:8 
+
+New 1:20 
+nine 22:11 
+Ninth 3:11,21 
+
+17:18 23:6 
+
+24:16 26:3,4 
+28:19 29:5,5 
+29:18,19 41:25 
+50:6 
+
+nobody's 39:16 
+Nolan 24:13 
+normal 7:14 
+normally 7:7,8 
+note 4:11,13,13 
+
+4:14,15,24,25 
+6:22 7:22,23 
+7:25 8:20,24 
+10:11,11 55:24 
+
+noteworthy 
+39:10 
+
+no-asset 7:3 
+number 51:17 
+numerous 36:3 
+N.Y 1:20 
+
+O 
+O 3:1 
+object 14:4,5 
+
+17:3 
+objected 17:2 
+objection 31:3 
+obligation 8:21 
+
+9:12,22,25 
+10:19 32:3 
+44:7 46:5,6,8,9 
+49:16 
+
+obligations 6:19 
+46:12 53:18 
+
+oblivious 37:5 
+observation 
+
+37:4 
+obvious 19:6 
+occasions 37:6 
+occur 15:8 
+occurred 35:9 
+odd 36:25 
+office 55:11 
+oh 21:23 46:20 
+Okay 8:17 
+old 37:19 
+one's 13:20 
+on-off 31:1 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 66 
+
+open 24:21 
+29:21 30:2 
+
+opinion 29:14 
+50:16 57:17 
+
+oppose 11:6 
+opposite 52:6 
+opposition 23:2 
+
+23:15 27:11 
+42:10,15 
+
+oral 1:14 2:1,4 
+3:7 25:6 
+
+order 12:13 
+15:22 33:1 
+55:13 
+
+ordinary 44:7 
+orient 50:17,25 
+ought 22:13 
+outside 3:12 
+Overage 19:20 
+overlay 27:23 
+oversecured 
+
+26:17,18,20 
+30:6 32:23 
+33:18 36:6 
+55:20 
+
+overstates 55:10 
+overturned 22:3 
+overwhelming 
+
+48:24 49:1 
+overwhelmingly 
+
+29:23 
+
+P 
+P 3:1 
+Pacific 1:8 3:5 
+page 2:1 45:10 
+
+46:21,22 47:22 
+49:20 50:14,20 
+50:25 51:22,23 
+
+pages 23:13 51:8 
+51:17 
+
+paid 19:8 46:13 
+53:16 56:20 
+
+Pair 37:4 55:12 
+papers 15:19 
+paragraph 
+
+50:16,18,19,21 
+
+51:1,2,2 
+parent's 5:24 
+part 4:18 21:5 
+
+22:5 52:5 55:8 
+particular 24:24 
+
+34:16 40:6 
+45:14 46:12 
+
+parties 11:13 
+16:25 19:2 
+
+passes 3:17 
+pay 6:17 12:6 
+
+15:9,22,23 
+25:23 34:8 
+43:16 44:7 
+48:16 53:24 
+55:15 
+
+paying 15:24 
+17:14 49:15 
+
+payment 5:12 
+5:13,14 8:7 
+13:25 15:5,17 
+16:7 32:19 
+
+payments 13:9 
+13:15 14:3,5,8 
+16:3 
+
+payout 7:22 
+pays 24:23 
+people 20:9 
+
+22:13 34:16 
+perceived 56:9 
+performed 6:3 
+
+11:23 20:17 
+21:2 54:22 
+
+performing 8:4 
+periodic 13:9 
+pertains 58:3 
+petition 3:16,19 
+
+31:21 35:4,6 
+39:6 42:15 
+45:4,18 47:21 
+47:24,25 50:15 
+
+petitioned 32:1 
+Petitioner 1:6 
+
+1:19 2:3,9 3:8 
+51:15 
+
+PG&E 5:24 9:4 
+9:7 13:7,10,15 
+
+13:18 15:7,21 
+15:22 17:2,3 
+17:14 21:21 
+44:1 48:19 
+52:15,17 56:15 
+
+phone 35:24 
+pick 35:24 
+place 26:5 
+places 37:12 
+plan 11:12,14 
+
+12:1,6,9,10,13 
+12:14,15,24 
+13:11 14:4,5,7 
+14:9,20 15:14 
+15:24 31:3 
+49:15,19 52:10 
+52:13,19 
+
+plate 16:3 
+please 3:10 25:9 
+plenty 44:6 
+Plus 17:7 
+point 10:15 
+
+27:18 35:6 
+36:21 37:18 
+38:18 39:22 
+45:9 47:5,5,9,9 
+47:10,13 48:13 
+52:10 53:13 
+
+pointed 19:15 
+42:22 
+
+pointing 34:15 
+policy 4:6,7 
+
+17:23 24:10 
+57:4,13 
+
+position 15:20 
+30:20 40:15 
+
+post 45:18 
+posture 10:4 
+post-petition 
+
+5:17,23 6:4 
+8:16 27:20 
+30:24 31:10,11 
+31:20,20 32:3 
+34:11 35:7 
+36:10 37:1,2,6 
+39:24 45:5 
+46:7 48:15 
+
+51:20 55:17,20 
+pot 37:22 
+practical 52:7 
+practice 7:14 
+
+55:3 56:6,7,10 
+57:12 
+
+practitioners 
+27:4 
+
+pre 32:1 
+precedents 4:5 
+precise 21:18 
+
+28:6 
+precisely 10:14 
+preclusions 
+
+57:15 
+predicate 26:6 
+
+27:7,10,16 
+41:6,7,8 43:1 
+
+preempting 
+24:8 
+
+preemption 4:5 
+17:22 24:6 
+
+prepared 20:3 
+preparing 58:8 
+present 9:18 
+
+10:23 26:10 
+52:8 
+
+presented 23:1,2 
+23:15,23 25:12 
+40:19 42:19,20 
+52:7 
+
+presenting 
+25:21 26:7 
+
+presents 51:10 
+preserved 13:1 
+
+13:18 
+preserving 
+
+11:23 
+prevail 55:22 
+prevent 26:22 
+preventing 
+
+25:22 
+pre-petition 
+
+5:21,22 8:7,10 
+8:11,13,15,16 
+13:23 31:17,19 
+31:23 32:2,12 
+
+38:23 39:4 
+45:16,19,22 
+46:5,5,6,7,12 
+51:19 55:14,16 
+
+pre-petitioned 
+51:21 
+
+principles 24:7 
+24:13 56:17 
+
+prior 10:19 
+priority 53:15 
+
+56:18 
+probably 5:2,2 
+problem 12:8 
+
+25:20 41:22 
+54:24,24 55:1 
+55:3 56:6,9 
+
+proceeding 
+20:18 35:25 
+51:8 
+
+processing 
+24:15 
+
+products 8:15 
+professors 19:25 
+
+56:24 
+programs 49:22 
+
+52:14 
+promise 35:11 
+promissory 4:11 
+
+7:22,25 8:24 
+10:11 55:24 
+
+proof 8:4 12:19 
+15:5 16:4 17:1 
+17:2 21:3 
+
+proper 23:5,16 
+28:18 
+
+properly 10:25 
+11:16,25 12:14 
+13:10 21:5 
+54:12 
+
+proposed 42:2 
+proposition 
+
+31:16 36:14 
+protected 15:13 
+
+52:11 
+protecting 21:3 
+
+31:23 45:19 
+provable 57:21 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 67 
+
+57:23 
+provide 11:7 
+
+14:6 43:14 
+provided 11:13 
+
+13:10 34:21 
+36:2 39:5 
+54:17,19 
+
+provides 3:23 
+4:12,20 11:12 
+12:4 18:20 
+30:12 55:12 
+
+providing 55:24 
+provision 4:23 
+
+9:2 12:17 14:8 
+31:8 36:25 
+38:15 44:15,16 
+44:25 46:1 
+49:15 52:12 
+54:23 
+
+provisions 39:13 
+43:11 47:7 
+
+pro-rata 19:22 
+purports 37:1 
+purpose 33:9,9 
+
+33:12,15 36:23 
+48:9 
+
+pursue 7:2 
+put 12:24 33:8 
+
+37:1,3 40:23 
+48:7 53:9 
+
+puzzled 20:7 
+puzzlement 
+
+34:25 
+puzzling 34:14 
+p.m 58:15 
+
+Q 
+question 7:13 
+
+17:25 18:2 
+19:24 22:21 
+24:20 26:10 
+27:15 28:4,6 
+28:11,16 29:2 
+29:21 30:2,3 
+30:23 37:25 
+40:9,18,22 
+42:20,24 43:1 
+
+43:4 45:14,15 
+46:18,18 
+
+questions 24:18 
+queue 19:22 
+quick 24:20 
+quite 36:8 39:12 
+
+43:14 
+quote 36:5 49:21 
+
+51:23 52:1 
+quoted 46:22 
+quotes 31:15 
+quoting 38:18 
+
+R 
+R 3:1 
+racked 10:20 
+raised 23:14 
+
+42:14 53:10 
+raising 44:14 
+Randolph 57:19 
+
+57:24,24 58:3 
+58:7,11 
+
+rational 26:6 
+27:6,9,16 
+
+rationale 26:3 
+reach 40:18 50:8 
+reaches 25:19 
+read 19:15 26:5 
+
+27:18,19,24 
+44:19 45:3 
+
+reading 27:21 
+reads 40:14 
+ready 46:21 
+reality 52:7 
+really 40:17 
+reason 6:17 10:1 
+
+14:12 30:15 
+41:16,18 48:23 
+
+reasonable 
+38:22 39:3 
+54:22 
+
+reasonableness 
+18:5,12,19,22 
+23:21 
+
+reasonably 19:2 
+50:8,24 
+
+reasons 29:10 
+
+43:8 46:9 49:4 
+57:13 
+
+rebuttal 2:7 
+24:19 51:14 
+
+receive 13:9 
+recipients 14:3 
+recognize 56:3 
+reconsideration 
+
+16:24 
+record 42:9 
+recourse 13:18 
+
+16:6 
+recover 13:25 
+
+31:24 53:16 
+recoverable 
+
+4:18 
+recovered 7:7 
+recoveries 53:20 
+recovers 6:7 
+refer 50:14 
+reference 53:2 
+references 47:10 
+referring 46:1 
+
+47:3 
+refers 51:3 
+
+52:13 
+refutes 58:11 
+regardless 41:20 
+
+44:12 
+reimbursement 
+
+15:7,16 16:23 
+17:4 
+
+rejected 21:23 
+23:3 54:7,7,9 
+54:12 
+
+relationships 
+52:15 56:17 
+
+relies 31:8 
+relying 44:16 
+remaining 38:9 
+
+51:13 
+remand 23:6,10 
+
+23:16 24:21 
+25:1 53:12 
+54:1 
+
+remedied 55:1 
+remote 8:22 
+
+render 55:19 
+rendered 11:25 
+rendering 15:14 
+renders 55:6 
+reorganization 
+
+11:12 15:24 
+repeats 47:7 
+reply 5:8 23:13 
+
+31:5 40:4 
+45:11 46:2 
+53:3,9,23 
+
+represents 
+55:23 
+
+required 52:24 
+requirement 
+
+18:12 
+requiring 15:23 
+
+25:22 
+reserve 24:19 
+
+25:1 29:20 
+43:4 
+
+resolving 42:25 
+resoundingly 
+
+54:7 
+respect 14:19,21 
+
+14:22 19:17 
+23:17 55:3 
+
+respond 17:10 
+Respondent 
+
+1:21 2:6 23:1 
+25:7 55:10 
+
+Respondents 
+55:6 
+
+response 23:13 
+32:4,6 49:16 
+49:18 
+
+responsible 
+17:14 
+
+rest 45:7 
+result 13:12 
+review 28:25 
+
+57:11 
+rid 53:18 
+right 3:15,17,18 
+
+3:19,25 4:1,20 
+5:12,13,14,15 
+5:20,21 6:5 8:6 
+
+11:2,4,5 13:25 
+13:25 14:7 
+15:12 21:16 
+31:23,25 32:4 
+32:19 38:6 
+43:4 50:16 
+51:20 
+
+rights 3:22 4:1,2 
+9:18 10:24,24 
+11:14,16,24,25 
+12:2,11,14,20 
+12:22,22 13:1 
+13:6,17,20,22 
+15:11,16 17:4 
+17:5,11 21:3 
+30:16 52:11 
+
+risk 51:7 
+Roberts 3:3 6:6 
+
+22:20,23 25:3 
+25:5 26:8,14 
+26:19 27:1,9 
+28:1 30:14 
+36:8 40:3,17 
+40:24 41:24 
+42:6 50:2 
+51:12 53:7 
+58:13 
+
+Ron 37:4 55:12 
+Rosenkranz 
+
+1:20 2:5 25:5,6 
+25:8,18 26:2 
+26:13,15,23 
+27:3,12 28:5 
+28:13,20 29:3 
+29:9 30:8,13 
+30:17 31:6,14 
+32:6,11,17 
+33:3,8,21 
+34:23 35:1,15 
+35:19 36:12,22 
+37:16 38:3,7 
+38:11,13,15 
+39:4,9,19,21 
+40:7,21 41:1 
+41:23 42:5,13 
+43:20,24 44:9 
+44:17 45:2,12 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 68 
+
+45:20,23,25 
+46:16,24 47:2 
+47:12,20 48:4 
+48:20 49:18 
+50:4 
+
+routine 52:6 
+routinely 6:7 
+
+22:3 52:4 
+rudimentary 
+
+5:6 
+rule 3:11,12,21 
+
+4:4,7 12:10 
+17:20 21:21 
+22:25 23:25 
+24:1,6,11 
+25:16,18,20 
+26:9,16,22 
+27:15 28:8,12 
+28:14 29:8 
+37:19 40:25 
+42:12,16 43:5 
+43:25 44:2,2,3 
+44:4,22,23 
+50:11 57:9 
+
+rules 24:15 44:8 
+57:14,15 
+
+running 10:1 
+
+S 
+S 3:1 
+saw 54:23 
+saying 6:7 15:16 
+
+21:23 29:18 
+33:15 35:18,19 
+35:20,22 41:9 
+45:2 46:11,13 
+49:1,2 
+
+says 3:23 4:15 
+12:10 19:8 
+27:17 32:21 
+33:12 34:21 
+35:2 37:19 
+38:18 39:1 
+44:15,22 45:4 
+45:17 46:14 
+47:22 49:20 
+50:2,18 51:3 
+
+SCALIA 47:18 
+scenario 5:9 
+scratch 57:5 
+Scruggs 57:17 
+
+57:24 58:3 
+second 6:2 20:24 
+
+21:4,6,13 
+40:11 51:1 
+54:7 
+
+Secondly 29:16 
+section 5:11 
+
+10:25 11:11,14 
+12:2,12 13:1,2 
+16:24 18:7,17 
+18:23 26:6,18 
+29:21 31:9,9 
+34:5 36:19 
+47:3 52:24 
+53:5 54:2,13 
+54:14,16,17 
+55:5,6,7,10,11 
+55:18,19 58:2 
+58:5 
+
+secured 19:20 
+26:11,12 30:6 
+33:2,13,23 
+34:4,4 55:12 
+
+security 19:11 
+19:12,14 33:16 
+33:18 34:2,17 
+34:18,19 
+
+see 27:16 29:1 
+46:21 47:5,5 
+49:20 50:15 
+51:1 
+
+seeking 42:3 
+sell 35:10 
+send 28:18 
+sending 54:24 
+sends 4:16 
+sense 9:1 28:2 
+
+41:2 
+sentence 46:14 
+
+46:15 
+serve 33:14 
+serves 33:11 
+services 6:3 
+
+20:17 21:2 
+24:24 38:21,22 
+39:5 54:22 
+
+set 16:16 46:12 
+setoffs 47:3 
+setting 6:25 
+share 19:22 
+shareholders 
+
+53:15,19 56:19 
+shifting 43:11 
+shoes 15:10 
+
+48:19 
+SHORR 30:21 
+short 16:1 
+side 19:25 21:8 
+
+23:14 29:13 
+40:12 50:11 
+
+silent 33:23 
+simple 19:16 
+simply 3:24 
+
+15:15,15 29:17 
+37:14 42:15 
+47:6 51:4 54:3 
+56:16 
+
+single 23:3 
+29:13 
+
+sir 9:23 
+situation 10:18 
+
+36:9 
+six 38:4,6,8 
+Sixth 40:13 
+
+53:23 54:8 
+sliver 42:16 
+smuggling 27:25 
+
+28:2 
+solely 26:21 
+solution 42:2 
+solvent 6:16 
+
+7:18 30:19 
+31:1,10 44:1 
+44:12,23 53:14 
+53:24 54:4 
+56:16 
+
+somewhat 47:8 
+47:8 
+
+sorry 27:3 41:7 
+45:2 47:1 
+
+sort 18:24 24:1 
+35:21 47:16 
+51:4 57:13 
+
+sorts 43:10 
+sought 17:6,7,8 
+Souter 8:17,25 
+
+9:5,9,15,19,24 
+10:4,8,17,23 
+11:2,10 14:2 
+14:14,16,22,24 
+14:25 15:2,3 
+15:13 49:12 
+
+so-called 17:17 
+speaking 13:6 
+
+21:17 
+specified 53:1 
+spend 15:8 
+spending 49:7 
+
+49:10 
+spent 11:3 
+split 23:22 
+splits 40:13 
+spoke 37:7 
+stand 15:10 
+
+33:17 48:18 
+standard 4:11 
+
+4:22,23 18:22 
+start 57:4 
+started 9:12 
+
+15:24 18:25 
+state 3:15,18 4:2 
+
+4:6 18:7,11,11 
+18:15,20,22 
+24:23 28:15 
+43:3,15 44:7 
+49:6 50:11 
+
+statement 31:13 
+31:14 32:12 
+40:1 46:3 
+
+States 1:1,15 
+18:21 
+
+status 19:16 
+statute 4:2 25:16 
+
+26:5 
+statutes 43:15 
+statutory 23:10 
+
+23:19 25:11,12 
+
+36:3 42:20,24 
+43:5 
+
+step 8:17 16:2 
+25:15 32:17,19 
+
+stepped 12:21 
+13:15 
+
+steps 50:24 
+Stevens 6:1,12 
+
+6:20 7:1,5,11 
+7:16 8:10,13 
+21:7,10,12,15 
+21:16,20 24:20 
+24:25 28:17 
+30:3,11,18 
+31:4 43:18,21 
+44:5 53:14 
+56:22 57:1,16 
+57:18 
+
+stipulated 16:25 
+stipulation 17:1 
+stopped 15:25 
+straightforward 
+
+19:5 
+strange 35:21 
+
+47:16 
+structural 36:23 
+structure 3:13 
+
+3:14 36:14 
+subject 16:24 
+submit 4:3 
+
+17:20 24:12 
+submitted 58:14 
+
+58:16 
+subordinate 
+
+17:7 
+subrogated 
+
+15:10 
+subrogation 
+
+12:22 13:1 
+15:12 17:5,6 
+
+subsequently 
+6:15 16:7 
+
+substantial 7:18 
+7:19 
+
+successful 17:12 
+summarizes 
+
+50:22 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 69 
+
+superfluous 
+47:8 55:7,19 
+
+supplying 9:3 
+support 34:18 
+
+39:14,15 
+supports 58:12 
+suppose 10:2 
+
+30:15 35:10 
+supposed 9:2 
+
+47:14,15 
+Supposing 6:2 
+Supreme 1:1,15 
+sure 7:23 11:16 
+
+11:24 18:14 
+26:8 
+
+surety 1:4 3:4 
+9:2,4 12:3,21 
+13:14 15:19,20 
+16:2,4,5 48:18 
+48:21 
+
+switch 31:1 
+
+T 
+take 19:5 25:14 
+
+29:2 30:5 
+37:20 54:4 
+57:1,2 
+
+takes 40:15 
+talk 5:8 
+talking 9:21 
+
+16:20 20:17,21 
+44:18 46:17 
+
+tax 34:9 
+teacher 56:23 
+teaching 52:3 
+tell 4:9 19:25 
+
+25:15 27:19 
+33:1 48:17,25 
+49:3 
+
+telling 7:5 46:23 
+Tellingly 52:17 
+tells 7:23 34:3,3 
+
+47:13 55:12 
+term 22:7 
+terms 4:25 
+Thank 25:3,4 
+
+51:11,12 58:13 
+
+theory 40:5 54:5 
+55:20 
+
+they'd 30:6 
+thief 51:5 
+thing 22:8 23:16 
+
+35:2 39:20 
+52:22 
+
+things 11:20,22 
+15:6 53:11 
+
+think 5:23,23 
+7:21 8:8,13 
+11:22 21:20 
+33:6 36:20 
+37:10 39:14 
+45:13 46:13 
+47:4 51:4,6 
+53:6,13 55:2 
+56:20 58:11 
+
+thoroughly 
+22:14 
+
+thought 11:19 
+12:25 16:12 
+22:12 40:24 
+51:5 
+
+thousands 48:10 
+48:10 
+
+three 28:9 40:8 
+threshold 25:10 
+Timbers 36:9,13 
+
+36:14,18,20,22 
+45:7 
+
+time 6:2 11:4 
+12:6 16:13 
+20:12 24:19 
+25:2 45:3 49:7 
+
+times 27:18 
+told 40:5 
+tomorrow 35:23 
+tort 8:13 34:8 
+
+57:7 
+totally 9:10 20:6 
+trade 34:9 
+transaction 6:24 
+transcript 52:21 
+Travelers 1:3 
+
+3:4 12:23,24 
+13:13,14,16 
+
+14:11,23 15:1 
+24:23 26:7 
+27:13,17,17 
+31:2,15 33:25 
+35:21 38:16 
+40:12,23 41:6 
+41:7 44:2 
+48:17 50:21,23 
+51:9 52:20,23 
+
+treated 10:25 
+12:15 49:22,22 
+58:4 
+
+treatment 14:20 
+15:14 49:25 
+52:25 
+
+treble 22:10 
+true 23:17 30:14 
+
+52:4,6 
+truth 52:12 
+try 26:10 42:18 
+trying 41:3 
+
+53:17,17 56:16 
+Tuesday 1:12 
+turn 36:17 
+two 11:22 15:6,9 
+
+20:5 27:18 
+29:10 32:19 
+38:9,12 
+
+Typically 7:16 
+
+U 
+ubiquitous 
+
+43:11 
+ultimately 17:12 
+unchanged 
+
+56:11 
+underlay 28:8 
+underscore 34:6 
+
+43:7 56:21 
+underscored 
+
+36:15,16 
+underscores 
+
+36:13 38:17 
+understand 
+
+10:10 11:4 
+23:23 29:3,7 
+42:17 43:22 
+
+48:21 
+understood 
+
+54:15,25 
+unimpaired 
+
+12:1 15:15 
+17:13 50:3 
+
+United 1:1,15 
+20:25 40:12 
+54:8 
+
+unius 33:5 
+unmatured 5:13 
+unreasonable 
+
+19:4 39:2 
+unsecured 7:9 
+
+18:7,22 19:17 
+19:21 20:13 
+21:5 22:5 27:6 
+27:19 29:25 
+30:23 33:17 
+37:9,15,21 
+38:1,10 39:17 
+39:23 43:9,15 
+43:17,23 46:10 
+48:11 50:1 
+51:18 52:1,5 
+54:16,19 55:5 
+55:8 56:4 58:9 
+
+unwarranted 
+3:12 4:8 
+
+urge 32:7 
+
+V 
+v 1:7 
+valid 3:15 26:1,2 
+
+54:5,6 
+value 35:4,5 
+
+38:22 54:22 
+55:15,15 
+
+vast 44:4 
+ventilated 28:21 
+
+29:12 53:10 
+ventilating 
+
+41:10 
+versus 3:5 22:5 
+
+40:11 53:21 
+57:24 58:3 
+
+view 22:14,24 
+
+24:6 28:24 
+56:24 
+
+violation 24:12 
+virtually 43:13 
+visualize 9:16 
+
+W 
+wait 29:1 
+want 39:17 
+
+40:17 41:13 
+43:7 48:22 
+
+wanted 39:23 
+48:10 49:5 
+56:10 
+
+wants 52:20 
+Washington 
+
+1:11 
+wasn't 19:14 
+way 24:8 28:3 
+
+29:14 39:1 
+40:11,14,20 
+43:9 44:18 
+45:14 46:15,18 
+46:23 
+
+Weil 35:24 
+Wellsville 54:10 
+weren't 12:15 
+We'll 3:3 
+we're 6:9 10:10 
+
+10:18 35:23 
+41:8 42:8 
+50:17 
+
+we've 25:12 
+44:18 
+
+whatsoever 9:3 
+43:23 
+
+wished 56:7 
+wondering 
+
+41:13 
+word 34:18 
+
+57:16 
+words 26:4 
+
+36:15 46:20 
+work 8:3 11:23 
+
+12:4 14:14 
+51:19,20 
+
+worker 14:14 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 70 
+
+workers 8:21 05-1429 1:7 3:4 501(b)(1) 18:8 
+9:22,25 10:24 
+12:7,22 13:7,8 1 
+
+18:17 
+502 26:6 36:10 
+
+14:20 15:14,24 10 29:23 36:11 54:3,16 
+17:9,12,14 100 20:14 55:4 55:5 
+49:16,21,24 56:6 502(b) 29:21,24 
+52:11,14,16,18 1015 5:11 42:24 45:3,6 
+52:25 53:4 11 16:16 37:25 49:2 
+
+works 5:10 39:13 502(b)(1) 18:23 
+16:10 11:01 1:16 3:2 502(b)(2) 55:19 
+
+worth 6:14,21 1123 52:24 502(b)(4) 38:17 
+6:21 35:6 1141 10:25 38:17,18 54:13 
+42:17 11:11 12:2 54:17 55:7,10 
+
+wouldn't 6:20 1141(d) 11:14 502(c) 47:13,19 
+6:21 39:14,25 12:12 47:20 
+
+written 43:13 12:01 58:15 502(e)(1) 16:21 
+wrong 11:8 16:9 140a 50:20 502(j) 16:25 
+
+25:17 26:5 141 50:20,25 503 58:5 
+28:14 29:18 15 37:6,12 51:7 503(b)(3)(E) 
+40:25 41:2,14 15-page 50:22 58:2 
+41:16,17,19,21 16 1:12 506 32:25 33:20 
+49:19 50:10,23 17 52:3 36:14,20 54:3 
+57:10 19 19:24 54:11 55:11,11 
+
+X 
+1903 57:19,20 
+1938 57:22 
+
+506(a) 34:2,3 
+47:7 
+
+x 1:2,10 1979 56:8 506(b) 26:18 
+
+Y 
+yards 22:11 
+years 20:14 28:8 
+
+29:23 41:10 
+52:2,3 55:4 
+56:6 
+
+York 1:20 
+
+Z 
+
+1998 20:15 
+
+2 
+20 28:8 41:10 
+
+52:2 
+20-page 23:12 
+
+53:9 
+2007 1:12 
+24a 50:14 
+25 2:6 51:17 
+
+29:21,24 33:9 
+33:11,12,22 
+34:5 36:4,24 
+37:1 45:8 47:4 
+47:6 49:3 55:6 
+55:9,18 
+
+509 13:2 
+51 2:9 
+
+7 
+zero 35:6 
+Zimmerman 
+
+40:11 
+
+26 51:17 
+28 47:22 49:20 
+
+7 7:3 
+726 31:9,9 
+
+$ 
+$100 5:24 
+
+3 2:3 
+3 8 
+
+80 23:13 
+
+$167,000 10:20 4 9 
+11:3 4 38:20 9 45:10 
+
+$40 15:20 43 51:22 95 6:22 
+$90 6:22 44 51:22,22,23 
+
+0 5 
+
+Alderson Reporting Company 
+
+

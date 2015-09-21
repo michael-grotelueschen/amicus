@@ -1,0 +1,4804 @@
+
+                
+
+          
+
+                       
+
+                   
+
+5
+
+10  
+
+15
+
+20  
+
+ 
+
+ 
+
+ 
+
+ 
+
+25
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 ROSELVA CHAIDEZ, : 
+
+4  Petitioner : No. 11-820 
+
+v. : 
+
+6 UNITED STATES : 
+
+7 - - - - - - - - - - - - - - - - - x 
+
+8  Washington, D.C. 
+
+9  Thursday, November 1, 2012 
+
+11  The above-entitled matter came on for oral 
+
+12 argument before the Supreme Court of the United States 
+
+13 at 10:01 a.m. 
+
+14 APPEARANCES: 
+
+JEFFREY L. FISHER, ESQ., Stanford, California; on 
+
+16  behalf of Petitioner. 
+
+17 MICHAEL R. DREEBEN, ESQ., Deputy Solicitor General, 
+
+18  Department of Justice, Washington, D.C.; on behalf of 
+
+19  Respondent. 
+
+21 
+
+22 
+
+23 
+
+24 
+
+1
+ 
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                    
+
+                    
+
+5
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+15  
+
+ 
+
+ 
+
+ 
+
+ 
+
+20  
+
+ 
+
+ 
+
+ 
+
+ 
+
+25
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF PAGE 
+
+3 JEFFREY L. FISHER, ESQ. 
+
+4  On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+6 MICHAEL R. DREEBEN, ESQ. 
+
+7  On behalf of the Respondent 31 
+
+8 REBUTTAL ARGUMENT OF 
+
+9 JEFFREY L. FISHER, ESQ. 
+
+On behalf of the Petitioner 55 
+
+11 
+
+12 
+
+13 
+
+14 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+2
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (10:01 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+4 first this morning in Case 11-820, 
+
+Roselva Chaidez v. United States. 
+
+6  Mr. Fisher. 
+
+7  ORAL ARGUMENT OF JEFFREY L. FISHER 
+
+8  ON BEHALF OF THE PETITIONER 
+
+9  MR. FISHER: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+11  In the more than 20 years since this Court 
+
+12 decided Teague v. Lane, it's had more than a dozen cases 
+
+13 in which people have sought habeas relief based on 
+
+14 ineffective assistance of counsel, but this Court has 
+
+never once held that applying Strickland in those 
+
+16 divergent factual settings constituted a new rule. 
+
+17  For two reasons, this Court should reject 
+
+18 the government's argument to do so for the first time 
+
+19 here. 
+
+First, Padilla was dictated by precedent; 
+
+21 that is, like other Strickland cases that came before 
+
+22 it, this Court in Padilla simply applied Strickland's 
+
+23 formula of assessing attorney performance according to 
+
+24 prevailing professional norms to a new set of facts. 
+
+The second --
+
+3
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  CHIEF JUSTICE ROBERTS: It's a surprise to 
+
+2 the, what, ten courts of appeals who came out the other 
+
+3 way? 
+
+4  MR. FISHER: No, I don't think so, 
+
+Your Honor. Two -- two things about the lower courts. 
+
+6  The first is, there are only three lower 
+
+7 court decisions that postdate the 1996 act that the 
+
+8 government can cite that came out the other way in terms 
+
+9 of the question presented here. 
+
+And the second thing is, even within those 
+
+11 cases and within those courts, they didn't distinguish 
+
+12 between deportation advice and other kinds of advice. 
+
+13 They distinguished between acts and omissions; that is 
+
+14 to say, it was a uniform rule in the lower courts at the 
+
+time this Court decided Padilla that misadvice 
+
+16 concerning the right to -- I'm sorry, concerning 
+
+17 deportation consequences of a plea did violate 
+
+18 Strickland. 
+
+19  So the distinction in lower courts was not 
+
+between deportation advice and other kinds of advice; 
+
+21 the distinction was between acts and omissions. 
+
+22  And in Padilla itself --
+
+23  CHIEF JUSTICE ROBERTS: So maybe it 
+
+24 was -- maybe it was a surprise to the members of this 
+
+Court that disagreed with that --
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. FISHER: No --
+
+2  CHIEF JUSTICE ROBERTS: -- with the ruling 
+
+3 in Padilla. 
+
+4  MR. FISHER: Well, obviously, there was a 
+
+dissent in Padilla, but this Court has held before that 
+
+6 new applications of Strickland did not constitute a new 
+
+7 rule, even though there were dissents. 
+
+8  JUSTICE GINSBURG: Mr. Fisher --
+
+9  MR. FISHER: In Williams --
+
+JUSTICE GINSBURG: -- what -- what about the 
+
+11 argument that Strickland doesn't come into play unless 
+
+12 the Sixth Amendment includes the collateral consequences 
+
+13 in counsel's obligation to defend a defendant in a 
+
+14 criminal case under the argument that up to -- up to 
+
+Padilla, only advice relevant to guilt or innocence and 
+
+16 sentencing was required, not collateral consequences? 
+
+17  MR. FISHER: Well, that was obviously the 
+
+18 argument that the State of Kentucky made in that case, 
+
+19 and this Court dealt with it in part two of Padilla. 
+
+Now, remember, Justice Ginsburg, the Court 
+
+21 did not extend Strickland to collateral consequences in 
+
+22 Padilla. It actually reserved that question. What it 
+
+23 held is that deportation consequences are not removed 
+
+24 from the ambit of the Sixth Amendment. 
+
+So, remember, Strickland --
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE GINSBURG: So it's also a question 
+
+2 if -- if conviction meant loss of a professional 
+
+3 license, that would be an open question? 
+
+4  MR. FISHER: I think -- I think that's an 
+
+open question after Padilla. 
+
+6  What this Court held in Padilla -- and this 
+
+7 is the second to last sentence in part two -- is that 
+
+8 advice concerning deportation consequences of a guilty 
+
+9 plea are not categorically removed from the Sixth 
+
+Amendment. 
+
+11  So what I understood the Court to do in 
+
+12 Padilla was take the ordinary Strickland formula of 
+
+13 prevailing professional norms and simply apply it to 
+
+14 this criminal case. Remember, Padilla itself was a 
+
+criminal case. 
+
+16  JUSTICE SCALIA: Well, it's always the case. 
+
+17 I mean, we -- we never come out with a decision that 
+
+18 doesn't rely upon some preexisting principle. We always 
+
+19 cite some preexisting principle. Does that mean that 
+
+every case of ours is -- is not new law? 
+
+21  MR. FISHER: Of course not. The question 
+
+22 this Court asked under Teague is whether it broke new 
+
+23 ground. And I think what this Court said in Padilla is, 
+
+24 we reject the artificial restriction on Strickland that 
+
+the lower courts have created; so, therefore, this Court 
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 simply reaffirmed Strickland. It didn't --
+
+2  JUSTICE KAGAN: Well, Mr. Fisher, think 
+
+3 about this in an AEDPA context. I mean, assume that you 
+
+4 have these ten circuit courts all going in the way that 
+
+the Chief Justice said, and then one court came along 
+
+6 and said, you know, we think that they -- in an AEDPA 
+
+7 context, a habeas consideration of a state conviction --
+
+8 we think that this is all wrong, and, in fact, the law 
+
+9 is exactly the opposite of what ten circuits have held. 
+
+Wouldn't we think that that's a very easy 
+
+11 case that the AEDPA standard had not been met? 
+
+12  MR. FISHER: I think you -- you may well 
+
+13 find that, Justice Kagan, but the reason why is because 
+
+14 you'd find that there was not an unreasonable 
+
+application of preexisting law. What you would not say 
+
+16 is that the clearly established law is any different. 
+
+17  So, remember, this Court -- this case, 
+
+18 because it's a Federal case, raises only the first 
+
+19 question under AEDPA, in a sense, which is what's the 
+
+clearly established law? And this is the Chief -- I 
+
+21 think this is responsive to the Chief Justice's question 
+
+22 about the dissent. 
+
+23  There was a disagreement on this Court about 
+
+24 how to apply Strickland, but the question's whether a 
+
+new legal rule was created, not whether there was an 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 unreasonable application --
+
+2  JUSTICE SCALIA: Why pick on Strickland? I 
+
+3 mean, you could say that about any principle of law that 
+
+4 we rely on: The dissent thought that that principle 
+
+applied a different way here. 
+
+6  What is different about Strickland that it 
+
+7 enables you to appeal to that, as opposed to appealing 
+
+8 to any principle of law? 
+
+9  MR. FISHER: Well, I think the best response 
+
+is what this Court said in Williams, which is Strickland 
+
+11 provides sufficient guidance to resolve virtually every 
+
+12 ineffective assistance claim. 
+
+13  So what this Court said in Williams is we do 
+
+14 not make new law when we apply Strickland. 
+
+I think Justice Kennedy --
+
+16  JUSTICE GINSBURG: Is there any -- Mr. 
+
+17 Fisher, is there any application, you call it application 
+
+18 of Strickland, that would qualify as a new rule, any 
+
+19 application at all, or is just Strickland never a new 
+
+rule? 
+
+21  MR. FISHER: I think so long as you simply 
+
+22 applied Strickland, you wouldn't create a new rule. 
+
+23  If you for example, said, a certain kind of 
+
+24 claim does not need to have a prejudice showing, that 
+
+would be a new rule. 
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE KENNEDY: Well, suppose that a 
+
+2 really skilled attorney, after negotiating a plea 
+
+3 bargain, or even representing a client at trial but then 
+
+4 losing, is very skilled in ensuring that the defendant 
+
+can go into the general population, not into solitary 
+
+
+6 confinement; but also a skilled trial attorney, he's 
+
+
+7 just not very good at that, so the defendant goes to 
+
+
+8 solitary. 
+
+
+9  Could -- if there was an evolution of the 
+
+
+law of adequate assistance of counsel so that this Court 
+
+11 later held, oh, conditions of confinement have to be a 
+
+12 part of the attorney's -- skill and competence in 
+
+13 representation, that that would be retroactive? 
+
+14  MR. FISHER: Justice Kennedy, it wouldn't be 
+
+enough to have a later evolution of prevailing norms 
+
+16 because Strickland is a backward-looking device. 
+
+17  JUSTICE KENNEDY: So that there are then, in 
+
+18 answer to Justice Ginsburg's question, some cases in 
+
+19 which there could be a new rule of ineffective 
+
+assistance of counsel under Strickland? 
+
+21  MR. FISHER: Well, I think the answer to 
+
+22 that question is yes, and, as I said, something like a 
+
+23 scenario where this Court --
+
+24  JUSTICE KENNEDY: Well, I don't understand 
+
+how that works with my hypothetical. 
+
+9
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. FISHER: Well, let me -- let me try to 
+
+2 work with your hypothetical. I think what I hear your 
+
+3 hypothetical to say is that prevailing norms change, and 
+
+4 they evolve to a certain point where certain kinds of 
+
+advice is required, which is much what this Court said 
+
+6 in Padilla about -- about deportation advice. 
+
+7  You would have -- you would not have a new 
+
+8 rule to simply recognize that at the time that attorney 
+
+9 gave advice, that -- that Strickland was violated. 
+
+It would be a new rule, I think, 
+
+11 Justice Kennedy, to say that Strickland requires relief, 
+
+12 even though at the time the advice was given the 
+
+13 prevailing norm had not yet crystalized into the degree 
+
+14 that this Court requires. 
+
+JUSTICE SCALIA: The only new law is not a 
+
+16 new pronouncement which nobody had ever thought of 
+
+17 before, but only a pronouncement that rests upon an 
+
+18 evolution of mores; is that it? 
+
+19  MR. FISHER: No, I think what I'm trying to 
+
+say is --
+
+21  JUSTICE SCALIA: That's what I thought you 
+
+22 said. 
+
+23  MR. FISHER: -- Strickland -- Strickland 
+
+24 sets up a two-part test, and we're only talking about 
+
+the first part, which is attorney performance. And 
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that -- that question is keyed to attorney performance 
+
+
+2 at the time judged by reasonableness according to 
+
+
+3 prevailing professional norms. 
+
+
+4  Now, those prevailing professional norms 
+
+
+are, in a sense, a factual question, an empirical 
+
+6 question that --
+
+7  JUSTICE KAGAN: Mr. Fisher, it would seem to 
+
+8 me that this case presents a kind of threshold question. 
+
+9 Before you get to the question of what are prevailing 
+
+professional norms and whether they have been complied 
+
+11 with, there is the question of whether the Sixth 
+
+12 Amendment applies to collateral consequences at all and, 
+
+13 if so, which collateral consequences. 
+
+14  And that’s the question on which Padilla 
+
+opines, and that's the question that seems, you know, 
+
+16 very different from anything that Strickland’s discussed, 
+
+17 not just an application of Strickland. 
+
+18  MR. FISHER: Well, let me give you two 
+
+19 answers to that, because I think that's the government's 
+
+main argument here. 
+
+21  First is, as I've tried to say before, 
+
+22 simply saying that an exception that the lower courts 
+
+23 created doesn't exist -- doesn't create a new rule. 
+
+24 Imagine this Court said -- laid down a rule that covered 
+
+all cars, and the lower courts devised an exception to 
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that rule for convertibles. And when the Court -- when 
+
+2 the issue came to this Court, this Court said, well, no, 
+
+3 when we said all cars, we meant all cars. 
+
+4  To me, that doesn't create a new rule. And 
+
+I think that's what this Court said in part two of 
+
+
+6 Padilla, is that this artificial restriction that the 
+
+
+7 lower courts have devised simply can't be grounded in 
+
+
+8 Strickland --
+
+
+9  JUSTICE BREYER: How many had? 
+
+
+MR. FISHER: Pardon me? 
+
+11  JUSTICE BREYER: How many had? I mean, I 
+
+12 would have thought it was common sense that a lawyer 
+
+13 should tell the client the terrible things that are 
+
+14 going to happen to him if he pleads guilty, those things 
+
+that the lawyer knows or should know about and the 
+
+16 client may not. Alright. That's a very general rule 
+
+17 at that level. 
+
+18  But some courts have said, no, that isn't 
+
+19 true. That isn't true unless -- if it's -- as Justice 
+
+Kagan said, if it's a collateral exception, if it's a 
+
+21 collateral consequence. How many had? Was it only 
+
+22 Kentucky, or was it fairly widespread, this exception? 
+
+23  MR. FISHER: Only three federal circuits 
+
+24 had had a ruling like that after the 1996 act --
+
+JUSTICE BREYER: Well, there aren't that 
+
+12
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 many. There are eleven, and two of them are 
+
+2 specialized. 
+
+3  MR. FISHER: Well, if I can finish my 
+
+4 answer, only three had rulings like that after the 1996 
+
+act, and all three of those relied on pre-'96 act 
+
+6 rulings. And as court of appeals judges said, that's 
+
+7 just not quite enough for us to be entitled to overturn 
+
+8 our prior circuit precedent. 
+
+9  So while the government comes here today 
+
+and suggests that ten circuits and all these state 
+
+11 courts had ruled, in a sense, in its favor, you know, 
+
+12 it's almost more accurate to say none had had this issue 
+
+13 cleanly presented to them after the 1996 act. 
+
+14  And, Justice Kagan, if I --
+
+JUSTICE KAGAN: Well, but even before the 
+
+16 1996 act, deportation -- there were deportation 
+
+17 consequences. Those consequences were enhanced by the 
+
+18 1996 act; but, even before that, a reasonable lawyer, 
+
+19 you might think, would have a conversation with his 
+
+client about the deportation consequences of a 
+
+21 conviction. 
+
+22  MR. FISHER: That may well be true, Justice 
+
+23 Kagan, but I'm saying in the '96 act, as this Court said 
+
+24 in Padilla, whatever prevail -- whatever doubt there may 
+
+have been about prevailing professional norms 
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 crystallized at that time because of the severity. 
+
+2  And I think that's the second answer I 
+
+3 wanted to give to your question about this so-called 
+
+4 threshold question in Padilla, is that even if there is 
+
+some question as to whether the Sixth Amendment applies 
+
+6 beyond, as the government puts it, criminal jeopardy, 
+
+7 this Court had already answered that question in St. Cyr, 
+
+8 where this Court said, in the text around footnotes 48 
+
+9 and 50, that any competent lawyer would give his client 
+
+advice and a warning about deportation consequences of a 
+
+11 plea. 
+
+12  So even if you needed more than Strickland 
+
+13 itself, St. Cyr gave that to you in 2001, which is 
+
+14 enough to decide this case; it was enough to decide 
+
+Padilla. 
+
+16  JUSTICE ALITO: If a court -- if this Court 
+
+17 were to decide in a future case that effective 
+
+18 assistance of counsel requires an attorney to advise the 
+
+19 client of all collateral consequences, potential loss of 
+
+a professional license, etc., would that be a rule that 
+
+21 was dictated by precedent? 
+
+22  MR. FISHER: I think it would -- I doubt it, 
+
+23 Justice Alito. I think it would depend on what the 
+
+24 prevailing professional norms looked like. 
+
+I take it what this Court said in Strickland 
+
+14
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 and what it reaffirmed in Padilla is, we're not going 
+
+2 to -- we're not going to micromanage effective 
+
+3 assistance of counsel. We're going to leave it to 
+
+4 prevailing professional norms. 
+
+I seriously doubt that prevailing 
+
+6 professional norms would require the holding that you 
+
+7 described; but, to the extend they did, I don't think it 
+
+8 would be a new rule. To the extent they didn't and 
+
+9 this Court said, we're going to push the Sixth Amendment 
+
+beyond that, you would have a new rule. 
+
+11  JUSTICE SCALIA: Mr. Fisher, I suppose you 
+
+12 are right, I'm sure you're right that the mere fact that 
+
+13 there was a dissent in the case that adopted the rule 
+
+14 does not necessarily make it a new rule. But you, on 
+
+the other hand, would agree, would you not, that those 
+
+16 who dissented from that case would regard it as a new 
+
+17 rule? 
+
+18  MR. FISHER: That's a tricky question to 
+
+19 answer, Justice Scalia. 
+
+JUSTICE SCALIA: Well, I think it's an easy 
+
+21 question to answer. 
+
+22  MR. FISHER: Well, I think I could answer it 
+
+23 one of two ways. One is I could say yes, they did -- to 
+
+24 the extent they did regard it as a new rule, I think the 
+
+dissent was, with all due respect, slightly mistaken 
+
+15
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 about what the holding in Padilla was, which was not 
+
+2 to --
+
+3  JUSTICE SCALIA: That's fair. That's fair. 
+
+4 The dissenters ought to reconsider, you're saying. 
+
+MR. FISHER: Well, I think that the way the 
+
+6 dissent put it was -- is that advice is now required 
+
+7 beyond criminal cases and criminal jeopardy. 
+
+8  The way that I think Padilla -- majority 
+
+9 described its holding was that this is a criminal 
+
+defendant in a criminal case entitled to advice from his 
+
+11 criminal lawyer, and the most important piece of advice 
+
+12 as to whether to take a plea or not involves deportation 
+
+13 consequences. 
+
+14  And, Justice Scalia, I think --
+
+JUSTICE KENNEDY: Well, it just seems to me 
+
+16 that the predicate question that we decided in Padilla 
+
+17 was that Strickland applies to matters not within the 
+
+18 control of the trial judge. That it seems to me was a 
+
+19 holding the Court had not addressed before and that 
+
+other courts had not addressed before. 
+
+21  MR. FISHER: Well, it had to be more than 
+
+22 that, Justice Kennedy, because, of course, there is lots 
+
+23 of --
+
+24  JUSTICE KENNEDY: No, this is --
+
+MR. FISHER: -- ineffective assistance 
+
+16
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 cases –-
+
+2  JUSTICE KENNEDY: -- a predicate question. 
+
+3  MR. FISHER: Well, no, no. But I'm saying 
+
+4 there are lots of ineffective assistance cases before 
+
+Padilla that involved matters beyond the judge, that 
+
+6 turned on what the jury did, of course. And I could --
+
+7 I may be able to think of others beyond those two 
+
+8 scenarios, but there's no language to that effect in 
+
+9 Padilla. 
+
+What the Court said is that we have never 
+
+11 created artificial distinctions about what an attorney 
+
+12 has to do. As this Court put it in Strickland, 
+
+13 Strickland itself, the client is advised to his lawyer's 
+
+14 advice about all important decisions. And as this Court 
+
+said in St. Cyr and other cases, the most important 
+
+16 consideration as to whether to plead guilty is whether 
+
+17 somebody will be deported. 
+
+18  And so you put that together and you had all 
+
+19 of the law you needed, certainly by 2001. 
+
+CHIEF JUSTICE ROBERTS: I think you've 
+
+21 been -- you've been asked this, and I'm not sure I got 
+
+22 your answer. Give me an example of something that --
+
+23 like the consequences in Padilla that would not be 
+
+24 covered by your argument? 
+
+MR. FISHER: Well, some sort of consequences 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that -- that prevailing norms didn't require a lawyer to 
+
+2 advise his client on. 
+
+3  So, for example, I would expect that a 
+
+4 lawyer is not necessarily required to give detailed 
+
+advice about future employment opportunities to a client 
+
+6 depending on whether he pleads guilty. 
+
+7  JUSTICE GINSBURG: You answered that 
+
+8 question when I asked it, you said that removal of a 
+
+9 professional license would not fall under -- wouldn't --
+
+would be at least an open question. 
+
+11  MR. FISHER: It -- I think it would be an 
+
+12 open question as to how Strickland would apply. 
+
+13  CHIEF JUSTICE ROBERTS: If you had --
+
+14  MR. FISHER: I simply don't know what the 
+
+prevailing professional norms are in that situation. 
+
+16  CHIEF JUSTICE ROBERTS: If you had that 
+
+17 case, what would you rely on in arguing in favor of the 
+
+18 habeas petition? 
+
+19  MR. FISHER: Well, I would start with --
+
+CHIEF JUSTICE ROBERTS: You would start with 
+
+21 Strickland, and you would talk with -- Padilla, right? 
+
+22  MR. FISHER: Yes, that's what I would do. 
+
+23 And I would look to prevailing professional norms. 
+
+24  And I think, if I could give a generic 
+
+answer, the question would be whether or not that kind 
+
+18
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 of advice is so important to the client's decision 
+
+2 making -- and that's the word the Court used in 
+
+3 Strickland -- that prevailing norms require the lawyer 
+
+4 to give that kind of advice. 
+
+If the answer to that was yes --
+
+6  JUSTICE KENNEDY: Do you want us to write 
+
+7 this opinion in support of your position, and to begin 
+
+8 by saying, prevailing professional norms do not change? 
+
+9  MR. FISHER: No, no, Justice Kennedy. 
+
+JUSTICE KENNEDY: It seems to me that 
+
+11 you're -- that the defense bar generally would want to 
+
+12 say that prevailing professional norms change, but 
+
+13 that -- that hurts you in this case. 
+
+14  MR. FISHER: No, I don't think it does, 
+
+Justice Kennedy. I agree with your premise, I think, 
+
+16 that prevailing professional norms can and do evolve. 
+
+17 And so the question this Court asked in Strickland is, 
+
+18 as of the time the advice was given, did the prevailing 
+
+19 norms require that? 
+
+The advice was given in this case almost at 
+
+21 the identical time of the advice in Padilla and, indeed, 
+
+22 far after St. Cyr. 
+
+23  JUSTICE KENNEDY: I notice -- I'm not sure 
+
+24 it was cited in the brief, but the ABA comment in 1999 
+
+said, now the ABA standard applies to professional 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 standards, and that goes beyond the constitutional 
+
+2 minimum. So that doesn't seem to me to help you, 
+
+3 either. 
+
+4  MR. FISHER: Well, I'm not sure that's what 
+
+the ABA said. I believe the ABA, quite rightly, said, 
+
+6 we don't make constitutional law in this body; we leave 
+
+7 that to the courts. 
+
+8  JUSTICE KENNEDY: It said, it should be 
+
+9 stated that these standards do more than enforce the 
+
+constitutional minimum. 
+
+11  MR. FISHER: Well, I think there may be 
+
+12 elements of the standards that did. 
+
+13  But, remember, we're not just talking about 
+
+14 the ABA here. As this Court noted in Padilla and as one 
+
+of the amicus briefs from NACDL notes in this case, 
+
+16 there's a wide --
+
+17  JUSTICE KENNEDY: Well, I'm talking about 
+
+18 the -- I'm talking about the ABA here, if you want to 
+
+19 give some other authority; but, I say that, it seems to 
+
+me, does not help you. 
+
+21  MR. FISHER: Well, then I'll rely on just 
+
+22 the overall body of professional norms, which is what 
+
+23 this Court looked to in Padilla and what it's always 
+
+24 said it has to look to under Strickland cases. 
+
+If I could return -- if I could transition 
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 to talking about the -- the nature of the 
+
+2 backward-looking effect of Strickland, I think there is 
+
+3 an important second question in this case, that if this 
+
+4 Court were inclined to hold that there was a new rule, 
+
+you'd be forced to confront. And it's a very serious 
+
+6 question involving this Court's administration of 
+
+7 criminal appellate procedure. And that is whether 
+
+8 Teague ought to apply at all in this context. 
+
+9  We believe that under the system this Court 
+
+established in Massaro for handling IAC claims, it 
+
+11 simply doesn't make any sense to apply Teague here and, 
+
+12 indeed, would throw a gigantic monkey wrench into the 
+
+13 way things are -- have been done for the last decade 
+
+14 after that decision. 
+
+And -- and for two reasons: One, in 
+
+16 theory --
+
+17  JUSTICE KAGAN: Mr. Fisher, before you get 
+
+18 to the reasons --
+
+19  MR. FISHER: Yes. 
+
+JUSTICE KAGAN: -- the government says that 
+
+21 you forfeited this argument. Could you address that? 
+
+22  MR. FISHER: Sure. We didn't forfeit this 
+
+23 argument. It's fairly included within our question 
+
+24 presented. We raised it at the first available 
+
+opportunity in the Seventh Circuit because we were 
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 foreclosed by circuit precedent from raising it. So we 
+
+2 raised it before an en banc court. 
+
+3  And in our cert reply brief, lest there be 
+
+4 any doubt, when the government suggested that we would 
+
+be restricted to arguing the new rule question in this 
+
+6 case, we put a footnote in our cert reply brief which 
+
+7 expressly told the Court, no, we view this question 
+
+8 presented as including this additional argument, whether 
+
+9 Teague applies or not. 
+
+So I think we gave fair notice to the Court. 
+
+11 And if you have any doubt --
+
+12  JUSTICE KAGAN: But you haven't presented 
+
+13 this argument to any court before; is that right? 
+
+14  MR. FISHER: We made the argument in an 
+
+en banc petition to the Seventh Circuit, which we 
+
+16 couldn't make it to a panel because Seventh Circuit law 
+
+17 had already held that Teague applied in this context. 
+
+18  JUSTICE ALITO: Is it relevant that this is 
+
+19 a coram nobis proceeding, rather than a habeas 
+
+proceeding? 
+
+21  MR. FISHER: No. I think we agree with the 
+
+22 government that it doesn't -- matter. 
+
+23  The way we see this is it's a first Federal 
+
+24 filing. It's a first post-conviction filing, and it's a 
+
+timely filing. The government is not challenging the 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 timeliness of this filing. 
+
+2  So the question you have to ask yourself is, 
+
+3 under a system where this Court has said that IAC claims 
+
+4 should not be brought on direct review, but rather 
+
+should be brought on collateral review, whether you can 
+
+6 apply Teague at the very first instance that somebody 
+
+7 has to make a constitutional claim, and we think not. 
+
+8 On theory --
+
+9  JUSTICE ALITO: On that question, before 
+
+you -- not in relation to the Massaro argument, but in 
+
+11 relation to the Teague argument, you think the rule in 
+
+12 coram nobis is the same, that the Teague rule applies 
+
+13 fully in coram nobis in the same way that it applies in 
+
+14 habeas? 
+
+MR. FISHER: Well, that's the way the whole 
+
+16 case has been litigated, and I think that's a fair 
+
+17 assumption. 
+
+18  The reason that we're on coram nobis instead 
+
+19 of --
+
+JUSTICE ALITO: Have we ever held that? 
+
+21  MR. FISHER: No, you haven't. And so if you 
+
+22 want to be extra careful, you can -- you can say the 
+
+23 parties haven't challenged that. 
+
+24  Remember, the reason that we're on coram 
+
+nobis is Ms. Chaidez was not in custody. And so if 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 somebody -- so it's, in a sense, interchangeable with a 
+
+2 2255. 
+
+3  JUSTICE ALITO: Well, yes, I understand 
+
+4 that, but the consequences of a retroactive application 
+
+in coram nobis are more severe than they are in habeas, 
+
+6 aren't they, because of the lack of a statute of 
+
+7 limitations? 
+
+8  MR. FISHER: More severe in the sense -- I'm 
+
+9 not sure I understand in what sense. 
+
+JUSTICE ALITO: You -- well, in -- under --
+
+11 under the current Federal habeas statute, you have a 
+
+12 rather short statute of limitations to file the habeas 
+
+13 petition. 
+
+14  Under coram nobis, if you prevail, then 
+
+people who were -- who were convicted of offenses 
+
+16 decades ago can raise the Padilla claim, can they not? 
+
+17  MR. FISHER: I'm not sure they -- I'm not 
+
+18 sure they could, Justice Alito. At Pet. App. 38, you'll 
+
+19 see the district court dealing with the timeliness of 
+
+this petition. And the district court finds that Ms. 
+
+21 Chaidez could proceed because she used all reasonable 
+
+22 diligence in bringing this claim. 
+
+23  And the government can make laches 
+
+24 arguments, can make other arguments to defeat that. The 
+
+government has renounced those -- I mean, they let those 
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 arguments go in the Seventh Circuit and don't raise them 
+
+2 again here. 
+
+3  But I think that, at a minimum, it would be 
+
+4 fair to say that somebody needs to bring a petition as 
+
+soon as the government advises them they're going to 
+
+6 seek deportation. 
+
+7  I'm not even sure, Justice Alito --
+
+8  JUSTICE ALITO: What if someone -- if there 
+
+9 is an attempt to -- a notice of removal for someone 
+
+based on a conviction that occurred a long time ago, 
+
+11 then that would be --
+
+12  MR. FISHER: You could -- you could have a 
+
+13 time lag, but there is two things to remember. First 
+
+14 is, you might have a timely 2255 in that circumstance, 
+
+too, because, remember, in Holland v. Florida, this 
+
+16 Court held that equitable tolling is available for 
+
+17 people with IA -- with ineffective assistance that leads 
+
+18 to them not being able to make the claim earlier. 
+
+19  And the second thing is, as I was discussing 
+
+with Justice Kennedy, the backward-looking aspect of 
+
+21 Strickland would -- would require the party -- once you 
+
+22 get more than a little while back, the prevailing norms 
+
+23 may not -- may not be there for that kind of a claim. 
+
+24  JUSTICE GINSBURG: Mr. Fisher --
+
+MR. FISHER: And so that's --
+
+25
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE GINSBURG: Mr. Fisher, are 
+
+2 you -- you're not making any argument that Teague is 
+
+3 inapplicable because this -- the underlying conviction 
+
+4 here is a federal conviction, not a state conviction, 
+
+and Teague emphasized comity to the states; you're not 
+
+6 making that argument? 
+
+7  MR. FISHER: No, I think you could hold 
+
+8 that, and that is -- that is within our argument. I 
+
+9 don't think you need to go that far, Justice Ginsburg. 
+
+As you said, this Court has said time and again that 
+
+11 Teague relies on comity. That's not present in this 
+
+12 case. 
+
+13  But we think a narrower way to decide this 
+
+14 case, and I think the appropriate way to decide this 
+
+case, is to say, at least for ineffective assistance 
+
+16 claims, when you're bringing -- with a Federal prisoner, 
+
+17 or somebody who has been convicted of a Federal crime, 
+
+18 that's bringing their first petition, that Teague can't 
+
+19 apply. 
+
+And what I was just trying to say is 
+
+21 Strickland itself --
+
+22  JUSTICE KENNEDY: Well, except -- except 
+
+23 that -- and I'm interrupting, in a sense, but it's on 
+
+24 the same track -- except that it seems to me that Teague 
+
+does serve the interest of repose, quite apart from 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 interference with a federal proceeding, and that 
+
+2 interest is surely sacrificed by the holding you wish us 
+
+3 to make here. 
+
+4  MR. FISHER: Well, Justice Kennedy, I'm glad 
+
+you asked because that was what I was going to say. 
+
+6  In Strickland, this Court dealt with 
+
+7 finality very explicitly and said, we're creating this 
+
+8 standard which is different than other constitutional 
+
+9 standards because we're concerned about finality. And, 
+
+as this Court said at pages 697 and 98, so, therefore, 
+
+11 no different rules ought to apply in collateral 
+
+12 proceedings as in direct review, because this Court 
+
+13 assumed in Strickland itself and it assumed expressly 
+
+14 again in Padilla that all of these claims would be on 
+
+collateral review. 
+
+16  So in all these cases the Court has said 
+
+17 finality -- the concern -- the very concern you 
+
+18 mentioned, Justice Kennedy, is already baked into the 
+
+19 Strickland formula. 
+
+JUSTICE SOTOMAYOR: Mr. Fisher, I'm 
+
+21 concerned that creating exceptions to exceptions in 
+
+22 Teague is just a throwback to Linkletter standard --
+
+23  MR. FISHER: Well --
+
+24  JUSTICE SOTOMAYOR: -- where we're making 
+
+choices among situations and saying, these will be 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 retroactive, these won't. 
+
+2  MR. FISHER: Yes. 
+
+3  JUSTICE SOTOMAYOR: Answer that concern on 
+
+4 my part. 
+
+MR. FISHER: Yes. 
+
+6  JUSTICE SOTOMAYOR: And then answer -- the 
+
+7 next step is the Martinez type case --
+
+8  MR. FISHER: Yes. 
+
+9  JUSTICE SOTOMAYOR: -- which is what happens 
+
+with state reviews that are -- that channel IAC claims 
+
+11 to their habeas processes. So what trumps what in that 
+
+12 situation? 
+
+13  MR. FISHER: Okay. Let me answer both those 
+
+14 things. First, we’re not asking this Court to create 
+
+an exception to Teague. We’re simply asking this Court 
+
+16 to say Teague doesn't apply when a claim is, quote, "on 
+
+17 the equivalent of direct review," which is what this 
+
+18 Court said in Martinez v. Ryan. This Court has already 
+
+19 held with respect to IAC that habeas rules, like the 
+
+procedural default rule and like the Stone v. Powell bar 
+
+21 against Fourth Amendment claims, don’t apply in the IAC 
+
+22 context. So this follows exactly from those previous 
+
+23 holdings. 
+
+24  Now, let me say two other things and then I 
+
+can hopefully reserve my time. To answer your question 
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 about Martinez in state cases, it would depend on what 
+
+2 the state system looked like, and I think states have 
+
+3 their own decision to make as to whether they want a 
+
+4 system like Arizona's, where these have to be brought in 
+
+collateral proceedings, or whether, as I understand at 
+
+6 least a couple of states do, say, we're going to stay 
+
+7 and delay the entire direct review process, for years 
+
+8 often, to allow the IAC claim to be brought then. 
+
+9  Now, that's exactly what this Court rejected in 
+
+Massaro, and the government asked this Court to reject 
+
+11 that in Massaro; said we don't want that kind of a 
+
+12 system. I don't know why the government is asking for 
+
+13 it for the first time today. 
+
+14  And finally remember, the last thing I would 
+
+like to say is, all these problems raise not only 
+
+16 finality concerns about the stay and remand procedures 
+
+17 the government suggests; they also raise insoluble 
+
+18 conflicts of interest problems for federal defender 
+
+19 offices, who would have to bring IAC claims against 
+
+themselves on direct review in order to preserve their 
+
+21 ability to -- to get full relief for their client. 
+
+22  JUSTICE KENNEDY: Perhaps on rebuttal -- I 
+
+23 recognize the white light's on -- you could address what 
+
+24 is -- what is the standard you want me to apply to 
+
+determine retroactivity? The brief says, oh, well, it's 
+
+29
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 just new facts applying to the same general rule. Well, 
+
+2 danger invites rescue; the assault on privity is 
+
+3 proceeding to pace; MacPherson v. Buick and the Erie 
+
+4 Railroad case -- it seems to me that those were probably 
+
+new rules, but there -- it's because the facts told us 
+
+6 what should be negligent. If at some point you could 
+
+7 address that, I don't --
+
+8  MR. FISHER: Justice Kennedy, what I would 
+
+9 like to do, and I am happy to elaborate, is the 
+
+formulation as I think you yourself put it in Wright v. 
+
+11 West, which is that a rule that is -- that is applied to 
+
+12 a new set of facts does not create a new rule; but if 
+
+13 you advance the law in some way you do create a new 
+
+14 rule. 
+
+The last thing I would like to say about 
+
+16 consequences is: Remember, the government doesn't even 
+
+17 have any answer for what is going to be half or more of 
+
+18 the situations where people have Padilla-type claims, 
+
+19 which is when they have a guilty plea and waive their 
+
+right to direct appeal. So there the collateral filing 
+
+21 like this is -- is absolutely the equivalent of direct 
+
+22 review. And so I think this Court ought to be very wary 
+
+23 of going down that road. 
+
+24  If I could reserve the time I have left. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  Mr. Dreeben. 
+
+2  ORAL ARGUMENT OF MICHAEL R. DREEBEN 
+
+3  ON BEHALF OF THE RESPONDENT 
+
+4  MR. DREEBEN: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+6  In Padilla v. Kentucky this Court announced 
+
+7 a new rule within the meaning of Teague v. Lane. 
+
+8 Because --
+
+9  JUSTICE SOTOMAYOR: Do you think that's true 
+
+with respect to both components of the advice, the 
+
+11 omission and commission? I mean, it does appear that 
+
+12 every court who dealt with the commission-type claim, 
+
+13 the fraud, the misrepresentation of consequences, said 
+
+14 it's clear you can't lie to your client. Now, is Teague 
+
+now going -- is our ruling here going to depend on the 
+
+16 type of claim that's raised, with respect to IAC? 
+
+17  MR. DREEBEN: Well, Justice Sotomayor, this 
+
+18 Court in Padilla didn't distinguish between misadvice 
+
+19 and omissions to give advice. And it therefore 
+
+adopted --
+
+21  JUSTICE SOTOMAYOR: At least one of our 
+
+22 concurrences did, or talked to. So assuming --
+
+23 assuming -- is your position that is on the 
+
+24 retroactivity, that it applies to both kinds, omissions 
+
+and commissions, and neither is retroactive? 
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. DREEBEN: As for -- as for Padilla's 
+
+2 rationale, the answer is yes, but there is a rationale 
+
+3 that governed, in our view, misadvice claims that 
+
+4 existed before Padilla. It wasn't addressed or embraced 
+
+in Padilla. It was addressed in Justice Alito's 
+
+
+6 concurring opinion. Justice Alito gave two reasons 
+
+
+7 which essentially mirrored the reasons that had been 
+
+
+8 given in the lower courts for treating misadvice 
+
+
+9 differently. And that is, affirmative misadvice 
+
+
+violated a more basic duty of counsel that was well 
+
+11 established, which is not to represent that you're 
+
+12 competent on a matter that you are not competent. 
+
+13  And the second distinction between misadvice 
+
+14 and failure to give any advice is that a client has a 
+
+constitutional right to make his or her own decision 
+
+16 about whether to plead guilty; and a lawyer has a 
+
+17 constitutional duty not to get in the way of that by 
+
+18 affirmatively skewing the client's ability to make that 
+
+19 choice. 
+
+And so I would probably not disagree that 
+
+21 misadvice claim was not new before Padilla and it's not 
+
+22 really addressed by Padilla's rationale. It has its own 
+
+23 independent sources, and the courts that had adopted 
+
+24 that --
+
+JUSTICE SOTOMAYOR: I'm not sure. Are those 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 sources -- when you say sources, it's professional norm 
+
+2 sources? 
+
+3  MR. DREEBEN: It's a different professional 
+
+4 norm and it's a different aspect of the Sixth Amendment 
+
+right. And all of the courts that had adopted 
+
+6 misadvice -- there were three of them that had done it 
+
+7 in the removal context; there were three more that had 
+
+8 done it in the parole eligibility context -- they all 
+
+9 simultaneously adhered to the view that as a general 
+
+matter there is no obligation to give advice about 
+
+11 collateral consequences. 
+
+12  And they did this, I might add, despite the 
+
+13 fact that, as Justice Kennedy alluded, the ABA, which 
+
+14 was cited as one of the key sources of prevailing 
+
+professional norms, stated in Standard 14.3.2, in the 
+
+16 criminal justice pleas of guilty standards: "To the 
+
+17 extent possible, defense counsel should determine and 
+
+18 advise the defendant sufficiently in advance of any plea 
+
+19 as to the possible collateral consequences that might 
+
+ensue from entry of the contemplated plea." 
+
+21  So there was an aspirational professional 
+
+22 norm that collateral consequences would be on the table, 
+
+23 but all Federal courts that had looked at this question 
+
+24 before Padilla had concluded that collateral 
+
+consequences are outside of the duty of criminal defense 
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 counsel. 
+
+
+2  JUSTICE SOTOMAYOR: Could you tell me 
+
+
+3 where -- my colleagues were asking about hypothetical 
+
+
+4 future cases -- I'm asking, do you think that every 
+
+
+evolving professional norm, no matter how well 
+
+
+6 established it becomes, would never be subject to the 
+
+
+7 Teague rule because -- would always be a retroactive 
+
+
+8 application or a new rule? 
+
+
+9  MR. DREEBEN: No, Justice Sotomayor. 
+
+
+JUSTICE SOTOMAYOR: Are we frozen in time to 
+
+11 whatever the professional standards are that exist today 
+
+12 that the Court has recognized so far? 
+
+13  MR. DREEBEN: No, Justice Sotomayor. And I 
+
+14 think this is the key point about Strickland. 
+
+Justice Kennedy made this point in a concurrence in 
+
+16 Wright v. West, and it was later cited by the Court 
+
+17 as -- as reflecting an accurate understanding of 
+
+18 Strickland. It is a basic norm of professional 
+
+19 competence, and it does not turn on professional --
+
+prevailing professional norms in publications such as 
+
+21 the ABA. They are informative. 
+
+22  And those norms can evolve. The Court can 
+
+23 then announce Sixth Amendment applications of them that 
+
+24 will be not -- not new rules. This Court has decided 
+
+close to 30 Strickland cases, according to our count 
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 since the 1984 decision in Strickland. 
+
+2  JUSTICE SCALIA: What's -- what's the sense 
+
+3 of that? Why -- why -- let's assume, you know, at the 
+
+4 time the guilty plea or whatever occurred, it was not 
+
+the professional norm, and then later the professional 
+
+6 norms change and he makes the argument that -- that he's 
+
+7 entitled to relief, and you say yes, because --
+
+8  MR. DREEBEN: No, I say no, Justice Scalia, 
+
+9 because professional norms are judged as of the time of 
+
+the attorney's action. So although the professional 
+
+11 norms can evolve, Strickland always looks to an actor at 
+
+12 the time of the decision. 
+
+13  JUSTICE SCALIA: Is that what your opponent 
+
+14 contends as well? 
+
+MR. DREEBEN: I think you probably should 
+
+16 ask my opponent what he contends, but Strickland is 
+
+17 fairly clear that professional norms at the time of the 
+
+18 attorney's action are what governs. 
+
+19  JUSTICE BREYER: All right, so given the ABA 
+
+and everything else, why doesn't that apply here? 
+
+21  MR. DREEBEN: Well, the ABA doesn't state 
+
+22 this Court's interpretation of the Sixth Amendment. 
+
+23 This Court made that very clear in Roe versus --
+
+24  JUSTICE BREYER: No, but I mean if the 
+
+general rule is that Strickland evolves to pick up 
+
+35
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 changing professional norms, and that -- you looked at 
+
+2 30 cases and that's what you get out of them -- and then 
+
+3 it turns out that at the time this case began, there was 
+
+4 such a professional norm; and all that happened in 
+
+Padilla is that the Court following its general practice 
+
+6 said apply that professional norm; then why doesn't the 
+
+7 other side win? 
+
+8  MR. DREEBEN: Well, first of all, 
+
+9 Justice Breyer, that's not what the Court did in 
+
+Padilla. What the Court did in Padilla, as Justice 
+
+11 Kagan explained, in section two of its opinion was first 
+
+12 to address the question whether a criminal defense 
+
+13 lawyer had any obligation to give advice about a 
+
+14 consequence that would not be administered in the 
+
+criminal case itself. 
+
+16  No decision of this Court had ever held that 
+
+17 the obligations of a criminal defense lawyer under the 
+
+18 Sixth Amendment extended to that. 
+
+19  JUSTICE BREYER: That, of course, is true, 
+
+but the professional norm had evolved by the time of the 
+
+21 proceeding here that they would. 
+
+22  MR. DREEBEN: That was not the basis of the 
+
+23 Court's decision. The Court --
+
+24  JUSTICE BREYER: No, but -- in the other --
+
+in the other, by the way, in the other 29 cases, did the 
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 court specifically say in each of those 29 cases that 
+
+2 the basis of our decision is that the professional norm 
+
+3 has evolved and we apply the new professional norm as of 
+
+4 the time? 
+
+MR. DREEBEN: Most of the cases involved 
+
+6 well-settled duties, like the duty to investigate, 
+
+7 applied to particular sets of facts. That doesn't 
+
+8 generate a new rule. 
+
+9  What was unique in Padilla is that the Court 
+
+had to address something that it had never done before, 
+
+11 whether the criminal defense lawyer had to give advice 
+
+12 about a consequence that the sentencing court had no 
+
+13 control over. 
+
+14  And in resolving that question, this Court 
+
+did not cite professional norms. It did not cite the 
+
+16 ABA. It did not cite any of the defense manuals that 
+
+17 recommend that lawyers advise aliens about the 
+
+18 possibility of deportation. 
+
+19  It instead traced the statutory evolution of 
+
+the relationship between deportation and criminal 
+
+21 justice, it examined its own cases that had discussed 
+
+22 what a competent defense lawyer ought to think about, 
+
+23 and it discussed statutory evolution. And it drew from 
+
+24 that the principle that deportation is uniquely tied to 
+
+the criminal prosecution in a way that no other 
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 collateral consequence possibly is, and, therefore, the 
+
+2 Court did not decide any other collateral consequence. 
+
+3  JUSTICE KENNEDY: Well, as I recall, correct 
+
+4 me if I'm wrong, one of the principal sources the Court 
+
+cited in Padilla was common sense. 
+
+6  MR. DREEBEN: Yes. 
+
+7  JUSTICE KENNEDY: Does common sense change? 
+
+8  MR. DREEBEN: Common sense may evolve --
+
+9  JUSTICE KENNEDY: I mean, Tom Paine wrote 
+
+about it, so, you know, since its original. 
+
+11  MR. DREEBEN: Justice Kennedy, I think the 
+
+12 Court relied on the idea that any lawyer worth his salt 
+
+13 would inform a defendant about a particularly important 
+
+14 consequence, a momentous consequence of pleading guilty. 
+
+You probably would say the same thing to 
+
+16 somebody who you knew was an avowed hunter and would 
+
+17 lose the right to have firearms, or a politician that 
+
+18 would lose the right to hold office, or a doctor who 
+
+19 would lose a medical license, all of which can be 
+
+automatic consequences of a conviction; actually, more 
+
+21 automatic than deportation, because deportation is 
+
+22 administered by a separate body, oftentimes by a 
+
+23 separate sovereign that has discretion whether to even 
+
+24 institute deportation proceedings. 
+
+And so the fact that we might all share an 
+
+38
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 intuition that good lawyers should advise their clients 
+
+2 about the panoply of consequences that they will 
+
+3 experience by pleading guilty, the reality is that until 
+
+4 Padilla, the Court had never veered from the track of 
+
+saying the lawyer's duty is to help the client figure 
+
+6 out what his odds are of prevailing at trial, what the 
+
+7 sentencing consequences are, whether there are any 
+
+8 affirmative defenses, and what the rights are that the 
+
+9 client would give up by pleading guilty. 
+
+JUSTICE GINSBURG: Mr. Dreeben, Padilla 
+
+11 itself was a collateral proceeding. And if the state 
+
+12 can argue in Padilla itself that a new rule was being 
+
+13 sought and that that was permissible only on direct 
+
+14 review, should the state have prevailed? 
+
+MR. DREEBEN: No, Justice Ginsburg, because 
+
+16 this Court held in Danforth v. Minnesota that Teague is 
+
+17 an interpretation of the Federal habeas statute. It's 
+
+18 an implied delegation to the Court to frame appropriate 
+
+19 rules for Federal collateral review. 
+
+JUSTICE GINSBURG: But this Court is a 
+
+21 Federal court, so --
+
+22  MR. DREEBEN: Well, this --
+
+23  JUSTICE GINSBURG: -- if your concern of 
+
+24 Teague is comity, concern about -- the states running 
+
+their own system, I understand the different – the 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 state collateral and the Federal collateral view; but, 
+
+2 if the idea of Teague is we don't want the Federal court 
+
+3 to come in there and overlook what the state court did, 
+
+4 why wouldn't that apply to this court reviewing a state 
+
+court decision as much as it would apply to a Federal 
+
+6 district court at a hearing habeas from a state 
+
+7 conviction? 
+
+8  MR. DREEBEN: Well, Danforth made clear that 
+
+9 states have discretion whether to adopt Teague-like 
+
+rules. They do not have to. They can allow their 
+
+11 citizens to have the benefit of new rules in state 
+
+12 convictions. And this Court is doing nothing other than 
+
+13 honoring the state's own policy choice. 
+
+14  JUSTICE GINSBURG: Well, do we know that 
+
+that's true in Kentucky? 
+
+16  MR. DREEBEN: I think Kentucky does have a 
+
+17 Teague-type rule, but the Kentucky Supreme Court decided 
+
+18 the issue on the merits. The state never raised Teague 
+
+19 here. Teague is waivable. So even if you do not agree 
+
+with me, Justice Ginsburg, that Danforth means that 
+
+21 Teague had no relevance whatsoever, Teague was waived by 
+
+22 the state. The state never addressed it. And this --
+
+23  JUSTICE GINSBURG: And this Court could not 
+
+24 have raised it on its own? 
+
+MR. DREEBEN: Could have, but didn't. There 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 is nothing in the majority opinion that says that Teague 
+
+2 is an issue. 
+
+3  Now, again, when I say could have, but 
+
+4 didn't, that reflects the -- the reality that this Court 
+
+can do certain things sua sponte. I do not think that 
+
+6 in a case coming from a state system Teague has anything 
+
+7 to do with it. Whether this Court is reviewing the case 
+
+8 on direct review from a state system or reviewing a 
+
+9 state collateral proceeding, Teague is not an issue. 
+
+It's solely an issue when you have a 2254 proceeding or 
+
+11 a 2255 proceeding. 
+
+12  JUSTICE KENNEDY: What is -- what is the 
+
+13 standard that you wish us to apply? A new rule is 
+
+14 announced when -- when you fill in the blank. And after 
+
+you fill in the blank, is your principal argument that 
+
+16 here the distinction is between the direct consequences 
+
+17 of the conviction that are under the control of the 
+
+18 Court and collateral consequences? Two different 
+
+19 questions. 
+
+MR. DREEBEN: Justice Kennedy, my test is 
+
+21 not a new rule. My test for Teague new rules is this 
+
+22 Court's test: Whether the decision was dictated by 
+
+23 precedent so that any reasonable jurist would have 
+
+24 reached that result, or, to put it another way, that no 
+
+reasonable jurist could not have. 
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE KENNEDY: That's a little bit like 
+
+2 the AEDPA standard. 
+
+3  MR. DREEBEN: It's similar. I think the 
+
+4 Court has said that things that don't count as new rules 
+
+under Teague can also be cognizable under AEDPA. AEDPA 
+
+6 has a contrary to provision, as well as an unreasonable 
+
+7 application provision, as Mr. Fisher pointed out; but, 
+
+8 as far as the contrary to provision works, it parallels 
+
+9 Teague. 
+
+So we're not asking the Court to make any 
+
+11 new rules up about Teague. We're asking the Court to --
+
+12 to apply Teague. 
+
+13  And in the application of Teague, the 
+
+14 government is relying on this Court's form of analysis, 
+
+which is you look at the state of the law at the time of 
+
+16 the decision in question, when the decision became 
+
+17 final, and you ask whether precedent compelled the 
+
+18 result that a later decision reached. And --
+
+19  JUSTICE GINSBURG: Have we applied -- have 
+
+we applied Teague to Federal convictions before? 
+
+21  MR. DREEBEN: This Court has not, except in 
+
+22 the sense that in Bousley v. United States, the Court 
+
+23 ran through a Teague analysis before holding that a 
+
+24 substantive interpretation of a Federal statute is not 
+
+captured by Teague. So, in that sense, the Court has 
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 presumed the applicability, but it hasn't squarely held 
+
+2 it. 
+
+3  JUSTICE GINSBURG: It hasn't. 
+
+4  And at least one important basis for the 
+
+Teague rule is the comity to the state court system, 
+
+6 which you don't have when the underlying conviction is a 
+
+7 Federal conviction. 
+
+8  MR. DREEBEN: True, Justice Ginsburg, but 
+
+9 this Court has also recognized that Federal courts have 
+
+an interest in the finality of Federal convictions 
+
+11 that's every bit as strong as state courts. 
+
+12  And so, for example, in 
+
+13 United States v. Frady, the Court applied the procedural 
+
+14 default rule exactly the same as it applies in state 
+
+cases to Federal 2255 proceedings. 
+
+16  JUSTICE KENNEDY: But the second part of my 
+
+17 question that you were about to answer was whether or 
+
+18 not it's dictated by precedent, and in this case, it was 
+
+19 not dictated by precedent because it applied to 
+
+collateral consequences; or, what's the because? 
+
+21  MR. DREEBEN: Well, there are two becauses. 
+
+22 One is no court had held, as this Court did in Padilla, 
+
+23 that deportation, though not administered by the 
+
+24 sentencing court, was so intimately tied to the criminal 
+
+case that the direct collateral distinction was not 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 useful in this context. There was no precedent that 
+
+
+2 dictated that. 
+
+
+3  And then, more generally, as you're 
+
+
+4 suggesting, Justice Kennedy, the lower courts had all 
+
+
+adopted the direct collateral reviews. Ten courts of 
+
+6 appeals in published decisions, the Sixth Circuit in an 
+
+7 unpublished decision, 28 states and the District of 
+
+8 Columbia had all adhered to that line. 
+
+9  JUSTICE SOTOMAYOR: So unanimous error makes 
+
+right? 
+
+11  I'm not being -- I'm not trying to be 
+
+12 sarcastic. I'm trying to see -- in almost every case we 
+
+13 get here, there are split opinions below. Sometimes the 
+
+14 split is significant or closer than other times. The --
+
+where do we draw that line? Where in the next case is 
+
+16 any time there is a split below or where there's an 
+
+17 unanimity of opinion below, it won't fall under -- it 
+
+18 will automatically create a new rule? 
+
+19  MR. DREEBEN: I would not suggest that the 
+
+Court adopt a mechanical approach. Here, all of the 
+
+21 factors that the Court has looked at all align in the 
+
+22 same direction. The lower courts, Federal courts, had 
+
+23 all agreed that deportation was not the subject of a 
+
+24 duty of advice. The majority of the States had held the 
+
+same. 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  This Court's decision in Padilla was 
+
+2 significantly splintered, with four justices challenging 
+
+3 the majority's rule as a dramatic expansion and upheaval 
+
+4 in Sixth Amendment law. And then when you actually look 
+
+at the Court's Sixth Amendment jurisprudence, Padilla 
+
+6 did not claim that any decision was controlling of its 
+
+7 holding. 
+
+8  The closest case was the Hill case, 
+
+9 Hill v. Lockhart, and in that case the Court approached 
+
+a collateral consequence, namely, parole eligibility 
+
+11 dates, and it said: We don't have to decide that issue 
+
+12 on whether parole eligibility dates can be the subject 
+
+13 of a Strickland claim, because Hill had failed to show 
+
+14 prejudice. And therefore, it was recognized as an open 
+
+issue whether a consequence that's not administered by 
+
+16 the sentencing court could be within Strickland. 
+
+17  So when you have the coalescence of all of 
+
+18 those factors, I don't think that's a case where the 
+
+19 Court has to draw a fine line between when a sufficient 
+
+split below is enough to --
+
+21  JUSTICE BREYER: Can you go back for a 
+
+22 second to Justice Ginsburg's question? I'd like -- I 
+
+23 just don't want you to leave without -- without 
+
+24 answering the following: Normally a new rule that this 
+
+Court announces would apply to cases on direct review. 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. DREEBEN: Correct. 
+
+2  JUSTICE BREYER: Right. In the case of 
+
+3 inadequate assistance of counsel, without being picky, 
+
+4 the place where that claim is best developed, in my view 
+
+is first collateral, because for reasons we both 
+
+6 understand. All right. So given the fact that by and 
+
+7 large it is, and I think should be, developed in that 
+
+8 way, why not treat in the case of an inadequate 
+
+9 assistance claim the first collateral as in other claims 
+
+you treat direct review? 
+
+11  MR. DREEBEN: Justice Breyer, let me give 
+
+12 you a merits answer to that question, and then an answer 
+
+13 on why I do not think Petitioner has fairly preserved or 
+
+14 presented that issue to this Court. 
+
+The merits answer is that Teague reflects a 
+
+16 fundamental judgment that when a case is final on its 
+
+17 direct review, society has a strong interest in 
+
+18 protecting that judgment. And the exception to that is 
+
+19 when the state or the Federal government has not 
+
+conformed to existing constitutional law. 
+
+21  Now, bringing that down to earth for 
+
+22 ineffective assistance claims, at the time that Ms. 
+
+23 Chaidez's conviction became final, and all convictions 
+
+24 that became final before Padilla, jurisdictions had no 
+
+reason to think that they needed to protect against the 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 possibility that a criminal defense lawyer would not 
+
+2 have advised about deportation, because the unanimous 
+
+3 view was that's not something that's the Sixth Amendment 
+
+4 duty. 
+
+Immediately after Padilla came down 
+
+6 reflecting that it was, the Criminal Rules Committee 
+
+7 began considering an amendment to Rule 11, which is now 
+
+8 pending before the Judicial Conference, that would 
+
+9 require judges to advise defendants about the 
+
+possibility of deportation consequences. In other 
+
+11 words --
+
+12  JUSTICE GINSBURG: It was -- it was approved 
+
+13 by the Judicial Conference in September. 
+
+14  MR. DREEBEN: I will accept that, if that's 
+
+correct, Justice Ginsburg. 
+
+16  The point is that as soon as Padilla made it 
+
+17 clear that a constitutional rule about defense counsel 
+
+18 could threaten the finality of guilty pleas, the Rules 
+
+19 Committee has taken steps to protect the integrity of 
+
+federal judgments through a Rule 11 amendment. It had 
+
+21 no opportunity or reason to do that -- I can't say no 
+
+22 opportunity, but it had no reason to do that as a 
+
+23 constitutional matter until the Court decided Padilla. 
+
+24 And so there is a logical relationship between --
+
+JUSTICE BREYER: You could say that, you 
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 could say that same thing precisely about the cases on 
+
+2 direct review which have not been completed. I mean, 
+
+3 you could give all those arguments exactly the same. If 
+
+4 you're worried about the time, you could have time 
+
+limits on the first Federal -- the first Federal habeas 
+
+6 or state habeas. 
+
+7  There are time limits there. You could add 
+
+8 to those. And the -- the -- the direct review is itself 
+
+9 a balance.  It's a balance between the surprise and need 
+
+to complicate the case, and it hasn't really finished 
+
+11 and da, da, da, versus the problem of giving a person a 
+
+12 chance to raise this argument even for a new rule. 
+
+13  MR. DREEBEN: Yes. I --
+
+14  JUSTICE BREYER: And so all those -- those 
+
+are the -- when you look at the functional factors, it 
+
+16 looks quite similar to me and I'm trying to --
+
+17  MR. DREEBEN: I don't think that it's quite 
+
+18 identical, Justice Breyer, but there are additional 
+
+19 considerations that are at stake here, too. First of 
+
+all, Massaro, which Mr. Fisher relies on, doesn't 
+
+21 preclude a defendant from raising a claim on direct 
+
+22 review. It says that it's not a procedural default if 
+
+23 he does not do that. A criminal defendant will probably 
+
+24 not be in great shape to raise a -- a new rule claim on 
+
+direct review, but he also will not be in great shape to 
+
+48
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 raise it on collateral review. 
+
+2  Unless this Court alters its Sixth Amendment 
+
+3 holdings, such a defendant will be pro se, they will not 
+
+4 have a lawyer, they will be pretty much in the same fix 
+
+that they are in on direct review. 
+
+6  Now, if this Court announces that new rules 
+
+7 under Strickland are not going to be applied to 
+
+8 defendants whose convictions became final, then those 
+
+9 defendants who want to raise a new rule claim are on 
+
+notice that they'll need to do it on direct review. 
+
+11 Courts of appeals will be on notice that if someone 
+
+12 raises such a claim, the appropriate thing to do is to 
+
+13 adjudicate it or remand for its adjudication. 
+
+14  Now, right now the D.C. Circuit doesn't 
+
+follow Massaro. It does remand ineffective assistance 
+
+16 claims. Mr. Fisher said he was unable to locate any 
+
+17 cases where this actually happened. You don't have to 
+
+18 look any further than down the road to the arguments 
+
+19 next week in Smith v. United States, which involves a 
+
+different issue, but the D.C. Circuit remanded an 
+
+21 ineffectiveness claim in that case to the district court 
+
+22 in direct review. It has a practice of doing that. 
+
+23  This is actually a much easier process to 
+
+24 administer than a general exception to Massaro, 
+
+because --
+
+49
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SOTOMAYOR: We -- we're seeming to 
+
+2 go backwards. You -- you seem to be arguing against 
+
+3 something that you didn't want previously, that there 
+
+4 should be a stay and determine these IAC claims on 
+
+direct appeal. It seems to be your argument that that's 
+
+6 the preferred process now. 
+
+7  MR. DREEBEN: It's not a preferred process 
+
+8 for ineffectiveness claims generally. I think Massaro 
+
+9 makes that clear. But you have to understand how rare a 
+
+new rule under Strickland really is, the way that the 
+
+11 Court has administered Strickland to date. 
+
+12  Applications of the existing Strickland 
+
+13 standard to particular sets of facts are not new rules. 
+
+14 That's why in the 28 years since Strickland none of this 
+
+Court's decisions, and there are about 30 of them, under 
+
+16 Strickland added up to a new rule. Padilla broke ground 
+
+17 because it answered the question, not how does 
+
+18 Strickland apply, but whether it applies at all to 
+
+19 something outside the compass of the sentencing court. 
+
+And so in that respect, there's no reason 
+
+21 why the standard practice under Massaro should change if 
+
+22 this Court were to address the issue and make clearer 
+
+23 that new rules are not going to be applied on collateral 
+
+24 review. 
+
+JUSTICE KAGAN: Mr. Dreeben, if 
+
+50
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Justice Breyer were right, that there should be sort of 
+
+2 one run -- run up the flagpole and that Teague doesn't 
+
+3 kick in until that one run up the flagpole and here 
+
+4 because of Massaro the one run should include collateral 
+
+review of IAC claims, if that's right, what are the 
+
+6 costs of that? Is that an extra year to the statute of 
+
+7 limitations for bringing a collateral claim or is it 
+
+8 something more than that? 
+
+9  MR. DREEBEN: It could be something more 
+
+than that, because if the Court announces a new rule and 
+
+11 makes it retroactive to a case on collateral review, 
+
+12 (f)(3) of the statute of limitations provision gives the 
+
+13 defendant another 1 year. And I think this case 
+
+14 actually illustrates the mischief of that. This case 
+
+doesn't arise on collateral review. It arises on coram 
+
+16 nobis 5 years after the conviction became final. 
+
+17  Now, if Petitioner were really serious that 
+
+18 this Court should carve out from Teague ineffectiveness 
+
+19 claims and adopt a rule just like the one that it did in 
+
+Martinez v. Ryan, which is what he says on page 31 of 
+
+21 his brief, then the Court should not give him the 
+
+22 benefit of that rule, because Ms. Chaidez was on 
+
+23 probation for 4 years after her conviction, she could 
+
+24 have raised this claim after her conviction and sued. 
+
+She did not do that. She had her opportunity. She 
+
+51
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 didn't take advantage of it. And I think this helps 
+
+2 underscore why, if I can turn to this issue not being 
+
+3 properly presented in the Court. 
+
+4  Petitioner did not raise the ineffective 
+
+assistance of counsel type carve-out from Teague that 
+
+6 Mr. Fisher raises in this case. 
+
+7  That debuted for the first time in his 
+
+8 merits brief after certiorari was granted. The 
+
+9 government acquiesced to get resolution of the new rule 
+
+question that had divided the circuits and that will 
+
+11 exist. However this Court resolves this case, if it 
+
+12 chooses to resolve it on the Massaro grounds, the new 
+
+13 rule issue will still be salient for the States, it's 
+
+14 still a circuit conflict that the Court needs to 
+
+address. It was not raised below, it wasn't raised in 
+
+16 the certiorari petition. 
+
+17  The en banc petition raised a very general 
+
+18 argument that Teague should not apply to federal 
+
+19 convictions along the lines of what Justice Ginsburg 
+
+asked me about, whether comity concerns and their 
+
+21 absence meant there should be a difference. 
+
+22  So you've got an argument that, so far as I 
+
+23 can tell, has never been made to any Federal court 
+
+24 before it's been made to this Court, and it would be 
+
+remarkable for the Court to adopt that and then have to 
+
+52
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 figure out, how does it apply. Does Teague ever kick 
+
+
+2 in? Is it a permanent exemption for ineffective 
+
+
+3 assistance claims? 
+
+
+4  Lots of questions that no lower court has 
+
+
+looked at, and that I would suggest this Court should 
+
+6 not be the first to answer. 
+
+7  It also raises an entirely new set of 
+
+8 questions about whether Brady -- which also are kinds of 
+
+9 claims that are typically raised on collateral review --
+
+should now be exempt from Teague jurisprudence? 
+
+11  I think the Court would really be engaging 
+
+12 in kind of a sort of examination of Teague that had 
+
+13 never happened before. It's sort of like experimental 
+
+14 surgery on Teague. Shouldn't really happen in this 
+
+Court in the first instance. 
+
+16  JUSTICE GINSBURG: Although you said you 
+
+17 recognize that we have not had a Teague case involving a 
+
+18 Federal conviction, I mean, there is lots of language in 
+
+19 Teague cases about the Federal courts not interfering 
+
+with state courts, that Teague was intended to minimize 
+
+21 Federal intrusion into state criminal proceedings, to 
+
+22 limit the authority of the Federal courts to overturn 
+
+23 state convictions. I mean, we have really pressed 
+
+24 that -- that basis. 
+
+MR. DREEBEN: True, but Petitioner is not 
+
+53
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 pressing that basis on this Court. He's all but 
+
+2 disavowed it. He's not seriously argued it in response 
+
+3 to our brief that opposed his brand new ineffectiveness 
+
+4 carveout from Teague. What he has done instead is 
+
+concentrated much more on an analogy to Massaro. 
+
+6  If I could give one more reason why I think 
+
+7 the Court should refrain from entertaining that 
+
+8 Massaro-based analogy here, the Court has just begun to 
+
+9 embark in the Martinez v. Ryan line of cases on trying 
+
+to figure out how ineffectiveness claims should be 
+
+11 handled on collateral review. 
+
+12  It grants its certiorari on Monday in 
+
+13 Trevino v. Thaler, where it's going to explore how does 
+
+14 Martinez apply in a jurisdiction that may be more like 
+
+the Federal system in that ineffective assistance of 
+
+16 counsel claims aren't channeled only to direct review, 
+
+17 they can be asserted on direct -- I'm sorry -- only to 
+
+18 collateral review, they can be asserted on direct 
+
+19 review. They are channeled largely to collateral 
+
+review, but not as a matter of law. 
+
+21  So the Court has a lot of work to do in 
+
+22 figuring out what that decision means. And I think 
+
+23 rather than embark on a brand new process of applying 
+
+24 that kind of reasoning in a case where it was never 
+
+raised below, where the government never really had the 
+
+54
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 opportunity to counter any of those arguments, and the 
+
+2 lower court never had the opportunity to consider them, 
+
+3 it's not a wise use of the Court's resources. 
+
+4  Instead, resolving the new rule question 
+
+that has divided the circuits would provide an answer 
+
+6 for us and the 28 states that filed an amicus brief that 
+
+7 supported the United States on the new rule question, 
+
+8 and would result, I think, appropriately, in concluding 
+
+9 that Padilla was a new rule, unique among this Court's 
+
+Strickland jurisprudence up to that time, and is not 
+
+11 available to cases on collateral review. 
+
+12  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+13  Mr. Fisher, you have two minutes remaining. 
+
+14  REBUTTAL ARGUMENT OF JEFFREY L. FISHER 
+
+ON BEHALF OF THE PETITIONER 
+
+16  MR. FISHER: Thank you. 
+
+17  I'd like to make two points. 
+
+18  The first is, picking up where Mr. Dreeben 
+
+19 left off, I'm not asking for any anything that is 
+
+difficult. 
+
+21  Mr. Dreeben referred to the Frady case, 
+
+22 where this Court held that there is enough of an 
+
+23 interest in finality to have procedural default apply to 
+
+24 federal post-conviction review. Yet, in Massaro, this 
+
+Court carved out IAC claims. 
+
+55
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  Exactly the same analysis applies here, and 
+
+2 I do think the Court really ought to answer that 
+
+3 question in this case because, if you hold that Padilla 
+
+4 is a new rule and that Teague now applies to IAC claims, 
+
+rest assured the Federal courthouses are going to be 
+
+6 flooded, flooded with Federal -- with Federal defenders 
+
+7 and other criminal lawyers raising IAC claims on direct 
+
+8 review. There'd be nothing else a responsible lawyer 
+
+9 could do, because if you say Teague applies on -- if you 
+
+wait until collateral review, but it doesn't apply on 
+
+11 direct review, any responsible lawyer seeking to protect 
+
+12 his client has to bring it on direct review. It's going 
+
+13 to absolutely change the way criminal procedure and 
+
+14 criminal appellate procedure happens in the Federal 
+
+court system. 
+
+16  The second point I wanted to make is back to 
+
+17 the new rule question. I think I heard Mr. Dreeben say 
+
+18 that the lower courts that had said that misadvice about 
+
+19 deportation consequences violated Strickland had said 
+
+something that was within Strickland that didn't 
+
+21 constitute a new rule. So it can't be that Strickland 
+
+22 broke new ground, if he's correct, by saying deportation 
+
+23 advice falls within the ambit of the Sixth Amendment in 
+
+24 a guilty plea context. 
+
+The only thing he relies on in the end is 
+
+56
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 this distinction the lower courts had drawn between acts 
+
+2 and omissions. And that's exactly the distinction in 
+
+3 Strickland that this Court rejected. 
+
+4  And in Padilla itself, this Court used the 
+
+word absurd. And I think, Justice Kennedy, when you 
+
+6 mentioned commonsense, I think we could throw that in, 
+
+7 too. 
+
+8  And so to the extent that the argument, at 
+
+9 the end of the day when everything's stripped away, is 
+
+that the lower courts were reasonable in saying that 
+
+11 failing to advise about the most important thing a 
+
+12 client would have been thinking as to whether to plead 
+
+13 guilty is not ineffective assistance of counsel, whereas 
+
+14 giving bad advice is, that's a line that Strickland 
+
+itself rejected, that Flores-Ortega rejected when it 
+
+16 came to the right to appeal and whether the lawyer ought 
+
+17 to give advice; and, it's a line that this Court in 
+
+18 Padilla had no difficulty whatsoever rejecting and 
+
+19 called it absurd. 
+
+JUSTICE SOTOMAYOR: Mr. Fisher, can I go 
+
+21 back to one of your points? Your red light is on, but 
+
+22 it is important. The floodgate issue. 
+
+23  MR. FISHER: Yes. 
+
+24  JUSTICE SOTOMAYOR: I'm not sure about the 
+
+floodgates for the following reason. Once we announce 
+
+57
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+  
+
+  
+
+25
+
+Official 
+
+1  Padilla, any pending direct claim and any pending 
+
+2  collateral claim that arises after Padilla for something 
+
+3  that happened after Padilla would be covered by the 
+
+4  rule, so there'd be no bar to those claims. So the 
+
+floodgate is temporary, if there is --
+
+6  MR. FISHER: No, it's not, 
+
+7  Justice Sotomayor. 
+
+8  The issue arises because Teague ordinarily 
+
+9  comes into play when somebody asks the Court to create a 
+
+new rule and apply it to him. So all the hypotheticals 
+
+11  we've talked about today, about would Strickland apply 
+
+12  here, would Strickland apply there, to parole advice, to 
+
+13  professional license, all of those claims would be 
+
+14  asking, if the government's correct, for a new rule. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+16  MR. FISHER: And so all of those claims 
+
+17  would have to be brought. 
+
+18  Thank you. 
+
+19  CHIEF JUSTICE ROBERTS: The case is 
+
+submitted. 
+
+21  (Whereupon, at 11:02 a.m., the case in the 
+
+22  above-entitled matter was submitted.) 
+
+23 
+
+24 
+
+58
+ 
+Alderson Reporting Company 
+
+
+
+OfficialOfficial 
+
+59 
+
+A 43:23 45:15 24:3,10,18 appealing 8:7 26:14 39:18 
+ABA 19:24,25 50:11 25:7,8 32:6 appeals 4:2 13:6 49:12 
+
+20:5,5,14,18 administration Alito's 32:5 44:6 49:11 appropriately 
+33:13 34:21 21:6 allow 29:8 40:10 appear 31:11 55:8 
+35:19,21 37:16 adopt 40:9 alluded 33:13 APPEARAN... approved 47:12 
+
+ability 29:21 44:20 51:19 Alright 12:16 1:14 argue 39:12 
+32:18 52:25 alters 49:2 appellate 21:7 argued 54:2 
+
+able 17:7 25:18 adopted 15:13 ambit 5:24 56:14 arguing 18:17 
+above-entitled 31:20 32:23 56:23 applicability 22:5 50:2 
+
+1:11 58:22 33:5 44:5 amendment 43:1 argument 1:12 
+absence 52:21 advance 30:13 5:12,24 6:10 application 7:15 2:2,5,8 3:3,7 
+absolutely 30:21 33:18 11:12 14:5 8:1,17,17,19 3:18 5:11,14 
+
+56:13 advantage 52:1 15:9 28:21 11:17 24:4 5:18 11:20 
+absurd 57:5,19 advice 4:12,12 33:4 34:23 34:8 42:7,13 17:24 21:21,23 
+accept 47:14 4:20,20 5:15 35:22 36:18 applications 5:6 22:8,13,14 
+accurate 13:12 6:8 10:5,6,9,12 45:4,5 47:3,7 34:23 50:12 23:10,11 26:2 
+
+34:17 14:10 16:6,10 47:20 49:2 applied 3:22 8:5 26:6,8 31:2 
+acquiesced 52:9 16:11 17:14 56:23 8:22 22:17 35:6 41:15 
+act 4:7 12:24 18:5 19:1,4,18 amicus 20:15 30:11 37:7 48:12 50:5 
+
+13:5,5,13,16 19:20,21 31:10 55:6 42:19,20 43:13 52:18,22 55:14 
+13:18,23 31:19 32:14 analogy 54:5,8 43:19 49:7 57:8 
+
+action 35:10,18 33:10 36:13 analysis 42:14 50:23 arguments 
+actor 35:11 37:11 44:24 42:23 56:1 applies 11:12 24:24,24 25:1 
+acts 4:13,21 56:23 57:14,17 announce 34:23 14:5 16:17 48:3 49:18 
+
+57:1 58:12 57:25 19:25 22:9 55:1 
+add 33:12 48:7 advise 14:18 announced 31:6 23:12,13 31:24 arises 51:15 
+added 50:16 18:2 33:18 41:14 43:14 50:18 58:2,8 
+additional 22:8 37:17 39:1 announces 56:1,4,9 Arizona's 29:4 
+
+48:18 47:9 57:11 45:25 49:6 apply 6:13 7:24 artificial 6:24 
+address 21:21 advised 17:13 51:10 8:14 18:12 12:6 17:11 
+
+29:23 30:7 47:2 answer 9:18,21 21:8,11 23:6 asked 6:22 
+36:12 37:10 advises 25:5 13:4 14:2 26:19 27:11 17:21 18:8 
+50:22 52:15 AEDPA 7:3,6,11 15:19,21,22 28:16,21 29:24 19:17 27:5 
+
+addressed 16:19 7:19 42:2,5,5 17:22 18:25 35:20 36:6 29:10 52:20 
+16:20 32:4,5 affirmative 32:9 19:5 28:3,6,13 37:3 40:4,5 asking 28:14,15 
+32:22 40:22 39:8 28:25 30:17 41:13 42:12 29:12 34:3,4 
+
+adequate 9:10 affirmatively 32:2 43:17 45:25 50:18 42:10,11 55:19 
+adhered 33:9 32:18 46:12,12,15 52:18 53:1 58:14 
+
+44:8 ago 24:16 25:10 53:6 55:5 56:2 54:14 55:23 asks 58:9 
+adjudicate agree 15:15 answered 14:7 56:10 58:10,11 aspect 25:20 
+
+49:13 19:15 22:21 18:7 50:17 58:12 33:4 
+adjudication 40:19 answering 45:24 applying 3:15 aspirational 
+
+49:13 agreed 44:23 answers 11:19 30:1 54:23 33:21 
+administer aliens 37:17 apart 26:25 approach 44:20 assault 30:2 
+
+49:24 align 44:21 App 24:18 approached asserted 54:17 
+administered Alito 14:16,23 appeal 8:7 30:20 45:9 54:18 
+
+36:14 38:22 22:18 23:9,20 50:5 57:16 appropriate assessing 3:23 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+60 
+Official 
+
+assistance 3:14 banc 22:2,15 26:16,18 46:21 37:21 43:15 circumstance 
+8:12 9:10,20 52:17 51:7 45:25 48:1 25:14 
+14:18 15:3 bar 19:11 28:20 broke 6:22 49:17 53:19 cite 4:8 6:19 
+16:25 17:4 58:4 50:16 56:22 54:9 55:11 37:15,15,16 
+25:17 26:15 bargain 9:3 brought 23:4,5 categorically cited 19:24 
+46:3,9,22 based 3:13 29:4,8 58:17 6:9 33:14 34:16 
+49:15 52:5 25:10 Buick 30:3 cert 22:3,6 38:5 
+53:3 54:15 basic 32:10 certain 8:23 citizens 40:11 
+
+C57:13 34:18 10:4,4 41:5 claim 8:12,24
+C 2:1 3:1 assume 7:3 35:3 basis 36:22 37:2 certainly 17:19 23:7 24:16,22
+California 1:15assumed 27:13 43:4 53:24 certiorari 52:8 25:18,23 28:16 
+call 8:1727:13 54:1 52:16 54:12 29:8 31:12,16
+called 57:19assuming 31:22 becauses 43:21 Chaidez 1:3 3:5 32:21 45:6,13
+captured 42:2531:23 began 36:3 47:7 23:25 24:21 46:4,9 48:21 
+careful 23:22assumption begun 54:8 51:22 48:24 49:9,12 
+cars 11:25 12:3 23:17 behalf 1:16,18 Chaidez's 46:23 49:21 51:7,24
+
+12:3assured 56:5 2:4,7,10 3:8 challenged 58:1,2 
+carve 51:18attempt 25:9 31:3 55:15 23:23 claims 21:10 
+carved 55:25attorney 3:23 believe 20:5 challenging 23:3 26:16 
+carveout 54:49:2,6 10:8,25 21:9 22:25 45:2 27:14 28:10,21 
+carve-out 52:511:1 14:18 benefit 40:11 chance 48:12 29:19 30:18 
+case 3:4 5:14,18 17:11 51:22 change 10:3 32:3 46:9,22
+
+6:14,15,16,20attorney's 9:12 best 8:9 46:4 19:8,12 35:6 49:16 50:4,8
+7:11,17,1835:10,18 beyond 14:6 38:7 50:21 51:5,19 53:3,9 
+11:8 14:14,17authority 20:19 15:10 16:7 56:13 54:10,16 55:25 
+15:13,16 16:10 53:22 17:5,7 20:1 changing 36:1 56:4,7 58:4,13 
+18:17 19:13,20automatic 38:20 bit 42:1 43:11 channel 28:10 58:16 
+20:15 21:338:21 blank 41:14,15 channeled 54:16 cleanly 13:13 
+22:6 23:16automatically body 20:6,22 54:19 clear 31:14 
+26:12,14,1544:18 38:22 Chief 3:3,9 4:1 35:17,23 40:8 
+28:7 30:4 36:3 available 21:24 Bousley 42:22 4:23 5:2 7:5,20 47:17 50:9 
+36:15 41:6,725:16 55:11 Brady 53:8 7:21 17:20 clearer 50:22 
+43:18,25 44:12 avowed 38:16 brand 54:3,23 18:13,16,20 clearly 7:16,20
+44:15 45:8,8,9a.m 1:13 3:2 Breyer 12:9,11 30:25 31:4 client 9:3 12:13 
+45:18 46:2,858:21 12:25 35:19,24 55:12 58:15,19 12:16 13:20 
+46:16 48:1036:9,19,24 choice 32:19 14:9,19 17:13 
+
+B 49:21 51:11,1345:21 46:2,11 40:13 18:2,5 29:21 
+back 25:22 51:14 52:6,1147:25 48:14,18 choices 27:25 31:14 32:14 
+
+45:21 56:16 53:17 54:2451:1 chooses 52:12 39:5,9 56:12 
+57:21 55:21 56:3brief 19:24 22:3 circuit 7:4 13:8 57:12 
+
+backwards 50:2 58:19,2122:6 29:25 21:25 22:1,15 clients 39:1 
+backward-loo... cases 3:12,2151:21 52:8 22:16 25:1 client's 19:1 
+
+9:16 21:2 4:11 9:18 16:7 54:3 55:6 44:6 49:14,20 32:18 
+25:20 17:1,4,15briefs 20:15 52:14 close 34:25 
+
+bad 57:14 20:24 27:16bring 25:4 29:19 circuits 7:9 closer 44:14 
+baked 27:18 29:1 34:4,2556:12 12:23 13:10 closest 45:8 
+balance 48:9,9 36:2,25 37:1,5 bringing 24:22 52:10 55:5 coalescence 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+61 
+
+45:17 complicate 38:20 39:2,7 coram 22:19 37:1,9,12,14 
+cognizable 42:5 48:10 41:16,18 43:20 23:12,13,18,24 38:2,4,12 39:4 
+collateral 5:12 complied 11:10 47:10 56:19 24:5,14 51:15 39:16,18,20,21 
+
+5:16,21 11:12 components consider 55:2 correct 38:3 40:2,3,4,5,6,12 
+11:13 12:20,21 31:10 consideration 46:1 47:15 40:17,23 41:4 
+14:19 23:5 concentrated 7:7 17:16 56:22 58:14 41:7,18 42:4 
+27:11,15 29:5 54:5 considerations costs 51:6 42:10,11,21,22 
+30:20 33:11,19 concern 27:17 48:19 counsel 3:14 42:25 43:5,9 
+33:22,24 38:1 27:17 28:3 considering 9:10,20 14:18 43:13,22,22,24 
+38:2 39:11,19 39:23,24 47:7 15:3 30:25 44:20,21 45:9 
+40:1,1 41:9,18 concerned 27:9 constitute 5:6 32:10 33:17 45:16,19,25 
+43:20,25 44:5 27:21 56:21 34:1 46:3 46:14 47:23 
+45:10 46:5,9 concerning 4:16 constituted 3:16 47:17 52:5 49:2,6,21 
+49:1 50:23 4:16 6:8 constitutional 54:16 55:12 50:11,19,22 
+51:4,7,11,15 concerns 29:16 20:1,6,10 23:7 57:13 58:15 51:10,18,21 
+53:9 54:11,18 52:20 27:8 32:15,17 counsel's 5:13 52:3,11,14,23 
+54:19 55:11 concluded 33:24 46:20 47:17,23 count 34:25 42:4 52:24,25 53:4 
+56:10 58:2 concluding 55:8 contemplated counter 55:1 53:5,11,15 
+
+colleagues 34:3 concurrence 33:20 couple 29:6 54:1,7,8,21 
+Columbia 44:8 34:15 contends 35:14 course 6:21 55:2,22,25 
+come 5:11 6:17 concurrences 35:16 16:22 17:6 56:2,15 57:3,4 
+
+40:3 31:22 context 7:3,7 36:19 57:17 58:9 
+comes 13:9 58:9 concurring 32:6 21:8 22:17 court 1:1,12 courthouses 
+coming 41:6 conditions 9:11 28:22 33:7,8 3:10,11,14,17 56:5 
+comity 26:5,11 Conference 47:8 44:1 56:24 3:22 4:7,15,25 courts 4:2,5,11 
+
+39:24 43:5 47:13 contrary 42:6,8 5:5,19,20 6:6 4:14,19 6:25 
+52:20 confinement 9:6 control 16:18 6:11,22,23,25 7:4 11:22,25 
+
+comment 19:24 9:11 37:13 41:17 7:5,17,23 8:10 12:7,18 13:11 
+commission conflict 52:14 controlling 45:6 8:13 9:10,23 16:20 20:7 
+
+31:11 conflicts 29:18 conversation 10:5,14 11:24 32:8,23 33:5 
+commissions conformed 13:19 12:1,2,2,5 13:6 33:23 43:9,11 
+
+31:25 46:20 convertibles 13:23 14:7,8 44:4,5,22,22 
+commission-t... confront 21:5 12:1 14:16,16,25 49:11 53:19,20 
+
+31:12 consequence convicted 24:15 15:9 16:19 53:22 56:18 
+Committee 47:6 12:21 36:14 26:17 17:10,12,14 57:1,10 
+
+47:19 37:12 38:1,2 conviction 6:2 19:2,17 20:14 Court's 21:6 
+common 12:12 38:14,14 45:10 7:7 13:21 20:23 21:4,9 35:22 36:23 
+
+38:5,7,8 45:15 25:10 26:3,4,4 22:2,7,10,13 41:22 42:14 
+commonsense consequences 38:20 40:7 23:3 24:19,20 45:1,5 50:15 
+
+57:6 4:17 5:12,16 41:17 43:6,7 25:16 26:10 55:3,9 
+compass 50:19 5:21,23 6:8 46:23 51:16,23 27:6,10,12,16 covered 11:24 
+compelled 42:17 11:12,13 13:17 51:24 53:18 28:14,15,18,18 17:24 58:3 
+competence 13:17,20 14:10 convictions 29:9,10 30:22 create 8:22 
+
+9:12 34:19 14:19 16:13 40:12 42:20 31:5,6,12,18 11:23 12:4 
+competent 14:9 17:23,25 24:4 43:10 46:23 34:12,16,22,24 28:14 30:12,13 
+
+32:12,12 37:22 30:16 31:13 49:8 52:19 35:23 36:5,9 44:18 58:9 
+completed 48:2 33:11,19,22,25 53:23 36:10,16,23 created 6:25 
+
+Alderson Reporting Company 
+
+
+
+62 
+Official 
+
+7:25 11:23 36:23 37:2 described 15:7 dissent 5:5 7:22 53:25 55:18,21 
+17:11 40:5 41:22 16:9 8:4 15:13,25 56:17 
+
+creating 27:7,21 42:16,16,18 despite 33:12 16:6 drew 37:23 
+crime 26:17 44:7 45:1,6 detailed 18:4 dissented 15:16 due 15:25 
+criminal 5:14 54:22 determine 29:25 dissenters 16:4 duties 37:6
+ 
+
+6:14,15 14:6
+ decisions 4:7 33:17 50:4 dissents 5:7 duty 32:10,17 
+16:7,7,9,10,11 17:14 44:6 developed 46:4 distinction 4:19 33:25 37:6 
+21:7 33:16,25 50:15 46:7 4:21 32:13 39:5 44:24
+ 
+36:12,15,17
+ default 28:20 device 9:16 41:16 43:25 47:4
+ 
+37:11,20,25
+ 43:14 48:22 devised 11:25 57:1,2 D.C 1:8,18 
+43:24 47:1,6 55:23 12:7 distinctions 49:14,20 
+48:23 53:21 defeat 24:24 dictated 3:20 17:11 
+
+E56:7,13,14 defend 5:13 14:21 41:22 distinguish 4:11 
+E 2:1 3:1,1 crystalized defendant 5:13 43:18,19 44:2 31:18 
+earlier 25:18 
+earth 46:21 
+
+10:13 9:4,7 16:10 difference 52:21 distinguished 
+crystallized 14:1 33:18 38:13 different 7:16 4:13 
+current 24:11 easier 49:23 
+
+easy 7:10 15:20 
+48:21,23 49:3 8:5,6 11:16 district 24:19,20 
+
+custody 23:25 51:13 27:8,11 33:3,4 40:6 44:7 
+Cyr 14:7,13 effect 17:8 21:2 
+
+effective 14:17 
+defendants 47:9 39:25 41:18 49:21 
+
+17:15 19:22 49:8,9 49:20 divergent 3:16 
+defender 29:18 15:2differently 32:9 divided 52:10 
+
+D either 20:3defenders 56:6 difficult 55:20 55:5 
+D 3:1 elaborate 30:9 
+da 48:11,11,11 
+
+defense 19:11 difficulty 57:18 doctor 38:18 
+elements 20:1233:17,25 36:12 diligence 24:22 doing 40:12 
+
+Danforth 39:16 eleven 13:1
+ 
+40:8,20
+ 
+
+36:17 37:11,16 direct 23:4 49:22 
+eligibility 33:837:22 47:1,17 27:12 28:17 don’t 28:21 
+
+danger 30:2 45:10,12 
+date 50:11 
+
+defenses 39:8 29:7,20 30:20 doubt 13:24 
+embark 54:9,23degree 10:13 30:21 39:13 14:22 15:5 
+
+dates 45:11,12 embraced 32:4 
+day 57:9 
+
+delay 29:7 41:8,16 43:25 22:4,11 
+emphasizeddelegation 39:18 44:5 45:25 dozen 3:12 
+
+dealing 24:19 26:5 
+dealt 5:19 27:6 
+
+Department 46:10,17 48:2 dramatic 45:3 
+empirical 11:51:18 48:8,21,25 draw 44:15 
+
+31:12 employment 
+debuted 52:7 
+
+depend 14:23 49:5,10,22 45:19 
+18:529:1 31:15 50:5 54:16,17 drawn 57:1 
+
+decade 21:13 en 22:2,15 52:17 
+decades 24:16 
+
+depending 18:6 54:18 56:7,11 Dreeben 1:17 
+enables 8:7deportation 56:12 58:1 2:6 31:1,2,4,17
+
+decide 14:14,14 enforce 20:94:12,17,20 direction 44:22 32:1 33:3 34:9 
+14:17 26:13,14 engaging 53:115:23 6:8 10:6 disagree 32:20 34:13 35:8,15
+38:2 45:11 enhanced 13:17 
+
+decided 3:12 
+13:16,16,20 disagreed 4:25 35:21 36:8,22 
+
+ensue 33:2014:10 16:12 disagreement 37:5 38:6,8,11
+4:15 16:16 ensuring 9:425:6 37:18,20 7:23 39:10,15,22
+34:24 40:17 entertaining37:24 38:21,21 disavowed 54:2 40:8,16,25
+47:23 54:7 
+
+decision 6:17 
+38:24 43:23 discretion 38:23 41:20 42:3,21 
+
+entire 29:744:23 47:2,10 40:9 43:8,21 44:19 
+19:1 21:14 entirely 53:756:19,22 discussed 11:16 46:1,11 47:14 
+29:3 32:15 entitled 13:7deported 17:17 37:21,23 48:13,17 50:7
+ 
+35:1,12 36:16
+ 16:10 35:7Deputy 1:17 discussing 25:19 50:25 51:9 
+
+Alderson Reporting Company 
+
+
+
+63 
+Official 
+
+entry 33:20 expect 18:3 39:17,19,21 9:21 10:1,19 Fourth 28:21 
+equitable 25:16 experience 39:3 40:1,2,5 42:20 10:23 11:7,18 Frady 43:13 
+equivalent experimental 42:24 43:7,9 12:10,23 13:3 55:21 
+
+28:17 30:21 53:13 43:10,15 44:22 13:22 14:22 frame 39:18 
+Erie 30:3 explained 36:11 46:19 47:20 15:11,18,22 fraud 31:13 
+error 44:9 explicitly 27:7 48:5,5 52:18 16:5,21,25 frozen 34:10 
+ESQ 1:15,17 2:3 explore 54:13 52:23 53:18,19 17:3,25 18:11 full 29:21 
+
+2:6,9 expressly 22:7 53:21,22 54:15 18:14,19,22 fully 23:13 
+essentially 32:7 27:13 55:24 56:5,6,6 19:9,14 20:4 functional 48:15 
+established 7:16 extend 5:21 15:7 56:14 20:11,21 21:17 fundamental 
+
+7:20 21:10 extended 36:18 figure 39:5 53:1 21:19,22 22:14 46:16 
+32:11 34:6 extent 15:8,24 54:10 22:21 23:15,21 further 49:18 
+
+everything's 33:17 57:8 figuring 54:22 24:8,17 25:12 future 14:17 
+57:9 extra 23:22 51:6 file 24:12 25:24,25 26:1 18:5 34:4 
+
+evolution 9:9,15 filed 55:6 26:7 27:4,20
+F G10:18 37:19,23 filing 22:24,24 27:23 28:2,5,8
+
+f 51:12 G 3:1evolve 10:4 22:25 23:1 28:13 30:8 
+fact 7:8 15:12 general 1:17 9:5 19:16 34:22 30:20 42:7 48:20 
+
+33:13 38:25 12:16 30:135:11 38:8 fill 41:14,15 49:16 52:6 
+46:6 33:9 35:25evolved 36:20 final 42:17 55:13,14,16
+
+factors 44:21 36:5 49:2437:3 46:16,23,24 57:20,23 58:6 
+45:18 48:15 52:17evolves 35:25 49:8 51:16 58:16 
+
+facts 3:24 30:1,5 generally 19:11evolving 34:5 finality 27:7,9 fix 49:4 
+30:12 37:7 44:3 50:8exactly 7:9 27:17 29:16 flagpole 51:2,3
+50:13 generate 37:828:22 29:9 43:10 47:18 flooded 56:6,6
+
+factual 3:16 generic 18:2443:14 48:3 55:23 floodgate 57:22 
+11:5 gigantic 21:1256:1 57:2 finally 29:14 58:5 
+
+failed 45:13 Ginsburg 5:8,10examination find 7:13,14 floodgates 57:25 
+failing 57:11 5:20 6:1 8:16 53:12 finds 24:20 Flores-Ortega
+failure 32:14 18:7 25:24examined 37:21 fine 45:19 57:15 
+fair 16:3,3 22:10 26:1,9 39:10 example 8:23 finish 13:3 Florida 25:15 
+
+23:16 25:4 39:15,20,2317:22 18:3 finished 48:10 follow 49:15 
+fairly 12:22 40:14,20,2343:12 firearms 38:17 following 36:5 
+
+21:23 35:17 42:19 43:3,8exception 11:22 first 3:4,18,20 45:24 57:25 
+46:13 47:12,15 52:19 11:25 12:20,22 4:6 7:18 10:25 follows 28:22 
+
+fall 18:9 44:17 53:1628:15 46:18 11:21 21:24 footnote 22:6 
+falls 56:23 Ginsburg's 9:1849:24 22:23,24 23:6 footnotes 14:8 
+far 19:22 26:9 45:22exceptions 25:13 26:18 forced 21:5 
+
+34:12 42:8 give 11:18 14:3 27:21,21 28:14 29:13 foreclosed 22:1 
+52:22 14:9 17:22exempt 53:10 36:8,11 46:5,9 forfeit 21:22 
+
+favor 13:11 18:4,24 19:4 exemption 53:2 48:5,5,19 52:7 forfeited 21:21 
+18:17 20:19 31:19exist 11:23 53:6,15 55:18 form 42:14 
+
+federal 7:18 32:14 33:1034:11 52:11 Fisher 1:15 2:3 formula 3:23 
+12:23 22:23 36:13 37:11existed 32:4 2:9 3:6,7,9 4:4 6:12 27:19 
+24:11 26:4,16 39:9 46:11existing 46:20 5:1,4,8,9,17 formulation 
+26:17 27:1 48:3 51:2150:12 6:4,21 7:2,12 30:10 
+29:18 33:23 54:6 57:17expansion 45:3 8:9,17,21 9:14 four 45:2 
+
+Alderson Reporting Company 
+
+
+
+64 
+Official 
+
+given 10:12 57:13 hurts 19:13 inform 38:13 16:7 
+19:18,20 32:8 hypothetical informative judge 16:18 17:5 
+
+H35:19 46:6 9:25 10:2,3 34:21 judged 11:2 
+habeas 3:13 7:7 gives 51:12 34:3 innocence 5:15 35:9 
+
+18:18 22:19giving 48:11 hypotheticals insoluble 29:17 judges 13:6 47:9 
+23:14 24:5,1157:14 58:10 instance 23:6 judgment 46:16 
+24:12 28:11,19glad 27:4 53:15 46:18 
+
+I39:17 40:6go 9:5 25:1 26:9 institute 38:24 judgments
+48:5,6 IA 25:1745:21 50:2 integrity 47:19 47:20 
+
+half 30:17 IAC 21:10 23:3 57:20 intended 53:20 Judicial 47:8,13
+hand 15:15 28:10,19,21goes 9:7 20:1 interchangeable jurisdiction
+handled 54:11 29:8,19 31:16 going 7:4 12:14 24:1 54:14 
+handling 21:10 50:4 51:515:1,2,3,9 25:5 interest 26:25 jurisdictions
+happen 12:14 55:25 56:4,727:5 29:6 27:2 29:18 46:24 
+
+53:14 idea 38:12 40:2 30:17,23 31:15 43:10 46:17 jurisprudence
+happened 36:4 identical 19:2131:15 49:7 55:23 45:5 53:10 
+
+49:17 53:13 48:1850:23 54:13 interference 55:10 
+58:3 illustrates 51:1456:5,12 27:1 jurist 41:23,25
+
+happens 28:9 Imagine 11:24good 9:7 39:1 interfering jury 17:6 
+56:14 Immediatelygoverned 32:3 53:19 justice 1:18 3:3 
+
+happy 30:9 47:5government 4:8 interpretation 3:9 4:1,23 5:2 
+hear 3:3 10:2 implied 39:1813:9 14:6 35:22 39:17 5:8,10,20 6:1 
+heard 56:17 important 16:1121:20 22:4,22 42:24 6:16 7:2,5,13
+hearing 40:6 17:14,15 19:1 22:25 24:23,25 interrupting 8:2,15,16 9:1 
+held 3:15 5:5,23 21:3 38:1325:5 29:10,12 26:23 9:14,17,18,24
+
+6:6 7:9 9:11 43:4 57:11,2229:17 30:16 intimately 43:24 10:11,15,21
+22:17 23:20 inadequate 46:342:14 46:19 intrusion 53:21 11:7 12:9,11
+25:16 28:19 46:852:9 54:25 intuition 39:1 12:19,25 13:14 
+36:16 39:16 inapplicablegovernment's investigate 37:6 13:15,22 14:16 
+43:1,22 44:24 26:33:18 11:19 invites 30:2 14:23 15:11,19
+55:22 inclined 21:458:14 involved 17:5 15:20 16:3,14
+
+help 20:2,20 include 51:4governs 35:18 37:5 16:15,22,24
+39:5 included 21:23granted 52:8 involves 16:12 17:2,20 18:7 
+
+helps 52:1 includes 5:12grants 54:12 49:19 18:13,16,20
+Hill 45:8,9,13 including 22:8great 48:24,25 involving 21:6 19:6,9,10,15
+hold 21:4 26:7 independentground 6:23 53:17 19:23 20:8,17
+
+38:18 56:3 32:2350:16 56:22 issue 12:2 13:12 21:17,20 22:12 
+holding 15:6 ineffective 3:14grounded 12:7 40:18 41:2,9 22:18 23:9,20
+
+16:1,9,19 27:2 8:12 9:19grounds 52:12 41:10 45:11,15 24:3,10,18
+42:23 45:7 16:25 17:4guidance 8:11 46:14 49:20 25:7,8,20,24
+
+holdings 28:23 25:17 26:15guilt 5:15 50:22 52:2,13 26:1,9,22 27:4 
+49:3 46:22 49:15guilty 6:8 12:14 57:22 58:8 27:18,20,24
+
+Holland 25:15 52:4 53:217:16 18:6 28:3,6,9 29:22 
+JHonor 4:5 54:15 57:1330:19 32:16 30:8,25 31:4,9 
+
+honoring 40:13 ineffectiveness JEFFREY 1:1533:16 35:4 31:17,21 32:5 
+hopefully 28:25 49:21 50:8 2:3,9 3:7 55:14 38:14 39:3,9 32:6,25 33:13 
+hunter 38:16 51:18 54:3,10 jeopardy 14:647:18 56:24 33:16 34:2,9 
+
+Alderson Reporting Company 
+
+
+
+65 
+Official 
+
+34:10,13,15 18:25 19:4 leave 15:3 20:6 53:4 55:2 mere 15:12 
+35:2,8,13,19 25:23 29:11 45:23 56:18 57:1,10 merits 40:18 
+35:24 36:9,10 53:12 54:24 left 30:24 55:19 46:12,15 52:8 
+
+M36:19,24 37:21 kinds 4:12,20 legal 7:25 met 7:11 
+MacPherson38:3,7,9,11 10:4 31:24 lest 22:3 MICHAEL 1:17 
+
+30:339:10,15,20,23 53:8 let's 35:3 2:6 31:2 
+main 11:2040:14,20,23 knew 38:16 level 12:17 micromanage
+majority 16:841:12,20 42:1 know 7:6 11:15 license 6:3 14:20 15:2 
+
+41:1 44:2442:19 43:3,8 12:15 13:11 18:9 38:19 minimize 53:20 
+majority's 45:343:16 44:4,9 18:14 29:12 58:13 minimum 20:2 
+making 19:245:21,22 46:2 35:3 38:10 lie 31:14 20:10 25:3 
+
+26:2,6 27:24 46:11 47:12,15 40:14 light 57:21 Minnesota 
+manuals 37:1647:25 48:14,18 knows 12:15 light's 29:23 39:16 
+Martinez 28:750:1,25 51:1 limit 53:22 minutes 55:13 
+
+L 28:18 29:152:19 53:16 limitations 24:7 mirrored 32:7 
+L 1:15 2:3,9 3:7 51:20 54:9,1455:12 57:5,20 24:12 51:7,12 misadvice 4:15 
+
+55:14 Massaro 21:1057:24 58:7,15 limits 48:5,7 31:18 32:3,8,9
+laches 24:23 23:10 29:10,1158:19 line 44:8,15 32:13,21 33:6 
+lack 24:6 48:20 49:15,24justices 45:2 45:19 54:9 56:18 
+lag 25:13 50:8,21 51:4 Justice's 7:21 57:14,17 mischief 51:14 
+laid 11:24 52:12 54:5lines 52:19 misrepresenta... 
+
+K Lane 3:12 31:7 55:24Linkletter 27:22 31:13 
+Kagan 7:2,13 language 17:8 Massaro-basedlitigated 23:16 mistaken 15:25 
+
+11:7 12:20 53:18 54:8little 25:22 42:1 momentous 
+13:14,15,23 large 46:7 matter 1:11locate 49:16 38:14 
+21:17,20 22:12 largely 54:19 22:22 32:12Lockhart 45:9 Monday 54:12 
+36:11 50:25 law 6:20 7:8,15 33:10 34:5logical 47:24 monkey 21:12 
+
+Kennedy 8:15 7:16,20 8:3,8 47:23 54:20long 8:21 25:10 mores 10:18 
+9:1,14,17,24 8:14 9:10 58:22look 18:23 20:24 morning 3:4 
+10:11 16:15,22 10:15 17:19 matters 16:1742:15 45:4 
+
+N16:24 17:2 20:6 22:16 17:548:15 49:18 
+19:6,9,10,15 30:13 42:15 mean 6:17,19 N 2:1,1 3:1 looked 14:24 
+19:23 20:8,17 45:4 46:20 7:3 8:3 12:11 NACDL 20:1520:23 29:2 
+25:20 26:22 54:20 24:25 31:11 narrower 26:1333:23 36:1 
+27:4,18 29:22 lawyer 12:12,15 35:24 38:9 nature 21:144:21 53:5 
+30:8 33:13 13:18 14:9 48:2 53:18,23 necessarilylooks 35:11 
+34:15 38:3,7,9 16:11 18:1,4 meaning 31:7 15:14 18:448:16 
+38:11 41:12,20 19:3 32:16 means 40:20 need 8:24 26:9 lose 38:17,18,19
+42:1 43:16 36:13,17 37:11 54:22 48:9 49:10losing 9:4 
+44:4 57:5 37:22 38:12 meant 6:2 12:3 needed 14:12loss 6:2 14:19 
+
+Kentucky 5:18 47:1 49:4 56:8 52:21 17:19 46:25lot 54:21 
+12:22 31:6 56:11 57:16 mechanical needs 25:4 52:14 lots 16:22 17:4 
+40:15,16,17 lawyers 37:17 44:20 negligent 30:653:4,18
+
+key 33:14 34:14 39:1 56:7 medical 38:19 negotiating 9:2lower 4:5,6,14
+keyed 11:1 lawyer's 17:13 members 4:24 neither 31:254:19 6:25 
+kick 51:3 53:1 39:5 mentioned never 3:15 6:17 11:22,25 12:7 
+kind 8:23 11:8 leads 25:17 27:18 57:6 8:19 17:1032:8 44:4,22 
+
+Alderson Reporting Company 
+
+
+
+66 
+Official 
+
+34:6 37:10 noted 20:14 oral 1:11 2:2,5 panel 22:16 35:4 56:24 
+39:4 40:18,22 notes 20:15 3:7 31:2 panoply 39:2 plead 17:16 
+52:23 53:13 notice 19:23 order 29:20 parallels 42:8 32:16 57:12 
+54:24,25 55:2 22:10 25:9 ordinarily 58:8 Pardon 12:10 pleading 38:14 
+
+new 3:16,24 5:6 49:10,11 ordinary 6:12 parole 33:8 39:3,9 
+5:6 6:20,22 November 1:9 original 38:10 45:10,12 58:12 pleads 12:14 
+7:25 8:14,18 ought 16:4 21:8 part 5:19 6:7 18:6 
+
+O8:19,22,25 27:11 30:22 9:12 10:25 pleas 33:16 
+O 2:1 3:1 9:19 10:7,10 37:22 56:2 12:5 28:4 47:18 
+obligation 5:1310:15,16 11:23 57:16 43:16 please 3:10 31:5 
+
+33:10 36:1312:4 15:8,10 outside 33:25 particular 37:7 point 10:4 30:6 
+obligations15:14,16,24 50:19 50:13 34:14,15 47:16 
+
+36:1721:4 22:5 30:1 overall 20:22 particularly 56:16 
+obviously 5:4,1730:5,12,12,13 overlook 40:3 38:13 pointed 42:7 
+occurred 25:1031:7 32:21 overturn 13:7 parties 23:23 points 55:17 
+
+35:434:8,24 37:3,8 53:22 party 25:21 57:21 
+odds 39:639:12 40:11 pending 47:8 policy 40:13 
+
+Poffenses 24:1541:13,21,21 58:1,1 politician 38:17 
+office 38:18 P 3:142:4,11 44:18 people 3:13 population 9:5 
+offices 29:19 pace 30:345:24 48:12,24 24:15 25:17 position 19:7 
+oftentimes Padilla 3:20,2249:6,9 50:10 30:18 31:23 
+
+38:22 4:15,22 5:3,5 50:13,16,23 performance possibility 37:18 
+oh 9:11 29:25 5:15,19,22 6:5 51:10 52:9,12 3:23 10:25 47:1,10
+Okay 28:13 6:6,12,14,2353:7 54:3,23 11:1 possible 33:17 
+omission 31:11 10:6 11:1455:4,7,9 56:4 permanent 53:2 33:19 
+omissions 4:13 12:6 13:2456:17,21,22 permissible possibly 38:1 
+
+4:21 31:19,24 14:4,15 15:1 58:10,14 39:13 postdate 4:7 
+57:2 16:1,8,16 17:5 nobis 22:19 person 48:11 post-conviction 
+
+once 3:15 25:21 17:9,23 18:21 23:12,13,18,25 Pet 24:18 22:24 55:24 
+57:25 19:21 20:14,2324:5,14 51:16 petition 18:18 potential 14:19 
+
+open 6:3,5 18:10 24:16 27:14norm 10:13 33:1 22:15 24:13,20 Powell 28:20 
+18:12 45:14 31:6,18 32:4,5 33:4,22 34:5 25:4 26:18 practice 36:5 
+
+opines 11:15 32:21 33:2434:18 35:5 52:16,17 49:22 50:21 
+opinion 19:7 36:5,10,1036:4,6,20 37:2 Petitioner 1:4 pre 13:5 
+
+32:6 36:11 37:9 38:5 39:4 37:3 1:16 2:4,10 3:8 precedent 3:20 
+41:1 44:17 39:10,12 43:22 Normally 45:24 46:13 51:17 13:8 14:21 
+
+opinions 44:13 45:1,5 46:24 norms 3:24 6:13 52:4 53:25 22:1 41:23 
+opponent 35:13 47:5,16,239:15 10:3 11:3 55:15 42:17 43:18,19
+
+35:16 50:16 55:911:4,10 13:25 pick 8:2 35:25 44:1 
+opportunities 56:3 57:4,1814:24 15:4,6 picking 55:18 precisely 48:1 
+
+18:5 58:1,2,318:1,15,23 picky 46:3 preclude 48:21 
+opportunity Padilla's 32:1,2219:3,8,12,16 piece 16:11 predicate 16:16 
+
+21:25 47:21,22 Padilla-type19:19 20:22 place 46:4 17:2 
+51:25 55:1,2 30:1825:22 33:15 play 5:11 58:9 preexisting 6:18 
+
+opposed 8:7 page 2:2 51:20 34:20,22 35:6 plea 4:17 6:9 9:2 6:19 7:15 
+54:3 pages 27:1035:9,11,17 14:11 16:12 preferred 50:6,7
+
+opposite 7:9 Paine 38:936:1 37:15 30:19 33:18,20 prejudice 8:24 
+
+Alderson Reporting Company 
+
+
+
+67 
+Official 
+
+45:14 procedure 21:7 put 16:6 17:12 raising 22:1 regard 15:16,24 
+premise 19:15 56:13,14 17:18 22:6 48:21 56:7 reject 3:17 6:24 
+present 26:11 procedures 30:10 41:24 ran 42:23 29:10 
+presented 4:9 29:16 puts 14:6 rare 50:9 rejected 29:9 
+
+13:13 21:24 proceed 24:21 rationale 32:2,2 57:3,15,15
+Q22:8,12 46:14 proceeding 32:22 rejecting 57:18 
+
+qualify 8:1852:3 22:19,20 27:1 reached 41:24 relation 23:10 
+question 4:9presents 11:8 30:3 36:21 42:18 23:11 
+
+5:22 6:1,3,5,21preserve 29:20 39:11 41:9,10 reaffirmed 7:1 relationship
+7:19,21 9:18 preserved 46:13 41:11 15:1 37:20 47:24 
+9:22 11:1,5,6,8pressed 53:23 proceedings reality 39:3 41:4 relevance 40:21 
+11:9,11,14,15pressing 54:1 27:12 29:5 really 9:2 32:22 relevant 5:15 
+14:3,4,5,7presumed 43:1 38:24 43:15 48:10 50:10 22:18 
+15:18,21 16:16 pretty 49:4 53:21 51:17 53:11,14 relied 13:5 
+17:2 18:8,10prevail 13:24 process 29:7 53:23 54:25 38:12 
+18:12,25 19:17 24:14 49:23 50:6,7 56:2 relief 3:13 10:11 
+21:3,6,23 22:5 prevailed 39:14 54:23 reason 7:13 29:21 35:7 
+22:7 23:2,9prevailing 3:24 processes 28:11 23:18,24 46:25 relies 26:11 
+28:25 33:236:13 9:15 10:3 professional 47:21,22 50:20 48:20 56:25 
+36:12 37:1410:13 11:3,4,9 3:24 6:2,13 54:6 57:25 rely 6:18 8:4 
+42:16 43:1713:25 14:24 11:3,4,10 reasonable 18:17 20:21 
+45:22 46:1215:4,5 18:1,15 13:25 14:20,24 13:18 24:21 relying 42:14 
+50:17 52:1018:23 19:3,8 15:4,6 18:9,15 41:23,25 57:10 remaining 55:13 
+55:4,7 56:3,17 19:12,16,18 18:23 19:8,12 reasonableness remand 29:16 
+
+questions 41:1925:22 33:14 19:16,25 20:22 11:2 49:13,15
+53:4,834:20 39:6 33:1,3,15,21 reasoning 54:24 remanded 49:20 
+
+question's 7:24previous 28:22 34:5,11,18,19 reasons 3:17 remarkable 
+quite 13:7 20:5 previously 50:3 34:20 35:5,5,9 21:15,18 32:6 52:25 
+
+26:25 48:16,17principal 38:4 35:10,17 36:1 32:7 46:5 remember 5:20 
+quote 28:1641:15 36:4,6,20 37:2 rebuttal 2:8 5:25 6:14 7:17 
+
+principle 6:18 37:3,15 58:13 29:22 55:14 20:13 23:24R6:19 8:3,4,8 pronouncement recall 38:3 25:13,15 29:14 
+R 1:17 2:6 3:1 37:24 10:16,17 recognize 10:8 30:16
+
+31:2prior 13:8 properly 52:3 29:23 53:17 removal 18:8
+Railroad 30:4prisoner 26:16 prosecution recognized 25:9 33:7
+raise 24:16 25:1 privity 30:2 37:25 34:12 43:9 removed 5:23
+
+29:15,17 48:12 pro 49:3 protect 46:25 45:14 6:9
+48:24 49:1,9probably 30:4 47:19 56:11 recommend renounced
+52:432:20 35:15 protecting 46:18 37:17 24:25
+
+raised 21:2438:15 48:23 provide 55:5 reconsider 16:4 reply 22:3,6
+22:2 31:16probation 51:23 provides 8:11 red 57:21 repose 26:25
+40:18,24 51:24 problem 48:11 provision 42:6,7 referred 55:21 represent 32:11
+52:15,15,17problems 29:15 42:8 51:12 reflecting 34:17 representation
+53:9 54:2529:18 publications 47:6 9:13
+
+raises 7:18procedural 34:20 reflects 41:4 representing 9:3
+49:12 52:628:20 43:13 published 44:6 46:15 require 15:6
+53:748:22 55:23 push 15:9 refrain 54:7 18:1 19:3,19 
+
+Alderson Reporting Company 
+
+
+
+68 
+Official 
+
+25:21 47:9 50:24 51:5,11 51:19,22 52:9 section 36:11 7:1 8:21 10:8 
+required 5:16 51:15 53:9 52:13 55:4,7,9 see 22:23 24:19 11:22 12:7 
+
+10:5 16:6 18:4 54:11,16,18,19 56:4,17,21 44:12 18:14 21:11 
+requires 10:11 54:20 55:11,24 58:4,10,14 seek 25:6 28:15 
+
+10:14 14:18 56:8,10,11,12 ruled 13:11 seeking 56:11 simultaneously 
+rescue 30:2 reviewing 40:4 rules 27:11 sense 7:19 11:5 33:9 
+reserve 28:25 41:7,8 28:19 30:5 12:12 13:11 situation 18:15 
+
+30:24 reviews 28:10 34:24 39:19 21:11 24:1,8,9 28:12 
+reserved 5:22 44:5 40:10,11 41:21 26:23 35:2 situations 27:25 
+resolution 52:9 right 4:16 15:12 42:4,11 47:6 38:5,7,8 42:22 30:18 
+resolve 8:11 15:12 18:21 47:18 49:6 42:25 Sixth 5:12,24 
+
+52:12 22:13 30:20 50:13,23 sentence 6:7 6:9 11:11 14:5 
+resolves 52:11 32:15 33:5 ruling 5:2 12:24 sentencing 5:16 15:9 33:4 
+resolving 37:14 35:19 38:17,18 31:15 37:12 39:7 34:23 35:22 
+
+55:4 44:10 46:2,6 rulings 13:4,6 43:24 45:16 36:18 44:6 
+resources 55:3 49:14 51:1,5 run 51:2,2,3,4 50:19 45:4,5 47:3 
+respect 15:25 57:16 running 39:24 separate 38:22 49:2 56:23 
+
+28:19 31:10,16 rightly 20:5 Ryan 28:18 38:23 skewing 32:18 
+50:20 rights 39:8 51:20 54:9 September skill 9:12 
+
+Respondent road 30:23 47:13 skilled 9:2,4,6
+S1:19 2:7 31:3 49:18 serious 21:5 slightly 15:25 
+
+S 2:1 3:1 response 8:9 ROBERTS 3:3 51:17 Smith 49:19 
+sacrificed 27:254:2 4:1,23 5:2 seriously 15:5 society 46:17 
+salient 52:13responsible 56:8 17:20 18:13,16 54:2 solely 41:10 
+salt 38:1256:11 18:20 30:25 serve 26:25 Solicitor 1:17 
+sarcastic 44:12responsive 7:21 55:12 58:15,19 set 3:24 30:12 solitary 9:5,8
+saying 11:22rest 56:5 Roe 35:23 53:7 somebody 17:17 
+
+13:23 16:4restricted 22:5 Roselva 1:3 3:5 sets 10:24 37:7 23:6 24:1 25:4 
+17:3 19:8restriction 6:24 rule 3:16 4:14 50:13 26:17 38:16 
+27:25 39:512:6 5:7 7:25 8:18 settings 3:16 58:9 
+56:22 57:10rests 10:17 8:20,22,25 Seventh 21:25 soon 25:5 47:16 
+
+says 21:20 29:25 result 41:24 9:19 10:8,10 22:15,16 25:1 sorry 4:16 54:17 
+41:1 48:2242:18 55:8 11:23,24 12:1 severe 24:5,8 sort 17:25 51:1 
+51:20retroactive 9:13 12:4,16 14:20 severity 14:1 53:12,13
+
+Scalia 6:16 8:2 24:4 28:1 15:8,10,13,14 shape 48:24,25 Sotomayor
+10:15,21 15:11 31:25 34:7 15:17,24 21:4 share 38:25 27:20,24 28:3 
+15:19,20 16:3 51:11 22:5 23:11,12 short 24:12 28:6,9 31:9,17 
+16:14 35:2,8retroactivity 28:20 30:1,11 show 45:13 31:21 32:25 
+35:1329:25 31:24 30:12,14 31:7 showing 8:24 34:2,9,10,13
+
+scenario 9:23return 20:25 34:7,8 35:25 side 36:7 44:9 50:1 
+scenarios 17:8review 23:4,5 37:8 39:12 significant 57:20,24 58:7 
+se 49:327:12,15 28:17 40:17 41:13,21 44:14 sought 3:13 
+second 3:25 4:10 29:7,20 30:22 43:5,14 44:18 significantly 39:13 
+
+6:7 14:2 21:3 39:14,19 41:8 45:3,24 47:7 45:2 sources 32:23 
+25:19 32:1345:25 46:10,17 47:17,20 48:12 similar 42:3 33:1,1,2,14
+43:16 45:2248:2,8,22,25 48:24 49:9 48:16 38:4 
+56:1649:1,5,10,22 50:10,16 51:10 simply 3:22 6:13 sovereign 38:23 
+
+Alderson Reporting Company 
+
+
+
+69 
+Official 
+
+so-called 14:3 step 28:7 suggested 22:4 42:5,9,11,12 17:20 18:11,24 
+specialized 13:2 steps 47:19 suggesting 44:4 42:13,20,23,25 19:14,15 20:11 
+specifically 37:1 Stone 28:20 suggests 13:10 43:5 46:15 21:2 22:10,21 
+splintered 45:2 Strickland 3:15 29:17 51:2,18 52:5 23:7,11,16 
+split 44:13,14,16 3:21 4:18 5:6 support 19:7 52:18 53:1,10 25:3 26:7,9,13 
+
+45:20 5:11,21,25 supported 55:7 53:12,14,17,19 26:14 29:2 
+sponte 41:5 6:12,24 7:1,24 suppose 9:1 53:20 54:4 30:10,22 31:9 
+squarely 43:1 8:2,6,10,14,18 15:11 56:4,9 58:8 34:4,14 35:15 
+St 14:7,13 17:15 8:19,22 9:16 Supreme 1:1,12 Teague-like 37:22 38:11 
+
+19:22 9:20 10:9,11 40:17 40:9 40:16 41:5 
+stake 48:19 10:23,23 11:17 sure 15:12 17:21 Teague-type 42:3 45:18 
+standard 7:11 12:8 14:12,25 19:23 20:4 40:17 46:7,13,25 
+
+19:25 27:8,22 16:17 17:12,13 21:22 24:9,17 tell 12:13 34:2 48:17 50:8 
+29:24 33:15 18:12,21 19:3 24:18 25:7 52:23 51:13 52:1 
+41:13 42:2 19:17 20:24 32:25 57:24 temporary 58:5 53:11 54:6,22 
+50:13,21 21:2 25:21 surely 27:2 ten 4:2 7:4,9 55:8 56:2,17 
+
+standards 20:1 26:21 27:6,13 surgery 53:14 13:10 44:5 57:5,6 
+20:9,12 27:9 27:19 34:14,18 surprise 4:1,24 terms 4:8 thinking 57:12 
+33:16 34:11 34:25 35:1,11 48:9 terrible 12:13 thought 8:4 
+
+Stanford 1:15 35:16,25 45:13 system 21:9 23:3 test 10:24 41:20 10:16,21 12:12 
+start 18:19,20 45:16 49:7 29:2,4,12 41:21,22 threaten 47:18 
+state 5:18 7:7 50:10,11,12,14 39:25 41:6,8 text 14:8 three 4:6 12:23 
+
+13:10 26:4 50:16,18 55:10 43:5 54:15 Thaler 54:13 13:4,5 33:6,7 
+28:10 29:1,2 56:19,20,21 56:15 Thank 30:25 threshold 11:8 
+35:21 39:11,14 57:3,14 58:11 55:12,16 58:15 14:4 
+
+T40:1,3,4,6,11 58:12 58:18 throw 21:12 
+T 2:1,140:18,22,22 Strickland's that’s 11:14 57:6 
+table 33:2241:6,8,9 42:15 3:22 theory 21:16 throwback 
+take 6:12 14:25 43:5,11,14 Strickland’s 23:8 27:22 
+
+16:12 52:146:19 48:6 11:16 thing 4:10 25:19 Thursday 1:9 
+taken 47:1953:20,21,23 stripped 57:9 29:14 30:15 tied 37:24 43:24 
+talk 18:21stated 20:9 strong 43:11 38:15 48:1 time 3:18 4:15 
+talked 31:2233:15 46:17 49:12 56:25 10:8,12 11:2 
+
+58:11states 1:1,6,12 sua 41:5 57:11 14:1 19:18,21
+talking 10:243:5 26:5 29:2,6 subject 34:6 things 4:5 12:13 25:10,13 26:10 
+
+20:13,17,1839:24 40:9 44:23 45:12 12:14 21:13 28:25 29:13 
+21:142:22 43:13 submitted 58:20 25:13 28:14,24 30:24 34:10 
+
+Teague 3:1244:7,24 49:19 58:22 41:5 42:4 35:4,9,12,17
+6:22 21:8,1152:13 55:6,7 substantive think 4:4 6:4,4 36:3,20 37:4 
+22:9,17 23:6 state's 40:13 42:24 6:23 7:2,6,8,10 42:15 44:16 
+23:11,12 26:2 statute 24:6,11 sued 51:24 7:12,21 8:9,15 46:22 48:4,4,7
+26:5,11,18,2424:12 39:17 sufficient 8:11 8:21 9:21 10:2 52:7 55:10 
+27:22 28:15,1642:24 51:6,12 45:19 10:10,19 11:19 timeliness 23:1 
+31:7,14 34:7 statutory 37:19 sufficiently 12:5 13:19 24:19 
+39:16,24 40:2 37:23 33:18 14:2,22,23 timely 22:25 
+40:18,19,21,21stay 29:6,16 suggest 44:19 15:7,20,22,24 25:14 
+41:1,6,9,2150:4 53:5 16:5,8,14 17:7 times 44:14 
+
+Alderson Reporting Company 
+
+
+
+70 
+Official 
+
+today 13:9 29:13 underscore 52:2 waived 40:21 word 19:2 57:5 3 
+34:11 58:11 understand 9:24 want 19:6,11 words 47:11 3 2:4 51:12 
+
+told 22:7 30:5 24:3,9 29:5 20:18 23:22 work 10:2 54:21 30 34:25 36:2 
+tolling 25:16 39:25 46:6 29:3,11,24 works 9:25 42:8 50:15 
+Tom 38:9 50:9 40:2 45:23 worried 48:4 31 2:7 51:20 
+traced 37:19 understanding 49:9 50:3 worth 38:12 38 24:18 
+track 26:24 39:4 34:17 wanted 14:3 wouldn't 7:10 
+
+4transition 20:25 understood 6:11 56:16 8:22 9:14 18:9 
+treat 46:8,10 uniform 4:14 warning 14:10 40:4 4 51:23 
+treating 32:8 unique 37:9 wary 30:22 wrench 21:12 48 14:8 
+Trevino 54:13 55:9 Washington 1:8 Wright 30:10 
+
+5trial 9:3,6 16:18 uniquely 37:24 1:18 34:16 
+5 51:1639:6 United 1:1,6,12 wasn't 32:4 write 19:6 
+50 14:9tricky 15:18 3:5 42:22 52:15 wrong 7:8 38:4 
+55 2:10tried 11:21 43:13 49:19 way 4:3,8 7:4 wrote 38:9 
+
+true 12:19,19 55:7 8:5 16:5,8 
+6X13:22 31:9 unpublished 21:13 22:23 
+
+697 27:10x 1:2,736:19 40:15 44:7 23:13,15 26:13 
+43:8 53:25 unreasonable 26:14 30:13 9Ytrumps 28:11 7:14 8:1 42:6 32:17 36:25 96 13:5,23year 51:6,13try 10:1 upheaval 45:3 37:25 41:24 98 27:10years 3:11 29:7 trying 10:19 use 55:3 46:8 50:10 
+
+50:14 51:16,2326:20 44:11,12 useful 44:1 56:13 
+48:16 54:9 ways 15:23 1Vturn 34:19 52:2 week 49:19 1 1:9 51:13 v 1:5 3:5,12 turned 17:6 well-settled 37:6 10:01 1:13 3:2 25:15 28:18,20turns 36:3 West 30:11 11 47:7,2030:3,10 31:6,7 two 3:17 4:5,5 34:16 11-820 1:4 3:4 34:16 39:165:19 6:7 11:18 We'll 3:3 11:02 58:2142:22 43:1312:5 13:1 we're 10:24 15:1 14.3.2 33:1545:9 49:1915:23 17:7 15:2,3,9 20:13 1984 35:151:20 54:9,1321:15 25:13 23:18,24 27:7 1996 4:7 12:24 veered 39:428:24 32:6 27:9,24 29:6 13:4,13,16,18versus 35:2336:11 41:18 42:10,11 50:1 1999 19:2448:1143:21 55:13,17 we've 58:11 
+
+view 22:7 32:3 two-part 10:24 we’re 28:14,15 2
+33:9 40:1 46:4 type 28:7 31:16 whatsoever 20 3:1147:352:5 40:21 57:18 2001 14:13violate 4:17typically 53:9 white 29:23 17:19violated 10:9 wide 20:16 2012 1:9U 32:10 56:19 widespread 2254 41:10unable 49:16 virtually 8:11 12:22 2255 24:2 25:14 unanimity 44:17 Williams 5:9 41:11 43:15Wunanimous 44:9 8:10,13 28 44:7 50:14 wait 56:1047:2 win 36:7 55:6waivable 40:19underlying 26:3 wise 55:3 29 36:25 37:1 waive 30:1943:6 wish 27:2 41:13 
+
+Alderson Reporting Company 
+
+

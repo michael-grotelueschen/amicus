@@ -1,0 +1,8627 @@
+
+          
+
+          
+
+                        
+
+                  
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+JOHN F. HINCK, ET UX., :
+
+ Petitioners :
+
+ v. : No. 06-376 
+
+UNITED STATES. : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Monday, April 23, 2007
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 1:00 p.m. 
+
+APPEARANCES: 
+
+THOMAS E. REDDING, ESQ., Houston, Tex; on behalf of the
+
+ Petitioner. 
+
+JONATHAN L. MARCUS, ESQ., Assistant to the Solicitor
+
+ General, Department of Justice, Washington, D.C.; on
+
+ behalf of the Respondent. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                   
+
+                   
+
+                  
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+
+THOMAS E. REDDING, ESQ.
+
+ On behalf of the Petitioners 3 
+
+ORAL ARGUMENT OF 
+
+JONATHAN L. MARCUS, ESQ.
+
+ On behalf of the Respondent 22 
+
+REBUTTAL ARGUMENT OF 
+
+THOMAS E. REDDING, ESQ.
+
+ On behalf of the Petitioners 48 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (1:00 p.m.)
+
+ CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+next in case 06-376, Hinck vs. United States.
+
+ Mr. Redding.
+
+ ORAL ARGUMENT OF THOMAS E. REDDING
+
+ ON BEHALF OF THE PETITIONERS
+
+ MR. REDDING: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ The Federal Circuit's opinion is simply 
+
+wrong. Enactment of Section 6404(h) did not repeal 
+
+district court and Court of Federal Claims refund 
+
+jurisdiction over interest by the Internal Revenue 
+
+Service. Both circuits have found that there was 
+
+pre-existing jurisdiction prior to the enactment of 
+
+Section 6406(h). Nothing in Section 6404(h) expressly 
+
+repeals that jurisdiction, and there are many instances 
+
+in the code where Congress when it does intend to 
+
+expressly limit jurisdiction, will state that in the 
+
+enabling statute. Reference to the tax court, specific 
+
+reference to the tax court in 6404(h) was mandated 
+
+unnecessary by Section 7442 and the nature of the tax 
+
+court. The tax court is only given jurisdiction over 
+
+those matters where it is specifically set out in the 
+
+tax code. 
+
+3
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+And the established framework of pay and sue 
+
+jurisdiction in the district courts and prepayment 
+
+jurisdiction in the tax court is a well established 
+
+framework for tax litigation. That has been accepted 
+
+and enunciated by this Court as far back as the Flora 
+
+opinions. It's a well established pattern of duality of 
+
+jurisdiction in the two forums.
+
+ CHIEF JUSTICE ROBERTS: But not with respect 
+
+to abatement of interest in particular.
+
+ MR. REDDING: Not with respect to abatement 
+
+of interest, Your Honor, but as a general basis. The 
+
+availability of a prepayment forum that was originally 
+
+enacted to be complementary to the ability to pay and 
+
+sue in order to protect smaller taxpayers, and avoid the 
+
+hardships faced by having to pay in full before having 
+
+access to refund jurisdiction, and in fact perhaps to 
+
+avoid bankruptcy. That is completely consistent with 
+
+the way this section is enacted. Section 6404(h) even 
+
+includes the limitation that only taxpayers with a net 
+
+worth below $2 million or corporations below $7 million 
+
+have prepayment access to the tax court. And abatement 
+
+by itself is generally a prepayment remedy.
+
+ JUSTICE GINSBURG: That's a -- on that 
+
+point, Mr. Redding, it seems odd that given this 
+
+tripartite system, Congress would want only the tax 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+court to be restricted in the people who could claim the 
+
+abatement, the net worth test applicable in the tax 
+
+court on your theory, if there is authority in the 
+
+claims court and in the district courts, they're not 
+
+limited to the net worth restrictions.
+
+ MR. REDDING: That is correct, Your Honor, 
+
+but I do believe that it is consistent with the intent 
+
+of the formation of the tax court to provide a 
+
+prepayment forum to especially avoid hardship and the 
+
+potential even of bankruptcy. It's very consistent with 
+
+that pattern to say that the larger taxpayer can afford 
+
+to pay the tax and sue, whereas the smaller taxpayer may 
+
+be in greater need of a prepayment forum. It's also 
+
+consistent with imposing the very short limitation 
+
+period for bringing an action in the tax court, because 
+
+there the government has a very vested interest in being 
+
+able to proceed with collection of the tax.
+
+ CHIEF JUSTICE ROBERTS: But why would you 
+
+not want some -- a larger taxpayer to be able to proceed 
+
+in the tax court if you can also proceed in the claims 
+
+court?
+
+ MR. REDDING: Your Honor, I can't speak to 
+
+Congress's reasoning behind that but I can understand 
+
+the logic behind saying we're going to create a special 
+
+prepayment remedy that allows the smaller taxpayer an 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+expedited means of resolving these issues without having 
+
+to first pay it and sue, whereas the larger taxpayer is 
+
+not put into a hardship position, is not inconvenienced 
+
+as bad by having to follow the old well established 
+
+procedures of pay and sue.
+
+ And I will note that 6404(h) does not apply 
+
+only to 6404(e)(1), which is the subsection we're coming 
+
+under. 6404(h) applies to all of the abatement grounds 
+
+under Section 6404. And if we were to repeal 
+
+jurisdiction in the district court and the Court of 
+
+Federal Claims over all of those provisions, then we 
+
+would be completely taking away a remedy that has been 
+
+there all along to the larger taxpayers. But to create 
+
+a new remedy that is consistent with the pattern that 
+
+allows a small taxpayer access to a prepayment forum, I 
+
+think is completely consistent with the entire history 
+
+of this court. This court meaning the tax court. And 
+
+its purpose.
+
+ In evaluating two statutes that appear to 
+
+either conflict or overlap, I think it is, in reviewing 
+
+whatever doctrine you call it, whatever canon you call 
+
+it of interpretation, it appears to me that what this 
+
+Court has always done is to look to see if the two 
+
+statutes can be harmonized rather than seeing if one 
+
+supersedes the other. And here considering the 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+extension of prepayment jurisdiction to the tax court 
+
+merely an additional form of prepayment jurisdiction 
+
+being granted to the tax court is completely consistent 
+
+with the long-standing pattern of pay and sue 
+
+jurisdiction in the district courts, prepayment 
+
+jurisdiction in the tax court --
+
+CHIEF JUSTICE ROBERTS: But you have no 
+
+basis for an abatement of interest action apart from 
+
+6404(h), correct? That is the only place you get the 
+
+actual cause of action to sue for abatement of interest?
+
+ MR. REDDING: Abatement as a prepayment 
+
+remedy, yes, Your Honor. Once the IRS has failed to 
+
+abate the interest and you make payment then you have 
+
+the normal refund, refund provisions available.
+
+ CHIEF JUSTICE ROBERTS: But what would you 
+
+cite to, in response to the prior cases that said you 
+
+had no cause of action for abasement of interest?
+
+ MR. REDDING: Actually Your Honor I don't 
+
+believe that's what the cases said. They said you had 
+
+no cause of action that could be pursued under 
+
+6404(e)(1) but even the seminal cases, Horton -- or 
+
+Selman and Horton Homes compared a Section 6404(e)(1) 
+
+action to a Section 6404(e)(2) action and basically said 
+
+you could have brought a refund claim. If you qualified 
+
+under (e)(2) there would have been no impediment to 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+bringing that as a refund action because there was a 
+
+clearly established standard. The (e)(2) provision is a 
+
+must standard.
+
+ Now, under 6404(h) if it is exclusive over 
+
+abatement jurisdiction, then any taxpayer who would have 
+
+had access to the courts, for example for an (e)(2) 
+
+abatement case, unless they are a small taxpayer they 
+
+will be completely denied any remedy whatsoever.
+
+ JUSTICE SCALIA: Where is (e)(2)? Is it 
+
+produced in these materials. I got (e)(1); I don't have 
+
+(e)(2). I don't really like talking about a section I 
+
+don't have in front of me.
+
+ MR. REDDING: I believe all of 6404 was in 
+
+the appendix but I don't have it in front of me.
+
+ Yeah. It's -- it's immediate, in the code section 
+
+it's immediately below (e)(1).
+
+ JUSTICE SCALIA: Ah.
+
+ MR. REDDING: But I mean -- I'm sorry, Your 
+
+Honor. That doesn't help you --
+
+(Laughter.)
+
+ MR. REDDING: -- where it is in the 
+
+materials.
+
+ JUSTICE SCALIA: That's one thing about this 
+
+case I'm sure about.
+
+ (Laughter.) 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. REDDING: I apologize, Your Honor, but I 
+
+do not have that. It is in the appendix to the 
+
+petition, the entire code section is set out.
+
+ JUSTICE KENNEDY: Is that the one that says 
+
+interest abated with respect to erroneous refund check? 
+
+Or am I reading wrong?
+
+ MR. REDDING: Yes, Sir, it is.
+
+ CHIEF JUSTICE ROBERTS: But the one I'm 
+
+looking at just has (e)(1). Did you have a page number?
+
+ JUSTICE SOUTER: At page 42 of the appendix, 
+
+all -- all there is is a subsection 1.
+
+ JUSTICE SCALIA: That's right.
+
+ MR. REDDING: Well, Your Honor, I have the 
+
+code section in front of me now but I still do not have 
+
+the reference in the appendix. I apologize but I simply 
+
+don't have it, Your Honor.
+
+ JUSTICE GINSBURG: Can I go back to 
+
+something you just said, that I thought you said that 
+
+the people would have no remedy if the tax court -- were 
+
+the only forum for abatement claims? And it would be 
+
+the exclusive forum but nobody -- it wouldn't deny 
+
+access to anyone.
+
+ MR. REDDING: Your Honor --
+
+JUSTICE GINSBURG: Abatement claim, if you 
+
+read this as the Government does, is one place where you 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+go, and the tax court but everyone who has an abatement 
+
+claim could go there. So who's being cut out?
+
+ MR. REDDING: Well no, Your Honor, everyone 
+
+cannot go there. You can only go there if you're a 
+
+taxpayer, an individual taxpayer with a net worth of 
+
+less than $2 million.
+
+ JUSTICE GINSBURG: Oh, yes. But -- yes. 
+
+And I had asked you before well doesn't it seem, it 
+
+seems strange that Congress would want to limit the 
+
+authority of the, of the court where most people go and 
+
+have no limit for the wealthier taxpayers.
+
+ MR. REDDING: Your Honor, again, my, my view 
+
+of that is the Congress intended to limit the special 
+
+relief of prepayment jurisdiction to the smaller 
+
+taxpayers. But the availability of a pay and sue remedy 
+
+was already in existence and continues in existence and 
+
+those wealthier taxpayers generally can afford to pay 
+
+the liability in full and sue.
+
+ A prepayment forum which delays the 
+
+collection of the tax to the Government, you know, the 
+
+Government has a special interest there in restricting 
+
+access to that relief so that it can proceed with 
+
+collection. And again, it just makes logical sense that 
+
+as to a larger taxpayer the ability to pay and sue 
+
+should be a sufficient remedy. Generally speaking --
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE GINSBURG: I thought Congress was 
+
+operating on the assumption that no court could hear an 
+
+abatement claim?
+
+ MR. REDDING: Your Honor, that comes largely 
+
+from the legislative history, the House Committee report 
+
+addressing interestingly, subsection (h). And 
+
+subsection (h) since it applies only to prepayment 
+
+abatement claims specifically, I think then you, then 
+
+that legislative history makes sense. Because in that 
+
+same page in the legislative history --
+
+JUSTICE GINSBURG: Well, give me a decision 
+
+of the claims court or a district court that said courts 
+
+have authority to abate the interest before Congress 
+
+enacted this legislation?
+
+ MR. REDDING: I don't believe there is a 
+
+specific case out there that I can cite to you where it 
+
+has happened. It is, it is reflected in both Horton 
+
+Homes and Selman that that availability existed with 
+
+respect to (e)(2) to --
+
+JUSTICE KENNEDY: Is it fair to say that 
+
+Congress acted on the assumption that there was no right 
+
+to the abatement with, and to the payment unless it 
+
+enacted the statutes?
+
+ MR. REDDING: Your Honor, I don't believe 
+
+so. Again, because that legislative history that's 
+
+11
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+referred to is restricted, the House Committee report is 
+
+restricted only to the subsection creating the tax court 
+
+prepayment jurisdiction. It is not relevant to the rest 
+
+of the amendments to Section 6404. And I note that in 
+
+doing so Congress also did not make the restriction on 
+
+the $2 million/$7 million net worth relative to the 
+
+rights being granted under the other provisions of 6404.
+
+ JUSTICE SCALIA: It's easy to see why the 
+
+only cases you have relate to (e)(2) rather than (e)(1). 
+
+(E)(2) which we don't have in the materials, but I have 
+
+gotten a copy of it.
+
+ And (e)(1) says that the Secretary "may" 
+
+abate the assessment of all or any part. And those 
+
+cases that denied it said this is discretionary; he 
+
+doesn't have to. (E)(2) on the other hand, interest 
+
+abated with respect to erroneous refund check, says the 
+
+Secretary "shall" abate the assessment. So really, 
+
+(e)(2) doesn't -- doesn't do you any good at all with 
+
+respect to whether there was a cause of action before 
+
+(h) was adopted.
+
+ MR. REDDING: Well -- Your Honor, I 
+
+respectfully disagree because 6404(h) applies to (e)(2) 
+
+as much as it does to (e)(1). And any taxpayer that 
+
+would have met the net worth requirements or whether or 
+
+not they met the net worth requirements that are now in 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+H, could have brought a refund suit under (e)(2) 
+
+previously.
+
+ CHIEF JUSTICE ROBERTS: Well, sure. But --
+
+but that's just saying, if -- you used to have the 
+
+entitlement under (e)(2) and you're saying well, you 
+
+could bring cases under (e)(2). But 6404(h) allows you 
+
+to bring cases under (e)(1). It would follow a fortiori 
+
+that you could bring them for (e)(2) as well, but that 
+
+doesn't prove that you could prove them under (e)(1) in 
+
+the claims court or the district court.
+
+ MR. REDDING: No it does not, Your Honor. 
+
+What I'm trying to address is the intent to repeal the 
+
+pre-existing jurisdiction, again because 6404(h) does 
+
+not apply just to (e)(1), where the might be a question 
+
+about whether or not they could have brought the case 
+
+previously, although jurisdiction existed. Clearly they 
+
+could have brought their case under (e)(2).
+
+ JUSTICE SCALIA: I see. What you're say is 
+
+that cases that used to be bringable under (e)(2) would 
+
+now be bringable only under (h) which would in effect be 
+
+an implicit repeal of (e)(2).
+
+ MR. REDDING: Of (e)(2) --
+
+JUSTICE SCALIA: At least as far as suits 
+
+elsewhere than in the tax court.
+
+ MR. REDDING: That's correct. And 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+additionally limit it solely to the small taxpayer. The 
+
+larger taxpayer who had a prior remedy would have none.
+
+ JUSTICE BREYER: It seems to apply just to 
+
+abuse of discretion.
+
+ MR. REDDING: I'm sorry, Your Honor?
+
+ JUSTICE BREYER:: Doesn't the new statute 
+
+just apply to abuse of discretion?
+
+ MR. REDDING: No, Your Honor, it does not. 
+
+It creates the standard under which the tax court may 
+
+review any interest abatement claim under Section --
+
+JUSTICE BREYER: It says you have 
+
+jurisdiction to determine whether it's an abusive 
+
+discretion. Maybe I'm reading the wrong place. 6404 --
+
+MR. REDDING: Yes, Your Honor, that is the 
+
+standard it applies to.
+
+ JUSTICE BREYER: Right. Well that standard 
+
+doesn't apply to the (e)(2). It has nothing to do with 
+
+it; (e)(2) says if it's a refund, abate, if not, not. 
+
+It's not a question of abuse of discretion or not.
+
+ MR. REDDING: Well I think it's the standard 
+
+on which they are to review the Government's action. 
+
+And I believe I cannot cite the case but there are cases 
+
+that hold that a violation of law is a per se abuse of 
+
+discretion. There are also other subsections --
+
+subsections under 6404 which are made provisions in 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+other 6404 subsections, which are must provisions. 
+
+There are about five different subsections under 6404 
+
+that provide for interest abatement.
+
+ Again, I come back to the long-established 
+
+pattern of having prepayment jurisdiction in the tax 
+
+court and postpayment refund jurisdiction in the 
+
+district courts and Court of Federal Claims. It's a 
+
+well established system, and adding a new prepayment 
+
+form of relief into the tax court in no way should be 
+
+implied to be a repeal of the long established refund --
+
+pay and sue refund jurisdiction that normally exists.
+
+ CHIEF JUSTICE ROBERTS: But if you went into 
+
+the district court and claimed that the failure to abate 
+
+interest was an abuse of discretion, what would you rely 
+
+on for the -- for the cause of action?
+
+ MR. REDDING: If the failure to abate 
+
+interest was an abuse of discretion under (e)(1) you 
+
+would rely on (e)(1) for the cause of action. The right 
+
+is created by the other subsections of (h) of 6404.
+
+ CHIEF JUSTICE ROBERTS: I thought the prior 
+
+cases consistently, consistently said that there was no 
+
+judicial review because it was "may abate" and that it 
+
+was only with the arrival of 6404(h)(1) that there was a 
+
+cause of action for abuse of discretion?
+
+ MR. REDDING: Yes, Your Honor, but I believe 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+what they actually said is that there was jurisdiction 
+
+to hear it but there was not a justiciable standard that 
+
+could be applied with regard to (e)(1). However, once 
+
+Congress came in and says to the tax court you're going 
+
+to apply this standard, there is a standard of review. 
+
+That now indicates Congress did not intend it to be 
+
+solely discretionary, and that the district court or 
+
+Court of Federal Claims would look to the general common 
+
+law; it would look to precedents, such as the APAA abuse 
+
+of discretion standard is consistently used throughout 
+
+the court systems in --
+
+CHIEF JUSTICE ROBERTS: So you want to look 
+
+at 6404(h)(1) saying now we have a standard, but you 
+
+don't want the other stuff that goes along with 
+
+6404(h)(1), which is it's in the tax court; you got to 
+
+have less than ten million, blah, blah, blah?
+
+ MR. REDDING: That is correct, Your Honor. 
+
+The abuse of discretion standard is a common law 
+
+standard which has been carried over into -- into this 
+
+statute. But to create a --
+
+JUSTICE GINSBURG: And it didn't exist 
+
+before this statute? I mean, the lower courts as I 
+
+understand it said, routinely, yes, you can have 
+
+jurisdiction, but have you no claim for relief because 
+
+there is no, no law to apply. This is a totally 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+discretionary matter of the Commissioner's grace. So 
+
+Congress perhaps didn't grasp the subtle distinction 
+
+between no jurisdiction, and you can walk in the door 
+
+but you go out the next door, because there is no 
+
+justiciable claim. And it provided peculiarly in the 
+
+tax court for relief that was not available anyplace 
+
+before?
+
+ MR. REDDING: I understand and that's 
+
+basically the Fifth Circuit's view, Your Honor. I do 
+
+not agree with that view. I think that the Congress was 
+
+merely expanding the existing structure of prepayment 
+
+jurisdiction for the tax court --
+
+JUSTICE GINSBURG: The Fifth Circuit -- I 
+
+thought the Fifth Circuit went your way.
+
+ MR. REDDING: Pardon?
+
+ JUSTICE GINSBURG: I thought the Fifth 
+
+Circuit went your way.
+
+ MR. REDDING: It did, Your Honor. I'm 
+
+sorry. The Federal Circuit analyzed it as you have. I 
+
+do not believe that that is the correct analysis. I 
+
+think the Fifth Circuit has this one right. What you 
+
+have is a grant of jurisdiction to the United States Tax 
+
+Court for a prepayment forum of relief which is 
+
+consistent with the existing pattern, and in no other 
+
+instance where that has been done has there been an 
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+implied repeal.
+
+ JUSTICE SCALIA: Mr. -- Mr. Redding, let me 
+
+come back to the phantom (e)(2) which we have finally 
+
+traced down.
+
+ MR. REDDING: I apologize, Your Honor.
+
+ JUSTICE SCALIA: I am not sure that (h) 
+
+would impliedly repeal (e)(2), because (e)(2) is 
+
+mandatory. There isn't any question under (e)(2) 
+
+whether there has been an abuse of discretion. There is 
+
+no discretion. It is mandatory to the extent that the 
+
+Administrative Procedure Act would govern (e)(2), it 
+
+would be for a violation of law not for abuse of 
+
+discretion.
+
+ So when (h) says the tax court shall have 
+
+jurisdiction to determine whether the Secretary's 
+
+failure to abate interest was an abuse of discretion, I 
+
+would take that to apply only to (e)(1), which says the 
+
+Secretary may abate and not to (e)(2) which says the 
+
+Secretary shall abate. There is no question of -- of 
+
+discretion in (e)(2) at all.
+
+ MR. REDDING: I understand that argument, 
+
+Your Honor. And --
+
+JUSTICE SCALIA: It was a pretty good 
+
+argument, I thought.
+
+ (Laughter.) 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. REDDING: I agree, Your Honor. I would 
+
+note to the Court, though, that 6404(d) is also a 
+
+may-abate provision which is in the code. 6404(a) is 
+
+also a permissive abatement provision, and those 
+
+provisions would clearly be covered by it. I, when it 
+
+says it may, may review a failure to abate interest 
+
+under 6404, I read that as encompassing all of 6404 and 
+
+creating their standard for review. I do not review 
+
+that as a new standard that applies.
+
+ JUSTICE SCALIA: What about those other 
+
+sections, (c) and (d), which say the Secretary is 
+
+authorized? Have there been cases which, which said 
+
+that you could sue for, for his failure to make use of 
+
+that?
+
+ MR. REDDING: Your Honor, I've been able to 
+
+find no case --
+
+JUSTICE SCALIA: It's the same as with (e)?
+
+ MR. REDDING: Yes Your Honor.
+
+ JUSTICE SCALIA: As with (e)(1).
+
+ MR. REDDING: Yes, Your Honor. There's no 
+
+clearly history of cases.
+
+ I would also submit, Your Honor, that 
+
+because of the established pattern of pay and sue versus 
+
+prepayment jurisdiction and the necessity to make a 
+
+specific reference to the tax court in any grant of 
+
+19
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+jurisdiction in the tax code in order to enable the tax 
+
+court to have jurisdiction, that if this is the ruling 
+
+of this Court with regard to 6404(h), it is going to 
+
+raise a question every time prepayment jurisdiction is 
+
+extended to the tax court over any matter as to whether 
+
+that somehow now becomes exclusive of the conventional 
+
+pay and sue remedy.
+
+ CHIEF JUSTICE ROBERTS: Of course, there's a 
+
+fundamental difference on this particular question 
+
+between pay and sue and sue --
+
+MR. REDDING: Prepay.
+
+ CHIEF JUSTICE ROBERTS: -- prepay, because 
+
+if you -- in the district court if you're paying and 
+
+suing you're not really subject to the accrual of 
+
+interest, right?
+
+ MR. REDDING: No, Your Honor, that is not 
+
+correct.
+
+ CHIEF JUSTICE ROBERTS: If I owe the IRS, 
+
+1,000 dollars and they send me a bill and I paid the 
+
+1,000 dollars, they've got the money, I don't. So I 
+
+don't owe interest on that, do I?
+
+ MR. REDDING: Your Honor, may I reflect it 
+
+back to the facts in this case. The time period with 
+
+respect to which abatement is requested occurs many 
+
+years before the IRS ever sent the taxpayer a bill. The 
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+errors and delays complained of in this case occurred 
+
+during the course of the partnership level examination 
+
+and proceedings. The taxpayer at that time doesn't even 
+
+have a notice of what the adjustments are going to be, 
+
+let alone what his tax liability is. In a partnership 
+
+case, the partnership level determinations are made at 
+
+the partnership level. The Government then, without any 
+
+further notice to the taxpayer, is free to make the 
+
+computation of the taxpayer's liability and send him a 
+
+bill.
+
+ During the pendency of the proceedings at 
+
+the partnership level, there is virtually no way to 
+
+tell, except as to what the outside maximum liability 
+
+might be if the Government prevails, what your liability 
+
+is going to be. And if --
+
+CHIEF JUSTICE ROBERTS: The initial bill 
+
+includes the interest?
+
+ MR. REDDING: Absolutely, Your Honor, that's 
+
+being asked to be relieved of in this case.
+
+ CHIEF JUSTICE ROBERTS: But still, in the 
+
+tax court situation it's still accruing?
+
+ MR. REDDING: Well, yes. It's accruing 
+
+during the course of the tax court proceeding. And 
+
+again, even there for an individual if the time period 
+
+involved was prior to the assessment the pay, the being 
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+able to pay it and cut off the interest really wouldn't 
+
+make sense.
+
+ Basically, Your Honor, I believe that, I 
+
+believe that this case really rests on what I think the 
+
+Fifth Circuit summarized quite well when it says that it 
+
+makes more sense in this case to simply believe the 
+
+Congress, quote, "simply intended" -- "simply chose to 
+
+extend concurrent jurisdiction to the tax court over a 
+
+certain class of claims." And that's all it really has 
+
+done here. It has implemented and expanded the 
+
+conventional jurisdiction of the tax court as a 
+
+prepayment forum before you do have to pay the liability 
+
+to resolve a dispute with the Internal Revenue Service.
+
+ There is no reason, I don't believe, to see 
+
+this as a major departure from the existing structure of 
+
+pay and sue jurisdiction versus prepayment jurisdiction. 
+
+This is just a well established plan that's been in the 
+
+code for many, many years.
+
+ Mr. Chief Justice, if the Court has no other 
+
+questions I would reserve my remaining time for 
+
+rebuttal.
+
+ CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. Redding.
+
+ Mr. Marcus.
+
+ ORAL ARGUMENT OF JONATHAN L. MARCUS 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+ON BEHALF OF THE RESPONDENT
+
+ MR. MARCUS: Thank you, Mr. Chief Justice, 
+
+and may it please the Court:
+
+ The court of appeals correctly held that the 
+
+tax court has exclusive jurisdiction over actions 
+
+challenging interest abatement determinations under 
+
+Section 6404(e)(1). The language, structure and history 
+
+of the interest abatement review statute supports the 
+
+court of appeals' decision as to principles of sovereign 
+
+immunity. Under Petitioner's theory the specific 
+
+restrictions on the remedy that Congress created may be 
+
+avoided by the simple expedient of filing a challenge in 
+
+another forum. Nothing in the interest abatement review 
+
+statute or this Court's precedent permits that result.
+
+ The place to start is the language of the 
+
+interest abatement review statute. Section 6404(h) 
+
+provides the tax court shall have jurisdiction over an 
+
+interest abatement action brought by taxpayers who meet 
+
+the net worth limitations set out in another part of the 
+
+code and who file their claim within 180 days of the 
+
+Secretary's mailing of a final determination not to 
+
+abate interest.
+
+ JUSTICE KENNEDY: If, if the history of this 
+
+issue had been such that before the enactment of this 
+
+section the courts of appeals were divided or the courts 
+
+23
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+were divided as to whether or not there was jurisdiction 
+
+in the Court of Claims and in the district court, would 
+
+your position be different?
+
+ MR. MARCUS: No, our position would be the 
+
+same. We would first look to the statutory language of 
+
+Section 6404(e)(1) and that provision provides that the 
+
+Secretary may abate interest when there is an error or 
+
+delay committed by an IRS employee in the performance of 
+
+a ministerial act, and that "may" language contrasts 
+
+with other provisions that have mandatory language that 
+
+requires the Secretary to abate. In addition, if you 
+
+look at the nature of the --
+
+JUSTICE KENNEDY: So it's, so it's only (h) 
+
+that gives any court any jurisdiction at all?
+
+ MR. MARCUS: That's correct.
+
+ JUSTICE KENNEDY: Even though in our 
+
+hypothetical world some courts of general jurisdiction 
+
+thought that they did have jurisdiction?
+
+ MR. MARCUS: That's correct, Justice 
+
+Kennedy. Up until 1986 the IRS didn't even have ability 
+
+to abate in these circumstances.
+
+ JUSTICE SCALIA: Did (h) apply to (e)(2) as 
+
+well as to (e)(1)? Does it apply only to discretionary 
+
+abatement provisions?
+
+ MR. MARCUS: No, it's our position it 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+applies only to discretionary abatement determinations 
+
+by the Secretary. The language -- typically when abuse 
+
+of discretion standard is imposed, it presupposes that 
+
+the decision being reviewed involves an exercise of 
+
+discretion.
+
+ JUSTICE SCALIA: So what happens with 
+
+(e)(2)? You use the pay and sue provisions?
+
+ MR. MARCUS: Yes, you could use it, although 
+
+it typically comes up when the Government has filed an 
+
+action to recover an erroneous refund. It's usually 
+
+raised as a defense. But you could bring it that way.
+
+ JUSTICE KENNEDY: Well, isn't it an abuse --
+
+isn't it an abuse of discretion for the Secretary to 
+
+fail to do what the statute tells him he absolutely 
+
+must?
+
+ MR. MARCUS: I think as a technical matter, 
+
+Justice Kennedy, that's correct. But I don't think 
+
+that's the natural way to read the statute, and when the 
+
+Congress imposed that abuse of discretion standard it 
+
+assumed that the decisions that were being -- that were 
+
+subject to review involved the exercise of a discretion.
+
+ JUSTICE SCALIA: I don't, I don't even think 
+
+it's technically correct. How is it an abuse of 
+
+discretion? He has no discretion. He must do it. How 
+
+could you say he has abused his discretion? What 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+discretion?
+
+ MR. MARCUS: Well I think some cases --
+
+there is some case law that has said that when there is 
+
+an error of law committed by a lower court that can 
+
+constitute an abuse of discretion. But in our view 
+
+again it's not the natural reading of the standard that 
+
+Congress put in. And also, if you look at the 
+
+legislative history, Justice Kennedy, you'll see that 
+
+Congress was focused on the absence of a judicial remedy 
+
+with respect to determinations by the Secretary that 
+
+involved an exercise in discretion.
+
+ CHIEF JUSTICE ROBERTS: But what the cases 
+
+said prior to 6404(h) when they asked for interest 
+
+abatement was not that we don't have jurisdiction to 
+
+consider that claim. They would just say there's no 
+
+standard to apply, so it's committed to agency 
+
+discretion by law. Then all of a sudden 6404(h) comes 
+
+along and gives you a standard, so that removes that 
+
+objection. What's wrong with that?
+
+ MR. MARCUS: I think that's -- with respect, 
+
+I think the Fifth Circuit's reasoning is too clever by 
+
+half. The Fifth Circuit basically extracted one piece 
+
+of Section 6404(h)'s integrated whole and held that 
+
+there now is a refund cause of action that's not subject 
+
+to the specific restrictions. 
+
+26 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: Well, that's because 
+
+of the way that Congress enacted the language. It 
+
+doesn't say that the tax court and only the tax court 
+
+shall have jurisdiction. It says the tax court shall 
+
+have jurisdiction. That is a, in many respects a 
+
+preferred forum and they're saying you can bring it 
+
+there as well, but it doesn't take away the jurisdiction 
+
+that the prior courts had recognized.
+
+ MR. MARCUS: Well, I think you need to look 
+
+at what the state of the law was when Congress enacted 
+
+this provision and think about what Congress would have 
+
+wanted to do. If Congress would have wanted to reverse 
+
+those decisions that had said there's no cause, no 
+
+refund cause of action for interest abatement, they 
+
+could have easily referenced the refund statute and said 
+
+there is a refund action available. They also could 
+
+have specified that the Court of Federal Claims or the 
+
+district courts can exercise jurisdiction over interest 
+
+abatement issues.
+
+ CHIEF JUSTICE ROBERTS: Don't you think it's 
+
+kind of strange, though, if you have the interest 
+
+abatement is available only for a particular category of 
+
+taxpayer and not others?
+
+ MR. MARCUS: No.
+
+ CHIEF JUSTICE ROBERTS: If you have a net 
+
+27
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+worth of two million and one dollar you can't get any 
+
+interest abatement, but if it's $2 million you can.
+
+ MR. MARCUS: I don't think, I don't think 
+
+it's anomalous. I think if you consider the concept of 
+
+interest under the tax code, the way it works under the 
+
+tax code is interest accrues on an unpaid tax liability 
+
+from the time the tax is due until the time the tax is 
+
+paid. So the amount of underpayment is the amount of 
+
+taxpayer is borrowing from the Government. The interest 
+
+that accrues on that underpayment is not a penalty; it's 
+
+just a charge basically for the time value of money.
+
+ CHIEF JUSTICE ROBERTS: Right, but you abate 
+
+it in some cases, but you don't abate it in the others.
+
+ MR. MARCUS: Right. But I think, I think 
+
+the idea was that Congress was concerned that some 
+
+taxpayers, taxpayers that fall within the net worth 
+
+limitations, might be in positions where they are less 
+
+positioned to pay the full tax liability up front.
+
+ CHIEF JUSTICE ROBERTS: That's what I 
+
+thought, too. But then your friend explained that in 
+
+the initial bill is where the interest is contained in a 
+
+lot of these cases and in this case in particular. So 
+
+it's not as if you have the opportunity to pay it in 
+
+advance to stop the accrual of interest. Just you get 
+
+the bill and you find out, you know, you owe a 1,000 
+
+28 
+Alderson Reporting Company 
+
+
+
+  
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+dollars and 300 of it is interest.
+
+ MR. MARCUS: I don't think that's correct, 
+
+Your Honor. The way this is -- the interest that's 
+
+abatable is, a taxpayer is in full control of whether 
+
+that interest runs or not. If the taxpayer pays his 
+
+full tax liability on time, interest doesn't accrue, so 
+
+there's no interest to abate.
+
+ JUSTICE SCALIA: But he doesn't even know 
+
+what his tax liability is, especially in a partnership 
+
+situation.
+
+ MR. MARCUS: Well, the taxpayer --
+
+JUSTICE SCALIA : He makes the 
+
+partnership calculation, it goes to the IRS, and then 
+
+they figure out what the tax is. And meanwhile, you 
+
+know, the interest is running.
+
+ MR. MARCUS: Well, Justice Scalia, first of 
+
+all, the taxpayer is in the best position to know what 
+
+the tax liability is. If a taxpayer is going to make 
+
+certain investments, they should understand what the tax 
+
+consequences are.
+
+ JUSTICE SCALIA: This is quite a different 
+
+argument. You're saying, you know, he should have paid 
+
+the full tax in the first place, not he could have paid 
+
+the interest that he knew was accruing.
+
+ MR. MARCUS: Right. But he could have 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+prevented that, the abatable interest, from accruing. 
+
+This abatable interest doesn't accrue until the taxpayer 
+
+receives notice from the IRS that there is a problem 
+
+with the return. So the -- in other words, that first 
+
+period from the time the underpayment is made until the 
+
+IRS notifies the taxpayer, that, that interest is not 
+
+subject to abatement. That automatically accrues and 
+
+there is no remedy. Congress has created no remedy for 
+
+that period, and there's just a period, there's a 
+
+provision in section --
+
+JUSTICE SCALIA: Excuse me. I didn't 
+
+understand that. Say that again? There's no abatement 
+
+for the interest that accrues until you're notified of 
+
+what the --
+
+MR. MARCUS: Until you're notified, until 
+
+the IRS notifies you that they are looking further at 
+
+your return. They might not at that point tell you 
+
+precisely how much you owe, but you're on notice that 
+
+the IRS is looking into your return further and that you 
+
+can at that point make a payment or put down a deposit 
+
+that doesn't compromise your ability as a taxpayer to go 
+
+into the tax court, but it does stop the accrual of 
+
+abatable interest.
+
+ JUSTICE SOUTER: But you don't know how much 
+
+to pay, do you? I mean, when they send you the notice 
+
+30 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+they don't send a notice that says, we're looking into 
+
+this and we think you're going to end up owing $5,000, 
+
+do they? They don't give you a figure.
+
+ MR. MARCUS: Again, they don't necessarily 
+
+tell you exactly how much you owe, but it's the 
+
+taxpayers' --
+
+JUSTICE SOUTER: Do they name a figure at 
+
+all --
+
+MR. MARCUS: They sometimes do.
+
+ JUSTICE SOUTER: -- when they give you the 
+
+initial notice?
+
+ MR. MARCUS: They sometimes do, and then at 
+
+18 months, at 18 months under subsection (g), under 18 
+
+months under a provision that was acted in 1998, the IRS 
+
+has to at 18 months tell you how much you owe; 
+
+otherwise, the interest cannot continue to accrue after 
+
+that 18-month period. But you should -- but it is the 
+
+taxpayer's responsibility to know what their tax 
+
+liability is.
+
+ JUSTICE SOUTER: That's true. That's true. 
+
+But you can make that argument. That argument, if you 
+
+accepted it, would be an argument for having no 
+
+amendment to subsection (h) at all.
+
+ MR. MARCUS: Right, but that's the idea. 
+
+Until 18 -- until 1986 there was no authority at all for 
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the Secretary to abate, and then Congress gave the 
+
+Secretary that authority as a matter of grace in 1986, 
+
+to extend this relief to forgive the accrual of 
+
+interest. I mean, after this is money --
+
+JUSTICE SOUTER: And the question is, why is 
+
+the grace confined to some taxpayers and not to others?
+
+ MR. MARCUS: The short answer is because 
+
+Congress has said that, said that, and the Congress 
+
+decided to impose the net worth limitation.
+
+ JUSTICE SOUTER: They've said it if we 
+
+accept your view of the exclusivity of the amendment to 
+
+(h).
+
+ MR. MARCUS: Right. And typically when 
+
+Congress imposes restrictions on a remedy this Court 
+
+reads that, reads that as an intentional --
+
+JUSTICE BREYER: Yeah, but is there any 
+
+other instance in the law? I suppose there probably is, 
+
+but what surprised me about that is this: Imagine we 
+
+have two citizens and they are identical in every 
+
+respect in terms of their claim, they each believe the 
+
+government owes them $50,000. They each have 
+
+identically strong claims. And Congress passes a law 
+
+and says one of you can come into court and the other 
+
+can't. Now suppose it said the poor person can't come 
+
+into court. Do you think there wouldn't be a 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+constitutional problem there? Remember, they have the 
+
+same claim for the same amount, with the same precise 
+
+strength of their argument. But we say rich people can 
+
+go in, and we'd say why did you do that? We say poor 
+
+people don't have as much stake in society. They don't 
+
+have -- now suppose you heard such an argument. How 
+
+long would it take you to feel there's a constitutional 
+
+problem?
+
+ MR. MARCUS: Well, I think there has to be a 
+
+rational basis for --
+
+JUSTICE BREYER: No. No. No. The rational 
+
+basis is that the poor person doesn't have the stake in 
+
+society that a rich one does.
+
+ MR. MARCUS: Well, I --
+
+JUSTICE SOUTER: It's worthless. Okay. Now 
+
+I guess, if you can't keep the poor person out for such 
+
+a reason then you can't keep the rich person out for 
+
+that reason. So you tell me what the rationale is in 
+
+keeping the rich person out any more than the poor 
+
+person. They have the same claim, same amount, same 
+
+cause. The cause, by the way, was that some bureaucrat 
+
+in the IRS forgot to send a notice so nobody knew what 
+
+was happening. That was the cause. And the reason it 
+
+didn't get abated is because a different bureaucrat got 
+
+mixed up, okay? Same claims. 
+
+33 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. MARCUS: Keep in mind, this is -- what 
+
+you're talking about is, this is interest that's running 
+
+on money that the taxpayer is borrowing from the 
+
+Government. This is money that the Government is 
+
+legally entitled to as of the date it was originally 
+
+due.
+
+ JUSTICE BREYER: Yeah.
+
+ MR. MARCUS: And so this is money that the 
+
+taxpayer is borrowing. A large net, high net worth 
+
+taxpayer can invest that money elsewhere and may well 
+
+even make out even better.
+
+ JUSTICE BREYER: But at the end of the day, 
+
+the claim happens to be interest worth $5,000. The IRS 
+
+abused its discretion under the statute in failing to 
+
+write a check for $5,000 to both. What we do is we 
+
+allow one of them to bring a lawsuit to get the 5,000, 
+
+and we say to the other one, you can't bring the lawsuit 
+
+to get the 5,000.
+
+ Now my question is, what's the basis for 
+
+that distinction?
+
+ MR. MARCUS: And the rational basis is that 
+
+Congress believed that taxpayers of a high net worth, 
+
+there would be no hardship, but -- in them not having a 
+
+cause of action.
+
+ JUSTICE BREYER: Why would there be no 
+
+34
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+hardship?
+
+ MR. MARCUS: Because they can use the money, 
+
+invest the money.
+
+ JUSTICE BREYER: And so can a poor person.
+
+ MR. MARCUS: Well, but they're not as well 
+
+positioned as the wealthy taxpayer, so --
+
+JUSTICE SCALIA: The next thing you know, 
+
+they will enact a progressive income tax.
+
+ (Laughter.)
+
+ JUSTICE BREYER: By the way, this has 
+
+nothing to do with the progressive income tax. What I 
+
+have not seen anywhere is the use of wealth, totally 
+
+different from the dollar value of a claim, to shut the 
+
+courthouse door. I'm just saying, is there such a case 
+
+anywhere, and if there is no such case, then I'd say I 
+
+wonder about this assumption. The assumption that the 
+
+reason that you cannot keep the courthouse door open to 
+
+everyone is because what?
+
+ MR. MARCUS: Well, first of all, there are 
+
+other examples. There's --
+
+JUSTICE BREYER: What.
+
+ MR. MARCUS: This is derived from, 
+
+ultimately derived from the Equal Access to Justice Act, 
+
+there are attorneys' fees provisions, but also 
+
+assistance to taxpayers, and those net worth limitations 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+apply to --
+
+JUSTICE BREYER: We know, attorneys' fees 
+
+you give to poor people more than to rich people. That 
+
+makes sense. That has nothing to do with having a 
+
+formal rule saying you cannot enter the courthouse.
+
+ JUSTICE SCALIA: Is there a you cannot enter 
+
+the courthouse provision here, or is it -- as I 
+
+understand your case, it is that it remains 
+
+discretionary with the Secretary with respect to people 
+
+who have more money, but it is not discretionary with 
+
+respect to people who have less money.
+
+ MR. MARCUS: That's correct.
+
+
+ JUSTICE BREYER: I don't understand.
+
+
+ JUSTICE SCALIA: So one has a cause of
+
+
+action and the other doesn't have a cause of action. 
+
+And the difference you're making between the two is 
+
+you're permitting the Secretary to waive the interest 
+
+with respect to the rich. You're requiring him to do it 
+
+with respect to the poor. Isn't that the difference?
+
+ MR. MARCUS: That's correct. There is an 
+
+administrative claim that --
+
+JUSTICE BREYER: Wait. That might be the 
+
+answer.
+
+ JUSTICE KENNEDY: The poor do not have the 
+
+incentive or even the ability to defer paying a tax, 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+where the people that have large bank accounts may, and 
+
+investments, may well profit by just paying the interest 
+
+to the Government.
+
+ MR. MARCUS: That's exactly right. And 
+
+Justice Breyer, if you want, if you --
+
+JUSTICE BREYER: Wait. Wait. There are two 
+
+separate things. I want to understand this. In other 
+
+words, the Secretary does not have the power to abate 
+
+the interest in respect to the rich person?
+
+ MR. MARCUS: No. He does have the 
+
+authority.
+
+ JUSTICE BREYER: Oh.
+
+ JUSTICE SCALIA: But it's permissive, not 
+
+mandatory.
+
+ MR. MARCUS: Yeah, the Secretary has the 
+
+authority to waive interest.
+
+ JUSTICE SCALIA: But he doesn't have --
+
+JUSTICE BREYER: He can do it -- in the 
+
+first case with the rich person, he can abuse his 
+
+discretion.
+
+ MR. MARCUS: With respect to taxpayers who 
+
+meet the net worth limitations.
+
+ JUSTICE BREYER: In other words, in the one 
+
+case Congress has passed a law saying with a poor person 
+
+you cannot abuse your discretion, but with a rich person 
+
+37 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+you can abuse your discretion. That's what the 
+
+underlying substantive statute says.
+
+ MR. MARCUS: And there's another --
+
+JUSTICE SCALIA: Wait a minute. They are 
+
+not really saying that. They're saying it's totally 
+
+within your discretion. You can't possibly abuse your 
+
+discretion when you have total discretion. They're just 
+
+saying, you know, do it if you want to do it.
+
+ MR. MARCUS: That's right. It's a matter of 
+
+administrative grace for the Federal taxpayers who 
+
+are --
+
+JUSTICE SOUTER: No. The standard of 
+
+discretion is the same for the poor and the rich, isn't 
+
+it? The only difference is that the poor can get into 
+
+court and the rich cannot.
+
+ MR. MARCUS: They have an enforceable right.
+
+ JUSTICE SOUTER: So it's a question of 
+
+remedy, not standing.
+
+ MR. MARCUS: Right. There's a judicial 
+
+remedy in one case and only an administrative remedy in 
+
+the other.
+
+ JUSTICE ALITO: Is that the poverty line?
+
+ MR. MARCUS: And there's another provision 
+
+in the tax -- I'm sorry, Justice Alito.
+
+ JUSTICE ALITO: Is the net worth of $2 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+million the poverty line now?
+
+ (Laughter.)
+
+ MR. MARCUS: Not that I'm aware of.
+
+ JUSTICE ALITO: So what is -- so what's the 
+
+rationale? This isn't treating the rich and the poor 
+
+differently, is it?
+
+ MR. MARCUS: It's treating exceedingly high 
+
+net worth individuals and corporations differently from 
+
+everyone else.
+
+ JUSTICE ALITO: Someone with a net worth of 
+
+$1.5 million couldn't invest the money in the interim?
+
+ MR. MARCUS: They could. Congress chose to 
+
+draw the line where it used this provision that was 
+
+already in place under the Equal Access to Justice Act. 
+
+It referred to that provision --
+
+JUSTICE GINSBURG: This was for purposes of 
+
+attorneys' fees?
+
+ MR. MARCUS: Right, the provision that 
+
+applies to attorneys' fees. Congress has also imposed 
+
+this provision in a burden shifting provision in the tax 
+
+code, Section 7491. If the Court wants to get a better 
+
+idea of what Congress's concern for what it called the 
+
+average taxpayer, or the smaller taxpayers, it can look 
+
+at the legislative history. There was a hearing in 
+
+March of 1995 that's cited on page 98 of the 
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+supplemental appendix to the cert petition, and that was 
+
+the Court of Federal Claims decision. It's footnote 19. 
+
+It refers to a hearing in March 1995. And if you read 
+
+through that, you can see where that concern for the --
+
+for average taxpayers and lower net worth taxpayers came 
+
+from.
+
+ Nothing in Section 6404(h) gives rise to an 
+
+inference that Congress intended to establish additional 
+
+remedies in the district court and Court of Federal 
+
+Claims. To the contrary, this Court has consistently 
+
+applied the rule that when Congress creates a specific 
+
+remedy, it intends that remedy to be exclusive. That 
+
+rule is fully applicable here. Otherwise, the specific 
+
+restrictions Congress imposed on the remedy could be 
+
+defeated by bringing the claim in a different forum.
+
+ JUSTICE GINSBURG: Wouldn't it have been 
+
+simpler if Congress just said the tax court shall have 
+
+exclusive jurisdiction, instead of just saying 
+
+jurisdiction?
+
+ MR. MARCUS: That might have made it 
+
+simpler, Justice Ginsburg, but it accomplished the same 
+
+result by imposing the specific restrictions that it 
+
+did. And again, it would have -- there's another --
+
+there are two other provisions in the tax code where 
+
+Congress -- where the tax court effectively has -- one 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of the provisions where the tax court has exclusive 
+
+jurisdiction under Section 6330(d), where also it 
+
+doesn't specify that -- the Congress didn't specify the 
+
+tax court has exclusive jurisdiction but it does. And 
+
+there's another case where there's an administrative 
+
+determination, it doesn't go to the underlying 
+
+substantive tax liability.
+
+ CHIEF JUSTICE ROBERTS: The difference --
+
+the difference is that the district court, the claims 
+
+court already has jurisdiction for pay and sue claims, 
+
+if you pay the IRS you can sue to get a refund. And so 
+
+this isn't as if we're looking at something that says 
+
+the tax court has jurisdiction and trying to use that as 
+
+a wedge to get other jurisdiction. There's already a 
+
+grant of jurisdiction. The problem was, there was no 
+
+standard of review for these may abate claims, and all 
+
+of a sudden we find in this provision there is a 
+
+standard of review, it's abuse of discretion, and that 
+
+fills the void. Why can't they just use that?
+
+ MR. MARCUS: Well, again, Mr. Chief Justice, 
+
+I don't think it was just a matter of not being a 
+
+standard of review. I think it was a matter of just 
+
+being, of intent by Congress to have this just be a 
+
+matter of administrative grace. And again, if you 
+
+contrast the language of the different --
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: But I thought what 
+
+you had argued before when people would try to seek this 
+
+release was that there's no standard of review to hold 
+
+the Secretary's exercise of discretion up against.
+
+ MR. MARCUS: I think that was one of the 
+
+reasons that the Government cited, but I think there was 
+
+others as well.
+
+ CHIEF JUSTICE ROBERTS: But one thing you 
+
+never said was that there was no jurisdiction, because 
+
+there is jurisdiction in the district court. If you've 
+
+paid money to the IRS and you want it back, you can 
+
+bring a refund action.
+
+ MR. MARCUS: If you have a legal entitlement 
+
+to it, and the point is you didn't have a legal 
+
+entitlement to it before. That's what the courts held, 
+
+and Congress responded to that, not by saying you do 
+
+have a legally entitlement to this through a refund 
+
+action, which they easily could have said if they wanted 
+
+to reject those prior decisions, but instead they 
+
+created a limited remedy in the tax court. I don't see 
+
+how you can read that limited remedy in the tax court to 
+
+give rise to a broader remedy that doesn't have those 
+
+restrictions that Congress imposed on the tax court 
+
+remedy.
+
+ So it should be -- I think 6404(h) should be 
+
+42
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+read as an integrated whole and you can't just extract 
+
+one piece and then bring that over, as the Fifth Circuit 
+
+said, to apply to a refund action. I don't think that's 
+
+the proper way to interpret the.
+
+ JUSTICE BREYER: I now think maybe I don't 
+
+agree on this point that there are different standards, 
+
+because it does say in this abuse of discretion. And 
+
+indeed that's a normal administrative standard, and so 
+
+as you read this you would think that the IRS does not 
+
+have any legal power substantively to abuse its 
+
+discretion in refusing to bring an abasement in refusing 
+
+to bring an abatement -- excuse me, to abate the 
+
+interest. So far do you agree?
+
+ MR. MARCUS: I'm sorry, Justice Breyer? 
+
+That Congress --
+
+JUSTICE BREYER: Once they make clear that 
+
+the standard is abuse of discretion, it only makes clear 
+
+what's there in the law anyway, that administrative 
+
+authorities do not have the authority to abuse their 
+
+discretion. Now, sometimes we don't review that in the 
+
+courts. That doesn't make it legal. It just means you 
+
+can't catch them out in court.
+
+ MR. MARCUS: Right.
+
+ JUSTICE BREYER: So there's a standard that 
+
+applies to everybody. Then all that this does, to go 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+back to it is it closes the courthouse door. Now I want 
+
+to know what your rationale was for doing that? It had 
+
+nothing to do with the standards that applied. It has 
+
+to have something to do with why one class of people by 
+
+wealth are kept out of court. I think if it were the 
+
+other way around it wouldn't last for three seconds, and 
+
+the only reason maybe I don't think about it as hard 
+
+this way because I think, well, privilege is involved, 
+
+etcetera. But when you force me to think about it, I 
+
+want to know what the reason so.
+
+ MR. MARCUS: Well, I don't think it's right 
+
+to characterize it as the closing of the courthouse 
+
+door. Congress opened the courthouse door in a limited 
+
+fashioning in 1996. That's what happened. There was no 
+
+courthouse door opened in --
+
+JUSTICE BREYER: I'll accept that 
+
+characterization. Now you give me the reason why we've 
+
+opened the courthouse door to individuals who are alike 
+
+in every respect but for their net worth? Now give me 
+
+that, the same reason? I always want to know what the 
+
+specific reason is, the specific rationale and. I'm not 
+
+saying there isn't one. I just want to know what it is.
+
+ MR. MARCUS: Justice Breyer, I don't know if 
+
+I can give you a better one than I gave before. But 
+
+it's that high net worth taxpayers are better positioned 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to pay their full tax liability up front and to handle 
+
+the accumulation of interest in the event that there is 
+
+some delay in the processing of their return.
+
+ JUSTICE KENNEDY: They're exactly alike but 
+
+for their ability to earn interest in different ways.
+
+ MR. MARCUS: Yes.
+
+ JUSTICE SCALIA: And I would not concede, as 
+
+you seem to have, that the consequence of (h) is simply 
+
+to open the door. I think the category of decisions 
+
+that are committed to agency discretion by law within 
+
+the meaning of the APA are agency decisions as to which 
+
+the term "abuse of discretion" makes no sense. There's 
+
+no such thing. It is totally committed to agency 
+
+discretion. It's only other decisions that are not 
+
+committed to agency discretion by law where you -- where 
+
+the discretion can be abused. If you look at it that 
+
+way, it isn't a matter of closing the door to one 
+
+category and opening it to another; it's a matter of 
+
+different substantive laws applying to the two, to the 
+
+two classes. Anyway, I choose to look at it that way. 
+
+You can talk --
+
+MR. MARCUS: That's a fine way of looking at 
+
+it, Justice Scalia. The other, the other anomaly the 
+
+Fifth Circuit identified was the taxpayer, the taxpayer 
+
+seeking a refund having to split off his claims. This 
+
+45 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+too is not a significant anomaly. The vast majority of 
+
+taxpayers seek redetermination of their tax liability in 
+
+the tax court and those taxpayers must split their 
+
+claims because the interest abatement claim doesn't 
+
+ripen until the taxpayer's underlying liability has been 
+
+assessed. Moreover, the interest abatement question is 
+
+distinct from the taxpayer's underlying liability.
+
+ CHIEF JUSTICE ROBERTS: Can they bring it as 
+
+additional claim after they get the final determination? 
+
+They start a whole separate action for interest 
+
+abatement?
+
+ MR. MARCUS: That's -- if they, if they, if 
+
+they got relief on their refund claim, if they prevail 
+
+on their refund claim there would be no need to do that. 
+
+The interest would automatically abate. But if they 
+
+were unsuccessful they could still pursue an interest 
+
+abatement on the grounds that the IRS committed an error 
+
+in delay in performing a material act.
+
+ CHIEF JUSTICE ROBERTS: Is it part of the 
+
+same proceeding or is it a separate proceeding?
+
+ MR. MARCUS: Well, it would be, it would be 
+
+a proceeding that would follow the proceeding on the 
+
+underlying liability.
+
+ CHIEF JUSTICE ROBERTS: You're making the 
+
+claim that it's no big deal that you have to go to the 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+district court to get your refund and then go to the tax 
+
+court to get the interest abatement, which does seem 
+
+like a big deal to me. And you say, well, in the tax 
+
+court you have to do it separately, too.
+
+ MR. MARCUS: It's not as inconvenient --
+
+well, it, it may be inconvenient but it's a necessary 
+
+consequence of the exclusive review scheme the Congress 
+
+set up. And there is no reason -- to take that policy 
+
+concern and have that trump the statutory language and 
+
+the regime that Congress clearly established.
+
+ JUSTICE GINSBURG: And there is no linkage 
+
+between the two, with, it's one thing to split a claim 
+
+when they have common elements, but the interest 
+
+abatement has nothing to do with the substantive 
+
+underlying -- substantive liability?
+
+ MR. MARCUS: That's correct, Justice 
+
+Ginsburg. It involves questions about administrative 
+
+problems that might arise during the processing of the 
+
+taxpayer's case. A ministerial act, the failure to 
+
+transfer a file when a taxpayer moves from one 
+
+jurisdiction to another, or after, or notice of 
+
+deficiency if the agent just delays in issuing the 
+
+notice because he forgot about it and it just sat on his 
+
+desk for a couple of days. Those are the kinds of 
+
+issues that, that come up in interest abatement 
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+actions.
+
+ If the Court has no further questions the 
+
+court of appeals should be affirmed. Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you 
+
+Mr. Marcus.
+
+ Mr. Redding, you have four minutes 
+
+remaining.
+
+ REBUTTAL ARGUMENT OF THOMAS E. REDDING,
+
+ ON BEHALF OF PETITIONERS
+
+ MR. REDDING: If I may, there are a couple 
+
+of brief points I would like to make. In the 
+
+legislative history of the 6404(h) it concludes with the 
+
+statement that no inference should be made from that 
+
+legislation as to other courts' jurisdiction. I think 
+
+that should be taken very seriously. As to the claims 
+
+court --
+
+JUSTICE SCALIA: Who said that?
+
+ MR. REDDING: That's in a House committee 
+
+report, Your Honor. As to claim splitting, it is 
+
+actually a horrendous problem when you're talking 
+
+especially about partnership-related cases. I will note 
+
+that there are several hundred cases below waiting the 
+
+outcome of this case. As in the Cramer and Weiner 
+
+opinions that came out of the Fifth Circuit, the Court 
+
+can note that there are claims for interest abatement, 
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+abatement not under 6404, but that interest was 
+
+overcharged by applying the penalty rate of interest. 
+
+There is a refund claim for the penalty portion of the 
+
+interest.
+
+ There is also a refund claim that the tax 
+
+was assessed outside the statute of limitations; that's 
+
+clearly a refund claim. None of those claims would be 
+
+encompassed under 6404(h). These taxpayers would have 
+
+had to have completely split their claims, asked for an 
+
+interest abatement in the tax court for abuse of 
+
+discretion on 6404(e)(1).
+
+ JUSTICE GINSBURG: But the point that 
+
+Mr. Marcus just made, that the issue is discrete on 
+
+interest abatement, and it involves mishandling within 
+
+the Internal Revenue processing, and it's not like other 
+
+questions that have to do with the -- with the 
+
+intricacies of the Internal Revenue Code --
+
+MR. REDDING: That's only relatively true to 
+
+6404(e)(1), Your Honor. But I will note that under 
+
+6404(a), where cases are now coming out of the tax court 
+
+for the first time, because it now has jurisdiction 
+
+under (h), it provides authority for the Commissioner to 
+
+abate interest where the IRS has erroneously or 
+
+illegally assessed the tax liability after the statute 
+
+of limitations runs or whether it's simply an erroneous 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+assessment. Those claims have nothing to do with 
+
+discretion, and they are not really just ancillary to 
+
+the tax liability; they arise out of the substantive 
+
+challenge to the liability itself. The Woodrall case 
+
+that has come out, which is the, I think is the first of 
+
+the 6404(a) cases, was an assertion that the 
+
+interest had been charged after the tax had been paid. 
+
+Now that's not a discretionary abatement; that's an 
+
+illegal assessment of interest and that's a 6404(h) 
+
+claim now.
+
+ Previously it would have been strictly a 
+
+refund claim under 16 -- under 1346.
+
+ I would also note that in terms of the being 
+
+able to pay it to cut off the interest accrual, that in 
+
+these cases, these cases that are before the Court, the 
+
+F quality -- the document the Government first sent out 
+
+proposing adjustments to the partnership level, if you 
+
+had computed the liability based on what the 
+
+Government's position was, the ultimate tax liability 
+
+including interest to any point in time would have been 
+
+at least three times the amount that results from the 
+
+tax court decision.
+
+ It's just ludicrous to say that the taxpayer 
+
+should be expected to take whatever the Government's 
+
+proposed adjustments are, compute what his maximum 
+
+50 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+liability may be, and pay it in advance or post a bond 
+
+in advance in order to cut off the interest accrual. 
+
+That argument just doesn't -- in my mind does not fly, 
+
+Your Honor.
+
+ This, this Court in Bob Jones University did 
+
+address the pay and sue versus prepayment jurisdiction 
+
+issue in terms of constitutionality and due process. 
+
+And, and basically said that as long as there is a pay 
+
+and sue remedy available, the taxpayer has no due 
+
+process rights to a prepayment remedy, but that the 
+
+Court might have come down differently had there been no 
+
+remedy available in terms of pay and sue.
+
+ I would also note that both the tax court, 
+
+the district courts, the Court of Federal Claims and the 
+
+appellate courts have long reviewed other discretionary 
+
+acts within the tax code by the Commissioner where no 
+
+standard is set forth on an abuse of discretion 
+
+standard, such as the authorization of the Commissioner 
+
+to abate certain penalties where the taxpayer has sought 
+
+an independent appraisal on the overvaluation penalty 
+
+under 6659. Those cases have been reviewed for years by 
+
+the tax court and by the district courts in refund cases 
+
+on an abuse of discretion standard. It is the Federal 
+
+common law standard for reviewing an abuse of 
+
+discretion. 
+
+51 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+The determinations in Horton and Selman 
+
+Holmes are unique in holding that it's totally 
+
+discretionary.
+
+ Thank you, Your Honor.
+
+ CHIEF JUSTICE ROBERTS: Thank you, Counsel. 
+
+The case is submitted.
+
+ (Whereupon, at 1:56 p.m., the case in the 
+
+above-titled matter was submitted.) 
+
+52
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 53 
+
+A 
+abasement 7:17 
+
+43:11 
+abatable 29:4 
+
+30:1,2,23 
+abate 7:13 11:13 
+
+12:13,17 14:18 
+15:13,16,22 
+18:16,18,19 
+19:6 23:22 
+24:7,11,21 
+28:12,13 29:7 
+32:1 37:8 
+41:16 43:12 
+46:15 49:23 
+51:19 
+
+abated 9:5 12:16 
+33:24 
+
+abatement 4:9 
+4:10,21 5:2 6:8 
+7:8,10,11 8:5,7 
+9:20,24 10:1 
+11:3,8,22 
+14:10 15:3 
+19:4 20:24 
+23:6,8,13,16 
+23:18 24:24 
+25:1 26:14 
+27:14,19,22 
+28:2 30:7,12 
+43:12 46:4,6 
+46:11,17 47:2 
+47:14,25 48:25 
+49:1,10,14 
+50:8 
+
+ability 4:13 
+10:24 24:20 
+30:21 36:25 
+45:5 
+
+able 5:17,19 
+19:15 22:1 
+50:14 
+
+above-entitled 
+1:11 
+
+above-titled 
+52:8 
+
+absence 26:9 
+
+absolutely 21:18 
+25:14 
+
+abuse 14:4,7,19 
+14:23 15:14,17 
+15:24 16:9,18 
+18:9,12,16 
+25:2,12,13,19 
+25:23 26:5 
+37:19,25 38:1 
+38:6 41:18 
+43:7,10,17,19 
+45:12 49:10 
+51:17,23,24 
+
+abused 25:25 
+34:14 45:16 
+
+abusive 14:12 
+accept 32:11 
+
+44:16 
+accepted 4:4 
+
+31:22 
+access 4:16,21 
+
+6:15 8:6 9:22 
+10:22 35:23 
+39:14 
+
+accomplished 
+40:21 
+
+accounts 37:1 
+accrual 20:14 
+
+28:24 30:22 
+32:3 50:14 
+51:2 
+
+accrue 29:6 30:2 
+31:16 
+
+accrues 28:6,10 
+30:7,13 
+
+accruing 21:21 
+21:22 29:24 
+30:1 
+
+accumulation 
+45:2 
+
+act 18:11 24:9 
+35:23 39:14 
+46:18 47:19 
+
+acted 11:21 
+31:14 
+
+action 5:15 7:8 
+7:10,17,20,23 
+
+7:23 8:1 12:19 
+14:21 15:15,18 
+15:24 23:18 
+25:10 26:24 
+27:14,16 34:24 
+36:15,15 42:12 
+42:18 43:3 
+46:10 
+
+actions 23:5 
+48:1 
+
+acts 51:16 
+actual 7:10 
+adding 15:8 
+addition 24:11 
+additional 7:2 
+
+40:8 46:9 
+additionally 
+
+14:1 
+address 13:12 
+
+51:6 
+addressing 11:6 
+adjustments 
+
+21:4 50:17,25 
+administrative 
+
+18:11 36:21 
+38:10,20 41:5 
+41:24 43:8,18 
+47:17 
+
+adopted 12:20 
+advance 28:24 
+
+51:1,2 
+affirmed 48:3 
+afford 5:11 
+
+10:17 
+agency 26:16 
+
+45:10,11,13,15 
+agent 47:22 
+agree 17:10 19:1 
+
+43:6,13 
+Ah 8:17 
+alike 44:18 45:4 
+Alito 38:22,24 
+
+38:25 39:4,10 
+allow 34:16 
+allows 5:25 6:15 
+
+13:6 
+amendment 
+
+31:23 32:11 
+amendments 
+
+12:4 
+amount 28:8,8 
+
+33:2,20 50:21 
+analysis 17:20 
+analyzed 17:19 
+ancillary 50:2 
+anomalous 28:4 
+anomaly 45:23 
+
+46:1 
+answer 32:7 
+
+36:23 
+anyplace 17:6 
+anyway 43:18 
+
+45:20 
+APA 45:11 
+APAA 16:9 
+apart 7:8 
+apologize 9:1,15 
+
+18:5 
+appeals 23:4,9 
+
+23:25 48:3 
+appear 6:19 
+APPEARAN... 
+
+1:14 
+appears 6:22 
+appellate 51:15 
+appendix 8:14 
+
+9:2,10,15 40:1 
+applicable 5:2 
+
+40:13 
+applied 16:3 
+
+40:11 44:3 
+applies 6:8 11:7 
+
+12:22 14:15 
+19:9 25:1 
+39:19 43:25 
+
+apply 6:6 13:14 
+14:3,7,17 16:5 
+16:25 18:17 
+24:22,23 26:16 
+36:1 43:3 
+
+applying 45:19 
+49:2 
+
+appraisal 51:20 
+April 1:9 
+
+argued 42:2 
+argument 1:12 
+
+2:2,5,8 3:3,6 
+18:21,24 22:25 
+29:22 31:21,21 
+31:22 33:3,6 
+48:8 51:3 
+
+arrival 15:23 
+asked 10:8 
+
+21:19 26:13 
+49:9 
+
+assertion 50:6 
+assessed 46:6 
+
+49:6,24 
+assessment 
+
+12:13,17 21:25 
+50:1,9 
+
+assistance 35:25 
+Assistant 1:17 
+assumed 25:20 
+assumption 11:2 
+
+11:21 35:16,16 
+attorneys 35:24 
+
+36:2 39:17,19 
+authorities 
+
+43:19 
+authority 5:3 
+
+10:10 11:13 
+31:25 32:2 
+37:11,16 43:19 
+49:22 
+
+authorization 
+51:18 
+
+authorized 
+19:12 
+
+automatically 
+30:7 46:15 
+
+availability 4:12 
+10:15 11:18 
+
+available 7:14 
+17:6 27:16,22 
+51:9,12 
+
+average 39:23 
+40:5 
+
+avoid 4:14,17 
+5:9 
+
+avoided 23:12 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 54 
+
+aware 39:3 
+
+B 
+back 4:5 9:17 
+
+15:4 18:3 
+20:23 42:11 
+44:1 
+
+bad 6:4 
+bank 37:1 
+bankruptcy 
+
+4:17 5:10 
+based 50:18 
+basically 7:23 
+
+17:9 22:3 
+26:22 28:11 
+51:8 
+
+basis 4:11 7:8 
+33:10,12 34:19 
+34:21 
+
+behalf 1:15,19 
+2:4,7,10 3:7 
+23:1 48:9 
+
+believe 5:7 7:19 
+8:13 11:15,24 
+14:22 15:25 
+17:20 22:3,4,6 
+22:14 32:20 
+
+believed 34:22 
+best 29:17 
+better 34:11 
+
+39:21 44:24,25 
+big 46:25 47:3 
+bill 20:19,25 
+
+21:10,16 28:21 
+28:25 
+
+blah 16:16,16,16 
+Bob 51:5 
+bond 51:1 
+borrowing 28:9 
+
+34:3,9 
+Breyer 14:3,6 
+
+14:11,16 32:16 
+33:11 34:7,12 
+34:25 35:4,10 
+35:21 36:2,13 
+36:22 37:5,6 
+37:12,18,23 
+
+43:5,14,16,24 
+44:16,23 
+
+brief 48:11 
+bring 13:6,7,8 
+
+25:11 27:6 
+34:16,17 42:12 
+43:2,11,12 
+46:8 
+
+bringable 13:19 
+13:20 
+
+bringing 5:15 
+8:1 40:15 
+
+broader 42:22 
+brought 7:24 
+
+13:1,15,17 
+23:18 
+
+burden 39:20 
+bureaucrat 
+
+33:21,24 
+
+C 
+c 2:1 3:1 19:11 
+calculation 
+
+29:13 
+call 6:21,21 
+called 39:22 
+canon 6:21 
+carried 16:19 
+case 3:4 8:7,24 
+
+11:16 13:15,17 
+14:22 19:16 
+20:23 21:1,6 
+21:19 22:4,6 
+26:3 28:22 
+35:14,15 36:8 
+37:19,24 38:20 
+41:5 47:19 
+48:23 50:4 
+52:6,7 
+
+cases 7:16,19,21 
+12:9,14 13:6,7 
+13:19 14:22 
+15:21 19:12,21 
+26:2,12 28:13 
+28:22 48:21,22 
+49:20 50:6,15 
+50:15 51:21,22 
+
+catch 43:22 
+category 27:22 
+
+45:9,18 
+cause 7:10,17,20 
+
+12:19 15:15,18 
+15:24 26:24 
+27:13,14 33:21 
+33:21,23 34:24 
+36:14,15 
+
+cert 40:1 
+certain 22:9 
+
+29:19 51:19 
+challenge 23:12 
+
+50:4 
+challenging 23:6 
+characterizati... 
+
+44:17 
+characterize 
+
+44:12 
+charge 28:11 
+charged 50:7 
+check 9:5 12:16 
+
+34:15 
+Chief 3:3,8 4:8 
+
+5:18 7:7,15 9:8 
+13:3 15:12,20 
+16:12 20:8,12 
+20:18 21:16,20 
+22:19,22 23:2 
+26:12 27:1,20 
+27:25 28:12,19 
+41:8,20 42:1,8 
+46:8,19,24 
+48:4 52:5 
+
+choose 45:20 
+chose 22:7 39:12 
+Circuit 17:13,14 
+
+17:17,19,21 
+22:5 26:22 
+43:2 45:24 
+48:24 
+
+circuits 3:14 
+Circuit's 3:10 
+
+17:9 26:21 
+circumstances 
+
+24:21 
+cite 7:16 11:16 
+
+14:22 
+cited 39:25 42:6 
+citizens 32:19 
+claim 5:1 7:24 
+
+9:24 10:2 11:3 
+14:10 16:24 
+17:5 23:20 
+26:15 32:20 
+33:2,20 34:13 
+35:13 36:21 
+40:15 46:4,9 
+46:13,14,25 
+47:12 48:19 
+49:3,5,7 50:10 
+50:12 
+
+claimed 15:13 
+claims 3:12 5:4 
+
+5:20 6:11 9:20 
+11:8,12 13:10 
+15:7 16:8 22:9 
+24:2 27:17 
+32:22 33:25 
+40:2,10 41:9 
+41:10,16 45:25 
+46:4 48:15,25 
+49:7,9 50:1 
+51:14 
+
+class 22:9 44:4 
+classes 45:20 
+clear 43:16,17 
+clearly 8:2 13:16 
+
+19:5,21 47:10 
+49:7 
+
+clever 26:21 
+closes 44:1 
+closing 44:12 
+
+45:17 
+code 3:18,25 
+
+8:15 9:3,14 
+19:3 20:1 
+22:18 23:20 
+28:5,6 39:21 
+40:24 49:17 
+51:16 
+
+collection 5:17 
+10:20,23 
+
+come 15:4 18:3 
+
+32:23,24 47:25 
+50:5 51:11 
+
+comes 11:4 25:9 
+26:17 
+
+coming 6:7 
+49:20 
+
+Commissioner 
+49:22 51:16,18 
+
+Commissioner's 
+17:1 
+
+committed 24:8 
+26:4,16 45:10 
+45:13,15 46:17 
+
+committee 11:5 
+12:1 48:18 
+
+common 16:8,18 
+47:13 51:24 
+
+compared 7:22 
+complained 
+
+21:1 
+complementary 
+
+4:13 
+completely 4:17 
+
+6:12,16 7:3 8:8 
+49:9 
+
+compromise 
+30:21 
+
+computation 
+21:9 
+
+compute 50:25 
+computed 50:18 
+concede 45:7 
+concept 28:4 
+concern 39:22 
+
+40:4 47:9 
+concerned 28:15 
+concludes 48:12 
+concurrent 22:8 
+confined 32:6 
+conflict 6:20 
+Congress 3:18 
+
+4:25 10:9,13 
+11:1,13,21 
+12:5 16:4,6 
+17:2,10 22:7 
+23:11 25:19 
+26:7,9 27:2,10 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 55 
+
+27:11,12 28:15 
+30:8 32:1,8,8 
+32:14,22 34:22 
+37:24 39:12,19 
+40:8,11,14,17 
+40:25 41:3,23 
+42:16,23 43:15 
+44:13 47:7,10 
+
+Congress's 5:23 
+39:22 
+
+consequence 
+45:8 47:7 
+
+consequences 
+29:20 
+
+consider 26:15 
+28:4 
+
+considering 
+6:25 
+
+consistent 4:17 
+5:7,10,14 6:14 
+6:16 7:3 17:24 
+
+consistently 
+15:21,21 16:10 
+40:10 
+
+constitute 26:5 
+constitutional 
+
+33:1,7 
+constitutionali... 
+
+51:7 
+contained 28:21 
+continue 31:16 
+continues 10:16 
+contrary 40:10 
+contrast 41:25 
+contrasts 24:9 
+control 29:4 
+conventional 
+
+20:6 22:11 
+copy 12:11 
+corporations 
+
+4:20 39:8 
+correct 5:6 7:9 
+
+13:25 16:17 
+17:20 20:17 
+24:15,19 25:17 
+25:23 29:2 
+36:12,20 47:16 
+
+correctly 23:4 
+Counsel 52:5 
+couple 47:24 
+
+48:10 
+course 20:8 21:2 
+
+21:23 
+court 1:1,12 3:9 
+
+3:12,12,20,21 
+3:23,23 4:3,5 
+4:21 5:1,3,4,8 
+5:15,20,21 
+6:10,10,17,17 
+6:17,23 7:1,3,6 
+9:19 10:1,10 
+11:2,12,12 
+12:2 13:10,10 
+13:24 14:9 
+15:6,7,9,13 
+16:4,7,8,11,15 
+17:6,12,23 
+18:14 19:2,25 
+20:2,3,5,13 
+21:21,23 22:8 
+22:11,19 23:3 
+23:4,5,9,17 
+24:2,2,14 26:4 
+27:3,3,4,17 
+30:22 32:14,23 
+32:25 38:15 
+39:21 40:2,9,9 
+40:10,17,25 
+41:1,4,9,10,13 
+42:10,20,21,23 
+43:22 44:5 
+46:3 47:1,2,4 
+48:2,3,16,24 
+49:10,20 50:15 
+50:22 51:5,11 
+51:13,14,22 
+
+courthouse 
+35:14,17 36:5 
+36:7 44:1,12 
+44:13,15,18 
+
+courts 4:2 5:4 
+7:5 8:6 11:12 
+15:7 16:22 
+23:25,25 24:17 
+
+27:8,18 42:15 
+43:21 48:14 
+51:14,15,22 
+
+Court's 23:14 
+covered 19:5 
+Cramer 48:23 
+create 5:24 6:13 
+
+16:20 
+created 15:19 
+
+23:11 30:8 
+42:20 
+
+creates 14:9 
+40:11 
+
+creating 12:2 
+19:8 
+
+cut 10:2 22:1 
+50:14 51:2 
+
+D 
+d 3:1 19:11 
+date 34:5 
+day 34:12 
+days 23:20 
+
+47:24 
+deal 46:25 47:3 
+decided 32:9 
+decision 11:11 
+
+23:9 25:4 40:2 
+50:22 
+
+decisions 25:20 
+27:13 42:19 
+45:9,11,14 
+
+defeated 40:15 
+defense 25:11 
+defer 36:25 
+deficiency 47:22 
+delay 24:8 45:3 
+
+46:18 
+delays 10:19 
+
+21:1 47:22 
+denied 8:8 12:14 
+deny 9:21 
+Department 
+
+1:18 
+departure 22:15 
+deposit 30:20 
+derived 35:22 
+
+35:23 
+desk 47:24 
+determination 
+
+23:21 41:6 
+46:9 
+
+determinations 
+21:6 23:6 25:1 
+26:10 52:1 
+
+determine 14:12 
+18:15 
+
+difference 20:9 
+36:16,19 38:14 
+41:8,9 
+
+different 15:2 
+24:3 29:21 
+33:24 35:13 
+40:15 41:25 
+43:6 45:5,19 
+
+differently 39:6 
+39:8 51:11 
+
+disagree 12:22 
+discrete 49:13 
+discretion 14:4 
+
+14:7,13,19,24 
+15:14,17,24 
+16:10,18 18:9 
+18:10,13,16,20 
+25:3,5,13,19 
+25:21,24,24,25 
+26:1,5,11,17 
+34:14 37:20,25 
+38:1,6,7,7,13 
+41:18 42:4 
+43:7,11,17,20 
+45:10,12,14,15 
+45:16 49:11 
+50:2 51:17,23 
+51:25 
+
+discretionary 
+12:14 16:7 
+17:1 24:23 
+25:1 36:9,10 
+50:8 51:15 
+52:3 
+
+dispute 22:13 
+distinct 46:7 
+distinction 17:2 
+
+34:20 
+district 3:12 4:2 
+
+5:4 6:10 7:5 
+11:12 13:10 
+15:7,13 16:7 
+20:13 24:2 
+27:18 40:9 
+41:9 42:10 
+47:1 51:14,22 
+
+divided 23:25 
+24:1 
+
+doctrine 6:21 
+document 50:16 
+doing 12:5 44:2 
+dollar 28:1 
+
+35:13 
+dollars 20:19,20 
+
+29:1 
+door 17:3,4 
+
+35:14,17 44:1 
+44:13,13,15,18 
+45:9,17 
+
+draw 39:13 
+duality 4:6 
+due 28:7 34:6 
+
+51:7,9 
+D.C 1:8,18 
+
+E 
+e 1:15 2:1,3,9 
+
+3:1,1,6 7:25 
+8:2,6,9,10,11 
+8:16 9:9 11:19 
+12:9,9,10,12 
+12:15,18,22,23 
+13:1,5,6,7,8,9 
+13:14,17,19,21 
+13:22 14:17,18 
+15:17,18 16:3 
+18:3,7,7,8,11 
+18:17,18,20 
+19:17,19 24:22 
+24:23 25:7 
+48:8 
+
+earn 45:5 
+easily 27:15 
+
+42:18 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 56 
+
+easy 12:8 
+effect 13:20 
+effectively 40:25 
+either 6:20 
+elements 47:13 
+employee 24:8 
+enable 20:1 
+enabling 3:20 
+enact 35:8 
+enacted 4:13,18 
+
+11:14,23 27:2 
+27:10 
+
+enactment 3:11 
+3:15 23:24 
+
+encompassed 
+49:8 
+
+encompassing 
+19:7 
+
+enforceable 
+38:16 
+
+enter 36:5,6 
+entire 6:16 9:3 
+entitled 34:5 
+entitlement 13:5 
+
+42:13,15,17 
+enunciated 4:5 
+Equal 35:23 
+
+39:14 
+erroneous 9:5 
+
+12:16 25:10 
+49:25 
+
+erroneously 
+49:23 
+
+error 24:7 26:4 
+46:17 
+
+errors 21:1 
+especially 5:9 
+
+29:9 48:21 
+ESQ 1:15,17 2:3 
+
+2:6,9 
+establish 40:8 
+established 4:1 
+
+4:3,6 6:4 8:2 
+15:8,10 19:23 
+22:17 47:10 
+
+ET 1:3 
+etcetera 44:9 
+
+evaluating 6:19 
+event 45:2 
+everybody 
+
+43:25 
+exactly 31:5 
+
+37:4 45:4 
+examination 
+
+21:2 
+example 8:6 
+examples 35:20 
+exceedingly 
+
+39:7 
+exclusive 8:4 
+
+9:21 20:6 23:5 
+40:12,18 41:1 
+41:4 47:7 
+
+exclusivity 
+32:11 
+
+excuse 30:11 
+43:12 
+
+exercise 25:4,21 
+26:11 27:18 
+42:4 
+
+exist 16:21 
+existed 11:18 
+
+13:16 
+existence 10:16 
+
+10:16 
+existing 17:11 
+
+17:24 22:15 
+exists 15:11 
+expanded 22:10 
+expanding 
+
+17:11 
+expected 50:24 
+expedient 23:12 
+expedited 6:1 
+explained 28:20 
+expressly 3:16 
+
+3:19 
+extend 22:8 32:3 
+extended 20:5 
+extension 7:1 
+extent 18:10 
+extract 43:1 
+extracted 26:22 
+
+F 
+F 1:3 50:16 
+faced 4:15 
+fact 4:16 
+facts 20:23 
+fail 25:14 
+failed 7:12 
+failing 34:14 
+failure 15:13,16 
+
+18:16 19:6,13 
+47:19 
+
+fair 11:20 
+fall 28:16 
+far 4:5 13:23 
+
+43:13 
+fashioning 
+
+44:14 
+Federal 3:10,12 
+
+6:11 15:7 16:8 
+17:19 27:17 
+38:10 40:2,9 
+51:14,23 
+
+feel 33:7 
+fees 35:24 36:2 
+
+39:17,19 
+Fifth 17:9,13,14 
+
+17:16,21 22:5 
+26:21,22 43:2 
+45:24 48:24 
+
+figure 29:14 
+31:3,7 
+
+file 23:20 47:20 
+filed 25:9 
+filing 23:12 
+fills 41:19 
+final 23:21 46:9 
+finally 18:3 
+find 19:16 28:25 
+
+41:17 
+fine 45:22 
+first 6:2 24:5 
+
+29:16,23 30:4 
+35:19 37:19 
+49:21 50:5,16 
+
+five 15:2 
+Flora 4:5 
+fly 51:3 
+
+focused 26:9 
+follow 6:4 13:7 
+
+46:22 
+footnote 40:2 
+force 44:9 
+forgive 32:3 
+forgot 33:22 
+
+47:23 
+form 7:2 15:9 
+formal 36:5 
+formation 5:8 
+forth 51:17 
+fortiori 13:7 
+forum 4:12 5:9 
+
+5:13 6:15 9:20 
+9:21 10:19 
+17:23 22:12 
+23:13 27:6 
+40:15 
+
+forums 4:7 
+found 3:14 
+four 48:6 
+framework 4:1 
+
+4:4 
+free 21:8 
+friend 28:20 
+front 8:12,14 
+
+9:14 28:18 
+45:1 
+
+full 4:15 10:18 
+28:18 29:4,6 
+29:23 45:1 
+
+fully 40:13 
+fundamental 
+
+20:9 
+further 21:8 
+
+30:16,19 48:2 
+
+G 
+g 3:1 31:13 
+general 1:18 
+
+4:11 16:8 
+24:17 
+
+generally 4:22 
+10:17,25 
+
+Ginsburg 4:23 
+9:17,24 10:7 
+
+11:1,11 16:21 
+17:13,16 39:16 
+40:16,21 47:11 
+47:17 49:12 
+
+give 11:11 31:3 
+31:10 36:3 
+42:22 44:17,19 
+44:24 
+
+given 3:23 4:24 
+gives 24:14 
+
+26:18 40:7 
+go 9:17 10:1,2,4 
+
+10:4,10 17:4 
+30:21 33:4 
+41:6 43:25 
+46:25 47:1 
+
+goes 16:14 29:13 
+going 5:24 16:4 
+
+20:3 21:4,15 
+29:18 31:2 
+
+good 12:18 
+18:23 
+
+gotten 12:11 
+govern 18:11 
+government 
+
+5:16 9:25 
+10:20,21 21:7 
+21:14 25:9 
+28:9 32:21 
+34:4,4 37:3 
+42:6 50:16 
+
+Government's 
+14:21 50:19,24 
+
+grace 17:1 32:2 
+32:6 38:10 
+41:24 
+
+grant 17:22 
+19:25 41:15 
+
+granted 7:3 12:7 
+grasp 17:2 
+greater 5:13 
+grounds 6:8 
+
+46:17 
+guess 33:16 
+
+H 
+h 11:6,7 12:20 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 57 
+
+13:1,20 15:19 
+18:6,14 24:13 
+24:22 31:23 
+32:12 45:8 
+49:22 
+
+half 26:22 
+hand 12:15 
+handle 45:1 
+happened 11:17 
+
+44:14 
+happening 
+
+33:23 
+happens 25:6 
+
+34:13 
+hard 44:7 
+hardship 5:9 6:3 
+
+34:23 35:1 
+hardships 4:15 
+harmonized 
+
+6:24 
+hear 3:3 11:2 
+
+16:2 
+heard 33:6 
+hearing 39:24 
+
+40:3 
+held 23:4 26:23 
+
+42:15 
+help 8:19 
+high 34:9,22 
+
+39:7 44:25 
+Hinck 1:3 3:4 
+history 6:16 
+
+11:5,9,10,25 
+19:21 23:7,23 
+26:8 39:24 
+48:12 
+
+hold 14:23 42:3 
+holding 52:2 
+Holmes 52:2 
+Homes 7:22 
+
+11:18 
+Honor 4:11 5:6 
+
+5:22 7:12,18 
+8:19 9:1,13,16 
+9:23 10:3,12 
+11:4,24 12:21 
+13:11 14:5,8 
+
+14:14 15:25 
+16:17 17:9,18 
+18:5,22 19:1 
+19:15,18,20,22 
+20:16,22 21:18 
+22:3 29:3 
+48:19 49:19 
+51:4 52:4 
+
+horrendous 
+48:20 
+
+Horton 7:21,22 
+11:17 52:1 
+
+House 11:5 12:1 
+48:18 
+
+Houston 1:15 
+hundred 48:22 
+hypothetical 
+
+24:17 
+
+I 
+idea 28:15 31:24 
+
+39:22 
+identical 32:19 
+identically 
+
+32:22 
+identified 45:24 
+illegal 50:9 
+illegally 49:24 
+Imagine 32:18 
+immediate 8:15 
+immediately 
+
+8:16 
+immunity 23:10 
+impediment 
+
+7:25 
+implemented 
+
+22:10 
+implicit 13:21 
+implied 15:10 
+
+18:1 
+impliedly 18:7 
+impose 32:9 
+imposed 25:3,19 
+
+39:19 40:14 
+42:23 
+
+imposes 32:14 
+imposing 5:14 
+
+40:22 
+incentive 36:25 
+includes 4:19 
+
+21:17 
+including 50:20 
+income 35:8,11 
+inconvenienced 
+
+6:3 
+inconvenient 
+
+47:5,6 
+independent 
+
+51:20 
+indicates 16:6 
+individual 10:5 
+
+21:24 
+individuals 39:8 
+
+44:18 
+inference 40:8 
+
+48:13 
+initial 21:16 
+
+28:21 31:11 
+instance 17:25 
+
+32:17 
+instances 3:17 
+integrated 26:23 
+
+43:1 
+intend 3:18 16:6 
+intended 10:13 
+
+22:7 40:8 
+intends 40:12 
+intent 5:7 13:12 
+
+41:23 
+intentional 
+
+32:15 
+interest 3:13 4:9 
+
+4:11 5:16 7:8 
+7:10,13,17 9:5 
+10:21 11:13 
+12:15 14:10 
+15:3,14,17 
+18:16 19:6 
+20:15,21 21:17 
+22:1 23:6,8,13 
+23:16,18,22 
+24:7 26:13 
+27:14,18,21 
+28:2,5,6,9,21 
+
+28:24 29:1,3,5 
+29:6,7,15,24 
+30:1,2,6,13,23 
+31:16 32:4 
+34:2,13 36:17 
+37:2,9,16 
+43:13 45:2,5 
+46:4,6,10,15 
+46:16 47:2,13 
+47:25 48:25 
+49:1,2,4,10,14 
+49:23 50:7,9 
+50:14,20 51:2 
+
+interestingly 
+11:6 
+
+interim 39:11 
+Internal 3:13 
+
+22:13 49:15,17 
+interpret 43:4 
+interpretation 
+
+6:22 
+intricacies 49:17 
+invest 34:10 
+
+35:3 39:11 
+investments 
+
+29:19 37:2 
+involved 21:25 
+
+25:21 26:11 
+44:8 
+
+involves 25:4 
+47:17 49:14 
+
+IRS 7:12 20:18 
+20:25 24:8,20 
+29:13 30:3,6 
+30:16,19 31:14 
+33:22 34:13 
+41:11 42:11 
+43:9 46:17 
+49:23 
+
+issue 23:24 
+49:13 51:7 
+
+issues 6:1 27:19 
+47:25 
+
+issuing 47:22 
+
+J 
+JOHN 1:3 
+
+JONATHAN 
+1:17 2:6 22:25 
+
+Jones 51:5 
+judicial 15:22 
+
+26:9 38:19 
+jurisdiction 
+
+3:13,15,17,19 
+3:23 4:2,3,7,16 
+6:10 7:1,2,5,6 
+8:5 10:14 12:3 
+13:13,16 14:12 
+15:5,6,11 16:1 
+16:24 17:3,12 
+17:22 18:15 
+19:24 20:1,2,4 
+22:8,11,16,16 
+23:5,17 24:1 
+24:14,17,18 
+26:14 27:4,5,7 
+27:18 40:18,19 
+41:2,4,10,13 
+41:14,15 42:9 
+42:10 47:21 
+48:14 49:21 
+51:6 
+
+Justice 1:18 3:3 
+3:8 4:8,23 5:18 
+7:7,15 8:9,17 
+8:23 9:4,8,10 
+9:12,17,24 
+10:7 11:1,11 
+11:20 12:8 
+13:3,18,23 
+14:3,6,11,16 
+15:12,20 16:12 
+16:21 17:13,16 
+18:2,6,23 
+19:10,17,19 
+20:8,12,18 
+21:16,20 22:19 
+22:22 23:2,23 
+24:13,16,19,22 
+25:6,12,17,22 
+26:8,12 27:1 
+27:20,25 28:12 
+28:19 29:8,12 
+29:16,21 30:11 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 58 
+
+30:24 31:7,10 
+31:20 32:5,10 
+32:16 33:11,15 
+34:7,12,25 
+35:4,7,10,21 
+35:23 36:2,6 
+36:13,14,22,24 
+37:5,6,12,13 
+37:17,18,23 
+38:4,12,17,22 
+38:24,25 39:4 
+39:10,14,16 
+40:16,21 41:8 
+41:20 42:1,8 
+43:5,14,16,24 
+44:16,23 45:4 
+45:7,23 46:8 
+46:19,24 47:11 
+47:16 48:4,17 
+49:12 52:5 
+
+justiciable 16:2 
+17:5 
+
+K 
+keep 33:16,17 
+
+34:1 35:17 
+keeping 33:19 
+Kennedy 9:4 
+
+11:20 23:23 
+24:13,16,20 
+25:12,17 26:8 
+36:24 45:4 
+
+kept 44:5 
+kind 27:21 
+kinds 47:24 
+knew 29:24 
+
+33:22 
+know 10:20 
+
+28:25 29:8,15 
+29:17,22 30:24 
+31:18 35:7 
+36:2 38:8 44:2 
+44:10,20,22,23 
+
+L 
+L 1:17 2:6 22:25 
+language 23:7 
+
+23:15 24:5,9 
+
+24:10 25:2 
+27:2 41:25 
+47:9 
+
+large 34:9 37:1 
+largely 11:4 
+larger 5:11,19 
+
+6:2,13 10:24 
+14:2 
+
+Laughter 8:20 
+8:25 18:25 
+35:9 39:2 
+
+law 14:23 16:9 
+16:18,25 18:12 
+26:3,4,17 
+27:10 32:17,22 
+37:24 43:18 
+45:10,15 51:24 
+
+laws 45:19 
+lawsuit 34:16,17 
+legal 42:13,14 
+
+43:10,21 
+legally 34:5 
+
+42:17 
+legislation 11:14 
+
+48:14 
+legislative 11:5 
+
+11:9,10,25 
+26:8 39:24 
+48:12 
+
+level 21:2,6,7,12 
+50:17 
+
+liability 10:18 
+21:5,9,13,14 
+22:12 28:6,18 
+29:6,9,18 
+31:19 41:7 
+45:1 46:2,5,7 
+46:23 47:15 
+49:24 50:3,4 
+50:18,19 51:1 
+
+limit 3:19 10:9 
+10:11,13 14:1 
+
+limitation 4:19 
+5:14 32:9 
+
+limitations 
+23:19 28:17 
+35:25 37:22 
+
+49:6,25 
+limited 5:5 
+
+42:20,21 44:13 
+line 38:22 39:1 
+
+39:13 
+linkage 47:11 
+litigation 4:4 
+logic 5:24 
+logical 10:23 
+long 15:10 33:7 
+
+51:8,15 
+long-established 
+
+15:4 
+long-standing 
+
+7:4 
+look 6:23 16:8,9 
+
+16:12 24:5,12 
+26:7 27:9 
+39:23 45:16,20 
+
+looking 9:9 
+30:16,19 31:1 
+41:12 45:22 
+
+lot 28:22 
+lower 16:22 26:4 
+
+40:5 
+ludicrous 50:23 
+
+M 
+mailing 23:21 
+major 22:15 
+majority 46:1 
+making 36:16 
+
+46:24 
+mandated 3:21 
+mandatory 18:8 
+
+18:10 24:10 
+37:14 
+
+March 39:25 
+40:3 
+
+Marcus 1:17 2:6 
+22:24,25 23:2 
+24:4,15,19,25 
+25:8,16 26:2 
+26:20 27:9,24 
+28:3,14 29:2 
+29:11,16,25 
+30:15 31:4,9 
+
+31:12,24 32:7 
+32:13 33:9,14 
+34:1,8,21 35:2 
+35:5,19,22 
+36:12,20 37:4 
+37:10,15,21 
+38:3,9,16,19 
+38:23 39:3,7 
+39:12,18 40:20 
+41:20 42:5,13 
+43:14,23 44:11 
+44:23 45:6,22 
+46:12,21 47:5 
+47:16 48:5 
+49:13 
+
+material 46:18 
+materials 8:10 
+
+8:22 12:10 
+matter 1:11 17:1 
+
+20:5 25:16 
+32:2 38:9 
+41:21,22,24 
+45:17,18 52:8 
+
+matters 3:24 
+maximum 21:13 
+
+50:25 
+may-abate 19:3 
+mean 8:18 16:22 
+
+30:25 32:4 
+meaning 6:17 
+
+45:11 
+means 6:1 43:21 
+meet 23:18 
+
+37:22 
+merely 7:2 
+
+17:11 
+met 12:24,25 
+million 4:20,20 
+
+10:6 12:6,6 
+16:16 28:1,2 
+39:1,11 
+
+mind 34:1 51:3 
+ministerial 24:9 
+
+47:19 
+minute 38:4 
+minutes 48:6 
+mishandling 
+
+49:14 
+mixed 33:25 
+Monday 1:9 
+money 20:20 
+
+28:11 32:4 
+34:3,4,8,10 
+35:2,3 36:10 
+36:11 39:11 
+42:11 
+
+months 31:13,13 
+31:14,15 
+
+moves 47:20 
+
+N 
+N 2:1,1 3:1 
+name 31:7 
+natural 25:18 
+
+26:6 
+nature 3:22 
+
+24:12 
+necessarily 31:4 
+necessary 47:6 
+necessity 19:24 
+need 5:13 27:9 
+
+46:14 
+net 4:19 5:2,5 
+
+10:5 12:6,24 
+12:25 23:19 
+27:25 28:16 
+32:9 34:9,9,22 
+35:25 37:22 
+38:25 39:8,10 
+40:5 44:19,25 
+
+never 42:9 
+new 6:14 14:6 
+
+15:8 19:9 
+normal 7:14 
+
+43:8 
+normally 15:11 
+note 6:6 12:4 
+
+19:2 48:21,25 
+49:19 50:13 
+51:13 
+
+notice 21:4,8 
+30:3,18,25 
+31:1,11 33:22 
+47:21,23 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 59 
+
+notified 30:13 
+30:15 
+
+notifies 30:6,16 
+number 9:9 
+
+O 
+O 2:1 3:1 
+objection 26:19 
+occurred 21:1 
+occurs 20:24 
+odd 4:24 
+Oh 10:7 37:12 
+okay 33:15,25 
+old 6:4 
+once 7:12 16:3 
+
+43:16 
+open 35:17 45:9 
+opened 44:13,15 
+
+44:18 
+opening 45:18 
+operating 11:2 
+opinion 3:10 
+opinions 4:6 
+
+48:24 
+opportunity 
+
+28:23 
+oral 1:11 2:2,5 
+
+3:6 22:25 
+order 4:14 20:1 
+
+51:2 
+originally 4:12 
+
+34:5 
+outcome 48:23 
+outside 21:13 
+
+49:6 
+overcharged 
+
+49:2 
+overlap 6:20 
+overvaluation 
+
+51:20 
+owe 20:18,21 
+
+28:25 30:18 
+31:5,15 
+
+owes 32:21 
+owing 31:2 
+
+P 
+P 3:1 
+
+page 2:2 9:9,10 
+11:10 39:25 
+
+paid 20:19 28:8 
+29:22,23 42:11 
+50:7 
+
+Pardon 17:15 
+part 12:13 23:19 
+
+46:19 
+particular 4:9 
+
+20:9 27:22 
+28:22 
+
+partnership 
+21:2,5,6,7,12 
+29:9,13 50:17 
+
+partnership-r... 
+48:21 
+
+passed 37:24 
+passes 32:22 
+pattern 4:6 5:11 
+
+6:14 7:4 15:5 
+17:24 19:23 
+
+pay 4:1,13,15 
+5:12 6:2,5 7:4 
+10:15,17,24 
+15:11 19:23 
+20:7,10 21:25 
+22:1,12,16 
+25:7 28:18,23 
+30:25 41:10,11 
+45:1 50:14 
+51:1,6,8,12 
+
+paying 20:13 
+36:25 37:2 
+
+payment 7:13 
+11:22 30:20 
+
+pays 29:5 
+peculiarly 17:5 
+penalties 51:19 
+penalty 28:10 
+
+49:2,3 51:20 
+pendency 21:11 
+people 5:1 9:19 
+
+10:10 33:3,5 
+36:3,3,9,11 
+37:1 42:2 44:4 
+
+performance 
+24:8 
+
+performing 
+46:18 
+
+period 5:15 
+20:23 21:24 
+30:5,9,9 31:17 
+
+permissive 19:4 
+37:13 
+
+permits 23:14 
+permitting 
+
+36:17 
+person 32:24 
+
+33:12,16,17,19 
+33:20 35:4 
+37:9,19,24,25 
+
+petition 9:3 40:1 
+Petitioner 1:16 
+Petitioners 1:4 
+
+2:4,10 3:7 48:9 
+Petitioner's 
+
+23:10 
+phantom 18:3 
+piece 26:22 43:2 
+place 7:9 9:25 
+
+14:13 23:15 
+29:23 39:14 
+
+plan 22:17 
+please 3:9 23:3 
+point 4:24 30:17 
+
+30:20 42:14 
+43:6 49:12 
+50:20 
+
+points 48:11 
+policy 47:8 
+poor 32:24 33:4 
+
+33:12,16,19 
+35:4 36:3,19 
+36:24 37:24 
+38:13,14 39:5 
+
+portion 49:3 
+position 6:3 24:3 
+
+24:4,25 29:17 
+50:19 
+
+positioned 28:18 
+35:6 44:25 
+
+positions 28:17 
+possibly 38:6 
+post 51:1 
+
+postpayment 
+15:6 
+
+potential 5:10 
+poverty 38:22 
+
+39:1 
+power 37:8 
+
+43:10 
+precedent 23:14 
+precedents 16:9 
+precise 33:2 
+precisely 30:18 
+preferred 27:6 
+prepay 20:11,12 
+prepayment 4:2 
+
+4:12,21,22 5:9 
+5:13,25 6:15 
+7:1,2,5,11 
+10:14,19 11:7 
+12:3 15:5,8 
+17:11,23 19:24 
+20:4 22:12,16 
+51:6,10 
+
+presupposes 
+25:3 
+
+pretty 18:23 
+prevail 46:13 
+prevails 21:14 
+prevented 30:1 
+previously 13:2 
+
+13:16 50:11 
+pre-existing 
+
+3:15 13:13 
+principles 23:9 
+prior 3:15 7:16 
+
+14:2 15:20 
+21:25 26:13 
+27:8 42:19 
+
+privilege 44:8 
+probably 32:17 
+problem 30:3 
+
+33:1,8 41:15 
+48:20 
+
+problems 47:18 
+Procedure 
+
+18:11 
+procedures 6:5 
+proceed 5:17,19 
+
+5:20 10:22 
+proceeding 
+
+21:23 46:20,20 
+46:22,22 
+
+proceedings 
+21:3,11 
+
+process 51:7,10 
+processing 45:3 
+
+47:18 49:15 
+produced 8:10 
+profit 37:2 
+progressive 35:8 
+
+35:11 
+proper 43:4 
+proposed 50:25 
+proposing 50:17 
+protect 4:14 
+prove 13:9,9 
+provide 5:8 15:3 
+provided 17:5 
+provides 23:17 
+
+24:6 49:22 
+provision 8:2 
+
+19:3,4 24:6 
+27:11 30:10 
+31:14 36:7 
+38:23 39:13,15 
+39:18,20,20 
+41:17 
+
+provisions 6:11 
+7:14 12:7 
+14:25 15:1 
+19:5 24:10,24 
+25:7 35:24 
+40:24 41:1 
+
+purpose 6:18 
+purposes 39:16 
+pursue 46:16 
+pursued 7:20 
+put 6:3 26:7 
+
+30:20 
+p.m 1:13 3:2 
+
+52:7 
+
+Q 
+qualified 7:24 
+quality 50:16 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 60 
+
+question 13:14 
+14:19 18:8,19 
+20:4,9 32:5 
+34:19 38:17 
+46:6 
+
+questions 22:20 
+47:17 48:2 
+49:16 
+
+quite 22:5 29:21 
+quote 22:7 
+
+R 
+R 3:1 
+raise 20:4 
+raised 25:11 
+rate 49:2 
+rational 33:10 
+
+33:11 34:21 
+rationale 33:18 
+
+39:5 44:2,21 
+read 9:25 19:7 
+
+25:18 40:3 
+42:21 43:1,9 
+
+reading 9:6 
+14:13 26:6 
+
+reads 32:15,15 
+really 8:11 
+
+12:17 20:14 
+22:1,4,9 38:5 
+50:2 
+
+reason 22:14 
+33:17,18,23 
+35:17 44:7,10 
+44:17,20,21 
+47:8 
+
+reasoning 5:23 
+26:21 
+
+reasons 42:6 
+rebuttal 2:8 
+
+22:21 48:8 
+receives 30:3 
+recognized 27:8 
+recover 25:10 
+Redding 1:15 
+
+2:3,9 3:5,6,8 
+4:10,24 5:6,22 
+7:11,18 8:13 
+
+8:18,21 9:1,7 
+9:13,23 10:3 
+10:12 11:4,15 
+11:24 12:21 
+13:11,22,25 
+14:5,8,14,20 
+15:16,25 16:17 
+17:8,15,18 
+18:2,5,21 19:1 
+19:15,18,20 
+20:11,16,22 
+21:18,22 22:23 
+48:6,8,10,18 
+49:18 
+
+redeterminati... 
+46:2 
+
+reference 3:20 
+3:21 9:15 
+19:25 
+
+referenced 
+27:15 
+
+referred 12:1 
+39:15 
+
+refers 40:3 
+reflect 20:22 
+reflected 11:17 
+refund 3:12 4:16 
+
+7:14,14,24 8:1 
+9:5 12:16 13:1 
+14:18 15:6,10 
+15:11 25:10 
+26:24 27:14,15 
+27:16 41:11 
+42:12,17 43:3 
+45:25 46:13,14 
+47:1 49:3,5,7 
+50:12 51:22 
+
+refusing 43:11 
+43:11 
+
+regard 16:3 20:3 
+regime 47:10 
+reject 42:19 
+relate 12:9 
+relative 12:6 
+relatively 49:18 
+release 42:3 
+relevant 12:3 
+
+relief 10:14,22 
+15:9 16:24 
+17:6,23 32:3 
+46:13 
+
+relieved 21:19 
+rely 15:14,18 
+remaining 22:20 
+
+48:7 
+remains 36:8 
+remedies 40:9 
+remedy 4:22 
+
+5:25 6:12,14 
+7:12 8:8 9:19 
+10:15,25 14:2 
+20:7 23:11 
+26:9 30:8,8 
+32:14 38:18,20 
+38:20 40:12,12 
+40:14 42:20,21 
+42:22,24 51:9 
+51:10,12 
+
+Remember 33:1 
+removes 26:18 
+repeal 3:11 6:9 
+
+13:12,21 15:10 
+18:1,7 
+
+repeals 3:17 
+report 11:5 12:1 
+
+48:19 
+requested 20:24 
+requirements 
+
+12:24,25 
+requires 24:11 
+requiring 36:18 
+reserve 22:20 
+resolve 22:13 
+resolving 6:1 
+respect 4:8,10 
+
+9:5 11:19 
+12:16,19 20:24 
+26:10,20 32:20 
+36:9,11,18,19 
+37:9,21 44:19 
+
+respectfully 
+12:22 
+
+respects 27:5 
+responded 
+
+42:16 
+Respondent 
+
+1:19 2:7 23:1 
+response 7:16 
+responsibility 
+
+31:18 
+rest 12:3 
+restricted 5:1 
+
+12:1,2 
+restricting 
+
+10:21 
+restriction 12:5 
+restrictions 5:5 
+
+23:11 26:25 
+32:14 40:14,22 
+42:23 
+
+rests 22:4 
+result 23:14 
+
+40:22 
+results 50:21 
+return 30:4,17 
+
+30:19 45:3 
+Revenue 3:13 
+
+22:13 49:15,17 
+reverse 27:12 
+review 14:10,21 
+
+15:22 16:5 
+19:6,8,8 23:8 
+23:13,16 25:21 
+41:16,18,22 
+42:3 43:20 
+47:7 
+
+reviewed 25:4 
+51:15,21 
+
+reviewing 6:20 
+51:24 
+
+rich 33:3,13,17 
+33:19 36:3,18 
+37:9,19,25 
+38:13,15 39:5 
+
+right 9:12 11:21 
+14:16 15:18 
+17:21 20:15 
+28:12,14 29:25 
+31:24 32:13 
+37:4 38:9,16 
+38:19 39:18 
+
+43:23 44:11 
+rights 12:7 
+
+51:10 
+ripen 46:5 
+rise 40:7 42:22 
+ROBERTS 3:3 
+
+4:8 5:18 7:7,15 
+9:8 13:3 15:12 
+15:20 16:12 
+20:8,12,18 
+21:16,20 22:22 
+26:12 27:1,20 
+27:25 28:12,19 
+41:8 42:1,8 
+46:8,19,24 
+48:4 52:5 
+
+routinely 16:23 
+rule 36:5 40:11 
+
+40:13 
+ruling 20:2 
+running 29:15 
+
+34:2 
+runs 29:5 49:25 
+
+S 
+S 2:1 3:1 
+sat 47:23 
+saying 5:24 13:4 
+
+13:5 16:13 
+27:6 29:22 
+35:14 36:5 
+37:24 38:5,5,8 
+40:18 42:16 
+44:22 
+
+says 9:4 12:12 
+12:16 14:11,18 
+16:4 18:14,17 
+18:18 19:6 
+22:5 27:4 31:1 
+32:23 38:2 
+41:12 
+
+Scalia 8:9,17,23 
+9:12 12:8 
+13:18,23 18:2 
+18:6,23 19:10 
+19:17,19 24:22 
+25:6,22 29:8 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 61 
+
+29:12,16,21 
+30:11 35:7 
+36:6,14 37:13 
+37:17 38:4 
+45:7,23 48:17 
+
+scheme 47:7 
+se 14:23 
+seconds 44:6 
+Secretary 12:12 
+
+12:17 18:18,19 
+19:11 24:7,11 
+25:2,13 26:10 
+32:1,2 36:9,17 
+37:8,15 
+
+Secretary's 
+18:15 23:21 
+42:4 
+
+section 3:11,16 
+3:16,22 4:18 
+4:18 6:9 7:22 
+7:23 8:11,15 
+9:3,14 12:4 
+14:10 23:7,16 
+23:25 24:6 
+26:23 30:10 
+39:21 40:7 
+41:2 
+
+sections 19:11 
+see 6:23 12:8 
+
+13:18 22:14 
+26:8 40:4 
+42:20 
+
+seeing 6:24 
+seek 42:2 46:2 
+seeking 45:25 
+seen 35:12 
+Selman 7:22 
+
+11:18 52:1 
+seminal 7:21 
+send 20:19 21:9 
+
+30:25 31:1 
+33:22 
+
+sense 10:23 11:9 
+22:2,6 36:4 
+45:12 
+
+sent 20:25 50:16 
+separate 37:7 
+
+46:10,20 
+separately 47:4 
+seriously 48:15 
+Service 3:14 
+
+22:13 
+set 3:24 9:3 
+
+23:19 47:8 
+51:17 
+
+shifting 39:20 
+short 5:14 32:7 
+shut 35:13 
+significant 46:1 
+simple 23:12 
+simpler 40:17 
+
+40:21 
+simply 3:10 9:15 
+
+22:6,7,7 45:8 
+49:25 
+
+Sir 9:7 
+situation 21:21 
+
+29:10 
+small 6:15 8:7 
+
+14:1 
+smaller 4:14 
+
+5:12,25 10:14 
+39:23 
+
+society 33:5,13 
+solely 14:1 16:7 
+Solicitor 1:17 
+sorry 8:18 14:5 
+
+17:19 38:24 
+43:14 
+
+sought 51:19 
+SOUTER 9:10 
+
+30:24 31:7,10 
+31:20 32:5,10 
+33:15 38:12,17 
+
+sovereign 23:9 
+speak 5:22 
+speaking 10:25 
+special 5:24 
+
+10:13,21 
+specific 3:20 
+
+11:16 19:25 
+23:10 26:25 
+40:11,13,22 
+44:21,21 
+
+specifically 3:24 
+11:8 
+
+specified 27:17 
+specify 41:3,3 
+split 45:25 46:3 
+
+47:12 49:9 
+splitting 48:19 
+stake 33:5,12 
+standard 8:2,3 
+
+14:9,15,16,20 
+16:2,5,5,10,13 
+16:18,19 19:8 
+19:9 25:3,19 
+26:6,16,18 
+38:12 41:16,18 
+41:22 42:3 
+43:8,17,24 
+51:17,18,23,24 
+
+standards 43:6 
+44:3 
+
+standing 38:18 
+start 23:15 
+
+46:10 
+state 3:19 27:10 
+statement 48:13 
+States 1:1,6,12 
+
+3:4 17:22 
+statute 3:20 14:6 
+
+16:20,22 23:8 
+23:14,16 25:14 
+25:18 27:15 
+34:14 38:2 
+49:6,24 
+
+statutes 6:19,24 
+11:23 
+
+statutory 24:5 
+47:9 
+
+stop 28:24 30:22 
+strange 10:9 
+
+27:21 
+strength 33:3 
+strictly 50:11 
+strong 32:22 
+structure 17:11 
+
+22:15 23:7 
+stuff 16:14 
+subject 20:14 
+
+25:21 26:24 
+30:7 
+
+submit 19:22 
+submitted 52:6 
+
+52:8 
+subsection 6:7 
+
+9:11 11:6,7 
+12:2 31:13,23 
+
+subsections 
+14:24,25 15:1 
+15:2,19 
+
+substantive 38:2 
+41:7 45:19 
+47:14,15 50:3 
+
+substantively 
+43:10 
+
+subtle 17:2 
+sudden 26:17 
+
+41:17 
+sue 4:1,14 5:12 
+
+6:2,5 7:4,10 
+10:15,18,24 
+15:11 19:13,23 
+20:7,10,10 
+22:16 25:7 
+41:10,11 51:6 
+51:9,12 
+
+sufficient 10:25 
+suing 20:14 
+suit 13:1 
+suits 13:23 
+summarized 
+
+22:5 
+supersedes 6:25 
+supplemental 
+
+40:1 
+supports 23:8 
+suppose 32:17 
+
+32:24 33:6 
+Supreme 1:1,12 
+sure 8:24 13:3 
+
+18:6 
+surprised 32:18 
+system 4:25 15:8 
+systems 16:11 
+
+T 
+
+T 2:1,1 
+take 18:17 27:7 
+
+33:7 47:8 
+50:24 
+
+taken 48:15 
+talk 45:21 
+talking 8:11 
+
+34:2 48:20 
+tax 3:20,21,22 
+
+3:23,25 4:3,4 
+4:21,25 5:2,8 
+5:12,15,17,20 
+6:17 7:1,3,6 
+9:19 10:1,20 
+12:2 13:24 
+14:9 15:5,9 
+16:4,15 17:6 
+17:12,22 18:14 
+19:25 20:1,1,5 
+21:5,21,23 
+22:8,11 23:5 
+23:17 27:3,3,4 
+28:5,6,6,7,7,18 
+29:6,9,14,18 
+29:19,23 30:22 
+31:18 35:8,11 
+36:25 38:24 
+39:20 40:17,24 
+40:25 41:1,4,7 
+41:13 42:20,21 
+42:23 45:1 
+46:2,3 47:1,3 
+49:5,10,20,24 
+50:3,7,19,22 
+51:13,16,22 
+
+taxpayer 5:11 
+5:12,19,25 6:2 
+6:15 8:5,7 10:5 
+10:5,24 12:23 
+14:1,2 20:25 
+21:3,8 27:23 
+28:9 29:4,5,11 
+29:17,18 30:2 
+30:6,21 34:3,9 
+34:10 35:6 
+39:23 45:24,24 
+47:20 50:23 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 62 
+
+51:9,19 
+taxpayers 4:14 
+
+4:19 6:13 
+10:11,15,17 
+23:18 28:16,16 
+31:6 32:6 
+34:22 35:25 
+37:21 38:10 
+39:23 40:5,5 
+44:25 46:2,3 
+49:8 
+
+taxpayer's 21:9 
+31:18 46:5,7 
+47:19 
+
+technical 25:16 
+technically 
+
+25:23 
+tell 21:13 30:17 
+
+31:5,15 33:18 
+tells 25:14 
+ten 16:16 
+term 45:12 
+terms 32:20 
+
+50:13 51:7,12 
+test 5:2 
+Tex 1:15 
+Thank 22:22 
+
+23:2 48:3,4 
+52:4,5 
+
+theory 5:3 23:10 
+thing 8:23 35:7 
+
+42:8 45:13 
+47:12 
+
+things 37:7 
+think 6:16,20 
+
+11:8 14:20 
+17:10,21 22:4 
+25:16,17,22 
+26:2,20,21 
+27:9,11,20 
+28:3,3,4,14,14 
+29:2 31:2 
+32:25 33:9 
+41:21,22 42:5 
+42:6,25 43:3,5 
+43:9 44:5,7,8,9 
+44:11 45:9 
+
+48:14 50:5 
+THOMAS 1:15 
+
+2:3,9 3:6 48:8 
+thought 9:18 
+
+11:1 15:20 
+17:14,16 18:24 
+24:18 28:20 
+42:1 
+
+three 44:6 50:21 
+time 20:4,23 
+
+21:3,24 22:20 
+28:7,7,11 29:6 
+30:5 49:21 
+50:20 
+
+times 50:21 
+total 38:7 
+totally 16:25 
+
+35:12 38:5 
+45:13 52:2 
+
+traced 18:4 
+transfer 47:20 
+treating 39:5,7 
+tripartite 4:25 
+true 31:20,20 
+
+49:18 
+trump 47:9 
+try 42:2 
+trying 13:12 
+
+41:13 
+two 4:7 6:19,23 
+
+28:1 32:19 
+36:16 37:6 
+40:24 45:19,20 
+47:12 
+
+typically 25:2,9 
+32:13 
+
+U 
+ultimate 50:19 
+ultimately 35:23 
+underlying 38:2 
+
+41:6 46:5,7,23 
+47:15 
+
+underpayment 
+28:8,10 30:5 
+
+understand 5:23 
+16:23 17:8 
+
+18:21 29:19 
+30:12 36:8,13 
+37:7 
+
+unique 52:2 
+United 1:1,6,12 
+
+3:4 17:22 
+University 51:5 
+unnecessary 
+
+3:22 
+unpaid 28:6 
+unsuccessful 
+
+46:16 
+use 19:13 25:7,8 
+
+35:2,12 41:13 
+41:19 
+
+usually 25:10 
+UX 1:3 
+
+V 
+v 1:5 
+value 28:11 
+
+35:13 
+vast 46:1 
+versus 19:23 
+
+22:16 51:6 
+vested 5:16 
+view 10:12 17:9 
+
+17:10 26:5 
+32:11 
+
+violation 14:23 
+18:12 
+
+virtually 21:12 
+void 41:19 
+vs 3:4 
+
+W 
+Wait 36:22 37:6 
+
+37:6 38:4 
+waiting 48:22 
+waive 36:17 
+
+37:16 
+walk 17:3 
+want 4:25 5:19 
+
+10:9 16:12,14 
+37:5,7 38:8 
+42:11 44:1,10 
+44:20,22 
+
+wanted 27:12,12 
+
+42:18 
+wants 39:21 
+Washington 1:8 
+
+1:18 
+way 4:18 15:9 
+
+17:14,17 21:12 
+25:11,18 27:2 
+28:5 29:3 
+33:21 35:10 
+43:4 44:6,8 
+45:17,20,22 
+
+ways 45:5 
+wealth 35:12 
+
+44:5 
+wealthier 10:11 
+
+10:17 
+wealthy 35:6 
+wedge 41:14 
+Weiner 48:23 
+went 15:12 
+
+17:14,17 
+We'll 3:3 
+we're 5:24 6:7 
+
+31:1 41:12 
+we've 44:17 
+whatsoever 8:8 
+wonder 35:16 
+Woodrall 50:4 
+words 30:4 37:8 
+
+37:23 
+works 28:5 
+world 24:17 
+worth 4:20 5:2,5 
+
+10:5 12:6,24 
+12:25 23:19 
+28:1,16 32:9 
+34:9,13,22 
+35:25 37:22 
+38:25 39:8,10 
+40:5 44:19,25 
+
+worthless 33:15 
+wouldn't 9:21 
+
+22:1 32:25 
+40:16 44:6 
+
+write 34:15 
+wrong 3:11 9:6 
+
+14:13 26:19 
+
+X 
+x 1:2,7 
+
+Y 
+Yeah 8:15 32:16 
+
+34:7 37:15 
+years 20:25 
+
+22:18 51:21 
+
+$ 
+$1.5 39:11 
+$2 4:20 10:6 
+
+12:6 28:2 
+38:25 
+
+$5,000 31:2 
+34:13,15 
+
+$50,000 32:21 
+$7 4:20 12:6 
+
+0 
+06-376 1:5 3:4 
+
+1 
+1 8:10,16 9:9,11 
+
+12:9,12,23 
+13:7,9,14 
+15:17,18 16:3 
+18:17 19:19 
+24:23 
+
+1,000 20:19,20 
+28:25 
+
+1:00 1:13 3:2 
+1:56 52:7 
+1346 50:12 
+16 50:12 
+18 31:13,13,13 
+
+31:15,25 
+18-month 31:17 
+180 23:20 
+19 40:2 
+1986 24:20 
+
+31:25 32:2 
+1995 39:25 40:3 
+1996 44:14 
+1998 31:14 
+
+2 
+2 7:25 8:2,6,9,11 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 63 
+
+11:19 12:9,10 6406(h) 3:16 
+12:15,18,22 6659 51:21 
+13:1,5,6,8,17 
+13:19,21,22 7 
+14:17,18 18:3 7442 3:22 
+18:7,7,8,11,18 7491 39:21 
+18:20 24:22 
+25:7 
+
+2007 1:9 
+9 
+
+98 39:25 
+22 2:7 
+23 1:9 
+
+3 
+3 2:4 
+300 29:1 
+
+4 
+42 9:10 
+48 2:10 
+
+5 
+5,000 34:16,18 
+
+6 
+6330(d) 41:2 
+6404 6:9 8:13 
+
+12:4,7 14:13 
+14:25 15:1,2 
+15:19 19:7,7 
+49:1 
+
+6404(a) 19:3 
+49:20 50:6 
+
+6404(d) 19:2 
+6404(e)(1) 6:7 
+
+7:21,22 23:7 
+24:6 49:11,19 
+
+6404(e)(2) 7:23 
+6404(h) 3:11,16 
+
+3:21 4:18 6:6,8 
+7:9 8:4 12:22 
+13:6,13 20:3 
+23:16 26:13,17 
+40:7 42:25 
+48:12 49:8 
+50:9 
+
+6404(h)'s 26:23 
+6404(h)(1) 15:23 
+
+16:13,15 
+
+Alderson Reporting Company 
+
+

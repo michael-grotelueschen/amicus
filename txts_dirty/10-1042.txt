@@ -1,0 +1,5166 @@
+
+   
+
+         
+
+                       
+
+             
+
+5
+
+10  
+
+15
+
+20
+
+ 
+
+ 
+
+25
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 TAMMY FORET FREEMAN, ET VIR., : 
+
+4  Petitioners : No. 10-1042 
+
+v. : 
+
+6 QUICKEN LOANS, INC. : 
+
+7 - - - - - - - - - - - - - - - - - x 
+
+8  Washington, D.C. 
+
+9  Tuesday, February 21, 2012 
+
+11  The above-entitled matter came on for oral 
+
+12 argument before the Supreme Court of the United States 
+
+13 at 10:11 a.m. 
+
+14 APPEARANCES: 
+
+KEVIN K. RUSSELL, ESQ., Washington, D.C.; for 
+
+16  Petitioners. 
+
+17 ANN O'CONNELL, ESQ., Assistant to the Solicitor 
+
+18  General, Department of Justice, Washington, D.C.; 
+
+19  for the United States, as amicus curiae, supporting 
+
+Petitioners. 
+
+21 THOMAS M. HEFFERON, ESQ., Washington, D.C.; for 
+
+22  Respondent. 
+
+23 
+
+24 
+
+1
+ 
+Alderson Reporting Company 
+
+
+
+                                
+
+                   
+
+      
+
+                    
+
+                   
+
+5
+
+10
+
+15  
+
+ 
+
+ 
+
+ 
+
+ 
+
+20  
+
+ 
+
+ 
+
+ 
+
+ 
+
+25
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF PAGE 
+
+3 KEVIN K. RUSSELL, ESQ. 
+
+4  On behalf of the Petitioners 3 
+
+ORAL ARGUMENT OF 
+
+6 ANN O'CONNELL, ESQ. 
+
+7  On behalf of the United States, as amicus 18 
+
+8  curiae, supporting the Petitioners 
+
+9 ORAL ARGUMENT OF 
+
+THOMAS M. HEFFERON, ESQ. 
+
+11  On behalf of the Respondent 28 
+
+12 REBUTTAL ARGUMENT OF 
+
+13 KEVIN K. RUSSELL, ESQ. 
+
+14  On behalf of the Petitioners 56 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+2
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (10:11 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+4 first this morning in Case 10-1042, Freeman v. Quicken 
+
+Loans. 
+
+6  Mr. Russell. 
+
+7  ORAL ARGUMENT OF KEVIN K. RUSSELL 
+
+8  ON BEHALF OF THE PETITIONERS 
+
+9  MR. RUSSELL: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+11  For decades, the agency Congress charged 
+
+12 with administering the Real Estate Settlement Procedures 
+
+13 Act has construed that statute as prohibiting a lender 
+
+14 from accepting a charge for a real estate settlement 
+
+service it didn't provide, whether it accepts that 
+
+16 charge directly from a consumer or indirectly through 
+
+17 another service provider, and whether it shares that fee 
+
+18 with another provider or keeps it all for itself. 
+
+19  That interpretation is eminently reasonable 
+
+and is entitled to deference. And in fact --
+
+21  JUSTICE GINSBURG: Mr. Russell, when you say 
+
+22 the agency in charge, am I right in thinking that HUD 
+
+23 and its successor -- they don't have any 
+
+24 suit-commencement authority? 
+
+MR. RUSSELL: HUD does have authority to 
+
+3
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 bring suits for injunctive relief for violations of 
+
+2 2607(b), and -- if that answers your question. 
+
+3  JUSTICE GINSBURG: For injunctive relief? 
+
+4  MR. RUSSELL: For injunctive relief. That's 
+
+correct. And that agency has long construed the 
+
+6 language of this provision as reaching all unearned fees 
+
+7 whether divided or not, and that interpretation of the 
+
+8 language we think is eminently reasonable. 
+
+9  JUSTICE SCALIA: Reaching all? I didn't 
+
+understand you. You said it too fast. As reaching 
+
+11 all -- something fees, whether permitted --
+
+12  MR. RUSSELL: All unearned fees, whether 
+
+13 split --
+
+14  JUSTICE SCALIA: Unearned fees 
+
+whether provided or not. 
+
+16  MR. RUSSELL: Whether split or not. 
+
+17  JUSTICE BREYER: How does this – just -- may 
+
+18 be a side issue, but I don't see how this is a fee for 
+
+19 service. I mean, I thought points is simply a way of 
+
+paying more money up front and getting a lower interest 
+
+21 rate later. It isn't supposed to be for any service; 
+
+22 it's simply a question of -- of a loan term, how much 
+
+23 you borrow and what the interest rate is. 
+
+24  MR. RUSSELL: Well, you're right. I do 
+
+think it's a side issue because the courts below didn't 
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 decide that, and Quicken didn't --
+
+2  JUSTICE BREYER: So, what are we supposed to 
+
+3 do -- decide theoretically, in the context of a case 
+
+4 that does not involve paying a fee for a service that 
+
+doesn't exist, whether you can pay for a service that 
+
+6 doesn't exist? 
+
+7  MR. RUSSELL: I think you can take it on the 
+
+8 same assumption that the court of appeals did, that the 
+
+9 fee was unearned, and decide the question presented. 
+
+But to answer your question, Congress 
+
+11 amended the statute specifically to overrule the Sixth 
+
+12 Circuit's decision in Graham, which held that loan 
+
+13 discount fees were not covered by the statute, in that 
+
+14 case involving a kickback. I know Quicken argues that 
+
+that case involved origination fees. We don't think 
+
+16 that's correct. But this is -- this is an issue you 
+
+17 could have an entire case about. 
+
+18  JUSTICE BREYER: How? 
+
+19  MR. RUSSELL: And -- but --
+
+JUSTICE BREYER: What's -- what's the 
+
+21 argument on the other side? A point is a way of paying 
+
+22 more money, i.e., borrowing less. Since you pay more, 
+
+23 that means you borrow less. And so, your interest rate 
+
+24 is lower because you’ve borrowed less. Now, what's the 
+
+argument on the other side? 
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. RUSSELL: The argument is Congress 
+
+
+2 specifically defined the term "real estate settlement 
+
+
+3 service" to include the origination of the loan, which 
+
+
+4 includes but is not limited to the funding of the loan. 
+
+
+And it did that in order to encompass kickbacks, at the 
+
+
+6 very least, involving loan discount points, which was 
+
+
+7 what is at issue in Graham. 
+
+
+8  Now, you can have debates -- and we will 
+
+
+9 have in this case eventually debates about what does it 
+
+
+mean for a loan discount fee to be unearned. But for 
+
+11 present purposes, the circuit split arose here in the much 
+
+12 more common circumstance, when there are unearned fees 
+
+13 for appraisals and courier fees, and -- and that's what 
+
+14 the lower court decided on the basis of. And it did 
+
+so --
+
+16  JUSTICE SCALIA: Well, I suppose if -- if 
+
+17 the lower court could have been wrong for either one of 
+
+18 two reasons, we don't have to decide which of the two 
+
+19 we -- we're precluded from considering, right? 
+
+MR. RUSSELL: No, I don't think you're 
+
+21 precluded from considering -- I --
+
+22  JUSTICE SCALIA: I mean, it’s -- it would be 
+
+23 just as well to say that the question presented here 
+
+24 decides the case as it would be to say that the question 
+
+raised by Justice Breyer decides the case, right? 
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. RUSSELL: Right. I --
+
+2  JUSTICE SCALIA: And is there any reason to 
+
+3 put the one before the other? 
+
+4  MR. RUSSELL: There are several reasons. 
+
+One is the lower courts did not address this question. 
+
+6 Quicken hasn't briefed it to any extent. Quicken 
+
+7 doesn't ask you to decide it on the base of that 
+
+8 question. We haven't briefed it. It's a complicated 
+
+9 question that involves interpretation of another 
+
+provision of the statute that Congress amended to deal 
+
+11 specifically with this problem. And it wouldn't 
+
+12 solve -- it wouldn't resolve the circuit conflict that 
+
+13 the Court granted cert to decide. 
+
+14  And so, if I could turn to that, if you look 
+
+at the language of the statute, which is reproduced on 
+
+16 page 6a of the -- the blue brief, in the words of the 
+
+17 statute, a lender who charges an unearned fee, accepts, 
+
+18 within the meaning of the statute, a portion, split, or 
+
+19 percentage, i.e., 100 percent, of a charge that was made 
+
+for the rendering of a covered real estate settlement 
+
+21 service other than for services actually performed. 
+
+22  CHIEF JUSTICE ROBERTS: I -- your argument 
+
+23 that "percentage" can include 100 percent is certainly 
+
+24 true as a matter of logic. But in the phrase "portion, 
+
+split, or percentage," I think the more natural reading 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 of "percentage" is something less than 100 percent. In 
+
+2 other words, you're apportioning or you're splitting the 
+
+3 fee with somebody else. 
+
+4  MR. RUSSELL: Well, I think --
+
+CHIEF JUSTICE ROBERTS: You could have --
+
+6 "portion" I suppose could still mean a full portion; 
+
+7 "split" probably not. But, I mean, the more natural 
+
+8 reading is surely a division. 
+
+9  MR. RUSSELL: Well, I think "portion" is the 
+
+word that best fits this situation. And Congress has 
+
+11 used the phrase "portion" in other state -- in other 
+
+12 statutes to prohibit, for example, a public official 
+
+13 from converting to personal use any portion of the funds 
+
+14 entrusted to him --
+
+JUSTICE SCALIA: It could mean that, but it 
+
+16 need not mean that. It could mean either that or just 
+
+17 -- just part and not whole; and which of the two it 
+
+18 means is often decided by the other words with which 
+
+19 it's associated. I mean, if you have a phrase that 
+
+says, you know, "tacks, nails, and" -- what? "Tacks, 
+
+21 nails, and wooden pegs," it's clear that "nails" doesn't 
+
+22 mean toenails; it -- it means a fastener. 
+
+23  And so, also here, when it says "portion, 
+
+24 split, or percentage," it seems to me the natural 
+
+reading is that portion or percentage means not, as it 
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 could mean, the whole, but rather just a portion. 
+
+2  MR. RUSSELL: Well, I would -- I would say 
+
+3 two things about that. One is that when you have a 
+
+4 statute that forbids somebody from taking any portion of 
+
+something, I think the ordinary understanding is that 
+
+6 prohibits them from taking the whole of the thing. The 
+
+7 embezzlement statutes are an example of that. 
+
+8  JUSTICE SCALIA: That's not what we have. 
+
+9 We have -- we have a statute that says you shall not 
+
+take any portion or split. 
+
+11  MR. RUSSELL: Right. 
+
+12  JUSTICE SCALIA: Okay? 
+
+13  MR. RUSSELL: And so, the canon, though, I 
+
+14 don't think, is a canon that says when you have related 
+
+words, you give them all the same meaning. They 
+
+16 certainly have something in common. They're all the 
+
+17 measure of something, but the canon doesn't say that you 
+
+18 read them to all mean the same measure of something, 
+
+19 which would run headlong, I think, into the canon 
+
+against construing statutes to have surplusage. 
+
+21  CHIEF JUSTICE ROBERTS: But the -- one 
+
+22 reason -- one objection to your idea that, well, this 
+
+23 covers partial, so it must cover 100 percent, is that 
+
+24 it's a very different issue if you're talking about 
+
+partial and 100 percent. If you're talking about 
+
+9
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 partial, you have a classic case of a -- a kickback. 
+
+2 But if you suddenly say 100 percent of an unearned fee, 
+
+3 that's a much more difficult question to decide. 
+
+4  In this case, for example, you get a whole 
+
+bunch of things from Quicken Loans, including the loan 
+
+6 and all this other stuff, and it's kind of hard to 
+
+7 single out, well, this part is unearned but this part is 
+
+8 earned; it's kind of a whole package. When you have a 
+
+9 portion or split, it's an entirely different issue. 
+
+MR. RUSSELL: Well, you still have to 
+
+11 decide, when you're talking about a kickback, whether 
+
+12 the person who received the kickback has done anything 
+
+13 to earn their portion of it. And so, I don't think you 
+
+14 avoid the question of what does it mean for a fee to be 
+
+unearned entirely. 
+
+16  CHIEF JUSTICE ROBERTS: Yes, but there --
+
+17 it's a more -- it's a narrower issue when you're talking 
+
+18 about a portion. Let's say the kickback goes to the 
+
+19 appraiser. Maybe you can decide in that case whether 
+
+the loan company really had anything to do with the 
+
+21 appraisal at all. 
+
+22  When the alleged unearned fee goes to the 
+
+23 whole loan company, it's a little harder to say which 
+
+24 part was unearned and which parts might have been 
+
+earned. 
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. RUSSELL: But --
+
+2  CHIEF JUSTICE ROBERTS: It's just -- it's 
+
+3 the way these loans work, right? I mean, it's the same 
+
+4 thing whether you pay 10 percent and no points or 9 
+
+percent and 3 points. You know, which one of those is 
+
+6 earned or unearned, it's kind of hard to sort it out. 
+
+7  MR. RUSSELL: It's certainly harder to sort 
+
+8 out with respect to loan discount fees. But the run of 
+
+9 the mine cases here involve things like appraisals, 
+
+courier services, flood certifications --
+
+11  JUSTICE BREYER: Okay. How does that work? 
+
+12 The bank says to Mr. Smith we are going to charge you 
+
+13 $100 for a courier service. And then they don't. So, 
+
+14 there it is on the bill. And Mr. Smith, really knowing 
+
+he didn't get the courier service, pays the $100. All 
+
+16 right? Why isn't Mr. Smith guilty, on your 
+
+17 interpretation? 
+
+18  I mean, on your interpretation, every 
+
+19 innocent consumer is guilty of a crime. 
+
+MR. RUSSELL: No. That -- that is not the 
+
+21 case --
+
+22  JUSTICE BREYER: Why not? 
+
+23  MR. RUSSELL: -- and what protect consumers 
+
+24 is the last words of the -- of this provision, which 
+
+creates a safe harbor for people who give or accept 
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 charges for services actually performed. And the 
+
+2 critical word here is "for." What a consumer is paying 
+
+3 "for" is what she has been charged "for." 
+
+4  JUSTICE BREYER: Yes. 
+
+MR. RUSSELL: If she has been charged for an 
+
+6 appraisal, what she is giving the charge for is for the 
+
+7 appraisal. If the appraisal wasn't performed, that 
+
+8 shows she didn't get what she paid for, but it doesn't 
+
+9 change what she was paying "for." Now --
+
+JUSTICE BREYER: So, you -- I don't 
+
+11 understand that. It's my fault. But wouldn't -- it 
+
+12 says that if she doesn't get the appraisal, but she has 
+
+13 to pay for it, then why isn't she -- why hasn't -- why 
+
+14 doesn't she fall within the statute? 
+
+MR. RUSSELL: I think that there are two 
+
+16 ways you can construe what it means to pay a charge for. 
+
+17 One is what it is you actually got --
+
+18  JUSTICE BREYER: What you got was nothing. 
+
+19  MR. RUSSELL: -- which was nothing. The 
+
+other is what you are actually charged for, which was 
+
+21 the appraisal. 
+
+22  JUSTICE BREYER: Yes. 
+
+23  MR. RUSSELL: And I think that latter 
+
+24 interpretation --
+
+JUSTICE BREYER: Yes. 
+
+12
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. RUSSELL: -- is the proper one. It's --
+
+2 I think it's the most natural -- 
+
+3  JUSTICE BREYER: Why hasn't the consumer 
+
+4 violated? 
+
+MR. RUSSELL: Because she didn't pay for 
+
+6 services other than -- she didn't pay for services other 
+
+7 than services actually performed. What she paid for --
+
+8  JUSTICE BREYER: Then why is the bank 
+
+9 liable? 
+
+MR. RUSSELL: Because I think it's 
+
+11 different, depending on whether you're looking from the 
+
+12 perspective of accepting or receiving, what the charge 
+
+13 is for. So, for example, if you were to go to your 
+
+14 mechanic and you were charged for an oil change but you 
+
+didn't get one, it would be perfectly natural for you to 
+
+16 say I was charged for and I paid for an oil change. 
+
+17  JUSTICE BREYER: I see. So, this -- you're 
+
+18 saying when the bank writes down, "pay $100 for the 
+
+19 courier service," the bank is charging for the courier 
+
+service. 
+
+21  MR. RUSSELL: Right. 
+
+22  JUSTICE BREYER: When the consumer pays for 
+
+23 the courier service which he sees there, the consumer is 
+
+24 not paying for the courier service. He is paying for 
+
+the nothing. 
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. RUSSELL: No, I think the consumer is 
+
+
+2 paying a charge for the -- for the courier service. 
+
+
+3  JUSTICE BREYER: All right. Then why 
+
+
+4 doesn't he fall within the -- within the statute? 
+
+
+MR. RUSSELL: Because it's not a violation 
+
+6 of the statute --
+
+7  JUSTICE BREYER: Why? 
+
+8  MR. RUSSELL: -- to pay for a service 
+
+9 actually performed. And that's what she is paying for; 
+
+she's paying for an appraisal. She's not paying for 
+
+11 nothing. 
+
+12  JUSTICE GINSBURG: But they're -- but the 
+
+13 purchaser is the giver, and the statute reads, "No 
+
+14 person shall give and no person shall accept." The 
+
+acceptor is the loan company. The person who is giving 
+
+16 would be the consumer, the customer. 
+
+17  MR. RUSSELL: Correct. 
+
+18  JUSTICE GINSBURG: But -- so, the person who 
+
+19 gives is -- is not answerable under your reading of this 
+
+(b)? 
+
+21  MR. RUSSELL: Correct, because what she is 
+
+22 giving the charge for is what she has been charged for. 
+
+23 She was charged for an appraisal. She's giving the 
+
+24 charge for an appraisal, and that doesn't violate the 
+
+statute. 
+
+14
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SCALIA: Give me an example of where 
+
+2 the language "give" would have an effect. 
+
+3  MR. RUSSELL: I think in --
+
+4  JUSTICE SCALIA: Have you deprived it of all 
+
+effect? 
+
+6  MR. RUSSELL: No. In a traditional kickback 
+
+7 situation, where Quicken, for example, kicked back some 
+
+8 of the fee to a real estate agent for nothing, for the 
+
+9 referral of the business, which isn't for a service 
+
+actually performed within the meaning of the statute, 
+
+11 that would violate the provision. 
+
+12  JUSTICE GINSBURG: But then we have Quicken 
+
+13 as the giver and the person who receives the referral or 
+
+14 kickback as the receiver. 
+
+MR. RUSSELL: That's correct. This 
+
+16 provision does double duty. It is designed and written 
+
+17 broadly to encompass both traditional kickback 
+
+18 situations and unearned fee provisions. 
+
+19  JUSTICE GINSBURG: Mr. Russell, there's one 
+
+puzzling aspect of -- of your interpretation. It would 
+
+21 be a rather large thing for Congress to say we're going 
+
+22 to cover overcharges, as I believe HUD says is --
+
+23 counts; and yet, in the -- in the purposes of the Act on 
+
+24 page 1 of the appendix, it says nothing about 
+
+overcharges, nothing about payment for a service not 
+
+15
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 received in the -- in the four -- "it is the purpose of 
+
+2 the Act to," and then there are four things listed, and 
+
+3 none of those say to stop charges for services that 
+
+4 weren't performed. 
+
+MR. RUSSELL: That's true. First, just to 
+
+6 clarify, we don't -- we're not arguing that it covers 
+
+7 overcharges in the sense of excessive charges. 
+
+8  JUSTICE GINSBURG: But that is -- that is 
+
+9 HUD's interpretation? 
+
+MR. RUSSELL: That is one of HUD's 
+
+11 interpretations, although it's an interpretation about 
+
+12 what it means for something to be unearned, not having 
+
+13 anything to do with whether split fees are covered or 
+
+14 not. 
+
+But to answer your more specific question, 
+
+16 we know that that enumeration is not comprehensive. 
+
+17 There are other things in the statute that are not 
+
+18 included. And the general purpose of the statute --
+
+19  JUSTICE SCALIA: But nothing as big as this, 
+
+if you accept HUD's interpretation of this, which is 
+
+21 essentially the issuance of a -- of a price schedule by 
+
+22 HUD, and anything above these prices is an overcharge 
+
+23 and hence falls under -- under this provision. That's 
+
+24 immense. 
+
+MR. RUSSELL: It would be immense, but this 
+
+16
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Court doesn't have to accept that view in order to 
+
+2 accept HUD's point of view. 
+
+3  JUSTICE SCALIA: No, but if we don't, then 
+
+4 we reject deference to HUD, which you want us to -- to 
+
+apply. 
+
+6  MR. RUSSELL: But as --
+
+7  JUSTICE SCALIA: We can't at one time -- at 
+
+8 one and the same time, give deference to HUD and yet 
+
+9 disagree with what HUD says. 
+
+MR. RUSSELL: Certainly you can, and, in 
+
+11 fact, Your Honor did in Smith v. City of Jackson, where 
+
+12 you held that a provision of a regulation recognizing 
+
+13 disparate impact was entitled to deference, but a 
+
+14 provision saying what you had to prove to show a 
+
+disparate impact violation wasn't. And here 
+
+16 similarly -- I mean, particularly the overcharge part of 
+
+17 the interpretation is not even in the regulations. It's 
+
+18 in the policy statement. It's a subsequent --
+
+19  JUSTICE ALITO: But do you think this is 
+
+just a labeling statute? Quicken could charge whatever 
+
+21 it wanted, bottom line, but if it breaks it down into 
+
+22 categories and it doesn't do something that's actually 
+
+23 attributable to one of those categories, then there's a 
+
+24 violation? 
+
+MR. RUSSELL: I think Congress -- yes. I 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 mean, it is -- labels are important, because Congress 
+
+2 didn't say you simply have to disclose the bottom line; 
+
+3 it said you have to give an itemized list. And 
+
+4 requiring that those identified line items actually 
+
+represent services that were actually rendered is a 
+
+6 completely reasonable supplement to the disclosure 
+
+7 requirement. 
+
+8  If I could reserve the remainder of my time. 
+
+9  CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. Russell. 
+
+11  Ms. O'Connell. 
+
+12  ORAL ARGUMENT OF ANN O'CONNELL 
+
+13  ON BEHALF OF THE UNITED STATES, 
+
+14  AS AMICUS CURIAE, SUPPORTING PETITIONERS 
+
+MS. O'CONNELL: Mr. Chief Justice and may it 
+
+16 please the Court: 
+
+17  The plain terms of section 2607(b) prohibit 
+
+18 two separate actions, giving an unearned fee and 
+
+19 accepting one. Sometimes the statute will be violated 
+
+when an unearned fee is collected from the consumer and 
+
+21 then shared between two service providers. But the 
+
+22 statute is also violated when a service provider 
+
+23 collects an unearned fee directly from the consumer and 
+
+24 retains the entire fee for itself. 
+
+JUSTICE BREYER: The consumer doesn't 
+
+18
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 violate it in those circumstances because? 
+
+2  MS. O'CONNELL: It's -- we agree with the 
+
+3 Petitioners' interpretation of this --
+
+4  JUSTICE BREYER: Well, can you tell me where 
+
+in the briefs? I have to read this about six times to 
+
+6 get this one in my head. 
+
+7  MS. O'CONNELL: I don’t--
+
+8  JUSTICE BREYER: Where in the briefs does it 
+
+9 explain to me why in your situation the bank would be 
+
+violating it, but the consumer wouldn't, since it says 
+
+11 "no person shall give" as well as "no person shall 
+
+12 receive"? 
+
+13  MS. O'CONNELL: Justice Breyer, I don't 
+
+14 think this is in the briefs. It's --
+
+JUSTICE BREYER: Well, my goodness. If it 
+
+16 isn't in the briefs, it -- maybe I'm off on a track 
+
+17 here, but it seems to me a pretty obvious question. 
+
+18  MS. O'CONNELL: Well, it is --
+
+19  JUSTICE BREYER: I mean, we have a statute 
+
+that looks like a kickback statute, and the reason it 
+
+21 looks like a kickback statute is it refers both to the 
+
+22 person giving and to the persons receiving, and it seems 
+
+23 to make them equally liable. 
+
+24  Now, you want to apply it to a situation 
+
+where I don't think you want to hold consumers liable. 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 And so, I think you have to explain to me why this 
+
+
+2 statute doesn't --
+
+
+3  MS. O'CONNELL: I think --
+
+
+4  JUSTICE BREYER: -- on your reading of it. 
+
+
+MS. O'CONNELL: The explanation is 
+
+
+6 encompassed in HUD's policy statement. Footnote 6 of 
+
+
+7 the policy statement, which is in the appendix to the 
+
+
+8 Petitioners' brief at 33a, says that HUD would be 
+
+
+9 unlikely to bring an enforcement action against 
+
+
+consumers for the payment of unearned fees. 
+
+11  JUSTICE BREYER: Oh, you mean it's all 
+
+12 prosecutorial discretion? In other words, if you happen 
+
+13 to be a consumer you just have to rely on the goodwill 
+
+14 of the prosecutor; is that the idea? 
+
+MS. O'CONNELL: Justice Breyer, I think it's 
+
+16 more than just prosecutorial discretion. What HUD is 
+
+17 explaining --
+
+18  JUSTICE BREYER: What more? 
+
+19  MS. O'CONNELL: What HUD is explaining is 
+
+that the reason why it would not prosecute a consumer is 
+
+21 because the consumer does not make the payment for --
+
+22 does not pay a fee for the payment of unearned fees. A 
+
+23 consumer --
+
+24  JUSTICE KENNEDY: Have we said in some of 
+
+our cases, oh, don't worry, this is within the 
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 discretion of the prosecutor, close enough for 
+
+2 government work? 
+
+3  MS. O'CONNELL: No, no. Justice Kennedy, I 
+
+4 don't -- I don't think that this is just prosecutorial 
+
+discretion. This is HUD's interpretation of the statute 
+
+6 laid out in a policy statement saying it doesn't think 
+
+7 consumers violate the statute because they're --
+
+8  JUSTICE KENNEDY: Does HUD have expertise in 
+
+9 interpreting criminal statutes? 
+
+MS. O'CONNELL: HUD is -- has an expertise 
+
+11 in -- in determining what is earned and unearned and 
+
+12 what the practices are in the real estate industry for 
+
+13 charging consumers fees that haven't been earned by the 
+
+14 service providers. What HUD is saying in the policy --
+
+JUSTICE SCALIA: Well, but I assume that 
+
+16 HUD's interpretation of a criminal statute like ours 
+
+17 must give the defendant the benefit of the doubt so that 
+
+18 if there's any ambiguity -- I mean, that's our standard 
+
+19 rule. If there's a genuine ambiguity, you -- you find 
+
+for the interpretation that favors the defendant. And 
+
+21 this here -- I think this is at the very least 
+
+22 ambiguous. And you are telling me -- well, I guess 
+
+23 you're right. I guess HUD is favoring what would be the 
+
+24 defendant in this case. 
+
+MS. O'CONNELL: If -- yes, it -- it's saying 
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that it doesn't think that a consumer violates the 
+
+2 statute because the consumer doesn't pay the fee other 
+
+3 than for services actually performed. 
+
+4  JUSTICE BREYER: But can you -- I don't want 
+
+to take all your time on this because to me the more 
+
+6 important problem was the problem of the difference 
+
+7 between a kickback statute, which we could understand as 
+
+8 well within HUD's expertise and normal and of course 
+
+9 very good reason for doing it. But a price control 
+
+statute, where we have the Federal agency deciding 
+
+11 whether the prices are accurate for each service that is 
+
+12 rendered or whether some percentage or all of it 
+
+13 represents service for nothing -- that's a rather big 
+
+14 novelty in American life. That is, we have it, but 
+
+they are usually Federal agencies that have a system 
+
+16 set up for determining proper prices and so forth. 
+
+17  So, it's hard for me to believe that sort of 
+
+18 inadvertently Congress brought in the second under the 
+
+19 guise of the first without a big fuss being raised and a 
+
+big debate and so forth. 
+
+21  MS. O'CONNELL: Justice Breyer, I think the 
+
+22 important -- important point here is that this is not an 
+
+23 overcharge case; this is an unearned fee case. 
+
+24 Overcharges are included in the 2001 policy statement, 
+
+but there is a basis in the statute to differentiate 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 between overcharges and unearned fees, and HUD has long 
+
+2 taken the position that undivided unearned fees, a fee 
+
+3 for which no service is performed, violates section 
+
+4 2607(b). 
+
+JUSTICE KENNEDY: Well, I'm not sure. It 
+
+6 seems to me that even under the Respondent's view of the 
+
+7 statute, you have to inquire into reasonableness to see 
+
+8 if the fee was earned. 
+
+9  MS. O'CONNELL: At some point, under 
+
+anybody's interpretation, there does have to be a 
+
+11 determination of whether something was earned. But 
+
+12 there is a statutory basis to distinguish between an 
+
+13 unearned fee and an overcharge in that the service has 
+
+14 to be -- the fee has to be other than for services 
+
+actually performed. 
+
+16  JUSTICE SCALIA: Wait a minute. If -- you 
+
+17 know, if -- if I charge you an exorbitant amount for 
+
+18 cutting down a tree, you know, 2,000, $20,000, and then 
+
+19 I present my bill, you would say that I have not earned 
+
+it simply because it's exorbitant? 
+
+21
+
+22
+
+23 evaluate --
+
+24
+
+ MS. O'CONNELL: 
+
+
+JUSTICE SCALIA: 
+
+
+MS. O'CONNELL: 
+
+
+JUSTICE SCALIA: 
+
+
+There --
+
+I don't think you have to 
+
+No. Justice --
+
+Under the Respondent's 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 interpretation, I don't think have you to evaluate the 
+
+
+2 reasonableness of the fee in order to decide whether it 
+
+
+3 was earned or not. 
+
+
+4  MS. O'CONNELL: Under the statute, if it's 
+
+
+for -- if the fee is for -- other than for services 
+
+6 actually performed, which -- we think the loan discount 
+
+7 fee in this case was a charge other than for a service 
+
+8 actually performed. There was no corresponding 
+
+9 reduction in the interest rate. That is an unearned fee 
+
+under -- under anybody's interpretation. 
+
+11  JUSTICE KAGAN: It looks to me as though you 
+
+12 have an additional statutory problem. You have two sets 
+
+13 of verbs in this statute. One is the "give and accept" 
+
+14 set of verbs, and then the other is the "charge made or 
+
+received." So, it seems to me that what the statute is 
+
+16 -- is thinking about is that first, that there is a charge 
+
+17 made or received, and that charge is, of course, the 
+
+18 charge that the consumer pays to the provider. And then 
+
+19 there's another transaction. And that transaction is 
+
+the "give or accept" transaction, and that transaction 
+
+21 occurs between two service providers. So, one set of 
+
+22 verbs refers to the consumer-provider relationship; the 
+
+23 other set of verbs refers to the provider-provider 
+
+24 relationship. 
+
+MS. O'CONNELL: Justice Kagan, we agree that 
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that -- that is one scenario covered by 2607(b). We 
+
+2 don't think it's the only scenario covered by the 
+
+3 statute. Under our interpretation and Petitioners' 
+
+4 interpretation, there doesn't have to be both a culpable 
+
+giver and acceptor. So, once the charge is received 
+
+6 from the consumer and accepted by the service provider, 
+
+7 that is also a violation of the statute. 
+
+8  It also does cover fees that are split 
+
+9 between two service providers, as you say, the giving 
+
+and accepting, but it doesn't have to involve two 
+
+11 service providers under the plain language of the 
+
+12 statute. 
+
+13  JUSTICE GINSBURG: But you -- you are now 
+
+14 splitting HUD's position. HUD's position says 
+
+overcharges are reached by the statute. You say not 
+
+16 overcharges, but only a fee when no service is 
+
+17 performed. So, why couldn't the customers have said 
+
+18 there is a fee for the service performed, that's the 
+
+19 reasonable fee; and the rest of it is a charge for a 
+
+service not performed? 
+
+21  I mean, can you really maintain that 
+
+22 distinction between an overcharge and a fee for services 
+
+23 that are not performed? 
+
+24  MS. O'CONNELL: Justice Ginsburg, in this 
+
+case, we don't think that the Court has to -- has to say 
+
+25
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 anything about overcharges and whether those are covered 
+
+2 by the statute. The fee in this case was a loan 
+
+3 discount fee, which is generally paid to procure a 
+
+4 reduction in the interest rate of the loan, and it 
+procured nothing for the Petitioners. It was a 
+
+6 completely unearned fee. It was other than for services 
+
+7 actually performed. 
+
+8  CHIEF JUSTICE ROBERTS: What does that mean? 
+
+9 In other words, the rate that was offered -- they said 
+you pay two points and you will get a rate of 8 percent. And 
+
+11 you're saying that even if they didn't pay the two 
+
+12 points, they would still get a rate of 8 percent? 
+
+13  MS. O'CONNELL: Right. Our understanding is 
+
+14 that when -- the Petitioners in this case got a quote 
+for their mortgage loan from Quicken over the phone at a 
+
+16 particular interest rate with no mention of points. 
+
+17 When it came time to pay the settlement charges, they 
+
+18 were charged a loan discount fee, charged points to 
+
+19 procure that particular interest rate. That -- that's 
+something that would have to be figured out on remand, 
+
+21 whether there actually should have been a -- a charge or 
+
+22 whether those points were included in the --
+
+23  JUSTICE SCALIA: I don't know anybody who --
+
+24 any knowledgeable person who applies for a loan, who 
+doesn't ask whether there are any points? I mean, it's 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 standard mortgage practice. And somebody who says I'm going 
+
+2 to get 8 percent? Yes. Eight percent with or without 
+
+3 points? 
+
+4  I mean, that -- I don't think that the mere 
+
+fact that the interest rate was 8 percent means that you 
+
+
+6 can't charge points and that any charging of points is 
+
+
+7 -- is a charge for a service not performed. The service 
+
+
+8 performed is giving you an 8 percent rate. 
+
+
+9  MR. O'CONNELL: Justice Scalia --
+
+
+JUSTICE SCALIA: Now, if she didn't want the 
+
+11 points, she should have -- when it came to the closing, 
+
+12 say what are these points for? The 8 percent is what 
+
+13 you agreed to. And they would have said, well, that 
+
+14 8 percent is the -- is the rate we give when we charge 2 
+
+points. 
+
+16  MS. O'CONNELL: What -- what RESPA is 
+
+17 intended to do is to protect consumers, who often are 
+
+18 not sophisticated on what they're doing in securing a 
+
+19 residential mortgage loan and to make sure that they 
+
+understand what the charges are, and also to ensure that 
+
+21 they receive the charges -- the services for which they 
+
+22 pay at closing. 
+
+23  JUSTICE BREYER: Yes, but that's the 
+
+24 problem. The problem is, look, you are saying this is a 
+
+payment for a service that wasn't given. I think I 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 might say that this is just a lower interest -- a higher 
+
+2 interest rate than they -- than they expected. 
+
+3  Somebody might say you didn't get the 
+
+4 courier service at all. Others might say you got 
+
+service but not the gold-plated service, and the gold 
+
+6 plate was nothing. You see, that's what happens when 
+
+7 you get into a price control statute rather than a 
+
+8 kickback statute. And that is our concern here, I think 
+
+9 at least mine. 
+
+MS. O'CONNELL: Justice Breyer, this case 
+
+11 comes here under the assumption that this was an 
+
+12 unearned fee. If that's something the Court is 
+
+13 concerned about, it's something -- it could still decide 
+
+14 the question presented, and then the -- the lower courts 
+
+could figure that out on remand, whether this was earned 
+
+16 or not. 
+
+17  CHIEF JUSTICE ROBERTS: Thank you, 
+
+18 Ms. O'Connell. 
+
+19  Mr. Hefferon. 
+
+ORAL ARGUMENT OF THOMAS M. HEFFERON 
+
+21  ON BEHALF OF THE RESPONDENT 
+
+22  MR. HEFFERON: Mr. Chief Justice, and may it 
+
+23 please the Court: 
+
+24  In passing RESPA in 1974, Congress was 
+
+stepping into the middle of a primarily local market 
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 controlled by State law. The statute shows that, in 
+
+2 doing so, Congress tread carefully. It did primarily 
+
+3 two things in the area of settlement charges. 
+
+4  First, its major reform was to standardize 
+
+and increase disclosure of charges, including requiring 
+
+6 a written estimate of charges to be given to people 
+
+7 weeks before the closing. That, in fact, was done here. 
+
+8  Second, as RESPA's finding and purposes 
+
+9 section tells us, Congress found that some consumers 
+
+needed particular protection from a particular market 
+
+11 failure. And I'm quoting from section 2601 in the first 
+
+12 page of the blue brief. Quote: "unnecessarily high 
+
+13 settlement charges caused by certain abusive practices 
+
+14 that have developed in some areas of the country." 
+
+Congress identified those as kickbacks and 
+
+16 referral fees. But in 1974, Congress went no farther. 
+
+17 It rejected proposals for direct price regulation which 
+
+18 had been proposed in both House and Senate. Congress 
+
+19 did recognize more legislation might be necessary and 
+
+that price controls might be advisable. And so, it sent 
+
+21 HUD out to do a study and report back. 
+
+22  JUSTICE KAGAN: Mr. Hefferon, if you are 
+
+23 right about subsection (b) and its meaning, what does it 
+
+24 do that subsection (a) does not do? 
+
+MR. HEFFERON: It -- it does two things. 
+
+29
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 First of all, with respect to the transactions that 
+
+
+2 relate to charges actually paid at the closing, it 
+
+
+3 eliminates the need to prove an agreement. All it --
+
+
+4 all it says is that there will be a violation if you 
+
+
+follow the money and the money ends up in the hands --
+
+6  JUSTICE KAGAN: Well, if that's the case, I 
+
+7 mean, why would Congress have done something that says 
+
+8 (a) pursuant to an agreement, (b) not pursuant to an 
+
+9 agreement? Why wouldn't it just have one provision that 
+
+didn't make any reference to an agreement? 
+
+11  MR. HEFFERON: Because (a) covers an entire 
+
+12 universe of things which appear, in many instances, away 
+
+13 from the closing table. For example, an agreement 
+
+14 between an attorney and a developer that the attorney 
+
+says I will do all the title work on the raw land for 
+
+16 this development if you later on send me the closings 
+
+17 when you build on the land and sell the particular 
+
+18 parcels. 
+
+19  If there was no agreement requirement, 
+
+agreement for referral, if that did not appear in (a), 
+
+21 then any relationship between two people in the 
+
+22 settlement service business would be presumptively a 
+
+23 kickback. And so, you had to have that. 
+
+24  JUSTICE SCALIA: Yes, well, (a) -- the 
+
+so-called kickback in (a) is not for services not 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 actually performed. The referral -- the referral is 
+
+2 certainly a service performed to the lender. There's --
+
+3 there's nothing -- what should I say -- unethical about 
+
+4 getting a fee for a referral. It's -- it's called a 
+
+finder's fee. 
+
+6  So, you know, under (a) a finder's fee is --
+
+7 is made unlawful, right? 
+
+8  MR. HEFFERON: That's correct. Congress has 
+
+9 decided that that is not something that should be 
+
+compensable as part of real estate business. 
+
+11  JUSTICE SCALIA: And under (b), something 
+
+12 quite different, and that is giving money to somebody 
+
+13 who performs no service at all is made unlawful. And 
+
+14 for that, you don't need an agreement, right? 
+
+MR. HEFFERON: That's correct. You don't 
+
+16 need to prove one. I think all parties here --
+
+17  JUSTICE SOTOMAYOR: Counsel, under your 
+
+18 reading, as I understand it, the words "portion, split, 
+
+19 or percentage" means an amount less than the whole? 
+
+MR. HEFFERON: That's correct. 
+
+21  JUSTICE SOTOMAYOR: So, what happens if a 
+
+22 service provider gives 100 percent to the other side, as 
+
+23 opposed to a -- an amount less than the whole? 
+
+24  MR. HEFFERON: We don't believe that it is 
+
+covered by section 8(b). In most -- in section 2607(b). 
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 In most instances, it would probably be provable as a 
+
+
+2 kickback under 2607(a) since, in normal circumstance, 
+
+
+3 one doesn't give all of one's fee away unless there's 
+
+
+4 something else going on, typically in this instance a 
+
+
+referral. 
+
+6  JUSTICE SOTOMAYOR: But that -- does that 
+
+7 make much sense that if you give one meaning -- if you 
+
+8 stay consistent with your meaning, what you're saying is 
+
+9 a situation where the service provider gives away 
+
+everything, 100 percent, they're just not liable under 
+
+11 (b)? 
+
+12  MR. HEFFERON: That --
+
+13  JUSTICE SOTOMAYOR: If they give away 1 
+
+14 percent, they -- if they keep 1 percent, they're liable. 
+
+MR. HEFFERON: That's correct. Again, 
+
+16 Congress was trying to take a measured step here because 
+
+17 it was for the first time stepping into this local 
+
+18 market. Congress left State law remedies alone. And in 
+
+19 fact, the preemption provision --
+
+JUSTICE SOTOMAYOR: Is there -- Judge 
+
+21 Higginbotham, in his dissent, said there is a big 
+
+22 difference between unearned fees and overcharge fees. 
+
+23 He said unearned fees, in their simplest form, is no 
+
+24 service whatsoever. Overcharges are some service but an 
+
+excessive value. 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  What's wrong with that definition? Why is 
+
+2 that definition unworkable in terms of limiting and 
+
+3 defining this statute? 
+
+4  MR. HEFFERON: If the Court would find that 
+
+"portion, split, or percentage" covers 100 percent, then 
+
+6 we would agree with Judge Higginbotham that it would --
+
+7 that a -- liability would not go any further than a 
+
+8 situation where the person performed no services 
+
+9 whatsoever for a fee. 
+
+JUSTICE SCALIA: Is this 100 percent 
+
+11 thing -- is this a real problem that Congress was 
+
+12 addressing? Do you know of any 100 percent kickbacks or 
+
+13 100 percent payments to somebody else for services not 
+
+14 performed as opposed to just keeping part and giving the 
+
+rest? 
+
+16  MR. HEFFERON: In fact --
+
+17  JUSTICE SCALIA: Isn't that enough reason 
+
+18 for its not being addressed, that it's not a real 
+
+19 problem? 
+
+MR. HEFFERON: And, Justice Scalia, there's 
+
+21 no indication that we are aware of in the legislative 
+
+22 history that such a thing was happening. What 
+
+23 Congress --
+
+24  JUSTICE SOTOMAYOR: You think not? How 
+
+about with subsidiaries? Wasn't it common practice --
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 isn't it common practice that subsidiaries are often 
+
+2 receiving parts of the payments because then they 
+
+3 become -- they come out of the gross income of the major 
+
+4 parent? 
+
+MR. HEFFERON: It's -- it is a -- it is a 
+
+6 common arrangement if those subsidiaries are rendering 
+
+7 services in connection with the real estate settlement 
+
+8 service. 
+
+9  JUSTICE SOTOMAYOR: So, why isn't it a 
+
+potential common practice that they're getting 
+
+11 100 percent of something they didn't do? 
+
+12  MR. HEFFERON: Again, there's no 
+
+13 indication --
+
+14  JUSTICE SOTOMAYOR: If they're rendering --
+
+if they're already rendering services? 
+
+16  MR. HEFFERON: There's no indication in the 
+
+17 legislative history that that type of conduct was going 
+
+18 on, and Congress was specifically identifying kickbacks 
+
+19 and referral fees, which it referred to, for example, as 
+
+rebates and commissions, unearned commissions. And the 
+
+21 type of conduct which Congress meant to address was set 
+
+22 forth in this statute and in the legislative history. 
+
+23 And it, of course, deputized HUD to do a study to see if 
+
+24 more needed to be done. It recognized that full 
+
+payments may implicate the issue of rate setting and 
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that perhaps that's something that should be done, but 
+
+2 it wasn't going to be done at this point. 
+
+3  JUSTICE GINSBURG: Then why is the statute 
+
+4 labeled, titled, "Prohibition Against Kickbacks" --
+
+that's one thing -- "and Unearned Fees"? What -- how do 
+
+6 you -- what does "unearned fees" refer to in the title 
+
+7 of 2607? 
+
+8  MR. HEFFERON: Well, Congress made the 
+
+9 decision at the time, as Justice Scalia pointed out, 
+
+that -- that a fee for a referral is -- is not properly 
+
+11 earned. And the -- the definition for the entire 
+
+12 section, the title, is "Kickbacks and Unearned Fees." 
+
+13 That refers to the entire section, (a) and (b). All 
+
+14 agree that 2607(b) frequently is -- is implicated if 
+
+there is a kickback. So, it can't be that the first 
+
+16 word applies only to (a) and the second word only to 
+
+17 (b). 
+
+18  CHIEF JUSTICE ROBERTS: So, you think there 
+
+19 could be an earned kickback. 
+
+MR. HEFFERON: There could be -- there could 
+
+21 be an earned kickback if Congress was willing to accept 
+
+22 the principle that it's okay to earn money for a 
+
+23 referral. That -- Congress rejected it, rejected the 
+
+24 principle that it's okay to get a -- to pay a kickback. 
+
+CHIEF JUSTICE ROBERTS: If it's okay to get 
+
+35
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 money for a referral, what type of kickback is not okay? 
+
+2  MR. HEFFERON: Well, it's -- let me be 
+
+3 clear. Congress made the policy decision it is not okay 
+
+4 to pay a kickback or any money in order to get a pure 
+
+referral and, therefore, said that in section (a) and 
+
+6 section (b) it is not proper to do that. 
+
+7  JUSTICE SCALIA: It made the decision that a 
+
+8 finder's fee in this area, although in all other areas 
+
+9 is perfectly okay, but a finder's fee in this area is a 
+
+kickback. 
+
+11  MR. HEFFERON: That's correct. 
+
+12  JUSTICE SOTOMAYOR: Counsel, if your reading 
+
+13 of the language is not plain, if there is two ways to 
+
+14 read this statute, give me your best reason for why the 
+
+policy statement should not be given deference. 
+
+16  I know you said because it didn't go through 
+
+17 notice and -- through notice; but outside of that, why 
+
+18 isn't this a HUD interpretation that the statute tells 
+
+19 us HUD can do, an interpretation of the statute? We can 
+
+argue about whether it's an interpretation of regulation 
+
+21 X or not, but why wouldn't it be entitled to deference? 
+
+22  MR. HEFFERON: It certainly is an 
+
+23 interpretation of the statute. We agree with that. And 
+
+24 HUD is given the authority -- now the bureau, previously 
+
+HUD, is given authority to interpret the statute. 
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  In this instance, there's not a -- the 
+
+2 policy statement should not be due special deference for 
+
+3 several reasons. First of all, it's incomplete. It 
+
+4 purports to be an interpretation of this statute, and it 
+
+only touches very briefly and very generally on the 
+
+6 language. All the words that we have all spent a lot of 
+
+7 time working on in this case -- HUD says very little 
+
+8 about that. And it is -- also it doesn't --
+
+9  JUSTICE SOTOMAYOR: Well, the Seventh 
+
+Circuit had said a lot different, and HUD came back --
+
+11 and invited HUD to do something, and HUD came back and 
+
+12 said you read it that way; we think this is a better 
+
+13 reading. 
+
+14  What more do we need from an agency? 
+
+MR. HEFFERON: Because it -- it did not 
+
+16 treat the subject with the kind of depth that you would 
+
+17 expect or that this Court would want in terms of --
+
+18  JUSTICE KAGAN: Well, Mr. Hefferon, I don't 
+
+19 think that that's true, that -- we defer to agencies, 
+
+not because we think that agencies do statutory 
+
+21 interpretation in exactly the way courts do. We 
+
+22 actually defer to agencies because we think they provide 
+
+23 something different, not because they're the best parser 
+
+24 of statutory language, but because when they see 
+
+ambiguity, they're able to import policy judgments into 
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that ambiguity. And that seems to me exactly what the 
+
+2 agency did here. 
+
+3  MR. HEFFERON: What the agency did on that 
+
+4 point is it simply said that if one construes it the way 
+
+they would like to construe it, it would address the 
+
+
+6 concern that Congress had for unnecessarily high 
+
+
+7 settlement charges. It provided no empirical or 
+
+
+8 experiential explanation for why that was the case. 
+
+
+9 Didn't say that this type of practice was going on; 
+
+
+didn't say that the interpretation was going to address 
+
+11 it. Furthermore, it didn't deal with the fact that its 
+
+12 interpretation also was going to sweep in price control 
+
+13 and what effect that would be. 
+
+14  In other words, the agency did not -- did 
+
+not do the types of things that would cause this Court 
+
+16 to defer to it. 
+
+17  JUSTICE SOTOMAYOR: In essence --
+
+18  JUSTICE SCALIA: When an agency is 
+
+19 construing a criminal statute, a statute providing for 
+
+criminal penalties, do you think the agency is 
+
+21 constrained to apply the rule of lenity and to assume 
+
+22 that if there is ambiguity, it should be interpreted in 
+
+23 favor of the defendant? 
+
+24  MR. HEFFERON: Yes, Your Honor, because 
+
+the -- this is a criminal statute, and it is 
+
+38
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 particularly difficult, it seems -- it seems to us, to 
+
+
+2 give the policy statement deference because in order to 
+
+
+3 get to the policy statement, you have to assume the 
+
+
+4 statute's ambiguous and then assume the regulation's 
+
+
+ambiguous, and then you get to the -- the policy 
+
+
+6 statement. It would be appropriate for this Court to 
+
+
+7 impress upon the agency to be quite clear and to be 
+
+
+8 quite solicitous of defendants' rights to make sure that 
+
+
+9 it doesn't interpret this statute broader than what --
+
+
+JUSTICE BREYER: Well, in 1992, they promulgated 
+
+11 the regulation, which is the strongest argument I think 
+
+12 on the other side. It's a strong argument. Have you --
+
+13 has anybody looked at that notice-and-comment 
+
+14 proceeding? Have you looked at it? 
+
+MR. HEFFERON: We absolutely have, Your 
+
+16 Honor. 
+
+17  JUSTICE BREYER: All right. If you have, do 
+
+18 they go into this point, a point about -- the point 
+
+19 being this is a kickback statute? It isn't an 
+
+overcharge price regulation statute. Therefore, 
+
+21 promulgating a regulation that makes it a crime, a 
+
+22 Federal crime, to overcharge, which is what the 
+
+23 regulation says, is outside the scope of the statute. 
+
+24  Now, did someone make that argument? If so, 
+
+I'd like to be able to read it, and I'd like to be able 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 to see what the agency said in response. 
+
+
+2  MR. HEFFERON: Justice Breyer, the 
+
+
+3 regulatory history around this section, which is in 
+
+
+4 regulation X, is actually quite interesting and quite 
+
+
+favorable to -- to the reading the Fifth Circuit gave to 
+
+6 the statute. The regulation does appear in 15a and 16a 
+
+7 of the blue brief. 
+
+8  When it was proposed, there was no 
+
+9 discussion whatsoever that suggested that HUD was going 
+
+to actually legislate or regulate about the statute. It 
+
+11 merely -- at the time it was proposed, the regulation 
+
+12 was going to be to recite section 2607(b), and that's 
+
+13 it. It referred to the section as being a fee-splitting 
+
+14 section. 
+
+When the final rule was issued, there were 
+
+16 three additional sentences added in this part of the 
+
+17 regulation. There was no explanation for those three 
+
+18 sentences, with the exception of HUD's general 
+
+19 comment that it made other changes in this part of this 
+
+regulation in order to address what services --
+
+21  JUSTICE BREYER: So, you would say -- is 
+
+22 it --
+
+23  JUSTICE SOTOMAYOR: Counsel, I'm sorry. May 
+
+24 I just --
+
+MR. HEFFERON: Sure. 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SOTOMAYOR: -- correct you on that? 
+
+2 Didn't HUD in that preamble say explicitly, "The 
+
+3 Secretary, charged by statute with interpreting RESPA, 
+
+4 interprets 18(b) to mean that two persons are not 
+
+required"? It says that explicitly. 
+
+
+6  MR. HEFFERON: It says that in the policy 
+
+
+7 statement. That's correct. 
+
+
+8  JUSTICE SOTOMAYOR: Not in the policy 
+
+
+9 statement; in the preamble to regulation X. 
+
+
+MR. HEFFERON: In the --
+
+11  JUSTICE SOTOMAYOR: In -- in 1996. I 
+
+12 thought that was the final rulemaking you were talking 
+
+13 about, because it didn't do rulemaking with respect to 
+
+14 the policy statement. 
+
+MR. HEFFERON: That's correct. The 1992 
+
+16 regulation is entitled "No split of charges other than 
+
+17 for actual services." And so, we read the regulation 
+
+18 and believe HUD at the time read the regulation as, 
+
+19 again, merely repeating the idea that this was -- this 
+
+section was a limited section consistent with 
+
+21 Congress's --
+
+22  JUSTICE BREYER: Is this a fair statement in 
+
+23 your view -- and we'll hear theirs on rebuttal -- that in 
+
+24 respect to the 1992 regulation, there is a sentence 
+
+which says, "A charge by a person for which ... nominal 
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 services are performed ... is an unearned fee and 
+
+2 violates this section"? All right? I've ellipsed part. 
+
+3  All right. Now, it says that. And that 
+
+4 later on is taken as being: This statute is a -- to 
+
+that extent, a price regulation statute. 
+
+
+6  Is it fair to say that notice of such a 
+
+
+7 regulation was not given? 
+
+
+8  MR. HEFFERON: Absolutely correct, 
+
+
+9 Justice Breyer. Notice was not given that that was 
+
+
+going to be put into the regulation. And as this Court 
+
+11 noted in Long Island Care at Home --
+
+12  JUSTICE BREYER: Was comment received in 
+
+13 respect to that? 
+
+14  MR. HEFFERON: I don't know whether -- I 
+
+don't know comment was received or not. There was no 
+
+16 indication in the final rule when it discussed comments 
+
+17 that that issue was commented upon. 
+
+18  CHIEF JUSTICE ROBERTS: What -- you were you 
+
+19 about to tell us what we said in Long Island Home. 
+
+MR. HEFFERON: In Long Island Care at Home, 
+
+21 the Court merely repeated in particular statements made 
+
+22 in Chevron and Mead that, among other things, a 
+
+23 regulation cannot get deference unless it -- if it is 
+
+24 procedurally defective. And in this instance -- and it 
+
+talked about the fact that a circumstance sometimes 
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 arises when a notice of proposed rule doesn't give the 
+
+2 public a notice that there's going to be something 
+
+3 happening; so, there's no -- there's no comments given 
+
+4 on a particular subject. 
+
+And, in this instance, that's precisely what 
+
+6 occurred, which is one reason why regulation X should 
+
+7 not get special deference from this Court. 
+
+8  JUSTICE SOTOMAYOR: But I'm not sure. 
+
+9 Congress didn't say that HUD could only give 
+
+interpretations through rules. It said it could give 
+
+11 rules, pass rules and regulations, and give 
+
+12 interpretations. So, what's the procedural defect in it 
+
+13 just giving an interpretation? 
+
+14  MR. HEFFERON: Well, there's not a 
+
+procedural defect. The issue is really a question of 
+
+16 how much deference to give the agency when it 
+
+17 gives the interpretation. 
+
+18  JUSTICE SOTOMAYOR: We go back to whether 
+
+19 the -- whether the policy -- whether the statute is 
+
+ambiguous or not. 
+
+21  MR. HEFFERON: Correct, as well as if it is, 
+
+22 whether one gives Chevron deference. 
+
+23  JUSTICE SOTOMAYOR: And what I'm trying to 
+
+24 figure out is what's the deficiency in the policy 
+
+statement that's independent of the ambiguity you rely 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 upon. 
+
+2  MR. HEFFERON: What it is, is it is 
+
+3 incomplete; it doesn't give a -- an effective statutory 
+
+4 analysis. It doesn't really give any effective policy 
+
+analysis. It is also inaccurate in that it attempts to 
+
+6 recount that this is a -- a reading which is of long 
+
+7 standing, when we believe -- and we cite in the -- in 
+
+8 the red brief, we believe it's not. 
+
+9  JUSTICE SOTOMAYOR: Well, it says it's 
+
+longstanding for it. 
+
+11  MR. HEFFERON: It attempts to explain why it 
+
+12 is a finding -- a ruling of long standing, and we point 
+
+13 out examples in the red brief where it isn't a finding of 
+
+14 -- an interpretation of long standing. 
+
+CHIEF JUSTICE ROBERTS: Which -- putting 
+
+16 aside the notice-and-comment point, which I think is at 
+
+17 least ambiguous, which of our cases stands for the 
+
+18 proposition that whether or not we give Chevron 
+
+19 deference depends on the thoroughness with which the 
+
+agency addressed an issue, rather than simply an 
+
+21 announcement of its interpretation? 
+
+22  MR. HEFFERON: I believe that that was -- I 
+
+23 believe that that was a factor that the Court looked at 
+
+24 in Long Island Care at Home. But the -- the question 
+
+for the Court in this instance is, should it give this 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 policy statement deference? If it doesn't qualify for 
+
+2 Chevron deference, then the question is, does it have 
+
+3 the power to persuade? Part of the power to persuade is 
+
+4 its thoroughness; as Skidmore itself says, the detail in 
+
+which it addresses things, how it addresses arguments on 
+
+6 the other side, and what it says about those arguments. 
+
+7  JUSTICE SCALIA: But you concede that if we 
+
+8 give it Chevron deference, you lose? 
+
+9  MR. HEFFERON: On the policy statement? 
+
+JUSTICE SCALIA: No, on -- the case. If we 
+
+11 give either the policy statement or the rule Chevron 
+
+12 deference, you lose. Is that right? 
+
+13  MR. HEFFERON: If the Court also then finds 
+
+14 that it's deserving of Chevron deference, that's 
+
+correct. 
+
+16  JUSTICE SCALIA: Ah. You want to talk to 
+
+17 that? 
+
+18  MR. HEFFERON: Oh, sure. 
+
+19  (Laughter.) 
+
+JUSTICE SCALIA: We don't give deference to 
+
+21 interpretations that are beyond the limits of what the 
+
+22 language will bear, do we? 
+
+23  MR. HEFFERON: That -- that's absolutely 
+
+24 correct. And it -- it would be quite an odd result for 
+
+this Court to find that the policy statement effected 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 some kind of price control direct rate regulation regime 
+
+2 when that was specifically rejected by Congress in 1974. 
+
+3  JUSTICE SOTOMAYOR: Counsel, I'm a little 
+
+4 confused. Under your interpretation or theirs, the 
+
+court gets involved in determining whether fees, 
+
+6 services were rendered. I mean, it's not as if your 
+
+7 interpretation is going to keep the court out of that 
+
+8 business. To be able to find a kickback, the court has 
+
+9 to determine whether services were rendered or not. So, 
+
+what's the difference in that inquiry when it involves a 
+
+11 kickback and when it involves a -- a single provider? 
+
+12  In a kickback situation, the court has to 
+
+13 decide whether there was actually a service rendered 
+
+14 that entitled the person to a percentage or not, 
+
+correct? 
+
+16  MR. HEFFERON: That's correct. 
+
+17  JUSTICE SOTOMAYOR: So, what's the 
+
+18 difference between deciding that question and deciding 
+
+19 that the -- the one individual provided a service? 
+
+MR. HEFFERON: We agree that in each 
+
+21 instance, the court would have to make a factual 
+
+22 determination. But it comes back to what Congress 
+
+23 intended in 1974. It specifically identified that it 
+
+24 was attempting to address certain abusive practices that 
+
+had arisen in some areas. 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SOTOMAYOR: And it listed, as 
+
+2 Justice Ginsburg said, unearned fees. Why would it 
+
+3 matter to Congress? Give me a reason that it would 
+
+4 matter to Congress whether the unearned fee was by one 
+
+person in a dual relationship or a single person alone? 
+
+6 The issue was unearned fees, rendering -- charging for a 
+
+7 service you didn't render. That's what the whole 
+
+8 kickback idea was about, correct? 
+
+9  MR. HEFFERON: That's with respect to 
+
+settlement service providers. 
+
+11  JUSTICE SCALIA: Could you complete your 
+
+12 earlier answer? I was just waiting for your point, and 
+
+13 it never came. 
+
+14  MR. HEFFERON: On the question of whether or 
+
+not to provide Chevron -- actually provide deference, if 
+
+16 Chevron was applicable? If Chevron's applicable to the 
+
+17 policy statement, the policy statement does not deserve 
+
+18 Chevron deference because it is an irrational reading of 
+
+19 the statute. The statute does not cover the kinds of 
+
+direct regulation that the policy statement suggests 
+
+21 that it covers. 
+
+22  JUSTICE KAGAN: Mr. Hefferon, you might be 
+
+23 right that we never get to Chevron deference here 
+
+24 because the statute is plain on its face, and there's no 
+
+ambiguity for the -- the agency to think or do anything 
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 about. But let's just assume that there is ambiguity on 
+
+2 the statute, and the question is whether to provide this 
+
+3 interpretation with Chevron deference. 
+
+4  So, then, what's your argument for why there 
+
+should be no Chevron deference to this interpretation, 
+
+6 given that the statute under which this interpretation 
+
+7 was promulgated refers identically to regulations and 
+
+8 interpretations as something that HUD gets to do? 
+
+9  MR. HEFFERON: Well, the statute does give 
+
+HUD interpretive authority, but in this instance, what 
+
+11 it is doing -- in fact, it's not quite clear what words 
+
+12 it is interpreting in a way, trying -- trying to 
+
+13 interpret the words and any vague aspects of the 
+
+14 words -- is not a gap-filling situation that we're 
+
+talking about. 
+
+16  Congress reasonably in this statute, as well 
+
+17 as in the Truth in Lending Act, provided that the agency 
+
+18 would have interpretive authority. A lot of what this 
+
+19 agency was going to be doing with respect to this 
+
+statute is filling a lot of gaps. It's going to create 
+
+21 the special information booklet. It's going to create 
+
+22 these forms that I've referred to. 
+
+23  JUSTICE SCALIA: Doesn't any agency have 
+
+24 interpretive authority regarding the statute it's 
+
+implementing? 
+
+48
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. HEFFERON: That's correct --
+
+
+2  JUSTICE SCALIA: Is there agency that 
+
+
+3 doesn't? 
+
+
+4  MR. HEFFERON: Well, certainly, most 
+
+
+agencies would think --
+
+6  JUSTICE SCALIA: Does it have to be 
+
+7 specifically conferred? 
+
+8  MR. HEFFERON: I don't believe it has to be 
+
+9 specifically conferred. 
+
+JUSTICE SCALIA: Is it at all increased when 
+
+11 it's specifically conferred? 
+
+12  MR. HEFFERON: I don't believe the Court's 
+
+13 precedents suggest that it's increased if Congress has 
+
+14 gone the next step to actually say you have the 
+
+authority to interpret the statute. The question is, 
+
+16 for purposes of -- of deference, is what is the 
+
+17 question? The question that HUD sometimes -- if HUD is 
+
+18 deciding what form should go on the form, then that's 
+
+19 interstitial lawmaking, and that's certainly something 
+
+that might get more deference than if the question is 
+
+21 interpreting the legal effect of these words that appear 
+
+22 in 2607(b). It is not -- it's not a definition; they're 
+
+23 not purporting to apply a definition; they're not 
+
+24 filling a gap. 
+
+And so, this is -- this is not where you 
+
+49
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 would look towards a Chevron deference. But Congress is 
+
+
+2 not expecting that -- that HUD would -- after it has 
+
+
+3 decided not to allow direct regulation of charges, that 
+
+
+4 HUD would nonetheless try to do it through the back door 
+
+
+through the interpretative --
+
+6  JUSTICE BREYER: All right. 
+
+7  JUSTICE KAGAN: Now that's just a way of saying 
+
+8 that there's no ambiguity here. But I was suggesting 
+
+9 that if there is ambiguity here, I -- at least I have 
+
+not found a reason not to give HUD deference in this 
+
+11 situation. I mean, you say they didn't do a very good 
+
+12 job. But we don't usually grade agencies like that, and 
+
+13 say, well, you didn't do a very good job; so, you're not 
+
+14 entitled to Chevron deference. 
+
+MR. HEFFERON: The nature of the question 
+
+16 that HUD's addressing is interpreting the legal --
+
+17 basically giving a legal interpretation of the statute. 
+
+18 It doesn't really purport to give a policy 
+
+19 interpretation of the statute because it simply refers 
+
+to – it is a passing reference. 
+
+21  JUSTICE SCALIA: We give deference to legal 
+
+22 interpretations all the time. 
+
+23  MR. HEFFERON: But it is a -- it is -- the 
+
+24 question of what the Congress intended, whether --
+
+whether they intended HUD to be giving the 
+
+50
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 interpretation or filling a gap, or whether it was 
+
+2 simply giving guidance. It --
+
+3  JUSTICE SCALIA: I have no idea. What --
+
+4 I'm supposed to psychoanalyze Congress in every Chevron 
+
+case? 
+
+6  MR. HEFFERON: HUD issued the policy 
+
+7 statement as a guidance document. 
+
+8  JUSTICE BREYER: That's -- no, no. That's a 
+
+9 good question, and your problem is different people feel 
+
+differently about the answer. So, the -- which is why 
+
+11 from my perspective --- and perhaps you're only 
+
+12 answering a question for me and no one else has it --
+
+13 but I would be pretty interested to know whether when 
+
+14 you looked at the legislative history of this, what you 
+
+discovered was a lot of complaints about consumers 
+
+16 paying for things they didn't get, period. Which favors 
+
+17 HUD's interpretation. 
+
+18  Or whether you see a whole long list of 
+
+19 complaints about consumers having to pay referral fees, 
+
+where that's just one person taking advantage of another 
+
+21 person's business. I would -- I think it would be 
+
+22 relevant. And then if you've looked at all this, which 
+
+23 you could tell me you haven't -- I will try to -- but 
+
+24 what do you find? 
+
+MR. HEFFERON: Your Honor, you actually 
+
+51
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 don't find either. What you find is complaints about 
+
+2 providers doing things between each other and a 
+
+3 recognition that, ultimately, the consumers perhaps 
+
+4 unknowingly are being harmed by that. The Senate Report 
+
+and House Report both described that in great detail. 
+
+6 We're talking about rebates, commissions, unearned 
+
+7 commissions, and kickbacks and referral fees. 
+
+8  That's what Congress identified in 2601 as 
+
+9 the "certain abusive practices" that had arisen in some 
+
+areas of the country. This was not meant to be a 
+
+11 panacea. State law remedies stayed in place. And, in 
+
+12 fact, if you look at most of the court of appeals cases 
+
+13 that give rise to these -- this circuit split, they all 
+
+14 also bring a claim under State law, whether it's fraud 
+
+or contract or unjust enrichment. 
+
+16  That only drives the point home that it's 
+
+17 not irrational for Congress to have decided, when it was 
+
+18 taking a step into this area for the first time, to 
+
+19 actually legislate an important area, but not go all the 
+
+way, and instead leave other remedies in place. And 
+
+21 that's what the proper reading of this statute should 
+
+22 be. That's the reading the Fifth Circuit gave it as 
+
+23 well. 
+
+24  JUSTICE GINSBURG: Did you give a complete 
+
+answer to the question what does (b) cover that (a) does 
+
+52
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 not? So, one suggestion that's made is, well, you 
+
+
+2 didn't -- if all this statute has to do -- do with is 
+
+
+3 kickbacks, then all you need is (a), and there's no 
+
+
+4 necessity for (b). You said one thing is contract, 
+
+
+proving a contract, and not -- is there anything else? 
+
+6  MR. HEFFERON: Thank you, Justice Ginsburg. 
+
+7 Actually, I didn't give a complete answer now that I 
+
+8 recall. It does cover -- the best example is the 
+
+9 classic reason why the -- this section was put in, in 
+
+the first place, why it was proposed; and that would be 
+
+11 an unearned commission. Title insurance companies at 
+
+12 the time would enter into commission agreements with 
+
+13 agents where the agent would get 10 percent of the title 
+
+14 premium; in exchange, the agent would do the title work. 
+
+In a situation -- if the title agent in fact 
+
+16 didn't do the title work, it would be receiving an 
+
+17 unearned fee, that is, part of the title insurance 
+
+18 commission, for no work. And that, however, would not 
+
+19 normally be covered under (a) because the agreement, the 
+
+underlying agreement to give the commission was not to 
+
+21 refer business; it was actually to do some of the title 
+
+22 work. 
+
+23  So, that situation would be covered, but 
+
+24 most situations, as I think all parties agree, this 
+
+statute is -- is typically a kickback. It just simply 
+
+53
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 removes the agreement requirement. 
+
+2  JUSTICE SCALIA: And under -- under (b), 
+
+3 there doesn't have to be an agreement to pay -- under 
+
+4 (b) there doesn't have to be an agreement to pay the 
+
+title company for no work. It's just if it's a -- if 
+
+6 it's a refinancing and the title company did the same 
+
+7 title search, you know, 2 years ago, it says, heck, I'm 
+
+8 not going to do it again, but it still gets the 10 
+
+9 percent, right? 
+
+MR. HEFFERON: That's correct. 
+
+11  JUSTICE SCALIA: Even though there's no 
+
+12 agreement to pay it for no work. 
+
+13  MR. HEFFERON: That's correct. 
+
+14  So, in sum, the elements of the Fifth 
+
+Circuit's interpretation are all supportive of our view, 
+
+16 that is, that the language, the structure, the context, 
+
+17 and the history of this statute all show that it is 
+
+18 important, but it's limited; and it does not address 
+
+19 direct charges made by lenders. And the Fifth Circuit 
+
+had it right. 
+
+21  JUSTICE SOTOMAYOR: I'm sorry. Could you go 
+
+22 back to Justice Scalia's question? If a -- if a bank 
+
+23 has an appraisal fee from the past and decides I don't 
+
+24 need a new one, but still charges you for an appraisal 
+
+fee, would that violate the statute? 
+
+54
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. HEFFERON: If the -- I think the 
+
+2 question was in the context of the title agent doing the 
+
+3 title work. If an appraiser was charging -- was 
+
+4 charging the consumer directly and not doing the work, 
+
+it would not violate the statute, again, because the 
+
+6 statute requires two providers. 
+
+7  JUSTICE SOTOMAYOR: Or if the bank charged 
+
+8 you for a title search that it did? 
+
+9  MR. HEFFERON: If -- if the bank arranged --
+
+JUSTICE SOTOMAYOR: If it had one already? 
+
+11  MR. HEFFERON: If the bank arranged for a 
+
+12 title searcher to do title work, and then the bank 
+
+13 charged the consumer, and then it split the charge with 
+
+14 the title searcher --
+
+JUSTICE SOTOMAYOR: No, no. So, going back 
+
+16 to Justice Scalia's question, if the provider decides 
+
+17 I'm going to use what I had before, I'm not going to 
+
+18 redo the work, but still charges you a second time, 
+
+19 they're not liable under your reading of the statute? 
+
+MR. HEFFERON: Not under 2607(b) and perhaps 
+
+21 under --
+
+22  JUSTICE SCALIA: They'd be liable under 
+
+23 State law, I assume --
+
+24  MR. HEFFERON: State law. That's --
+
+JUSTICE SCALIA: -- for fraud, wouldn't 
+
+55
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 they. 
+
+2  MR. HEFFERON: I would assume so. That's 
+
+3 correct. 
+
+4  JUSTICE SCALIA: Yes. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+6  MR. HEFFERON: If there are no other 
+
+7 questions, thank you. 
+
+8  CHIEF JUSTICE ROBERTS: Mr. Russell, you 
+
+9 have 5 minutes. 
+
+REBUTTAL ARGUMENT OF KEVIN K. RUSSELL 
+
+11  ON BEHALF OF THE PETITIONERS 
+
+12  MR. RUSSELL: Thank you. 
+
+13  Justice Breyer, you had asked why Congress 
+
+14 would engage in a statute that gets at overcharges and 
+
+has a rate regulation kind of thing, which is very 
+
+16 unusual, and I agree it's unusual. That's a reason to 
+
+17 read this statute not to do that, to only get at truly 
+
+18 unearned fees, which are the equivalent of fraudulent 
+
+19 fees, which the law does forbid pervasively. In this 
+
+case, Congress --
+
+21  JUSTICE BREYER: Once you say that, you're 
+
+22 -- you're outside the reg. I mean, when you read the 
+
+23 reg and the policy statement, it's pretty clear what 
+
+24 they are thinking of. 
+
+MR. RUSSELL: No, to be --
+
+56
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE BREYER: And the policy statement is 
+
+2 even clearer. What they are thinking of is overcharges, 
+
+3 period. 
+
+4  MR. RUSSELL: No, I don't think that's 
+
+correct. 
+
+6  JUSTICE BREYER: No? 
+
+7  MR. RUSSELL: I think that there was a 
+
+8 two-step analysis. The first step is they decided that 
+
+9 split fees are not the only thing that the statute gets 
+
+at. And then -- but this -- an unsplit fee still has to 
+
+11 be unearned, and they had a separate interpretation of 
+
+12 what it means for a fee to be unearned. 
+
+13  JUSTICE GINSBURG: Where do you get --
+
+14  MR. RUSSELL: At any rate --
+
+JUSTICE GINSBURG: Where is that in the 
+
+16 policy statement? The difference between unearned 
+
+17 and --
+
+18  MR. RUSSELL: It's towards the end where 
+
+19 they enumerate the different kinds of unearned fees. 
+
+JUSTICE BREYER: It's right here. It's on 
+
+21 -- it's on 53,057. And what they're explaining is that, 
+
+22 and they're talking about a third situation, and they 
+
+23 say one settlement service provider charges a fee to a 
+
+24 consumer where no work is done, or the fee exceeds the 
+
+reasonable value of the services performed by that 
+
+57
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 provider. 
+
+2  MR. RUSSELL: That's correct. They are --
+
+3  JUSTICE BREYER: And so, if it exceeds the 
+
+4 reasonable value of the services performed by that 
+
+provider, you have to say what is the reasonable value 
+
+6 of the services performed by that provider. And that 
+
+7 involves the agency in the job of deciding what's a fair 
+
+8 or just price for this particular service. 
+
+9  MR. RUSSELL: I'm not -- I'm not disagreeing 
+
+with you about that. They list four different -- or 
+
+11 three or four different kinds of charges that could be 
+
+12 unearned. You don't have to agree with them with 
+
+13 respect to each of those things, about --
+
+14  JUSTICE BREYER: No, but what I'm doing 
+
+there, you see, is now I'm trying to make sense out of 
+
+16 an agency interpretation which is other than what it 
+
+17 says, where what they're trying to do is to change the 
+
+18 nature of the statute from a kickback statute into a 
+
+19 statute that protects consumers across the board from 
+
+paying for things they don't get. 
+
+21  MR. RUSSELL: Well, I would --
+
+22  JUSTICE BREYER: Now, that's where I'm sort 
+
+23 of interested in what the legislative history said, et 
+
+24 cetera, et cetera. It's much more complicated than I 
+
+thought coming in. I have to look at a lot of things. 
+
+58
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. RUSSELL: Sure. What Congress said its 
+
+2 purpose was, was to get at abusive practices that 
+
+3 unnecessarily increase the costs of settlement. What --
+
+4 the legislative history was focused on kickbacks, but 
+
+there were examples in the HUD/VA report, at page 16 of 
+
+6 that report, and in the Washington Post articles about 
+
+7 markups that are a form of undivided, unearned fee. 
+
+8  Congress knew -- subsequent to the passage 
+
+9 of this statute, HUD has frequently found and reported 
+
+to Congress incidents of unearned fees, including those 
+
+11 involving loan discount fees. And the States -- 21 
+
+12 States have filed a brief in this case telling you that 
+
+13 there is a pervasive problem with settlement closings 
+
+14 included padded charges for things that were never 
+
+performed. 
+
+16  With respect to the agency's interpretation, 
+
+17 I would point you particularly to this 1996 rulemaking, 
+
+18 where the agency withdrew an exemption for certain 
+
+19 payments between consumers and providers for the use of 
+
+a particular kind of computer service. That exemption 
+
+21 would have been unnecessary had HUD thought, as Quicken 
+
+22 does, that the statute only regulates transactions 
+
+23 between providers. 
+
+24  And in withdrawing that exemption, HUD 
+
+explained in quite a lot of detail that it rejected 
+
+59
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 specifically that -- the split fee requirement. And so, 
+
+2 I don't think there's any question that they've grappled 
+
+3 with this question and that they've explained why they 
+
+4 think that split fees aren't covered. 
+
+The question ultimately is whether that's a 
+
+6 reasonable conclusion in light of the language of this 
+
+7 statute --
+
+8  JUSTICE BREYER: And then part of that is --
+
+9 you might want to say something about the other part. I 
+
+mean, the purpose of this kind of APA/Chevron stuff is 
+
+11 to prevent agencies, seeing the supreme importance of 
+
+12 their own mission, taking a statute, running with it and 
+
+13 in particular transforming into a criminal law something 
+
+14 that really wasn't much there. 
+
+Now, procedure is important in that. And 
+
+16 that's why I'm very interested in whether -- whether 
+
+17 they gave notice to the public: Dear public, we are 
+
+18 thinking that this is far more than a kickback statute. 
+
+19  MR. RUSSELL: They gave --
+
+JUSTICE BREYER: We would like to hear what 
+
+21 you think about that. 
+
+22  MR. RUSSELL: They gave the public more 
+
+23 notice than the Court found sufficient in Long Island 
+
+24 Care at Home, which is they -- they told the public this 
+
+provision is at issue; we're going to issue an 
+
+60
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+ 
+
+ 
+
+ 
+
+15  
+
+ 
+
+ 
+
+ 
+
+ 
+
+20  
+
+ 
+
+ 
+
+ 
+
+ 
+
+25  
+
+Official 
+
+1 interpretation about it. And they ultimately did. In 
+
+2 Long Island Care, they did the opposite of what they had 
+
+3 proposed to do, and this Court said that was enough. In 
+
+4 this case, and even in 1996, they received comments with 
+
+respect to the case law that said that only splits are 
+
+6 required, and they said we disagree. 
+
+7  CHIEF JUSTICE ROBERTS: Thank you, counsel, 
+
+8 counsel. 
+
+9  The case is submitted. 
+
+(Whereupon, at 11:12 a.m., the case in the 
+
+11 above-entitled matter was submitted.) 
+
+12 
+
+13 
+
+14 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+61
+ 
+Alderson Reporting Company 
+
+
+
+62 
+OfficialOfficial 
+
+60:11 analysis 44:4,5 52:18,19 49:15A 
+agency 3:11,22 57:8 areas 29:14 36:8 avoid 10:14able 37:25 39:25 
+
+4:5 22:10 ANN 1:17 2:6 46:25 52:10 aware 33:2139:25 46:8 
+37:14 38:2,3 18:12 argue 36:20 a.m 1:13 3:2above-entitled 
+38:14,18,20 announcement argues 5:14 61:101:11 61:11 
+39:7 40:1 44:21 arguing 16:6absolutely 39:15 B43:16 44:20 answer 5:10 argument 1:1242:8 45:23 b 14:20 29:2347:25 48:17,19 16:15 47:12 2:2,5,9,12 3:3abusive 29:13 
+
+30:8 31:1148:23 49:2 51:10 52:25 3:7 5:21,25 6:146:24 52:9 
+32:11 35:13,1758:7,16 59:18 53:7 7:22 18:1259:2 
+36:6 52:25agency's 59:16 answerable 28:20 39:11,12accept 11:25 
+53:4 54:2,4agent 15:8 53:13 14:19 39:24 48:414:14 16:20 back 15:7 29:2153:14,15 55:2 answering 51:12 56:1017:1,2 24:13 
+37:10,11 43:18agents 53:13 answers 4:2 arguments 45:524:20 35:21 
+46:22 50:4ago 54:7 anybody 26:23 45:6accepted 25:6 
+54:22 55:15agree 19:2 24:25 39:13 arisen 46:25accepting 3:14 bank 11:12 13:833:6 35:14 anybody's 23:10 52:913:12 18:19 
+13:18,19 19:936:23 46:20 24:10 arises 43:125:10 
+54:22 55:7,953:24 56:16 APA/Chevron arose 6:11acceptor 14:15 
+55:11,1258:12 60:10 arranged 55:925:5 base 7:7agreed 27:13 appeals 5:8 55:11accepts 3:15 basically 50:17agreement 30:3 52:12 arrangement7:17 basis 6:14 22:2530:8,9,10,13 appear 30:12,20 34:6accurate 22:11 
+23:1230:19,20 31:14 40:6 49:21 articles 59:6Act 3:13 15:23 bear 45:2253:19,20 54:1 APPEARAN... aside 44:1616:2 48:17 behalf 2:4,7,1154:3,4,12 1:14 asked 56:13action 20:9 
+2:14 3:8 18:13agreements appendix 15:24 aspect 15:20actions 18:18 
+28:21 56:1153:12 20:7 aspects 48:13actual 41:17 believe 15:22Ah 45:16 applicable 47:16 Assistant 1:17added 40:16 
+22:17 31:24ALITO 17:19 47:16 associated 8:19additional 24:12 
+41:18 44:7,8alleged 10:22 applies 26:24 assume 21:1540:16 
+44:22,23 49:8allow 50:3 35:16 38:21 39:3,4address 7:5 
+49:12ambiguity 21:18 apply 17:5 19:24 48:1 55:2334:21 38:5,10 benefit 21:1721:19 37:25 38:21 49:23 56:240:20 46:24 best 8:10 36:1438:1,22 43:25 apportioning assumption 5:854:18 
+37:23 53:847:25 48:1 8:2 28:11addressed 33:18 better 37:1250:8,9 appraisal 10:21 attempting44:20 beyond 45:21ambiguous 12:6,7,7,12,21 46:24addresses 45:5,5 big 16:19 22:1321:22 39:4,5 14:10,23,24 attempts 44:5addressing 
+22:19,20 32:2143:20 44:17 54:23,24 44:1133:12 50:16 bill 11:14 23:19amended 5:11 appraisals 6:13 attorney 30:14administering blue 7:16 29:127:10 11:9 30:143:12 
+40:7American 22:14 appraiser 10:19 attributableadvantage 51:20 board 58:19amicus 1:19 2:7 55:3 17:23advisable 29:20 booklet 48:2118:14 appropriate authority 3:24agencies 22:15 borrow 4:23amount 23:17 39:6 3:25 36:24,2537:19,20,22 
+5:2331:19,23 area 29:3 36:8,9 48:10,18,2449:5 50:12 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+63 
+Official 
+
+borrowed 5:24 Care 42:11,20 13:14,16 14:22 clearer 57:2 concerned 28:13 
+borrowing 5:22 44:24 60:24 14:23 26:18,18 close 21:1 conclusion 60:6 
+bottom 17:21 61:2 41:3 55:7,13 closing 27:11,22 conduct 34:17 
+
+18:2 carefully 29:2 charges 7:17 29:7 30:2,13 34:21 
+breaks 17:21 case 3:4 5:3,14 12:1 16:3,7 closings 30:16 conferred 49:7,9 
+Breyer 4:17 5:2 5:15,17 6:9,24 26:17 27:20,21 59:13 49:11 
+
+5:18,20 6:25 6:25 10:1,4,19 29:3,5,6,13 collected 18:20 conflict 7:12 
+11:11,22 12:4 11:21 21:24 30:2 38:7 collects 18:23 confused 46:4 
+12:10,18,22,25 22:23,23 24:7 41:16 50:3 come 34:3 Congress 3:11 
+13:3,8,17,22 25:25 26:2,14 54:19,24 55:18 comes 28:11 5:10 6:1 7:10 
+14:3,7 18:25 28:10 30:6 57:23 58:11 46:22 8:10 15:21 
+19:4,8,13,15 37:7 38:8 59:14 coming 58:25 17:25 18:1 
+19:19 20:4,11 45:10 51:5 charging 13:19 comment 40:19 22:18 28:24 
+20:15,18 22:4 56:20 59:12 21:13 27:6 42:12,15 29:2,9,15,16 
+22:21 27:23 61:4,5,9,10 47:6 55:3,4 commented 29:18 30:7 
+28:10 39:10,17 cases 11:9 20:25 Chevron 42:22 42:17 31:8 32:16,18 
+40:2,21 41:22 44:17 52:12 43:22 44:18 comments 42:16 33:11,23 34:18 
+42:9,12 50:6 categories 17:22 45:2,8,11,14 43:3 61:4 34:21 35:8,21 
+51:8 56:13,21 17:23 47:15,16,18,23 commission 35:23 36:3 
+57:1,6,20 58:3 cause 38:15 48:3,5 50:1,14 53:11,12,18,20 38:6 43:9 46:2 
+58:14,22 60:8 caused 29:13 51:4 commissions 46:22 47:3,4 
+60:20 cert 7:13 Chevron's 47:16 34:20,20 52:6 48:16 49:13 
+
+brief 7:16 20:8 certain 29:13 Chief 3:3,9 7:22 52:7 50:1,24 51:4 
+29:12 40:7 46:24 52:9 8:5 9:21 10:16 common 6:12 52:8,17 56:13 
+44:8,13 59:12 59:18 11:2 18:9,15 9:16 33:25 56:20 59:1,8 
+
+briefed 7:6,8 certainly 7:23 26:8 28:17,22 34:1,6,10 59:10 
+briefly 37:5 9:16 11:7 35:18,25 42:18 companies Congress's 
+briefs 19:5,8,14 17:10 31:2 44:15 56:5,8 53:11 41:21 
+
+19:16 36:22 49:4,19 61:7 company 10:20 connection 34:7 
+bring 4:1 20:9 certifications circuit 6:11 7:12 10:23 14:15 considering 
+
+52:14 11:10 37:10 40:5 54:5,6 6:19,21 
+broader 39:9 cetera 58:24,24 52:13,22 54:19 compensable consistent 32:8 
+broadly 15:17 change 12:9 Circuit's 5:12 31:10 41:20 
+brought 22:18 13:14,16 58:17 54:15 complaints constrained 
+build 30:17 changes 40:19 circumstance 51:15,19 52:1 38:21 
+bunch 10:5 charge 3:14,16 6:12 32:2 complete 47:11 construe 12:16 
+bureau 36:24 3:22 7:19 42:25 52:24 53:7 38:5 
+business 15:9 11:12 12:6,16 circumstances completely 18:6 construed 3:13 
+
+30:22 31:10 13:12 14:2,22 19:1 26:6 4:5 
+46:8 51:21 14:24 17:20 cite 44:7 complicated 7:8 construes 38:4 
+53:21 23:17 24:7,14 City 17:11 58:24 construing 9:20 
+
+24:16,17,18 claim 52:14 comprehensive 38:19 
+C 25:5,19 26:21 clarify 16:6 16:16 consumer 3:16 
+
+C 2:1 3:1 27:6,7,14 classic 10:1 53:9 computer 59:20 11:19 12:2 
+called 31:4 41:25 55:13 clear 8:21 36:3 concede 45:7 13:3,22,23 
+canon 9:13,14 charged 3:11 39:7 48:11 concern 28:8 14:1,16 18:20 
+
+9:17,19 12:3,5,20 56:23 38:6 18:23,25 19:10 
+
+Alderson Reporting Company 
+
+
+
+64 
+Official 
+
+20:13,20,21,23 court 1:1,12 decades 3:11 described 52:5 discretion 20:12 
+22:1,2 24:18 3:10 5:8 6:14 decide 5:1,3,9 deserve 47:17 20:16 21:1,5 
+25:6 55:4,13 6:17 7:13 17:1 6:18 7:7,13 deserving 45:14 discussed 42:16 
+57:24 18:16 25:25 10:3,11,19 designed 15:16 discussion 40:9 
+
+consumers 28:12,23 33:4 24:2 28:13 detail 45:4 52:5 disparate 17:13 
+11:23 19:25 37:17 38:15 46:13 59:25 17:15 
+20:10 21:7,13 39:6 42:10,21 decided 6:14 determination dissent 32:21 
+27:17 29:9 43:7 44:23,25 8:18 31:9 50:3 23:11 46:22 distinction 
+51:15,19 52:3 45:13,25 46:5 52:17 57:8 determine 46:9 25:22 
+58:19 59:19 46:7,8,12,21 decides 6:24,25 determining distinguish 
+
+consumer-pro... 52:12 60:23 54:23 55:16 21:11 22:16 23:12 
+24:22 61:3 deciding 22:10 46:5 divided 4:7 
+
+context 5:3 courts 4:25 7:5 46:18,18 49:18 developed 29:14 division 8:8 
+54:16 55:2 28:14 37:21 58:7 developer 30:14 document 51:7 
+
+contract 52:15 Court's 49:12 decision 5:12 development doing 22:9 27:18 
+53:4,5 cover 9:23 15:22 35:9 36:3,7 30:16 29:2 48:11,19 
+
+control 22:9 25:8 47:19 defect 43:12,15 difference 22:6 52:2 55:2,4 
+28:7 38:12 52:25 53:8 defective 42:24 32:22 46:10,18 58:14 
+46:1 covered 5:13 defendant 21:17 57:16 don’t 19:7 
+
+controlled 29:1 7:20 16:13 21:20,24 38:23 different 9:24 door 50:4 
+controls 29:20 25:1,2 26:1 defendants 39:8 10:9 13:11 double 15:16 
+converting 8:13 31:25 53:19,23 defer 37:19,22 31:12 37:10,23 doubt 21:17 
+correct 4:5 5:16 60:4 38:16 51:9 57:19 drives 52:16
+ 
+
+14:17,21 15:15
+ covers 9:23 16:6 deference 3:20 58:10,11 dual 47:5
+ 
+31:8,15,20
+ 30:11 33:5 17:4,8,13 differentiate due 37:2 
+32:15 36:11 47:21 36:15,21 37:2 22:25 duty 15:16
+ 
+41:1,7,15 42:8
+ create 48:20,21 39:2 42:23 differently D.C 1:8,15,18 
+43:21 45:15,24 creates 11:25 43:7,16,22 51:10 1:21
+ 
+46:15,16 47:8
+ crime 11:19 44:19 45:1,2,8 difficult 10:3 
+
+E49:1 54:10,13 39:21,22 45:12,14,20 39:1 
+E 2:1 3:1,1 
+earlier 47:12 
+
+56:3 57:5 58:2 criminal 21:9,16 47:15,18,23 direct 29:17 
+corresponding 38:19,20,25 48:3,5 49:16 46:1 47:20 
+
+earn 10:1324:8 60:13 49:20 50:1,10 50:3 54:19 
+35:22costs 59:3 critical 12:2 50:14,21 directly 3:16 
+
+counsel 31:17 earned 10:8,25culpable 25:4 deficiency 43:24 18:23 55:4 
+11:6 21:11,1336:12 40:23 curiae 1:19 2:8 defined 6:2 disagree 17:9 
+23:8,11,1946:3 56:5 61:7 18:14 defining 33:3 61:6 
+24:3 28:1561:8 customer 14:16 definition 33:1,2 disagreeing 58:9 
+
+country 29:14 35:11,19,21 
+effect 15:2,5 
+
+customers 25:17 35:11 49:22,23 disclose 18:2 
+52:10 cutting 23:18 Department disclosure 18:6 
+
+counts 15:23 38:13 49:211:18 29:5 
+D effected 45:25courier 6:13 depending discount 5:13
+ 
+
+11:10,13,15
+ D 3:1 effective 44:3,4 
+deal 7:10 38:11 
+
+13:11 6:6,10 11:8 
+Eight 27:213:19,19,23,24 depends 44:19 24:6 26:3,18
+
+Dear 60:17 either 6:17 8:16 
+debate 22:20 
+
+14:2 28:4 deprived 15:4 59:11 
+45:11 52:1course 22:8 depth 37:16 discovered 
+
+debates 6:8,9 elements 54:1424:17 34:23 deputized 34:23 51:15 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+65 
+
+eliminates 30:3 eventually 6:9 factor 44:23 47:2,6 51:19 58:10,11 
+ellipsed 42:2 exactly 37:21 factual 46:21 52:7 56:18,19 fraud 52:14 
+embezzlement 38:1 failure 29:11 57:9,19 59:10 55:25 
+
+9:7 example 8:12 fair 41:22 42:6 59:11 60:4 fraudulent 
+eminently 3:19 9:7 10:4 13:13 58:7 fee-splitting 56:18 
+
+4:8 15:1,7 30:13 fall 12:14 14:4 40:13 Freeman 1:3 3:4 
+empirical 38:7 34:19 53:8 falls 16:23 Fifth 40:5 52:22 frequently 
+encompass 6:5 examples 44:13 far 60:18 54:14,19 35:14 59:9 
+
+15:17 59:5 farther 29:16 figure 28:15 front 4:20 
+encompassed exceeds 57:24 fast 4:10 43:24 full 8:6 34:24 
+
+20:6 58:3 fastener 8:22 figured 26:20 funding 6:4 
+ends 30:5 exception 40:18 fault 12:11 filed 59:12 funds 8:13 
+enforcement excessive 16:7 favor 38:23 filling 48:20 further 33:7 
+
+20:9 32:25 favorable 40:5 49:24 51:1 Furthermore 
+engage 56:14 exchange 53:14 favoring 21:23 final 40:15 38:11 
+enrichment exemption favors 21:20 41:12 42:16 fuss 22:19 
+
+52:15 
+ensure 27:20 
+
+59:18,20,24 
+exist 5:5,6 
+
+51:16 
+February 1:9 
+
+find 21:19 33:4 
+45:25 46:8 G 
+
+enter 53:12 exorbitant Federal 22:10 51:24 52:1,1 G 3:1 
+entire 5:17 23:17,20 22:15 39:22 finder's 31:5,6 gap 49:24 51:1 
+
+18:24 30:11 expect 37:17 fee 3:17 4:18 5:4 36:8,9 gaps 48:20 
+35:11,13 expected 28:2 5:9 6:10 7:17 finding 29:8 gap-filling 48:14 
+
+entirely 10:9,15 expecting 50:2 8:3 10:2,14,22 44:12,13 general 1:18 
+entitled 3:20 experiential 15:8,18 18:18 finds 45:13 16:18 40:18 
+
+17:13 36:21 38:8 18:20,23,24 first 3:4 16:5 generally 26:3 
+41:16 46:14 expertise 21:8 20:22 22:2,23 22:19 24:16 37:5 
+50:14 21:10 22:8 23:2,8,13,14 29:4,11 30:1 genuine 21:19 
+
+entrusted 8:14 explain 19:9 24:2,5,7,9 32:17 35:15 getting 4:20 
+enumerate 20:1 44:11 25:16,18,19,22 37:3 52:18 31:4 34:10 
+
+57:19 explained 59:25 26:2,3,6,18 53:10 57:8 Ginsburg 3:21 
+enumeration 60:3 28:12 31:4,5,6 fits 8:10 4:3 14:12,18 
+
+16:16 explaining 32:3 33:9 flood 11:10 15:12,19 16:8 
+equally 19:23 20:17,19 57:21 35:10 36:8,9 focused 59:4 25:13,24 35:3 
+equivalent explanation 42:1 47:4 follow 30:5 47:2 52:24 
+
+56:18 20:5 38:8 53:17 54:23,25 Footnote 20:6 53:6 57:13,15 
+ESQ 1:15,17,21 40:17 57:10,12,23,24 forbid 56:19 give 9:15 11:25 
+
+2:3,6,10,13 explicitly 41:2,5 59:7 60:1 forbids 9:4 14:14 15:1,2 
+essence 38:17 extent 7:6 42:5 feel 51:9 FORET 1:3 17:8 18:3 
+essentially 16:21 
+estate 3:12,14 F 
+
+fees 4:6,11,12,14 
+5:13,15 6:12 
+
+form 32:23 
+49:18,18 59:7 
+
+19:11 21:17 
+24:13,20 27:14 
+
+6:2 7:20 15:8 face 47:24 6:13 11:8 forms 48:22 32:3,7,13 
+21:12 31:10 fact 3:20 17:11 16:13 20:10,22 forth 22:16,20 36:14 39:2 
+34:7 27:5 29:7 21:13 23:1,2 34:22 43:1,9,10,11 
+
+estimate 29:6 32:19 33:16 25:8 29:16 found 29:9 43:16 44:3,4 
+et 1:3 58:23,24 38:11 42:25 32:22,22,23 50:10 59:9 44:18,25 45:8 
+evaluate 23:23 48:11 52:12 34:19 35:5,6 60:23 45:11,20 47:3 
+
+24:1 53:15 35:12 46:5 four 16:1,2 48:9 50:10,18 
+
+Alderson Reporting Company 
+
+
+
+66 
+Official 
+
+50:21 52:13,24 gross 34:3 55:9,11,20,24 identically 48:7 information 
+53:7,20 guess 21:22,23 56:2,6 identified 18:4 48:21 
+
+given 27:25 29:6 guidance 51:2,7 held 5:12 17:12 29:15 46:23 injunctive 4:1,3 
+36:15,24,25 guilty 11:16,19 Higginbotham 52:8 4:4 
+42:7,9 43:3 guise 22:19 32:21 33:6 identifying innocent 11:19 
+48:6 high 29:12 38:6 34:18 inquire 23:7 
+
+Hgiver 14:13 higher 28:1 immense 16:24 inquiry 46:10 
+hands 30:515:13 25:5 history 33:22 16:25 instance 32:4 
+happen 20:12gives 14:19 34:17,22 40:3 impact 17:13,15 37:1 42:24 
+happening31:22 32:9 51:14 54:17 implementing 43:5 44:25 
+
+33:22 43:343:17,22 58:23 59:4 48:25 46:21 48:10 
+happens 28:6giving 12:6 hold 19:25 implicate 34:25 instances 30:12 
+
+31:2114:15,22,23 home 42:11,19 implicated 32:1 
+harbor 11:2518:18 19:22 42:20 44:24 35:14 insurance 53:11 
+hard 10:6 11:6 25:9 27:8 52:16 60:24 import 37:25 53:17 
+
+22:1731:12 33:14 Honor 17:11 importance intended 27:17 
+harder 10:2343:13 50:17,25 38:24 39:16 60:11 46:23 50:24,25
+
+11:751:2 51:25 important 18:1 interest 4:20,23
+harmed 52:4go 13:13 33:7 House 29:18 22:6,22,22 5:23 24:9 26:4 
+head 19:636:16 39:18 52:5 52:19 54:18 26:16,19 27:5 
+headlong 9:1943:18 49:18 HUD 3:22,25 60:15 28:1,2
+hear 3:3 41:23 52:19 54:21 15:22 16:22 impress 39:7 interested 51:13 
+
+60:20goes 10:18,22 17:4,8,9 20:8 inaccurate 44:5 58:23 60:16 
+heck 54:7going 11:12 20:16,19 21:8 inadvertently interesting 40:4 
+Hefferon 1:2115:21 27:1 21:10,14,23 22:18 interpret 36:25 
+
+2:10 28:19,2032:4 34:17 23:1 29:21 incidents 59:10 39:9 48:13 
+28:22 29:22,2535:2 38:9,10 34:23 36:18,19 include 6:3 7:23 49:15 
+30:11 31:8,1538:12 40:9,12 36:24,25 37:7 included 16:18 interpretation
+31:20,24 32:12 42:10 43:2 37:10,11,11 22:24 26:22 3:19 4:7 7:9 
+32:15 33:4,1646:7 48:19,20 40:9 41:2,18 59:14 11:17,18 12:24 
+33:20 34:5,1248:21 54:8 43:9 48:8,10 includes 6:4 15:20 16:9,11
+34:16 35:8,2055:15,17,17 49:17,17 50:2 including 10:5 16:20 17:17 
+36:2,11,2260:25 50:4,10,25 29:5 59:10 19:3 21:5,16
+37:15,18 38:3 gold 28:5 51:6 59:9,21 income 34:3 21:20 23:10 
+38:24 39:15gold-plated 28:5 59:24 incomplete 37:3 24:1,10 25:3,4 
+40:2,25 41:6 good 22:9 50:11 HUD's 16:9,10 44:3 36:18,19,20,23
+41:10,15 42:8 50:13 51:9 16:20 17:2 increase 29:5 37:4,21 38:10 
+42:14,20 43:14 goodness 19:15 20:6 21:5,16 59:3 38:12 43:13,17
+43:21 44:2,11goodwill 20:13 22:8 25:14,14 increased 49:10 44:14,21 46:4 
+44:22 45:9,13government 40:18 50:16 49:13 46:7 48:3,5,6
+45:18,23 46:16 21:2 51:17 independent 50:17,19 51:1 
+46:20 47:9,14grade 50:12 HUD/VA 59:5 43:25 51:17 54:15 
+47:22 48:9Graham 5:12 indication 33:21 57:11 58:16 
+
+I49:1,4,8,126:7 34:13,16 42:16 59:16 61:1 
+50:15,23 51:6 idea 9:22 20:14 granted 7:13 indirectly 3:16 interpretations
+51:25 53:6 41:19 47:8grappled 60:2 individual 46:19 16:11 43:10,12
+54:10,13 55:1 51:3great 52:5 industry 21:12 45:21 48:8 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+67 
+
+50:22 33:6 52:24 53:6 know 5:14 8:20 19:25 32:10,14 
+interpretative judgments 54:2,11,21,22 11:5 16:16 55:19,22 
+
+50:5 37:25 55:7,10,15,16 23:17,18 26:23 life 22:14 
+interpreted Justice 1:18 3:3 55:22,25 56:4 31:6 33:12 light 60:6 
+
+38:22 3:9,21 4:3,9,14 56:5,8,13,21 36:16 42:14,15 limited 6:4 
+interpreting 4:17 5:2,18,20 57:1,6,13,15 51:13 54:7 41:20 54:18 
+
+21:9 41:3 6:16,22,25 7:2 57:20 58:3,14 knowing 11:14 limiting 33:2 
+48:12 49:21 7:22 8:5,15 9:8 58:22 60:8,20 knowledgeable limits 45:21 
+50:16 9:12,21 10:16 61:7 26:24 line 17:21 18:2,4 
+
+interpretive 
+48:10,18,24 
+
+11:2,11,22 
+12:4,10,18,22 K L 
+
+list 18:3 51:18 
+58:10 
+
+interprets 41:4 12:25 13:3,8 K 1:15 2:3,13 labeled 35:4 listed 16:2 47:1 
+interstitial 13:17,22 14:3 3:7 56:10 labeling 17:20 little 10:23 37:7 
+
+49:19 14:7,12,18 Kagan 24:11,25 labels 18:1 46:3 
+invited 37:11 15:1,4,12,19 29:22 30:6 laid 21:6 loan 4:22 5:12 
+involve 5:4 11:9 16:8,19 17:3,7 37:18 47:22 land 30:15,17 6:3,4,6,10 10:5 
+
+25:10 17:19 18:9,15 50:7 language 4:6,8 10:20,23 11:8 
+involved 5:15 18:25 19:4,8 keep 32:14 46:7 7:15 15:2 14:15 24:6 
+
+46:5 19:13,15,19 keeping 33:14 25:11 36:13 26:2,4,15,18 
+involves 7:9 20:4,11,15,18 keeps 3:18 37:6,24 45:22 26:24 27:19 
+
+46:10,11 58:7 20:24 21:3,8 Kennedy 20:24 54:16 60:6 59:11 
+involving 5:14 21:15 22:4,21 21:3,8 23:5 large 15:21 loans 1:6 3:5 
+
+6:6 59:11 23:5,16,22,24 KEVIN 1:15 2:3 Laughter 45:19 10:5 11:3 
+irrational 47:18 23:25 24:11,25 2:13 3:7 56:10 law 29:1 32:18 local 28:25 
+
+52:17 25:13,24 26:8 kickback 5:14 52:11,14 55:23 32:17 
+Island 42:11,19 26:23 27:9,10 10:1,11,12,18 55:24 56:19 logic 7:24 
+
+42:20 44:24 27:23 28:10,17 15:6,14,17 60:13 61:5 long 4:5 23:1 
+60:23 61:2 28:22 29:22 19:20,21 22:7 lawmaking 42:11,19,20 
+
+issuance 16:21 30:6,24 31:11 28:8 30:23,25 49:19 44:6,12,14,24 
+issue 4:18,25 31:17,21 32:6 32:2 35:15,19 leave 52:20 51:18 60:23 
+
+5:16 6:7 9:24 32:13,20 33:10 35:21,24 36:1 left 32:18 61:2 
+10:9,17 34:25 33:17,20,24 36:4,10 39:19 legal 49:21 longstanding 
+42:17 43:15 34:9,14 35:3,9 46:8,11,12 50:16,17,21 44:10 
+44:20 47:6 35:18,25 36:7 47:8 53:25 legislate 40:10 look 7:14 27:24 
+60:25,25 36:12 37:9,18 58:18 60:18 52:19 50:1 52:12 
+
+issued 40:15 38:17,18 39:10 kickbacks 6:5 legislation 29:19 58:25 
+51:6 39:17 40:2,21 29:15 33:12 legislative 33:21 looked 39:13,14 
+
+itemized 18:3 40:23 41:1,8 34:18 35:4,12 34:17,22 51:14 44:23 51:14,22 
+items 18:4 41:11,22 42:9 52:7 53:3 59:4 58:23 59:4 looking 13:11 
+it’s 6:22 42:12,18 43:8 kicked 15:7 lender 3:13 7:17 looks 19:20,21 
+i.e 5:22 7:19 43:18,23 44:9 kind 10:6,8 11:6 31:2 24:11 
+
+J 
+44:15 45:7,10 
+45:16,20 46:3 
+
+37:16 46:1 
+56:15 59:20 
+
+lenders 54:19 
+Lending 48:17 
+
+lose 45:8,12 
+lot 37:6,10 48:18 
+
+Jackson 17:11 46:17 47:1,2 60:10 lenity 38:21 48:20 51:15 
+job 50:12,13 47:11,22 48:23 kinds 47:19 let's 10:18 48:1 58:25 59:25 
+
+58:7 49:2,6,10 50:6 57:19 58:11 liability 33:7 lower 4:20 5:24 
+Judge 32:20 50:7,21 51:3,8 knew 59:8 liable 13:9 19:23 6:14,17 7:5 
+
+Alderson Reporting Company 
+
+
+
+68 
+Official 
+
+28:1,14 35:22 36:1,4 okay 9:12 11:11 page 2:2 7:16 20:10,21,22 
+morning 3:4 35:22,24,25 15:24 29:12 27:25 
+
+M mortgage 26:15 36:1,3,9 59:5 payments 33:13 
+M 1:21 2:10 27:1,19 once 25:5 56:21 paid 12:8 13:7 34:2,25 59:19 
+
+28:20 one's 32:3 13:16 26:3 pays 11:15 
+Nmaintain 25:21 opposed 31:23 30:2 13:22 24:18 
+
+major 29:4 34:3 N 2:1,1 3:1 33:14 panacea 52:11 pegs 8:21 
+market 28:25 nails 8:20,21,21 opposite 61:2 parcels 30:18 penalties 38:20 
+
+29:10 32:18 narrower 10:17 oral 1:11 2:2,5,9 parent 34:4 people 11:25 
+markups 59:7 natural 7:25 8:7 3:7 18:12 parser 37:23 29:6 30:21 
+matter 1:11 7:24 8:24 13:2,15 28:20 part 8:17 10:7,7 51:9 
+
+47:3,4 61:11 nature 50:15 order 6:5 17:1 10:24 17:16 percent 7:19,23
+Mead 42:22 58:18 24:2 36:4 39:2 31:10 33:14 8:1 9:23,25 
+mean 4:19 6:10 necessary 29:19 40:20 40:16,19 42:2 10:2 11:4,5
+
+6:22 8:6,7,15 necessity 53:4 ordinary 9:5 45:3 53:17 26:10,12 27:2 
+8:16,16,19,22 need 8:16 30:3 origination 5:15 60:8,9 27:2,5,8,12,14
+9:1,18 10:14 31:14,16 37:14 6:3 partial 9:23,25 31:22 32:10,14
+11:3,18 17:16 53:3 54:24 outside 36:17 10:1 32:14 33:5,10
+18:1 19:19 needed 29:10 39:23 56:22 particular 26:16 33:12,13 34:11 
+20:11 21:18 34:24 overcharge 26:19 29:10,10 53:13 54:9 
+25:21 26:8,25 never 47:13,23 16:22 17:16 30:17 42:21 percentage 7:19 
+27:4 30:7 41:4 59:14 22:23 23:13 43:4 58:8 7:23,25 8:1,24 
+46:6 50:11 new 54:24 25:22 32:22 59:20 60:13 8:25 22:12 
+56:22 60:10 nominal 41:25 39:20,22 particularly 31:19 33:5 
+
+meaning 7:18 normal 22:8 overcharges 17:16 39:1 46:14 
+9:15 15:10 32:2 15:22,25 16:7 59:17 perfectly 13:15 
+29:23 32:7,8 normally 53:19 22:24 23:1 parties 31:16 36:9 
+
+means 5:23 8:18 noted 42:11 25:15,16 26:1 53:24 performed 7:21 
+8:22,25 12:16 notice 36:17,17 32:24 56:14 parts 10:24 34:2 12:1,7 13:7 
+16:12 27:5 42:6,9 43:1,2 57:2 pass 43:11 14:9 15:10 
+31:19 57:12 60:17,23 overrule 5:11 passage 59:8 16:4 22:3 23:3 
+
+meant 34:21 notice-and-co... O'Connell 1:17 passing 28:24 23:15 24:6,8
+52:10 39:13 44:16 2:6 18:11,12 50:20 25:17,18,20,23 
+
+measure 9:17,18 novelty 22:14 18:15 19:2,7 pay 5:5,22 11:4 26:7 27:7,8
+measured 32:16 19:13,18 20:3 12:13,16 13:5 31:1,2 33:8,14 Omechanic 13:14 20:5,15,19 13:6,18 14:8 42:1 57:25
+
+O 2:1 3:1 mention 26:16 21:3,10,25 20:22 22:2 58:4,6 59:15 
+objection 9:22mere 27:4 22:21 23:9,21 26:10,11,17 performs 31:13
+obvious 19:17merely 40:11 23:24 24:4,25 27:22 35:24 period 51:16
+occurred 43:641:19 42:21 25:24 26:13 36:4 51:19 57:3 
+occurs 24:21middle 28:25 27:9,16 28:10 54:3,4,12 permitted 4:11
+odd 45:24mine 11:9 28:9 28:18 paying 4:20 5:4 person 10:12
+offered 26:9minute 23:16 5:21 12:2,9 14:14,14,15,18
+official 8:12 Pminutes 56:9 13:24,24 14:2 15:13 19:11,11
+oh 20:11,25mission 60:12 P 3:1 14:9,10,10 19:22 26:24
+
+45:18money 4:20 5:22 package 10:8 51:16 58:20 33:8 41:25
+oil 13:14,1630:5,5 31:12 padded 59:14 payment 15:25 46:14 47:5,5 
+
+Alderson Reporting Company 
+
+
+
+69 
+Official 
+
+51:20 50:18 51:6 principle 35:22 provable 32:1 53:9 
+personal 8:13 56:23 57:1,16 35:24 prove 17:14 putting 44:15 
+persons 19:22 portion 7:18,24 probably 8:7 30:3 31:16 puzzling 15:20 
+
+41:4 8:6,6,9,11,13 32:1 provide 3:15 
+Qperson's 51:21 8:23,25 9:1,4 problem 7:11 37:22 47:15,15 
+
+qualify 45:1perspective 9:10 10:9,13 22:6,6 24:12 48:2 
+question 4:2,22 
+
+5:9,10 6:23,24 
+13:12 51:11 10:18 31:18 27:24,24 33:11 provided 4:15 
+
+persuade 45:3,3 33:5 33:19 51:9 38:7 46:19 
+pervasive 59:13 7:5,8,9 10:3,14 position 23:2 59:13 48:17 
+
+16:15 19:17pervasively 25:14,14 procedural provider 3:17 
+28:14 43:1556:19 Post 59:6 43:12,15 3:18 18:22 
+44:24 45:2Petitioners 1:4 potential 34:10 procedurally 24:18 25:6
+ 
+
+1:16,20 2:4,8
+ 46:18 47:14power 45:3,3 42:24 31:22 32:9 
+48:2 49:15,172:14 3:8 18:14 practice 27:1 procedure 60:15 46:11 55:16 
+49:17,20 50:15 19:3 20:8 25:3 33:25 34:1,10 Procedures 3:12 57:23 58:1,5,6 
+50:24 51:9,1226:5,14 56:11 38:9 proceeding providers 18:21 
+
+phone 26:15 52:25 54:22 
+55:2,16 60:2,3 
+
+practices 21:12 39:14 21:14 24:21 
+phrase 7:24 8:11 29:13 46:24 procure 26:3,19 25:9,11 47:10 
+
+60:5 
+questions 56:7 
+
+8:19 52:9 59:2 procured 26:5 52:2 55:6 
+place 52:11,20 preamble 41:2,9 prohibit 8:12 59:19,23 
+
+Quicken 1:6 3:4 
+5:1,14 7:6,6 
+
+53:10 precedents 18:17 provider-prov... 
+plain 18:17 49:13 prohibiting 3:13 24:23 
+
+10:5 15:7,1225:11 36:13 precisely 43:5 Prohibition 35:4 providing 38:19 
+17:20 26:1547:24 precluded 6:19 prohibits 9:6 proving 53:5 
+
+plate 28:6 59:21 
+quite 31:12 39:7 
+
+6:21 promulgated provision 4:6 
+please 3:10 preemption 39:10 48:7 7:10 11:24 
+
+39:8 40:4,418:16 28:23 32:19 promulgating 15:11,16 16:23 
+45:24 48:11point 5:21 17:2 premium 53:14 39:21 17:12,14 30:9 
+59:25 
+
+quote 26:14 
+22:22 23:9 present 6:11 proper 13:1 32:19 60:25 
+35:2 38:4 23:19 22:16 36:6 provisions 15:18
+ 
+39:18,18,18
+ 29:12 
+
+quoting 29:11
+presented 5:9 52:21 psychoanalyze 
+
+44:12,16 47:12 6:23 28:14 properly 35:10 51:4 
+52:16 59:17 presumptively proposals 29:17 public 8:12 43:2 Rpointed 35:9 30:22 proposed 29:18 60:17,17,22,24 
+
+R 3:1points 4:19 6:6 pretty 19:17 40:8,11 43:1 purchaser 14:13 
+raised 6:2511:4,5 26:10 51:13 56:23 53:10 61:3 pure 36:4 
+
+22:1926:12,16,18,22 prevent 60:11 proposition purport 50:18 
+rate 4:21,2326:25 27:3,6,6 previously 44:18 purporting 
+
+5:23 24:9 26:4 27:11,12,15 36:24 prosecute 20:20 49:23 
+26:9,10,12,16policy 17:18 price 16:21 22:9 prosecutor purports 37:4 
+26:19 27:5,820:6,7 21:6,14 28:7 29:17,20 20:14 21:1 purpose 16:1,18 
+27:14 28:222:24 36:3,15 38:12 39:20 prosecutorial 59:2 60:10 
+34:25 46:137:2,25 39:2,3 42:5 46:1 58:8 20:12,16 21:4 purposes 6:11 
+56:15 57:1439:5 41:6,8,14 prices 16:22 protect 11:23 15:23 29:8 
+
+raw 30:1543:19,24 44:4 22:11,16 27:17 49:16 
+reached 25:1545:1,9,11,25 primarily 28:25 protection 29:10 pursuant 30:8,8 
+reaching 4:6,947:17,17,20 29:2 protects 58:19 put 7:3 42:10 
+
+Alderson Reporting Company 
+
+
+
+70 
+Official 
+
+4:10 61:4 47:20 50:3 54:1 60:1 rulemaking 
+read 9:18 19:5 receiver 15:14 56:15 requires 55:6 41:12,13 59:17 
+
+36:14 37:12 receives 15:13 regulations requiring 18:4 rules 43:10,11 
+39:25 41:17,18 receiving 13:12 17:17 43:11 29:5 43:11
+ 
+56:17,22
+ 19:22 34:2 48:7 reserve 18:8 ruling 44:12 
+
+reading 7:25 8:8 53:16 regulation's residential run 9:19 11:8 
+8:25 14:19 recite 40:12 39:4 27:19 running 60:12 
+20:4 31:18 recognition 52:3 regulatory 40:3 resolve 7:12 Russell 1:15 2:3 
+36:12 37:13 recognize 29:19 reject 17:4 RESPA 27:16 2:13 3:6,7,9,21 
+40:5 44:6 recognized rejected 29:17 28:24 41:3 3:25 4:4,12,16 
+47:18 52:21,22 34:24 35:23,23 46:2 RESPA's 29:8 4:24 5:7,19 6:1 
+55:19 recognizing 59:25 respect 11:8 6:20 7:1,4 8:4 
+
+reads 14:13 17:12 relate 30:2 30:1 41:13,24 8:9 9:2,11,13 
+real 3:12,14 6:2 recount 44:6 related 9:14 42:13 47:9 10:10 11:1,7 
+
+7:20 15:8 red 44:8,13 relationship 48:19 58:13 11:20,23 12:5 
+21:12 31:10 redo 55:18 24:22,24 30:21 59:16 61:5 12:15,19,23 
+33:11,18 34:7 reduction 24:9 47:5 Respondent 13:1,5,10,21 
+
+really 10:20 26:4 relevant 51:22 1:22 2:11 14:1,5,8,17,21 
+11:14 25:21 refer 35:6 53:21 relief 4:1,3,4 28:21 15:3,6,15,19 
+43:15 44:4 reference 30:10 rely 20:13 43:25 Respondent's 16:5,10,25 
+50:18 60:14 50:20 remainder 18:8 23:6,25 17:6,10,25 
+
+reason 7:2 9:22 referral 15:9,13 remand 26:20 response 40:1 18:10 56:8,10 
+19:20 20:20 29:16 30:20 28:15 rest 25:19 33:15 56:12,25 57:4 
+22:9 33:17 31:1,1,4 32:5 remedies 32:18 result 45:24 57:7,14,18 
+36:14 43:6 34:19 35:10,23 52:11,20 retains 18:24 58:2,9,21 59:1 
+47:3 50:10 36:1,5 51:19 removes 54:1 right 3:22 4:24 60:19,22 
+53:9 56:16 52:7 render 47:7 6:19,25 7:1 
+
+Sreasonable 3:19 referred 34:19 rendered 18:5 9:11 11:3,16 
+S 2:1 3:1 
+safe 11:25 
+
+4:8 18:6 25:19 40:13 48:22 22:12 46:6,9 13:21 14:3 
+57:25 58:4,5 refers 19:21 46:13 21:23 26:13 
+
+saying 13:1860:6 24:22,23 35:13 rendering 7:20 29:23 31:7,14 
+17:14 21:6,14reasonableness 48:7 50:19 34:6,14,15 39:17 42:2,3 
+21:25 26:1123:7 24:2 refinancing 54:6 47:6 45:12 47:23 
+27:24 32:8reasonably reform 29:4 repeated 42:21 50:6 54:9,20 
+50:7 
+
+says 8:20,23 9:9 
+48:16 reg 56:22,23 repeating 41:19 57:20 
+
+reasons 6:18 7:4 regarding 48:24 report 29:21 rights 39:8 
+9:14 11:1237:3 regime 46:1 52:4,5 59:5,6 rise 52:13 
+12:12 15:22,24rebates 34:20 regulate 40:10 reported 59:9 ROBERTS 3:3 
+17:9 19:1052:6 regulates 59:22 represent 18:5 7:22 8:5 9:21 
+20:8 25:14rebuttal 2:12 regulation 17:12 represents 10:16 11:2 
+27:1 30:4,7,1541:23 56:10 29:17 36:20 22:13 18:9 26:8 
+37:7 39:23recall 53:8 39:11,20,21,23 reproduced 28:17 35:18,25 
+
+receive 19:12 41:5,6,25 42:3 40:4,6,11,17 7:15 42:18 44:15 
+44:9 45:4,627:21 40:20 41:9,16 required 41:5 56:5,8 61:7 
+
+received 10:12 54:7 58:17 
+Scalia 4:9,14
+
+41:17,18,24 61:6 rule 21:19 38:21 
+16:1 24:15,17 42:5,7,10,23 requirement 40:15 42:16 
+
+6:16,22 7:2 25:5 42:12,15 43:6 46:1 18:7 30:19 43:1 45:11 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+71 
+
+8:15 9:8,12 sent 29:20 shared 18:21 40:23 41:1,8 States 1:1,12,19 
+15:1,4 16:19 sentence 41:24 shares 3:17 41:11 43:8,18 2:7 18:13 
+17:3,7 21:15 sentences 40:16 show 17:14 43:23 44:9 59:11,12 
+23:16,22,25 40:18 54:17 46:3,17 47:1 statute 3:13 5:11 
+26:23 27:9,10 separate 18:18 shows 12:8 29:1 54:21 55:7,10 5:13 7:10,15 
+30:24 31:11 57:11 side 4:18,25 55:15 7:17,18 9:4,9 
+33:10,17,20 service 3:15,17 5:21,25 31:22 so-called 30:25 12:14 14:4,6 
+35:9 36:7 4:19,21 5:4,5 39:12 45:6 special 37:2 43:7 14:13,25 15:10 
+38:18 45:7,10 6:3 7:21 11:13 similarly 17:16 48:21 16:17,18 17:20 
+45:16,20 47:11 11:15 13:19,20 simplest 32:23 specific 16:15 18:19,22 19:19 
+48:23 49:2,6 13:23,24 14:2 simply 4:19,22 specifically 5:11 19:20,21 20:2 
+49:10 50:21 14:8 15:9,25 18:2 23:20 6:2 7:11 34:18 21:5,7,16 22:2 
+51:3 54:2,11 18:21,22 21:14 38:4 44:20 46:2,23 49:7,9 22:7,10,25 
+55:22,25 56:4 22:11,13 23:3 50:19 51:2 49:11 60:1 23:7 24:4,13 
+
+Scalia's 54:22 23:13 24:7,21 53:25 spent 37:6 24:15 25:3,7 
+55:16 25:6,9,11,16 single 10:7 split 4:13,16 25:12,15 26:2 
+
+scenario 25:1,2 25:18,20 27:7 46:11 47:5 6:11 7:18,25 28:7,8 29:1 
+schedule 16:21 27:7,25 28:4,5 situation 8:10 8:7,24 9:10 33:3 34:22 
+scope 39:23 28:5 30:22 15:7 19:9,24 10:9 16:13 35:3 36:14,18 
+search 54:7 55:8 31:2,13,22 32:9 33:8 25:8 31:18 36:19,23,25 
+searcher 55:12 32:9,24,24 46:12 48:14 33:5 41:16 37:4 38:19,19 
+
+55:14 34:8 46:13,19 50:11 53:15,23 52:13 55:13 38:25 39:9,19 
+second 22:18 47:7,10 57:23 57:22 57:9 60:1,4 39:20,23 40:6 
+
+29:8 35:16 58:8 59:20 situations 15:18 splits 61:5 40:10 41:3 
+55:18 services 7:21 53:24 splitting 8:2 42:4,5 43:19 
+
+Secretary 41:3 11:10 12:1 six 19:5 25:14 47:19,19,24 
+section 18:17 13:6,6,7 16:3 Sixth 5:11 standard 21:18 48:2,6,9,16,20 
+
+23:3 29:9,11 18:5 22:3 Skidmore 45:4 27:1 48:24 49:15 
+31:25,25 35:12 23:14 24:5 Smith 11:12,14 standardize 50:17,19 52:21 
+35:13 36:5,6 25:22 26:6 11:16 17:11 29:4 53:2,25 54:17 
+40:3,12,13,14 27:21 30:25 Solicitor 1:17 standing 44:7,12 54:25 55:5,6 
+41:20,20 42:2 33:8,13 34:7 solicitous 39:8 44:14 55:19 56:14,17 
+53:9 34:15 40:20 solve 7:12 stands 44:17 57:9 58:18,18 
+
+securing 27:18 41:17 42:1 somebody 8:3 state 8:11 29:1 58:19 59:9,22 
+see 4:18 13:17 46:6,9 57:25 9:4 27:1 28:3 32:18 52:11,14 60:7,12,18 
+
+23:7 28:6 58:4,6 31:12 33:13 55:23,24 statutes 8:12 9:7 
+34:23 37:24 set 22:16 24:14 sophisticated statement 17:18 9:20 21:9 
+40:1 51:18 24:21,23 34:21 27:18 20:6,7 21:6 statute's 39:4 
+58:15 sets 24:12 sorry 40:23 22:24 36:15 statutory 23:12 
+
+seeing 60:11 setting 34:25 54:21 37:2 39:2,3,6 24:12 37:20,24 
+sees 13:23 settlement 3:12 sort 11:6,7 41:7,9,14,22 44:3 
+sell 30:17 3:14 6:2 7:20 22:17 58:22 43:25 45:1,9 stay 32:8 
+Senate 29:18 26:17 29:3,13 SOTOMAYOR 45:11,25 47:17 stayed 52:11 
+
+52:4 30:22 34:7 31:17,21 32:6 47:17,20 51:7 step 32:16 49:14 
+send 30:16 38:7 47:10 32:13,20 33:24 56:23 57:1,16 52:18 57:8 
+sense 16:7 32:7 57:23 59:3,13 34:9,14 36:12 statements stepping 28:25 
+
+58:15 Seventh 37:9 37:9 38:17 42:21 32:17 
+
+Alderson Reporting Company 
+
+
+
+72 
+Official 
+
+stop 16:3 system 22:15 15:3 17:19,25 traditional 15:6 59:7 
+strong 39:12 19:14,25 20:1 15:17 unearned 4:6,12
+
+Tstrongest 39:11 20:3,15 21:4,6 transaction 4:14 5:9 6:10 
+T 2:1,1structure 54:16 21:21 22:1,21 24:19,19,20,20 6:12 7:17 10:2 
+table 30:13study 29:21 23:22 24:1,6 transactions 10:7,15,22,24
+tacks 8:20,2034:23 25:2,25 27:4 30:1 59:22 11:6 15:18 
+take 5:7 9:10 stuff 10:6 60:10 27:25 28:8 transforming 16:12 18:18,20
+
+22:5 32:16subject 37:16 31:16 33:24 60:13 18:23 20:10,22
+taken 23:2 42:4 43:4 35:18 37:12,19 tread 29:2 21:11 22:23 
+talk 45:16submitted 61:9 37:20,22 38:20 treat 37:16 23:1,2,13 24:9 
+talked 42:2561:11 39:11 44:16 tree 23:18 26:6 28:12 
+talking 9:24,25subsection 47:25 49:5 true 7:24 16:5 32:22,23 34:20 
+
+10:11,17 41:12 29:23,24 51:21 53:24 37:19 35:5,6,12 42:1 
+48:15 52:6subsequent 55:1 57:4,7 truly 56:17 47:2,4,6 52:6 
+57:2217:18 59:8 60:2,4,21 Truth 48:17 53:11,17 56:18 
+
+TAMMY 1:3subsidiaries thinking 3:22 try 50:4 51:23 57:11,12,16,19
+tell 19:4 42:19 33:25 34:1,6 24:16 56:24 trying 32:16 58:12 59:7,10
+
+51:23successor 3:23 57:2 60:18 43:23 48:12,12 unethical 31:3 
+telling 21:22suddenly 10:2 third 57:22 58:15,17 United 1:1,12,19
+
+59:12sufficient 60:23 THOMAS 1:21 Tuesday 1:9 2:7 18:13 
+tells 29:9 36:18 suggest 49:13 2:10 28:20 turn 7:14 universe 30:12 
+term 4:22 6:2 suggested 40:9 thoroughness two 6:18,18 8:17 unjust 52:15 
+terms 18:17suggesting 50:8 44:19 45:4 9:3 12:15 unknowingly
+
+33:2 37:17suggestion 53:1 thought 4:19 18:18,21 24:12 52:4 
+thank 18:9suggests 47:20 41:12 58:25 24:21 25:9,10 unlawful 31:7 
+
+28:17 53:6suits 4:1 59:21 26:10,11 29:3 31:13 
+56:5,7,12 61:7 suit-commenc... three 40:16,17 29:25 30:21 unnecessarily
+
+theirs 41:233:24 58:11 36:13 41:4 29:12 38:6 
+46:4sum 54:14 time 17:7,8 18:8 55:6 59:3 
+
+theoretically 5:3supplement 22:5 26:17 two-step 57:8 unnecessary
+They'd 55:2218:6 32:17 35:9 type 34:17,21 59:21 
+thing 9:6 11:4 supporting 1:19 37:7 40:11 36:1 38:9 unsplit 57:10 
+
+15:21 33:11,222:8 18:14 41:18 50:22 types 38:15 unusual 56:16 
+35:5 53:4supportive 52:18 53:12 typically 32:4 56:16 
+56:15 57:954:15 55:18 53:25 unworkable 
+
+things 9:3 10:5 suppose 6:16 8:6 times 19:5 33:2 
+U11:9 16:2,17supposed 4:21 title 30:15 35:6 use 8:13 55:17 
+
+29:3,25 30:12 ultimately 52:35:2 51:4 35:12 53:11,13 59:19 
+38:15 42:22 60:5 61:1supreme 1:1,12 53:14,15,16,17 usually 22:15 
+45:5 51:16 underlying60:11 53:21 54:5,6,7 50:12 
+52:2 58:13,20 53:20sure 23:5 27:19 55:2,3,8,12,12 
+
+V58:25 59:14 understand 4:1039:8 40:25 55:14 
+think 4:8,25 5:7 12:11 22:7 v 1:5 3:4 17:11 43:8 45:18 titled 35:4 
+
+5:15 6:20 7:25 27:20 31:18 vague 48:1359:1 toenails 8:22 
+8:4,9 9:5,14,19 understanding value 32:25surely 8:8 told 60:24 
+10:13 12:15,23 9:5 26:13 57:25 58:4,5surplusage 9:20 touches 37:5 
+13:2,10 14:1 undivided 23:2 verbs 24:13,14sweep 38:12 track 19:16 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+73 
+
+24:22,23 32:24 33:9 54:8 6a 7:16 
+view 17:1,2 23:6 
+
+41:23 54:15 
+40:9 
+
+willing 35:21 
+10-1042 1:4 3:4 
+10:11 1:13 3:2 8 
+
+violate 14:24 withdrawing 100 7:19,23 8:1 8 26:10,12 27:2 
+15:11 19:1 59:24 9:23,25 10:2 27:5,8,12,14 
+21:7 54:25 withdrew 59:18 31:22 32:10 8(b) 31:25 
+55:5 
+
+violated 13:4 
+18:19,22 
+
+wooden 8:21 
+word 8:10 12:2 
+
+35:16,16 
+
+33:5,10,12,13 
+34:11 
+
+11:12 61:10 9 11:4 
+9 
+
+violates 22:1 words 7:16 8:2 15a 40:6 
+23:3 42:2 8:18 9:15 16 59:5 
+
+violating 19:10 11:24 20:12 16a 40:6 
+violation 14:5 26:9 31:18 18 2:7 
+
+17:15,24 25:7 37:6 38:14 18(b) 41:4 
+30:4 48:11,13,14 1974 28:24 
+
+violations 4:1 49:21 29:16 46:2,23 
+VIR 1:3 work 11:3,11 1992 39:10 
+
+W 
+21:2 30:15 
+53:14,16,18,22 
+
+41:15,24 
+1996 41:11 
+
+Wait 23:16 54:5,12 55:3,4 59:17 61:4 
+waiting 47:12 
+want 17:4 19:24 
+
+55:12,18 57:24 
+working 37:7 2 
+
+19:25 22:4 worry 20:25 2 27:14 54:7 
+27:10 37:17 wouldn't 7:11 2,000 23:18 
+45:16 60:9 7:12 12:11 2001 22:24 
+
+wanted 17:21 19:10 30:9 2012 1:9 
+Washington 1:8 36:21 55:25 21 1:9 59:11 
+
+1:15,18,21 writes 13:18 2601 29:11 52:8 
+59:6 written 15:16 2607 35:7 
+
+wasn't 12:7 29:6 2607(a) 32:2 
+17:15 27:25 wrong 6:17 33:1 2607(b) 4:2 
+33:25 35:2 18:17 23:4 
+60:14 X 25:1 31:25 
+
+way 4:19 5:21 x 1:2,7 36:21 35:14 40:12 
+11:3 37:12,21 40:4 41:9 43:6 49:22 55:20 
+38:4 48:12 
+50:7 52:20 
+
+ways 12:16 
+Y 
+
+years 54:7 
+
+28 2:11 
+
+3 
+36:13 you’ve 5:24 3 2:4 11:5 
+
+weeks 29:7 
+went 29:16 
+weren't 16:4 
+we'll 3:3 41:23 
+we're 6:19 15:21 
+
+16:6 48:14 
+52:6 60:25 
+
+whatsoever 
+
+$ 
+$100 11:13,15 
+
+13:18 
+$20,000 23:18 
+
+1 
+1 15:24 32:13,14 
+10 11:4 53:13 
+
+33a 20:8 
+
+5 
+5 56:9 
+53,057 57:21 
+56 2:14 
+
+6 
+6 20:6 
+
+Alderson Reporting Company 
+
+

@@ -1,0 +1,6339 @@
+
+               
+
+          
+
+                       
+
+                
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+JOHN D. ASHCROFT, :
+
+ Petitioner : No. 10-98
+
+ v. : 
+
+ABDULLAH AL-KIDD : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Wednesday, March 2, 2011
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:18 a.m. 
+
+APPEARANCES: 
+
+NEAL KUMAR KATYAL, ESQ., Acting Solicitor General,
+
+ Department of Justice, Washington, D.C.; on behalf of
+
+ Petitioner. 
+
+LEE GELERNT, ESQ., New York, New York; on behalf of
+
+ Respondent. 
+
+1
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                    
+
+                    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+
+NEAL KUMAR KATYAL, ESQ.
+
+ On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+LEE GELERNT, ESQ.
+
+ On behalf of the Respondent 20 
+
+REBUTTAL ARGUMENT OF 
+
+NEAL KUMAR KATYAL, ESQ.
+
+ On behalf of the Petitioner 48 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (11:18 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+next this morning in Case 10-98, Ashcroft v. Al-Kidd.
+
+ General Katyal.
+
+ ORAL ARGUMENT OF GENERAL NEAL KUMAR KATYAL
+
+ ON BEHALF OF THE PETITIONER
+
+ GENERAL KATYAL: Thank you, Mr. Chief 
+
+Justice, and may it please the Court:
+
+ This lawsuit seeks personal money damages 
+
+against a former Attorney General of the United States 
+
+for doing his job, allegedly with an improper motive, 
+
+yet the Attorney General, like the Federal prosecutor in 
+
+Idaho who sought the material witness warrant at issue 
+
+in this case, was performing the functions of his 
+
+office.
+
+ There are three reasons why the Petitioner 
+
+should not be personally liable for money damages. The 
+
+first is because the prosecutor's act of seeking the 
+
+material witness warrant is integrally associated with 
+
+the judicial process and entitled to absolute immunity. 
+
+To view it any other way is to expose both line 
+
+prosecutors and high officials to lawsuits by highly 
+
+incentivized litigants based on their purportedly bad 
+
+motives. That is something this Court has manifestly 
+
+3
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+resisted and for good reason, because improper motives 
+
+are easy to allege and hard to disprove. Allowing such 
+
+suits to proceed would result in burdensome litigation 
+
+and interfere with the ability of prosecutors to do 
+
+their jobs.
+
+ The second reason is that the Fourth 
+
+Amendment was not violated, and, therefore, qualified 
+
+immunity applied. There can be little doubt that the 
+
+statutory requirements of section 3144 were met in this 
+
+case, and, equally, there can be little doubt that the 
+
+subjective motivations of Attorney General Ashcroft or 
+
+the line prosecutor are thoroughly irrelevant to whether 
+
+a Fourth Amendment violation exists.
+
+ This Court has repeatedly rejected 
+
+subjectivity, explaining that otherwise time-consuming, 
+
+vexatious, burdensome, and, indeed, destabilizing 
+
+discovery and litigation would be the inexorable result.
+
+ And the third reason, and the easiest 
+
+reason, is that whatever one thinks the applicable law 
+
+is, what it -- it was manifestly not the law in 2003 
+
+when the warrant in this case was issued by a neutral 
+
+judge in Idaho.
+
+ JUSTICE SCALIA: Can I ask whether your 
+
+second reason doesn't boil down to saying that it makes 
+
+very little difference whether -- whether Ashcroft is -­
+
+4 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+is held immune by absolute immunity or by qualified 
+
+immunity?
+
+ GENERAL KATYAL: Oh, no, it -­
+
+JUSTICE SCALIA: Once -- once you say 
+
+that -- that motive is not introducible with regard to 
+
+the qualified immunity question, and once you say that 
+
+he's using a witness subpoena, and you can't look behind 
+
+it as to whether he was abusing it for some other 
+
+purpose, is there any difference between absolute and 
+
+qualified immunity?
+
+ GENERAL KATYAL: Well, I take it there may 
+
+be a difference. We think the Court should first decide 
+
+the absolute immunity question, which is the way that 
+
+this Court has historically handled questions when 
+
+there's an absolute immunity question and then a 
+
+qualified immunity.
+
+ I take it that the qualified immunity 
+
+question in this case is one about whether motivations 
+
+matter for the Fourth Amendment; whereas the motivation 
+
+question in the absolute immunity sense, as Respondents 
+
+see it, is -- is something broader. It's not limited to 
+
+the Fourth Amendment, per se. Their argument is if the 
+
+prosecutor is -- has bad motives essentially or a 
+
+certain bad motive, an investigatory or purposeful bad 
+
+motive to engage in preventive detention, that somehow 
+
+5 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+pierces the veil of absolute immunity. That is 
+
+something this Court has never accepted.
+
+ JUSTICE SCALIA: Well, I thought the -- I 
+
+thought the argument, rather, was that this is not as 
+
+close to the core of the prosecutorial function as some 
+
+of the other functions to which we have given absolute 
+
+immunity, and since it's so dangerous, since there is 
+
+such potential for abuse, we shouldn't confer absolute 
+
+immunity on this particular conduct. But I don't 
+
+understand why if we agree with you on qualified 
+
+immunity, there is any difference whatever.
+
+ GENERAL KATYAL: Justice Scalia, to be sure, 
+
+they are now making that argument in this Court, that 
+
+this doesn't fall -- this isn't intimately associated -­
+
+JUSTICE SCALIA: Right.
+
+ GENERAL KATYAL: -- with the judicial 
+
+process. Below, of course, they said the reverse: That 
+
+material witness warrants were associated with the 
+
+judicial process and that the only difference is that -­
+
+that, here, they had a bad motive.
+
+ So I've talked about the bad motive point. 
+
+Now, with respect to whether this is intimately 
+
+associated with the judicial process, these are material 
+
+witness warrants being sought in connection with an 
+
+ongoing investigation by a prosecutor. It is 
+
+6 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+quintessentially a prosecutorial function to obtain 
+
+these warrants and has been for -- for hundreds of 
+
+years, and it's the exercise of the prosecutor's 
+
+professional judgment, which is something that this 
+
+Court has looked to.
+
+ JUSTICE SCALIA: Was the prosecution already 
+
+pending when this -- when this warrant was issued?
+
+ GENERAL KATYAL: Yes, it was. The 
+
+indictment of Mr. Al-Hussayen was in February 2003. The 
+
+prosecutors learned in March that Mr. Al-Kidd was about 
+
+to board a plane and go off to Saudi Arabia for an 
+
+unspecified length of time. They then acted 
+
+immediately. They went to the court and said we need 
+
+this warrant to secure this testimony. That is, to me, 
+
+essentially what prosecutors do and protected by Imbler. 
+
+To see it any other way is to expose prosecutors to 
+
+lawsuits for -­
+
+JUSTICE GINSBURG: Was Mr. Al-Kidd -- was he 
+
+released after -- I understand he didn't testify at the 
+
+trial, and there was an acquittal, and then other 
+
+charges were dropped. Was Al-Kidd still in custody as a 
+
+material witness after the trial was over?
+
+ GENERAL KATYAL: Justice Ginsburg, he was 
+
+in -- he was detained for only a period of 16 days total 
+
+in 2003. Is -­
+
+7 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE GINSBURG: But he was restrained 
+
+much longer -- for 15 months.
+
+ GENERAL KATYAL: He had travel restrictions 
+
+placed upon him until the trial was over and until the 
+
+government -- because after the resolution of 
+
+Mr. Al-Hussayen's case, which was acquittal on some 
+
+charges and a hung conviction -- a hung -- a hung 
+
+decision on others, the government thought about 
+
+retrying Mr. Al-Hussayen, took it very seriously, and 20 
+
+days after al-Hussayen's verdict by the jury, we reached 
+
+an agreement with them in writing that Mr. Al-Hussayen 
+
+would leave the country and -- and not come back, and in 
+
+exchange we weren't going to prosecute him any further. 
+
+And so, immediately -- I think quite soon after the jury 
+
+verdict, the -- the conditions placed on Mr. Al-Kidd 
+
+were lifted.
+
+ And I should say that the material witness 
+
+warrant statute laces into it a whole suite of 
+
+safeguards to prevent against -- as, Justice Scalia, you 
+
+pointed out -- the potential abuse for the -- for 
+
+material witnesses by prosecutors. I think Congress has 
+
+set up several different things to prevent that. The 
+
+first is, in order to get a material witness warrant, 
+
+the prosecutor needs to show both materiality and then 
+
+practicability. 
+
+8
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+The second is that there are strict limits 
+
+placed on the conditions of the -- on the ability of the 
+
+prosecutor to detain anyone. Section 3142 says that a 
+
+detention can only be allowed by a judge if, quote, "no 
+
+condition or combination of conditions will reasonably 
+
+assure the appearance of the individual."
+
+ And then there's a formal procedure where 
+
+they have a right to counsel, they have the right to 
+
+cross-examine witnesses, to -- to present evidence, to 
+
+proffer evidence at the hearing, and the like -- all to 
+
+show that they shouldn't continue to be detained.
+
+ JUSTICE ALITO: Well, in light of these 
+
+restrictions, I would like to come back to the question 
+
+that I understood Justice Scalia to be asking. If the 
+
+Court were to hold that obtaining a material witness 
+
+warrant does not violate the Fourth Amendment where the 
+
+statutory requirements, and in particular establishing 
+
+materiality, are met, why would it be necessary for the 
+
+Court to decide whether there's absolute immunity when a 
+
+prosecutor seeks a material witness warrant?
+
+ GENERAL KATYAL: For two reasons. Number 
+
+one is I think that's the way this Court has 
+
+historically gone about it, probably for reasons of 
+
+constitutional avoidance, to not reach constitutional 
+
+questions if there's an absolute immunity question. 
+
+9
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+And the second is, here, you have a Ninth 
+
+Circuit decision, Justice Alito, that says that -- that 
+
+absolute immunity can be pierced by a prosecutor's bad 
+
+motive. That is something that infects not simply 
+
+material witness warrant cases but, indeed, virtually 
+
+any case. As we point out and as the dissent below 
+
+pointed out, that kind of argument could be run by any 
+
+defendant who says you didn't intend to actually indict 
+
+me, or, you didn't care about that, you really wanted to 
+
+flip me to get testimony against some higher-up. And to 
+
+allow defendants to make those kinds of arguments and to 
+
+expose line prosecutors and attorneys general to that 
+
+form of liability is an extremely damaging proposition.
+
+ The -- with respect to the Fourth Amendment 
+
+question about whether or not motive applies, I think 
+
+this Court has quite clearly said in Whren that motive 
+
+is not -- is not something that should be looked to, 
+
+that the subjective motivations of the prosecutor are 
+
+not -- are -­
+
+JUSTICE GINSBURG: But that's after there is 
+
+probable cause to suspect that criminal activity has 
+
+occurred. And then you -- once you have probable cause, 
+
+they're not going to look behind probable cause.
+
+ But, here, the whole reason for using this 
+
+material witness statute is that there isn't probable 
+
+10
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+cause to believe that al-Kidd did anything. The 
+
+violation -- there was no violation of the law. So 
+
+Whren is different. It's a different case.
+
+ GENERAL KATYAL: Justice Ginsburg, it's 
+
+certainly different in -- in that respect, but I do 
+
+think that difference doesn't matter, because I think 
+
+what Whren and Edmond and the cases were getting at is, 
+
+is there some objective, individualized determination by 
+
+a neutral judge? And, here, as I was saying earlier, 
+
+there is quite clearly that laced into the 3144 statute 
+
+itself; that is, the judge must find materiality and -­
+
+and impracticability of the testimony. And that is a 
+
+standard performing, I think, a long-standing government 
+
+function of making sure that testimony, important 
+
+testimony, is available at trial.
+
+ So it is not like a situation in which the 
+
+government, just on their mere say-so, can put the -­
+
+can detain someone on the basis of them saying, well, we 
+
+think this person has information. I think there are 
+
+strict standards placed on that, and, indeed, Federal 
+
+Rule -- Federal Rules of Criminal Procedure 46 adds 
+
+standards to it by saying that a prosecutor must report 
+
+to the judge every 10 days about anyone who is detained 
+
+and assure no more detention is necessary. So that -­
+
+JUSTICE SCALIA: I don't see -­
+
+11 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE GINSBURG: How does that -­
+
+JUSTICE SCALIA: I don't see how that would 
+
+make any difference to the -- at least to the absolute 
+
+immunity question. You wouldn't assert that there is 
+
+absolute immunity if there's a statute such as this, but 
+
+there is not if there isn't. I mean, either this is 
+
+core prosecutorial function for which he can't be sued 
+
+or it isn't. So what difference does this statute make 
+
+as far -- as far as absolute immunity is concerned?
+
+ GENERAL KATYAL: Absolutely, Justice Scalia. 
+
+I was just answering Justice Ginsburg's question about 
+
+qualified immunity.
+
+ JUSTICE SCALIA: Okay.
+
+ GENERAL KATYAL: I imagine one point about 
+
+the statute might be that the statutes, going all the 
+
+way back to 1789, do reflect that this is a 
+
+prosecutorial function to the extent there is any doubt. 
+
+So, for example, the 1846 statute said that an 
+
+attorney -- excuse me, an attorney of the United States 
+
+must apply for a material witness warrant.
+
+ JUSTICE SCALIA: So for us to agree with you 
+
+on absolute immunity, we -- we would have to believe 
+
+that even if there were no such statute and if a 
+
+prosecutor simply detained somebody as a material 
+
+witness without any check of a -- of an independent 
+
+12
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+magistrate, he would be immune?
+
+ GENERAL KATYAL: I think that is correct, 
+
+that that is quintessentially what prosecutors do in the 
+
+exercise of trying to get a trial -- a trial going. 
+
+Now -­
+
+JUSTICE BREYER: Suppose -- suppose that a 
+
+prosecutor reads the statute, there must be an affidavit 
+
+that says this witness is material. And there is 
+
+irrefutable evidence that the prosecutor said to 
+
+colleagues and others: I do not intend to try this 
+
+person, ever, no matter what; I just want to ask him 
+
+questions. In that case, has the statute been violated 
+
+because he is not material?
+
+ GENERAL KATYAL: Well, if the -- if the --
+
+I'm not sure I totally follow -­
+
+JUSTICE BREYER: I'm not saying it's this 
+
+case. I'm saying it's a hypothetical case.
+
+ GENERAL KATYAL: If the evidence shows that 
+
+the evidence is not material, then the statute is 
+
+violated.
+
+ JUSTICE BREYER: And the reason it is not 
+
+material is because the prosecutor has no intention 
+
+whatsoever of ever bringing this person as a witness in 
+
+any trial.
+
+ GENERAL KATYAL: I do think that that would 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+generally mean that materiality would be violated. I 
+
+could imagine -­
+
+JUSTICE BREYER: All right.
+
+ GENERAL KATYAL: -- some theoretical 
+
+construct -­
+
+JUSTICE BREYER: If materiality is violated, 
+
+does not then that -- that prosecutor -- since he had no 
+
+intention of bringing him to trial or of having him as a 
+
+witness at a trial, that prosecutor would not be immune?
+
+ GENERAL KATYAL: Justice Breyer, let me -­
+
+let me -­
+
+JUSTICE BREYER: -- yes.
+
+ GENERAL KATYAL: -- just make sure that I 
+
+understand the contours of your hypothetical. I don't 
+
+think that subjective motivations of the prosecutor go 
+
+to materiality. So if -­
+
+JUSTICE BREYER: Well, how does -- how does 
+
+it -­
+
+GENERAL KATYAL: Here's how I think it 
+
+works: So I think that Congress set up the objective 
+
+two-part test to decide whether or not an arrest warrant 
+
+would take place, which is materiality and 
+
+impracticability. Now, that isn't subjective; that is 
+
+simply, does the person have material information that 
+
+can be used that -- that's relevant to the trial. 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Now, if the person has a -- the prosecutor 
+
+has a subjective intent that says I'm never going to use 
+
+this testimony, then I think that that doesn't -- that 
+
+will -- that will almost always reflect the fact that 
+
+materiality just objectively hasn't been met in a given 
+
+case, but theoretically I could imagine a circumstance 
+
+in which the prosecutor has that subjective intent but 
+
+yet is material.
+
+ With respect to that, Congress has a 
+
+different safeguard at the back end, in 3144, and that 
+
+is the language in 3144 that says a judge in the 
+
+detention hearing is to inquire as to whether or not the 
+
+detention is necessary, quote, "if there will be a 
+
+failure of justice" if the person is released.
+
+ JUSTICE SCALIA: And you can't look behind 
+
+that, right? You can't look behind that? If the -- if 
+
+the judge has said it's material, that's the end of it; 
+
+you have absolute immunity, right?
+
+ GENERAL KATYAL: Well, I think that the -­
+
+the defense can litigate that and appeal that set of 
+
+issues, but I don't think -­
+
+JUSTICE SCALIA: Can appeal the -- the 
+
+judge's determination that -- that it's material?
+
+ GENERAL KATYAL: Absolutely.
+
+ JUSTICE SCALIA: Well, then how can you have 
+
+15
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+absolute immunity?
+
+ GENERAL KATYAL: Well, they did, because 
+
+we're talking about -­
+
+JUSTICE SCALIA: Oh, you mean at the time 
+
+it's issued?
+
+ GENERAL KATYAL: Exactly.
+
+ JUSTICE SCALIA: I see.
+
+ GENERAL KATYAL: At the time itself. But I 
+
+think that's an important point, Justice Scalia. With 
+
+respect to absolute immunity, this Court has often said 
+
+that it is the crucible of the trial process itself that 
+
+often is a safeguard against abuse.
+
+ JUSTICE SCALIA: Well, what if you didn't 
+
+have -- again, what if you didn't have this prescribed 
+
+judicial process?
+
+ GENERAL KATYAL: I take it that the logic of 
+
+this Court's precedence is that absolute immunity would 
+
+still apply. And the reason for that is that absolute 
+
+immunity isn't some rule to just protect prosecutors 
+
+willy-nilly; it's to protect the public. And as this 
+
+Court said most recently unanimously in the Van de Kamp 
+
+case, that -- quoting Learned Hand -- that -- that there 
+
+is a cost to this. No doubt that certain individuals 
+
+will be harmed, but the cost of rooting out the bad 
+
+apples through damages lawsuits is far worse, that it 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+causes prosecutors to flinch in the performance of their 
+
+duties.
+
+ JUSTICE SOTOMAYOR: There is a difference 
+
+between calling a witness at trial and arresting a 
+
+person. How is it a part of the prosecutorial or the 
+
+trial function to arrest someone? Isn't what's 
+
+protected absolutely is your use of that person at 
+
+trial, not your arrest or detention of them?
+
+ GENERAL KATYAL: No, I do think it goes 
+
+quite a bit further than that. I think it -- and I 
+
+think Burns v. Reed -- and the relevant language is at 
+
+page 492 -- I think is -- is relevant because it says 
+
+that it's pretrial conduct, in order to secure the 
+
+testimony for trial or the like is -- is what is 
+
+protected as well, that it would be far too narrow to 
+
+just focus on the trial itself; and that would be the 
+
+contours of absolute immunity.
+
+ I think Justice Kennedy's opinion in Buckley 
+
+is also instructive in this regard, because what that 
+
+opinion says is that allowing only immunity for the 
+
+trial would just allow individuals to constantly replead 
+
+their allegations and focus only on the pretrial conduct 
+
+and be an end run around absolute immunity. And, again, 
+
+absolute immunity is important not for the prosecutor 
+
+for his own sake or her own sake, but because ultimately 
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that is what -- that causing -- damage liability will -­
+
+will make prosecutors flinch the performance of their 
+
+duties more generally.
+
+ JUSTICE SOTOMAYOR: You don't -- you don't 
+
+think there's a reason to make prosecutors flinch 
+
+against willy-nilly -- that's not what I'm -- I'm 
+
+claiming happened here, but if you take the point that 
+
+you're raising, then prosecutors can out of spite, out 
+
+of pure investigative reasoning, out of whatever motive 
+
+they have, just lock people up.
+
+ GENERAL KATYAL: Justice Sotomayor -­
+
+JUSTICE SOTOMAYOR: And you're -- you're 
+
+basically saying -­
+
+GENERAL KATYAL: -- making prosecutors 
+
+flinch is -- is always a bad thing. What I'm referring 
+
+to is this Court's precedents that say damages liability 
+
+on prosecutors is the wrong way to go about it because 
+
+the costs are too high compared to the benefits, and 
+
+there are other ways of dealing with that -- from 
+
+professional discipline, as Malley v. Briggs and Imbler 
+
+said; to -- to -- to bar actions; to the crucible of the 
+
+trial process itself, which is a way of dealing with 
+
+that.
+
+ JUSTICE SCALIA: Well, there are procedures 
+
+set forth in the statute, I'd say you would add, which 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+you think are not necessary, but are there in order to 
+
+make them flinch in a different -- in a different -­
+
+GENERAL KATYAL: That is precisely correct. 
+
+We don't think those are constitutionally compelled, but 
+
+we do think they provide a very important safeguard.
+
+ JUSTICE KENNEDY: What's your best authority 
+
+that at -- at common law or the common law tradition, 
+
+there is absolute immunity for witness -- for the 
+
+issuance of witness warrants?
+
+ GENERAL KATYAL: I don't think it's come up 
+
+with respect to public prosecutors, and so our argument 
+
+here, to the extent the Court reaches that question -­
+
+and, again, it wasn't -- it wasn't raised below in the 
+
+brief in opposition, but if the Court wanted to reach 
+
+that question, I think it would be that the argument 
+
+would derive the same way as the arguments in this 
+
+Court's post-Imbler cases, which is, as long as it is 
+
+intimately associated with the judicial function that 
+
+the prosecutor is doing, then absolute immunity should 
+
+extend to that context.
+
+ JUSTICE KENNEDY: Then a second question, 
+
+quite apart from immunity, just addressing the 
+
+substantive constitutional issues under the statute, 
+
+suppose that the prosecutor has probable cause to indict 
+
+and try the person for the crime. Suppose also that 
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+there is good reason to show that he would be a material 
+
+witness as to another participant in the crime. Does 
+
+the government have any duty to proceed with the 
+
+indictment, or can they just hold the person as a 
+
+material witness without indicting?
+
+ GENERAL KATYAL: I do think that the 
+
+government -- I'm not sure if we have any policy with 
+
+respect to that, but I think that -- that we -- that at 
+
+least for Fourth Amendment purposes, there wouldn't be a 
+
+violation if the government held the person for 
+
+essentially a dual motive, and that is what I understand 
+
+they have now conceded at page 31 of their brief, which 
+
+is in dual motive cases, the government's action is 
+
+permissible.
+
+ If there are no other questions, I'll 
+
+reserve the balance of my time.
+
+ CHIEF JUSTICE ROBERTS: Thank you, General.
+
+ Mr. Gelernt.
+
+ ORAL ARGUMENT OF LEE GELERNT
+
+ ON BEHALF OF THE RESPONDENT
+
+ MR. GELERNT: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ In Dunaway, this Court emphatically 
+
+reaffirmed the bedrock Fourth Amendment principle that a 
+
+criminal suspect may not be arrested, absent probable 
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+cause to believe there has been a law violated. The 
+
+rule is fundamental to our traditions, is widely viewed 
+
+as a defining feature of our country, and has been 
+
+steadfastly protected by this Court for more than 2 
+
+centuries in both good and bad times.
+
+ The material witness statute represents a 
+
+dramatic departure to the rule, allowing the arrest of 
+
+uncharged, innocent, even cooperative people. If a 
+
+material witness arrest is constitutional, it can only 
+
+be because its purpose is to secure testimony and not to 
+
+preventively detain and investigate the witness himself.
+
+ JUSTICE SCALIA: Do you acknowledge that it 
+
+is then constitutional? Your -- your opening comments 
+
+make me think you don't even acknowledge that it's 
+
+constitutional then?
+
+ MR. GELERNT: Justice Scalia, we are not 
+
+pressing that argument. I would say that based on the 
+
+legal historian's brief there is a strong argument to be 
+
+made that it is not constitutional, with respect at 
+
+least to cooperative witnesses. The statute the Framers 
+
+enacted in 1789 would not allow the arrest of any 
+
+witness unless they came voluntarily before the 
+
+magistrate and refused to even promise to return. Not 
+
+even a surety or a -- a surety or a bond was allowed. 
+
+So we do think there is a strong argument, but we are 
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+not pressing that argument.
+
+ Our argument is that it cannot be used for 
+
+ulterior purposes. And I just want to pick up, if I 
+
+can, with Justice Breyer's hypothetical that he posed to 
+
+the government, which is of course our hypothetical. 
+
+The government started out this case throughout the 
+
+lower courts and in the opening brief saying purpose is 
+
+wholly irrelevant. This is Whren, even though Whren is 
+
+probable cause to believe a law has been violated; this 
+
+is Whren, purpose is wholly irrelevant.
+
+ We posed a hypothetical which we actually 
+
+think is this case and is consistent with our factual 
+
+allegations, that the sole reason this arrest was made 
+
+was not to secure testimony but to preventively detain 
+
+and investigate someone for whom there was no probable 
+
+cause or violation of the law.
+
+ That is -- is a difficult situation I think 
+
+to reconcile with Whren, I think an impossible situation 
+
+to reconcile with Whren, or with the text or history of 
+
+this statute.
+
+ The government has now come back and trying 
+
+to have it both ways and saying, well, the statute 
+
+wouldn't naturally allow that. But if purpose is -- as 
+
+Justice Breyer pointed out, if purpose is truly 
+
+irrelevant why they want to make the arrest, the 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+government should have answered "that would be fine. 
+
+The only things we need to satisfy are the objective 
+
+components of materiality and impracticability."
+
+ JUSTICE ALITO: Is this a -- is this a 
+
+realistic hypothetical that you've posed? Now, in order 
+
+to detain someone under the material witness statute, 
+
+that person, potential witness, must have material 
+
+testimony, not just relevant testimony, material 
+
+testimony, testimony that would be of some importance in 
+
+the criminal prosecution. So your hypothetical is a 
+
+situation in which there is a witness and this witness 
+
+has important testimony that could be used in a pending 
+
+criminal case, and yet the prosecution has absolutely no 
+
+interest in calling that person as a witness.
+
+ How often is that going to arise?
+
+ MR. GELERNT: Well, Justice Alito, I -- I 
+
+think a few points, one is just as an initial matter. 
+
+The statute has not actually been interpreted to go 
+
+beyond relevance, in the way you're posing it. 
+
+Interestingly, earlier statutes actually said the 
+
+testimony needed to be necessary. And so, that's -­
+
+that's actually an important watering down.
+
+ But putting that aside for the moment, we 
+
+think that what -- it -- it did happen in this case, it 
+
+happened after 9-11, I think that goes to the crux of 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+our case here. We are not trying to fiddle with the use 
+
+of the material witness statute in the every day 
+
+context, and I think that's the point the Federal 
+
+prosecutor's brief is making.
+
+ What we are saying is simply that the 
+
+principle has to be that if you do encounter that 
+
+extreme case, this Court should not bless the situation 
+
+where it literally can be used as a preventive -­
+
+CHIEF JUSTICE ROBERTS: The problem, and 
+
+it's, I think, the problem that I think Whren 
+
+highlighted is that the -- the allegation can so readily 
+
+be made in every case under the material witness statute 
+
+is that this is one of those bad intent cases, and the 
+
+case has to proceed so that we can prove that.
+
+ One of the ways we prove that is by asking 
+
+everybody who is involved in the process. Why did you 
+
+do this? What was your intent? I mean, the whole 
+
+purpose of Whren is to make sure that kind of stuff 
+
+doesn't happen.
+
+ MR. GELERNT: Yes, Mr. Chief Justice, but 
+
+let me -- let me say that I think I -- I understand 
+
+Whren, I obviously don't want to tell the Court about 
+
+its own cases, but is that it was drawing a conceptual 
+
+line, that the first point about Whren, and I think the 
+
+fundamental point, was the conceptual point that as the 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Whren court put it, only an undiscerning reader would 
+
+conflate cases in which there was probable cause of a 
+
+violation of the law with cases in which there wasn't.
+
+ So I think the Whren court is not saying we 
+
+wouldn't look at purpose. I think that's the teaching 
+
+of the special needs cases.
+
+ Now, to your practical question about why 
+
+would this be hard to allege? I actually think that 
+
+this is one of those unique situations which it would be 
+
+very difficult to allege. Take the government's cases, 
+
+for example, that they've cited, like Daniels and Betts, 
+
+the material witness cases, you have witnesses being 
+
+arrested, not showing up for trial. As the court of 
+
+appeals made clear in those cases, they were the main 
+
+witnesses, not showing up on the day of the trial or 
+
+right before trial.
+
+ It would be virtually impossible for those 
+
+witnesses to turn around and say the only reason I was 
+
+arrested was for investigative purposes. And I think 
+
+that on top of the fact that this statute is used very 
+
+rarely, I mean what we have pointed out is other than in 
+
+immigration cases, which the person is already subject 
+
+to custody, there are only a few hundred each year.
+
+ And again, I think what the Green brief is 
+
+saying by the Federal prosecutors is, look, the settled 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+understanding of this statute among line prosecutors has 
+
+always been, you use it to secure testimony. Maybe 
+
+there's a windfall in the back of your mind that this 
+
+person might be a suspect, but you certainly can't use 
+
+it where you have no intention of using the testimony. 
+
+I think then the limitations on this statute become 
+
+meaningless. I mean, take -­
+
+CHIEF JUSTICE ROBERTS: So every time the 
+
+prosecutor elects not to call one of these witnesses for 
+
+a variety of reasons, you would have a claim that this 
+
+wasn't designed to elicit testimony?
+
+ MR. GELERNT: No, no, we don't think so, 
+
+Mr. Chief Justice. I -- I think what we have -- we have 
+
+said is that calling the witness or not calling the 
+
+witness can't be determinative. I think one reason is 
+
+you wouldn't want to create a perverse incentive to have 
+
+prosecutors simply call the witness just to cover 
+
+themselves. So I think you would have to allege much 
+
+more, and I think that's what we have done.
+
+ I think there is an entire set of 
+
+allegations with respect to Mr. Al-Kidd, and they fit a 
+
+national pattern. And I would importantly say in the 
+
+questions presented, the government raised an Iqbal 
+
+claim as to plausibility only as to a small part of this 
+
+case which is no longer part of the case, which is, was 
+
+26 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Mr. Ashcroft involved in the specific statements in this 
+
+specific affidavit.
+
+ They did not allege that the allegations of 
+
+a pretextual policy were implausible. So it is not 
+
+before this court, it is not a question presented, and I 
+
+think it is telling that the government didn't raise it. 
+
+They are sitting on all the information about what 
+
+happened after 9-11 as a policy matter, and they did not 
+
+claim it was implausible.
+
+ JUSTICE KENNEDY: Just a point of detail. 
+
+I -- I may not be recalling correctly. You said this 
+
+statute is rarely used. I thought there were 4,000 
+
+material witness hearings a year. Is that mostly 
+
+because of the immigration?
+
+ MR. GELERNT: Yes, Justice Kennedy, and I 
+
+apologize if I wasn't clear. That what the -- what the 
+
+court of appeals showed and what the statistics also 
+
+show is that roughly 92 percent of the cases are 
+
+immigration cases, where the person is already subject 
+
+to custody, and there wouldn't be any need to use it in 
+
+that pretextual way.
+
+ So what we're talking about is a few hundred 
+
+each year throughout the country, and again when it's 
+
+used properly, it's going to be virtually impossible to 
+
+allege something like this. 
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE KENNEDY: Do we -- do we -- do we 
+
+have statistics for the States, how many States hold -­
+
+how many people are held under State material witness 
+
+statutes?
+
+ MR. GELERNT: We have -- we have looked for 
+
+those, Justice Kennedy. We have not been able to find 
+
+them. What we do know about the States, though is that 
+
+more than 30 of the States have statutes that are much 
+
+more restrictive than the Federal Government, because 
+
+what they do is they follow what the framers did in 
+
+1789, which is to say the witness has to be given an 
+
+opportunity to comply, and that's what the framers did. 
+
+You have to ask the witness if they will continue to 
+
+comply. If they won't -- or you have to make a showing 
+
+of why it's impossible to ask them.
+
+ So, I think in many States it won't be a 
+
+problem. I think actually, you know, the State issue is 
+
+an important one because what the Federal Government is 
+
+arguing here is, of course, well, our prosecutors are 
+
+very well supervised. Well, that -- that doesn't take 
+
+into account if there is a deliberate attempt to misuse 
+
+it.
+
+ But I also think what we're looking at are 
+
+States, local counties, cities where there may not be 
+
+the resources necessary to put checks on, and what the 
+
+28
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+government's asking is for this Court to hold that as 
+
+long as you can make the minimal showings of 
+
+impracticability and materiality, which don't even 
+
+require the evidence to be important or that the witness 
+
+be uncooperative, you then can have any purpose you 
+
+want. So you could have States, cities, local counties 
+
+saying every member of this gang or every member of this 
+
+business must know some information about the person 
+
+that's been indicted.
+
+ JUSTICE ALITO: Your argument is that the 
+
+Constitution does not allow a material witness to be 
+
+detained, so long as the witness says in court that he 
+
+or she will show up for trial, no matter how much 
+
+evidence there is that this person poses a great risk of 
+
+flight? If the person says in court, I will be there, 
+
+that's the end of it, the person cannot be detained?
+
+ MR. GELERNT: Do I think the Constitution 
+
+requires that?
+
+ JUSTICE ALITO: Yes.
+
+ MR. GELERNT: I think it probably does, but 
+
+we are not taking a position on that. I mean, what we 
+
+are basically saying is that it is out of whack 
+
+historically. It wasn't until the mid 1900s where that 
+
+could happen, where even if they said they would come 
+
+back, you could hold them. So I think it's out of whack 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+historically, and there may be a real constitutional 
+
+argument.
+
+ We are not pressing it. We are simply 
+
+saying that if it's used for its proper purpose, then we 
+
+are going to assume it's constitutionality, which the 
+
+Ninth Circuit did, but it can't be that it can be used 
+
+as a preventive detention. And I think any reasonable 
+
+official -- and I want to go to the qualified immunity 
+
+if I could -- would have seen that, because I think the 
+
+analysis would have been the following. You would have 
+
+pulled out Dunaway, and you would have seen that you 
+
+need probable cause to arrest someone, probable cause of 
+
+wrongdoing.
+
+ And you would have then said, well, we don't 
+
+have probable cause of wrongdoing, so you would have 
+
+pulled out Whren then, because Whren talked about 
+
+pretext. What Whren would have told you is do not 
+
+conflate cases in which there's probable cause of 
+
+wrongdoing with cases in which the court has granted an 
+
+exemption from the probable cause -­
+
+JUSTICE ALITO: You might turn out -­
+
+CHIEF JUSTICE ROBERTS: If you were writing 
+
+a law review article, you might have done that. But 
+
+we're talking about an officer. I think the first thing 
+
+you would do is say, well, let me see these material 
+
+30 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+witness statute cases, and what would he have found?
+
+ MR. GELERNT: Well, I think what he would 
+
+have found, Your Honor, is that the Court has not 
+
+specifically -- I grant that it has not specifically 
+
+ruled on the Fourth Amendment, but what he would have 
+
+found in Barry and the other cases, is that the Court 
+
+repeatedly, repeatedly referred to statute as a means of 
+
+securing testimony.
+
+ So I think the reasonable official would 
+
+have said to themselves, well, it's clear under the 
+
+Fourth Amendment that I don't have probable cause, but 
+
+maybe the statute is allowing me to do it.
+
+ Now, first of all, it statute can't 
+
+authorize a Fourth Amendment violation. But putting 
+
+that aside, just a -­
+
+CHIEF JUSTICE ROBERTS: But, again, you're 
+
+talking about the officer, he reads the statute and then 
+
+doesn't say, well, but maybe the statute's 
+
+unconstitutional, so I need to do more research?
+
+ MR. GELERNT: Exactly, Your Honor. And I 
+
+think what the research would have been done, they would 
+
+have looked at Barry and all this Court's other cases 
+
+and would have specifically said it's to secure 
+
+testimony, and then I think a reasonable official would 
+
+have looked at the text of the statute, everything in 
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the text of the statute is about securing testimony, 
+
+including the deposition requirement, you must be 
+
+released if your deposition is taken, you must have a 
+
+deposition.
+
+ All of those things do not suggest -- if the 
+
+government's interests could be simply we want to hold 
+
+this person because for preventive detention reasons, 
+
+none of the statute would make sense. I think that a 
+
+reasonable official could not have turned to this 
+
+statute and said, yes, I'm looking at the statute, and 
+
+it seems like I can use it for whatever reason I want.
+
+ CHIEF JUSTICE ROBERTS: So the eight -­
+
+eight judges taking the opposite position in the hearing 
+
+en banc below were just being unreasonable? It would 
+
+have been unreasonable for an officer making this 
+
+determination to agree with eight judges from the Ninth 
+
+Circuit?
+
+ MR. GELERNT: I think, Your Honor, the --
+
+Mr. Chief Justice, the only way I can answer that is to 
+
+say this Court has -- has never made determinant of 
+
+whether there are dissents. I mean, take the Brogue in 
+
+this Court, two justices of this Court descended on 
+
+merits and yet you still found that the law was clearly 
+
+established.
+
+ CHIEF JUSTICE ROBERTS: What we said in 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Wilson, I'm quoting, judges -- when judges disagree on a 
+
+constitutional question, it is unfair to subject public 
+
+employees to money damages for picking the losing side 
+
+of the controversy.
+
+ MR. GELERNT: I mean, but I think Brogue 
+
+goes the other way. Ultimately, all I can say, 
+
+Mr. Chief Justice, is I think that the -- the fact that 
+
+there were dissenters can't be dispositive, and 
+
+ultimately this -­
+
+CHIEF JUSTICE ROBERTS: Well, I agree 
+
+with -- I agree with that, of course, but at the same 
+
+time, it does seem that you're imposing a very heavy 
+
+burden on the officers in this area when do you have a 
+
+situation where eight judges, when they conduct their 
+
+research, come out the other way. And that type of 
+
+burden is particularly heavy when you're talking about 
+
+if they guess wrong, it comes out of their pocket. And 
+
+if I'm the officer in that situation, I say, well, I'm 
+
+just not going to run the risk of, you know, having to 
+
+sell the house because I agreed with eight judges on the 
+
+Court of Appeals.
+
+ MR. GELERNT: Well, Your Honor, I think -­
+
+you know, of course, I'm not sure it will actually come 
+
+out of their pocket, but I get the crux of your point. 
+
+I do think ultimately, though, that this is a situation 
+
+33 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+where a reasonable official would have had to say to 
+
+themselves: I can use this as preventative detention. 
+
+Because I want to be very clear about our position and 
+
+how narrow it is.
+
+ We would concede, for purposes of this 
+
+argument, that if they wanted to use this for dual 
+
+motives, then there would have been a real question 
+
+there. If they said, look, we want the testimony, 
+
+that's what the statute talks about, but we also hope 
+
+that maybe something else will come out of it, that's a 
+
+closed question. But if they would have said to 
+
+themselves, which is all we're saying this case is 
+
+about, is: Look, we don't want this testimony. In 
+
+Justice Breyer's hypothetical, there's clear, objective 
+
+evidence. We don't want to use this testimony, perhaps 
+
+it's counterproductive in our case; we're not going to 
+
+use this testimony, but we would like to hold the 
+
+person. I think that is very difficult for a reasonable 
+
+official to say to themselves, this statute grants me 
+
+preventive detention powers.
+
+ I mean, I think you would be looking at a 
+
+statute going back to 1789 that this Court has 
+
+repeatedly commented on that is only about testimony. 
+
+You would be saying to yourself, this statute allows me 
+
+to engage in preventive detention even though Congress 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+has never passed a statute like that, Congress 
+
+specifically rejected preventive detention powers -­
+
+JUSTICE ALITO: You don't think that an 
+
+official reading all this Court's cases saying 
+
+subjective motivation is not proper in determining the 
+
+application of the Fourth Amendment would be able to 
+
+think that this would apply here, too? Subjective 
+
+motivation doesn't count here; what counts is whether 
+
+there's -- there are objective criteria that would 
+
+permit the detention?
+
+ MR. GELERNT: I don't think so, Justice 
+
+Alito, respectfully. I think when you pulled out Whren, 
+
+which, of course, is this Court's landmark decision on 
+
+pretext -- Whren could not have been clearer. The Court 
+
+specifically said only an undiscerning reader would 
+
+conflate the two. And I think the conceptual point 
+
+Whren was making is straightforward.
+
+ The Fourth Amendment says you need probable 
+
+cause or a violation of the law to arrest someone. If 
+
+the government wants to walk in and ask for an exemption 
+
+from that standard and says, the reason we want the 
+
+exemption is because of the purpose of the arrest, then 
+
+the Court in Whren said, well, then they must adhere to 
+
+the purpose. Otherwise, it's simply an end-run about 
+
+the probable cause. 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+I mean, consider two cases -­
+
+JUSTICE SCALIA: But the Fourth Amendment 
+
+doesn't say you need probable cause. There are 
+
+situations where you can conduct a search without 
+
+probable cause. There's the Terry search. There's 
+
+administrative searches. There's a lot of exceptions.
+
+ MR. GELERNT: Yes, Justice Scalia, but I 
+
+think -- well, the Terry -- the Terry stops, I think we 
+
+put to one side, because as the Court in Terry said and 
+
+as this Court has interpreted Terry, those were because 
+
+those were not full-scale arrests and the 
+
+administrative -- sorry.
+
+ JUSTICE SCALIA: Administrative searches, 
+
+automobile searches, you know.
+
+ MR. GELERNT: Absolutely, and those all fall 
+
+into the special needs category, and those were cases 
+
+you, Your Honor, in Whren distinguished as conceptually 
+
+different than when there's probable cause of a 
+
+violation of law, because what you yourself said in 
+
+Whren was: Look, the government is asking for an 
+
+exemption from the traditional Fourth Amendment standard 
+
+and they're saying the reason we want the exemption is 
+
+because of the purpose of our search.
+
+ You said, well, then, of course we're going 
+
+to hold the government to that purpose. They can't tell 
+
+36
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+us, look, we don't want to meet the Fourth Amendment 
+
+standard because of the purpose of what we're doing, but 
+
+then turn around and not adhere to the purpose.
+
+ And so if you had two cases, one where 
+
+there's probable cause of wrongdoing and another case 
+
+where there wasn't, the judge would say fine to the 
+
+first one and then he would say to you, well, the second 
+
+one, you don't have probable cause. The only thing the 
+
+government could say at that point was, well, that's 
+
+true, but we're not trying to investigate or prosecute 
+
+the person as in Dunaway. We have a different purpose. 
+
+Maybe it's administrative. Maybe it's to secure 
+
+testimony. Maybe it's a roadblock. Maybe it's 
+
+something else. And then if the Court said, well, fine, 
+
+then go ahead and do that search on less than probable 
+
+cause, if that's your purpose, you couldn't turn around 
+
+then and not -- and then not adhere to that purpose. 
+
+mean, I think that's what we're talking about, is 
+
+that -­
+
+JUSTICE ALITO: You seem to acknowledge that 
+
+in -- a dual motive case would not violate the Fourth 
+
+Amendment, or wouldn't necessarily violate the Fourth 
+
+Amendment; isn't that right?
+
+ MR. GELERNT: Yes, Your Honor.
+
+ JUSTICE ALITO: Do you think that a 
+
+37 
+Alderson Reporting Company 
+
+I 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+reasonable official would appreciate, well, it's okay 
+
+for me to have a dual motive, but I have to stop and 
+
+think: Is my interest in investigating this individual 
+
+further the but-for cause of my desire to get a material 
+
+witness warrant? Do you think that was apparent?
+
+ MR. GELERNT: I think it actually is, Your 
+
+Honor, and the reason is because I think it's -- I think 
+
+it actually gives cushion to the reasonable official, 
+
+because I think once you are saying we want to secure 
+
+testimony, it might be very difficult, as the Chief 
+
+Justice was pointing out, to say, well, how I do know if 
+
+I could have ulterior motives or not? That might be a 
+
+very difficult situation.
+
+ But I think a reasonable official -- this 
+
+Court's proposition that this Court would have to -­
+
+would have to bless, based on the allegations here are, 
+
+the official said, look, we think we can show 
+
+materiality and practicability because Mr. Al-Kidd is 
+
+taking a trip, he is being cooperative, but he is taking 
+
+a trip and he works for the same charity. We do not 
+
+want the testimony. We can't use the testimony in this 
+
+trial. The only reason we want to do it is to hold him, 
+
+and we don't have probable cause of a violation of the 
+
+law. I think any reasonable official would have 
+
+understood that as preventive detention, and there -­
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE KENNEDY: I'm not sure why that just 
+
+can't be resolved under the issue of materiality. The 
+
+magistrate asks the prosecutor why he wants to do this, 
+
+and he infers from what the prosecutor said that -- just 
+
+what you say. Then it's not material. It's not a case.
+
+ MR. GELERNT: That goes to the crux of, I 
+
+think, what is going on here. We have said that both 
+
+the Fourth Amendment and the materiality as well as 
+
+other parts of the statute would deal with it precisely. 
+
+The government's opening brief and throughout the lower 
+
+courts said, no, it doesn't matter if you're going to 
+
+use the testimony or not or we have any intention.
+
+ We posed that hypothetical in our brief. 
+
+The government came back and said, well, maybe that 
+
+could be done with materiality. If the government was 
+
+going to stick to their position, their conceptual 
+
+position, they would have come back and said, look, the 
+
+objective components of materiality and of 
+
+practicability have been satisfied, because he's taking 
+
+a trip and he worked for the same charity, and who cares 
+
+whether -- so if the Court is prepared to put a limit 
+
+on, you have to use this for its stated purpose, 
+
+testimony, that's all we're asking for. I mean, the 
+
+case has changed now because of the concession that the 
+
+government's made on pages bottom of 15, top of 16, 
+
+39
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+where they're now saying, yeah, that is a tough 
+
+situation, and maybe we can deal with that through the 
+
+statute. But that's all we're saying.
+
+ The Ninth Circuit understood this as a sole 
+
+motive case. The government understood it in their cert 
+
+petition and in their brief to this Court as a sole 
+
+motive case. We have said we think the analytical test 
+
+is a but-for, but we're prepared to go with sole motive, 
+
+and our allegations, our factual allegations, are 
+
+consistent. In the proposition, we are simply saying, 
+
+we don't think this Court can bless it. You satisfy 
+
+practicability in some objective way; you don't care 
+
+whether you're going to use the testimony, you may have 
+
+no use for it, but it's an end-run around locking people 
+
+up.
+
+ JUSTICE ALITO: Where did you allege that 
+
+the desire to detain was the sole motive for this?
+
+ MR. GELERNT: Your Honor, I think that the 
+
+clearest allegations are at 111 and 112 and 154 of our 
+
+complaint, in the joint appendix. What we said is it 
+
+was not to secure testimony. And I think the Ninth 
+
+Circuit certainly understood it that way at pages -- I 
+
+apologize -- 25A and 40A of the opinion. And the 
+
+government, in its cert petition and its brief, 
+
+understood it that way in saying, we don't know how the 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Ninth Circuit would deal with a mixed motive case, 
+
+clearly suggesting that the Ninth Circuit was a sole 
+
+motive case; and so again, all we are saying is it 
+
+cannot be that this statute be transformed into a 
+
+preventive detention statute, and I think particularly 
+
+so because the government after 9-11 specifically -- as 
+
+the green brief notes -- specifically asked Congress for 
+
+preventive detention power, and that power was denied. 
+
+What they granted was a very limited 7-day hold only for 
+
+noncitizens.
+
+ And so I think what we're talking about in 
+
+many respects -- at a macro level is a separation of 
+
+powers case as much as a Fourth Amendment. I think it's 
+
+not -- it's not dissimilar to the dialogue this Court 
+
+has been having in the Guantanamo cases with, look, you 
+
+need to go beyond the Fourth Amendment; if you think you 
+
+need such a fundamental change to our country's 
+
+traditions, Congress is going to have to take the first 
+
+step, we'll look at it and there will be a back and 
+
+forth.
+
+ But here what happened was the preventive 
+
+detention powers were denied and yet the government 
+
+still went ahead and used the material witness statute. 
+
+And again, I can't stress enough that the government did 
+
+not raise an Iqbal claim as to the plausibility of these 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+allegations. Only now in the reply brief where they're 
+
+-- they're trying to address a sole motive situation, or 
+
+a but-for, which is all we're asking this Court to 
+
+address, the government has now said the allegations are 
+
+implausible.
+
+ I think that in many situations -- you know, 
+
+with the absolute immunity point, if I could just turn 
+
+to that for a second -- the history, as you said, 
+
+Justice Kennedy, the government has conceded they don't 
+
+have a case on their side. We have plenty of cases in 
+
+which, as the historians' brief points out, and as our 
+
+brief points out, in which there was not immunity for 
+
+the arrest of a -- for the arrest of a witness, which is 
+
+very different than calling a witness, Justice 
+
+Sotomayor.
+
+ And what we are talking about here also is 
+
+the government's burden. So I don't think that's 
+
+something we could have -- we could have waived, 
+
+especially since the Ninth Circuit addressed it and put 
+
+the government on notice that the government came 
+
+forward with no historical evidence; and it's not 
+
+inconsistent with warrants generally.
+
+ As this Court made clear in Malley, it 
+
+surveyed the history of arrest warrants and said, look, 
+
+arrest warrants, there's no history; we're not going to 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+grant absolute immunity for arrest warrants. In Burns, 
+
+Justice Scalia pointed out that there is no history with 
+
+respect to search warrants, and I think the history with 
+
+respect to material witness warrants is even clearer. 
+
+So what we're talking about is no history; we're talking 
+
+about a fairly ancillary and rarely used process to the 
+
+criminal justice system, and one we're talking about 
+
+where there's sort of a unique confluence of factors 
+
+where you have someone who is not the defendant in the 
+
+trial, who is a third party, and their liberty is being 
+
+deprived; and it's the type of statute that can be 
+
+abused. I mean, I think the government's whole point is 
+
+it's a dual -- it's a dual motive type statute; and so 
+
+that because it can be inherently abused, there has to 
+
+be some checks on it.
+
+ And this Court has never said that you would 
+
+have absolute immunity for all prosecutors in all cases. 
+
+We are certainly not raising a motive case with respect 
+
+to absolute immunity. What we are simply applying is 
+
+the Court's test in absolute immunity, which is the 
+
+functional approach, you have to make that threshold 
+
+determination about whether something is investigative 
+
+or not; and I think that's the teaching of Buckley. 
+
+Take two witness interviews. They're the same act, but 
+
+the prosecutor clearly can be engaged in interviews for 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+different reasons.
+
+ In Buckley, it happened to be on those facts 
+
+the Court believed it was investigative, based on the 
+
+allegations in the complaint. But what if it were 2 
+
+days before the presentment to the grand jury? It's 
+
+likely the prosecutor would have assumed he had probable 
+
+cause at that point and was prepping the witnesses.
+
+ Those are two acts, but you have to look 
+
+behind them. I think there's no way around looking 
+
+behind. The alternative, the flip side of what the 
+
+government's asking, is: rigidly categorize every 
+
+single act a prosecutor may undertake in this country 
+
+and say it's either wholly investigatory or wholly 
+
+prosecutorial. And I think that's a very difficult 
+
+test.
+
+ I think there's no reason why district 
+
+courts can't make an initial determination. I think 
+
+here in particular, Judge -- was in a unique position to 
+
+make the determination. He sat at the underlying trial 
+
+of Al-Hussayen, so he knew what testimony and what was 
+
+going on. He -­
+
+JUSTICE SCALIA: You're -- you're going way 
+
+beyond what I thought you were arguing. You're saying 
+
+you always have to make that determination of good 
+
+faith, right? In -- in all cases, including when the 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+prosecution is -- is accused of -- of bringing a 
+
+prosecution purely for harassment purposes?
+
+ MR. GELERNT: No, Your Honor. And I -- I --
+
+Justice Scalia, I apologize if my argument was going 
+
+beyond.
+
+ JUSTICE SCALIA: That's what I thought you 
+
+were saying.
+
+ MR. GELERNT: I think what's going on here 
+
+is there's a unique set of factors with respect to 
+
+material witness, not the least of which is the history 
+
+with respect to both material witness arrests and 
+
+warrants generally, and I think there's been no 
+
+counter-history by the government. I think back -­
+
+JUSTICE ALITO: We're dealing here with a 
+
+Bivens action?
+
+ MR. GELERNT: Yes, Your Honor.
+
+ JUSTICE ALITO: Under what theory is the 
+
+history of immunity at some point in the 19th century 
+
+relevant to the scope of the immunity that should be 
+
+available in a -- in a Bivens action? What's the theory 
+
+for that?
+
+ MR. GELERNT: Well, Your Honor, I think -- I 
+
+don't know that I have an independent first principles 
+
+theory. I think this Court has said repeatedly that you 
+
+will keep the immunities coterminous and you will look 
+
+45 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+I 
+
+Official - Subject to Final Review 
+
+to the history in both cases. So that's the Butz case.
+
+ JUSTICE ALITO: Does that make any sense? 
+
+can understand it with respect to 1983, on the theory 
+
+that when Congress passed the predecessor of that 
+
+statute it implicitly intended to adopt the immunities 
+
+that were available at the time; but when this Court 
+
+invented the Bivens claim -- in when -- 1971 or 
+
+whatever -- that the Court -- the Court was -- committed 
+
+itself to recognizing only those immunities that were 
+
+available at the time when 1983 was adopted?
+
+ MR. GELERNT: I think, you know, part of 
+
+what the Court's answer is, it's a practical concern. 
+
+That it's just too difficult to have different 
+
+immunities, and the Court -- so the Court has repeatedly 
+
+reaffirmed that, and I think from a policy standpoint, a 
+
+practical standpoint, it's felt that that's the right 
+
+analysis, and there has to be some way to tether the 
+
+immunity analysis; and history is ultimately, I think -­
+
+what the Court has said it's a necessary though not 
+
+sufficient, and that once you sort of unmoor it from 
+
+history, it becomes very difficult to keep the two.
+
+ So I think what we're talking about here is 
+
+a -- a statute that had enormous consequences. It's 
+
+third parties who have been cooperative, even, who have 
+
+done nothing wrong, that end up in jail, and to say that 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+there is going to be absolute immunity is very 
+
+dangerous. This Court has repeatedly said that the 
+
+thumb has to be on the scale against absolute immunity. 
+
+That's an extraordinary protection, and if there's 
+
+anywhere where there needs to not be complete 
+
+insulation, it would be where you have third parties, 
+
+and -- who are going to jail.
+
+ The only other case, prosecutorial immunity 
+
+case this Court has had where it was a third party and 
+
+not the actual defendant was Mitchell, and the Court 
+
+denied absolute immunity.
+
+ All the other cases, some of which you have 
+
+denied absolute immunity, some of which you have 
+
+granted, it's been the defendant in the full judicial 
+
+process. Here we're talking about third parties after 
+
+9-11 who repeatedly went to jail. I think the 
+
+allegations are very clear that it's at least but-for -­
+
+we think sole -- but certainly far more than dual 
+
+motive. People were held -- half the people were held 
+
+more than 30 days, even though the statutory presumption 
+
+is 10 days. Many people were held for months. They 
+
+were arrested at gunpoint. They were not immunized; 
+
+half the people were not called to testify.
+
+ It went on in cities all over the country, 
+
+people being held under horrendous conditions for long 
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+periods of time, interrogated about their own 
+
+activities.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ General, you have 10 minutes remaining.
+
+ REBUTTAL ARGUMENT OF GENERAL NEAL KUMAR KATYAL
+
+ ON BEHALF OF THE PETITIONER
+
+ GENERAL KATYAL: Thank you. This is a 
+
+simple case. It's not about Guantanamo, it's not about 
+
+separation of powers, it's about one simple thing: 
+
+should we allow damages actions against an Attorney 
+
+General of the United States and ultimately AUSAs for 
+
+doing their job, when they're alleged to have a bad 
+
+motive?
+
+ If I could start with the Chief Justice's 
+
+point about the cost of these lawsuits and allowing them 
+
+to proceed. My friend on the other side says, well, but 
+
+this will be a small, rare case, an isolated example, 
+
+but I don't think that's true. I think if you allow 
+
+their motivation argument to -- to -- to pierce absolute 
+
+immunity, you will have this in every case or near every 
+
+case. 95 to 96 percent of Federal cases are resolved by 
+
+plea agreements. So there isn't someone who is actually 
+
+called at trial. You could allege it in any of those 
+
+cases.
+
+ And particularly when you lace on to that 
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+what my friend has said is a disturbing, quote, 
+
+"national pattern of abuse" of the material witness 
+
+statute, something which we --with which we vigorously 
+
+disagree, but if you could add the fact that someone 
+
+wasn't called on in a trial to that national pattern, 
+
+then you'll be having these damages actions quite a bit 
+
+of the time. Now he says don't worry, it will only be a 
+
+few hundred of these lawsuits. Well, leaving apart the 
+
+fact that that excludes immigration cases and excludes 
+
+the States' cases, as Justice Kennedy said, a few 
+
+hundred lawsuits just at the Federal level filed against 
+
+the Attorney General?
+
+ JUSTICE GINSBURG: General Katyal, there are 
+
+some elements of this picture that are very disturbing, 
+
+and we are talking about the Attorney General and the 
+
+Attorney General's immunity. But there are allegations 
+
+here that this man was kept awake, the lights shining in 
+
+his cell for 24 hours, kept without clothes. Now that 
+
+doesn't sound like the way one would treat someone whose 
+
+testimony you want. Is there a remedy that he has for 
+
+that obvious mistreatment?
+
+ GENERAL KATYAL: Justice Ginsburg, with 
+
+respect to that whole set of questions, conditions of 
+
+confinement, that isn't before the Court right now. 
+
+What is before the Court is -- is exclusively Fourth 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Amendment concerns. Now, Mr. Al-Kidd did sue other 
+
+people, including the warden who was responsible for 
+
+that, and I think that there have been other ancillary 
+
+litigation with -- with respect to that, but to hold 
+
+either the Attorney General or prosecutors liable is 
+
+something that would, I think, ultimately open the door 
+
+to, at least there are a few hundred lawsuits at the 
+
+Federal level if not more.
+
+ JUSTICE BREYER: I would like to go back to 
+
+the statute. If an officer fills out an affidavit for a 
+
+search and says there were drugs in the house, so I want 
+
+to search it, and it turns out he was lying, you would 
+
+have a damages action?
+
+ GENERAL KATYAL: The officer -­
+
+JUSTICE BREYER: Yes, yes.
+
+ GENERAL KATYAL: -- you have -- you 
+
+potentially have a damages against the officer, not 
+
+against the prosecutor?
+
+ JUSTICE BREYER: No, no. I'm saying the 
+
+officer, because he told a lie.
+
+ GENERAL KATYAL: Yes.
+
+ JUSTICE BREYER: All right. Now here it 
+
+says that the person filling out the affidavit has to 
+
+say he is a material witness. So suppose that the 
+
+plaintiffs were to prove that the individual who signed 
+
+50 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that was not telling the truth in saying he is a 
+
+material instant -- witness because not just but for, 
+
+but there was no possibility he would call this 
+
+individual, none. And that's what they have to prove. 
+
+It's really very hard burden of proof.
+
+ Now, one, would that interfere significantly 
+
+with law enforcement? And, two, how do you distinguish 
+
+it from the drug case?
+
+ GENERAL KATYAL: Justice Breyer, I'm not 
+
+sure if your hypothetical has it as the prosecutor who 
+
+is filing the affidavit and lying or the agent. If it 
+
+is the agent, I don't think that is something as to 
+
+which absolute immunity, that's Malley v. Briggs and a 
+
+whole line of cases. Qualified immunity, of course, 
+
+would, and indeed those claims are pending in this -­
+
+JUSTICE BREYER: But in the case of the 
+
+agent, you're prepared to say that we will allow the 
+
+plaintiff to go into his motive to the extent that the 
+
+plaintiff can show there is no possibility he intended 
+
+to call this individual?
+
+ GENERAL KATYAL: I think that at least for 
+
+purposes -- I would say there is at least no absolute 
+
+immunity prohibition against that. There may be -- may 
+
+be relevant under other lines of authority.
+
+ But with respect to my friend's point about 
+
+51 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+your hypothetical in which he said that there -- you 
+
+know, the government isn't sticking to its position or 
+
+something like that, I just want to be clear. Our 
+
+position is for the Fourth Amendment, it doesn't look to 
+
+subjective motivations at all. That's Whren and Brigham 
+
+City and the like, but the statute in 3144 does have 
+
+safeguards, prophylactic safeguards to guard against the 
+
+type of abuse that I think several justices have 
+
+mentioned today. So that you could only detain someone 
+
+so long as their release wouldn't result in a failure of 
+
+justice and the like.
+
+ My friend also said that -- that there's no 
+
+historical precedent for this. I would urge the Court 
+
+to look at the 1846 statute, which didn't require 
+
+failure to comply before a witness was brought in on a 
+
+material witness warrant and it didn't -- and it had 
+
+sureties in it. I don't think what the government is 
+
+doing here is any different.
+
+ Maybe I'll just make one final point, 
+
+picking up on what Justice Alito said about the 
+
+allegations in this very case, because I don't think if 
+
+you look at the complaint that the allegations in this 
+
+case prove either that the Attorney General or the line 
+
+AUSA had a single motive. This is fleshed out at pages 
+
+17 to 19 of our reply brief. At best, they're 
+
+52 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+consistent with their newly minted standard, a dual 
+
+motive standard.
+
+ And given that, I think that the complaint 
+
+would fall on their own terms, and indeed that law -­
+
+that line that they're proposing, a but-for causation 
+
+line, would be extremely difficult to apply in practice 
+
+and would ultimately lead to lawsuits filed against 
+
+attorneys general and line prosecutors alike.
+
+ If there are no further questions -­
+
+CHIEF JUSTICE ROBERTS: Thank you, General.
+
+ The case is submitted.
+
+ (Whereupon, at 12:14 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+53
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final ReviewOfficial - Subject to Final Review
+
+address 42:2,4 allegedly 3:12 27:17 33:21 31:15A 
+addressed42:19 allow10:11 appearance 9:6 asked41:7ABDULLAH 1:6 
+addressing 19:22 17:21 21:21 APPEARANC... asking 9:14ability 4:4 9:2 
+adds 11:21 22:23 29:11 1:14 24:15 29:1able 28:6 35:6 
+adhere 35:23 48:10,18 51:17 appendix 40:20 36:20 39:23above-entitled 
+
+37:3,17 allowed9:4 apples 16:25 42:3 44:111:11 53:13 
+administrative 21:24 applicable 4:19 asks 39:3absent 20:25 
+
+36:6,12,13 allowing 4:2 application 35:6 assert 12:4absolute 3:21 5:1 
+37:12 17:20 21:7 applied4:8 associated3:205:9,13,15,20 
+
+adopt 46:5 31:12 48:15 applies 10:15 6:14,18,236:1,6,8 9:19,25 
+adopted46:10 allows 34:24 apply 12:20 19:1810:3 12:3,5,9 
+affidavit 13:7 alternative 44:10 16:18 35:7 53:6 assume 30:512:22 15:18 
+
+27:2 50:10,23 Al-Hussayen7:9 applying 43:19 assumed44:616:1,10,17,18 
+51:11 8:9,11 44:20 appreciate 38:1 assure 9:6 11:2417:17,23,24 
+
+agent 51:11,12 Al-Hussayen's approach 43:21 attempt 28:2119:8,19 42:7 
+51:17 8:6,10 Arabia 7:11 attorney 3:11,1343:1,17,19,20 
+
+agree 6:10 12:21 Al-Kidd 1:6 3:4 area 33:13 4:11 12:19,1947:1,3,11,13 
+32:16 33:10,11 7:10,18,21 8:15 arguing 28:19 48:10 49:12,1548:19 51:13,22 
+
+agreed33:20 11:1 26:21 44:23 49:16 50:5absolutely 12:10 
+agreement 8:11 38:18 50:1 argument 1:12 52:2315:24 17:7 
+agreements Amendment 4:7 2:2,5,8 3:3,6 attorneys 10:1223:13 36:15 
+
+48:22 4:13 5:19,22 5:22 6:4,13 53:8abuse 6:8 8:20 
+ahead 37:15 9:16 10:14 20:9 10:7 19:11,15 AUSA 52:2416:12 49:2 52:8 
+
+41:23 20:24 31:5,11 20:19 21:17,18 AUSAs 48:11abused43:12,14 
+alike 53:8 31:14 35:6,18 21:25 22:1,2 authority 19:6abusing 5:8 
+Alito 9:12 10:2 36:2,21 37:1,22 29:10 30:2 34:6 51:24accepted6:2 
+
+23:4,16 29:10 37:23 39:8 45:4 48:5,19 authorize 31:14account 28:21 
+29:19 30:21 41:13,16 50:1 arguments 10:11 automobileaccused45:1 
+35:3,12 37:20 52:4 19:16 36:14acknowledge 
+37:25 40:16 analysis 30:10 arrest 14:21 17:6 available 11:1521:12,14 37:20 
+45:14,17 46:2 46:17,18 17:8 21:7,9,21 45:20 46:6,10acquittal 7:20 8:6 
+52:20 analytical 40:7 22:13,25 30:12 avoidance 9:24act 3:19 43:24 
+
+allegation 24:11 ancillary 43:6 35:19,22 42:13 awake 49:1744:12 
+allegations 17:22 50:3 42:13,24,25 a.m 1:13 3:2acted7:12 
+
+22:13 26:21 answer32:19 43:1Acting 1:15 B27:3 38:16 40:9 46:12 arrested20:25action 20:13 
+back 8:12 9:1340:9,19 42:1,4 answered23:1 25:13,19 47:2245:15,20 50:13 
+
+12:16 15:1044:4 47:17 answering 12:11 arresting 17:4actions 18:21 
+22:21 26:349:16 52:21,22 apart 19:22 49:8 arrests 36:1148:10 49:6 
+29:25 34:22allege 4:2 25:8 apologize 27:16 45:11activities 48:2 
+39:14,17 41:1925:10 26:18 40:23 45:4 article 30:23activity 10:21 
+45:13 50:927:3,25 40:16 apparent 38:5 Ashcroft 1:3 3:4acts 44:8 
+
+bad3:24 5:23,2448:23 appeal 15:20,22 4:11,25 27:1actual 47:10 
+5:24 6:20,21alleged48:12 appeals 25:14 aside 23:23add 18:25 49:4 
+10:3 16:24 
+
+54 
+
+Alderson Reporting CompanyAlderson Reporting Company
+
+
+
+Official - Subject to Final Review 
+
+18:15 21:5 42:1,11,12 43:18 46:1 47:8 charity 38:20 comes 33:17 
+24:13 48:12 52:25 47:9 48:8,17,20 39:20 commented 
+
+balance 20:16 Briggs 18:20 48:21 51:8,16 check 12:25 34:23 
+banc 32:14 51:13 52:21,23 53:11 checks 28:25 comments 21:13 
+bar 18:21 Brigham52:5 53:12 43:15 committed46:8 
+Barry 31:6,22 bringing 13:23 cases 10:5 11:7 Chief 3:3,8 20:17 common19:7,7 
+based3:24 21:17 14:8 45:1 19:17 20:13 20:21 24:9,20 compared18:18 
+
+38:16 44:3 broader5:21 24:13,23 25:2,3 26:8,13 30:22 compelled19:4 
+basically 18:13 Brogue 32:21 25:6,10,12,14 31:16 32:12,19 complaint 40:20 
+
+29:22 33:5 25:22 27:18,19 32:25 33:7,10 44:4 52:22 53:3 
+basis 11:18 brought 52:15 30:18,19 31:1,6 38:10 48:3,14 complete 47:5 
+bedrock 20:24 Buckley 17:18 31:22 35:4 36:1 53:10 comply 28:12,14 
+behalf 1:16,18 43:23 44:2 36:16 37:4 Circuit 10:2 30:6 52:15 
+
+2:4,7,10 3:7 burden33:13,16 41:15 42:10 32:17 40:4,22 components 23:3 
+20:20 48:6 42:17 51:5 43:17 44:25 41:1,2 42:19 39:18 
+
+believe 11:1 burdensome 4:3 46:1 47:12 circumstance concede 34:5 
+12:22 21:1 22:9 4:16 48:21,24 49:9 15:6 conceded20:12 
+
+believed44:3 Burns 17:11 43:1 49:10 51:14 cited25:11 42:9 
+benefits 18:18 business 29:8 categorize 44:11 cities 28:24 29:6 conceptual 24:23 
+best 19:6 52:25 Butz 46:1 category 36:16 47:24 24:25 35:16 
+Betts 25:11 but-for38:4 40:8 causation 53:5 City 52:6 39:16 
+beyond 23:19 42:3 47:17 53:5 cause 10:21,22 claim26:10,24 conceptually 
+
+41:16 44:23 10:23 11:1 27:9 41:25 46:7 36:17 
+C45:5 19:24 21:1 22:9 claiming 18:7 concern 46:12 
+
+C 2:1 3:1 bit 17:10 49:6 22:16 25:2 claims 51:15 concerned12:9 
+call 26:9,17 51:3 Bivens 45:15,20 30:12,12,15,18 clear 25:14 27:16 concerns 50:1 
+
+51:2046:7 30:20 31:11 31:10 34:3,14 concession 39:24 
+called47:23bless 24:7 38:16 35:19,25 36:3,5 42:23 47:17 condition9:5 
+
+48:23 49:540:11 36:18 37:5,8,16 52:3 conditions 8:15 
+calling 17:4board 7:11 38:4,23 44:7 clearer35:14 9:2,5 47:25 
+
+23:14 26:14,14 boil 4:24 causes 17:1 43:4 49:23 
+42:14bond 21:24 causing 18:1 clearest 40:19 conduct 6:9 
+
+care 10:9 40:12 bottom 39:25 cell 49:18 clearly 10:16 17:13,22 33:14 
+cares 39:20Breyer13:6,16 centuries 21:5 11:10 32:23 36:4 
+case 3:4,15 4:10 13:21 14:3,6,10 century 45:18 41:2 43:25 confer6:8 
+
+4:21 5:18 8:6 14:12,17 22:24 cert 40:5,24 close 6:5 confinement 
+10:6 11:3 13:12 50:9,15,19,22 certain 5:24 closed34:11 49:24 
+13:17,17 15:6 51:9,16 16:23 clothes 49:18 conflate 25:2 
+16:22 22:6,12 Breyer's 22:4 certainly 11:5 colleagues 13:10 30:18 35:16 
+23:13,24 24:1,7 34:14 26:4 40:22 combination 9:5 confluence 43:8 
+24:12,14 26:25 brief 19:14 20:12 43:18 47:18 come 8:12 9:13 Congress 8:21 
+26:25 34:12,16 21:18 22:7 24:4 change 41:17 19:10 22:21 14:20 15:9 
+37:5,21 39:5,24 25:24 39:10,13 changed39:24 29:24 33:15,23 34:25 35:1 41:7 
+40:5,7 41:1,3 40:6,24 41:7 charges 7:21 8:7 34:10 39:17 41:18 46:4 
+41:13 42:10 
+
+55 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+connection 6:24 29:6 criteria 35:9 departure 21:7 25:10 34:18 
+consequences country 8:12 cross-examine deposition 32:2,3 38:10,13 44:14 
+
+46:23 21:3 27:23 9:9 32:4 46:13,21 53:6 
+consider36:1 44:12 47:24 crucible 16:11 deprived43:11 disagree 33:1 
+consistent 22:12 country's 41:17 18:21 derive 19:16 49:4 
+
+40:10 53:1 counts 35:8 crux 23:25 33:24 descended32:22 discipline 18:20 
+constantly 17:21 course 6:17 22:5 39:6 designed26:11 discovery 4:17 
+Constitution 28:19 33:11,23 cushion 38:8 desire 38:4 40:17 dispositive 33:8 
+
+29:11,17 35:13 36:24 custody 7:21 destabilizing disprove 4:2 
+constitutional 51:14 25:23 27:20 4:16 dissent 10:6 
+
+9:24,24 19:23 court 1:1,12 3:9 detail 27:10 dissenters 33:8 
+D21:9,13,15,19 3:25 4:14 5:12 detain 9:3 11:18 dissents 32:21 
+
+D 1:3 3:1 30:1 33:2 5:14 6:2,13 7:5 21:11 22:14 dissimilar41:14 
+damage 18:1constitutionality 7:13 9:15,19,22 23:6 40:17 52:9 distinguish51:7 
+damages 3:10,18 30:5 10:16 16:10,21 detained7:24 distinguished
+
+16:25 18:16constitutionally 19:12,14 20:22 9:11 11:23 36:17 
+33:3 48:10 49:6 19:4 20:23 21:4 24:7 12:24 29:12,16 district 44:16 
+50:13,17 construct 14:5 24:22 25:1,4,13 detention 5:25 disturbing 49:1 
+
+damaging 10:13context 19:20 27:5,17 29:1,12 9:4 11:24 15:12 49:14 
+dangerous 6:724:3 29:15 30:19 15:13 17:8 30:7 doing 3:12 19:19 
+
+47:2continue 9:11 31:3,6 32:20,22 32:7 34:2,20,25 37:2 48:12 
+Daniels 25:1128:13 32:22 33:21 35:2,10 38:25 52:18 
+day 24:2 25:15 contours 14:14 34:22 35:14,23 41:5,8,22 door 50:6 
+days 7:24 8:10 17:17 36:9,10 37:14 determinant doubt 4:8,10 
+
+11:23 44:5controversy 33:4 38:15 39:21 32:20 12:17 16:23 
+47:20,21 conviction 8:7 40:6,11 41:14 determination dramatic 21:7 
+
+de 16:21cooperative 21:8 42:3,23 43:16 11:8 15:23 drawing 24:23 
+deal 39:9 40:2 21:20 38:19 44:3 45:24 46:6 32:16 43:22 dropped7:21 
+
+41:146:24 46:8,8,14,14 44:17,19,24 drug 51:8 
+dealing 18:19,22 core 6:5 12:7 46:19 47:2,9,10 determinative drugs 50:11 
+
+45:14correct 13:2 19:3 49:24,25 52:13 26:15 dual 20:11,13 
+decide 5:12 9:19 correctly 27:11 courts 22:7 39:11 determining 35:5 34:6 37:21 38:2 
+
+14:21cost 16:23,24 44:17 dialogue 41:14 43:13,13 47:18 
+decision 8:8 10:2 48:15 Court's 16:17 difference 4:25 53:1 
+
+35:13costs 18:18 18:16 19:17 5:9,12 6:11,19 Dunaway 20:23 
+defendant 10:8coterminous 31:22 35:4,13 11:6 12:3,8 30:11 37:11 
+
+43:9 47:10,14 45:25 38:15 43:20 17:3 duties 17:2 18:3 
+defendantscounsel 9:8 48:3 46:12 different 8:22 duty 20:3 
+
+10:11count 35:8 cover26:17 11:3,3,5 15:10 D.C 1:8,16 
+defense 15:20counterproduc... create 26:16 19:2,2 36:18 
+
+Edefining 21:334:16 crime 19:25 20:2 37:11 42:14 
+deliberate 28:21 E 2:1 3:1,1 counter-history criminal 10:21 44:1 46:13 
+denied41:8,22 earlier11:945:13 11:21 20:25 52:18 
+
+47:11,13 23:20counties 28:24 23:10,13 43:7 difficult 22:17 
+Department 1:16 easiest 4:18 
+
+56 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+easy 4:2 exchange 8:13 fiddle 24:1 full-scale 36:11 generally 14:1 
+Edmond 11:7 excludes 49:9,9 filed49:11 53:7 function 6:5 7:1 18:3 42:22 
+eight 32:12,13 exclusively filing 51:11 11:14 12:7,17 45:12 
+
+32:16 33:14,20 49:25 filling 50:23 17:6 19:18 General's 49:16 
+either12:6 44:13 excuse 12:19 fills 50:10 functional 43:21 getting 11:7 
+
+50:5 52:23 exemption 30:20 final 52:19 functions 3:15 Ginsburg 7:18 
+elects 26:9 35:20,22 36:21 find 11:11 28:6 6:6 7:23 8:1 10:20 
+elements 49:14 36:22 fine 23:1 37:6,14 fundamental 11:4 12:1 49:13 
+elicit 26:11 exercise 7:3 13:4 first 3:19 5:12 21:2 24:25 49:22 
+emphatically exists 4:13 8:23 24:24 41:17 Ginsburg's 12:11 
+
+20:23 explaining 4:15 30:24 31:13 further8:13 given6:6 15:5 
+employees 33:3 expose 3:22 7:16 37:7 41:18 17:10 38:4 53:9 28:11 53:3 
+en 32:14 10:12 45:23 gives 38:8 
+
+Genacted21:21 extend 19:20 fit 26:21 go 7:11 14:15 
+G 3:1encounter24:6 extent 12:17 fleshed52:24 18:17 23:18 
+gang 29:7end-run 35:24 19:12 51:18 flight 29:15 30:8 37:15 40:8 
+Gelernt 1:18 2:6 40:14 extraordinary flinch 17:1 18:2,5 41:16 50:9 
+
+20:18,19,21 enforcement 47:4 18:15 19:2 51:18 
+21:16 23:1651:7 extreme 24:7 flip 10:10 44:10 goes 17:9 23:25 
+24:20 26:12engage 5:25 extremely 10:13 focus 17:16,22 33:6 39:6 
+27:15 28:534:25 53:6 follow13:15 going 8:13 10:23 
+29:17,20 31:2 engaged43:25 28:10 12:15 13:4 15:2 
+
+F 31:20 32:18enormous 46:23 following 30:10 23:15 27:24 
+fact 15:4 25:20 33:5,22 35:11 entire 26:20 form 10:13 30:5 33:19 
+
+33:7 49:4,9 36:7,15 37:24 entitled3:21 formal 9:7 34:16,22 36:24 
+factors 43:8 45:9 38:6 39:6 40:18 equally 4:10 former3:11 39:7,11,16 
+facts 44:2 45:3,8,16,22 especially 42:19 forth 18:25 41:20 40:13 41:18 
+factual 22:12 46:11ESQ 1:15,18 2:3 forward 42:21 42:25 44:21,22 
+
+40:9 general 1:15 3:5 2:6,9 found 31:1,3,6 45:4,8 47:1,7 
+failure 15:14 3:6,8,11,13 essentially 5:23 32:23 good 4:1 20:1 
+
+52:10,15 4:11 5:3,11 7:15 20:11 Fourth4:6,13 21:5 44:24 
+fairly 43:6 6:12,16 7:8,23 established 5:19,22 9:16 government 8:5 
+faith 44:25 8:3 9:21 10:12 32:24 10:14 20:9,24 8:8 11:13,17 
+fall 6:14 36:15 11:4 12:10,14 establishing 9:17 31:5,11,14 35:6 20:3,7,10 22:5 
+
+53:4 13:2,14,18,25 everybody 24:16 35:18 36:2,21 22:6,21 23:1 
+far 12:9,9 16:25 14:4,10,13,19 evidence 9:9,10 37:1,21,22 39:8 26:23 27:6 28:9 
+
+17:15 47:18 15:19,24 16:2,6 13:9,18,19 29:4 41:13,16 49:25 28:18 35:20 
+feature 21:3 16:8,16 17:9 29:14 34:15 52:4 36:20,25 37:9 
+February 7:9 18:11,14 19:3 42:21 framers 21:20 39:14,15 40:5 
+Federal 3:13 19:10 20:6,17 Exactly 16:6 28:10,12 40:24 41:6,22 
+
+11:20,21 24:3 48:4,5,7,11 31:20 friend 48:16 49:1 41:24 42:4,9,20 
+25:25 28:9,18 49:12,13,15,22 example 12:18 52:12 42:20 45:13 
+48:21 49:11 50:5,14,16,21 25:11 48:17 friend's 51:25 52:2,17 
+50:8 51:9,21 52:23 exceptions 36:6 full 47:14 government's
+
+felt 46:16 53:8,10 
+
+57 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+20:13 25:10 historical 42:21 25:22 27:14,19 including 32:2 interests 32:6 
+29:1 32:6 39:10 52:13 49:9 44:25 50:2 interfere 4:4 
+39:25 42:17 historically 5:14 immune 5:1 13:1 inconsistent 51:6 
+43:12 44:11 9:23 29:23 30:1 14:9 42:22 interpreted 
+
+grand 44:5 history 22:19 immunities 45:25 independent 23:18 36:10 
+grant 31:4 43:1 42:8,24,25 43:2 46:5,9,14 12:25 45:23 interrogated 
+granted30:19 43:3,5 45:10,18 immunity 3:21 indict 10:8 19:24 48:1 
+
+41:9 47:14 46:1,18,21 4:8 5:1,2,6,10 indicted29:9 interviews 43:24 
+grants 34:19 hold 9:15 20:4 5:13,15,16,17 indicting 20:5 43:25 
+great 29:14 28:2 29:1,25 5:20 6:1,7,9,11 indictment 7:9 intimately 6:14 
+green25:24 41:7 32:6 34:17 9:19,25 10:3 20:4 6:22 19:18 
+Guantanamo 36:25 38:22 12:4,5,9,12,22 individual 9:6 introducible 5:5 
+
+41:15 48:8 41:9 50:4 15:18 16:1,10 38:3 50:25 51:4 invented46:7 
+guard 52:7 Honor 31:3,20 16:17,19 17:17 51:20 investigate 
+guess 33:17 32:18 33:22 17:20,23,24 individualized 21:11 22:15 
+gunpoint 47:22 36:17 37:24 19:8,19,22 30:8 11:8 37:10 
+
+38:7 40:18 45:3 42:7,12 43:1,17 individuals 16:23 investigating
+H 45:16,22 43:19,20 45:18 17:21 38:3 
+
+half 47:19,23 hope 34:9 45:19 46:18 inexorable 4:17 investigation
+Hand 16:22 horrendous 47:1,3,8,11,13 infects 10:4 6:25 
+handled5:14 47:25 48:20 49:16 infers 39:4 investigative
+happen23:24 hours 49:18 51:13,14,23 information 18:9 25:19 
+
+24:19 29:24 house 33:20 immunized47:22 11:19 14:24 43:22 44:3 
+happened18:7 50:11 implausible 27:4 27:7 29:8 investigatory
+
+23:25 27:8 hundred25:23 27:9 42:5 inherently 43:14 5:24 44:13 
+41:21 44:2 27:22 49:8,11 implicitly 46:5 initial 23:17 involved24:16 
+
+harassment 45:2 50:7 importance 23:9 44:17 27:1 
+hard 4:2 25:8 hundreds 7:2 important 11:14 innocent 21:8 Iqbal 26:23 
+
+51:5 hung 8:7,7,7 16:9 17:24 19:5 inquire 15:12 41:25 
+harmed16:24 hypothetical 23:12,22 28:18 instant 51:2 irrefutable 13:9 
+hear 3:3 13:17 14:14 29:4 instructive 17:19 irrelevant 4:12 
+hearing 9:10 22:4,5,11 23:5 importantly insulation 47:6 22:8,10,25 
+
+15:12 32:13 23:10 34:14 26:22 integrally 3:20 isolated48:17 
+hearings 27:13 39:13 51:10 imposing 33:12 intend 10:8 13:10 issuance 19:9 
+heavy 33:12,16 52:1 impossible 22:18 intended46:5 issue 3:14 28:17 
+held 5:1 20:10 25:17 27:24 51:19 39:2 
+
+I28:3 47:19,19 28:15 intent 15:2,7 issued4:21 7:7 
+47:21,25 Idaho 3:14 4:22 impracticability 24:13,17 16:5 
+
+high3:23 18:18 imagine 12:14 11:12 14:23 intention13:22 issues 15:21 
+higher-up 10:10 14:2 15:6 23:3 29:3 14:8 26:5 39:12 19:23 
+highlighted Imbler7:15 improper3:12 interest 23:14 
+
+J24:11 18:20 4:1 38:3 
+highly 3:23 immediately jail 46:25 47:7,16 incentive 26:16 Interestingly
+historians 42:11 7:13 8:14 job3:12 48:12 incentivized3:24 23:20 
+historian's 21:18 immigration jobs 4:5 
+
+58 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+JOHN 1:3 50:15,19,22 landmark 35:13 litigate 15:20 4:20 
+joint 40:20 51:9,16 52:11 language 15:11 litigation 4:3,17 March 1:9 7:10 
+judge 4:22 9:4 52:20 53:10 17:11 50:4 material 3:14,20 
+
+11:9,11,23 justices 32:22 law4:19,20 11:2 little 4:8,10,25 6:18,23 7:22 
+15:11,17 37:6 52:8 19:7,7 21:1 local 28:24 29:6 8:17,21,23 9:15 
+44:18 Justice's 48:14 22:9,16 25:3 lock 18:10 9:20 10:5,25 
+
+judges 32:13,16 30:23 32:23 locking 40:14 12:20,24 13:8 
+K33:1,1,14,20 35:19 36:19 logic 16:16 13:13,19,22 
+
+Kamp 16:21judge's 15:23 38:24 51:7 53:4 long 19:17 29:2 14:24 15:8,17 
+Katyal 1:15 2:3,9 judgment 7:4 lawsuit 3:10 29:12 47:25 15:23 20:1,5 
+
+3:5,6,8 5:3,11 judicial 3:21 6:16 lawsuits 3:23 52:10 21:6,9 23:6,7,8 
+6:12,16 7:8,23 6:19,23 16:15 7:17 16:25 longer8:2 26:25 24:2,12 25:12 
+8:3 9:21 11:4 19:18 47:14 48:15 49:8,11 long-standing 27:13 28:3 
+12:10,14 13:2 jury 8:10,14 44:5 50:7 53:7 11:13 29:11 30:25 
+13:14,18,25 justice 1:16 3:3,9 lead 53:7 look 5:7 10:23 38:4 39:5 41:23 
+14:4,10,13,19 4:23 5:4 6:3,12 learned7:10 15:15,16 25:5 43:4 45:10,11 
+15:19,24 16:2,6 6:15 7:6,18,23 16:22 25:25 34:8,13 49:2 50:24 51:2 
+16:8,16 17:9 8:1,19 9:12,14 leave 8:12 36:20 37:1 52:16 
+18:11,14 19:3 10:2,20 11:4,25 leaving 49:8 38:17 39:17 materiality 8:24 
+19:10 20:6 48:5 12:1,2,10,11 LEE 1:18 2:6 41:15,19 42:24 9:18 11:11 14:1 
+48:7 49:13,22 12:13,21 13:6 20:19 44:8 45:25 52:4 14:6,16,22 15:5 
+50:14,16,21 13:16,21 14:3,6 legal 21:18 52:14,22 23:3 29:3 38:18 
+51:9,21 14:10,12,17 length 7:12 looked7:5 10:17 39:2,8,15,18 
+
+keep45:25 46:21 15:14,15,22,25 level 41:12 49:11 28:5 31:22,25 matter1:11 5:19 
+Kennedy 19:6,21 16:4,7,9,13 50:8 looking 28:23 11:6 13:11 
+
+27:10,15 28:1,6 17:3,18 18:4,11 liability 10:13 32:10 34:21 23:17 27:8 
+39:1 42:9 49:10 18:12,24 19:6 18:1,16 44:9 29:13 39:11 
+
+Kennedy's 17:1819:21 20:17,21 liable 3:18 50:5 losing 33:3 53:13 
+kept 49:17,18 21:12,16 22:4 liberty 43:10 lot 36:6 mean 12:6 14:1 
+kind 10:7 24:18 22:24 23:4,16 lie 50:20 lower22:7 39:10 16:4 24:17 
+kinds 10:1124:9,20 26:8,13 lifted8:16 lying 50:12 51:11 25:21 26:7 
+knew44:2027:10,15 28:1,6 light 9:12 29:21 32:21 
+
+Mknow28:7,17 29:10,19 30:21 lights 49:17 33:5 34:21 36:1 
+29:8 33:19,23 macro 41:1230:22 31:16 limit 39:21 37:18 39:23 
+36:14 38:11 magistrate 13:132:12,19,25 limitations 26:6 43:12 
+40:25 42:6 21:23 39:333:7,10 34:14 limited5:21 41:9 meaningless
+45:23 46:11 main 25:1435:3,11 36:2,7 limits 9:1 26:7 
+52:2 making 6:1336:13 37:20,25 line 3:22 4:12 means 31:7 
+
+KUMAR 1:15 11:14 18:1438:11 39:1 10:12 24:24 meet 37:1 
+2:3,9 3:6 48:5 24:4 32:1540:16 42:9,14 26:1 51:14 member29:7,7 
+
+35:1743:2,7 44:22 52:23 53:5,6,8 mentioned52:9L Malley 18:2045:4,6,14,17 lines 51:24 mere 11:17
+lace 48:25 42:23 51:1346:2 48:3 49:10 literally 24:8 merits 32:23
+laced11:10 man49:1749:13,22 50:9 litigants 3:24 met 4:9 9:18 15:5 
+laces 8:18 manifestly 3:25 
+
+59 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+mid 29:23 necessary 9:18 31:24 32:9 34:1 pending 7:7 plaintiffs 50:25 
+mind 26:3 11:24 15:13 34:19 35:4 38:1 23:12 51:15 plane 7:11 
+minimal 29:2 19:1 23:21 38:8,14,17,24 people 18:10 plausibility 26:24 
+minted53:1 28:25 46:19 officials 3:23 21:8 28:3 40:14 41:25 
+minutes 48:4 need7:13 23:2 Oh 5:3 16:4 47:19,19,21,23 plea 48:22 
+mistreatment 27:20 30:12 okay 12:13 38:1 47:25 50:2 please 3:9 20:22 
+
+49:21 31:19 35:18 once 5:4,4,6 percent 27:18 plenty 42:10 
+misuse 28:21 36:3 41:16,17 10:22 38:9 48:21 pocket 33:17,24 
+Mitchell 47:10 needed23:21 46:20 performance point 6:21 10:6 
+mixed41:1 needs 8:24 25:6 ongoing 6:25 17:1 18:2 12:14 16:9 18:7 
+moment 23:23 36:16 47:5 open50:6 performing 3:15 24:3,24,25,25 
+money 3:10,18 neutral 4:21 11:9 opening 21:13 11:13 27:10 33:24 
+
+33:3 never6:2 15:2 22:7 39:10 period7:24 35:16 37:9 42:7 
+months 8:2 47:21 32:20 35:1 opinion 17:18,20 periods 48:1 43:12 44:7 
+morning 3:4 43:16 40:23 permissible 45:18 48:15 
+motivation 5:19 New1:18,18 opportunity 20:14 51:25 52:19 
+
+35:5,8 48:19 newly 53:1 28:12 permit 35:10 pointed8:20 10:7 
+motivations 4:11 Ninth 10:1 30:6 opposite 32:13 person 11:19 22:24 25:21 
+
+5:18 10:18 32:16 40:4,21 opposition 19:14 13:11,23 14:24 43:2 
+14:15 52:5 41:1,2 42:19 oral 1:11 2:2,5 15:1,14 17:5,7 pointing 38:11 
+
+motive 3:12 5:5 noncitizens 3:6 20:19 19:25 20:4,10 points 23:17 
+5:24,25 6:20,21 41:10 order8:23 17:13 23:7,14 25:22 42:11,12 
+10:4,15,16 18:9 notes 41:7 19:1 23:5 26:4 27:19 29:8 policy 20:7 27:4 
+20:11,13 37:21 notice 42:20 29:14,15,16 27:8 46:15 
+
+P38:2 40:5,7,8 Number9:21 32:7 34:18 posed22:4,11 
+P 3:140:17 41:1,3 37:11 50:23 23:5 39:13 
+
+O page 2:2 17:12 42:2 43:13,18 personal 3:10 poses 29:14 
+O 2:1 3:1 20:1247:19 48:13 personally 3:18 posing 23:19 
+objective 11:8 pages 39:2551:18 52:24 perverse 26:16 position 29:21 
+
+14:20 23:2 40:22 52:2453:2 petition 40:6,24 32:13 34:3 
+34:14 35:9 part 17:5 26:24 motives 3:25 4:1 Petitioner1:4,17 39:16,17 44:18 
+39:18 40:12 26:25 46:115:23 34:7 38:12 2:4,10 3:7,17 52:2,4 
+
+objectively 15:5 participant 20:2 48:6 possibility 51:3 
+N obtain 7:1 particular6:9 pick 22:3 51:19 
+
+N 2:1,1 3:1 obtaining 9:15 9:17 44:18 picking 33:3 post-Imbler 
+narrow17:15 obvious 49:21 particularly 52:20 19:17 
+
+34:4 obviously 24:22 33:16 41:5 picture 49:14 potential 6:8 
+national 26:22 occurred10:22 48:25 pierce 48:19 8:20 23:7 
+
+49:2,5 office 3:16 parties 46:24 pierced10:3 potentially 50:17 
+naturally 22:23 officer30:24 47:6,15 pierces 6:1 power41:8,8 
+NEAL 1:15 2:3,9 31:17 32:15 parts 39:9 place 14:22 powers 34:20 
+
+3:6 48:5 33:18 50:10,14 party 43:10 47:9 placed8:4,15 9:2 35:2 41:13,22 
+near 48:20 50:17,20 passed35:1 46:4 11:20 48:9 
+necessarily officers 33:13 pattern 26:22 plaintiff 51:18,19 practicability
+
+37:22 official 30:8 31:9 49:2,5 
+
+60 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+8:25 38:18 probable 10:21 8:24 9:3,20 37:16,17 39:22 rarely 25:21 
+39:19 40:12 10:22,23,25 10:18 11:22 purposeful 5:24 27:12 43:6 
+
+practical 25:7 19:24 20:25 12:24 13:7,9,22 purposes 20:9 reach 9:24 19:14 
+46:12,16 22:9,15 25:2 14:7,9,15 15:1 22:3 25:19 34:5 reached8:10 
+
+practice 53:6 30:12,12,15,18 15:7 17:24 45:2 51:22 reaches 19:12 
+precedence 30:20 31:11 19:19,24 26:9 put 11:17 25:1 reader25:1 
+
+16:17 35:18,25 36:3,5 39:3,4 43:25 28:25 36:9 35:15 
+precedent 52:13 36:18 37:5,8,15 44:6,12 50:18 39:21 42:19 readily 24:11 
+precedents 38:23 44:6 51:10 putting 23:23 reading 35:4 
+
+18:16 probably 9:23 prosecutorial 6:5 31:14 reads 13:7 31:17 
+precisely 19:3 29:20 7:1 12:7,17 p.m53:12 reaffirmed20:24 
+
+39:9 problem24:9,10 17:5 44:14 47:8 46:15 
+Qpredecessor 28:17 prosecutors 3:23 real 30:1 34:7 
+
+qualified4:7 5:1 46:4 procedure 9:7 4:4 7:10,15,16 realistic 23:5 
+5:6,10,16,17 prepared39:21 11:21 8:21 10:12 13:3 really 10:9 51:5 
+6:10 12:12 30:8 40:8 51:17 procedures 16:19 17:1 18:2 reason 4:1,6,18 
+51:14prepping 44:7 18:24 18:5,8,14,17 4:19,24 10:24 
+
+question 5:6,13 prescribed16:14 proceed4:3 20:3 19:11 25:25 13:21 16:18 
+5:15,18,20 9:13 present 9:9 24:14 48:16 26:1,17 28:19 18:5 20:1 22:13 
+9:25 10:15 12:4 presented26:23 process 3:21 43:17 50:5 53:8 25:18 26:15 
+12:11 19:12,15 27:5 6:17,19,23 prosecutor's 32:11 35:21 
+19:21 25:7 27:5 presentment 16:11,15 18:22 3:19 7:3 10:3 36:22 38:7,22 
+33:2 34:7,11 44:5 24:16 43:6 24:4 44:16 
+
+questions 5:14pressing 21:17 47:15 protect 16:19,20 reasonable 30:7 
+9:25 13:1222:1 30:3 professional 7:4 protected7:15 31:9,24 32:9 
+20:15 26:23presumption 18:20 17:7,15 21:4 34:1,18 38:1,8 
+49:23 53:947:20 proffer9:10 protection 47:4 38:14,24 
+
+quintessentiallypretext 30:17 prohibition51:23 prove 24:14,15 reasonably 9:5 
+7:1 13:335:14 promise 21:23 50:25 51:4 reasoning 18:9 
+
+quite 8:14 10:16 pretextual 27:4 proof 51:5 52:23 reasons 3:17 
+11:10 17:1027:21 proper30:4 35:5 provide 19:5 9:21,23 26:10 
+19:22 49:6pretrial 17:13,22 properly 27:24 public 16:20 32:7 44:1 
+
+quote 9:4 15:13 prevent 8:19,22 prophylactic 19:11 33:2 REBUTTAL 2:8 
+49:1preventative 52:7 pulled30:11,16 48:5 
+
+quoting 16:2234:2 proposing 53:5 35:12 recalling 27:11 
+33:1preventive 5:25 proposition pure 18:9 recognizing 46:9 
+
+24:8 30:7 32:7 10:13 38:15 purely 45:2 reconcile 22:18R
+34:20,25 35:2 40:10 purportedly 3:24 22:19
+
+R 3:138:25 41:5,8,21 prosecute 8:13 purpose 5:9 Reed17:11
+raise 27:6 41:25 preventively 37:10 21:10 22:7,10 referred31:7
+raised19:1321:11 22:14 prosecution 7:6 22:23,24 24:18 referring 18:15
+
+26:23principle 20:24 23:10,13 45:1,2 25:5 29:5 30:4 reflect 12:16
+raising 18:824:6 prosecutor 3:13 35:22,24 36:23 15:4
+
+43:18principles 45:23 4:12 5:23 6:25 36:25 37:2,3,11 refused21:23 
+rare 48:17 
+
+61 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+rejected4:14 respects 41:12 sat 44:19 17:13 21:10 single 44:12 
+35:2 Respondent 1:19 satisfied39:19 22:14 26:2 52:24 
+
+release 52:10 2:7 20:20 satisfy 23:2 31:23 37:12 sitting 27:7 
+released7:19 Respondents 40:11 38:9 40:21 situation 11:16 
+
+15:14 32:3 5:20 Saudi 7:11 securing 31:8 22:17,18 23:11 
+relevance 23:19 responsible 50:2 saying 4:24 11:9 32:1 24:7 33:14,18 
+relevant 14:25 restrained8:1 11:18,22 13:16 see 5:21 7:16 33:25 38:13 
+
+17:11,12 23:8 restrictions 8:3 13:17 18:13 11:25 12:2 16:7 40:2 42:2 
+45:19 51:24 9:13 22:7,22 24:5 30:25 situations 25:9 
+
+remaining 48:4 restrictive 28:9 25:4,25 29:7,22 seeking 3:19 36:4 42:6 
+remedy 49:20 result 4:3,17 30:4 34:12,24 seeks 3:10 9:20 small 26:24 
+repeatedly 4:14 52:10 35:4 36:22 38:9 seen 30:9,11 48:17 
+
+31:7,7 34:23 retrying 8:9 40:1,3,10,25 sell 33:20 sole 22:13 40:4,6 
+45:24 46:14 return 21:23 41:3 44:23 45:7 sense 5:20 32:8 40:8,17 41:2 
+47:2,16 reverse 6:17 50:19 51:1 46:2 42:2 47:18 
+
+replead 17:21 review30:23 says 9:3 10:2,8 separation 41:12 Solicitor 1:15 
+reply 42:1 52:25 right 6:15 9:8,8 13:8 15:2,11 48:9 somebody 12:24 
+report 11:22 14:3 15:16,18 17:12,20 29:12 seriously 8:9 soon 8:14 
+represents 21:6 25:16 37:23 29:15 35:18,21 set 8:22 14:20 sorry 36:12 
+require 29:4 44:25 46:16 48:16 49:7 15:20 18:25 sort 43:8 46:20 
+
+52:14 49:24 50:22 50:11,23 26:20 45:9 Sotomayor 17:3 
+requirement rigidly 44:11 say-so 11:17 49:23 18:4,11,12 
+
+32:2 risk 29:14 33:19 scale 47:3 settled25:25 42:15 
+requirements 4:9 roadblock 37:13 Scalia 4:23 5:4 shining 49:17 sought 3:14 6:24 
+
+9:17 ROBERTS 3:3 6:3,12,15 7:6 show8:24 9:11 sound 49:19 
+requires 29:18 20:17 24:9 26:8 8:19 9:14 11:25 20:1 27:18 special 25:6 
+research 31:19 30:22 31:16 12:2,10,13,21 29:13 38:17 36:16 
+
+31:21 33:15 32:12,25 33:10 15:15,22,25 51:19 specific 27:1,2 
+reserve 20:16 48:3 53:10 16:4,7,9,13 showed27:17 specifically 31:4 
+resisted4:1 rooting 16:24 18:24 21:12,16 showing 25:13 31:4,23 35:2,15 
+resolution 8:5 roughly 27:18 36:2,7,13 43:2 25:15 28:14 41:6,7 
+resolved39:2 rule 11:21 16:19 44:22 45:4,6 showings 29:2 spite 18:8 
+
+48:21 21:2,7 scope 45:19 shows 13:18 standard 11:13 
+resources 28:25 ruled31:5 se 5:22 side 33:3 36:9 35:21 36:21 
+respect 6:22 Rules 11:21 search 36:4,5,23 42:10 44:10 37:2 53:1,2 
+
+10:14 11:5 15:9 run 10:7 17:23 37:15 43:3 48:16 standards 11:20 
+16:10 19:11 33:19 50:11,12 signed50:25 11:22 
+20:8 21:19 searches 36:6,13 significantly 51:6 standpoint 46:15 
+
+S26:21 43:3,4,18 36:14 simple 48:8,9 46:16 
+S 2:1 3:1 45:9,11 46:3 second 4:6,24 simply 10:4 start 48:14 
+safeguard 15:1049:23 50:4 9:1 10:1 19:21 12:24 14:24 started22:6 
+
+16:12 19:551:25 37:7 42:8 24:5 26:17 30:3 State 28:3,17 
+safeguards 8:19respectfully section 4:9 9:3 32:6 35:24 stated39:22 
+
+52:7,7 35:12 secure 7:14 40:10 43:19 statements 27:1 
+sake 17:25,25 
+
+62 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+States 1:1,12 subjective 4:11 31:17 33:16 think 5:12 8:14 27:12 44:23 
+3:11 12:19 28:2 10:18 14:15,23 37:18 41:11 8:21 9:22 10:15 45:6 
+28:2,7,8,16,24 15:2,7 35:5,7 42:16 43:5,5,7 11:6,6,13,19 three 3:17 
+29:6 48:11 52:5 46:22 47:15 11:19 13:2,25 threshold 43:21 
+49:10 subjectivity 4:15 49:15 14:15,19,20 thumb 47:3 
+
+statistics 27:17 submitted53:11 talks 34:9 15:3,19,21 16:9 time 7:12 16:4,8 
+28:2 53:13 teaching 25:5 17:9,10,11,12 20:16 26:8 
+
+statute 8:18 subpoena 5:7 43:23 17:18 18:5 19:1 33:12 46:6,10 
+10:25 11:10 substantive tell 24:22 36:25 19:4,5,10,15 48:1 49:7 
+12:5,8,15,18 19:23 telling 27:6 51:1 20:6,8 21:14,25 times 21:5 
+12:23 13:7,12 sue 50:1 terms 53:4 22:12,17,18 time-consuming 
+13:19 18:25 sued12:7 Terry 36:5,8,8,9 23:17,24,25 4:15 
+19:23 21:6,20 sufficient 46:20 36:10 24:3,10,10,21 today 52:9 
+22:20,22 23:6 suggest 32:5 test 14:21 40:7 24:24 25:4,5,8 told 30:17 50:20 
+23:18 24:2,12 suggesting 41:2 43:20 44:15 25:19,24 26:6 top 25:20 39:25 
+25:20 26:1,6 suite 8:18 testify 7:19 26:12,13,15,18 total 7:24 
+27:12 31:1,7,12 suits 4:3 47:23 26:19,20 27:6 totally 13:15 
+31:13,17,25 supervised28:20 testimony 7:14 28:16,17,23 tough 40:1 
+32:1,8,10,10 suppose 13:6,6 10:10 11:12,14 29:17,20,25 tradition19:7 
+34:9,19,22,24 19:24,25 50:24 11:15 15:3 30:7,9,24 31:2 traditional 36:21 
+35:1 39:9 40:3 Supreme 1:1,12 17:14 21:10 31:9,21,24 32:8 traditions 21:2 
+41:4,5,23 43:11 sure 6:12 11:14 22:14 23:8,8,9 32:18 33:5,7,22 41:18 
+43:13 46:5,23 13:15 14:13 23:9,12,21 26:2 33:25 34:18,21 transformed 
+49:3 50:10 52:6 20:7 24:18 26:5,11 31:8,24 35:3,7,11,12 41:4 
+52:14 33:23 39:1 32:1 34:8,13,15 35:16 36:8,8 travel 8:3 
+
+statutes 12:15 51:10 34:17,23 37:13 37:18,25 38:3,5 treat 49:19 
+23:20 28:4,8 sureties 52:17 38:10,21,21 38:6,7,7,9,14 trial 7:20,22 8:4 
+
+statute's 31:18 surety 21:24,24 39:12,23 40:13 38:17,24 39:7 11:15 13:4,4,24 
+statutory 4:9 surveyed42:24 40:21 44:20 40:7,11,18,21 14:8,9,25 16:11 
+
+9:17 47:20 suspect 10:21 49:20 41:5,11,13,16 17:4,6,8,14,16 
+steadfastly 21:4 20:25 26:4 tether46:17 42:6,17 43:3,12 17:21 18:22 
+step41:19 system43:7 text 22:19 31:25 43:23 44:9,14 25:13,15,16 
+stick 39:16 32:1 44:16,17 45:8 29:13 38:22 
+
+Tsticking 52:2 Thank 3:8 20:17 45:12,13,22,24 43:10 44:19 
+T 2:1,1 stop 38:2 48:3,7 53:10 46:11,15,18,22 48:23 49:5 
+take 5:11,17 stops 36:8 theoretical 14:4 47:16,18 48:18 trip 38:19,20 
+
+14:22 16:16straightforward theoretically 48:18 50:3,6 39:20 
+18:7 25:10 26:7 35:17 15:6 51:12,21 52:8 true 37:10 48:18 
+28:20 32:21stress 41:24 theory 45:17,20 52:17,21 53:3 truly 22:24 
+41:18 43:24strict 9:1 11:20 45:24 46:3 thinks 4:19 truth51:1 
+
+taken32:3strong 21:18,25 thing 18:15 30:24 third 4:18 43:10 try 13:10 19:25 
+talked6:21stuff 24:18 37:8 48:9 46:24 47:6,9,15 trying 13:4 22:21 
+
+30:16subject 25:22 things 8:22 23:2 thoroughly 4:12 24:1 37:10 42:2 
+talking 16:327:19 33:2 32:5 thought 6:3,4 8:8 turn 25:18 30:21 
+
+27:22 30:24 
+
+63 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+37:3,16 42:7 32:14,15 50:11 52:3 46:22 47:15 38:20 
+turned32:9 unspecified7:12 wanted10:9 whack 29:22,25 worry 49:7 
+turns 50:12 urge 52:13 19:14 34:6 whatsoever worse 16:25 
+two 9:21 32:22 use 15:2 17:7 wants 35:20 39:3 13:23 wouldn't 12:4 
+
+35:16 36:1 37:4 24:1 26:2,4 warden50:2 wholly 22:8,10 20:9 22:23 25:5 
+43:24 44:8 27:20 32:11 warrant 3:14,20 44:13,13 26:16 27:20 
+46:21 51:7 34:2,6,15,17 4:21 7:7,14 Whren10:16 37:22 52:10 
+
+two-part 14:21 38:21 39:12,22 8:18,23 9:16,20 11:3,7 22:8,8 writing 8:11 
+type 33:15 43:11 40:13,14 10:5 12:20 22:10,18,19 30:22 
+
+43:13 52:8 14:21 38:5 24:10,18,22,24 wrong 18:17 
+V 52:16 25:1,4 30:16,16 33:17 46:25 
+
+U v 1:5 3:4 17:11 warrants 6:18,24 30:17 35:12,14 wrongdoing
+ulterior 22:3 18:20 51:13 7:2 19:9 42:22 35:17,23 36:17 30:13,15,19 
+
+38:12 Van 16:21 42:24,25 43:1,3 36:20 52:5 37:5 
+ultimately 17:25 variety 26:10 43:4 45:12 widely 21:2 
+
+X33:6,9,25 46:18 veil 6:1 Washington 1:8 willy-nilly 16:20 
+48:11 50:6 53:7 verdict 8:10,15 x 1:2,7 1:16 18:6 
+
+unanimously vexatious 4:16 wasn't 19:13,13 Wilson 33:1 Y16:21 view3:22 25:3 26:11 windfall 26:3 
+yeah 40:1uncharged21:8 viewed21:2 27:16 29:23 witness 3:14,20 
+year 25:23 27:13 unconstitutional vigorously 49:3 37:6 49:5 5:7 6:18,24 
+
+27:2331:19 violate 9:16 watering 23:22 7:22 8:17,23 
+years 7:3uncooperative 37:21,22 way 3:22 5:13 9:15,20 10:5,25 
+York 1:18,18 29:5 violated4:7 7:16 9:22 12:16 12:20,25 13:8 
+
+underlying 44:19 13:12,20 14:1,6 18:17,22 19:16 13:23 14:9 17:4 1
+understand 6:10 21:1 22:9 23:19 27:21 19:8,9 20:2,5 10 11:23 47:21 7:19 14:14 violation 4:13 32:19 33:6,15 21:6,9,11,22 48:420:11 24:21 11:2,2 20:10 40:12,22,25 23:6,7,11,11 10-98 1:4 3:4 46:3 22:16 25:3 44:9,22 46:17 23:14 24:2,12 11:18 1:13 3:2 understanding 31:14 35:19 49:19 25:12 26:14,15 111 40:1926:1 36:19 38:23 ways 18:19 22:22 26:17 27:13 112 40:19understood 9:14 virtually 10:5 24:15 28:3,11,13 29:4 12:14 53:1238:25 40:4,5,22 25:17 27:24 Wednesday 1:9 29:11,12 31:1 15 8:2 39:25 40:25 voluntarily 21:22 went 7:13 41:23 38:5 41:23 154 40:19undertake 44:12 47:16,24 42:13,14 43:4 16 7:24 39:25 Wundiscerning weren't 8:13 43:24 45:10,11 17 52:25waived42:1825:1 35:15 we'll 3:3 41:19 49:2 50:24 51:2 1789 12:16 21:21 walk 35:20unfair33:2 we're 16:3 27:22 52:15,16 28:11 34:22want 13:11 22:3 unique 25:9 43:8 28:23 30:24 witnesses 8:21 1846 12:18 52:14 22:25 24:2244:18 45:9 34:12,16 36:24 9:9 21:20 25:12 19 52:2526:16 29:6 30:8 United1:1,12 37:2,10,18 25:15,18 26:9 19th 45:1832:6,11 34:3,8 3:11 12:19 39:23 40:3,8 44:7 1900s 29:2334:13,15 35:21 48:11 41:11 42:3,25 worked39:20 1971 46:736:22 37:1 38:9 unmoor46:20 43:5,5,7 45:14 works 14:20 1983 46:3,10 38:21,22 49:20 unreasonable 
+
+64 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+2
+
+2 1:9 21:4 44:4 
+20 2:7 8:9 
+2003 4:20 7:9,25 
+2011 1:9 
+24 49:18 
+25A 40:23 
+
+3
+
+3 2:4 
+30 28:8 47:20 
+31 20:12 
+3142 9:3 
+3144 4:9 11:10 
+
+15:10,11 52:6 
+
+4
+
+4,000 27:12 
+40A 40:23 
+46 11:21 
+48 2:10 
+492 17:12 
+
+7
+
+7-day 41:9 
+
+9
+
+9-11 23:25 27:8 
+
+41:6 47:16 
+92 27:18 
+95 48:21 
+96 48:21 
+
+65 
+
+Alderson Reporting Company 
+
+

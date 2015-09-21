@@ -1,0 +1,5731 @@
+
+                         
+
+          
+
+                       
+
+              
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+OREGON, :
+
+ Petitioner :
+
+ v. : No. 07-901 
+
+THOMAS EUGENE ICE. : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Tuesday, October 14, 2008
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 1:00 p.m. 
+
+APPEARANCES: 
+
+MARY H. WILLIAMS, ESQ., Solicitor General, Salem, Ore.;
+
+ on behalf of the Petitioner. 
+
+ERNEST G. LANNET, ESQ., Senior Deputy Public Defender,
+
+ Salem, Ore.; on behalf of the Respondent. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                     
+
+                    
+
+                    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S
+
+
+ORAL ARGUMENT OF PAGE 
+
+MARY H. WILLIAMS, ESQ.
+
+ On behalf of the Petitioner 3
+
+
+ERNEST G. LANNET, ESQ.
+
+
+ On behalf of the Respondent 23
+
+
+REBUTTAL ARGUMENT OF
+
+
+MARY H. WILLIAMS, ESQ.
+
+
+ On behalf of the Petitioner 45
+
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (1:00 p.m.)
+
+ CHIEF JUSTICE ROBERTS: We will hear 
+
+argument next in Case 07-901, Oregon v. Ice.
+
+ Ms. Williams.
+
+ ORAL ARGUMENT OF MARY H. WILLIAMS
+
+ ON BEHALF OF THE PETITIONER
+
+ MS. WILLIAMS: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ The factfinding at issue in this case is 
+
+significantly different than the factfinding at issue in 
+
+this Court's recent Sixth Amendment cases, in which the 
+
+Court struck down changes in sentencing practice that 
+
+had the effect of removing factfinding from the province 
+
+of the jury. In those cases, the change in practice 
+
+meant that a defendant could be convicted by the jury 
+
+for one offense and then, based on nonjury factfinding, 
+
+the defendant could be sentenced for what appeared to be 
+
+an aggravated, more serious offense without the jury 
+
+having made all the factual determinations necessary for 
+
+that more serious offense.
+
+ That doesn't happen in this case. In this 
+
+case, the jury convicted Mr. Ice of six counts, and the 
+
+sentence imposed on each of those six convictions 
+
+satisfies the Apprendi rule. There's no additional jury 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+factfinding that alters -- or nonjury factfinding, 
+
+excuse me, that alters a specific sentence for one of 
+
+the convictions. Instead, what the factfinding in this 
+
+case does is to significantly restrain the judge's 
+
+ability to decide how to administer those multiple 
+
+sentences for the multiple convictions.
+
+ JUSTICE SCALIA: Well, but it -- it, by 
+
+reason of the unusual law at issue here -- -I think it's 
+
+unusual, I don't -- I'm unaware of any other State that 
+
+has one -- the sentences -- the defendant has an 
+
+entitlement to have the sentences run concurrently 
+
+unless a certain additional fact exists and that 
+
+additional fact is to be found by the judge rather than 
+
+by the jury. So that if you take seriously what -- what 
+
+we have said in prior cases, namely that any fact which 
+
+has the effect of lengthening the sentence to which the 
+
+defendant is entitled must be found by the jury -- if 
+
+you take that seriously, I don't see why it doesn't 
+
+apply here.
+
+ MS. WILLIAMS: Justice Scalia, first on the 
+
+point in terms of how unique this statute is, there are 
+
+other States that have similar requirements, that there 
+
+is initial a presumption that multiple sentences will be 
+
+concurrent unless there is additional nonjury 
+
+factfinding that authorizes the judge to impose 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+consecutive sentences. So it's not entirely --
+
+JUSTICE SCALIA: How many others? Do you 
+
+know?
+
+ MS. WILLIAMS: It's difficult actually to 
+
+come up with an exact count, and the numbers vary when 
+
+you look at how other courts have sort of combined 
+
+cases, but perhaps as many as 13, but as different 
+
+States have sort of changed their practice some of those 
+
+have fallen away. It's clear that there's at least a 
+
+minority of States that have this kind of limitation on 
+
+what is otherwise inherent or a discretionary authority 
+
+of the judge to decide how to administer these multiple 
+
+sentences.
+
+ The difference is that what this Court has 
+
+been addressing in the Apprendi line of cases has always 
+
+been a specific sentence imposed on a specific 
+
+conviction. And what Oregon Supreme Court did was to 
+
+expand that to say that, in addition to the statutory 
+
+maximum that this Court described in Blakely, there is 
+
+in effect a second statutory maximum that you must 
+
+consider when there are multiple sentences being imposed 
+
+for multiple convictions, and that's the total period of 
+
+incarceration that the defendant will serve with and 
+
+without the additional factfinding.
+
+ JUSTICE SCALIA: You know, this fact can --
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+can turn out to be the most significant fact for the 
+
+defendant. I mean, it could lengthen his sentence 
+
+enormously. It's more important than many of the other 
+
+facts that we leave to the jury.
+
+ MS. WILLIAMS: Yes, Your Honor, and in this 
+
+case, for example, the additional factfinding extends 
+
+the whole duration of the -- of Mr. Ice's period of 
+
+incarceration from 90 months to 340 months. But what is 
+
+significant is that, as this Court said in Blakely, the 
+
+Sixth Amendment is a reservation of jury power; it's not 
+
+a limitation on judicial power. And I would submit it's 
+
+not a limitation on legislative power, except to the 
+
+extent that that exercise of power removed something 
+
+from the province of the jury. Historically, it's 
+
+undisputed that the judge made this decision about how 
+
+multiple sentences would be administered.
+
+ JUSTICE SCALIA: But you could say the same 
+
+about sentencing in general, and we held that the Sixth 
+
+Amendment does impose a limitation upon judicial power 
+
+where at least there is an entitlement by law to a 
+
+certain lower sentence. And there we said you can't 
+
+leave it to the judge to decide whether the facts that 
+
+trigger that law exist or not.
+
+ MS. WILLIAMS: I think what's important is 
+
+the foundation for that holding and the foundation for 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the Apprendi rule. It wasn't simply that factfinding in 
+
+general that exposes the defendant to a harsher 
+
+punishment is something that should -- would be better 
+
+served by having it done by the jury. It was that, 
+
+because of the changes in sentencing practices, because 
+
+States and Congress have been taking what traditionally 
+
+had been elements of an offense and relabeling them as 
+
+something else, as sentencing factors, that the jury was 
+
+no longer finding what traditionally it would have found 
+
+for each conviction. It was no longer finding what 
+
+would have been each element of an offense.
+
+ So what the rule does is it provides a 
+
+bright-line way of testing what is the functional 
+
+equivalent of an element for a specific offense that 
+
+would have been within the province of the jury and 
+
+therefore that can't be removed without violating the 
+
+Sixth Amendment.
+
+ JUSTICE STEVENS: The rule --
+
+JUSTICE KENNEDY: The rule does bear on 
+
+culpability, and culpability sounds like part of the 
+
+definition of an offense or a more serious offense.
+
+ MS. WILLIAMS: Yes, Your Honor.
+
+ And I think the Oregon Supreme Court viewed 
+
+this case as in terms of -- that it may have simply been 
+
+happenstance that the Court was looking only at single 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+convictions and single sentences being imposed on those. 
+
+But I think that takes away the analysis that the court 
+
+used in reaching the conclusions that it reached.
+
+ JUSTICE KENNEDY: I don't understand why 
+
+this happenstance is required to do it under the 
+
+statute. I didn't quite understand that.
+
+ MS. WILLIAMS: Well --
+
+JUSTICE KENNEDY: You said it's only 
+
+happenstance. He has to do it under the statute if he 
+
+makes the finding.
+
+ MS. WILLIAMS: No, what I'm trying to say is 
+
+that I think the Oregon Supreme Court viewed the fact 
+
+that so far in this Court's cases you had only been 
+
+dealing with a single offense and a single sentence, as 
+
+-- as not foreclosing the possibility that there would 
+
+be a different statutory maximum when you have multiple 
+
+sentences being imposed for multiple convictions. And 
+
+so the supreme court, I think, treated it -- what I was 
+
+saying was it simply is happenstance that that had been 
+
+the -- the nature of the cases that this Court has 
+
+decided, but then drew from this Court's decision and 
+
+from discussion about punishment a broader meaning that 
+
+somehow the jury must be involved in any factual 
+
+determination that relates to the overall quantum of 
+
+punishment for multiple sentences being imposed. 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOUTER: Well, didn't we furnish the 
+
+premise for that broader reasoning? Because we pointed 
+
+out that the traditional role of the jury was standing 
+
+in effect as the buffer between the power of the State 
+
+and the individual, and our concern in the Apprendi 
+
+cases was that the concept of elements was being 
+
+manipulated in such a way that the jury no longer stood 
+
+in that -- in effect, that buffer position.
+
+ And I guess the question here would be, is 
+
+there -- is there room for -- in effect, for 
+
+manipulation by the law in the consecutive sentencing 
+
+scheme or the potential consecutive sentencing scheme, 
+
+so that the jury in effect loses control over the 
+
+length, the ultimate length of time that an individual 
+
+is going to serve? What is your response to that?
+
+ MS. WILLIAMS: That the jury does not lose 
+
+anything that the jury historically had within its --
+
+JUSTICE SOUTER: No, but isn't the problem 
+
+with that argument the problem that Justice Scalia 
+
+raised a moment ago, where you could have made the same 
+
+argument with respect to a mandatory State guideline, 
+
+but nonetheless, the change in the law brought to bear 
+
+on the new law an old concept. And this is a change in 
+
+the law, to be sure. I agree with you, historically. 
+
+The judges -- once consecutive sentencing came in at 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+all, they were free to, in effect, do what they wanted 
+
+to, subject to some kind of a rule of reason.
+
+ But we've got to apply the Apprendi concept 
+
+and the concern of the jury trial right to this new 
+
+situation. So I don't think it's an answer to say, 
+
+well, the judge has never had such a -- such a power.
+
+ MS. WILLIAMS: But there's something 
+
+different here in terms of looking back on history and 
+
+what we have presently, compared to when you are looking 
+
+at the offense-specific sentence associated with a 
+
+specific conviction, because the changes in practice 
+
+there had the effect of taking away the ability to find 
+
+an element or something that was the equivalent of an 
+
+element, of removing that from the jury. And, 
+
+historically, that is clearly what the jury's job was: 
+
+To stand in as a buffer between the defendant and the 
+
+government.
+
+ JUSTICE SCALIA: So I gather from your 
+
+argument that you would -- you would be taking the other 
+
+side and you would be saying that it has to go to the 
+
+jury if, instead of being a statute that applies to 
+
+concurrent sentences from various crimes, there was 
+
+added to a particular crime, if this crime was committed 
+
+with the use of a gun, any sentence imposed shall not 
+
+run concurrently but shall run consecutively with any 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+other sentence arising out of this same occurrence?
+
+ MS. WILLIAMS: I think --
+
+JUSTICE SCALIA: There it's attached to a 
+
+particular crime. Do you really think that we should 
+
+have a different result in that case from this one?
+
+ MS. WILLIAMS: No, Your Honor, I don't, 
+
+although I think that makes it a more difficult 
+
+situation to try to analyze, because there it is -- it 
+
+is focused on a specific sentence for a specific 
+
+offense. But what is different is it still goes to not 
+
+adding to the penalty for that sentence, but adding to 
+
+how you are going to administer multiple sentences.
+
+ And the history here is very different. 
+
+Because what we have is, even though there wasn't a 
+
+statute when the Framers would have looked at this 
+
+issue, the issue did exist. Judges did make the 
+
+determination about how multiple sentences would be 
+
+administered. And what they would have considered would 
+
+have been a wide array of facts and without really 
+
+limitation other than --
+
+JUSTICE SCALIA: You could say the same 
+
+thing about the length of the sentence, that it was up 
+
+to them and they considered a wide array of facts. So 
+
+what? We said in Apprendi, once you try to narrow it by 
+
+law and say they can't do more than this, once you do 
+
+11 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that, that fact has to be found by the jury. And that's 
+
+what's going on here.
+
+ MS. WILLIAMS: But I think what's different 
+
+is that the history at issue and underlying Apprendi 
+
+actually wasn't that the judge could simply make nonjury 
+
+factfinding and expand the sentence beyond what the 
+
+sentence was that was associated with the jury's 
+
+verdict; that, in fact, that was the problem. Because 
+
+once there was additional factfinding that permitted the 
+
+judge to add to the penalty, that that had changed by 
+
+taking something away from what the jury's role was.
+
+ And so here we don't have that 
+
+same sort of situation. I think that -- that that was 
+
+exactly the argument this Court has rejected in those 
+
+cases of -- of -- where Faith and others have attempted 
+
+to suggest that historically judges were able to do this 
+
+and so it shouldn't matter now that we have changes. 
+
+But the Court rejected those arguments to say that, no, 
+
+because the sentencing practices have taken something 
+
+away from the jury, that is why we have the Sixth 
+
+Amendment violation.
+
+ So if in this circumstance we 
+
+-- we have constrained judicial power -- and clearly 
+
+that's what this statute does, is it tells the judge 
+
+that, instead of being able to make this determination 
+
+12 
+Alderson Reporting Company 
+
+
+
+                  
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+based on this wide array of factual considerations, the 
+
+judge now is limited in what the judge must consider to 
+
+-- to then exercise discretion in administering these 
+
+sentences. But all of that is 
+
+legislative restraint of judicial power without touching 
+
+in any way on the jury's historic role in -- in how to 
+
+deal with these multiple --
+
+JUSTICE BREYER: Am I right in -- I just 
+
+want to get the facts right. Am I right, you did this 
+
+historical research, and if you start with Apprendi we 
+
+can go all the way back to Nebuchadnezzar and you 
+
+haven't found a single case ever where it was a jury 
+
+rather than a judge that made this question of how you 
+
+put together sentences for two separate crimes committed 
+
+on the same occasion? Is that right, or is it an 
+
+overstatement?
+
+ MS. WILLIAMS: It is an overstatement only 
+
+in the sense that I did not go back as far as --
+
+JUSTICE BREYER: I didn't say how far you 
+
+went back. I said as far as you went back.
+
+ MS. WILLIAMS: As far as I went --
+
+JUSTICE BREYER: I don't know what 
+
+Nebuchadnezzar found, but I take it you did look to see 
+
+what was true at the time of the writing of the 
+
+Constitution. 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MS. WILLIAMS: Yes, Your Honor.
+
+ JUSTICE BREYER: And at the time of the 
+
+writing of the Constitution, which sometimes some of us 
+
+feel is relevant, in that instance they did have the 
+
+judge, not the jury, decide how to create a total 
+
+sentence where the person had committed two crimes on 
+
+the same occasion.
+
+ MS. WILLIAMS: Yes, exactly. And that 
+
+difference in terms of the history of showing that this 
+
+was a judicial determination, that -- and now that the 
+
+factfinding --
+
+JUSTICE SCALIA: But you could say the same 
+
+in Apprendi. It was a judicial determination how much 
+
+of a sentence you were going to get from ten years to 
+
+life. It wasn't up to the jury. It was up to the 
+
+judge.
+
+ MS. WILLIAMS: But where --
+
+JUSTICE SCALIA: And yet when you constrain 
+
+the judge and you say, judge, you cannot give more than 
+
+20 years unless the crime was committed with a -- with a 
+
+gun, we said suddenly that that matter can no longer be 
+
+left to the judge. It's a matter of law, and the facts 
+
+must be found by the jury. And I don't see any 
+
+difference here. I mean in both cases it was 
+
+traditionally done by judges. 
+
+14
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MS. WILLIAMS: But what this Court focused 
+
+on with the Apprendi rule is that, although judges made 
+
+decisions about sentencing within a range of possible 
+
+sentences, what judges could not do was to find 
+
+additional facts that were the functional equivalent of 
+
+an element of a greater offense. And that's what was 
+
+happening with those new sentencing --
+
+JUSTICE SOUTER: But we defined in effect 
+
+what was the functional element of the greater offense 
+
+in terms of the -- the power or the capacity of the 
+
+judge to increase the sentence beyond the range that 
+
+would have been -- that would have established the 
+
+maximum in the absence of that factfinding, right?
+
+ MS. WILLIAMS: Correct.
+
+ JUSTICE SOUTER: All right. And aren't we 
+
+in exactly the same position here? Because the 
+
+defendant here can correctly say: I cannot be sentenced 
+
+to the more onerous -- under a more onerous scheme of 
+
+consecutive sentencing unless some fact is found which 
+
+has not been found by the jury in coming to verdicts of 
+
+guilty in any of these crimes; a further fact must be 
+
+found to expose me to the heavier penalty.
+
+ And that is exactly the same as the 
+
+situation in Apprendi with one possible exception; and 
+
+that is, do you accept, as I thought you did, the 
+
+15
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+proposition that consecutive sentencing is the heavier 
+
+penalty or is a more onerous sentencing alternative. If 
+
+you accept that, I don't see how you would escape the 
+
+analogy with Apprendi.
+
+ MS. WILLIAMS: Your Honor, I do not accept 
+
+that it is a -- an enhanced penalty for any of the 
+
+specific convictions.
+
+ JUSTICE SOUTER: Everybody agrees.
+
+ MS. WILLIAMS: And it would be --
+
+JUSTICE SOUTER: If you had a choice between 
+
+two concurrent sentences and two consecutive sentences, 
+
+you know which one you are going to choose. So we -- we 
+
+know what is the heavier sentence or the heavier 
+
+sentencing option.
+
+ MS. WILLIAMS: It does have certainly a 
+
+harsher effect on the defendant than serving each of the 
+
+sentences beginning at the same time. But I think the 
+
+same could be said in terms of mandatory minimum 
+
+sentences and the factfinding required for those.
+
+ We obviously have cases where a defendant 
+
+facing a mandatory minimum sentence is going to be 
+
+confronted with a harsher sentence than he would face 
+
+without that additional factor.
+
+ JUSTICE SOUTER: But the mandatory minimum 
+
+is at least within the range of sentencing possibilities 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that the judge could impose anyway without any further 
+
+factfinding by the jury.
+
+ MS. WILLIAMS: And depending on how you view 
+
+this in terms of if you are looking at it with an 
+
+offense-specific frame, each sentence imposed for each 
+
+of the six convictions is also within the range of what 
+
+the judge can impose. This additional piece of when 
+
+those sentences begin does not take away from the jury's 
+
+role. It does limit what the judge could otherwise have 
+
+done, and it does that limitation by requiring 
+
+factfinding.
+
+ JUSTICE BREYER: What about the -- what 
+
+about restitution, forfeiture, taking a child and having 
+
+him tried as an adult? What about probation? What 
+
+about alternative drug programs? What about diversion? 
+
+I mean, I can think of five or six where there might be 
+
+a factual finding necessary to proceed to a situation 
+
+where the total amount of punishment is greater rather 
+
+than less.
+
+ MS. WILLIAMS: Yes, Your Honor, and we are 
+
+now litigating some of those very questions in light of 
+
+the Oregon Supreme Court decision about what is the 
+
+scope when you look beyond the specific sentence imposed 
+
+for a specific conviction and look at this greater 
+
+quantum of punishment --
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: It's a lot easier to limit 
+
+it to sentence than it is to limit it to sentence for a 
+
+particular conviction as opposed to sentence for the 
+
+whole ball of wax, all of the -- all of the horribles 
+
+that Justice Breyer proposes would -- would be overcome 
+
+if -- if you just adopted a rule that only applies to 
+
+sentences.
+
+ MS. WILLIAMS: Although, Your Honor, some of 
+
+these Douse-Greene decisions that are made again by 
+
+nonjury factfinding do affect what the defendant's 
+
+period of incarceration is going to be.
+
+ JUSTICE BREYER: And doesn't the sentencing 
+
+-- doesn't the Federal law define a sentence to include 
+
+restitution, to include what is the equivalent of 
+
+probation? I mean, there is a broad definition of the 
+
+word "sentence" in the law which includes some of the 
+
+things that I mentioned, though not all.
+
+ MS. WILLIAMS: Yes, Your Honor, and the same 
+
+is true for Oregon, that the sentence imposed and if you 
+
+-- the -- the judgments are set out in the joint 
+
+appendix in this case, that set out each of the 
+
+sentences imposed for each of the six convictions, and 
+
+you will see that there are a number of things in 
+
+addition to the term of incarceration that are a part of 
+
+that sentence being imposed. 
+
+18
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE STEVENS: May I ask you a question 
+
+that may seem totally irrelevant? Do you think our 
+
+decision in McMillan v. Pennsylvania was correctly 
+
+decided?
+
+ MS. WILLIAMS: I --
+
+JUSTICE STEVENS: It seems to me under your 
+
+reasoning in your case you might say that case was 
+
+wrong. And I think it was wrong. I will be perfectly 
+
+candid and say so. I think it was a very important 
+
+decision.
+
+ MS. WILLIAMS: No, Your Honor, I don't think 
+
+that it is necessary to say that that decision is wrong 
+
+to be consistent with the position I am asserting here 
+
+or the decision in Harris, because there the Court made 
+
+a distinction between what the jury traditionally would 
+
+have been -- been doing and determined that that jury 
+
+role was limited to deciding facts that increased only 
+
+the -- the maximum penalty that the defendants faced. 
+
+And so factfinding tied to imposing a mandatory minimum 
+
+sentence is different.
+
+ JUSTICE STEVENS: No, I understand. But it 
+
+seems to me it is -- in the old common law tradition, 
+
+following sort of the reasoning in the case you relied 
+
+on, McMillan really should have come out the other way, 
+
+because the jury normally would be finding the facts 
+
+19
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that would allow the minimum -- the maximum to go up or 
+
+the minimum. I forget which it was.
+
+ MS. WILLIAMS: And -- and what I have done 
+
+is to start with the proposition that we have in place 
+
+the Apprendi rule as it has been construed in McMillan 
+
+and in Harris, but that this is a -- a very different 
+
+extension of that rule beyond anything that this Court 
+
+has addressed in these cases.
+
+ And it's an extension that doesn't have the 
+
+same historic support that the Apprendi rule has. So I 
+
+don't think that this Court needs to -- certainly this 
+
+Court doesn't need to consider what impact this would 
+
+have except for, I think, in accepting the Oregon 
+
+Supreme Court holding. That to me does raise questions 
+
+about the ongoing validity of McMillan and Harris. And 
+
+-- and again, there are ways that you could certainly 
+
+distinguish that and retain those. But what it does is 
+
+to focus more on the jury as factfinder instead of 
+
+focusing on what the jury's historic role was and the 
+
+Sixth Amendment as a reservation of the power that the 
+
+jury has, not somehow giving the jury additional power 
+
+beyond what it has whenever factfinding is involved that 
+
+is -- is related to a defendant's aggregate punishment.
+
+ JUSTICE STEVENS: And, of course, it's part 
+
+of your position that historically sentences were always 
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+consecutive, if you go way back.
+
+ MS. WILLIAMS: But, Your Honor, in the older 
+
+cases we actually do find that they were -- there was 
+
+discretion for the judge to have the sentences be served 
+
+concurrently. It was viewed as in some ways not giving 
+
+full effect to the jury's verdict of finding the 
+
+defendant guilty for multiple offenses, which 
+
+consecutive sentencing did give full effect to that 
+
+verdict.
+
+ And so it was in the nature really of a 
+
+mitigation that the judge could do to lessen the 
+
+severity of the punishment based on certain facts that 
+
+the judge would consider and then in simply exercising 
+
+the judge's discretion.
+
+ But what is important here, I think, is that 
+
+it was clearly something for the judge to decide. Once 
+
+there were the multiple convictions, the jury's role was 
+
+at an end, and it was then up to the judge to make the 
+
+determination about how to administer those multiple 
+
+sentences. And so long as we are not changing the 
+
+jury's role in establishing that sentence for each of 
+
+the -- the six convictions in this case, then we have 
+
+not removed from the jury anything that would have been 
+
+incorporated within the Sixth Amendment.
+
+ JUSTICE STEVENS: What happens with 
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+sentences from multiple States? You commit the crime in 
+
+State A; you flee. You are then tried and found guilty 
+
+of a second crime in State B. I -- I -- let's assume 
+
+that the judge in State B has considerable discretion as 
+
+to whether or not he intends to impose a sentence in B 
+
+or send back to A, and that he knows that A is going to 
+
+be concurrent.
+
+ Under the theory of the case that's 
+
+advocated by the Respondents, do you think that a jury 
+
+trial or some sort of finding would be required?
+
+ MS. WILLIAMS: I think that if the -- the 
+
+law required the sentences be concurrent unless 
+
+additional factfindings were made, then under the -- the 
+
+rule announced by the Oregon Supreme Court and advocated 
+
+by Respondent that question would have to then go to the 
+
+jury even if it arises in -- basically in separate 
+
+proceedings.
+
+ So as you are sentencing in that separate, 
+
+second proceeding, it would still be a jury question of 
+
+whether those facts were -- were there that would allow 
+
+the judge to impose a consecutive sentence.
+
+ The Oregon statute treats that a little bit 
+
+differently. It appears to give the judge discretion 
+
+when there is a previously imposed judgment. Other 
+
+States do it differently, though, and do require 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+factfinding even in those circumstances when there has 
+
+been a judgment imposed in an entirely separate 
+
+proceeding. And if I could reserve the remainder of my 
+
+time.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Mr. Lannet.
+
+ ORAL ARGUMENT OF ERNEST G. LANNET
+
+ ON BEHALF OF THE RESPONDENT
+
+ MR. LANNET: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ This case presents yet another application 
+
+of the bright-line rule from Apprendi. Oregon law 
+
+entitles a criminal defendant to a concurrent sentence 
+
+for each offense unless certain facts are found. Here 
+
+for three offenses a judge found those facts and imposed 
+
+a greater penalty of a consecutive sentence. That 
+
+violated defendant's -- or the Sixth Amendment's jury-
+
+trial guarantee that the judge's authority to impose 
+
+criminal punishment must be limited by the facts solely 
+
+found by the jury.
+
+ JUSTICE GINSBURG: Mr. Lannet, there --
+
+there is one significant difference, I think, between --
+
+the-- in Apprendi it doesn't matter whether the State 
+
+labels something a "sentencing factor" or an "element." 
+
+Every one of those questions that goes into determining 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the maximum length of a sentence has to go to a jury 
+
+under Apprendi.
+
+ But when it comes to consecutive versus 
+
+concurrent, it's perfectly okay if a State says, our 
+
+main rule is consecutive, but the judge, if there are 
+
+certain mitigating factors, can make it concurrent. Or 
+
+it leaves the total things to the discretion of the 
+
+judge.
+
+ And if we are looking at it from the point 
+
+of view of a defendant, the State says, well, we are not 
+
+going to make it totally discretionary because we want 
+
+to be more defendant-friendly; that is, we are putting 
+
+certain restraints on the judge. So it seems -- what 
+
+seems odd to me about this case is the Sixth Amendment 
+
+is supposed to protect the defendant's right. And here 
+
+the State is saying, we want to give the defendant more 
+
+of a right. And he can say, that's unconstitutional, 
+
+but if you give me less of a right, it would be 
+
+perfectly constitutional.
+
+ It's that enigma that I think is very 
+
+disturbing about this case.
+
+ MR. LANNET: Well, two points on that. One 
+
+of them is that historically the jury trial -- the jury 
+
+found the verdict of guilt. That, in itself, authorized 
+
+the potential penalty of a very significant consecutive 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+sentence.
+
+ Oregon has made a different policy choice 
+
+here. And, to understand the full backdrop of it, 
+
+perhaps the context, that before this Oregon -- before 
+
+it had this statutory system in place, it had very 
+
+liberal rules regarding merger. This was part of a 
+
+series of enactments in which antimerger provisions were 
+
+enacted so the defendant's criminal history would 
+
+represent more accurately the number of convictions the 
+
+jury had found him guilty of.
+
+ Therefore, the defendants under -- in Oregon 
+
+law the defendant must receive a separate sentence for 
+
+each offense. So the increased number of sentences gave 
+
+rise to the possibility of longer sentences through 
+
+consecutive sentencing. Because in Oregon not only does 
+
+an offense give rise to a discrete sentence, but whether 
+
+the -- the sentence is concurrent or consecutive is an 
+
+aspect of punishment for that offense.
+
+ JUSTICE BREYER: In Oregon traditionally if 
+
+a burglar had broken into a house and while he was in 
+
+the house commits a rape, traditionally in Oregon that 
+
+would not be considered two crimes?
+
+ MR. LANNET: At a certain point in time 
+
+there were judicial rules in place regarding merger that 
+
+may have resulted in the entry of one --
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: Can you cite me an Oregon 
+
+case which says a burglar who breaks in and commits rape 
+
+is only guilty of one crime?
+
+ MR. LANNET: I would be happy to submit some 
+
+in a memorandum. I would need another day to do so.
+
+ JUSTICE SCALIA: Mr. Lannet, in -- in 
+
+connection with Justice Ginsburg's question, do you 
+
+think that Apprendi would apply differently to a statute 
+
+which, instead of imposing a higher penalty for a crime 
+
+committed with a firearm, said that the penalty will be 
+
+30 years for burglary unless the defendant did not 
+
+commit the crime with a firearm, in which case it will 
+
+be 15 years?
+
+ Do you think if the -- if the statute were 
+
+framed in that way, that Apprendi would not apply and we 
+
+would leave it to the judge whether a firearm had been 
+
+used or not?
+
+ MR. LANNET: I certainly it would raise an 
+
+issue about whether -- a different statutory 
+
+interpretation, of course, that if the State was merely 
+
+shifting a burden on a fact to the defendant to 
+
+disprove, I think that that would run into problems with 
+
+this Court's due process -- case law.
+
+ JUSTICE SCALIA: Well, regardless of who 
+
+proved it, I mean, the issue is can it be left to the 
+
+26
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+judge to decide whether the -- the -- the beneficent 
+
+determination that he did not use a firearm could be 
+
+left to the judge instead of sending it to the jury?
+
+ MR. LANNET: I think it would be very likely 
+
+if this Court looked at this State's interpretation of 
+
+the statute and found that the -- that the judge had no 
+
+authority to impose the greater sentence?
+
+ JUSTICE SCALIA: I don't see a dime's worth 
+
+of difference between that and Apprendi.
+
+ JUSTICE BREYER: How are you to prove these? 
+
+I am always curious as to the defense policy as to why. 
+
+Stricter and stricter rules here, and I have a hard time 
+
+figuring out why. If you have an actual case and you 
+
+have to go to trial, are you prepared to put on all the 
+
+evidence that although you want to say that your client 
+
+did neither of these things, that if he did do them, in 
+
+fact they were just one thing and weren't separate 
+
+things? I mean are you prepared to go into all that 
+
+detail in front of the jury?
+
+ MR. LANNET: Well, again I think there would 
+
+be a question about whether that would be proper, if 
+
+that would be in fact shifting an element over to the 
+
+defendant to disprove. I think that that would 
+
+create --
+
+JUSTICE BREYER: No, you are saying that the 
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+standard they use here for a separate sentencing, that 
+
+it has to be a separate crime and so forth, has to go to 
+
+the jury.
+
+ MR. LANNET: Yes, sure.
+
+ JUSTICE BREYER: Okay. So I wonder if you 
+
+are prepared to put all those facts before the jury, 
+
+say, in a case where you want to say that it wasn't my 
+
+defendant who did it.
+
+ MR. LANNET: Well, actually, Your Honor, a 
+
+decision affirming the Oregon Supreme Court at this 
+
+point would have little impact in Oregon. In response 
+
+to Blakely, the Oregon legislature enacted a statutory 
+
+scheme that gave back that enhanced sentence -- gave a 
+
+procedure by which they go to the jury, and it's either 
+
+-- and in a bifurcated proceeding that's ---
+
+JUSTICE BREYER: That way, you have to 
+
+have two --
+
+JUSTICE SCALIA: Booker/Fanfan as well, as 
+
+adopted, right? I mean that was what the dissenters in 
+
+Booker/Fanfan would have --
+
+MR. LANNET: Yes. Correct.
+
+ JUSTICE KENNEDY: Are you saying it would 
+
+have to be a bifurcated proceeding?
+
+ MR. LANNET: In many instances, just based 
+
+on --
+
+28 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE KENNEDY: Is there historic evidence 
+
+that bifurcated proceedings were required before 
+
+Apprendi?
+
+ MR. LANNET: No, but I think that this is 
+
+just a development of changing legislative choices in 
+
+identifying facts. I think Apprendi articulated the 
+
+functional path to determine the scope of a jury 
+
+trial guarantee when the State attempts to relegate a 
+
+fact to a judge rather than a jury.
+
+ CHIEF JUSTICE ROBERTS: Could I get back to 
+
+the question Justice Scalia asked about Apprendi. Is it 
+
+-- is it your position that if the offense, based on all 
+
+facts found by a jury, carried a maximum sentence of 
+
+30 years, but there was a provision that the judge could 
+
+determine that if a firearm was not used in the offense, 
+
+you would lower it to 10 years, would that pose a 
+
+problem under Apprendi?
+
+ MR. LANNET: In Apprendi I am not sure 
+
+that -- that -- I mean it's a question of whether all 
+
+the facts have been found by the -- by the jury 
+
+authorize the maximum punishment. So --
+
+CHIEF JUSTICE ROBERTS: Then it does. All 
+
+the facts authorize a punishment of 30 years. And if 
+
+it's going to be a reduction, that's for the judge. But 
+
+I would suppose it's not the problem -- we didn't 
+
+29
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+interpose a jury between the defendant and the State 
+
+with respect to every element, but only those elements 
+
+that increase the punishment.
+
+ MR. LANNET: Well, the potential penalty the 
+
+defendant faces -- and I think that if the penalty of 
+
+whether a gun is present or whether a gun is not 
+
+present, assuming that that would be enacted by a 
+
+legislature, I think that as long as -- I mean the core 
+
+question in Apprendi has been is the judge imposing a 
+
+penalty within the range authorized by the jury verdict.
+
+ JUSTICE SCALIA: The core question is is the 
+
+defendant entitled, entitled, to get no more than a 
+
+certain penalty if a particular fact is found.
+
+ MR. LANNET: Yes, sir.
+
+ JUSTICE SCALIA: And the answer would be, 
+
+yes, he is entitled if the fact is found that he didn't 
+
+use a gun to get a lesser penalty. And once you bring 
+
+in the legal entitlement, as I understand Apprendi, it 
+
+means that it has to be found by the jury.
+
+ MR. LANNET: Yes, Your Honor.
+
+ JUSTICE BREYER: And in addition, it must be 
+
+true too that the defendant is entitled not to pay 
+
+restitution if the facts show that there was no money 
+
+taken. And you needn't, by the way, convict the person. 
+
+You can convict him without finding that. 
+
+30 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+So the same would be true of restitution. 
+
+We would have another jury to decide restitution, 
+
+another thing that has never been done; is that right?
+
+ MR. LANNET: Well, if only because the 
+
+legislative scheme in place doesn't give the court 
+
+authority to impose restitutions based solely on the 
+
+jury's verdict.
+
+ JUSTICE BREYER: No, couldn't impose 
+
+restitution without making a finding as to how much 
+
+money was taken. So I don't -- I don't -- I can't 
+
+imagine the legislature --
+
+MR. LANNET: The Oregon appellate court 
+
+doesn't --
+
+JUSTICE BREYER: All right. The Federal 
+
+courts have not and I guess the same rule would apply. 
+
+Or what about forfeiture of a car used in the drug --
+
+again, forfeiture, I guess, would take place with 
+
+another jury being impanelled to try the question of 
+
+whether there was a car; is that right?
+
+ MR. LANNET: If -- if it was a fact that was 
+
+necessary for the punishment, I think that follows 
+
+within the rule of Apprendi.
+
+ JUSTICE BREYER: It's a punishment.
+
+ MR. LANNET: Although in Apprendi there was 
+
+a concern about elements being shifted from --
+
+31
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: Maybe not. Maybe it would 
+
+just be an in rem proceeding. What about the -- what 
+
+about the proceeding -- what about the determination 
+
+that a person who is going to trial goes to an adult 
+
+court rather than a juvenile court, the difference being 
+
+the extent of the punishment? You are not entitled 
+
+to -- a complete defense to the punishments that they 
+
+could impose. Do you see where I am going?
+
+ MR. LANNET: I believe --
+
+JUSTICE BREYER: I'm not sure which of these 
+
+things would actual follow from your rule and which 
+
+wouldn't.
+
+ MR. LANNET: I think legislatively that the 
+
+general statutes would set the maximum penalty as being 
+
+punished as an adult and the juvenile system would be a 
+
+different type of system.
+
+ JUSTICE BREYER: But they will say no one 
+
+can get this lower punishment for the juvenile system 
+
+unless the person is indeed a juvenile. Who makes that 
+
+factual finding?
+
+ MR. LANNET: Well, Your Honor, the bright-
+
+line rule of Apprendi as it applies in the sentencing in 
+
+this case is a question of what the judge can impose in 
+
+a proceeding that was initiated --
+
+JUSTICE BREYER: If we are going to depart 
+
+32
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+from what the Framers did in fact foresee in this kind 
+
+of case and we do accept Apprendi as something different 
+
+from what they did apply, does that require us to depart 
+
+as well in all these other cases which have the kinds of 
+
+differences that you have listened to?
+
+ MR. LANNET: I believe that this Court 
+
+already has. For instance, in Greene, under common 
+
+law a defendant who committed a capital offense was 
+
+subject to the death penalty and it was only upon -- and 
+
+the trial court would get to exercise discretion whether 
+
+to impose it. The Arizona legislature identified those 
+
+facts and said, we are not trying to shift elements to 
+
+the jury, these were never questions for the jury, but 
+
+rather we are only merely trying to guide the court's 
+
+discretion.
+
+ JUSTICE STEVENS: May I ask you a rather 
+
+broad question?
+
+ MR. LANNET: Yes, sir.
+
+ JUSTICE STEVENS: In Apprendi the opinions 
+
+were rather lengthy and discussed precedents at great 
+
+length. Justice Thomas's opinion was quite scholarly 
+
+and I discussed a lot of old cases. If this case that 
+
+we have today had arisen before Apprendi was decided, 
+
+what case would you have supporting your position?
+
+ MR. LANNET: I believe I would have Jones v. 
+
+33 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the United States and I think that it would be --
+
+JUSTICE STEVENS: I didn't hear that.
+
+ MR. LANNET: Jones, where the --
+
+JUSTICE STEVENS: Jones --
+
+MR. LANNET: Jones v. the United States, 
+
+where this Court interpreted this as a matter of 
+
+constitutional balance.
+
+ JUSTICE STEVENS: What if it had arisen 
+
+before Jones?
+
+ MR. LANNET: Then I think that it would --
+
+that this Court, if it engaged in the historical 
+
+analysis it did and see that, yes --
+
+JUSTICE STEVENS: And then the historical 
+
+analysis was to prove citation to what cases?
+
+ MR. LANNET: I believe the cases that were 
+
+cited -- I don't think --
+
+JUSTICE STEVENS: All the cases in Apprendi 
+
+dealt with elements of the crime and that sort of thing.
+
+ MR. LANNET: Yes. But this Court looked at 
+
+that practice and decided that what was not at issue was 
+
+the legislative identified elements as being found by 
+
+the jury, rather the underlying concern, the core 
+
+concern, the position that this Court thought that the 
+
+framers wanted to enshrine in the Sixth Amendment is 
+
+that the judge's authority to punish is both created and 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+limited by the factual findings of a jury.
+
+ CHIEF JUSTICE ROBERTS: What if under the 
+
+law the judge upon sentencing is supposed to make a 
+
+determination of where the defendant should be sent, 
+
+which facility, based on determination of which one has 
+
+the most room. Is that a determination that has to be 
+
+made by the jury?
+
+ MR. LANNET: I believe that that -- that can 
+
+be distinguished, because it was would be a 
+
+determination not based on punishment and not to impose 
+
+a punishment on defendant. However, if --
+
+CHIEF JUSTICE ROBERTS: Even if one was, you 
+
+know, the most horrendous prison in history and the 
+
+other was one of -- a country club?
+
+ MR. LANNET: No, I believe this Court has 
+
+repeatedly stated in -- in downstream like decisions 
+
+after convictions that whenever someone was convicted of 
+
+an offense and sentenced to incarceration by executive 
+
+agency, you are subject to the policies of that agency 
+
+and there may be certain due process.
+
+ CHIEF JUSTICE ROBERTS: Yes, but here in my 
+
+hypothetical it's something that a judge puts in the 
+
+sentence. It's just like you've got to, you know, make 
+
+restitution, you are not eligible for parole, you are 
+
+going to this place rather than that place. 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. LANNET: Well, this Court has identified 
+
+a bright line rule that it's not the particular of the 
+
+fact whether it would be something that would be 
+
+historically found by the jury, but rather a fact that 
+
+functions to increase punishment. I think I have 
+
+trouble with the hypothetical saying that the 
+
+different -- the different classification is sent to a 
+
+different institution is intended as a punishment and 
+
+not within the operations of the -- of the incarceration 
+
+institution overall.
+
+ JUSTICE GINSBURG: Mr. Lannet, if we agree 
+
+with your position and let's say you are engaged by the 
+
+Oregon legislature and they say to you: We don't want 
+
+to make this just be the judge's discretion alone, what 
+
+can we do to achieve Constitution of what we were trying 
+
+to achieve, that is to say encourage as the main 
+
+rule but -- that is, if we have to leave it to the 
+
+judge's discretion but we want to rein in that 
+
+discretion so that you don't have arbitrary differences 
+
+going from one judge to another?
+
+ They want -- they want to say, yeah, we 
+
+wanted this to be discretionary with the judge, but we 
+
+want to install certain controls so that the trial 
+
+judges will be operating more or less uniformly. How 
+
+could they do that constitutionally? 
+
+36
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. LANNET: I think they could do as they 
+
+are doing in what this Court has decided is juries are 
+
+finding those facts, and that a trial court does not 
+
+have to impose a consecutive sentence. Rather --
+
+JUSTICE GINSBURG: The juries are find --
+
+that's what is going on now, the juries are part of this 
+
+trial of guilt?
+
+ MR. LANNET: If ordering the bifurcated 
+
+proceeding much the way the aggravating factors under 
+
+Oregon's guidelines assumes everything handles in the 
+
+wake of --
+
+JUSTICE GINSBURG: Which is it? Do they do 
+
+it in the guilt trial or leave that up to the judge?
+
+ MR. LANNET: It falls into the condition of 
+
+what is defined as offense-related or offender-related 
+
+factors. I think that these would come in as offense 
+
+related and probably be in the main trial.
+
+ JUSTICE GINSBURG: Where -- where a defense 
+
+attorney might not want all of that stuff to come out.
+
+ MR. LANNET: Well, this Court has observed 
+
+repeatedly that -- that the right to a jury trial is one 
+
+that can be waived, and so the defendants have the 
+
+opportunity to not exercise those rights. This is just 
+
+that -- it's a right for the defendant but it's a 
+
+constitutional role that this Court has identified as 
+
+37
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+being the jury role in our system. It -- it both 
+
+authorizes, gives the arbiter authority to impose 
+
+punishment and also sets the maximum.
+
+ CHIEF JUSTICE ROBERTS: What if the -- what 
+
+if the rule were that all sentences should be concurrent 
+
+unless the defendant has been convicted of a prior 
+
+federal offense and then the sentence runs consecutive 
+
+to the federal sentence?
+
+ MR. LANNET: Well, if that was -- if the 
+
+Almendarez-Torres prior conviction exception is a Sixth 
+
+Amendment issue, which the Court has stated that it is, 
+
+then I believe that there would not be required a jury 
+
+finding, much like if the legislature identified facts 
+
+that would be reflected in the jury's verdict, or 
+
+reverted back to the common law rule which gave the 
+
+trial court authority to impose consecutive sentences 
+
+merely on the basis of if there was a conviction. I 
+
+think that the facts identified by the Oregon 
+
+legislature here are quite different than what would 
+
+qualify as the Almendarez-Torres exception. That 
+
+exception -- the basis that it has if we rationalize 
+
+consistence with the rule is that a fact of a prior 
+
+conviction has already been established in accordance 
+
+with the defendant's Sixth Amendment rights. These are 
+
+facts about the offense for which a consecutive sentence 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+is contemplated. So, these are facts about the event 
+
+that is being litigated at that moment. And the Oregon 
+
+legislature has predicated the greater penalty of a 
+
+consecutive sentence on those facts, and precedence 
+
+instructs that when the legislature does so, the 
+
+defendant has a right to have a jury find that fact 
+
+beyond a unreasonable doubt before the State can rely it 
+
+on and impose that greater penalty.
+
+ JUSTICE SOUTER: Mr. Lannet, one of the --
+
+or perhaps the driving force behind Apprendi was the 
+
+fear of abuse by a combination of the charging power and 
+
+the sentencing power. What abuse do you see if -- if 
+
+you lose this case? What potential abuse?
+
+ MR. LANNET: Well, I think that it would 
+
+send a message to legislatures that they can enact 
+
+statutory schemes that have -- that allow for many 
+
+instances where consecutive sentences are authorized 
+
+based on the facts and that those facts do not implicate 
+
+a Apprendi role, and therefore is a --
+
+JUSTICE SOUTER: That it would --
+
+MR. LANNET: Yes. I'm sorry.
+
+ JUSTICE SOUTER: No, I didn't mean to 
+
+interrupt.
+
+ MR. LANNET: To set maximum punishment based 
+
+on consecutiveness rather than, as they were doing under 
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the guideline system, by allowing a range and requiring 
+
+facts to exceed that range.
+
+ JUSTICE SOUTER: They -- they would do by 
+
+consecutive sentencing the same sort of thing that they 
+
+were trying to do or some legislatures, Congress was 
+
+trying to do by the sentencing factors?
+
+ MR. LANNET: I believe there's at least a 
+
+great possibility of that, yes.
+
+ JUSTICE STEVENS: Is there any room for 
+
+harmless error here? I mean, it seems to me patently 
+
+obvious that both of the statutory conditions were fully 
+
+satisfied. It was within -- put it within the 
+
+discretion of the judge.
+
+ MR. LANNET: Well, I think this Court should 
+
+not find those errors harmless beyond a reasonable doubt 
+
+for several reasons: First, the State has the burden of 
+
+proof that it's harmless beyond a reasonable doubt, and 
+
+has not attempted to do before the Oregon courts, the 
+
+appellate courts; it has not done so before this Court. 
+
+I think the Oregon Supreme Court necessarily concluded 
+
+that this --
+
+JUSTICE STEVENS: I mean, is there any doubt 
+
+that he wanted to commit an offense twice?
+
+ MR. LANNET: I think that praises an issue 
+
+of statutory interpretation. I think that that is one 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of the issues --
+
+JUSTICE KENNEDY: But statutory 
+
+interpretation questions aren't for the jury.
+
+ MR. LANNET: You are right, Your Honor, but 
+
+they are the ones for the Oregon Supreme Court in this 
+
+instance, and the Oregon Supreme Court narrowly 
+
+concluded that the findings of the jury found -- did not 
+
+establish the factual predicate to impose consecutive 
+
+sentences; however, they did not go into a comprehensive 
+
+analysis of what precisely those facts are, and in fact 
+
+the State -- the Petitioner here is actively litigating 
+
+the meaning of the statutory provisions at this point. 
+
+So it really is unclear what precisely are the facts 
+
+meant by this -- by the statutory terms.
+
+ I think it would put this Court in a 
+
+position to interpret the State statute in the first 
+
+instance, and disagree with the Oregon Supreme Court's 
+
+implicit conclusion, because it's under a State 
+
+constitutional requirement and also this Court's 
+
+requirement that it cannot reverse a lower court unless 
+
+it concludes that an error is harmless beyond a 
+
+reasonable doubt.
+
+ JUSTICE GINSBURG: It held as far as the 
+
+State constitution went, this is fine. It's only the 
+
+Federal Constitution that stops the legislature from 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+doing this.
+
+ MR. LANNET: Yes, I would acknowledge that 
+
+there is no analysis in the written decision, and that 
+
+is part of the problem because it didn't identify the 
+
+particular facts and conduct a harmless error analysis 
+
+for the benefit of this Court.
+
+ However, the court heard this case with a --
+
+in a consolidated argument with State v. Gray, in which 
+
+it did address the State's harmless error argument and 
+
+recognized that, in Washington v. Recuenco, this Court 
+
+had said that a -- is subject to harmless error 
+
+analysis.
+
+ So, I think necessary in the Oregon Supreme 
+
+Court reversing the lower court's decision is that 
+
+conclusion that this error was not harmless beyond a 
+
+reasonable doubt. And subsequent to this case, the 
+
+Oregon Supreme Court decided State versus Hagburn -- and 
+
+I have a citation for that, if you like. It's -- and 
+
+that is identified -- it addresses the State's harmless 
+
+error question. The citation is 345 Or. 161, and that's 
+
+regional reporter 190 P.3d 1209. And in that case we 
+
+had sexual offenses arising out of the same general 
+
+factual scenario, where a young victim testified that 
+
+she was abused in two different rooms on two different 
+
+days, and the Oregon Supreme Court said there is no 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+factual default in our consecutive sentencing system 
+
+that let -- the jury was not decided that this occurred 
+
+during the same criminal episode or during a separate 
+
+criminal episode. And in light of the vague testimony 
+
+by the victim, they could not conclude that a jury would 
+
+have found that.
+
+ So I believe that the -- that to the extent 
+
+that the Oregon court has analyzed the statute, that I 
+
+think that it would -- it backs up the conclusion that 
+
+it found this not to be harmless beyond a reasonable 
+
+doubt.
+
+ JUSTICE GINSBURG: One way of -- if you are 
+
+right about the application of Apprendi -- the Oregon 
+
+legislature could say as a main rule is we leave it to 
+
+the judge's discretion. However, before the judge makes 
+
+a sentence consecutive, the judge should take account of 
+
+the following factors. That would be okay?
+
+ MR. LANNET: I believe so, if that kind of 
+
+statutory provision was interpreted like you are 
+
+suggesting, that the court has authority based solely on 
+
+the jury's verdict and is merely exercising its 
+
+discretion and there is no requisite factfinding or the 
+
+-- even the requirement to find a fact to impose a 
+
+consecutive sentence, then I think it wouldn't praise an 
+
+Apprendi issue. 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: No entitlement to a lesser 
+
+sentence?
+
+ MR. LANNET: No entitlement to a lesser 
+
+sentence, Your Honor. Thank you.
+
+ CHIEF JUSTICE ROBERTS: Even if it's subject 
+
+to judicial review for judicial review for abuse of 
+
+discretion?
+
+ MR. LANNET: I believe so. I think that 
+
+this Court has --
+
+CHIEF JUSTICE ROBERTS: That doesn't give 
+
+you an entitlement to that, to the exercise of 
+
+discretion that isn't abused?
+
+ MR. LANNET: Not an entitlement that is 
+
+based solely on the facts found by the jury's verdict. 
+
+I don't believe it would.
+
+ Ultimately, this case was just an 
+
+application of the Apprendi rule. The State asked this 
+
+Court to replace that bright-line functional rule with 
+
+some yet unidentified criteria for identifying 
+
+constitutionally protected elements. It hasn't really 
+
+offered this Court with any suggestion of what those 
+
+constitutionally protected elements are except to say 
+
+that that fact at issue in this statute are not those. 
+
+At a minimum the State asks for an exception to the 
+
+Apprendi rule based on historical reasoning about an 
+
+44
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+allegation that this was only meant to control the 
+
+discretion of the sentencing court and it didn't shift 
+
+any elements. And that kind of argument was explicitly 
+
+rejected in Blakely, Booker, and Cunningham. The Oregon 
+
+Legislature authorized consecutive sentence as greater 
+
+penalty only for offenses committed under certain 
+
+factual circumstances. Those facts, not the jury -- not 
+
+found by the jury -- increase the defendant's penalty 
+
+from 7-1/2 years to over 28 years.
+
+ Affirming the decision below would adhere 
+
+the bright-line rule in Apprendi and it would preserve 
+
+the jury's role in finding each fact that authorizes the 
+
+maximum punishment. Thank you.
+
+ JUSTICE BREYER: Counsel, don't -- well, the 
+
+case that I mentioned on my account. I'm thinking about 
+
+it -- it's not going to make any difference.
+
+ MR. LANNET: Thank you very much.
+
+ CHIEF JUSTICE ROBERTS: Ms. Williams. You 
+
+have four minutes.
+
+ REBUTTAL ARGUMENT OF MARY H. WILLIAMS
+
+ ON BEHALF OF THE PETITIONER
+
+ MS. WILLIAMS: Thank you, Mr. Chief Justice.
+
+ What the State is advocating for here is not 
+
+an abandonment or a modification of the Apprendi rule, 
+
+but a limitation of the Apprendi rule to the cases in 
+
+45 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+which this -- the circumstances in which this Court has 
+
+applied it so far. The Apprendi rule has been applied 
+
+as a bright-line test for deciding when a sentence for a 
+
+specific condition has satisfied the Sixth Amendment. 
+
+And the way it operates is the rule itself tells us what 
+
+are the necessary facts that the jury must find, and so 
+
+there doesn't need to be a new rule to determine what 
+
+are those constitutionally protected facts. The 
+
+Apprendi rule does that for us by saying that any fact 
+
+that exposes a defendant in a particular conviction and 
+
+sentence to a greater penalty based on -- that -- based 
+
+on a fact that the jury has not found, is the functional 
+
+equivalent of an element if we had looked historically 
+
+at what the jury's role was. And so, therefore, that 
+
+additional factfinding, if it exposes the defendant to a 
+
+-- a longer penalty, a greater penalty for a specific 
+
+conviction, it must be found by the jury. And that is 
+
+how the Court has applied the rule to this point.
+
+ So all we are asking is that the Court 
+
+clarify that that is the full scope of the Apprendi 
+
+rule. And the reason for that is again, going back to 
+
+what this Court said in Blakely, that the Sixth 
+
+Amendment is only a reservation of jury power. And here 
+
+what we have here is something that is entirely a 
+
+judicial determination -- that historically has always 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+been a judicial determination -- and the only overlay we 
+
+now have is a legislative effort to regulate that 
+
+judicial authority through the mechanism of requiring 
+
+factfinding.
+
+ It's something that the legislature often 
+
+does, is to try to regulate judicial discretion by 
+
+requiring factfinding and by limiting the kinds of facts 
+
+the judge may consider. And that's what is being done 
+
+in this case without removing anything from the purview 
+
+of the jury. And so we would ask that this Court 
+
+reverse the Oregon Supreme Court. Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+The case is submitted.
+
+ (Whereupon, at 1:53 o'clock p.m., the case 
+
+in the above-entitled matter was submitted.) 
+
+47 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+adopted 18:6 30:15 34:8 ball 18:4A 
+28:19 antimerger 25:7 arises 22:16 based 3:17 13:1 abandonment 
+
+adult 17:14 32:4 anyway 17:1 arising 11:1 21:12 28:2445:24 
+32:15 APPEARAN... 42:22 29:12 31:6ability 4:5 10:12 
+
+advocated 22:9 1:14 Arizona 33:11 35:5,10 39:18 able 12:16,25 
+22:14 appeared 3:18 array 11:19,23 39:24 43:20above-entitled 
+
+advocating appears 22:23 13:1 44:14,25 46:11 1:11 47:15 
+45:23 appellate 31:12 articulated 29:6 46:11absence 15:13 
+
+affect 18:10 40:19 asked 29:11 basically 22:16abuse 39:11,12 
+affirming 28:10 appendix 18:21 44:17 basis 38:17,2139:13 44:6 
+
+45:10 application asking 46:19 bear 7:19 9:22 abused 42:24 
+agency 35:19,19 23:11 43:13 asks 44:24 beginning 16:1744:12 
+aggravated 3:19 44:17 aspect 25:18 behalf 1:16,18accept 15:25 
+aggravating applied 46:2,2 asserting 19:13 2:4,6,9 3:7 16:3,5 33:2 
+
+37:9 46:18 associated 10:10 23:8 45:21accepting 20:13 
+aggregate 20:23 applies 10:21 12:7 believe 32:9account 43:16 
+ago 9:20 18:6 32:22 assume 22:3 33:6,25 34:15 45:15 
+agree 9:24 36:11 apply 4:19 10:3 assumes 37:10 35:8,15 38:12 accurately 25:9 
+agrees 16:8 26:8,15 31:15 assuming 30:7 40:7 43:7,18achieve 36:15,16 
+allegation 45:1 33:3 attached 11:3 44:8,15acknowledge 
+allow 20:1 22:20 Apprendi 3:25 attempted 12:15 beneficent 27:142:2 
+
+39:16 5:15 7:1 9:5 40:18 benefit 42:6actively 41:11 
+allowing 40:1 10:3 11:24 attempts 29:8 better 7:3actual 27:13 
+Almendarez-... 12:4 13:10 attorney 37:19 beyond 12:632:11 
+
+38:10,20 14:13 15:2,24 authority 5:11 15:11 17:23add 12:10 
+alternative 16:2 16:4 20:5,10 23:18 27:7 20:7,22 39:7 added 10:23 
+
+17:15 23:12,23 24:2 31:6 34:25 40:15,17 41:21 adding 11:11,11 
+alters 4:1,2 26:8,15 27:9 38:2,16 43:20 42:15 43:10addition 5:18 
+Amendment 29:3,6,11,17 47:3 bifurcated18:24 30:21 
+
+3:12 6:10,19 29:18 30:9,18 authorize 29:21 28:15,23 29:2 additional 3:25 
+7:17 12:21 31:22,24 32:22 29:23 37:84:12,13,24 
+20:20 21:24 33:2,19,23 authorized bit 22:225:24 6:6 12:9 
+24:14 34:24 34:17 39:10,19 24:24 30:10 Blakely 5:19 6:9 15:5 16:23 
+38:11,24 46:4 43:13,25 44:17 39:17 45:5 28:12 45:417:7 20:21 
+46:23 44:25 45:11,24 authorizes 4:25 46:2222:13 46:15 
+
+Amendment's 45:25 46:2,9 38:2 45:12 Booker 45:4address 42:9 
+23:17 46:20 Booker/Fanfanaddressed 20:8 Bamount 17:18 arbiter 38:2 28:18,20addresses 42:19 B 22:3,4,5analogy 16:4 arbitrary 36:19 breaks 26:2addressing 5:15 back 10:8 13:11 analysis 8:2 argument 1:12 Breyer 13:8,19adhere 45:10 
+
+13:18,20,2034:12,14 41:10 2:2,7 3:4,6 13:22 14:2administer 4:5 
+21:1 22:642:3,5,12 9:19,21 10:19 17:12 18:5,125:12 11:12 
+28:13 29:10analyze 11:8 12:14 23:7 25:19 26:121:19 
+38:15 46:21analyzed 43:8 42:8,9 45:3,20 27:10,25 28:5 administered backdrop 25:3announced arguments 28:16 30:216:16 11:18 backs 43:922:14 12:18 31:8,14,23administering balance 34:7answer 10:5 arisen 33:23 32:1,10,17,2513:3 
+
+48 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+45:14 21:3 33:4,22 39:11 40:5 45:1 
+bright 32:21 34:14,15,17 combined 5:6 connection 26:7 controls 36:23 
+
+36:2 45:25 come 5:5 19:24 consecutive 5:1 convict 30:24,25 
+bright-line 7:13 certain 4:12 37:16,19 9:11,12,25 convicted 3:16 
+
+23:12 44:18 6:21 21:12 comes 24:3 15:19 16:1,11 3:23 35:17 
+45:11 46:3 23:14 24:6,13 coming 15:20 21:1,8 22:21 38:6 
+
+bring 30:17 25:23 30:13 commit 22:1 23:16 24:3,5 conviction 5:17 
+broad 18:15 35:20 36:23 26:12 40:23 24:25 25:15,17 7:10 10:11 
+
+33:17 45:6 commits 25:21 37:4 38:7,16 17:24 18:3 
+broader 8:22 certainly 16:15 26:2 38:25 39:4,17 38:10,17,23 
+
+9:2 20:11,16 26:18 committed 40:4 41:8 43:1 46:10,17 
+broken 25:20 change 3:15 10:23 13:14 43:16,24 45:5 convictions 3:24 
+brought 9:22 9:22,23 14:6,20 26:10 consecutively 4:3,6 5:22 8:1 
+buffer 9:4,8 changed 5:8 33:8 45:6 10:25 8:17 16:7 17:6 
+
+10:16 12:10 common 19:22 consecutiveness 18:22 21:17,22 
+burden 26:21 changes 3:13 7:5 33:7 38:15 39:25 25:9 35:17 
+
+40:16 10:11 12:17 compared 10:9 consider 5:21 core 30:8,11 
+burglar 25:20 changing 21:20 complete 32:7 13:2 20:12 34:22 
+
+26:2 29:5 comprehensive 21:13 47:8 Correct 15:14 
+burglary 26:11 charging 39:11 41:9 considerable 28:21 
+
+Chief 3:3,8 23:5 concept 9:6,23 22:4 correctly 15:17 
+C 23:9 29:10,22 10:3 considerations 19:3 
+
+C 2:1 3:1 35:2,12,21 concern 9:5 10:4 13:1 counsel 23:5 
+candid 19:9 38:4 44:5,10 31:25 34:22,23 considered 45:14 47:12 
+capacity 15:10 45:18,22 47:12 conclude 43:5 11:18,23 25:22 count 5:5 
+capital 33:8 child 17:13 concluded 40:20 consistence country 35:14 
+car 31:16,19 choice 16:10 41:7 38:22 counts 3:23 
+carried 29:13 25:2 concludes 41:21 consistent 19:13 course 20:24 
+case 3:4,10,22 choices 29:5 conclusion consolidated 26:20 
+
+3:23 4:4 6:6 choose 16:12 41:18 42:15 42:8 court 1:1,12 3:9 
+7:24 11:5 circumstance 43:9 constitution 3:13 5:14,17
+13:12 18:21 12:22 conclusions 8:3 13:25 14:3 5:19 6:9 7:23 
+19:7,7,23 circumstances concurrent 4:24 36:15 41:24,25 7:25 8:2,12,18
+21:22 22:8 23:1 45:7 46:1 10:22 16:11 constitutional 8:20 12:14,18
+23:11 24:14,21 citation 34:14 22:7,12 23:13 24:19 34:7 15:1 17:22 
+26:2,12,23 42:18,20 24:4,6 25:17 37:25 41:19 19:14 20:7,11
+27:13 28:7 cite 26:1 38:5 constitutionally 20:12,14 22:14 
+32:23 33:2,22 cited 34:16 concurrently 36:25 44:20,22 23:10 27:5 
+33:24 39:13 clarify 46:20 4:11 10:25 46:8 28:10 31:5,12
+42:7,16,21 classification 21:5 constrain 14:18 32:5,5 33:6,10 
+44:16 45:15 36:7 condition 37:14 constrained 34:6,11,19,23
+47:9,13,14 clear 5:9 46:4 12:23 35:15 36:1 
+
+cases 3:12,15 clearly 10:15 conditions 40:11 construed 20:5 37:2,3,20,25
+4:15 5:7,15 12:23 21:16 conduct 42:5 contemplated 38:11,16 40:14 
+8:13,20 9:6 client 27:15 confronted 39:1 40:19,20 41:5 
+12:15 14:24 club 35:14 16:22 context 25:4 41:6,15,20
+16:20 20:8 combination Congress 7:6 control 9:13 42:6,7,10,14 
+
+49 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+42:17,25 43:8 42:17 43:2 determination 36:22 27:22 30:2 
+43:20 44:9,18 deciding 19:17 8:24 11:17 discussed 33:20 46:13 
+44:21 45:2 46:3 12:25 14:10,13 33:22 elements 7:7 9:6 
+46:1,18,19,22 decision 6:15 21:19 27:2 discussion 8:22 30:2 31:25 
+47:10,11 8:21 17:22 32:3 35:4,5,6 disprove 26:22 33:12 34:18,21 
+
+courts 5:6 31:15 19:3,10,12,14 35:10 46:25 27:23 44:20,22 45:3 
+40:18,19 28:10 42:3,14 47:1 dissenters 28:19 eligible 35:24 
+
+court's 3:12 45:10 determinations distinction enact 39:15 
+8:13,21 26:23 decisions 15:3 3:20 19:15 enacted 25:8 
+33:14 41:17,19 18:9 35:16 determine 29:7 distinguish 28:12 30:7 
+42:14 default 43:1 29:15 46:7 20:17 enactments 25:7 
+
+create 14:5 defendant 3:16 determined distinguished encourage 36:16 
+27:24 3:18 4:10,17 19:16 35:9 engaged 34:11 
+
+created 34:25 5:23 6:2 7:2 determining disturbing 36:12 
+crime 10:23,23 10:16 15:17 23:25 24:21 enhanced 16:6 
+
+11:4 14:20 16:16,20 21:7 development diversion 17:15 28:13 
+22:1,3 26:3,9 23:13 24:10,16 29:5 doing 19:16 37:2 enigma 24:20 
+26:12 28:2 25:12 26:11,21 difference 5:14 39:25 42:1 enormously 6:3 
+34:18 27:23 28:8 14:9,24 23:22 doubt 39:7 enshrine 34:24 
+
+crimes 10:22 30:1,5,12,22 27:9 32:5 40:15,17,22 entirely 5:1 23:2 
+13:14 14:6 33:8 35:4,11 45:16 41:22 42:16 46:24 
+15:21 25:22 37:24 38:6 differences 33:5 43:11 entitled 4:17 
+
+criminal 23:13 39:6 46:10,15 36:19 Douse-Greene 30:12,12,16,22 
+23:19 25:8 defendants different 3:11 18:9 32:6 
+43:3,4 19:18 25:11 5:7 8:16 10:8 downstream entitlement 4:11 
+
+criteria 44:19 37:22 11:5,10,13 35:16 6:20 30:18 
+culpability 7:20 defendant's 12:3 19:20 drew 8:21 44:1,3,11,13 
+
+7:20 18:10 20:23 20:6 25:2 driving 39:10 entitles 23:13 
+Cunningham 23:17 24:15 26:19 32:16 drug 17:15 entry 25:25 
+
+45:4 25:8 38:24 33:2 36:7,7,8 31:16 episode 43:3,4 
+curious 27:11 45:8 38:19 42:24,24 due 26:23 35:20 equivalent 7:14 
+
+defendant-frie... differently duration 6:7 10:13 15:5 
+D 24:12 22:23,25 26:8 D.C 1:8 18:14 46:13 
+
+D 3:1 Defender 1:17 difficult 5:4 11:7 ERNEST 1:17 
+Eday 26:5 defense 27:11 dime's 27:8 2:5 23:7 
+
+days 42:25 E 2:1 3:1,1 32:7 37:18 disagree 41:17 error 40:10 
+deal 13:7 easier 18:1define 18:13 discrete 25:16 41:21 42:5,9
+dealing 8:14 effect 3:14 4:16 defined 15:8 discretion 13:3 42:11,15,20
+dealt 34:18 5:20 9:4,8,1037:15 21:4,14 22:4 errors 40:15 
+death 33:9 9:13 10:1,12definition 7:21 22:23 24:7 escape 16:3 
+decide 4:5 5:12 15:8 16:1618:15 33:10,15 36:14 ESQ 1:15,17 2:3 
+
+6:22 14:5 21:6,8depart 32:25 36:18,19 40:13 2:5,8
+21:16 27:1 effort 47:233:3 43:15,22 44:7 establish 41:8 
+31:2 either 28:14depending 17:3 44:12 45:2 established 
+
+decided 8:21 element 7:11,14Deputy 1:17 47:6 15:12 38:23 
+19:4 33:23 10:13,14 15:6 described 5:19 discretionary establishing
+34:20 37:2 15:9 23:24detail 27:19 5:11 24:11 21:21 
+
+50 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+EUGENE 1:6 41:10 43:23 fear 39:11 23:20 24:24 13:18 20:1 
+event 39:1 44:23 45:12 federal 18:13 25:10 27:6 21:1 22:15 
+Everybody 16:8 46:9,12 31:14 38:7,8 29:13,20 30:13 24:1 27:14,18 
+evidence 27:15 factfinder 20:18 41:25 30:16,19 34:21 28:2,14 41:9 
+
+29:1 factfinding 3:10 feel 14:4 36:4 41:7 43:6 goes 11:10 23:25 
+exact 5:5 3:11,14,17 4:1 figuring 27:13 43:10 44:14 32:4 
+exactly 12:14 4:1,3,25 5:24 find 10:12 15:4 45:8 46:12,17 going 9:15 11:12 
+
+14:8 15:16,23 6:6 7:1 12:6,9 21:3 37:5 39:6 foundation 6:25 12:2 14:14 
+example 6:6 14:11 15:13 40:15 43:23 6:25 16:12,21 18:11 
+exceed 40:2 16:19 17:2,11 46:6 four 45:19 22:6 24:11 
+exception 15:24 18:10 19:19 finding 7:9,10 frame 17:5 29:24 32:4,8 
+
+38:10,20,21 20:22 23:1 8:10 17:17 framed 26:15 32:25 35:25 
+44:24 43:22 46:15 19:25 21:6 framers 11:15 36:20 37:6 
+
+excuse 4:2 47:4,7 22:10 30:25 33:1 34:24 45:16 46:21 
+executive 35:18 factfindings 31:9 32:20 free 10:1 government 
+exercise 6:13 22:13 37:3 38:13 front 27:19 10:17 
+
+13:3 33:10 factor 16:23 45:12 full 21:6,8 25:3 Gray 42:8 
+37:23 44:11 23:24 findings 35:1 46:20 great 33:20 40:8 
+
+exercising 21:13 factors 7:8 24:6 41:7 fully 40:11 greater 15:6,9 
+43:21 37:9,16 40:6 fine 41:24 functional 7:13 17:18,24 23:16 
+
+exist 6:23 11:16 43:17 firearm 26:10 15:5,9 29:7 27:7 39:3,8 
+exists 4:12 facts 6:4,22 26:12,16 27:2 44:18 46:12 45:5 46:11,16 
+expand 5:18 11:19,23 13:9 29:15 functions 36:5 Greene 33:7 
+
+12:6 14:22 15:5 first 4:20 40:16 furnish 9:1 guarantee 23:18 
+explicitly 45:3 19:17,25 21:12 41:16 further 15:21 29:8 
+expose 15:22 22:20 23:14,15 five 17:16 17:1 guess 9:9 31:15 
+exposes 7:2 23:19 28:6 flee 22:2 31:17 
+
+G46:10,15 29:6,13,20,23 focus 20:18 guide 33:14 
+G 1:17 2:5 3:1 extends 6:6 30:23 33:12 focused 11:9 guideline 9:21 
+
+23:7extension 20:7,9 37:3 38:13,18 15:1 40:1 
+gather 10:18extent 6:13 32:6 38:25 39:1,4 focusing 20:19 guidelines 37:10 
+general 1:1543:7 39:18,18 40:2 follow 32:11 guilt 24:24 37:7 
+
+6:18 7:2 32:14 41:10,13 42:5 following 19:23 37:13 
+F 42:2244:14 45:7 43:17 guilty 15:21 
+
+face 16:22 GINSBURG46:6,8 47:7 follows 31:21 21:7 22:2 
+faced 19:18 23:21 36:11factual 3:20 force 39:10 25:10 26:3 
+faces 30:5 37:5,12,188:23 13:1 foreclosing 8:15 gun 10:24 14:21 
+facility 35:5 41:23 43:1217:17 32:20 foresee 33:1 30:6,6,17
+facing 16:21 Ginsburg's 26:735:1 41:8 forfeiture 17:13 
+
+Hfact 4:12,13,15 give 14:19 21:8 42:23 43:1 31:16,17
+5:25 6:1 8:12 22:23 24:16,18 H 1:15 2:3,8 3:6 45:7 forget 20:2 
+12:1,8 15:19 25:16 31:5 45:20Faith 12:15 forth 28:2 
+15:21 26:21 44:10 Hagburn 42:17fallen 5:9 found 4:13,17
+27:17,22 29:9 gives 38:2 handles 37:10falls 37:14 7:9 12:1 13:12 
+30:13,16 31:20 giving 20:21 happen 3:22far 8:13 13:18 13:23 14:23 
+33:1 36:3,4 21:5 happening 15:713:19,20,21 15:19,20,22
+38:22 39:6 go 10:20 13:11 happens 21:2541:23 46:2 22:2 23:14,15 
+
+51 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+happenstance 25:13 21:18 22:4,21 33:13 34:22I 
+7:25 8:5,9,19 individual 9:5 22:23 23:15 35:1,7 36:4 Ice 1:6 3:4,23 
+
+happy 26:4 9:14 24:5,8,13 37:21 38:1,12Ice's 6:7 
+hard 27:12 inherent 5:11 26:16 27:1,3,6 39:6 41:3,7identified 33:11 
+harmless 40:10 initial 4:23 29:9,14,24 43:2,5 45:7,8 34:21 36:1 
+
+40:15,17 41:21 initiated 32:24 30:9 32:23 46:6,12,17,2337:25 38:13,18
+42:5,9,11,15 install 36:23 35:3,22 36:20 47:1042:19 
+42:19 43:10 instance 14:4 36:22 37:13 jury's 10:15identify 42:4 
+
+Harris 19:14 33:7 41:6,17 40:13 43:15,16 12:7,11 13:6 identifying 29:6 
+20:6,15 instances 28:24 47:8 17:8 20:1944:19 
+
+harsher 7:2 39:17 judges 9:25 21:6,17,21imagine 31:11 
+16:16,22 institution 36:8 11:16 12:16 31:7 38:14impact 20:12 
+
+hear 3:3 34:2 36:10 14:25 15:2,4 43:21 44:1428:11 
+heard 42:7 instructs 39:5 36:24 45:12 46:14impanelled
+heavier 15:22 intended 36:8 judge's 4:4 Justice 3:3,8 4:7 31:18 
+
+16:1,13,13 intends 22:5 21:14 23:18 4:20 5:2,25implicate 39:18 
+held 6:18 41:23 interpose 30:1 34:25 36:14,18 6:17 7:18,19implicit 41:18 
+higher 26:9 interpret 41:16 43:15 8:4,8 9:1,18,19 important 6:3 
+historic 13:6 interpretation judgment 22:24 10:18 11:3,216:24 19:9 
+
+20:10,19 29:1 26:20 27:5 23:2 13:8,19,2221:15 
+historical 13:10 40:25 41:3 judgments 14:2,12,18impose 4:25 
+
+34:11,13 44:25 interpreted 34:6 18:20 15:8,15 16:8 6:19 17:1,7
+historically 6:14 43:19 judicial 6:11,19 16:10,24 17:12 22:5,21 23:18 
+
+9:17,24 10:15 interrupt 39:23 12:23 13:5 18:1,5,12 19:1 27:7 31:6,8
+12:16 20:25 involved 8:23 14:10,13 25:24 19:6,21 20:24 32:8,23 33:11 
+24:23 36:4 20:22 44:6,6 46:25 21:25 23:5,935:10 37:4 
+46:13,25 irrelevant 19:2 47:1,3,6 23:21 25:1938:2,16 39:8 
+
+history 10:8 issue 3:10,11 4:8 juries 37:2,5,6 26:1,6,7,2441:8 43:23 
+11:13 12:4 11:16,16 12:4 jury 3:15,16,19 27:8,10,25imposed 3:24 
+14:9 25:8 26:19,25 34:20 3:23,25 4:14 28:5,16,18,225:16,21 8:1,17 
+35:13 38:11 40:24 4:17 6:4,10,14 29:1,10,11,228:25 10:24 
+
+holding 6:25 43:25 44:23 7:4,8,15 8:23 30:11,15,2117:5,23 18:19 
+20:14 issues 41:1 9:3,7,13,16,17 31:8,14,2318:22,25 22:24 
+
+Honor 6:5 7:22 10:4,14,21 32:1,10,17,2523:2,15 J11:6 14:1 16:5 12:1,20 13:12 33:16,19,21imposing 19:19 job 10:1517:20 18:8,18 14:5,15,23 34:2,4,8,13,1726:9 30:9 joint 18:2019:11 21:2 15:20 17:2 35:2,12,21incarceration Jones 33:25 34:3 28:9 30:20 19:15,16,25 36:11 37:5,125:23 6:8 18:11 
+34:4,5,932:21 41:4 20:18,21,21 37:18 38:418:24 35:18 judge 4:13,2544:4 21:23 22:9,16 39:9,20,2236:9 
+5:12 6:15,22horrendous 22:19 23:17,20 40:3,9,22 41:2 include 18:13,14 
+10:6 12:5,1035:13 24:1,23,23 41:23 43:12includes 18:16 
+12:24 13:2,2horribles 18:4 25:10 27:3,19 44:1,5,10incorporated 
+13:13 14:5,16house 25:20,21 28:3,6,14 29:7 45:14,18,2221:24 
+14:19,19,22hypothetical 29:9,13,20 47:12increase 15:11 
+15:11 17:1,7,935:22 36:6 30:1,10,19 juvenile 32:5,1530:3 36:5 45:8 
+21:4,11,13,16 31:2,18 33:13 32:18,19increased 19:17 
+
+52 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+leaves 24:7 little 22:22 17:16 18:15 21:10K 
+left 14:22 26:25 28:11 26:25 27:18 Nebuchadnez... KENNEDY 
+
+27:3 long 21:20 30:8 28:19 29:19 13:11,237:19 8:4,8 
+legal 30:18 longer 7:9,10 30:8 39:22 necessarily28:22 29:1 
+legislative 6:12 9:7 14:21 40:10,22 40:2041:2 
+
+13:5 29:5 31:5 25:14 46:16 meaning 8:22 necessary 3:20kind 5:10 10:2 
+34:21 47:2 look 5:6 13:23 41:12 17:17 19:1233:1 43:18 
+
+legislatively 17:23,24 means 30:19 31:21 42:1345:3 
+32:13 looked 11:15 meant 3:16 46:6kinds 33:4 47:7 
+
+legislature 27:5 34:19 41:14 45:1 need 20:12 26:5 know 5:3,25 
+28:12 30:8 46:13 mechanism 47:3 46:713:22 16:12,13 
+31:11 33:11 looking 7:25 memorandum needn't 30:2435:13,23 
+36:13 38:13,19 10:8,9 17:4 26:5 needs 20:11knows 22:6 
+39:3,5 41:25 24:9 mentioned neither 27:16 
+
+L 43:14 45:5 lose 9:16 39:13 18:17 45:15 never 10:6 31:3 
+47:5 loses 9:13 merely 26:20 33:13labels 23:24 
+
+legislatures lot 18:1 33:22 33:14 38:17 new 9:23 10:4 Lannet 1:17 2:5 
+39:15 40:5 lower 6:21 29:16 43:21 15:7 46:723:6,7,9,21 
+
+length 9:14,14 32:18 41:20 merger 25:6,24 nonjury 3:1724:22 25:23 
+11:22 24:1 42:14 message 39:15 4:1,24 12:5 26:4,6,18 27:4 
+33:21 minimum 16:18 18:1027:20 28:4,9 
+
+Mlengthen 6:2 16:21,24 19:19 normally 19:2528:21,24 29:4 
+main 24:5 36:16 lengthening 20:1,2 44:24 number 18:2329:18 30:4,14 
+
+37:17 43:144:16 minority 5:10 25:9,1330:20 31:4,12 
+making 31:9lengthy 33:20 minutes 45:19 numbers 5:531:20,24 32:9 
+mandatory 9:21lessen 21:11 mitigating 24:632:13,21 33:6 
+
+O16:18,21,24lesser 30:17 44:1 mitigation 21:1133:18,25 34:3 
+19:19 O 2:1 3:1 44:3 modification34:5,10,15,19 
+
+manipulated 9:7 observed 37:20let's 22:3 36:12 45:2435:8,15 36:1 
+manipulation obvious 40:11liberal 25:6 moment 9:2036:11 37:1,8 
+
+9:11 obviously 16:20life 14:15 39:237:14,20 38:9 
+MARY 1:15 2:3 occasion 13:15light 17:21 43:4 money 30:2339:9,14,21,24 
+
+2:8 3:6 45:20 14:7limit 17:9 18:1,2 31:1040:7,14,24 
+matter 1:11 occurred 43:2limitation 5:10 months 6:8,841:4 42:2 
+
+12:17 14:21,22 occurrence 11:16:11,12,19 multiple 4:5,643:18 44:3,8 
+23:23 34:6 October 1:911:20 17:10 4:23 5:12,2144:13 45:17 
+47:15 odd 24:1445:25 5:22 6:16 8:16 law 4:8 6:20,23 
+
+maximum 5:19 offender-relat... limited 13:2 8:17,25 11:12 9:11,22,23,24 
+5:20 8:16 37:1519:17 23:19 11:17 13:711:25 14:22 
+15:13 19:18 offense 3:17,1935:1 21:7,17,1918:13,16 19:22 
+20:1 24:1 3:21 7:7,11,14limiting 47:7 22:122:12 23:12 
+29:13,21 32:14 7:21,21 8:14 line 5:15 32:22 25:12 26:23 
+
+N38:3 39:24 11:10 15:6,936:233:8 35:3 
+45:13 N 2:1,1 3:1 23:14 25:13,16listened 33:538:15 
+
+McMillan 19:3 narrow 11:24 25:18 29:12,15litigated 39:2leave 6:4,22 
+19:24 20:5,15 narrowly 41:6 33:8 35:18litigating 17:2126:16 36:17 
+
+mean 6:2 14:24 nature 8:20 37:16 38:7,2541:1137:13 43:14 
+
+53 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+40:23 47:11 25:24 31:5,17 27:18 28:6 41:12 
+offenses 21:7 Oregon's 37:10 35:25,25 present 30:6,7 Public 1:17 
+
+23:15 42:22 overall 8:24 please 3:9 23:10 presently 10:9 punish 34:25 
+45:6 36:10 point 4:21 24:9 presents 23:11 punished 32:15 
+
+offense-related overcome 18:5 25:23 28:11 preserve 45:11 punishment 7:3 
+37:15 overlay 47:1 41:12 46:18 presumption 8:22,25 17:18 
+
+offense-specific overstatement pointed 9:2 4:23 17:25 20:23 
+10:10 17:5 13:16,17 points 24:22 previously 21:12 23:19 
+
+offered 44:21 o'clock 47:14 policies 35:19 22:24 25:18 29:21,23 
+okay 24:4 28:5 policy 25:2 prior 4:15 38:6 30:3 31:21,23
+
+P43:17 27:11 38:10,22 32:6,18 35:10 
+P 3:1old 9:23 19:22 pose 29:16 prison 35:13 35:11 36:5,8
+PAGE 2:233:22 position 9:8 probably 37:17 38:3 39:24 
+parole 35:24older 21:2 15:16 19:13 probation 17:14 45:13 
+part 7:20 18:24 once 9:25 11:24 20:25 29:12 18:15 punishments
+
+20:24 25:611:25 12:9 33:24 34:23 problem 9:18,19 32:7 
+37:6 42:421:16 30:17 36:12 41:16 12:8 29:17,25 purview 47:9 
+
+particular 10:23onerous 15:18 possibilities 42:4 put 13:14 27:14 
+11:4 18:315:18 16:2 16:25 problems 26:22 28:6 40:12 
+30:13 36:2ones 41:5 possibility 8:15 procedure 28:14 41:15 
+42:5 46:10ongoing 20:15 25:14 40:8 proceed 17:17 puts 35:22 
+
+patently 40:10operates 46:5 possible 15:3,24 proceeding putting 24:12 
+path 29:7operating 36:24 potential 9:12 22:19 23:3 p.m 1:13 3:2 
+pay 30:22operations 36:9 24:25 30:4 28:15,23 32:2 47:14 
+penalty 11:11opinion 33:21 39:13 32:3,24 37:9 P.3d 42:21 
+
+12:10 15:22opinions 33:19 power 6:10,11 proceedings 
+Q16:2,6 19:18 opportunity 6:12,13,19 9:4 22:17 29:2 
+
+23:16 24:25 qualify 38:2037:23 10:6 12:23 process 26:23 
+26:9,10 30:4,5 quantum 8:24opposed 18:3 13:5 15:10 35:20 
+30:10,13,17 17:25option 16:14 20:20,21 39:11 programs 17:15 
+32:14 33:9 question 9:9oral 1:11 2:2 3:6 39:12 46:23 proof 40:17 
+39:3,8 45:6,8 13:13 19:123:7 practice 3:13,15 proper 27:21 
+46:11,16,16 22:15,19 26:7 ordering 37:8 5:8 10:11 proposes 18:5 
+
+Pennsylvania 27:21 29:11,19Ore 1:15,18 34:20 proposition 16:1 
+19:3 30:9,11 31:18 Oregon 1:3 3:4 practices 7:5 20:4 
+
+perfectly 19:8 32:23 33:175:17 7:23 8:12 12:19 protect 24:15 
+24:4,19 42:2017:22 18:19 praise 43:24 protected 44:20 
+
+period 5:22 6:7 questions 17:2120:13 22:14,22 praises 40:24 44:22 46:8 
+18:11 20:14 23:2523:12 25:2,4 precedence 39:4 prove 27:10 
+
+permitted 12:9 33:13 41:325:11,15,19,21 precedents 34:14 
+person 14:6 quite 8:6 33:21 26:1 28:10,11 33:20 proved 26:25 
+
+30:24 32:4,19 38:1928:12 31:12 precisely 41:10 provides 7:12 
+Petitioner 1:436:13 38:18 41:13 province 3:14 R1:16 2:4,9 3:7 39:2 40:18,20 predicate 41:8 6:14 7:15 
+
+R 3:141:11 45:2141:5,6,17 predicated 39:3 provision 29:14 
+raise 20:14piece 17:742:13,17,25 premise 9:2 43:19 
+
+26:18place 20:4 25:5 43:8,13 45:4 prepared 27:14 provisions 25:7 
+
+54 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+raised 9:20 7:16 21:23 reverted 38:15 satisfied 40:12 23:13,16 24:1 
+range 15:3,11 removing 3:14 review 44:6,6 46:4 25:1,12,16,17 
+
+16:25 17:6 10:14 47:9 right 10:4 13:8,9 satisfies 3:25 27:7 28:13 
+30:10 40:1,2 repeatedly 13:9,15 15:13 saying 8:19 29:13 35:23 
+
+rape 25:21 26:2 35:16 37:21 15:15 24:15,17 10:20 24:16 37:4 38:7,8,25 
+rationalize replace 44:18 24:18 28:19 27:25 28:22 39:4 43:16,24 
+
+38:21 reporter 42:21 31:3,14,19 36:6 46:9 44:2,4 45:5 
+reached 8:3 represent 25:9 37:21,24 39:6 says 24:4,10 46:3,11 
+reaching 8:3 require 22:25 41:4 43:13 26:2 sentenced 3:18 
+really 11:4,19 33:3 rights 37:23 Scalia 4:7,20 5:2 15:17 35:18 
+
+19:24 21:10 required 8:5 38:24 5:25 6:17 9:19 sentences 4:6,10 
+41:13 44:20 16:19 22:10,12 rise 25:14,16 10:18 11:3,21 4:11,23 5:1,13 
+
+reason 4:8 10:2 29:2 38:12 ROBERTS 3:3 14:12,18 18:1 5:21 6:16 8:1 
+46:21 requirement 23:5 29:10,22 26:6,24 27:8 8:17,25 10:22 
+
+reasonable 41:19,20 43:23 35:2,12,21 28:18 29:11 11:12,17 13:4 
+40:15,17 41:22 requirements 38:4 44:5,10 30:11,15 44:1 13:14 15:4 
+42:16 43:10 4:22 45:18 47:12 scenario 42:23 16:11,11,17,19 
+
+reasoning 9:2 requiring 17:10 role 9:3 12:11 scheme 9:12,12 17:8 18:7,22 
+19:7,23 44:25 40:1 47:3,7 13:6 17:9 15:18 28:13 20:25 21:4,20 
+
+reasons 40:16 requisite 43:22 19:17 20:19 31:5 22:1,12 25:13 
+REBUTTAL research 13:10 21:17,21 37:25 schemes 39:16 25:14 38:5,16 
+
+2:7 45:20 reservation 6:10 38:1 39:19 scholarly 33:21 39:17 41:9 
+receive 25:12 20:20 46:23 45:12 46:14 scope 17:23 29:7 sentencing 3:13 
+recognized reserve 23:3 room 9:10 35:6 46:20 6:18 7:5,8 9:11 
+
+42:10 respect 9:21 40:9 second 5:20 22:3 9:12,25 12:19 
+Recuenco 42:10 30:2 rooms 42:24 22:19 15:3,7,19 16:1 
+reduction 29:24 Respondent rule 3:25 7:1,12 see 4:18 13:23 16:2,14,25 
+reflected 38:14 1:18 2:6 22:15 7:18,19 10:2 14:23 16:3 18:12 21:8 
+regarding 25:6 23:8 15:2 18:6 20:5 18:23 27:8 22:18 23:24 
+
+25:24 Respondents 20:7,10 22:14 32:8 34:12 25:15 28:1 
+regardless 26:24 22:9 23:12 24:5 39:12 32:22 35:3 
+regional 42:21 response 9:15 31:15,22 32:11 send 22:6 39:15 39:12 40:4,6 
+regulate 47:2,6 28:11 32:22 36:2,17 sending 27:3 43:1 45:2 
+rein 36:18 restitution 38:5,15,22 Senior 1:17 separate 13:14 
+rejected 12:14 17:13 18:14 43:14 44:17,18 sense 13:18 22:16,18 23:2 
+
+12:18 45:4 30:23 31:1,2,9 44:25 45:11,24 sent 35:4 36:7 25:12 27:17 
+relabeling 7:7 35:24 45:25 46:2,5,7 sentence 3:24 28:1,2 43:3 
+related 20:23 restitutions 31:6 46:9,18,21 4:2,16 5:16 6:2 series 25:7 
+
+37:17 restrain 4:4 rules 25:6,24 6:21 8:14 serious 3:19,21 
+relates 8:24 restraint 13:5 27:12 10:10,24 11:1 7:21 
+relegate 29:8 restraints 24:13 run 4:11 10:25 11:9,11,22 seriously 4:14 
+relevant 14:4 result 11:5 10:25 26:22 12:6,7 14:6,14 4:18 
+relied 19:23 resulted 25:25 runs 38:7 15:11 16:13,21 serve 5:23 9:15 
+rely 39:7 retain 20:17 16:22 17:5,23 served 7:4 21:4 
+
+Srem 32:2 reverse 41:20 18:2,2,3,13,16 serving 16:16 
+S 2:1 3:1 remainder 23:3 47:11 18:19,25 19:20 set 18:20,21
+Salem 1:15,18removed 6:13 reversing 42:14 21:21 22:5,21 32:14 39:24 
+
+55 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+sets 38:3 5:16 7:14 stuff 37:19 terms 4:21 7:24 today 33:23 
+severity 21:12 10:11 11:9,9 subject 10:2 10:8 14:9 total 5:22 14:5 
+sexual 42:22 16:7 17:23,24 33:9 35:19 15:10 16:18 17:18 24:7 
+shift 33:12 45:2 46:4,16 42:11 44:5 17:4 41:14 totally 19:2 
+shifted 31:25 stand 10:16 submit 6:11 test 46:3 24:11 
+shifting 26:21 standard 28:1 26:4 testified 42:23 touching 13:5 
+
+27:22 standing 9:3 submitted 47:13 testimony 43:4 tradition 19:22 
+show 30:23 start 13:10 20:4 47:15 testing 7:13 traditional 9:3 
+showing 14:9 State 4:9 9:4,21 subsequent Thank 23:5 44:4 traditionally 7:6 
+side 10:20 22:2,3,4 23:23 42:16 45:13,17,22 7:9 14:25 
+significant 6:1,9 24:4,10,16 suddenly 14:21 47:11,12 19:15 25:19,21 
+
+23:22 24:25 26:20 29:8 suggest 12:16 theory 22:8 treated 8:18 
+significantly 30:1 39:7 suggesting thing 11:22 treats 22:22 
+
+3:11 4:4 40:16 41:11,16 43:20 27:17 31:3 trial 10:4 22:10 
+similar 4:22 41:18,24 42:8 suggestion 34:18 40:4 23:18 24:23 
+simply 7:1,24 42:17 44:17,24 44:21 things 18:17,23 27:14 29:8 
+
+8:19 12:5 45:23 support 20:10 24:7 27:16,18 32:4 33:10 
+21:13 stated 35:16 supporting 32:11 36:23 37:3,7 
+
+single 7:25 8:1 38:11 33:24 think 4:8 6:24 37:13,17,21 
+8:14,14 13:12 States 1:1,12 suppose 29:25 7:23 8:2,12,18 38:16 
+
+sir 30:14 33:18 4:22 5:8,10 7:6 supposed 24:15 10:5 11:2,4,7 tried 17:14 22:2 
+situation 10:5 22:1,25 34:1,5 35:3 12:3,13 16:17 trigger 6:23 
+
+11:8 12:13 State's 27:5 42:9 supreme 1:1,12 17:16 19:2,8,9 trouble 36:6 
+15:24 17:17 42:19 5:17 7:23 8:12 19:11 20:11,13 true 13:24 18:19 
+
+six 3:23,24 17:6 statute 4:21 8:6 8:18 17:22 21:15 22:9,11 30:22 31:1 
+17:16 18:22 8:9 10:21 20:14 22:14 23:22 24:20 try 11:8,24 
+21:22 11:15 12:24 28:10 40:20 26:8,14,22 31:18 47:6 
+
+Sixth 3:12 6:10 22:22 26:8,14 41:5,6,17 27:4,20,23 trying 8:11 
+6:18 7:17 27:6 41:16 42:13,17,25 29:4,6 30:5,8 33:12,14 36:15 
+12:20 20:20 43:8 44:23 47:11 31:21 32:13 40:5,6 
+21:24 23:17 statutes 32:14 sure 9:24 28:4 34:1,10,16 Tuesday 1:9 
+24:14 34:24 statutory 5:18 29:18 32:10 36:5 37:1,16 turn 6:1 
+38:10,24 46:4 5:20 8:16 25:5 system 25:5 38:18 39:14 twice 40:23 
+46:22 26:19 28:12 32:15,16,18 40:14,20,24,25 two 13:14 14:6 
+
+solely 23:19 31:6 39:16 40:11,25 38:1 40:1 43:1 41:15 42:13 16:11,11 24:22 
+43:20 44:14 41:2,12,14 43:9,24 44:8 25:22 28:17 
+
+TSolicitor 1:15 43:19 thinking 45:15 42:24,24
+T 2:1,1sorry 39:21 STEVENS 7:18 THOMAS 1:6 type 32:16 
+take 4:14,18sort 5:6,8 12:13 19:1,6,21 Thomas's 33:21 
+
+U13:23 17:819:23 22:10 20:24 21:25 thought 15:25 
+31:17 43:16 ultimate 9:1434:18 40:4 33:16,19 34:2 34:23 
+
+taken 12:19 Ultimatelysounds 7:20 34:4,8,13,17 three 23:15 
+30:24 31:10 44:16SOUTER 9:1,18 40:9,22 tied 19:19 
+
+takes 8:2 unaware 4:915:8,15 16:8 stood 9:7 time 9:14 13:24 
+tells 12:24 46:5 unclear 41:1316:10,24 39:9 stops 41:25 14:2 16:17 
+ten 14:14 unconstitutio... 39:20,22 40:3 stricter 27:12,12 23:4 25:23 
+term 18:24 24:17specific 4:2 5:16 struck 3:13 27:12 
+
+56 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+underlying 12:4 24:16 27:15 written 42:3 90 6:8 
+34:22 28:7 36:13,18 wrong 19:8,8,12 
+
+understand 8:4 
+8:6 19:21 25:3 
+
+36:21,21,23 
+37:19 X 
+
+30:18 wanted 10:1 x 1:2,7 
+undisputed 6:15 
+unidentified 
+
+44:19 
+uniformly 36:24 
+unique 4:21 
+United 1:1,12 
+
+34:1,5 
+unreasonable 
+
+34:24 36:22 
+40:23 
+
+Washington 1:8 
+42:10 
+
+wasn't 7:1 11:14 
+12:5 14:15 
+28:7 
+
+wax 18:4 
+
+Y 
+yeah 36:21 
+years 14:14,20 
+
+26:11,13 29:14 
+29:16,23 45:9 
+45:9 
+
+young 42:23 
+39:7 
+
+unusual 4:8,9 
+use 10:24 27:2 
+
+way 7:13 9:7 
+13:6,11 19:24 
+21:1 26:15 
+
+0 
+07-901 1:5 3:4 
+
+28:1 30:17 
+
+V 
+v 1:5 3:4 19:3 
+
+33:25 34:5 
+42:8,10 
+
+vague 43:4 
+validity 20:15 
+various 10:22 
+vary 5:5 
+verdict 12:8 
+
+28:16 30:24 
+37:9 43:12 
+46:5 
+
+ways 20:16 21:5 
+went 13:20,20 
+
+13:21 41:24 
+weren't 27:17 
+we've 10:3 
+wide 11:19,23 
+
+13:1 
+Williams 1:15 
+
+1 
+1:00 1:13 3:2 
+1:53 47:14 
+10 29:16 
+1209 42:21 
+13 5:7 
+14 1:9 
+15 26:13 
+161 42:20 
+190 42:21 
+
+21:6,9 24:24 
+30:10 31:7 
+38:14 43:21 
+44:14 
+
+verdicts 15:20 
+versus 24:3 
+
+2:3,8 3:5,6,8 
+4:20 5:4 6:5,24 
+7:22 8:7,11 
+9:16 10:7 11:2 
+11:6 12:3 
+13:17,21 14:1 
+
+2 
+20 14:20 
+2008 1:9 
+23 2:6 
+28 45:9 
+
+42:17 14:8,17 15:1 3 
+victim 42:23 15:14 16:5,9 3 2:4 
+
+43:5 
+view 17:3 24:10 
+viewed 7:23 
+
+16:15 17:3,20 
+18:8,18 19:5 
+19:11 20:3 
+
+30 26:11 29:14 
+29:23 
+
+340 6:8 
+8:12 21:5 
+
+violated 23:17 
+violating 7:16 
+
+21:2 22:11 
+45:18,20,22 
+
+wonder 28:5 
+
+345 42:20 
+
+4 
+violation 12:21 word 18:16 45 2:9 
+
+W 
+waived 37:22 
+wake 37:11 
+want 13:9 24:11 
+
+worth 27:8 
+wouldn't 32:12 
+
+43:24 
+writing 13:24 
+
+14:3 
+
+7 
+7-1/2 45:9 
+
+9 
+
+57 
+Alderson Reporting Company 
+
+

@@ -1,0 +1,4367 @@
+
+             
+
+         
+
+                       
+
+                    
+
+5
+
+10
+
+ 
+
+15
+
+20
+
+ 
+
+25
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 AMGEN INC., ET AL., : 
+
+4  Petitioners : No. 11-1085 
+
+v. : 
+
+6 CONNECTICUT RETIREMENT PLANS AND : 
+
+7 TRUST FUNDS. : 
+
+8 - - - - - - - - - - - - - - - - - x 
+
+9  Washington, D.C. 
+
+Monday, November 5, 2012 
+
+11 
+
+12  The above-entitled matter came on for oral 
+
+13 argument before the Supreme Court of the United States 
+
+14 at 11:06 a.m. 
+
+APPEARANCES: 
+
+16 SETH P. WAXMAN, ESQ., Washington, D.C.; on behalf of 
+
+17  Petitioners. 
+
+18 DAVID C. FREDERICK, ESQ., Washington, D.C.; on behalf of 
+
+19  Respondent. 
+
+MELISSA ARBUS SHERRY, ESQ., Assistant to the Solicitor 
+
+21  General, Department of Justice, Washington, D.C.; for 
+
+22  United States, as amicus curiae, supporting 
+
+23  Respondent. 
+
+24 
+
+1
+ 
+Alderson Reporting Company 
+
+
+
+                                
+
+                   
+
+                    
+
+           
+
+                   
+
+5
+
+10
+
+15  
+
+ 
+
+ 
+
+ 
+
+ 
+
+20  
+
+ 
+
+ 
+
+ 
+
+ 
+
+25
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF PAGE 
+
+3 SETH P. WAXMAN, ESQ. 
+
+4  On behalf of the Petitioners 3 
+
+ORAL ARGUMENT OF 
+
+6 DAVID C. FREDERICK, ESQ. 
+
+7  On behalf of the Respondent 23 
+
+8 ORAL ARGUMENT OF 
+
+9 MELISSA ARBUS SHERRY, ESQ. 
+
+For United States, as amicus curiae, 38 
+
+11  supporting the Respondent 
+
+12 REBUTTAL ARGUMENT OF 
+
+13 SETH P. WAXMAN, ESQ. 
+
+14  On behalf of the Petitioners 48 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+2
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (11:06 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+4 next in Case 11-1085, Amgen, Incorporated, v. The 
+
+Connecticut Retirement Plans and Trust Funds. 
+
+6  Mr. Waxman. 
+
+7  ORAL ARGUMENT OF SETH P. WAXMAN 
+
+8  ON BEHALF OF THE PETITIONERS 
+
+9  MR. WAXMAN: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+11  Our case is about whether the claim of 
+
+12 liability is, in a fundamental sense, class-wide or 
+
+13 individual. The heart of a 10b-5 claim is I bought or 
+
+14 sold in reliance on a misleading statement. The 
+
+question at the class cert stage is whether each 
+
+16 individual will have to prove his own reliance directly 
+
+17 on the statement, or whether every -- he can prove 
+
+18 indirectly reliance on the statement by showing that 
+
+19 everybody relied on a distorted market price. 
+
+A market price will reflect a statement if 
+
+21 and only if the statement is material and is made 
+
+22 publicly on an efficient market. So, absent 
+
+23 materiality, the market price cannot be presumed to 
+
+24 reflect the statement in question. And the 
+
+plaintiffs --
+
+3
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  CHIEF JUSTICE ROBERTS: Why -- why is 
+
+2 that -- why is that the case? I would suppose, if 
+
+3 there's no materiality, that means that the effect on 
+
+4 the market price just happens to be zero. 
+
+MR. WAXMAN: That's exactly correct. And 
+
+6 the point here is --
+
+7  CHIEF JUSTICE ROBERTS: Well, why isn't that 
+
+8 common to all parties? 
+
+9  MR. WAXMAN: Mr. Chief Justice, every one of 
+
+the four predicates to the fraud-on-the-market theory, 
+
+11 which is a shortcut that -- that excuses plaintiffs from 
+
+12 proving that I heard the statement and relied on it --
+
+13 every one of those predicates is common. 
+
+14  Whether the market is efficient is common. 
+
+Whether the statement is public is common. Whether the 
+
+16 stocks were bought and sold during the period of market 
+
+17 distortion is common. And materiality is common. 
+
+18  The question is not whether --
+
+19  JUSTICE SOTOMAYOR: So is the falsity of the 
+
+statement common as well? 
+
+21  MR. WAXMAN: The falsity of the statement is 
+
+22 common, but it is not a predicate to whether or not you 
+
+23 can prove reliance on a statement indirectly by relying 
+
+24 on the integrity of the market price because, in an 
+
+efficient market, material public statements, whether 
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 they are true or false, will presumably move the market 
+
+2 price. And if you're trying to prove reliance on a 
+
+3 false --
+
+4  JUSTICE SOTOMAYOR: Can -- can an individual 
+
+who has -- it has been deemed in -- in a cert 
+
+
+6 certification, that an issue is immaterial, could an 
+
+
+7 individual claimant ever prove it's material? 
+
+
+8  MR. WAXMAN: Sure. I'm not arguing --
+
+
+9  JUSTICE SOTOMAYOR: On the 
+
+
+truth-on-the-market -- the truth-in-the-market defense, 
+
+11 which is the type of defense that you're raising here. 
+
+12  MR. WAXMAN: Yes. Either way. Let me 
+
+13 explain why. 
+
+14  There's no doubt that this Court's standard 
+
+for materiality, announced in TSC v. Northway and since 
+
+16 reiterated, is an objective standard. It doesn't depend 
+
+17 on who the relier was. 
+
+18  But the inability to prove to a certifying 
+
+19 judge that class-wide reliance can be -- that class-wide 
+
+reliance exists because the statement was material 
+
+21 doesn't preclude a plaintiff like Connecticut 
+
+22 Retirement, which has said it's going to proceed whether 
+
+23 there's a class or not, or any other member of the 
+
+24 class, from coming to court and saying, either, I 
+
+directly relied on this statement, and here's my proof 
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that it's material to the trier-of-fact, because the 
+
+2 decision that the judge makes at certification is not 
+
+3 binding on the trier-of-fact; or even to say, I relied 
+
+4 on the integrity of the market price, and I have proof 
+
+
+that the market price was affected because here are 
+
+
+6 three investors, they're all reasonable people, and they 
+
+7 say that it was relevant -- important to them in the 
+
+8 total mix of information involved. 
+
+9  JUSTICE SOTOMAYOR: I'm sorry --
+
+
+JUSTICE KAGAN: Mr. Waxman, that's just to 
+
+11 say that you -- a plaintiff can always relitigate the question 
+12 of materiality. But at the class certification stage, 
+13 isn't it correct that, if the Court holds that a 
+14 statement is immaterial, it's immaterial for all members 
+
+of the class, and the suit has to be dismissed? Isn't 
+
+16 that right? 
+17  MR. WAXMAN: The suit cannot -- that is, the 
+18 suit cannot proceed as a class action. Connecticut 
+19 Retirement or any --
+
+JUSTICE KAGAN: It can't proceed as an 
+
+21 anything action, can it? I mean, the -- the remedy, if 
+22 you had thought that the -- the statement was 
+23 immaterial, is not to say, I won't approve a class. It 
+24 would be to say, the suit has no merit. 
+
+MR. WAXMAN: I -- I think that's wrong. I 
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 think that's conceptually wrong, Justice Kagan, in the 
+
+2 sense that all that the class certification decision 
+
+3 says is that the putative class representative can sue 
+
+4 on his own behalf, but he can't drag everybody else into 
+
+the --
+
+6  JUSTICE KAGAN: Well, do you mean to say 
+
+7 that a judge, who has just ruled that a statement is 
+
+8 immaterial, is going to keep the case in his court, 
+
+9 litigated by an individual plaintiff, even though he's 
+
+just ruled that the statement is immaterial? 
+
+11  MR. WAXMAN: Well, I want to -- I'd like to 
+
+12 come back to the question of why whether, even if 
+
+13 your -- the premise of your question is correct, it 
+
+14 doesn't matter for this case. But let me take one more 
+
+run at -- at your premise. 
+
+16  The next thing that would happen if I'm 
+
+17 right, presumably, and the case isn't over, the class 
+
+18 just isn't certified, is the defendant -- you know, 
+
+19 emboldened by the judge's rule, will file a motion for 
+
+summary judgment on the grounds that materiality -- the 
+
+21 element of the substantive offense, not materiality, the 
+
+22 predicate to class certification -- has just been 
+
+23 determined in favor of me. That is a very different 
+
+24 question for the Court. 
+
+Materiality, as this Court has said, is 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 fact-sensitive, and it involves a balancing of 
+
+2 credibility of witnesses or of expert opinions, and the 
+
+3 judge at the -- at the class cert stage, has to find 
+
+4 facts and has to make a ruling. 
+
+When it comes up on summary judgment, what 
+
+6 the -- if there is a dispute of material facts, what the 
+
+7 judge should do under the law is to say, look, I just 
+
+8 held that I didn't think it was material, but I resolved 
+
+9 disputed material facts, and that's for the jury, and 
+
+this case will go to the jury. 
+
+11  JUSTICE KAGAN: But you're saying that a 
+
+12 judge on a class certification stage can say, this is 
+
+13 immaterial, the statement is immaterial; therefore, this 
+
+14 can't proceed as a class action. But when a summary 
+
+judgment motion comes in, arguing the exact same thing, 
+
+16 the judge will say, oh, it's not immaterial after all, 
+
+17 or it's disputed enough, that the case can -- can 
+
+18 continue? 
+
+19  MR. WAXMAN: Well, in some cases if -- if 
+
+the alleged fact is -- you know, that Amgen's president 
+
+21 got a haircut at 10:30, the judge presumably can say 
+
+22 there are -- you know, this is immaterial as a matter of 
+
+23 law. But the vast majority of cases -- this is a 
+
+24 perfect example -- where they have statements that, in 
+
+the abstract, extracted from the total mix of 
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 information, look pretty material. These are flagship 
+
+2 drugs. 
+
+3  On the other hand, the evidence we wanted to 
+
+4 introduce and the judge wouldn't hear because, in the 
+
+Ninth Circuit, the test is not proving facts, but simply 
+
+6 alleging them --
+
+7  JUSTICE KAGAN: I guess the question, 
+
+8 Mr. Waxman, is if it is not immaterial as a matter of 
+
+9 law, at the summary judgment stage, how could a judge 
+
+possibly say it is material at the class certification 
+
+11 stage? 
+
+12  MR. WAXMAN: The judge at the class 
+
+13 certification stage is required to weigh competing 
+
+14 evidence and -- and render his or her best judgment. At 
+
+the summary judgment stage, a judge is precluded from 
+
+16 doing that. 
+
+17  JUSTICE KAGAN: So the class certification 
+
+18 stage becomes kind of a super merits inquiry? 
+
+19  MR. WAXMAN: No, not at all. 
+
+JUSTICE KAGAN: -- where the plaintiff has 
+
+21 to -- has to surmount a higher burden on the merits? 
+
+22  MR. WAXMAN: No, no, no. The -- the class 
+
+23 certification stage requires the moving party -- the 
+
+24 putative -- the -- the class representative who is 
+
+proposing to arrogate to himself and his method of proof 
+
+9
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 the fortunes of all the absent class members, whether 
+
+2 they are direct reliers or indirect reliers, tie their 
+
+3 fortunes to his fortune at trial. And the judge simply 
+
+4 has to say, is this a case in which reliance is a common 
+
+issue? That is the key through the certification gate 
+
+6 in 10b-5 cases. 
+
+7  JUSTICE GINSBURG: I thought we were talking 
+
+8 about, Mr. Waxman, the materiality of the alleged 
+
+9 misstatement, and I am really nonplussed by your answer 
+
+that, if the judge says it's immaterial, that doesn't 
+
+11 end it for everybody. Certainly, it should -- it ends 
+
+12 it for the class; you said that. Should it also end it 
+
+13 for the representative of the class to say, okay, now 
+
+14 I'm going to come back, and this statement, -this 
+
+finding of the immateriality doesn't bind me. 
+
+16  Of course, it's going to bind the class 
+
+17 representative. So if it's immaterial, the case ends. 
+
+18 And if it is material, then it is material to everybody 
+
+19 in the class. 
+
+MR. WAXMAN: Well, Justice Ginsburg, let's 
+
+21 take an easier case. Let's say I'm somebody who bought 
+
+22 Amgen during the relevant period, and they -- the judge 
+
+23 says -- you know, I've heard your -- I've considered 
+
+24 your event studies, and I think that this is --
+
+information isn't material. 
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  There is nothing whatsoever that precludes 
+
+2 me from bringing a suit and saying, here's my 
+
+3 evidence of material -- I directly relied; here's my 
+
+4 evidence of materiality. 
+
+JUSTICE SOTOMAYOR: How could that be --
+
+6  JUSTICE KENNEDY: Are you saying that 
+
+7 there -- are you saying that there is a difference 
+
+8 between materiality for the fraud-on-the-market theory 
+
+9 and for direct reliance or that there can be a 
+
+difference? 
+
+11  MR. WAXMAN: The -- the standard of --
+
+12  JUSTICE KENNEDY: And that if there was 
+
+13 fraud on the market, that is a materiality question 
+
+14 addressed at the certification stage, but if the class 
+
+isn't certified, the investor can still show that he had 
+
+16 had direct reliance that was reasonable? 
+
+17  MR. WAXMAN: Yes. 
+
+18  JUSTICE KENNEDY: Am I -- am I right about 
+
+19 that? Or --
+
+MR. WAXMAN: You are -- you are either right 
+
+21 or wrong, depending on how I understood you. Let me --
+
+22  (Laughter.) 
+
+23  MR. WAXMAN: Let me start with you're right, 
+
+24 Justice Kennedy, you're absolutely right. 
+
+JUSTICE KENNEDY: Do the first part. 
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  (Laughter.) 
+
+2  MR. WAXMAN: Okay. Materiality -- the quirk 
+
+3 of this case is that materiality is both -- as all my 
+
+4 friends on the other side agree, an essential predicate 
+
+of the fraud-on-the-market theory, that is the essential 
+
+6 predicate of the ability to prove indirect reliance on 
+
+7 the statement through an assertion that the market 
+
+8 price -- that the statement distorted the market price. 
+
+9  Everyone agrees that, if the statement isn't 
+
+material, it didn't distort the market price, and 
+
+11 therefore, reliance is an individualized issue for those 
+
+12 who actually heard and detrimentally relied on the 
+
+13 statement. 
+
+14  One of the elements that has to be proven in 
+
+a 10b-5 case is reliance, which is what we were talking 
+
+16 about on the class cert stage, and there, materiality is 
+
+17 a predicate for reliance. But even if reliance is 
+
+18 proven, materiality is also an element of a 10b-5(b) 
+
+19 cause of action, and the standard for materiality is the 
+
+same. 
+
+21  The real question in this case is what is 
+
+22 the purpose of Rule 23? If you think that the purpose 
+
+23 of Rule 23 is to postpone to the merits everything that 
+
+24 can be postponed without a risk of foreclosing valid 
+
+individual claims, we lose. But that's not the purpose. 
+
+12
+ 
+Alderson Reporting Company 
+
+
+
+Official 
+
+1 The purpose is for a court to determine whether all of 
+
+2 the preconditions for forcing everyone into a class 
+
+3 action are present before you certify. 
+
+4  JUSTICE BREYER: Or you can take exactly 
+
+5 what you said and phrase it the opposite way. 
+
+6  MR. WAXMAN: But I wouldn't. 
+
+7  JUSTICE BREYER: You can say – No I know is 
+
+8 it the purpose of the certification stage to try out every 
+
+9 element of liability at that stage, rather than waiting 
+
+10 for the trial? 
+
+11  MR. WAXMAN: No. 
+
+12  JUSTICE BREYER: No, it's not. Good. 
+
+13  Now, once you say that, what you have said 
+
+14 is, you know, it could still be material for some 
+
+15 individual, even though there is no market reliance. 
+
+16 And similarly, a silence going (indicating), some odd 
+
+17 set of words or whatever it is, although it's not false 
+
+18 for almost anybody, for some particular person, it could 
+
+19 seem -- convey something false in some particular set of 
+
+20 circumstances. 
+
+21  So let's try out falsity at the 
+
+22 certification stage, too. In fact, let's try out 
+
+23 everything because we could always think of a few 
+
+24 examples where, despite the fact that -- you know, that 
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 it's only a common issue 99 percent of the time, we can 
+
+2 dream up a situation where it's not a common issue. 
+
+3  MR. WAXMAN: Justice Breyer, the point of 
+
+4 class certification is not to pre-try the merits of the 
+
+case. What --
+
+6  JUSTICE BREYER: No, but you are saying with 
+
+7 a cert -- class certification here, if there is no 
+
+8 materiality, there is no class; and you are repeatedly 
+
+9 faced with the question, you are absolutely right; in 
+
+fact, there is no case. And so then what you say is, 
+
+11 and indeed, I have a few instances here in which there 
+
+12 could be a case, and I’d say, I bet if we are -- you 
+
+13 know, professorial enough, we could dream up a 
+
+14 hypothetical for anything, where there still is a case. 
+
+MR. WAXMAN: The point of the class 
+
+16 certification, as this Court explained in Amchem and 
+
+17 other cases, and as the Rules Advisory Committee notes, 
+
+18 is the question of whether there is class coherence in 
+
+19 the first place. It's not the merits issue. It's 
+
+whether it's fair for the class representative to impose 
+
+21 on the defendant the juggernaut of class action and on 
+
+22 the absent class members their fortunes in his or her 
+
+23 hands. And what --
+
+24  JUSTICE KAGAN: Mr. Waxman, that is exactly 
+
+right, and that's what we said in Wal-Mart recently, that 
+
+14
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 the question is a question of coherence; it's a question of 
+
+2 whether the class wins or loses together. And here, for 
+
+3 materiality, the class wins or loses together. If it's 
+
+4 material, it's material as to everybody. If it's not 
+
+material, it's not material as to everybody. 
+
+
+6  And that's just a function of the fact that 
+
+
+7 materiality, as we've repeatedly said, is an objective 
+
+
+8 test. It doesn't have anything to do with whether a 
+
+
+9 particular person finds it material. And where that's 
+
+
+the case, it seems to me that the Wal-Mart test, which 
+
+11 is -- is an issue central to the -- you know, when you 
+
+12 rule on the issue, do you rule on each of the claims in 
+
+13 one stroke? The answer to that is yes. 
+
+14  MR. WAXMAN: Justice Kagan, this Court has 
+
+explained more than once, and I am now quoting from 
+
+16 Amchem, that "class" -- "It is class cohesion and only 
+
+17 class cohesion that legitimizes representative action in 
+
+18 the first place." And that question, quote, "preexists 
+
+19 any settlement and therefore a fortiori any litigation." 
+
+Now --
+
+21  JUSTICE KAGAN: Mr. Waxman, I was saying 
+
+22 that's right. 
+
+23  MR. WAXMAN: Okay. 
+
+24  JUSTICE KAGAN: There is class cohesion as 
+
+to materiality. People win or lose on materiality 
+
+15
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 together. 
+
+
+2  MR. WAXMAN: The -- there is class -- with 
+
+
+3 respect, there is class cohesion, investors cohere into 
+
+
+4 a class, only when the alleged misinformation was 
+
+
+significant enough to affect the price, thus enabling 
+
+
+6 the common claim of relying on the misinformation in the 
+
+
+7 same way. Letting a putative representative through the 
+
+
+8 certification gate, without showing that key, is like, 
+
+
+9 on a theory of no harm, no foul because we’ll all lose 
+
+
+together --
+
+11  JUSTICE GINSBURG: Mr. Waxman --
+
+12  MR. WAXMAN: -- is like letting --
+
+13 Justice --
+
+14  JUSTICE GINSBURG: Mr. Waxman, there is no 
+
+question about 23(a), right? The 23(a) prerequisites 
+
+16 have been satisfied. 
+
+17  MR. WAXMAN: Not challenged in this case. 
+
+18  JUSTICE GINSBURG: So the only thing is 
+
+19 (b)(3), that is that a question of law or fact common to 
+
+the class members predominates over questions affecting 
+
+21 only individual members. The question that predominates 
+
+22 is the question of, were these representations material; if 
+
+23 they were material, then the certification is proper. 
+
+24 If they were immaterial, it's not. It's just -- I don't 
+
+understand why this isn't just a clear case of a 
+
+16
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 question common to the class; that is, the question of 
+
+2 materiality. 
+
+3  MR. WAXMAN: The answer, Justice Ginsburg, 
+
+4 is that the question at the class certification stage --
+
+the predominance question is the reliance element, not 
+
+6 the materiality element. 
+
+7  Everyone agrees that materiality, like 
+
+8 falsity, like scienter, like loss causation, are all 
+
+9 common questions. As this Court explained in Basic and 
+
+reiterated last term in Halliburton, in 10b-5 actions, 
+
+11 the question at class certification is whether reliance 
+
+12 needs to be proven directly; that is, individually by 
+
+13 people who heard and acted in response; or whether the 
+
+14 shortcut that this Court authorized in Basic of allowing 
+
+indirect proof by proving that the statement caused a 
+
+16 distortion of the market, is the way to go. 
+
+17  There are two tracks, and it happens in this 
+
+18 case that materiality is both an element, which is 
+
+19 common, and a predicate to class-wide reliance. 
+
+Everyone agrees that there -- you can't rely as a class 
+
+21 on the -- the challenged misstatement, unless the 
+
+22 statement moved or had the capability of moving the 
+
+23 market price. And that's why the materiality is the 
+
+24 glue that holds --
+
+JUSTICE SCALIA: Mr. Waxman, you have a 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 habit of not pausing between sentences. You pause in 
+
+2 the middle of the sentence, and you end a sentence and 
+
+3 go right on to the next. So I apologize for 
+
+4 interrupting, but --
+
+MR. WAXMAN: Not at all. 
+
+
+6  JUSTICE SCALIA: -- but you leave me no 
+
+
+7 alternative. 
+
+
+8  (Laughter.) 
+
+
+9  MR. WAXMAN: It's the red light. 
+
+
+JUSTICE SCALIA: Yes, I understand. 
+
+11  MR. WAXMAN: The tyranny. 
+
+12  JUSTICE SCALIA: Is it not the case that one 
+
+13 of the other elements necessary for the 
+
+14 fraud-on-the-market theory would also be decided 
+
+conclusively -- for future individual litigants, 
+
+16 namely, the efficiency of the market? A future litigant 
+
+17 will ordinarily claim, I either sold it at a depressed 
+
+18 price or bought it at an inflated price because of the 
+
+19 market's reaction to this particular fraudulent 
+
+statement. 
+
+21  MR. WAXMAN: Yes. 
+
+22  JUSTICE SCALIA: So -- so you can say the 
+
+23 same thing about the efficiency of the -- of the market 
+
+24 being determined in this preliminary question, as you 
+
+can say about -- about the -- the issue here. 
+
+18
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. WAXMAN: That's absolutely right. And 
+
+2 the same is true for public statement. The way that the 
+
+3 government in responding --
+
+4  JUSTICE KAGAN: What is that statement, 
+
+Mr. Waxman? 
+
+6  MR. WAXMAN: I'm sorry. 
+
+7  JUSTICE KAGAN: Because the difference is if 
+
+8 there is an unefficient market, the case goes forward, 
+
+9 and people have to prove individual reliance, and that 
+
+means that the class splits apart, and you don't get a 
+
+11 coherent class. So the function of -- of your winning 
+
+12 an argument either on publicity or on the efficient 
+
+13 market is that the class becomes incoherent, that 
+
+14 everybody then has to prove individual reliance. 
+
+But that's not what happens when you prove 
+
+16 immateriality. When you prove immateriality, the whole 
+
+17 class falls together because it's immaterial for 
+
+18 everybody. 
+
+19  MR. WAXMAN: That's not correct, and in any 
+
+event, that analysis -- that approach is, as I was 
+
+21 trying to say, is like letting the fruits justify the 
+
+22 search. 
+
+23  The question is -- at the time that class 
+
+24 certification is sought, the question is do common 
+
+issues predominate? And the question, in a securities 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 case, is, is reliance in fact -- to quote this Court's 
+
+2 opinion, "in fact, a common issue?" 
+
+3  You also have to prove -- to show that, in fact, 
+
+4 it's a common issue, you have to show that the market 
+
+reacted to the statement, whether it was true or false, 
+
+6 whether it was made with scienter or not, whether there 
+
+7 was loss causation or not, the market had to react, and 
+
+8 to do that, you need all three legs of a stool. 
+
+9  The statement has to be material because 
+
+immaterial statements don't move markets. If that --
+
+11  JUSTICE GINSBURG: Mr. Waxman, the -- the 
+
+12 Basic opinion that started all this off, on page 242, 
+
+13 lists materiality as a common question. The materiality 
+
+14 of the misrepresentation, if any, is listed as a common 
+
+question, and that made perfect sense to me. 
+
+16  MR. WAXMAN: It makes perfect sense to me as 
+
+17 well, Justice Ginsburg, and I'm not being sarcastic. 
+
+18 Materiality is a common question. Just as are many of 
+
+19 the other elements of a 10b-5 action --
+
+CHIEF JUSTICE ROBERTS: So at certification, 
+
+21 you just assume that materiality -- you don't have to 
+
+22 show it. If it's always a common question, you assume 
+
+23 it, in trying to weigh out the number of -- whether or 
+
+24 not common issues predominate or not. 
+
+MR. WAXMAN: Well, the question, Justice --
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 I mean, for -- if it worked for class certification, 
+
+2 that would be fine. The question is what the purported 
+
+3 class representative has to show to get through the 
+
+4 certification gate to transform an ordinary bilateral 
+
+dispute about, you made a false statement, I relied on 
+
+6 it, it caused me to lose money, into something entirely 
+
+7 different, a class of tens or hundreds of thousands of 
+
+8 people, all of whom are proceeding together, all of 
+
+9 their fortunes are married, and the defendant is faced 
+
+with the full class, what you have to show. 
+
+11  And you have to show that reliance is a 
+
+12 common issue, regardless of what you have to show down 
+
+13 the road. 
+
+14  JUSTICE GINSBURG: Mr. Waxman, you seem to 
+
+be setting up two determinations of materiality. You 
+
+16 say, in order to certify the class, you have to show 
+
+17 that the misrepresentation was material. And in order 
+
+18 to win on the merits, you certainly have to show that 
+
+19 the misrepresentation was material. 
+
+How do those two findings of materiality 
+
+21 differ? How does the finding that you say must be made 
+
+22 at the certification stage differ from the finding that 
+
+23 must be made at the trial? 
+
+24  MR. WAXMAN: They differ temporally, they 
+
+differ functionally, and they differ in terms of who 
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 decides it and with what level of finality. They differ 
+
+2 temporally because the first question is, is this 
+
+3 case going to -- which of two tracks is this case going 
+
+4 to proceed? 
+
+Is it going to proceed as a -- as a direct 
+
+6 reliance case -- I heard the statement, and I relied on 
+
+7 it -- or is it going to proceed on a theory on behalf of 
+
+8 everybody that whether -- the people who relied on it, 
+
+9 the people who heard it or who didn't hear it, on a 
+
+theory that the -- we rely on the integrity of the 
+
+11 market, and the integrity of the market was impaired if 
+
+12 the statement was false. 
+
+13  In any event, there was a price effect. And 
+
+14 there isn't a price effect if the statement wasn't 
+
+material and made publicly into an efficient market. 
+
+16  JUSTICE GINSBURG: But I’m still -- what --
+
+17 what does "material" mean at the trial level, what does 
+
+18 "material" mean at the certification? 
+
+19  MR. WAXMAN: Material means, at both, as 
+
+this Court said, that there is a substantial likelihood 
+
+21 that the information would have been viewed by a 
+
+22 reasonable investor as having significantly altered the 
+
+23 total mix of information available. That is the test. 
+
+24  JUSTICE GINSBURG: So it's the same 
+
+question. It has to be -- if it's established at the 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 certification stage, it has to be established again at 
+
+2 trial? 
+
+3  MR. WAXMAN: That's correct. Just like the 
+
+4 market efficiency and the public statement and the 
+
+market timing. Every one of those predicates has to be 
+
+6 proven to the jury's satisfaction at trial. All of them 
+
+7 are exactly the same in that respect. 
+
+8  May I reserve the balance of my time? 
+
+9  CHIEF JUSTICE ROBERTS: Yes, you may. 
+
+Mr. Frederick. 
+
+11  ORAL ARGUMENT OF DAVID C. FREDERICK 
+
+12  ON BEHALF OF THE RESPONDENT 
+
+13  MR. FREDERICK: Thank you, 
+
+14 Mr. Chief Justice, and may it please the Court: 
+
+The class certification process determines 
+
+16 whether the case can generate common answers for all 
+
+17 class members. So for three reasons --
+
+18  JUSTICE SOTOMAYOR: Why don't you answer the 
+
+19 question that was asked earlier, if Basic set forth a 
+
+presumption, and are you disputing that, at the class 
+
+21 certification stage, a defendant can prove that the 
+
+22 market is inefficient? 
+
+23  MR. FREDERICK: Yes. 
+
+24  JUSTICE SOTOMAYOR: So why shouldn't we hold 
+
+Basic to its position that all of its presumptions can 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 be rebutted as well, not just efficiency? Why do we set 
+
+2 out efficiency as the one issue that can be rebutted? 
+
+3  MR. FREDERICK: There is a lot to said about 
+
+4 Basic, and let me just start the ball rolling by making 
+
+these observations. First, Basic did not try to 
+
+6 distinguish between the requisites of Rule 23 and the 
+
+7 substantive component of the fraud-on-the-market theory. 
+
+8 And that's important because, in that case, the court 
+
+9 remanded for a redetermination of materiality, but it 
+
+upheld the class certification order. 
+
+11  So in the context of Basic, the court seemed 
+
+12 to be thinking there was a difference between what 
+
+13 needed to be proved for class certification and what 
+
+14 would need to be proved on the merits of the case. 
+
+Now, the second thing to be said is that 
+
+16 Basic needs to be read against the backdrop of Rule 23 
+
+17 and especially this Court's recent decision in 
+
+18 Wal-Mart v. Dukes. Because materiality always generates 
+
+19 a common answer for all class members, it is the 
+
+quintessential common issue that does not splinter the 
+
+21 class or cause it to be noncohesive for purposes of 
+
+22 understanding predominance. 
+
+23  JUSTICE KENNEDY: Doesn't -- doesn't that 
+
+24 assume that the efficient market theory is always 
+
+relevant to materiality? And there might be instances 
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 in which there is subjective reliance, which we inquire 
+
+2 into, that is objectively reasonable, but that does not 
+
+3 involve a fraud on the market? 
+
+4  MR. FREDERICK: Only in a hypothetical case, 
+
+Justice Kennedy. And this is the absolute most 
+
+6 important point that I can try to make today. In a 
+
+7 fraud-on-the-market case, the idea of reliance -- the 
+
+8 only theory of reliance that is being advanced is 
+
+9 indirect reliance on the integrity of the market. There 
+
+is no other theory of reliance. 
+
+11  Why do we know that in this case? For two 
+
+12 reasons: First, the Connecticut Retirement System could 
+
+13 not be the class representative, if it did not meet the 
+
+14 typicality requirement of Rule 23(a), which the district 
+
+court found -- this is on page 25A of the petition 
+
+16 appendix -- and has not been challenged subsequently. 
+
+17  But why doesn't Connecticut have a direct 
+
+18 reliance theory? We know they don't because they have a 
+
+19 fiduciary duty to their investors to apply whatever 
+
+theory they have of securities fraud. So we know in 
+
+21 this case -- and this is, by far, clear in the 
+
+22 run-of-the-mine fraud-on-the-market case, that the class 
+
+23 representative will only establish reliance indirectly, 
+
+24 by showing that the integrity of the market was 
+
+impaired. 
+
+25
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  And so their construct is an entirely 
+
+2 hypothetical and theoretical one. It simply does not 
+
+3 arise in the real world of fraud-on-the-market cases. 
+
+4  JUSTICE SCALIA: Mr. Frederick, you -- you 
+
+say that -- you know, it's a flukey hypothetical 
+
+6 where -- where the -- the issue here would -- would come 
+
+7 up again in a different context in an individual suit. 
+
+8 Let -- let me give you a -- a case that's -- that's not 
+
+9 flukey and hypothetical. That is, it is usually the 
+
+case that -- that people who are allegedly defrauded in 
+
+11 stocks rely upon the fact that they bought it at an --
+
+12 at an inflated price or sold it at a depressed price. 
+
+13 Both of those questions depend upon the efficiency of 
+
+14 the market. 
+
+If the market is not efficient, a question 
+
+16 that has to be decided for the class certification case, 
+
+17 the individual investor is not going to be able to say, 
+
+18 you know, that's -- that's why I got cheated, because 
+
+19 the market reflected this false statement, and I paid 
+
+more money for the stock than I should have. That --
+
+21 that is not a flukey hypothetical. That is what will 
+
+22 happen in most individual cases. And yet, that question 
+
+23 of the efficiency of the market has to be decided at the 
+
+24 class certification stage. 
+
+MR. FREDERICK: Right, precisely because we 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 have to know are all the investors standing in the same 
+
+2 position. If the market is efficient and it is 
+
+3 absorbing information into the price, all investors will 
+
+4 have the same question with respect to materiality. 
+
+JUSTICE SCALIA: You could say the same 
+
+6 about materiality. If it's immaterial, it isn't 
+
+7 reflected in -- in the market. 
+
+8  MR. FREDERICK: They all lose on the merits, 
+
+9 if there is no materiality. The question about 
+
+efficiency, Justice Scalia, and the reason why it is 
+
+11 advanced at class certification is because it serves a 
+
+12 gatekeeping role in determining whether all the 
+
+13 investors can show indirect reliance on the market. If 
+
+14 the -- if the stock is thinly traded, there are no 
+
+public analysts, there are no stock reports given about 
+
+16 it, and no one knows exactly why is the price being 
+
+17 determined, that creates exactly the kind of individual 
+
+18 issues that would predominate in a securities fraud 
+
+19 case. 
+
+JUSTICE SCALIA: So -- so the difference you 
+
+21 assert is that, with respect to the issue here, it will 
+
+22 be an issue in all individual cases; whereas with regard 
+
+23 to the efficiency of the market, it will only be an 
+
+24 issue in -- what, 95 percent of -- of the individual 
+
+cases? 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. FREDERICK: No, the question is: Does 
+
+2 efficiency serve as a means of determining are all the 
+
+3 investors similarly situated? Are they a cohesive 
+
+4 class? If the market is not efficient -- and mind you, 
+
+they -- they conceded this question in their answer and 
+
+6 they did not challenge the expert that was put in the 
+
+7 district court on the question of efficiency, so that 
+
+8 question's really not in this case. 
+
+9  But in the case that you're hypothesizing, 
+
+Justice Scalia, efficiency serves the gatekeeping 
+
+11 function of determining are all the investors similarly 
+
+12 situated, so that indirect reliance can be a -- a method 
+
+13 of showing that predicate for a common answer to be 
+
+14 determined at trial. 
+
+JUSTICE SOTOMAYOR: Could we --
+
+16  MR. FREDERICK: Publicity serves the same 
+
+17 function. 
+
+18  JUSTICE SOTOMAYOR: Could we get a 
+
+19 hypothetical that I actually think could occur, which is 
+
+not a truth-on-the-market defense, but a known truth to 
+
+21 the individual person seeking certification. So that is 
+
+22 it's immaterial to that person because they were told 
+
+23 this information by someone and still trading. Would 
+
+24 that defense be available at certification? 
+
+MR. FREDERICK: I think it -- where it gets 
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 appropriately done is the adequacy and typicality prongs 
+
+2 of Rule 23(a) because that person has a different 
+
+3 factual basis for attempting to assert a securities 
+
+4 fraud, and that person is not typical of the class and 
+
+so therefore would not meet the typicality requirement 
+
+6 of 23(a). 
+
+7  Now, it is possible, certainly, that in 
+
+8 other cases, there might be investors out there who do 
+
+9 have a direct reliance theory, but they are protected by 
+
+Rule 23 in a couple of ways. One is they can bring 
+
+11 their own case, and they can say, I directly relied on 
+
+12 Amgen's misstatements and the false things that they 
+
+13 said about their flagship products, and I, therefore, 
+
+14 have my own 10b-5 case. Or if the class is certified 
+
+and they think they have a direct reliance theory, they 
+
+16 can opt out of the class. 
+
+17  JUSTICE BREYER: This is true, but I'm --
+
+18 I'm -- I'm trying to work out what, as I understand it 
+
+19 now, Mr. Waxman's point is -- is basically this: 
+
+That -- that why do we use an efficient market theory? 
+
+21 We use it because if the market is efficient and the 
+
+22 statement is public, then someone who bought over the 
+
+23 market is buying in a -- in a world that reflects the 
+
+24 false statement. I mean, that's -- so he -- there was 
+
+sufficient reliance indirectly. 
+
+29
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  All right. So I think his point is, yes, I 
+
+2 can see materiality is something that's relevant to 
+
+3 everybody. Of course, it is, a common issue in the 
+
+4 case. But also, it is a feature of materiality that, if 
+
+it wasn't material, then our theory of market 
+
+6 reliance -- market -- efficient markets goes out the 
+
+7 window because you can have all the efficiency in the 
+
+8 world, all the publicity in the world, but still, where 
+
+9 something to a reasonable stockbroker is irrelevant, his 
+
+reaction is "who cares?" And therefore, although there 
+
+11 could be special cases, the efficient market theory 
+
+12 plays no role. 
+
+13  Now, I think that's what his theory is, if I 
+
+14 understand it. And -- and I don't hope it is, if I've 
+
+got it -- I mean, I hope I got it right. But -- but if 
+
+16 that -- so what's your direct answer to that? 
+
+17  MR. FREDERICK: My direct answer to that is 
+
+18 that materiality still serves as a common answer. All 
+
+19 the investors are going to lose if it is not a material 
+
+misstatement that has any effect, and they will win or 
+
+21 they will have the potential to win if it is a 
+
+22 material --
+
+23  JUSTICE KENNEDY: Well, that -- that --
+
+24  JUSTICE SCALIA: The issue -- the issue is 
+
+not whether -- whether it's a common question or not. 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. FREDERICK: Well --
+
+2  JUSTICE SCALIA: The issue is whether 
+
+3 there's any reason to believe that the -- that the 
+
+4 market reflects reality. 
+
+MR. FREDERICK: Right. 
+
+6  JUSTICE SCALIA: That's the issue. 
+
+7  MR. FREDERICK: But, Justice Scalia, I think 
+
+8 that the issue that you want to decide or you think that 
+
+9 you want to decide is what constitutes the efficiency of 
+
+the market, and that is a hotly litigated issue in many 
+
+11 securities cases. It just happens not to be at issue in 
+
+12 this one. 
+
+13  And so the question of -- you know, you've 
+
+14 got a Fortune 200 company, with 1.1 billion shares 
+
+outstanding, 9 million traded a day during the class 
+
+16 period, I mean, this is a hugely efficient market for 
+
+17 the stock that is at issue before you. 
+
+18  JUSTICE BREYER: All right. So you're 
+
+19 saying, in this kind of case, the -- the materiality or 
+
+not is not likely to be specially sufficient --
+
+21 specially significant. In fact, you are going to decide 
+
+22 if it is a common issue, and there is no reason to 
+
+23 import that common issue into the preliminary finding, 
+
+24 even if what I just parroted, we hope, is true. 
+
+MR. FREDERICK: Right. What you're ending 
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 up doing, Justice Breyer, is you are front loading. You 
+
+2 are having a mini trial on the merits because the 
+
+3 materiality question here goes into what did the 
+
+4 executives think and mean when they were making certain 
+
+statements about clinical trials for their drug. What 
+
+6 was --
+
+7  JUSTICE KENNEDY: You -- you are saying 
+
+8 that, if everyone loses, if it's not material, that's a 
+
+9 common issue, and therefore, the trial court at the 
+
+certification stage does not have to determine it. 
+
+11  MR. FREDERICK: No, what I'm saying is that 
+
+12 it is -- because it is a common question, it is not one 
+
+13 to be decided at class certification. Just like 
+
+14 falsity --
+
+JUSTICE KENNEDY: I'm not sure how that's 
+
+16 different from what I said. But in other -- in other 
+
+17 words, you are saying that market efficiency is just 
+
+18 presumed, and everybody wins or everybody loses, and so 
+
+19 you can have a class action, even though the trial judge 
+
+is convinced that there is no adequate common market 
+
+21 theory to support the common -- the common injury. 
+
+22  MR. FREDERICK: That's not our position. 
+
+23 Our position is that efficiency and publicity are 
+
+24 gate-keeping functions to determine whether or not the 
+
+answer for indirect reliance on the market is a common 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 question. 
+
+2  JUSTICE GINSBURG: Mr. Frederick, you say --
+
+3 you say, you point out, quite rightly, that the 
+
+4 efficiency of the market was conceded -- was conceded 
+
+below. 
+
+6  MR. FREDERICK: Yes. 
+
+7  JUSTICE GINSBURG: It was not challenged. 
+
+8 Except that now, in -- in Amgen's brief, there is a 
+
+9 suggestion that the efficiency of the market is a more 
+
+sophisticated question. And it's not my note -- binary, 
+
+11 I think is what they said -- it isn't that it's either 
+
+12 efficient or it's not efficient; it depends on other 
+
+13 factors. 
+
+14  MR. FREDERICK: It's a new concoction they 
+
+had not argued before this stage of the briefing in 
+
+16 this case, and it's wrong because all investors will 
+
+17 rise or fall, based on whether or not those statements 
+
+18 that may have some subsidiary materiality effect are 
+
+19 going to be able to show that there was some consequence 
+
+to the market. And it is that why -- that is why it 
+
+21 is still a common question, even if there are these 
+
+22 subsidiary inefficiencies --
+
+23  JUSTICE BREYER: Right. So if I've got 
+
+24 this, your answer -- which I am trying to follow it; 
+
+don't tell me I'm right if I'm not -- that, with 
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 efficiency of the market, that's not a traditional 
+
+2 element of a tort --
+
+3  MR. FREDERICK: Correct. 
+
+4  JUSTICE BREYER: -- that is something 
+
+special to get into this theory. 
+
+6  MR. FREDERICK: That's correct. 
+
+7  JUSTICE BREYER: The publicity of the 
+
+8 matter, that is not traditionally a common element of 
+
+9 the tort. That is something special to get into this 
+
+theory. 
+
+11  MR. FREDERICK: Correct. 
+
+12  JUSTICE BREYER: With materiality, it is a 
+
+13 common element of the tort always; it is traditionally 
+
+14 there; it will be litigated, so there is no special 
+
+reason to or desirability in or need for litigating at 
+
+16 the outset. 
+
+17  MR. FREDERICK: That's correct. And 
+
+18 Congress recognized that there were issues concerning 
+
+19 these various elements. And that's why, in 1995, when 
+
+it enacted the PSLRA, it addressed scienter by imposing 
+
+21 a heightened pleading requirement and loss causation, 
+
+22 but it was asked to address materiality and reliance and 
+
+23 it chose not to. 
+
+24  The first bill that was proposed would have 
+
+dealt with Basic, and the -- and the Congress voted that 
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 down, and instead --
+
+2  JUSTICE SCALIA: But there is -- there is a 
+
+3 reason for deciding it earlier, and the reason is the --
+
+4 the enormous pressure to settle once the class is 
+
+certified. In most cases, that's the end of the 
+
+6 lawsuit. There's -- there's automatically a settlement. 
+
+7  Now, one way of -- of certifying the class 
+
+8 is to show, well, you know, it's an efficient market, 
+
+9 and you can presume that everybody in the class relied 
+
+on the market. But that's only true if -- if the -- the 
+
+11 statement was material to the market. If it was 
+
+12 immaterial to the market, that isn't true. And you 
+
+13 should not proceed any further, and you should not begin 
+
+14 this -- this class action which, in -- in most cases, is 
+
+simply the preliminary to a settlement. There is a good 
+
+16 reason for deciding it sooner. 
+
+17  MR. FREDERICK: Well, Justice Scalia, you 
+
+18 would consign district court judges to having many 
+
+19 trials on the merits because the fact that materiality 
+
+is such a highly contextual inquiry --
+
+21  JUSTICE KENNEDY: Well, you have the -- you 
+
+22 have the burden of justifying class certification --
+
+23  MR. FREDERICK: True. 
+
+24  JUSTICE KENNEDY: -- is that not correct? 
+
+MR. FREDERICK: That's correct. 
+
+35
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE KENNEDY: All right. Now, suppose 
+
+2 there is some real question of whether or not the causal 
+
+3 chain hasn't been broken, the causal chain between the 
+
+4 misstatement and the movement in price. Don't you have 
+
+to prove the integrity of the causal chain? 
+
+6  MR. FREDERICK: Yes. 
+
+7  JUSTICE KENNEDY: At the certification 
+
+8 stage? 
+
+9  MR. FREDERICK: Yes, but that's where 
+
+efficiency comes in, Justice Kennedy, and that's why, 
+
+11 when efficiency is contested at the class certification 
+
+12 stage, what comes in are proofs of does information end 
+
+13 up having an effect? And economists do event studies that 
+
+14 try to show the general level at which information will 
+
+be absorbed into the market price. That's where that 
+
+16 issue gets contested. It does not get contested on the 
+
+17 question of materiality because materiality looks at the 
+
+18 total mix of information that would be relevant to an 
+
+19 investor, not --
+
+JUSTICE KENNEDY: You say it's material even 
+
+21 though there is no cause in fact? I don't understand 
+
+22 that. 
+
+23  MR. FREDERICK: What I'm saying is that the 
+
+24 efficiency question goes into the individual stock's 
+
+ability to absorb information, both material and 
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 nonmaterial information. 
+
+2  Now, the question on the merits, for which 
+
+3 all investors will either rise or fall together, is was 
+
+4 this company's misrepresentation a material one to the 
+
+reasonable investor? And that's why all investors are 
+
+6 going to have the same answer because it's the same 
+
+7 objective inquiry. 
+
+8  The question that you -- you and 
+
+9 Justice Scalia are positing about the efficiency of the 
+
+market is one on which there are disagreements among the 
+
+11 lower courts as to how to challenge and how to deal with 
+
+12 that question, but they do not do it on the basis of 
+
+13 materiality. 
+
+14  Judge Easterbrook had a very sound opinion 
+
+in the Schleicher case, in which he goes through and he 
+
+16 explains that, when there is a fraud-on-the-market case, 
+
+17 the notion of indirect reliance, where efficiency is 
+
+18 established, really evolves -- devolves down to the core 
+
+19 merits question of materiality. And that is a common 
+
+question that -- in which all of the investors are going 
+
+21 to rise together. 
+
+22  But I do want to end by saying that, when 
+
+23 Congress looked at this question, it decided not to deal 
+
+24 with this question of efficiency or materiality. It was 
+
+faced with a specter of 300 lawsuits being filed per 
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 year that were securities fraud cases, in 1995, where a 
+
+2 93 percent settlement rate was occurring, an average 
+
+3 settlement of nearly $9 million. 
+
+4  In -- in 2011, the statistics showed that 
+
+what Congress did was successful in achieving the 
+
+6 purpose Congress attained. In the year 2011, there were 
+
+7 188 class actions filed; 50 percent of them were 
+
+8 dismissed, mostly on the high-end pleading standards 
+
+9 that Congress had enacted in the PSLRA. 
+
+So it's not really for this Court's province 
+
+11 to be imposing policy judgments about what additional 
+
+12 requirements ought to be put on 23(b)(3); Congress made 
+
+13 that judgment. And these proceedings that have gone 
+
+14 along in -- in this way, were perfectly sound by -- both 
+
+the district court and the court of appeals. 
+
+16  If the Court has no further questions? 
+
+17  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+18  Ms. Sherry. 
+
+19  ORAL ARGUMENT OF MELISSA ARBUS SHERRY 
+
+ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE, 
+
+21  SUPPORTING THE RESPONDENT 
+
+22  MS. SHERRY: Mr. Chief Justice and may it 
+
+23 please the Court: 
+
+24  I would like to start by going back to the 
+
+language of Rule 23 and, in particular, the predominance 
+
+38
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 requirement. The only question is whether common issues 
+
+2 predominate over individual issues. 
+
+3  As several of the justices have recognized, 
+
+4 materiality is an objective inquiry, it leads to a 
+
+common answer, and that common answer unites the class, 
+
+6 rather than divides it. If materiality is shown, the 
+
+7 class members can proceed together on the 
+
+8 fraud-on-the-market theory. But --
+
+9  JUSTICE SOTOMAYOR: But as Justice Scalia 
+
+pointed out earlier, so is efficiency or nonefficiency. 
+
+11  MS. SHERRY: And the difference --
+
+12  JUSTICE SOTOMAYOR: So that -- that 
+
+13 differentiation, articulating it that way, doesn't move 
+
+14 the ball. 
+
+MS. SHERRY: I would disagree with that 
+
+16 because the difference is with efficiency and with 
+
+17 publicity. If the -- depending on the common answer, 
+
+18 the class may divide. It may fragment because, even if 
+
+19 the market is inefficient, individual class members can 
+
+make out claims of direct reliance. You can rely on an 
+
+21 inefficient market and prevail. You can rely on 
+
+22 nonpublic statements --
+
+23  JUSTICE SCALIA: What's the difference 
+
+24 between 100 percent and 95 percent? I mean, most of the 
+
+other claims in -- in stock cases are going to be based 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 on what -- what the market price was when the person 
+
+2 bought or sold. So -- you know, 95 percent instead of 
+
+3 100 percent, that's -- that's the basic difference? 
+
+4  MS. SHERRY: The -- the purpose of the class 
+
+certification stage with respect to predominance is to 
+
+6 weigh the common issues against individual issues. And 
+
+7 with respect to market efficiency -- excuse me -- market 
+
+8 efficiency and publicity, those are two matters that --
+
+9 that either bind the class together or divide them. To 
+
+the extent the market is inefficient or to the extent 
+
+11 the statements are not public, they are not all getting 
+
+12 the information from the same source. 
+
+13  JUSTICE BREYER: They are preconditions --
+
+14 they are preconditions, not related to the merits, that 
+
+do, in fact, justify the use of a special reliance 
+
+16 theory. Now, I've said that; of course, so is 
+
+17 materiality. 
+
+18  MS. SHERRY: But --
+
+19  JUSTICE BREYER: But materiality, unlike the 
+
+other two, is part of the element of the basic case, 
+
+21 where it is a common issue in this case -- and in 
+
+22 most -- to everybody. 
+
+23  MS. SHERRY: And that is exactly right. And 
+
+24 the difference is --
+
+JUSTICE BREYER: Is that exactly right? 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Because I am getting the -- facing the problem a few 
+
+2 minutes from now, somebody is going to say, well, why is 
+
+3 that exactly right? I mean, it is a precondition. 
+
+4  MS. SHERRY: I am going to say it's exactly 
+
+right because the confusion here is that materiality in 
+
+6 a fraud-on-the-market case serves two purposes.  It is a 
+
+7 predicate to the fraud-on-the-market theory, but it is 
+
+8 also an independent, separate element. And what 
+
+9 Petitioners would have this Court do is isolate the two 
+
+inquiries when they're really the same question. 
+
+11  It is asking the same question that leads to 
+
+12 the same answer, and it's one that unites the class. 
+
+13 There's -- Petitioners phrase the question as whether 
+
+14 reliance --
+
+JUSTICE SCALIA: If you have the same 
+
+16 question, then maybe we shouldn't have this 
+
+17 fraud-on-the-market theory because the whole purpose of 
+
+18 it is -- is to -- to assume that -- that the whole class 
+
+19 was -- was damaged and relied -- because you can rely on 
+
+an efficient market. But you can only rely on an 
+
+21 efficient market where there has been a material 
+
+22 misrepresentation. 
+
+23  So maybe we should overrule Basic because it 
+
+24 was certainly based upon a theory that -- that simply 
+
+collapses once you remove the materiality element. 
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MS. SHERRY: The fraud-on-the-market theory, 
+
+2 however, is a substantive theory. It's not a procedural 
+
+3 doctrine. To be sure, one of the practical consequences 
+
+4 is it allows classes to be certified, but it's a means 
+
+of proving reliance in an impersonal market in which 
+
+6 investors trade today. 
+
+7  What the Court did in Basic was adapt the 
+
+8 direct reliance concept which envisioned face-to-face 
+
+9 transactions to the impersonal market. And so with 
+
+respect to actually proving a fraud on the market, 
+
+11 you're absolutely right, but what we're talking about 
+
+12 here is not whether a fraud on the market can be proven; 
+
+13 we're talking about whether common issues predominate 
+
+14 over individual issues. 
+
+And Petitioners still fail to point to any 
+
+16 individual issue that would come into play in a case 
+
+17 where materiality is not able to be shown. None would 
+
+18 because materiality would kill the case for all. 
+
+19  JUSTICE SCALIA: Materiality is a common 
+
+issue. Reliance is only a common issue if you accept 
+
+21 the fraud-on-the-market theory. That's the problem. 
+
+22 And you are using the one, which is a common issue, to 
+
+23 leapfrog into the second, to make the -- the efficiency 
+
+24 of the market reasoning something that it isn't. 
+
+MS. SHERRY: With all due respect, the two 
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 really do collapse into one. Once you've proven that 
+
+2 the market is efficient and once you've proven that the 
+
+3 statements are public, you're asking the same question. 
+
+4 You can call it reliance, or you can call it 
+
+materiality. 
+
+6  JUSTICE KENNEDY: Well, that then -- that 
+
+7 imparts the question of 24 years of economic 
+
+8 scholarship -- I think that's how long it's been since 
+
+9 Basic was decided -- has shown that the -- the efficient 
+
+market theory is -- is really -- really an 
+
+11 overgeneralization. It could be much more subtle than 
+
+12 that and so you have an advanced theory. But you want 
+
+13 us to ignore that. 
+
+14  MS. SHERRY: No, I -- a couple responses to 
+
+that. The first one is the one that my colleague made, 
+
+16 which is that market efficiency isn't disputed here. It 
+
+17 was conceded in the answer at paragraph 199. And not 
+
+18 only is it not -- is it not contested here, Petitioners 
+
+19 actually embrace an efficient market, in 
+
+order to pursue their truth-on-the-market defense. 
+
+21  And so my first response would be that's not 
+
+22 something to be addressed in this case. And my second 
+
+23 response is Basic didn't adopt any particular economic 
+
+24 model of market efficiency. If you look at footnote 24 
+
+of Basic, if you look at footnote 28 of Basic, the Court 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 makes very clear that it's not adopting an economic 
+
+
+2 theory, as far as how quickly or completely the 
+
+
+3 information is incorporated into the market price. 
+
+
+4  Instead, it was looking at congressional 
+
+
+intent, it was looking at difficulties in direct proof, 
+
+6 and it was looking at common sense to reach a result and 
+
+7 again to adapt a reliance theory that was premised on 
+
+8 face-to-face transactions to the impersonal market that 
+
+9 exists today. 
+
+And so, again, I wouldn't consider market 
+
+11 efficiency in this case. It's not presented. To the 
+
+12 extent there's questions about how the determinations 
+
+13 should be made in terms of levels of generality, that's 
+
+14 something that the lower courts can decide. 
+
+Today, all we're talking about is the 
+
+16 materiality component and, again, focusing on whether or 
+
+17 not common issues predominate over individual issues. 
+
+18 It's a comparative inquiry. It requires comparing 
+
+19 common issues on the one hand and individual issues on 
+
+the other. And Petitioners have not identified any 
+
+21 individual issues that will actually come into play as 
+
+22 the case is litigated. 
+
+23  The -- going to the -- some of the policy 
+
+24 concerns that were raised, I'd make a couple points. 
+
+One is the one that my colleague made. Congress 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 addressed those policy concerns in the PSLRA, in SLUSA, 
+
+2 and it chose to address them through different means. 
+
+3  The second point I would make is the same 
+
+4 argument could be made with respect to the other 
+
+elements of the securities fraud cause of action. If 
+
+6 the argument is you should have to prove it at class 
+
+7 certification because, otherwise, the case is going to 
+
+8 settle, you could say the same thing with respect to 
+
+9 scienter, with respect to falsity, with respect to loss 
+
+causation, which this Court in Erica John, of course, 
+
+11 said did not have to be proven at the class 
+
+12 certification stage. So in short, it proves too much. 
+
+13  The third response is that there are 
+
+14 countervailing policy concerns, and there are 
+
+countervailing concerns that are actually tethered to 
+
+16 Rule 23 in terms of efficiency. 
+
+17  Excuse me. Petitioners --
+
+18  CHIEF JUSTICE ROBERTS: Do you -- do you 
+
+19 agree that you have to show materiality to rely on the 
+
+fraud-on-the-market theory to establish reliance? 
+
+21  MS. SHERRY: As a substantive matter on the 
+
+22 merits, yes. It is a predicate. 
+
+23  CHIEF JUSTICE ROBERTS: I -- I don't 
+
+24 understand why that is. If you're trying to show 
+
+reliance, and you show that it's an efficient market, 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 and that the information was -- was public, doesn't that 
+
+2 show reliance without regard to whether the statement's 
+
+3 material or not? 
+
+4  MS. SHERRY: I think, in terms of 
+
+transaction causation, what you're -- and reliance is 
+
+6 referred to as transaction causation -- what you're 
+
+7 trying to show is whether or not the information 
+
+8 affected or distorted the market price. And in order to 
+
+9 show price distortion, it does require that the 
+
+information be material. And so we accept that in terms 
+
+11 of the fraud-on-the-market theory --
+
+12  JUSTICE SCALIA: Or, to put it differently, 
+
+13 an efficient market is a market that takes account of 
+
+14 material factors, right? 
+
+MS. SHERRY: I -- I would say it's --
+
+16  JUSTICE SCALIA: It's not an efficient 
+
+17 market if it's -- you know -- it's -- who knows, random? 
+
+18 It takes account of material factors. 
+
+19  MS. SHERRY: I would make a minor quibble on 
+
+that. I would say that the market takes account of all 
+
+21 public information, but it only -- it only moves based 
+
+22 on material information, so that's exactly right. And 
+
+23 so our issue is not with the predicates for the 
+
+24 fraud-on-the-market theory. 
+
+Our issue is with Petitioners equating the 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 predicates from the fraud-on-the-market theory with the 
+
+2 actual prerequisites of Rule 23. And this Court made it 
+
+3 very clear, in Shady Grove, that the only question at 
+
+4 the Rule 23 stage is whether the prerequisites have been 
+
+met. The only one that we're talking about here is 
+
+6 predominance. It's a comparative inquiry between common 
+
+7 issues and individual issues. 
+
+8  And if I can quickly go back to my point 
+
+9 about countervailing policy concerns, as Petitioners 
+
+acknowledge, a determination at the class certification 
+
+11 stage is not binding on anybody -- in that case on the 
+
+12 ultimate fact-finder, or in any other case. 
+
+13  And so the problem with Petitioners' 
+
+14 position is that it would require relitigation of the 
+
+materiality question at the merits stage to the extent 
+
+16 the class is certified or, if it's not, in every other 
+
+17 case that is brought on the same issue. That doesn't 
+
+18 serve the efficiency purposes that underlie Rule 23. 
+
+19  The -- in terms of absent class members, he 
+
+suggests that absent class members would somehow be 
+
+21 prejudiced, but as Your Honor, Justice Kagan, pointed 
+
+22 out, the only prejudice is that they wouldn't be able to 
+
+23 relitigate the very same issue. That is protected by 
+
+24 allowing opt out. That is protected by Rule 23's 
+
+adequacy of representation requirement. 
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  And so that's already sufficiently 
+
+2 protected. The most efficient course is to actually 
+
+3 focus on common issues. Materiality is a common issue. 
+
+4 It will result in the same answer for all. The class 
+
+rises or falls together. And class certification is not 
+
+6 about only certifying meritorious cases. 
+
+7  In 1966, when the current version of Rule 
+
+8 23(b)(3) was adopted, it was an innovation. It was a 
+
+9 change from the spurious class actions, where it was a 
+
+one-way ratchet, where only the defendant was bound. In 
+
+11 the current version of Rule 23(b)(3), you want to 
+
+12 certify class actions that are both meritorious and 
+
+13 those that are not, so that it reaches a binding 
+
+14 judgment. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+16  Mr. Waxman, you have 5 minutes. 
+
+17  REBUTTAL ARGUMENT OF SETH P. WAXMAN 
+
+18  ON BEHALF OF THE PETITIONERS 
+
+19  MR. WAXMAN: Thank you, Mr. Chief Justice. 
+
+The advisory committee notes to the very 
+
+21 amendment that Ms. Sherry was referring to states, 
+
+22 quote, "A fraud case may be unsuited for treatment as a 
+
+23 class action if there was a material variation in the 
+
+24 kinds or degrees of reliance by the persons to whom they 
+
+were addressed." 
+
+48
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  That is this case. The anomaly of our -- my 
+
+2 friend's position is they concede that materiality is a 
+
+3 predicate for class reliance. They agree that, unless 
+
+4 the statement is material, however efficient the market, 
+
+however loudly the statement was published, there is no 
+
+6 detrimental reliance on the integrity of the market 
+
+7 price. 
+
+8  Reliance can only be approved -- and, 
+
+9 Justice Breyer, this goes to your traditional paradigm 
+
+case -- in the paradigm case, reliance was proven by the 
+
+11 fact that you heard the statement and you did something 
+
+12 in reliance on it, to your detriment. 
+
+13  The innovation of Basic, and the notion that 
+
+14 Basic didn't say anything about class certification 
+
+under Rule 23 is astonishing, given the fact that the 
+
+16 whole reason that the question of the 
+
+17 fraud-on-the-market theory was presented, was the 
+
+18 inquiry about whether there could be -- whether the 
+
+19 traditional bilateral method of proving detrimental 
+
+reliance on a statement could be aggregated into a 
+
+21 ginormous class by allowing everyone to say, well, we 
+
+22 relied on the integrity of the market price and a 
+
+23 material misstatement -- a material statement affected 
+
+24 that price. 
+
+They said, "could have" --
+
+49
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE BREYER: Traditionally, how did that 
+
+2 work? How did that work traditionally? No class, okay? 
+
+3 Joe -- Farmer Jones comes in, you have to show it's 
+
+4 false? You have to show it's material. And then you 
+
+show the reliance that he did something on that basis. 
+
+6  MR. WAXMAN: Right. Those --
+
+7  JUSTICE BREYER: So the materiality was not 
+
+8 part of reliance. Materiality was an element that was 
+
+9 always proved, and then you went on to show reliance. 
+
+MR. WAXMAN: Exactly right. And what the 
+
+11 Court in Basic could have said, Justice Breyer, was, 
+
+12 forget the fraud-on-the-market theory; we are going to 
+
+13 absolve -- we are going to say that, for 10b-5 actions, 
+
+14 you don't have to prove reliance directly on the 
+
+statement. 
+
+16  We are going to allow you to -- we -- we 
+
+17 posit that investors rely in common on the integrity of 
+
+18 the market price; and if you can demonstrate to us that 
+
+19 a challenged statement moved the market -- if there was 
+
+market effect, we will allow you to proceed as a class; 
+
+21 because then the common answer to the common question, 
+
+22 how are you going to prove reliance, is we are going to 
+
+23 prove it all the same way because investors rely on the 
+
+24 integrity of the market price. 
+
+Now, the Court in Basic --
+
+50
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE GINSBURG: It sounds like you are 
+
+2 saying you have to win on the merits of the materiality 
+
+3 question in order to get the class certified. 
+
+4  MR. WAXMAN: You have to prove that there --
+
+the Court explained correctly in Basic, and this -- this 
+
+6 actually goes to -- anticipates my next point, Justice 
+
+7 Ginsburg, the Court in Basic didn't say, well, we're 
+
+8 going to allow you to --
+
+9  JUSTICE SCALIA: Excuse me. 
+
+MR. WAXMAN: -- we're going to allow you 
+
+11 to --
+
+12  JUSTICE SCALIA: You -- you don't have to 
+
+13 prove it to get the class certified. You only have to 
+
+14 prove it to get the class certified with the benefit of 
+
+the fraud-on-the-market theory. 
+
+16  MR. WAXMAN: Correct. 
+
+17  JUSTICE SCALIA: Which is a shortcut to 
+
+18 getting the class certified, right? 
+
+19  MR. WAXMAN: Yes. 
+
+JUSTICE SCALIA: So this is just a condition 
+
+21 to the shortcut. 
+
+22  MR. WAXMAN: Yes. And in fact, it's a 
+
+23 shortcut to a shortcut. What the Court in Basic could 
+
+24 have said is, if you want to proceed as a class, you 
+
+prove to the Court that reliance is common by showing 
+
+51
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that the market misstatement affected the market price. 
+
+2 But the Court in Basic went further in the direction of 
+
+3 class plaintiffs and said, you don't have to prove that 
+
+4 directly. 
+
+All you have to prove -- we will allow that 
+
+6 to be presumed, if you can demonstrate, without 
+
+7 effective rebuttal, four things: the statement was of a 
+
+8 type that the market would care about; the statement was 
+
+9 made publicly in an efficient market; and the trading 
+
+occurred during the period between the misstatement and 
+
+11 the correction --
+
+12  JUSTICE BREYER: And the reason that we want 
+
+13 to prove it upfront in the 23, rather than wait till the 
+
+14 merits, where it will be argued anyway in exactly the 
+
+same way -- the reason that we want to do it first is, 
+
+16 since it's going to be there anyway and going to be 
+
+17 litigated anyway, unlike publicity, unlike efficiency, 
+
+18 but the reason we take this one and run it upfront is? 
+
+19 And it can't be the answer we should litigate everything 
+
+before we litigate anything. 
+
+21  MR. WAXMAN: Of course not. 
+
+22  JUSTICE BREYER: Okay. So -- so what's the 
+
+23 answer? 
+
+24  MR. WAXMAN: The answer is that this is 
+
+the -- that the point of Rule 23 is to say, you get to 
+
+52
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+15  
+
+ 
+
+ 
+
+ 
+
+ 
+
+20  
+
+ 
+
+ 
+
+ 
+
+ 
+
+25  
+
+Official 
+
+1 use this very useful and powerful device if you have the 
+
+2 key to the gate. And the key to the gate is showing 
+
+3 that the answer to the question, will reliance be proven 
+
+4 commonly -- not lost commonly, but proven commonly --
+
+is, in fact, yes. 
+
+6  Thank you. 
+
+7  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+8  The case is submitted. 
+
+9  (Whereupon, at 12:06 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+11 
+
+12 
+
+13 
+
+14 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+53
+ 
+Alderson Reporting Company 
+
+
+
+54 
+OfficialOfficial 
+
+adopted 48:8 48:4 50:21 attempting 29:3 40:9A 
+adopting 44:1 52:19,23,24 authorized binding 6:3ability 12:6 
+advanced 25:8 53:3 17:14 47:11 48:1336:25 
+
+27:11 43:12 answers 23:16 automatically bought 3:13able 26:17 33:19 
+advisory 14:17 anticipates 51:6 35:6 4:16 10:2142:17 47:22 
+
+48:20 anybody 13:18 available 22:23 18:18 26:11above-entitled 
+affect 16:5 47:11 28:24 29:22 40:21:12 53:10 
+aggregated anyway 52:14 average 38:2 bound 48:10absent 3:22 10:1 
+
+49:20 52:16,17 a.m 1:14 3:2 Breyer 13:4,714:22 47:19,20 
+agree 12:4 45:19 apart 19:10 13:12 14:3,6absolute 25:5 B49:3 apologize 18:3 29:17 31:18absolutely 11:24 b 16:19agrees 12:9 17:7 appeals 38:15 32:1 33:2314:9 19:1 back 7:12 10:1417:20 APPEARAN... 34:4,7,1242:11 
+
+38:24 47:8AL 1:3 1:15 40:13,19,25absolve 50:13 backdrop 24:16alleged 8:20 appendix 25:16 49:9 50:1,7,11absorb 36:25 balance 23:810:8 16:4 apply 25:19 52:12,22absorbed 36:15 balancing 8:1allegedly 26:10 approach 19:20 brief 33:8absorbing 27:3 ball 24:4 39:14alleging 9:6 appropriately briefing 33:15abstract 8:25 based 33:17allow 50:16,20 29:1 bring 29:10accept 42:20 
+39:25 41:2451:8,10 52:5 approve 6:23 bringing 11:246:10 
+46:21allowing 17:14 approved 49:8 broken 36:3account 46:13 basic 17:9,1447:24 49:21 ARBUS 1:20 2:9 brought 47:1746:18,20 
+20:12 23:19,25allows 42:4 38:19 burden 9:21achieving 38:5 
+24:4,5,11,16altered 22:22 argued 33:15 35:22acknowledge 
+34:25 40:3,20alternative 18:7 52:14 buying 29:2347:10 
+41:23 42:7Amchem 14:16 arguing 5:8 8:15acted 17:13 C43:9,23,25,2515:16 argument 1:13action 6:18,21 
+49:13,14 50:11 C 1:18 2:1,6 3:1amendment 2:2,5,8,12 3:38:14 12:19 
+50:25 51:5,7 23:1148:21 3:7 19:1213:3 14:21 
+51:23 52:2 call 43:4,4Amgen 1:3 3:4 23:11 38:1915:17 20:19 basically 29:19 capability 17:2210:22 45:4,6 48:1732:19 35:14 basis 29:3 37:12 care 52:8Amgen's 8:20 arrogate 9:2545:5 48:23 
+50:5 cares 30:1029:12 33:8 articulatingactions 17:10 behalf 1:16,18 case 3:4,11 4:2amicus 1:22 39:1338:7 48:9,12 
+2:4,7,14 3:8 7:8,14,17 8:102:10 38:20 asked 23:1950:13 
+7:4 22:7 23:12 8:17 10:4,17analysis 19:20 34:22actual 47:2 
+38:20 48:18 10:21 12:3,15analysts 27:15 asking 41:11adapt 42:7 44:7 believe 31:3 12:21 14:5,10announced 5:15 43:3additional 38:11 benefit 51:14 14:12,14 15:10anomaly 49:1 assert 27:21address 34:22 best 9:14 16:17,25 17:18answer 10:9 29:345:2 bet 14:12 18:12 19:815:13 17:3 assertion 12:7addressed 11:14 bilateral 21:4 20:1 22:3,3,623:18 24:19 Assistant 1:2034:20 43:22 
+49:19 23:16 24:8,1428:5,13 30:16 assume 20:21,2245:1 48:25 bill 34:24 25:4,7,11,2130:17,18 32:25 24:24 41:18adequacy 29:1 billion 31:14 25:22 26:8,1033:24 37:6 astonishing47:25 binary 33:10 26:16 27:1939:5,5,17 49:15adequate 32:20 bind 10:15,16 28:8,9 29:1141:12 43:17 attained 38:6adopt 43:23 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+Official 
+
+55 
+
+29:14 30:4 45:7,12 47:10 16:3,4,20 17:1 committee concoction 
+31:19 33:16 48:5 49:14 17:4,11,20 14:17 48:20 33:14 
+37:15,16 40:20 certified 7:18 19:10,11,13,17 common 4:8,13 condition 51:20 
+40:21 41:6 11:15 29:14 19:23 21:1,3,7 4:14,15,17,17 confusion 41:5 
+42:16,18 43:22 35:5 42:4 21:10,16 23:15 4:20,22 10:4 Congress 34:18 
+44:11,22 45:7 47:16 51:3,13 23:17,20 24:10 14:1,2 16:6,19 34:25 37:23 
+47:11,12,17 51:14,18 24:13,19,21 17:1,9,19 38:5,6,9,12 
+48:22 49:1,10 certify 13:3 25:13,22 26:16 19:24 20:2,4 44:25 
+49:10 53:8,9 21:16 48:12 26:24 27:11 20:13,14,18,22 congressional 
+
+cases 8:19,23 certifying 5:18 28:4 29:4,14 20:24 21:12 44:4 
+10:6 14:17 35:7 48:6 29:16 31:15 23:16 24:19,20 Connecticut 1:6 
+26:3,22 27:22 chain 36:3,3,5 32:13,19 35:4 28:13 30:3,18 3:5 5:21 6:18 
+27:25 29:8 challenge 28:6 35:7,9,14,22 30:25 31:22,23 25:12,17 
+30:11 31:11 37:11 36:11 38:7 32:9,12,20,21 consequence 
+35:5,14 38:1 challenged 39:5,7,18,19 32:21,25 33:21 33:19 
+39:25 48:6 16:17 17:21 40:4,9 41:12 34:8,13 37:19 consequences 
+
+causal 36:2,3,5 25:16 33:7 41:18 45:6,11 39:1,5,5,17 42:3 
+causation 17:8 50:19 47:10,16,19,20 40:6,21 42:13 consider 44:10 
+
+20:7 34:21 change 48:9 48:4,5,9,12,23 42:19,20,22 considered 
+45:10 46:5,6 cheated 26:18 49:3,14,21 44:6,17,19 10:23 
+
+cause 12:19 Chief 3:3,9 4:1,7 50:2,20 51:3 47:6 48:3,3 consign 35:18 
+24:21 36:21 4:9 20:20 23:9 51:13,14,18,24 50:17,21,21 constitutes 31:9 
+45:5 23:14 38:17,22 52:3 51:25 construct 26:1 
+
+caused 17:15 45:18,23 48:15 classes 42:4 commonly 53:4 contested 36:11 
+21:6 48:19 53:7 class-wide 3:12 53:4,4 36:16,16 43:18 
+
+central 15:11 chose 34:23 45:2 5:19,19 17:19 company 31:14 context 24:11 
+cert 3:15 5:5 8:3 Circuit 9:5 clear 16:25 company's 37:4 26:7 
+
+12:16 14:7 circumstances 25:21 44:1 comparative contextual 
+certain 32:4 13:20 47:3 44:18 47:6 35:20 
+certainly 10:11 claim 3:11,13 clinical 32:5 comparing continue 8:18 
+
+21:18 29:7 16:6 18:17 cohere 16:3 44:18 convey 13:19 
+41:24 claimant 5:7 coherence 14:18 competing 9:13 convinced 32:20 
+
+certification 5:6 claims 12:25 15:1 completely 44:2 core 37:18 
+6:2,12 7:2,22 15:12 39:20,25 coherent 19:11 component 24:7 correct 4:5 6:13 
+8:12 9:10,13 class 3:15 5:23 cohesion 15:16 44:16 7:13 19:19 
+9:17,23 10:5 5:24 6:12,15 15:17,24 16:3 concede 49:2 23:3 34:3,6,11 
+11:14 13:8,22 6:18,23 7:2,3 cohesive 28:3 conceded 28:5 34:17 35:24,25 
+14:4,7,16 16:8 7:17,22 8:3,12 collapse 43:1 33:4,4 43:17 51:16 
+16:23 17:4,11 8:14 9:10,12 collapses 41:25 concept 42:8 correction 52:11 
+19:24 20:20 9:17,22,24 colleague 43:15 conceptually 7:1 correctly 51:5 
+21:1,4,22 10:1,12,13,16 44:25 concerning counsel 38:17 
+22:18 23:1,15 10:19 11:14 come 7:12 10:14 34:18 48:15 53:7 
+23:21 24:10,13 12:16 13:2 26:6 42:16 concerns 44:24 countervailing 
+26:16,24 27:11 14:4,7,8,15,18 44:21 45:1,14,15 45:14,15 47:9 
+28:21,24 32:10 14:20,21,22 comes 8:5,15 47:9 couple 29:10 
+32:13 35:22 15:2,3,16,16 36:10,12 50:3 conclusively 43:14 44:24 
+36:7,11 40:5 15:17,24 16:2 coming 5:24 18:15 course 10:16 
+
+Alderson Reporting Company 
+
+
+
+56 
+Official 
+
+30:3 40:16 14:21 21:9 40:3,24 due 42:25 either 5:12,24 
+45:10 48:2 23:21 48:10 different 7:23 Dukes 24:18 11:20 18:17 
+52:21 defense 5:10,11 21:7 26:7 29:2 duty 25:19 19:12 33:11 
+
+court 1:1,13 28:20,24 43:20 32:16 45:2 D.C 1:9,16,18 37:3 40:9 
+3:10 5:24 6:13 defrauded 26:10 differentiation 1:21 element 7:21 
+7:8,24,25 13:1 degrees 48:24 39:13 12:18 13:9 
+
+E14:16 15:14 demonstrate differently 17:5,6,18 34:2 
+E 2:1 3:1,1 17:9,14 22:20 50:18 52:6 46:12 34:8,13 40:20 
+earlier 23:1923:14 24:8,11 Department difficulties 44:5 41:8,25 50:8 
+
+35:3 39:1025:15 28:7 1:21 direct 10:2 11:9 elements 12:14 
+easier 10:2132:9 35:18 depend 5:16 11:16 22:5 18:13 20:19 
+Easterbrook38:15,15,16,23 26:13 25:17 29:9,15 34:19 45:5 
+
+37:1441:9 42:7 depending 30:16,17 39:20 emboldened 
+economic 43:743:25 45:10 11:21 39:17 42:8 44:5 7:19 
+
+43:23 44:147:2 50:11,25 depends 33:12 direction 52:2 embrace 43:19 
+economists51:5,7,23,25 depressed 18:17 directly 3:16 enabling 16:5 
+
+36:1352:2 26:12 5:25 11:3 enacted 34:20 
+effect 4:3 22:13 courts 37:11 desirability 17:12 29:11 38:9 
+
+22:14 30:2044:14 34:15 50:14 52:4 ends 10:11,17
+33:18 36:13Court's 5:14 despite 13:24 disagree 39:15 enormous 35:4 
+50:2020:1 24:17 determination disagreements entirely 21:6 
+
+effective 52:738:10 47:10 37:10 26:1 
+efficiency 18:16creates 27:17 determinations dismissed 6:15 envisioned 42:8 
+
+18:23 23:4credibility 8:2 21:15 44:12 38:8 equating 46:25 
+24:1,2 26:13 curiae 1:22 2:10 determine 13:1 dispute 8:6 21:5 Erica 45:10 
+26:23 27:10,2338:20 32:10,24 disputed 8:9,17 especially 24:17 
+28:2,7,10 30:7 current 48:7,11 determined 7:23 43:16 ESQ 1:16,18,20
+31:9 32:17,2318:24 27:17 disputing 23:20 2:3,6,9,13
+
+D 33:4,9 34:1 28:14 distinguish 24:6 essential 12:4,5
+D 3:1 36:10,11,24determines distort 12:10 establish 25:23 
+damaged 41:19 37:9,17,2423:15 distorted 3:19 45:20 
+DAVID 1:18 2:6 39:10,16 40:7 determining 12:8 46:8 established 
+
+23:11 40:8 42:2327:12 28:2,11 distortion 4:17 22:25 23:1 
+day 31:15 43:16,24 44:11 detriment 49:12 17:16 46:9 37:18 
+deal 37:11,23 45:16 47:18detrimental district 25:14 ET 1:3 
+dealt 34:25 52:1749:6,19 28:7 35:18 event 10:24 
+decide 31:8,9,21 efficient 3:22detrimentally 38:15 19:20 22:13 
+
+44:14 4:14,25 19:12 12:12 divide 39:18 36:13 
+decided 18:14 22:15 24:24device 53:1 40:9 everybody 3:19 
+
+26:16,23 32:13 26:15 27:2devolves 37:18 divides 39:6 7:4 10:11,18
+37:23 43:9 28:4 29:20,21differ 21:21,22 doctrine 42:3 15:4,5 19:14 
+
+decides 22:1 30:6,11 31:16 21:24,25,25 doing 9:16 32:1 19:18 22:8 
+deciding 35:3,16 33:12,12 35:8 22:1 doubt 5:14 30:3 32:18,18
+decision 6:2 7:2 41:20,21 43:2 difference 11:7 drag 7:4 35:9 40:22 
+
+24:17 43:9,19 45:25 11:10 19:7 dream 14:2,13 evidence 9:3,14
+deemed 5:5 46:13,16 48:2 24:12 27:20 drug 32:5 11:3,4
+defendant 7:18 49:4 52:939:11,16,23 drugs 9:2 evolves 37:18 
+
+Alderson Reporting Company 
+
+
+
+57 
+Official 
+
+exact 8:15 fair 14:20 14:22 21:9 Funds 1:7 3:5 50:22 51:8,10 
+exactly 4:5 13:4 fall 33:17 37:3 forward 19:8 further 35:13 52:16,16 
+
+14:24 23:7 falls 19:17 48:5 foul 16:9 38:16 52:2 good 13:12
+ 
+27:16,17 40:23
+ false 5:1,3 13:17 found 25:15 future 18:15,16 35:15 
+40:25 41:3,4 13:19 20:5 four 4:10 52:7 government
+
+G46:22 50:10 21:5 22:12 fragment 39:18 19:3 
+G 3:152:14 26:19 29:12,24 fraud 11:13 25:3 grounds 7:20 
+gate 10:5 16:8 example 8:24 50:4 25:20 27:18 Grove 47:3 
+
+examples 13:24 21:4 53:2,2falsity 4:19,21 29:4 38:1 guess 9:7 
+gatekeepingexcuse 40:7 13:21 17:8 42:10,12 45:5 
+
+H27:12 28:1045:17 51:9 32:14 45:9 48:22 
+gate-keeping habit 18:1excuses 4:11 far 25:21 44:2 fraudulent 
+
+executives 32:4 32:24 haircut 8:21 
+general 1:21 
+
+Farmer 50:3 18:19 
+Halliburtonexists 5:20 44:9 favor 7:23 fraud-on-the-... 
+
+expert 8:2 28:6 36:14 17:10 
+generality 44:13 
+
+feature 30:4 4:10 11:8 12:5 
+hand 9:3 44:19 explain 5:13 fiduciary 25:19 18:14 24:7 
+
+explained 14:16 generate 23:16 hands 14:23 
+generates 24:18 
+
+file 7:19 25:7,22 26:3 
+happen 7:1615:15 17:9 filed 37:25 38:7 37:16 39:8 
+
+getting 40:11 26:2251:5 finality 22:1 41:6,7,17 42:1 
+41:1 51:18 happens 4:4explains 37:16 find 8:3 42:21 45:20 
+
+extent 40:10,10 ginormous 17:17 19:15finding 10:15 46:11,24 47:1 
+49:21 31:1144:12 47:15 21:21,22 31:23 49:17 50:12 
+
+extracted 8:25 Ginsburg 10:7 harm 16:9findings 21:20 51:15 
+10:20 16:11,14 hear 3:3 9:4 finds 15:9 Frederick 1:18 
+
+F 16:18 17:3 22:9 
+faced 14:9 21:9 
+
+fine 21:2 2:6 23:10,11 
+20:11,17 21:14 heard 4:12first 11:25 14:19 23:13,23 24:3 
+
+37:25 22:16,24 33:2 10:23 12:1215:18 22:2 25:4 26:4,25
+face-to-face 33:7 51:1,7 17:13 22:6,924:5 25:12 27:8 28:1,16
+
+42:8 44:8 give 26:8 49:11 
+facing 41:1 
+
+34:24 43:15,21 28:25 30:17 
+given 27:15 heart 3:1352:15 31:1,5,7,25
+
+fact 8:20 13:22 49:15 heightenedflagship 9:1 32:11,22 33:2 
+13:24 14:10 glue 17:24 34:2129:13 33:6,14 34:3,6 
+15:6 16:19 go 8:10 17:16 held 8:8
+ 
+20:1,2,3 26:11
+ 
+
+flukey 26:5,9,21 34:11,17 35:17 
+18:3 47:8 higher 9:21focus 48:3 35:23,25 36:6 
+
+31:21 35:19 goes 19:8 30:6 highly 35:20focusing 44:16 36:9,23
+36:21 40:15 32:3 36:24 high-end 38:8follow 33:24 friends 12:4
+ 
+49:11,15 51:22
+ 37:15 49:9 hold 23:24footnote 43:24 friend's 49:2 
+53:5 51:6 holds 6:13 17:24 43:25 front 32:1 
+
+factors 33:13 going 5:22 7:8 Honor 47:21
+ 
+46:14,18
+ 
+
+forcing 13:2 fruits 19:21 
+10:14,16 13:16 hope 30:14,15foreclosing full 21:10 
+
+facts 8:4,6,9 9:5 22:3,3,5,7 31:24 
+factual 29:3 
+
+12:24 function 15:6 
+26:17 30:19 hotly 31:10forget 50:12 19:11 28:11,17
+
+fact-finder 31:21 33:19 hugely 31:16forth 23:19 functionally
+47:12 37:6,20 38:24 hundreds 21:7fortiori 15:19 21:25 
+
+fact-sensitive 39:25 41:2,4 hypothesizingfortune 10:3 functions 32:24 
+8:1 44:23 45:7 28:931:14 fundamental 
+
+fail 42:15 50:12,13,16,22 hypotheticalfortunes 10:1,3 3:12 
+
+Alderson Reporting Company 
+
+
+
+58 
+Official 
+
+14:14 25:4 12:25 13:15 investor 11:15 10:22 32:19 46:12,16 47:21 
+26:2,5,9,21 16:21 18:15 22:22 26:17 37:14 48:15,19 49:9 
+28:19 19:9,14 26:7 36:19 37:5 judges 35:18 50:1,7,11 51:1 
+
+26:17,22 27:17 investors 6:6 judge's 7:19 51:6,9,12,17
+I 27:22,24 28:21 16:3 25:19 judgment 7:20 51:20 52:12,22
+
+idea 25:7 36:24 39:2,19 27:1,3,13 28:3 8:5,15 9:9,14 53:7 
+identified 44:20 40:6 42:14,16 28:11 29:8 9:15 38:13 justices 39:3 
+ignore 43:13 44:17,19,21 30:19 33:16 48:14 justify 19:21 
+immaterial 5:6 47:7 37:3,5,20 42:6 judgments 40:15 
+
+6:14,14,23 7:8 individualized 50:17,23 38:11 justifying 35:22 
+7:10 8:13,13 12:11 involve 25:3 juggernaut 
+
+K8:16,22 9:8 individually involved 6:8 14:21 
+10:10,17 16:24 Kagan 6:10,2017:12 involves 8:1 jury 8:9,10
+19:17 20:10 7:1,6 8:11 9:7 inefficiencies irrelevant 30:9 jury's 23:6 
+27:6 28:22 9:17,20 14:24 33:22 isolate 41:9 Justice 1:21 3:3 
+35:12 15:14,21,24inefficient 23:22 issue 5:6 10:5 3:9 4:1,7,9,19
+
+immateriality 19:4,7 47:21 39:19,21 40:10 12:11 14:1,2 5:4,9 6:9,10,20 
+10:15 19:16,16 keep 7:8inflated 18:18 14:19 15:11,12 7:1,6 8:11 9:7 
+
+impaired 22:11 Kennedy 11:626:12 18:25 20:2,4 9:17,20 10:7 
+25:25 11:12,18,24,25information 6:8 21:12 24:2,20 10:20 11:5,6
+
+imparts 43:7 24:23 25:59:1 10:25 26:6 27:21,22 11:12,18,24,25
+impersonal 42:5 30:23 32:7,1522:21,23 27:3 27:24 30:3,24 13:4,7,12 14:3 
+
+42:9 44:8 35:21,24 36:1 28:23 36:12,14 30:24 31:2,6,8 14:6,24 15:14 
+import 31:23 36:7,10,2036:18,25 37:1 31:10,11,17,22 15:21,24 16:11 
+important 6:7 43:640:12 44:3 31:23 32:9 16:13,14,18
+
+24:8 25:6 key 10:5 16:8 46:1,7,10,21 36:16 40:21 17:3,25 18:6 
+impose 14:20 53:2,246:22 42:16,20,20,22 18:10,12,22
+imposing 34:20 kill 42:18injury 32:21 46:23,25 47:17 19:4,7 20:11 
+
+38:11 kind 9:18 27:17 innovation 48:8 47:23 48:3 20:17,20,25
+inability 5:18 31:1949:13 issues 19:25 21:14 22:16,24
+incoherent kinds 48:24inquire 25:1 20:24 27:18 23:9,14,18,24
+
+19:13 know 7:18 8:20 inquiries 41:10 34:18 39:1,2 24:23 25:5 
+incorporated 8:22 10:23inquiry 9:18 40:6,6 42:13 26:4 27:5,10
+
+3:4 44:3 13:7,14,2435:20 37:7 42:14 44:17,17 27:20 28:10,15
+independent 14:13 15:1139:4 44:18 44:19,19,21 28:18 29:17 
+
+41:8 25:11,18,2047:6 49:18 47:7,7 48:3 30:23,24 31:2 
+indicating 13:16 26:5,18 27:1 instances 14:11 I’d 14:12 31:6,7,18 32:1 
+indirect 10:2 31:13 35:824:25 I’m 22:16 32:7,15 33:2,7 
+
+12:6 17:15 40:2 46:17integrity 4:24 33:23 34:4,7
+J25:9 27:13 known 28:206:4 22:10,11 34:12 35:2,17
+
+28:12 32:25 Joe 50:3 knows 27:1625:9,24 36:5 35:21,24 36:1 
+37:17 John 45:10 46:1749:6,22 50:17 36:7,10,20
+
+indirectly 3:18 Jones 50:350:24 37:9 38:17,22 L4:23 25:23 judge 5:19 6:2 intent 44:5 39:9,9,12,23 
+language 38:2529:25 7:7 8:3,7,12,16interrupting 40:13,19,25 
+Laughter 11:22individual 3:13 8:21 9:4,9,1218:4 41:15 42:19 
+
+12:1 18:83:16 5:4,7 7:9 9:15 10:3,10introduce 9:4 43:6 45:18,23 
+
+Alderson Reporting Company 
+
+
+
+59 
+Official 
+
+law 8:7,23 9:9 loudly 49:5 4:25 5:7,20 6:1 29:24 30:15 misstatements 
+16:19 lower 37:11 8:6,8,9 9:1,10 31:16 32:4 29:12 
+
+lawsuit 35:6 44:14 10:18,18,25 39:24 41:3 mix 6:8 8:25 
+lawsuits 37:25 11:3 12:10 means 4:3 19:10 22:23 36:18 
+
+Mleads 39:4 41:11 13:14 15:4,4,5 22:19 28:2 model 43:24 
+majority 8:23leapfrog 42:23 15:5,9 16:22 42:4 45:2 Monday 1:10 
+making 24:4leave 18:6 16:23 20:9 meet 25:13 29:5 money 21:6 
+
+32:4legitimizes 21:17,19 22:15 MELISSA 1:20 26:20 
+market 3:19,2015:17 22:17,18,19 2:9 38:19 motion 7:19 
+
+3:22,23 4:4,14 legs 20:8 30:5,19,22 member 5:23 8:15 
+4:16,24,25 5:1 letting 16:7,12 32:8 35:11 members 6:14 move 5:1 20:10 
+6:4,5 11:13 19:21 36:20,25 37:4 10:1 14:22 39:13 
+12:7,8,10let's 10:20,21 41:21 46:3,10 16:20,21 23:17 moved 17:22 
+13:15 17:16,2313:21,22 46:14,18,22 24:19 39:7,19 50:19 
+18:16,23 19:8 level 22:1,17 48:23 49:4,23 47:19,20 movement 36:4 
+19:13 20:4,736:14 49:23 50:4 merit 6:24 moves 46:21 
+22:11,11,15levels 44:13 materiality 3:23 meritorious moving 9:23 
+23:4,5,22liability 3:12 4:3,17 5:15 48:6,12 17:22 
+24:24 25:3,913:9 6:12 7:20,21 merits 9:18,21 
+
+N25:24 26:14,15light 18:9 7:25 10:8 11:4 12:23 14:4,19
+26:19,23 27:2 N 2:1,1 3:1 likelihood 22:20 11:8,13 12:2,3 21:18 24:14 
+27:7,13,23 nearly 38:3listed 20:14 12:16,18,19 27:8 32:2 
+28:4 29:20,21 necessary 18:13lists 20:13 14:8 15:3,7,25 35:19 37:2,19
+29:23 30:5,6 need 20:8 24:14 litigant 18:16 15:25 17:2,6,7 40:14 45:22 
+30:11 31:4,10 34:15litigants 18:15 17:18,23 20:13 47:15 51:2 
+31:16 32:17,20 needed 24:13litigate 52:19,20 20:13,18,21 52:14 
+32:25 33:4,9 needs 17:12litigated 7:9 21:15,20 24:9 met 47:5 
+33:20 34:1 24:1631:10 34:14 24:18,25 27:4 method 9:25 
+35:8,10,11,12 new 33:1444:22 52:17 27:6,9 30:2,4 28:12 49:19 
+36:15 37:10 Ninth 9:5litigating 34:15 30:18 31:19 middle 18:2 
+39:19,21 40:1 noncohesivelitigation 15:19 32:3 33:18 million 31:15 
+40:7,7,10 24:21loading 32:1 34:12,22 35:19 38:3 
+41:20,21 42:5 nonefficiencylong 43:8 36:17,17 37:13 mind 28:4 
+42:9,10,12,24 39:10look 8:7 9:1 37:19,24 39:4 mini 32:2 
+43:2,10,16,19 nonmaterial43:24,25 39:6 40:17,19 minor 46:19 
+43:24 44:3,8 37:1looked 37:23 41:5,25 42:17 minutes 41:2 
+44:10 45:25 nonplussed 10:9looking 44:4,5,6 42:18,19 43:5 48:16 
+46:8,13,13,17 nonpublic 39:22looks 36:17 44:16 45:19 misinformation 
+46:20 49:4,6 Northway 5:15lose 12:25 15:25 47:15 48:3 16:4,6
+49:22 50:18,19 note 33:1016:9 21:6 27:8 49:2 50:7,8 misleading 3:14 
+50:20,24 52:1 notes 14:1730:19 51:2 misrepresenta... 
+52:1,8,9 48:20loses 15:2,3 32:8 matter 1:12 7:14 20:14 21:17,19
+
+markets 20:10 notion 37:1732:18 8:22 9:8 34:8 37:4 41:22 
+30:6 49:13loss 17:8 20:7 45:21 53:10 misstatement 
+
+market's 18:19 November 1:1034:21 45:9 matters 40:8 10:9 17:21 
+married 21:9 number 20:23lost 53:4 mean 6:21 7:6 30:20 36:4 
+material 3:21lot 24:3 21:1 22:17,18 49:23 52:1,10 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+60 
+
+O paradigm 49:9 4:11 52:3 46:23 47:1 44:3 46:8,9 
+O 2:1 3:1 49:10 Plans 1:6 3:5 predominance 49:7,22,24 
+objective 5:16 paragraph play 42:16 44:21 17:5 24:22 50:18,24 52:1 
+
+15:7 37:7 39:4 43:17 plays 30:12 38:25 40:5 problem 41:1 
+objectively 25:2 parroted 31:24 pleading 34:21 47:6 42:21 47:13 
+observations part 11:25 40:20 38:8 predominate procedural 42:2 
+
+24:5 50:8 please 3:10 19:25 20:24 proceed 5:22 
+occur 28:19 particular 13:18 23:14 38:23 27:18 39:2 6:18,20 8:14 
+occurred 52:10 13:19 15:9 point 4:6 14:3 42:13 44:17 22:4,5,7 35:13 
+occurring 38:2 18:19 38:25 14:15 25:6 predominates 39:7 50:20 
+odd 13:16 43:23 29:19 30:1 16:20,21 51:24 
+offense 7:21 parties 4:8 33:3 42:15 preexists 15:18 proceeding 21:8 
+oh 8:16 party 9:23 45:3 47:8 51:6 prejudice 47:22 proceedings 
+okay 10:13 12:2 pause 18:1 52:25 prejudiced 38:13 
+
+15:23 50:2 pausing 18:1 pointed 39:10 47:21 process 23:15 
+52:22 people 6:6 15:25 47:21 preliminary products 29:13 
+
+once 13:13 17:13 19:9 points 44:24 18:24 31:23 professorial 
+15:15 35:4 21:8 22:8,9 policy 38:11 35:15 14:13 
+41:25 43:1,2 26:10 44:23 45:1,14 premise 7:13,15 prongs 29:1 
+
+one-way 48:10 percent 14:1 47:9 premised 44:7 proof 5:25 6:4 
+opinion 20:2,12 27:24 38:2,7 posit 50:17 prerequisites 9:25 17:15 
+
+37:14 39:24,24 40:2 positing 37:9 16:15 47:2,4 44:5 
+opinions 8:2 40:3 position 23:25 present 13:3 proofs 36:12 
+opposite 13:5 perfect 8:24 27:2 32:22,23 presented 44:11 proper 16:23 
+opt 29:16 47:24 20:15,16 47:14 49:2 49:17 proposed 34:24 
+oral 1:12 2:2,5,8 perfectly 38:14 possible 29:7 president 8:20 proposing 9:25 
+
+3:7 23:11 period 4:16 possibly 9:10 pressure 35:4 protected 29:9 
+38:19 10:22 31:16 postpone 12:23 presumably 5:1 47:23,24 48:2 
+
+order 21:16,17 52:10 postponed 12:24 7:17 8:21 prove 3:16,17 
+24:10 43:20 person 13:18 potential 30:21 presume 35:9 4:23 5:2,7,18 
+46:8 51:3 15:9 28:21,22 powerful 53:1 presumed 3:23 12:6 19:9,14 
+
+ordinarily 18:17 29:2,4 40:1 practical 42:3 32:18 52:6 19:15,16 20:3 
+ordinary 21:4 persons 48:24 precisely 26:25 presumption 23:21 36:5 
+ought 38:12 petition 25:15 preclude 5:21 23:20 45:6 50:14,22 
+outset 34:16 Petitioners 1:4 precluded 9:15 presumptions 50:23 51:4,13 
+outstanding 1:17 2:4,14 3:8 precludes 11:1 23:25 51:14,25 52:3 
+
+31:15 41:9,13 42:15 precondition pretty 9:1 52:5,13 
+overgeneraliz... 43:18 44:20 41:3 prevail 39:21 proved 24:13,14 
+
+43:11 45:17 46:25 preconditions pre-try 14:4 50:9 
+overrule 41:23 47:9,13 48:18 13:2 40:13,14 price 3:19,20,23 proven 12:14,18 
+
+phrase 13:5 predicate 4:22 4:4,24 5:2 6:4 17:12 23:6 
+P 41:13 7:22 12:4,6,17 6:5 12:8,8,10 42:12 43:1,2 
+
+P 1:16 2:3,13 3:1 place 14:19 17:19 28:13 16:5 17:23 45:11 49:10 
+3:7 48:17 15:18 41:7 45:22 18:18,18 22:13 53:3,4 
+
+page 2:2 20:12 plaintiff 5:21 49:3 22:14 26:12,12 proves 45:12 
+25:15 6:11 7:9 9:20 predicates 4:10 27:3,16 36:4 province 38:10 
+
+paid 26:19 plaintiffs 3:25 4:13 23:5 36:15 40:1 proving 4:12 9:5 
+
+Alderson Reporting Company 
+
+
+
+61 
+Official 
+
+17:15 42:5,10 32:3,12 33:1 35:3,3,16 39:20 40:15 25:14 29:5 
+49:19 33:10,21 36:2 49:16 52:12,15 41:14 42:5,8 34:21 39:1 
+
+PSLRA 34:20 36:17,24 37:2 52:18 42:20 43:4 47:25 
+38:9 45:1 37:8,12,19,20 reasonable 6:6 44:7 45:20,25 requirements 
+
+public 4:15,25 37:23,24 39:1 11:16 22:22 46:2,5 48:24 38:12 
+19:2 23:4 41:10,11,13,16 25:2 30:9 37:5 49:3,6,8,10,12 requires 9:23 
+27:15 29:22 43:3,7 47:3,15 reasoning 42:24 49:20 50:5,8,9 44:18 
+40:11 43:3 49:16 50:21 reasons 23:17 50:14,22 51:25 requisites 24:6 
+46:1,21 51:3 53:3 25:12 53:3 reserve 23:8 
+
+publicity 19:12 questions 16:20 rebuttal 2:12 relied 3:19 4:12 resolved 8:8 
+28:16 30:8 17:9 26:13 48:17 52:7 5:25 6:3 11:3 respect 16:3 
+32:23 34:7 38:16 44:12 rebutted 24:1,2 12:12 21:5 23:7 27:4,21 
+39:17 40:8 question's 28:8 recognized 22:6,8 29:11 40:5,7 42:10 
+52:17 quibble 46:19 34:18 39:3 35:9 41:19 42:25 45:4,8,9 
+
+publicly 3:22 quickly 44:2 red 18:9 49:22 45:9 
+22:15 52:9 47:8 redeterminati... relier 5:17 Respondent 
+
+published 49:5 quintessential 24:9 reliers 10:2,2 1:19,23 2:7,11 
+purported 21:2 24:20 referred 46:6 relitigate 6:11 23:12 38:21 
+purpose 12:22 quirk 12:2 referring 48:21 47:23 responding 19:3 
+
+12:22,25 13:1 quite 33:3 reflect 3:20,24 relitigation response 17:13 
+13:8 38:6 40:4 quote 15:18 20:1 reflected 26:19 47:14 43:21,23 45:13 
+41:17 48:22 27:7 rely 17:20 22:10 responses 43:14 
+
+purposes 24:21 quoting 15:15 reflects 29:23 26:11 39:20,21 result 44:6 48:4 
+41:6 47:18 31:4 41:19,20 45:19 Retirement 1:6 
+
+Rpursue 43:20 regard 27:22 50:17,23 3:5 5:22 6:19 
+R 3:1put 28:6 38:12 46:2 relying 4:23 25:12 
+raised 44:2446:12 regardless 21:12 16:6 right 6:16 7:17 
+raising 5:11putative 7:3 reiterated 5:16 remanded 24:9 11:18,20,23,24
+random 46:179:24 16:7 17:10 remedy 6:21 14:9,25 15:22 
+ratchet 48:10p.m 53:9 related 40:14 remove 41:25 16:15 18:3 
+rate 38:2 relevant 6:7 render 9:14 19:1 26:25 
+
+Q reach 44:6 10:22 24:25 repeatedly 14:8 30:1,15 31:5 
+question 3:15,24 reaches 48:13 30:2 36:18 15:7 31:18,25 33:23 
+
+4:18 6:11 7:12 react 20:7 reliance 3:14,16 reports 27:15 33:25 36:1 
+7:13,24 9:7 reacted 20:5 3:18 4:23 5:2 representation 40:23,25 41:3 
+11:13 12:21 reaction 18:19 5:19,20 10:4 47:25 41:5 42:11 
+14:9,18 15:1,1 30:10 11:9,16 12:6 representations 46:14,22 50:6 
+15:1,18 16:15 read 24:16 12:11,15,17,17 16:22 50:10 51:18 
+16:19,21,22 real 12:21 26:3 13:15 17:5,11 representative rightly 33:3 
+17:1,1,4,5,11 36:2 17:19 19:9,14 7:3 9:24 10:13 rise 33:17 37:3 
+18:24 19:23,24 reality 31:4 20:1 21:11 10:17 14:20 37:21 
+19:25 20:13,15 really 10:9 28:8 22:6 25:1,7,8,9 15:17 16:7 rises 48:5 
+20:18,22,25 37:18 38:10 25:10,18,23 21:3 25:13,23 risk 12:24 
+21:2 22:2,25 41:10 43:1,10 27:13 28:12 require 46:9 road 21:13 
+23:19 26:15,22 43:10 29:9,15,25 47:14 ROBERTS 3:3 
+27:4,9 28:1,5,7 reason 27:10 30:6 32:25 required 9:13 4:1,7 20:20 
+30:25 31:13 31:3,22 34:15 34:22 37:17 requirement 23:9 38:17 
+
+Alderson Reporting Company 
+
+
+
+62 
+Official 
+
+45:18,23 48:15 search 19:22 50:3,4,5,9 specter 37:25 48:21 
+53:7 second 24:15 showed 38:4 splinter 24:20 statistics 38:4 
+
+role 27:12 30:12 42:23 43:22 showing 3:18 splits 19:10 stock 26:20 
+rolling 24:4 45:3 16:8 25:24 spurious 48:9 27:14,15 31:17 
+rule 7:19 12:22 securities 19:25 28:13 51:25 stage 3:15 6:12 39:25 
+
+12:23 15:12,12 25:20 27:18 53:2 8:3,12 9:9,11 stockbroker 
+24:6,16 25:14 29:3 31:11 shown 39:6 9:13,15,18,23 30:9 
+29:2,10 38:25 38:1 45:5 42:17 43:9 11:14 12:16 stocks 4:16 
+45:16 47:2,4 see 30:2 side 12:4 13:8,9,22 17:4 26:11 
+47:18,24 48:7 seeking 28:21 significant 16:5 21:22 23:1,21 stock's 36:24 
+48:11 49:15 sense 3:12 7:2 31:21 26:24 32:10 stool 20:8 
+52:25 20:15,16 44:6 significantly 33:15 36:8,12 stroke 15:13 
+
+ruled 7:7,10 sentence 18:2,2 22:22 40:5 45:12 studies 10:24 
+Rules 14:17 sentences 18:1 silence 13:16 47:4,11,15 36:13 
+ruling 8:4 separate 41:8 similarly 13:16 standard 5:14 subjective 25:1 
+run 7:15 52:18 serve 28:2 47:18 28:3,11 5:16 11:11 submitted 53:8 
+run-of-the-mine serves 27:11 simply 9:5 10:3 12:19 53:10 
+
+25:22 28:10,16 30:18 26:2 35:15 standards 38:8 subsequently 
+41:6 41:24 standing 27:1 25:16 
+
+S set 13:17,19 situated 28:3,12 start 11:23 24:4 subsidiary
+S 2:1 3:1 23:19 24:1 situation 14:2 38:24 33:18,22
+sarcastic 20:17 SETH 1:16 2:3 SLUSA 45:1 started 20:12 substantial 
+satisfaction 23:6 2:13 3:7 48:17 sold 3:14 4:16 statement 3:14 22:20 
+satisfied 16:16 setting 21:15 18:17 26:12 3:17,18,20,21 substantive 7:21 
+saying 5:24 8:11 settle 35:4 45:8 40:2 3:24 4:12,15 24:7 42:2 
+
+11:2,6,7 14:6 settlement 15:19 Solicitor 1:20 4:20,21,23 45:21 
+15:21 31:19 35:6,15 38:2,3 somebody 10:21 5:20,25 6:14 subtle 43:11 
+32:7,11,17 Shady 47:3 41:2 6:22 7:7,10 successful 38:5 
+36:23 37:22 shares 31:14 sooner 35:16 8:13 10:14 sue 7:3 
+51:2 Sherry 1:20 2:9 sophisticated 12:7,8,9,13 sufficient 29:25 
+
+says 7:3 10:10 38:18,19,22 33:10 17:15,22 18:20 31:20 
+10:23 39:11,15 40:4 sorry 6:9 19:6 19:2,4 20:5,9 sufficiently 48:1 
+
+Scalia 17:25 40:18,23 41:4 SOTOMAYOR 21:5 22:6,12 suggestion 33:9 
+18:6,10,12,22 42:1,25 43:14 4:19 5:4,9 6:9 22:14 23:4 suggests 47:20 
+26:4 27:5,10 45:21 46:4,15 11:5 23:18,24 26:19 29:22,24 suit 6:15,17,18
+27:20 28:10 46:19 48:21 28:15,18 39:9 35:11 49:4,5 6:24 11:2 26:7 
+30:24 31:2,6,7 short 45:12 39:12 49:11,20,23 summary 7:20 
+35:2,17 37:9 shortcut 4:11 sought 19:24 50:15,19 52:7 8:5,14 9:9,15 
+39:9,23 41:15 17:14 51:17,21 sound 37:14 52:8 super 9:18 
+42:19 46:12,16 51:23,23 38:14 statements 4:25 support 32:21 
+51:9,12,17,20 show 11:15 20:3 sounds 51:1 8:24 20:10 supporting 1:22 
+
+Schleicher 20:4,22 21:3 source 40:12 32:5 33:17 2:11 38:21 
+37:15 21:10,11,12,16 special 30:11 39:22 40:11 suppose 4:2 36:1 
+
+scholarship 43:8 21:18 27:13 34:5,9,14 43:3 Supreme 1:1,13
+scienter 17:8 33:19 35:8 40:15 statement's 46:2 sure 5:8 32:15 
+
+20:6 34:20 36:14 45:19,24 specially 31:20 states 1:1,13,22 42:3 
+45:9 45:25 46:2,7,9 31:21 2:10 38:20 surmount 9:21 
+
+Alderson Reporting Company 
+
+
+
+63 
+Official 
+
+System 25:12 think 6:25 7:1 trials 32:5 35:19 41:12 16:17 17:3,25 
+8:8 10:24 trier-of-fact 6:1 unsuited 48:22 18:5,9,11,21
+
+T 12:22 13:23 6:3 upfront 52:13 19:1,5,6,19
+T 2:1,1 28:19,25 29:15 true 5:1 19:2 52:18 20:11,16,25
+take 7:14 10:21 30:1,13 31:7,8 20:5 29:17 upheld 24:10 21:14,24 22:19 
+
+13:4 52:18 32:4 33:11 31:24 35:10,12 use 29:20,21 23:3 48:16,17
+takes 46:13,18 43:8 46:4 35:23 40:15 53:1 48:19 50:6,10
+
+46:20 thinking 24:12 Trust 1:7 3:5 useful 53:1 51:4,10,16,19
+talking 10:7 thinly 27:14 truth 28:20 usually 26:9 51:22 52:21,24
+
+12:15 42:11,13 third 45:13 truth-in-the-... Waxman's 
+V44:15 47:5 thought 6:22 5:10 29:19 
+
+tell 33:25 v 1:5 3:4 5:15 10:7 truth-on-the-... way 5:12 13:5 
+temporally 24:18thousands 21:7 5:10 28:20 16:7 17:16 
+
+21:24 22:2 valid 12:24three 6:6 20:8 43:20 19:2 35:7 
+tens 21:7 variation 48:2323:17 try 13:8,21,22 38:14 39:13 
+term 17:10 various 34:19tie 10:2 24:5 25:6 50:23 52:15 
+terms 21:25 vast 8:23till 52:13 36:14 ways 29:10 
+
+44:13 45:16 version 48:7,11time 14:1 19:23 trying 5:2 19:21 weigh 9:13 
+46:4,10 47:19 viewed 22:2123:8 20:23 29:18 20:23 40:6 
+
+test 9:5 15:8,10 voted 34:25timing 23:5 33:24 45:24 went 50:9 52:2 
+22:23 today 25:6 42:6 46:7 We'll 3:3Wtethered 45:15 44:9,15 TSC 5:15 we're 42:11,13
+
+wait 52:13Thank 23:13 told 28:22 two 17:17 21:15 44:15 47:5
+waiting 13:938:17 48:15,19 tort 34:2,9,13 21:20 22:3 51:7,10
+Wal-Mart 14:2553:6,7 total 6:8 8:25 25:11 40:8,20 we've 15:7
+
+15:10 24:18theoretical 26:2 22:23 36:18 41:6,9 42:25 we’ll 16:9 
+want 7:11 31:8,9 theory 4:10 11:8 tracks 17:17 type 5:11 52:8 whatsoever 11:1
+
+37:22 43:1212:5 16:9 22:3 typical 29:4 win 15:25 21:18 
+48:11 51:2418:14 22:7,10 trade 42:6 typicality 25:14 30:20,21 51:2 
+52:12,1524:7,24 25:8 traded 27:14 29:1,5 window 30:7
+
+wanted 9:325:10,18,20 31:15 tyranny 18:11 winning 19:11
+Washington 1:929:9,15,20 trading 28:23 wins 15:2,3
+
+1:16,18,21U30:5,11,13 52:9 32:18
+wasn't 22:1432:21 34:5,10 ultimate 47:12traditional 34:1 witnesses 8:2
+
+30:539:8 40:16 underlie 47:1849:9,19 words 13:17
+Waxman 1:1641:7,17,24 understandtraditionally 32:17
+
+2:3,13 3:6,7,9 42:1,2,21 16:25 18:1034:8,13 50:1,2 work 29:18 50:2 
+4:5,9,21 5:8,12 43:10,12 44:2 29:18 30:14transaction 46:5 50:2
+6:10,17,2544:7 45:20 36:21 45:2446:6 worked 21:1
+7:11 8:19 9:8 46:11,24 47:1 understandingtransactions world 26:3
+9:12,19,2249:17 50:12 24:2242:9 44:8 29:23 30:8,8
+10:8,20 11:11 51:15 understoodtransform 21:4 wouldn't 9:4
+11:17,20,23thing 7:16 8:15 11:21treatment 48:22 13:6 44:10
+12:2 13:6,1116:18 18:23 unefficient 19:8trial 10:3 13:10 47:22
+14:3,15,2424:15 45:8 United 1:1,13,2221:23 22:17 wrong 6:25 7:1 
+15:14,21,23things 29:12 2:10 38:2023:2,6 28:14 11:21 33:16
+16:2,11,12,1452:7 unites 39:532:2,9,19 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+64 
+
+X 3 
+x 1:2,8 3 2:4 16:19 
+
+Y 
+300 37:25 
+38 2:10 
+
+year 38:1,6 
+years 43:7 4 
+
+Z 
+48 2:14 
+
+zero 4:4 5 
+
+$ 
+5 1:10 48:16 
+50 38:7 
+
+$9 38:3 
+9 
+
+1 9 31:15 
+1.1 31:14 93 38:2 
+10b-5 3:13 10:6 95 27:24 39:24 
+
+12:15 17:10 40:2 
+20:19 29:14 99 14:1 
+50:13 
+
+10b-5(b) 12:18 
+10:30 8:21 
+100 39:24 40:3 
+11-1085 1:4 3:4 
+11:06 1:14 3:2 
+12:06 53:9 
+188 38:7 
+1966 48:7 
+199 43:17 
+1995 34:19 38:1 
+
+2 
+200 31:14 
+2011 38:4,6 
+2012 1:10 
+23 2:7 12:22,23 
+
+24:6,16 29:10 
+38:25 45:16 
+47:2,4,18 
+49:15 52:13,25 
+
+23's 47:24 
+23(a) 16:15,15 
+
+25:14 29:2,6 
+23(b)(3) 38:12 
+
+48:8,11 
+24 43:7,24 
+242 20:12 
+25A 25:15 
+28 43:25 
+
+Alderson Reporting Company 
+
+

@@ -1,0 +1,9278 @@
+
+               
+
+         
+
+                        
+
+   
+
+                             
+
+               
+
+         
+
+                        
+
+      
+
+Official - Subject to Final Review 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 LORENZO L. JONES, : 
+
+4  Petitioner, : 
+
+5  v. : No. 05-7058 
+
+6 BARBARA BOCK, WARDEN, ET AL.; : 
+
+7 and : 
+
+8 TIMOTHY WILLIAMS, : 
+
+9  Petitioner, : 
+
+10  v. : No. 05-7142 
+
+11 WILLIAM S. OVERTON, ET AL. : 
+
+12 - - - - - - - - - - - - - - - - - x 
+
+13  Washington, D.C. 
+
+14  Monday, October 30, 2006 
+
+15 
+
+16  The above-entitled matter came on for oral 
+
+17 argument before the Supreme Court of the United 
+
+18 States at 11:06 a.m. 
+
+19 APPEARANCES: 
+
+20 JEAN-CLAUDE ANDRE, ESQ., Los Angeles, Cal.; on 
+
+21  behalf of the Petitioner. 
+
+22 LINDA M. OLIVIERI, ESQ., Assistant Attorney General, 
+
+23  Lansing, Mich; on behalf of the Respondents. 
+
+24 
+
+25 
+
+1 
+Alderson Reporting Company 
+
+
+
+                           
+
+                
+
+              
+
+               
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S
+
+
+ORAL ARGUMENT OF PAGE 
+
+JEAN-CLAUDE ANDRE, ESQ.
+
+ On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+LINDA M. OLIVIERI, ESQ.
+
+ On behalf of the Respondents 25 
+
+REBUTTAL ARGUMENT OF 
+
+JEAN-CLAUDE ANDRE, ESQ.
+
+ On behalf of the Petitioner 50 
+
+2
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (11:06 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+next in Jones versus Bock, and Williams versus Overton. 
+
+Mr. Andre.
+
+ ORAL ARGUMENT OF JEAN-CLAUDE ANDRE
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. ANDRE: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ In these three cases, each of the three 
+
+petitioners filed administrative grievances with the 
+
+Michigan Department of Corrections. The Michigan 
+
+Department of Corrections conducted investigations and 
+
+issued final decisions on the merits of petitioner's 
+
+grievances. Nevertheless, a year and a half later, each 
+
+of the petitioner's complaints was thrown out of federal 
+
+court without leave to amend because petitioners failed 
+
+to satisfy on of the Sixth Circuit's judge-made 
+
+corollaries to the PLRA's exhaustion requirement. None 
+
+of those three corollaries find any meaningful support 
+
+in the Federal Rules of Procedure, in fact they 
+
+contradict the federal rules. Nor do they find any 
+
+support in administrative law or habeas law, the two 
+
+areas of law to which this Court looks for guidance in 
+
+interpreting administrative litigation and format. 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Finally, the overwhelming majority of the circuits that 
+
+have considered these questions have rejected them all.
+
+ I'd like to begin with the heightened 
+
+pleading rule that the Sixth District applied here. The 
+
+Federal Rules of Civil Procedure require a plaintiff to 
+
+simply provide a short claim statement of the basis on 
+
+which his or her claim will lie. The Federal Rules of 
+
+Civil Procedure do enumerate certain kinds of 
+
+allegations that a plaintiff must plead with 
+
+specificity, those are enumerated in Federal Rule of 
+
+Civil Procedure 9(c), but exhaustion is not one of them. 
+
+Accordingly --
+
+JUSTICE KENNEDY: Suppose the district court 
+
+finds that in its experience, 80 percent of the claims 
+
+are ones that are unexhausted, just assume that. And 
+
+the district court said, the only way I can figure out 
+
+the good 20 percent from the 80 percent that are going 
+
+to ultimately be dismissed is to have a motion for a 
+
+more definite, an order for a more definite statement, 
+
+because I'll do it sua sponte under 12(e), I think. Can 
+
+the district court do that?
+
+ MR. GRANT: I think that would be correct, 
+
+and that would be consistent with the Court's habeas 
+
+jurisprudence.
+
+ JUSTICE KENNEDY: The court could ask for a 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+pleading which set forth the facts of exhaustion?
+
+ MR. ANDRE: I believe that's true.
+
+ JUSTICE KENNEDY: Then why isn't this --
+
+this is just the same if the court has said, you know, 
+
+in order to make our screening function efficient, we 
+
+just have to know about exhaustion.
+
+ MR. ANDRE: Well, first of all, when 
+
+Congress created the various screening provisions in the 
+
+PLRA, it noticeably omitted exhaustion. It clearly had 
+
+exhaustion in mind when it enacted the PLRA. The term 
+
+"exhaustion" appears in 42 U.S.C. 1997 --
+
+JUSTICE KENNEDY: How about, what, if you 
+
+concede the district court could do it in individual 
+
+cases or in most cases, why can't the Sixth Circuit do 
+
+it? That's my question.
+
+ MR. ANDRE: Well, what sets the Sixth 
+
+Circuit's rule apart from I think the hypothetical you 
+
+propose, and also from this Court's habeas jurisprudence 
+
+is that in both of those scenarios the plaintiff, the 
+
+prisoner, is given a chance to respond. In the Sixth 
+
+Circuit, if they don't they don't satisfy the heightened 
+
+pleading rule at the minute that they file their initial 
+
+complaint, they are out. There is no leave to amend, 
+
+and that's what happened in this case.
+
+ In Petitioner Jones' case, he filed the 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+complaint and he actually did allege that he exhausted 
+
+his administrative remedies. He said: I exhausted my 
+
+administrative remedies, I filed my step one grievance 
+
+on this date, I received a denial on that date, and he 
+
+went down the list through all three steps.
+
+ JUSTICE ALITO: The briefs point out that a 
+
+number of district courts have form complaints that are 
+
+often used in these cases and that these forms call on 
+
+the prisoner-plaintiff to address the issue of 
+
+exhaustion. Now, do you think there's something wrong 
+
+with those forms, and if a prisoner fills out the form 
+
+and reveals in filling it out that a claim was not 
+
+exhausted, is it improper for the district court at the 
+
+screening stage to dismiss the case?
+
+ MR. ANDRE: With respect to the form, I 
+
+don't think that the form is improper, but I think it 
+
+would be improper for a court to dismiss the prisoner's 
+
+case if the prisoner failed to fill out the section of 
+
+the form that asks him about exhaustion because 
+
+exhaustion is an affirmative defense in both 
+
+administrative law and habeas, and there's no indication 
+
+in this statute that Congress --
+
+JUSTICE ALITO: If it's an affirmative 
+
+defense, then why is it -- why is it proper for a 
+
+district court, for a district court, to have a form 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that calls on the plaintiff to negate the affirmative 
+
+defense?
+
+ MR. ANDRE: I think the district court can 
+
+ask the plaintiff pretty much whatever the district 
+
+court likes. But whether the district court could, 
+
+could dismiss a case for failure to comply, failure to 
+
+respond to that question, that's another matter.
+
+ CHIEF JUSTICE ROBERTS: Well, we know under 
+
+the statue they can dismiss a case because it's 
+
+frivolous, right?
+
+ MR. ANDRE: Absolutely.
+
+ CHIEF JUSTICE ROBERTS: Regardless of the 
+
+substance of the claim on the merits, if you know that 
+
+you've just ignored the exhaustion requirement isn't 
+
+that a frivolous claim?
+
+ MR. ANDRE: We would certainly concede that 
+
+if it is clear on the face of the complaint that a 
+
+prisoner has not exhausted his or her administrative 
+
+remedies then that claim can be dismissed. I guess the 
+
+way it would operate -- and I haven't seen a case like 
+
+this -- but it would be where a prisoner says, I didn't 
+
+exhaust my administrative remedies and I have no excuse 
+
+for failing to do so, but please, district court, please 
+
+take mercy on me. And in that situation the district 
+
+court could say, there's absolutely no way you can 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+possibly prevail on the merits, so your claim --
+
+JUSTICE BREYER: Probably the reason they do 
+
+this is that there are lots and lots of claims by 
+
+prisoners in Federal courts that are hard to decipher. 
+
+They don't know what it's about. They don't want to put 
+
+the defendant to the burden of coming in in every single 
+
+complaint when it's quite a good probability it's about 
+
+nothing. That's the kind of reasoning that would lead 
+
+to a rule like this. So -- and then you have the 
+
+statute and the statute says indeed there's a special 
+
+power here to dismiss if it's frivolous or it doesn't 
+
+state a claim or malicious.
+
+ So why isn't this just an exercise of the 
+
+Sixth Circuit's or a court's ordinary subsidiary 
+
+rulemaking powers? They're trying to figure out how to 
+
+manage their docket.
+
+ MR. ANDRE: The problem is that it conflicts 
+
+with Federal Rule of Civil Procedure Rule 8. And as 
+
+this Court this repeatedly said, including as recently 
+
+as last term in Hill v. McDonough, the Court will not 
+
+impose a heightened pleading requirement absent an 
+
+amendment to the Federal Rules of Civil Procedure.
+
+ JUSTICE BREYER: So your point would be that 
+
+they can do this if we amend the Federal Rules. If it's 
+
+a problem take it to the Rules Committee? 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. ANDRE: I think that's correct. I think 
+
+that's correct, but if it --
+
+JUSTICE SOUTER: If we amended the rules 
+
+that way, in effect it would no longer be an affirmative 
+
+defense. I mean, by definition an affirmative defense 
+
+gets raised by the defendant and so on, so if we amended 
+
+the Federal Rules in practical terms it would be like 
+
+adding an element to the claim.
+
+ MR. ANDRE: Right. Or if the Court were to 
+
+add PLRA exhaustion to the Rule 9(c).
+
+ CHIEF JUSTICE ROBERTS: But Rule 8 and the 
+
+normal rules weren't addressed to the unusual situation 
+
+under the PLRA where the district court has an 
+
+affirmative obligation screen on its own before the 
+
+defendant even gets involved. So if in fact, just to 
+
+follow on Justice Kennedy's hypothetical, 80 percent of 
+
+the cases have this exhaustion problem, why isn't this a 
+
+reasonable means of facilitating the screening 
+
+obligation?
+
+ MR. ANDRE: It may be a reasonable means, 
+
+but that doesn't necessarily mean that it's permissible, 
+
+because Congress had exhaustion in mind when it enacted 
+
+the PLRA and noticeably absent from all the PLRA 
+
+screening provisions is the term "exhaustion."
+
+ CHIEF JUSTICE ROBERTS: Well, but you just 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+told me earlier that if it was a case in which 
+
+exhaustion is required and not done that would be a 
+
+frivolous claim, and the statute does refer to frivolous 
+
+claims. So the district court or the Sixth Circuit has 
+
+just said, we know that in a large number of cases they 
+
+are going to be frivolous because they have ignored the 
+
+exhaustion requirement, and we just want to try to find 
+
+out which those cases are to fulfill the screening 
+
+obligation, which takes this out of the normal Rule 8 
+
+type of case.
+
+ MR. ANDRE: Right, I think I understand. I 
+
+think it goes back still to the fact that there's not a 
+
+clear Congressional expression to take these cases out 
+
+of the Federal Rules. In Califano v. Yamasaki we 
+
+believe is instructive on that point. In in that case 
+
+the Secretary of the Department of Health Education and 
+
+Welfare had argued that Section 205(g) of the Social 
+
+Security Act, which used the term "individual," somehow 
+
+took those, those judicial review procedures, out of the 
+
+operation of Federal Rule of Civil Procedure 23. This 
+
+Court said: No, we cannot read the word "individual" as 
+
+such a clear expression. It may have been Congress's 
+
+policy to have individual claims be addressed one by 
+
+one, but you have to find that clear expression in the 
+
+statute and that clear expression is not here. 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE ALITO: Well, what about 1997(e) and 
+
+(g), which prohibits, seems to prohibit a case from 
+
+getting beyond the complaint, not even to the answer 
+
+unless the district court finds that the plaintiff has a 
+
+reasonable opportunity to prevail on the merits. 
+
+Doesn't this clearly take this out of the normal 
+
+pleading procedures?
+
+ MR. ANDRE: I don't think so, Justice Alito. 
+
+We have exhaustively researched that language, the 
+
+reasonable opportunity to prevail on the merits 1997(g), 
+
+and the only courts that construe that language are 
+
+courts construing 1997(e) and (g), and they have 
+
+universally found that that provision simply summarizes 
+
+the other screening provisions' terms, so, frivolous, 
+
+malicious, fails to state a claim, or seeks -- from an 
+
+immune defendant. And we can't really think of what, 
+
+what else Congress would have had in mind because while 
+
+it's like the preliminary injunction standard it makes 
+
+no sense that Congress wanted a prisoner to satisfy a 
+
+preliminary injunction standard before requiring prison 
+
+officials to respond.
+
+ JUSTICE SOUTER: Would your answer be 
+
+different if amendment were allowed? I mean isn't the 
+
+problem in substance here, and I don't mean to dismiss 
+
+your arguments from the rules, but leaving the argument 
+
+11
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+from the text of the rules aside, it wouldn't be a real 
+
+problem here in substance if the circuit bar allowed 
+
+amendment, would it?
+
+ MR. ANDRE: I think if the circuit were to, 
+
+Sixth Circuit were to allow amendment it would certainly 
+
+mitigate the situation. It's our position that the 
+
+screening provisions can't overrule Federal Rule of 
+
+Procedure 15 either, but the problem we see with even 
+
+doing away with the no amendment rule, but keeping in 
+
+place the heightened pleading rule, is that we are 
+
+talking about prisoners. Prisoners who don't have a lot 
+
+of access to materials. They may have -- legal 
+
+materials. They may have great difficulty holding on to 
+
+their, their formally filed grievances.
+
+ JUSTICE GINSBURG: Mr. Andre, didn't you 
+
+have in one of that's cases that the exhaustion was 
+
+spelled out by the defendant, there was a complaint that 
+
+alleged exhaustion, generally but not in all detail. 
+
+Then the answer attached every piece of paper that came 
+
+up at all three levels of the grievance procedure, and 
+
+then the plaintiff said oh, that's a good idea, I'm 
+
+going to copy all those documents and make them my own. 
+
+And nonetheless, that case was dismissed for failure to 
+
+allege exhaustion in sufficient detail although the 
+
+record made it plain that there had been exhaustion. 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+The rule that you are opposing would operate that way. 
+
+If you don't allege exhaustion in detail, it doesn't 
+
+matter that the deficiency has been made up by the 
+
+answer. You go out. Wasn't that the decision in one of 
+
+these cases?
+
+ MR. GRANT: Yes. That was in Petitioner 
+
+Jones's case, and that -- Petitioner Jones's case is a 
+
+great example of how the heightened pleading rule and 
+
+the no amendment rule work together to result in a 
+
+prisoner being unable to cure any problem with his or 
+
+her initial complaint.
+
+ CHIEF JUSTICE ROBERTS: You talk about the 
+
+lack of statutory direction on the first two points but 
+
+there is a very explicit statute on the third question. 
+
+It says no action shall be brought until administrative 
+
+remedies are exhausted. And yet you say the action 
+
+should be allowed to be brought even if there are 
+
+unexhausted claims in the complaint.
+
+ MR. ANDRE: Well, I -- we concede that an 
+
+action that contains unexhausted claims or a mixed 
+
+action shouldn't have been brought in the first place, 
+
+but it's there. And the question then becomes what to 
+
+do about it. And the language no action shall be 
+
+brought; it's very common in administrative exhaustion 
+
+schemes, the Americans with Disabilities Act uses almost 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+identical language, the Immigration Nationality Act uses 
+
+very similar language, Title VII --
+
+CHIEF JUSTICE ROBERTS: This is a very 
+
+different statutory scheme. This is designed to address 
+
+the problem of an overwhelming number of frivolous 
+
+complaints that result in the fact that meritorious 
+
+complaints can be overlooked. We've got a haystack in a 
+
+needle problem here. And if you allow the action to 
+
+continue, that doesn't do anything to reduce the number 
+
+of filing of claims that as you say should not have been 
+
+brought.
+
+ MR. ANDRE: I guess I should be clear at the 
+
+outset that we are by no means advocating that a 
+
+prisoner can shoe horn in unexhausted claims with 
+
+exhausted claims. So the unexhausted claims must go.
+
+ CHIEF JUSTICE ROBERTS: Well right, but you 
+
+provide under your approach no incentive for the 
+
+prisoner to leave those claims out. Instead what, a 
+
+screening function turns into an editing function. The 
+
+district court is supposed to just excise out the 
+
+unexhausted ones but allow the exhausted ones to 
+
+continue.
+
+ MR. ANDRE: Well, it's been our experience 
+
+and from reading the case law it appears that prisoners 
+
+don't intentionally try to shoe horn in unexhausted 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+claims with their exhausted claims. It's typically 
+
+based on innocent mistake, a simple failure to 
+
+understand either the particular circuit within which 
+
+they are housed, a difficulty in understanding that 
+
+circuit's exhaustion law, difficulty in understanding 
+
+the prison grievance procedures that they attempted to 
+
+comply with, and perhaps even being further confused by 
+
+the fact that prison grievance administrators seem to 
+
+apply prison grievance regulations, I don't want to say 
+
+in an ad hoc manner, but inconsistently. And so when 
+
+they bring these complaints that are mixed they actually 
+
+are intending to bring a fully exhausted complaint but 
+
+then after a little built of judicial review, it becomes 
+
+clear that they didn't exhaust.
+
+ JUSTICE BREYER: Why does it hurt if you 
+
+dismiss the whole thing? They could just refile.
+
+ MR. ANDRE: Well, it hurts for a couple of 
+
+reasons. Well -- and -- it hurts under the Sixth 
+
+Circuit's rule because they did not allow prisoners to 
+
+amend. So --
+
+JUSTICE BREYER: No. No. What would happen 
+
+is you just dismiss the complaint.
+
+ So -- I guess again the reason they have 
+
+these things is they get a certain number of complaints, 
+
+they have no idea what it sys, to tell you the truth, 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+they don't know what the claim is, they don't understand 
+
+it, there are a lot of things written here; the person 
+
+wasn't represented; it's hard to make out. And for, the 
+
+judge thinks I have to go through all these papers; I 
+
+have to figure out if there is something here that was 
+
+exhausted, we know something happened; it was something 
+
+exhausted -- so the simplest thing is just dismiss it.
+
+ Now the prisoner can always refile it with 
+
+the parts that he has to now figure out were exhausted. 
+
+Now is -- and it doesn't hurt because, just refile it.
+
+ MR. ANDRE: It doesn't hurt if the --
+
+JUSTICE BREYER: Is that true? Or what 
+
+happens?
+
+ MR. ANDRE: Well, I guess there is two 
+
+different versions of the total exhaustion rule as it's 
+
+termed. There is the Eighth Circuit's rule with is with 
+
+leave to amend. So the complaint is dismissed, and 
+
+prisoner can file a new complaint without the 
+
+unexhausted claims.
+
+ Then there is the Sixth Circuit's rule, 
+
+which is the most draconian of all the versions. And 
+
+that says the entire action is dismissed, prisoner must 
+
+institute a new action.
+
+ JUSTICE STEVENS: Why is that draconian?
+
+ MR. ANDRE: It's draconian because by the 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+time the prisoner refiles his or her action there could 
+
+be a statute of limitations problem. The prisoner may 
+
+not be able to bring those claims any more. In fact the 
+
+Fifth Circuit in --
+
+JUSTICE STEVENS: Does he have to file a new 
+
+filing fee?
+
+ MR. ANDRE: Not in the Sixth Circuit 
+
+anymore, and not in the Fourth Circuit.
+
+ CHIEF JUSTICE ROBERTS: How many prisoners 
+
+pay the filing fee in the first place?
+
+ MR. ANDRE: I believe they all do. If they 
+
+qualify --
+
+CHIEF JUSTICE ROBERTS: They are not 
+
+entitled to IFP status?
+
+ MR. ANDRE: If they get IFP status, all that 
+
+means -- well, first of all, they only get to do that 
+
+three times. Or to have three actions dismissed before 
+
+they lose their IP status.
+
+ CHIEF JUSTICE ROBERTS: Is that a draconian 
+
+rule, do you think? You have to have three actions 
+
+dismissed before you have to pay the filing fee?
+
+ MR. ANDRE: No, no, no. I mean -- but 
+
+that's not really at issue in this case. But even if 
+
+they qualify for IFP status they still have to pay the 
+
+$350 filing fee. It's just taken out in installments. 
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+And so for a prisoner who makes $2.50 a day or $2.50 a 
+
+week it -- it is costly for them to --
+
+JUSTICE SCALIA: Well, I guess this is 
+
+probably not a question for you, but a question for your 
+
+friend on the other side. You can ask, why does it 
+
+hurt? You can also ask why does it help? What good 
+
+does it do to bounce the whole thing back when you're 
+
+just going to have them filed again?
+
+ MR. ANDRE: I think that's exactly right, 
+
+Justice Scalia.
+
+ JUSTICE BREYER: No, well, the reason it 
+
+would hurt is because it's difficult for the judge to go 
+
+though this complaint that he can't quite make sense out 
+
+of. And it puts the burden of the prisoner to go 
+
+through and figure out what he really wants to say. 
+
+That's why -- that's why it's easier for the judge just 
+
+to dismiss it than to go through many, what could be 
+
+many pages with a fine-toothed comb trying to figure out 
+
+if there is anything here that was exhausted.
+
+ CHIEF JUSTICE ROBERTS: And the other 
+
+incentive is if you adopt your rule, the incentive on 
+
+the prisoner is to put in every possible claim, even if 
+
+it is not exhausted because maybe it will get through, 
+
+maybe it won't. And if it doesn't get through, no harm. 
+
+He doesn't even have to pay another $50. 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. ANDRE: But I think at least, at least 
+
+under that scenario, the district court still only has 
+
+to take one look at the case and then it can move 
+
+forward, it deletes the unexhausted claims. So from a 
+
+judicial efficiency standpoint I think the Ortiz V. 
+
+McBride rule out of the Second Circuit, which is the 
+
+rule that we are advocating, is -- is the cleanest 
+
+approach. It takes the choice away from the prisoner; 
+
+it puts the choice with the district court, and it 
+
+allows the district court to delete off any unexhausted 
+
+claims. And in most instances --
+
+JUSTICE KENNEDY: Is there any argument that 
+
+if the state does not insist on exhaustion or plead 
+
+exhaustion, that it just drops out of the case? If the 
+
+state resolves the case on the merits even though there 
+
+is no exhaustion, can the Federal court hear it, that 
+
+there is general agreement about that?
+
+ MR. ANDRE: I think there is. The circuit 
+
+-- the four circuits that we know were unanimous that 
+
+PLRA exhaustion is not jurisdictional, and in Woodford 
+
+we know this Court confirmed that. And so to the extent 
+
+that the PLRA exhaustion is an affirmative defense, then 
+
+it would operate like other exhaustion schemes in 
+
+administrative -- administrative law, and habeas, where 
+
+it is waivable by the other side. 
+
+19
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE GINSBURG: If -- if we accept your 
+
+first two arguments, then if there is no heightened 
+
+pleading rule and you don't have to name the specific 
+
+defendants in the administrative grievance that you end 
+
+up naming in the complaint, if you prevail on both of 
+
+those, then isn't the third question, have you, what 
+
+happens when you haven't properly exhausted, is really 
+
+not alive anymore in this case, because you will have 
+
+properly exhausted. So why should the Court go on to 
+
+answer what would happen if you hadn't properly 
+
+exhausted?
+
+ MR. GRANT: Respectfully, Justice Ginsburg, 
+
+it's unfortunately more complicated than that. If the 
+
+first question in the Jones case, the ID pleading rule 
+
+question, is resolved in favor of Petitioner Jones, then 
+
+total exhaustion is a live issue. Because the Sixth 
+
+Circuit as an alternative holding justified the 
+
+dismissal of Jones's complaint on the total exhaustion 
+
+ground. And I guess on the other side if the Court were 
+
+to resolve the identifying the defendant's issue against 
+
+Petitioner --
+
+JUSTICE GINSBURG: But the Sixth Circuit 
+
+obviously would have been wrong; if he has totally 
+
+exhausted; they have, gave that as a no alternative 
+
+grounds, but if they are wrong on the first one and he 
+
+20
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+has exhausted. That's the end of it.
+
+ MR. GRANT: The Sixth Circuit -- and it's 
+
+not really clear from this opinion, because it's an 
+
+unpublished opinion, but the Sixth Circuit appears to 
+
+have adopted the magistrate judge's finding which is 
+
+based on respondent's motion to dismiss that Jones 
+
+substantively, for lack of a better word, didn't exhaust 
+
+all of his claims, so -- I'm sorry. I'm not being 
+
+clear.
+
+ JUSTICE GINSBURG: That was the case where 
+
+the, where the defendant estate, wasn't that the case 
+
+where they put in all the papers from the administrative 
+
+record?
+
+ MR. ANDRE: Yes. But they also argued that 
+
+Jones failed to exhaust his administrative remedies on 
+
+everything but his First Amendment retaliation claim. 
+
+Or what they termed his negative work --
+
+JUSTICE GINSBURG: Yes, but they were wrong 
+
+about that. If, if there was exhaustion in the case, 
+
+and if there is no rule that you must name everything 
+
+the defendant that you end up suing, if those two are 
+
+established, again wouldn't we be dealing with a moot 
+
+question? Moot in this case?
+
+ MR. ANDRE: I don't think so, Justice 
+
+Ginsburg. I think in order for the total exhaustion 
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+issue to be moot, the heightened pleading requirement 
+
+would have to be resolved against Petitioner Jones, and 
+
+the naming the defendants issue would have to be 
+
+resolved in favor of Williams and Walton. I charted out 
+
+on a matrix and verified it a couple of times.
+
+ Turning to the naming issue if I could, 
+
+since we haven't addressed that, the Prison Litigation 
+
+Reform Act simply sets a floor of how much specificity a 
+
+prisoner must provide in his or her grievance. It does 
+
+not require what the Sixth Circuit held here which is 
+
+that as a matter of Federal statutory law a prisoner 
+
+must have identified every individual who he or she 
+
+later sues in Federal court. This is a kind of endemic, 
+
+or flows logically from the Court's decision in Woodford 
+
+V. Ngo. Woodford v. Ngo says that prisoners must comply 
+
+with grievance procedures.
+
+ JUSTICE SCALIA: You would have no problem, 
+
+I assume, if the state simply requires that you name the 
+
+individuals?
+
+ MR. ANDRE: I guess broadly speaking no; in 
+
+certain cases yes.
+
+ JUSTICE SCALIA: To the extent possible, I 
+
+suppose.
+
+ MR. ANDRE: Right. Exactly. If -- in 
+
+Michigan they have a --
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: Then, then there would not 
+
+be exhaustion unless he had named the individuals.
+
+ MR. ANDRE: I believe that's correct. I 
+
+mean, although I guess --
+
+JUSTICE SCALIA: So we may not be, may not 
+
+be litigating about a whole lot here.
+
+ MR. ANDRE: No, right. I think really the 
+
+question is an X or not X question. It's does the PLRA 
+
+as a matter of statutory law required individuals to be 
+
+named in the underlying grievances, and the PLRA is 
+
+entirely silent on that question, and this Court's 
+
+decision in Sims v. Apfel lends further lends further 
+
+support to the proposition that a Federal court cannot 
+
+go beyond what the particular administrative agency's 
+
+rules require. I realize that was a plurality decision 
+
+but I think the petitioners win under either the 
+
+plurality opinion or under Justice O'Connor's 
+
+concurrence. And so yes, Justice Scalia we agree with 
+
+you that it's simply an X or Y question that down the 
+
+road perhaps the Court could address the scenario where 
+
+a prison system amends its rules to require individual 
+
+defendants to be named and then perhaps a prisoner can't 
+
+comply with that based on the short previous filing 
+
+deadlines, and then there is a question of whether the 
+
+administrative remedies were actually ever available to 
+
+23
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that particular prisoner.
+
+ JUSTICE GINSBURG: And you have in one of 
+
+these cases, the person has said: I didn't know who was 
+
+the person who said I couldn't have the operation until 
+
+the prison identified him.
+
+ MR. ANDRE: That's correct. I believe 
+
+you're referring to either the Williams or the Walker --
+
+JUSTICE GINSBURG: Yes. So even if you had 
+
+a rule, a reasonable rule, that named the people that 
+
+you know, if you have it, that would not encompass 
+
+someone? In two of these cases, the defendants -- the 
+
+plaintiff, the prisoner, said, I didn't know who those 
+
+guys were until they were identified.
+
+ MR. ANDRE: Right. And to that extent the 
+
+prison grievance system worked, because the prisoners 
+
+provided as much detail as they possibly could and then 
+
+the prison grievance system went out, conducted its 
+
+investigation, broadened the universe of relevant facts, 
+
+and then made a determination. They happened to 
+
+determine that grievances were not meritorious. 
+
+Obviously, petitioners disagree with that assessment. 
+
+That's why they sued in Federal court.
+
+ But the prison grievance system worked. To 
+
+borrow from the Third Circuit's decision in Spur v. 
+
+Gillis, a cooperative ethos between inmate and jailer 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+was achieved, because so long as the prisoner provides 
+
+sufficient information for the grievance system to go 
+
+out and answer any unresolved questions and so long as 
+
+the prison grievance system avails itself of that 
+
+opportunity then the claim is exhausted.
+
+ If there are no further questions, I'd like 
+
+to save the rest of my time for rebuttal.
+
+ CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. Andre.
+
+ Ms. Olivieri.
+
+ ORAL ARGUMENT OF LINDA M. OLIVIERI
+
+ ON BEHALF OF RESPONDENTS
+
+ MS. OLIVIERI: Mr. Chief Justice and may it 
+
+please the Court:
+
+ Congress enacted the Prison Litigation 
+
+Reform Act to deal with the flood of prisoner litigation 
+
+that was coming into the Federal courts, obscuring the 
+
+treatment for meritorious claims brought by all 
+
+litigants. The purpose of the act was to unburden the 
+
+courts from dealing with this flood of litigation that 
+
+largely was without merit. The purposes for the act 
+
+were to increase the quality of the litigation, decrease 
+
+the quantity of the litigation, allow the states to 
+
+address first the issues that the prisoners have 
+
+problems with and to develop an administrative record to 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+facilitate judicial screening. And all of this would 
+
+result in increased judicial resources for all 
+
+litigation that has potential merit.
+
+ The invigorated exhaustion requirement does 
+
+require total exhaustion. The statute, the words of the 
+
+statute itself confirm this. The statute states: "No 
+
+action shall be brought until" --
+
+JUSTICE STEVENS: May I ask you, what is a 
+
+typical administrative record that is developed in these 
+
+proceedings? There's never a transcript, is there?
+
+ MS. OLIVIERI: I've never seen a transcript. 
+
+Typically it's one sheet of paper. The inmate states 
+
+what the problem is, states what he did to try to 
+
+resolve the problem before filing a grievance. And then 
+
+there's space at the bottom for response. Frequently 
+
+the response is right on that page. Sometimes the 
+
+response indicates "See attached." If there's a 
+
+lengthier response there may be a separate page.
+
+ Similarly, if the prisoner can't put all of 
+
+his --
+
+JUSTICE STEVENS: Is there normally a 
+
+statement of reasons for the denial of relief or are 
+
+they just denied in many cases?
+
+ MS. OLIVIERI: For the most part they 
+
+attempt to address the issue. 
+
+26 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE STEVENS: Are the opinions a page or 
+
+two or just a sentence or two? What is typical?
+
+ MS. OLIVIERI: Typically they are --
+
+JUSTICE STEVENS: I'm just wondering how, 
+
+how much help that will give the judge later on in 
+
+processing the case.
+
+ MS. OLIVIERI: In the last 12 months there 
+
+have been 13,000 grievances processed by the Michigan 
+
+Department of Corrections at the third step, and that's 
+
+for people who appeal all the way through to the third 
+
+step. So there are many more than that before that. 
+
+Some of the responses can be very detailed. They can go 
+
+on for a full page typewritten single spaced. Some of 
+
+the responses --
+
+JUSTICE STEVENS: How many of the 13,000 are 
+
+of that variety?
+
+ MS. OLIVIERI: I haven't read all 13,000, 
+
+but typically the response would be about a half a dozen 
+
+lines.
+
+ JUSTICE STEVENS: I see. And the other 
+
+question: Of the 13,000 grievances, how many did result 
+
+in litigation?
+
+ MS. OLIVIERI: Last -- in the last year that 
+
+ended June 30th, 12 months, we had approximately 200 
+
+cases. 
+
+27
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE STEVENS: 200 out of 13,000?
+
+ MS. OLIVIERI: Correct. In the previous 
+
+years we had somewhat fewer, so it's sort of going up. 
+
+But you know, it's between 160, 180, 200. This year 
+
+we're on that same pace, approximately 200.
+
+ JUSTICE STEVENS: Can you explain what the 
+
+disincentive or other reasons for there being just 200 
+
+lawsuits out of the 13,000?
+
+ MS. OLIVIERI: These 200 are ones that we 
+
+were served with. That doesn't include the ones that 
+
+may have been screened out by the courts and we were 
+
+never served with them.
+
+ JUSTICE STEVENS: I see.
+
+ MS. OLIVIERI: This only includes ones where 
+
+a defendant was actually served with process.
+
+ JUSTICE BREYER: Basically, I mean you've 
+
+heard the question and so forth. It seems to me that my 
+
+questions and certainly others were based on certain 
+
+empirical premises that might be true, might not be 
+
+true. So why isn't this a question for the Rules 
+
+Committee? Why not go to the Rules Committee if this 
+
+really is a burden and so forth, rather than doing 
+
+something unusual, which is to make exhaustion something 
+
+other than an affirmative defense, to dismiss the whole 
+
+complaint, which appear to be rules that reached 
+
+28
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+draconian results in a few cases anyway.
+
+ MS. OLIVIERI: When it's a dismissal without 
+
+prejudice, it's improper to characterize it as 
+
+draconian.
+
+ JUSTICE BREYER: It could be, because the 
+
+statute of limitations could have run. So it depends. 
+
+Sometimes it is, sometimes it isn't. But my basic 
+
+question here, isn't this a matter for the Rules 
+
+Committees rather than for the Sixth Circuit to go off 
+
+on its own?
+
+ MS. OLIVIERI: This Court in Neitzke versus 
+
+Williams took a look at the previous version of the in 
+
+forma pauperis statute and that statute allowed sua 
+
+sponte dismissals for only two reasons, frivolous and 
+
+malicious cases. Under that, in that opinion, the Court 
+
+indicated that when it's a sua sponte review for those 
+
+two issues you don't get the benefit of the adversary 
+
+process that's embodied in the Federal Rules of Civil 
+
+Procedure. Congress, recognizing that even in Neitzke 
+
+the Court indicated that the Federal courts were being 
+
+flooded with prison litigation, much of it meritless, 
+
+expanded the categories that are now subject to sua 
+
+sponte dismissal, and those include suing someone who is 
+
+immune from liability or failing to state a claim.
+
+ JUSTICE GINSBURG: But that doesn't include 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+failure to exhaust.
+
+ MS. OLIVIERI: It didn't specifically 
+
+include failure to exhaust.
+
+ JUSTICE GINSBURG: And if you follow the 
+
+normal rule, that that's an affirmative defense, then, 
+
+then the burden would be on the prison to do just what 
+
+it did in the Jones case. Why, why would we say, depart 
+
+from the normal rule that makes exhaustion an 
+
+affirmative defense when we know that the party best 
+
+equipped to provide the information about exhaustion is 
+
+the prison, as the Jones case showed so well? They, the 
+
+prison, had all of the grievances. They had all of the 
+
+responses and they presented that to the court. So the 
+
+prisoner is less well equipped to attach those papers 
+
+than the prison is, so why isn't it not only traditional 
+
+to have exhaustion as an affirmative defense, but makes 
+
+the most sense because the one most likely to have the 
+
+information is the prison?
+
+ MS. OLIVIERI: Congress dealt with that in 
+
+1997e(g), the waiver of reply provision, which confirmed 
+
+what the 1997e(c) dismissal provision provides. This is 
+
+all a screening situation for the Federal district 
+
+courts, designed to move these cases that have been 
+
+proven largely meritless quickly through the system 
+
+rather than bogging the courts down --
+
+30 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE GINSBURG: If Congress meant to 
+
+reverse the ordinary burden on pleading exhaustion, why 
+
+didn't it put that in? It was expanding the categories 
+
+and it included failure to state a claim, which had not 
+
+been there before, and it included if you sue somebody 
+
+who has got immunity. But it didn't include exhaustion, 
+
+so why should we read that in?
+
+ MS. OLIVIERI: Well, exhaustion is the very 
+
+first provision and it's --
+
+JUSTICE GINSBURG: It's not in the 
+
+screening. It doesn't say you screen out for failure to 
+
+exhaust.
+
+ MS. OLIVIERI: It's not specifically there, 
+
+but the exhaustion provision is a precursor. It's a 
+
+precondition. You can't even get into court until 
+
+you've exhausted because it says no action shall be 
+
+brought.
+
+ JUSTICE GINSBURG: But there are other 
+
+provisions than "no action shall be brought." Take a 
+
+statute of limitations that reads "No action shall be 
+
+brought after two years" or something like that. There 
+
+is no action shall be brought. Does that make it no 
+
+longer an affirmative defense?
+
+ MS. OLIVIERI: The courts have interpreted 
+
+statutes of limitations consistently to be in the 
+
+31
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+category of an affirmative defense. The problem with 
+
+that is this statute, the PLRA, is the new regime for 
+
+prison litigation, not for all the litigation across the 
+
+board. And in the waiver of reply, the Congress 
+
+specifically took the defendant out of the equation, 
+
+requiring the court to determine whether or not the case 
+
+has been exhausted, whether or not the plaintiff has 
+
+failed to state a claim and the other criteria that are 
+
+all in that --
+
+JUSTICE GINSBURG: Well, all the criteria 
+
+are there, but failure to exhaust is not.
+
+ MS. OLIVIERI: Not specifically, but failure 
+
+to exhaust could be construed as a --
+
+JUSTICE GINSBURG: But last time -- and you 
+
+said before the statute was there were only frivolous 
+
+and malicious. And the court says, we can see from the 
+
+face of this complaint that it fails to state a claim, 
+
+too bad it's not a ground for automatic dismissal. So 
+
+Congress said, yes, it should be, and put that one in.
+
+ MS. OLIVIERI: Congress put the screening 
+
+provision as number one, where you cannot even bring a 
+
+case to court unless you have exhausted administrative 
+
+remedies. So it's unimaginable that that would not be a 
+
+ground for sua sponte dismissal when you can't even 
+
+bring your case until you've exhausted. 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: Miss Olivieri, you also 
+
+rely on the "no action shall be brought" language to 
+
+justify dismissal of the entire action, all claims, even 
+
+though only some of them have not been exhausted. Do 
+
+you have any, even a single example of the many other 
+
+instances where that language is used in the Federal 
+
+statutes? And there are many of them. Do you know any 
+
+other case where it's been interpreted that way, so that 
+
+claims that are perfectly valid will not be retained, 
+
+but rather the whole action will be dismissed?
+
+ MS. OLIVIERI: Habeas corpus is another 
+
+situation where there is a provision that says no relief 
+
+shall be granted, no writ shall be granted, absent 
+
+exhaustion of -- exhaustion of state court remedies. 
+
+There in the habeas situation, it is a little bit 
+
+different than in the PLRA -- pardon me -- because there 
+
+is a stay in abeyance provision in habeas --
+
+JUSTICE SCALIA: Right.
+
+ MS. OLIVIERI: -- which was in the statute 
+
+before Congress passed the PLRA, and Congress actually 
+
+took out the stay in abeyance provision.
+
+ It all serves the purpose that Congress 
+
+intended, which was to allow the courts to quickly 
+
+screen these cases. If you look at e(a)(C)(1) --
+
+(C)(2), they give the court many options for doing what 
+
+33
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+is most judicially prudent in that particular case to 
+
+preserve resources.
+
+ JUSTICE SCALIA: What is the basis in the 
+
+habeas context for dismissing the entire habeas 
+
+application despite the fact that some of the claims 
+
+have been exhausted? Is there any statutory basis for 
+
+that or is it just, just judicial efficiency?
+
+ MS. OLIVIERI: There is -- I believe it's 
+
+under the exhaustion requirement. The court has the 
+
+option of dismissing the entire action -- actually, I 
+
+believe there the petitioner gets the option, do they 
+
+want to proceed on the exhausted claims or do they want 
+
+to drop out the unexhausted claims.
+
+ JUSTICE GINSBURG: And that's not -- the 
+
+statute doesn't settle that. Our decisions settle that, 
+
+right? So why should we deal with that, the two, any 
+
+differently? It's not as though Congress wrote the 
+
+statute differently. We said you can't proceed with 
+
+unexhausted claims, so you have a choice. Either you go 
+
+out of the Federal court and exhaust everything -- or 
+
+even you don't have to go out; you could use the stay in 
+
+abeyance -- or you just lob off the unexhausted claims, 
+
+stay in the Federal court on the ones that you have 
+
+exhausted.
+
+ That's all made up by this Court. So why 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+should the Court react differently in the PLRA than it 
+
+did? Why should it fill those gaps differently than it 
+
+did in habeas?
+
+ MS. OLIVIERI: I think because Congress did 
+
+revoke the stay in abeyance provision in the PLRA.
+
+ JUSTICE SCALIA: But your answer was it 
+
+shouldn't, I think. I think she's making your argument 
+
+for you.
+
+ MS. OLIVIERI: Pardon me?
+
+ JUSTICE SCALIA: I think she is saying that 
+
+we should treat this area the same way we treat habeas, 
+
+so that the whole case should be dismissed rather than 
+
+just the individual claims, which is what I think you 
+
+want; isn't it?
+
+ MS. OLIVIERI: Yes, that is my argument, 
+
+yes.
+
+ JUSTICE SCALIA: Okay. Well, don't fight 
+
+it.
+
+ MS. OLIVIERI: Okay. I was suggesting that 
+
+in habeas it is the prisoner's option to say --
+
+JUSTICE GINSBURG: I was suggesting that in 
+
+habeas it is the prisoner's option to say I don't want 
+
+the whole case dismissed. I will amend my petition so 
+
+that the court will have, will retain the exhausted 
+
+claims. You are saying not like habeas, I don't want it 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to be like habeas, because if it were like habeas, the 
+
+prisoner would have the option to stay in the federal 
+
+court as long as he lopped off the unexhausted claims. 
+
+You don't want it. You don't want it to be like habeas?
+
+ MS. OLIVIERI: I don't want the prisoner to 
+
+be allowed to choose to lop off the unexhausted claims, 
+
+that is true, or to amend, to delete them, because then 
+
+there is absolutely no incentive for the prisoner to 
+
+improve the quality of the litigation by stopping and 
+
+thinking, being careful to exhaust all his claims, and 
+
+being careful to plead only claims that are exhaustive.
+
+ JUSTICE SCALIA: The same arguments apply in 
+
+habeas, don't they?
+
+ MS. OLIVIERI: But in habeas you have the 
+
+stay and abeyance provision that was specifically 
+
+removed --
+
+JUSTICE SCALIA: Not if you had your way.
+
+ MS. OLIVIERI: Remove -- well --
+
+JUSTICE SCALIA: I think you're making an 
+
+argument that it would preclude that too.
+
+ MS. OLIVIERI: Right.
+
+ JUSTICE SCALIA: So it seems to me that if 
+
+we accept your response to Justice Ginsburg, we've got 
+
+to go back and to the extent that we can do anything 
+
+about it, we'd better toughen up habeas so that these 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+things get thrown out more readily.
+
+ MS. OLIVIERI: Habeas does deal with a 
+
+person's liberty whereas the PLRA is simply dealing with 
+
+people basically for the most part trying to get some 
+
+sort of relief, either injunctive or monetary relief, 
+
+that does not deal with their basic freedom. So in that 
+
+respect --
+
+CHIEF JUSTICE ROBERTS: One reason to 
+
+require total exhaustion is because, I would assume the 
+
+prisoner may get sufficient relief if the claims are 
+
+exhausted, that he doesn't feel the need to go forward 
+
+with litigation. But I guess that's only true if the 
+
+exhausted claims are still alive, and how many, when 
+
+we're talking about unexhausted claims, are those 
+
+typically claims that are not going to be available or 
+
+are they claims that may generate relief once there is 
+
+exhaustion?
+
+ MS. OLIVIERI: It could be -- I mean, it's 
+
+obviously both. I mean, there are claims that are 
+
+partially exhausted when the inmate files the lawsuit. 
+
+He may finish exhausting and get the relief that he's 
+
+looking for without ever pursuing the case in federal 
+
+court.
+
+ JUSTICE SCALIA: And then sometimes it's 
+
+impossible to complete the exhaustion. I assume in some 
+
+37 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+cases that the time limit for the last appeal will have 
+
+expired, right?
+
+ MS. OLIVIERI: That can also be the case, 
+
+and under Woodford versus Ngo, now that they have to do 
+
+proper exhaustion, there will be more of those cases 
+
+where it probably, there wouldn't be anything left to do 
+
+after it's dismissed except for the plaintiff to be the 
+
+one to go through the maybe 20 claimed complaints and 
+
+call out the claims that are not exhausted, rather than 
+
+putting that burden on the court, which is contrary to 
+
+Congress's purpose, to streamline this system.
+
+ JUSTICE STEVENS: May I ask you about, 
+
+there's another question you haven't really touched on 
+
+yet, the requirement that the prisoner name every 
+
+defendant that he intends to sue in the exhausting, in 
+
+the internal procedure. I'd just like a little help on 
+
+just exactly what happens. The prisoner doesn't get the 
+
+kind of medical care he thinks he's entitled to, and he 
+
+only knows it because either the low level person says 
+
+no, the doctors said you can't have it. And he brings a 
+
+proceeding, an informal administrative proceeding, and 
+
+they deny relief. And then later on when he wants to 
+
+sue, his lawyer happens to find out the name of the 
+
+doctor who was involved, and there are several levels of 
+
+authority making the decision. Does he have to start 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+all over again to name those people, or what does he do?
+
+ MS. OLIVIERI: Medical care is -- well, for 
+
+one thing, prisoners do have counselors, and so if 
+
+they're not sure who is responsible for something, 
+
+that's one of the things that they're supposed to do is 
+
+talk to their counselor to find out. You know, I'm 
+
+having this problem, I'm not getting surgery, why am I 
+
+not getting surgery, who do I talk to, who do I complain 
+
+to. So that's one way to resolve the problem.
+
+ JUSTICE STEVENS: And what if he does talk 
+
+to the prison guard and the guard says I don't know, I 
+
+don't know who's responsible for that decision, that's 
+
+in the warden's office, or something like that. What 
+
+is the prisoner supposed to do?
+
+ MS. OLIVIERI: If the prisoner makes inquiry 
+
+and just simply can't find out who it is, then he should 
+
+state that in his grievance and indicate that somebody 
+
+in the medical department is denying me the surgery. 
+
+You know, I talked to Dr. So and So, he's recommended 
+
+that I get it, somebody is saying no, I haven't been 
+
+able to find out who that is. And likely during the 
+
+grievance process, he will find out who it is, because 
+
+one of the responses will probably say that.
+
+ JUSTICE STEVENS: What if he doesn't? One 
+
+of his grievances is nobody told me. Is he out of luck 
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+there? And I think there may well be situations in 
+
+which prisoners don't have complete access to all the 
+
+facts that go into a decision denying them medical care, 
+
+for example, or say a prisoner has a religious problem 
+
+and can't get the diet he wants, or something like that. 
+
+But before he can sue, under your view if I understand 
+
+it, he has to find out so he can name the people in his 
+
+administrative complaint.
+
+ MS. OLIVIERI: He has to make a good faith 
+
+attempt to find out. And if he really, you know, if he 
+
+says I've asked my counselor, he is not able to provide 
+
+me with that information, then he will get a response on 
+
+the grievance.
+
+ JUSTICE GINSBURG: What is the purpose of 
+
+that requirement? As long as he has made known in the 
+
+administrative proceeding what his problem it, and they 
+
+have had a chance to investigate it and determine 
+
+whether it has merit or not, why should he have to name 
+
+the individuals who made the decision in order, before 
+
+he can sue them when he later finds out who they are?
+
+ MS. OLIVIERI: That goes back to 1997e(g), 
+
+the waiver of reply, where it says that no defendant can 
+
+be made to respond to the complaint unless the court can 
+
+certify that the prisoner has a reasonable opportunity 
+
+to prevail on the merits. It talks about defendants 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+there. Also, you get a case like Mr. --
+
+JUSTICE KENNEDY: Well, no, it's standard 
+
+law of agency. It doesn't make any difference. The 
+
+prisoner is denied his rights. As Justice Stevens said, 
+
+there may be three or four different people who 
+
+concurred. Do your rules say that if he can't find out 
+
+with reasonable efforts that he doesn't need to, or does 
+
+the Sixth Circuit rules say that the delegation of the 
+
+names is not required?
+
+ MS. OLIVIERI: The Sixth Circuit rule 
+
+basically says name or identify. And for instance, here 
+
+with respect to Mr. Jones, he didn't name the 
+
+classification director. He used the title. Nobody had 
+
+anything negative to say about that. We know you're 
+
+talking about the classification director. It's 
+
+Mr. Morrison. We've only got one, not a problem. The 
+
+Sixth Circuit rule is basically name or identify, so if 
+
+you're going to identify --
+
+JUSTICE SOUTER: Why is it that the Sixth 
+
+Circuit rule requires the identification, for complete 
+
+exhaustion requires the identification to be made at the 
+
+first stage?
+
+ MS. OLIVIERI: The Sixth Circuit rule does 
+
+require that.
+
+ JUSTICE SOUTER: So to make sure I 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+understand this, in a case, let's say at stage one he 
+
+names Dr. X. And for whatever reason in the course of 
+
+the response perhaps, he learned that not only was Dr. X 
+
+involved but Dr. Y was involved in that decision. So if 
+
+he is denied relief at stage two, he says X and Y, and 
+
+he identifies X and why all the way through. He gets 
+
+nothing satisfactory to him, so he goes in to Federal 
+
+court. Is it correct that under the Sixth Circuit rule 
+
+they would say you have not completely exhausted because 
+
+at stage one you did not mention Y? Is that correct?
+
+ MS. OLIVIERI: The Sixth Circuit probably 
+
+would say that that he would be out of luck with respect 
+
+to Y.
+
+ JUSTICE SOUTER: What justification is there 
+
+for that? I mean, for two stages through the prison 
+
+administrative process, Y has been identified. The 
+
+prison has taken action on the merits on the assumption 
+
+that Y is in fact at least an allegedly responsible 
+
+party. What reason is there in a Federal court to say 
+
+that the exhaustion is incomplete because he didn't 
+
+mention Y back at stage one?
+
+ MS. OLIVIERI: The Sixth Circuit adopted 
+
+that rule probably in a case like the Walton case here, 
+
+where Mr. Walton had a problem with his slot restriction 
+
+and said, you know, Deputy Warden Bobo put this 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+restriction on me. It goes through the grievance 
+
+process and they say Bobo didn't put that on you, Gearin 
+
+put it on you. That's at step one. They give that 
+
+response. He goes then into court after exhausting two 
+
+or three steps, still saying, you know, they're 
+
+discriminating against me based on race with the slot 
+
+restrictions.
+
+ JUSTICE SOUTER: Yeah, but that wasn't my 
+
+hypo. As I understand it, in that case he keeps going 
+
+after Bobo, period. And in my case at stage two, having 
+
+learned something, he identifies Y. And I -- so I don't 
+
+see the justification, what is the justification?
+
+ MS. OLIVIERI: I think I was probably giving 
+
+too much explanation, but I think from my understanding 
+
+of how this should operate, he is all right in that case 
+
+to sue Mr. Gearin, who actually did put the slot 
+
+restriction on him, and he had the wrong name at step 
+
+one. No problem. We got the right name at step two or, 
+
+excuse me, at the end of step one. And he pursues it? 
+
+I think he's got a good claim against Mr. Gearin. The 
+
+Sixth Circuit may not think that's true.
+
+ JUSTICE SOUTER: In my case, you said you 
+
+understood that the Sixth Circuit would say that 
+
+although he identified X and Y in stage two and at stage 
+
+three, and there had been merit for adjudication at 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+those stages, understanding who the named respondents 
+
+were, the Sixth Circuit would nonetheless say you had 
+
+failed to exhaust because back at stage A you mentioned 
+
+X but not Y.  What is the justification, if that is 
+
+still your answer, what could the justification for that 
+
+be?
+
+ MS. OLIVIERI: I don't think the Sixth 
+
+Circuit had that type of case in front of them when they 
+
+issued --
+
+JUSTICE SOUTER: But that apparently, if I 
+
+understand your answer, is what the result would be. 
+
+And is there -- and I don't want to, you know, make it 
+
+hard for you. I think you're having a hard time finding 
+
+a justification for that result and I certainly can't 
+
+find one. Can you think of any?
+
+ MS. OLIVIERI: I'm saying there is none. 
+
+I'm saying he's got a good claim against Mr. Gearin.
+
+ JUSTICE SOUTER: Well, how about Y in my 
+
+example?
+
+ MS. OLIVIERI: Pardon me?
+
+ JUSTICE SOUTER: Does he have a good claim 
+
+against Y?
+
+ MS. OLIVIERI: Y?
+
+ JUSTICE SOUTER: In the Federal court in my 
+
+hypo --
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MS. OLIVIERI: Okay. He named X, and now -
+-
+
+JUSTICE BREYER: I think Y is Mr. Gearin.
+
+
+ MS. OLIVIERI: Y is Mr. Gearin, yes.
+
+
+ JUSTICE SOUTER: Okay.
+
+
+ MS. OLIVIERI: So he's got a claim against
+
+
+Y.
+
+ JUSTICE SOUTER: Even though the Sixth 
+
+Circuit would throw it out for failure to exhaust.
+
+ MS. OLIVIERI: I disagree with the Sixth 
+
+Circuit on that, but I don't disagree with the Sixth 
+
+Circuit in that when he actually got to court, he sued 
+
+four other people who were never mentioned in any 
+
+grievance by anybody.
+
+ JUSTICE GINSBURG: How about Jones, who 
+
+really did not know who was the doctor who said no 
+
+surgery? He didn't know and then the prison told him. 
+
+And he comes to the court, he says thanks, prison, for 
+
+telling me, and so he names that person in his 
+
+complaint. The Sixth Circuit said that's no good, he 
+
+didn't put it in his initial complaint. He had only 15 
+
+days to find out and he didn't find out.
+
+ MS. OLIVIERI: I'm agreeing with you that 
+
+the Sixth Circuit, both that the Sixth Circuit would say 
+
+that that won't fly, and that in fact it should fly.
+
+ JUSTICE GINSBURG: So Jones did properly 
+
+45
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+exhaust, then, if you just made that confession, then 
+
+Jones properly exhausted?
+
+ MS. OLIVIERI: Jones properly exhausted 
+
+against the doctor who actually denied the medical 
+
+treatment, denied the surgery. Yes. But Jones never 
+
+served, unfortunately, that particular doctor, 
+
+Dr. Cranstall.
+
+ CHIEF JUSTICE ROBERTS: Counsel, you've 
+
+mentioned in your brief that there has been a change in 
+
+the Michigan grievance policy with respect to naming 
+
+individuals. What is the consequence of that change for 
+
+our ability to address that claim?
+
+ MS. OLIVIERI: It will, it will be the same 
+
+basic philosophy that I've been stating here. I mean, 
+
+it's going to be a name or identify. Tell us who you've 
+
+got a problem with. Don't tell us you have a problem 
+
+with one person and then go into court and sue six other 
+
+people who may be the people who actually responded to 
+
+the grievance, because MDOC didn't know that you had a 
+
+problem with this person.
+
+ CHIEF JUSTICE ROBERTS: I thought one of the 
+
+objections to the Sixth Circuit rule from your friend 
+
+was that this requirement of naming the individuals came 
+
+out of thin air. And now we have that requirement 
+
+articulated in the grievance policy. Does that make a 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+difference?
+
+ MS. OLIVIERI: It does make a difference in 
+
+proper exhaustion.
+
+ JUSTICE GINSBURG: It's not an absolute 
+
+policy, though. It isn't that if you haven't named him 
+
+in the first administrative step, you can't name him in 
+
+the complaint. That's not Michigan's new policy.
+
+ MS. OLIVIERI: Michigan doesn't say you have 
+
+to name him at the first step. It says when you file 
+
+your grievance, you know, name --
+
+JUSTICE GINSBURG: Isn't there an exception 
+
+when you couldn't find out?
+
+ MS. OLIVIERI: And if they say they can't 
+
+find out, and they've made reasonable inquiry, you know, 
+
+there's somebody at the top of the chain of the medical, 
+
+that's understandable that they may not know, because 
+
+they may have never seen Dr. Pramstaller.
+
+ CHIEF JUSTICE ROBERTS: Did the Sixth 
+
+Circuit have the current Michigan policy before them 
+
+when they made their decision?
+
+ MS. OLIVIERI: Not on these three cases, no. 
+
+It was the previous policy which indicated that the 
+
+inmate had to be as specific, basically be as specific 
+
+as possible, something along those lines.
+
+ JUSTICE SOUTER: I take it from your answer 
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to Justice Ginsburg that back in my Dr. X, Dr. Y case, 
+
+under the new policy if they got to stage 2 and Y was 
+
+identified, that Michigan would process the complaint?
+
+ MS. OLIVIERI: We would process the 
+
+grievance, absolutely.
+
+ JUSTICE SOUTER: The grievance.
+
+ MS. OLIVIER: Yes. Yes. Finally, I would 
+
+ask the Court to keep in mind that the entire purpose of 
+
+the Prison Litigation Reform Act is to relieve the 
+
+courts of the burden and the screening process that's 
+
+set in place by this statute allows the Court many 
+
+options.
+
+ JUSTICE STEVENS: Now you say the primary 
+
+purpose is to relieve the courts of the burden rather 
+
+than determine whether there is merits to the 
+
+grievances?
+
+ MS. OLIVIERI: The, the purpose of the 
+
+Prison Litigation Reform Act was to relieve --
+
+JUSTICE STEVENS: Was to reduce the volume 
+
+of litigation, period?
+
+ MS. OLIVIERI: To reduce the volume to 
+
+provide more --
+
+JUSTICE STEVENS: Wasn't there any interest 
+
+in determining whether the complaints have merit? I 
+
+mean, I think you must be interested in getting rid of 
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+11,000 complaints and reducing them down to 200. I 
+
+would think that's more important than saving the court 
+
+some time. There must be, you must have some interest 
+
+in determining whether the complaints have merit.
+
+ MS. OLIVIERI: Well, we do have an interest. 
+
+We respond to every one of those in three steps, and we 
+
+never end up in litigation for the most part so the 
+
+grievance process works totally outside of what 
+
+litigation goes on. It does resolve complaints. But 
+
+the Prison Litigation Reform Act allows the court to 
+
+either --
+
+JUSTICE STEVENS: But these rules that are 
+
+challenged here are primarily to benefit the courts, not 
+
+the profits-- the process.
+
+ MS. OLIVIERI: They are to, to benefit the 
+
+courts by taking resources that had previously been 
+
+spent on meritless cases and spending those instead on 
+
+cases with merit, to efficiently screen these cases so 
+
+that the courts are not spending a lot of time asking us 
+
+for responses and so forth. If it's a failure to state 
+
+a claim the case can be dismissed right, there all 
+
+without prejudice. There is nothing draconian here. 
+
+They can be rebrought.
+
+ CHIEF JUSTICE ROBERTS: Thank you, Counsel.
+
+ MS. OLIVIERI: Thank you. 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: Mr. Andre, you have 
+
+five minute remaining.
+
+ REBUTTAL ARGUMENT OF JEAN-CLAUDE ANDRE,
+
+ ON BEHALF OF PETITIONERS
+
+ MR. ANDRE: Justice Ginsburg, you asked 
+
+earlier about who is better equipped to plead and show 
+
+exhaustion. It's certainly our position that the 
+
+Michigan Department of Corrections or prison grievance 
+
+administrators are absolutely better equipped to do so.
+
+ CHIEF JUSTICE ROBERTS: How is that? The 
+
+prisoner is the one who presumably knows best whether or 
+
+not he filed a grievance or not.
+
+ MR. ANDRE: The prisoner may know best 
+
+whether or not he or she filed a grievance and whether 
+
+or not he appealed. The prisoner may not know precise 
+
+dates on which he or she did so or have copies of the 
+
+grievances anymore. This really kind of brings the 
+
+heightened pleading rule, not just whether it's just 
+
+affirmative defense or a general pleading rule, to the 
+
+fore. Prisoners are prisoners. They get moved around, 
+
+they get put in administrative segregation; they are 
+
+subject to repeat searches; they have great difficulty 
+
+in maintaining possession of their belongings. On the 
+
+other hand the Michigan Department of Corrections keeps 
+
+copies of all the grievances, denials and appeals. 
+
+50
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: This seems to me to 
+
+be a stretch to say that the prison, which has how many 
+
+prisoners under their jurisdiction, is in a better 
+
+position to know in individual cases, an individual 
+
+prisoner, what this prisoner did or didn't do with 
+
+respect to the grievance process. Surely the prisoner 
+
+is in the best position. He knows what he did or at 
+
+least what he is going to allege.
+
+ MR. ANDRE: He may be able to aver generally 
+
+but with specificity there are many cases in which he 
+
+won't be able to. But the Michigan Department of 
+
+Corrections' policy directive makes clear that it has to 
+
+maintain these records for future FOIA requests, and in 
+
+many institutions it has to track them in a computer. 
+
+And as Justice Ginsburg pointed out, in the Jones case, 
+
+they were quite able to bring forward the proof of 
+
+exhaustion that would satisfy, that would have satisfied 
+
+the court that Jones had exhausted his administrative 
+
+remedies.
+
+ Jones gets, just got thrown out of court, 
+
+essentially, in a game of "gotcha," because he hadn't 
+
+attached his complaint in the first instance. I think 
+
+most importantly, from a judicial efficiency standpoint, 
+
+making exhaustion an affirmative defense makes sense. 
+
+That means that the lawyers in the state attorney's 
+
+51
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+general, in the state, in the office of the state's 
+
+attorneys general, are going to be able to put forward 
+
+the best arguments as to why a claim is or is not 
+
+exhausted.
+
+ JUSTICE SCALIA: It requires, it requires 
+
+response in all the cases, and as this subsection G 
+
+indicates, part of the purpose of the act was to 
+
+eliminate the necessity of responding to frivolous 
+
+complaints. Why -- why, you know, you have to go 
+
+through the requesting a response from the government, 
+
+when in fact there is nothing to this complaint because 
+
+there has never been any exhaustion.
+
+ MR. ANDRE: But to go back to Justice 
+
+Ginsburg's point earlier Congress could have included 
+
+unexhausted claims among those types of claims that the 
+
+court could screen out and dismiss or among those claims 
+
+for which a court could --
+
+JUSTICE SCALIA: That's a different 
+
+argument. But I mean, don't tell me that it isn't more 
+
+efficient to have the prisoner say at the outset whether 
+
+it's exhausted or not. It certainly is.
+
+ MR. ANDRE: Or again, it may be more 
+
+efficient to have them aver generally, but as far as 
+
+having a prisoner comply with a heightened pleading 
+
+requirement, we don't think that that makes sense. We 
+
+52 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+are talking, again we are talking about prisoners here.
+
+ JUSTICE ALITO: If it's an affirmative 
+
+defense doesn't that mean that the prisoner is going to 
+
+have to file, and the individuals defendants are going 
+
+to have to file an answer in every case and assert all 
+
+of their defenses?
+
+ MR. ANDRE: Either --
+
+JUSTICE ALITO: Just respond, even if there 
+
+is nonfrivolous, nonexhaustion argument that can be 
+
+made, they are going to have to go through all of that 
+
+in every instance?
+
+ MS. OLIVIERI: They would have to file an 
+
+answer and motion to dismiss raising whatever 
+
+affirmative defense they want to raise, but at least it 
+
+gives them a choice and gives them the opportunity to 
+
+frame this argument as opposed to putting it on, putting 
+
+that burden on the court. Moreover if the court were to 
+
+adopt respondents' reading of the screening provisions, 
+
+those screening provisions would swallow up every single 
+
+affirmative defense enumerated in the Federal rules, and 
+
+also those not enumerated.
+
+ CHIEF JUSTICE ROBERTS: With respect, with 
+
+respect to the naming of the individuals, is that claim 
+
+moot because of the change in the policy?
+
+ MR. ANDRE: Oh, not at all. I mean, I can't 
+
+53 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+see how, how respondents could argue that --
+
+CHIEF JUSTICE ROBERTS: I thought your main 
+
+argument before was they invented this requirement 
+
+without any basis, but now it's an actual requirement in 
+
+the grievance procedure.
+
+ MR. ANDRE: Right, but it wasn't when these 
+
+claims were decided. And that's where I think Sims v. 
+
+Apfel comes into play. Under Justice Thomas' plurality 
+
+opinion, the key is looking at kind of the nature of the 
+
+proceedings and if it's informal and accusatorial as 
+
+opposed to adversarial, then a court cannot impose a 
+
+requirement beyond that which the agency itself required 
+
+at the time that the claims were before the agency.
+
+ Under Justice O'Connor's concurrence, she 
+
+was concerned about fair notice, and certainly here in 
+
+these cases petitioners Williams and Walton didn't have 
+
+fair notice that a year and a half later the State of 
+
+Michigan, after going through the entire grievance 
+
+procedure and never relying on their failure to be 
+
+sufficiently specific, can then come into Federal court 
+
+and say, aha --
+
+CHIEF JUSTICE ROBERTS: Future prisoners now 
+
+do have fair notice because the grievance procedure says 
+
+name the individuals, dates, names, places, names of all 
+
+those all involved. 
+
+54 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. ANDRE: Yes, they would, they would. 
+
+And again, there would certainly be constraints to too 
+
+rigid enforcement of that particular provision.
+
+ JUSTICE GINSBURG: Is the no leeway built 
+
+into the rule itself, that if you don't know --
+
+MR. ANDRE: I'm sorry. I didn't --
+
+JUSTICE GINSBERG: Isn't there -- the 
+
+current rule, isn't there some leeway for cases where 
+
+the prisoner simply doesn't know the names?
+
+ MR. ANDRE: I'm not aware of any, Justice 
+
+Ginsburg.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+The case is submitted.
+
+ (Whereupon, at 12:06 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+55
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 56 
+
+A 
+abeyance 33:17 
+
+33:21 34:22 
+35:5 36:15 
+
+ability 46:12 
+able 17:3 39:21 
+
+40:11 51:9,11 
+51:16 52:2 
+
+above-entitled 
+1:16 55:15 
+
+absent 8:21 9:23 
+33:13 
+
+absolute 47:4 
+absolutely 7:11 
+
+7:25 36:8 48:5 
+50:9 
+
+accept 20:1 
+36:23 
+
+access 12:12 
+40:2 
+
+accusatorial 
+54:10 
+
+achieved 25:1 
+act 10:18 13:25 
+
+14:1 22:8 
+25:16,19,21 
+48:9,18 49:10 
+52:7 
+
+action 13:15,16 
+13:20,21,23 
+14:8 16:22,23 
+17:1 26:7 
+31:16,19,20,22 
+33:2,3,10 
+34:10 42:17 
+
+actions 17:17,20 
+actual 54:4 
+ad 15:10 
+add 9:10 
+adding 9:8 
+address 6:9 14:4 
+
+23:20 25:24 
+26:25 46:12 
+
+addressed 9:12 
+10:23 22:7 
+
+adjudication 
+43:25 
+
+administrative 
+3:11,23,25 6:2 
+6:3,21 7:18,22 
+13:15,24 19:24 
+19:24 20:4 
+21:12,15 23:14 
+23:25 25:25 
+26:9 32:22 
+38:21 40:8,16 
+42:16 47:6 
+50:21 51:18 
+
+administrators 
+15:8 50:9 
+
+adopt 18:21 
+53:18 
+
+adopted 21:5 
+42:22 
+
+adversarial 
+54:11 
+
+adversary 29:17 
+advocating 
+
+14:13 19:7 
+affirmative 6:20 
+
+6:23 7:1 9:4,5 
+9:14 19:22 
+28:24 30:5,9 
+30:16 31:23 
+32:1 50:19 
+51:24 53:2,14 
+53:20 
+
+agency 41:3 
+54:12,13 
+
+agency's 23:14 
+agree 23:18 
+agreeing 45:22 
+agreement 
+
+19:17 
+aha 54:21 
+air 46:24 
+AL 1:6,11 
+Alito 6:6,23 11:1 
+
+11:8 53:2,8 
+alive 20:8 37:13 
+allegations 4:9 
+allege 6:1 12:24 
+
+13:2 51:8 
+alleged 12:18 
+
+allegedly 42:18 
+allow 12:5 14:8 
+
+14:21 15:19 
+25:23 33:23 
+
+allowed 11:23 
+12:2 13:17 
+29:13 36:6 
+
+allows 19:10 
+48:11 49:10 
+
+alternative 
+20:17,24 
+
+amend 3:17 5:23 
+8:24 15:20 
+16:17 35:23 
+36:7 
+
+amended 9:3,6 
+amendment 
+
+8:22 11:23 
+12:3,5,9 13:9 
+21:16 
+
+amends 23:21 
+Americans 
+
+13:25 
+Andre 1:20 2:3 
+
+2:9 3:5,6,8 5:2 
+5:7,16 6:15 7:3 
+7:11,16 8:17 
+9:1,9,20 10:11 
+11:8 12:4,15 
+13:19 14:12,23 
+15:17 16:11,14 
+16:25 17:7,11 
+17:15,22 18:9 
+19:1,18 21:14 
+21:24 22:20,24 
+23:3,7 24:6,14 
+25:9 50:1,3,5 
+50:13 51:9 
+52:13,22 53:7 
+53:25 54:6 
+55:1,6,10 
+
+Angeles 1:20 
+answer 11:3,22 
+
+12:19 13:4 
+20:10 25:3 
+35:6 44:5,11 
+47:25 53:5,13 
+
+anybody 45:13 
+anymore 17:8 
+
+20:8 50:17 
+anyway 29:1 
+apart 5:17 
+Apfel 23:12 54:8 
+apparently 
+
+44:10 
+appeal 27:10 
+
+38:1 
+appealed 50:15 
+appeals 50:25 
+appear 28:25 
+APPEARAN... 
+
+1:19 
+appears 5:11 
+
+14:24 21:4 
+application 34:5 
+applied 4:4 
+apply 15:9 36:12 
+approach 14:17 
+
+19:8 
+approximately 
+
+27:24 28:5 
+area 35:11 
+areas 3:24 
+argue 54:1 
+argued 10:17 
+
+21:14 
+argument 1:17 
+
+2:2,5,8 3:3,6 
+11:25 19:12 
+25:11 35:7,15 
+36:20 50:3 
+52:19 53:9,16 
+54:3 
+
+arguments 
+11:25 20:2 
+36:12 52:3 
+
+articulated 
+46:25 
+
+aside 12:1 
+asked 40:11 
+
+50:5 
+asking 49:19 
+asks 6:19 
+assert 53:5 
+
+assessment 
+24:21 
+
+Assistant 1:22 
+assume 4:15 
+
+22:18 37:9,25 
+assumption 
+
+42:17 
+attach 30:14 
+attached 12:19 
+
+26:17 51:22 
+attempt 26:25 
+
+40:10 
+attempted 15:6 
+Attorney 1:22 
+attorneys 52:2 
+attorney's 51:25 
+authority 38:25 
+automatic 32:18 
+available 23:25 
+
+37:15 
+avails 25:4 
+aver 51:9 52:23 
+aware 55:10 
+a.m 1:18 3:2 
+
+B 
+back 10:12 18:7 
+
+36:24 40:21 
+42:21 44:3 
+48:1 52:13 
+
+bad 32:18 
+bar 12:2 
+BARBARA 1:6 
+based 15:2 21:6 
+
+23:23 28:18 
+43:6 
+
+basic 29:7 37:6 
+46:14 
+
+basically 28:16 
+37:4 41:11,17 
+47:23 
+
+basis 4:6 34:3,6 
+54:4 
+
+behalf 1:21,23 
+2:4,7,10 3:7 
+25:12 50:4 
+
+believe 5:2 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 57 
+
+10:15 17:11 
+23:3 24:6 34:8 
+34:11 
+
+belongings 
+50:23 
+
+benefit 29:17 
+49:13,15 
+
+best 30:9 50:11 
+50:13 51:7 
+52:3 
+
+better 21:7 
+36:25 50:6,9 
+51:3 
+
+beyond 11:3 
+23:14 54:12 
+
+bit 33:15 
+board 32:4 
+Bobo 42:25 43:2 
+
+43:10 
+Bock 1:6 3:4 
+bogging 30:25 
+borrow 24:24 
+bottom 26:15 
+bounce 18:7 
+BREYER 8:2,23 
+
+15:15,21 16:12 
+18:11 28:16 
+29:5 45:2 
+
+brief 46:9 
+briefs 6:6 
+bring 15:11,12 
+
+17:3 32:21,25 
+51:16 
+
+brings 38:20 
+50:17 
+
+broadened 
+24:18 
+
+broadly 22:20 
+brought 13:15 
+
+13:17,21,24 
+14:11 25:18 
+26:7 31:17,19 
+31:21,22 33:2 
+
+built 15:13 55:4 
+burden 8:6 
+
+18:14 28:22 
+30:6 31:2 
+
+38:10 48:10,14 
+53:17 
+
+C 
+C 2:1 3:1 33:25 
+Cal 1:20 
+Califano 10:14 
+call 6:8 38:9 
+calls 7:1 
+care 38:18 39:2 
+
+40:3 
+careful 36:10,11 
+case 5:24,25 
+
+6:14,18 7:6,9 
+7:20 10:1,10 
+10:15 11:2 
+12:23 13:7,7 
+14:24 17:23 
+19:3,14,15 
+20:8,14 21:10 
+21:11,19,23 
+27:6 30:7,11 
+32:6,22,25 
+33:8 34:1 
+35:12,23 37:22 
+38:3 41:1 42:1 
+42:23,23 43:9 
+43:10,15,22 
+44:8 48:1 
+49:21 51:15 
+53:5 55:13,14 
+
+cases 3:10 5:14 
+5:14 6:8 9:17 
+10:5,8,13 
+12:16 13:5 
+22:21 24:3,11 
+26:23 27:25 
+29:1,15 30:23 
+33:24 38:1,5 
+47:21 49:17,18 
+49:18 51:4,10 
+52:6 54:16 
+55:8 
+
+categories 29:22 
+31:3 
+
+category 32:1 
+certain 4:8 
+
+15:24 22:21 
+28:18 
+
+certainly 7:16 
+12:5 28:18 
+44:14 50:7 
+52:21 54:15 
+55:2 
+
+certify 40:24 
+chain 47:15 
+challenged 
+
+49:13 
+chance 5:20 
+
+40:17 
+change 46:9,11 
+
+53:24 
+characterize 
+
+29:3 
+charted 22:4 
+Chief 3:3,8 7:8 
+
+7:12 9:11,25 
+13:12 14:3,16 
+17:9,13,19 
+18:20 25:8,13 
+37:8 46:8,21 
+47:18 49:24 
+50:1,10 51:1 
+53:22 54:2,22 
+55:12 
+
+choice 19:8,9 
+34:19 53:15 
+
+choose 36:6 
+circuit 5:14,21 
+
+10:4 12:2,4,5 
+15:3 17:4,7,8 
+19:6,18 20:17 
+20:22 21:2,4 
+22:10 29:9 
+41:8,10,17,20 
+41:23 42:8,11 
+42:22 43:21,23 
+44:2,8 45:8,10 
+45:11,19,23,23 
+46:22 47:19 
+
+circuits 4:1 
+19:19 
+
+circuit's 3:18 
+5:17 8:14 15:5 
+
+15:19 16:16,20 
+24:24 
+
+Civil 4:5,8,11 
+8:18,22 10:20 
+29:18 
+
+claim 4:6,7 6:12 
+7:13,15,19 8:1 
+8:12 9:8 10:3 
+11:15 16:1 
+18:22 21:16 
+25:5 29:24 
+31:4 32:8,17 
+43:20 44:17,21 
+45:5 46:12 
+49:21 52:3 
+53:23 
+
+claimed 38:8 
+claims 4:14 8:3 
+
+10:4,23 13:18 
+13:20 14:10,14 
+14:15,15,18 
+15:1,1 16:19 
+17:3 19:4,11 
+21:8 25:18 
+33:3,9 34:5,12 
+34:13,19,22 
+35:13,25 36:3 
+36:6,10,11 
+37:10,13,14,15 
+37:16,19 38:9 
+52:15,15,16 
+54:7,13 
+
+classification 
+41:13,15 
+
+cleanest 19:7 
+clear 7:17 10:13 
+
+10:22,24,25 
+14:12 15:14 
+21:3,9 51:12 
+
+clearly 5:9 11:6 
+comb 18:18 
+come 54:20 
+comes 45:17 
+
+54:8 
+coming 8:6 
+
+25:17 
+Committee 8:25 
+
+28:21,21 
+Committees 
+
+29:9 
+common 13:24 
+complain 39:8 
+complaint 5:23 
+
+6:1 7:17 8:7 
+11:3 12:17 
+13:11,18 15:12 
+15:22 16:17,18 
+18:13 20:5,18 
+28:25 32:17 
+40:8,23 45:19 
+45:20 47:7 
+48:3 51:22 
+52:11 
+
+complaints 3:16 
+6:7 14:6,7 
+15:11,24 38:8 
+48:24 49:1,4,9 
+52:9 
+
+complete 37:25 
+40:2 41:20 
+
+completely 42:9 
+complicated 
+
+20:13 
+comply 7:6 15:7 
+
+22:15 23:23 
+52:24 
+
+computer 51:14 
+concede 5:13 
+
+7:16 13:19 
+concerned 54:15 
+concurred 41:6 
+concurrence 
+
+23:18 54:14 
+conducted 3:13 
+
+24:17 
+confession 46:1 
+confirm 26:6 
+confirmed 19:21 
+
+30:20 
+conflicts 8:17 
+confused 15:7 
+Congress 5:8 
+
+6:22 9:22 
+11:17,19 25:15 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 58 
+
+29:19 30:19 
+31:1 32:4,19 
+32:20 33:20,20 
+33:22 34:17 
+35:4 52:14 
+
+Congressional 
+10:13 
+
+Congress's 
+10:22 38:11 
+
+consequence 
+46:11 
+
+considered 4:2 
+consistent 4:23 
+consistently 
+
+31:25 
+constraints 55:2 
+construe 11:11 
+construed 32:13 
+construing 
+
+11:12 
+contains 13:20 
+context 34:4 
+continue 14:9,22 
+contradict 3:22 
+contrary 38:10 
+cooperative 
+
+24:25 
+copies 50:16,25 
+copy 12:22 
+corollaries 3:19 
+
+3:20 
+corpus 33:11 
+correct 4:22 9:1 
+
+9:2 23:3 24:6 
+28:2 42:8,10 
+
+Corrections 
+3:12,13 27:9 
+50:8,24 51:12 
+
+costly 18:2 
+counsel 46:8 
+
+49:24 55:12 
+counselor 39:6 
+
+40:11 
+counselors 39:3 
+couple 15:17 
+
+22:5 
+course 42:2 
+
+court 1:1,17 3:9 
+3:17,24 4:13 
+4:16,21,25 5:4 
+5:13 6:13,17 
+6:25,25 7:3,5,5 
+7:23,25 8:19 
+8:20 9:9,13 
+10:4,21 11:4 
+14:20 19:2,9 
+19:10,16,21 
+20:9,19 22:13 
+23:13,20 24:22 
+25:14 29:11,15 
+29:20 30:13 
+31:15 32:6,16 
+32:22 33:14,25 
+34:9,20,23,25 
+35:1,24 36:3 
+37:23 38:10 
+40:23 42:8,19 
+43:4 44:24 
+45:11,17 46:17 
+48:8,11 49:2 
+49:10 51:18,20 
+52:16,17 53:17 
+53:17 54:11,20 
+
+courts 6:7 8:4 
+11:11,12 25:17 
+25:20 28:11 
+29:20 30:23,25 
+31:24 33:23 
+48:10,14 49:13 
+49:16,19 
+
+court's 4:23 
+5:18 8:14 
+22:14 23:11 
+
+Cranstall 46:7 
+created 5:8 
+criteria 32:8,10 
+cure 13:10 
+current 47:19 
+
+55:8 
+
+D 
+D 3:1 
+date 6:4,4 
+dates 50:16 
+
+54:24 
+day 18:1 
+days 45:21 
+deadlines 23:24 
+deal 25:16 34:16 
+
+37:2,6 
+dealing 21:22 
+
+25:20 37:3 
+dealt 30:19 
+decided 54:7 
+decipher 8:4 
+decision 13:4 
+
+22:14 23:12,15 
+24:24 38:25 
+39:12 40:3,19 
+42:4 47:20 
+
+decisions 3:14 
+34:15 
+
+decrease 25:22 
+defendant 8:6 
+
+9:6,15 11:16 
+12:17 21:11,21 
+28:15 32:5 
+38:15 40:22 
+
+defendants 20:4 
+22:3 23:22 
+24:11 40:25 
+53:4 
+
+defendant's 
+20:20 
+
+defense 6:20,24 
+7:2 9:5,5 19:22 
+28:24 30:5,9 
+30:16 31:23 
+32:1 50:19 
+51:24 53:3,14 
+53:20 
+
+defenses 53:6 
+deficiency 13:3 
+definite 4:19,19 
+definition 9:5 
+delegation 41:8 
+delete 19:10 
+
+36:7 
+deletes 19:4 
+denial 6:4 26:22 
+denials 50:25 
+
+denied 26:23 
+41:4 42:5 46:4 
+46:5 
+
+deny 38:22 
+denying 39:18 
+
+40:3 
+depart 30:7 
+department 
+
+3:12,13 10:16 
+27:9 39:18 
+50:8,24 51:11 
+
+depends 29:6 
+Deputy 42:25 
+designed 14:4 
+
+30:23 
+despite 34:5 
+detail 12:18,24 
+
+13:2 24:16 
+detailed 27:12 
+determination 
+
+24:19 
+determine 24:20 
+
+32:6 40:17 
+48:15 
+
+determining 
+48:24 49:4 
+
+develop 25:25 
+developed 26:9 
+diet 40:5 
+difference 41:3 
+
+47:1,2 
+different 11:23 
+
+14:4 16:15 
+33:16 41:5 
+52:18 
+
+differently 
+34:17,18 35:1 
+35:2 
+
+difficult 18:12 
+difficulty 12:13 
+
+15:4,5 50:22 
+direction 13:13 
+directive 51:12 
+director 41:13 
+
+41:15 
+Disabilities 
+
+13:25 
+
+disagree 24:21 
+45:9,10 
+
+discriminating 
+43:6 
+
+disincentive 
+28:7 
+
+dismiss 6:14,17 
+7:6,9 8:11 
+11:24 15:16,22 
+16:7 18:17 
+21:6 28:24 
+52:16 53:13 
+
+dismissal 20:18 
+29:2,23 30:21 
+32:18,24 33:3 
+
+dismissals 29:14 
+dismissed 4:18 
+
+7:19 12:23 
+16:17,22 17:17 
+17:21 33:10 
+35:12,23 38:7 
+49:21 
+
+dismissing 34:4 
+34:10 
+
+district 4:4,13 
+4:16,21 5:13 
+6:7,13,25,25 
+7:3,4,5,23,24 
+9:13 10:4 11:4 
+14:20 19:2,9 
+19:10 30:22 
+
+docket 8:16 
+doctor 38:24 
+
+45:15 46:4,6 
+doctors 38:20 
+documents 
+
+12:22 
+doing 12:9 28:22 
+
+33:25 
+dozen 27:18 
+Dr 39:19 42:2,3 
+
+42:4 46:7 
+47:17 48:1,1 
+
+draconian 16:21 
+16:24,25 17:19 
+29:1,4 49:22 
+
+drop 34:13 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 59 
+
+drops 19:14 
+D.C 1:13 
+
+E 
+E 2:1 3:1,1 
+earlier 10:1 50:6 
+
+52:14 
+easier 18:16 
+editing 14:19 
+Education 10:16 
+effect 9:4 
+efficiency 19:5 
+
+34:7 51:23 
+efficient 5:5 
+
+52:20,23 
+efficiently 49:18 
+efforts 41:7 
+Eighth 16:16 
+either 12:8 15:3 
+
+23:16 24:7 
+34:19 37:5 
+38:19 49:11 
+53:7 
+
+element 9:8 
+eliminate 52:8 
+embodied 29:18 
+empirical 28:19 
+enacted 5:10 
+
+9:22 25:15 
+encompass 
+
+24:10 
+ended 27:24 
+endemic 22:13 
+enforcement 
+
+55:3 
+entire 16:22 
+
+33:3 34:4,10 
+48:8 54:18 
+
+entirely 23:11 
+entitled 17:14 
+
+38:18 
+enumerate 4:8 
+enumerated 
+
+4:10 53:20,21 
+equation 32:5 
+equipped 30:10 
+
+30:14 50:6,9 
+
+ESQ 1:20,22 2:3 
+2:6,9 
+
+essentially 51:21 
+established 
+
+21:22 
+estate 21:11 
+ET 1:6,11 
+ethos 24:25 
+exactly 18:9 
+
+22:24 38:17 
+example 13:8 
+
+33:5 40:4 
+44:19 
+
+exception 47:11 
+excise 14:20 
+excuse 7:22 
+
+43:19 
+exercise 8:13 
+exhaust 7:22 
+
+15:14 21:7,15 
+30:1,3 31:12 
+32:11,13 34:20 
+36:10 44:3 
+45:8 46:1 
+
+exhausted 6:1,2 
+6:13 7:18 
+13:16 14:15,21 
+15:1,12 16:6,7 
+16:9 18:19,23 
+20:7,9,11,24 
+21:1 25:5 
+31:16 32:7,22 
+32:25 33:4 
+34:6,12,24 
+35:24 37:11,13 
+37:20 38:9 
+42:9 46:2,3 
+51:18 52:4,21 
+
+exhausting 
+37:21 38:15 
+43:4 
+
+exhaustion 3:19 
+4:11 5:1,6,9,10 
+5:11 6:10,19 
+6:20 7:14 9:10 
+9:17,22,24 
+10:2,7 12:16 
+
+12:18,24,25 
+13:2,24 15:5 
+16:15 19:13,14 
+19:16,20,22,23 
+20:16,18 21:19 
+21:25 23:2 
+26:4,5 28:23 
+30:8,10,16 
+31:2,6,8,14 
+33:14,14 34:9 
+37:9,17,25 
+38:5 41:21 
+42:20 47:3 
+50:7 51:17,24 
+52:12 
+
+exhaustive 
+36:11 
+
+exhaustively 
+11:9 
+
+expanded 29:22 
+expanding 31:3 
+experience 4:14 
+
+14:23 
+expired 38:2 
+explain 28:6 
+explanation 
+
+43:14 
+explicit 13:14 
+expression 
+
+10:13,22,24,25 
+extent 19:21 
+
+22:22 24:14 
+36:24 
+
+e(a)(C)(1) 33:24 
+
+F 
+face 7:17 32:17 
+facilitate 26:1 
+facilitating 9:18 
+fact 3:21 9:15 
+
+10:12 14:6 
+15:8 17:3 34:5 
+42:18 45:24 
+52:11 
+
+facts 5:1 24:18 
+40:3 
+
+failed 3:17 6:18 
+
+21:15 32:8 
+44:3 
+
+failing 7:23 
+29:24 
+
+fails 11:15 32:17 
+failure 7:6,6 
+
+12:23 15:2 
+30:1,3 31:4,11 
+32:11,12 45:8 
+49:20 54:19 
+
+fair 54:15,17,23 
+faith 40:9 
+far 52:23 
+favor 20:15 22:4 
+federal 3:16,21 
+
+3:22 4:5,7,10 
+8:4,18,22,24 
+9:7 10:14,20 
+12:7 19:16 
+22:11,13 23:13 
+24:22 25:17 
+29:18,20 30:22 
+33:6 34:20,23 
+36:2 37:22 
+42:7,19 44:24 
+53:20 54:20 
+
+fee 17:6,10,21 
+17:25 
+
+feel 37:11 
+fewer 28:3 
+Fifth 17:4 
+fight 35:17 
+figure 4:16 8:15 
+
+16:5,9 18:15 
+18:18 
+
+file 5:22 16:18 
+17:5 47:9 53:4 
+53:5,12 
+
+filed 3:11 5:25 
+6:3 12:14 18:8 
+50:12,14 
+
+files 37:20 
+filing 14:10 17:6 
+
+17:10,21,25 
+23:23 26:14 
+
+fill 6:18 35:2 
+filling 6:12 
+
+fills 6:11 
+final 3:14 
+Finally 4:1 48:7 
+find 3:20,22 
+
+10:7,24 38:23 
+39:6,16,21,22 
+40:7,10 41:6 
+44:15 45:21,21 
+47:12,14 
+
+finding 21:5 
+44:13 
+
+finds 4:14 11:4 
+40:20 
+
+fine-toothed 
+18:18 
+
+finish 37:21 
+first 5:7 13:13 
+
+13:21 17:10,16 
+20:2,14,25 
+21:16 25:24 
+31:9 41:22 
+47:6,9 51:22 
+
+five 50:2 
+flood 25:16,20 
+flooded 29:21 
+floor 22:8 
+flows 22:14 
+fly 45:24,24 
+FOIA 51:13 
+follow 9:16 30:4 
+fore 50:20 
+form 6:7,11,15 
+
+6:16,19,25 
+forma 29:13 
+formally 12:14 
+format 3:25 
+forms 6:8,11 
+forth 5:1 28:17 
+
+28:22 49:20 
+forward 19:4 
+
+37:11 51:16 
+52:2 
+
+found 11:13 
+four 19:19 41:5 
+
+45:12 
+Fourth 17:8 
+frame 53:16 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 60 
+
+freedom 37:6 
+Frequently 
+
+26:15 
+friend 18:5 
+
+46:22 
+frivolous 7:10 
+
+7:15 8:11 10:3 
+10:3,6 11:14 
+14:5 29:14 
+32:15 52:8 
+
+front 44:8 
+fulfill 10:8 
+full 27:13 
+fully 15:12 
+function 5:5 
+
+14:19,19 
+further 15:7 
+
+23:12,12 25:6 
+future 51:13 
+
+54:22 
+
+G 
+g 3:1 11:2,12 
+
+52:6 
+game 51:21 
+gaps 35:2 
+Gearin 43:2,16 
+
+43:20 44:17 
+45:2,3 
+
+general 1:22 
+19:17 50:19 
+52:1,2 
+
+generally 12:18 
+51:9 52:23 
+
+generate 37:16 
+getting 11:3 
+
+39:7,8 48:25 
+Gillis 24:25 
+GINSBERG 
+
+55:7 
+Ginsburg 12:15 
+
+20:1,12,22 
+21:10,18,25 
+24:2,8 29:25 
+30:4 31:1,10 
+31:18 32:10,14 
+34:14 35:21 
+
+36:23 40:14 
+45:14,25 47:4 
+47:11 48:1 
+50:5 51:15 
+55:4,11 
+
+Ginsburg's 
+52:14 
+
+give 27:5 33:25 
+43:3 
+
+given 5:20 
+gives 53:15,15 
+giving 43:13 
+go 13:4 14:15 
+
+16:4 18:12,14 
+18:17 20:9 
+23:14 25:2 
+27:12 28:21 
+29:9 34:19,21 
+36:24 37:11 
+38:8 40:3 
+46:17 52:9,13 
+53:10 
+
+goes 10:12 40:21 
+42:7 43:1,4 
+49:9 
+
+going 4:17 10:6 
+12:22 18:8 
+28:3 37:15 
+41:18 43:9 
+46:15 51:8 
+52:2 53:3,4,10 
+54:18 
+
+good 4:17 8:7 
+12:21 18:6 
+40:9 43:20 
+44:17,21 45:19 
+
+gotcha 51:21 
+government 
+
+52:10 
+GRANT 4:22 
+
+13:6 20:12 
+21:2 
+
+granted 33:13 
+33:13 
+
+great 12:13 13:8 
+50:22 
+
+grievance 6:3 
+
+12:20 15:6,8,9 
+20:4 22:9,16 
+24:15,17,23 
+25:2,4 26:14 
+39:17,22 40:13 
+43:1 45:13 
+46:10,19,25 
+47:10 48:5,6 
+49:8 50:8,12 
+50:14 51:6 
+54:5,18,23 
+
+grievances 3:11 
+3:15 12:14 
+23:10 24:20 
+27:8,21 30:12 
+39:25 48:16 
+50:17,25 
+
+ground 20:19 
+32:18,24 
+
+grounds 20:25 
+guard 39:11,11 
+guess 7:19 14:12 
+
+15:23 16:14 
+18:3 20:19 
+22:20 23:4 
+37:12 
+
+guidance 3:24 
+guys 24:13 
+
+H 
+habeas 3:23 
+
+4:23 5:18 6:21 
+19:24 33:11,15 
+33:17 34:4,4 
+35:3,11,20,22 
+35:25 36:1,1,4 
+36:13,14,25 
+37:2 
+
+half 3:15 27:18 
+54:17 
+
+hand 50:24 
+happen 15:21 
+
+20:10 
+happened 5:24 
+
+16:6 24:19 
+happens 16:13 
+
+20:7 38:17,23 
+
+hard 8:4 16:3 
+44:13,13 
+
+harm 18:24 
+haystack 14:7 
+Health 10:16 
+hear 3:3 19:16 
+heard 28:17 
+heightened 4:3 
+
+5:21 8:21 
+12:10 13:8 
+20:2 22:1 
+50:18 52:24 
+
+held 22:10 
+help 18:6 27:5 
+
+38:16 
+Hill 8:20 
+hoc 15:10 
+holding 12:13 
+
+20:17 
+horn 14:14,25 
+housed 15:4 
+hurt 15:15 16:10 
+
+16:11 18:6,12 
+hurts 15:17,18 
+hypo 43:9 44:25 
+hypothetical 
+
+5:17 9:16 
+
+I 
+ID 20:14 
+idea 12:21 15:25 
+identical 14:1 
+identification 
+
+41:20,21 
+identified 22:12 
+
+24:5,13 42:16 
+43:24 48:3 
+
+identifies 42:6 
+43:11 
+
+identify 41:11 
+41:17,18 46:15 
+
+identifying 
+20:20 
+
+IFP 17:14,15,24 
+ignored 7:14 
+
+10:6 
+Immigration 
+
+14:1 
+immune 11:16 
+
+29:24 
+immunity 31:6 
+important 49:2 
+importantly 
+
+51:23 
+impose 8:21 
+
+54:11 
+impossible 
+
+37:25 
+improper 6:13 
+
+6:16,17 29:3 
+improve 36:9 
+incentive 14:17 
+
+18:21,21 36:8 
+include 28:10 
+
+29:23,25 30:3 
+31:6 
+
+included 31:4,5 
+52:14 
+
+includes 28:14 
+including 8:19 
+incomplete 
+
+42:20 
+inconsistently 
+
+15:10 
+increase 25:22 
+increased 26:2 
+indicate 39:17 
+indicated 29:16 
+
+29:20 47:22 
+indicates 26:17 
+
+52:7 
+indication 6:21 
+individual 5:13 
+
+10:18,21,23 
+22:12 23:21 
+35:13 51:4,4 
+
+individuals 
+22:19 23:2,9 
+40:19 46:11,23 
+53:4,23 54:24 
+
+informal 38:21 
+54:10 
+
+information 
+25:2 30:10,18 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 61 
+
+40:12 
+initial 5:22 
+
+13:11 45:20 
+injunction 11:18 
+
+11:20 
+injunctive 37:5 
+inmate 24:25 
+
+26:12 37:20 
+47:23 
+
+innocent 15:2 
+inquiry 39:15 
+
+47:14 
+insist 19:13 
+installments 
+
+17:25 
+instance 41:11 
+
+51:22 53:11 
+instances 19:11 
+
+33:6 
+institute 16:23 
+institutions 
+
+51:14 
+instructive 
+
+10:15 
+intended 33:23 
+intending 15:12 
+intends 38:15 
+intentionally 
+
+14:25 
+interest 48:23 
+
+49:3,5 
+interested 48:25 
+internal 38:16 
+interpreted 
+
+31:24 33:8 
+interpreting 
+
+3:25 
+invented 54:3 
+investigate 
+
+40:17 
+investigation 
+
+24:18 
+investigations 
+
+3:13 
+invigorated 26:4 
+involved 9:15 
+
+38:24 42:4,4 
+
+54:25 
+IP 17:18 
+issue 6:9 17:23 
+
+20:16,20 22:1 
+22:3,6 26:25 
+
+issued 3:14 44:9 
+issues 25:24 
+
+29:17 
+
+J 
+jailer 24:25 
+JEAN-CLAU... 
+
+1:20 2:3,9 3:6 
+50:3 
+
+Jones 1:3 3:4 
+5:25 20:14,15 
+21:6,15 22:2 
+30:7,11 41:12 
+45:14,25 46:2 
+46:3,5 51:15 
+51:18,20 
+
+Jones's 13:7,7 
+20:18 
+
+judge 16:4 18:12 
+18:16 27:5 
+
+judge's 21:5 
+judge-made 
+
+3:18 
+judicial 10:19 
+
+15:13 19:5 
+26:1,2 34:7 
+51:23 
+
+judicially 34:1 
+June 27:24 
+jurisdiction 
+
+51:3 
+jurisdictional 
+
+19:20 
+jurisprudence 
+
+4:24 5:18 
+Justice 3:3,8 
+
+4:13,25 5:3,12 
+6:6,23 7:8,12 
+8:2,23 9:3,11 
+9:16,25 11:1,8 
+11:22 12:15 
+13:12 14:3,16 
+
+15:15,21 16:12 
+16:24 17:5,9 
+17:13,19 18:3 
+18:10,11,20 
+19:12 20:1,12 
+20:22 21:10,18 
+21:24 22:17,22 
+23:1,5,17,18 
+24:2,8 25:8,13 
+26:8,21 27:1,4 
+27:15,20 28:1 
+28:6,13,16 
+29:5,25 30:4 
+31:1,10,18 
+32:10,14 33:1 
+33:18 34:3,14 
+35:6,10,17,21 
+36:12,17,19,22 
+36:23 37:8,24 
+38:12 39:10,24 
+40:14 41:2,4 
+41:19,25 42:14 
+43:8,22 44:10 
+44:18,21,24 
+45:2,4,7,14,25 
+46:8,21 47:4 
+47:11,18,25 
+48:1,6,13,19 
+48:23 49:12,24 
+50:1,5,10 51:1 
+51:15 52:5,13 
+52:18 53:2,8 
+53:22 54:2,8 
+54:14,22 55:4 
+55:7,10,12 
+
+justification 
+42:14 43:12,12 
+44:4,5,14 
+
+justified 20:17 
+justify 33:3 
+
+K 
+keep 48:8 
+keeping 12:9 
+keeps 43:9 50:24 
+KENNEDY 
+
+4:13,25 5:3,12 
+
+19:12 41:2 
+Kennedy's 9:16 
+key 54:9 
+kind 8:8 22:13 
+
+38:18 50:17 
+54:9 
+
+kinds 4:8 
+know 5:4,6 7:8 
+
+7:13 8:5 10:5 
+16:1,6 19:19 
+19:21 24:3,10 
+24:12 28:4 
+30:9 33:7 39:6 
+39:11,12,19 
+40:10 41:14 
+42:25 43:5 
+44:12 45:15,16 
+46:19 47:10,14 
+47:16 50:13,15 
+51:4 52:9 55:5 
+55:9 
+
+known 40:15 
+knows 38:19 
+
+50:11 51:7 
+
+L 
+L 1:3 
+lack 13:13 21:7 
+language 11:9 
+
+11:11 13:23 
+14:1,2 33:2,6 
+
+Lansing 1:23 
+large 10:5 
+largely 25:21 
+
+30:24 
+law 3:23,23,24 
+
+6:21 14:24 
+15:5 19:24 
+22:11 23:9 
+41:3 
+
+lawsuit 37:20 
+lawsuits 28:8 
+lawyer 38:23 
+lawyers 51:25 
+lead 8:8 
+learned 42:3 
+
+43:11 
+
+leave 3:17 5:23 
+14:18 16:17 
+
+leaving 11:25 
+leeway 55:4,8 
+left 38:6 
+legal 12:12 
+lends 23:12,12 
+lengthier 26:18 
+let's 42:1 
+level 38:19 
+levels 12:20 
+
+38:24 
+liability 29:24 
+liberty 37:3 
+lie 4:7 
+likes 7:5 
+limit 38:1 
+limitations 17:2 
+
+29:6 31:20,25 
+LINDA 1:22 2:6 
+
+25:11 
+lines 27:19 
+
+47:24 
+list 6:5 
+litigants 25:19 
+litigating 23:6 
+litigation 3:25 
+
+22:7 25:15,16 
+25:20,22,23 
+26:3 27:22 
+29:21 32:3,3 
+36:9 37:12 
+48:9,18,20 
+49:7,9,10 
+
+little 15:13 
+33:15 38:16 
+
+live 20:16 
+lob 34:22 
+logically 22:14 
+long 25:1,3 36:3 
+
+40:15 
+longer 9:4 31:23 
+look 19:3 29:12 
+
+33:24 
+looking 37:22 
+
+54:9 
+looks 3:24 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 62 
+
+lop 36:6 
+lopped 36:3 
+LORENZO 1:3 
+Los 1:20 
+lose 17:18 
+lot 12:11 16:2 
+
+23:6 49:19 
+lots 8:3,3 
+low 38:19 
+luck 39:25 42:12 
+
+M 
+M 1:22 2:6 
+
+25:11 
+magistrate 21:5 
+main 54:2 
+maintain 51:13 
+maintaining 
+
+50:23 
+majority 4:1 
+making 35:7 
+
+36:19 38:25 
+51:24 
+
+malicious 8:12 
+11:15 29:15 
+32:16 
+
+manage 8:16 
+manner 15:10 
+materials 12:12 
+
+12:13 
+matrix 22:5 
+matter 1:16 7:7 
+
+13:3 22:11 
+23:9 29:8 
+55:15 
+
+McBride 19:6 
+McDonough 
+
+8:20 
+MDOC 46:19 
+mean 9:5,21 
+
+11:23,24 17:22 
+23:4 28:16 
+37:18,19 42:15 
+46:14 48:25 
+52:19 53:3,25 
+
+meaningful 3:20 
+means 9:18,20 
+
+14:13 17:16 
+51:25 
+
+meant 31:1 
+medical 38:18 
+
+39:2,18 40:3 
+46:4 47:15 
+
+mention 42:10 
+42:21 
+
+mentioned 44:3 
+45:12 46:9 
+
+mercy 7:24 
+merit 25:21 26:3 
+
+40:18 43:25 
+48:24 49:4,18 
+
+meritless 29:21 
+30:24 49:17 
+
+meritorious 
+14:6 24:20 
+25:18 
+
+merits 3:14 7:13 
+8:1 11:5,10 
+19:15 40:25 
+42:17 48:15 
+
+Mich 1:23 
+Michigan 3:12 
+
+3:12 22:25 
+27:8 46:10 
+47:8,19 48:3 
+50:8,24 51:11 
+54:18 
+
+Michigan's 47:7 
+mind 5:10 9:22 
+
+11:17 48:8 
+minute 5:22 
+
+50:2 
+mistake 15:2 
+mitigate 12:6 
+mixed 13:20 
+
+15:11 
+Monday 1:14 
+monetary 37:5 
+months 27:7,24 
+moot 21:22,23 
+
+22:1 53:24 
+Morrison 41:16 
+motion 4:18 
+
+21:6 53:13 
+
+move 19:3 30:23 
+moved 50:20 
+
+N 
+N 2:1,1 3:1 
+name 20:3 21:20 
+
+22:18 38:14,23 
+39:1 40:7,18 
+41:11,12,17 
+43:17,18 46:15 
+47:6,9,10 
+54:24 
+
+named 23:2,10 
+23:22 24:9 
+44:1 45:1 47:5 
+
+names 41:9 42:2 
+45:18 54:24,24 
+55:9 
+
+naming 20:5 
+22:3,6 46:10 
+46:23 53:23 
+
+Nationality 14:1 
+nature 54:9 
+necessarily 9:21 
+necessity 52:8 
+need 37:11 41:7 
+needle 14:8 
+negate 7:1 
+negative 21:17 
+
+41:14 
+Neitzke 29:11 
+
+29:19 
+never 26:10,11 
+
+28:12 45:12 
+46:5 47:17 
+49:7 52:12 
+54:19 
+
+Nevertheless 
+3:15 
+
+new 16:18,23 
+17:5 32:2 47:7 
+48:2 
+
+Ngo 22:15,15 
+38:4 
+
+nonexhaustion 
+53:9 
+
+nonfrivolous 
+
+53:9 
+normal 9:12 
+
+10:9 11:6 30:5 
+30:8 
+
+normally 26:21 
+notice 54:15,17 
+
+54:23 
+noticeably 5:9 
+
+9:23 
+number 6:7 10:5 
+
+14:5,9 15:24 
+32:21 
+
+O 
+O 2:1 3:1 
+objections 46:22 
+obligation 9:14 
+
+9:19 10:9 
+obscuring 25:17 
+obviously 20:23 
+
+24:21 37:19 
+October 1:14 
+office 39:13 52:1 
+officials 11:21 
+oh 12:21 53:25 
+Okay 35:17,19 
+
+45:1,4 
+OLIVIER 48:7 
+Olivieri 1:22 2:6 
+
+25:10,11,13 
+26:11,24 27:3 
+27:7,17,23 
+28:2,9,14 29:2 
+29:11 30:2,19 
+31:8,13,24 
+32:12,20 33:1 
+33:11,19 34:8 
+35:4,9,15,19 
+36:5,14,18,21 
+37:2,18 38:3 
+39:2,15 40:9 
+40:21 41:10,23 
+42:11,22 43:13 
+44:7,16,20,23 
+45:1,3,5,9,22 
+46:3,13 47:2,8 
+47:13,21 48:4 
+
+48:17,21 49:5 
+49:15,25 53:12 
+
+omitted 5:9 
+once 37:16 
+ones 4:15 14:21 
+
+14:21 28:9,10 
+28:14 34:23 
+
+operate 7:20 
+13:1 19:23 
+43:15 
+
+operation 10:20 
+24:4 
+
+opinion 21:3,4 
+23:17 29:15 
+54:9 
+
+opinions 27:1 
+opportunity 
+
+11:5,10 25:5 
+40:24 53:15 
+
+opposed 53:16 
+54:11 
+
+opposing 13:1 
+option 34:10,11 
+
+35:20,22 36:2 
+options 33:25 
+
+48:12 
+oral 1:16 2:2,5 
+
+3:6 25:11 
+order 4:19 5:5 
+
+21:25 40:19 
+ordinary 8:14 
+
+31:2 
+Ortiz 19:5 
+outset 14:13 
+
+52:20 
+outside 49:8 
+overlooked 14:7 
+overrule 12:7 
+Overton 1:11 
+
+3:4 
+overwhelming 
+
+4:1 14:5 
+O'Connor's 
+
+23:17 54:14 
+
+P 
+P 3:1 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 63 
+
+pace 28:5 
+page 2:2 26:16 
+
+26:18 27:1,13 
+pages 18:18 
+paper 12:19 
+
+26:12 
+papers 16:4 
+
+21:12 30:14 
+pardon 33:16 
+
+35:9 44:20 
+part 26:24 37:4 
+
+49:7 52:7 
+partially 37:20 
+particular 15:3 
+
+23:14 24:1 
+34:1 46:6 55:3 
+
+parts 16:9 
+party 30:9 42:19 
+passed 33:20 
+pauperis 29:13 
+pay 17:10,21,24 
+
+18:25 
+people 24:9 
+
+27:10 37:4 
+39:1 40:7 41:5 
+45:12 46:18,18 
+
+percent 4:14,17 
+4:17 9:16 
+
+perfectly 33:9 
+period 43:10 
+
+48:20 
+permissible 9:21 
+person 16:2 24:3 
+
+24:4 38:19 
+45:18 46:17,20 
+
+person's 37:3 
+petition 35:23 
+petitioner 1:4,9 
+
+1:21 2:4,10 3:7 
+5:25 13:6,7 
+20:15,21 22:2 
+34:11 
+
+petitioners 3:11 
+3:17 23:16 
+24:21 50:4 
+54:16 
+
+petitioner's 3:14 
+
+3:16 
+philosophy 
+
+46:14 
+piece 12:19 
+place 12:10 
+
+13:21 17:10 
+48:11 
+
+places 54:24 
+plain 12:25 
+plaintiff 4:5,9 
+
+5:19 7:1,4 11:4 
+12:21 24:12 
+32:7 38:7 
+
+play 54:8 
+plead 4:9 19:13 
+
+36:11 50:6 
+pleading 4:4 5:1 
+
+5:22 8:21 11:7 
+12:10 13:8 
+20:3,14 22:1 
+31:2 50:18,19 
+52:24 
+
+please 3:9 7:23 
+7:23 25:14 
+
+PLRA 5:9,10 
+9:10,13,23,23 
+19:20,22 23:8 
+23:10 32:2 
+33:16,20 35:1 
+35:5 37:3 
+
+PLRA's 3:19 
+plurality 23:15 
+
+23:17 54:8 
+point 6:6 8:23 
+
+10:15 52:14 
+pointed 51:15 
+points 13:13 
+policy 10:23 
+
+46:10,25 47:5 
+47:7,19,22 
+48:2 51:12 
+53:24 
+
+position 12:6 
+50:7 51:4,7 
+
+possession 50:23 
+possible 18:22 
+
+22:22 47:24 
+
+possibly 8:1 
+24:16 
+
+potential 26:3 
+power 8:11 
+powers 8:15 
+practical 9:7 
+Pramstaller 
+
+47:17 
+precise 50:15 
+preclude 36:20 
+precondition 
+
+31:15 
+precursor 31:14 
+prejudice 29:3 
+
+49:22 
+preliminary 
+
+11:18,20 
+premises 28:19 
+presented 30:13 
+preserve 34:2 
+presumably 
+
+50:11 
+pretty 7:4 
+prevail 8:1 11:5 
+
+11:10 20:5 
+40:25 
+
+previous 23:23 
+28:2 29:12 
+47:22 
+
+previously 
+49:16 
+
+primarily 49:13 
+primary 48:13 
+prison 11:20 
+
+15:6,8,9 22:7 
+23:21 24:5,15 
+24:17,23 25:4 
+25:15 29:21 
+30:6,11,12,15 
+30:18 32:3 
+39:11 42:15,17 
+45:16,17 48:9 
+48:18 49:10 
+50:8 51:2 
+
+prisoner 5:20 
+6:11,18 7:18 
+7:21 11:19 
+
+13:10 14:14,18 
+16:8,18,22 
+17:1,2 18:1,14 
+18:22 19:8 
+22:9,11 23:22 
+24:1,12 25:1 
+25:16 26:19 
+30:14 36:2,5,8 
+37:10 38:14,17 
+39:14,15 40:4 
+40:24 41:4 
+50:11,13,15 
+51:5,5,6 52:20 
+52:24 53:3 
+55:9 
+
+prisoners 8:4 
+12:11,11 14:24 
+15:19 17:9 
+22:15 24:15 
+25:24 39:3 
+40:2 50:20,20 
+51:3 53:1 
+54:22 
+
+prisoner's 6:17 
+35:20,22 
+
+prisoner-plain... 
+6:9 
+
+probability 8:7 
+probably 8:2 
+
+18:4 38:6 
+39:23 42:11,23 
+43:13 
+
+problem 8:17,25 
+9:17 11:24 
+12:2,8 13:10 
+14:5,8 17:2 
+22:17 26:13,14 
+32:1 39:7,9 
+40:4,16 41:16 
+42:24 43:18 
+46:16,16,20 
+
+problems 25:25 
+procedure 3:21 
+
+4:5,8,11 8:18 
+8:22 10:20 
+12:8,20 29:19 
+38:16 54:5,19 
+
+54:23 
+procedures 
+
+10:19 11:7 
+15:6 22:16 
+
+proceed 34:12 
+34:18 
+
+proceeding 
+38:21,21 40:16 
+
+proceedings 
+26:10 54:10 
+
+process 28:15 
+29:18 39:22 
+42:16 43:2 
+48:3,4,10 49:8 
+49:14 51:6 
+
+processed 27:8 
+processing 27:6 
+profits 49:14 
+prohibit 11:2 
+prohibits 11:2 
+proof 51:16 
+proper 6:24 
+
+38:5 47:3 
+properly 20:7,9 
+
+20:10 45:25 
+46:2,3 
+
+propose 5:18 
+proposition 
+
+23:13 
+proven 30:24 
+provide 4:6 
+
+14:17 22:9 
+30:10 40:11 
+48:22 
+
+provided 24:16 
+provides 25:1 
+
+30:21 
+provision 11:13 
+
+30:20,21 31:9 
+31:14 32:21 
+33:12,17,21 
+35:5 36:15 
+55:3 
+
+provisions 5:8 
+9:24 11:14 
+12:7 31:19 
+53:18,19 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 64 
+
+prudent 34:1 
+purpose 25:19 
+
+33:22 38:11 
+40:14 48:8,14 
+48:17 52:7 
+
+purposes 25:21 
+pursues 43:19 
+pursuing 37:22 
+put 8:5 18:22 
+
+21:12 26:19 
+31:3 32:19,20 
+42:25 43:2,3 
+43:16 45:20 
+50:21 52:2 
+
+puts 18:14 19:9 
+putting 38:10 
+
+53:16,16 
+p.m 55:14 
+
+Q 
+qualify 17:12,24 
+quality 25:22 
+
+36:9 
+quantity 25:23 
+question 5:15 
+
+7:7 13:14,22 
+18:4,4 20:6,14 
+20:15 21:23 
+23:8,8,11,19 
+23:24 27:21 
+28:17,20 29:8 
+38:13 
+
+questions 4:2 
+25:3,6 28:18 
+
+quickly 30:24 
+33:23 
+
+quite 8:7 18:13 
+51:16 
+
+R 
+R 3:1 
+race 43:6 
+raise 53:14 
+raised 9:6 
+raising 53:13 
+reached 28:25 
+react 35:1 
+read 10:21 
+
+27:17 31:7 
+readily 37:1 
+reading 14:24 
+
+53:18 
+reads 31:20 
+real 12:1 
+realize 23:15 
+really 11:16 
+
+17:23 18:15 
+20:7 21:3 23:7 
+28:22 38:13 
+40:10 45:15 
+50:17 
+
+reason 8:2 15:23 
+18:11 37:8 
+42:2,19 
+
+reasonable 9:18 
+9:20 11:5,10 
+24:9 40:24 
+41:7 47:14 
+
+reasoning 8:8 
+reasons 15:18 
+
+26:22 28:7 
+29:14 
+
+rebrought 49:23 
+rebuttal 2:8 
+
+25:7 50:3 
+received 6:4 
+recognizing 
+
+29:19 
+recommended 
+
+39:19 
+record 12:25 
+
+21:13 25:25 
+26:9 
+
+records 51:13 
+reduce 14:9 
+
+48:19,21 
+reducing 49:1 
+refer 10:3 
+referring 24:7 
+refile 15:16 16:8 
+
+16:10 
+refiles 17:1 
+Reform 22:8 
+
+25:16 48:9,18 
+49:10 
+
+Regardless 7:12 
+regime 32:2 
+regulations 15:9 
+rejected 4:2 
+relevant 24:18 
+relief 26:22 
+
+33:12 37:5,5 
+37:10,16,21 
+38:22 42:5 
+
+relieve 48:9,14 
+48:18 
+
+religious 40:4 
+rely 33:2 
+relying 54:19 
+remaining 50:2 
+remedies 6:2,3 
+
+7:19,22 13:16 
+21:15 23:25 
+32:23 33:14 
+51:19 
+
+Remove 36:18 
+removed 36:16 
+repeat 50:22 
+repeatedly 8:19 
+reply 30:20 32:4 
+
+40:22 
+represented 
+
+16:3 
+requesting 
+
+52:10 
+requests 51:13 
+require 4:5 
+
+22:10 23:15,21 
+26:5 37:9 
+41:24 
+
+required 10:2 
+23:9 41:9 
+54:12 
+
+requirement 
+3:19 7:14 8:21 
+10:7 22:1 26:4 
+34:9 38:14 
+40:15 46:23,24 
+52:25 54:3,4 
+54:12 
+
+requires 22:18 
+41:20,21 52:5 
+
+52:5 
+requiring 11:20 
+
+32:6 
+researched 11:9 
+resolve 20:20 
+
+26:14 39:9 
+49:9 
+
+resolved 20:15 
+22:2,4 
+
+resolves 19:15 
+resources 26:2 
+
+34:2 49:16 
+respect 6:15 
+
+37:7 41:12 
+42:12 46:10 
+51:6 53:22,23 
+
+Respectfully 
+20:12 
+
+respond 5:20 
+7:7 11:21 
+40:23 49:6 
+53:8 
+
+responded 
+46:18 
+
+respondents 
+1:23 2:7 25:12 
+44:1 53:18 
+54:1 
+
+respondent's 
+21:6 
+
+responding 52:8 
+response 26:15 
+
+26:16,17,18 
+27:18 36:23 
+40:12 42:3 
+43:4 52:6,10 
+
+responses 27:12 
+27:14 30:13 
+39:23 49:20 
+
+responsible 39:4 
+39:12 42:18 
+
+rest 25:7 
+restriction 
+
+42:24 43:1,17 
+restrictions 43:7 
+result 13:9 14:6 
+
+26:2 27:21 
+
+44:11,14 
+results 29:1 
+retain 35:24 
+retained 33:9 
+retaliation 
+
+21:16 
+reveals 6:12 
+reverse 31:2 
+review 10:19 
+
+15:13 29:16 
+revoke 35:5 
+rid 48:25 
+right 7:10 9:9 
+
+10:11 14:16 
+18:9 22:24 
+23:7 24:14 
+26:16 33:18 
+34:16 36:21 
+38:2 43:15,18 
+49:21 54:6 
+
+rights 41:4 
+rigid 55:3 
+road 23:20 
+ROBERTS 3:3 
+
+7:8,12 9:11,25 
+13:12 14:3,16 
+17:9,13,19 
+18:20 25:8 
+37:8 46:8,21 
+47:18 49:24 
+50:1,10 51:1 
+53:22 54:2,22 
+55:12 
+
+rule 4:4,10 5:17 
+5:22 8:9,18,18 
+9:10,11 10:9 
+10:20 12:7,9 
+12:10 13:1,8,9 
+15:19 16:15,16 
+16:20 17:20 
+18:21 19:6,7 
+20:3,14 21:20 
+24:9,9 30:5,8 
+41:10,17,20,23 
+42:8,23 46:22 
+50:18,19 55:5 
+55:8 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 65 
+
+rulemaking 
+8:15 
+
+rules 3:21,22 4:5 
+4:7 8:22,24,25 
+9:3,7,12 10:14 
+11:25 12:1 
+23:15,21 28:20 
+28:21,25 29:8 
+29:18 41:6,8 
+49:12 53:20 
+
+run 29:6 
+
+S 
+S 1:11 2:1 3:1 
+satisfactory 
+
+42:7 
+satisfied 51:17 
+satisfy 3:18 5:21 
+
+11:19 51:17 
+save 25:7 
+saving 49:2 
+saying 35:10,25 
+
+39:20 43:5 
+44:16,17 
+
+says 7:21 8:10 
+13:15 16:22 
+22:15 31:16 
+32:16 33:12 
+38:19 39:11 
+40:11,22 41:11 
+42:5 45:17 
+47:9 54:23 
+
+Scalia 18:3,10 
+22:17,22 23:1 
+23:5,18 33:1 
+33:18 34:3 
+35:6,10,17 
+36:12,17,19,22 
+37:24 52:5,18 
+
+scenario 19:2 
+23:20 
+
+scenarios 5:19 
+scheme 14:4 
+schemes 13:25 
+
+19:23 
+screen 9:14 
+
+31:11 33:24 
+
+49:18 52:16 
+screened 28:11 
+screening 5:5,8 
+
+6:14 9:18,24 
+10:8 11:14 
+12:7 14:19 
+26:1 30:22 
+31:11 32:20 
+48:10 53:18,19 
+
+searches 50:22 
+Second 19:6 
+Secretary 10:16 
+section 6:18 
+
+10:17 
+Security 10:18 
+see 12:8 26:17 
+
+27:20 28:13 
+32:16 43:12 
+54:1 
+
+seeks 11:15 
+seen 7:20 26:11 
+
+47:17 
+segregation 
+
+50:21 
+sense 11:19 
+
+18:13 30:17 
+51:24 52:25 
+
+sentence 27:2 
+separate 26:18 
+served 28:10,12 
+
+28:15 46:6 
+serves 33:22 
+set 5:1 48:11 
+sets 5:16 22:8 
+settle 34:15,15 
+sheet 26:12 
+shoe 14:14,25 
+short 4:6 23:23 
+show 50:6 
+showed 30:11 
+side 18:5 19:25 
+
+20:19 
+silent 23:11 
+similar 14:2 
+Similarly 26:19 
+simple 15:2 
+simplest 16:7 
+
+simply 4:6 11:13 
+22:8,18 23:19 
+37:3 39:16 
+55:9 
+
+Sims 23:12 54:7 
+single 8:6 27:13 
+
+33:5 53:19 
+situation 7:24 
+
+9:12 12:6 
+30:22 33:12,15 
+
+situations 40:1 
+six 46:17 
+Sixth 3:18 4:4 
+
+5:14,16,20 
+8:14 10:4 12:5 
+15:18 16:20 
+17:7 20:16,22 
+21:2,4 22:10 
+29:9 41:8,10 
+41:17,19,23 
+42:8,11,22 
+43:21,23 44:2 
+44:7 45:7,9,10 
+45:19,23,23 
+46:22 47:18 
+
+slot 42:24 43:6 
+43:16 
+
+Social 10:17 
+somebody 31:5 
+
+39:17,20 47:15 
+somewhat 28:3 
+sorry 21:8 55:6 
+sort 28:3 37:5 
+SOUTER 9:3 
+
+11:22 41:19,25 
+42:14 43:8,22 
+44:10,18,21,24 
+45:4,7 47:25 
+48:6 
+
+space 26:15 
+spaced 27:13 
+speaking 22:20 
+special 8:10 
+specific 20:3 
+
+47:23,23 54:20 
+specifically 30:2 
+
+31:13 32:5,12 
+
+36:15 
+specificity 4:10 
+
+22:8 51:10 
+spelled 12:17 
+spending 49:17 
+
+49:19 
+spent 49:17 
+sponte 4:20 
+
+29:14,16,23 
+32:24 
+
+Spur 24:24 
+stage 6:14 41:22 
+
+42:1,5,10,21 
+43:10,24,24 
+44:3 48:2 
+
+stages 42:15 
+44:1 
+
+standard 11:18 
+11:20 41:2 
+
+standpoint 19:5 
+51:23 
+
+start 38:25 
+state 8:12 11:15 
+
+19:13,15 22:18 
+29:24 31:4 
+32:8,17 33:14 
+39:17 49:20 
+51:25 52:1 
+54:17 
+
+statement 4:6,19 
+26:22 
+
+states 1:1,18 
+25:23 26:6,12 
+26:13 
+
+state's 52:1 
+stating 46:14 
+statue 7:9 
+status 17:14,15 
+
+17:18,24 
+statute 6:22 8:10 
+
+8:10 10:3,25 
+13:14 17:2 
+26:5,6,6 29:6 
+29:13,13 31:20 
+32:2,15 33:19 
+34:15,18 48:11 
+
+statutes 31:25 
+
+33:7 
+statutory 13:13 
+
+14:4 22:11 
+23:9 34:6 
+
+stay 33:17,21 
+34:21,23 35:5 
+36:2,15 
+
+step 6:3 27:9,11 
+43:3,17,18,19 
+47:6,9 
+
+steps 6:5 43:5 
+49:6 
+
+Stevens 16:24 
+17:5 26:8,21 
+27:1,4,15,20 
+28:1,6,13 
+38:12 39:10,24 
+41:4 48:13,19 
+48:23 49:12 
+
+stopping 36:9 
+streamline 
+
+38:11 
+stretch 51:2 
+sua 4:20 29:13 
+
+29:16,22 32:24 
+subject 29:22 
+
+50:22 
+submitted 55:13 
+
+55:15 
+subsection 52:6 
+subsidiary 8:14 
+substance 7:13 
+
+11:24 12:2 
+substantively 
+
+21:7 
+sue 31:5 38:15 
+
+38:23 40:6,20 
+43:16 46:17 
+
+sued 24:22 
+45:11 
+
+sues 22:13 
+sufficient 12:24 
+
+25:2 37:10 
+sufficiently 
+
+54:20 
+suggesting 
+
+35:19,21 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 66 
+
+suing 21:21 
+29:23 
+
+summarizes 
+11:13 
+
+support 3:20,23 
+23:13 
+
+suppose 4:13 
+22:23 
+
+supposed 14:20 
+39:5,14 
+
+Supreme 1:1,17 
+sure 39:4 41:25 
+Surely 51:6 
+surgery 39:7,8 
+
+39:18 45:16 
+46:5 
+
+swallow 53:19 
+sys 15:25 
+system 23:21 
+
+24:15,17,23 
+25:2,4 30:24 
+38:11 
+
+T 
+T 2:1,1 
+take 7:24 8:25 
+
+10:13 11:6 
+19:3 31:19 
+47:25 
+
+taken 17:25 
+42:17 
+
+takes 10:9 19:8 
+talk 13:12 39:6 
+
+39:8,10 
+talked 39:19 
+talking 12:11 
+
+37:14 41:15 
+53:1,1 
+
+talks 40:25 
+tell 15:25 46:15 
+
+46:16 52:19 
+telling 45:18 
+term 5:10 8:20 
+
+9:24 10:18 
+termed 16:16 
+
+21:17 
+terms 9:7 11:14 
+
+text 12:1 
+Thank 25:8 
+
+49:24,25 55:12 
+thanks 45:17 
+thin 46:24 
+thing 15:16 16:7 
+
+18:7 39:3 
+things 15:24 
+
+16:2 37:1 39:5 
+think 4:20,22 
+
+5:17 6:10,16 
+6:16 7:3 9:1,1 
+10:11,12 11:8 
+11:16 12:4 
+17:20 18:9 
+19:1,5,18 
+21:24,25 23:7 
+23:16 35:4,7,7 
+35:10,13 36:19 
+40:1 43:13,14 
+43:20,21 44:7 
+44:13,15 45:2 
+48:25 49:2 
+51:22 52:25 
+54:7 
+
+thinking 36:10 
+thinks 16:4 
+
+38:18 
+third 13:14 20:6 
+
+24:24 27:9,10 
+Thomas 54:8 
+thought 46:21 
+
+54:2 
+three 3:10,10,20 
+
+6:5 12:20 
+17:17,17,20 
+41:5 43:5,25 
+47:21 49:6 
+
+throw 45:8 
+thrown 3:16 
+
+37:1 51:20 
+time 17:1 25:7 
+
+32:14 38:1 
+44:13 49:3,19 
+54:13 
+
+times 17:17 22:5 
+TIMOTHY 1:8 
+
+title 14:2 41:13 
+told 10:1 39:25 
+
+45:16 
+top 47:15 
+total 16:15 
+
+20:16,18 21:25 
+26:5 37:9 
+
+totally 20:23 
+49:8 
+
+touched 38:13 
+toughen 36:25 
+track 51:14 
+traditional 
+
+30:15 
+transcript 26:10 
+
+26:11 
+treat 35:11,11 
+treatment 25:18 
+
+46:5 
+true 5:2 16:12 
+
+28:19,20 36:7 
+37:12 43:21 
+
+truth 15:25 
+try 10:7 14:25 
+
+26:13 
+trying 8:15 
+
+18:18 37:4 
+Turning 22:6 
+turns 14:19 
+two 3:23 13:13 
+
+16:14 20:2 
+21:21 24:11 
+27:2,2 29:14 
+29:17 31:21 
+34:16 42:5,15 
+43:4,10,18,24 
+
+type 10:10 44:8 
+types 52:15 
+typewritten 
+
+27:13 
+typical 26:9 27:2 
+typically 15:1 
+
+26:12 27:3,18 
+37:15 
+
+U 
+ultimately 4:18 
+
+unable 13:10 
+unanimous 
+
+19:19 
+unburden 25:19 
+underlying 
+
+23:10 
+understand 
+
+10:11 15:3 
+16:1 40:6 42:1 
+43:9 44:11 
+
+understandable 
+47:16 
+
+understanding 
+15:4,5 43:14 
+44:1 
+
+understood 
+43:23 
+
+unexhausted 
+4:15 13:18,20 
+14:14,15,21,25 
+16:19 19:4,10 
+34:13,19,22 
+36:3,6 37:14 
+52:15 
+
+unfortunately 
+20:13 46:6 
+
+unimaginable 
+32:23 
+
+United 1:1,17 
+universally 
+
+11:13 
+universe 24:18 
+unpublished 
+
+21:4 
+unresolved 25:3 
+unusual 9:12 
+
+28:23 
+use 34:21 
+uses 13:25 14:1 
+U.S.C 5:11 
+
+V 
+v 1:5,10 8:20 
+
+10:14 19:5 
+22:15,15 23:12 
+24:24 54:7 
+
+valid 33:9 
+
+variety 27:16 
+various 5:8 
+verified 22:5 
+version 29:12 
+versions 16:15 
+
+16:21 
+versus 3:4,4 
+
+29:11 38:4 
+view 40:6 
+VII 14:2 
+volume 48:19,21 
+
+W 
+waivable 19:25 
+waiver 30:20 
+
+32:4 40:22 
+Walker 24:7 
+Walton 22:4 
+
+42:23,24 54:16 
+want 8:5 10:7 
+
+15:9 34:12,12 
+35:14,22,25 
+36:4,4,5 44:12 
+53:14 
+
+wanted 11:19 
+wants 18:15 
+
+38:22 40:5 
+Warden 1:6 
+
+42:25 
+warden's 39:13 
+Washington 
+
+1:13 
+wasn't 13:4 16:3 
+
+21:11 43:8 
+48:23 54:6 
+
+way 4:16 7:20 
+7:25 9:4 13:1 
+27:10 33:8 
+35:11 36:17 
+39:9 42:6 
+
+week 18:2 
+Welfare 10:17 
+went 6:5 24:17 
+weren't 9:12 
+We'll 3:3 
+we're 28:5 37:14 
+we've 14:7 36:23 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 67 
+
+41:16 05-7058 1:5 9(c) 4:11 9:10 
+WILLIAM 1:11 05-7142 1:10 
+Williams 1:8 3:4 
+
+22:4 24:7 1 
+29:12 54:16 11,000 49:1 
+
+win 23:16 11:06 1:18 3:2 
+wondering 27:4 12 27:7,24 
+Woodford 19:20 12(e) 4:20 
+
+22:14,15 38:4 12:06 55:14 
+word 10:21 21:7 13,000 27:8,15 
+words 26:5 27:17,21 28:1 
+work 13:9 21:17 28:8 
+worked 24:15 15 12:8 45:20 
+
+24:23 160 28:4 
+works 49:8 180 28:4 
+wouldn't 12:1 1997 5:11 
+
+21:22 38:6 1997e(c) 30:21 
+writ 33:13 1997e(g) 30:20 
+written 16:2 40:21 
+wrong 6:10 1997(e) 11:1,12 
+
+20:23,25 21:18 1997(g) 11:10 
+43:17 
+
+wrote 34:17 2 
+2 33:25 48:2 
+
+X 20 4:17 38:8 
+x 1:2,12 23:8,8 200 27:24 28:1,4 
+
+23:19 42:2,3,5 28:5,7,9 49:1 
+42:6 43:24 2006 1:14 
+44:4 45:1 48:1 205(g) 10:17 
+
+23 10:20 
+Y 25 2:7 
+
+Y 23:19 42:4,5 
+42:10,13,16,18 3 
+42:21 43:11,24 3 2:4 
+44:4,18,22,23 30 1:14 
+45:2,3,6 48:1,2 30th 27:24 
+
+Yamasaki 10:14 
+Yeah 43:8 
+year 3:15 27:23 
+
+4 
+42 5:11 
+
+28:4 54:17 
+years 28:3 31:21 
+
+5 
+50 2:10 
+
+$ 
+$2.50 18:1,1 
+$350 17:25 
+$50 18:25 
+
+8 
+8 8:18 9:11 10:9 
+80 4:14,17 9:16 
+
+0 9 
+
+Alderson Reporting Company 
+
+

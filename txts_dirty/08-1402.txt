@@ -1,0 +1,7485 @@
+
+          
+
+  
+
+               
+
+                 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+MARY BERGHUIS, WARDEN, : 
+
+Petitioner : 
+
+v. : No. 08-1402 
+
+DIAPOLIS SMITH. : 
+
+- - - - - - - - - - - - - - - - - x 
+
+Washington, D.C. 
+
+Wednesday, January 20, 2010 
+
+The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 10:14 a.m. 
+
+APPEARANCES: 
+
+B. ERIC RESTUCCIA, ESQ., Solicitor General, Lansing, 
+
+Mich.; on behalf of Petitioner. 
+
+JAMES STERLING LAWRENCE, ESQ., Royal Oak, Mich.; on 
+
+behalf of Respondent. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+              
+
+             
+
+             
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+
+B. ERIC RESTUCCIA, ESQ. 
+
+On behalf of the Petitioner 3 
+
+JAMES STERLING LAWRENCE, ESQ. 
+
+On behalf of the Respondent 31 
+
+REBUTTAL ARGUMENT OF 
+
+B. ERIC RESTUCCIA, ESQ. 
+
+On behalf of the Petitioner 56 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+P R O C E E D I N G S 
+
+(10:14 a.m.) 
+
+CHIEF JUSTICE ROBERTS: We’ll hear argument 
+
+first this morning in Case 08-1402, Berghuis v. Smith. 
+
+Mr. Restuccia. 
+
+ORAL ARGUMENT OF B. ERIC RESTUCCIA 
+
+ON BEHALF OF THE PETITIONER 
+
+MR. RESTUCCIA: Mr. Chief Justice, and may 
+
+it please the Court: 
+
+This is really a case about the law of 
+
+habeas corpus for this murder conviction that was 
+
+obtained in the Michigan courts. 
+
+The issue was whether the Michigan Supreme 
+
+Court unreasonably applied clearly established Supreme 
+
+Court precedent in rejecting Mr. Smith's claim that 
+
+his jury was not drawn from a fair cross-section of 
+
+the community. 
+
+The Michigan Supreme Court did not act 
+
+unreasonably in concluding that there was no 
+
+unconstitutional underrepresentation and that there 
+
+was no systematic exclusion. This Court's decision in 
+
+Duren did not require a different result on either 
+
+point, and this Court should reverse the Sixth 
+
+Circuit. 
+
+I think it's important to note that there 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+are two prongs at issue: The fair and reasonable 
+
+representation prong and the systematic exclusion 
+
+prong. And it’s also significant to understand that 
+
+the disparities at issue here are relatively small, 
+
+that the time period at issue runs from -- from April 
+
+of 1993 to October of 1993, where there was 
+
+information -- for those 6 months for which the 
+
+processes at play were measured. 
+
+And the percentage of African-Americans that 
+
+appeared in the venires during that time period was --
+
+they comprised 6 percent of the venires, where the 
+
+jury-eligible population was 7.28 percent. So your --
+
+so there was a 1.28 percent absolute disparity during 
+
+this 6-month time period. That can also be measured 
+
+as an 18 percent comparative disparity. 
+
+Now, if you compare that to the disparities 
+
+that are issue -- at issue in Duren, they really are a 
+
+magnitude of difference, that the disparities in Duren 
+
+involve the exclusion of women in Missouri, where they 
+
+comprised -- women comprised 54 percent of the 
+
+population and only 14.5 percent of the venires over 
+
+an 8-month period of time. 
+
+JUSTICE BREYER: The -- I don't know if this 
+
+is relevant or how to use it, but years ago, I took a 
+
+course in this kind of thing at the Kennedy School. I 
+
+4 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+was teaching, and they said the only way you could 
+
+figure out what -- what's what here is you use 
+
+something called “binomial theorem,” and you have to 
+
+have, like, urns, and you imagine that there’s an urn 
+
+with 1,000 balls, and 60 of them are red, and 940 are 
+
+black, and then you select them at random, and -- and 
+
+12 at a time. You know, fill 12 -- fill a hundred 
+
+with 12 in each. 
+
+And when we tried to do that, just for the 
+
+interest of it, I -- I found that you would expect, 
+
+with these numbers, something like a third to a half 
+
+of juries would have at least one black person on it. 
+
+Now, that may be wrong, because I am not a 
+
+mathematician, but -- but putting that together, it 
+
+looks as if there is a pretty big disparity. 
+
+MR. RESTUCCIA: Well --
+
+JUSTICE BREYER: On the other hand, that 
+
+isn't what they testified to, so I guess you’re going 
+
+to tell me just ignore it and forget it. 
+
+MR. RESTUCCIA: Well, if you’re looking at 
+
+the Michigan Supreme Court decision, I think it's 
+
+important to note that it's not just that it would 
+
+have to be incorrect; it would have to be objectively 
+
+unreasonable under the AEDPA standard, that what’s at 
+
+issue here is did the Michigan Supreme Court 
+
+5 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+unreasonably apply --
+
+JUSTICE BREYER: Well, you know, maybe it’s 
+
+the only way to do it, that the statistician stays 
+
+with these urns, which I guess they have computer 
+
+programs for. 
+
+MR. RESTUCCIA: Well --
+
+JUSTICE BREYER: I -- I don't know, in other 
+
+words, and maybe I should just -- I hate to write 
+
+something, like, saying 2 and 2 is 6. 
+
+JUSTICE SCALIA: But we don't have any urns 
+
+here. 
+
+(Laughter.) 
+
+JUSTICE BREYER: No. You can skip it, if 
+
+you want. If there's any comment, fine. 
+
+JUSTICE GINSBURG: I think your point was 
+
+that Duren was quite different in the numbers --
+
+MR. RESTUCCIA: Yes. 
+
+JUSTICE GINSBURG: -- starting out with 
+
+women 54 percent of the population, and then dwindled 
+
+to 14.5 percent of the -- of the jurors, available 
+
+jurors. 
+
+MR. RESTUCCIA: Yes, Your Honor. 
+
+CHIEF JUSTICE ROBERTS: I guess the point 
+
+is, just following up, it's not that you’re going to 
+
+say 2 plus 2 is 6. I suppose, under AEDPA, all you 
+
+6 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+have to do is say 2 plus 2 is somewhere between 3 and 
+
+5, right? 
+
+MR. RESTUCCIA: Right. That it’s not 
+
+unreasonable, and I think the best evidence of the 
+
+fact that this decision was not unreasonable is I --
+
+in the blue brief, I put together a table of what the 
+
+other circuits have done with comparable statistical 
+
+disparities. 
+
+And it runs -- from the First Circuit 
+
+through the Tenth Circuit, I have seven circuits' 
+
+worth of opinions, and of course, there really are 
+
+additional cases, if you examine this. And if you 
+
+look at the kinds of disparities that have been 
+
+examined by other courts on --
+
+JUSTICE STEVENS: May I interrupt with this 
+
+question that goes both to what Justice Ginsburg asked 
+
+and the other? Should we treat all areas the same, 
+
+depending -- say it's -- the disparity between a 
+
+jurisdiction which has only 3 or 4 percent of a 
+
+minority should be treated similarly to a jurisdiction 
+
+where they have 30 or 40 percent? 
+
+MR. RESTUCCIA: Well, the -- in my view, 
+
+this Court really didn't provide guidance in Duren 
+
+about how this should be measured. In fact, Duren 
+
+doesn't specify what kind of measurement tools should 
+
+7 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+be used for examining disparity. 
+
+JUSTICE STEVENS: But isn't it perfectly 
+
+obvious that you’re going to have dramatic differences 
+
+where you only have a very small percentage, as in --
+
+in Grand Rapids, for example, and where you have a 
+
+major percentage as you did in Duren. 
+
+MR. RESTUCCIA: Well, I think that's right. 
+
+And that's one of the reasons that on direct review 
+
+the courts are virtually unanimous in rejecting these 
+
+kinds of small disparities. So if you look at the 
+
+table on pages 32 and 33, the circuits, on direct 
+
+review, that were most comparable were the Second 
+
+Circuit decision in which the percentage of the 
+
+distinct group in the community was 7.08 percent and 
+
+in the jury pool it was 5.0 percent --
+
+JUSTICE KENNEDY: But -- but I suppose the 
+
+thrust of Justice Stevens's question was that if you 
+
+have a very small population that we are concerned 
+
+with, then the disparity can be very substantial, 
+
+especially if you use the comparative disparity. 
+
+MR. RESTUCCIA: That's right. At the --
+
+JUSTICE KENNEDY: And I think -- at least, I 
+
+was interested in that aspect of his question. 
+
+MR. RESTUCCIA: Well, as kind of the first 
+
+matter, it seems like this Court doesn't have to 
+
+8 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+really reach that hard question, insofar as the 
+
+Michigan Supreme Court's decision is entitled to 
+
+deference under AEDPA, meaning --
+
+JUSTICE KENNEDY: Yes, but we have a half­
+
+hour. I’d kind of like to know how to --
+
+MR. RESTUCCIA: Okay. No, I understand. I 
+
+understand. I just want to make that as kind of a 
+
+first point. Now, for the second point, it seems to 
+
+me that the absolute disparity test is the better 
+
+measure for examining -- examining these questions. 
+
+And the reason for that is that it objectively 
+
+captures the number of missing jurors that are part of 
+
+the venire, whereas the --
+
+JUSTICE GINSBURG: But you -- but your test 
+
+is 10 percent. And if you have a minority, what is it 
+
+here? 7 point -- whatever it is. 7 --
+
+MR. RESTUCCIA: 7.28. 
+
+JUSTICE GINSBURG: It's under 10 percent. 
+
+That would mean that a district is free to just 
+
+disregard all the people who are under 10 percent of 
+
+the population. 
+
+MR. RESTUCCIA: The 10 percent test is not 
+
+really necessarily tied to the absolute disparity. In 
+
+other words, this Court could conclude that the 
+
+absolute disparity test is the better test without 
+
+9 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17 -- 
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+using that 10 percent threshold. The reason I suggest 
+
+the 10 percent threshold is that's really what's 
+
+happening on the ground in the Federal courts. It's 
+
+very hard to find a case in which there’s a --
+
+JUSTICE SOTOMAYOR: You would suggest that 
+
+in a population that has 9 percent of any group, 
+
+protected group, that if they didn't have one person 
+
+serve on a jury per year of that group, that that 
+
+would not -- under an absolute disparity test using 
+
+the 10 percent figure, that would not give rise to any 
+
+kind of suspicion? 
+
+MR. RESTUCCIA: That's right. Under -- if 
+
+this Court adopted it --
+
+JUSTICE SOTOMAYOR: It would not meet the 
+
+Duren's second prong. 
+
+MR. RESTUCCIA: That's right. If the Court 
+
+JUSTICE SOTOMAYOR: Does that make any sense 
+
+to you? 
+
+MR. RESTUCCIA: It reflects the actual 
+
+practice of the courts because of the -- if you look 
+
+at the --
+
+JUSTICE SOTOMAYOR: Well, I don't think that 
+
+-- that any court has suggested that the complete 
+
+absence of the protected group in that kind of number 
+
+10 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+wouldn't give rise to a fair representation claim. 
+
+That's why this Court, the Michigan court, and many 
+
+others have said that the absolute disparity test just 
+
+can't be used in every circumstance. 
+
+MR. RESTUCCIA: Well, the -- it seems --
+
+looking at what the Federal courts have done, they’ve 
+
+all -- they’ve generally used multiple tests. Now, 
+
+there are several circuits that have relied on this 10 
+
+percent threshold, but it's not necessary for the 
+
+State to prevail in order for this Court to adopt the 
+
+10 percent threshold. 
+
+JUSTICE SOTOMAYOR: I don't. The question I 
+
+have you for you is -- that's what you have been 
+
+advocating, or at least your brief suggested we 
+
+should. Wouldn't it be better for to us leave this in 
+
+the hands of the courts to sort of figure out what 
+
+test is better under what circumstances than us 
+
+announce a flat rule that would lead to a result like 
+
+the example that I just used? 
+
+MR. RESTUCCIA: I -- I understand that 
+
+point. The reason that I'm suggesting a threshold 
+
+also is it corresponds to a practical aspect of the 
+
+application of these rules. The -- if you have a 
+
+sufficiently small absolute disparity, as a matter of 
+
+probability, it’s not likely to affect the actual 
+
+11 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+composition of the petit jury. 
+
+JUSTICE SOTOMAYOR: Well, I agree that if a 
+
+protected group is 1 percent of the population, that 
+
+it’s not likely that their absence is going to give 
+
+rise to any flags. 
+
+MR. RESTUCCIA: Right. 
+
+JUSTICE SOTOMAYOR: But I think there is a 
+
+difference. I don’t -- I just don't know 
+
+statistically where. And we have to leave this in the 
+
+judgment of the lower courts as to where between 1 and 
+
+9 or 1 and 10 a difference makes sense. And that's 
+
+what the courts are saying, is: We can't use one test 
+
+to determine that. 
+
+MR. RESTUCCIA: Well -- and one of the 
+
+concerns I have is I -- for example, I know in Kent 
+
+County that if you look at the other distinct groups ­
+
+- you look at the 1990 census for Kent County, it was 
+
+comprised of 2 point -- 2.9 percent Latino-Americans, 
+
+1.1 percent Asian-Americans, and 0.6 percent Native 
+
+Americans. 
+
+Now, if you look at the one month that's 
+
+been placed at issue, in which Mr. Smith is indicating 
+
+that there was a 35 percent comparative disparity for 
+
+that one month, if that becomes the threshold, the 
+
+standard used, which the Sixth Circuit concluded was ­
+
+12 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+- established a violation of the second prong, then if 
+
+you think about the practical application that -- for 
+
+Michigan, for Kent County, if you take your 158 jurors 
+
+in that jury pool, you’d expect for that one month for 
+
+there to be four or five Latino-Americans, two Asian-
+
+Americans, and one Native American. 
+
+JUSTICE SCALIA: What's wrong --
+
+MR. RESTUCCIA: What’s missing -- I’m sorry. 
+
+JUSTICE SCALIA: Yes. What's wrong with a 
+
+rule? 
+
+MR. RESTUCCIA: What's wrong with what? 
+
+JUSTICE SCALIA: With a rule? With picking 
+
+a number, rather than leaving it up to the courts of 
+
+appeals or the district courts to use different 
+
+numbers, different times? I don't have to review all 
+
+of these cases all the time. Why don't we pick a 
+
+number? You want 10, right? 
+
+MR. RESTUCCIA: That what was I --
+
+JUSTICE SCALIA: Yes --
+
+MR. RESTUCCIA: That has been the practice 
+
+of the courts below. That's why I'm -- I'm advocating 
+
+it. But it does correspond to this idea that below a 
+
+certain point, absolute disparity will have no 
+
+practical -- for example, in this case, the venire at 
+
+issue, according to the State trial court, included 60 
+
+13 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+prospective jurors, and there were three African-
+
+Americans, which would then constitute 5 percent. 
+
+Now, in order for that percentage to 
+
+correspond exactly to the jury-eligible population, 
+
+there would had to have been one or two more African-
+
+American jurors as part of that venire. Well, as a 
+
+matter of probability, if you have 12 being selected 
+
+from 60 -- this is kind of your point, Justice Breyer 
+
+-- that it's not -- it's more likely than not that 
+
+would have no effect on the actual selection of the 
+
+petit jury --
+
+JUSTICE BREYER: I don't know. The one 
+
+thing I learned from the urn business is it never 
+
+turns out the way you think. 
+
+(Laughter.) 
+
+JUSTICE BREYER: For example, it had the 
+
+example of, like, the eight: There are eight out of a 
+
+hundred, and you run this thing a thousand times, and 
+
+you’ll discover that there is one black juror on about 
+
+half the juries, or a third, anyway. That's much more 
+
+than I would have thought intuitively. And I might 
+
+not have even read the example correctly. So you see 
+
+why I -- I’m at sea, as soon as you tell me to be a 
+
+statistician. I even got a book called Statistician 
+
+for Lawyers. That didn't help me very much. 
+
+14 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+(Laughter.) 
+
+JUSTICE SCALIA: That's why Las Vegas makes 
+
+a profit, right? 
+
+(Laughter.) 
+
+CHIEF JUSTICE ROBERTS: Well, it does 
+
+depend, doesn't it, on the size of the -- the urn? In 
+
+other words, if it's a smaller --
+
+(Laughter.) 
+
+CHIEF JUSTICE ROBERTS: If it's 10,000 of 
+
+these balls and you are going to go through it 10,000 
+
+times, it's more likely that you are going to get a 
+
+sample that reflects the overall percentage, correct? 
+
+MR. RESTUCCIA: I think that's right. One 
+
+of the -- one of the reasons, also -- talking about 
+
+this 10 percent as a rule -- is that if you look 
+
+through these cases, you’ll see a lot of -- a lot of 
+
+the courts, on direct review -- and I think -- I'm 
+
+going to come back to this point, that this, of 
+
+course, is an AEDPA case, so the question is whether 
+
+the Michigan Supreme Court acted unreasonably. And so 
+
+I think there’s a different standard, that it doesn't 
+
+have to have gotten it right; it had to have been 
+
+objectively unreasonable. 
+
+But setting that aside, you’ll find many 
+
+cases in which there are disparities of 5 percent and 
+
+15
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+7 percent which have been rejected. And the reason is 
+
+you have neutral processes, processes that everyone 
+
+would agree are reasonable on their face, which result 
+
+in disparities for distinct groups. 
+
+JUSTICE KENNEDY: Are you -- are you saying 
+
+that systematic exclusion -- and we are assuming good 
+
+faith, no intent to discriminate --
+
+MR. RESTUCCIA: Right. 
+
+JUSTICE KENNEDY: -- that systematic 
+
+exclusion is always proven or disproven by statistics? 
+
+MR. RESTUCCIA: No. I'm making just the --
+
+the opposite point, that under the third --
+
+JUSTICE KENNEDY: Well --
+
+MR. RESTUCCIA: I’m sorry. 
+
+JUSTICE KENNEDY: And I’ll -- I’ll allow you 
+
+to answer, of course, but --
+
+MR. RESTUCCIA: Please. 
+
+JUSTICE KENNEDY: If not, how do we show 
+
+systematic exclusion? Again, assuming good faith, no 
+
+intent to discriminate. 
+
+MR. RESTUCCIA: The Duren case involved a 
+
+categorical distinction, meaning women were exempted 
+
+in a different way than men. Women had an automatic 
+
+exemption. This Court didn't delineate in Duren that 
+
+if you had just a disparate impact based on a neutral 
+
+16 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+process, that that would be sufficient to give rise to 
+
+systematic exclusion. And that's really been the way 
+
+the Federal courts have applied it on direct review, 
+
+that there --
+
+JUSTICE ALITO: The statistical issue is 
+
+very interesting, but I -- I wonder, if we were not 
+
+looking at this through AEDPA, why we -- why a court 
+
+should necessarily have to start with the question --
+
+with the elements of the prima facie -- with the 
+
+question of whether there is unconstitutional 
+
+underrepresentation, when in the end, as I understand 
+
+Duren, the defendant has to identify some aspect of 
+
+the jury selection process that has a disproportionate 
+
+impact on the group involved and is unreasonable? And 
+
+unless that can be done at the outset, why struggle 
+
+with these statistics? 
+
+Now, here, to illustrate, the aspect of the 
+
+jury selection process that the Sixth Circuit thought 
+
+was unreasonable was the prior practice of choosing 
+
+the jurors first for the district courts, the 
+
+misdemeanor courts, rather than the circuit courts, 
+
+the -- the felony courts. But the -- the trial judge, 
+
+it seemed to me, address this in -- in a very 
+
+thoughtful way, and he said there just isn't any proof 
+
+that this old system had that effect. 
+
+17 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+And it's hard for me to see how it could 
+
+have that effect, unless the -- the number of jurors 
+
+chosen for the district courts in Grand Rapids was 
+
+disproportionate to the number chosen for the district 
+
+courts in the other jurisdictions within the county. 
+
+So that seems to me to be the end of the case. 
+
+And why does it make sense to -- to struggle 
+
+with this rather complicated statistical problem, if 
+
+at the end of the day, it's going to come down to 
+
+something of that nature? 
+
+MR. RESTUCCIA: I think that may be the 
+
+easiest way to resolve this case, because under the 
+
+third prong, the Michigan Supreme Court on the 
+
+question of jury assignment concluded that Mr. Smith 
+
+had failed to factually show that there was any 
+
+underrepresentation that arose from that process. 
+
+JUSTICE GINSBURG: Didn't the Michigan 
+
+Supreme Court do essentially what Justice Alito 
+
+suggested, that they said: We’ll give you the benefit 
+
+of the doubt, go on to the third. 
+
+But on that third, it seems to me there’s 
+
+nothing that shows us what was the representation in 
+
+the district before they made the change vis-à-vis the 
+
+circuit courts, was there? 
+
+MR. RESTUCCIA: The -- the information that 
+
+18
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Mr. Smith's expert provided is he -- he had -- there 
+
+are two jury terms that were described, one for 6 
+
+months, in which this juror assignment to the local 
+
+courts first occurred, and then 1 year for the 
+
+following year, in which the jury assignment did not 
+
+send them to the local courts first. So you have two 
+
+different pools that are being compared. 
+
+The -- if you look at page 13 of the blue 
+
+brief, it outlines what the disparity was according to 
+
+Mr. Smith's expert for the time which the assignment 
+
+to local courts occurred. And in that diagram, it 
+
+shows, at the end, that there was an 18 percent 
+
+comparative disparity. And that's the final column in 
+
+the totals. 
+
+Now, that's what occurred at the time of 
+
+which the jury assignment to the local courts occurred 
+
+first. The following year, the comparative disparity 
+
+was 15 percent, where the -- where the jurors were not 
+
+sent to local courts first. In other words, there was 
+
+a difference of a 3 percent comparative disparity. 
+
+Now, no one suggests that a 3 percent 
+
+comparative disparity could -- could justify a claim 
+
+of a violation of Duren. It's -- it's not 
+
+statistically significant, because when you talk about 
+
+3 percent comparative disparity or 4 percent 
+
+19 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+comparative disparity, you are talking about two or 
+
+three jurors over the entire time period --
+
+JUSTICE GINSBURG: That -- that's in the --
+
+in the circuit court. Do we know what the figures 
+
+were just for the district court? 
+
+MR. RESTUCCIA: No. There -- there was no 
+
+information -- the reason -- the Michigan Supreme 
+
+Court ultimately rejected the claim on the jury 
+
+assignment process because there was no evidence other 
+
+than anecdotal testimony about how sending jurors to 
+
+local courts would result in a deficiency of African-
+
+Americans in the circuit court or the felony court --
+
+courts. So that was the basis. 
+
+They -- so in a way, this touches on Wood v. 
+
+Allen. It was a factual determination, whether it’s 
+
+under 2254(d)(2) or 2254(e)(1). The Michigan Supreme 
+
+Court's conclusion that Mr. Smith had failed to show 
+
+factually that there was any underrepresentation that 
+
+arose from the jury assignment process is entitled 
+
+deference. 
+
+JUSTICE STEVENS: But isn't it possible --
+
+it's awfully hard to get these percentages when you 
+
+get small numbers, as you do. But doesn't it seem 
+
+intuitively obvious that if you give the district 
+
+courts first crack of -- of the size of the pool that 
+
+20 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+has more of the African-American potential jurors in 
+
+it than the other, that it's -- it's bound to have an 
+
+impact? 
+
+MR. RESTUCCIA: No. There’s -- there’s no 
+
+logical necessity that sending courts -- because you 
+
+understand that you have the entire county, and the 
+
+county is then broken up into districts? 
+
+JUSTICE STEVENS: Right. 
+
+MR. RESTUCCIA: And the districts are the 
+
+local courts, and they are misdemeanor courts. 
+
+JUSTICE STEVENS: But -- but there’s a much 
+
+higher percentage of African-Americans in Grand Rapids 
+
+than there is in the county as a whole. 
+
+MR. RESTUCCIA: That's right. But all those 
+
+other outlying areas also have to send their jurors to 
+
+the district court first, too. It's not like it's 
+
+just one segment gets sent to the district court. All 
+
+of the jurors get sent to the district courts first. 
+
+The only -- the -- the proof required to show that 
+
+somehow the district court for Grand Rapids went 
+
+through more jurors than did the other local courts 
+
+proportionately --
+
+JUSTICE STEVENS: But -- but the jurors that 
+
+served on the district court, were they -- were they 
+
+taken from the entire county, too, or just from Grand 
+
+21 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Rapids? 
+
+MR. RESTUCCIA: No, they were -- all of the 
+
+-- all of the district courts -- Grand Rapids, 
+
+Rockford, all of these small municipalities -- drew 
+
+from the circuit court pool. 
+
+JUSTICE STEVENS: So the district court 
+
+jurors could -- could include as many jurors who are 
+
+not from Grand Rapids as they could from Grand Rapids? 
+
+MR. RESTUCCIA: Exactly. 
+
+JUSTICE STEVENS: I see. 
+
+MR. RESTUCCIA: In other words, the proof --
+
+CHIEF JUSTICE ROBERTS: I'm sorry. That --
+
+I'm confused. 
+
+MR. RESTUCCIA: That’s all right. 
+
+CHIEF JUSTICE ROBERTS: I thought it was the 
+
+other way around. I thought Grand Rapids gave however 
+
+many -- you know, 30 percent to the pool and then took 
+
+Grand Rapids people back? 
+
+MR. RESTUCCIA: It does take Grand Rapids 
+
+people, that's right. That’s how it happens. You’re 
+
+drawing from the entire county. 
+
+I'm sorry if I -- if I've -- if I've stated 
+
+it in a way that's misleading. I apologize. 
+
+JUSTICE STEVENS: I -- apparently, we were 
+
+not communicating correctly. 
+
+22 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15 --  
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. RESTUCCIA: All of the jurors from the 
+
+entire county are drawn into one pool. 
+
+JUSTICE STEVENS: Right. 
+
+MR. RESTUCCIA: And then the -- the local 
+
+courts can identify those people that came from within 
+
+their jurisdiction and draw them out. 
+
+JUSTICE STEVENS: So the --
+
+MR. RESTUCCIA: Everyone does it. 
+
+JUSTICE STEVENS: So the jurors who served 
+
+on the district court were primarily from Grand 
+
+Rapids, rather than Kent County as a whole? 
+
+MR. RESTUCCIA: The -- there’s no 
+
+information to -- in the record --
+
+JUSTICE STEVENS: Well, let me just ask you 
+
+MR. RESTUCCIA: -- that indicates that. 
+
+JUSTICE STEVENS: -- a factual question. 
+
+Could they put on the district court jurors who did 
+
+not come from Grand Rapids? 
+
+MR. RESTUCCIA: No. The -- the district 
+
+court for Grand Rapids had to be Grand Rapids 
+
+residents. You're exactly right. 
+
+JUSTICE STEVENS: So, then, inevitably, if 
+
+you give the district court jurors first, a pool of 
+
+African-American jurors are going to be larger serving 
+
+23
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+in the district court than in the -- in the felony 
+
+court. 
+
+MR. RESTUCCIA: It all depends on the local 
+
+courts and their usage of jurors. If -- if Grand 
+
+Rapids actually required fewer jurors, it would -- it 
+
+would result in a larger number of African-Americans 
+
+being present on the circuit court. 
+
+The whole concept underlying the claim that 
+
+-- that this had a disproportionate effect is the idea 
+
+that Grand Rapids must have needed proportionately 
+
+more jurors than the other local courts might. 
+
+JUSTICE BREYER: Okay. So, is there anybody 
+
+who said whether -- if all -- they all take their 
+
+jurors first, the districts, and Grand Rapids uses a 
+
+higher percentage of jurors. So now there -- and they 
+
+have more of the black jurors, so that there are fewer 
+
+left over --
+
+MR. RESTUCCIA: That would be the argument. 
+
+JUSTICE BREYER: That could be. Now, is 
+
+there any -- in this record, does anybody say whether 
+
+that's okay or not? I mean, to -- to have people 
+
+serve jury duty near where they live or nearer where 
+
+they live, on its face, is not so bad. Did -- did 
+
+anybody say whether this is good or bad? 
+
+MR. RESTUCCIA: Well, there wasn't really 
+
+24 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+testimony whether it was good or bad. The -- the 
+
+anecdotal information was that it -- it took African-
+
+American jurors out of the larger pool. The anecdotal 
+
+information from the court administrator was: We were 
+
+afraid this process was draining -- “siphoning” was 
+
+the language -- siphoning jurors from the circuit 
+
+court. 
+
+JUSTICE BREYER: Are you --
+
+JUSTICE SCALIA: Do you have to be a -- a 
+
+resident of the district in order to serve as a juror 
+
+in the district court? 
+
+MR. RESTUCCIA: Yes. 
+
+JUSTICE SCALIA: You have to be? 
+
+MR. RESTUCCIA: That's right. 
+
+JUSTICE SCALIA: So then if this system were 
+
+not in effect, and if Grand Rapids had to take white 
+
+jurors from other counties as opposed to a larger 
+
+percentage of black jurors from Grand Rapids, then 
+
+you’d have a claim in Grand Rapids, wouldn't you? 
+
+MR. RESTUCCIA: It would create a problem in 
+
+Grand Rapids. That's right. 
+
+JUSTICE SCALIA: Well, you -- you’d have a 
+
+jury pool in Grand Rapids that wouldn't reflect the 
+
+larger number of blacks in Grand Rapids. 
+
+MR. RESTUCCIA: That's exactly right. 
+
+25 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SCALIA: So you’re damned if you do 
+
+and damned if you don't, right? 
+
+MR. RESTUCCIA: I think that's right. 
+
+CHIEF JUSTICE ROBERTS: So -- so do we have 
+
+any evidence in the record that -- I gather this whole 
+
+claim depends upon Grand Rapids having more need for 
+
+jurors per capita than anywhere else? 
+
+MR. RESTUCCIA: That's exactly right. 
+
+CHIEF JUSTICE ROBERTS: So do we have any 
+
+evidence in the record that that’s the case? 
+
+MR. RESTUCCIA: Nothing other than the 
+
+anecdotal testimony. Like, for example, the court 
+
+administrator said it is believed that this process 
+
+results in a reduction in the number of jurors -- of 
+
+African-American jurors --
+
+CHIEF JUSTICE ROBERTS: I would suppose 
+
+that’s something we can find out pretty easily, right? 
+
+I mean, you look and see how many jurors are pulled 
+
+for -- how many jurors Grand Rapids needs in a 
+
+particular period --
+
+MR. RESTUCCIA: That's right. 
+
+CHIEF JUSTICE ROBERTS: -- compare it to how 
+
+many jurors Rockland needs. 
+
+MR. RESTUCCIA: Right. And that information 
+
+was not provided, and that’s one of the reasons the 
+
+26
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Michigan Supreme Court rejected the claim factually, 
+
+that it had not been demonstrated. 
+
+And, in fact, if you look at the information 
+
+that Mr. Smith's expert put forward, it really 
+
+confirms that the -- even the best showing for Mr. 
+
+Smith is a very small correlation. I mean, you’re 
+
+talking about a 3 or 4 percent comparative disparity 
+
+difference. 
+
+JUSTICE KENNEDY: Let me get that. If -- if 
+
+a procedure routinely results in statistical 
+
+underrepresentation that is significant, is that not a 
+
+clear showing of systematic exclusion? 
+
+MR. RESTUCCIA: It would have to be 
+
+significant, and I don't think there's --
+
+JUSTICE KENNEDY: Well, yes -- no, that's --
+
+it's a hypothetical. 
+
+MR. RESTUCCIA: Oh, if the --
+
+JUSTICE KENNEDY: Routinely results in 
+
+significant underrepresentation, then that is 
+
+automatically systematic exclusion? 
+
+MR. RESTUCCIA: Not -- not under my reading 
+
+of Duren. I don't think that would be -- I don't 
+
+think that's the -- the proper rule. And I -- the 
+
+reason --
+
+JUSTICE GINSBURG: And then they would not 
+
+27 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+have -- have gone on to the systemic issue, because 
+
+the disparity was so marked, just on the -- just on 
+
+the numbers? 
+
+MR. RESTUCCIA: Well, I -- I don't think the 
+
+numbers were sufficient to justify --
+
+JUSTICE KENNEDY: I mean, isn't the -- I'm 
+
+trying to think about the third prong of -- of --
+
+MR. RESTUCCIA: Right. 
+
+JUSTICE KENNEDY: -- of Duren. Isn't -- if 
+
+it's routine and it's predictable and it's constant, 
+
+isn't that always due to systematic exclusion? 
+
+MR. RESTUCCIA: And that's the argument 
+
+being raised by Mr. Smith. No, I think the answer is 
+
+no. And the reason I say that is this: You have --
+
+the Federal courts, on direct review, have looked at 
+
+voter registration and challenges to voter 
+
+registration. Voter registration may have a disparate 
+
+-- or affect distinct groups differently. 
+
+In the same way that the Second and Tenth 
+
+Circuit have looked at cases where they failed to 
+
+follow up on non-returns, that -- if you don't follow 
+
+up on non-returns, it may affect distinct groups 
+
+differently. The analysis of the Federal courts on 
+
+that issue has been that the decisions to exempt 
+
+yourself from jury service or the failure to respond 
+
+28 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+to an invitation for jury service is outside the 
+
+system. Even if it occurs regularly and is 
+
+persistent, it's still not inherent in the process. 
+
+That's what the Michigan Supreme Court said 
+
+here about the excuses for hardship and transportation 
+
+-- for the excuses. But it's also true that the 
+
+process by which you select jurors in district courts 
+
+is not something that is a systematic exclusion of 
+
+anyone. It's -- on its face, it is neutral, and if 
+
+you -- if this Court concludes that neutral practices 
+
+like sending out -- using a certain body, whether 
+
+voter registration or if it's driver's licenses and 
+
+Michigan identification cards, or not following up on 
+
+non-returns, or allowing excuses for hardship, or --
+
+or assigning jurors to a district court first, if that 
+
+is -- can result in systematic exclusion, what's going 
+
+to happen is that all these neutral processes that 
+
+Michigan has may result in disparities. 
+
+And so, as it stands now, Kent County 
+
+doesn't identify the race and ethnicity of all of its 
+
+jurors. Well, it's going to have to if it's going to 
+
+have to have this perfect correspondence of the jury­
+
+eligible population. It will no longer have this kind 
+
+of blind neutrality --
+
+JUSTICE ALITO: But concluding that it's 
+
+29 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+systematic doesn't mean that the defendant wins. It 
+
+just means that the State has to -- has to justify the 
+
+-- the mechanism that's causing -- that's causing this 
+
+-- this situation. 
+
+MR. RESTUCCIA: That's true. There is --
+
+there is then the rebuttal. But then what happens is 
+
+you are subject to these challenges. The question is: 
+
+Does the court -- does the State ever wish -- ever 
+
+wish to be in a position of having to be subject to 
+
+the challenge? 
+
+But -- but I think I want to come back to --
+
+one of the prevailing points of all of this is that 
+
+this is also the Michigan Supreme Court. There’s no 
+
+question that it had reached the merits and was 
+
+entitled to AEDPA deference. And the -- the question 
+
+was: Was there adequate guidance to the State of 
+
+Michigan to know that this was both systematic -- that 
+
+this was systematic exclusion and inherent in the 
+
+process? And Duren was not clear on that point. 
+
+The -- the analysis of the Michigan courts 
+
+really corresponds quite closely to what the Federal 
+
+courts have done, so it cannot be objectively 
+
+unreasonable. And if there --
+
+JUSTICE GINSBURG: One point of information: 
+
+What is the Michigan ID? 
+
+30 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. RESTUCCIA: Oh, what happens if you 
+
+don't have it -- some people don't have a right to a 
+
+driver's license, so you can still obtain an 
+
+identification card even if you are not able to drive. 
+
+So it’s trying to get as wide a group as possible for 
+
+your pool of jurors. 
+
+And if there are no --
+
+JUSTICE STEVENS: Let me ask this factual 
+
+question: Am I correct in understanding that Michigan 
+
+in fact has changed the practice with regard to giving 
+
+priority to --
+
+MR. RESTUCCIA: That's right. 
+
+JUSTICE STEVENS: Yes. 
+
+MR. RESTUCCIA: That’s right. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+Mr. Lawrence. 
+
+MR. LAWRENCE: Okay. 
+
+ORAL ARGUMENT OF JAMES STERLING LAWRENCE 
+
+ON BEHALF OF RESPONDENT 
+
+MR. LAWRENCE: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+If the annual jury call of minorities at the 
+
+courthouse in Grand Rapids is down by 7.28 percent of 
+
+the total number of jurors called, that means if it 
+
+happens in Detroit, that means almost nothing, but if 
+
+31
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+it happens in Grand Rapids, that's every minority. 
+
+The Petitioner's goal is to have this Court enshrine 
+
+into law a rule that the two situations are exactly 
+
+the same. 
+
+CHIEF JUSTICE ROBERTS: If you had a 
+
+community with one African-American, your argument 
+
+would be the same, if that's the disparity? That 
+
+means every -- every minority is left off the jury. 
+
+MR. LAWRENCE: Well, I think that certainly 
+
+if you adopt the Petitioner's test for 60 percent of 
+
+the country, Duren would not apply regarding African-
+
+Americans; 90 percent of the country, wouldn't apply 
+
+to Hispanics; and Duren protections would never apply 
+
+to Native Americans anywhere. 
+
+CHIEF JUSTICE ROBERTS: I guess I'm -- I 
+
+guess I’m echoing Justice Stevens’s question of 
+
+whether or not this type of statistical analysis 
+
+really works when you’re dealing with relatively small 
+
+numbers. 
+
+MR. LAWRENCE: Well, I would make this 
+
+observation: That in Duren v. Missouri, on page 366, 
+
+the Court stated, "His undisputed demonstration that a 
+
+large discrepancy occurred, not just occasionally, but 
+
+in every weekly venire for a period of nearly a year, 
+
+manifestly indicates that the cause of the 
+
+32 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+representation was systematic -- that is, inherent in 
+
+the particular jury selection process utilized." 
+
+JUSTICE GINSBURG: Yes, but there you were 
+
+dealing with an express exemption. There was an 
+
+exemption for a woman, and also in the record was that 
+
+the jury clerk was sending out notices saying: Women, 
+
+if you do not wish to serve, return the summons to the 
+
+judge named on the reverse side as quickly as 
+
+possible. And then, further -- systematic -- if the 
+
+card was not returned, if a card sent to a woman was 
+
+not returned, it was automatically assumed that she 
+
+did not wish to serve. There was no follow-up. 
+
+So there was all kinds of evidence of 
+
+systematic problems in Duren that are not present 
+
+here. 
+
+MR. LAWRENCE: Well, first of all, that's 
+
+completely correct; however, the rule in Duren, the 
+
+U.S. Supreme Court stated that the numbers alone prove 
+
+systematic. Then the Court --
+
+JUSTICE GINSBURG: Where did the Court say 
+
+that? 
+
+MR. LAWRENCE: On page 366. And then in --
+
+the Court went on to say that the State is arguing 
+
+that there's various neutral, benign reasons for the 
+
+underrepresentation --
+
+33 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE SCALIA: Excuse me. You -- if that 
+
+statement is true, then -- then there is -- there’s no 
+
+third part to the three-part test. I thought Duren 
+
+established a three-part test. 
+
+MR. LAWRENCE: It did. 
+
+JUSTICE SCALIA: And the third one was that 
+
+you had to establish -- after having already 
+
+established the disparity, you had to establish that 
+
+there was a selection process which caused the 
+
+disparity. And you are telling us that you don't have 
+
+to proceed to step 3. Once you show the disparity, it 
+
+is assumed that it is the product of the system. 
+
+MR. LAWRENCE: Well, Justice Scalia, my 
+
+reading of Duren does indeed include that third test, 
+
+but the problem is, is that Duren puts the burden of 
+
+proof on that test on the State. They said at pages 
+
+368 to 369 that the State is claiming there were all 
+
+sorts of neutral, legitimate reasons for the 
+
+underrepresentation --
+
+JUSTICE GINSBURG: Oh, that was after --
+
+that was after showing the systematic factors. It was 
+
+the plaintiff's burden -- or the defendant in the 
+
+case, Duren -- burden to show there was a systematic 
+
+factor. That was the automatic exception for a woman 
+
+and how it worked in practice. After all of that, 
+
+34
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+then Justice White tells us, the State could still 
+
+come back and say yes, that's true, but there were 
+
+other reasons why women didn't show up. Maybe they 
+
+were disproportionately elderly, or maybe they were 
+
+involved with child care. 
+
+That's what -- that's what Duren said, that 
+
+the -- showing a systematic factor was the plaintiff's 
+
+burden, and then the State could justify why the 
+
+numbers came out that way. 
+
+MR. LAWRENCE: Well, we did show a number of 
+
+systematic factors, but if you look at Duren itself, 
+
+on page 366 it says, the numbers alone proved it. On 
+
+-- further on 366, they stated that Duren --
+
+JUSTICE SCALIA: How do you reconcile that 
+
+with the third test? Please tell me how you reconcile 
+
+that statement with the fact that it did set forth a 
+
+three -- a three-prong test. 
+
+MR. LAWRENCE: Well, I believe that we met 
+
+the three-prong test, but I feel that it is an error 
+
+in reading Duren to say anything other than that: The 
+
+State must show how this came about, not the 
+
+defendant. 
+
+JUSTICE GINSBURG: Where does it say that? 
+
+MR. LAWRENCE: -- did show it, and --
+
+JUSTICE GINSBURG: Where does it say that? 
+
+35 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. LAWRENCE: It says that at pages 368 to 
+
+369. And the --
+
+JUSTICE ALITO: It says that the State has 
+
+to show that it has a reason, a good reason, for --
+
+the aspect of the selection process that has been 
+
+identified as causing the disparity. 
+
+But does it say that it's the State's 
+
+obligation to go through every factor that may cause 
+
+the disparity and justify every one? Or is it the 
+
+defendant's obligation to point to some aspect of the 
+
+selection -- of the -- of the system that causes the 
+
+disparity? Then once the defendant identifies that, 
+
+then the State can show if it -- can try to show that 
+
+there's a good reason for it. 
+
+MR. LAWRENCE: Well, I would read one 
+
+sentence from Duren, if I could: "Assuming, arguendo, 
+
+that the exemptions mentioned by the court below would 
+
+justify failure to achieve a fair community cross­
+
+section on jury venires, the State must demonstrate 
+
+that these exemptions caused the underrepresentation 
+
+complained of." 
+
+And I think that all of the courts, all 
+
+along the way, including Michigan's supreme court, 
+
+have overlooked that important principle. 
+
+CHIEF JUSTICE ROBERTS: Do I understand your 
+
+36
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+siphoning theory to depend upon Grand Rapids drawing a 
+
+disproportionate number of jurors from the pool? 
+
+MR. LAWRENCE: That is --
+
+CHIEF JUSTICE ROBERTS: That results in 
+
+fewer minorities going up to the county court, right? 
+
+MR. LAWRENCE: That's right. Because those 
+
+jurors that were pulled out for district court, many 
+
+of them did not serve in district court. The majority 
+
+did not, but they were still removed from --
+
+CHIEF JUSTICE ROBERTS: Removed from the 
+
+county --
+
+MR. LAWRENCE: -- from the overall pool. 
+
+CHIEF JUSTICE ROBERTS: Where -- where in 
+
+the record is it established that Grand Rapids had a 
+
+disproportionate need for jurors from the pool? 
+
+MR. LAWRENCE: I don't believe either side 
+
+established that. 
+
+CHIEF JUSTICE ROBERTS: Well, if it's -- if 
+
+your theory depends upon Grand Rapids drawing a 
+
+disproportionate number and it is not in the record 
+
+that Grand Rapids drew a disproportionate number, I 
+
+think that means you lose. 
+
+MR. LAWRENCE: Well, I would respectfully 
+
+disagree with the Court because it is not necessary, 
+
+in our view, that each specific item that led to 
+
+37 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+underrepresentation be, itself, something that's 
+
+unconstitutional, but rather, the collective nature of 
+
+it, that 15 out of 17 months persistently and 
+
+repeatedly came up with substantial 
+
+underrepresentation. You are talking about 34.8 
+
+percent here. 
+
+JUSTICE ALITO: But that's the only factor 
+
+that the Sixth Circuit identified as illegitimate, was 
+
+this -- was this siphoning system. 
+
+MR. LAWRENCE: Well, I feel that --
+
+JUSTICE ALITO: It rejected everything else, 
+
+didn't it? 
+
+MR. LAWRENCE: I feel that there are a 
+
+number of factors. I suppose that we could do it on 
+
+the basis of height and then be surprised when there's 
+
+fewer women on the jury. 
+
+JUSTICE BREYER: Now, why is it -- I’m just 
+
+not clear in my mind. Why is this siphoning bad? My 
+
+impression, which may be wrong, is you -- you have a 
+
+thousand people in the room, let's say, and if you let 
+
+the district courts choose first, people will serve 
+
+nearer where they live. 
+
+Now -- and so most of them would rather 
+
+serve nearer where they live. And the result of that 
+
+could be, for the reasons that were stated, that then 
+
+38 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+there are fewer minorities on the more general jurors 
+
+that draw from a wider area, and I don't know about 
+
+the merits of that. 
+
+I mean, I see a negative, and I see a 
+
+positive. So is it -- it doesn't seem to me obviously 
+
+bad, nor is it obviously good. So what should I do? 
+
+MR. LAWRENCE: Well, the record showed --
+
+JUSTICE BREYER: Right. 
+
+MR. LAWRENCE: -- that the people who were 
+
+actually showing up for the jury panels at circuit 
+
+court were very heavily overrepresented in the rural 
+
+areas of Kent County and heavily underrepresented --
+
+JUSTICE BREYER: Well, but -- but that's 
+
+just the explanation of the problem that we're seeing. 
+
+MR. LAWRENCE: Right. Well, I guess --
+
+JUSTICE BREYER: The problem we're seeing is 
+
+that if Grand Rapids has a higher juror utilization 
+
+rate and they have a higher minority population, then 
+
+you will end up with the leftover juries having a 
+
+lower minority population. 
+
+Now, the explanation for that is that you 
+
+choose the district judges -- you choose the district 
+
+jurors first. My question to you is: I -- if you're 
+
+just a -- I'm not instructed in this area. If you 
+
+were just to tell me, what do I think of that, I would 
+
+39 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+say I'm not sure. 
+
+I think you have fewer minorities, that's 
+
+true, but people get to serve closer to home. Now --
+
+now, can you enlighten me a little bit about this? 
+
+MR. LAWRENCE: Yes. Well, first of all, 
+
+Grand Rapids has several district courts, and the 
+
+largest one is the district court for the city of 
+
+Grand Rapids. And as one would predict, the judicial 
+
+business of a large city is certainly going to be more 
+
+extensive than the judicial business in rural areas. 
+
+CHIEF JUSTICE ROBERTS: Of course. Of 
+
+course, but we have to look at this on a proportional 
+
+basis, right? Grand Rapids is also sending a higher 
+
+number of jurors to the pool than -- than the small 
+
+rural county. 
+
+MR. LAWRENCE: Well --
+
+CHIEF JUSTICE ROBERTS: Your -- your theory 
+
+depends upon Grand Rapids drawing not just a 
+
+proportional number, if it's contributing 30 percent 
+
+and it draws 30 percent; your theory depends upon 
+
+Grand Rapids contributing 30 percent to the pool and 
+
+drawing 40 percent. 
+
+MR. LAWRENCE: Well, I guess I would simply 
+
+say that the court administrator testified and the 
+
+district judge found that they had substantial 
+
+40 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+underrepresentation that was very noticeable, very 
+
+visible, a severe problem, and after my client's 
+
+trial, they -- they concluded that the best way of 
+
+dealing with this was to end the siphoning process, 
+
+which they did. 
+
+JUSTICE SOTOMAYOR: And so, what -- what did 
+
+it result in? It resulted over a 6-month period and a 
+
+difference between 18 percent underrepresentation and 
+
+15 percent. And your adversary says that's not 
+
+statistically meaningful difference, that 3 percent, 
+
+because it only takes a difference of a couple of 
+
+people to change it from 18 to 15. 
+
+MR. LAWRENCE: Well, I --
+
+JUSTICE SOTOMAYOR: What's -- what's 
+
+unreasonable about that argument? 
+
+MR. LAWRENCE: Well, I have two answers to 
+
+that. The first one being that what -- one thing that 
+
+was eliminated was the spikes, like we had in my 
+
+client's month, 34.8, even though the average 
+
+underrepresentation was only 18.1. 
+
+JUSTICE SOTOMAYOR: You can't -- you are 
+
+comparing apples and oranges, because your pre-spike 
+
+was over a year and your post-spike was over 6 months. 
+
+We don't know what would have happened -- or didn't 
+
+have statistics of a year or longer. 
+
+41 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+MR. LAWRENCE: Okay. Well, in the case of 
+
+Duren, you’re talking about -- they had a 10-month 
+
+period that was involved, but as for the numbers being 
+
+small, I can only refer you to cases that I very much 
+
+disagree with -- United States v. Sanchez-Lopez, cited 
+
+in my brief, where Hispanics comprised 5.59 percent of 
+
+the southern district of Idaho -- and the court 
+
+basically said: Since that's less than 10 percent, 
+
+who cares if there are Hispanics on the juries? The 
+
+same in United States --
+
+JUSTICE BREYER: Well, I wouldn't say that, 
+
+but I still haven't -- I will try again. Forget the 
+
+cases. 
+
+As I’m hearing this, all I’m hearing is: 
+
+Well, if you let the -- if you say that the wider area 
+
+should choose first, you will get a higher number of 
+
+minorities, but very tiny number; I mean a very small 
+
+addition, one or two people. And if you do it the way 
+
+they’re doing it, you'll lose those one or two people, 
+
+but you will let people serve closer to home. 
+
+So I just think -- as a person, not as a 
+
+judge -- that's why I am letting you answer it as a 
+
+judge -- but I mean, I’d say, well, it doesn't sound 
+
+like much of a big deal. And -- and I do see an 
+
+advantage in this, of the way they are doing it, so, 
+
+42
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+now, you tell me what's -- what's wrong with that? 
+
+MR. LAWRENCE: Okay. Well, first of all, 
+
+Kent County is not really that big. It's -- anybody 
+
+can drive from the farthest end of the county to 
+
+downtown Grand Rapids in approximately 20 to 30 
+
+minutes. It wouldn't be that difficult to get there. 
+
+I bet members of this Court have a longer commute. 
+
+But, more importantly, the -- the fact that 
+
+you're only talking about 25 people out of 2,250 
+
+people simply means that the problem will be easy for 
+
+court administrators to solve, if they have an 
+
+incentive to do it. 
+
+CHIEF JUSTICE ROBERTS: How is that? Don't 
+
+those people then have to become professional jurors? 
+
+They have to serve on every jury, or you’re going to 
+
+have the disproportion that the statistics show. 
+
+MR. LAWRENCE: Well, the statistics showed, 
+
+for example, that African-Americans had a much higher 
+
+rate of not having an automobile. And so if you say, 
+
+well, if you have trouble getting a ride, you could 
+
+tell somebody, come on down anyway; or you can say, 
+
+that's all right, take the day off. 
+
+And if African Americans have a very 
+
+substantial higher rate of single-parent households, 
+
+well, then, of course, it's going to be harder to get 
+
+43 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+a babysitter. Now, you can tell those people, well, 
+
+that's okay, stay home; or you can say, try to get 
+
+down here anyway. 
+
+And the court -- and if somebody simply 
+
+didn't show up, statistics have shown, in the brief --
+
+JUSTICE GINSBURG: May I stop you there for 
+
+a moment? Because one of the things that was in the 
+
+Duren opinion was that a child care excuse would be 
+
+okay. I think Justice White said at the end, now, I'm 
+
+not touching the typical hardship excuses, and one of 
+
+them was child care, and that is -- certainly, in the 
+
+early '70s, was going to disproportionately affect 
+
+women. You have far fewer women if you give a child 
+
+care exemption. 
+
+MR. LAWRENCE: No doubt that that's true, 
+
+and I am not saying that it is wrong to give real 
+
+hardship exemptions. Here --
+
+JUSTICE GINSBURG: But this -- he wasn't 
+
+talking about individual cases. 
+
+MR. LAWRENCE: Well, in this case, one of 
+
+the things that happened is that, if somebody didn't ­
+
+- simply didn't show up, that's it. Now, judges --
+
+the court administrator said, yes, we tried. The 
+
+judges would issue orders to show cause, but the 
+
+police department made a decision that they were not 
+
+44 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+going to have anything to do with the serving or 
+
+participation in these orders to show cause, orders to 
+
+show up. 
+
+And isn't that police department decision 
+
+part of the system? It is systematic. When the 
+
+police --
+
+JUSTICE STEVENS: Let me just --
+
+MR. LAWRENCE: -- tell the courts what to 
+
+do, shouldn't the courts tell the police what to do? 
+
+JUSTICE STEVENS: Let me make sure I 
+
+understand your position. Assume that there is an --
+
+an identifiable disparity of 2 percent or 3 percent, 
+
+or whatever it might be to get to the threshold of 
+
+being significant, that’s entirely caused by the fact 
+
+that the members of the minority have personal excuses 
+
+that justify non-service. What do you do with that 
+
+case? Do you find that it was -- it’s 
+
+unconstitutional, or don't you? 
+
+MR. LAWRENCE: If you find that it is 
+
+persistent, month in and month out --
+
+JUSTICE STEVENS: It is. It's assuming --
+
+MR. LAWRENCE: -- then you have a problem 
+
+because society benefits when jurors are drawn from 
+
+the broadest spectrum of the system. 
+
+JUSTICE STEVENS: I didn’t --
+
+45 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE KENNEDY: Well, that's policy. 
+
+Can't you say that that is systematic exclusion 
+
+because it's part of the system? 
+
+MR. LAWRENCE: Well --
+
+JUSTICE STEVENS: But is it 
+
+unconstitutional, is what I'm trying to find out. 
+
+Society benefits because -- if you make them serve; 
+
+the society benefits if you grant the excuses, too. 
+
+MR. LAWRENCE: Well, overall, there's 
+
+nothing wrong with granting excuses for genuine 
+
+hardship; however, when you have this factor and 
+
+factor 2 and factor 3 and factor 4, and they 
+
+persistently come up with all-white juries, that's 
+
+what Richard Hillary testified to, 98 percent of the 
+
+time, nothing, but all-white juries. 
+
+And if somebody could --
+
+JUSTICE GINSBURG: Is there -- is there a 
+
+Federal district that corresponds to this Kent County? 
+
+Is there a Federal district court that would be 
+
+calling jurors in -- in the same geographical area? 
+
+MR. LAWRENCE: Well, there is the United 
+
+States District Court for the Western District of 
+
+Michigan that covers a very large amount of territory, 
+
+and, frankly, I have not studied their statistics, but 
+
+I know, from personal knowledge, that the African­
+
+46
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+American population in the Western District of 
+
+Michigan would be smaller than in Kent County or in 
+
+the city of Grand Rapids, where --
+
+JUSTICE GINSBURG: But you don't have -- you 
+
+don't have comparable -- comparable records for what 
+
+was going on in the -- in the district court? 
+
+MR. LAWRENCE: Well, if you mean the United 
+
+States District Court --
+
+JUSTICE GINSBURG: Yes. 
+
+MR. LAWRENCE: No, I -- I have not studied 
+
+that situation, and --
+
+JUSTICE ALITO: Are there -- are there 
+
+courts that you know of that do what you are 
+
+suggesting needs to be done? When a juror does not 
+
+show up, the judge issues a bench warrant, and -- and 
+
+the police are sent out to arrest the person and drag 
+
+the person into court, or somebody says, I am a single 
+
+parent, and I have children, and I'm too poor to have 
+
+a nanny or an au pair, and, therefore, please excuse 
+
+me; and they say, no, you have to find some way of 
+
+getting here. 
+
+Are there courts that do that? 
+
+MR. LAWRENCE: I don't know of a court that 
+
+arrests people, and I -- in this case, it wasn't a 
+
+question of arresting. The local judges made a 
+
+47 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+decision: We are going to issue orders to show cause; 
+
+people will be required to come in. The police 
+
+decided, no, we’re not going to have anything to do 
+
+with that. 
+
+And I feel that that's part of the system 
+
+because the police are part of the system. 
+
+JUSTICE SCALIA: Mr. Sterling, I don't --
+
+you seem to acknowledge that, to make your case, you 
+
+have to show that Grand Rapids district drew from the 
+
+pool a disproportionate number of people. 
+
+Why -- why do you have to prove that? If 
+
+Grand Rapids contributes to the pool an inordinate, 
+
+disproportionate number of the minority -- blacks in 
+
+this case -- even if Grand Rapids simply took back a 
+
+proportionate number from the pool, it would still 
+
+have a disproportionate effect on reducing the number 
+
+of blacks in the overall pool, wouldn't it? 
+
+MR. LAWRENCE: In order to solve this 
+
+problem, all that Kent County would have to do is to, 
+
+if you take people to district court, put back the 
+
+ones that aren't being used. That would certainly 
+
+help, but, instead, they take an excess number, like 
+
+any court does, but the excess people are totally 
+
+removed from the system. 
+
+CHIEF JUSTICE ROBERTS: Your answer to 
+
+48 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+Justice Scalia's question is -- is no, right? Because 
+
+the idea is, if Grand Rapids sends up a pool that’s 30 
+
+percent minority and if it takes back the same number 
+
+as everybody else, it's going to get -- the county is 
+
+going to get the same proportion. 
+
+It's only when they take back more. They 
+
+have the more heavily African-American pool, and they 
+
+are going to draw from it more than everybody else is 
+
+drawing from theirs, so there will be fewer African-
+
+Americans to go to the county. 
+
+MR. LAWRENCE: That is what's happening, but 
+
+I don't believe --
+
+CHIEF JUSTICE ROBERTS: But you have no 
+
+evidence that Grand Rapids takes back more than its 
+
+share, proportionally, than anybody else. 
+
+MR. LAWRENCE: We know that the -- as soon 
+
+as they stopped doing it, this created a substantial 
+
+increase in the number of African-Americans on the 
+
+juries, and I think that that’s --
+
+CHIEF JUSTICE ROBERTS: At the county level? 
+
+MR. LAWRENCE: At the county level. 
+
+CHIEF JUSTICE ROBERTS: Yes. Was there any 
+
+evidence that your venire -- that minorities were 
+
+underrepresented on your venire? 
+
+MR. LAWRENCE: Yes. 
+
+49 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+CHIEF JUSTICE ROBERTS: Where is that in the 
+
+record? 
+
+MR. LAWRENCE: Okay. The -- well, it is in 
+
+the testimony of -- well, if you look, it's -- I'm 
+
+sorry that I don't have the page number, but right at 
+
+the time, it was said, we have two or three African-
+
+Americans within this group, that was either 60 or 
+
+100. 
+
+And I'm sorry that the record is less clear, 
+
+but even if it is 3 out of 60, you’re talking about 5 
+
+percent, whereas the population is 7.28 percent. If 
+
+it just happens once or twice --
+
+CHIEF JUSTICE ROBERTS: Help me --
+
+MR. LAWRENCE: -- not a problem, but it 
+
+happens every month. 
+
+CHIEF JUSTICE ROBERTS: Help me -- help me 
+
+with the math. If there were one more African-
+
+American, what would the percentage be? Pretty close 
+
+to what you’re saying it should be, right? 
+
+MR. LAWRENCE: If there were two more, it 
+
+would be right on target, just -- it would only be .28 
+
+percent low, which, if you simply send out a second 
+
+letter, because the testimony of Kim Foster was that, 
+
+later on, when they started sending out the second 
+
+letter, half of the people who did not respond would 
+
+50
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+respond --
+
+JUSTICE GINSBURG: Can we go back to your 
+
+point about -- that there was a big change when the 
+
+draw came from the circuit first, before the 
+
+districts. I thought it was agreed that, before, 
+
+there was an 18 percent, on average, comparative 
+
+difference and, after, 15 percent. That doesn't sound 
+
+like a big change. 
+
+MR. LAWRENCE: But it's a step in the right 
+
+direction, and what we want to do is we want to 
+
+promote more minority participation on jurors --
+
+juries, instead of creating a rule that tells court 
+
+administrators all over the country, the heat's off, 
+
+you don't have to do anything. 
+
+JUSTICE SCALIA: But a step -- a step in the 
+
+right direction is not enough. You were adducing that 
+
+to prove that the prior system had a significant 
+
+effect, and it turned out, it didn't have a very 
+
+significant effect. It doesn't prove your point to 
+
+say, well, it's a step in the right direction. 
+
+If it's insignificant, it's insignificant. 
+
+Whether it's insignificant in the right direction or 
+
+the wrong direction doesn't matter. 
+
+MR. LAWRENCE: Well, one element of the 
+
+entire system might be insignificant, but you are 
+
+51 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+talking about numerous elements that went together, 
+
+and Duren says they have to show what caused the 
+
+underrepresentation. 
+
+JUSTICE SCALIA: I still don't -- I don't 
+
+understand this problem of -- of you have to show that 
+
+they took back more than they contributed. 
+
+Let's assume that Grand Rapids is -- is 
+
+entirely black, and its entire delegation that goes to 
+
+the pool are all black, okay? And let's assume that 
+
+those blacks are 10 percent of the -- the totality, 
+
+and there are no blacks from anywhere else, okay? 
+
+Then Grand Rapids takes back simply the number of 
+
+people it -- it took, its set, which would be 10 
+
+percent, and it takes black -- takes back all of the 
+
+blacks, who are the Grand Rapids residents. 
+
+All of the other districts would thereby 
+
+have zero percent blacks instead of 10 percent, which 
+
+is what they ought to have. 
+
+MR. LAWRENCE: Each district, the jurors are 
+
+acquired from that district --
+
+JUSTICE SCALIA: Exactly. 
+
+MR. LAWRENCE: -- and the circuit is 
+
+acquired from all the districts of the county. 
+
+JUSTICE SCALIA: Exactly. So why expect the 
+
+other districts to have 10 percent blacks simply 
+
+52 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+because Grand Rapids contributed 10 percent of the 
+
+totality, all of whom were black? There -- then 
+
+there’s a requirement for each district to have 10 
+
+percent blacks, right? But if Grand Rapids takes back 
+
+its -- its -- the people it sent, there are no more 
+
+blacks left to go around. 
+
+MR. LAWRENCE: Well, I don't expect those 
+
+outlying districts to have more -- a larger percentage 
+
+of blacks than the population; I'm only expecting that 
+
+from the county. 
+
+JUSTICE ALITO: Isn't that the case --
+
+JUSTICE BREYER: So what if --
+
+JUSTICE ALITO: If -- if Grand -- if Grand 
+
+Rapids uses a disproportionate number of jurors in its 
+
+district courts, then you are going to have this 
+
+problem -- the only way to fix the problem would be to 
+
+have a separate jury system for the district courts. 
+
+If you have the -- the circuit courts going first, 
+
+then the people in the district courts are going to 
+
+have the problem that you identify. 
+
+If you have a system in which it's all done 
+
+randomly -- circuit court, district court -- the 
+
+people who come toward the end are going to have the 
+
+problem. So I don't see any way out of this, if in 
+
+fact there was a statistical basis for it, other than 
+
+53 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+having a separate selection process for the district 
+
+courts. Is that what you think is necessary? 
+
+MR. LAWRENCE: I think that we should allow 
+
+a great deal of flexibility to local court 
+
+administrators. As I mentioned in the brief, in the 
+
+Parents Involved in Community Schools case, there was 
+
+a discussion in the concurrence by Justice Kennedy 
+
+about exactly what local governments --
+
+JUSTICE BREYER: All right. So is --
+
+MR. LAWRENCE: -- can do to -- to get an 
+
+appropriate representation of minorities without using 
+
+racial classifications. 
+
+JUSTICE GINSBURG: That was a question of 
+
+what was permitted. Here you’re trying to say this is 
+
+required. The school’s case was, these are measures 
+
+the district could take if it wanted to. But you are 
+
+saying these are measures the district must take 
+
+because the Constitution requires it. They are quite 
+
+different settings. 
+
+MR. LAWRENCE: Well, I admit that it is a 
+
+different setting. However, I feel -- well, no, I 
+
+won't say “I feel.” Duren holds that there must be a 
+
+reasonable connection between the African-Americans 
+
+that appear on the jury arrays and the population as a 
+
+whole. 
+
+54 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+JUSTICE BREYER: What about the -- the more 
+
+I listen, the more I think you think there are a lot 
+
+of things people could do. They could send three 
+
+letters; they could explain in the letters why it's 
+
+important to come; they could try reversing the thing 
+
+a little bit with the districts first or not first --
+
+all kinds of things. 
+
+But what -- but now you’re forcing them into 
+
+this legal rubric. So what about a decision, which 
+
+you wouldn’t like, probably, but it would say we can't 
+
+say that they’re unreasonable in respect to not having 
+
+all of these, but there -- who knows? You know, when 
+
+they get around and others try them, et cetera. 
+
+In other words, unreasonable/reasonable is 
+
+one standard, and ambiguity plays a -- a role here, 
+
+too, that might be helpful. 
+
+MR. LAWRENCE: Well, you are certainly 
+
+correct, and I would simply say that the people of 
+
+Grand Rapids looked up at the juries; 98 percent of 
+
+the time they saw nothing but white faces. I think 
+
+that Duren requires that the local system do something 
+
+about it. There's a lot of options. So you should 
+
+give them flexibility. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+MR. LAWRENCE: Thank you, Your Honor. 
+
+55
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+CHIEF JUSTICE ROBERTS: Mr. Restuccia, you 
+
+have 2 minutes remaining. 
+
+REBUTTAL ARGUMENT OF B. ERIC RESTUCCIA, 
+
+ON BEHALF OF THE PETITIONER 
+
+MR. RESTUCCIA: I just have two brief 
+
+points. One is that -- I want to just remind the 
+
+Court that this is a case under AEDPA review, so that 
+
+the Michigan Supreme Court has to be not just 
+
+incorrect; it has to be objectively unreasonable. 
+
+And its conclusion, I think probably the 
+
+easiest analysis here is the conclusion that there was 
+
+no showing of systemic exclusion, because Mr. Smith 
+
+failed to show that there was any underrepresentation 
+
+that arose from the jury assignment process, is 
+
+probably one of the strongest points, because if you 
+
+look at the 3 percent comparative disparity, that's 
+
+less than half of 1 percent absolute disparity. No 
+
+one claims that that’s statistically significant. 
+
+So I think whether it's reviewed under 
+
+2254(d)(2) or 2254(e)(1), this Court should reverse. 
+
+Thank you. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+The case is submitted. 
+
+(Whereupon, at 11:14 a.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+56
+
+Alderson Reporting Company 
+
+
+
+OfficialOfficial
+
+Page 57 
+
+A 20:11 25:2 49:15 assigning 29:15 37:16 49:12 
+able 31:4 32:11 43:23 anyway 14:20 assignment believed 26:13 
+above-entitled 46:25 49:9 50:6 43:21 44:3 18:14 19:3,5,10 bench 47:15 
+
+1:11 56:25 50:17 apologize 22:23 19:16 20:9,19 benefit 18:19 
+absence 10:25 African-Amer... apparently 22:24 56:14 benefits 45:23 
+
+12:4 21:1 23:25 appeals 13:14 assume 45:11 46:7,8 
+absolute 4:13 9:9 26:15 32:6 49:7 appear 54:24 52:7,9 benign 33:24 
+
+9:23,25 10:9 African-Amer... APPEARAN... assumed 33:11 Berghuis 1:3 3:4 
+11:3,24 13:23 4:9 21:12 24:6 1:14 34:12 best7:4 27:5 
+56:17 43:18 49:18 appeared 4:10 assuming 16:6 41:3 
+
+achieve 36:18 54:23 apples 41:22 16:19 36:16 bet 43:7 
+acknowledge ago 4:24 application 45:21 better 9:9,25 
+
+48:8 agree 12:2 16:3 11:23 13:2 au 47:19 11:15,17 
+acquired 52:20 agreed 51:5 applied 3:14 17:3 automatic 16:23 big 5:15 42:24 
+
+52:23 Alito 17:5 18:18 apply 6:1 32:11 34:24 43:3 51:3,8 
+act 3:18 29:25 36:3 38:7 32:12,13 automatically binomial 5:3 
+acted 15:20 38:11 47:12 appropriate 27:20 33:11 bit 40:4 55:6 
+actual 10:20 53:11,13 54:11 automobile black 5:6,12 
+
+11:25 14:10 Allen 20:15 approximately 43:19 14:19 24:16 
+addition 42:18 allow 16:15 54:3 43:5 available 6:20 25:18 52:8,9,14 
+additional 7:12 allowing 29:14 April 4:5 average 41:19 53:2 
+address 17:23 all-white 46:13 area 39:2,24 51:6 blacks 25:24 
+adducing 51:16 46:15 42:15 46:20 awfully 20:22 48:13,17 52:10 
+adequate 30:16 ambiguity 55:15 areas 7:17 21:15 a.m 1:13 3:2 52:11,15,17,25 
+administrator American 13:6 39:12 40:10 56:24 53:4,6,9 
+
+25:4 26:13 
+40:24 44:23 
+
+administrators 
+43:11 51:13 
+54:5 
+
+admit 54:20 
+adopt 11:10 
+
+32:10 
+adopted 10:13 
+advantage 42:25 
+adversary 41:9 
+advocating 
+
+11:14 13:21 
+AEDPA 5:24 
+
+6:25 9:3 15:19 
+17:7 30:15 56:7 
+
+affect 11:25 
+28:18,22 44:12 
+
+afraid 25:5 
+African 14:1,5 
+
+14:6 25:3 47:1 
+50:18 
+
+Americans 
+12:20 13:6 14:2 
+20:12 32:12,14 
+43:23 49:10 
+50:7 
+
+amount 46:23 
+analysis 28:23 
+
+30:20 32:17 
+56:11 
+
+anecdotal 20:10 
+25:2,3 26:12 
+
+announce 11:18 
+annual 31:22 
+answer 16:16 
+
+28:13 42:22 
+48:25 
+
+answers 41:16 
+anybody 24:12 
+
+24:20,24 43:3 
+
+arguendo 36:16 
+arguing 33:23 
+argument 1:12 
+
+2:2,7 3:3,6 
+24:18 28:12 
+31:18 32:6 
+41:15 56:3 
+
+arose 18:16 
+20:19 56:14 
+
+arrays 54:24 
+arrest47:16 
+arresting 47:25 
+arrests 47:24 
+Asian 13:5 
+Asian-Americ... 
+
+12:19 
+aside 15:24 
+asked 7:16 
+aspect 8:23 11:22 
+
+17:12,17 36:5 
+36:10 
+
+B 
+B 1:15 2:3,8 3:6 
+
+56:3 
+babysitter 44:1 
+back 15:18 22:18 
+
+30:11 35:2 
+48:14,20 49:3,6 
+49:14 51:2 52:6 
+52:12,14 53:4 
+
+bad 24:23,24 
+25:1 38:18 39:6 
+
+balls 5:5 15:10 
+based 16:25 
+basically 42:8 
+basis 20:13 38:15 
+
+40:13 53:25 
+behalf 1:16,18 
+
+2:4,6,9 3:7 
+31:19 56:4 
+
+believe 35:18 
+
+blind 29:24 
+blue 7:6 19:8 
+body 29:11 
+book 14:24 
+bound 21:2 
+Breyer 4:23 5:17 
+
+6:2,7,13 14:8 
+14:12,16 24:12 
+24:19 25:8 
+38:17 39:8,13 
+39:16 42:11 
+53:12 54:9 55:1 
+
+brief 7:6 11:14 
+19:9 42:6 44:5 
+54:5 56:5 
+
+broadest45:24 
+broken 21:7 
+burden 34:15,22 
+
+34:23 35:8 
+business 14:13 
+
+40:9,10 
+
+Alderson Reporting CompanyAlderson Reporting Company
+
+
+
+Official 
+
+Page 58 
+
+C change 18:23 clerk 33:6 concluded 12:25 29:19 37:5,11 
+C 2:1 3:1 41:12 51:3,8 client's 41:2,19 18:14 41:3 39:12 40:15 
+call 31:22 changed 31:10 close 50:18 concludes 29:10 43:3,4 46:18 
+called 5:3 14:24 Chief 3:3,8 6:23 closely 30:21 concluding 3:19 47:2 48:19 49:4 
+
+31:24 15:5,9 22:12,15 closer 40:3 42:20 29:25 49:10,20,21 
+calling 46:20 26:4,9,16,22 collective 38:2 conclusion 20:17 52:23 53:10 
+capita 26:7 31:15,20 32:5 column 19:13 56:10,11 couple 41:11 
+captures 9:12 32:15 36:25 come 15:18 18:9 concurrence course 4:25 7:11 
+card 31:4 33:10 37:4,10,13,18 23:19 30:11 54:7 15:19 16:16 
+
+33:10 40:11,17 43:13 35:2 43:21 confirms 27:5 40:11,12 43:25 
+cards 29:13 48:25 49:13,20 46:13 48:2 confused 22:13 court 1:1,12 3:9 
+care 35:5 44:8,11 49:22 50:1,13 53:23 55:5 connection 54:23 3:14,15,18,23 
+
+44:14 50:16 55:24 comment 6:14 constant 28:10 5:21,25 7:23 
+cares 42:9 56:1,22 communicating constitute 14:2 8:25 9:24 10:13 
+case 3:4,10 10:4 child 35:5 44:8 22:25 Constitution 10:16,24 11:2,2 
+
+13:24 15:19 44:11,13 community 3:17 54:18 11:10 13:25 
+16:21 18:6,12 children 47:18 8:14 32:6 36:18 contributed 52:6 15:20 16:24 
+26:10 34:23 choose 38:21 54:6 53:1 17:7 18:13,18 
+42:1 44:20 39:22,22 42:16 commute 43:7 contributes 20:4,5,8,12,12 
+45:17 47:24 choosing 17:19 comparable 7:7 48:12 21:16,17,20,24 
+48:8,14 53:11 chosen 18:3,4 8:12 47:5,5 contributing 22:5,6 23:10,18 
+54:6,15 56:7,23 circuit 3:24 7:9 comparative 40:19,21 23:21,24 24:1,2 
+56:24 7:10 8:13 12:25 4:15 8:20 12:23 conviction 3:11 24:7 25:4,7,11 
+
+cases 7:12 13:16 17:18,21 18:24 19:13,17,20,22 corpus 3:11 26:12 27:1 29:4 
+15:16,25 28:20 20:4,12 22:5 19:25 20:1 27:7 correct 15:12 29:10,15 30:8 
+42:4,13 44:19 24:7 25:6 28:20 51:6 56:16 31:9 33:17 30:13 31:21 
+
+categorical 16:22 38:8 39:10 51:4 compare 4:16 55:18 32:2,22 33:18 
+cause 32:25 36:8 52:22 53:18,22 26:22 correctly 14:22 33:19,20,23 
+
+44:24 45:2 48:1 circuits 7:7,10 compared 19:7 22:25 36:17,23 37:5,7 
+caused 34:9 8:11 11:8 comparing 41:22 correlation 27:6 37:8,24 39:11 
+
+36:20 45:14 circumstance complained correspond 40:7,24 42:7 
+52:2 11:4 36:21 13:22 14:4 43:7,11 44:4,23 
+
+causes 36:11 circumstances complete 10:24 correspondence 46:19,22 47:6,8 
+causing 30:3,3 11:17 completely 33:17 29:22 47:17,23 48:20 
+
+36:6 cited 42:5 complicated corresponds 48:23 51:12 
+census 12:17 city 40:7,9 47:3 18:8 11:22 30:21 53:22,22 54:4 
+certain 13:23 claim 3:15 11:1 composition 46:18 56:7,8,20 
+
+29:11 19:22 20:8 24:8 12:1 counsel 31:15 courthouse 
+certainly 32:9 25:19 26:6 27:1 comprised 4:11 55:24 56:22 31:23 
+
+40:9 44:11 claiming 34:17 4:20,20 12:18 counties 25:17 courts 3:12 7:14 
+48:21 55:17 claims 56:18 42:6 country 32:11,12 8:9 10:3,21 
+
+cetera 55:13 classifications computer 6:4 51:13 11:6,16 12:10 
+challenge 30:10 54:12 concept 24:8 county 12:16,17 12:12 13:13,14 
+challenges 28:16 clear 27:12 30:19 concerned 8:18 13:3 18:5 21:6 13:21 15:17 
+
+30:7 38:18 50:9 concerns 12:15 21:7,13,25 17:3,20,21,21 
+clearly 3:14 conclude 9:24 22:21 23:2,11 17:22 18:3,5,24 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 59 
+
+19:4,6,11,16,19 36:19 28:17 53:22 54:1,16 E 
+20:11,13,25 demonstrated disparities 4:4 54:17 E 2:1 3:1,1 
+21:5,10,10,18 27:2 4:16,18 7:8,13 districts 21:7,9 early 44:12 
+21:21 22:3 23:5 demonstration 8:10 15:25 16:4 24:14 51:5 easiest18:12 
+24:4,11 28:15 32:22 29:18 52:16,23,25 56:11 
+28:23 29:7 department disparity 4:13,15 53:8 55:6 easily 26:17 
+30:20,22 36:22 44:25 45:4 5:15 7:18 8:1 doing 42:19,25 easy43:10 
+38:21 40:6 45:8 depend 15:6 37:1 8:19,20 9:9,23 49:17 echoing 32:16 
+45:9 47:13,22 depending 7:18 9:25 10:9 11:3 don’t 12:8 effect 14:10 
+53:15,17,18,19 depends 24:3 11:24 12:23 doubt 18:20 17:25 18:2 24:9 
+54:2 26:6 37:19 13:23 19:9,13 44:15 25:16 48:16 
+
+Court's 3:21 9:2 40:18,20 19:17,20,22,25 downtown 43:5 51:18,19 
+20:17 described 19:2 20:1 27:7 28:2 drag 47:16 eight 14:17,17 
+
+covers 46:23 determination 32:7 34:8,10,11 draining 25:5 either 3:22 37:16 
+crack 20:25 20:15 36:6,9,12 45:12 dramatic 8:3 50:7 
+create 25:20 determine 12:13 56:16,17 draw 23:6 39:2 elderly 35:4 
+created 49:17 Detroit 31:25 disproportion 49:8 51:4 element 51:24 
+creating 51:12 diagram 19:11 43:16 drawing 22:21 elements 17:9 
+cross 36:18 DIAPOLIS 1:6 disproportion... 37:1,19 40:18 52:1 
+cross-section didn’t 45:25 17:13 18:4 24:9 40:22 49:9 eligible 29:23 
+
+3:16 difference 4:18 37:2,15,20,21 drawn 3:16 23:2 eliminated 41:18 
+12:8,11 19:20 48:10,13,16 45:23 enlighten 40:4D 27:8 41:8,10,11 53:14 draws 40:20 enshrine 32:2
+
+D 3:1 51:7 disproportion... drew 22:4 37:21 entire 20:2 21:6 
+damned 26:1,2 differences 8:3 35:4 44:12 48:9 21:25 22:21
+day 18:9 43:22 different 3:22 disproven 16:10 drive 31:4 43:4 23:2 51:25 52:8 
+deal 42:24 54:4 6:16 13:14,15 disregard 9:20 driver's 29:12 entirely 45:14
+dealing 32:18 15:21 16:23 distinct 8:14 31:3 52:8
+
+33:4 41:4 19:7 54:19,21 12:16 16:4 due 28:11 entitled 9:2
+decided 48:3 differently 28:18 28:18,22 Duren 3:22 4:17 20:19 30:15
+decision 3:21 28:23 distinction 16:22 4:18 6:16 7:23 ERIC 1:15 2:3,8 
+
+5:21 7:5 8:13 difficult 43:6 district 9:19 7:24 8:6 16:21 3:6 56:3
+9:2 44:25 45:4 direct 8:8,11 13:14 17:20 16:24 17:12 error 35:19
+48:1 55:9 15:17 17:3 18:3,4,23 20:5 19:23 27:22 especially 8:20
+
+decisions 28:24 28:15 20:24 21:16,17 28:9 30:19 ESQ 1:15,17 2:3 
+defendant 17:12 direction 51:10 21:18,20,24 32:11,13,21 2:5,8 
+
+30:1 34:22 51:16,20,22,23 22:3,6 23:10,18 33:14,17 34:3 essentially 18:18
+35:22 36:12 disagree 37:24 23:20,24 24:1 34:14,15,23 establish 34:7,8 
+
+defendant's 42:5 25:10,11 29:7 35:6,11,13,20 established 3:14
+36:10 discover 14:19 29:15 37:7,8 36:16 42:2 44:8 13:1 34:4,8 
+
+deference 9:3 discrepancy 38:21 39:22,22 52:2 54:22 37:14,17 
+20:20 30:15 32:23 40:6,7,25 42:7 55:21 et 55:13
+
+deficiency 20:11 discriminate 46:18,19,22,22 Duren's 10:15 ethnicity 29:20
+delegation 52:8 16:7,20 47:1,6,8 48:9 duty 24:22 everybody 49:4
+delineate 16:24 discussion 54:7 48:20 52:19,20 dwindled 6:19 49:8
+demonstrate disparate 16:25 53:3,15,17,19 D.C 1:8 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 60 
+
+evidence 7:4 F find 10:4 15:24 Ginsburg 6:15 47:3 48:9,12,14 
+20:9 26:5,10 face 16:3 24:23 26:17 45:17,19 6:18 7:16 9:14 49:2,14 52:7,12 
+33:13 49:14,23 29:9 46:6 47:20 9:18 18:17 20:3 52:15 53:1,4,13 
+
+exactly 14:4 22:9 faces 55:20 fine 6:14 27:25 30:24 53:13 55:19 
+23:22 25:25 facie 17:9 first3:4 7:9 8:24 33:3,20 34:20 grant 46:8 
+26:8 32:3 52:21 fact 7:5,24 27:3 9:8 17:20 19:4 35:23,25 44:6 granting 46:10 
+52:24 54:8 31:10 35:16 19:6,17,19 44:18 46:17 great 54:4 
+
+examine 7:12 43:8 45:14 20:25 21:16,18 47:4,9 51:2 ground 10:3 
+examined 7:14 53:25 23:24 24:14 54:13 group 8:14 10:6 
+examining 8:1 factor 34:24 35:7 29:15 33:16 give 10:10 11:1 10:7,8,25 12:3 
+
+9:10,10 36:8 38:7 46:11 38:21 39:23 12:4 17:1 18:19 17:14 31:5 50:7 
+example 8:5 46:12,12,12 40:5 41:17 20:24 23:24 groups 12:16 
+
+11:19 12:15 factors 34:21 42:16 43:2 51:4 44:13,16 55:23 16:4 28:18,22 
+13:24 14:16,17 35:11 38:14 53:18 55:6,6 giving 31:10 guess 5:18 6:4,23 
+14:22 26:12 factual 20:15 five 13:5 go 15:10 18:20 32:15,16 39:15 
+43:18 23:17 31:8 fix 53:16 36:8 49:10 51:2 40:23 
+
+exception 34:24 factually 18:15 flags 12:5 53:6 guidance 7:23 
+excess 48:22,23 20:18 27:1 flat 11:18 goal 32:2 30:16 
+exclusion 3:21 
+
+4:2,19 16:6,10 
+16:19 17:2 
+27:12,20 28:11 
+29:8,16 30:18 
+46:2 56:12 
+
+excuse 34:1 44:8 
+47:19 
+
+excuses 29:5,6 
+29:14 44:10 
+45:15 46:8,10 
+
+exempt 28:24 
+exempted 16:22 
+exemption 16:24 
+
+33:4,5 44:14 
+exemptions 
+
+36:17,20 44:17 
+expect 5:10 13:4 
+
+52:24 53:7 
+expecting 53:9 
+expert 19:1,10 
+
+27:4 
+explain 55:4 
+explanation 
+
+39:14,21 
+express 33:4 
+extensive 40:10 
+
+failed 18:15 
+20:17 28:20 
+56:13 
+
+failure 28:25 
+36:18 
+
+fair 3:16 4:1 11:1 
+36:18 
+
+faith 16:7,19 
+far 44:13 
+farthest43:4 
+Federal 10:3 
+
+11:6 17:3 28:15 
+28:23 30:21 
+46:18,19 
+
+feel 35:19 38:10 
+38:13 48:5 
+54:21,22 
+
+felony 17:22 
+20:12 24:1 
+
+fewer 24:5,16 
+37:5 38:16 39:1 
+40:2 44:13 49:9 
+
+figure 5:2 10:10 
+11:16 
+
+figures 20:4 
+fill 5:7,7 
+final 19:13 
+
+flexibility 54:4 
+55:23 
+
+follow 28:21,21 
+following 6:24 
+
+19:5,17 29:13 
+follow-up 33:12 
+forcing 55:8 
+forget 5:19 42:12 
+forth 35:16 
+forward 27:4 
+Foster 50:23 
+found 5:10 40:25 
+four 13:5 
+frankly 46:24 
+free 9:19 
+further 33:9 
+
+35:13 
+
+G 
+G 3:1 
+gather 26:5 
+general 1:15 39:1 
+generally 11:7 
+genuine 46:10 
+geographical 
+
+46:20 
+getting 43:20 
+
+47:21 
+
+goes 7:16 52:8 
+going 5:18 6:24 
+
+8:3 12:4 15:10 
+15:11,18 18:9 
+23:25 29:16,21 
+29:21 37:5 40:9 
+43:15,25 44:12 
+45:1 47:6 48:1 
+48:3 49:4,5,8 
+53:15,18,19,23 
+
+good 16:6,19 
+24:24 25:1 36:4 
+36:14 39:6 
+
+gotten 15:22 
+governments 
+
+54:8 
+Grand 8:5 18:3 
+
+21:12,20,25 
+22:3,8,8,16,18 
+22:19 23:10,19 
+23:21,21 24:4 
+24:10,14 25:16 
+25:18,19,21,23 
+25:24 26:6,19 
+31:23 32:1 37:1 
+37:14,19,21 
+39:17 40:6,8,13 
+40:18,21 43:5 
+
+H 
+habeas 3:11 
+half 5:11 9:4 
+
+14:20 50:25 
+56:17 
+
+hand 5:17 
+hands 11:16 
+happen 29:17 
+happened 41:24 
+
+44:21 
+happening 10:3 
+
+49:11 
+happens 22:20 
+
+30:6 31:1,25 
+32:1 50:12,15 
+
+hard 9:1 10:4 
+18:1 20:22 
+
+harder 43:25 
+hardship 29:5,14 
+
+44:10,17 46:11 
+hate 6:8 
+hear 3:3 
+hearing 42:14,14 
+heat's 51:13 
+heavily 39:11,12 
+
+49:7 
+height 38:15 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 61 
+
+help 14:25 48:22 impression it’s 4:3 6:2 7:3 43:14 45:23 37:13,18 38:7 
+50:13,16,16 38:19 11:25 12:4 46:20 51:11 38:11,17 39:8 
+
+helpful 55:16 incentive 43:12 20:15 31:5 52:19 53:14 39:13,16 40:11 
+higher 21:12 include 22:7 45:17 jury 3:16 8:15 40:17 41:6,14 
+
+24:15 39:17,18 34:14 I’d 9:5 42:23 10:8 12:1 13:4 41:21 42:11 
+40:13 42:16 included 13:25 I’ll 16:15,15 14:11 17:13,18 43:13 44:6,9,18 
+43:18,24 including 36:23 I’m 13:8 14:23 18:14 19:2,5,16 45:7,10,21,25 
+
+Hillary 46:14 incorrect 5:23 16:14 32:16 20:8,19 24:22 46:1,5,17 47:4 
+Hispanics 32:13 56:9 38:17 42:14,14 25:23 28:25 47:9,12 48:7,25 
+
+42:6,9 
+holds 54:22 
+
+increase 49:18 
+indicates 23:16 J 
+
+29:1,22 31:22 
+32:8 33:2,6 
+
+49:1,13,20,22 
+50:1,13,16 51:2 
+
+home 40:3 42:20 32:25 JAMES 1:17 2:5 36:19 38:16 51:15 52:4,21 
+44:2 indicating 12:22 31:18 39:10 43:15 52:24 53:11,12 
+
+Honor 6:22 55:25 individual 44:19 January 1:9 53:17 54:24 53:13 54:7,9,13 
+hour 9:5 inevitably 23:23 judge 17:22 33:8 56:14 55:1,24 56:1,22 
+households information 4:7 40:25 42:22,23 jury-eligible justify 19:22 28:5 
+
+43:24 18:25 20:7 47:15 4:12 14:4 30:2 35:8 36:9 
+hundred 5:7 23:13 25:2,4 judges 39:22 Justice 3:3,8 36:18 45:16 
+
+14:18 
+hypothetical 
+
+26:24 27:3 
+30:24 
+
+44:22,24 47:25 
+judgment 12:10 
+
+4:23 5:17 6:2,7 
+6:10,13,15,18 K 
+
+27:16 inherent 29:3 judicial 40:8,10 6:23 7:15,16 Kennedy 4:25 
+
+I 
+30:18 33:1 
+
+inordinate 48:12 
+juries 5:12 14:20 
+
+39:19 42:9 
+8:2,16,17,22 
+9:4,14,18 10:5 
+
+8:16,22 9:4 
+16:5,9,13,15,18 
+
+ID 30:25 insignificant 46:13,15 49:19 10:14,18,23 27:9,15,18 28:6 
+Idaho 42:7 51:21,21,22,25 51:12 55:19 11:12 12:2,7 28:9 46:1 54:7 
+idea 13:22 24:9 insofar 9:1 jurisdiction 7:19 13:7,9,12,19 Kent 12:15,17 
+
+49:2 instructed 39:24 7:20 23:6 14:8,12,16 15:2 13:3 23:11 
+identifiable intent 16:7,20 jurisdictions 15:5,9 16:5,9 29:19 39:12 
+
+45:12 interest5:10 18:5 16:13,15,18 43:3 46:18 47:2 
+identification interested 8:23 juror 14:19 19:3 17:5 18:17,18 48:19 
+
+29:13 31:4 interesting 17:6 25:10 39:17 20:3,21 21:8,11 Kim 50:23 
+identified 36:6 interrupt 7:15 47:14 21:23 22:6,10 kind 4:25 7:25 
+
+38:8 intuitively 14:21 jurors 6:20,21 22:12,15,24 8:24 9:5,7 
+identifies 36:12 20:24 9:12 13:3 14:1 23:3,7,9,14,17 10:11,25 14:8 
+identify 17:12 invitation 29:1 14:6 17:20 18:2 23:23 24:12,19 29:23 
+
+23:5 29:20 involve 4:19 19:18 20:2,10 25:8,9,13,15,22 kinds 7:13 8:10 
+53:20 involved 16:21 21:1,15,18,21 26:1,4,9,16,22 33:13 55:7 
+
+ignore 5:19 17:14 35:5 42:3 21:23 22:7,7 27:9,15,18,25 know 4:23 5:7 
+illegitimate 38:8 54:6 23:1,9,18,24,25 28:6,9 29:25 6:2,7 9:5 12:8 
+illustrate 17:17 issue 3:13 4:1,4,5 24:4,5,11,14,15 30:24 31:8,13 12:15 14:12 
+imagine 5:4 4:17,17 5:25 24:16 25:3,6,17 31:15,20 32:5 20:4 22:17 
+impact 16:25 12:22 13:25 25:18 26:7,14 32:15,16 33:3 30:17 39:2 
+
+17:14 21:3 17:5 28:1,24 26:15,18,19,23 33:20 34:1,6,13 41:24 46:25 
+important 3:25 44:24 48:1 29:7,15,21 31:6 34:20 35:1,14 47:13,23 49:16 
+
+5:22 36:24 55:5 issues 47:15 31:24 37:2,7,15 35:23,25 36:3 55:12 
+importantly 43:8 item 37:25 39:1,23 40:14 36:25 37:4,10 knowledge 46:25 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 62 
+
+knows 55:12 legitimate 34:18 math 50:17 mind 38:18 necessary 11:9 
+
+L 
+letter 50:23,25 
+letters 55:4,4 
+
+mathematician 
+5:14 
+
+minorities 31:22 
+37:5 39:1 40:2 
+
+37:24 54:2 
+necessity 21:5 
+
+language 25:6 letting 42:22 matter 1:11 8:25 42:17 49:23 need 26:6 37:15 
+Lansing 1:15 let's 38:20 52:7,9 11:24 14:7 54:11 needed 24:10 
+large 32:23 40:9 level 49:20,21 51:23 56:25 minority 7:20 needs 26:19,23 
+
+46:23 license 31:3 mean 9:19 24:21 9:15 32:1,8 47:14 
+larger 23:25 24:6 licenses 29:12 26:18 27:6 28:6 39:18,20 45:15 negative 39:4 
+
+25:3,17,24 53:8 listen 55:2 30:1 39:4 42:17 48:13 49:3 neutral 16:2,25 
+largest40:7 little 40:4 55:6 42:23 47:7 51:11 29:9,10,17 
+Las 15:2 live 24:22,23 meaning 9:3 minutes 43:6 33:24 34:18 
+Latino-Ameri... 38:22,24 16:22 56:2 neutrality 29:24 
+
+12:18 13:5 local 19:3,6,11,16 meaningful misdemeanor never 14:13 
+Laughter 6:12 19:19 20:11 41:10 17:21 21:10 32:13 
+
+14:15 15:1,4,8 21:10,21 23:4 means 30:2 misleading non-returns 
+law 3:10 32:3 24:3,11 47:25 31:24,25 32:8 22:23 28:21,22 29:14 
+Lawrence 1:17 54:4,8 55:21 37:22 43:10 missing 9:12 non-service 
+
+2:5 31:16,17,18 logical 21:5 measure 9:10 13:8 45:16 
+31:20 32:9,20 longer 29:23 measured 4:8,14 Missouri 4:19 note 3:25 5:22 
+33:16,22 34:5 41:25 43:7 7:24 32:21 noticeable 41:1 
+34:13 35:10,18 look 7:13 8:10 measurement moment 44:7 notices 33:6 
+35:24 36:1,15 10:21 12:16,17 7:25 month 12:21,24 number 9:12 
+37:3,6,12,16,23 12:21 15:15 measures 54:15 13:4 41:19 10:25 13:13,17 
+38:10,13 39:7,9 19:8 26:18 27:3 54:17 45:20,20 50:15 18:2,4 24:6 
+39:15 40:5,16 35:11 40:12 mechanism 30:3 months 4:7 19:3 25:24 26:14 
+40:23 41:13,16 50:4 56:16 meet 10:14 38:3 41:23 31:24 35:10 
+42:1 43:2,17 looked 28:15,20 members 43:7 morning 3:4 37:2,20,21 
+44:15,20 45:8 55:19 45:15 multiple 11:7 38:14 40:14,19 
+45:19,22 46:4,9 looking 5:20 11:6 men 16:23 municipalities 42:16,17 48:10 
+46:21 47:7,10 17:7 mentioned 36:17 22:4 48:13,15,16,22 
+47:23 48:18 looks 5:15 54:5 murder 3:11 49:3,18 50:5 
+49:11,16,21,25 
+50:3,14,20 51:9 
+
+lose 37:22 42:19 
+lot 15:16,16 55:2 
+
+merits 30:14 
+39:3 N 
+
+52:12 53:14 
+numbers 5:11 
+
+51:24 52:19,22 55:22 met 35:18 N 2:1,1 3:1 6:16 13:15 
+53:7 54:3,10,20 low 50:22 Mich 1:16,17 named 33:8 20:23 28:3,5 
+55:17,25 lower 12:10 Michigan 3:12 nanny 47:19 32:19 33:18 
+
+Lawyers 14:25 39:20 3:13,18 5:21,25 Native 12:19 35:9,12 42:3 
+lead 11:18 
+learned 14:13 
+leave 11:15 12:9 
+
+M 
+magnitude 4:18 
+
+9:2 11:2 13:3 
+15:20 18:13,17 
+20:7,16 27:1 
+
+13:6 32:14 
+nature 18:10 
+
+38:2 
+
+numerous 52:1 
+
+O 
+leaving 13:13 major 8:6 29:4,13,18 near 24:22 O 2:1 3:1 
+led 37:25 majority 37:8 30:13,17,20,25 nearer 24:22 Oak 1:17 
+left 24:17 32:8 making 16:11 31:9 46:23 47:2 38:22,24 objectively 5:23 
+
+53:6 manifestly 32:25 56:8 nearly 32:24 9:11 15:23 
+leftover 39:19 marked 28:2 Michigan's necessarily 9:23 30:22 56:9 
+legal 55:9 MARY 1:3 36:23 17:8 obligation 36:8 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 63 
+
+36:10 overlooked 32:10,12 38:6 plus 6:25 7:1 28:10 
+observation 36:24 40:19,20,21,22 point 3:23 6:15 present 24:7 
+
+32:21 overrepresent... 41:8,9,10 42:6 6:23 9:8,8,16 33:14 
+obtain 31:3 39:11 42:8 45:12,12 11:21 12:18 pretty 5:15 26:17 
+obtained 3:12 
+obvious 8:3 P 
+
+46:14 49:3 
+50:11,11,22 
+
+13:23 14:8 
+15:18 16:12 
+
+50:18 
+prevail 11:10 
+
+20:24 P 3:1 51:6,7 52:10,14 30:19,24 36:10 prevailing 30:12 
+obviously 39:5,6 page 2:2 19:8 52:17,17,25 51:3,19 pre-spike 41:22 
+occasionally 32:21 33:22 53:1,4 55:19 points 30:12 56:6 prima 17:9 
+
+32:23 35:12 50:5 56:16,17 56:15 primarily 23:10 
+occurred 19:4,11 pages 8:11 34:16 percentage 4:9 police 44:25 45:4 principle 36:24 
+
+19:15,16 32:23 36:1 8:4,6,13 14:3 45:6,9 47:16 prior 17:19 51:17 
+occurs 29:2 pair 47:19 15:12 21:12 48:2,6 priority 31:11 
+October 4:6 panels 39:10 24:15 25:18 policy 46:1 probability 
+Oh 27:17 31:1 parent 47:18 50:18 53:8 pool 8:15 13:4 11:25 14:7 
+
+34:20 Parents 54:6 percentages 20:25 22:5,17 probably 55:10 
+okay 9:6 24:12 part 9:12 14:6 20:22 23:2,24 25:3,23 56:10,15 
+
+24:21 31:17 34:3 45:5 46:3 perfect 29:22 31:6 37:2,12,15 problem 18:8 
+42:1 43:2 44:2 48:5,6 perfectly 8:2 40:14,21 48:10 25:20 34:15 
+44:9 50:3 52:9 participation period 4:5,10,14 48:12,15,17 39:14,16 41:2 
+52:11 45:2 51:11 4:22 20:2 26:20 49:2,7 52:9 43:10 45:22 
+
+old 17:25 particular 26:20 32:24 41:7 42:3 pools 19:7 48:19 50:14 
+once 34:11 36:12 33:2 permitted 54:14 poor 47:18 52:5 53:16,16 
+
+50:12 people 9:20 persistent 29:3 population 4:12 53:20,24 
+ones 48:21 22:18,20 23:5 45:20 4:21 6:19 8:18 problems 33:14 
+opinion 44:8 24:21 31:2 persistently 38:3 9:21 10:6 12:3 procedure 27:10 
+opinions 7:11 38:20,21 39:9 46:13 14:4 29:23 proceed 34:11 
+opposed 25:17 40:3 41:12 person 5:12 10:7 39:18,20 47:1 process 17:1,13 
+opposite 16:12 42:18,19,20 42:21 47:16,17 50:11 53:9 17:18 18:16 
+options 55:22 43:9,10,14 44:1 personal 45:15 54:24 20:9,19 25:5 
+oral 1:11 2:2 3:6 47:24 48:2,10 46:25 position 30:9 26:13 29:3,7 
+
+31:18 48:20,23 50:25 petit 12:1 14:11 45:11 30:19 33:2 34:9 
+oranges 41:22 52:13 53:5,19 Petitioner 1:4,16 positive 39:5 36:5 41:4 54:1 
+order 11:10 14:3 53:23 55:3,18 2:4,9 3:7 56:4 possible 20:21 56:14 
+
+25:10 48:18 percent 4:11,12 Petitioner's 32:2 31:5 33:9 processes 4:8 
+orders 44:24 4:13,15,20,21 32:10 post-spike 41:23 16:2,2 29:17 
+
+45:2,2 48:1 6:19,20 7:19,21 pick 13:16 potential 21:1 product 34:12 
+ought 52:18 8:14,15 9:15,18 picking 13:12 practical 11:22 professional 
+outlines 19:9 9:20,22 10:1,2 placed 12:22 13:2,24 43:14 
+outlying 21:15 10:6,10 11:9,11 plaintiff's 34:22 practice 10:21 profit 15:3 
+
+53:8 12:3,18,19,19 35:7 13:20 17:19 programs 6:5 
+outset 17:15 12:23 14:2 play 4:8 31:10 34:25 promote 51:11 
+outside 29:1 15:15,25 16:1 plays 55:15 practices 29:10 prong 4:2,3 
+overall 15:12 19:12,18,20,21 please 3:9 16:17 precedent 3:15 10:15 13:1 
+
+37:12 46:9 19:25,25 22:17 31:21 35:15 predict 40:8 18:13 28:7 
+48:17 27:7 31:23 47:19 predictable prongs 4:1 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 64 
+
+proof 17:24 R 35:3 38:25 resident 25:10 review 8:8,12 
+21:19 22:11 R 3:1 rebuttal 2:7 30:6 residents 23:22 13:15 15:17 
+34:16 race 29:20 56:3 52:15 17:3 28:15 56:7 
+
+proper 27:23 racial 54:12 reconcile 35:14 resolve 18:12 reviewed 56:19 
+proportion 49:5 raised 28:13 35:15 respect 55:11 Richard 46:14 
+proportional random 5:6 record 23:13 respectfully ride 43:20 
+
+40:12,19 randomly 53:22 24:20 26:5,10 37:23 right 7:2,3 8:7,21 
+proportionally Rapids 8:5 18:3 33:5 37:14,20 respond 28:25 10:12,16 12:6 
+
+49:15 21:12,20 22:1,3 39:7 50:2,9 50:25 51:1 13:17 15:3,13 
+proportionate 22:8,8,16,18,19 records 47:5 Respondent 1:18 15:22 16:8 21:8 
+
+48:15 23:11,19,21,21 red 5:5 2:6 31:19 21:14 22:14,20 
+proportionately 24:5,10,14 reducing 48:16 Restuccia 1:15 23:3,22 25:14 
+
+21:22 24:10 25:16,18,19,21 reduction 26:14 2:3,8 3:5,6,8 25:21,25 26:2,3 
+prospective 14:1 25:23,24 26:6 refer 42:4 5:16,20 6:6,17 26:8,17,21,24 
+protected 10:7 26:19 31:23 reflect 25:23 6:22 7:3,22 8:7 28:8 31:2,12,14 
+
+10:25 12:3 32:1 37:1,14,19 reflects 10:20 8:21,24 9:6,17 37:5,6 39:8,15 
+protections 37:21 39:17 15:12 9:22 10:12,16 40:13 43:22 
+
+32:13 40:6,8,13,18,21 regard 31:10 10:20 11:5,20 49:1 50:5,19,21 
+prove 33:18 43:5 47:3 48:9 regarding 32:11 12:6,14 13:8,11 51:9,16,20,22 
+
+48:11 51:17,19 48:12,14 49:2 registration 13:18,20 15:13 53:4 54:9 
+proved 35:12 49:14 52:7,12 28:16,17,17 16:8,11,14,17 rise 10:10 11:1 
+proven 16:10 52:15 53:1,4,14 29:12 16:21 18:11,25 12:5 17:1 
+provide 7:23 55:19 regularly 29:2 20:6 21:4,9,14 ROBERTS 3:3 
+provided 19:1 rate 39:18 43:19 rejected 16:1 22:2,9,11,14,19 6:23 15:5,9 
+
+26:25 43:24 20:8 27:1 38:11 23:1,4,8,12,16 22:12,15 26:4,9 
+pulled 26:18 37:7 reach 9:1 rejecting 3:15 23:20 24:3,18 26:16,22 31:15 
+put 7:6 23:18 reached 30:14 8:9 24:25 25:12,14 32:5,15 36:25 
+
+27:4 48:20 read 14:22 36:15 relatively 4:4 25:20,25 26:3,8 37:4,10,13,18 
+puts 34:15 reading 27:21 32:18 26:11,21,24 40:11,17 43:13 
+putting 5:14 34:14 35:20 relevant 4:24 27:13,17,21 48:25 49:13,20 
+
+Q 
+question 7:16 
+
+8:17,23 9:1 
+11:12 15:19 
+17:8,10 18:14 
+23:17 30:7,14 
+30:15 31:9 
+32:16 39:23 
+47:25 49:1 
+54:13 
+
+questions 9:10 
+quickly 33:8 
+quite 6:16 30:21 
+
+54:18 
+
+real 44:16 
+really 3:10 4:17 
+
+7:11,23 9:1,23 
+10:2 17:2 24:25 
+27:4 30:21 
+32:18 43:3 
+
+reason 9:11 10:1 
+11:21 16:1 20:7 
+27:24 28:14 
+36:4,4,14 
+
+reasonable 4:1 
+16:3 54:23 
+
+reasons 8:8 
+15:14 26:25 
+33:24 34:18 
+
+relied 11:8 
+remaining 56:2 
+remind 56:6 
+removed 37:9,10 
+
+48:24 
+repeatedly 38:4 
+representation 
+
+4:2 11:1 18:22 
+33:1 54:11 
+
+require 3:22 
+required 21:19 
+
+24:5 48:2 54:15 
+requirement 
+
+53:3 
+requires 54:18 
+
+28:4,8,12 30:5 
+31:1,12,14 56:1 
+56:3,5 
+
+result 3:22 11:18 
+16:3 20:11 24:6 
+29:16,18 38:24 
+41:7 
+
+resulted 41:7 
+results 26:14 
+
+27:10,18 37:4 
+return 33:7 
+returned 33:10 
+
+33:11 
+reverse 3:23 33:8 
+
+56:20 
+
+49:22 50:1,13 
+50:16 55:24 
+56:1,22 
+
+Rockford 22:4 
+Rockland 26:23 
+role 55:15 
+room 38:20 
+routine 28:10 
+routinely 27:10 
+
+27:18 
+Royal 1:17 
+rubric 55:9 
+rule 11:18 13:10 
+
+13:12 15:15 
+27:23 32:3 
+
+55:21 reversing 55:5 33:17 51:12 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 65 
+
+rules 11:23 50:22 55:3 shows 18:22 sorry 13:8 16:14 46:24 
+run 14:18 sending 20:10 19:12 22:12,22 50:5,9 stay 44:2 
+runs 4:5 7:9 21:5 29:11 33:6 side 33:8 37:16 sort 11:16 stays 6:3 
+rural 39:11 40:10 40:13 50:24 significant 4:3 sorts 34:18 step 34:11 51:9 
+
+40:15 sends 49:2 19:24 27:11,14 SOTOMAYOR 51:15,15,20 
+
+S 
+S 2:1 3:1 
+sample 15:12 
+Sanchez-Lopez 
+
+42:5 
+saw 55:20 
+saying 6:9 12:12 
+
+16:5 33:6 44:16 
+50:19 54:17 
+
+says 35:12 36:1,3 
+41:9 47:17 52:2 
+
+Scalia 6:10 13:7 
+13:9,12,19 15:2 
+25:9,13,15,22 
+26:1 34:1,6,13 
+35:14 48:7 
+51:15 52:4,21 
+52:24 
+
+Scalia's 49:1 
+School 4:25 
+Schools 54:6 
+school’s 54:15 
+sea 14:23 
+second 8:12 9:8 
+
+10:15 13:1 
+28:19 50:22,24 
+
+section 36:19 
+see 14:22 15:16 
+
+18:1 22:10 
+26:18 39:4,4 
+42:24 53:24 
+
+seeing 39:14,16 
+segment 21:17 
+select 5:6 29:7 
+selected 14:7 
+selection 14:10 
+
+17:13,18 33:2 
+34:9 36:5,11 
+54:1 
+
+send 19:6 21:15 
+
+sense 10:18 
+12:11 18:7 
+
+sent 19:19 21:17 
+21:18 33:10 
+47:16 53:5 
+
+sentence 36:16 
+separate 53:17 
+
+54:1 
+serve 10:8 24:22 
+
+25:10 33:7,12 
+37:8 38:21,24 
+40:3 42:20 
+43:15 46:7 
+
+served 21:24 
+23:9 
+
+service 28:25 
+29:1 
+
+serving 23:25 
+45:1 
+
+set 35:16 52:13 
+setting 15:24 
+
+54:21 
+settings 54:19 
+seven 7:10 
+severe 41:2 
+share 49:15 
+show 16:18 18:15 
+
+20:17 21:19 
+34:11,23 35:3 
+35:10,21,24 
+36:4,13,13 
+43:16 44:5,22 
+44:24 45:2,3 
+47:15 48:1,9 
+52:2,5 56:13 
+
+showed 39:7 
+43:17 
+
+showing 27:5,12 
+34:21 35:7 
+39:10 56:12 
+
+shown 44:5 
+
+27:19 45:14 
+51:17,19 56:18 
+
+similarly 7:20 
+simply 40:23 
+
+43:10 44:4,22 
+48:14 50:22 
+52:12,25 55:18 
+
+single 47:17 
+single-parent 
+
+43:24 
+siphoning 25:5,6 
+
+37:1 38:9,18 
+41:4 
+
+situation 30:4 
+47:11 
+
+situations 32:3 
+Sixth 3:23 12:25 
+
+17:18 38:8 
+size 15:6 20:25 
+skip 6:13 
+small 4:4 8:4,10 
+
+8:18 11:24 
+20:23 22:4 27:6 
+32:18 40:14 
+42:4,17 
+
+smaller 15:7 
+47:2 
+
+Smith 1:6 3:4 
+12:22 18:14 
+20:17 27:6 
+28:13 56:12 
+
+Smith's 3:15 
+19:1,10 27:4 
+
+society 45:23 
+46:7,8 
+
+Solicitor 1:15 
+solve 43:11 48:18 
+somebody 43:21 
+
+44:4,21 46:16 
+47:17 
+
+soon 14:23 49:16 
+
+10:5,14,18,23 
+11:12 12:2,7 
+41:6,14,21 
+
+sound 42:23 51:7 
+southern 42:7 
+specific 37:25 
+specify 7:25 
+spectrum 45:24 
+spikes 41:18 
+standard 5:24 
+
+12:25 15:21 
+55:15 
+
+stands 29:19 
+start 17:8 
+started 50:24 
+starting 6:18 
+State 11:10 13:25 
+
+30:2,8,16 33:23 
+34:16,17 35:1,8 
+35:21 36:3,13 
+36:19 
+
+stated 22:22 
+32:22 33:18 
+35:13 38:25 
+
+statement 34:2 
+35:16 
+
+States 1:1,12 
+42:5,10 46:22 
+47:8 
+
+State's 36:7 
+statistical 7:7 
+
+17:5 18:8 27:10 
+32:17 53:25 
+
+statistically 12:9 
+19:24 41:10 
+56:18 
+
+statistician 6:3 
+14:24,24 
+
+statistics 16:10 
+17:16 41:25 
+43:16,17 44:5 
+
+Sterling 1:17 2:5 
+31:18 48:7 
+
+STEVENS 7:15 
+8:2 20:21 21:8 
+21:11,23 22:6 
+22:10,24 23:3,7 
+23:9,14,17,23 
+31:8,13 45:7,10 
+45:21,25 46:5 
+
+Stevens's 8:17 
+Stevens’s 32:16 
+stop 44:6 
+stopped 49:17 
+strongest56:15 
+struggle 17:15 
+
+18:7 
+studied 46:24 
+
+47:10 
+subject 30:7,9 
+submitted 56:23 
+
+56:25 
+substantial 8:19 
+
+38:4 40:25 
+43:24 49:17 
+
+sufficient 17:1 
+28:5 
+
+sufficiently 
+11:24 
+
+suggest10:1,5 
+suggested 10:24 
+
+11:14 18:19 
+suggesting 11:21 
+
+47:14 
+suggests 19:21 
+summons 33:7 
+suppose 6:25 
+
+8:16 26:16 
+38:14 
+
+supreme 1:1,12 
+3:13,14,18 5:21 
+5:25 9:2 15:20 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 66 
+
+18:13,18 20:7 45:8,9 26:3 27:14,22 29:5 52:5 
+20:16 27:1 29:4 telling 34:10 27:23 28:4,7,13 treat 7:17 understanding 
+30:13 33:18 tells 35:1 51:12 30:11 32:9 treated 7:20 31:9 
+36:23 56:8 Tenth 7:10 28:19 36:22 37:22 trial 13:25 17:22 undisputed 
+
+sure 40:1 45:10 terms 19:2 39:25 40:2 41:3 32:22 
+surprised 38:15 territory 46:23 42:21 44:9 tried 5:9 44:23 United 1:1,12 
+suspicion 10:11 test9:9,14,22,25 49:19 54:2,3 trouble 43:20 42:5,10 46:21 
+system 17:25 9:25 10:9 11:3 55:2,2,20 56:10 true 29:6 30:5 47:7 
+
+25:15 29:2 11:17 12:12 56:19 34:2 35:2 40:3 unreasonable 
+34:12 36:11 32:10 34:3,4,14 third 5:11 14:20 44:15 5:24 7:4,5 
+38:9 45:5,24 34:16 35:15,17 16:12 18:13,20 try 36:13 42:12 15:23 17:14,19 
+46:3 48:5,6,24 35:19 18:21 28:7 34:3 44:2 55:5,13 30:23 41:15 
+51:17,25 53:17 testified 5:18 34:6,14 35:15 trying 28:7 31:5 55:11 56:9 
+53:21 55:21 40:24 46:14 thought 14:21 46:6 54:14 unreasonable/... 
+
+systematic 3:21 testimony 20:10 17:18 22:15,16 turned 51:18 55:14 
+4:2 16:6,9,19 25:1 26:12 50:4 34:3 51:5 turns 14:14 unreasonably 
+17:2 27:12,20 50:23 thoughtful 17:24 twice 50:12 3:14,19 6:1 
+28:11 29:8,16 tests 11:7 thousand 14:18 two 4:1 13:5 14:5 15:20 
+30:1,17,18 33:1 Thank 31:15 38:20 19:2,6 20:1 urn 5:4 14:13 
+33:9,14,19 55:24,25 56:21 three 14:1 20:2 32:3 41:16 15:6 
+34:21,23 35:7 56:22 35:17 50:6 55:3 42:18,19 50:6 urns 5:4 6:4,10 
+35:11 45:5 46:2 that’s 22:14,20 three-part 34:3,4 50:20 56:5 usage 24:4 
+
+systemic 28:1 26:10,17,25 three-prong type 32:17 use 4:24 5:2 8:20 
+56:12 31:14 45:14 35:17,19 typical 44:10 12:12 13:14 
+
+T 
+49:2,19 56:18 
+
+theirs 49:9 
+threshold 10:1,2 
+
+11:9,11,21 U 
+uses 24:14 53:14 
+utilization 39:17 
+
+T 2:1,1 theorem 5:3 12:24 45:13 ultimately 20:8 utilized 33:2 
+table 7:6 8:11 theory 37:1,19 thrust8:17 unanimous 8:9 U.S 33:18 
+take 13:3 22:19 
+
+24:13 25:16 
+40:17,20 
+
+there’s 5:4 10:4 
+tied 9:23 
+time 4:5,10,14,22 
+
+unconstitutional 
+3:20 17:10 38:2 V 
+
+43:22 48:20,22 15:21 18:21 5:7 13:16 19:10 45:18 46:6 v 1:5 3:4 20:14 
+49:6 54:16,17 21:4,4,11 23:12 19:15 20:2 underlying 24:8 32:21 42:5 
+
+taken 21:25 30:13 34:2 53:3 46:15 50:6 underreprese... various 33:24 
+takes 41:11 49:3 they’re 42:19 55:20 3:20 17:11 Vegas 15:2 
+
+49:14 52:12,14 55:11 times 13:15 18:16 20:18 venire 9:13 13:24 
+52:14 53:4 they’ve 11:6,7 14:18 15:11 27:11,19 33:25 14:6 32:24 
+
+talk 19:24 thing 4:25 14:13 tiny 42:17 34:19 36:20 49:23,24 
+talking 15:14 14:18 41:17 tools 7:25 38:1,5 41:1,8 venires 4:10,11 
+
+20:1 27:7 38:5 55:5 total 31:24 41:20 52:3 4:21 36:19 
+42:2 43:9 44:19 things 44:7,21 totality 52:10 56:13 view 7:22 37:25 
+50:10 52:1 55:3,7 53:2 underreprese... violation 13:1 
+
+target 50:21 think 3:25 5:21 totally 48:23 39:12 49:24 19:23 
+teaching 5:1 6:15 7:4 8:7,22 totals 19:14 understand 4:3 virtually 8:9 
+tell 5:19 14:23 10:23 12:7 13:2 touches 20:14 9:6,7 11:20 visible 41:2 
+
+35:15 39:25 14:14 15:13,17 touching 44:10 17:11 21:6 vis-à-vis 18:23 
+43:1,21 44:1 15:21 18:11 transportation 36:25 45:11 voter 28:16,16,17 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 67 
+
+29:12 22:11 55:14 10 9:15,18,20,22 40:19,20,21 98 46:14 55:19 
+
+W 
+worked 34:25 
+works 32:18 
+
+10:1,2,10 11:8 
+11:11 12:11 
+
+43:5 49:2 
+31 2:6 
+
+want 6:14 9:7 worth 7:11 13:17 15:15 32 8:11 
+13:17 30:11 wouldn't 11:1,15 42:8 52:10,13 33 8:11 
+51:10,10 56:6 25:19,23 32:12 52:17,25 53:1,3 34.8 38:5 41:19 
+
+wanted 54:16 42:11 43:6 10,000 15:9,10 35 12:23 
+WARDEN 1:3 48:17 10-month 42:2 366 32:21 33:22 
+warrant 47:15 wouldn’t 55:10 10:14 1:13 3:2 35:12,13 
+Washington 1:8 write 6:8 100 50:8 368 34:17 36:1 
+wasn't 24:25 wrong 5:13 13:7 11:14 56:24 369 34:17 36:2 
+
+44:18 47:24 
+way 5:1 6:3 14:14 
+
+13:9,11 38:19 
+43:1 44:16 
+
+12 5:7,7,8 14:7 
+13 19:8 4 
+
+16:23 17:2,24 46:10 51:23 14.5 4:21 6:20 4 7:19 19:25 27:7 
+18:12 20:14 
+22:16,23 28:19 X 
+
+15 19:18 38:3 
+41:9,12 51:7 
+
+46:12 
+40 7:21 40:22 
+
+35:9 36:23 41:3 
+42:18,25 47:20 
+53:16,24 
+
+Wednesday 1:9 
+weekly 32:24 
+went 21:20 33:23 
+
+52:1 
+Western 46:22 
+
+x 1:2,7 
+
+Y 
+year 10:8 19:4,5 
+
+19:17 32:24 
+41:23,25 
+
+years 4:24 
+you’d 13:4 25:19 
+
+158 13:3 
+17 38:3 
+18 4:15 19:12 
+
+41:8,12 51:6 
+18.1 41:20 
+1990 12:17 
+1993 4:6,6 
+
+5 
+5 7:2 14:2 15:25 
+
+50:10 
+5.0 8:15 
+5.59 42:6 
+54 4:20 6:19 
+56 2:9 
+
+47:1 
+we're 39:14,16 
+We’ll 3:3 18:19 
+we’re 48:3 
+what’s 5:24 13:8 
+white 25:16 35:1 
+
+44:9 55:20 
+wide 31:5 
+
+25:22 
+you’ll 14:19 
+
+15:16,24 
+you’re 5:18,20 
+
+6:24 8:3 22:20 
+26:1 27:6 32:18 
+42:2 43:15 
+50:10,19 54:14 
+
+2 
+2 6:9,9,25,25 7:1 
+
+7:1 12:18 45:12 
+46:12 56:2 
+
+2,250 43:9 
+2.9 12:18 
+20 1:9 43:5 
+2010 1:9 
+
+6 
+6 4:7,11 6:9,25 
+
+19:2 41:23 
+6-month 4:14 
+
+41:7 
+60 5:5 13:25 14:8 
+
+32:10 50:7,10 
+
+wider 39:2 42:15 55:8 2254(d)(2) 20:16 7 
+wins 30:1 
+wish 30:8,9 33:7 
+
+33:12 
+woman 33:5,10 
+
+34:24 
+women 4:19,20 
+
+6:19 16:22,23 
+
+Z 
+zero 52:17 
+
+0 
+0.6 12:19 
+08-1402 1:5 3:4 
+
+56:20 
+2254(e)(1) 20:16 
+
+56:20 
+25 43:9 
+28 50:21 
+
+3 
+
+7 9:16,16 16:1 
+7.08 8:14 
+7.28 4:12 9:17 
+
+31:23 50:11 
+70s 44:12 
+
+8 
+33:6 35:3 38:16 
+44:13,13 
+
+wonder 17:6 
+Wood 20:14 
+words 6:8 9:24 
+
+15:7 19:19 
+
+1 
+1 12:3,10,11 19:4 
+
+56:17 
+1,000 5:5 
+1.1 12:19 
+1.28 4:13 
+
+3 2:4 7:1,19 19:20 
+19:21,25 27:7 
+34:11 41:10 
+45:12 46:12 
+50:10 56:16 
+
+30 7:21 22:17 
+
+8-month 4:22 
+
+9 
+9 10:6 12:11 
+90 32:12 
+940 5:5 
+
+Alderson Reporting Company 
+
+

@@ -1,0 +1,7501 @@
+
+                
+
+         
+
+             
+
+          
+
+                       
+
+          
+
+          
+
+       
+
+          
+
+                       
+
+           
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+THOMAS C. HORNE, 
+
+SUPERINTENDENT, ARIZONA 
+
+PUBLIC INSTRUCTION, 
+
+Petitioner 
+
+: 
+
+: 
+
+:
+
+:
+
+ v. : No. 08-289 
+
+MIRIAM FLORES, ET AL.; : 
+
+- - - - - - - - - - - - - - - - - x 
+
+and 
+
+- - - - - - - - - - - - - - - - - x 
+
+SPEAKER OF THE ARIZONA : 
+
+HOUSE OF REPRESENTATIVES, :
+
+ Petitioner :
+
+ v. : No. 08-294 
+
+MIRIAM FLORES, ET AL. : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Monday, April 20, 2009
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:05 a.m. 
+
+APPEARANCES: 
+
+KENNETH W. STARR, ESQ., Los Angeles, Cal.; on behalf of 
+
+1
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the Petitioners. 
+
+SRI SRINIVASAN, ESQ., Washington, D.C.; on behalf of
+
+ the Respondents. 
+
+NICOLE A. SAHARSKY, ESQ., Assistant to the
+
+ Solicitor General, Department of Justice, Washington,
+
+ D.C.; on behalf of the United States, as amicus
+
+ curiae, supporting the Respondents. 
+
+2
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                   
+
+             
+
+                   
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S
+
+
+ORAL ARGUMENT OF PAGE 
+
+KENNETH W. STARR, ESQ.
+
+ On behalf of the Petitioners 4
+
+
+SRI SRINIVASAN, ESQ.
+
+
+ On behalf of the Respondents 28
+
+
+NICOLE A. SAHARSKY, ESQ.
+
+
+ On behalf of the United States, as amicus
+
+ curiae, supporting the Respondents 49
+
+
+REBUTTAL ARGUMENT OF
+
+
+KENNETH W. STARR, ESQ.
+
+
+ On behalf of the Petitioners 61
+
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (11:04 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We will hear 
+
+argument next in Case 08-289, Horne v. Flores and the 
+
+consolidated case.
+
+ Mr. Starr.
+
+ ORAL ARGUMENT OF KENNETH W. STARR
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. STARR: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ In January of 2000 the district court in 
+
+Arizona concluded that the Nogales school system had 
+
+failed to provide an equal educational opportunity for 
+
+its English language learners in that particular 
+
+district.
+
+ JUSTICE SOUTER: I -- I thought the 
+
+determination was that it had failed to provide funds 
+
+that could reasonably accomplish the -- the -- the plan 
+
+which the district itself had adopted.
+
+ MR. STARR: Well, Your Honor, the specific 
+
+finding was that there needed to be -- there were very 
+
+elaborate findings here. There needed in fact to be 
+
+remediation to in fact support a plan, and the State --
+
+JUSTICE SOUTER: But the district agreed on 
+
+that, I take it. The district said, you've got to do 
+
+4
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+something. This is our plan.
+
+ And I thought the district court then 
+
+said -- the school district did that, and I thought the 
+
+district court then said, well, the -- the funding that 
+
+you have come up with, or the funding scheme you have 
+
+come up with simply is not rationally related to the 
+
+plan that you, yourself, have adopted. Am I -- am I 
+
+wrong on that?
+
+ MR. STARR: You are correct.
+
+ JUSTICE SOUTER: Okay.
+
+ MR. STARR: It needs to be a rational plan. 
+
+But then by the time of the 60(b) hearing, the 
+
+circumstances had dramatically changed. There had been 
+
+a failure. But in November of 2000, a sea change 
+
+occurred in educational policy. The old system in 
+
+Nogales was done away with throughout the State. 
+
+Strategic English Immersion, intense immersion, and the 
+
+results are already being shown. Nogales --
+
+JUSTICE GINSBURG: What was the year, Mr. 
+
+Starr, the year of that change to the SEI from the 
+
+bilingual education? What was the year of that?
+
+ MR. STARR: The voters voted it in, in 
+
+November of 2000, and it began feathering in very 
+
+promptly as soon as the school districts could in fact 
+
+respond, and Nogales --
+
+5 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE GINSBURG: And yet the district 
+
+court kept renewing his instruction, provide funding 
+
+that reasonably relates to the cost, many, many times 
+
+after the SEI became effective. And we -- we have the 
+
+original decree which was, what, a declaratory judgment 
+
+in 2000. Then he issues a series of order. None -- and 
+
+none of them are ever appealed.
+
+ MR. STARR: That is true. And in fact one 
+
+of the grounds of our submission this morning is that 
+
+the failure to appeal should be in fact a cause for 
+
+concern. Indeed, 60(b)(5) is all about exceptions to 
+
+finality, especially when we are dealing with a very 
+
+quintessential State and local function, namely, 
+
+education.
+
+ And, thus, the court should have been open 
+
+to consider what the Ninth Circuit had commanded it 
+
+consider, namely the changed circumstances. And what 
+
+were those changed circumstances? Nogales was doing 
+
+great. A new leadership came in. Superintendent Cooper 
+
+made tremendous reforms. The State responded, not only 
+
+with a new methodology, but by funding that methodology. 
+
+And, Your Honor, all of this --
+
+JUSTICE BREYER: Nogales was doing great? I 
+
+mean, I asked my clerk to go get some figures out of the 
+
+record and she says in 2008 in the sixth grade, just to 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+take an example, 77 percent of the English learners in 
+
+Nogales failed the tests as compared to 32 percent 
+
+statewide. In the tenth grade 84 percent failed the 
+
+reading exam compared with 34 percent statewide. In 
+
+2008 the reading exam fourth graders, 67 percent failed 
+
+in Nogales, the English learners, compared to 30 percent 
+
+statewide.
+
+ Now, I'm sure that progress has been made, 
+
+but it doesn't seem to me, looking at that kind of thing 
+
+-- and the record is filled with that kind of thing --
+
+that that -- that you could say that the objectives are 
+
+achieved.
+
+ MR. STARR: Your Honor, first of all, the 
+
+exam to which you are referring is given in English. If 
+
+I am taking German, then I am not going to do well in a 
+
+German --
+
+JUSTICE BREYER: Well, isn't the point of 
+
+this to teach the children to learn English?
+
+ MR. STARR: But the point is the -- the exam 
+
+that you should look at is the AZELA exam.
+
+ JUSTICE SCALIA: Excuse me. I am not 
+
+following this exchange because I don't understand 
+
+whether the -- the statewide percentage is the statewide 
+
+percentage of English learners or the statewide 
+
+percentage of all students. 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. STARR: Here is -- and I think we can 
+
+cut to -- I'm sorry.
+
+ JUSTICE SCALIA: If you can't answer that, I 
+
+think Justice Breyer can. But I would like to know what 
+
+comparison --
+
+JUSTICE BREYER: He doesn't actually have 
+
+the right to ask me questions.
+
+ (Laughter.)
+
+ JUSTICE SCALIA: I don't. That's -- that's 
+
+exactly true. But --
+
+CHIEF JUSTICE ROBERTS: Very much true. 
+
+Counsel, why don't you try and answer?
+
+ MR. STARR: Thank you.
+
+ I would go, if I would -- if you would, to 
+
+page 46a of our Pet. Ap, where you -- Petition Appendix, 
+
+where you, in fact, get the information summarized, and 
+
+then go to -- and this is the Ninth Circuit's own words 
+
+that "Nogales is doing substantially better," "the State 
+
+has developed a significantly improved infrastructure."
+
+ And then if you go to the superintendent's 
+
+Petition Appendix, you will see -- this is the relevant 
+
+information under No Child Left Behind, which is one of 
+
+the changed circumstances -- the Nogales students are, 
+
+in fact, doing better than across the State. The key is 
+
+to measure the progress that has, in fact, been made and 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that is not disputed. Everyone agrees.
+
+ CHIEF JUSTICE ROBERTS: Well, I still don't 
+
+have an answer to Justice Breyer's -- I guess 
+
+Justice Scalia's question following up on Justice 
+
+Breyer's. What are the parameters or the -- the data 
+
+with respect to the figures Justice Breyer gave you?
+
+ MR. STARR: Yes. The key, I would refer the 
+
+Court to Appendix 312 of the superintendent's petition 
+
+and the prior pages. And that gives the percentage of 
+
+students making progress under the exams that are 
+
+administered by the State statewide, and that you will 
+
+see that throughout, including in the high school, that 
+
+the students are, in fact, making progress. The 
+
+district court concluded that Nogales had --
+
+CHIEF JUSTICE ROBERTS: So the answer is 
+
+that Justice Breyer's figures are correct with respect 
+
+to the appropriate bases of children. You are just 
+
+saying that you want to use a different test than the 
+
+one that he was quoting?
+
+ MR. STARR: Well, again, my quarrel with his 
+
+figures had to do with the nature of the test being 
+
+exam. There are different tests being administered.
+
+ CHIEF JUSTICE ROBERTS: Right. The figures 
+
+are accurate. You just think a different test should be 
+
+used? 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. STARR: That one shouldn't take too 
+
+seriously a test that is --
+
+JUSTICE BREYER: All right. Let's take the 
+
+one you mentioned. Let's take the one you mention. The 
+
+one you mentioned, I take it the student academic 
+
+achievement in mathematics, which is something called 
+
+the AYP guidelines test, they are for high school, which 
+
+you mentioned. It has -- I think it's 2008, maybe it's 
+
+2007 -- we have limited English proficient students, 
+
+this is passing their test, 22.4 percent of the English 
+
+learners are at students scoring at or above proficient. 
+
+The overall rate is 68 percent. So it seems like about 
+
+a third.
+
+ Now, if you look at the reading language 
+
+arts, the average is 73.5. Limited English proficient 
+
+is 15.4. And that's quite a difference, 75 percent as 
+
+to 15.4, in the high schools, on the tests that you have 
+
+mentioned.
+
+ So I just say -- my only point is that we 
+
+have a couple of findings here; you are right, they have 
+
+made progress, but they are not quite home yet. And I 
+
+would say that, looking at this record, it seems to 
+
+suggest that.
+
+ MR. STARR: But not home yet, Your Honor, 
+
+is, in fact, the key question. What is home? And that 
+
+10
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+brings us to --
+
+JUSTICE BREYER: Let's do another one. What 
+
+they started out in the year 2000 is they said one 
+
+problem with this State is we don't know what it costs 
+
+the average -- the increased program. They haven't done 
+
+a good study to tell what it costs.  But we think it's 
+
+somewhere around $1500, maybe it's $1300, maybe it's 
+
+$1400 per student. And as of this very moment, the 
+
+State is providing 3 to $400, leaving it up to the 
+
+school district to find the rest of the money, which it 
+
+has to take from other things like English, or -- is 
+
+that right?
+
+ MR. STARR: No, that is incorrect, Your 
+
+Honor. First of all, there has been a substantial 
+
+increase in funding, which we supply and summarize at 
+
+pages 22 and 23 of the opening brief. And you will see 
+
+throughout the testimony -- the testimony is absolutely 
+
+clear, including the plaintiffs', the Respondents', key 
+
+witness, Dr. Zumudio, agreed that there has, in fact, 
+
+been substantial progress, indeed there is an effective 
+
+program in place.
+
+ And so our fundamental quarrel with the 
+
+approach of the district court is it blinded itself to 
+
+the significant changes structurally as well as the 
+
+progress that had been made and just said it doesn't 
+
+11 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+matter because this is all about funding, and that is 
+
+not true.
+
+ JUSTICE GINSBURG: Mr. Starr, can I take you 
+
+back to the beginning of the 60(b) motion, because you 
+
+seem to have shifted ground? The 60(b) motion as 
+
+presented to the district court said that this new law 
+
+passed by the Arizona legislature, 2064 -- "2064 creates 
+
+a plan for adequate funding of programs for the ELL 
+
+students."
+
+ That was the whole basis for the 60(b) 
+
+motion, whether the new law was supplied adequate 
+
+funding, and the Speaker of the House and the Senate 
+
+intervened specifically for the purpose of defending the 
+
+new law. Your current argument is detached from the new 
+
+law.
+
+ MR. STARR: It is not detached, but our 
+
+submission is, in fact, that we look to what the 
+
+district court had before it in the 60(b)(5) hearing. 
+
+It had an eight-day evidentiary hearing. It was not 
+
+simply legal argument over that particular bill. And 
+
+that evidence --
+
+JUSTICE GINSBURG: But that was the basis 
+
+for the 64(b) motion, that 2064 provided adequate 
+
+funding.
+
+ MR. STARR: Your Honor, there were a variety 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of points made, and the 60(b) submission was not limited 
+
+to this new bill. Rather, it was a totality of the 
+
+circumstances, here are the changed circumstances. 
+
+That's what the whole eight-day trial was about. The 
+
+eight-day trial was about what are the new funding 
+
+mechanisms, what is happening on the ground in Nogales. 
+
+And as I say, even the Respondents' own key witness said 
+
+that there is an effective ELL program now in place, and 
+
+that, in fact, progress --
+
+JUSTICE GINSBURG: Do we -- do we have 
+
+the -- the intervention application in the papers before 
+
+us and the 60(b) motion?
+
+ MR. STARR: Yes, you do -- you do have it 
+
+before you. And there is no question that the Speaker 
+
+and the President were, in fact, submitting to the 
+
+district court HB 2064 as part of the submission.
+
+ My point is the evidentiary hearing went 
+
+much more broadly and here's the key: Under the EEOA, 
+
+all that is required under the Castaneda framework is, 
+
+in fact, good faith efforts toward compliance. The 
+
+questions that are flowing suggest there has been no 
+
+good faith effort at compliance, and there has been. 
+
+That's what the eight-day hearing was all about. That's 
+
+one of the things that Superintendent Cooper testified 
+
+to and discredited. 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOUTER: Well, I -- help me out 
+
+then. I thought the -- the issue was not whether there 
+
+had been any good faith attempt at compliance, but 
+
+whether there were two deficiencies under the scheme, 
+
+under the -- I forget the statute -- the new bill. One 
+
+deficiency was that it limited the funding for any given 
+
+student subject to -- to ELL -- to two-year funding 
+
+when, in fact, the evidence showed that you couldn't get 
+
+a kid up to par with two years of education.
+
+ The second deficiency was that the -- that 
+
+the State funds -- strike that, I'm sorry -- that 
+
+Federal funds were being used to supplant what should 
+
+have been a State responsibility rather than merely 
+
+supplementing. I take it that is simply a matter of 
+
+degree, but that was the problem.
+
+ I thought those were the two problems, 
+
+two-year funding, supplantation. Am I -- am I wrong? 
+
+So there was no -- my point is that there was no denial 
+
+that some good faith efforts had been made. The finding 
+
+was that there were two deficiencies and these were the 
+
+two deficiencies; is that correct?
+
+ MR. STARR: As -- that is correct. But as 
+
+to the latter with respect to the Federal funds, 
+
+supplant versus supplement, all that we have is -- and 
+
+this is an issue that is entrusted to the Department of 
+
+14
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Education. It's not trusted to the district courts 
+
+under No Child Left Behind. This is an apparatus that 
+
+Congress has determined there should no longer be -- not 
+
+that EEOA doesn't -- it has its beachhead, it has its 
+
+place, but now No Child Left Behind has a very elaborate 
+
+process including a plan, and Arizona is in compliance 
+
+with that plan.
+
+ The point is the HB 2064 points completely 
+
+blinded the district court to what was actually before 
+
+him, and we think that that is wrong.
+
+ JUSTICE STEVENS: Mr. Starr, how do you 
+
+explain the fact the State of Arizona and the board of 
+
+education are troubled by the same two points?
+
+ MR. STARR: There is no question that there 
+
+is disagreement within the house with respect to that. 
+
+But, Your Honor, there is no authority on the part of a 
+
+Federal court under No Child Left Behind to render this 
+
+kind of interpretation. And it has blinded us --
+
+ultimately, it is irrelevant. It has blinded us to the 
+
+issue --
+
+JUSTICE GINSBURG: Well, what is it -- No 
+
+Child Left Behind I thought has a specific saving 
+
+clause, "Nothing in this part shall be construed in a 
+
+manner inconsistent with any Federal law guaranteeing a 
+
+civil right." And the EEOA is such a law. 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. STARR: That is correct. The point that 
+
+I am making is the interpretation of supplemental versus 
+
+supplant is in fact one that is entrusted to the 
+
+Department of Education. We only have a letter. That's 
+
+not final agency action. But I want to return to what 
+
+we think is the key in a 60(b)(5) hearing.
+
+ What is key in 60(b)(5) is to listen to the 
+
+changed circumstances. What are the changed 
+
+circumstances? And the Court blinded itself to these 
+
+very important changes in terms of State funding --
+
+JUSTICE BREYER: What is the one State 
+
+funding? Because I looked at your brief, page 22 to 23, 
+
+and if I understand it correctly it says that the 
+
+educational expenditures, that is to say monies, 
+
+increased in this Nogales and USD --
+
+MR. STARR: Yes.
+
+ JUSTICE BREYER: -- maintenance and 
+
+operation budget, by 30 percent. Well, I'm sure they 
+
+did. But that's I take it the entire maintenance and 
+
+operation budget. The numbers I had -- and I am quite 
+
+interested to know if they are wrong -- the numbers that 
+
+I have is that the only survey they've done across the 
+
+State, or the most recent one, says that the English 
+
+language instructional costs range between 1570 and 
+
+$3300 per pupil. And then if you look at the amount the 
+
+16
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+State provides outside of the reading, writing and 
+
+arithmetic, which they provide, et cetera, for all 
+
+students, what they provide is -- currently it's $340, 
+
+and if that law had gone into effect, 2064, it would 
+
+have been $450. Now, are those numbers totally wrong?
+
+ MR. STARR: The numbers are not wrong, Your 
+
+Honor, but the numbers are in fact not the pivotal 
+
+point. The EEOA is not a funding statute, and let me 
+
+come to the specific point of cost studies. The State 
+
+of Arizona did in fact seek to undertake a statewide 
+
+cost study. And our -- one of our fundamental problems 
+
+here is this case is no longer about Nogales. It has 
+
+been expanded. Even though it was a class action 
+
+limited to Nogales, it has been expanded to include an 
+
+intrusion into the prerogatives of the State.
+
+ JUSTICE GINSBURG: That was the fault of the 
+
+Arizona attorney general, who told the court: You 
+
+cannot deal with Nogales alone because under the Arizona 
+
+Constitution the -- all -- all the school districts have 
+
+to be treated equally. So, it wasn't the plaintiffs 
+
+that initiated that move to make it statewide; it was in 
+
+fact the Arizona attorney general.
+
+ MR. STARR: And we are now seeking relief 
+
+from that, because what we now know --
+
+JUSTICE SOUTER: Well, it should -- has the 
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+state law changed?
+
+ MR. STARR: What has changed --
+
+JUSTICE SOUTER: I mean, the reason -- the 
+
+reason for getting into this is that the State required 
+
+it. Has the State law changed?
+
+ MR. STARR: The State law does not require 
+
+specific earmarked funding, district by district, and 
+
+here's the key --
+
+JUSTICE SCALIA: I assume it's --
+
+JUSTICE SOUTER: No, we are not talking 
+
+about -- I'm sorry.
+
+ JUSTICE SCALIA: I also assume the State law 
+
+does not require that any -- any judicial decree with 
+
+respect to a particular district be expanded to the 
+
+whole State. It seems to me you could comply with the 
+
+State Constitution. If and when a judgment is rendered 
+
+as to the district, it would then be, under the State 
+
+Constitution, the responsibility of the State executive 
+
+to make sure that the other -- other districts are 
+
+equalized.
+
+ But why the attorney general had to come 
+
+into the Federal court and say, do it to the whole 
+
+State, because the whole State has to be equal, I -- I 
+
+can't understand that, to tell you the truth.
+
+ MR. STARR: It's why the district 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+court should have been on guard --
+
+JUSTICE SOUTER: What is the district court 
+
+supposed to do? The attorney general for the State 
+
+comes in and says, do it this way. It seems to me that 
+
+the State has no standing later on to say: Oh, gee, the 
+
+district court should have said: Sorry, Mr. Attorney 
+
+General; you don't know anything about your State law; 
+
+we won't do it this way.
+
+ MR. STARR: Your Honor, we are not trying to 
+
+relitigate the original judgment. We quarrel with it, 
+
+but that's not why we're here. We're here --
+
+JUSTICE SCALIA: The fact is he wanted to be 
+
+thrown into the briar patch, didn't he?
+
+ MR. STARR: It was --
+
+JUSTICE SCALIA: The State attorney general 
+
+wanted the decree.
+
+ MR. STARR: There is -- there is no question 
+
+that there was a division of the opinion within the 
+
+State and that in fact the attorney general was 
+
+essentially siding with the plaintiffs in their 
+
+litigation. There is now a very different perspective 
+
+and you have that before you, that the governor who 
+
+controls the litigation in the State is the chief 
+
+executive of the State in terms of determining what the 
+
+State's position is --
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE KENNEDY: Could you tell me what 
+
+your submission is with respect to the error you see in 
+
+the findings and the order made after the eight-day 
+
+hearing? First, are you saying that after No Child Left 
+
+Behind that the duty of the State with respect to 
+
+educating the students who have a different language was 
+
+less onerous?
+
+ MR. STARR: No, it's not less onerous, but 
+
+there is a different methodology and a different 
+
+approach.
+
+ JUSTICE KENNEDY: All right. And are you 
+
+saying that because of that methodology any remedy based 
+
+on funding is no longer appropriate?
+
+ MR. STARR: A funding remedy is in fact 
+
+inappropriate presumptively statewide. That is our key 
+
+submission, because of the variation in costs, district 
+
+by district.
+
+ JUSTICE KENNEDY: If we could -- is it valid 
+
+as to Nogales, if we focus just on Nogales?
+
+ MR. STARR: Not in terms of changed 
+
+circumstances, because of what has in fact happened on 
+
+the ground. Namely, one of the thing when we go back to 
+
+the original order --
+
+CHIEF JUSTICE ROBERTS: You lost me.
+
+ JUSTICE KENNEDY: Are you saying -- are you 
+
+20
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+saying that the order the district court gave with 
+
+respect just to Nogales --
+
+MR. STARR: Yes.
+
+ JUSTICE KENNEDY: -- is inappropriate 
+
+because it used a funding remedy or a funding measure of 
+
+compliance when it should have used blank, and then fill 
+
+in the blank?
+
+ MR. STARR: Yes. It should have simply 
+
+determined under Castaneda the three-part test. It 
+
+should not have said the EEOA requires a particular 
+
+level of funding. That's precisely what Castaneda --
+
+JUSTICE SOUTER: But that isn't what it -- I 
+
+don't understand that it has ever said that. I thought 
+
+the funding point was basically this: You, Nogales, 
+
+have come up with plan A. You have come up with funding 
+
+B. Funding B is not enough money to fund plan A. It is 
+
+your plan, you've got to fund your plan.
+
+ That is not saying that the Federal statute 
+
+requires a particular level of funding. It's not saying 
+
+that the district court can take over the responsibility 
+
+of deciding what is appropriate funding in a school 
+
+district. It's simply saying, "If you choose plan A, 
+
+you have got to pay for plan A."
+
+ MR. STARR: And --
+
+JUSTICE SOUTER: Am I -- am I wrong? Did it 
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+ever go beyond that?
+
+ MR. STARR: It did go beyond that in this 
+
+sense. It did not in fact determine whether in fact 
+
+there was an effective program in place. That's the 
+
+oddity about this case --
+
+JUSTICE SOUTER: In other words, it should 
+
+have said: Before I decide whether your funding for 
+
+plan A is good enough, I have got to decide whether plan 
+
+A itself is worth anything?  I mean, I have got to 
+
+evaluate plan A?
+
+ MR. STARR: No. The difficulty is seeking 
+
+to enforce a specific funding order, and particularly 
+
+statewide, which intrudes --
+
+JUSTICE SOUTER: All right. Let's go back 
+
+to Justice Kennedy's point a moment ago. Let's just 
+
+talk about Nogales for a minute. With respect to plan 
+
+A, that was Nogales' plan. And the district court said: 
+
+You can't fund that plan with the amount of money that 
+
+you have appropriated. Did the district court go beyond 
+
+that with respect to Nogales?
+
+ MR. STARR: The district court failed to 
+
+note that plan A had changed. There was no longer a 
+
+plan A. It was strategic English immersion which has an 
+
+entirely different methodology. And what it also --
+
+JUSTICE GINSBURG: But that came in in 2000 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+and this case was going on for, what, eight, nine years 
+
+before there was ever an argument. I mean in all of 
+
+these orders that were not appealed, don't those 
+
+judgments, unappealed judgments, settle anything?
+
+ MR. STARR: Of -- of course. They let that 
+
+judgment stand during that period of time. But the 
+
+whole purpose of 60(b)(5) is relief from finality. It's 
+
+a --
+
+JUSTICE SCALIA: Yes, but didn't -- didn't 
+
+the court -- you say plan A is no longer in effect; they 
+
+have a new plan under the No Child Left Behind Act. But 
+
+didn't the -- didn't the district court find that the 
+
+funding for that plan is inadequate, for the two reasons 
+
+that were mentioned earlier?
+
+ MR. STARR: Well, it said that -- here is 
+
+what the court held: That it has developed a 
+
+significantly improved infrastructure for ELL 
+
+programming, but it has not complied with the original 
+
+judgment. That is our complaint. The original funding 
+
+judgment was in fact informed by a different methodology 
+
+and a different set of circumstances. For example, 
+
+Superintendent Cooper comes in and says: I don't want 
+
+to spend money on teachers' aides; they are standing in 
+
+the way. Yet the Respondents say: We need money for 
+
+teachers' aides. That's part of No Child Left Behind. 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Inputs -- now we look at -- we test, we 
+
+determine what progress is being made and, we are 
+
+requiring progress to be made.
+
+ JUSTICE GINSBURG: I didn't think there was 
+
+in the district judge's declaratory judgment, spend this 
+
+much on teachers aides, that much on the other. It was: 
+
+You need a plan and you have to figure out how much it 
+
+costs, and then you have to appropriate money that 
+
+matches the cost.
+
+ But the district court -- I may be wrong 
+
+about this, but I thought that the original declaratory 
+
+judgment didn't try to tell them what the components of 
+
+that plan had to be.
+
+ MR. STARR: You are precisely right, but the 
+
+point I'm making is that the objects of that underlying 
+
+decree shifted by virtue of the new methodology that was 
+
+in fact adequately funded through a whole variety of 
+
+funds. The funds that Justice Breyer has referred to 
+
+are only part of the basket of funds that have been made 
+
+available.
+
+ JUSTICE SOUTER: No. But doesn't it --
+
+doesn't it -- don't we come back to Justice Scalia's 
+
+question of a moment ago? Even with the -- the changed 
+
+plan to immersion, isn't the finding that two years of 
+
+funding per child is not enough? And you are 
+
+24
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+supplanting, not supplementing. Isn't that still the 
+
+problem?
+
+ MR. STARR: We believe not. We believe that 
+
+ultimately those two issues are irrelevant to the issue 
+
+that is before the Court.
+
+ JUSTICE SOUTER: But those are the issues 
+
+that the court focused on; are they not?
+
+ MR. STARR: Wrongly, because that's --
+
+that's part of our quarrel, THAT the district court 
+
+simply focused on these two elements of HB 2064, and 
+
+blinded itself to the evidence --
+
+JUSTICE BREYER: There is a minor thing that 
+
+I -- I think -- I'm not sure that Justice Ginsburg said. 
+
+I thought that the funding order was not fund the plan 
+
+you come up with; but rather, come up with a funding 
+
+plan that bears a rational relationship to -- to the 
+
+plan you come up with. So is that right?
+
+ MR. STARR: That is correct, and that is --
+
+JUSTICE BREYER: All right. And now the 
+
+district court is at considerable remove. He says they 
+
+have not yet come up with a study and a plan that seems 
+
+satisfactory, and they haven't shown how the funding is 
+
+rational in relation to the plan that they haven't fully 
+
+developed, though they've made progress. That's where 
+
+we are -- is that where we are? 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. STARR: Three brief points. On the 
+
+study, the State did undertake a study, and this is in 
+
+the record. And the National Conference of State 
+
+Legislators said: We throw up our hands because we 
+
+can't do this statewide. I would invite the Court to 
+
+refocus on Nogales as a district versus statewide.
+
+ What was entered here in this order, which 
+
+makes it so extraordinary, is that the entire State 
+
+funding mechanism has been interfered with by the order. 
+
+This case started out in Nogales. And so the statewide 
+
+study was in fact undertaken. But we could not do it. 
+
+The National Conference of State Legislatures said: We 
+
+throw up our hands. We can do a local study, and it was 
+
+done. And if the Court refocuses on the various 
+
+tranches of funding, including in Nogales itself and 
+
+from the State, one will see that there has been a very 
+
+substantial increase in the actual funding as well as 
+
+progress.
+
+ JUSTICE SCALIA: Well, I -- I agree with 
+
+that. I think it was a vast mistake to extend a lawsuit 
+
+that applied only to Nogales to the whole State, but the 
+
+State attorney general wanted that done.
+
+ MR. STARR: But we should be able now to --
+
+JUSTICE SCALIA: But that's -- that's water 
+
+over the dam. That's not what this suit is about now. 
+
+26
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. STARR: No, Your Honor, not under 60(b), 
+
+and this Court has warned about the ability of State 
+
+officials --
+
+JUSTICE SOUTER: What has 60(b) got to do 
+
+with the question of whether the attorney general 
+
+represents the State before the court? If the attorney 
+
+general comes back into court and says, no longer do we 
+
+want this statewide, then you've got an issue. If the 
+
+-- if the attorney general speaking for the State does 
+
+not do that, then I don't see why Justice Scalia's point 
+
+is not the answer.
+
+ MR. STARR: Not under Arizona law. It is 
+
+the governor who speaks and the attorney general is 
+
+beholden --
+
+JUSTICE SOUTER: So the district court is 
+
+supposed to referee a fight between the governor and the 
+
+attorney general at this point? Is that what's going 
+
+on?
+
+ MR. STARR: No, Your Honor. The district 
+
+court is to listen to what the State has to say through 
+
+-- once the legislature was fine. It was brought in. 
+
+It should have listened to the --
+
+JUSTICE SOUTER: Doesn't the attorney 
+
+general speak for the State?
+
+ MR. STARR: No, Your Honor, not in Arizona. 
+
+27
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+The attorney general speaks for the State when the 
+
+governor directs him or her to do that.
+
+ JUSTICE GINSBURG: But he was speaking alone 
+
+for years and years, and 60(b) -- and it has been said 
+
+over and over again -- is not a substitute for appeal. 
+
+What wasn't appealed was that Arizona is required by 
+
+Federal law to determine the cost and adequately fund a 
+
+statewide system of English acquisition programming.
+
+ JUSTICE SCALIA: Which would be good enough 
+
+to fix Nogales. So you are quite right. There is a 
+
+vast difference in each district. But that attorney 
+
+general wanted enough money to fund the whole State the 
+
+way you have to fund to -- to fix Nogales. That's what 
+
+he wanted.
+
+ MR. STARR: And former officials shouldn't 
+
+continue to be able to bind the State. I would like to 
+
+reserve the remainder of my time.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+Mr. Srinivasan.
+
+ ORAL ARGUMENT OF SRI SRINIVASAN
+
+ ON BEHALF OF THE RESPONDENTS
+
+ MR. SRINIVASAN: Thank you, Mr. Chief 
+
+Justice, and may it please the Court:
+
+ When the district court issued its initial 
+
+judgment in 2000, what the court found was that there 
+
+28 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+was a systemic violation of the EEOA. And the court 
+
+further found that the program deficiencies were the 
+
+result of the lack of funding rationally related to the 
+
+programs.
+
+ JUSTICE SCALIA: Can I ask whether the 
+
+requirements of the EEOA are at all affected 
+
+by Congress's later enactment of the No Child Left 
+
+Behind Act? I mean, you know, it's a very vague 
+
+requirement that you make a good faith effort to -- to 
+
+provide language assistance to children.
+
+ Why shouldn't the courts decide that what 
+
+constitutes a good faith effort is pretty much what 
+
+Congress thought was necessary in the -- in the No Child 
+
+Left Behind Act, and if you comply with that, you are 
+
+doing okay?
+
+ MR. SRINIVASAN: Justice Scalia, just one 
+
+point of clarification on -- in our view on what the 
+
+EEOA requires, and then I will address the No Child Left 
+
+Behind point. The EEOA doesn't really require good 
+
+faith efforts. It requires efforts that are in fact 
+
+reasonably calculated to overcome language barriers.
+
+ JUSTICE SCALIA: Okay. I would call that 
+
+good faith, but that's fine.
+
+ MR. SRINIVASAN: With that -- With that 
+
+clarification, thank you. 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: That's fine.
+
+ MR. SRINIVASAN: With that clarification on 
+
+the question of whether No Child Left Behind sets the 
+
+standard for compliance with the EEOA, which is, I 
+
+think, what the petitioners' position is, we think the 
+
+answer is no for two fundamental reasons. First is just 
+
+a textual point.  The text of No Child Left Behind 
+
+doesn't say anywhere that it displaces the standards for 
+
+compliance with the EEOA.
+
+ JUSTICE ALITO: I don't think that's their 
+
+argument, counsel. I don't think that it is their 
+
+argument that No Child Left Behind supplants the earlier 
+
+act. It is simply their -- their argument is that it 
+
+informs an interpretation of the language of EEOA, which 
+
+is that the State is required to take appropriate 
+
+action, which is a very vague standard.
+
+ MR. SRINIVASAN: I think their argument at 
+
+the end of the day, Justice Scalia, is that if you 
+
+comply with No Child Left Behind -- and I will get to in 
+
+a moment what compliance with No Child Left Behind can 
+
+mean -- then you have necessarily complied with the 
+
+EEOA. That compliance with the No Child Left Behind 
+
+sets the standard for compliance with the EEOA.
+
+ And I don't think that is workable 
+
+particularly when you take into account what petitioners 
+
+30
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+mean by "compliance with No Child Left Behind."
+
+ JUSTICE ALITO: Can I ask you this question 
+
+about the Ninth Circuit's decision, which is what we are 
+
+reviewing? Suppose -- I know there -- there is a debate 
+
+about how well Nogales is doing at this time. But let's 
+
+suppose Nogales came in, and they said this: We had 
+
+plan A back when this was originally litigated, and now 
+
+we have an entirely different plan, and this plan 
+
+doesn't cost one penny more than what we were spending 
+
+in 2000. But it is a very good plan, and it has 
+
+produced very good results.
+
+ As I read the Ninth Circuit's decision, they 
+
+would not grant relief from the judgment under those 
+
+circumstances, because they focus exclusively on 
+
+incremental funding for EEL programs and Arizona's 
+
+funding model. Isn't that correct?
+
+ MR. SRINIVASAN: Well, I -- I don't know 
+
+that that is a correct interpretation of the EEOA. What 
+
+we would say is that if the State came forward with a 
+
+showing that completely regardless of funding the 
+
+programs on the ground work, well, that would be 
+
+something that the district court would have to take 
+
+into account. But the state hasn't --
+
+JUSTICE ALITO: No, but isn't -- that isn't 
+
+really my question. Isn't -- isn't it the case that the 
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Ninth Circuit judged the -- the permissibility of relief 
+
+under 60(b) solely with regard to incremental funding 
+
+and Arizona's funding model?
+
+ MR. SRINIVASAN: The Ninth Circuit focused 
+
+on funding, Justice Alito, because that is the way the 
+
+case has been litigated from the outset. And that's the 
+
+way the State has said from the outset that it would 
+
+achieve compliance with the --
+
+JUSTICE ALITO: That's the way it was 
+
+litigated originally, but I thought the whole focus of 
+
+the motion for relief from the judgment was: We have a 
+
+new plan, and it is not tied to funding, and it will 
+
+produce good results without looking at incremental EEL 
+
+funding. And wasn't the Ninth Circuit obligated to look 
+
+at that?
+
+ MR. SRINIVASAN: Well, I think the Ninth 
+
+Circuit was -- was required certainly to review the 
+
+district court's inquiry into that. And what the 
+
+district court found is at page 100-A of the appendix to 
+
+the petition filed by the legislative intervenors. And 
+
+what the district court found there is that the 
+
+improvements today, although significant, failed to 
+
+reach the high school; that they were fleeting. And --
+
+and this is particularly significant. In addition, the 
+
+district court also explained that it was premature to 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+make an assessment of many of the changes, because many 
+
+of the new standards are still evolving.
+
+ And the reason the district court said that 
+
+is that -- is because of the enactment in 2006 of 
+
+Arizona HB 2064, which changes the framework for 
+
+administration and funding of ELL programs in a way that 
+
+I think fortifies the district court's denial of 
+
+complete dissolution of its judgment and -- and ensuing 
+
+orders.
+
+ CHIEF JUSTICE ROBERTS: But I guess, as I 
+
+understand Justice Alito's question, if the prior order 
+
+is based on funding a particular plan and the State 
+
+comes back and says, this is a new approach. It could 
+
+be for any number of reasons, and say that, you know, 
+
+the plan is not working, or there have been other 
+
+budgetary crises in the State that strain what we can 
+
+afford to spend on this particular program. Here's 
+
+another plan. The funding levels are different. You 
+
+should look at it.
+
+ MR. SRINIVASAN: Yes, that --
+
+CHIEF JUSTICE ROBERTS: What's wrong with 
+
+that?
+
+ MR. SRINIVASAN: There is nothing wrong with 
+
+that, and it should be looked at. And the district 
+
+court did look at it, and what the district court found 
+
+33 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+was that the claims of progress, although there had been 
+
+progress, the progress hadn't reached the high school. 
+
+The progress was fleeting and that it was premature --
+
+CHIEF JUSTICE ROBERTS: It's not a question 
+
+of progress; it's a question of the plan and the 
+
+approach. And I understood the Ninth Circuit -- I'm 
+
+looking at page 72a -- it talks about the ELL's specific 
+
+funding that was based on the prior order. And what I 
+
+understood the State's submission to be -- look at what 
+
+the superintendent has done in this particular case, and 
+
+so on, so that those specific funding levels aren't 
+
+applicable. And I would have thought it an 
+
+extraordinary enough thing for a district court to tell 
+
+a State legislature: Pass this budget, and you, 
+
+Legislature, pass it, and -- I guess -- you, Governor, 
+
+sign it, or you are not going to be in compliance. And 
+
+if they've come up with a different way with different 
+
+funding requirements, I don't know why that's not a 
+
+changed circumstance that justifies looking at the 
+
+judgment --
+
+MR. SRINIVASAN: Well, the district court 
+
+didn't issue that sort of order. And -- and the Ninth 
+
+Circuit -- if you look at page 66a -- it did review the 
+
+evidence in the record and fortified the district 
+
+court's conclusion that the new plan, Your Honor, 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Mr. Chief Justice, that was presented, which is to the 
+
+effect that, regardless of funding, we have made 
+
+advances based on management improvements that should 
+
+satisfy the statute. That was the claim that was made 
+
+by Petitioners. I think that's what you're alluding to. 
+
+And the district court rejected that at page 100a, and 
+
+the Ninth Circuit fortified the district court's 
+
+rejection of it by looking at the evidence in the record 
+
+concerning --
+
+JUSTICE SCALIA: What -- what page is this?
+
+ MR. SRINIVASAN: It's at 66a. That the 
+
+court of appeals reviews the testimony and fortifies the 
+
+district court's conclusion that, based on the advances 
+
+to date, there's still work left to be done. Because at 
+
+the end of the day you have to have a plan in place.
+
+ CHIEF JUSTICE ROBERTS: Well, I don't think 
+
+the State -- I didn't understand the State to disagree 
+
+that there's still work to be done. I thought that the 
+
+plan -- the point was that their approach had changed, 
+
+including by No Child Left Behind, that they don't have 
+
+to reach the same specific funding levels that the 
+
+district court order required. And what I understood 
+
+the Ninth Circuit to say is, no, those specific funding 
+
+levels are still in place.
+
+ MR. SRINIVASAN: Well, there's two 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+fundamentally different assertions being made by 
+
+Petitioners, if I understand it: One is what 
+
+Justice Scalia alluded to earlier, which is that No 
+
+Child Left Behind changed the legal landscape in a way 
+
+such that compliance with No Child Left Behind, such as 
+
+it is, sets the standard for compliance with the EEOA.
+
+ Now, there's a distinct argument that's also 
+
+being made which is that conditions on the ground have 
+
+improved as a consequence of management improvements. 
+
+Regardless of No Child Left Behind, this is a factual 
+
+argument, that factually things have changed in a way 
+
+that ought to let us from underneath the district 
+
+court's supervision.
+
+ Now, the -- they are different points, and I 
+
+think the district court addressed both of them. With 
+
+respect to the second one, where there is the facts on 
+
+the ground, what is critical is that, in order to 
+
+justify complete dissolution in a case like this, the 
+
+Petitioners would have to show, not only that conditions 
+
+have improved, but they have improved in a way that is 
+
+durable and sustainable over time. And the district 
+
+court --
+
+JUSTICE SCALIA: What degree --
+
+MR. SRINIVASAN: -- doubted that.
+
+ JUSTICE SCALIA: What degree of improvement 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+do you think is necessary? Do you agree with the Ninth 
+
+-- the Ninth Circuit says, "We cannot say the district 
+
+court clearly erred when it found this burden was not 
+
+met. A district in which the majority of ELL tenth 
+
+graders failed to meet State achievement standards while 
+
+the majority of native English speakers passed is not 
+
+one whose performance demonstrates that the State is 
+
+adequately funding ELL programs."
+
+ Do you really think that you haven't 
+
+complied with adequate funding of ELL programs until you 
+
+raise all of the ELL students up to the level of native 
+
+English speakers?
+
+ MR. SRINIVASAN: No, I don't think the EEOA 
+
+requires raising everyone. I think it requires --
+
+JUSTICE SCALIA: Well, that's all this says. 
+
+The majority doesn't --
+
+MR. SRINIVASAN: Well --
+
+JUSTICE SCALIA: -- doesn't meet the -- a 
+
+majority of ELL tenth graders fail to meet the 
+
+standards, but the majority of native English speakers 
+
+do.
+
+ MR. SRINIVASAN: Well, that's part of what 
+
+it says, and I think what the Ninth Circuit is also 
+
+alluding to with respect to the high school in 
+
+particular that, if you look at State survey that 
+
+37 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Petitioners rely on in -- in touting the improvements in 
+
+certain schools, it also with respect to the high school 
+
+shows that the two high schools in Nogales was ranked --
+
+were ranked at the very bottom of the survey for ELL 
+
+students.
+
+ So there's problems on the ground, but what 
+
+the district court focused on concerns the enactment of 
+
+2064, which is that no matter was think about the 
+
+improvements that have -- that have been made to date, 
+
+the landscape fundamentally shifts upon the enactment of 
+
+2064 because the administration and funding of ELL plans 
+
+changes at that point. And it's --
+
+JUSTICE GINSBURG: That's the new plan that 
+
+we're talking about, is 20 -- there have been references 
+
+-- well, now they have a new plan. Does everybody agree 
+
+at least that the new plan is 2064?
+
+ MR. SRINIVASAN: I -- I think we would agree 
+
+because that sets the charter for provision of programs 
+
+to ELL students going forward from its enactment. 
+
+That's the infrastructure from -- from here on out.
+
+ And that -- there's three particular 
+
+features of that that I think are significant and that 
+
+fortify the district court's conclusion that complete 
+
+dissolution was unwarranted.
+
+ The first is the one that was raised by 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Justice Souter, which is that whatever you think of the 
+
+progress that has been made to date -- and the district 
+
+court found that, while it was significant, it didn't 
+
+suffice -- that changes from what can be brought to bear 
+
+from here on out as half the resources that were 
+
+available before, because that's the net effect of 2064. 
+
+That's what the district court found, at pages 107 to 
+
+108a of the Petition Appendix. And when you have half 
+
+resources to work with -- at the very least I think what 
+
+the district court thought in saying that it was 
+
+premature to make an assessment is that we have to have 
+
+some period to assess what happens on the ground as a 
+
+consequence --
+
+CHIEF JUSTICE ROBERTS: Is there any --
+
+MR. SRINIVASAN: -- of this new funding 
+
+recipe.
+
+ CHIEF JUSTICE ROBERTS: Does -- then does 
+
+that stay true without regard to what is happening 
+
+economically to the State? In other words, the district 
+
+court can say: You've got to spend this much money on 
+
+this program, and I don't care what it means for jails, 
+
+roads, anything else, when there are profound changes in 
+
+economic circumstances of the sort that everybody's 
+
+experiencing lately.
+
+ MR. SRINIVASAN: No, the -- the district --
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the State would have to present that, Your Honor, and I 
+
+don't believe the State to have done that so far. But 
+
+the State would have to make the argument that funding 
+
+constraints are inexistence in a way that doesn't allow 
+
+us to -- to use one example -- to -- to put together an 
+
+optimal program, and so here's the program that we want 
+
+to put in place in --
+
+JUSTICE SCALIA: Counsel, I --
+
+MR. SRINIVASAN: -- jurisdictions.
+
+ JUSTICE SCALIA: I find it bizarre that we 
+
+are sitting here talking about what the whole State has 
+
+to do on the basis of one district which is concededly 
+
+the district that has the most nonnative English 
+
+speakers and has been a problem district all along. And 
+
+we are saying whatever this district court says for --
+
+for this school district applies statewide. Now, that 
+
+is bizarre.
+
+ MR. SRINIVASAN: Well --
+
+JUSTICE SCALIA: And the mere fact that the 
+
+State Attorney General acquiesced in that kind -- kind 
+
+of a system at the outset, does that force us to still 
+
+accept at this time that whatever is -- is necessary for 
+
+Nogales is also necessary for the entire State?
+
+ MR. SRINIVASAN: Justice Scalia, I think 
+
+that that issue becomes largely an academic one for the 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+following reason: that the reason that the State 
+
+Attorney General made the acknowledgment that he did is 
+
+that, under the Arizona State Constitution, funding 
+
+decisions don't vary from district to district. So 
+
+whatever funding menu is put into place in order to 
+
+achieve compliance with the EEOA with respect to Nogales 
+
+is going to be the same one that exists throughout the 
+
+State.
+
+ JUSTICE SCALIA: I'll let --
+
+MR. SRINIVASAN: It's --
+
+JUSTICE SCALIA: I'll let Arizona worry 
+
+about that. It's -- it's another matter to have a 
+
+district court decree that the whole State has to do 
+
+this thing. And whether -- whether it's done equally or 
+
+not would be a matter for the State courts to determine, 
+
+instead of for this district judge to determine, right?
+
+ MR. SRINIVASAN: Well, it could be, but I 
+
+don't think there's really much of a dispute that the 
+
+statewide funding measure doesn't really affect what the 
+
+State's going to do in this case, because --
+
+JUSTICE KENNEDY: Well, it seems to me very 
+
+odd that -- assume you have a constitutional provision 
+
+which says funding must be equal in each district. Then 
+
+you find one district that's way behind, and that is, we 
+
+will assume, is -- has been deficient in -- in providing 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+language education. You are saying that if the court 
+
+orders more money spent for that district, it must 
+
+automatically order money -- additional money for every 
+
+other district in the State?
+
+ MR. SRINIVASAN: No, absolutely not. Not --
+
+certainly not in the abstract.
+
+ JUSTICE KENNEDY: But -- yes, but that seems 
+
+to me the necessary conclusion of your argument in the 
+
+answer you gave Justice Scalia.
+
+ MR. SRINIVASAN: I don't think it's a 
+
+necessary conclusion of my argument, Justice Kennedy. I 
+
+think it's a conclusion that rests on we are in this 
+
+litigation in this particular context, given the Arizona 
+
+Constitution's uniformity clause. It's as a consequence 
+
+of that clause that this issue even arises. And I think 
+
+the Attorney General --
+
+JUSTICE KENNEDY: But, again, what you're --
+
+you're saying that any time a district court in a single 
+
+district orders more money to remedy a constitutional 
+
+problem, that because of that clause it has to apply to 
+
+every other district. That just can't be.
+
+ MR. SRINIVASAN: Well, if the --
+
+JUSTICE KENNEDY: And if -- and if it is, 
+
+then that is a very good reason for the district court 
+
+to cede its jurisdiction to the State authorities. 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. SRINIVASAN: Well, if the litigation had 
+
+come up in a different way, Justice Kennedy, such that 
+
+it had always focused exclusively on what happened in 
+
+Nogales, including the funding aspect of the case, but I 
+
+think what would have been appropriate is that the 
+
+district court would have inquired about what funding 
+
+resources belong to Nogales in particular. And then 
+
+what would have happened by operation of State law would 
+
+be that, whatever the funding calculus with respect to 
+
+Nogales, it would automatically apply across the State 
+
+because of the Arizona Constitution's uniformity clause.
+
+ Now, in this case, the litigation -- the 
+
+complaint was assessed against the entire State, and the 
+
+Attorney General accepted that, and I don't think at 
+
+this point in time we can revisit that, particularly 
+
+when it's largely an academic question given the 
+
+uniformity clause --
+
+CHIEF JUSTICE ROBERTS: But I gather it's 
+
+often the case in institutional litigation of this sort 
+
+that the political figures, whether it's the Governor or 
+
+the Attorney General, can't go to the voters say, look, 
+
+we should spend more money on this. So they go to the 
+
+district court judge and say, make us spend more money 
+
+on this. And they get the same result they'd wanted in 
+
+a non-democratic way, particularly when there's a 
+
+43
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+division, such as here the legislature doesn't want to 
+
+do something, and the Governor or the Attorney General 
+
+does.
+
+ So why should we put a lot of weight on what 
+
+the representation is when we are at least concerned 
+
+that it might be a -- I don't mean it in a pejorative 
+
+sense -- but a collusive piece of litigation?
+
+ MR. SRINIVASAN: Well, two points, 
+
+Mr. Chief Justice, and first -- and I don't mean to 
+
+quibble, but the Attorney General did contest the 
+
+litigation at the outset. What happened is, after a 
+
+judgment was issued against the State, then I think 
+
+there was an acquiescence in the --
+
+CHIEF JUSTICE ROBERTS: Well, it's hard for 
+
+the Attorney General to get funding from the legislature 
+
+for all he wants to do, and this is a way for him to get 
+
+it, to go to the legislature and say look, you don't 
+
+have a choice.
+
+ MR. SRINIVASAN: Well, sure, 
+
+Mr. Chief Justice, but I think what the Court did in 
+
+both Rufo and Frew is it accommodated those concerns, 
+
+and it accommodated the interest in finality that comes 
+
+from judgments, and the interests in allowing a 
+
+different set of State officials to suggest new programs 
+
+to make that suggestion to the district court. And it 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+accommodated those in a way that requires a showing at 
+
+the outset that there has been a significant change in 
+
+facts or a significant change in law. And on --
+
+CHIEF JUSTICE ROBERTS: Can I ask just a 
+
+question that was confusing to me? What standard for 
+
+changed circumstances do you understand the Ninth 
+
+Circuit to have applied?
+
+ MR. SRINIVASAN: The one that was outlined 
+
+by this Court in Rufo.
+
+ CHIEF JUSTICE ROBERTS: Which is?
+
+ MR. SRINIVASAN: A significant change of 
+
+facts or a significant change of law. And the --
+
+CHIEF JUSTICE ROBERTS: I am looking at page 
+
+72a of the Ninth Circuit opinion, and the standard they 
+
+use there is radically changed, not significantly 
+
+changed.
+
+ MR. SRINIVASAN: Well, on page 49a they 
+
+invoke the precise wording of this Court, cite Rufo for 
+
+that proposition, and also --
+
+CHIEF JUSTICE ROBERTS: So, if we have a --
+
+if we are confused as to which standard they applied, 
+
+because at one point they say significantly changed and 
+
+at another point they say radically changed, what should 
+
+we do?
+
+ MR. SRINIVASAN: Well, I -- I would give 
+
+45 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+effect to the articulation of the standard in the 
+
+standard review question section of the opinion. Of 
+
+course you could remand if you felt that it was 
+
+necessary, but I think the reason why the Ninth Circuit 
+
+uses the language such as Your Honor found in 72a is 
+
+that it has to be considered in the context of the 
+
+nature of the violation and the nature of the relief 
+
+sought.
+
+ The violation was a systematic one; the 
+
+relief sought is a complete dissolution of the judgment 
+
+and ensuing order, and in that context I think it is 
+
+fair to say that what is significant is more significant 
+
+than what would be the case in -- for example, in Rufo, 
+
+where what was sought was a relatively modest 
+
+modification of the consent order concerning whether you 
+
+would have single bunking or double bunking.
+
+ Now on the question of whether there is in 
+
+fact a significant change or significant change of facts 
+
+or significant change in law, on No Child Left Behind, 
+
+Justice Scalia, to return to the question that you 
+
+asked, the reason that No Child Left Behind in our view 
+
+doesn't displace the standard for EEOA is that 
+
+Petitioner's standard is that as long as the State has 
+
+an approved No Child Left Behind plan, which is true of 
+
+all 50 States, that they necessarily satisfy the EEOA; 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+and what that would mean is that even if a State didn't 
+
+implement that plan, even if the State didn't -- didn't 
+
+-- didn't have accountability measures that it in fact 
+
+followed, that required school districts to achieve the 
+
+annual measurement of progress that would be laid out in 
+
+the plan -- notwithstanding all of that, a plaintiff 
+
+would lack authority to come into the court and litigate 
+
+his private cause of action under the EEOA and get a 
+
+court order that requires the State to take appropriate 
+
+action --
+
+JUSTICE SCALIA: Right but --
+
+MR. SRINIVASAN: -- simply because the State 
+
+will have had an approved plan.
+
+ JUSTICE SCALIA: I understand that. You 
+
+could get the plan approved and then not fund it. But 
+
+at least the additional funding demanded by the district 
+
+court should be whatever additional funding is necessary 
+
+to comply with the No Child Left Behind Act. Right?
+
+ MR. SRINIVASAN: I -- I don't think so. 
+
+Because --
+
+JUSTICE SCALIA: Well, then -- then it's not 
+
+as simple as you made it. Of course, I agree with the 
+
+fact that if you get approved under the No Child Left 
+
+Behind Act and then don't fund it, of course that --
+
+that won't satisfy your obligation. But if you have 
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+gotten approved, the test for whether you are satisfying 
+
+your obligation should be how much money would it cost 
+
+to implement the program that you have gotten approved 
+
+under the No Child Left Behind Act.
+
+ MR. SRINIVASAN: The -- the No Child Left 
+
+Behind Act doesn't -- it doesn't approve a particular 
+
+program. What it imposes are voluntarily accepted 
+
+funding conditions, and that includes --
+
+JUSTICE SCALIA: It doesn't approve 
+
+programs?
+
+ MR. SRINIVASAN: No --
+
+JUSTICE SCALIA: I thought the States had to 
+
+submit a program.
+
+ MR. SRINIVASAN: What the EEOA concerns are 
+
+programs that are reasonably calculated to achieve 
+
+overcoming language barriers.
+
+ JUSTICE SCALIA: Right. Right.
+
+ MR. SRINIVASAN: What No Child Left Behind 
+
+concerns is, is there a testing program in place that 
+
+calls for certain improvements in testing over time. As 
+
+long as the plan describes the tests that will be taken 
+
+and the progress that will be achieved or sought to be 
+
+achieved over time, a plan will be approved. Now, even 
+
+if the State doesn't achieve the plan -- the progress 
+
+that is called for by No Child Left Behind --
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: So you are saying you can't 
+
+calculate costs.
+
+ MR. SRINIVASAN: Right.
+
+ JUSTICE SCALIA: You cannot calculate costs 
+
+under the plan approved by the Secretary --
+
+MR. SRINIVASAN: I --
+
+JUSTICE SCALIA: -- because all the plan is 
+
+is testing.
+
+ MR. SRINIVASAN: Right. It's about tests.
+
+ JUSTICE SCALIA: Okay.
+
+ MR. SRINIVASAN: And even if you don't make 
+
+the progress -- and if I could finish this one point, 
+
+Mr. Chief Justice. And it bears noting that the Nogales 
+
+the progress called for No Child Left Behind hasn't been 
+
+made in the last two years, according to the 
+
+superintendent's web site. Even if you don't make that 
+
+progress, there is no way under Petitioner's approach to 
+
+vindicate the EEOA cause of action to obtain appropriate 
+
+action.
+
+ Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+Ms. Saharsky.
+
+ ORAL ARGUMENT OF NICOLE A. SAHARSKY
+
+ OF BEHALF OF UNITED STATES,
+
+ AS AMICUS CURIAE, 
+
+49
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+SUPPORTING THE RESPONDENTS
+
+ MS. SAHARSKY: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ It's important to recognize what Petitioners 
+
+asked for here at the rule 60(b)(5) stage. That was 
+
+complete dissolution of the court's immediate orders. 
+
+It was not to just limit those orders just to Nogales; 
+
+it was not to improve -- or to approve improvements in 
+
+Nogales as an interim measure. As a result, the burden 
+
+was on them to show either full compliance with the 
+
+orders the district court had entered or material 
+
+changed circumstances that made compliance unnecessary.
+
+ JUSTICE GINSBURG: But couldn't the district 
+
+court give them the relief to which they were entitled 
+
+even if it was less than what they sought?
+
+ MS. SAHARSKY: Certainly. But they didn't 
+
+demonstrate that -- entitlement to that relief either. 
+
+To the extended we are talking about the question of 
+
+whether conditions had changed in Nogales that there was 
+
+no longer an ongoing violation of Federal law, the 
+
+district court held an 8-day evidentiary hearing, and it 
+
+made factual findings showing that the problems had not 
+
+ceased in Nogales. And as you noted, Justice Ginsburg, 
+
+this changed circumstances argument that is now heavily 
+
+relied upon by Petitioners was not the primary thrust of 
+
+50
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+their argument before the district court.
+
+ The primary thrust of their argument was 
+
+that HB 2064, which is the State's scheme for ELL 
+
+education, had some serious -- would -- would satisfy 
+
+the judgment; and their other argument was that No Child 
+
+Left Behind completely preempts -- that was the language 
+
+they use -- completely preempts and renders obsolete the 
+
+EEOA.
+
+ CHIEF JUSTICE ROBERTS: Counsel, when you 
+
+were starting out I heard you articulate a third 
+
+standard, materially changed. What is your 
+
+understanding of the standard applied by the Ninth 
+
+Circuit? Was it materially changed, significantly 
+
+changed or radically changed?
+
+ MS. SAHARSKY: I understand it to be 
+
+significant change, which, I don't see significant and 
+
+material as being all that different. I think that 
+
+the --
+
+CHIEF JUSTICE ROBERTS: Well, I don't either 
+
+but I see both of them being different from radically 
+
+changed.
+
+ MS. SAHARSKY: Again, I think if you look at 
+
+the Ninth Circuit's opinion, particularly where it 
+
+starts out with the standard of review, it cites this 
+
+Court's precedents in Rufo and Agostini; it talks about 
+
+51 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the need for significant changed circumstances. I 
+
+understand that there are portions of the Ninth 
+
+Circuit's opinion that say -- that have the radical 
+
+change language, and again, I -- I think that that 
+
+language is -- just reflects the arguments that 
+
+Petitioners were making, that they wanted complete 
+
+relief from these remedial orders and that, you know, 
+
+the underlying judgment here was a systemic violation. 
+
+I mean, it's --
+
+JUSTICE KENNEDY: Did the district court on 
+
+the 8-day hearing on remand make a finding that its 
+
+incremental funding determinations that it had made 
+
+earlier were an accurate way to measure compliance and 
+
+to insist on compliance under the new immersion program?
+
+ MS. SAHARSKY: If I understand your question 
+
+correctly, and please correct me if I don't, but the 
+
+district court considered two different arguments. The 
+
+first was under House Bill 2064 which considered to have 
+
+-- which continued to have this incremental funding. 
+
+It's that we have two problems with House Bill 2064, 
+
+which were the two-year cutoff and Federal funding 
+
+problem.
+
+ On the second question which -- the second 
+
+argument Petitioners made which said, everything is fine 
+
+in Nogales because we have money from other funds, the 
+
+52 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+district court said no, there's -- there's been an 
+
+ongoing violation of Federal. Law you haven't met your 
+
+burden of showing me that violation ceased because 
+
+things aren't better in Nogales. Do --
+
+JUSTICE ALITO: Why does it matter that 
+
+there is -- why focus on incremental funding for ELL 
+
+programs exclusively? What difference does it make 
+
+where the money comes from -- where it comes from, 
+
+putting aside federal money that can't be supplanted? I 
+
+just don't understand that.
+
+ MS. SAHARSKY: I think the reason the 
+
+district court was focused on that because that was 
+
+always the State's position that, in terms of the 
+
+statewide scheme, that that is how they were going to 
+
+fund ELL education. Now it -- and so the State was 
+
+always, from 2000 up to the time of the district court's 
+
+rule 60(b) hearing, going down this path whereby it 
+
+would put in place an ELL program and then give this 
+
+amount of funding --
+
+JUSTICE ALITO: Well, that may have been 
+
+their -- that may have been their position originally, 
+
+but at the time of the 60(b) hearing, what difference 
+
+does it make whether the money came from funds that were 
+
+designated for ELL program, or from general State funds, 
+
+or from county funds? What difference does it make 
+
+53 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+whether the money was taken from some other program that 
+
+the school was operating?
+
+ Suppose they fund -- they take the money for 
+
+the ELL programs from money that was previously used for 
+
+music instruction, or art, or gym, or teaching German or 
+
+anything else. Now those may all be bad things, but 
+
+what does that have to be with the EEOA?
+
+ MS. SAHARSKY: Well, the district court 
+
+could have found that the plan had changed and that 
+
+funding could come from -- from different places. 
+
+That's right, if the State had changed its plans or that 
+
+Nogales otherwise would have sufficient funding from 
+
+circumstances that -- or from other source, that would 
+
+be one thing. But the district court found that Nogales 
+
+doesn't have that funding from other sources.
+
+ For example, it can't use the federal 
+
+funding that it -- that the Petitioners claim could be 
+
+used to solve its problem under the EEOA. There are 
+
+specific conditions on federal grant programs that 
+
+forbid that.
+
+ It also could not raise any significant 
+
+amounts of funding through county tax overrides, which 
+
+was another source the Petitioners had said would --
+
+would provide sufficient funding. So the question the 
+
+district court had to ask is, there has been an ongoing 
+
+54 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+violation of federal law, has that violation of 
+
+federal -- federal law ceased because the State has put 
+
+in place, Nogales has put in place programs that are 
+
+reasonably calculated to help these kids learn English?
+
+ And the district court said Nogales has 
+
+cobbled together these sources of funding. And it is 
+
+doing the best they can.
+
+ JUSTICE ALITO: But the fact that you keep 
+
+talking about the district court emphasizes my concern 
+
+about the decision of the Ninth Circuit, which is what 
+
+we are reviewing. And as I read the decision of the 
+
+Ninth Circuit, they focused exclusively on incremental 
+
+costs associated with ELL programs and the educational 
+
+funding model that the State had at that time.
+
+ MS. SAHARSKY: With respect, I don't think 
+
+that that was their exclusive focus. I understand that 
+
+it was a primary focus of that decision, and the reason 
+
+for that was because the primary argument --
+
+JUSTICE ALITO: Well, they say. They were 
+
+required -- the Petitioners were required to demonstrate 
+
+either that there are no longer incremental costs 
+
+associated with ELL programs in Arizona or that 
+
+Arizona's funding model was so altered as to make 
+
+incremental costs issue relevant. That was their 
+
+explanation of the holding, 60 -- 63A of the Speaker's 
+
+55 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+appendix.
+
+ MS. SAHARSKY: That's right. And what I 
+
+understand that to mean is that they were required to 
+
+either show compliance with the judgment which was that 
+
+they would put together a plan that funded ELL education 
+
+based on incremental costs or that the State was going 
+
+to go down a different path and come up with the funding 
+
+some other way, and that would result in a program 
+
+reasonably calculated to help ELL students earn English.
+
+ And the district court found there were 
+
+neither and the court of appeals found there were 
+
+neither. And the court of appeals did go through the 
+
+alleged changed circumstances, and Nogales had issued a 
+
+91-page opinion that talked about the significant 
+
+resource constraints that still exist in Nogales and the 
+
+persistent achievement gaps that still exist in Nogales.
+
+ CHIEF JUSTICE ROBERTS: I still have trouble 
+
+with the idea of district courts ordering State 
+
+legislatures to fund it. Isn't the preferable approach 
+
+for the district court to say you have a violation, you 
+
+have to fix it, and I'm going check to see if you fixed 
+
+it at particular intervals? And it's up to you, the 
+
+State, to determine how you are going to fix it.
+
+ And the State might change its mind. They 
+
+may start out by saying we have got all of this extra 
+
+56 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+money and that's how we will fix it. Then there is a 
+
+budget crisis, the kind that we are familiar with, and 
+
+he says we can't the money, we are going to do it some 
+
+other way, and here's the way.
+
+ But that's kind of the judgment of the 
+
+State, not for the district court.
+
+ MS. SAHARSKY: And I think the district 
+
+court was appropriately differential to the State 
+
+throughout this litigation. You will note at the time 
+
+of the 2000 judgment that the district court didn't put 
+
+any remedial order in place. And that's because at the 
+
+time of trial the State said, look, we are going to put 
+
+in place an ELL program that everyone in the State can 
+
+use and figure out how much it costs, what works and 
+
+what doesn't. We are going to do a cost study, so 
+
+please let us do the cost study and we will come back to 
+
+the court.
+
+ And the district court said fine. And ten 
+
+months later that didn't happen.
+
+ Now, there was a change, as Petitioners 
+
+note, to a different theory of ELL education, structured 
+
+English immersion and the court said, okay, do your 
+
+program based on structured English immersion and just 
+
+tell me how much it costs, tell me how you rationally 
+
+fund it, and that will be fine. The district court here 
+
+57 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+did not want to be in the business of micromanaging 
+
+State education. Through this entire litigation the 
+
+district court was --
+
+CHIEF JUSTICE ROBERTS: Why does it order 
+
+then -- why did its order specify and be linked to the 
+
+termination of the legislative session, and say you have 
+
+12 days left in the session and that's how many days you 
+
+have to enact this budget?
+
+ MS. SAHARSKY: I think it's because the 
+
+State kept coming back to the district court and saying 
+
+that the legislature had asked for this cost study, 
+
+there was an interim bill, House Bill 2010, where the 
+
+legislature said we put in place another study that we 
+
+are going to perform. And it's because the State 
+
+said -- constantly said the legislature is going to do 
+
+this cost study, figure out how much good programs cost, 
+
+the school -- the State board will be involved, 
+
+et cetera, that the district court entered its orders 
+
+looking to the time period in which it expected action 
+
+to occur.
+
+ I mean, this happened over a nine-year 
+
+period. The district court, to be clear -- I think this 
+
+is a very important point -- never said you need to do 
+
+any special kind of ELL program, bilingual, structured 
+
+English immersion, you need to have any certain number 
+
+58 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of teachers, nothing like that. And it never said you 
+
+need to put this certain amount of funding in place, 
+
+$200, $300 per student, anything like that.
+
+ And Petitioners at the rule 60(b)(5) stage 
+
+faced a heavy burden to show if what they wanted to show 
+
+was that the State was now going to go down this new and 
+
+different path, because even at the time of the rule 
+
+60(b)(5) hearing, the state Was on the same path. It 
+
+had just passed House Bill 2064, which just like at the 
+
+time of the 2000 judgment said we are going to put a 
+
+statewide program in place for ELL education --
+
+JUSTICE GINSBURG: But the district -- the 
+
+district judge said that that 2064 did not have enough, 
+
+it raised it to 450 or whatever. And the district court 
+
+said there are three things wrong with it, the two 
+
+years, using the federal funds to -- to supplant not 
+
+supplement, and that the $450 figure wasn't enough.
+
+ And the only way that $450 figure was going 
+
+to get changed was through legislation, right?
+
+ MS. SAHARSKY: Could I answer that? I think 
+
+the problem with the $450 figure is that the district 
+
+court was never told what the State was planning to buy 
+
+with that, what that $450 was for. The State -- the 
+
+district court just said to the State, please tell me 
+
+what your programs are going to do and approximately how 
+
+59 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+much it costs to fund them. And that 450 wasn't tied to 
+
+any particular ELL programs. That was the problem.
+
+ JUSTICE SCALIA: Ms. Saharsky, I have one 
+
+late arriving question. Do you think that the 
+
+constitutional -- State constitutional provision at 
+
+least there has to be equivalent funding in districts, 
+
+do you think that would be called into play if the 
+
+Federal Government under a federal program gave 
+
+additional funds to a particular district? Which I am 
+
+sure it does, those districts that have federal 
+
+facilities probably get additional -- additional money, 
+
+would all the rest -- under this constitutional 
+
+provision, would all the rest of the State have to belly 
+
+up to that -- to that same level?
+
+ MS. SAHARSKY: No, as I understand it --
+
+JUSTICE SCALIA: I doubt it.
+
+ MS. SAHARSKY: -- when it's talking about a 
+
+uniform --
+
+JUSTICE SCALIA: Yeah.
+
+ MS. SAHARSKY: -- and equal amount, it's 
+
+talking about the amount that the State gives to the 
+
+school districts. It's not with respect to any federal 
+
+funding from other sources.
+
+ JUSTICE SCALIA: Well, if federal funding 
+
+doesn't count, why would a federal decree applicable 
+
+60 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+only to a particular school district count?
+
+ MS. SAHARSKY: I think that the idea was 
+
+that there needed to be -- the State determined that 
+
+there needed to be -- it was going to solve the problem 
+
+statewide not only because of the concern under the 
+
+State constitutions, that it would provide for all ELL 
+
+students. And it was not that it would provide the same 
+
+amount to each school district, but just the same amount 
+
+per ELL student. That the State had decided that it was 
+
+going to fill that responsibility because -- both 
+
+because of the Constitution and because it's responsible 
+
+for supervising education statewide. Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Mr. Starr, you have three minutes.
+
+ REBUTTAL ARGUMENT OF KENNETH W. STARR
+
+ ON BEHALF OF THE PETITIONERS
+
+ MR. STARR: Thank you.
+
+ JUSTICE KENNEDY: It seems to me, Mr. Starr, 
+
+based on this last argument, that it actually is in your 
+
+favor if the order of the court as to one district 
+
+automatically requires additional expenditure for every 
+
+other district, that is simply one more measure that the 
+
+Court should use in finding an alternate remedy.
+
+ MR. STARR: Yes, Your Honor. The state 
+
+funding remedy here is extraordinarily intrusive and 
+
+61 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+overreaching. It is something that has not been done 
+
+under the EEOA ever, and certainly the No Child Left 
+
+Behind provision should inform now this particular 
+
+remedy. The remedy was originally, of course, designed 
+
+to address the situation in Nogales, but it was 
+
+expanded --
+
+JUSTICE SCALIA: It is no content to the 
+
+equal child -- No Child Left Behind. There is no 
+
+content to it. All it requires is testing.
+
+ MR. STARR: It's part --
+
+JUSTICE SCALIA: You can't say how much it's 
+
+going to cost.
+
+ MR. STARR: But, Your Honor, there is a very 
+
+elaborate plan that is submitted and then a 
+
+determination is made by the Federal Government about 
+
+funds under Title 1 and Title 3, but here is our 
+
+fundamental submission. The Ninth Circuit simply 
+
+applied the wrong 60(b)standard.
+
+ It, in fact, used this remarkable language, 
+
+but it also of radical change, but it also gave undue 
+
+weight. It said it ten times to the fact that the 
+
+original judgment was on appeal, and then it simply did 
+
+not pay heed to the incredibly intrusive nature of a 
+
+statewide funding remedy in light of the fact that we 
+
+can now look at what has happened in Nogales. We see 
+
+62 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the changes that have, in fact, been there, and 
+
+certainly the EEOA by its design in section 1712 of EEOA 
+
+makes it very clear that the remedial reach of the EEOA 
+
+is quite limited. It's limited to particular 
+
+circumstances.
+
+ Here the EEOA has been transmogrified to 
+
+apply statewide. That has not been done before. It 
+
+should not have been done in the first instance but 
+
+certainly in light of the changed circumstances.
+
+ And the changed circumstances, 
+
+Justice Ginsburg, go back to structured English 
+
+immersion. They did not begin with the passage of HB 
+
+2064. Structured English immersion came in in the year 
+
+2000. That is why the legislature then came in and put 
+
+these facts in evidence before the district court, which 
+
+made no factual findings statewide at all, ever. There 
+
+are no statewide factual findings in this record 
+
+whatsoever, none. And therefore statewide funding 
+
+remedy should not have been permitted. Sixty (b)(5) 
+
+relief should be granted. I thank the Court.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+The case is submitted.
+
+ (Whereupon, at 12:09 p.m., the case in 
+
+above-entitled matter was submitted.) 
+
+63 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+additional 42:3 amount 16:25 approve 48:6,9 39:11A 
+47:16,17 60:9 22:18 53:19 50:8 assistance 29:10ability 27:2 
+60:11,11 61:21 59:2 60:20,21 approved 46:24 Assistant 2:4able 26:23 28:16 
+
+address 29:18 61:8,8 47:13,15,23 associated 55:13above-entitled 
+62:5 amounts 54:22 48:1,3,23 49:5 55:221:21 63:24 
+
+addressed 36:15 Angeles 1:25 approximately assume 18:9,12absolutely 11:17 
+adequate 12:8 annual 47:5 59:25 41:22,2542:5 
+
+12:11,23 37:10 answer 8:3,12 April 1:19 attempt 14:3abstract 42:6 
+adequately 9:3,15 27:11 argument 1:22 attorney 17:17academic 10:5 
+
+24:17 28:7 30:6 42:9 3:2,10 4:4,7 17:22 18:2140:25 43:16 
+37:8 59:20 12:14,20 23:2 19:3,6,15,19accept 40:22 
+
+administered Ap 8:15 28:20 30:11,12 26:22 27:5,6,9accepted 43:14 
+9:11,22 apparatus 15:2 30:13,17 36:7 27:13,17,2348:7 
+
+administration appeal 6:10 28:5 36:11 40:3 28:1,11 40:20 accommodated 
+33:6 38:11 62:22 42:8,11 49:23 41:2 42:1644:21,22 45:1 
+
+adopted 4:19 appealed 6:7 50:24 51:1,2,5 43:14,21 44:2 accomplish 4:18 
+5:7 23:3 28:6 52:24 55:18 44:10,15account 30:25 
+
+advances 35:3 appeals 35:12 61:15,19 authorities31:23 
+35:13 56:11,12 arguments 52:5 42:25accountability 
+
+affect 41:19 APPEARAN... 52:17 authority 15:1647:3 
+afford 33:17 1:24 arises 42:15 47:7accurate 9:24 
+agency 16:5 appendix 8:15 arithmetic 17:2 automatically52:13 
+ago 22:15 24:23 8:21 9:8 32:19 Arizona 1:4,12 42:3 43:10achieve 32:8 
+Agostini 51:25 39:8 56:1 4:12 12:7 15:6 61:2141:6 47:4 
+agree 26:19 37:1 applicable 34:12 15:12 17:10,17 available 24:2048:15,24 
+
+38:15,17 47:22 60:25 17:18,22 27:12 39:6achieved 7:12 
+agreed 4:24 application 27:25 28:6 average 10:1548:22,23 
+
+11:19 13:11 33:5 41:3,11 11:5achievement 
+agrees 9:1 applied 26:21 42:13 43:11 AYP 10:710:6 37:5 
+aides 23:23,25 45:7,21 51:12 55:22 AZELA 7:2056:16 
+
+24:6 62:18 Arizona's 31:15 a.m 1:23 4:2 acknowledgm... 
+AL 1:8,16 applies 40:16 32:3 55:2341:2 BAlito 30:10 31:2 apply 42:20 arriving 60:4acquiesced b 21:16,16 63:19 31:24 32:5,9 43:10 63:7 art 54:540:20 back 12:4 20:22 53:5,20 55:8 approach 11:23 articulate 51:10acquiescence 
+
+22:14 24:2255:19 20:10 33:13 articulation44:13 
+27:7 31:7Alito's 33:11 34:6 35:19 46:1acquisition 28:8 
+33:13 57:16alleged 56:13 49:17 56:19 arts 10:15act 23:11 29:8 
+58:10 63:11allow 40:4 appropriate aside 53:929:14 30:13 bad 54:6allowing 44:23 9:17 20:13 asked 6:2447:18,24 48:4 barriers 29:21alluded 36:3 21:21 24:8 46:21 50:548:6 
+48:16alluding 35:5 30:15 43:5 58:11action 16:5 based 20:1237:24 47:9 49:18 aspect 43:417:13 30:16 
+33:12 34:8altered 55:23 appropriated assertions 36:147:8,10 49:18 
+35:3,13 56:6 alternate 61:23 22:19 assess 39:1249:19 58:19 
+57:23 61:19amicus 2:6 3:8 appropriately assessed 43:13actual 26:17 bases 9:1749:25 57:8 assessment 33:1addition 32:24 
+
+64 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+basically 21:14 16:12 26:1 certainly 32:17 30:3,7,12,19 clerk 6:24 
+basis 12:10,22 brings 11:1 42:6 50:16 30:20,22 31:1 cobbled 55:6 
+
+40:12 broadly 13:18 62:2 63:2,9 35:20 36:4,5 collusive 44:7 
+basket 24:19 brought 27:21 cetera 17:2 36:10 46:19,21 come 5:5,6 17:9 
+beachhead 15:4 39:4 58:18 46:24 47:18,23 18:21 21:15,15 
+bear 39:4 budget 16:18,20 change 5:14,20 48:4,5,18,25 24:22 25:15,15 
+bears 25:16 34:14 57:2 45:2,3,11,12 49:14 51:5 25:17,21 34:17 
+
+49:13 58:8 46:18,18,19 62:2,8,8 43:2 47:7 
+began 5:23 budgetary 33:16 51:16 52:4 children 7:18 54:10 56:7 
+beginning 12:4 bunking 46:16 56:24 57:20 9:17 29:10 57:16 
+behalf 1:25 2:2 46:16 62:20 choice 44:18 comes 19:4 
+
+2:6 3:4,6,8,12 burden 37:3 changed 5:13 choose 21:22 23:22 27:7 
+4:8 28:21 50:9 53:3 59:5 6:17,18 8:23 Circuit 6:16 33:13 44:22 
+49:24 61:16 business 58:1 13:3 16:8,8 32:1,4,14,17 53:8,8 
+
+beholden 27:14 buy 59:22 18:1,2,5 20:20 34:6,23 35:7 coming 58:10 
+believe 25:3,3 22:22 24:23 35:23 37:2,23 commanded 
+
+C40:2 34:19 35:19 45:7,14 46:4 6:16 
+C 1:3 3:1 4:1 belly 60:13 36:4,11 45:6 51:13 55:10,12 compared 7:2,4
+Cal 1:25belong 43:7 45:15,16,22,23 62:17 7:6 
+calculate 49:2,4best 55:7 50:12,19,24 Circuit's 8:17 comparison 8:5 
+calculated 29:21better 8:18,24 51:11,13,14,14 31:3,12 51:23 complaint 23:19 
+
+48:15 55:453:4 51:21 52:1 52:3 43:13 
+56:9beyond 22:1,2 54:9,11 56:13 circumstance complete 33:8 
+
+calculus 43:922:19 59:19 63:9,10 34:19 36:18 38:23 
+call 29:22bilingual 5:21 changes 11:24 circumstances 46:10 50:6 
+called 10:658:24 16:10 33:1,5 5:13 6:17,18 52:6 
+
+48:25 49:14bill 12:20 13:2 38:12 39:4,22 8:23 13:3,3 completely 15:8 
+60:714:5 52:18,20 63:1 16:8,9 20:21 31:20 51:6,7
+
+calls 48:2058:12,12 59:9 charter 38:18 23:21 31:14 compliance 
+care 39:21bind 28:16 check 56:21 39:23 45:6 13:20,22 14:3 
+case 4:4,5 17:12 bizarre 40:10,17 chief 4:3,9 8:11 50:12,24 52:1 15:6 21:6 30:4 
+
+22:5 23:1blank 21:6,7 9:2,15,23 54:13 56:13 30:9,20,22,23
+26:10 31:25blinded 11:23 19:23 20:24 63:5,9,10 31:1 32:8 
+32:6 34:1015:9,18,19 28:18,22 33:10 cite 45:18 34:16 36:5,6
+36:18 41:2016:9 25:11 33:21 34:4 cites 51:24 41:6 50:10,12
+43:4,12,19board 15:12 35:1,16 39:14 civil 15:25 52:13,14 56:4 
+46:13 63:22,2358:17 39:17 43:18 claim 35:4 54:17 complied 23:18 
+
+Castanedabottom 38:4 44:9,14,20 claims 34:1 30:21 37:10 
+13:19 21:9,11Breyer 6:23 45:4,10,13,20 clarification comply 18:15 
+
+cause 6:10 47:8 7:17 8:4,6 9:6 49:13,21 50:2 29:17,25 30:2 29:14 30:19 
+49:1810:3 11:2 51:9,19 56:17 class 17:13 47:18 
+
+ceased 50:2316:11,17 24:18 58:4 61:13 clause 15:23 components
+53:3 55:225:12,19 63:21 42:14,15,20 24:12 
+
+cede 42:25Breyer's 9:3,5 child 8:22 15:2,5 43:11,17 concededly
+certain 38:29:16 15:17,22 20:4 clear 11:18 40:12 
+
+48:20 58:25briar 19:13 23:11,25 24:25 58:22 63:3 concern 6:11 
+59:2brief 11:16 29:7,13,18 clearly 37:3 55:9 61:5 
+
+65 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+concerned 44:5 content 62:7,9 25:5,7,9,20 12:16D 
+concerning 35:9 contest 44:10 26:5,14 27:2,6 determinationD 4:1 
+
+46:15 context 42:13 27:7,15,20 4:17 62:15dam 26:25 
+concerns 38:7 46:6,11 28:23,24,25 determinationsdata 9:5 
+
+44:21 48:14,19 continue 28:16 29:1 31:22 52:12date 35:14 38:9 
+concluded 4:12 continued 52:19 32:19,21,25 determine 22:339:2 
+
+9:14 controls 19:23 33:3,25,25 24:2 28:7day 30:18 35:15 
+conclusion Cooper 6:19 34:13,21 35:6 41:15,16 56:23 days 58:7,7
+
+34:25 35:13 13:24 23:22 35:12,22 36:15 determined 15:3deal 17:18 
+38:23 42:8,11 correct 5:9 9:16 36:22 37:3 21:9 61:3dealing 6:12 
+42:12 14:21,22 16:1 38:7 39:3,7,10 determiningdebate 31:4 
+
+conditions 36:8 25:18 31:16,18 39:20 40:15 19:24decide 22:7,8
+36:19 48:8 52:16 41:13 42:1,18 developed 8:1929:11 
+50:19 54:19 correctly 16:13 42:24 43:6,23 23:16 25:24decided 61:9 
+
+Conference 26:3 52:16 44:20,25 45:9 difference 10:16deciding 21:21 
+26:12 cost 6:3 17:9,11 45:18 47:7,9 28:11 53:7,22decision 31:3,12
+
+confused 45:21 24:9 28:7 31:9 47:17 50:3,11 53:2555:10,11,17
+confusing 45:5 48:2 57:15,16 50:14,21 51:1 different 9:18decisions 41:4 
+Congress 15:3 58:11,16,16 52:10,17 53:1 9:22,24 19:21 declaratory 6:5 
+
+29:13 62:12 53:12 54:8,14 20:6,9,9 22:24 24:5,11
+Congress's 29:7 costs 11:4,6 54:25 55:5,9 23:20,21 31:8 decree 6:5 18:13 
+consent 46:15 16:24 20:16 56:10,11,12,20 33:18 34:17,1719:16 24:16 
+consequence 24:8 49:2,4 57:6,8,10,17 36:1,14 43:2 41:13 60:25 
+
+36:9 39:13 55:13,21,24 57:18,22,25 44:24 51:17,20defending 12:13 
+42:14 56:6 57:14,24 58:3,10,18,22 52:17 54:10deficiencies 14:4 
+
+consider 6:16,17 60:1 59:14,22,24 56:7 57:2114:20,21 29:2 
+considerable counsel 8:12 61:20,23 63:15 59:7deficiency 14:6 
+
+25:20 28:18 30:11 63:20 differential 57:814:10 
+considered 46:6 40:8 49:21 courts 15:1 difficulty 22:11deficient 41:25 
+
+52:17,18 51:9 61:13 29:11 41:15 directs 28:2degree 14:15 
+consolidated 4:5 63:21 56:18 disagree 35:1736:23,25
+constantly 58:15 count 60:25 61:1 court's 32:18 disagreementdemanded 
+constitutes county 53:25 33:7 34:25 15:1547:16 
+
+29:12 54:22 35:7,13 36:13 discrediteddemonstrate 
+Constitution couple 10:20 38:23 50:6 13:2550:17 55:20 
+
+17:19 18:16,18 course 23:5 46:3 51:25 53:16 displace 46:22demonstrates 
+41:3 61:11 47:22,24 62:4 creates 12:7 displaces 30:837:7 
+
+constitutional court 1:1,22 crises 33:16 dispute 41:18denial 14:18 
+41:22 42:19 4:10,11 5:2,4 crisis 57:2 disputed 9:133:7 
+60:5,5,12 6:2,15 9:8,14 critical 36:17 dissolution 33:8Department 2:5 
+
+constitutions 11:23 12:6,18 curiae 2:7 3:9 36:18 38:2414:25 16:4 
+61:6 13:16 15:9,17 49:25 46:10 50:6describes 48:21 
+
+Constitution's 16:9 17:17 current 12:14 distinct 36:7design 63:2 
+42:14 43:11 18:22 19:1,2,6 currently 17:3 district 4:11,15designated
+
+constraints 40:4 21:1,20 22:17 cut 8:2 4:19,24,25 5:2 53:24 
+56:15 22:19,21 23:10 cutoff 52:21 5:3,4 6:1 9:14 designed 62:4 
+
+construed 15:23 23:12,16 24:10 11:10,23 12:6 detached 12:14 
+
+66 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+12:18 13:16 doubt 60:16 22:4 26:8 40:23 exclusively 
+15:1,9 18:7,7 doubted 36:24 effort 13:22 29:9 43:13 58:2 31:14 43:3 
+18:14,17,25 Dr 11:19 29:12 entirely 22:24 53:7 55:12 
+19:2,6 20:16 dramatically efforts 13:20 31:8 Excuse 7:21 
+20:17 21:1,20 5:13 14:19 29:20,20 entitled 50:14 executive 18:18 
+21:22 22:17,19 durable 36:21 eight 23:1 entitlement 19:24 
+22:21 23:12 duty 20:5 eight-day 12:19 50:17 exist 56:15,16 
+24:5,10 25:9 D.C 1:18 2:2,6 13:4,5,23 20:3 entrusted 14:25 exists 41:7 
+25:20 26:6 either 50:10,17 16:3 expanded 17:13 
+
+E27:15,19 28:11 51:19 55:21 equal 4:13 18:23 17:14 18:14 
+E 3:1 4:1,1 28:24 31:22 56:4 41:23 60:20 62:6 
+earlier 23:1432:18,19,21,25 elaborate 4:22 62:8 expected 58:19 
+
+30:12 36:333:3,7,24,25 15:5 62:14 equalized 18:20 expenditure
+52:1334:13,21,24 elements 25:10 equally 17:20 61:21 
+
+earmarked 18:735:6,7,13,22 ELL 12:8 13:8 41:14 expenditures 
+earn 56:936:12,15,21 14:7 23:17 equivalent 60:6 16:14 
+economic 39:2337:2,4 38:7,23 33:6 37:4,8,10 erred 37:3 experiencing
+economically39:2,7,10,19 37:11,19 38:4 error 20:2 39:24 
+
+39:1939:25 40:12,13 38:11,19 51:3 especially 6:12 explain 15:12 
+educating 20:640:14,15,16 53:6,15,18,24 ESQ 1:25 2:2,4 explained 32:25 
+education 5:2141:4,4,13,16 54:4 55:13,22 3:3,5,7,11 explanation
+
+6:14 14:9 15:1 41:23,24 42:2 56:5,9 57:13 essentially 19:20 55:25 
+15:13 16:442:4,18,19,21 57:21 58:24 et 1:8,16 17:2 extend 26:20 
+42:1 51:442:24 43:6,23 59:11 60:2 58:18 extended 50:18 
+53:15 56:544:25 47:16 61:6,9 evaluate 22:10 extra 56:25 
+57:21 58:250:11,13,21 ELL's 34:7 everybody extraordinarily
+59:11 61:1251:1 52:10,17 emphasizes 55:9 38:15 61:25 
+
+educational53:1,12,16 enact 58:8 everybody's extraordinary
+4:13 5:1554:8,14,25 enactment 29:7 39:23 26:8 34:13 
+16:14 55:1355:5,9 56:10 33:4 38:7,10 evidence 12:21 
+
+FEEL 31:1556:18,20 57:6 38:19 14:8 25:11 
+32:13 faced 59:557:7,10,18,25 enforce 22:12 34:24 35:8 
+
+EEOA 13:18 facilities 60:1158:3,10,18,22 English 4:14 63:15 
+15:4,25 17:8 fact 4:22,23 5:24 59:12,13,14,21 5:17 7:1,6,14 evidentiary
+21:10 29:1,6 6:8,10 8:16,24 59:24 60:9 7:18,24 10:9 12:19 13:17 
+29:18,19 30:4 8:25 9:1361:1,8,20,22 10:10,15 11:11 50:21 
+30:9,14,22,23 10:25 11:1963:15 16:23 22:23 evolving 33:2 
+31:18 36:6 12:17 13:9,15districts 5:24 28:8 37:6,12 exactly 8:10 
+37:13 41:6 13:20 14:817:19 18:19 37:20 40:13 exam 7:4,5,14
+46:22,25 47:8 15:12 16:347:4 60:6,10 55:4 56:9 7:19,20 9:22 
+48:14 49:18 17:7,10,2260:22 57:22,23 58:25 example 7:1 
+51:8 54:7,18 19:12,19 20:14 division 19:18 63:11,13 23:21 40:5 
+62:2 63:2,2,3,6 20:21 22:3,344:1 ensuing 33:8 46:13 54:16 
+
+effect 17:4 23:10 23:20 24:17doing 6:18,23 46:11 exams 9:10 
+35:2 39:6 46:1 26:11 29:208:18,24 29:15 entered 26:7 exceptions 6:11 
+
+effective 6:4 40:19 46:1831:5 55:7 50:11 58:18 exchange 7:22 
+11:20 13:8 47:3,23 55:8 double 46:16 entire 16:19 exclusive 55:16 
+
+67 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+62:19,21,24 40:10 41:24 54:9,14 56:10 54:12,15,17,22 43:21,22 44:17 
+63:1 finding 4:21 56:11 54:24 55:6,14 56:7,12 59:6 
+
+facts 36:16 45:3 14:19 24:24 fourth 7:5 55:23 56:7 63:11 
+45:12 46:18 52:11 61:23 framework 59:2 60:6,23 going 7:15 23:1 
+63:15 findings 4:22 13:19 33:5 60:24 61:25 27:17 34:16 
+
+factual 36:10 10:20 20:3 Frew 44:21 62:24 63:18 38:19 41:7,20 
+50:22 63:16,17 50:22 63:16,17 full 50:10 funds 4:17 14:11 53:14,17 56:6 
+
+factually 36:11 fine 27:21 29:23 fully 25:23 14:12,23 24:18 56:21,23 57:3 
+fail 37:19 30:1 52:24 function 6:13 24:18,19 52:25 57:12,15 58:14 
+failed 4:13,17 57:18,25 fund 21:16,17 53:23,24,25 58:15 59:6,10 
+
+7:2,3,5 22:21 finish 49:12 22:18 25:14 59:16 60:9 59:18,25 61:4 
+32:22 37:5 first 7:13 11:14 28:7,12,13 62:16 61:10 62:12 
+
+failure 5:14 6:10 20:4 30:6 47:15,24 53:15 further 29:2 good 11:6 13:20 
+fair 46:12 38:25 44:9 54:3 56:19 13:22 14:3,19
+
+Gfaith 13:20,22 52:18 63:8 57:25 60:1 22:8 28:9 29:9 
+G 4:114:3,19 29:9 fix 28:10,13 fundamental 29:12,19,23 
+
+29:12,20,23 gaps 56:1656:21,23 57:1 11:22 17:11 31:10,11 32:13 
+gather 43:18familiar 57:2 fixed 56:21 30:6 62:17 42:24 58:16 
+
+far 40:2 gee 19:5fleeting 32:23 fundamentally gotten 48:1,3
+general 2:5fault 17:16 34:3 36:1 38:10 Government 
+
+favor 61:20 17:17,22 18:21 Flores 1:8,16 funded 24:17 60:8 62:15 
+19:3,7,15,19feathering 5:23 4:4 56:5 governor 19:22 
+
+features 38:22 26:22 27:5,7,9flowing 13:21 funding 5:4,5 27:13,16 28:2 
+27:13,17,24federal 14:12,23 focus 20:19 6:2,21 11:15 34:15 43:20 
+
+15:17,24 18:22 28:1,12 40:20 31:14 32:10 12:1,8,12,24 44:2 
+41:2 42:1621:18 28:7 53:6 55:16,17 13:5 14:6,7,17 grade 6:25 7:3 
+43:14,21 44:2 50:20 52:21 focused 25:7,10 16:10,12 17:8 graders 7:5 37:5 
+44:10,15 53:24 53:2,9 54:16 32:4 38:7 43:3 18:7 20:13,14 37:19 
+
+German 7:15,1654:19 55:1,2,2 53:12 55:12 21:5,5,11,14 grant 31:13 
+54:559:16 60:8,8 followed 47:4 21:15,16,19,21 54:19
+
+
+60:10,22,24,25
+ getting 18:4following 7:22 22:7,12 23:13 granted 63:20 
+Ginsburg 5:1962:15 9:4 41:1 23:19 24:25 great 6:19,23 
+
+felt 46:3 6:1 12:3,22forbid 54:20 25:14,15,22 ground 12:5 
+13:10 15:21fight 27:16 force 40:21 26:9,15,17 13:6 20:22 
+
+figure 24:7 17:16 22:25forget 14:5 29:3 31:15,16 31:21 36:8,17
+24:4 25:1357:14 58:16 former 28:15 31:20 32:2,3,5 38:6 39:12
+
+
+59:17,18,21
+ 28:3 38:13fortified 34:24 32:12,14 33:6 grounds 6:9 
+50:13,23 59:12 figures 6:24 9:6 35:7 33:12,18 34:8 guaranteeing
+63:119:16,21,23 fortifies 33:7 34:11,18 35:2 15:24 
+
+give 45:25 50:14 43:20 35:12 35:21,23 37:8 guard 19:1 
+filed 32:20 53:18fortify 38:23 37:10 38:11 guess 9:3 33:10 
+
+given 7:14 14:6 fill 21:6 61:10 forward 31:19 39:15 40:3 34:15 
+filled 7:10 42:13 43:1638:19 41:3,5,19,23 guidelines 10:7 
+
+gives 9:9 60:21 final 16:5 found 28:25 43:4,6,9 44:15 gym 54:5 
+finality 6:12 go 6:24 8:14,17 29:2 32:19,21 47:16,17 48:8 
+
+H8:20 20:2223:7 44:22 33:25 37:3 52:12,19,21 
+find 11:10 23:12 22:1,2,14,19 half 39:5,839:3,7 46:5 53:6,19 54:10 
+
+68 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+hands 26:4,13 inform 62:3 issue 14:2,25 21:4,12,25I 
+happen 57:19 information 15:20 25:4 22:6,14,15,25idea 56:18 61:2 
+happened 20:21 8:16,22 27:8 34:22 23:9 24:4,18immediate 50:6 
+
+43:3,8 44:11 informed 23:20 40:25 42:15 24:21,22 25:6 immersion 5:17 
+58:21 62:25 informs 30:14 55:24 25:12,13,195:17 22:23 
+
+happening 13:6 infrastructure issued 28:24 26:19,24 27:4 24:24 52:14 
+39:18 8:19 23:17 44:12 56:13 27:10,15,2357:22,23 58:25 
+
+happens 39:12 38:20 issues 6:6 25:4,6 28:3,9,18,2363:12,13
+hard 44:14 initial 28:24 29:5,16,22implement 47:2 JHB 13:16 15:8 initiated 17:21 30:1,10,1848:3 jails 39:2125:10 33:5 Inputs 24:1 31:2,24 32:5,9 important 16:10 January 4:1151:3 63:12 inquired 43:6 33:10,11,2150:4 58:23 judge 41:16hear 4:3 inquiry 32:18 34:4 35:1,10imposes 48:7 
+
+43:23 59:13heard 51:10 insist 52:14 35:16 36:3,23improve 50:8 judged 32:1hearing 5:12 instance 63:8 36:25 37:15,18improved 8:19 judge's 24:512:18,19 13:17 institutional 38:13 39:1,1423:17 36:9,20 judgment 6:513:23 16:6 43:19 39:17 40:8,1036:20 
+18:16 19:1020:4 50:21 instruction 1:5 40:19,24 41:9 improvement 
+23:6,19,2052:11 53:17,22 6:2 54:5 41:11,21 42:7 36:25 
+24:5,12 28:25 59:8 instructional 42:9,11,17,23improvements 
+31:13 32:11heavily 50:24 16:24 43:2,18 44:9 32:22 35:3 
+33:8 34:20heavy 59:5 intense 5:17 44:14,20 45:4 36:9 38:1,9 
+44:12 46:10heed 62:23 interest 44:22 45:10,13,2048:20 50:8 
+51:5 52:8 56:4 held 23:16 50:21 interested 16:21 46:20 47:11,14inadequate 
+57:5,10 59:10 help 14:1 55:4 interests 44:23 47:21 48:9,1223:13 
+62:2256:9 interfered 26:9 48:17 49:1,4,7inappropriate judgments 23:4high 9:12 10:7 interim 50:9 49:10,13,2120:15 21:4 
+23:4 44:2310:17 32:23 58:12 50:2,13,23include 17:14 judicial 18:1334:2 37:24 interpretation 51:9,19 52:10 includes 48:8 jurisdiction38:2,3 15:18 16:2 53:5,20 55:8 including 9:12 
+42:25holding 55:25 30:14 31:18 55:19 56:1711:18 15:6 jurisdictionshome 10:21,24 intervals 56:22 58:4 59:1226:15 35:20 
+40:910:25 intervened 60:3,16,19,2443:4 Justice 2:5 4:3,9 Honor 4:20 6:22 12:13 61:13,18 62:7 inconsistent 
+4:16,24 5:10 7:13 10:24 intervenors 62:11 63:11,2115:24 
+5:19 6:1,2311:14 12:25 32:20 justifies 34:19incorrect 11:13 
+7:17,21 8:3,4,6 15:16 17:7 intervention justify 36:18increase 11:15 
+8:9,11 9:2,3,4 19:9 27:1,19 13:1126:17 K9:4,6,15,16,2327:25 34:25 intrudes 22:13increased 11:5 
+10:3 11:2 12:3 keep 55:840:1 46:5 intrusion 17:1516:15 
+12:22 13:10 Kennedy 20:161:24 62:13 intrusive 61:25incredibly 62:23 
+14:1 15:11,21 20:11,18,25Horne 1:3 4:4 62:23incremental 
+16:11,17 17:16 21:4 41:21house 1:13 invite 26:531:15 32:2,13 
+17:25 18:3,9 42:7,11,17,2312:12 15:15 invoke 45:1852:12,19 53:6 
+18:10,12 19:2 43:2 52:1052:18,20 58:12 involved 58:1755:12,21,24 
+19:12,15 20:1 61:1859:9 irrelevant 15:1956:6 
+20:11,18,24,25 Kennedy's25:4inexistence 40:4 
+
+69 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+22:15 learn 7:18 55:4 litigation 19:21 10:6 46:15 
+KENNETH learners 4:14 19:23 42:13 matter 1:21 12:1 moment 11:8 
+
+1:25 3:3,11 4:7 7:1,6,24 10:11 43:1,12,19 14:14 38:8 22:15 24:23 
+61:15 leaving 11:9 44:7,11 57:9 41:12,15 53:5 30:20 
+
+kept 6:2 58:10 left 8:22 15:2,5 58:2 63:24 Monday 1:19 
+key 8:24 9:7 15:17,22 20:4 local 6:13 26:13 mean 6:24 18:3 money 11:10 
+
+10:25 11:18 23:11,25 29:7 long 46:23 48:21 22:9 23:2 29:8 21:16 22:18 
+13:7,18 16:6,7 29:14,18 30:3 longer 15:3 30:21 31:1 23:23,24 24:8 
+18:8 20:15 30:7,12,19,20 17:12 20:13 44:6,9 47:1 28:12 39:20 
+
+kid 14:9 30:22 31:1 22:22 23:10 52:9 56:3 42:2,3,3,19 
+kids 55:4 35:14,20 36:4 27:7 50:20 58:21 43:22,23 48:2 
+kind 7:9,10 36:5,10 46:19 55:21 means 39:21 52:25 53:8,9 
+
+15:18 40:20,20 46:21,24 47:18 look 7:20 10:14 measure 8:25 53:23 54:1,3,4 
+57:2,5 58:24 47:23 48:4,5 12:17 16:25 21:5 41:19 57:1,3 60:11 
+
+know 8:4 11:4 48:18,25 49:14 24:1 32:14 50:9 52:13 monies 16:14 
+16:21 17:24 51:6 58:7 62:2 33:19,25 34:9 61:22 months 57:19 
+19:7 29:8 31:4 62:8 34:23 37:25 measurement morning 6:9 
+31:17 33:14 legal 12:20 36:4 43:21 44:17 47:5 motion 12:4,5 
+34:18 52:7 legislation 59:19 51:22 57:12 measures 47:3 12:11,23 13:12 
+
+legislative 32:20 62:25 mechanism 26:9 32:11 
+L 58:6 looked 16:12 mechanisms move 17:21 
+
+lack 29:3 47:7 Legislators 26:4 33:24 13:6 music 54:5 
+laid 47:5 legislature 12:7 looking 7:9 meet 37:5,18,19 
+
+Nlandscape 36:4 27:21 34:14,15 10:22 32:13 mention 10:4 
+38:10 N 3:1,1 4:1 44:1,15,17 34:7,19 35:8 mentioned 10:4 
+
+language 4:14 National 26:3,1258:11,13,15 45:13 58:19 10:5,8,18
+10:14 16:24 native 37:6,1163:14 Los 1:25 23:14 
+20:6 29:10,21 37:20legislatures lost 20:24 menu 41:5 
+30:14 42:1 nature 9:21 46:7 26:12 56:19 lot 44:4 mere 40:19 
+46:5 48:16 46:7 62:23letter 16:4 merely 14:13 
+
+M51:6 52:4,5 necessarilylet's 10:3,4 11:2 met 37:4 53:2 
+62:19 maintenance 30:21 46:2522:14,15 31:5 methodology
+
+largely 40:25 16:17,19 necessary 29:13level 21:11,19 6:21,21 20:9 
+43:16 majority 37:4,6 37:1 40:22,2337:11 60:14 20:12 22:24 
+
+late 60:4 37:16,19,20 42:8,11 46:4 levels 33:18 23:20 24:16 
+lately 39:24 making 9:10,13 47:1734:11 35:21,24 micromanaging
+Laughter 8:8 16:2 24:15 need 23:24 24:7 light 62:24 63:9 58:1 
+law 12:6,11,14 52:6 52:1 58:23,25limit 50:7 mind 56:24 
+
+12:15 15:24,25 management 59:2limited 10:9,15 minor 25:12 
+17:4 18:1,5,6 35:3 36:9 needed 4:21,2213:1 14:6 minute 22:16 
+18:12 19:7 manner 15:24 61:3,417:14 63:4,4 minutes 61:14 
+27:12 28:7 matches 24:9 needs 5:11linked 58:5 MIRIAM 1:8,16
+43:8 45:3,12 material 50:11 neither 56:11,12listen 16:7 27:20 mistake 26:20 
+46:19 50:20 51:17 net 39:6listened 27:22 model 31:16 
+53:2 55:1,2 materially 51:11 never 58:23 59:1 litigate 47:7 32:3 55:14,23
+
+lawsuit 26:20 51:13 59:22litigated 31:7 modest 46:14 
+leadership 6:19 mathematics new 6:19,2132:6,10 modification 
+
+70 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+13:2,5 14:5 November 5:14 22:12 25:14 37:22 62:10 3:4,12 30:5,25 
+23:11 24:16 5:23 26:7,9 33:11 particular 4:14 35:5 36:2,19 
+32:12 33:2,13 number 33:14 34:8,22 35:22 12:20 18:14 38:1 50:4,25 
+34:25 38:13,15 58:25 36:17 41:5 21:10,19 33:12 52:6,24 54:17 
+38:16 39:15 numbers 16:20 42:3 46:11,15 33:17 34:10 54:23 55:20 
+44:24 52:14 16:21 17:5,6,7 47:9 57:11 37:25 38:21 57:20 59:4 
+59:6 58:4,5 61:20 42:13 43:7 61:16 
+
+ONICOLE 2:4 ordering 56:18 48:6 56:22 Petitioner's 
+O 3:1 4:1 3:7 49:23 orders 23:3 33:9 60:2,9 61:1 46:23 49:17 
+objectives 7:11nine 23:1 42:2,19 50:6,7 62:3 63:4 piece 44:7 
+objects 24:15nine-year 58:21 50:11 52:7 particularly pivotal 17:7 
+obligated 32:14Ninth 6:16 8:17 58:18 22:12 30:25 place 11:21 13:8 
+obligation 47:2531:3,12 32:1,4 original 6:5 32:24 43:15,25 15:5 22:4 
+
+48:232:14,16 34:6 19:10 20:23 51:23 35:15,24 40:7 
+obsolete 51:734:22 35:7,23 23:18,19 24:11 pass 34:14,15 41:5 48:19 
+obtain 49:1837:1,2,23 45:6 62:22 passage 63:12 53:18 55:3,3 
+occur 58:2045:14 46:4 originally 31:7 passed 12:7 37:6 57:11,13 58:13 
+occurred 5:1551:12,23 52:2 32:10 53:21 59:9 59:2,11
+odd 41:2255:10,12 62:17 62:4 passing 10:10 places 54:10 
+oddity 22:5Nogales 4:12 ought 36:12 patch 19:13 plaintiff 47:6 
+officials 27:35:16,18,25 outlined 45:8 path 53:17 56:7 plaintiffs 11:18 
+
+28:15 44:246:18,23 7:2,6 outset 32:6,7 59:7,8 17:20 19:20 
+Oh 19:58:18,23 9:14 40:21 44:11 pay 21:23 62:23 plan 4:18,23 5:1 
+okay 5:10 29:15 13:6 16:15 45:2 pejorative 44:6 5:7,11 12:8 
+
+29:22 49:1017:12,14,18 outside 17:1 penny 31:9 15:6,7 21:15 
+57:2220:19,19 21:2 overall 10:12 percent 7:1,2,3 21:16,17,17,22
+
+old 5:1521:14 22:16,17 overcome 29:21 7:4,5,6 10:10 21:23 22:8,8 
+once 27:2122:20 26:6,10 overcoming 10:12,16 16:18 22:10,16,17,18 
+onerous 20:7,826:15,21 28:10 48:16 percentage 7:23 22:22,23 23:10 
+ongoing 50:2028:13 31:5,6 overreaching 7:24,25 9:9 23:11,13 24:7 
+
+53:2 54:2538:3 40:23 62:1 perform 58:14 24:13,24 25:14 
+open 6:1541:6 43:4,7,10 overrides 54:22 performance 25:16,17,21,23
+opening 11:1649:13 50:7,9 37:7 31:7,8,8,10
+
+Poperating 54:250:19,23 52:25 period 23:6 32:12 33:12,15
+operation 16:18 P 4:153:4 54:12,14 39:12 58:19,22 33:18 34:5,25
+
+16:20 43:8 page 3:2 8:15 55:3,5 56:13 permissibility 35:15,19 38:13 
+opinion 19:18 16:12 32:1956:15,16 62:5 32:1 38:15,16 46:24 
+
+45:14 46:2 34:7,23 35:6 62:25 permitted 63:19 47:2,6,13,15
+51:23 52:3 35:10 45:13,17nonnative 40:13 persistent 56:16 48:21,23,24
+56:14 pages 9:9 11:16 non-democratic perspective 49:5,7 54:9 
+
+opportunity 39:743:25 19:21 56:5 62:14 
+4:13 papers 13:11note 22:22 57:9 Pet 8:15 planning 59:22 
+
+optimal 40:6 par 14:957:21 petition 8:15,21 plans 38:11 
+oral 1:21 3:2 4:7 parameters 9:5noted 50:23 9:8 32:20 39:8 54:11 
+
+28:20 49:23 part 13:16 15:16 noting 49:13 Petitioner 1:6 play 60:7 
+order 6:6 20:3 15:23 23:25notwithstandi... 1:14 4:8 please 4:10 
+
+20:23 21:1 24:19 25:947:6 petitioners 2:1 28:23 50:3 
+
+71 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+52:16 57:16 problem 11:4 provide 4:13,17 referee 27:16R 
+59:24 14:15 25:2 6:2 17:2,3 references 38:14R 4:1 
+
+point 7:17,19 40:14 42:20 29:10 54:24 referred 24:18radical 52:3 
+10:19 13:17 52:22 54:18 61:6,7 referring 7:1462:20 
+14:18 15:8 59:21 60:2 provided 12:23 reflects 52:5radically 45:15 
+16:1 17:8,9 61:4 provides 17:1 refocus 26:645:23 51:14,20
+21:14 22:15 problems 14:16 providing 11:9 refocuses 26:14raise 37:11 
+24:15 27:10,17 17:11 38:6 41:25 reforms 6:2054:21 
+29:17,19 30:7 50:22 52:20 provision 38:18 regard 32:2raised 38:25 
+35:19 38:12 process 15:6 41:22 60:5,13 39:1859:14 
+43:15 45:22,23 produce 32:13 62:3 regardless 31:20raising 37:14 
+49:12 58:23 produced 31:11 PUBLIC 1:5 35:2 36:10range 16:24 
+
+points 13:1 15:8 proficient 10:9 pupil 16:25 rejected 35:6ranked 38:3,4
+15:13 26:1 10:11,15 purpose 12:13 rejection 35:8rate 10:12 
+36:14 44:8 profound 39:22 23:7 related 5:6 29:3 rational 5:11 
+
+policy 5:15 program 11:5 put 40:5,7 41:5 relates 6:325:16,23
+political 43:20 11:21 13:8 44:4 53:18 relation 25:23rationally 5:6 
+portions 52:2 22:4 29:2 55:2,3 56:5 relationship29:3 57:24 
+position 19:25 33:17 39:21 57:10,12 58:13 25:16reach 32:23 
+
+30:5 53:13,21 40:6,6 48:3,7 59:2,10 63:14 relatively 46:1435:21 63:3 
+precedents 48:13,19 52:14 putting 53:9 relevant 8:21reached 34:2 
+
+51:25 53:18,24 54:1 p.m 63:23 55:24read 31:12 
+precise 45:18 56:8 57:13,23 relied 50:2555:11Qprecisely 21:11 58:24 59:11 relief 17:23 23:7 reading 7:4,5quarrel 9:2024:14 60:8 31:13 32:1,1110:14 17:1
+
+11:22 19:10preempts 51:6,7 programming 46:7,10 50:14 really 29:19
+25:9preferable 23:18 28:8 50:17 52:731:25 37:9question 9:456:19 programs 12:8 63:2041:18,19
+10:25 13:14premature 29:4 31:15,21 relitigate 19:10reason 18:3,4
+15:14 19:1732:25 34:3 33:6 37:8,10 rely 38:133:3 41:1,1
+24:23 27:539:11 38:18 44:24 remainder42:24 46:4,21
+30:3 31:2,25prerogatives 48:10,15 53:7 28:1753:11 55:17
+33:11 34:4,517:15 54:4,19 55:3 remand 46:3reasonably 4:18
+43:16 45:5present 40:1 55:13,22 58:16 52:116:3 29:21
+46:2,17,20presented 12:6 59:25 60:2 remarkable48:15 55:4
+50:18 52:15,2335:1 progress 7:8 62:1956:9
+54:24 60:4President 13:15 8:25 9:10,13 remedial 52:7reasons 23:13questions 8:7presumptively 10:21 11:20,25 57:11 63:330:6 33:14
+13:2120:15 13:9 24:2,3 remediationREBUTTALquibble 44:10pretty 29:12 25:24 26:18 4:233:10 61:15quintessentialpreviously 54:4 34:1,2,2,3,5 remedy 20:12recipe 39:16
+6:13primary 50:25 39:2 47:5 20:14 21:5recognize 50:4quite 10:16,2151:2 55:17,18 48:22,24 49:12 42:19 61:23,25record 6:25 7:10 
+16:20 28:10prior 9:9 33:11 49:14,17 62:4,4,2410:22 26:3
+63:434:8 promptly 5:24 63:1934:24 35:8quoting 9:19private 47:8 proposition remove 25:2063:17 
+
+probably 60:11 45:19 render 15:17refer 9:7 
+
+72 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+rendered 18:16 61:11 3:7 49:22,23 51:3 53:14 53:3 
+renders 51:7 rest 11:10 60:12 50:2,16 51:15 school 4:12 5:3 shown 5:18 
+renewing 6:2 60:13 51:22 52:15 5:24 9:12 10:7 25:22 
+representation rests 42:12 53:11 54:8 11:10 17:19 shows 38:3 
+
+44:5 result 29:3 55:15 56:2 21:21 32:23 siding 19:20 
+REPRESENT... 43:24 50:9 57:7 58:9 34:2 37:24 sign 34:16 
+
+1:13 56:8 59:20 60:3,15 38:2 40:16 significant 
+represents 27:6 results 5:18 60:17,20 61:2 47:4 54:2 11:24 32:22,24 
+require 18:6,13 31:11 32:13 satisfactory 58:17 60:22 38:22 39:3 
+
+29:19 return 16:5 25:22 61:1,8 45:2,3,11,12 
+required 13:19 46:20 satisfy 35:4 schools 10:17 46:12,12,18,18 
+
+18:4 28:6 review 32:17 46:25 47:25 38:2,3 46:19 51:16,16 
+30:15 32:17 34:23 46:2 51:4 scoring 10:11 52:1 54:21 
+35:22 47:4 51:24 satisfying 48:1 sea 5:14 56:14 
+55:20,20 56:3 reviewing 31:4 saving 15:22 second 14:10 significantly 
+
+requirement 55:11 saying 9:18 20:4 36:16 52:23,23 8:19 23:17 
+29:9 reviews 35:12 20:12,25 21:1 Secretary 49:5 45:15,22 51:13 
+
+requirements revisit 43:15 21:18,19,22 section 46:2 simple 47:22 
+29:6 34:18 right 8:7 9:23 39:10 40:15 63:2 simply 5:6 12:20 
+
+requires 21:10 10:3,20 11:12 42:1,18 49:1 see 8:21 9:12 14:14 21:8,22 
+21:19 29:18,20 15:25 20:11 56:25 58:10 11:16 20:2 25:10 30:13 
+37:14,14 45:1 22:14 24:14 says 6:25 16:13 26:16 27:10 47:12 61:22 
+47:9 61:21 25:17,19 28:10 16:23 19:4 51:16,20 56:21 62:17,22 
+62:9 41:16 47:11,18 23:22 25:20 62:25 single 42:18 
+
+requiring 24:3 48:17,17 49:3 27:7 33:13 seek 17:10 46:16 
+reserve 28:17 49:9 54:11 37:2,15,23 seeking 17:23 site 49:16 
+resource 56:15 56:2 59:19 40:15 41:23 22:11 sitting 40:11 
+resources 39:5,9 roads 39:22 57:3 SEI 5:20 6:4 situation 62:5 
+
+43:7 ROBERTS 4:3 Scalia 7:21 8:3,9 Senate 12:12 sixth 6:25 
+respect 9:6,16 8:11 9:2,15,23 18:9,12 19:12 sense 22:3 44:7 Sixty 63:19 
+
+14:23 15:15 20:24 28:18 19:15 23:9 series 6:6 solely 32:2 
+18:14 20:2,5 33:10,21 34:4 26:19,24 28:9 serious 51:4 Solicitor 2:5 
+21:2 22:16,20 35:16 39:14,17 29:5,16,22 seriously 10:2 solve 54:18 61:4 
+36:16 37:24 43:18 44:14 30:1,18 35:10 session 58:6,7 soon 5:24 
+38:2 41:6 43:9 45:4,10,13,20 36:3,23,25 set 23:21 44:24 sorry 8:2 14:11 
+55:15 60:22 49:21 51:9,19 37:15,18 40:8 sets 30:3,23 36:6 18:11 19:6 
+
+respond 5:25 56:17 58:4 40:10,19,24 38:18 sort 34:22 39:23 
+responded 6:20 61:13 63:21 41:9,11 42:9 settle 23:4 43:19 
+Respondents Rufo 44:21 45:9 46:20 47:11,14 shifted 12:5 sought 46:8,10 
+
+2:3,7 3:6,9 45:18 46:13 47:21 48:9,12 24:16 46:14 48:22 
+11:18 13:7 51:25 48:17 49:1,4,7 shifts 38:10 50:15 
+23:24 28:21 rule 50:5 53:17 49:10 60:3,16 show 36:19 source 54:13,23 
+50:1 59:4,7 60:19,24 62:7 50:10 56:4 sources 54:15 
+
+responsibility 62:11 59:5,5 55:6 60:23 
+S14:13 18:18 Scalia's 9:4 showed 14:8 Souter 4:16,24
+
+S 3:1 4:1 21:20 61:10 24:22 27:10 showing 31:20 5:10 14:1 
+Saharsky 2:4responsible scheme 5:5 14:4 45:1 50:22 17:25 18:3,10 
+
+73 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+19:2 21:12,25 stage 50:5 59:4 19:23,24 20:5 strategic 5:17 11:15 
+22:6,14 24:21 stand 23:6 26:2,3,8,12,16 22:23 summarized 
+25:6 27:4,15 standard 30:4 26:21,22 27:2 strike 14:11 8:16 
+27:23 39:1 30:16,23 36:6 27:6,9,20,24 structurally superintendent 
+
+speak 27:24 45:5,14,21 28:1,12,16 11:24 1:4 6:19 13:24 
+Speaker 1:12 46:1,2,22,23 30:15 31:19,23 structured 23:22 34:10 
+
+12:12 13:14 51:11,12,24 32:7 33:12,16 57:21,23 58:24 superintenden... 
+speakers 37:6 standards 30:8 34:14 35:17,17 63:11,13 8:20 9:8 49:16 
+
+37:12,20 40:14 33:2 37:5,20 37:5,7,25 student 10:5 supervising 
+Speaker's 55:25 standing 19:5 39:19 40:1,2,3 11:8 14:7 59:3 61:12 
+speaking 27:9 23:23 40:11,20,23 61:9 supervision 
+
+28:3 Starr 1:25 3:3 41:1,3,8,13,15 students 7:25 36:13 
+speaks 27:13 3:11 4:6,7,9,20 42:4,25 43:8 8:23 9:10,13 supplant 14:12 
+
+28:1 5:9,11,20,22 43:10,13 44:12 10:9,11 12:9 14:24 16:3 
+special 58:24 6:8 7:13,19 8:1 44:24 46:23 17:3 20:6 59:16 
+specific 4:20 8:13 9:7,20 47:1,2,9,12 37:11 38:5,19 supplantation 
+
+15:22 17:9 10:1,24 11:13 48:24 53:15,24 56:9 61:7 14:17 
+18:7 22:12 12:3,16,25 54:11 55:2,14 studies 17:9 supplanted 53:9 
+34:7,11 35:21 13:13 14:22 56:6,18,23,24 study 11:6 17:11 supplanting 
+35:23 54:19 15:11,14 16:1 57:6,8,12,13 25:21 26:2,2 25:1 
+
+specifically 16:16 17:6,23 58:2,10,14,17 26:11,13 57:15 supplants 30:12 
+12:13 18:2,6,25 19:9 59:6,8,22,23 57:16 58:11,13 supplement 
+
+specify 58:5 19:14,17 20:8 59:24 60:5,13 58:16 14:24 59:17 
+spend 23:23 20:14,20 21:3 60:21 61:3,6,9 subject 14:7 supplemental 
+
+24:5 33:17 21:8,24 22:2 61:24 submission 6:9 16:2 
+39:20 43:22,23 22:11,21 23:5 States 1:1,22 2:6 12:17 13:1,16 supplementing 
+
+spending 31:9 23:15 24:14 3:8 46:25 20:2,16 34:9 14:14 25:1 
+spent 42:2 25:3,8,18 26:1 48:12 49:24 62:17 supplied 12:11 
+SRI 2:2 3:5 26:23 27:1,12 statewide 7:3,4 submit 48:13 supply 11:15 
+
+28:20 27:19,25 28:15 7:7,23,23,24 submitted 62:14 support 4:23 
+Srinivasan 2:2 61:14,15,17,18 9:11 17:10,21 63:22,24 supporting 2:7 
+
+3:5 28:19,20 61:24 62:10,13 20:15 22:13 submitting 3:9 50:1 
+28:22 29:16,24 start 56:25 26:5,6,10 27:8 13:15 suppose 31:4,6 
+30:2,17 31:17 started 11:3 28:8 40:16 substantial 54:3 
+32:4,16 33:20 26:10 41:19 53:14 11:14,20 26:17 supposed 19:3 
+33:23 34:21 starting 51:10 59:11 61:5,12 substantially 27:16 
+35:11,25 36:24 starts 51:24 62:24 63:7,16 8:18 Supreme 1:1,22 
+37:13,17,22 state 4:23 5:16 63:17,18 substitute 28:5 sure 7:8 16:18 
+38:17 39:15,25 6:13,20 8:18 State's 19:25 suffice 39:4 18:19 25:13 
+40:9,18,24 8:24 9:11 11:4 34:9 41:20 sufficient 54:12 44:19 60:10 
+41:10,17 42:5 11:9 14:11,13 51:3 53:13 54:24 survey 16:22 
+42:10,22 43:1 15:12 16:10,11 statute 14:5 17:8 suggest 10:23 37:25 38:4 
+44:8,19 45:8 16:23 17:1,9 21:18 35:4 13:21 44:24 sustainable 
+45:11,17,25 17:15 18:1,4,5 stay 39:18 suggestion 36:21 
+47:12,19 48:5 18:6,12,15,16 STEVENS 44:25 system 4:12 5:15 
+48:11,14,18 18:17,18,23,23 15:11 suit 26:25 28:8 40:21 
+49:3,6,9,11 19:3,5,7,15,19 strain 33:16 summarize systematic 46:9 
+
+74 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+systemic 29:1 10:17 48:21 34:12 35:18 44:8 49:15 V 
+52:8 49:9 39:10 48:12 52:17,20 59:15 v 1:7,15 4:4 
+
+text 30:7 three 26:1 38:21 two-year 14:7 vague 29:8T textual 30:7 59:15 61:14 14:17 52:21 30:16T 3:1,1 thank 8:13 three-part 21:9 valid 20:18Utake 4:25 7:1 28:18,22 29:25 throw 26:4,13 variation 20:16
+10:1,3,4,5 ultimately 15:1949:20,21 61:12 thrown 19:13 variety 12:25
+11:11 12:3 25:461:13,17 63:20 thrust 50:25 24:17
+14:14 16:19 unappealed63:21 51:2 various 26:14
+21:20 30:15,25 23:4theory 57:21 tied 32:12 60:1 vary 41:4
+31:22 47:9 underlyingthey'd 43:24 time 5:12 23:6 vast 26:20 28:11 
+54:3 24:15 52:8thing 7:9,10 28:17 31:5 versus 14:24taken 48:21 54:1 underneath20:22 25:12 36:21 40:22 16:2 26:6talk 22:16 36:1234:13 41:14 42:18 43:15 view 29:17talked 56:14 understand 7:2254:14 48:20,23 53:16 46:21talking 18:10 16:13 18:24things 11:11 53:22 55:14 vindicate 49:18
+38:14 40:11 21:13 33:1113:24 36:11 57:9,12 58:19 violation 29:1
+50:18 55:9 35:17 36:253:4 54:6 59:7,10 46:7,9 50:20 
+60:17,21 45:6 47:1459:15 times 6:3 62:21 52:8 53:2,3talks 34:7 51:25 51:15 52:2,15think 8:1,4 9:24 Title 62:16,16 55:1,1 56:20 tax 54:22 53:10 55:1610:8 11:6 today 32:22 virtue 24:16teach 7:18 56:3 60:1515:10 16:6 told 17:17 59:22 voluntarily 48:7teachers 23:23 understanding24:4 25:13 totality 13:2 voted 5:22
+23:25 24:6 51:1226:20 30:5,5 totally 17:5 voters 5:22
+59:1 understood 34:630:10,11,17,24 touting 38:1 43:21teaching 54:5 34:9 35:2232:16 33:7 tranches 26:15 
+
+tell 11:6 18:24 undertake 17:10 W35:5,16 36:15 transmogrified
+20:1 24:12 26:237:1,9,13,14 63:6 W 1:25 3:3,11 
+34:13 57:24,24 undertaken37:23 38:8,17 treated 17:20 4:7 61:15 
+59:24 26:1138:22 39:1,9 tremendous want 9:18 16:5 
+
+ten 57:18 62:21 undue 62:2040:24 41:18 6:20 23:22 27:8 
+tenth 7:3 37:4 uniform 60:1842:10,12,15 trial 13:4,5 40:6 44:1 58:1 
+
+37:19 uniformity43:5,14 44:12 57:12 wanted 19:12,16
+termination 42:14 43:11,1744:20 46:4,11 trouble 56:17 26:22 28:12,14
+
+58:6 United 1:1,2247:19 51:17,22 troubled 15:13 43:24 52:6 
+terms 16:10 2:6 3:8 49:24 52:4 53:11 true 6:8 8:10,11 59:5 
+
+19:24 20:20 unnecessary55:15 57:7 12:2 39:18 wants 44:16 
+53:13 50:1258:9,22 59:20 46:24 warned 27:2 
+
+test 9:18,21,24 unwarranted60:4,7 61:2 trusted 15:1 Washington
+10:2,7,10 21:9 38:24third 10:13 truth 18:24 1:18 2:2,5
+24:1 48:1 USD 16:1551:10 try 8:12 24:12 wasn't 17:20 
+
+testified 13:24 use 9:18 40:5 THOMAS 1:3 trying 19:9 28:6 32:14 
+testimony 11:17 45:15 51:7thought 4:16 5:2 two 14:4,9,16,20 59:17 60:1 
+
+11:17 35:12 54:16 57:145:3 14:2,16 14:21 15:13 water 26:24 
+testing 48:19,20 61:2315:22 21:13 23:13 24:24 way 19:4,8
+
+49:8 62:9 uses 46:524:11 25:14 25:4,10 30:6 23:24 28:13 
+tests 7:2 9:22 29:13 32:10 35:25 38:3 32:5,7,9 33:6 
+
+75 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+34:17 36:4,11 33:5 38:8,11 72a 34:7 45:14 $ 
+36:20 40:4 38:16 39:6 46:5$1300 11:7 
+41:24 43:2,25 51:3 52:18,20 73.5 10:15$1400 11:8 
+44:16 45:1 59:9,13 63:13 75 10:16$1500 11:7 
+49:17 52:13 22 11:16 16:12 77 7:1$200 59:3 
+56:8 57:4,4 22.4 10:10$300 59:3 859:18 23 11:16 16:12 $3300 16:25 8-day 50:21web 49:16 28 3:6$340 17:3 
+
+weight 44:4 52:11$400 11:9 3 84 7:362:21 $450 17:5 59:17 
+went 13:17 3 11:9 62:16 59:18,21,23 930 7:6 16:18 we're 19:11,11 
+
+91-page 56:14312 9:8038:14 
+32 7:2whatsoever 08-289 1:7 4:4 
+34 7:463:18 08-294 1:15 
+
+witness 11:19 4113:7 
+4 3:41 62:16 
+450 59:14 60:1 
+
+wording 45:18 
+100a 35:6 
+
+46a 8:15
+words 8:17 22:6 
+
+100-A 32:1939:19 
+49 3:9107 39:7 
+49a 45:17
+
+work 31:21 
+108a 39:8 
+
+workable 30:24 
+35:14,18 39:9 
+
+11:04 4:2 511:05 1:23working 33:15 5 63:1912 58:7works 57:14 50 46:2512:09 63:23 
+worth 22:9 
+worry 41:11 
+
+15.4 10:16,17 6 
+writing 17:1 1570 16:24 60 55:251712 63:2wrong 5:8 14:17 60(b) 5:12 12:4 
+
+15:10 16:21 12:5,10 13:1 217:5,6 21:25 13:12 27:1,420 1:19 38:14 24:10 33:21,23 28:4 32:22000 4:11 5:14 59:15 62:18 53:17,225:23 6:6 11:3 Wrongly 25:8 60(b)standard22:25 28:25 
+62:18X 31:10 53:16 60(b)(5) 6:1157:10 59:10x 1:2,9,11,17 12:18 16:6,763:14 
+23:7 50:5 59:4 Y 2006 33:4 
+59:8Yeah 60:19 2007 10:9 61 3:12year 5:19,20,21 2008 6:25 7:5 63A 55:2511:3 63:13 10:8 64(b) 12:23years 14:9 23:1 2009 1:19 66a 34:23 35:11 24:24 28:4,4 2010 58:12 67 7:549:15 59:16 2064 12:7,7,23 68 10:1213:16 15:8
+
+Z 17:4 25:10 7Zumudio 11:19 
+
+76 
+Alderson Reporting Company 
+
+

@@ -1,0 +1,6055 @@
+
+          
+
+          
+
+                       
+
+ 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+MICROSOFT CORPORATION, :
+
+ Petitioner : No. 10-290
+
+ v. : 
+
+i4i LIMITED PARTNERSHIP, ET AL. : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Monday, April 18, 2011
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:03 a.m. 
+
+APPEARANCES: 
+
+THOMAS G. HUNGAR, ESQ., Washington, D.C.; on behalf of
+
+ Petitioner. 
+
+SETH P. WAXMAN, ESQ., Washington, D.C.; on behalf of
+
+ Respondents. 
+
+MALCOLM L. STEWART, ESQ., Deputy Solicitor General,
+
+ Department of Justice, Washington, D.C.; on
+
+ behalf of the United States, as amicus curiae,
+
+ supporting Respondents. 
+
+1
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                   
+
+          
+
+                    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+
+THOMAS G. HUNGAR, ESQ.
+
+ On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+SETH P. WAXMAN, ESQ.
+
+ On behalf of the Respondents 21 
+
+ORAL ARGUMENT OF 
+
+MALCOLM L. STEWART, ESQ.
+
+ On behalf of the United States, as
+
+ amicus curiae, supporting Respondents 36 
+
+REBUTTAL ARGUMENT OF 
+
+THOMAS G. HUNGAR, ESQ.
+
+ On behalf of the Petitioner 45 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (11:03 a.m.)
+
+ JUSTICE SCALIA: We'll hear argument now in 
+
+Case No. 10-290, Microsoft Corporation v. i4i Limited 
+
+Partnership.
+
+ Mr. Hungar, you may proceed.
+
+ ORAL ARGUMENT OF THOMAS G. HUNGAR
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. HUNGAR: Thank you, Justice Scalia, and 
+
+may it please the Court:
+
+ The Federal Circuit's clear and convincing 
+
+evidence standard ensures the enforcement of invalid 
+
+patents, even though this Court recognized in KSR that 
+
+invalid patents stifle rather than promote the progress 
+
+of liberal arts. Under this Court's decisions Grogan 
+
+and Huddleston, the default preponderance standard 
+
+should govern in all cases because section 282 does not 
+
+specify a heightened standard of proof.
+
+ And as this Court suggested in KSR, it makes 
+
+no sense to have a heightened standard of proof when the 
+
+relevant prior art evidence was never even considered by 
+
+PTO. Under any view, it was error to require clear and 
+
+convincing proof of invalidity in this case.
+
+ JUSTICE GINSBURG: It would be hard to 
+
+argue, Mr. Hungar, that it makes no sense, but it made 
+
+3
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+sense to Cardozo and Judge Rich.
+
+ MR. HUNGAR: Your Honor, Justice Cardozo was 
+
+not addressing a case in which the evidence at issue had 
+
+not been considered by the Patent Office. To the 
+
+contrary, the Court made clear -­
+
+JUSTICE SCALIA: Well, you can't keep 
+
+shifting horses, now. Are you going to argue for all 
+
+the time, in which case, you can appeal to the general 
+
+rule that we always apply, or are you going to say, oh, 
+
+yes, we won't apply it normally but only when the prior 
+
+art hadn't been considered? I mean, you -- you can't 
+
+ride both horses. They're going in different 
+
+directions.
+
+ MR. HUNGAR: Your Honor, our position and 
+
+our view of the correct interpretation of the statute is 
+
+that Grogan and Huddleston approach. The statute does 
+
+not specify a heightened standard; therefore, 
+
+preponderance, the default standard; applies.
+
+ I was attempting to answer Justice 
+
+Ginsburg's question about the RCA case. And the RCA 
+
+case didn't address the question that was discussed in 
+
+KSR, but we believe, as I said, that the -- that the 
+
+preponderance standard should govern across the board.
+
+ JUSTICE SCALIA: So, you're contradicting 
+
+Cardozo? 
+
+4 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. HUNGAR: To the extent that -- that 
+
+Justice Cardozo was discussing a heightened standard in 
+
+the limited context of priority inventions, we think 
+
+that that's not consistent with section 282, which, of 
+
+course, came later. Moreover, I would note that the 
+
+concerns that undergirded the Court's heightened 
+
+standard in priority of invention cases, where -- those 
+
+concerns were addressed to the -- the problem of 
+
+primarily oral testimony being offered to substantiate 
+
+priority of invention claims.
+
+ The Federal Circuit has separately addressed 
+
+that issue by means of its corroboration requirement, 
+
+which operates separate and independent of the clear and 
+
+convincing evidence standard, so the concerns that 
+
+undergirded RCA are -- are completely taken care of by 
+
+that as well.
+
+ JUSTICE KAGAN: But Justice Cardozo 
+
+certainly didn't limit his holding in the way you 
+
+suggest. The language of that opinion is extremely 
+
+broad. And if you read that opinion, no one would 
+
+gather from that opinion the kinds of limits that you're 
+
+suggesting on it.
+
+ MR. HUNGAR: Actually, Your Honor, I agree 
+
+that there is some grand language used in dictum in that 
+
+case. Certainly, the holding doesn't extend beyond 
+
+5
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the -- what was presented before the Court. But, 
+
+actually, if you read the language carefully, you'll see 
+
+again and again he refers to the fact that it's a 
+
+question of -- of prior invention. He says when the 
+
+defense is a prior invention, and then he quotes the 
+
+heightened standard on page 7. Again, on page 8, he 
+
+talks about the defense of invention by another.
+
+ So he -- and every single one of the cases 
+
+that he cites there, without exception in that 
+
+discussion on pages 7 to 8, is a priority of invention 
+
+case, The Barbed Wire Patent case being the leading 
+
+example which had explained this rationale for a 
+
+heightened concern in that specific context. But you 
+
+don't have cases applying -- Supreme Court cases 
+
+applying the heightened standard in other contexts. 
+
+And, indeed, you have many cases decided after RCA that 
+
+don't mention any heightened standard in viewing 
+
+invalidity questions.
+
+ JUSTICE GINSBURG: But just taking RCA 
+
+itself, Cardozo said through all the verbal variances 
+
+there runs this common core of thought and truth, that 
+
+one otherwise an infringer who assails the validity of a 
+
+patent bears -- upon its face, bears a heavy burden of 
+
+persuasion and fails unless his evidence has more than a 
+
+dubious preponderance. 
+
+6 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. HUNGAR: Yes, Your Honor. And read -­
+
+taken out of context, that could have broad 
+
+implications, but the sentences before and after clearly 
+
+make -- indicate that he's talking about priority of 
+
+invention. He talks about the title of the true 
+
+inventor and so forth. So -- so, again, that's what 
+
+those cases said, and that's what a fair reading of RCA 
+
+says.
+
+ But, regardless of the best reading of RCA, 
+
+we -- the -- the question here is what did Congress do 
+
+in 1952? And we know that Congress in 1952 could not 
+
+possibly have understood the law to be an 
+
+across-the-board clear and convincing evidence standard.
+
+ JUSTICE GINSBURG: Then you -- then you have 
+
+to be saying that Judge Rich got it wrong because he 
+
+does deal with the -­
+
+MR. HUNGAR: Well, certainly -- yes, Your 
+
+Honor, certainly we think American Hoist is wrong, 
+
+although I would note that Judge Rich, in American Hoist 
+
+decision, says that the cases prior to 1952 were all 
+
+over the map.
+
+ But -- but the relevant question is what 
+
+would Congress have thought the state of the law was in 
+
+1952. If you think that there's any merit at all to the 
+
+judicial codification argument, it's perfectly clear 
+
+7
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that Congress could not have thought in 1952 that the 
+
+law was an across-the-board heightened standard, because 
+
+case after case after case rejected the proposition that 
+
+there is a heightened standard or that the presumption 
+
+was unaffected when the evidence was not considered by 
+
+the Patent Office.
+
+ The -- we've cited numerous cases in our 
+
+brief at pages 34 through 36. The -- and we also in the 
+
+reply brief at footnote 3 reference a list of over 200 
+
+cases, some from before 1952 and some from after 1952, 
+
+all recognizing that the presumption of validity was 
+
+weakened or eliminated when the prior art evidence was 
+
+not considered by the Patent Office. So, you just -­
+
+JUSTICE KAGAN: Well, Mr. Hungar, it seems 
+
+to me that RCA would matter, even under your view of the 
+
+world, because if you think that Congress did not codify 
+
+the existing state of the law as to the standard of 
+
+proof and you think that Congress -- that -- that 
+
+section 282 was essentially silent as to the standard of 
+
+proof, then the question is, what do we do? And one 
+
+answer to that question is we go with our prior 
+
+precedent, which is RCA.
+
+ MR. HUNGAR: Well, first of all, again, 
+
+because RCA in context was a case where there was a 
+
+priority of invention dispute that had been adjudicated 
+
+8 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+in the Patent Office on the same evidence previously 
+
+resolved by the Court, a priority of defense dispute, 
+
+where the heightened standard cases had some 
+
+application, it clearly wouldn't affect the standards in 
+
+this case. But, more fundamentally, that's not what 
+
+Congress thought in 1952, and when you don't have a 
+
+clear rule to be codified, the default rules of 
+
+statutory construction apply. The default rule of 
+
+statutory construction in a -- on this question, in 
+
+Grogan and Huddleston, the preponderance standard 
+
+applies.
+
+ And, moreover, while the statute does not 
+
+specify a heightened standard, it does actually speak to 
+
+and -- and preclude the argument that i4i makes, because 
+
+the first sentence refers to patents being presumed 
+
+valid under this Court's precedent, a presumption shifts 
+
+the burden of going forward, and the second sentence of 
+
+the original statute refers to the burden of proof. 
+
+Under their interpretation, presumption does all the 
+
+work. The first sentence not only shifts the burden of 
+
+going forward, also shifts the burden of proof, and does 
+
+so under a heightened standard, which has never been how 
+
+presumption is interpreted generally in the law, and it 
+
+renders the second sentence entirely superfluous. 
+
+There's no need for it. 
+
+9 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE GINSBURG: It's -- it -- it is true 
+
+that the Federal Circuit has been consistent now since 
+
+almost the beginning, since that court came on the 
+
+scene, and it does have a monopoly on appeal in patent 
+
+cases since 1984. Because the -- the Federal Circuit 
+
+has consistently taken this position, one would have 
+
+expected that there would have been bills proposed to 
+
+change it. Were there any?
+
+ MR. HUNGAR: No, Your Honor, not that I'm 
+
+aware of. But I would note that this is, I think, i4i's 
+
+congressional acquiescence argument, if you will, and 
+
+that argument fails for numerous reasons.
+
+ First of all, if there could be any 
+
+acquiescence, and we don't think that the -- this 
+
+Court's extremely high requirements for such a claim 
+
+have been satisfied here, but if there could be any 
+
+acquiescence at all, the first 30 years after enactment 
+
+of the statute would be the most relevant consideration 
+
+in determining what Congress had acquiesced in, and it's 
+
+perfectly clear that the regional circuits all rejected 
+
+the across-the-board heightened standard that i4i is 
+
+arguing for.
+
+ So if Congress acquiesced in anything, it 
+
+was not an across-the-board heightened standard.
+
+ JUSTICE SOTOMAYOR: Counsel, I -- I -­
+
+10
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+having read some of those cases that you've cited that 
+
+you claim weakened or eliminated the burden of proof 
+
+standard, most of them didn't quite eliminate it. 
+
+Virtually all of them added an instruction to the jury 
+
+of some sort that said that the application of the 
+
+standard should take into account the fact that the PTO 
+
+did not consider evidence -- did not consider the prior 
+
+art relied upon in the invalidity challenge.
+
+ You didn't ask for such an instruction in 
+
+this case; is that correct? And if you didn't, why 
+
+isn't that adequate to convey the point that you're 
+
+trying to convey, that a jury should, in fact, consider 
+
+that the PTO never got to see that prior art?
+
+ MR. HUNGAR: Your Honor, if I understand 
+
+the -- the question correctly, first of all, I would 
+
+disagree with the characterization of the cases, but 
+
+with respect to the preservation issue, we objected to 
+
+the clear and convincing evidence instruction, and we 
+
+also said that if -- if any instruction on the 
+
+heightened standard is going to be given, it needs to 
+
+reflect that -- the fact that, at least with respect to 
+
+prior art combinations that were not considered by the 
+
+Patent Office, the standard should be a preponderance. 
+
+And, indeed, that's true of all of the prior art 
+
+combinations that were at issue in the case. 
+
+11
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOTOMAYOR: But other judges give a 
+
+slightly different standard. They give a clear and 
+
+convincing standard, and they add a separate instruction 
+
+that tells the jury, in applying that standard, you 
+
+should consider the fact that the PTO did not see this 
+
+evidence. You didn't ask for that?
+
+ MR. HUNGAR: We didn't ask -­
+
+JUSTICE SOTOMAYOR: You just asked for the 
+
+preponderance of the evidence charge?
+
+ MR. HUNGAR: But, Your Honor, we did object 
+
+to the clear and convincing evidence instruction, and so 
+
+if -- we don't think that's the right answer, the more 
+
+easily satisfied instruction, if that's what Your Honor 
+
+is referring to. But if that were the court's 
+
+conclusion, that that is in fact what the law requires, 
+
+then our objection to the clear and -- the unmodified 
+
+clear and convincing evidence instruction would justify 
+
+a new trial here. But more fundamentally, even the 
+
+Federal Circuit -­
+
+JUSTICE SOTOMAYOR: Why?
+
+ MR. HUNGAR: Because that in effect -­
+
+JUSTICE SOTOMAYOR: I mean, you said to the 
+
+judge below: All you have to charge is preponderance of 
+
+the evidence. You never told him: Please explain to 
+
+the jury that under clear and convincing they can take 
+
+12
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+into account -­
+
+MR. HUNGAR: Your Honor, that construction 
+
+would not solve the fundamental problem, which is that 
+
+when the Patent Office didn't even consider the 
+
+evidence, it makes absolutely no sense, as the KRSR 
+
+court indicated, to have this heightened deference. The 
+
+statute requires a degree of deference by shifting the 
+
+burden of proof and the burden of going forward, but for 
+
+i4i to say that we need to go beyond what the 
+
+presumption is, the normal default standard of 
+
+preponderance, you need some heightened reason for that. 
+
+There's absolutely none, particularly when the Patent 
+
+Office didn't consider the evidence, didn't make a 
+
+decision, there was no decision and no evidence 
+
+considered going to the relevant question. That's 
+
+not -­
+
+JUSTICE BREYER: I have one question here I 
+
+would like to get your view on. I'll assume that the 
+
+language is open enough in the history so that we could 
+
+make what would be a change, I think it would be a 
+
+change. The reasons as I get from the brief for doing 
+
+that are because there are two types of errors: It's a 
+
+bad thing not to give protection to an invention that 
+
+deserves it; and it is just as bad a thing to give 
+
+protection to an invention that doesn't deserve it. 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Both can seriously harm the economy.
+
+ And you are also saying that the Patent 
+
+Office is out of control, not through its own fault, but 
+
+there are too few people and too many inventions. And 
+
+therefore type two error is a real risk.
+
+ So I'm turning you to and say: Well, what 
+
+should we do about it? I know your proposal. But we 
+
+have also seen in these briefs the following proposal: 
+
+One, somebody who thinks there is a type two error, go 
+
+back to the Patent Office and ask for reconsideration. 
+
+That's pretty good. We get the experts to look at it 
+
+again.
+
+ And then that's coupled with: Tell the 
+
+district judges to stick very closely to their job, 
+
+allow the clear and convincing standard to apply to 
+
+facts, and by that we mean brute facts, and let them 
+
+decide the brute facts, but let the judge decide whether 
+
+that amounts to obviousness, novelty, or any of the 
+
+other prerequisites.
+
+ Now, I've gotten that out of the amicus 
+
+briefs, some of which say they support you but they 
+
+really don't. So I would like -- I would like your 
+
+views on those two suggestions as being sufficient to 
+
+cure the problem that you point to.
+
+ MR. HUNGAR: Yes, Your Honor. First of all, 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+with respect to re-exam, re-exam is not a solution to 
+
+the problem or an answer to the absence of justification 
+
+for a heightened standard, for several reasons. First 
+
+of all, re-exam is limited in scope. It can only 
+
+consider certain types of prior art evidence and issues. 
+
+It couldn't, for example -- it was not available for the 
+
+issue that we're talking about here, the on-sale bar. 
+
+There are various issues, the section 112 issues, such 
+
+as written description and best mode and the like, are 
+
+not susceptible of re-examination. Statutory subject 
+
+matter is not susceptible of re-examination. Many kinds 
+
+of prior art, anything other than actual patents or 
+
+publications, cannot be referenced in the examination.
+
+ So it is a limited mode of inquiry that does 
+
+not address many types of prior art that come up in many 
+
+types of important cases, technology cases in 
+
+particular. So that's one reason why the re-exam 
+
+solution is not a problem, and of course it can't 
+
+possibly be used to infer some intent on the part of 
+
+Congress.
+
+ I4i and the government try to suggest that 
+
+this was part of the scheme of Congress and this is why 
+
+clear and convincing makes sense. But re-exam was 
+
+enacted in 1980, long after the '52 act, so it doesn't 
+
+shed light on Congress's intent in enacting section 282. 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+And it was enacted before the Federal Circuit had 
+
+created its heightened standard, so it can't possibly 
+
+have been an attempt to address the problems created by 
+
+an across-the-board heightened standard that did not 
+
+exist at the time. In 1980 the law was clear that a 
+
+preponderance standard governed in most or all cases and 
+
+a preponderance standard, of course, governs in re-exam 
+
+as well. So re-exam is not a solution. The more easily 
+
+satisfied instruction or that type of approach. If 
+
+that's what I understand -­
+
+JUSTICE BREYER: I'm getting that out of the 
+
+American Intellectual Property Law Association. I don't 
+
+blame them for my phrasing of it, but that is what 
+
+struck the thought in my mind that careful instructions 
+
+limiting the juries to brute facts and giving the judge 
+
+the notion, the job of characterizing that -- you heard 
+
+what I said -- that that will go a long way towards 
+
+curing the problem you're worried about.
+
+ MR. HUNGAR: Your Honor, I don't think it 
+
+addresses the problem because the fundamental problem is 
+
+imposing this heightened standard on the jury that has 
+
+no moorings in the statute and no moorings in common 
+
+sense, particularly in a case like this one where the 
+
+relevant evidence was not only not considered by the 
+
+Patent Office but withheld from the Patent Office. 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Under those circumstances -­
+
+JUSTICE BREYER: It might not in your 
+
+situation. But the problem is in principle as it's put 
+
+to us that the office and the Federal Circuit emerge 
+
+giving protection to things that aren't really novel, 
+
+that aren't really advances on the prior art, et cetera. 
+
+Now, if that's the problem, and you carefully instruct 
+
+the jury, the bad fake patents will go away because the 
+
+judge will say: Look, this metal case called a battery 
+
+leakproof is not really novel.
+
+ MR. HUNGAR: But, Your Honor, if that were 
+
+-- the judge can't give an instruction like that.
+
+ JUSTICE BREYER: No, no. The judge says: 
+
+want you to find if this metal container is leak proof. 
+
+Jury: Yes. Now it's up to the judge.
+
+ MR. HUNGAR: Your Honor, I think in many of 
+
+these cases it would be extremely difficult or 
+
+impossible for judge to fashion at that level of 
+
+specificity the factual issues to be considered by the 
+
+jury. But more fundamentally, if you're getting into 
+
+that level of detail and addressing questions that the 
+
+Patent Office didn't even consider or certainly did not 
+
+have an opportunity to consider with the full array of 
+
+procedural advantages that litigation and discovery 
+
+offer, it just makes no sense to impose a heightened 
+
+17 
+Alderson Reporting Company 
+
+I 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+standard. As one of Your Honor's earlier questions 
+
+pointed out, the fundamental problem here is that the 
+
+interests on the i4i side of the equation, the policy 
+
+interests, are outweighed if anything by this Court's 
+
+repeated recognition that invalid patents stifle 
+
+innovation and competition and are very harmful.
+
+ JUSTICE GINSBURG: Mr. Hungar, could we go 
+
+back to the statute that was enacted in 1952. Before 
+
+that the burden of proof on the issue of validity of the 
+
+patent or the effect of the patent, that was on the 
+
+challenger. So when Congress added a presumption of 
+
+validity, it must have had in mind something more than 
+
+the defendant would have the burden of proof and the 
+
+normal standard is preponderance. So by adding a 
+
+presumption of validity, must Congress have intended to 
+
+do something more than simply repeat that the defendant 
+
+has the burden of proof?
+
+ MR. HUNGAR: No, Your Honor. The law 
+
+actually before 1952 was quite unsettled on that 
+
+question, as we noted in our brief and as Judge Rich, I 
+
+believe, noted in the American Hoist case, there were 
+
+actually cases prior to 1952 saying that the burden was 
+
+on the patent HOLDER to establish a validity. So what 
+
+Congress -­
+
+JUSTICE KENNEDY: Burden of going forward or 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+burden of persuasion?
+
+ MR. HUNGAR: I believe -- you know, the 
+
+cases aren't crystal-clear on that. I think certainly 
+
+they were talking about the burden of persuasion and 
+
+presumably also the burden of going forward. But I 
+
+don't think -- I don't recall that they speak to that 
+
+level of specificity.
+
+ But certainly there are cases saying the 
+
+burden is on the patent holder. Congress overturned 
+
+those cases by imposing -- by stating in the second 
+
+sentence that the burden of proof would be on the 
+
+defendant. But it only makes sense, as I indicated 
+
+earlier, for Congress to have added that sentence if it 
+
+didn't view the presumption sentence as shifting the 
+
+burden of proof to the defendant, let alone shifting it 
+
+under a heightened standard, so -­
+
+JUSTICE ALITO: If the challenger has the 
+
+burden of persuasion, wouldn't it almost go without 
+
+saying that the challenger would also have the burden of 
+
+production on the issue of invalidity? So what would be 
+
+added then by -- what role is played then by that 
+
+sentence, a patent shall be presumed valid?
+
+ MR. HUNGAR: I think that's unclear, Your 
+
+Honor. Certainly there are circumstances in which the 
+
+party with the ultimate burden of proof does not bear -­
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+does not have the burden of persuasion at every stage. 
+
+And Congress -- there were also cases prior to 1952 
+
+suggesting that the presumption had gone away, that 
+
+there was no longer a presumption of validity or that 
+
+the presumption went the other way.
+
+ And so again, Congress wanted to be clear; 
+
+it was saying there is a presumption which shifts the 
+
+burden of going forward under this Court's precedence, 
+
+and there is a burden of proof on the defendant, and 
+
+that's all it did. To infer that it did something much 
+
+more, much more than the pre-1952 cases authorized -­
+
+there are literally dozens of pre-1952 cases cited in 
+
+that list of 200 cases referenced at footnote 3 of our 
+
+brief, from prior to 1952, rejecting the notion that 
+
+there's an across-the-board heightened presumption of 
+
+validity; saying, no, if the evidence was not considered 
+
+by the Patent Office or in some -- the Western Auto 
+
+case, for example, from the Sixth Circuit says well, 
+
+there's this -- the exception for oral testimony of 
+
+prior invention, that's the RCA case; but everything 
+
+else is preponderance. So there's no -- there's no 
+
+heightened presumption of validity in any other 
+
+circumstances.
+
+ So I think the law was clear, and the 
+
+treatises we cite at page 9 of our reply brief also make 
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+clear the treatise writers understood, there was no 
+
+across-the-board heightened presumption that it was 
+
+weakened or eliminated when the evidence was not before 
+
+the Patent Office. And some of the cases said -­
+
+actually RCA itself cites with approval two court of 
+
+appeals cases that we note in our reply brief, the 
+
+Studie case and the Wilson case, which rejected the 
+
+notion of a heightened standard across the board. They 
+
+said well, that's true when the issue was adjudicated 
+
+before the Patent Office, but here where the Patent 
+
+Office did not adjudicate the issue that doesn't apply. 
+
+So again you just can't get out of the pre-1952 case law 
+
+-- the rule that i4i is urging.
+
+ If the Court has no further questions, I 
+
+would like to reserve my time.
+
+ ORAL ARGUMENT OF SETH P. WAXMAN
+
+ ON BEHALF OF THE RESPONDENTS
+
+ MR. WAXMAN: Justice Scalia, and may it 
+
+please the Court.
+
+ JUSTICE SCALIA: Mr. Waxman.
+
+ MR. WAXMAN: The long-settled, clear and 
+
+convincing evidence standard is correct, one, as a 
+
+matter of statutory interpretation, two, as a matter of 
+
+stare decisis in a field in which stability is 
+
+particularly important, and, three, as a matter of first 
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+principles.
+
+ As to one, in 1952 Congress codified a long, 
+
+uniform line of decisions from this Court holding that 
+
+the presumption of validity imposes a heightened burden 
+
+of proof, a burden of proof that this Court in RCA 
+
+unanimously described as, quote, "clear and cogent 
+
+evidence." And for the past 28 years Congress has 
+
+actively acquiesced in the Federal Circuit's consistent 
+
+holding expressly drawn from RCA that the standard is 
+
+"clear and convincing."
+
+ JUSTICE GINSBURG: How actively do we 
+
+acquiesce?
+
+ JUSTICE SCALIA: Yes, I would like that 
+
+notion of active acquiescence.
+
+ MR. WAXMAN: I thought that might get a rise 
+
+out of you.
+
+ (Laughter.)
+
+ MR. WAXMAN: I hope I'll get a chance to go 
+
+to first principles, but having made that provocative 
+
+statement, the point is -­
+
+JUSTICE SCALIA: It's like passive activity, 
+
+right?
+
+ MR. WAXMAN: I may want to submit a 
+
+supplemental brief on that point.
+
+ (Laughter.) 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. WAXMAN: What I mean to say is that this 
+
+is not a statute that Congress enacted and then forgot 
+
+about. This is a statute in which beginning in 1980, 
+
+even before the Federal Circuit was created, Congress 
+
+started amending the law to address the problem of 
+
+low-quality patents, with the first re-examination 
+
+procedure in 1980, any number of amendments, including 
+
+to section 282, the creation of interparties 
+
+re-examination in 1999, and the current consideration of 
+
+a post-grant review process.
+
+ So Congress has been very, very active in 
+
+this field, and what I mean by active acquiescence is it 
+
+has been very active in this field, it is well aware of 
+
+the clear and convincing evidence standard, and it has 
+
+done nothing whatsoever to change it, even make any 
+
+effort to consider making such a sweeping change in 
+
+long-standing doctrine.
+
+ JUSTICE KAGAN: Mr. Waxman -­
+
+JUSTICE ALITO: If I could take you back to 
+
+first principles, which is where you started, I have 
+
+three problems in seeing your interpretation in the 
+
+language of section 282.
+
+ First, the statute says the burden of 
+
+establishing invalidity of a patent, et cetera, et 
+
+cetera, shall rest on the parties asserting such 
+
+23
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+invalidity. If Congress wanted to impose a clear and 
+
+convincing burden, why in the world would they not have 
+
+said that expressly in that sentence?
+
+ Number two, if the first sentence, "a patent 
+
+shall be presumed valid," means that -- is talking about 
+
+the burden, then it's superfluous, because that's dealt 
+
+with in the second sentence.
+
+ And, third, the phrase "shall be presumed 
+
+valid" doesn't seem to me at all to suggest clear and 
+
+convincing evidence. A presumption normally doesn't 
+
+have anything to do with clear and convincing evidence. 
+
+Most presumptions can be disproved by much less than 
+
+clear and convincing evidence. So how do you read that 
+
+in -- your -- your position into the language of the 
+
+statute?
+
+ MR. WAXMAN: Well, as to presumptions 
+
+generally, I found particularly persuasive your opinion 
+
+for the Third Circuit in GI Holding. But more -­
+
+JUSTICE ALITO: I've gotten a lot smarter 
+
+since then.
+
+ (Laughter.)
+
+ MR. WAXMAN: More directly to the point, and 
+
+with all due deference to the sensibilities of the 
+
+presiding Justice for this argument, when Congress 
+
+enacted section 282 in 1952, the revisers note the House 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Committee report, the Senate committee report said that 
+
+they were, quote, "codifying the existing presumption of 
+
+patent validity," and this Court had unanimously said -­
+
+and this is language from RCA that Microsoft does not 
+
+address -- on page 2 of its opinion says, quote, "even 
+
+for the purpose of a controversy of -- with strangers 
+
+there is a presumption of validity, a presumption not to 
+
+be overthrown except by clear and cogent evidence.
+
+ Now, to be sure, that was dicta in the sense 
+
+that the case in itself involves a priority issue. But 
+
+it was the holding of the Court 3 years later in Smith 
+
+v. Hall; it was repeated on the very same day in Mumm, 
+
+and it was -- the Court spent an entire page, I think 
+
+page 7, the better part of page 7 and 8 of its opinion, 
+
+explaining that -- enunciating a general principle of 
+
+the law, and it would be a cruel joke on Congress to 
+
+have said, we are, when it said we are codifying the 
+
+existing presumption, that that presumption was not 
+
+exactly what the Supreme -- the Supreme Court 
+
+unanimously had said, which is a presumption not to be 
+
+overthrown by clear and convincing evidence.
+
+ Now, that's -- it's not that the first 
+
+sentence uses the word presumption. It uses the word 
+
+essentially presumption of patent validity, which is a 
+
+feature, a uniform feature of the Supreme Court's 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+jurisprudence since the Court first started addressing 
+
+this issue in 1873, and indeed when Justice Story first 
+
+decided the Washburn v. Gould case, there is -- their 
+
+argument is the standard is a preponderance.
+
+ There is not one opinion, there is not one 
+
+sentence, there is not one phrase in any of this Court's 
+
+line of decisions that supports that proposition -- and 
+
+when Judge Rich said in 19 -- shortly after 1952 that 
+
+there was some disarray in the courts' opinions, he 
+
+was -- and you can look at his opinion in context. He 
+
+was talking about lower court decisions that had either 
+
+ignored or misinterpreted this Court's very clear 
+
+holdings -- holdings which, by the way, refute not only 
+
+their argument for a universal standard, preponderance 
+
+standard, but directly refute their argument that there 
+
+somehow is some other standard of proof that applies 
+
+with respect to evidence that assertedly was not before 
+
+the Patent Office.
+
+ That was true of most of this Court's cases 
+
+decided before RCA, and for that matter after RCA.
+
+ JUSTICE GINSBURG: Would you agree, looking 
+
+to Judge Rich's opinions, that it would have been in 
+
+order for the judge to instruct, if the judge had been 
+
+asked to do so, that the evidence would carry more 
+
+weight if it hadn't been presented, defendant's evidence 
+
+26 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+would carry more weight if it hadn't been presented to 
+
+the Patent Office?
+
+ MR. WAXMAN: Yes, and the Federal Circuit 
+
+has said that over and over and over again. I mean, I'm 
+
+going to quibble with the word "would" because I think 
+
+the actual language of the instruction can't invade the 
+
+province of the jury. But you could -- certainly could 
+
+say that the defendant contends that the patent is 
+
+invalid because the law presumes that a patent issued by 
+
+the PTO is valid, the defendant bears the burden of 
+
+proving invalidity by clear and convincing evidence, and 
+
+in deciding whether the defendant has met that burden, 
+
+you may find it more easily met with evidence that you 
+
+conclude the Patent Office did not consider in 
+
+evaluating patentability.
+
+ That is the long-standing established rule 
+
+of the Federal Circuit. It was stated, as was 
+
+recognized in American Hoist, in 1984, and the 
+
+explanation for it, Judge Rich's explanation is exactly 
+
+the same in cite that this Court's statement's in KSR 
+
+is, which is that there -- there are -- there are 
+
+reasons independent of deference to a particular PTO 
+
+decision that warrant a clear and convincing evidence 
+
+standard, and -- and this is key -- there is no case 
+
+from this Court, to my knowledge, in Anglo-American 
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+jurisprudence, that creates or sanctions a regime in 
+
+which there are different standards of proof with 
+
+respect to a particular issue that a jury has to decide.
+
+ The question -- when there is -­
+
+JUSTICE KENNEDY: Well, there are case -­
+
+there are cases in which the presumption disappears?
+
+ MR. WAXMAN: Well, there -- are you 
+
+referring to cases of this Court?
+
+ JUSTICE KENNEDY: Yes. Well, I mean, 
+
+there -- there -- there are instances in which a 
+
+presumption disappears and then the -- the parties begin 
+
+again with burden of persuasion, et cetera.
+
+ MR. WAXMAN: Well, okay. I'm -- I'm talking 
+
+here about -- the argument here is about the standard of 
+
+proof, that is, a jury has to be instructed is it beyond 
+
+a reasonable doubt, is it preponderance, is it clear and 
+
+convincing? I'm not aware of any instance in 
+
+Anglo-American jurisprudence, and certainly Microsoft 
+
+and its amici have not cited one in which the jury is 
+
+told that depending on the weight you ascribe to the 
+
+evidence you heard, you should apply a different 
+
+standard of proof.
+
+ The issue goes to the weight of the 
+
+evidence. I mean, imagine a case in -- a regime in 
+
+which you said, well, you've heard eyewitness testimony. 
+
+28 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+If you, ladies and gentlemen of the jury, find that the 
+
+eyewitness really had an unimpeded view, the standard is 
+
+preponderance, but if you think that the view was 
+
+impeded or obscured, the standard is clear and 
+
+convincing evidence.
+
+ The -- the assertion that there was evidence 
+
+that the jury -- that the PTO didn't hear, and as the 
+
+briefs point out it is far from black and white what the 
+
+PTO does or doesn't consider. And in addition the -­
+
+it's far from clear whether the unconsidered evidence 
+
+is, quote, more pertinent than evidence that was 
+
+considered. Even assuming that, the jury is told, for 
+
+reasons of first principles, that I will articulate in a 
+
+moment if left to my own devices, that the burden of 
+
+proof is clear and convincing evidence, but you may find 
+
+that burden more easily met if you find that there was, 
+
+in fact, evidence relating to validity that was not, in 
+
+fact, considered by the PTO when it issued this property 
+
+right.
+
+ Now, the first -­
+
+JUSTICE SOTOMAYOR: Isn't there a lower 
+
+court that has ruled that that standard, in the manner 
+
+that you've articulated, could confuse a jury as to what 
+
+clear and convincing evidence means?
+
+ MR. WAXMAN: The -­
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOTOMAYOR: In fact, it's not clear 
+
+and convincing evidence if you phrase it that way, that 
+
+it's something less than that.
+
+ MR. WAXMAN: Well, I mean, a lot -­
+
+JUSTICE SOTOMAYOR: And so, the amici here 
+
+have suggested alternatives to that language that you're 
+
+endorsing -­
+
+MR. WAXMAN: There -- there are -- there are 
+
+any number of formulations that trial courts have given. 
+
+I think the one that would be clearest would be one that 
+
+says in deciding whether the defendant has met his 
+
+burden, you may give added weight to evidence that you 
+
+find the PTO didn't consider in deciding validity.
+
+ The case I think you're referring to was 
+
+Microsoft's earlier case involving z4, where unlike this 
+
+case, Microsoft did ask for an instruction but it was 
+
+rejected by the court -- it was -- it was rejected by 
+
+the court and found not to be an abuse of discretion. 
+
+The key point with respect to that instruction goes to 
+
+the articulation that was suggested earlier, because in 
+
+that case the instruction said you -- you make -- I 
+
+instruct -- I don't have it in front of me, but it was 
+
+essentially a mandatory instruction to give greater 
+
+weight or that the burden would be more easily met.
+
+ JUSTICE SCALIA: Of course the instruction 
+
+30
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that you've proposed to the jury, like your adversary's 
+
+proposition, would require determining what it was that 
+
+the Patent Office considered. So you -- you haven't 
+
+avoided the -- the -- the problem of litigating an -- an 
+
+issue that -- that would better be avoided.
+
+ MR. WAXMAN: Well -­
+
+JUSTICE SCALIA: You have to do it for your 
+
+instruction just as -- as he will have to do it for his.
+
+ MR. WAXMAN: There is a -- there is a great 
+
+difference, Justice Scalia, between telling individual 
+
+jurors what amount of weight they may or may not give to 
+
+certain evidence in creating a dual standard of proof 
+
+which would, for reasons that -- that Microsoft's own 
+
+amici point out, requires -- would require the jury 
+
+first to determine whether this evidence was or wasn't 
+
+considered and was or wasn't more pertinent -­
+
+JUSTICE SCALIA: Yes, but your -- but your 
+
+instruction requires that, too. You're inviting the 
+
+parties to litigate that issue so that the jury can be 
+
+instructed. If you -- if you find that it wasn't 
+
+considered, you can give it -­
+
+MR. WAXMAN: Justice Scalia, as -- as I 
+
+think all the parties agree, and we reflect the -- we 
+
+reflect the -- the research, I believe, on footnote 12 
+
+of our brief, the -- this point is argued in many, many, 
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+many cases. That is -- and it was true in this case. 
+
+Evidence is put on that the jury -- that the PTO didn't 
+
+consider this particular prior art, although, you know, 
+
+in this case the file wrapper shows that there were five 
+
+prior art rejections based on other art before the 
+
+patent was allowed, and counsel argue it to and fro to 
+
+the jury, as the Allison and Lemley article points out, 
+
+the statistics bear out the common sense, which is that 
+
+juries are, in fact, very influenced by the fact that 
+
+there was art going to or questioning validity that was 
+
+not considered by the PTO.
+
+ In other words, the instruction, whether the 
+
+instruction is necessary or not, juries get it, and 
+
+juries apply it. What they're not required to do is 
+
+apply two different standards of proof following all 
+
+sorts of predicate determinations that they would have 
+
+to make.
+
+ May I simply list the first -- the first -­
+
+JUSTICE GINSBURG: But -- but why -- why -­
+
+why not, Mr. Waxman? If the whole reason for this extra 
+
+deference, for this clear and convincing standard is a 
+
+Patent Office is expert and so we defer juries similarly 
+
+to defer to their judgment, but if they haven't judged 
+
+anything, what is the justification for continuing to 
+
+have the clear and convincing standard? 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. WAXMAN: There -- here are four 
+
+independent principles that justify the clear and 
+
+convincing evidence standard across the board regardless 
+
+of what the jury considered.
+
+ Number one, an infringer's validity 
+
+challenge is a collateral attack on a government 
+
+decision that has already been made, quite unlike Grogan 
+
+and Huddleston, that bestows property rights by written 
+
+instrument.
+
+ Number two, the harm from an erroneous 
+
+determination is hugely asymmetrical. A single holding 
+
+of invalidity by a single lay jury vitiates for all time 
+
+the patent and all of the reliance interest by the 
+
+inventor and the investors and the licensees who have 
+
+relied upon that ex ante.
+
+ Third, this grant of property rights not 
+
+only induces reliance, which lack, like the land patent 
+
+cases induce reliance, this is a grant of a property 
+
+right that under the Constitution is specifically 
+
+designed to induce reliance in exchange for the 
+
+inventor's honoring her half of the patent bargain, that 
+
+is public disclosure of her intellectual property for 
+
+the public benefit, and the commitment of capital by 
+
+investors and licensees that's necessary to bring into 
+
+fruition for the public benefit. 
+
+33
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE KAGAN: Isn't there a limited amount 
+
+of reliance that any patent holder can have, given the 
+
+re-exam system?
+
+ MR. WAXMAN: Yes, and the fact -- yes, the 
+
+re-examine system -- I think your point actually, I wish 
+
+I had thought to make this point myself. Re-examine is 
+
+often invoked by the patent holder. That is, because 
+
+re-exam is done by the expert agency and allows the 
+
+patent -- allows the agency not to have a binary choice 
+
+of yes, the patent's fine or no, it's invalid for all 
+
+time, but can narrow the scope of the patent in re-exam, 
+
+many re-exams are requested by the patent holder.
+
+ And more -- and also, when you request 
+
+re-examination or when the PTO makes a re-exam decision, 
+
+that decision is good for all time, whichever way it 
+
+goes, unlike the stark asymmetry in trial court 
+
+litigation where the patent holder has to win 100 
+
+percent of the time. If the patent holder loses once, 
+
+the patent under nonmutual offensive collateral 
+
+estoppel, Blonder-Tongue, the patent is out. And I 
+
+should point out that this Court's opinion in 
+
+Blonder-Tongue, which of course was a case about patent 
+
+validity -­
+
+JUSTICE BREYER: All those first principles 
+
+are along the lines of how important patents are and 
+
+34
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+what a disaster is it is to the person once they're 
+
+invalidated. Okay. I think the other side will say: 
+
+In today's world, where nobody really understands this 
+
+technology very well, a worse disaster for the country 
+
+is to have protection given to things that don't deserve 
+
+it because they act as a block on trade, they act as 
+
+monopolies, and they will tie the country up in 
+
+individual monopolies that will raise prices to 
+
+consumers, et cetera. You can imagine my spelling out 
+
+this argument.
+
+ MR. WAXMAN: Yes.
+
+ JUSTICE BREYER: So I can't work out in my 
+
+own mind whether in today's world these first principles 
+
+cut for the patentee or cut for the challenger to the 
+
+patent.
+
+ MR. WAXMAN: Those are policy arguments that 
+
+have -­
+
+JUSTICE BREYER: And the first are not?
+
+ MR. WAXMAN: Excuse me? No, the fact that 
+
+-- the fact that it's a collateral challenge on a 
+
+government decision bestowing property rights by written 
+
+instrument, no. The fact that the harm from an 
+
+erroneous decision is totally asymmetrical, no. The 
+
+fact that what Congress intended was that this grant of 
+
+property rights actually induced reliance, and 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+finally -- and this is my final first principle, I 
+
+suppose -- that changing this long-standing standard 
+
+would marginalize the PTO, the expert agency that we 
+
+know Congress created to superintend the issuance and 
+
+re-examination of patents, and to the extent that there 
+
+are significant policy concerns which I agree with -­
+
+may I finish my sentence?
+
+ JUSTICE SCALIA: Finish your sentence.
+
+ MR. WAXMAN: - which I agree with: A, 
+
+Congress is on the job; and, B, there is -- those policy 
+
+reasons say nothing about what Congress thought about 
+
+the Patent Office in 1952 when it applied this Court's 
+
+unanimous presumption.
+
+ Thank you.
+
+ JUSTICE SCALIA: Thank you, Mr. Waxman.
+
+ ORAL ARGUMENT OF MALCOLM L. STEWART
+
+ ON BEHALF OF THE UNITED STATES,
+
+ AS AMICUS CURIAE, SUPPORTING THE RESPONDENTS
+
+ JUSTICE SCALIA: Mr. Stewart, we'll hear 
+
+from you now.
+
+ MR. STEWART: Justice Scalia, and may it 
+
+please the Court:
+
+ I would like to begin by addressing briefly 
+
+this Court's decision in RCA, because I think it's 
+
+important to notice not only that Justice Cardozo used 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+fulsome and extensive language that was intended to 
+
+sweep broadly and that was intended to announce a 
+
+categorical rule; the other thing is the discussion in 
+
+RCA was intended and was set forward as a recapitulation 
+
+of prior doctrine. That is, Justice Scalia -- Justice 
+
+Cardozo did not purport to announce for the first time a 
+
+rule as to the weight that should be given a prior 
+
+patenting decision. He explained that this is what the 
+
+Court had done since the latter part of the 19th century 
+
+and in fact it had been done by Justice Story riding 
+
+circuit in the early part of the 19th century.
+
+ And the court in RCA said a patent is 
+
+presumed to be valid until the presumption has been 
+
+overcome by convincing evidence of error. The 
+
+requirement of heightened proof was part and parcel of 
+
+the presumption itself in the same way that I think most 
+
+lawyers in this country would say that the requirement 
+
+of proof beyond a reasonable doubt is part and parcel of 
+
+the presumption of innocence in criminal cases. If a 
+
+new criminal statute were enacted saying that the 
+
+defendant is presumed innocent, but the presumption can 
+
+be overcome by a preponderance of the evidence, that 
+
+might be a presumption of innocence, but it wouldn't be 
+
+the presumption of innocence as it's historically been 
+
+understood in our country. 
+
+37 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+The second thing I would say about 
+
+Congress's presumed intent when it acted in 1952 was 
+
+that, at least when this Court's precedents are clear, 
+
+Congress when it uses words that come right from those 
+
+cases should be presumed to have codified this Court's 
+
+holdings, not the decisions of lower courts that may 
+
+have deviated from this Court's instructions. And I 
+
+think the presumption that Congress acts against the 
+
+background of existing law, it's less a prediction or an 
+
+assessment of what percentage of the legislature were 
+
+actually aware of the details of RCA. It's more a 
+
+method of making the system work, by telling 
+
+conscientious legislators: If you do read up, if you do 
+
+understand the contours of Supreme Court's decisions, 
+
+you can be confident that your words will be -­
+
+JUSTICE SOTOMAYOR: Counsel, the problem 
+
+with your argument, assuming its validity, is why do you 
+
+need the second sentence? If Congress was intending to 
+
+sweep up in the use of the word "presumption" the need 
+
+to overturn it by clear and convincing evidence, why did 
+
+you need the second sentence saying that the other side 
+
+now bore the burden of persuasion?
+
+ MR. STEWART: I think there is a belt and 
+
+suspenders quality to the statute, no matter how you 
+
+parse it, but I think that Microsoft has essentially the 
+
+38
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+same problem, because they have constructed a theory 
+
+under which the second sentence does something that the 
+
+first has not, does not, but they haven't constructed 
+
+any theory as to why the first sentence is not 
+
+superfluous. That is, given the second sentence to the 
+
+effect that the burden of establishing invalidity is on 
+
+the challenger, there's no more work to be done by the 
+
+first sentence.
+
+ The other thing I would say in response to 
+
+Justice Alito's question, which also goes to the natural 
+
+meaning of the statute, Justice Alito asked, I think, 
+
+basically, if these precedents were not on the book and 
+
+we were just looking fresh at the language, what would 
+
+we assume the standard to be? And I think we would say, 
+
+let's look at what the defendant is asking the judge or 
+
+jury to do. The defendant is asking the judge or jury 
+
+to set aside a decision that has been made by then the 
+
+Patent Office, now the PTO, and we would ask what sort 
+
+of standard of proof ordinarily applies when a litigant 
+
+asks a court to set aside an administrative decision.
+
+ In a sense, this court had a variant of that 
+
+problem a few years ago in Dickinson v. Zurko, which 
+
+dealt with direct court of appeals review of a denial by 
+
+the PTO of a patent applicant's application, and the 
+
+statute clearly authorized judicial review in the 
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Federal Circuit, but said nothing about what standard 
+
+would apply. And the Court said in the absence of a 
+
+conflicting standard imposed by the statute, we will 
+
+look to background principles and administrative law, 
+
+and the standard will be substantial evidence. And 
+
+that's basically what this Court said back in 1894 in 
+
+Morgan v. Daniels. It said the reason that we apply a 
+
+heightened standard when an individual attacks the 
+
+validity of an issued patent is that that litigant is 
+
+asking the Court to set aside a decision made by the 
+
+appropriate executive branch agency.
+
+ JUSTICE ALITO: But that ground doesn't 
+
+carry very much weight when the matter was never 
+
+considered by the PTO.
+
+ MR. STEWART: I think you are correct that 
+
+if Congress had focused specifically on the category of 
+
+cases in which the only evidence brought forward to show 
+
+invalidity had not been considered by the PTO, it might 
+
+have addressed that separately. In our view there are 
+
+three independent reasons that it makes sense to apply a 
+
+heightened standard even in that category of cases. The 
+
+first two have to do with the interests of the patent 
+
+applicant, the third has to do with the interests of the 
+
+PTO.
+
+ The first one is that the patent -- the 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+grant of a patent has historically been understood to 
+
+reflect a quid pro quo between the applicant and the 
+
+government, and the applicant's part of the bargain was 
+
+disclose that which might otherwise be maintained as a 
+
+trade secret, and the government's part of the bargain 
+
+was give a period of exclusivity.
+
+ And I think there is a thread in this 
+
+Court's cases, especially in the barbed wire patent 
+
+cases, to the effect that once the patent applicant has 
+
+honored his part of the bargain a court should be 
+
+hesitant to essentially deprive him of the benefit for 
+
+which he contracted unless the evidence is clear. The 
+
+court in the barbed wire patent cases said that whatever 
+
+doubts there may be as to whether the patentee was 
+
+actually the first inventor should be resolved in the 
+
+patentee's favor because without question he was the one 
+
+who first disclosed the information to the public, made 
+
+it available to the public through the patent 
+
+application process itself.
+
+ The second is related to the patentee's 
+
+reliance interests, but is more instrumental. That is, 
+
+independent of our concerns for fairness to the patent 
+
+applicant, Congress could reasonably determine that 
+
+there are enough uncertainties along the way to getting 
+
+a patent, to having it overturned on various other 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+grounds that in an invalidity suit the patent -- the 
+
+patentee should have reasonable confidence that it won't 
+
+be overturned unless the evidence is clear.
+
+ And I would like to respond briefly to Your 
+
+Honor's question, Justice Kagan, about why isn't that 
+
+diminished by the re-examination process. I think it is 
+
+diminished somewhat. Re-examination is different both 
+
+because it's done by the expert agency and because it's 
+
+more nuanced. There is. The option to narrow the 
+
+claims to revise the language. It's not a blunderbuss 
+
+tool, like setting it aside. But I would still 
+
+acknowledge the force of your observation that to some 
+
+extent, the patent holder's confidence would be greater 
+
+if there were no re-examination process at all. And I 
+
+guess I would say this is just one aspect of the patent 
+
+law's balancing of competing interests in a way that 
+
+doesn't serve either to the exclusion of the other; and 
+
+to use an obvious analogy, the current term of patent 
+
+protection is 20 years from the -- the date of the 
+
+application. Obviously Congress thought 20 years was 
+
+better than 10 and presumably that was because 20 years 
+
+gives greater incentive to innovation. If somebody 
+
+asked -­
+
+JUSTICE ALITO: Why is -- why is 
+
+re-examination sufficient to answer the concerns that 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Justice Breyer mentioned, when re-examination can't 
+
+consider certain issues, and a case such as this doesn't 
+
+necessarily have to be stayed while re-examination takes 
+
+place?
+
+ MR. STEWART: It's not fully sufficient to 
+
+resolve all challenges to the -- the validity of an 
+
+issued patent. Now Congress now has it before it 
+
+legislative proposals, one of which has passed the 
+
+Senate, one of which has been voted out of committee in 
+
+-- in the House, and is currently pending before the 
+
+court -- the full -- full House of Representatives, that 
+
+would expand the availability of post, what we now call 
+
+post-grant review proceedings, where for a limited 
+
+window of time after a patent is issued, people who 
+
+oppose the issuance of the patent can come in and object 
+
+on any ground. And that wouldn't be limited to the -­
+
+the grounds that are specified in the current 
+
+re-examination proceeding.
+
+ So this would -- it reflects Congress's 
+
+understanding that there is a problem with patents that 
+
+should not have been issued, but its desire to create 
+
+additional mechanisms for the PTO to address that 
+
+problem, rather than to have it be done through 
+
+litigation. But that -- the point I was going to make 
+
+about the 20 and the 10 years is somebody could ask, 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+well if 20 years is better than 10, why wouldn't 30 be 
+
+better than 20? And the only answer is 30 presumably 
+
+would give the patentee even more -- or the potential 
+
+patentee even more incentive to invent, but at a certain 
+
+point Congress decides that countervailing 
+
+considerations require an end.
+
+ And it has essentially done something of the 
+
+same thing with re-examination. It said we're not going 
+
+to go so far in the direction of protecting patent 
+
+holders' reliance interests as to preclude the PTO from 
+
+reassessing what it's done, but that doesn't mean that 
+
+reliance interests aren't important.
+
+ And the third thing I would say is even when 
+
+a defendant in an infringement suit comes forward with 
+
+prior art that was not itself considered by the PTO, 
+
+there's always the possibility that that prior art will 
+
+be substantively equivalent to prior art that the PTO 
+
+did consider; and so in cases like this, in form the 
+
+defendant would be asking the jury to make a 
+
+determination that the PTO had never made, but in 
+
+substance, what the defendant would be asking the jury 
+
+to do is conclude that what the PTO thought was a 
+
+patentable advance really was not so.
+
+ JUSTICE SCALIA: Thank you, Mr. Stewart. 
+
+Mr. Hungar, you have 8 minutes for rebuttal. 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+REBUTTAL ARGUMENT OF THOMAS G. HUNGAR
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. HUNGAR: Thank you, Justice Scalia. A 
+
+few points that I would like to make.
+
+ First of all, with respect to the suggestion 
+
+that the jury should be instructed on the weight to be 
+
+given various forms of evidence, I note that in the z4 
+
+case that's been discussed, the Federal Circuit rejected 
+
+the very, quote, "more easily carried," closed quote, 
+
+instruction that i4i suggests as the solution, and it 
+
+did so because it would confuse the jury about what the 
+
+standard is.
+
+ Having effectively three standards of proof 
+
+in patent cases rather than two is hardly a solution to 
+
+the problem; but more fundamentally, whatever 
+
+instructions might or might not be appropriate regarding 
+
+the particular evidence before the jury, there has to be 
+
+a justification for departing from this default 
+
+preponderance standard, and no sufficient justification 
+
+has been offered.
+
+ The statute doesn't provide for it, the 
+
+legislative history doesn't reference it, the pre-1952 
+
+case law can't reasonably be read in that way. That the 
+
+-- i4i and its amici do not point to a single case in 
+
+the -- in the years leading up to 1952, the 15 or so 
+
+45
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+years prior where a court of appeals or any court or any 
+
+commentator said that the rule is clear and convincing 
+
+evidence across the board. No one understood that to be 
+
+the rule. No one read RCA that way. Congress would not 
+
+have done so, either, so you can't get there under 
+
+codification. You certainly can't get there under 
+
+principles of administrative deference. Even the 
+
+government admits those that principles don't justify a 
+
+heightened standard.
+
+ JUSTICE BREYER: What about the rule where 
+
+-- I'm trying this on, I don't buy it necessarily -- the 
+
+-- the heightened standard exists where the Patent 
+
+Office did consider it or could have considered it had 
+
+the infringer asked for reconsideration?
+
+ In other words, put the burden on the 
+
+infringing party to use this procedure, and if he does 
+
+use it, it's going to get a heightened burden if he 
+
+loses -­
+
+MR. HUNGAR: Well, first -­
+
+JUSTICE BREYER: And if he doesn't use it, 
+
+it should get a heightened burden because he should have 
+
+used it.
+
+ MR. HUNGAR: First of all, Your Honor, I 
+
+don't see that any way you can get that out of the 
+
+statute. But it also wouldn't work, because re-exams -­
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: The statute itself doesn't 
+
+-- we're all going on history here, I mean, and history 
+
+brought up to date with the words of the statute I don't 
+
+think cover it either way. They talk about presumption, 
+
+but put that to the side.
+
+ MR. HUNGAR: Well, there -­
+
+JUSTICE BREYER: I wanted your opinion on 
+
+that as the validity or a useful instruction for juries.
+
+ MR. HUNGAR: Well, Congress certainly 
+
+couldn't have intended that in 1952 because it hadn't 
+
+yet created re-examination.
+
+ JUSTICE BREYER: I'm not asking that 
+
+question. I'm asking the question of whether in your 
+
+experience as a patent lawyer or -- would -- what we're 
+
+trying to do is we're trying to get a better tool, if 
+
+possible, to separate the sheep from the goats. That's 
+
+what we're after, I think, and so what is that better 
+
+tool?
+
+ MR. HUNGAR: Your Honor, as you know, 
+
+re-exam is not available for many of the types of 
+
+invalidity issues that arise. But in any event, if -­
+
+if -- if the Court had such a rule, the problem is, 
+
+re-exam takes a long time, patents plaintiffs generally 
+
+oppose stays of litigation for re-examination, because 
+
+they want to get to the jury because they know that 
+
+47
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+juries are much more likely to uphold patents than 
+
+either judges or the Patent Office on re-exam. So they 
+
+want to get the case litigated as quickly as possible so 
+
+you get through the court system before the re-exam has 
+
+been completed.
+
+ So to the -- in fact if it were true, as 
+
+some of the amici argue, that a patent applicant -­
+
+patent holders are afraid of juries and want the experts 
+
+at PTO to resolve the questions, which we don't think as 
+
+a -- as a factual matter is accurate, but if that were 
+
+true, the patent applicant, the patent holder has the 
+
+absolute right to initiate re-exam themselves, and they 
+
+could certainly go to the court and say please stay 
+
+proceedings pending re-examination. Normally when -­
+
+courts refuse to stay proceedings, because they don't 
+
+want to prejudice the plaintiff, who is opposing a stay, 
+
+but if the plaintiff is asking for a stay, there's not 
+
+going to be any problem.
+
+ So the system already permits patent holders 
+
+to -- to -- to follow that procedure and get 
+
+re-examination if they want it. The problem is they 
+
+usually don't. And in fact a preponderance standard 
+
+would encourage that.
+
+ With respect to the reliance arguments, the 
+
+re-examination problem we think addresses that. The 
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+fact that this is a procedural rule under this Court's 
+
+precedence makes clear that reliance interests are 
+
+lessened. In any event, the reliance interests aren't 
+
+nearly as strong as the same arguments made by many of 
+
+the same parties in KSR, and MedImmune and eBay where 
+
+this Court was not persuaded. It should not be 
+
+persuaded here, either.
+
+ With respect to the legislative history that 
+
+they rely on, if you're going to look at the legislative 
+
+history, what it actually says is that Congress is 
+
+referring to the presumption as stated by the courts, 
+
+plural -- not the Supreme Court, courts plural -- so if 
+
+you're going to look at legislative history it actually 
+
+makes clear that Congress was not looking only at the 
+
+RCA case which is not even referenced in the legislative 
+
+history, but was looking at rule as it was understood to 
+
+exist in 1952, which is not the rule that i4i urges.
+
+ With respect to the -- the presumption 
+
+point, the presumption clearly does serve a purpose, the 
+
+presumption language in the statute, by overturning the 
+
+courts -- the prior to 1952 decisions that had rejected 
+
+the presumption, and by making clear that the burden of 
+
+going forward is on the defendant, so the plaintiff 
+
+doesn't have the burden that it would otherwise have of 
+
+pleading and putting forward evidence at trial of 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+validity.
+
+ For all these reasons, we ask that the 
+
+judgment of the court of appeals be reversed.
+
+ JUSTICE SCALIA: Thank you, Mr. Hungar.
+
+ The case is submitted.
+
+ (Whereupon at 12:02 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+50 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final ReviewOfficial - Subject to Final Review
+
+48:25 amount 31:11 2:2,5,8,12 3:3,7 38:17A 
+addressing 4:3 34:1 7:25 9:14 10:11 asymmetricalabove-entitled 
+
+17:21 26:1 amounts 14:18 10:12 21:16 33:11 35:231:11 50:7 
+36:23 analogy 42:18 24:24 26:4,14 asymmetryabsence 15:2 
+
+adequate 11:11 Anglo-American 26:15 28:14 34:1640:2 
+adjudicate 21:11 27:25 28:18 35:10 36:16 attack 33:6absolute 48:12 
+adjudicated8:25 announce 37:2,6 38:17 45:1 attacks 40:8absolutely 13:5 
+
+21:9 answer4:19 8:21 arguments 35:16 attempt 16:313:12 
+administrative 12:12 15:2 48:24 49:4 attempting 4:19abuse 30:18 
+
+39:20 40:4 46:7 42:25 44:2 array 17:23 authorized20:11account 11:6 
+admits 46:8 ante 33:15 art 3:21 4:11 39:2513:1 
+advance 44:23 appeal 4:8 10:4 8:12 11:8,13,22 Auto 20:17accurate 48:10 
+advances 17:6 appeals 21:6 11:24 15:5,12 availabilityacknowledge 
+advantages 39:23 46:1 50:3 15:15 17:6 32:3 43:1242:12 
+
+17:24 APPEARANC... 32:5,5,10 44:15 available 15:6acquiesce 22:12 
+adversary's 31:1 1:14 44:16,17 41:18 47:20acquiesced 
+affect 9:4 applicant 40:23 article 32:7 avoided31:4,510:19,23 22:8 
+afraid 48:8 41:2,9,23 48:7 articulate 29:13 aware 10:10acquiescence 
+agency 34:8,9 48:11 articulated29:23 23:13 28:1710:11,14,17 
+
+36:3 40:11 42:8 applicant's 39:24 articulation 38:1122:14 23:12 
+ago 39:22 41:3 30:20 a.m 1:13 3:2across-the-boa... 
+agree 5:23 26:21 application 9:4 arts 3:157:13 8:2 10:21 B31:23 36:6,9 11:5 39:24 ascribe 28:2010:24 16:4 
+
+B 36:10AL 1:6 41:19 42:20 aside 39:17,2020:15 21:2 
+back 14:10 18:8Alito 19:17 23:19 applied36:12 40:10 42:11act 15:24 35:6,6 
+
+23:19 40:624:19 39:11 applies 4:18 9:11 asked12:8 26:24acted38:2 
+background 38:940:12 42:24 26:16 39:19 39:11 42:23active 22:14 
+
+40:4Alito's 39:10 apply 4:9,10 9:8 46:1423:11,12,13 
+bad13:23,24Allison 32:7 14:15 21:11 asking 39:15,16actively 22:8,11 
+
+17:8allow14:15 28:21 32:14,15 40:10 44:19,21activity 22:21 
+balancing 42:16allowed32:6 40:2,7,20 47:12,13 48:17acts 38:8 
+bar 15:7allows 34:8,9 applying 6:14,15 asks 39:20actual 15:12 27:6 
+barbed6:11 41:8alternatives 30:6 12:4 aspect 42:15add 12:3 
+
+41:13amending 23:5 approach4:16 assails 6:22added11:4 18:11 
+bargain 33:21amendments 16:9 assertedly 26:1719:13,21 30:12 
+
+41:3,5,1023:7 appropriate asserting 23:25adding 18:14 
+based32:5American7:18 40:11 45:16 assertion 29:6addition 29:9 
+basically 39:127:19 16:12 approval 21:5 assessmentadditional 43:22 
+
+40:618:21 27:18 April 1:9 38:10address 4:21 
+battery 17:9amici 28:19 30:5 argue 3:25 4:7 Association15:15 16:3 23:5 
+bear 19:25 32:831:14 45:24 32:6 48:7 16:1225:5 43:22 
+bears 6:23,2348:7 argued31:25 assume 13:18addressed5:8,11 
+
+27:10amicus 1:21 2:11 arguing 10:22 39:1440:19 
+beginning 10:314:20 36:18 argument 1:12 assuming 29:12addresses 16:20 
+
+23:3 
+
+51 
+
+Alderson Reporting CompanyAlderson Reporting Company
+
+
+
+Official - Subject to Final Review 
+
+behalf 1:15,17 29:8 21:12 25:10 23:16 39:25 49:19 
+1:21 2:4,7,10 bring 33:24 26:3 27:24 28:5 changing 36:2 closed45:9 
+2:14 3:8 21:17 broad 5:20 7:2 28:24 30:14,15 characterization closely 14:14 
+36:17 45:2 broadly 37:2 30:16,21 32:1,4 11:16 codification7:25 
+
+believe 4:22 brought 40:17 34:22 43:2 45:8 characterizing 46:6 
+18:21 19:2 47:3 45:23,24 48:3 16:16 codified9:7 22:2 
+31:24 brute 14:16,17 49:15 50:5,6 charge 12:9,23 38:5 
+
+belt 38:23 16:15 cases 3:17 5:7 choice 34:9 codify 8:16 
+benefit 33:23,25 burden6:23 9:17 6:8,14,14,16 circuit 5:11 10:2 codifying 25:2,17 
+
+41:11 9:18,20,21 11:2 7:7,20 8:7,10 10:5 12:19 16:1 cogent 22:6 25:8 
+best 7:9 15:9 13:8,8 18:9,13 9:3 10:5 11:1 17:4 20:18 23:4 collateral 33:6 
+bestowing 35:21 18:17,22,25 11:16 15:16,16 24:18 27:3,17 34:19 35:20 
+bestows 33:8 19:1,4,5,9,11 16:6 17:17 37:11 40:1 45:8 combinations 
+better25:14 31:5 19:15,18,19,25 18:22 19:3,8,10 circuits 10:20 11:22,25 
+
+42:21 44:1,2 20:1,8,9 22:4,5 20:2,11,12,13 Circuit's 3:11 come 15:15 38:4 
+47:15,17 23:23 24:2,6 21:4,6 26:19 22:8 43:15 
+
+beyond 5:25 13:9 27:10,12 28:12 28:6,8 32:1 circumstances comes 44:14 
+28:15 37:18 29:14,16 30:12 33:18 37:19 17:1 19:24 commentator 
+
+bills 10:7 30:24 38:22 38:5 40:17,21 20:23 46:2 
+binary 34:9 39:6 46:15,17 41:8,9,13 44:18 cite 20:25 27:20 commitment 
+black 29:8 46:21 49:22,24 45:14 cited8:7 11:1 33:23 
+blame 16:13 buy 46:11 categorical 37:3 20:12 28:19 committee 25:1 
+block 35:6 category 40:16 cites 6:9 21:5 25:1 43:9 
+
+CBlonder-Tongue 40:21 claim10:15 11:2 common6:21 
+C 2:1 3:1 34:20,22 century 37:9,11 claims 5:10 16:22 32:8 
+call 43:12blunderbuss certain 15:5 42:10 competing 42:16 
+called17:942:10 31:12 43:2 44:4 clear 3:11,22 4:5 competition 18:6 
+capital 33:23board 4:23 21:8 certainly 5:18,25 5:13 7:13,25 completed48:5 
+Cardozo 4:1,2,25 33:3 46:3 7:17,18 17:22 9:7 10:20 11:18 completely 5:15 
+
+5:2,17 6:20 book 39:12 19:3,8,24 27:7 12:2,11,16,17 concern 6:13 
+36:25 37:6bore 38:22 28:18 46:6 47:9 12:25 14:15 concerns 5:6,8 
+
+care 5:15branch40:11 48:13 15:23 16:5 20:6 5:14 36:6 41:22 
+careful 16:14Breyer13:17 cetera 17:6 20:24 21:1,21 42:25 
+carefully 6:216:11 17:2,13 23:24,25 28:12 22:6,10 23:14 conclude 27:14 
+
+17:734:24 35:12,18 35:9 24:1,9,11,13 44:22 
+carried45:943:1 46:10,20 challenge 11:8 25:8,21 26:12 conclusion 12:15 
+carry 26:24 27:1 47:1,7,12 33:6 35:20 27:11,23 28:16 confidence 42:2 
+
+40:13brief 8:8,9 13:21 challenger18:11 29:4,10,15,24 42:13 
+case 3:4,23 4:3,8 18:20 20:14,25 19:17,19 35:14 30:1 32:21,25 confident 38:15 
+
+4:20,21 5:25 21:6 22:24 39:7 33:2 38:3,20 conflicting 40:3 
+6:11,11 8:3,3,3 31:25 challenges 43:6 41:12 42:3 46:2 confuse 29:23 
+8:24 9:5 11:10 briefly 36:23 chance 22:18 49:2,14,22 45:11 
+11:25 16:2342:4 change 10:8 clearest 30:10 Congress 7:10 
+17:9 18:21briefs 14:8,21 13:20,21 23:15 clearly 7:3 9:4 7:11,23 8:1,16 
+20:18,20 21:7,7 
+
+52 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+8:18 9:6 10:19 constructed39:1 44:5 crystal-clear 26:25 
+10:23 15:20,22 39:3 country 35:4,7 19:3 defense 6:5,7 9:2 
+18:11,15,24 construction9:8 37:17,25 cure 14:24 defer32:22,23 
+19:9,13 20:2,6 9:9 13:2 coupled14:13 curiae 1:21 2:11 deference 13:6,7 
+22:2,7 23:2,4 consumers 35:9 course 5:5 15:18 36:18 24:23 27:22 
+23:11 24:1,24 container17:14 16:7 30:25 curing 16:18 32:21 46:7 
+25:16 35:24 contends 27:8 34:22 current 23:9 degree 13:7 
+36:4,10,11 38:4 context 5:3 6:13 court 1:1,12 3:10 42:18 43:17 denial 39:23 
+38:8,18 40:16 7:2 8:24 26:10 3:13,19 4:5 6:1 currently 43:10 departing 45:18 
+41:23 42:20 contexts 6:15 6:14 9:2 10:3 cut 35:14,14 Department 1:20 
+43:7 44:5 46:4 continuing 32:24 13:6 21:5,14,19 depending 28:20 
+
+D47:9 49:10,14 contours 38:14 22:3,5 25:3,11 deprive 41:11 
+D 3:1congressional contracted41:12 25:13,19 26:1 Deputy 1:19 
+Daniels 40:710:11 contradicting 26:11 27:25 described22:6 
+date 42:19 47:3 Congress's 4:24 28:8 29:22 description 15:9 
+day 25:1215:25 38:2 contrary 4:5 30:17,18 34:16 deserve 13:25 
+deal 7:1643:19 control 14:3 36:22 37:9,12 35:5 
+dealt 24:6 39:23 conscientious controversy 25:6 39:20,21,23 deserves 13:24 
+decide 14:17,17 38:13 convey 11:11,12 40:2,6,10 41:10 designed33:20 
+
+28:3consider11:7,7 convincing 3:11 41:13 43:11 desire 43:21 
+decided6:1611:12 12:5 13:4 3:23 5:14 7:13 46:1,1 47:22 detail 17:21 
+
+26:3,20 13:13 15:5 11:18 12:3,11 48:4,13 49:6,12 details 38:11 
+decides 44:517:22,23 23:16 12:17,25 14:15 50:3 determination 
+deciding 27:1227:14 29:9 15:23 21:22 courts 26:9 30:9 33:11 44:20 
+
+30:11,13 30:13 32:3 43:2 22:10 23:14 38:6 48:15 determinations 
+decision 7:2044:18 46:13 24:2,10,11,13 49:11,12,21 32:16 
+
+13:14,14 27:23 consideration 25:21 27:11,23 court's 3:15 5:6 determine 31:15 
+33:7 34:14,15 10:18 23:9 28:17 29:5,15 9:16 10:15 41:23 
+35:21,23 36:24 considerations 29:24 30:2 12:14 18:4 20:8 determining
+37:8 39:17,20 44:6 32:21,25 33:3 25:25 26:6,12 10:19 31:2 
+40:10considered3:21 37:14 38:20 26:19 27:20 deviated38:7 
+
+decisions 3:154:4,11 8:5,13 46:2 34:21 36:12,24 devices 29:14 
+22:3 26:7,11 11:22 13:15 core 6:21 38:3,5,7,14 Dickinson 39:22 
+38:6,14 49:21 16:24 17:19 Corporation1:3 41:8 49:1 dicta 25:9 
+
+decisis 21:2420:16 29:12,18 3:4 cover47:4 dictum 5:24 
+default 3:16 4:18 31:3,16,21 correct 4:15 create 43:21 difference 31:10 
+
+9:7,8 13:10 32:11 33:4 11:10 21:22 created16:2,3 different 4:12 
+45:1840:14,18 44:15 40:15 23:4 36:4 47:11 12:2 28:2,21 
+
+defendant 18:1346:13 correctly 11:15 creates 28:1 32:15 42:7 
+18:16 19:12,15 consistent 5:4 corroboration creating 31:12 difficult 17:17 
+20:9 27:8,10,12 10:2 22:8 5:12 creation 23:8 diminished42:6 
+30:11 37:21consistently 10:6 counsel 10:25 criminal 37:19 42:7 
+39:15,16 44:14 Constitution 32:6 38:16 37:20 direct 39:23 
+44:19,21 49:23 33:19 countervailing cruel 25:16 direction 44:9 
+
+defendant's 
+
+53 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+directions 4:13 18:10 39:6 41:9 et 1:6 17:6 23:24 expand 43:12 fault 14:3 
+directly 24:22 effectively 45:13 23:24 28:12 expected10:7 favor 41:16 
+
+26:15 effort 23:16 35:9 experience feature 25:25,25 
+disagree 11:16 either26:11 evaluating 27:15 47:14 Federal 3:11 
+disappears 28:6 42:17 46:5 47:4 event 47:21 49:3 expert 32:22 5:11 10:2,5 
+
+28:11 48:2 49:7 evidence 3:12,21 34:8 36:3 42:8 12:19 16:1 17:4 
+disarray 26:9 eliminate 11:3 4:3 5:14 6:24 experts 14:11 22:8 23:4 27:3 
+disaster35:1,4 eliminated8:12 7:13 8:5,12 9:1 48:8 27:17 40:1 45:8 
+disclose 41:4 11:2 21:3 11:7,18 12:6,9 explain 12:24 field 21:24 23:12 
+disclosed41:17 emerge 17:4 12:11,17,24 explained6:12 23:13 
+disclosure 33:22 enacted15:24 13:5,13,14 15:5 37:8 file 32:4 
+discovery 17:24 16:1 18:8 23:2 16:24 20:16 explaining 25:15 final 36:1 
+discretion 30:18 24:25 37:20 21:3,22 22:7 explanation finally 36:1 
+discussed4:21 enacting 15:25 23:14 24:10,11 27:19,19 find 17:14 27:13 
+
+45:8 enactment 10:17 24:13 25:8,21 expressly 22:9 29:1,15,16 
+discussing 5:2 encourage 48:23 26:17,24,25 24:3 30:13 31:20 
+discussion 6:10 endorsing 30:7 27:11,13,23 extend 5:25 fine 34:10 
+
+37:3 enforcement 28:21,24 29:5,6 extensive 37:1 finish36:7,8 
+disproved24:12 3:12 29:10,11,15,17 extent 5:1 36:5 first 8:23 9:15,20 
+dispute 8:25 9:2 ensures 3:12 29:24 30:2,12 42:13 10:13,17 11:15 
+district 14:14 entire 25:13 31:12,15 32:2 extra 32:20 14:25 15:3 
+doctrine 23:17 entirely 9:24 33:3 37:14,22 extremely 5:19 21:25 22:19 
+
+37:5 enunciating 38:20 40:5,17 10:15 17:17 23:6,20,23 24:4 
+doing 13:21 25:15 41:12 42:3 45:7 eyewitness 25:22 26:1,2 
+doubt 28:16 equation 18:3 45:17 46:3 28:25 29:2 29:13,20 31:15 
+
+37:18 equivalent 44:17 49:25 32:18,18 34:24 
+Fdoubts 41:14 erroneous 33:10 ex 33:15 35:13,18 36:1 
+
+face 6:23dozens 20:12 35:23 exactly 25:19 37:6 39:3,4,8 
+fact 6:3 11:6,12 drawn 22:9 error 3:22 14:5,9 27:19 40:22,25 41:15 
+
+11:21 12:5,15 dual 31:12 37:14 examination 41:17 45:5 
+29:17,18 30:1 dubious 6:25 errors 13:22 15:13 46:19,23 
+32:9,9 34:4 due 24:23 especially 41:8 example 6:12 five 32:4 
+35:19,20,22,24 D.C 1:8,15,17,20 ESQ 1:15,17,19 15:6 20:18 focused40:16 
+37:10 48:6,22 2:3,6,9,13 exception 6:9 follow48:20 
+
+E 49:1essentially 8:19 20:19 following 14:8 
+E 2:1 3:1,1 facts 14:16,16,17 25:24 30:23 exchange 33:20 32:15 
+earlier18:1 16:1538:25 41:11 exclusion 42:17 footnote 8:9 
+
+19:13 30:15,20 factual 17:1944:7 exclusivity 41:6 20:13 31:24 
+early 37:11 48:10establish18:23 Excuse 35:19 force 42:12 
+easily 12:13 16:8 fails 6:24 10:12 established executive 40:11 forgot 23:2 
+
+27:13 29:16 fair 7:727:16 exist 16:5 49:17 form 44:18 
+30:24 45:9 fairness 41:22establishing existing 8:17 forms 45:7 
+
+eBay 49:5 fake 17:823:24 39:6 25:2,18 38:9 formulations 
+economy 14:1 far 29:8,10 44:9 estoppel 34:20 exists 46:12 30:9 
+effect 12:21 fashion 17:18 
+
+54 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+forth7:6 34:2 35:5 37:7 5:23 7:1,18 19:10H 
+forward 9:17,21 39:5 45:7 10:9 11:14 impossible 17:18half 33:21 
+
+13:8 18:25 19:5 gives 42:22 12:10,13 13:2 incentive 42:22Hall 25:12 
+20:8 37:4 40:17 giving 16:15 17:5 14:25 16:19 44:4hard 3:24 
+44:14 49:23,25 go 8:21 13:9 14:9 17:11,16 18:18 including 23:7harm 14:1 33:10 
+
+found 24:17 16:17 17:8 18:7 19:24 46:23 independent35:22 
+30:18 19:18 22:18 47:19 5:13 27:22 33:2 harmful 18:6 
+
+four 33:1 44:9 48:13 honored41:10 40:20 41:22hear 3:3 29:7 
+fresh39:13 goats 47:16 honoring 33:21 indicate 7:436:19 
+fro 32:6 goes 28:23 30:19 Honor's 18:1 indicated13:6heard 16:16 
+front 30:22 34:16 39:10 42:5 19:1228:21,25 
+fruition33:25 going 4:7,9,12 hope 22:18 individual 31:10heavy 6:23 
+full 17:23 43:11 9:17,21 11:20 horses 4:7,12 35:8 40:8heightened3:18 
+
+43:11 13:8,15 18:25 House 24:25 induce 33:18,20 3:20 4:17 5:2,6 
+fully 43:5 19:5 20:8 27:5 43:10,11 induced35:256:6,13,15,17 
+fulsome 37:1 32:10 43:24 Huddleston 3:16 induces 33:178:2,4 9:3,13,22 
+fundamental 44:8 46:17 47:2 4:16 9:10 33:8 infer15:19 20:10 10:21,24 11:20 
+
+13:3 16:20 18:2 48:18 49:9,13 hugely 33:11 influenced32:913:6,11 15:3 
+fundamentally 49:23 Hungar1:15 2:3 information16:2,4,21 17:25 
+
+9:5 12:18 17:20 good 14:11 34:15 2:13 3:6,7,9,25 41:1719:16 20:15,22 
+45:15 gotten14:20 4:2,14 5:1,23 infringement21:2,8 22:4 
+
+further21:14 24:19 7:1,17 8:14,23 44:1437:15 40:8,21 
+Gould 26:3 10:9 11:14 12:7 infringer6:2246:9,12,17,21 G govern 3:17 4:23 12:10,21 13:2 46:14hesitant 41:11
+
+G 1:15 2:3,13 3:1 governed16:6 14:25 16:19 infringer's 33:5high 10:15
+3:7 45:1 government 17:11,16 18:7 infringing 46:16historically
+
+gather5:21 15:21 33:6 18:18 19:2,23 initiate 48:1237:24 41:1
+general 1:19 4:8 35:21 41:3 46:8 44:25 45:1,3 innocence 37:19history 13:19
+
+25:15 government's 46:19,23 47:6,9 37:23,24 45:22 47:2,2 
+generally 9:23 41:5 47:19 50:4 innocent 37:2149:8,10,13,16 
+
+24:17 47:23 governs 16:7 innovation 18:6Hoist 7:18,19 Igentlemen29:1 grand 5:24 42:2218:21 27:18
+getting 16:11 ignored26:12grant 33:16,18 inquiry 15:14holder18:23
+
+17:20 41:24 imagine 28:2435:24 41:1 instance 28:1719:9 34:2,7,12 
+GI 24:18 35:9great 31:9 instances 28:1034:17,18 48:11 
+GINSBURG impeded29:4greater30:23 instruct 17:7holders 44:10
+
+3:24 6:19 7:14 implications 7:342:13,22 26:23 30:2248:8,19 
+10:1 18:7 22:11 important 15:16Grogan 3:15 instructed28:15holder's 42:13
+26:21 32:19 21:25 34:254:16 9:10 33:7 31:20 45:6holding 5:18,25 
+
+Ginsburg's 4:20 36:25 44:12ground 40:12 instruction 11:422:3,9 24:18 
+give 12:1,2 13:23 impose 17:2543:16 11:9,18,19 12:3 25:11 33:11
+
+13:24 17:12 24:1grounds 42:1 12:11,13,17 holdings 26:13
+30:12,23 31:11 imposed40:343:17 16:9 17:12 27:6 26:13 38:6
+31:21 41:6 44:3 imposes 22:4guess 42:15 30:16,19,21,23 Honor4:2,14 
+
+given11:20 30:9 imposing 16:21 
+
+55 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+30:25 31:8,18 14:4 judgment 32:23 32:24 45:18,19 leakproof 17:10 
+32:12,13 45:10 inventor 7:6 50:3 justify 12:17 33:2 left 29:14 
+47:8 33:14 41:15 judicial 7:25 46:8 legislative 43:8 
+
+instructions inventor's 33:21 39:25 45:22 49:8,9,13 
+K16:14 38:7 investors 33:14 juries 16:15 32:9 49:15 
+
+Kagan 5:17 8:14 45:16 33:24 32:13,14,22 legislators 38:13 
+23:18 34:1 42:5 instrument 33:9 inviting 31:18 47:8 48:1,8 legislature 38:10 
+
+keep4:635:22 invoked34:7 jurisprudence Lemley 32:7 
+KENNEDYinstrumental involves 25:10 26:1 28:1,18 lessened49:3 
+
+18:25 28:5,9 41:21 involving 30:15 jurors 31:11 let's 39:15 
+key 27:24 30:19 intellectual issuance 36:4 jury 11:4,12 12:4 level 17:18,21 
+kinds 5:21 15:11 16:12 33:22 43:15 12:25 16:21 19:7 
+know7:11 14:7 intended18:15 issue 4:3 5:12 17:8,15,20 27:7 liberal 3:15 
+
+19:2 32:3 36:4 35:24 37:1,2,4 11:17,25 15:7 28:3,15,19 29:1 licensees 33:14 
+47:19,25 47:10 18:9 19:20 21:9 29:7,12,23 31:1 33:24 
+
+knowledge 27:25intending 38:18 21:11 25:10 31:14,19 32:2,7 light 15:25 
+KRSR 13:5intent 15:19,25 26:2 28:3,23 33:4,12 39:16 limit 5:18 
+KSR 3:13,19 38:2 31:5,19 39:16 44:19,21 limited1:6 3:4 
+
+4:22 27:20 49:5 interest 33:13 issued27:9 45:6,11,17 5:3 15:4,14 
+interests 18:3,4 29:18 40:9 43:7 47:25 34:1 43:13,16 L
+
+40:22,23 41:21 43:14,21 Justice 1:20 3:3 limiting 16:15
+L 1:19 2:9 36:16 42:16 44:10,12 issues 15:5,8,8 3:9,24 4:2,6,19 limits 5:21
+lack 33:1749:2,3 17:19 43:2 4:24 5:2,17,17 line 22:3 26:7 
+ladies 29:1interparties 23:8 47:21 6:19 7:14 8:14 lines 34:25
+land 33:17interpretation i4i 1:6 3:4 9:14 10:1,25 12:1,8 list 8:9 20:13 
+language 5:19,24 4:15 9:19 21:23 10:21 13:9 12:20,22 13:17 32:18
+
+6:2 13:19 23:22 23:21 15:21 18:3 16:11 17:2,13 literally 20:12
+24:14 25:4 27:6 interpreted9:23 21:13 45:10,24 18:7,25 19:17 litigant 39:19
+30:6 37:1 39:13 invade 27:6 49:17 21:18,20 22:11 40:9
+42:10 49:20invalid 3:12,14 i4i's 10:10 22:13,21 23:18 litigate 31:19
+
+Laughter22:1718:5 27:9 34:10 23:19 24:19,24 litigated48:3
+22:25 24:21Jinvalidated35:2 26:2,21 28:5,9 litigating 31:4
+
+law7:12,23 8:2 job14:14 16:16 invalidity 3:23 29:21 30:1,5,25 litigation 17:24
+8:17 9:23 12:15 36:106:18 11:8 19:20 31:7,10,17,22 34:17 43:24
+16:5,12 18:18 joke 25:1623:24 24:1 32:19 34:1,24 47:24
+20:24 21:12judge 4:1 7:15,19 27:11 33:12 35:12,18 36:8 long 15:24 16:17 
+23:5 25:16 27:9 12:23 14:1739:6 40:18 42:1 36:15,19,21,25 22:2 47:23
+38:9 40:4 45:23 16:15 17:9,12 47:21 37:5,5,10 38:16 longer20:4
+
+lawyer47:1417:13,15,18 invent 44:4 39:10,11 40:12 long-settled
+lawyers 37:1718:20 26:8,22 invention 5:7,10 42:5,24 43:1 21:21
+law's 42:1626:23,23 27:19 6:4,5,7,10 7:5 44:24 45:3 long-standing
+lay 33:1239:15,16 8:25 13:23,25 46:10,20 47:1,7 23:17 27:16
+leading 6:11judged32:2320:20 47:12 50:4 36:2
+
+45:25judges 12:1inventions 5:3 justification15:2 look 14:11 17:9 
+leak 17:1414:14 48:2 
+
+56 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+26:10 39:15 3:4 25:4 28:18 24:25 45:7 on-sale 15:7 27:22 28:3 32:3 
+40:4 49:9,13 30:16 38:25 noted18:20,21 open13:19 45:17 
+
+looking 26:21 Microsoft's notice 36:25 operates 5:13 particularly 
+39:13 49:14,16 30:15 31:13 notion16:16 opinion 5:19,20 13:12 16:23 
+
+loses 34:18 mind 16:14 18:12 20:14 21:8 5:21 24:17 25:5 21:25 24:17 
+46:18 35:13 22:14 25:14 26:5,10 parties 23:25 
+
+lot 24:19 30:4 minutes 44:25 novel 17:5,10 34:21 47:7 28:11 31:19,23 
+lower26:11 misinterpreted novelty 14:18 opinions 26:9,22 49:5 
+
+29:21 38:6 26:12 nuanced42:9 opportunity Partnership 1:6 
+low-quality 23:6 mode 15:9,14 number23:7 17:23 3:5 
+
+moment 29:14 24:4 30:9 33:5 oppose 43:15 party 19:25 
+M Monday 1:9 33:10 47:24 46:16 
+
+maintained41:4 monopolies 35:7 numerous 8:7 opposing 48:16 passed43:8 
+making 23:16 35:8 10:12 option 42:9 passive 22:21 
+
+38:12 49:22 monopoly 10:4 oral 1:11 2:2,5,8 patent 4:4 6:11 
+OMALCOLM moorings 16:22 3:7 5:9 20:19 6:23 8:6,13 9:1 
+
+1:19 2:9 36:16 O 2:1 3:1 16:22 21:16 36:16 10:4 11:23 13:4 
+mandatory 30:23 object 12:10Morgan 40:7 order26:23 13:12 14:2,10 
+manner29:22 43:15Mumm 25:12 ordinarily 39:19 16:25,25 17:22 
+map7:21 objected11:17 original 9:18 18:10,10,23 
+
+Nmarginalize 36:3 objection 12:16 outweighed18:4 19:9,22 20:17 
+matter1:11 8:15 N 2:1,1 3:1 obscured29:4 overcome 37:14 21:4,10,10 
+
+15:11 21:23,23 narrow34:11 observation 37:22 23:24 24:4 25:3 
+21:25 26:20 42:9 42:12 overthrown 25:8 25:24 26:18 
+38:24 40:13 natural 39:10 obvious 42:18 25:21 27:2,8,9,14 
+48:10 50:7 nearly 49:4 Obviously 42:20 overturn 38:20 31:3 32:6,22 
+
+mean 4:11 12:22 necessarily 43:3 obviousness overturned19:9 33:13,17,21 
+14:16 23:1,12 46:11 14:18 41:25 42:3 34:2,7,9,11,12 
+27:4 28:9,24 necessary 32:13 offensive 34:19 overturning 34:17,18,19,20 
+30:4 44:11 47:2 33:24 offer17:25 49:20 34:22 35:15 
+
+meaning 39:11 need9:25 13:9 offered5:9 45:20 36:12 37:12 
+Pmeans 5:12 24:5 13:11 38:18,19 office 4:4 8:6,13 39:18,24 40:9 
+
+29:24 38:21 9:1 11:23 13:4 P 1:17 2:6 3:1 40:22,25 41:1,8 
+mechanisms needs 11:20 13:13 14:3,10 21:16 41:9,13,18,22 
+
+43:22 never3:21 9:22 16:25,25 17:4 page 2:2 6:6,6 41:25 42:1,13 
+MedImmune 11:13 12:24 17:22 20:17 20:25 25:5,13 42:15,18 43:7 
+
+49:5 40:13 44:20 21:4,10,11 25:14,14 43:14,15 44:9 
+mention 6:17 new12:18 37:20 26:18 27:2,14 pages 6:10 8:8 45:14 46:12 
+mentioned43:1 nonmutual 34:19 31:3 32:22 parcel 37:15,18 47:14 48:2,7,8 
+merit 7:24 normal 13:10 36:12 39:18 parse 38:25 48:11,11,19 
+met 27:12,13 18:14 46:13 48:2 part 15:19,22 patentability
+
+29:16 30:11,24 normally 4:10 oh 4:9 25:14 37:9,11 27:15 
+metal 17:9,14 24:10 48:14 okay 28:13 35:2 37:15,18 41:3,5 patentable 44:23 
+method 38:12 note 5:5 7:19 once 34:18 35:1 41:10 patentee 35:14 
+Microsoft 1:3 10:10 21:6 41:9 particular15:17 
+
+57 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+41:14 42:2 44:3 36:22 48:13 prerequisites 6:4,5 7:20 8:12 26:16 28:2,15 
+44:4 plural 49:12,12 14:19 8:21 11:7,13,22 28:22 29:15 
+
+patentee's 41:16 point 11:11 14:24 presented6:1 11:24 15:5,12 31:12 32:15 
+41:20 22:20,24 24:22 26:25 27:1 15:15 17:6 37:15,18 39:19 
+
+patenting 37:8 29:8 30:19 preservation 18:22 20:2,14 45:13 
+patents 3:13,14 31:14,25 34:5,6 11:17 20:20 32:3,5 property 16:12 
+
+9:15 15:12 17:8 34:21 43:24 presiding 24:24 37:5,7 44:15,16 29:18 33:8,16 
+18:5 23:6 34:25 44:5 45:24 presumably 19:5 44:17 46:1 33:18,22 35:21 
+36:5 43:20 49:19 42:21 44:2 49:21 35:25 
+47:23 48:1 pointed18:2 presumed9:15 priority 5:3,7,10 proposal 14:7,8 
+
+patent's 34:10 points 32:7 45:4 19:22 24:5,8 6:10 7:4 8:25 proposals 43:8 
+pending 43:10 policy 18:3 35:16 37:13,21 38:2,5 9:2 25:10 proposed10:7 
+
+48:14 36:6,10 presumes 27:9 pro 41:2 31:1 
+people 14:4 position 4:14 presumption8:4 problem5:8 13:3 proposition 8:3 
+
+43:14 10:6 24:14 8:11 9:16,19,23 14:24 15:2,18 26:7 31:2 
+percent 34:18 possibility 44:16 13:10 18:11,15 16:18,20,20 protecting 44:9 
+percentage possible 47:16 19:14 20:3,4,5 17:3,7 18:2 protection 13:23 
+
+38:10 48:3 20:7,15,22 21:2 23:5 31:4 38:16 13:25 17:5 35:5 
+perfectly 7:25 possibly 7:12 22:4 24:10 25:2 39:1,22 43:20 42:19 
+
+10:20 15:19 16:2 25:7,7,18,18 43:23 45:15 provide 45:21 
+period 41:6 post 43:12 25:20,23,24 47:22 48:18,21 province 27:7 
+permits 48:19 post-grant 23:10 28:6,11 36:13 48:25 proving 27:11 
+person 35:1 43:13 37:13,16,19,21 problems 16:3 provocative 
+persuaded49:6 potential 44:3 37:23,24 38:8 23:21 22:19 
+
+49:7 precedence 20:8 38:19 47:4 procedural 17:24 PTO 3:22 11:6 
+persuasion 6:24 49:2 49:11,18,19,20 49:1 11:13 12:5 
+
+19:1,4,18 20:1 precedent 8:22 49:22 procedure 23:7 27:10,22 29:7,9 
+28:12 38:22 9:16 presumptions 46:16 48:20 29:18 30:13 
+
+persuasive 24:17 precedents 38:3 24:12,16 proceed3:6 32:2,11 34:14 
+pertinent 29:11 39:12 pretty 14:11 proceeding 36:3 39:18,24 
+
+31:16 preclude 9:14 previously 9:1 43:18 40:14,18,24 
+Petitioner1:4,16 44:10 pre-1952 20:11 proceedings 43:22 44:10,15 
+
+2:4,14 3:8 45:2 predicate 32:16 20:12 21:12 43:13 48:14,15 44:17,20,22 
+phrase 24:8 26:6 prediction 38:9 45:22 process 23:10 48:9 
+
+30:2 prejudice 48:16 prices 35:8 41:19 42:6,14 public 33:22,23 
+phrasing 16:13 preponderance primarily 5:9 production19:20 33:25 41:17,18 
+place 43:4 3:16 4:18,23 principle 17:3 progress 3:14 publications 
+plaintiff 48:16,17 6:25 9:10 11:23 25:15 36:1 promote 3:14 15:13 
+
+49:23 12:9,23 13:11 principles 22:1 proof 3:18,20,23 purport 37:6 
+plaintiffs 47:23 16:6,7 18:14 22:19 23:20 8:18,20 9:18,21 purpose 25:6 
+played19:21 20:21 26:4,14 29:13 33:2 11:2 13:8 17:14 49:19 
+pleading 49:25 28:16 29:3 34:24 35:13 18:9,13,17 put 17:3 32:2 
+please 3:10 37:22 45:19 40:4 46:7,8 19:11,15,25 46:15 47:5 
+
+12:24 21:19 48:22 prior3:21 4:10 20:9 22:5,5 putting 49:25 
+
+58 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+p.m50:6 17:6,10 29:2 33:3 resolved9:2 rise 22:15 
+35:3 44:23 regime 28:1,24 41:15 risk 14:5 
+
+Q reason 13:11 regional 10:20 respect 11:17,21 role 19:21 
+quality 38:24 15:17 32:20 rejected8:3 15:1 26:17 28:3 rule 4:9 9:7,8 
+question 4:20,21 40:7 10:20 21:7 30:19 45:5 21:13 27:16 
+
+6:4 7:10,22 reasonable 30:17,17 45:8 48:24 49:8,18 37:3,7 46:2,4 
+8:20,21 9:9 28:16 37:18 49:21 respond 42:4 46:10 47:22 
+11:15 13:15,17 42:2 rejecting 20:14 Respondents 49:1,16,17 
+18:20 28:4 reasonably rejections 32:5 1:18,22 2:7,11 ruled29:22 
+39:10 41:16 41:23 45:23 related41:20 21:17 36:18 rules 9:7 
+42:5 47:13,13 reasons 10:12 relating 29:17 response 39:9 runs 6:21 
+
+questioning 13:21 15:3 relevant 3:21 rest 23:25 
+S32:10 27:22 29:13 7:22 10:18 reversed50:3 
+
+questions 6:18 S 2:1 3:1 31:13 36:11 13:15 16:24 review23:10 
+17:21 18:1 sanctions 28:140:20 50:2 reliance 33:13 39:23,25 43:13 
+21:14 48:9 satisfied10:16reassessing 33:17,18,20 revise 42:10 
+
+quibble 27:5 12:13 16:944:11 34:2 35:25 revisers 24:25 
+quickly 48:3 saying 7:15 14:2 rebuttal 2:12 41:21 44:10,12 re-exam 15:1,1,4 
+quid 41:2 18:22 19:8,19 44:25 45:1 48:24 49:2,3 15:17,23 16:7,8 
+quite 11:3 18:19 20:7,16 37:20 recall 19:6 relied11:8 33:15 34:3,8,11,14 
+
+33:7 38:21recapitulation rely 49:9 47:20,23 48:2,4 
+quo 41:2 says 6:4 7:8,20 37:4 renders 9:24 48:12 
+quote 22:6 25:2,5 17:13 20:18recognition 18:5 repeat 18:16 re-examination 
+
+29:11 45:9,9 23:23 25:5recognized3:13 repeated18:5 15:10,11 23:6,9 
+quotes 6:5 30:11 49:1027:18 25:12 34:14 36:5 42:6 
+
+Scalia 3:3,9 4:6 recognizing 8:11 reply 8:9 20:25 42:7,14,25 43:1 R 4:24 21:18,20 reconsideration 21:6 43:3,18 44:8 
+R 3:1 22:13,21 30:25 14:10 46:14 report 25:1,1 47:11,24 48:14 
+raise 35:8 31:7,10,17,22 reference 8:9 Representatives 48:21,25 
+rationale 6:12 36:8,15,19,21 45:22 43:11 re-examine 34:5
+RCA 4:20,20 37:5 44:24 45:3 referenced15:13 request 34:13 34:6
+
+5:15 6:16,19 50:420:13 49:15 requested34:12 re-exams 34:12
+7:7,9 8:15,22 scene 10:4referring 12:14 require 3:22 31:2 46:25
+8:24 20:20 21:5 scheme 15:2228:8 30:14 31:14 44:6 Rich 4:1 7:15,19 
+22:5,9 25:4 scope 15:4 34:11 49:11 required32:14 18:20 26:8
+26:20,20 36:24 second 9:17,24 refers 6:3 9:15 requirement Rich's 26:22
+37:4,12 38:11 19:10 24:7 38:1 9:18 5:12 37:15,17 27:19
+46:4 49:15 38:18,21 39:2,5 reflect 11:21 requirements ride 4:12
+
+read 5:20 6:2 7:1 41:2031:23,24 41:2 10:15 riding 37:10
+11:1 24:13 secret 41:5reflects 43:19 requires 12:15 right 12:12 22:22 
+38:13 45:23 section 3:17 5:4 refuse 48:15 13:7 31:14,18 29:19 33:19
+46:4 8:19 15:8,25 refute 26:13,15 research 31:24 38:4 48:12
+
+reading 7:7,9 23:8,22 24:25 regarding 45:16 reserve 21:15 rights 33:8,16 
+real 14:5 see 6:2 11:13 regardless 7:9 resolve 43:6 48:9 35:21,25 
+really 14:22 17:5 12:5 46:24 
+
+59 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+seeing 23:21 simply 18:16 14:15 15:3 16:2 Stewart 1:19 2:9 6:14 25:19,19 
+seen 14:8 32:18 16:4,6,7,21 36:16,19,21 25:25 38:14 
+Senate 25:1 43:9 single 6:8 33:11 18:1,14 19:16 38:23 40:15 49:12 
+sense 3:20,25 33:12 45:24 21:8,22 22:9 43:5 44:24 sure 25:9 
+
+4:1 13:5 15:23 situation 17:3 23:14 26:4,14 stick 14:14 susceptible 
+16:23 17:25 Sixth 20:18 26:15,16 27:24 stifle 3:14 18:5 15:10,11 
+19:12 25:9 32:8 slightly 12:2 28:14,22 29:2,4 Story 26:2 37:10 suspenders 
+39:21 40:20 smarter24:19 29:22 31:12 strangers 25:6 38:24 
+
+sensibilities Smith 25:11 32:21,25 33:3 strong 49:4 sweep37:2 38:19 
+24:23 Solicitor 1:19 36:2 39:14,19 struck 16:14 sweeping 23:16 
+
+sentence 9:15,17 solution 15:1,18 40:1,3,5,8,21 Studie 21:7 system34:3,5 
+9:20,24 19:11 16:8 45:10,14 45:12,19 46:9 subject 15:10 38:12 48:4,19 
+19:13,14,22 solve 13:3 46:12 48:22 submit 22:23 
+
+T24:3,4,7 25:23 somebody 14:9 standards 9:4 submitted50:5,7 
+T 2:1,1 26:6 36:7,8 42:22 43:25 28:2 32:15 substance 44:21 
+take 11:6 12:25 38:18,21 39:2,4 somewhat 42:7 45:13 substantial 40:5 
+
+23:1939:5,8 sort 11:5 39:18 stare 21:24 substantiate 5:9 
+taken5:15 7:2 sentences 7:3 sorts 32:16 stark 34:16 substantively 
+
+10:6separate 5:13 SOTOMAYOR started23:5,20 44:17 
+takes 43:3 47:23 12:3 47:16 10:25 12:1,8,20 26:1 sufficient 14:23 
+talk 47:4separately 5:11 12:22 29:21 state 7:23 8:17 42:25 43:5 
+talking 7:4 15:7 40:19 30:1,5 38:16 stated27:17 45:19 
+
+19:4 24:5 26:11 seriously 14:1 speak 9:13 19:6 49:11 suggest 5:19 
+28:13serve 42:17 specific 6:13 statement 22:20 15:21 24:9 
+
+talks 6:7 7:5 49:19 specifically statement's suggested3:19 
+technology 15:16set 37:4 39:17,20 33:19 40:16 27:20 30:6,20 
+
+35:440:10 specificity 17:19 States 1:1,12,21 suggesting 5:22 
+Tell 14:13SETH 1:17 2:6 19:7 2:10 36:17 20:3 
+telling 31:1021:16 specified43:17 stating 19:10 suggestion 45:5 
+
+38:12setting 42:11 specify 3:18 4:17 statistics 32:8 suggestions 
+tells 12:4shed15:25 9:13 statute 4:15,16 14:23 
+term 42:18sheep47:16 spelling 35:9 9:12,18 10:18 suggests 45:10 
+testimony 5:9shifting 4:7 13:7 spent 25:13 13:7 16:22 18:8 suit 42:1 44:14 
+
+20:19 28:2519:14,15 stability 21:24 23:2,3,23 24:15 superfluous 9:24 
+Thank 3:9 36:14 shifts 9:16,20,21 stage 20:1 37:20 38:24 24:6 39:5 
+
+36:15 44:2420:7 standard 3:12,16 39:11,25 40:3 superintend 36:4 
+45:3 50:4shortly 26:8 3:18,20 4:17,18 45:21 46:25 supplemental 
+
+theory 39:1,4 show40:17 4:23 5:2,7,14 47:1,3 49:20 22:24 
+thing 13:23,24 shows 32:4 6:6,15,17 7:13 statutory 9:8,9 support 14:21 
+
+37:3 38:1 39:9 side 18:3 35:2 8:2,4,17,19 9:3 15:10 21:23 supporting 1:22 
+44:8,13 38:21 47:5 9:10,13,22 stay 48:13,15,16 2:11 36:18 
+
+things 17:5 35:5 significant 36:6 10:21,24 11:3,6 48:17 supports 26:7 
+think 5:3 7:18,24 silent 8:19 11:20,23 12:2,3 stayed43:3 suppose 36:2 
+
+8:16,18 10:10 similarly 32:22 12:4 13:10 stays 47:24 Supreme 1:1,12 
+10:14 12:12 
+
+60 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+13:20 16:19 11:24 21:9 universal 26:14 47:25 48:3,8,16 win 34:17 
+17:16 19:3,6,23 26:19 32:1 48:6 unmodified 48:21 window43:14 
+20:24 25:13 48:11 12:16 wanted20:6 24:1 wire 6:11 41:8,13 
+27:5 29:3 30:10 truth6:21 unsettled18:19 47:7 wish34:5 
+30:14 31:23 try 15:21 uphold 48:1 warrant 27:23 withheld 16:25 
+34:5 35:2 36:24 trying 11:12 urges 49:17 Washburn 26:3 word 25:23,23 
+37:16 38:8,23 46:11 47:15,15 urging 21:13 Washington1:8 27:5 38:19 
+38:25 39:11,14 turning 14:6 use 38:19 42:18 1:15,17,20 words 32:12 38:4 
+40:15 41:7 42:6 two 13:22 14:5,9 46:16,17,20 wasn't 31:15,16 38:15 46:15 
+47:4,17 48:9,25 14:23 21:5,23 useful 47:8 31:20 47:3 
+
+thinks 14:9 24:4 32:15 uses 25:23,23 Waxman1:17 work 9:20 35:12 
+third 24:8,18 33:10 40:22 38:4 2:6 21:16,18,20 38:12 39:7 
+
+33:16 40:23 45:14 usually 48:22 21:21 22:15,18 46:25 
+44:13 type 14:5,9 16:9 22:23 23:1,18 world 8:16 24:2 
+
+VTHOMAS 1:15 types 13:22 15:5 24:16,22 27:3 35:3,13 
+v 1:5 3:4 25:12 2:3,13 3:7 45:1 15:15,16 47:20 28:7,13 29:25 worried16:18 
+
+26:3 39:22 40:7 thought 6:21 30:4,8 31:6,9 worse 35:4 
+U valid 9:16 19:22 7:23 8:1 9:6 31:22 32:20 wouldn't 9:4 
+
+ultimate 19:25 24:5,9 27:10 16:14 22:15 33:1 34:4 35:11 19:18 37:23 
+unaffected8:5 37:1334:6 36:11 35:16,19 36:9 43:16 44:1 
+unanimous 36:13 validity 6:22 8:11 42:20 44:22 36:15 46:25 
+unanimously 18:9,12,15,23 thread 41:7 way 5:18 16:17 wrapper32:4 
+
+22:6 25:3,20 20:4,16,22 22:4 three 21:25 20:5 26:13 30:2 writers 21:1 
+uncertainties 25:3,7,24 29:17 23:21 40:20 34:15 37:16 written15:9 33:8 
+
+41:24 30:13 32:1045:13 41:24 42:16 35:21 
+unclear 19:23 33:5 34:23tie 35:7 45:23 46:4,24 wrong 7:15,18 
+unconsidered 38:17 40:9 43:6 time 4:8 16:5 47:4 
+
+X29:10 47:8 50:121:15 33:12 weakened8:12 
+undergirded5:6 variances 6:20 x 1:2,7 34:11,15,18 11:2 21:3 
+
+5:15 variant 39:2137:6 43:14 weight 26:25 Yunderstand various 15:847:23 27:1 28:20,23 
+years 10:17 22:7 11:14 16:10 41:25 45:7title 7:5 30:12,24 31:11 
+
+25:11 39:2238:14 verbal 6:20today's 35:3,13 37:7 40:13 45:6 
+42:19,20,21 understanding view3:22 4:15 told 12:24 28:20 went 20:5 
+43:25 44:143:20 8:15 13:1829:12 Western 20:17 
+45:25 46:1understands 19:14 29:2,3 tool 42:11 47:15 we'll 3:3 36:19 
+
+35:3 40:1947:18 we're 15:7 44:8 Z
+understood 7:12 viewing 6:17totally 35:23 47:2,14,15,17 Zurko 39:2221:1 37:25 41:1 views 14:23trade 35:6 41:5 we've 8:7 z4 30:15 45:7 46:3 49:16 Virtually 11:4treatise 21:1 whatsoever 
+uniform 22:3 vitiates 33:12treatises 20:25 23:15 1 
+
+25:25 voted43:9trial 12:18 30:9 whichever34:15 10 42:21 43:25 
+unimpeded29:234:16 49:25 white 29:8 44:1WUnited1:1,12,21 true 7:5 10:1 Wilson 21:7 10-290 1:4 3:4 want 17:14 22:23 2:10 36:17 
+
+61 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+100 34:17 5 
+11:03 1:13 3:2 52 15:24 
+112 15:8 
+12 31:24 7 
+12:02 50:6 7 6:6,10 25:14,14 
+15 45:25 
+18 1:9 8 
+
+1873 26:2 8 6:6,10 25:14 
+1894 40:6 44:25 
+19 26:8 
+19th 37:9,11 
+1952 7:11,11,20 
+
+9 
+9 20:25 
+
+7:24 8:1,10,10 
+9:6 18:8,19,22 
+20:2,14 22:2 
+24:25 26:8 
+36:12 38:2 
+45:25 47:10 
+49:17,21 
+
+1980 15:24 16:5 
+23:3,7 
+
+1984 10:5 27:18 
+1999 23:9 
+
+2 
+2 25:5 
+20 42:19,20,21 
+
+43:25 44:1,2 
+200 8:9 20:13 
+2011 1:9 
+21 2:7 
+28 22:7 
+282 3:17 5:4 8:19 
+
+15:25 23:8,22 
+24:25 
+
+3 
+3 2:4 8:9 20:13 
+
+25:11 
+30 10:17 44:1,2 
+34 8:8 
+36 2:11 8:8 
+
+4 
+45 2:14 
+
+62 
+
+Alderson Reporting Company 
+
+

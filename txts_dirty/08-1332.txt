@@ -1,0 +1,7247 @@
+
+    
+
+                         
+
+          
+
+                       
+
+               
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+CITY OF ONTARIO, CALIFORNIA, : 
+
+ET AL., : 
+
+Petitioners : No. 08-1332 
+
+v. : 
+
+JEFF QUON, ET AL. : 
+
+- - - - - - - - - - - - - - - - - x 
+
+Washington, D.C. 
+
+Monday, April 19, 2010 
+
+The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:06 a.m. 
+
+APPEARANCES: 
+
+KENT L. RICHLAND, ESQ., Los Angeles, California; on 
+
+behalf of Petitioners. 
+
+NEAL K. KATYAL, ESQ., Deputy Solicitor General, 
+
+Department of Justice, Washington, D.C.; on 
+
+behalf of the United States, as amicus curiae, 
+
+supporting Petitioners. 
+
+DIETER DAMMEIER, ESQ., Upland, California; on behalf of 
+
+Respondents. 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+   
+
+                   
+
+                   
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S 
+
+
+ORAL ARGUMENT OF PAGE 
+
+KENT L. RICHLAND, ESQ. 
+
+On behalf of the Petitioners 3 
+
+ORAL ARGUMENT OF 
+
+NEAL K. KATYAL, ESQ. 
+
+On behalf of the United States, 
+
+as amicus curiae, supporting the Petitioners 18 
+
+ORAL ARGUMENT OF 
+
+DIETER DAMMEIER, ESQ. 
+
+On behalf of the Respondents 27 
+
+REBUTTAL ARGUMENT OF 
+
+KENT L. RICHLAND, ESQ. 
+
+On behalf of the Petitioners 55 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S 
+
+(11:06 a.m.) 
+
+CHIEF JUSTICE ROBERTS: We will hear 
+
+argument next in Case 08-1332, the City of 
+
+Ontario v. Quon. 
+
+Mr. Richland. 
+
+ORAL ARGUMENT OF KENT L. RICHLAND 
+
+ON BEHALF OF THE PETITIONERS 
+
+MR. RICHLAND: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+Under the less restrictive constitutional 
+
+standards applied when government acts as employer, as 
+
+opposed to sovereign, there was no Fourth Amendment 
+
+violation here. 
+
+First, Ontario Police Sergeant Jeff Quon had 
+
+no reasonable expectation of privacy vis-à-vis the 
+
+Ontario Police Department in text messages on his 
+
+department-issued pager in light of the operational 
+
+realities of his workplace, which included the explicit 
+
+no privacy in text messages policy. 
+
+CHIEF JUSTICE ROBERTS: The written policy? 
+
+(Laughter.) 
+
+CHIEF JUSTICE ROBERTS: The whole -- the 
+
+argument here, of course, is that that was modified by 
+
+the instructions he got from the lieutenant. Do we 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+follow the written policy or the policy they allegedly 
+
+enforced in practice? 
+
+MR. RICHLAND: That is the argument, 
+
+Mr. Chief Justice. But, in fact, there was no 
+
+inconsistency between the no privacy in text messages 
+
+aspect of the written policy and the oral information 
+
+he was given. 
+
+First of all, the written policy itself was 
+
+broad enough to cover text messages. It stated, for 
+
+example, at Appendix 152, that it applied to city-owned 
+
+computers and all associated equipment. And again at 
+
+152: "City-owned computer equipment, computer 
+
+peripheral, city networks, the Internet, e-mail, or 
+
+other city-related computer services." And, finally, the 
+
+agreement to the policy was that it applied -- this is 
+
+at Appendix 156 -- to city-owned computers and related 
+
+equipment. 
+
+So certainly the written policy itself was 
+
+broad enough to cover text messaging pagers, but in 
+
+addition to that, nothing in the oral statements made by 
+
+Lieutenant Duke undermined the no-privacy aspect of the 
+
+written policy. 
+
+CHIEF JUSTICE ROBERTS: Well, we are dealing 
+
+with Mr. Quon's reasonable expectations, right? 
+
+MR. RICHLAND: Yes, yes. 
+
+4 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: And even with the 
+
+written policy, he has the instructions -- everybody 
+
+agrees -- you can use this pager for private 
+
+communications. 
+
+MR. RICHLAND: That’s correct. 
+
+CHIEF JUSTICE ROBERTS: We’re not going to 
+
+audit them. Right? That's what he said. He has to pay 
+
+for them. Right? Now, most things, if you're paying for 
+
+them, they’re yours. And this -- it particularly covered 
+
+messages off-duty. 
+
+Now, can't you sort of put all those 
+
+together and say that it would be reasonable for him to 
+
+assume that private messages were his business? They 
+
+said he can do it. They said, you’ve got to pay for 
+
+it. He used it off duty. They said they’re not going 
+
+to audit it. 
+
+MR. RICHLAND: Not when he was told at the 
+
+same time that these text messages were considered 
+
+e-mail and could be audited, and that they were 
+
+considered public records and could be audited at any 
+
+time; that is, it has to do with a different aspect of 
+
+what the policy -- the oral policy --
+
+JUSTICE GINSBURG: In addition to -- that 
+
+was said at the meeting -- and Lieutenant Duke, who was 
+
+the same one who later says: I'm not going to monitor 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+as long as you pay the difference. There was the 
+
+statement at the meeting by that same person. Wasn't 
+
+there something in writing by the police chief to follow 
+
+up after that meeting? 
+
+MR. RICHLAND: Yes, there was, 
+
+Justice Ginsburg. There was a memo that was sent that 
+
+memorialized the statements at the meeting, that 
+
+specifically stated that the text messages were treated 
+
+as e-mail under the written policy. 
+
+CHIEF JUSTICE ROBERTS: Let me ask you --
+
+JUSTICE SOTOMAYOR: Counsel --
+
+CHIEF JUSTICE ROBERTS: Let me ask you to 
+
+put the written policy aside. Hypothetical case: There’s 
+
+no written policy. Would he have a reasonable 
+
+expectation in the privacy of his personal e-mail, text 
+
+messages, in that case? 
+
+MR. RICHLAND: Not --
+
+CHIEF JUSTICE ROBERTS: In other words, 
+
+all we know is the list that I went through earlier. 
+
+MR. RICHLAND: Yes. Yes, Mr. Chief Justice. 
+
+Assuming all the other factors in this case were 
+
+present --
+
+CHIEF JUSTICE ROBERTS: Yes. 
+
+MR. RICHLAND: That is, he is using his 
+
+department-issued pager; he is a police officer and 
+
+6 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+indeed a member of the high-profile SWAT team of the 
+
+police department. He should be aware just by virtue of 
+
+that fact that there is going to be litigation involving 
+
+incidents that the SWAT team gets involved in where there 
+
+will be requests for the communications that are made on 
+
+that official department-issued pager. 
+
+And, in addition, he should be aware of the 
+
+fact -- and this is something that the dissenters to 
+
+denial of en banc said below. He should be aware that 
+
+there may be inquiries from boards of the police to 
+
+determine whether the conduct of the police in a particular 
+
+incident is appropriate. 
+
+JUSTICE SCALIA: Mr. Richland, a little 
+
+earlier you referred us to page 152 and 156 of --
+
+MR. RICHLAND: Of the appendix to the 
+
+petition. 
+
+JUSTICE SCALIA: Oh, the appendix to the 
+
+petition. 
+
+MR. RICHLAND: Yes, and that's the policy. 
+
+That is the written policy, Justice Scalia. I'm sorry 
+
+for the confusion. 
+
+CHIEF JUSTICE ROBERTS: Well, that’s the 
+
+written policy. 
+
+MR. RICHLAND: That is the written policy, 
+
+and the --
+
+7 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: But the policy 
+
+itself, from the point of view of Officer Quon, is a 
+
+little bit more complicated than that. 
+
+MR. RICHLAND: Well, of course, what the --
+
+what Officer Quon's point of view is must also be 
+
+tempered by what we are reasonably going to accept as a 
+
+society of his understanding of the circumstances. 
+
+JUSTICE SOTOMAYOR: Counsel --
+
+CHIEF JUSTICE ROBERTS: You would agree, I 
+
+think, that if the SCA, the Stored Communications Act --
+
+MR. RICHLAND: Yes. 
+
+CHIEF JUSTICE ROBERTS: If that made it illegal 
+
+to disclose these e-mails, then he would certainly be correct 
+
+that he has a reasonable expectation of privacy; isn't that 
+
+right? 
+
+MR. RICHLAND: No, Mr. Chief Justice. We 
+
+would not agree with that. 
+
+CHIEF JUSTICE ROBERTS: It's not reasonable 
+
+to assume that people are going to follow the law? 
+
+MR. RICHLAND: Well, for several reasons. 
+
+Number one, this Court has repeatedly stated that the 
+
+mere fact that something is contrary to the law does not 
+
+in itself permit a reasonable expectation of privacy. 
+
+Just two terms ago, in Virginia v. Moore, this Court 
+
+said precisely that. And of course it said it earlier 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+in California v. Greenwood, and in a number of other 
+
+cases -- Oliver v. United States. 
+
+Because the effect of that, of course, would 
+
+mean that we would be constitutionalizing every positive 
+
+law that might be enacted by a State or the 
+
+Federal legislature. 
+
+JUSTICE KENNEDY: Well, on that point, do we 
+
+take it as the law of the case or as a given that it was 
+
+illegal for I think Arch to turn over the transcripts to 
+
+the police department? What do we do with that part of 
+
+the case? 
+
+MR. RICHLAND: Justice Kennedy, I don’t 
+
+believe it is law of the case that is binding on this 
+
+Court, since this Court is a higher court. Although it 
+
+is true that this Court denied certiorari on that issue, 
+
+I don't believe it is bound by the Ninth Circuit 
+
+determination of that, and in fact it is our contention 
+
+that that was incorrectly decided. 
+
+JUSTICE KENNEDY: On remand -- has there been 
+
+a final judgment issued as to Arch, or is that just 
+
+being held --
+
+MR. RICHLAND: I don't believe so, 
+
+Justice Kennedy. I believe that everything has been 
+
+stayed pending the determination by this Court. 
+
+JUSTICE SOTOMAYOR: Counsel, let's assume 
+
+9 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that in this police department, everyone knew, the 
+
+supervisors and everyone else, that the police 
+
+department people spoke to their girlfriends at night. 
+
+MR. RICHLAND: Yes, Justice Sotomayor. 
+
+JUSTICE SOTOMAYOR: And one of the chiefs, 
+
+out of salacious interest, decides: I'm going to just 
+
+go in and get those texts, those messages, because I 
+
+just have a prurient interest. Does that officer have 
+
+any expectation of privacy that his boss won't just 
+
+listen in out of prurient interest? 
+
+MR. RICHLAND: Justice Sotomayor, as to the 
+
+first aspect, the question of reasonable expectation of 
+
+privacy, the motive should have no impact. The motive 
+
+of looking should have no impact. The question of 
+
+reasonable expectation of privacy must be analyzed 
+
+according to the relationship between the officer and 
+
+his -- and his employer. 
+
+JUSTICE SOTOMAYOR: But if in fact -- and 
+
+whether we agree with this conclusion or not, we accept 
+
+the lower court's views that there was an expectation 
+
+that the chiefs were not going to read these things, 
+
+some expectation of privacy --
+
+MR. RICHLAND: Yes. 
+
+JUSTICE SOTOMAYOR: -- the limits of it have 
+
+to be limited for all of the reasons you’ve said, doesn't 
+
+10 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+this case begin and end on whether or not what the jury 
+
+found is reasonable grounds for what the city did? 
+
+MR. RICHLAND: I think that what this case 
+
+begins and ends with, if we assume that there was a 
+
+reasonable expectation of privacy, is under the 
+
+plurality opinion in O'Connor: Whether the search 
+
+itself was reasonable. And the jury did, of course, 
+
+make a determination as to the purpose of the search. 
+
+JUSTICE SCALIA: I guess we don't decide 
+
+our -- our Fourth Amendment privacy cases on the basis 
+
+of whether there -- there was an absolute guarantee of 
+
+privacy from everybody. I think -- I think those cases 
+
+say that if you think it can be made public by anybody, 
+
+you don't -- you don't really have a right of privacy. 
+
+So when the -- when the filthy-minded police 
+
+chief listens in, it's a very bad thing, but it's not --
+
+it’s not offending your right of privacy. You expected 
+
+somebody else could listen in, if not him. 
+
+MR. RICHLAND: I think that's correct, 
+
+Justice Scalia. 
+
+JUSTICE SCALIA: I think it is. 
+
+MR. RICHLAND: And I think the reason why 
+
+you must have the two-step analysis in a case of this 
+
+sort -- that is, first look at the question as to 
+
+whether there’s a reasonable expectation of privacy, 
+
+11 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+and then determine, if there was, whether the search was 
+
+reasonable -- is precisely for the reason that, without 
+
+that, what we will have in every case is the claim that 
+
+there was a salacious reason, that that was the reason. 
+
+And we’ll be litigating every one of those cases --
+
+JUSTICE GINSBURG: Then, according to what 
+
+you just said, the jury determination was superfluous. 
+
+If there was no reasonable expectation of privacy 
+
+because the officers were told this is just -- we 
+
+treat this just like e-mails, it can be monitored, it 
+
+can be made public, then there would be no reasonable 
+
+expectation of privacy and there would be no question to 
+
+go to the jury. 
+
+MR. RICHLAND: That’s correct, 
+
+Justice Ginsburg. And it is our position that this 
+
+should never have gone to the jury, that summary 
+
+judgment should have been granted in favor of the 
+
+Ontario Police Department. 
+
+JUSTICE KENNEDY: So you have two arguments: 
+
+One, that it's -- there’s no reasonable expectation of 
+
+privacy; even if there were, that this was a reasonable 
+
+search. 
+
+MR. RICHLAND: That’s correct. 
+
+JUSTICE SCALIA: Is reasonable expectation 
+
+of privacy a judge question or a jury question? 
+
+12 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. RICHLAND: Well, if there is a conflict 
+
+in the facts, I presume the jury must resolve those --
+
+that factual conflict. But in this case, I don't 
+
+believe there is a conflict in the facts, and, therefore, 
+
+it is a judge question. 
+
+CHIEF JUSTICE ROBERTS: Did your client 
+
+treat on-duty text messages different from off-duty text 
+
+messages? 
+
+MR. RICHLAND: It did, once there was an 
+
+initial determination made as to the --
+
+CHIEF JUSTICE ROBERTS: Why did it do that? 
+
+MR. RICHLAND: Excuse me. I'm sorry. 
+
+CHIEF JUSTICE ROBERTS: Why did it treat 
+
+them differently? Under your theory, they’re all the 
+
+same -- no expectation of privacy. 
+
+MR. RICHLAND: It treated them differently 
+
+out of -- because there were two aspects to the case. 
+
+One aspect was the initial determination that Chief 
+
+Sharp ordered to say: I just want to know, is our 
+
+character limit efficacious here, or do we need to have 
+
+a higher character limit? And for that purpose, they 
+
+needed to just look at all of them. And they did; they 
+
+looked at all of the text messages. 
+
+But then when they saw that some of them may 
+
+have involved violations of department regulations, then 
+
+13
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+it was sent to Internal Affairs, and they redacted the 
+
+off-duty messages because they were --
+
+JUSTICE KENNEDY: Is that something like the 
+
+plain view argument? In search and -- search and --
+
+MR. RICHLAND: I suppose. 
+
+JUSTICE KENNEDY: Well, I'm serious. In 
+
+other words, there is, under your view --
+
+MR. RICHLAND: Yes. 
+
+JUSTICE KENNEDY: -- legitimate grounds to 
+
+look at the messages, and then once they see it, they 
+
+don't have to ignore it. 
+
+MR. RICHLAND: I think that’s correct, 
+
+Justice Kennedy. 
+
+CHIEF JUSTICE ROBERTS: Well, why did -- I'm 
+
+sorry. I still don't understand. It redacted them, 
+
+right? 
+
+MR. RICHLAND: Redacted because the inquiry 
+
+-- the second stage of the inquiry in Internal Affairs --
+
+CHIEF JUSTICE ROBERTS: Yes. 
+
+MR. RICHLAND: -- was simply to determine how 
+
+much time was being spent on duty sending personal messages. 
+
+CHIEF JUSTICE ROBERTS: Right. 
+
+MR. RICHLAND: So the Internal Affairs 
+
+Department said: We don't need to look at the off-duty 
+
+messages. We’re going to redact them. Why get into all 
+
+14 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of that? We don't have to look. 
+
+The department was pretty scrupulous. And I 
+
+think that's part of what makes the entire approach that 
+
+they took to this reasonable. It makes the search 
+
+aspect of the case reasonable. And I think it's 
+
+important, in that regard, to look at the nature --
+
+JUSTICE SCALIA: Excuse me. You said they 
+
+did get to the off-duty text messaging later? 
+
+MR. RICHLAND: No, it was the other way 
+
+around. They looked at the on-duty text messaging at 
+
+the later stage, at the Internal Affairs stage. But 
+
+they looked at all of the text messages when the only 
+
+purpose for the inquiry was to determine how many of the 
+
+text messages in general are job-related and how many 
+
+were personal? Because the question was: Do we need to 
+
+raise the character limit --
+
+CHIEF JUSTICE ROBERTS: Well, you don't have 
+
+to look at the messages to determine that with respect 
+
+to the off-duty messages, right? 
+
+MR. RICHLAND: Well -- well, you did, 
+
+because of the fact, Mr. Chief Justice, that there were 
+
+job-related communications even while there was 
+
+off-duty. These officers were SWAT team officers. They 
+
+were on duty, as Sergeant Quon said, 24/7. That was one 
+
+of the reasons why they had the text messaging pagers. 
+
+15 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE ALITO: If someone wanted to send a 
+
+message to one of these pagers, what sort of a device 
+
+would you need? Do you need to have another pager, or 
+
+can you -- could you send a message to one of these 
+
+devices from some other type of device? 
+
+MR. RICHLAND: No, there were messages that 
+
+were sent from various other devices. Is the question 
+
+whether that could be physically done, electronically 
+
+done? Because, yes, clearly that was --
+
+JUSTICE ALITO: Yes. What other type of 
+
+device could you use to send a message to one of these 
+
+pagers? 
+
+MR. RICHLAND: It -- oh. I'm not certain 
+
+if it was something other than another text messaging 
+
+pager. It did appear that there were some e-mail 
+
+entries in the transcripts themselves, which suggested 
+
+that there might have been a way to communicate to them 
+
+with e-mail, but that's just -- that's all in the record 
+
+that suggests that. 
+
+JUSTICE SCALIA: You know, if they were 
+
+on duty 24/7, there weren't any off-duty messages, were 
+
+there? 
+
+(Laughter.) 
+
+MR. RICHLAND: Well, I may have misspoke. 
+
+They were on call 24/7. They were the SWAT team, and 
+
+16
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+they had to respond to emergencies. 
+
+JUSTICE GINSBURG: If we take it that the 
+
+Stored Communications Act does say that the provider may 
+
+not give out the transcripts, if we take that as given, 
+
+then how can the department lawfully use the 
+
+transcripts? 
+
+MR. RICHLAND: Well, Justice Ginsburg, first 
+
+of all, there was no -- there is no current claim that 
+
+anything that the department did with respect to the 
+
+Stored Communications Act was unlawful. So it may be 
+
+that the other entity, Arch Wireless, violated the 
+
+Stored Communications Act, but that would not preclude 
+
+the department -- which was, after all, the subscriber 
+
+-- from requesting to see what, in fact, the transcripts 
+
+disclosed. 
+
+But in addition to that, there is also the 
+
+fact that, as I said before, a reasonable expectation of 
+
+privacy couldn't be based simply on the fact that there 
+
+was a statute, and particularly not a statute like the 
+
+Stored Communications Act, because that's a statute that’s 
+
+extremely, extremely technical. And there is a --
+
+one has to determine whether an entity was working 
+
+either as an electronic communications service or a 
+
+remote computing service, and so on. Courts are all 
+
+over the board on this. As this Court noted in United 
+
+17 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+States v. Payner, a complicated law like that simply 
+
+cannot be the basis for a reasonable expectation of 
+
+privacy. 
+
+And if I may reserve the rest of my time, 
+
+thank you. 
+
+CHIEF JUSTICE ROBERTS: Certainly, counsel. 
+
+Mr. Katyal. 
+
+ORAL ARGUMENT OF NEAL K. KATYAL, 
+
+ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE, 
+
+SUPPORTING THE PETITIONERS 
+
+MR. KATYAL: Thank you, Mr. Chief Justice, 
+
+and may it please the Court: 
+
+Millions of employees today use technologies 
+
+of their -- of their employers under policies 
+
+established by those employers. When a government 
+
+employer has a no-privacy policy in place that governs 
+
+the use of those technologies, ad hoc statements by a 
+
+non-policy member cannot create a reasonable expectation 
+
+of privacy. Put most simply, the computer help desk 
+
+cannot supplant the chief's desk. That simple, clear 
+
+rule should have decided this case. 
+
+Instead, the Ninth Circuit found that the 
+
+1999 policy applied to pagers, but then concluded that 
+
+that 1999 policy was informally modified years later. 
+
+And that decision should be reversed. It disregards 
+
+18 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+this Court's repeated holdings, including 2 years ago in 
+
+the Chief Justice's opinion in Engquist v. Oregon about 
+
+the greater amount of leeway that the government has 
+
+when it acts as an employer. And it also is not 
+
+consistent with the plurality opinion in O'Connor, which 
+
+observed that when the government adopts a policy that 
+
+its employees lack privacy, no reasonable expectation of 
+
+privacy exists. 
+
+JUSTICE KENNEDY: Let me ask you this: 
+
+Suppose the department asks for opinion of legal 
+
+counsel whether or not transmittal of the transcripts by 
+
+Arch to the department was a violation of the Act, and 
+
+the counsel said: This was a violation of the Act; they 
+
+had no right to send them to you. Would the department 
+
+then still have had a right to look at the transcripts? 
+
+MR. KATYAL: So the question is if the 
+
+Stored Communications Act is violated? 
+
+JUSTICE KENNEDY: Yes. Yes. 
+
+MR. KATYAL: We don't think the Stored 
+
+Communications Act was --
+
+JUSTICE KENNEDY: No, but -- no, my 
+
+hypothetical is that the -- that there is a legal 
+
+counsel's opinion that this was in violation of the Act, 
+
+and let's say the district court said it is in violation 
+
+of the Act. Let's say we say it’s in violation of the 
+
+19 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Act. Is that the end of case? The department cannot 
+
+look at the transcripts? 
+
+MR. KATYAL: Oh, absolutely not. I mean, I 
+
+think this Court has repeatedly said that -- that 
+
+various privacy laws don't determine the scope of the 
+
+Fourth Amendment. I think it said so most clearly in 
+
+California v. Greenwood. And I think that's for a very 
+
+simple reason, that things like the Stored 
+
+Communications Act, Justice Kennedy, the Electronic 
+
+Communications Privacy Act, came about --
+
+JUSTICE KENNEDY: Well, California v. 
+
+Greenwood was a question of -- of a Fourth Amendment 
+
+standard that had to be nationwide. So you say it's the 
+
+same -- same thing here? 
+
+MR. KATYAL: I -- I do think it’s the same, 
+
+and for this simple reason, that when you have a 
+
+nationwide standard or a State standard, it’s to fill 
+
+the gap, whatever isn’t necessarily protected by the 
+
+Fourth Amendment. And here --
+
+JUSTICE KENNEDY: Well, but Greenwood was in 
+
+the -- in the context of the exclusionary rule in 
+
+criminal proceedings. I certainly think that States --
+
+at least we could make the reasonable argument that 
+
+States can have different policies with respect to their 
+
+employees, that have to be respected. 
+
+20 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. KATYAL: Absolutely, Justice Kennedy. I 
+
+don't disagree with that. I think the only question is, 
+
+if the -- if I understand your question it’s, does a 
+
+Federal statute about privacy somehow matter to the 
+
+Fourth Amendment analysis about reasonable expectations 
+
+of privacy? And there our contention is, no; it’s 
+
+precisely because Congress enacted the Stored 
+
+Communications Act to fill gaps in Fourth Amendment law. 
+
+That -- that's why it's enacted. 
+
+And for -- for this Court to then use that 
+
+very Act to be the template on which reasonable 
+
+expectations of privacy may spring I think would be a 
+
+very -- it would be a novel proposition. Nor should --
+
+JUSTICE ALITO: Well, that's -- that's a 
+
+little bit puzzling because there are -- electronic 
+
+communications are stored all over the place in -- and 
+
+there isn't a history -- these are -- these are 
+
+relatively new. There isn't a well-established 
+
+understanding about what is private and what isn't 
+
+private. It's a little different from putting garbage 
+
+out in front of your house, which has happened for a 
+
+long time. 
+
+If -- if statutes governing the privacy of 
+
+that information don't have any bearing on reasonable 
+
+expectation of privacy under the Fourth Amendment, it's 
+
+21
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+some -- I -- I'm at something of a loss to figure out 
+
+how to determine whether there is a reasonable 
+
+expectation of privacy regarding any of those things. 
+
+MR. KATYAL: Well, Justice Alito, I do think 
+
+that the underlying premise of your question is one with 
+
+which we entirely agree. These are technologies that 
+
+are rapidly in flux, in which we don't have intuitive 
+
+understandings the way we do about, say, trash and so 
+
+on. And it's precisely for that reason I think the 
+
+Court should be very careful to constitutionalize and 
+
+generate Fourth Amendment rules in this area at the 
+
+first instance. 
+
+To do so I think really does freeze into --
+
+into -- into place something that the legislature can't 
+
+then fix, going to Justice Kennedy's opinion in, for 
+
+example, Murray v. Giarratano, in which he said that 
+
+constitutionalizing in that area -- constitutionalizing 
+
+may pretermit legislative solutions. 
+
+Now, here the Stored Communications Act is 
+
+not violated under any way, shape, or form. The Stored 
+
+Communications Act has two different provisions in it, 
+
+one having to do with remote -- remote computing 
+
+services, RCSs. That's when an entity offers storage 
+
+facilities. And the other is for an electronic 
+
+communications service. That is essentially transmission 
+
+22 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of messages from point to point. 
+
+CHIEF JUSTICE ROBERTS: Your point that you 
+
+made just a moment ago, that we don't want to freeze into 
+
+place the constitutional requirements with respect to 
+
+new technology, I wonder if it cuts the other way. We’re 
+
+dealing with an amendment that looks to whether 
+
+something is reasonable. And I think it might be the 
+
+better course to say that the Constitution applies, but 
+
+we’re going to be more flexible in determining what’s 
+
+reasonable because they are dealing with evolving 
+
+technology. 
+
+MR. KATYAL: Well, I think that the -- the 
+
+best way -- I think the most -- the easiest way for the 
+
+Court to resolve this is to simply say that when we are 
+
+dealing with what is reasonable, we look to the policy. 
+
+And here there’s a policy by the employer, it says that 
+
+computer-associated -- computer-related equipment and 
+
+others, there’s no expectation of privacy. You have a 
+
+person who is told that repeatedly. 
+
+CHIEF JUSTICE ROBERTS: Well, but that puts 
+
+a lot of weight -- I mean, there are some things where we 
+
+don't bind them. You know, you get the usual parking 
+
+garage thing that has got all this small print on the 
+
+back. We -- we don't say that you’re bound by that, 
+
+because nobody reads it. 
+
+23 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+But in here, I just don't know. I just 
+
+don't know how you tell what’s reasonable -- I suspect 
+
+it might change with how old people are and how 
+
+comfortable they are with the technology -- when you have 
+
+all these different -- different factors. 
+
+You know, they’re told you can use it for 
+
+private; you’ve got to pay for it. I think if I pay for 
+
+it, it's mine, and it’s not the employer's. 
+
+MR. KATYAL: Well, I think the clearest way, 
+
+Mr. Chief Justice, to decide what is reasonable and what 
+
+isn't is actually the terms of the policy. And it seems 
+
+to me very little is more unreasonable than expecting 
+
+a right to privacy after you’ve been told in a 
+
+policy you have no privacy. 
+
+JUSTICE SCALIA: Suppose we find a right of 
+
+privacy. Is that the end of the case? I mean, wouldn't 
+
+you also -- in order to sustain this lawsuit, wouldn't 
+
+you also have to find that it was an unreasonable --
+
+MR. KATYAL: Absolutely. There are two 
+
+arrows in the city's quiver, and I think they're right 
+
+as to both of them. But --
+
+JUSTICE SCALIA: What’s the government's 
+
+position on the unreasonableness of the search? 
+
+MR. KATYAL: The government's position is 
+
+that the Ninth Circuit just from the get-go got the 
+
+24
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+standard wrong by citing -- by using a Schowengerdt test 
+
+which was, was this -- was this search the least 
+
+restrictive alternative? And we think this Court has 
+
+repeatedly said that's the wrong way of thinking about 
+
+it, that that puts judges in the position of 
+
+second-guessing searches on the ground, that they’re 
+
+not really fully -- fully equipped to do so. 
+
+So I do think that is a possible way to 
+
+resolve this, Justice Scalia, but --
+
+JUSTICE SCALIA: Maybe an easier way, huh? 
+
+MR. KATYAL: Well, I don't know that it's 
+
+easier, in the following sense: I think that thousands 
+
+of employers across the country rely on these policies 
+
+and millions of employees. And the Ninth Circuit's 
+
+decision puts that reliance in some jeopardy, because it 
+
+said that you can have an official policy and it can be 
+
+taken back by what some ad hoc subordinate says. And 
+
+that is, I think, a very destructive notion to the idea 
+
+of reliance on these policies and setting --
+
+CHIEF JUSTICE ROBERTS: So, your -- your 
+
+position would require people basically to have two of 
+
+these things with them, two whatever they are, 
+
+text messager or the BlackBerries or whatever, right? 
+
+Because assuming they’re going to get personal things, 
+
+you know, some emergency at home, they’re also going to 
+
+25 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+get work things --
+
+MR. KATYAL: To the -- under this policy, 
+
+yes. You might have an employer that sets a different 
+
+policy and allows for some de minimis use and a zone of 
+
+privacy in that use. You can have a variety of 
+
+different things. But what I think would be dangerous 
+
+is to have a blanket rule that constitutionalizes and 
+
+says you always have reasonable expectations of privacy 
+
+in this technology. The result may be, 
+
+Mr. Chief Justice, that employers then won't give that 
+
+technology at all to their employees and -- and 
+
+eliminate even that de minimis use. 
+
+Mr. Chief Justice, you had also asked before 
+
+about the standpoint of Quon in -- in evaluating 
+
+the reasonableness of the search -- of the search in his 
+
+perspective of the policy. We think that is the wrong 
+
+way of looking at it. Instead, we think the proper test 
+
+is the written policy, what it says, and that is the 
+
+simplest way, I think, to provided administrability to 
+
+the lower courts. They can simply say was this policy 
+
+in existence, and not get into those questions of is it 
+
+like a parking ticket, did I flip through it too 
+
+quickly, did I understand that the policy and the like. 
+
+JUSTICE SOTOMAYOR: You want to -- you want 
+
+to -- you want to undo O'Connor's operational realities 
+
+26 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+of the workplace and say the minute you issued a written 
+
+policy that renders all searches okay, even if the 
+
+operational realities are different? 
+
+MR. KATYAL: Not at all, Justice Sotomayor. 
+
+I take it the language about operational realities in 
+
+the workplace, what is right next to it is looking to 
+
+whether or not there are regulations in place, and here 
+
+a policy is a regulation. And so --
+
+JUSTICE SOTOMAYOR: You may have an argument 
+
+that the nature of the policy here and all of the 
+
+activities related to it don't prove an operational 
+
+reality of privacy, but I don't know why -- you want a 
+
+flat rule that says once you have a written policy, 
+
+there’ no expectation of privacy. 
+
+MR. KATYAL: And I think that is -- that is 
+
+what O'Connor says with respect to the -- as long as the 
+
+policy is in place, that -- that's what O'Connor 
+
+permits. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+Mr. Dammeier. 
+
+ORAL ARGUMENT OF DIETER DAMMEIER 
+
+ON BEHALF OF THE RESPONDENTS 
+
+MR. DAMMEIER: Thank you, Mr. Chief Justice, 
+
+and may it please the Court: 
+
+I think an underlying fact that we might be 
+
+27 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+skipping over is -- is -- and both the lower courts 
+
+recognize this -- that the computer policy that the 
+
+department had didn't apply to the pagers on its own. 
+
+It -- it only came into play after Lieutenant Duke 
+
+modified that policy and told people at the -- at the 
+
+meeting that was referred to earlier that the pagers are 
+
+now going to be applying with -- with this policy. 
+
+It -- it --
+
+JUSTICE GINSBURG: Why is -- why is that so? 
+
+I mean, it did say associated equipment. And -- and if 
+
+an employee is told now e-mails aren't private, so we’re 
+
+warning you, we can monitor them, wouldn't such an 
+
+employee expect the same thing to apply to the pager? 
+
+MR. DAMMEIER: Well, the policy itself has 
+
+two components to it. One is, don't use our equipment, 
+
+all associated equipment for personal business. 
+
+The other part of that policy deals with the 
+
+no privacy, and it informs the people there could be 
+
+monitoring. And specifically on the acknowledgment form 
+
+of that policy, which is at Appendix 156 of the 
+
+petition, it specifically says the city will 
+
+periodically monitor e-mail, Internet use, and computer 
+
+usage. 
+
+And -- and, again, I think this is why the --
+
+both lower courts came to the conclusion that the 
+
+28 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+computer policy on its own wasn't in play until 
+
+Lieutenant Duke announced that, hey, now the pagers are 
+
+going -- are going to be in play with this computer 
+
+policy. This is the same Lieutenant Duke --
+
+JUSTICE GINSBURG: But my question is, an 
+
+employee reads this policy and says, oh, my e-mails are 
+
+going to be subject to being monitored --
+
+MR. DAMMEIER: Sure. 
+
+JUSTICE GINSBURG: Wouldn't that employee 
+
+expect that the policy would carry over to pagers? I mean, 
+
+would -- when you think of what's the reason why they want 
+
+to look at the e-mails, wouldn't the same reason apply? 
+
+MR. DAMMEIER: Well, I'm sure the same 
+
+reasons could apply, but the -- the city is the one that 
+
+writes the rules here. The -- if they want to make it 
+
+clear on what it applies to, it certainly should be on 
+
+them to write them clear so the employee understands. 
+
+CHIEF JUSTICE ROBERTS: Maybe -- maybe 
+
+everybody else knows this, but what is the difference 
+
+between a pager and e-mail? 
+
+MR. DAMMEIER: Sure. The e-mail, looking at 
+
+the computer policy -- that goes through the city's 
+
+computer, it goes through the city's server, it goes 
+
+through all the equipment that -- that has -- that the 
+
+city can easily monitor. Here the pagers are a separate 
+
+29 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+device that goes home with you, that travels with you, 
+
+that you can use on duty, off duty, and --
+
+CHIEF JUSTICE ROBERTS: You can do that with 
+
+e-mails. 
+
+MR. DAMMEIER: Certainly, certainly. But in 
+
+this -- in this -- in this instance with the pagers, it went 
+
+through no city equipment; it went through Arch Wireless 
+
+and then was transmitted to another -- another person. 
+
+So, again, to Duke -- Duke is the one that 
+
+said: Hey, this -- this comes into play. But 
+
+Lieutenant Duke is also the one that gave the privacy 
+
+guarantee to the SWAT team members and said: As long as 
+
+you pay the overages, we’re not going to look at your 
+
+pagers; we're not going to look at the messages. So if 
+
+-- if you couple both of those modifications, both by 
+
+the same lieutenant -- and he wasn't just some 
+
+subordinate; he was the lieutenant in charge of the 
+
+administrative bureau; he was the administrative bureau 
+
+commander. 
+
+JUSTICE GINSBURG: I thought that he said --
+
+he was saying: But as far as billing is concerned, I'm 
+
+not going to look at these; if you use more than 25,000 
+
+characters, you pay the extra, and that will be the end 
+
+of it. If you contest that, then I’ll look to see 
+
+whether those in excess of 25,000 characters were for 
+
+30 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+work purposes or private purposes. 
+
+And so he's talking about the billing. He 
+
+hasn't retracted what was said at the meeting about -- that 
+
+these text messages are subject to audit. 
+
+MR. DAMMEIER: This -- this is what Sergeant 
+
+Quon testified to, that he attributed to Lieutenant 
+
+Duke: If you don't want us to read it, pay the overage 
+
+fee. 
+
+JUSTICE BREYER: But what’s wrong with his 
+
+deciding: I don't like to do this anymore? I don't 
+
+want to collect all this money; it's too complicated; 
+
+and so I don't know how many of these messages are 
+
+related to work and how many they are just mucking 
+
+around prying into each other's business. 
+
+MR. DAMMEIER: He can certainly --
+
+JUSTICE BREYER: So I would like to know, so 
+
+therefore I'm going to look and see. Now, what’s 
+
+unreasonable about that? 
+
+MR. DAMMEIER: Well, he certainly could say 
+
+I don't want to do this anymore, and he could --
+
+JUSTICE BREYER: Oh, no. 
+
+MR. DAMMEIER: And he could tell everybody. 
+
+JUSTICE BREYER: I'm saying what's 
+
+-- the city owns the pager. It's a pager used for work. 
+
+They are giving a privilege to people if they want to 
+
+31 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+use it off work. It seems to be involving a big amount 
+
+of collection, and so what he wants to do is he wants to 
+
+see how much of this is being used for work and how much 
+
+is of this not being used for work. 
+
+My question, which I just repeated, is why 
+
+is that an unreasonable thing? 
+
+MR. DAMMEIER: I don't think that request is 
+
+unreasonable, Your Honor. 
+
+JUSTICE BREYER: Fine. And then if that’s 
+
+not unreasonable, why is what went on here that is 
+
+any different? 
+
+MR. DAMMEIER: Well, here the jury -- the 
+
+only fact that was determined by the jury was the reason 
+
+for the search. And that's found at the appendix to the 
+
+petition page 119. This is the only finding that the 
+
+jury made as to the purpose of the search: To determine 
+
+the efficacy of the existing character limits to ensure 
+
+that officers were not being required to pay for the 
+
+work-related expenses. 
+
+JUSTICE BREYER: How does that differ from 
+
+what I just said? 
+
+MR. DAMMEIER: Well, it -- it comes into 
+
+play on -- on the scope of the search. Again --
+
+JUSTICE BREYER: No, I understand. I thought 
+
+it's just a more -- a few more words to say just what I 
+
+32 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+said. That they wanted to look into this because they 
+
+are tired about collecting so much money. 
+
+It's the third time I've said the same 
+
+thing; probably it's my fault I’m not being clear. But 
+
+it looked as if they wanted to know how many are being 
+
+sent for work purposes, how many for private purposes 
+
+including prying into people's business, which wasn't 
+
+too desirable, and -- and -- so that they could get 
+
+the -- the charges right. 
+
+Now, that sounds like what the jury said they 
+
+were doing, too. And my question was -- I don't see 
+
+anything, quite honestly, unreasonable about that, where 
+
+you’re the employer, where it's a SWAT team, where --
+
+where -- where you’re paying for this in the first 
+
+place. So the reason I ask it is I would like you 
+
+clearly to explain what's unreasonable about it. 
+
+MR. DAMMEIER: The scope of the search was 
+
+unreasonable. 
+
+JUSTICE BREYER: That's the conclusion. Now, 
+
+what's your reason? 
+
+MR. DAMMEIER: Under -- under -- looking at 
+
+O'Connor, you have to -- you have to look to make sure 
+
+that the search is not excessively intrusive. Here, 
+
+what they did was they took all the messages and started 
+
+reading them. Given the purpose, the limited purpose 
+
+33 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that was found by the jury for the search, they didn't 
+
+need to do that. 
+
+JUSTICE BREYER: Well, explain that one to 
+
+me. 
+
+MR. DAMMEIER: They --
+
+JUSTICE BREYER: Being naive about this, if 
+
+I had a -- like, 20, 30,000 characters in 1,800 messages 
+
+and I wanted to know which are personal and which are 
+
+work-related, a good way to get at least a good first 
+
+cut would be to read them. 
+
+(Laughter.) 
+
+JUSTICE BREYER: Okay? So I start off 
+
+thinking that seems to be reasonable to me. That's what 
+
+I would do. 
+
+MR. DAMMEIER: Well, that's certainly one --
+
+JUSTICE BREYER: So all right. Now you tell 
+
+me why that isn't reasonable. 
+
+MR. DAMMEIER: That's one of the ways they 
+
+could have done it. They could have got -- they could 
+
+have got consent from the officers first to do it. They 
+
+could have had the officers themselves count the 
+
+messages. After all, the officers were the ones that 
+
+were paying for the overages. 
+
+JUSTICE BREYER: All right. But the 
+
+officers might say: I don't want you to read these 
+
+34 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+messages because they happen to be about the sexual 
+
+activity of some of my coworkers and their wives and me, 
+
+which happened to be the case here. 
+
+MR. DAMMEIER: Right. 
+
+JUSTICE BREYER: So I guess if you had asked 
+
+for consent, the officer would have said no. 
+
+(Laughter.) 
+
+JUSTICE BREYER: Now, he says, I still want to 
+
+know. I will be repeating it. All right. So what -- that 
+
+didn't sound very practical. What's the other way? 
+
+MR. DAMMEIER: Well, they could have -- they 
+
+could have had the officers themselves count the 
+
+messages. 
+
+JUSTICE BREYER: Well, the officer is going 
+
+to say, hey, these are all big -- work-related. I’ll 
+
+tell you that. I only had two. 
+
+MR. DAMMEIER: Well --
+
+(Laughter.) 
+
+JUSTICE BREYER: Okay. What's a third way? 
+
+MR. DAMMEIER: Okay. They -- the lieutenant 
+
+could have said, hey, we're going to stop this practice 
+
+that I started, and from this month forward make sure 
+
+all you do is business-related. No more --
+
+JUSTICE BREYER: That would have been rough 
+
+on them. Because you want to let them have a few; you 
+
+35 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+need pizza when you’re out on duty. You want to -- there 
+
+are --
+
+MR. DAMMEIER: The --
+
+JUSTICE BREYER: Look, so far I listened to four 
+
+things, and I'm just being naive about it. I’ll read it 
+
+more closely, but I don't see why these four things are 
+
+so obviously more reasonable than what they did. 
+
+MR. DAMMEIER: They also -- they could have 
+
+had the officers redact the private messages and then 
+
+given it -- given it to the department. 
+
+JUSTICE SOTOMAYOR: But suppose that their 
+
+application of what -- how much was being spent on 
+
+business-related, all of your suggestions about having 
+
+the officer do things does nothing about their application. 
+
+MR. DAMMEIER: Well --
+
+JUSTICE SOTOMAYOR: You’re -- you’re 
+
+relying on the very person you’re auditing to do the 
+
+audit for you. That doesn't seem either practical or 
+
+business-wise. 
+
+MR. DAMMEIER: Well, other than my one 
+
+sample of -- example of saying, hey, let's -- let's stop 
+
+the personal use and we’re going to have a test month 
+
+to determine exactly how many messages we need for our 
+
+business-related purposes. 
+
+JUSTICE SOTOMAYOR: That goes back to -- I 
+
+36 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+don't understand that. You’re still relying on the 
+
+person you’re auditing to say to you I’m only using 
+
+it for business. That -- that's just not logical. 
+
+MR. DAMMEIER: Well, but the -- the sole 
+
+purpose of the search was only to find out if officers 
+
+were paying for business-related messages that they 
+
+didn't need to pay for. 
+
+JUSTICE BREYER: But the question, in the 
+
+Constitution, the word is "unreasonable." Is it a 
+
+reasonable or unreasonable? So the question -- what I 
+
+asked is not maybe you would have gotten a better result 
+
+if you had hired Bain Associates and Bain would have 
+
+done a 4-month study at a cost of $50,000. 
+
+But I could say a person who doesn't want 
+
+to hire Bain and who doesn't want to rely on the 
+
+unverified word of the officers who were using these for 
+
+God knows what is not being unreasonable. That's the 
+
+ultimate issue. And that's why I’m putting it to you 
+
+to show me that what they did was unreasonable. 
+
+MR. DAMMEIER: I think it comes down from 
+
+that perspective on the excessiveness of the search. 
+
+CHIEF JUSTICE ROBERTS: The only reason --
+
+the only reason the officer would not be accurate -- I 
+
+mean, I don't understand why the redaction is such a bad 
+
+idea. He just says these are private. And that allows 
+
+37 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+-- and then you could look at everything else. You can 
+
+see if he's going too far because then everything else 
+
+would be there. But in terms of -- the jury found this 
+
+was not done to find out what was in the messages, so 
+
+they don't need to find out what’s in the messages. 
+
+That's just a question. He has to pay for everything he 
+
+-- he redacts. 
+
+MR. DAMMEIER: That -- that's exactly what 
+
+we’re saying. I mean, the interest here is -- is for 
+
+the officer to be upfront as far as what’s 
+
+business-related to -- if he's paying for things that he 
+
+shouldn't be paying for, I'm sure he would -- he would be 
+
+forthright about that. 
+
+CHIEF JUSTICE ROBERTS: I mean, it's no 
+
+different than the police coming in and saying, well, 
+
+we’re going to look at, you know, what's in every drawer 
+
+and then -- you know, then if it turns out to be 
+
+personal and private, we won't -- you know, we won't --
+
+it just happens that we came upon, I guess, is 
+
+Justice Kennedy's point. It's kind of the plain view 
+
+doctrine, except they get to decide how broad what they 
+
+can view is. 
+
+MR. DAMMEIER: That's true. I agree with 
+
+that. 
+
+JUSTICE STEVENS: Can I ask you this question 
+
+38 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+about the basic background of a reasonable expectation 
+
+of privacy? This is SWAT team work. Supposing it was an 
+
+officer answering 911 calls or things like that. Isn't 
+
+there sort of a background expectation that sooner or 
+
+later, somebody might have to look at communications for 
+
+this particular kind of law enforcement officer? 
+
+MR. DAMMEIER: Well, certainly -- certainly 
+
+that could happen in any number of --
+
+JUSTICE STEVENS: I mean, wouldn't you just 
+
+assume that that whole universe of conversations by SWAT 
+
+officers who are on duty 24/7 might well have to be 
+
+reviewed by some member of the public or some of their 
+
+superiors? 
+
+MR. DAMMEIER: But that -- that could be a 
+
+possibility on any -- on anything that they do in their 
+
+lives, whether it be their personal life or --
+
+JUSTICE STEVENS: Well, but it's over 
+
+official -- it's over the official communications 
+
+equipment that they use for purposes of law enforcement. 
+
+MR. DAMMEIER: Correct. Correct. 
+
+JUSTICE KENNEDY: I certainly -- criminal 
+
+defense attorneys challenging probable cause would want 
+
+to look at these. They would want to see if there is 
+
+exonerating evidence, under the rule that all 
+
+exonerating evidence has to be submitted. It would seem 
+
+39 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to me that it's quite likely, as Justice Stevens' 
+
+question indicates, that there is going to -- that these 
+
+are going to be discoverable. 
+
+MR. DAMMEIER: Well, it's just like my mail 
+
+that I might send out to somebody. It might be 
+
+discoverable in litigation, but that doesn't --
+
+JUSTICE KENNEDY: But you’re not -- you’re 
+
+not a police officer who is making arrests. I mean, 
+
+this -- this is part and parcel of determining probable 
+
+cause and mitigating evidence. 
+
+MR. DAMMEIER: No, it -- obviously, there 
+
+are different reasons that could come into play that 
+
+would legally produce these messages, certainly. 
+
+JUSTICE SCALIA: Mr. Dammeier, you could say 
+
+the same thing about private phones. There are 
+
+obviously circumstances in which whether you were making 
+
+a call between certain times becomes relevant to 
+
+litigation. So you could say that destroys the 
+
+expectation of privacy? I'm not sure. I hope we don't 
+
+say that. 
+
+MR. DAMMEIER: No. No. It's like -- this 
+
+-- in O'Connor, all nine Justices in O'Connor found an 
+
+expectation of privacy in Dr. Ortega's desk, because 
+
+even though it was a state-owned desk, you still have an 
+
+expectation of privacy. 
+
+40 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE STEVENS: Yes, but there’s no 
+
+normal reason for going through somebody's desk; whereas, 
+
+there would be a very ordinary -- ordinary reason for 
+
+reviewing calls made to the SWAT -- members of the SWAT 
+
+team, it seems to me. 
+
+MR. DAMMEIER: Well, there are -- as talked 
+
+about in O'Connor, there are certainly a lot of valid 
+
+reasons to go through a public employee's desk, if you’re 
+
+looking for a file or if you’re looking for --
+
+JUSTICE STEVENS: Yes. 
+
+MR. DAMMEIER: Or for -- or for an 
+
+investigation. But still, there was that expectation of 
+
+privacy. You’re talking about employees that -- in 
+
+today's society, I think work and private life get 
+
+melded together. Here, we’re talking about SWAT people 
+
+24/7 --
+
+JUSTICE SCALIA: Well, to say that there’s 
+
+an expectation of privacy in the desk doesn't say that 
+
+every intrusion into that expectation of privacy is an 
+
+unreasonable one. There could be that expectation of 
+
+privacy and, still, for some reason -- let's assume there 
+
+has been a theft in the building, and it's known that 
+
+what was taken has not gotten out of the building. It's 
+
+conceivable that that would be a valid reason to intrude 
+
+upon the expectation of privacy, right? 
+
+41
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. DAMMEIER: Correct. I don't think we’re 
+
+taking away the government's ability to do searches 
+
+under proper circumstances. 
+
+JUSTICE SCALIA: Well, why isn't this a 
+
+proper circumstance? 
+
+MR. DAMMEIER: The initial circumstance 
+
+might be proper, but how they effectuated it was not. 
+
+It was excessively intrusive. They did not -- the 
+
+purpose was to find out if they were paying for enough 
+
+work-related messages. They did not need to look at 
+
+these, what they knew were going to be private messages. 
+
+They knew -- the lieutenant had this arrangement that they 
+
+could use this for personal purposes. They knew what 
+
+they were going to be looking at. 
+
+JUSTICE SCALIA: They didn't know which ones 
+
+were private messages, did they? 
+
+MR. DAMMEIER: Not until they read them. 
+
+JUSTICE SCALIA: Not until they read them. 
+
+MR. DAMMEIER: But there certainly -- they 
+
+certainly knew what might be coming because of the 
+
+arrangement that Lieutenant Duke had in place. 
+
+Here -- here I think that’s --
+
+JUSTICE ALITO: What was the arrangement 
+
+that Lieutenant Duke had in place? I thought all he 
+
+said was: I don't have an intent to read these, 
+
+42
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+because it's too much trouble, so if you go over and you 
+
+pay me the extra, I'm not going to read them. 
+
+MR. DAMMEIER: His --
+
+JUSTICE ALITO: Did he ever say that -- that 
+
+I'm not -- that you have a privacy right in these 
+
+things? 
+
+MR. DAMMEIER: No, but according -- according 
+
+to Sergeant Quon's testimony, he told him: As long as you 
+
+pay the overages, we’re not going to read them. And that --
+
+JUSTICE GINSBURG: Did he say "we"? He -- even 
+
+Quon didn't say that. Duke said he wouldn't do it. But 
+
+earlier, the -- at the meeting, the statement was made 
+
+that these are open to audit. Didn't say only by 
+
+Lieutenant Duke. 
+
+MR. DAMMEIER: True. True. I agree. But 
+
+it was Lieutenant Duke, the one that was making the 
+
+announcement that now these pagers are going to fall 
+
+under the computer policy, the same lieutenant who then 
+
+gave the assurance that as long as you pay the overages, 
+
+we’re not -- we’re not going to look at them. 
+
+I mean, when you’re talking about the 
+
+operational reality of O'Connor, that was the 
+
+operational reality. The SWAT members knew: As long as 
+
+I pay the overages, my messages aren't going to be 
+
+reviewed. 
+
+43 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: What happens, just 
+
+out of curiosity, if you're -- he is on the pager and 
+
+sending a message and they’re trying to reach him for, 
+
+you know, a SWAT team crisis? Does he -- does the one 
+
+kind of trump the other, or do they get a busy signal? 
+
+MR. DAMMEIER: I don't think that's in the 
+
+record. However, my understanding is that you would get 
+
+it in between messages. So messages are going out and 
+
+coming in at the same time, pretty much. 
+
+CHIEF JUSTICE ROBERTS: And would you know 
+
+where the message was coming from? 
+
+MR. DAMMEIER: I believe so. It identifies 
+
+where it's coming from. It identifies the number of 
+
+where it's coming from. If you know the number, you 
+
+know where it's coming from. 
+
+JUSTICE KENNEDY: And he's talking with 
+
+a girlfriend, and he has a voice mail saying that your 
+
+call is very important to us; we’ll get back to you? 
+
+(Laughter.) 
+
+MR. DAMMEIER: Well, I think with the text 
+
+messages -- and that's what we are talking about the 
+
+transcripts of, were the text messages that were data 
+
+transferred from device to device, and here, you know, 
+
+we come back to -- I did want to touch a little bit on 
+
+the Stored Communications Act having play on somebody’s 
+
+44
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+expectation of privacy -- you know, it's -- lawfully, 
+
+those messages were protected. And I think, looking at 
+
+people's expectation of privacy, that should be a 
+
+component. It certainly may be not the end-all to the 
+
+question, but it should be a factor in determining 
+
+whether or not there’s going to be an expectation of 
+
+privacy. 
+
+JUSTICE SCALIA: Did -- did he know about 
+
+that statute? I didn't know about it. 
+
+MR. DAMMEIER: That's not in -- that's not 
+
+in the record. That is not in the record. But --
+
+JUSTICE SCALIA: Can we assume he didn't? 
+
+MR. DAMMEIER: Right. Well, we can assume 
+
+that, but we also --
+
+JUSTICE SCALIA: And what difference would that 
+
+make? 
+
+MR. DAMMEIER: I still don't think anything, 
+
+given the operational realities --
+
+JUSTICE SCALIA: I don’t see how it can affect 
+
+his expectation of privacy, if he didn't even know about it. 
+
+MR. DAMMEIER: Well, it's -- it's just like 
+
+the California Public Records Act. We should also 
+
+assume he didn't know about that as well, because the --
+
+Petitioners make an argument that because there is this 
+
+California Public Records Act, that that may diminish 
+
+45 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+one's expectation of privacy. Certainly, if we’re 
+
+going to have that, then we should also be having the 
+
+Stored Communications Act that might enhance the --
+
+JUSTICE SCALIA: Ignorance of the law is no 
+
+excuse, is what you’re saying? 
+
+JUSTICE SOTOMAYOR: Do you have any theory, 
+
+or do you make any argument that Florio, Trujillo, and 
+
+Quon's wife can succeed in their Fourth Amendment 
+
+claims, if Quon can't? 
+
+MR. DAMMEIER: I do. We, in our brief, try 
+
+to analogize that to the mail. I think when they sent 
+
+messages to -- to Sergeant Quon, that was a letter that 
+
+I sent. And here, the department didn't go get that 
+
+letter from Sergeant Quon after -- after delivery, 
+
+meaning go get it from his pager. They went to the 
+
+equivalent of the Post Office, which was Arch Wireless, 
+
+and got a copy off of their server. So I -- I think --
+
+and, again, analogizing to the mail, they have an 
+
+expectation of privacy while that message is in the 
+
+course of delivery. 
+
+CHIEF JUSTICE ROBERTS: Well --
+
+JUSTICE ALITO: Well, suppose it was 
+
+perfectly clear that -- I mean, suppose that the department 
+
+gave Mr. Quon a policy -- a statement that says: Sign 
+
+this, you acknowledge that your pager is to be used only 
+
+46 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+for work and that you have no privacy interest in it 
+
+whatsoever; we’re going to monitor this every day. 
+
+And then these other individuals sent him messages. 
+
+You would still say they have an expectation 
+
+of privacy in those messages? 
+
+MR. DAMMEIER: Until the point that it’s on 
+
+Quon's pager. I think under that scenario, that they 
+
+could have obtained the messages from Quon, but they 
+
+went over to Arch, the equivalent of the Post Office, 
+
+and got them from them. 
+
+It's like if I -- I make a copy of a letter 
+
+before I send it to somebody. You know, down the road, 
+
+I might not know what happens and I might lose my 
+
+expectation of privacy down the road, but that copy I 
+
+kept, I think there is still an expectation. 
+
+JUSTICE SCALIA: Well, what -- when you send 
+
+a text message to somebody else, aren't you quite aware 
+
+that that text message will remain confidential only to 
+
+the extent that either the recipient keeps it 
+
+confidential -- and he can disclose it -- or somebody 
+
+else who has power over the recipient or over the 
+
+recipient's phone chooses to look at it? Don't -- isn't 
+
+that understood when you send somebody a text message? 
+
+MR. DAMMEIER: I -- I agree with that, and --
+
+JUSTICE SCALIA: Well, so she should have 
+
+47 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+understood that, you know, whoever could get ahold of 
+
+his phone lawfully can read the message. In other 
+
+words, I don't see that she's in a -- in a different 
+
+position from Quon himself. 
+
+MR. DAMMEIER: I think it's just a slightly 
+
+different one. I mean, first of all, they didn't 
+
+lawfully get it; there was a violation of the Stored 
+
+Communications Act to get it. 
+
+JUSTICE SCALIA: Well, that's a different 
+
+issue. 
+
+MR. DAMMEIER: But here, again, had they 
+
+gotten consent from -- from Quon and got it from him 
+
+directly, that's a -- that's a different story. 
+
+CHIEF JUSTICE ROBERTS: Well, again, it depends 
+
+upon their reasonable expectation. Do any of these 
+
+other people know about Arch Wireless? Don't they just 
+
+assume that once they send something to Quon, it's going 
+
+to Quon? 
+
+MR. DAMMEIER: That's -- that is true. I 
+
+mean, they expect --
+
+CHIEF JUSTICE ROBERTS: Well, then they 
+
+can't have a reasonable expectation of privacy based on 
+
+the fact that their communication is routed through a 
+
+communications company. 
+
+MR. DAMMEIER: Well, they -- they expect 
+
+48 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+that some company, I'm sure, is going to have to be 
+
+processing the delivery of this message. And --
+
+CHIEF JUSTICE ROBERTS: Well, I didn't -- I 
+
+wouldn't think that. I thought, you know, you push a 
+
+button; it goes right to the other thing. 
+
+(Laughter.) 
+
+MR. DAMMEIER: Well --
+
+JUSTICE SCALIA: You mean it doesn't go 
+
+right to the other thing? 
+
+(Laughter.) 
+
+MR. DAMMEIER: It's -- I mean, it's like 
+
+with e-mails. When we send an e-mail, that goes through 
+
+some e-mail provider, whether it be AOL or Yahoo. It's 
+
+going through some service provider. Just like when 
+
+we send a letter or package, it's going through -- some 
+
+provider is going to move that for us, until it gets to 
+
+the end recipient. And like the mail, that message enjoys 
+
+an expectation of privacy while it's with the Post 
+
+Office --
+
+JUSTICE SCALIA: Can you print these things 
+
+out? Could Quon print these -- these spicy 
+
+conversations out and circulate them among his buddies? 
+
+MR. DAMMEIER: Well, he could have 
+
+ultimately, sure. 
+
+JUSTICE SCALIA: Well --
+
+49 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. DAMMEIER: And -- and like, when I get a 
+
+piece of mail from somebody, I could do that as well, 
+
+but that doesn't mean that the government gets to go to 
+
+the Post Office and get my mail before I get it. I 
+
+think -- I think that, you know, certainly adds a little 
+
+bit to the correspondence that dealt with --
+
+CHIEF JUSTICE ROBERTS: But just -- just to 
+
+be clear: You think if these messages went straight to 
+
+Quon that there’d be no problem from the point of 
+
+view of the senders? I mean, no problem in searching --
+
+getting them from Quon? 
+
+MR. DAMMEIER: I think it's certainly a 
+
+harder argument for me to make --
+
+CHIEF JUSTICE ROBERTS: Yes. 
+
+MR. DAMMEIER: -- that they have an 
+
+expectation after -- after Quon has it. 
+
+CHIEF JUSTICE ROBERTS: So we have to assume 
+
+for your argument to succeed that they know that this goes 
+
+somewhere else and then it’s processed and then it goes 
+
+to Quon. 
+
+MR. DAMMEIER: Yes, but I think in today's 
+
+-- I think in today's society that's -- that's a 
+
+reasonable assumption to make. One --
+
+JUSTICE SCALIA: Yes, I didn't know. 
+
+MR. DAMMEIER: I think it might have been 
+
+50
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Florio testified that she actually called her carrier to 
+
+find out, you know, if -- if the messages that she would 
+
+transmit would be maintained and that was -- that they 
+
+didn't maintain a copy. So there was some understanding 
+
+of how the process worked. 
+
+JUSTICE ALITO: Can an officer who has one 
+
+of these pagers delete messages from the pager --
+
+MR. DAMMEIER: Yes. 
+
+JUSTICE ALITO: -- so that they can't be 
+
+recovered by the department if the pager is turned into 
+
+the department? 
+
+MR. DAMMEIER: Sure. Yes. 
+
+JUSTICE ALITO: They can delete them? 
+
+MR. DAMMEIER: They can delete them. Just 
+
+like if they received a letter, they could be put in the 
+
+shredder. 
+
+JUSTICE SCALIA: Suppose I sent somebody a 
+
+letter and -- and I have privacy in that letter, and 
+
+let's assume it’s intercepted at the Post Office, but I 
+
+have also published the letter in a letter to the editor 
+
+of the newspaper. I have written the following letter 
+
+to Sergeant Quon. Do I still have a right -- a right of 
+
+privacy in that letter? 
+
+MR. DAMMEIER: Well, I think then certainly 
+
+your expectation may be diminished. 
+
+51 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: Well, but that's the 
+
+situation here. The -- the central location that stores 
+
+the message is one thing, but she's made -- made the 
+
+message public effectively by sending it to Quon. Once 
+
+it gets to Quon, she knows that Quon can make it public 
+
+or that the employer can -- can find out about it. 
+
+MR. DAMMEIER: But that would create a 
+
+free-for-all in service providers. If -- if while this 
+
+message, after it’s sent and it’s in transit --
+
+JUSTICE SCALIA: Right. 
+
+MR. DAMMEIER: It's a free-for-all. The 
+
+government could just go in and --
+
+JUSTICE SCALIA: Exactly. That -- and 
+
+that's why you have the statute, because the Fourth 
+
+Amendment wouldn't solve the problem, because you are 
+
+effectively making it public by sending it to somebody 
+
+whom you don't know is immune from disclosure. So, in 
+
+order to stop the intermediary from making it public, 
+
+you needed the statute. Otherwise you wouldn't need it; 
+
+the Fourth Amendment would solve the problem, right? 
+
+MR. DAMMEIER: Well, certainly, obviously 
+
+the statute could come into play in addition to the 
+
+Fourth Amendment. But here, you know, I come back to 
+
+the mail analogy. Just because at the end of the line 
+
+somebody might disseminate my letter doesn't lose an 
+
+52
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+expectation in the copy that I make that I may keep or 
+
+that in the course of delivery the Post Office might 
+
+keep. I still enjoy an expectation -- and the Fourth 
+
+Amendment certainly protects that copy, that either I 
+
+kept or the Post Office is keeping in the course of 
+
+delivery. 
+
+Certainly, at the end of the line, that letter 
+
+could be published to the world, but that's not the same 
+
+thing as the government coming in and getting a copy of 
+
+it while it was being delivered. 
+
+JUSTICE ALITO: Are you sure that -- are you 
+
+sure about your answer to the question of deletion? 
+
+It's not like deleting something from a computer which 
+
+doesn't really delete it from the computer? 
+
+MR. DAMMEIER: Honestly, I'm not -- that's 
+
+not in the record, and the -- how that pager works as 
+
+far as deleting, I couldn't be certain that it would be 
+
+deleted forever. I would certainly not. 
+
+One -- one of the points to -- to raise, 
+
+too, was that most of these texts took place off duty 
+
+when dealing with Sergeant Quon. So, again, back to 
+
+looking at the actual practice that O'Connor has us look 
+
+at, you know, here again --
+
+JUSTICE SOTOMAYOR: I thought the factual 
+
+record was the opposite, that in fact most of the calls 
+
+53 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+were -- not most, but a huge number of calls were 
+
+happening on duty. 
+
+MR. DAMMEIER: There were -- there were a 
+
+large number on-duty. I think it was broken down to 
+
+where the average was 27 in a work shift and the most on 
+
+one day was 80. But also they talked about -- they took 
+
+about 15 seconds. So you’re talking about an average 
+
+of about 7 minutes during -- during a work day. 
+
+But the testimony of Sergeant Quon was that 
+
+most of these were actually off-duty. And, you know, I 
+
+certainly -- I think that should come into play, given 
+
+the department -- they gave them pagers. And it wasn't 
+
+a one-way use; it wasn't, hey, this is, you know, for the 
+
+benefit of the employee. The department received a benefit. 
+
+I mean, they wanted to be able to have these SWAT guys 
+
+show up quickly, respond quickly, and there was a mix on 
+
+-- on the reasons for these pagers. 
+
+The exchange was, we’re going to let you 
+
+use these for personal purposes, and given that reality, 
+
+you should be able to have some -- some expectation of 
+
+privacy in that use. It's like if I pick up a phone and 
+
+I'm a public employee and I call my wife, I should be 
+
+able to have some expectation of privacy in a 
+
+conversation, especially given, you know -- you talk 
+
+about guys that are on 24/7. Do they have no private 
+
+54 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+life, now? Do they not have --
+
+JUSTICE GINSBURG: I thought the policy was 
+
+limited personal use. 
+
+MR. DAMMEIER: The computer policy was 
+
+limited personal use. Again, depending on how that 
+
+comes into play with what Lieutenant Duke --
+
+JUSTICE GINSBURG: But the -- the notice was 
+
+we’re going to treat these just like e-mails, and 
+
+e-mails were limited personal use. 
+
+MR. DAMMEIER: Correct. With -- with the 
+
+additional modification by -- by Duke, that you could 
+
+also use them for personal purposes, from day one when 
+
+the pagers were issued. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+MR. DAMMEIER: Thank you. 
+
+CHIEF JUSTICE ROBERTS: Mr. Richland, you 
+
+have 3 minutes remaining. 
+
+REBUTTAL ARGUMENT OF KENT L. RICHARDS 
+
+ON BEHALF OF THE PETITIONERS 
+
+MR. RICHLAND: Thank you. I would first 
+
+like to just make it clear that what it is being claimed 
+
+was the guarantee of privacy by Lieutenant Duke is 
+
+really absolutely not that at all. And I would refer 
+
+the Court to Joint Appendix page 40, which does summarize 
+
+that, and it says -- here is what precisely what 
+
+55 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Lieutenant Duke said: "Because of the overage 
+
+Lieutenant Duke went to Sergeant Quon and told him the 
+
+city-issued two-way pagers were considered e-mail and 
+
+could be audited." So that's what he said first. 
+
+Then he said -- he told Sergeant Quon it was 
+
+not his -- his intent to audit employees' text messages 
+
+to see if the overages were due to work-related 
+
+transmissions. 
+
+He advised Sergeant Quon he, Sergeant Quon, 
+
+could reimburse the city for the overages so he, Duke, 
+
+would not have to audit the transmission and see how 
+
+many messages were non-work-related. Lieutenant Duke 
+
+told Sergeant Quon he is doing this because if anybody 
+
+wished to challenge their overage, he could audit the 
+
+text transmissions to verify how many were 
+
+non-work-related, and then, finally, Lieutenant Duke 
+
+added, the text messages were considered public records 
+
+and could be audited at any time. 
+
+That is what is being characterized as a 
+
+guarantee of privacy. It's hard to see how that in any 
+
+way undercuts the official written policy. 
+
+JUSTICE SCALIA: Mr. Richland, do you take 
+
+any position on whether Jerilyn Quon, April Florio, and 
+
+Steve Trujillo stand in the same position as Sergeant 
+
+Quon insofar as this lawsuit is concerned? 
+
+56 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. RICHLAND: We do, with respect -- in at 
+
+least one respect, and that is: If Sergeant Quon loses, 
+
+then we think the other plaintiffs must also lose. 
+
+JUSTICE SCALIA: Why? 
+
+MR. RICHLAND: Yes. The reason for that is 
+
+that this Court has held on many occasions that, once 
+
+one has sent a communication or an object to another 
+
+person, they lose their expectation of privacy in --
+
+JUSTICE SOTOMAYOR: That means the 
+
+government can set up an interception mechanism on 
+
+telephone transmissions, on e-mail, computer 
+
+transmissions --
+
+MR. RICHLAND: It -- it does not mean that, 
+
+Justice Sotomayor. 
+
+JUSTICE SOTOMAYOR: If it doesn't mean that, 
+
+answer his argument that, yes, you could take anything 
+
+from Quon, but the storage -- you went to the storage 
+
+facility, which is a Post Office. 
+
+MR. RICHLAND: And he says it's a Post 
+
+Office, but the truth is that all of these plaintiffs 
+
+admitted that they knew that this was a 
+
+department-issued pager, and this wasn't a Post Office. 
+
+Arch Wireless was the department's agent. 
+
+These text messages were being sent to 
+
+someplace. Both the written policy and the oral policy 
+
+57
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+indicated that they were being stored ---
+
+JUSTICE SOTOMAYOR: So you have to get 
+
+into who owned --
+
+MR. RICHLAND: Excuse me. 
+
+JUSTICE SOTOMAYOR: Whether this was a -- we 
+
+have to get into the Storage Act and figure out whether 
+
+this was an RCN or ACS? 
+
+MR. RICHLAND: Well, I think that -- I 
+
+don't know that it's necessary to do that, because I 
+
+think that all that must be determined is -- and I don't 
+
+think whether it's an ECS or RCS is -- you would require 
+
+that to determine who owned it, because it was clear 
+
+that Arch acted solely as the city's agent. 
+
+JUSTICE SCALIA: Whoa, whoa. I'm not sure 
+
+you’re doing the city a favor by making Arch the city's 
+
+agent --
+
+MR. RICHLAND: I understand --
+
+JUSTICE SCALIA: -- as opposed to an 
+
+independent contractor who is doing business with the 
+
+city. 
+
+MR. RICHLAND: The point is --
+
+JUSTICE SCALIA: You sure you want to live 
+
+with that? 
+
+MR. RICHLAND: I don't mean "agent" in -- in 
+
+the most literal sense, Justice Scalia. 
+
+58 
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: Oh, okay. 
+
+MR. RICHLAND: What I mean is that they 
+
+were -- in effect, when there was a delivery to Arch 
+
+Wireless, it was a delivery to the city. And all of 
+
+these individuals knew that this was city equipment, and, 
+
+therefore, this was being delivered to the city. 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+
+The case is submitted. 
+
+
+(Whereupon, at 12:08 p.m., the case in the 
+
+
+above-entitled matter was submitted.) 
+
+59
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final ReviewOfficial - Subject to Final Review
+Page 60 
+
+A agent 57:23 anybody 11:13 asked 26:13 based 17:18 
+ability 42:2 58:13,16,24 56:13 35:5 37:11 48:22 
+able 54:15,20,23 ago 8:24 19:1 anymore 31:10 asks 19:10 basic 39:1 
+above-entitled 23:3 31:20 aspect 4:6,21 basically 25:21 
+
+1:12 59:10 agree 8:9,17 AOL 49:13 5:21 10:12 basis 11:10 18:2 
+absolute 11:11 10:19 22:6 appear 16:15 13:18 15:5 bearing 21:24 
+absolutely 20:3 38:23 43:15 APPEARAN... aspects 13:17 begins 11:4 
+
+21:1 24:19 47:24 1:15 associated 4:11 behalf 1:17,20 
+55:23 agreement 4:15 appendix 4:10 28:10,16 1:22 2:4,7,11 
+
+accept 8:6 10:19 agrees 5:3 4:16 7:15,17 Associates 37:12 2:14 3:8 18:9 
+accurate 37:23 ahold 48:1 28:20 32:14 assume 5:13 27:22 55:19 
+acknowledge AL 1:4,7 55:24 8:19 9:25 11:4 believe 9:13,16 
+
+46:25 Alito 16:1,10 application 39:10 41:21 9:22,23 13:4 
+acknowledgm... 21:14 22:4 36:12,14 45:12,13,23 44:12 
+
+28:19 42:23 43:4 applied 3:12 48:17 50:17 benefit 54:14,14 
+ACS 58:7 46:22 51:6,9 4:10,15 18:23 51:19 best 23:13 
+Act 8:10 17:3,10 51:13 53:11 applies 23:8 assuming 6:21 better 23:8 
+
+17:12,20 19:12 allegedly 4:1 29:16 25:24 37:11 
+19:13,17,20,23 allows 26:4 apply 28:3,13 assumption big 32:1 35:15 
+19:25 20:1,9 37:25 29:12,14 50:23 billing 30:21 
+20:10 21:8,11 alternative 25:3 applying 28:7 assurance 43:19 31:2 
+22:19,21 44:25 amendment approach 15:3 attorneys 39:22 bind 23:22 
+45:22,25 46:3 3:13 11:10 appropriate attributed 31:6 binding 9:13 
+48:8 58:6 20:6,12,19 7:12 audit 5:7,16 bit 8:3 21:15 
+
+acted 58:13 21:5,8,25 April 1:10 56:23 31:4 36:18 44:24 50:6 
+activities 27:11 22:11 23:6 Arch 9:9,20 43:13 56:6,11 BlackBerries 
+activity 35:2 46:8 52:15,20 17:11 19:12 56:14 25:23 
+acts 3:12 19:4 52:23 53:4 30:7 46:16 audited 5:19,20 blanket 26:7 
+actual 53:22 amicus 1:20 2:8 47:9 48:16 56:4,18 board 17:25 
+ad 18:17 25:17 18:9 57:23 58:13,15 auditing 36:17 boards 7:10 
+added 56:17 amount 19:3 59:3 37:2 boss 10:9 
+addition 4:20 32:1 area 22:11,17 average 54:5,7 bound 9:16 
+
+5:23 7:7 17:16 analogize 46:11 argument 1:13 aware 7:2,7,9 23:24 
+52:22 analogizing 2:2,5,9,12 3:4 47:17 BREYER 31:9 
+
+additional 55:11 46:18 3:7,24 4:3 14:4 a.m 1:14 3:2 31:16,21,23 
+adds 50:5 
+administrability 
+
+26:19 
+administrative 
+
+30:18,18 
+admitted 57:21 
+adopts 19:6 
+advised 56:9 
+Affairs 14:1,18 
+
+14:23 15:11 
+affect 45:19 
+
+analogy 52:24 
+analysis 11:23 
+
+21:5 
+analyzed 10:15 
+Angeles 1:16 
+announced 29:2 
+announcement 
+
+43:17 
+answer 53:12 
+
+57:16 
+answering 39:3 
+
+18:8 20:23 
+27:9,21 45:24 
+46:7 50:13,18 
+55:18 57:16 
+
+arguments 
+12:19 
+
+arrangement 
+42:12,21,23 
+
+arrests 40:8 
+arrows 24:20 
+aside 6:13 
+
+B 
+back 23:24 
+
+25:17 36:25 
+44:18,24 52:23 
+53:21 
+
+background 
+39:1,4 
+
+bad 11:16 37:24 
+Bain 37:12,12 
+
+37:15 
+banc 7:9 
+
+32:9,20,24 
+33:19 34:3,6 
+34:12,16,24 
+35:5,8,14,19 
+35:24 36:4 
+37:8 
+
+brief 46:10 
+broad 4:9,19 
+
+38:21 
+broken 54:4 
+buddies 49:22 
+
+Alderson Reporting CompanyAlderson Reporting Company
+
+
+
+Official - Subject to Final Review 
+Page 61 
+
+building 41:22 31:19 34:15 Circuit's 25:14 53:9 confidential 
+41:23 39:7,7,21 circulate 49:22 commander 47:18,20 
+
+bureau 30:18,18 40:13 41:7 circumstance 30:19 conflict 13:1,3,4 
+business 5:13 42:19,20 45:4 42:5,6 communicate confusion 7:21 
+
+28:16 31:14 46:1 50:5,12 circumstances 16:17 Congress 21:7 
+33:7 37:3 51:24 52:21 8:7 40:16 42:3 communication consent 34:20 
+58:19 53:4,7,18 citing 25:1 48:23 57:7 35:6 48:12 
+
+business-related 54:11 city 1:3 3:4 4:13 communicatio... considered 5:18 
+35:23 36:13,24 certiorari 9:15 11:2 28:21 5:4 7:5 8:10 5:20 56:3,17 
+37:6 38:11 challenge 56:14 29:14,25 30:7 15:22 17:3,10 consistent 19:5 
+
+business-wise challenging 31:24 56:10 17:12,20,23 Constitution 
+36:19 39:22 58:15,20 59:4 19:17,20 20:9 23:8 37:9 
+
+busy 44:5 change 24:3 59:5,6 20:10 21:8,16 constitutional 
+button 49:5 character 13:20 city's 24:20 22:19,21,25 3:11 23:4 
+
+13:21 15:16 29:22,23 58:13 39:5,18 44:25 constitutionali... 
+C 32:17 58:15 46:3 48:8,24 22:10 
+
+C 2:1 3:1 characterized city-issued 56:3 company 48:24 constitutionali... 
+California 1:3 56:19 city-owned 4:10 49:1 26:7 
+
+1:16,22 9:1 characters 4:12,16 complicated 8:3 constitutionali... 
+20:7,11 45:22 30:23,25 34:7 city-related 4:14 18:1 31:11 9:4 22:17,17 
+45:25 charge 30:17 claim 12:3 17:8 component 45:4 contention 9:17 
+
+call 16:25 40:17 charges 33:9 claimed 55:21 components 21:6 
+44:18 54:22 chief 3:3,9,21,23 claims 46:9 28:15 contest 30:24 
+
+called 51:1 4:4,23 5:1,6 clear 18:20 computer 4:12 context 20:21 
+calls 39:3 41:4 6:3,10,12,18 29:16,17 33:4 4:12,14 18:19 contractor 
+
+53:25 54:1 6:20,23 7:22 46:23 50:8 28:2,22 29:1,3 58:19 
+careful 22:10 8:1,9,12,16,18 55:21 58:12 29:22,23 43:18 contrary 8:22 
+carrier 51:1 11:16 13:6,11 clearest 24:9 53:13,14 55:4 conversation 
+carry 29:10 13:13,18 14:14 clearly 16:9 20:6 57:11 54:24 
+case 3:4 6:13,16 14:19,22 15:17 33:16 computers 4:11 conversations 
+
+6:21 9:8,11,13 15:21 18:6,11 client 13:6 4:16 39:10 49:22 
+11:1,3,23 12:3 19:2 23:2,20 closely 36:6 computer-ass... copy 46:17 
+13:3,17 15:5 24:10 25:20 collect 31:11 23:17 47:11,14 51:4 
+18:21 20:1 26:10,13 27:19 collecting 33:2 computer-rela... 53:1,4,9 
+24:16 35:3 27:23 29:18 collection 32:2 23:17 correct 5:5 8:13 
+59:8,9 30:3 37:22 come 40:12 computing 11:19 12:14,23 
+
+cases 9:2 11:10 38:14 44:1,10 44:24 52:22,23 17:24 22:22 14:12 39:20,20 
+11:12 12:5 46:21 48:14,21 54:11 conceivable 42:1 55:10 
+
+cause 39:22 49:3 50:7,14 comes 30:10 41:24 correspondence
+40:10 50:17 55:14,16 32:22 37:20 concerned 30:21 50:6 
+
+central 52:2 59:7 55:6 56:25 cost 37:13 
+certain 16:13 chiefs 10:5,21 comfortable concluded 18:23 counsel 6:11 8:8 
+
+40:17 53:17 chief's 18:20 24:4 conclusion 9:25 18:6 
+certainly 4:18 chooses 47:22 coming 38:15 10:19 28:25 19:11,13 27:19 
+
+8:13 18:6 Circuit 9:16 42:20 44:9,11 33:19 55:14 59:7 
+20:22 29:16 18:22 24:25 44:13,14,15 conduct 7:11 counsel's 19:23 
+30:5,5 31:15 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 62 
+
+count 34:21 35:17,20 36:3 59:6 30:1 44:23,23 56:2,10,12,16 
+35:12 36:8,15,20 delivery 46:14 devices 16:5,7 duty 5:15 14:21 
+
+country 25:13 37:4,20 38:8 46:20 49:2 DIETER 1:22 15:24 16:21 
+couple 30:15 38:23 39:7,14 53:2,6 59:3,4 2:10 27:21 30:2,2 36:1 
+course 3:24 8:4 39:20 40:4,11 denial 7:9 differ 32:20 39:11 53:20 
+
+8:25 9:3 11:7 40:14,21 41:6 denied 9:15 difference 6:1 54:2 
+23:8 46:20 41:11 42:1,6 department 29:19 45:15 D.C 1:9,19 
+53:2,5 42:17,19 43:3 1:19 3:17 7:2 different 5:21 
+
+court 1:1,13 43:7,15 44:6 9:10 10:1,3 13:7 20:24 E 
+3:10 8:21,24 44:12,20 45:10 12:18 13:25 21:20 22:21 E 2:1 3:1,1 
+9:14,14,14,15 45:13,17,21 14:24 15:2 24:5,5 26:3,6 earlier 6:19 7:14 
+9:24 17:25 46:10 47:6,24 17:5,9,13 27:3 32:11 8:25 28:6 
+18:12 19:24 48:5,11,19,25 19:10,12,14 38:15 40:12 43:12 
+20:4 21:10 49:7,11,23 20:1 28:3 48:3,6,9,13 easier 25:10,12 
+22:10 23:14 50:1,12,15,21 36:10 46:13,23 differently easiest 23:13 
+25:3 27:24 50:25 51:8,12 51:10,11 54:12 13:14,16 easily 29:25 
+55:24 57:6 51:14,24 52:7 54:14 diminish 45:25 ECS 58:11 
+
+courts 17:24 52:11,21 53:15 department's diminished editor 51:20 
+26:20 28:1,25 54:3 55:4,10 57:23 51:25 effect 9:3 59:3 
+
+court's 10:20 55:15 department-is... directly 48:13 effectively 52:4 
+19:1 dangerous 26:6 3:18 6:25 7:6 disagree 21:2 52:16 
+
+cover 4:9,19 data 44:22 57:22 disclose 8:13 effectuated 42:7 
+covered 5:9 day 47:2 54:6,8 depending 55:5 47:20 efficacious 
+coworkers 35:2 55:12 depends 48:14 disclosed 17:15 13:20 
+create 18:18 de 26:4,12 Deputy 1:18 disclosure 52:17 efficacy 32:17 
+
+52:7 dealing 4:23 desirable 33:8 discoverable either 17:23 
+criminal 20:22 23:6,10,15 desk 18:19,20 40:3,6 36:18 47:19 
+
+39:21 53:21 40:23,24 41:2 disregards 53:4 
+crisis 44:4 deals 28:17 41:8,18 18:25 electronic 17:23 
+curiae 1:20 2:8 dealt 50:6 destroys 40:18 disseminate 20:9 21:15 
+
+18:9 decide 11:9 destructive 52:25 22:24 
+curiosity 44:2 24:10 38:21 25:18 dissenters 7:8 electronically 
+current 17:8 decided 9:18 determination district 19:24 16:8 
+cut 34:10 18:21 9:17,24 11:8 doctrine 38:21 eliminate 26:12 
+cuts 23:5 decides 10:6 12:7 13:10,18 doing 33:11 emergencies 
+
+deciding 31:10 determine 7:11 56:13 58:15,19 17:1 
+D decision 18:25 12:1 14:20 don’t 9:12 45:19 emergency 
+
+D 3:1 25:15 15:13,18 17:22 Dr 40:23 25:25 
+Dammeier 1:22 defense 39:22 20:5 22:2 drawer 38:16 employee 28:11 
+
+2:10 27:20,21 delete 51:7,13 32:16 36:23 due 56:7 28:13 29:6,9 
+27:23 28:14 51:14 53:14 58:12 Duke 4:21 5:24 29:17 54:14,22 
+29:8,13,21 deleted 53:18 determined 28:4 29:2,4 employees 18:13 
+30:5 31:5,15 deleting 53:13 32:13 58:10 30:9,9,11 31:7 19:7 20:25 
+31:19,22 32:7 53:17 determining 42:21,24 43:11 25:14 26:11 
+32:12,22 33:17 deletion 53:12 23:9 40:9 45:5 43:14,16 55:6 41:13 56:6 
+33:21 34:5,15 delivered 53:10 device 16:2,5,11 55:11,22 56:1 employee's 41:8 
+34:18 35:4,11 employer 3:12 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 63 
+
+10:17 18:16 39:25 40:10 expecting 24:12 11:15 front 21:21 
+19:4 23:16 evolving 23:10 expenses 32:19 final 9:20 fully 25:7,7 
+26:3 33:13 exactly 36:23 explain 33:16 finally 4:14 
+52:6 38:8 52:13 34:3 56:16 G 
+
+employers 18:14 example 4:10 explicit 3:19 find 24:15,18 G 3:1 
+18:15 25:13 22:16 36:21 extent 47:19 37:5 38:4,5 gap 20:18 
+26:10 excess 30:25 extra 30:23 43:2 42:9 51:2 52:6 gaps 21:8 
+
+employer's 24:8 excessively extremely 17:21 finding 32:15 garage 23:23 
+en 7:9 33:23 42:8 17:21 Fine 32:9 garbage 21:20 
+enacted 9:5 21:7 excessiveness e-mail 4:13 5:19 first 3:15 4:8 general 1:18 
+
+21:9 37:21 6:9,15 16:15 10:12 11:24 15:14 
+ends 11:4 exchange 54:18 16:18 28:22 17:7 22:12 generate 22:11 
+end-all 45:4 exclusionary 29:20,21 49:12 33:14 34:9,20 getting 50:11 
+enforced 4:2 20:21 49:13 56:3 48:6 55:20 53:9 
+enforcement excuse 13:12 57:11 56:4 get-go 24:25 
+
+39:6,19 15:7 46:5 58:4 e-mails 8:13 fix 22:15 Giarratano 
+Engquist 19:2 existence 26:21 12:10 28:11 flat 27:13 22:16 
+enhance 46:3 existing 32:17 29:6,12 30:4 flexible 23:9 Ginsburg 5:23 
+enjoy 53:3 exists 19:8 49:12 55:8,9 flip 26:22 6:6 12:6,15 
+enjoys 49:17 exonerating Florio 46:7 51:1 17:2,7 28:9 
+ensure 32:17 39:24,25 F 56:23 29:5,9 30:20 
+entire 15:3 expect 28:13 facilities 22:24 flux 22:7 43:10 55:2,7 
+entirely 22:6 29:10 48:20,25 facility 57:18 follow 4:1 6:3 girlfriend 44:17 
+entity 17:11,22 expectation 3:16 fact 4:4 7:3,8 8:19 girlfriends 10:3 
+
+22:23 6:15 8:14,23 8:22 9:17 following 25:12 give 17:4 26:10 
+entries 16:16 10:9,12,15,20 10:18 15:21 51:21 given 4:7 9:8 
+equipment 4:11 10:22 11:5,25 17:14,17,18 forever 53:18 17:4 33:25 
+
+4:12,17 23:17 12:8,12,20,24 27:25 32:13 form 22:20 36:10,10 45:18 
+28:10,15,16 13:15 17:17 48:23 53:25 28:19 54:11,19,24 
+29:24 30:7 18:2,18 19:7 factor 45:5 forthright 38:13 giving 31:25 
+39:19 59:5 21:25 22:3 factors 6:21 forward 35:22 go 10:7 12:13 
+
+equipped 25:7 23:18 27:14 24:5 found 11:2 41:8 43:1 
+equivalent 46:16 39:1,4 40:19 facts 13:2,4 18:22 32:14 46:13,15 49:8 
+
+47:9 40:23,25 41:12 factual 13:3 34:1 38:3 50:3 52:12 
+especially 54:24 41:18,19,20,25 53:24 40:22 God 37:17 
+ESQ 1:16,18,22 45:1,3,6,20 fall 43:17 four 36:4,6 goes 29:22,23,23 
+
+2:3,6,10,13 46:1,19 47:4 far 30:21 36:4 Fourth 3:13 30:1 36:25 
+essentially 22:25 47:14,15 48:15 38:2,10 53:17 11:10 20:6,12 49:5,12 50:18 
+established 48:22 49:18 fault 33:4 20:19 21:5,8 50:19 
+
+18:15 50:16 51:25 favor 12:17 21:25 22:11 going 5:6,15,25 
+ET 1:4,7 53:1,3 54:20 58:15 46:8 52:14,20 7:3 8:6,19 10:6 
+evaluating 26:14 54:23 57:8 Federal 9:6 21:4 52:23 53:3 10:21 14:25 
+everybody 5:2 expectations fee 31:8 freeze 22:13 22:15 23:9 
+
+11:12 29:19 4:24 21:5,12 figure 22:1 58:6 23:3 25:24,25 28:7 
+31:22 26:8 file 41:9 free-for-all 52:8 29:3,3,7 30:13 
+
+evidence 39:24 expected 11:17 fill 20:17 21:8 52:11 30:14,22 31:17 
+filthy-minded 35:14,21 36:22 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 64 
+
+38:2,16 40:2,3 hey 29:2 30:10 informally it’s 11:17 19:25 24:10,15,22 
+41:2 42:11,14 35:15,21 36:21 18:24 20:15,17 21:3 25:9,10,20 
+43:2,9,17,20 54:13 information 4:6 21:6 24:8 47:6 26:10,13,24 
+43:24 44:8 higher 9:14 21:24 50:19 51:19 27:4,9,19,23 
+45:6 46:2 47:2 13:21 informs 28:18 52:9,9 28:9 29:5,9,18 
+48:17 49:1,14 high-profile 7:1 initial 13:10,18 I’ll 30:24 35:15 30:3,20 31:9 
+49:15,16 54:18 hire 37:15 42:6 36:5 31:16,21,23 
+55:8 hired 37:12 inquiries 7:10 I’m 33:4 37:2,18 32:9,20,24 
+
+good 34:9,9 history 21:17 inquiry 14:17,18 33:19 34:3,6 
+gotten 37:11 hoc 18:17 25:17 15:13 J 34:12,16,24 
+
+41:23 48:12 holdings 19:1 insofar 56:25 Jeff 1:7 3:15 35:5,8,14,19 
+governing 21:23 home 25:25 30:1 instance 22:12 jeopardy 25:15 35:24 36:4,11 
+government honestly 33:12 30:6 Jerilyn 56:23 36:16,25 37:8 
+
+3:12 18:15 53:15 instructions job-related 37:22 38:14,20 
+19:3,6 50:3 Honor 32:8 3:25 5:2 15:14,22 38:25 39:9,17 
+52:12 53:9 hope 40:19 intent 42:25 Joint 55:24 39:21 40:1,7 
+57:10 house 21:21 56:6 judge 12:25 13:5 40:14 41:1,10 
+
+government's huge 54:1 intercepted judges 25:5 41:17 42:4,15 
+24:22,24 42:2 huh 25:10 51:19 judgment 9:20 42:18,23 43:4 
+
+governs 18:16 hypothetical interception 12:17 43:10 44:1,10 
+granted 12:17 6:13 19:22 57:10 jury 11:1,7 12:7 44:16 45:8,12 
+greater 19:3 interest 10:6,8 12:13,16,25 45:15,19 46:4 
+Greenwood 9:1 I 10:10 38:9 13:2 32:12,13 46:6,21,22 
+
+20:7,12,20 idea 25:18 37:25 47:1 32:16 33:10 47:16,25 48:9 
+ground 25:6 identifies 44:12 intermediary 34:1 38:3 48:14,21 49:3 
+grounds 11:2 44:13 52:18 Justice 1:19 3:3 49:8,20,25 
+
+14:9 Ignorance 46:4 Internal 14:1,18 3:9,21,23 4:4 50:7,14,17,24 
+guarantee 11:11 ignore 14:11 14:23 15:11 4:23 5:1,6,23 51:6,9,13,17 
+
+30:12 55:22 illegal 8:12 9:9 Internet 4:13 6:6,10,11,12 52:1,10,13 
+56:20 immune 52:17 28:22 6:18,20,23 53:11,24 55:2 
+
+guess 11:9 35:5 impact 10:13,14 intrude 41:24 7:13,17,20,22 55:7,14,16 
+38:19 important 15:6 intrusion 41:19 8:1,8,9,12,16 56:22 57:4,9 
+
+guys 54:15,25 44:18 intrusive 33:23 8:18 9:7,12,19 57:14,15 58:2 
+incident 7:12 42:8 9:23,25 10:4,5 58:5,14,18,22 
+
+H incidents 7:4 intuitive 22:7 10:11,18,24 58:25 59:1,7 
+happen 35:1 included 3:19 investigation 11:9,20,21 Justices 40:22 
+
+39:8 including 19:1 41:12 12:6,15,19,24 Justice's 19:2 
+happened 21:21 33:7 involved 7:4 13:6,11,13 
+
+35:3 inconsistency 13:25 14:3,6,9,13,14 K 
+happening 54:2 4:5 involving 7:3 14:19,22 15:7 K 1:18 2:6 18:8 
+happens 38:19 incorrectly 9:18 32:1 15:17,21 16:1 Katyal 1:18 2:6 
+
+44:1 47:13 independent isn’t 20:18 16:10,20 17:2 18:7,8,11 
+hard 56:20 58:19 issue 9:15 37:18 17:7 18:6,11 19:16,19 20:3 
+harder 50:13 indicated 58:1 48:10 19:9,18,21 20:15 21:1 
+hear 3:3 indicates 40:2 issued 9:20 27:1 20:9,11,20 22:4 23:12 
+held 9:21 57:6 individuals 47:3 55:13 21:1,14 22:4 24:9,19,24 
+help 18:19 59:5 22:15 23:2,20 25:11 26:2 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 65 
+
+27:4,15 large 54:4 line 52:24 53:7 26:20 28:1,25 3:20 4:5,9 5:10 
+keep 53:1,3 Laughter 3:22 list 6:19 5:13,18 6:8,16 
+keeping 53:5 16:23 34:11 listen 10:10 M 10:7 13:7,8,23 
+keeps 47:19 35:7,18 44:19 11:18 mail 40:4 44:17 14:2,10,21,25 
+Kennedy 9:7,12 49:6,10 listened 36:4 46:11,18 49:17 15:12,14,18,19 
+
+9:19,23 12:19 law 8:19,22 9:5 listens 11:16 50:2,4 52:24 16:6,21 23:1 
+14:3,6,9,13 9:8,13 18:1 literal 58:25 maintain 51:4 30:14 31:4,12 
+19:9,18,21 21:8 39:6,19 litigating 12:5 maintained 51:3 33:24 34:7,22 
+20:9,11,20 46:4 litigation 7:3 making 40:8,16 35:1,13 36:9 
+21:1 39:21 lawfully 17:5 40:6,18 43:16 52:16,18 36:23 37:6 
+40:7 44:16 45:1 48:2,7 little 7:13 8:3 58:15 38:4,5 40:13 
+
+Kennedy's laws 20:5 21:15,20 24:12 matter 1:12 21:4 42:10,11,16 
+22:15 38:20 lawsuit 24:17 44:24 50:5 59:10 43:24 44:8,8 
+
+KENT 1:16 2:3 56:25 live 58:22 mean 9:4 20:3 44:21,22 45:2 
+2:13 3:7 55:18 leeway 19:3 lives 39:16 23:21 24:16 46:12 47:3,5,8 
+
+kept 47:15 53:5 legal 19:10,22 location 52:2 28:10 29:10 50:8 51:2,7 
+kind 38:20 39:6 legally 40:13 logical 37:3 37:24 38:9,14 56:6,12,17 
+
+44:5 legislative 22:18 long 6:1 21:22 39:9 40:8 57:24 
+knew 10:1 42:11 legislature 9:6 27:16 30:12 43:21 46:23 messaging 4:19 
+
+42:12,13,20 22:14 43:8,19,23 48:6,20 49:8 15:8,10,25 
+43:23 57:21 legitimate 14:9 look 11:24 13:22 49:11 50:3,10 16:14 
+59:5 letter 46:12,14 14:10,24 15:1 54:15 57:13,15 millions 18:13 
+
+know 6:19 13:19 47:11 49:15 15:6,18 19:15 58:24 59:2 25:14 
+16:20 23:22 51:15,18,18,20 20:2 23:15 meaning 46:15 mine 24:8 
+24:1,2,6 25:11 51:20,21,23 29:12 30:13,14 means 57:9 minimis 26:4,12 
+25:25 27:12 52:25 53:7 30:22,24 31:17 mechanism minute 27:1 
+31:12,16 33:5 let's 9:25 19:24 33:1,22 36:4 57:10 minutes 54:8 
+34:8 35:9 19:25 36:21,21 38:1,16 39:5 meeting 5:24 6:2 55:17 
+38:16,17,18 41:21 51:19 39:23 42:10 6:4,7 28:6 31:3 misspoke 16:24 
+42:15 44:4,10 lieutenant 3:25 43:20 47:22 43:12 mitigating 40:10 
+44:14,15,23 4:21 5:24 28:4 53:22 melded 41:15 mix 54:16 
+45:1,8,9,20,23 29:2,4 30:11 looked 13:23 member 7:1 modification 
+47:12,13 48:1 30:16,17 31:6 15:10,12 33:5 18:18 39:12 55:11 
+48:16 49:4 35:20 42:12,21 looking 10:14 members 30:12 modifications 
+50:5,18,24 42:24 43:14,16 26:17 27:6 41:4 43:23 30:15 
+51:2 52:17,23 43:18 55:6,22 29:21 33:21 memo 6:6 modified 3:24 
+53:23 54:10,13 56:1,2,12,16 41:9,9 42:14 memorialized 18:24 28:5 
+54:24 58:9 life 39:16 41:14 45:2 53:22 6:7 moment 23:3 
+
+known 41:22 55:1 looks 23:6 mere 8:22 Monday 1:10 
+knows 29:19 light 3:18 Los 1:16 message 16:2,4 money 31:11 
+
+37:17 52:5 limit 13:20,21 lose 47:13 52:25 16:11 44:3,11 33:2 
+15:16 57:3,8 46:19 47:17,18 monitor 5:25 
+
+L limited 10:25 loses 57:2 47:23 48:2 28:12,22 29:25 
+L 1:16 2:3,13 33:25 55:3,5,9 loss 22:1 49:2,17 52:3,4 47:2 
+
+3:7 55:18 limits 10:24 lot 23:21 41:7 52:9 monitored 12:10 
+lack 19:7 32:17 lower 10:20 messager 25:23 29:7 
+language 27:5 messages 3:17 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 66 
+
+monitoring notion 25:18 Oliver 9:2 26:25 perfectly 46:23 
+28:19 novel 21:13 once 13:9 14:10 periodically 
+
+month 35:22 no-privacy 4:21 27:13 48:17 P 28:22 
+36:22 18:16 52:4 57:6 P 3:1 peripheral 4:13 
+
+Moore 8:24 number 8:21 9:1 ones 34:22 42:15 package 49:15 permit 8:23 
+motive 10:13,13 39:8 44:13,14 one's 46:1 page 2:2 7:14 permits 27:18 
+move 49:16 54:1,4 one-way 54:13 32:15 55:24 person 6:2 23:19 
+mucking 31:13 Ontario 1:3 3:5 pager 3:18 5:3 30:8 36:17 
+Murray 22:16 O 3:15,17 12:18 6:25 7:6 16:3 37:2,14 57:8 
+
+O 2:1 3:1 on-duty 13:7 16:15 28:13 personal 6:15 
+N object 57:7 15:10 54:4 29:20 31:24,24 14:21 15:15 
+
+N 2:1,1 3:1 observed 19:6 open 43:13 44:2 46:15,25 25:24 28:16 
+naive 34:6 36:5 obtained 47:8 operational 3:18 47:7 51:7,10 34:8 36:22 
+nationwide obviously 36:7 26:25 27:3,5 53:16 57:22 38:18 39:16 
+
+20:13,17 40:11,16 52:21 27:11 43:22,23 pagers 4:19 42:13 54:19 
+nature 15:6 occasions 57:6 45:18 15:25 16:2,12 55:3,5,9,12 
+
+27:10 offending 11:17 opinion 11:6 18:23 28:3,6 perspective
+NEAL 1:18 2:6 offers 22:23 19:2,5,10,23 29:2,10,25 26:16 37:21 
+
+18:8 Office 46:16 22:15 30:6,14 43:17 petition 7:16,18 
+necessarily 47:9 49:19 opposed 3:13 51:7 54:12,17 28:21 32:15 
+
+20:18 50:4 51:19 58:18 55:13 56:3 Petitioners 1:5 
+necessary 58:9 53:2,5 57:18 opposite 53:25 parcel 40:9 1:17,21 2:4,8 
+need 13:20 57:20,22 oral 1:12 2:2,5,9 parking 23:22 2:14 3:8 18:10 
+
+14:24 15:15 officer 6:25 8:2 3:7 4:6,20 5:22 26:22 45:24 55:19 
+16:3,3 34:2 8:5 10:8,16 18:8 27:21 part 9:10 15:3 phone 47:22 
+36:1,23 37:7 35:6,14 36:14 57:25 28:17 40:9 48:2 54:21 
+38:5 42:10 37:23 38:10 order 24:17 particular 7:11 phones 40:15 
+52:19 39:3,6 40:8 52:18 39:6 physically 16:8 
+
+needed 13:22 51:6 ordered 13:19 particularly 5:9 pick 54:21 
+52:19 officers 12:9 ordinary 41:3,3 17:19 piece 50:2 
+
+networks 4:13 15:23,23 32:18 Oregon 19:2 pay 5:7,14 6:1 pizza 36:1 
+never 12:16 34:20,21,22,25 Ortega's 40:23 24:7,7 30:13 place 18:16 
+new 21:18 23:5 35:12 36:9 other's 31:14 30:23 31:7 21:16 22:14 
+newspaper 37:5,16 39:11 overage 31:7 32:18 37:7 23:4 27:7,17 
+
+51:21 official 7:6 56:1,14 38:6 43:2,9,19 33:15 42:21,24 
+night 10:3 25:16 39:18,18 overages 30:13 43:24 53:20 
+nine 40:22 56:21 34:23 43:9,19 paying 5:8 33:14 plain 14:4 38:20 
+Ninth 9:16 off-duty 5:10 43:24 56:7,10 34:23 37:6 plaintiffs 57:3 
+
+18:22 24:25 13:7 14:2,24 owned 58:3,12 38:11,12 42:9 57:20 
+25:14 15:8,19,23 owns 31:24 Payner 18:1 play 28:4 29:1,3 
+
+non-policy 16:21 54:10 O'Connor 11:6 pending 9:24 30:10 32:23 
+18:18 oh 7:17 16:13 19:5 27:16,17 people 8:19 10:3 40:12 44:25 
+
+non-work-rel... 20:3 29:6 33:22 40:22,22 24:3 25:21 52:22 54:11 
+56:12,16 31:21 59:1 41:7 43:22 28:5,18 31:25 55:6 
+
+normal 41:2 okay 27:2 34:12 53:22 41:15 48:16 please 3:10 
+noted 17:25 35:19,20 59:1 O'Connor's people's 33:7 18:12 27:24 
+notice 55:7 old 24:3 45:3 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 67 
+
+plurality 11:6 35:21 53:22 probably 33:4 putting 21:20 34:10,25 36:5 
+19:5 precisely 8:25 problem 50:9,10 37:18 42:17,18,25 
+
+point 8:2,5 9:7 12:2 21:7 22:9 52:15,20 puzzling 21:15 43:2,9 48:2 
+23:1,1,2 38:20 55:25 proceedings p.m 59:9 reading 33:25 
+47:6 50:9 preclude 17:12 20:22 reads 23:25 29:6 
+58:21 premise 22:5 process 51:5 Q realities 3:19 
+
+points 53:19 present 6:22 processed 50:19 question 10:12 26:25 27:3,5 
+police 3:15,17 presume 13:2 processing 49:2 10:14 11:24 45:18 
+
+6:3,25 7:2,10 pretermit 22:18 produce 40:13 12:12,25,25 reality 27:12 
+7:11 9:10 10:1 pretty 15:2 44:9 proper 26:17 13:5 15:15 43:22,23 54:19 
+10:2 11:15 print 23:23 42:3,5,7 16:7 19:16 really 11:14 
+12:18 38:15 49:20,21 proposition 20:12 21:2,3 22:13 25:7 
+40:8 privacy 3:16,20 21:13 22:5 29:5 32:5 53:14 55:23 
+
+policies 18:14 4:5 6:15 8:14 protected 20:18 33:11 37:8,10 reason 11:22 
+20:24 25:13,19 8:23 10:9,13 45:2 38:6,25 40:2 12:2,4,4 20:8 
+
+policy 3:20,21 10:15,22 11:5 protects 53:4 45:5 53:12 20:16 22:9 
+4:1,1,6,8,15,18 11:10,12,14,17 prove 27:11 questions 26:21 29:11,12 32:13 
+4:22 5:2,22,22 11:25 12:8,12 provided 26:19 quickly 26:23 33:15,20 37:22 
+6:9,13,14 7:19 12:21,25 13:15 provider 17:3 54:16,16 37:23 41:2,3 
+7:20,23,24 8:1 17:18 18:3,19 49:13,14,16 quite 33:12 40:1 41:21,24 57:5 
+18:16,23,24 19:7,8 20:5,10 providers 52:8 47:17 reasonable 3:16 
+19:6 23:15,16 21:4,6,12,23 provisions 22:21 quiver 24:20 4:24 5:12 6:14 
+24:11,14 25:16 21:25 22:3 prurient 10:8,10 Quon 1:7 3:5,15 8:14,18,23 
+26:2,4,16,18 23:18 24:13,14 prying 31:14 8:2 15:24 10:12,15 11:2 
+26:20,23 27:2 24:16 26:5,8 33:7 26:14 31:6 11:5,7,25 12:2 
+27:8,10,13,17 27:12,14 28:18 public 5:20 43:11 46:9,12 12:8,11,20,21 
+28:2,5,7,14,17 30:11 39:2 11:13 12:11 46:14,24 47:8 12:24 15:4,5 
+28:20 29:1,4,6 40:19,23,25 39:12 41:8 48:4,12,17,18 17:17 18:2,18 
+29:10,22 43:18 41:13,18,19,21 45:22,25 52:4 49:21 50:9,11 19:7 20:23 
+46:24 55:2,4 41:25 43:5 52:5,16,18 50:16,20 51:22 21:5,11,24 
+56:21 57:25,25 45:1,3,7,20 54:22 56:17 52:4,5,5 53:21 22:2 23:7,10 
+
+position 12:15 46:1,19 47:1,5 published 51:20 54:9 56:2,5,9,9 23:15 24:2,10 
+24:23,24 25:5 47:14 48:22 53:8 56:13,23,25 26:8 34:13,17 
+25:21 48:4 49:18 51:18,23 purpose 11:8 57:2,17 36:7 37:10 
+56:23,24 54:21,23 55:22 13:21 15:13 Quon's 4:24 8:5 39:1 48:15,22 
+
+positive 9:4 56:20 57:8 32:16 33:25,25 43:8 46:8 47:7 50:23 
+possibility 39:15 
+possible 25:8 
+Post 46:16 47:9 
+
+49:18 50:4 
+51:19 53:2,5 
+57:18,19,22 
+
+power 47:21 
+practical 35:10 
+
+36:18 
+practice 4:2 
+
+private 5:3,13 
+21:19,20 24:7 
+28:11 31:1 
+33:6 36:9 
+37:25 38:18 
+40:15 41:14 
+42:11,16 54:25 
+
+privilege 31:25 
+probable 39:22 
+
+40:9 
+
+37:5 42:9 
+purposes 31:1,1 
+
+33:6,6 36:24 
+39:19 42:13 
+54:19 55:12 
+
+push 49:4 
+put 5:11 6:13 
+
+18:19 51:15 
+puts 23:20 25:5 
+
+25:15 
+
+R 
+R 3:1 
+raise 15:16 
+
+53:19 
+rapidly 22:7 
+RCN 58:7 
+RCS 58:11 
+RCSs 22:23 
+reach 44:3 
+read 10:21 31:7 
+
+reasonableness 
+26:15 
+
+reasonably 8:6 
+reasons 8:20 
+
+10:25 15:25 
+29:14 40:12 
+41:8 54:17 
+
+REBUTTAL 
+2:12 55:18 
+
+received 51:15 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 68 
+
+54:14 20:4 23:19 12:23 13:1,9 S 2:1 3:1 27:2 42:2 
+recipient 47:19 25:4 13:12,16 14:5 salacious 10:6 searching 50:10 
+
+47:21 49:17 repeating 35:9 14:8,12,17,20 12:4 second 14:18 
+recipient's 47:22 request 32:7 14:23 15:9,20 sample 36:21 seconds 54:7 
+recognize 28:2 requesting 16:6,13,24 saw 13:24 second-guessing 
+record 16:18 17:14 17:7 55:16,20 saying 30:21 25:6 
+
+44:7 45:11,11 requests 7:5 56:22 57:1,5 31:23 36:21 see 14:10 17:14 
+53:16,25 require 25:21 57:13,19 58:4 38:9,15 44:17 30:24 31:17 
+
+records 5:20 58:11 58:8,17,21,24 46:5 32:3 33:11 
+45:22,25 56:17 required 32:18 59:2 says 5:25 23:16 36:6 38:2 
+
+recovered 51:10 requirements right 4:24 5:7,8 25:17 26:8,18 39:23 45:19 
+redact 14:25 23:4 8:15 11:14,17 27:13,16 28:21 48:3 56:7,11 
+
+36:9 reserve 18:4 14:16,22 15:19 29:6 35:8 56:20 
+redacted 14:1 resolve 13:2 19:14,15 24:13 37:25 46:24 send 16:1,4,11 
+
+14:15,17 23:14 25:9 24:15,20 25:23 55:25 57:19 19:14 40:5 
+redaction 37:24 respect 15:18 27:6 33:9 SCA 8:10 47:12,16,23 
+redacts 38:7 17:9 20:24 34:16,24 35:4 Scalia 7:13,17 48:17 49:12,15 
+refer 55:23 23:4 27:16 35:9 41:25 7:20 11:9,20 senders 50:10 
+referred 7:14 57:1,2 43:5 45:13 11:21 12:24 sending 14:21 
+
+28:6 respected 20:25 49:5,9 51:22 15:7 16:20 44:3 52:4,16 
+regard 15:6 respond 17:1 51:22 52:10,20 24:15,22 25:9 sense 25:12 
+regarding 22:3 54:16 road 47:12,14 25:10 40:14 58:25 
+regulation 27:8 Respondents ROBERTS 3:3 41:17 42:4,15 sent 6:6 14:1 
+regulations 1:23 2:11 3:21,23 4:23 42:18 45:8,12 16:7 33:6 
+
+13:25 27:7 27:22 5:1,6 6:10,12 45:15,19 46:4 46:11,13 47:3 
+reimburse 56:10 rest 18:4 6:18,23 7:22 47:16,25 48:9 51:17 52:9 
+related 4:16 restrictive 3:11 8:1,9,12,18 49:8,20,25 57:7,24 
+
+27:11 31:13 25:3 13:6,11,13 50:24 51:17 separate 29:25 
+relationship result 26:9 14:14,19,22 52:1,10,13 Sergeant 3:15 
+
+10:16 37:11 15:17 18:6 56:22 57:4 15:24 31:5 
+relatively 21:18 retracted 31:3 23:2,20 25:20 58:14,18,22,25 43:8 46:12,14 
+relevant 40:17 reversed 18:25 27:19 29:18 59:1 51:22 53:21 
+reliance 25:15 reviewed 39:12 30:3 37:22 scenario 47:7 54:9 56:2,5,9,9 
+
+25:19 43:25 38:14 44:1,10 Schowengerdt 56:13,24 57:2 
+rely 25:13 37:15 reviewing 41:4 46:21 48:14,21 25:1 serious 14:6 
+relying 36:17 RICHARDS 49:3 50:7,14 scope 20:5 32:23 server 29:23 
+
+37:1 55:18 50:17 55:14,16 33:17 46:17 
+remain 47:18 Richland 1:16 59:7 scrupulous 15:2 service 17:23,24 
+remaining 55:17 2:3,13 3:6,7,9 rough 35:24 search 11:6,8 22:25 49:14 
+remand 9:19 4:3,25 5:5,17 routed 48:23 12:1,22 14:4,4 52:8 
+remote 17:24 6:5,17,20,24 rule 18:21 20:21 15:4 24:23 services 4:14 
+
+22:22,22 7:13,15,19,24 26:7 27:13 25:2 26:15,15 22:23 
+renders 27:2 8:4,11,16,20 39:24 32:14,16,23 set 57:10 
+repeated 19:1 9:12,22 10:4 rules 22:11 33:17,23 34:1 sets 26:3 
+
+32:5 10:11,23 11:3 29:15 37:5,21 setting 25:19 
+repeatedly 8:21 11:19,22 12:14 searches 25:6 sexual 35:1 
+
+S 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 69 
+
+shape 22:20 58:2,5 storage 22:23 53:11,12 58:14 4:9,19 5:18 6:8 
+Sharp 13:19 sound 35:10 57:17,17 58:6 58:22 6:15 13:7,7,23 
+shift 54:5 sounds 33:10 stored 8:10 17:3 suspect 24:2 15:8,10,12,14 
+show 37:19 sovereign 3:13 17:10,12,20 sustain 24:17 15:25 16:14 
+
+54:16 specifically 6:8 19:17,19 20:8 SWAT 7:1,4 25:23 31:4 
+shredder 51:16 28:19,21 21:7,16 22:19 15:23 16:25 44:20,22 47:17 
+Sign 46:24 spent 14:21 22:20 44:25 30:12 33:13 47:18,23 56:6 
+signal 44:5 36:12 46:3 48:7 58:1 39:2,10 41:4,4 56:15,17 57:24 
+simple 18:20 spicy 49:21 stores 52:2 41:15 43:23 texts 10:7 53:20 
+
+20:8,16 spoke 10:3 story 48:13 44:4 54:15 thank 18:5,11 
+simplest 26:19 spring 21:12 straight 50:8 27:19,23 55:14 
+simply 14:20 stage 14:18 study 37:13 T 55:15,20 59:7 
+
+17:18 18:1,19 15:11,11 subject 29:7 T 2:1,1 that’s 5:5 7:22 
+23:14 26:20 stand 56:24 31:4 take 9:8 17:2,4 12:14,23 14:12 
+
+situation 52:2 standard 20:13 submitted 39:25 27:5 56:22 17:20 32:9 
+skipping 28:1 20:17,17 25:1 59:8,10 57:16 42:22 
+slightly 48:5 standards 3:12 subordinate taken 25:17 theft 41:22 
+small 23:23 standpoint 25:17 30:17 41:23 theory 13:14 
+society 8:7 41:14 26:14 subscriber talk 54:24 46:6 
+
+50:22 start 34:12 17:13 talked 41:6 54:6 there’d 50:9 
+sole 37:4 started 33:24 succeed 46:8 talking 31:2 there’s 6:13 
+solely 58:13 35:22 50:18 41:13,15 43:21 11:25 12:20 
+Solicitor 1:18 State 9:5 20:17 suggested 16:16 44:16,21 54:7 23:16,18 41:1 
+solutions 22:18 stated 4:9 6:8 suggestions team 7:1,4 15:23 41:17 45:6 
+solve 52:15,20 8:21 36:13 16:25 30:12 they’re 5:9,15 
+somebody 11:18 statement 6:2 suggests 16:19 33:13 39:2 13:14 24:6 
+
+39:5 40:5 43:12 46:24 summarize 41:5 44:4 25:6,24,25 
+47:12,17,20,23 statements 4:20 55:24 technical 17:21 44:3 
+50:2 51:17 6:7 18:17 summary 12:16 technologies thing 11:16 
+52:16,25 States 1:1,13,20 superfluous 18:13,17 22:6 20:14 23:23 
+
+somebody's 41:2 2:7 9:2 18:1,9 12:7 technology 23:5 28:13 32:6 
+somebody’s 20:22,24 superiors 39:13 23:11 24:4 33:4 40:15 
+
+44:25 state-owned supervisors 10:2 26:9,11 49:5,9 52:3 
+someplace 57:25 40:24 supplant 18:20 telephone 57:11 53:9 
+sooner 39:4 statute 17:19,19 supporting 1:21 tell 24:2 31:22 things 5:8 10:21 
+sorry 7:20 13:12 17:20 21:4 2:8 18:10 34:16 35:16 20:8 22:3 
+
+14:15 45:9 52:14,19 suppose 14:5 tempered 8:6 23:21 25:22,24 
+sort 5:11 11:24 52:22 19:10 24:15 template 21:11 26:1,6 36:5,6 
+
+16:2 39:4 statutes 21:23 36:11 46:22,23 terms 8:24 24:11 36:14 38:11 
+Sotomayor 6:11 stayed 9:24 51:17 38:3 39:3 43:6 
+
+8:8 9:25 10:4,5 Steve 56:24 Supposing 39:2 test 25:1 26:17 49:20 
+10:11,18,24 Stevens 38:25 Supreme 1:1,13 36:22 think 8:10 9:9 
+26:24 27:4,9 39:9,17 40:1 sure 29:8,13,21 testified 31:6 11:3,12,12,13 
+36:11,16,25 41:1,10 33:22 35:22 51:1 11:19,21,22 
+46:6 53:24 stop 35:21 36:21 38:12 40:19 testimony 43:8 14:12 15:3,5 
+57:9,14,15 52:18 49:1,24 51:12 54:9 19:19 20:4,6,7 
+
+text 3:17,20 4:5 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 70 
+
+20:15,22 21:2 transferred understand valid 41:7,24 well-established 
+21:12 22:4,9 44:23 14:15 21:3 variety 26:5 21:18 
+22:13 23:7,12 transit 52:9 26:23 32:24 various 16:7 went 6:19 30:6,7 
+23:13 24:7,9 transmission 37:1,24 58:17 20:5 32:10 46:15 
+24:20 25:3,8 22:25 56:11 understanding verify 56:15 47:9 50:8 56:2 
+25:12,18 26:6 transmissions 8:7 21:19 44:7 view 8:2,5 14:4 57:17 
+26:16,17,19 56:8,15 57:11 51:4 14:7 38:20,22 weren't 16:21 
+27:15,25 28:24 57:12 understandings 50:10 we're 30:14 
+29:11 32:7 transmit 51:3 22:8 views 10:20 35:21 
+37:20 41:14 transmittal understands violated 17:11 we’ll 12:5 44:18 
+42:1,22 44:6 19:11 29:17 19:17 22:20 we’re 5:6 14:25 
+44:20 45:2,17 transmitted understood violation 3:14 23:5,9 28:11 
+46:11,17 47:7 30:8 47:23 48:1 19:12,13,23,24 30:13 36:22 
+47:15 48:5 trash 22:8 undo 26:25 19:25 48:7 38:9,16 41:15 
+49:4 50:5,5,8 travels 30:1 United 1:1,13,20 violations 13:25 42:1 43:9,20 
+50:12,21,22,25 treat 12:10 13:7 2:7 9:2 17:25 Virginia 8:24 43:20 46:1 
+51:24 54:4,11 13:13 55:8 18:9 virtue 7:2 47:2 54:18 
+57:3 58:8,10 treated 6:8 universe 39:10 vis-à-vis 3:16 55:8 
+58:11 13:16 unlawful 17:10 voice 44:17 whatsoever 47:2 
+
+thinking 25:4 trouble 43:1 unreasonable what’s 23:9 24:2 
+34:13 true 9:15 38:23 24:12,18 31:18 W 24:22 31:9,17 
+
+third 33:3 35:19 43:15,15 48:19 32:6,8,10 want 13:19 23:3 38:5,10 
+thought 30:20 Trujillo 46:7 33:12,16,18 26:24,24,25 whoa 58:14,14 
+
+32:24 42:24 56:24 37:9,10,17,19 27:12 29:11,15 wife 46:8 54:22 
+49:4 53:24 trump 44:5 41:20 31:7,11,20,25 Wireless 17:11 
+55:2 truth 57:20 unreasonable... 34:25 35:8,25 30:7 46:16 
+
+thousands 25:12 try 46:10 24:23 36:1 37:14,15 48:16 57:23 
+ticket 26:22 trying 44:3 unverified 37:16 39:22,23 44:24 59:4 
+time 5:18,21 turn 9:9 upfront 38:10 58:22 wished 56:14 
+
+14:21 18:4 turned 51:10 Upland 1:22 wanted 16:1 wives 35:2 
+21:22 33:3 turns 38:17 usage 28:23 33:1,5 34:8 wonder 23:5 
+44:9 56:18 two 8:24 12:19 use 5:3 16:11 54:15 word 37:9,16 
+
+times 40:17 13:17 22:21 17:5 18:13,17 wants 32:2,2 words 6:18 14:7 
+tired 33:2 24:19 25:21,22 21:10 24:6 warning 28:12 32:25 48:3 
+today 18:13 28:15 35:16 26:4,5,12 Washington 1:9 work 26:1 31:1 
+today's 41:14 two-step 11:23 28:15,22 30:2 1:19 31:13,24 32:1 
+
+50:21,22 two-way 56:3 30:22 32:1 wasn't 6:2 29:1 32:3,4 33:6 
+told 5:17 12:9 type 16:5,10 36:22 39:19 30:16 33:7 39:2 41:14 
+
+23:19 24:6,13 42:13 54:13,19 54:12,13 57:22 47:1 54:5,8 
+28:5,11 43:8 U 54:21 55:3,5,9 way 15:9 16:17 worked 51:5 
+56:2,5,13 ultimate 37:18 55:12 22:8,20 23:5 working 17:22 
+
+touch 44:24 ultimately 49:24 usual 23:22 23:13,13 24:9 workplace 3:19 
+transcripts 9:9 undercuts 56:21 25:4,8,10 27:1,6 
+
+16:16 17:4,6 underlying 22:5 V 26:17,19 34:9 works 53:16 
+17:14 19:11,15 27:25 v 1:6 3:5 8:24 35:10,19 56:21 work-related 
+20:2 44:22 undermined 9:1,2 18:1 19:2 ways 34:18 32:19 34:9 
+
+4:21 20:7,11 22:16 weight 23:21 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 71 
+
+35:15 42:10 
+56:7 
+
+world 53:8 
+wouldn't 24:16 
+
+24:17 28:12 
+29:9,12 39:9 
+43:11 49:4 
+52:15,19 
+
+write 29:17 
+writes 29:15 
+writing 6:3 
+written 3:21 4:1 
+
+4:6,8,18,22 5:2 
+6:9,13,14 7:20 
+7:23,24 26:18 
+27:1,13 51:21 
+56:21 57:25 
+
+wrong 25:1,4 
+26:16 31:9 
+
+X 
+x 1:2,8 
+
+Y 
+Yahoo 49:13 
+years 18:24 19:1 
+you’re 23:24 
+
+33:13,14 36:1 
+36:16,16,17 
+37:1,2 40:7,7 
+41:8,9,13 
+43:21 46:5 
+54:7 58:15 
+
+you’ve 5:14 
+10:25 24:7,13 
+
+Z 
+zone 26:4 
+
+$ 
+$50,000 37:13 
+
+11:06 1:14 3:2 
+119 32:15 
+12:08 59:9 
+15 54:7 
+152 4:10,12 7:14 
+156 4:16 7:14 
+
+28:20 
+18 2:8 
+19 1:10 
+1999 18:23,24 
+
+2 
+2 19:1 
+20 34:7 
+2010 1:10 
+24/7 15:24 16:21 
+
+16:25 39:11 
+41:16 54:25 
+
+25,000 30:22,25 
+27 2:11 54:5 
+
+3 
+3 2:4 55:17 
+30,000 34:7 
+
+4 
+4-month 37:13 
+40 55:24 
+
+5 
+55 2:14 
+
+7 
+7 54:8 
+
+8 
+80 54:6 
+
+9 
+911 39:3 
+
+0 
+08-1332 1:5 3:4 
+
+1 
+1,800 34:7 
+
+Alderson Reporting Company 
+
+

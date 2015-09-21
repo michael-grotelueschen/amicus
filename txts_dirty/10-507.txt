@@ -1,0 +1,5303 @@
+
+     
+
+                    
+
+         
+
+                       
+
+     
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 PACIFIC OPERATORS OFFSHORE, : 
+
+4 LLP, ET AL., : No. 10-507
+
+ Petitioners : 
+
+6  v. : 
+
+7 LUISA L. VALLADOLID, ET AL. : 
+
+8 - - - - - - - - - - - - - - - - - x 
+
+9  Washington, D.C.
+
+ Tuesday, October 11, 2011 
+
+11 
+
+12  The above-entitled matter came on for oral 
+
+13 argument before the Supreme Court of the United States 
+
+14 at 10:02 a.m. 
+
+APPEARANCES: 
+
+16 PAUL D. CLEMENT, ESQ., Washington, D.C., for 
+
+17  Petitioners. 
+
+18 JOSEPH R. PALMORE, ESQ., Assistant to the Solicitor 
+
+19  General, Department of Justice, Washington, D.C.; for
+
+ the Federal Respondent. 
+
+21 DAVID C. FREDERICK, ESQ., Washington, D.C.; for the 
+
+22  private Respondent. 
+
+23 
+
+24 
+
+1
+ 
+Alderson Reporting Company 
+
+
+
+                                
+
+                   
+
+            
+
+            
+
+                   
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF PAGE 
+
+3 PAUL D. CLEMENT, ESQ. 
+
+4  On behalf of the Petitioners 3 
+
+ORAL ARGUMENT OF 
+
+6 JOSEPH R. PALMORE, ESQ. 
+
+7  On behalf of the Federal Respondent 26 
+
+8 ORAL ARGUMENT OF 
+
+9 DAVID C. FREDERICK, ESQ.
+
+ On behalf of the private Respondent 41 
+
+11 REBUTTAL ARGUMENT OF 
+
+12 PAUL D. CLEMENT, ESQ. 
+
+13  On behalf of the Petitioners 57 
+
+14 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+2
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (10:02 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+4 first this morning in Case 10-507, Pacific Operators 
+
+Offshore v. Valladolid. 
+
+6  Mr. Clement. 
+
+7  ORAL ARGUMENT OF PAUL D. CLEMENT 
+
+8  ON BEHALF OF THE PETITIONERS 
+
+9  MR. CLEMENT: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+11  The straightforward question in this case is 
+
+12 whether the Outer Continental Shelf Lands Act provides a 
+
+13 remedy for a worker injured in a forklift mishap on dry 
+
+14 land. The answer is no. A worker injured on dry land 
+
+from operations on dry land has a remedy in the State 
+
+16 workers' compensation law, but not from OCSLA's 
+
+17 extension of the Longshore Act to the outer continental 
+
+18 shelf. Indeed, both the Benefits Review Board and the 
+
+19 Ninth Circuit here held that the accident occurred too 
+
+far inland for direct coverage under the Longshore Act. 
+
+21  CHIEF JUSTICE ROBERTS: When you say on 
+
+22 land, do you -- where do you put the 3-mile State 
+
+23 offshore limit? Does that count as land under your 
+
+24 view?
+
+ MR. CLEMENT: No, it wouldn't count as land, 
+
+3
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Mr. Chief Justice. If there were platforms on there 
+
+2 that were themselves treated as land, that might be. I 
+
+3 think most of the 3 miles from shore is going to be the 
+
+4 navigable waters, and that might be covered, for 
+
+example, directly under the Longshore Act. But as I 
+
+6 say, one of the anomalies here is there was a direct 
+
+7 Longshore Act claim in this case, and the determination 
+
+8 was that the facility here was too far inland for direct 
+
+9 coverage under the Longshore Act.
+
+ So, therefore, the counterintuitive 
+
+11 proposition on the other side of the table today is that 
+
+12 in extending the Longshore Act to the outer continental 
+
+13 shelf, Congress effectively created a boomerang effect 
+
+14 that caused the Longshore Act to apply further inland 
+
+than it otherwise would. 
+
+16  JUSTICE KAGAN: Mr. Clement, just to follow 
+
+17 up on the Chief Justice's question, if there's a 
+
+18 helicopter crash in the water, let's say it occurs 2.5 
+
+19 miles from the shore, is that covered? And, similarly, 
+
+would it be covered if it occurred 3.5 miles from the 
+
+21 shore? 
+
+22  MR. CLEMENT: Well, Justice Kagan, I think 
+
+23 the best answer is both of those crashes would be 
+
+24 covered directly by the Longshore Act because the 
+
+Longshore Act by its own terms, not extended by OCSLA, 
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 covers the navigable waters, and both of those would be 
+
+2 accidents occurring in the navigable waters. And in the 
+
+3 part of this Court's opinion in the Pacific Operators 
+
+4 case addressing the DOHSA claim, this Court said that a 
+
+helicopter effectively, when it's performing this kind 
+
+6 of ferrying function, is a vessel. So, I would think 
+
+7 that the right answer there is not that OCSLA extends 
+
+8 the Longshore Act, but the Longshore Act applies 
+
+9 directly under those circumstances.
+
+ JUSTICE ALITO: The curious thing about this 
+
+11 case is that the statutory language seems to me to speak 
+
+12 quite clearly to some theory of causation. Any injury 
+
+13 occurring as the result of operations conducted on the 
+
+14 outer continental shelf. That's -- that's causation. 
+
+Maybe it's but-for, maybe it's proximate, but it's some 
+
+16 -- some species of causation. And yet, nobody wants 
+
+17 this really to be -- neither you nor your adversary nor 
+
+18 the Government wants this to be a -- to be based on 
+
+19 causation. Everyone wants to smuggle something else 
+
+into -- into here -- into this. 
+
+21  MR. CLEMENT: Well, Justice Alito, let me 
+
+22 talk first about the causation and then about the 
+
+23 smuggling, if I can. As to the causation, I think there 
+
+24 is both causation in this 1333(b) and a situs 
+
+requirement that both sides acknowledge. At a bare 
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 minimum, there have to be injuries resulting from
+ 
+
+2 operations conducted on the shelf. And I think that
+ 
+
+3 alone, that causation principle alone, if faithfully
+ 
+
+4 applied, is enough to decide this case in our favor.
+
+
+ But let me address the smuggling, because I 
+
+6 do think --
+
+7  JUSTICE SCALIA: Give me an example of a --
+
+8 of an injury that occurs on the shelf that is not a 
+
+9 consequence of operations conducted. What -- just 
+
+beachcombers out there, or what? 
+
+11  MR. CLEMENT: Well, I think the best example 
+
+12 would be, Your Honor -- is somebody who's on the shelf 
+
+13 but they're not employed in the relevant production 
+
+14 purposes. And so, you might have an --
+
+JUSTICE SCALIA: What are they doing out 
+
+16 there? 
+
+17  MR. CLEMENT: Well, you might have an 
+
+18 accountant out there. You might just have some 
+
+19 employees who are out there whale watching or something.
+
+ JUSTICE GINSBURG: How many accountants go 
+
+21 to platforms? 
+
+22  MR. CLEMENT: Well, Justice Ginsburg, I 
+
+23 think it's worth recognizing -- I mean, I don't know how 
+
+24 many go. I doubt very many go. But Congress passed 
+
+this statute at a time when they didn't know the full 
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 scope of the operations that would take place out on the 
+
+2 shelf. And so, what they're trying to do is they're 
+
+3 trying to -- at the one point, they're trying to limit 
+
+4 it to employees who are engaged in the operations out 
+
+there that are designed for the production of the 
+
+6 mineral wealth of the shelf. And so, I think that's 
+
+7 what some of the language is directed at. 
+
+8  JUSTICE GINSBURG: But if that -- if that's 
+
+9 what Congress meant, then the emphasis should be on is 
+
+this person one who regularly works on the outer 
+
+11 continental shelf. And the -- this worker, we're told, 
+
+12 was on the outer continental shelf 98 percent of the 
+
+13 time. 
+
+14  MR. CLEMENT: Sure. And if he was at the --
+
+on the outer continental shelf at the time of this 
+
+16 accident, he probably wouldn't have been injured. 
+
+17  But the one thing I think the statute 
+
+18 clearly speaks to is not status, but it speaks to, as 
+
+19 Justice Alito suggested, at a minimum a relationship 
+
+between the operations that caused the injury and the 
+
+21 fact that those operations have to be conducted on the 
+
+22 shelf. 
+
+23  JUSTICE KENNEDY: But --
+
+24  JUSTICE KAGAN: But Mr. --
+
+JUSTICE KENNEDY: But if -- if you had said 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 status or situs, then it seems to me it would have made 
+
+2 more sense, given the language of the statute. We will 
+
+3 all have hypotheticals. We won't have too many, but 
+
+4 it's quite common on oil rigs that the employees bring 
+
+some of the equipment back to the land, clean it, 
+
+6 prepare it, and so that they can bring it back to the 
+
+7 next -- the next shift on the rig. And some of this 
+
+8 machinery is complicated. It has springs in it. 
+
+9 Suppose that the worker brings the machine back from the 
+
+rig to the land, to the base of operations that's 
+
+11 land-based, and is injured in repairing that machine. 
+
+12 Under your view, no coverage? 
+
+13  MR. CLEMENT: No coverage, Your Honor, and I 
+
+14 think that --
+
+JUSTICE KENNEDY: I think that's quite 
+
+16 difficult to square with the "as a result" language 
+
+17 because this is a result of the operation. Let's just 
+
+18 say the machine got broken because of the -- of the 
+
+19 operations, and there -- and he's fixing it and he's 
+
+injured. 
+
+21  MR. CLEMENT: No, I disagree, Your Honor, 
+
+22 respectfully, and I think your way of looking at that 
+
+23 hypothetical doesn't give sufficient import to the 
+
+24 phrase "conducted on the shelf." It's -- what 
+
+Respondents want to do is they want you to look at the 
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 statute as saying as long as there is an injury that 
+
+2 results from operations that have the purpose of 
+
+3 developing the outer continental shelf, that that's 
+
+4 enough. And if that were enough, I think the answer to 
+
+your hypothetical would be that's covered. 
+
+6  But the statute very specifically says that 
+
+7 they have to be injuries as a result of operations 
+
+8 conducted on the shelf for the purpose of extracting the 
+
+9 mineral wealth of the shelf.
+
+ And so, that first "on the shelf" I think 
+
+11 clearly modifies the operations. Only operations 
+
+12 conducted on the shelf are --
+
+13  JUSTICE KENNEDY: Well, the 
+
+14 Government and --
+
+MR. CLEMENT: -- covered by the statute. 
+
+16  JUSTICE KENNEDY: The Government and the 
+
+17 Ninth Circuit take care of that by saying that the 
+
+18 person has to have -- the injured employee has to have 
+
+19 spent substantial amount of time on the -- on the 
+
+offshore operations. So, you could add that. 
+
+21  MR. CLEMENT: Well, you can't add that, Your 
+
+22 Honor, because if there's one thing that is absolutely 
+
+23 clear about this statute it's that it doesn't include a 
+
+24 status test that looks for the predominant place you 
+
+spend your time. And that's not --
+
+9
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE GINSBURG: I thought your brief, 
+
+2 your reply brief, said you -- you superimpose a status 
+
+3 test. You have the situs of the injury, and then you 
+
+4 superimpose status. So, your test is not simple state 
+
+of -- place of injury. 
+
+6  JUSTICE KENNEDY: Yes, I agree. I thought 
+
+7 you had a backup argument --
+
+8  MR. CLEMENT: Well --
+
+9  JUSTICE KENNEDY: -- in your -- in your 
+
+reply brief. 
+
+11  MR. CLEMENT: Sure. I mean, I have two 
+
+12 arguments, and let me try to address both, which is to 
+
+13 say, on the causation point, if you look at just 
+
+14 causation and you don't have a situs and a status 
+
+requirement, then in that scenario, there's no way to 
+
+16 get just a status test. And the only thing I would 
+
+17 implore you to think about in that is not only is it not 
+
+18 in the statute, but there is a statute that has a 
+
+19 status-based remedy that travels with the worker 
+
+wherever they go. It's the Jones Act, and it 
+
+21 specifically is written in status terms. And that was a 
+
+22 model that Congress had before it, but it specifically 
+
+23 rejected the admiralty model for dealing with these 
+
+24 structures and adopted the model that has them treated 
+
+as --
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE KENNEDY: Would you call status --
+
+2 if the test is where you spend a substantial amount of 
+
+3 time working, is that what you call status? 
+
+4  MR. CLEMENT: That's their status test, 
+
+exactly. 
+
+6  JUSTICE KENNEDY: You -- but you call that 
+
+7 status? 
+
+8  MR. CLEMENT: I call that their pure status 
+
+9 test, which they themselves cite to Chandris, which is a 
+
+Jones Act case. That just doesn't work. This was not 
+
+11 the Jones Act. 
+
+12  Now, there is a test where we say that the 
+
+13 best reading of the statute is status plus situs. And 
+
+14 if I could try to get this argument out -- it's a little 
+
+bit complicated, because I think the defect of this 
+
+16 argument, if it has one, is it doesn't leap out directly 
+
+17 from 1333(b), and you have to read 1333(b) in 
+
+18 conjunction with both the rest of 1333 and in 
+
+19 conjunction with 903(a) of the Longshore Workers' Act. 
+
+If you do that, I think you will see there is a situs 
+
+21 requirement and a status requirement. 
+
+22  Let me start with the rest of the 1333. If 
+
+23 you think about this statute, the primary engine for 
+
+24 applying Federal law to the shelf is not 1333(b); it's 
+
+1333(a). It applies all of Federal law to the shelf. 
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  But some statutes, it doesn't work, and the 
+
+2 Longshore Act is one of them. If you apply the 
+
+3 Longshore Act to the shelf without any modifications, it 
+
+4 won't cover the shelf because it by its terms has a 
+
+situs requirement that is limited to the navigable
+ 
+
+6 waters and at that point the drydocks.
+ 
+
+7  So, Congress has to tailor the longshore
+ 
+
+8 remedy to the reality of the shelf, and it does it in
+ 
+
+9 two ways.
+
+
+ One, it has this language that everyone's 
+
+11 focused on that is something of a status requirement in 
+
+12 that it limits the recovery to employees who are engaged 
+
+13 in certain activities. But the rest of the language in 
+
+14 1333(b) is important. It's these definitions (1), (2), 
+
+and (3), and they effectively define terms in the 
+
+16 Longshore Act to make them work for purposes of 
+
+17 extending it to the shelf. 
+
+18  And the key definition is (3). Three 
+
+19 defines the term "United States" when used in a 
+
+geographical sense, and it defines it to include the 
+
+21 shelf, the artificial islands, and the fixed attachments 
+
+22 thereto. Now, that's a puzzle if you look at 1333(b) in 
+
+23 isolation, because it's defining the term "United 
+
+24 States" for geographical purposes, and 1333(b) does not 
+
+use the term "United States" for geographical purposes. 
+
+12
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 But another statute does; it's 903. It's the longshore 
+
+2 remedy that's extended. 
+
+3  And 903(a) uses the term "United States." 
+
+4 And 903(a), if you want to look at, is at page 96 of the 
+
+petition appendix. But that's the situs requirement. 
+
+6 The situs requirement of 903(a) unmodified limits 
+
+7 recovery to the navigable waters and drydocks. So, if 
+
+8 you take that definition from (b)(3) and essentially 
+
+9 superimpose it on 903(a), you then get a remedy that has 
+
+a situs requirement; there's a recovery, but only if the 
+
+11 injury occurs on the navigable waters, drydocks, the 
+
+12 shelf, artificial islands, and the attachments thereto. 
+
+13  So it's -- as I say, it's a complicated 
+
+14 argument, and it doesn't stare you in the face if you 
+
+look at 1333(b) --
+
+16  JUSTICE SOTOMAYOR: I'm sorry. How does 
+
+17 that -- how does that provide you situs on the adjacent 
+
+18 waters? 
+
+19  MR. CLEMENT: I don't -- with respect, 
+
+Justice Sotomayor, I think you get that without OCSLA, 
+
+21 which is to say I think that there's a remedy under the 
+
+22 Longshore Act directly under the adjacent waters because 
+
+23 the adjacent waters are navigable waters. 
+
+24  JUSTICE SOTOMAYOR: I see. So, you're 
+
+saying you don't even -- you're not going --
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. CLEMENT: You don't need those, and that 
+
+2 just underscores that Congress in the statute is really 
+
+3 dealing with a very particular problem with the shelf 
+
+4 and the artificial islands and platforms attached to 
+
+them. 
+
+6  JUSTICE SOTOMAYOR: So, how do you get to 
+
+7 the water above the shelf? 
+
+8  MR. CLEMENT: Same way, Your Honor, which is 
+
+9 to say they're navigable waters.
+
+ JUSTICE SOTOMAYOR: Instead of saying 
+
+11 they're part of the shelf? 
+
+12  MR. CLEMENT: Exactly, and they're not. And 
+
+13 the statute I think couldn't be clearer about that 
+
+14 because 1332 --
+
+JUSTICE SOTOMAYOR: I think the issue that 
+
+16 Justice Kennedy was alluding to was the example the 
+
+17 Ninth Circuit used: A pitcher on the mound throws a 
+
+18 baseball and hits the batter. The situs is not the 
+
+19 mound, but the injury has occurred as a result of 
+
+pitching. And so, he's coming up with examples, and I 
+
+21 think that's what the Ninth Circuit was saying when it 
+
+22 was creating the test of a substantial nexus between the 
+
+23 operation and the injury. 
+
+24  MR. CLEMENT: I'm --
+
+JUSTICE SOTOMAYOR: And that's the part of 
+
+14
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 your -- of your definition that gives no credence to 
+
+2 that possibility. 
+
+3  MR. CLEMENT: Well -- and I --
+
+4  JUSTICE SOTOMAYOR: You may be arguing that 
+
+as a factual matter what this man was doing on land was 
+
+6 not a substantial nexus. That's a different issue than 
+
+7 providing a test that limits injury to an operation 
+
+8 solely on the shelf. 
+
+9  MR. CLEMENT: And if I could take that --
+
+there's a couple of pieces to that, Justice Sotomayor. 
+
+11 First of all, I would say that I think that the 
+
+12 hypothetical, let's say, of, you know, a nut or 
+
+13 something coming off the shelf and hitting somebody 
+
+14 somewhere else is -- illustrates the difference between 
+
+our primary argument and our backup argument. 
+
+16  On our primary argument, somebody who -- if 
+
+17 the nut hits somebody in the navigable waters, they 
+
+18 wouldn't recover from OCSLA; they would recover under 
+
+19 the Longshore Act directly because they were on the 
+
+navigable waters. 
+
+21  On our backup theory, that it's a tight 
+
+22 proximate cause test, then I would say, yes, that person 
+
+23 can recover under OCSLA, but that's really a fortuitous 
+
+24 set of circumstances precisely because I wouldn't apply 
+
+a substantial nexus test, which seems to me just an 
+
+15
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 invitation to kind of play around with --
+
+2  JUSTICE SOTOMAYOR: Well, you're not -- you 
+
+3 don't want a but-for test. Or do you? 
+
+4  MR. CLEMENT: Certainly not.
+
+ JUSTICE SOTOMAYOR: All right. You don't 
+
+6 want a proximate cause test. 
+
+7  MR. CLEMENT: Well, I could live with a 
+
+8 proximate cause test as long as it's a proximate cause 
+
+9 test that's tailored to the statute. And what I mean by 
+
+that is I think if you look at the statute, you can't 
+
+11 have a proximate cause test that doesn't take geography 
+
+12 into account. 
+
+13  And I think -- in particular, I think in a 
+
+14 case like this, you have to ask yourself not just 
+
+proximate cause in the abstract, but were there 
+
+16 operations somewhere other than the shelf that were a 
+
+17 more direct proximate cause of the injury? And if 
+
+18 that's the case, then the remedy lies in the law that 
+
+19 applies to those other operations.
+
+ JUSTICE SOTOMAYOR: Give me your definition 
+
+21 of causation now. 
+
+22  MR. CLEMENT: What's that? 
+
+23  JUSTICE SOTOMAYOR: This is a new version of 
+
+24 proximate cause, so --
+
+MR. CLEMENT: Well, you know, it's -- it's 
+
+16
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 funny because, you know, this Court has on more than one 
+
+2 occasion sort of remarked that "proximate cause" itself 
+
+3 is a weird formulation because "proximate" sounds like 
+
+4 it has a location aspect to it. And we actually think, 
+
+for purposes of this statute, that should be right. 
+
+6 It's proximate cause as tailored to this statute and the 
+
+7 policies of this statute, and I think that would want to 
+
+8 really take the geography into account. 
+
+9  JUSTICE SCALIA: Mr. Clement, I don't really 
+
+understand proximate cause as applied to a -- a statute 
+
+11 that provides for automatic liability rather than 
+
+12 liability for negligence. To say that it's a proximate 
+
+13 cause of a particular act of negligence is one thing, 
+
+14 and we have a whole body of law that gives guidance for 
+
+that. But do you know of any other situation where we 
+
+16 talk of proximate cause, something proximately caused by 
+
+17 operations? Not by a particular act of negligence or --
+
+18 I don't know how to apply proximate cause to an 
+
+19 operation.
+
+ MR. CLEMENT: Well, Justice Scalia, I would 
+
+21 say two things. One is I do think there's an anomaly 
+
+22 here, but I do think it's -- you know, you're not being 
+
+23 asked to apply proximate cause for purposes of assessing 
+
+24 liability because, as you say, strict liability -- it's 
+
+kind of automatic liability. 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  But what I would say is you are being asked, 
+
+2 at least under the backup theory, to apply proximate 
+
+3 cause as a way of determining the geographical scope of 
+
+4 the statute. And that's anomalous, but I don't think 
+
+it's so anomalous that you wouldn't do it if you thought 
+
+6 that was the better way to read the statute. 
+
+7  That said, I do think that the best way to 
+
+8 read the statute is consistent with all the other 
+
+9 statutes as part of a jurisdictional puzzle. I mean, 
+
+all of the areas off of the shelf are governed, with the 
+
+11 exception of seamen under the Jones Act, primarily as a 
+
+12 matter of geography. So --
+
+13  JUSTICE GINSBURG: Mr. Clement, if your 
+
+14 position is right, then we have a worker who most of the 
+
+time is doing work on a platform, and he will be covered 
+
+16 or not depending on whether the injury occurred on the 
+
+17 shelf or on the land. So, it's -- the other view is to 
+
+18 say what this person does most of the time is what 
+
+19 counts. Then this worker would always be covered by 
+
+OCSLA. And if you take your view, then one will be 
+
+21 covered by OCSLA; another one who is doing the same job 
+
+22 is covered by a State -- a State -- you have a variety 
+
+23 of State workers' compensation laws as opposed to a 
+
+24 uniform law governing workers of this kind.
+
+ MR. CLEMENT: Well, two responses, Justice 
+
+18
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Ginsburg: First of all, this Court has already 
+
+2 confronted the objection that, well, if -- under OCSLA 
+
+3 workers would move in and out of coverage, and it 
+
+4 rejected it in the Herb's Welding case. And I don't --
+
+I think it's common ground -- well, maybe not, but it 
+
+6 should be common ground that if you had a worker who was 
+
+7 injured on a State platform, that that would not be 
+
+8 covered by -- a State waters platform, that that would 
+
+9 not be covered by OCSLA.
+
+ And, again, that was an anomaly that this 
+
+11 Court confronted in Herb's welding and the Court said: 
+
+12 Yes, well, you know, workers are going to move in and 
+
+13 out of coverage, but that's what OCSLA says. That's 
+
+14 what OCSLA does.
+
+ JUSTICE KENNEDY: That's what brings me --
+
+16 I'm looking at petition appendix 96, 903(a) that you 
+
+17 referred us to. I wasn't quite sure of your argument 
+
+18 with respect to this statute. This statute is a 
+
+19 situs-based statute.
+
+ MR. CLEMENT: Yes, and it's the Longshore 
+
+21 Act. 
+
+22  JUSTICE KENNEDY: But since Congress didn't 
+
+23 follow this model in the -- in subsection (b) that we're 
+
+24 looking for and used "as a result," why doesn't that 
+
+show that Congress meant something different? I didn't 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 hear your argument on that point. 
+
+2  MR. CLEMENT: Well, my argument --
+
+3  JUSTICE KENNEDY: I don't see, in other 
+
+4 words, how 903 doesn't hurt you more than it helps you.
+
+ MR. CLEMENT: It helps me because 1333(b) 
+
+6 doesn't apply a different model. It adopts this model. 
+
+7 It adopts and extends the Longshoreman Act to the shelf. 
+
+8 See, it's a mistake to read 1333 --
+
+9  JUSTICE KENNEDY: But it doesn't; it talks 
+
+about where the injury occurs, and that's not what --
+
+11 and that's not what (b) says. 
+
+12  MR. CLEMENT: No, it talks about that as 
+
+13 part of extending the Longshore Workers' Act to the 
+
+14 shelf. It's important that, you know, you can't get --
+
+I mean, 1333(b), like I said, is not a self-contained 
+
+16 offshore workers workers' compensation regime. What it 
+
+17 does is it extends the Longshore Workers' Act to the 
+
+18 shelf, including 903(a). 
+
+19  But what I'm saying is Congress recognized 
+
+that you couldn't just extend 903(a) and the rest of the 
+
+21 Act to the shelf without modification, because then you 
+
+22 come to this language that says you only get relief if 
+
+23 your injury occurred on the navigable waters or the 
+
+24 drydocks attached thereto. So, Congress in (b)(3) 
+
+changes the definition of the United States for 
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 geographical purposes in a way that allows you to 
+
+2 superimpose this provision to the shelf, but instead of 
+
+3 reading it to say you only get a recovery if you're 
+
+4 injured on the navigable waters including the drydocks, 
+
+you get a recovery if you're injured on the navigable 
+
+6 waters, including the shelf, the drydocks, the 
+
+7 artificial islands, and the fixtures attached thereto. 
+
+8  JUSTICE GINSBURG: Mr. Clement, may I go 
+
+9 back to -- you referred to Herb's Welding, but that was 
+
+a case -- it was a claim under the Longshore Act, not an 
+
+11 OCSLA claim, and the Court said it was expressing no 
+
+12 opinion on whether 1332(b) covered the injury. 
+
+13  MR. CLEMENT: That's right. Herb's Welding 
+
+14 is not a holding, but at the end of that opinion, the 
+
+Court confronts this argument that isn't it odd that 
+
+16 somebody would be moving in and out of coverage? And 
+
+17 the Court says that that is a product of OCSLA. And it 
+
+18 doesn't say it's a product of OCSLA generally; it says 
+
+19 particularly that it's a product of OCSLA's extension of 
+
+the Longshore Act. And I do think that this objection 
+
+21 about people moving in and out was answered by the Court 
+
+22 in Herb's Welding. 
+
+23  I would also say, Justice Ginsburg, the 
+
+24 second point I wanted to make in response to your 
+
+earlier question is I understand that it might make 
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 policy sense to have coverage that encapsulates an 
+
+2 individual no matter where they work. But the problem 
+
+3 is -- I mean, that's not only a different model; that's 
+
+4 the model that Congress rejected. They thought long and 
+
+hard about having an admiralty remedy, and presumably 
+
+6 then the Jones Act would apply, and if you were attached 
+
+7 to a vessel or a platform, then you would have coverage 
+
+8 no matter where you went. 
+
+9  But that's not what they did. They 
+
+incorporated instead as their model the Longshore Act, 
+
+11 and the Longshore Act always had a situs requirement. 
+
+12 So, when Congress makes a conscious effort to deal with 
+
+13 this unusual geographical problem with -- and solves the 
+
+14 problem with the Longshore Act, which is sitting there 
+
+with a situs requirement, and doesn't adopt the Jones 
+
+16 Act, which has a status-only requirement, it seems very, 
+
+17 very peculiar to adopt instead a model that would have a 
+
+18 status-only test. 
+
+19  JUSTICE GINSBURG: But Congress also did not 
+
+adopt the proposal, the specific proposal to confine 
+
+21 OCSLA to situations in which State workers' compensation 
+
+22 was unavailable. 
+
+23  MR. CLEMENT: And I think that's -- they 
+
+24 rejected that with good reason, Your Honor, because you 
+
+have to remember that, at this point, they're living 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 with the experience that this Court ultimately resolved. 
+
+2 But they're living in real time with the experience of 
+
+3 people under the Longshore Act, which at that point, did 
+
+4 carve out and limit the remedy, the Federal remedy, only 
+
+when a State remedy was unavailable. And they were 
+
+6 watching that play out, and it was a mess. People 
+
+7 didn't know if they should bring a State case or a 
+
+8 Federal case, and at that point they were viewed as 
+
+9 exclusive. So, Congress had ample reasons to reject the 
+
+idea that we're going to only give a Federal remedy if a 
+
+11 State remedy is unavailable. 
+
+12  JUSTICE SCALIA: What reason did they have 
+
+13 to use the terminology "as a result of" instead of 
+
+14 simply saying that this Act applies only with regard to 
+
+injuries on the platform, which is what other statutes 
+
+16 did say? I mean, other statutes had a geographical 
+
+17 requirement. What a strange way to say it, "as a result 
+
+18 of operations." 
+
+19  MR. CLEMENT: Well, Justice Scalia, I don't 
+
+know which other statutes you're talking about. I mean, 
+
+21 the other statute that most plainly has a situs 
+
+22 requirement is the Longshore Act, and that's precisely 
+
+23 what they extended to the shelf, as I've argued. Beyond 
+
+24 that, it's true that some of the other provisions of 
+
+this Act have slightly different wording, but I don't 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 think anything turns on that --
+
+2  JUSTICE KAGAN: But, Mr. Clement, you are 
+
+3 asking us to just ignore six words in this statute, 
+
+4 right? You read the statute as any injury occurring on 
+
+the outer continental shelf, when in fact the statute 
+
+6 says "any injury occurring as the result of operations 
+
+7 conducted on the outer continental shelf." And you give 
+
+8 a variety of arguments in your brief about what those 
+
+9 six words are supposed to do. They're supposed to cover 
+
+latent injuries. They're supposed to make sure that the 
+
+11 statute only covers things that happen in the scope of 
+
+12 your employment. 
+
+13  But your friends come back and say the 
+
+14 statute did all those things anyway. These six words 
+
+would serve no function under your theory. 
+
+16  MR. CLEMENT: Justice Kagan, first of all, 
+
+17 it's interesting. The only way they can say that those 
+
+18 functions were performed by the statute anyways is to 
+
+19 incorporate provisions of the Longshore Act, because 
+
+1333(b) itself doesn't take care of latent injuries or 
+
+21 doesn't take care of, you know, who's in the scope of 
+
+22 their employment. All of that is taken care of in the 
+
+23 Longshore Act, which is why I think the best way to read 
+
+24 this is incorporating the Longshore Act and its situs 
+
+requirement. 
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  But, beyond that, I would never ask you to 
+
+2 make six words go away, never. Those words do play a 
+
+3 function, but the function they play is to make it clear 
+
+4 that the injury has to result of operations conducted on 
+
+the shelf for certain purposes. And that precludes an 
+
+6 employee accountant who's out on the shelf and injured 
+
+7 by something that has nothing to do with shelf 
+
+8 operations. 
+
+9  JUSTICE KAGAN: But this goes back to 
+
+Justice Ginsburg's question. She asked you how many 
+
+11 accountants are there on the shelf? One can't really 
+
+12 imagine that Congress is writing this -- this statute, 
+
+13 and drafting those six words in order to make sure that 
+
+14 an accountant who goes out to the outer continental 
+
+shelf isn't covered. 
+
+16  MR. CLEMENT: Justice Kagan, I would beg to 
+
+17 differ. And I think what you have to understand is, go 
+
+18 back in 1953 and when they're -- I mean, you can say 
+
+19 confidently that there aren't accountants on the shelf 
+
+because you have the benefit of 60 -- 60 years of 
+
+21 experience with -- post-1953 with what goes on, on the 
+
+22 shelf. Congress at this point is sort of legislating 
+
+23 for a brave new world, and they don't -- they're trying 
+
+24 to provide for all of the occasions that may come to 
+
+pass out on the shelf. 
+
+25
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  There is a great law review article that 
+
+2 actually provides this background, and it's written by, 
+
+3 of all people, Warren Christopher, the Warren 
+
+4 Christopher, and it's in the Stanford Law Review, and it 
+
+was written December of 1953, and it's worth a look 
+
+6 because it captures this idea that they're kind of, you 
+
+7 know, legislating for this brave new world out there, 
+
+8 and they don't know who's going to be out there. They 
+
+9 don't know if it's going to be all drill workers or if 
+
+there's going to be accountants and clerical workers out 
+
+11 there. 
+
+12  And so, I think with that context, it's not 
+
+13 at all odd that they would use those six words to say, 
+
+14 kind of the way that Congress did later in 1972 in 
+
+imposing the marine employment test for longshoremen --
+
+16 it's like, look, we want to provide a longshore remedy, 
+
+17 but not to just anybody, any employee who might happen 
+
+18 to be on the shelf; we want to provide it to those 
+
+19 people who are essentially in the core operations that 
+
+are going on, on the shelf. 
+
+21  If I could reserve the balance of my time. 
+
+22  CHIEF JUSTICE ROBERTS: Thank you, 
+
+23 Mr. Clement. 
+
+24  Mr. Palmore.
+
+ ORAL ARGUMENT OF JOSEPH R. PALMORE 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  ON BEHALF OF THE FEDERAL RESPONDENT 
+
+2  MR. PALMORE: Thank you, Mr. Chief Justice, 
+
+3 and may it please the Court: 
+
+4  I'd like to start off with the exchange that 
+
+Justice Kagan had with Mr. Clement about the language 
+
+6 that was used here in 1333(b), and I think the contrast 
+
+7 between the language that Congress used in 1333(b) and 
+
+8 the language it used in other provisions, neighboring 
+
+9 provisions, of 1333 is instructive.
+
+ And I'd like the point the Court to section 
+
+11 1333(c), which is on page 3a of the appendix to the 
+
+12 Government's brief. This is the provision involving the 
+
+13 National Labor Relations Act. And I think this shows 
+
+14 how Congress went about drafting when it wanted to 
+
+specify legal consequences that would flow from an 
+
+16 actual event that took place in a particular place. So, 
+
+17 Congress extends the National Labor Relations Act to 
+
+18 "any unfair labor practice, as defined in such Act, 
+
+19 occurring upon any artificial island...." And then it 
+
+lists with particularity the particular situses where 
+
+21 the National Labor Relations Act would apply. 
+
+22  If Congress had followed that model in 
+
+23 section 1333(b), it would be a very different statute. 
+
+24 It would have said, as Your Honor pointed out, with 
+
+respect to disability or death of an employee resulting 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 from any injury on the outer continental shelf. If 
+
+2 Congress wanted to additionally require -- have some 
+
+3 kind of operations nexus, it could have said occurring 
+
+4 on the outer continental shelf as the result of 
+
+operations on the outer continental shelf. 
+
+6  Congress didn't do either of those things in 
+
+7 section 1333(b), and we think that contrast is -- is 
+
+8 quite instructive here. It's also not the case --
+
+9  JUSTICE KAGAN: Mr. Palmore --
+
+CHIEF JUSTICE ROBERTS: Well, but it's a 
+
+11 little -- it's a little different when you're talking 
+
+12 about a labor practice and an activity that results in 
+
+13 an injury. Labor practice by its terms is going to have 
+
+14 applicability to a particular location. So, you would 
+
+expect them to use that type of language. It doesn't 
+
+16 carry the same negative implication you're suggesting 
+
+17 under 1333(b). 
+
+18  MR. PALMORE: Well, I think that --
+
+19 Mr. Chief Justice, that I think there's a contrast 
+
+between 1333(b) and 1333(c) in terms of the specificity 
+
+21 with which Congress provided for where a particular 
+
+22 event would happen. There's no question that 1333(b) 
+
+23 has a situs requirement, but it's a situs of operations 
+
+24 requirement.
+
+ So, when you're talking about a situs of 
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 operations, you're talking about a geographic zone where 
+
+2 operations take place. It makes sense that Congress 
+
+3 would have used this phrase "on the outer continental 
+
+4 shelf." Now, the outer continental shelf itself is a 
+
+defined term in the statutes. In 1331(a), it applies 
+
+6 only to the subsoil and seabed. It doesn't include 
+
+7 artificial installations put on top. So, we're talking 
+
+8 about a general zone, a general geographic zone where 
+
+9 the operations take place. And then Congress wanted to 
+
+provide benefits for injuries that result from those 
+
+11 operations. 
+
+12  JUSTICE ALITO: Suppose the facts of this 
+
+13 case were changed a little bit so that the Respondent, 
+
+14 instead of spending 98 percent of his time on an oil rig 
+
+doing things that he did there, actually spent only 20 
+
+16 percent of his time there, and he spent 80 percent of 
+
+17 his time on land doing what he was supposed to be doing 
+
+18 at the time of the accident. This particular operation 
+
+19 produced so much scrap metal, he had to spend 80 percent 
+
+of his time going around with a forklift gathering it 
+
+21 up. Now, would this case come out the same way then? 
+
+22  MR. PALMORE: We don't think so, Your Honor. 
+
+23  JUSTICE ALITO: Then how does that -- I 
+
+24 don't see how you get this result out of the statutory 
+
+language, because the causal connection between the 
+
+29
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 operations on the shelf and the accident are precisely 
+
+2 the same in the two situations. Whether he spends 98 
+
+3 percent of his time on the rig or 2 percent of his time 
+
+4 on the rig, that makes no difference whatsoever in the 
+
+causal relationship. 
+
+6  MR. PALMORE: Because we think it's a 
+
+7 mistake in the context of a workers' compensation scheme 
+
+8 to look at this as kind of a snapshot in time. We think 
+
+9 that when you're talking about a workers' compensation 
+
+scheme, the kind of causation that is relevant is the 
+
+11 causation caused by the employment relationship itself. 
+
+12 So, if someone's spending, like Mr. Valladolid --
+
+13 spending 98 percent of his time on the shelf, he's 
+
+14 uniquely exposed to the hazards of work in that 
+
+dangerous environment. 
+
+16  JUSTICE SCALIA: The trouble with that is 
+
+17 that's not what it says. It says "as a result of 
+
+18 operations." 
+
+19  MR. PALMORE: And we think that --
+
+JUSTICE SCALIA: And I don't -- you know, I 
+
+21 would think he doesn't even have to be an employee, does 
+
+22 he? 
+
+23  MR. PALMORE: He does have to be an 
+
+24 employee. That's a -- only employees are entitled to 
+
+benefits. But I think the definition of "employee" or 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 really the related definition of "employer" is
+ 
+
+2 instructive on this question. If you look at the
+ 
+
+3 definition of an employer in 1333(b)(2) -- this is on
+ 
+
+4 page 3a of the Government appendix -- says "the term
+ 
+
+'employer' means 'an employer any of whose employees are 
+
+6 employed in such operations.'" It's somewhat of a 
+
+7 circular definition. But there's a focus here on 
+
+8 employees who are engaged in such operations. Those are 
+
+9 employees like --
+
+JUSTICE KAGAN: Mr. Palmore, you're asking 
+
+11 us to look at the relationship between the employment 
+
+12 and the shelf activities, and the statute asks us to 
+
+13 look at the relationship between the injury and the 
+
+14 shelf activities. And those may be two different things 
+
+and seemingly are two different things in the 
+
+16 hypothetical that Justice Alito gave you. 
+
+17  MR. PALMORE: And the Ninth Circuit viewed 
+
+18 -- viewed injury in the way that Your Honor and Justice 
+
+19 Alito are suggesting. And I would -- and that's our 
+
+backup position. I think both sides here have backup 
+
+21 positions. I would submit that the backup positions are 
+
+22 where -- -
+
+23  JUSTICE KAGAN: The backup positions may be 
+
+24 better than the primary positions in this case, you 
+
+know? 
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. PALMORE: I think the backup positions 
+
+2 really also differ with each other only in a matter of 
+
+3 degree, not in --
+
+4  JUSTICE SCALIA: What is the backup position 
+
+that's so much better here? What is it? 
+
+6  (Laughter.) 
+
+7  MR. PALMORE: Well, I don't -- to be clear, 
+
+8 we don't think it's better. We think that the category 
+
+9 of off-shelf injuries that should be covered are those 
+
+that are suffered by workers who spend a substantial 
+
+11 amount of time on the shelf. The backup position is 
+
+12 the -- in our view, is the Ninth Circuit position, which 
+
+13 is the substantial connection between the injury and 
+
+14 operations on the shelf. It doesn't strike me as that 
+
+different from Mr. Clement's backup position. 
+
+16  JUSTICE ALITO: Well, the trouble is that I 
+
+17 have no idea what that means. Now, they have the 
+
+18 example of an accountant on land who spends all of his 
+
+19 time doing accounting work for the -- for the oil rig. 
+
+Why isn't there a substantial connection there? Were it 
+
+21 not for the operations on the oil rig, this guy would be 
+
+22 out of work or he'd be doing something completely 
+
+23 different. I don't understand that. 
+
+24  MR. PALMORE: Well, that's the -- that would 
+
+be an expansive but-for test of the kind that at least 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 some language in the Third Circuit's opinion in Curtis 
+
+2 would support. We think that that sweeps too broadly. 
+
+3 We think a proximate cause, however, sweeps too 
+
+4 narrowly, and Justice Scalia's exchange with Mr. Clement 
+
+highlighted this. Proximate cause is a --
+
+6  JUSTICE SOTOMAYOR: A substantial nexus is 
+
+7 just right? 
+
+8  MR. PALMORE: We think substantial --
+
+9 substantial nexus, substantial connection. We think, 
+
+though, that it would be a mistake to look at only the 
+
+11 snapshot in time. And there is some language in the 
+
+12 Ninth Circuit decision which -- which might suggest 
+
+13 that. We think --
+
+14  JUSTICE SOTOMAYOR: Do you accept your 
+
+adversary's position that whatever causal -- you have 
+
+16 to, given your status test. Where are you drawing your 
+
+17 status test from? Meaning, obviously it's not from the 
+
+18 language. 
+
+19  MR. PALMORE: Well, I think I would submit 
+
+that it is from the language, Justice Sotomayor, because 
+
+21 we think that the language has to be understood in the 
+
+22 context of workers' compensation. This is not a 
+
+23 tort-based fault regime. This is a workers' 
+
+24 compensation scheme. Workers' compensation schemes are 
+
+based on the relationship between employer and employee, 
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 and they cover injuries that arise out of and in the 
+
+2 course of employment. So, the kind of causation that 
+
+3 matters in a workers' compensation scheme is the -- is 
+
+4 the causation that flows from the worker relationship 
+
+itself, the workplace relationship itself. 
+
+6  JUSTICE SOTOMAYOR: You're not -- I would 
+
+7 have just thought you would have taken it out of (b) 
+
+8 subdivision (2), the term "employer," almost the 
+
+9 obverse, means an employer -- means an employer any of 
+
+whose employees are employed in such operations. 
+
+11  MR. PALMORE: Thank you, Justice Sotomayor. 
+
+12 I think that is the second point. I think that textual 
+
+13 provision provides support for the fact that Congress 
+
+14 was particularly focused on those employees who were 
+
+uniquely exposed to the hazards of work on the shelf. 
+
+16  CHIEF JUSTICE ROBERTS: What if -- but what 
+
+17 if that exposure is not pertinent to what they're doing? 
+
+18 Let's take the same individual, 98 percent of the time 
+
+19 on the rig and 2 percent on land. An emergency comes 
+
+up. They need a new part, and they say: Here, go --
+
+21 you know, go drive to Reno where they have a new part 
+
+22 and bring it back. And he skids off the road and is 
+
+23 injured. Is he really covered by the Offshore Act? 
+
+24  MR. PALMORE: We think he is because that is 
+
+a worker who is uniquely exposed to those hazards 
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 offshore, and he shouldn't --
+
+2  CHIEF JUSTICE ROBERTS: Well, so, he's 
+
+3 subject -- he's injured by, you know, a hazard on the 
+
+4 road to Reno. He's -- I don't know how many miles that 
+
+is from the offshore, and yet he's still covered by the 
+
+6 Offshore Act? 
+
+7  MR. PALMORE: Yes, Your Honor, because we 
+
+8 think that the -- that -- and here the contrast with the 
+
+9 underlying Longshore Act is important, and Justice 
+
+Kennedy's questions of Justice -- of Mr. Clement 
+
+11 highlighted this, because it's quite an unusual thing 
+
+12 for a workers' compensation statute to have a 
+
+13 situs-of-injury requirement. The Longshore Act is the 
+
+14 sole example of which I'm aware, and it has it for 
+
+historical reasons based on this Court's decision in 
+
+16 Jensen. 
+
+17  And it has a provision that's quoted on page 
+
+18 19 of the Government brief, that provides coverage for 
+
+19 disability or death, but only if the disability or death 
+
+result from an injury occurring upon the navigable 
+
+21 waters. That was clearly in front of Congress at the 
+
+22 time that it adopted OCSLA, because it was incorporating 
+
+23 that statute and applying it in the outer continental 
+
+24 shelf context. And it's quite telling that Congress did 
+
+not use that but-only-if formulation. 
+
+35
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SCALIA: Yes, but --but Mr. Clement 
+
+2 says that -- and we can argue about whether the language 
+
+3 does it or not, but the system he comes up with, he 
+
+4 says, creates a very sensible division. You're either 
+
+under the Longshore Act or you're under this Act. And 
+
+6 -- whereas, in your situation, you can be under both, 
+
+7 can't you? 
+
+8  MR. PALMORE: Yes, in some situations. 
+
+9  JUSTICE SCALIA: Well, why does that make 
+
+any sense? 
+
+11  MR. PALMORE: Because the kind of certainty 
+
+12 -- we think our test is actually much easier to 
+
+13 administer and provides greater predictability in this 
+
+14 sense --
+
+JUSTICE SCALIA: Which one prevails when 
+
+16 they both apply? Are there any differences between the 
+
+17 two? 
+
+18  MR. PALMORE: Well, there's -- Congress 
+
+19 contemplated, expressly contemplated, that there would 
+
+be overlapping coverage and adopted a provision in 
+
+21 903(e) of the Longshore Act to provide for offsetting 
+
+22 payments when there is overlap. So, overlap is a fact 
+
+23 of life in this area. 
+
+24  JUSTICE BREYER: I think the question is, is 
+
+there any difference between the two? 
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. PALMORE: Well, in this case the Federal 
+
+2 benefits were more generous than the State benefits. 
+
+3  JUSTICE BREYER: Well, why wouldn't they 
+
+4 have been -- I mean, as I understand it, if a person of 
+
+a certain set -- and it's the same set in both, 
+
+6 virtually, the same set of people -- where they're 
+
+7 injured on navigable waters or piers and docks and so 
+
+8 forth, it's the Longshore Act. And if you're on the 
+
+9 platform, it's this Act, so far. And the benefits are 
+
+the same. 
+
+11  MR. PALMORE: Correct. 
+
+12  JUSTICE BREYER: Okay. So, the only thing 
+
+13 that extending this does, I think he says, is imagine a 
+
+14 person who worked on a platform goes to get some 
+
+platform bits repaired miles from the sea. Now, that 
+
+16 person would not be covered by Longshore Act, would he? 
+
+17  MR. PALMORE: Would not. 
+
+18  JUSTICE BREYER: No. And he would be 
+
+19 covered by this, if they're right, but not if Clement is 
+
+right. 
+
+21  MR. PALMORE: Correct. 
+
+22  JUSTICE BREYER: Okay. So, he's saying what 
+
+23 point was there for Congress to do that? 
+
+24  MR. PALMORE: Because we thought that 
+
+Congress intended this to function in the way that other 
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 workers' compensation schemes function, both at the time 
+
+2 that OCSLA was adopted and today, which is that the 
+
+3 coverage provides comprehensive benefits from the start 
+
+4 of the workday to the end of the workday.
+
+ JUSTICE BREYER: Let me give you an example. 
+
+6 It might help. A longshoreman is working on a dock. 
+
+7 Someone tells him: There is a winch here that's broken; 
+
+8 take it to the plant to have it repaired, which is 
+
+9 100 miles inland. He does it, and he's hurt at the 
+
+plant. He is not covered, correct? 
+
+11  MR. PALMORE: Under the Longshore Act? 
+
+12  JUSTICE BREYER: Correct. Yes, that's 
+
+13 right. So, he's not covered. 
+
+14  MR. PALMORE: Correct.
+
+ JUSTICE BREYER: But if the same thing 
+
+16 happens on the platform, under your theory he is 
+
+17 covered. Now, your opponent is asking a reasonable 
+
+18 question. That seems to be about the only difference 
+
+19 that he can think of, whether it's the one Act or the 
+
+other, and why would Congress have done that? That's 
+
+21 his question, and I'd like to hear the answer. 
+
+22  MR. PALMORE: Because in that situation, 
+
+23 Justice Breyer, the Longshore Act's strict 
+
+24 situs-of-injury requirement is the exception, not the 
+
+rule. That is unusual and really unprecedented in 
+
+38
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 imposing a situs-of-injury requirement in the context of 
+
+2 a workers' compensation scheme.  At the time of OCSLA --
+
+3 at the time OCSLA was adopted in 1953, States had nearly 
+
+4 uniformly moved away from the tort theory of workers' 
+
+compensation coverage that would apply benefits --
+
+6  JUSTICE BREYER: So, your answer is 
+
+7 basically there are many statutes like this, they all 
+
+8 have some kind of OCSLA-type requirement, it's the 
+
+9 Longshore Act that was rather stingy, and we don't know 
+
+why. 
+
+11  MR. PALMORE: No, we do know why. 
+
+12  JUSTICE BREYER: Why? 
+
+13  MR. PALMORE: It was stingy for historical 
+
+14 reasons --
+
+JUSTICE BREYER: Because of the workmen's 
+
+16 compensation? 
+
+17  MR. PALMORE: It was based on this Court's 
+
+18 decision in Jensen, and there's a whole long and 
+
+19 tortured history there, and that explains why Congress 
+
+did that. 
+
+21  But when Congress took the unusual step of 
+
+22 imposing a situs-of-injury requirement in the context of 
+
+23 a workers' compensation scheme, it did so in express 
+
+24 terms with this "but-only-if" phrase.
+
+ JUSTICE SOTOMAYOR: Would the -- would 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 worker who went to the factory be covered by State 
+
+2 workmen's comp? 
+
+3  MR. PALMORE: Yes, just like the worker on a 
+
+4 fixed platform on the outer Continental Shelf would also 
+
+be covered by State workers' comp. Private Respondent 
+
+6 cites the Bobbitt case from California that says 
+
+7 California workers' comp doesn't have a location 
+
+8 requirement --
+
+9  CHIEF JUSTICE ROBERTS: I'm sorry; I don't 
+
+understand the answer. So, he's covered by both? 
+
+11  MR. PALMORE: Yes. 
+
+12  CHIEF JUSTICE ROBERTS: Oh. 
+
+13  MR. PALMORE: Overlap -- a certain degree of 
+
+14 overlap is a fact of life in this area. Section 903(e) 
+
+accounts for that by allowing for offsetting payment, so 
+
+16 there's never going to be double recovery. And 903(e) 
+
+17 really just endorsed a historical practice of offsetting 
+
+18 payments that was discussed by this Court in the Calbeck 
+
+19 case. So that there has always been some degree of 
+
+overlapping coverage. 
+
+21  At the time of -- OCSLA was adopted in 
+
+22 1953 -- this Court in Davis had recognized that even 
+
+23 under the Longshore Act itself there was a twilight zone 
+
+24 of overlapping coverage. So --
+
+JUSTICE SCALIA: When you're covered by both 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 the Longshore Act and State workmens' comp, can you 
+
+2 proceed under either one? 
+
+3  MR. PALMORE: You -- you might be able to 
+
+4 proceed under either one if you're covered under either 
+
+one, but what is quite, Justice Scalia, is you can't 
+
+6 collect --
+
+7  JUSTICE SCALIA: You can't get --
+
+8  MR. PALMORE: -- under either one, or if you 
+
+9 do, you -- there are going to be contingent offsets.
+
+ JUSTICE SCALIA: But you think you can 
+
+11 proceed under the State law if you choose. 
+
+12  MR. PALMORE: Yes, Your Honor. 
+
+13  JUSTICE KENNEDY: Does -- do we owe -- do 
+
+14 the courts give some deference to the director's 
+
+position? 
+
+16  MR. PALMORE: May I answer, Mr. Chief 
+
+17 Justice? 
+
+18  CHIEF JUSTICE ROBERTS: Please. 
+
+19  MR. PALMORE: Yes. In this Court's decision 
+
+in Rambo, the Court said that the director's 
+
+21 interpretation of the statute is entitled to Skidmore 
+
+22 deference. 
+
+23  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+24  Mr. Frederick.
+
+ ORAL ARGUMENT OF DAVID C. FREDERICK 
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  ON BEHALF OF THE PRIVATE RESPONDENT
+ 
+
+2  MR. FREDERICK: Thank you,
+ 
+
+3 Mr. Chief Justice, and may it please the Court:
+ 
+
+4  I'd like to shift some focus to what would
+ 
+
+have happened if Mr. Valladolid had worked on a floating 
+
+6 platform instead of a fixed, because the law is clear 
+
+7 that if the platform was floating, he would be a Jones 
+
+8 Act seaman, and under this Court's cases, if he were 
+
+9 injured on land, he would have a Jones Act remedy. So, 
+
+the only anomaly here is that he happened to be working 
+
+11 on a fixed platform 98 percent of the time. And the 
+
+12 question is whether the permissive workers' compensation 
+
+13 benefits provided under OCSLA carry with him when he 
+
+14 happens to be injured on land as a result of the shelf 
+
+operations. 
+
+16  JUSTICE SCALIA: I don't think that's an 
+
+17 anomaly. I mean, you know, if it's a floating platform, 
+
+18 it's a vessel. The difference between a vessel and a 
+
+19 dock. Is it an anomaly that you're covered under the 
+
+Longshore Act if you're injured on a dock, which is 
+
+21 fixed, but you are not -- you're covered under the Jones 
+
+22 Act instead if you're on a vessel, which is not fixed? 
+
+23  MR. FREDERICK: Your question, Justice 
+
+24 Scalia --
+
+JUSTICE SCALIA: That doesn't seem to me 
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+9 
+
+Official 
+
+1 like an anomaly at all. 
+
+2  MR. FREDERICK: Well, let me answer your 
+
+3 question this way, Justice Scalia. 
+
+4  JUSTICE SCALIA: How many floating platforms 
+
+are there, anyway? 
+
+6  MR. FREDERICK: There are a number of 
+
+7 floating platforms in the Gulf of Mexico. They're 
+
+8 operating on the outer continental shelf as well as on 
+
+the Western Pacific --
+
+11 Jones Act? 
+
+12
+
+13
+
+14 vessels.
+
+ JUSTICE SCALIA: 
+
+
+MR. FREDERICK: 
+
+
+JUSTICE SCALIA: 
+
+
+MR. FREDERICK: 
+
+
+And they're covered by the 
+
+Yes. That's correct. 
+
+They should be; they're 
+
+But the point is that they 
+
+16 get a Jones Act remedy if they happen to be injured on 
+
+17 land. So, Mr. Chief Justice, under your hypothetical, 
+
+18 if the Jones Act seaman is driving to Reno and there's 
+
+19 an accident, he's covered under the Jones Act and gets 
+
+to have a Jones Act remedy, notwithstanding that the 
+
+21 injury has nothing to do with his service on the vessel 
+
+22 itself. 
+
+23  JUSTICE SCALIA: You're -- you are not 
+
+24 proposing to eliminate that anomaly?
+
+ MR. FREDERICK: No, what I'm saying is that 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 the --
+
+2  JUSTICE SCALIA: You're saying wherever you 
+
+3 are injured, so long as you're on a platform, 
+
+4 you're covered. I don't think so.
+
+ MR. FREDERICK: If the work is substantially 
+
+6 related and the causal connection goes to the employment 
+
+7 relationship, to the operations, the worker is covered 
+
+8 under OCSLA. 
+
+9  JUSTICE SCALIA: So, you still have an 
+
+anomaly. 
+
+11  MR. FREDERICK: There is --
+
+12  JUSTICE SCALIA: Sometimes it will be 
+
+13 covered; sometimes it won't be covered. 
+
+14  MR. FREDERICK: It is, to be sure, a more 
+
+comfortable fit to the actual language of the statute 
+
+16 than imposing and superimposing a situs-of-injury 
+
+17 requirement, which is nowhere to be found in section 
+
+18 1333(b). 
+
+19  JUSTICE GINSBURG: Is there any injury on 
+
+land in the course of employment that would not be 
+
+21 covered by OCSLA where we have a worker of this kind 
+
+22 that -- who spends 98 percent of his time on the outer 
+
+23 continental shelf -- the injury, however, is on land? 
+
+24 Is there any case where such a worker who predominantly 
+
+works on the outer continental shelf would not be 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 covered by OCSLA in your view? 
+
+2  MR. FREDERICK: Well, if the work is arising 
+
+3 out of the course and scope of employment, which is the 
+
+4 natural way that these workers' compensation regimes 
+
+work, and it is related to the shelf operations, our 
+
+6 submission is, yes, he is covered under OCSLA. 
+
+7  JUSTICE GINSBURG: So, then what you're 
+
+8 really saying is -- it's not your test, but really the 
+
+9 Government's saying we look to see, is this person 
+
+dominantly working on the outer continental shelf? 
+
+11  MR. FREDERICK: That -- that's correct, 
+
+12 Justice Ginsburg. It's the easiest to administer test, 
+
+13 too, because the way workers' compensation insurance 
+
+14 works, the employer will -- based on the payroll of the 
+
+workers who are out on the shelf and its overall 
+
+16 payroll, will pay workers' compensation premiums, and 
+
+17 under the Department of Labor regulations, it will add 
+
+18 an endorsement for those workers whose status it 
+
+19 controls, would be covered under OCSLA and thereby get 
+
+the higher Federal benefit. 
+
+21  JUSTICE SCALIA: So, if you work only 20 
+
+22 percent of your time for this -- this drilling company 
+
+23 on -- on the -- on the platform, but it so happens that 
+
+24 you are injured on the platform, you know, a bolt comes 
+
+off and strikes you, you're not covered? 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. FREDERICK: Well, our submission would 
+
+2 be he would be covered because he's directly injured as 
+
+3 a result of the operations on the shelf.  It's a 
+
+4 two-factor --
+
+JUSTICE SCALIA: Well, then -- then you're 
+
+6 not applying the -- the employment test. I mean, you 
+
+7 either are or you are not. 
+
+8  MR. FREDERICK: Well, that person is going 
+
+9 to be covered under our submission because it's a 
+
+two-part inquiry. You look at the nature of the 
+
+11 relationship, and you look at the nature of how the 
+
+12 injury came about. And under those circumstances we 
+
+13 agree with the Government, that if somebody is -- if an 
+
+14 employee is out on the platform and is injured as a 
+
+result of operations, that person is covered. 
+
+16  JUSTICE SCALIA: Heads, I win; tails, you 
+
+17 lose, right? We -- we have a situs-of-the-injury test 
+
+18 when you have less than your -- a majority of your work 
+
+19 on the platform, but we don't have a situs test when the 
+
+majority is on the platform. 
+
+21  MR. FREDERICK: 
+
+22 incongruity --
+
+23  JUSTICE SCALIA: 
+
+24 this statute?
+
+ MR. FREDERICK: 
+
+I would submit that the 
+
+How do you get that out of 
+
+It's even greater under 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 their hypothetical with the helicopter worker, because 
+
+2 they want to get the person who's riding in the 
+
+3 helicopter out to the shelf covered under the Longshore 
+
+4 Act, and yet that flies directly in the face of this 
+
+Court's holding in Herb's Welding, that when he's on the 
+
+6 fixed platform, he doesn't get longshore benefits. And 
+
+7 so, here under their hypothetical --
+
+8  JUSTICE SCALIA: Was it the Longshore Act? 
+
+9 I thought -- I thought it was the Jones Act that they 
+
+were covered in the helicopter. 
+
+11  MR. FREDERICK: No. Under his submission --
+
+12 his submission is that when they fly out in a helicopter 
+
+13 and they crash in the water, they get longshore 
+
+14 benefits. But if they actually made it to the platform, 
+
+under this Court's holding in Herb's Welding they would 
+
+16 not get longshore benefits --
+
+17  CHIEF JUSTICE ROBERTS: Well, I mean, both 
+
+18 positions --
+
+19  MR. FREDERICK: -- if they were in State 
+
+territorial waters. 
+
+21  CHIEF JUSTICE ROBERTS: Both positions, Mr. 
+
+22 Frederick, are vulnerable to particular hypotheticals. 
+
+23 You have imprecision on what it means to spend most of 
+
+24 your time on the -- on the shelf, and they have their 
+
+own problems. And what do you do with somebody who's --
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 3 months he's on the shelf, and then 3 months he's back 
+
+2 -- back on land 3 months? Does it depend when the 
+
+3 injury occurs, whether it's when he's on the land part 
+
+4 of his job or on the shelf part?
+
+ MR. FREDERICK: The way this Court handled 
+
+6 that under in seaman context under Chandris was to look 
+
+7 at the totality of the circumstances of the worker's 
+
+8 employment, and that seems to be --
+
+9  CHIEF JUSTICE ROBERTS: Well, that's -- I've 
+
+given you all the totality. He's working for 3 months, 
+
+11 and then he's -- you know, it's seasonal or something, 
+
+12 and 3 months he's on -- on the land. That is the 
+
+13 totality of the circumstances. 
+
+14  MR. FREDERICK: He would be covered.
+
+ CHIEF JUSTICE ROBERTS: Why? 
+
+16  MR. FREDERICK: Because he's the kind of 
+
+17 person that Congress wanted to provide coverage to under 
+
+18 Federal worker -- remind -- remember, in 1950 --
+
+19  CHIEF JUSTICE ROBERTS: Where -- how do you 
+
+know it's the kind of person? I thought your line was 
+
+21 whether or not he spends most of his time on the shelf 
+
+22 or most of his time somewhere else. 
+
+23  MR. FREDERICK: Our test actually is 
+
+24 substantial work. We don't disagree with the 
+
+Government's adoption of a Chandris 30 percent line. 
+
+48
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 That seems appropriate in light of the fact that many of 
+
+2 these workers come on for 2 weeks, are off for 2 weeks. 
+
+3 They're working 12-hour shifts while they're out on the 
+
+4 rig. It seems appropriate that the coverage should go 
+
+with them when they are --
+
+6  CHIEF JUSTICE ROBERTS: Thirty percent is 
+
+7 the line? 
+
+8  MR. FREDERICK: That's what the Government 
+
+9 -- I have no brief to defend, Mr. Chief Justice, in 
+
+terms of where that line is, because my -- my client's 
+
+11 husband --
+
+12  CHIEF JUSTICE ROBERTS: Well, I know, but 
+
+13 we'd like to have a test that we apply to your 
+
+14 situation, and it's nice to know -- maybe 30 percent, I 
+
+guess, is as good as any. 
+
+16  MR. FREDERICK: The point that Congress was 
+
+17 trying to get at -- and these are platforms that were 
+
+18 covered by State workers' compensation in 1953 -- was to 
+
+19 extend the more generous Federal benefits to encourage 
+
+an industry that was a nascent industry to develop the 
+
+21 resources of the outer continental shelf, to provide 
+
+22 uniformity, to provide benefits to the workers who were 
+
+23 exposed to the perils that were out on the platform. 
+
+24 And so, it makes sense, we submit, that when those 
+
+workers who are -- who are subjected to those 
+
+49
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 circumstances have the same Federal benefits. And there 
+
+2 are substantial benefits. 
+
+3  My client, for instance, got a one-time 
+
+4 lump-sum payment of $42,000 for the death of her 
+
+husband, as opposed to the Federal benefits that would 
+
+6 be approximately $466 per week during the remainder of 
+
+7 her period as a widow. And the State benefits would be 
+
+8 credited against any Federal benefits that she would be 
+
+9 getting in the future. But it's -- it is a substantial 
+
+dimension to the life of a worker out on the shelf. 
+
+11  JUSTICE KAGAN: So, suppose, Mr. Frederick, 
+
+12 that we find that we can't find your status test in the 
+
+13 language of the statute and that what this statute seems 
+
+14 to give us is, instead, a causal test and that the cause 
+
+is whether operations on the outer continental shelf 
+
+16 caused the injury in question. So, what's your best 
+
+17 argument for how operations on the shelf caused the 
+
+18 injury in this case? 
+
+19  MR. FREDERICK: The scrap metal that Mr. 
+
+Valladolid was charged with moving at the time of his 
+
+21 the death was very likely the same scrap metal that he 
+
+22 personally had taken off the shelf, or someone in his 
+
+23 position would have taken off the shelf. And to Justice 
+
+24 Kennedy's point, the equipment is heavy, dangerous, 
+
+difficult equipment. Just the fact that it is moved off 
+
+50
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 the shelf for a cleaning, scrap, for removal, et cetera, 
+
+2 is an immaterial difference. 
+
+3  In their reply brief, they concede that an 
+
+4 oil spill worker who's cleaning up this oil spill from 
+
+an offshore event is going to be covered under a -- what 
+
+6 they call a proximate cause standard -- under any kind 
+
+7 of substantial connection proximate cause. Proximate 
+
+8 cause is a legal policy that determines how you want to 
+
+9 limit the scope of the injuries that would be covered.
+
+ In a workers' compensation scheme, 
+
+11 Justice Scalia, you were completely right it makes no 
+
+12 sense. And so, if you adopt some kind of substantial 
+
+13 connection, it has to be very loosely related. As the 
+
+14 Court in the FELA context last term held in CSX v. 
+
+McBride, where you have a negligence standard, it makes 
+
+16 even more sense to have a very relaxed standard of 
+
+17 causation under workers' compensation. 
+
+18  JUSTICE SCALIA: I assume that the Act would 
+
+19 also apply under your analysis to a -- an independent 
+
+contractor, a trucker, who carries this heavy -- this 
+
+21 heavy steel to the place where this worker worked on it, 
+
+22 right? 
+
+23  MR. FREDERICK: I don't think so. 
+
+24  JUSTICE SCALIA: Well --
+
+MR. FREDERICK: You have to be an employee. 
+
+51
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SCALIA: -- but he would not have 
+
+2 been carrying the steel had it not been for the -- for 
+
+3 the operations on the shelf. 
+
+4  MR. FREDERICK: It has to be an employee. 
+
+If -- if your hypothetical is the independent contractor 
+
+6 on land, it has to be an employee in order to be 
+
+7 covered. And that person doesn't qualify, which creates 
+
+8 another set of --
+
+9  JUSTICE SCALIA: I see. I see.
+
+ MR. FREDERICK: -- difficult lines to draw 
+
+11 under the Longshore Act, where you also have to be an 
+
+12 employee, and independent contractors are not covered --
+
+13  JUSTICE SCALIA: He would be covered if --
+
+14 if -- he were employed by the -- by the firm that 
+
+operates the platform, right? 
+
+16  MR. FREDERICK: If you could give me the 
+
+17 rest of the facts of your hypothetical, Justice Scalia. 
+
+18  JUSTICE SCALIA: Well -- it's just the guy 
+
+19 that drives the truck that takes the steel to the place 
+
+where your client worked on it. 
+
+21  MR. FREDERICK: Not covered, because that 
+
+22 person is not directly substantially working on shelf 
+
+23 operations --
+
+24  CHIEF JUSTICE ROBERTS: Unless he spent 30 
+
+percent of his time on the shelf. Then he's covered. 
+
+52
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. FREDERICK: Yes. Because those 
+
+2 workers -- those workers -- I think it's hard to imagine 
+
+3 the kinds of --
+
+4  JUSTICE KENNEDY: Is it 30 percent of his 
+
+time over his career or that month or in a year? 
+
+6  MR. FREDERICK: This Court's articulation of 
+
+7 that standard, Justice Kennedy, in the Chandris test has 
+
+8 been the subject of litigation in the lower courts, and 
+
+9 my understanding is that the courts have kind of worked 
+
+out the various factors and standards that go into the 
+
+11 nature of the employment standard --
+
+12  JUSTICE GINSBURG: You -- you're talking 
+
+13 about the Chandris standard that the seaman's 
+
+14 relationship to the vessel must be substantial in nature 
+
+and duration --
+
+16  MR. FREDERICK: Correct. 
+
+17  JUSTICE GINSBURG: And that's a kind of a 
+
+18 vague -- what's substantial? It's the same problem we 
+
+19 have here. What is the --
+
+MR. FREDERICK: That's correct. And the 
+
+21 nature -- you know, if I could -- I'm sorry, did you 
+
+22 want --
+
+23  JUSTICE GINSBURG: Yes. So, how have courts 
+
+24 worked this out? What is a substantial relation to the 
+
+vessel? 
+
+53
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. FREDERICK: As I understand the case 
+
+2 law, Justice Ginsburg, there are a range of factors that 
+
+3 go into the nature of the sea workers' relationship to 
+
+4 the vessel, and they go to -- they go to duration, they 
+
+go to the performance of duties in the completion of the 
+
+6 mission of the vessel and the like. And there are a 
+
+7 range of standards. Obviously, the facts of each crew 
+
+8 member is difficult to unpack in a hypothetical at this 
+
+9 time.
+
+ CHIEF JUSTICE ROBERTS: Well, that's a real 
+
+11 -- obviously, it's a real mishmash, and maybe that's 
+
+12 what we're -- we're stuck with. How does this work as a 
+
+13 practical matter? I assume the -- the companies get 
+
+14 insurance to cover their risks here.
+
+ MR. FREDERICK: Correct. 
+
+16  CHIEF JUSTICE ROBERTS: Who decides -- I 
+
+17 mean, the insurance company will underwrite how many 
+
+18 people spend what percentage of time where? 
+
+19  MR. FREDERICK: And as a practical matter, 
+
+Mr. Chief Justice -- and I don't represent the insurance 
+
+21 company here -- but the way I understand that it works 
+
+22 is that, on an annual or a periodic basis, the company 
+
+23 and the insurance company get together through some 
+
+24 auditing process where there's verification of the 
+
+workers who are OCSLA workers and thereby get the 
+
+54
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 longshore benefits, and the company and the insurance 
+
+2 company work that out to determine either numbers or 
+
+3 particular individuals or the like. 
+
+4  And so, here what we're talking about is a 
+
+situation where the employer is not liable for the 
+
+6 damage. It's an insured risk, and --
+
+7  CHIEF JUSTICE ROBERTS: No -- well, they 
+
+8 have to pay higher insurance rates. To say they're not 
+
+9 liable for it I think is a real --
+
+MR. FREDERICK: It's a different form of 
+
+11 liability, and it's one that based on the way workers' 
+
+12 compensation traditionally is developed -- and I would 
+
+13 direct the Court to the opening chapters of Larson's 
+
+14 monumental treatise on workers' compensation, where he 
+
+basically says if this is a social compact in which the 
+
+16 employer doesn't have to face liability for personal 
+
+17 injuries in tort but gets insurance, and the premiums 
+
+18 are then passed on to the consuming public of that 
+
+19 particular entity's goods.
+
+ JUSTICE BREYER: Does it carry over who's an 
+
+21 employee from the Longshoreman Act? Which defines an 
+
+22 employee as a maritime worker, and then defines that and 
+
+23 has exceptions and so forth, and this has a couple more. 
+
+24 That's who the employee is; is that right?
+
+ MR. FREDERICK: Well, under this statute, 
+
+55
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 no; (b)(2), as Justice Sotomayor referenced, it is -- it 
+
+2 is an employer, some of whose employees are engaged in, 
+
+3 quote, "such operations." And Mr. Valladolid was 
+
+4 exactly the kind of person who was engaged in such 
+
+operations. 
+
+6  So, our submission, Justice Breyer, is that 
+
+7 that is the kind of person that Congress contemplated 
+
+8 when it was focusing on the work force that would be 
+
+9 engaged in development of the outer continental shelf.
+
+ If the Court has --
+
+11  CHIEF JUSTICE ROBERTS: Well, but you -- I 
+
+12 don't mean to get back to it all the time, but it's not 
+
+13 -- you have to say that Congress contemplated the person 
+
+14 who spent 30 percent of his time on the outer 
+
+continental shelf. In terms of us coming up with a 
+
+16 test. Maybe your client is an easy case, where it's 98 
+
+17 percent. But the test you want us to adopt covers the 
+
+18 person who spends 70 percent of his time on land. 
+
+19  MR. FREDERICK: Mr. Chief Justice, if I 
+
+could put it this way, the pushback for the but-for test 
+
+21 in its broadest sense is that there isn't a natural kind 
+
+22 of a way of confining some restriction to it. And so, 
+
+23 if you look at the statute in terms of what it naturally 
+
+24 must have meant by Congress, there is a natural limit, 
+
+and it is not just complete but-for causation, but there 
+
+56
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 are an effort -- there is an effort to try to restrict 
+
+2 the scope of the compensation. 
+
+3  Thank you. 
+
+4  CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ Mr. Clement, you have 4 minutes remaining. 
+
+6  REBUTTAL ARGUMENT OF PAUL D. CLEMENT 
+
+7  ON BEHALF OF THE PETITIONERS 
+
+8  MR. CLEMENT: Thank you, Mr. Chief Justice. 
+
+9 A few points in rebuttal.  First of all, 
+
+Justice Kennedy, you asked about deference, and I think 
+
+11 before you give any deference to the Government's 
+
+12 position, you should look at the other Government's 
+
+13 position, which is to say the position that the 
+
+14 Government took in its brief to this Court in Pickett v. 
+
+Petroleum Helicopters in 2002. 
+
+16  They have a completely different position 
+
+17 now, and they've never explained the difference other 
+
+18 than to say what they thought was plausible then they 
+
+19 now find persuasive now. That's not enough for 
+
+deference. And in that brief, they took a position very 
+
+21 similar to ours. There has to be status plus situs, 
+
+22 albeit a slightly different situs, but otherwise it's on 
+
+23 all fours with our position. 
+
+24  Second of all, the Government comes up here 
+
+and says that the longshore remedy is an outlier among 
+
+57
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 workers' compensation remedies because it's the only one 
+
+2 with a situs. Well, the problem with that is of all the 
+
+3 workers' compensation provisions that Congress could 
+
+4 have extended to the outer continental shelf, it picked 
+
+the Longshore Act with that situs requirement. 
+
+6  And the Government also says, well, you 
+
+7 know, the reason that the Longshore Act had a situs 
+
+8 requirement was because of Jensen, and this Court's 
+
+9 decision in Jensen created a problem about whether State 
+
+workers' comp law could go to the navigable waters. 
+
+11  Well, that's the exact same backdrop against 
+
+12 which Congress is passing OCSLA. It doesn't know that 
+
+13 State workers' compensation law can go to the outer 
+
+14 continental shelf. Jensen is still good law. Jensen 
+
+tells Congress that it can't extend -- States can't 
+
+16 extend their laws to the navigable waters. What 
+
+17 makes --
+
+18  JUSTICE GINSBURG: But why -- why doesn't 
+
+19 Congress know? Because I think States overwhelmingly 
+
+would include outer continental shelf workers in their 
+
+21 compensation scheme. 
+
+22  MR. CLEMENT: Oh, no, Justice Ginsburg. 
+
+23 What States overwhelming did is say a worker could be 
+
+24 covered in a different State. But covering them on the 
+
+outer continental shelf was not something that was well 
+
+58
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 established. 
+
+2  And, indeed, Congress specifically heard 
+
+3 testimony that questioned the ability of either States 
+
+4 to get their workers' comp law there directly and also 
+
+heard that there might be constitutional problems, 
+
+6 because of the Knickerbocker Ice case, of Congress 
+
+7 extending the State law there. So, that's why they 
+
+8 settled on this remedy of taking this Longshore Act that 
+
+9 solved the Jensen problem on the navigable waters and 
+
+solved the same problem for the outer continental shelf. 
+
+11  JUSTICE GINSBURG: It would make sense to 
+
+12 use the Longshore Act because they wanted to have the 
+
+13 same level of compensation. 
+
+14  MR. CLEMENT: As other alternatives like the 
+
+Jones Act? 
+
+16  JUSTICE GINSBURG: No. No, no. They wanted 
+
+17 the OCSLA worker to have the same benefits as the 
+
+18 longshore worker. 
+
+19  MR. CLEMENT: Sure, when they were on the 
+
+shelf. But they were solving the exact same kind of 
+
+21 jurisdictional problem they solved with the Longshore 
+
+22 Act with the shelf -- with the statute. 
+
+23  Justice Sotomayor, I don't think you can 
+
+24 read too much into (b)(2). All (b)(2) is doing is 
+
+modifying the same definition for the longshores. 
+
+59
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 You're an employer if you employ a longshoreman or a 
+
+2 longshore worker. So, they're just updating this for 
+
+3 purposes of extending a longshore remedy to the shelf; 
+
+4 (b)(3) does the same thing, and it modifies the situs 
+
+and creates a situs that makes sense for the shelf: the 
+
+6 navigable waters, drydocks, the shelf, artificial 
+
+7 islands, and everything attached thereto. 
+
+8  Mr. Chief Justice, you talked about the 
+
+9 imprecision of their test. It's worse than that. It's 
+
+imprecision without any text. At least in the Jones 
+
+11 Act, you have the seamen and you have some other textual 
+
+12 clues as to where you draw these limits. Here there's 
+
+13 nothing in the statute that in any way suggests a 
+
+14 status-based test. So, you would be completely 
+
+unmoored, if you will. 
+
+16  The last point I would make is this: The 
+
+17 answer to the causation test is really -- the kind of 
+
+18 the lie to the other side's position is what they say 
+
+19 when they're dealing with somebody who's not a 98 
+
+percenter but is a 2 percenter. When that person goes 
+
+21 out on the shelf, when are they covered? Well, when the 
+
+22 injuries operating on the shelf cause them a direct 
+
+23 injury on the shelf. At that point, even the Government 
+
+24 resorts to a situs-based test.
+
+ Well, here's the problem: That status-based 
+
+60
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 test, it's in the Jones Act; it's not in OCSLA. And 
+
+2 even when you recognize that and you look at what's left 
+
+3 of the case, what's left of the case is either our 
+
+4 approach that essentially incorporates the Longshore Act 
+
+through (b)(3) or a tight nexus test that would require 
+
+6 a geographical focus and give -- give force to the words 
+
+7 "conducted on the shelf." 
+
+8  This person was injured by operations for 
+
+9 the purpose of exploring the shelf at some level, but he 
+
+sure wasn't injured by operations conducted on the shelf 
+
+11 for those purposes. He was injured by operations on dry 
+
+12 land. And under those circumstances, the remedy lies 
+
+13 with the State workers' comp law, not with OCSLA. 
+
+14  CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ The case is submitted. 
+
+16  (Whereupon, at 11:04 a.m. the case in the 
+
+17 above-entitled matter was submitted.) 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+61
+ 
+Alderson Reporting Company 
+
+
+
+OfficialOfficial 
+
+62 
+
+A 52:11 55:21 11:2 32:11 areas 18:10 b 13:8 19:23 
+ability 59:3 58:5,7 59:8,12 ample 23:9 argue 36:2 20:11,24 34:7 
+able 41:3 59:15,22 60:11 analysis 51:19 argued 23:23 56:1 59:24,24 
+above-entitled 61:1,4 annual 54:22 arguing 15:4 60:4 61:5 
+
+1:12 61:17 activities 12:13 anomalies 4:6 argument 1:13 back 8:5,6,9 
+absolutely 9:22 31:12,14 anomalous 18:4 2:2,5,8,11 3:3 21:9 24:13 
+abstract 16:15 activity 28:12 18:5 3:7 10:7 11:14 25:9,18 34:22 
+accept 33:14 actual 27:16 anomaly 17:21 11:16 13:14 48:1,2 56:12 
+accident 3:19 44:15 19:10 42:10,17 15:15,15,16 backdrop 58:11 
+
+7:16 29:18 Act's 38:23 42:19 43:1,24 19:17 20:1,2 background 
+30:1 43:19 add 9:20,21 44:10 21:15 26:25 26:2 
+
+accidents 5:2 45:17 answer 3:14 41:25 50:17 backup 10:7 
+account 16:12 additionally 4:23 5:7 9:4 57:6 15:15,21 18:2 
+
+17:8 28:2 38:21 39:6 arguments 31:20,20,21,23 
+accountant 6:18 address 6:5 40:10 41:16 10:12 24:8 32:1,4,11,15 
+
+25:6,14 32:18 10:12 43:2 60:17 arising 45:2 balance 26:21 
+accountants addressing 5:4 answered 21:21 article 26:1 bare 5:25 
+
+6:20 25:11,19 adjacent 13:17 anybody 26:17 articulation base 8:10 
+26:10 13:22,23 anyway 24:14 53:6 baseball 14:18 
+
+accounting administer 43:5 artificial 12:21 based 5:18 
+32:19 36:13 45:12 anyways 24:18 13:12 14:4 33:25 35:15 
+
+accounts 40:15 admiralty 10:23 APPEARAN... 21:7 27:19 39:17 45:14 
+acknowledge 22:5 1:15 29:7 60:6 55:11 
+
+5:25 adopt 22:15,17 appendix 13:5 asked 17:23 basically 39:7 
+act 3:12,17,20 22:20 51:12 19:16 27:11 18:1 25:10 55:15 
+
+4:5,7,9,12,14 56:17 31:4 57:10 basis 54:22 
+4:24,25 5:8,8 adopted 10:24 applicability asking 24:3 batter 14:18 
+10:20 11:10,11 35:22 36:20 28:14 31:10 38:17 beachcombers 
+11:19 12:2,3 38:2 39:3 applied 6:4 asks 31:12 6:10 
+12:16 13:22 40:21 17:10 aspect 17:4 beg 25:16 
+15:19 17:13,17 adoption 48:25 applies 5:8 assessing 17:23 behalf 2:4,7,10 
+18:11 19:21 adopts 20:6,7 11:25 16:19 Assistant 1:18 2:13 3:8 27:1 
+20:7,13,17,21 adversary 5:17 23:14 29:5 assume 51:18 42:1 57:7 
+21:10,20 22:6 adversary's apply 4:14 12:2 54:13 benefit 25:20 
+22:10,11,14,16 33:15 15:24 17:18,23 attached 14:4 45:20 
+23:3,14,22,25 agree 10:6 46:13 18:2 20:6 22:6 20:24 21:7 benefits 3:18 
+24:19,23,24 AL 1:4,7 27:21 36:16 22:6 60:7 29:10 30:25 
+27:13,17,18,21 albeit 57:22 39:5 49:13 attachments 37:2,2,9 38:3 
+34:23 35:6,9 Alito 5:10,21 51:19 12:21 13:12 39:5 42:13 
+35:13 36:5,5 7:19 29:12,23 applying 11:24 auditing 54:24 47:6,14,16 
+36:21 37:8,9 31:16,19 32:16 35:23 46:6 automatic 17:11 49:19,22 50:1 
+37:16 38:11,19 allowing 40:15 approach 61:4 17:25 50:2,5,7,8 55:1 
+39:9 40:23 allows 21:1 appropriate aware 35:14 59:17 
+41:1 42:8,9,20 alluding 14:16 49:1,4 a.m 1:14 3:2 best 4:23 6:11 
+42:22 43:11,16 alternatives approximately 61:16 11:13 18:7 
+43:18,19,20 
+47:4,8,9 51:18 
+
+59:14 
+amount 9:19 
+
+50:6 
+area 36:23 40:14 B 
+
+24:23 50:16 
+better 18:6 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+63 
+Official 
+
+31:24 32:5,8 carry 28:16 changes 20:25 10:8,11 11:4,8 35:12 38:1 
+beyond 23:23 42:13 55:20 chapters 55:13 13:19 14:1,8 39:2,5,16,23 
+
+25:1 carrying 52:2 charged 50:20 14:12,24 15:3 42:12 45:4,13 
+bit 11:15 29:13 carve 23:4 Chief 3:3,9,21 15:9 16:4,7,22 45:16 49:18 
+bits 37:15 case 3:4,11 4:7 4:1,17 26:22 16:25 17:9,20 51:10,17 55:12 
+Board 3:18 5:4,11 6:4 27:2 28:10,19 18:13,25 19:20 55:14 57:2 
+Bobbitt 40:6 11:10 16:14,18 34:16 35:2 20:2,5,12 21:8 58:1,3,13,21 
+body 17:14 19:4 21:10 40:9,12 41:16 21:13 22:23 59:13 
+bolt 45:24 23:7,8 28:8 41:18,23 42:3 23:19 24:2,16 complete 56:25 
+boomerang 4:13 29:13,21 31:24 43:17 47:17,21 25:16 26:23 completely 
+brave 25:23 37:1 40:6,19 48:9,15,19 27:5 33:4 32:22 51:11 
+
+26:7 44:24 50:18 49:6,9,12 35:10 36:1 57:16 60:14 
+Breyer 36:24 54:1 56:16 52:24 54:10,16 37:19 57:5,6,8 completion 54:5 
+
+37:3,12,18,22 59:6 61:3,3,15 54:20 55:7 58:22 59:14,19 complicated 8:8 
+38:5,12,15,23 61:16 56:11,19 57:4 Clement's 32:15 11:15 13:13 
+39:6,12,15 cases 42:8 57:8 60:8 clerical 26:10 comprehensive 
+55:20 56:6 category 32:8 61:14 client 50:3 52:20 38:3 
+
+brief 10:1,2,10 causal 29:25 choose 41:11 56:16 concede 51:3 
+24:8 27:12 30:5 33:15 Christopher client's 49:10 conducted 5:13 
+35:18 49:9 44:6 50:14 26:3,4 clues 60:12 6:2,9 7:21 8:24 
+51:3 57:14,20 causation 5:12 Circuit 3:19 collect 41:6 9:8,12 24:7 
+
+bring 8:4,6 23:7 5:14,16,19,22 9:17 14:17,21 come 20:22 25:4 61:7,10 
+34:22 5:23,24 6:3 31:17 32:12 24:13 25:24 confidently 
+
+brings 8:9 19:15 10:13,14 16:21 33:12 29:21 49:2 25:19 
+broadest 56:21 30:10,11 34:2 Circuit's 33:1 comes 34:19 confine 22:20 
+broadly 33:2 34:4 51:17 circular 31:7 36:3 45:24 confining 56:22 
+broken 8:18 56:25 60:17 circumstances 57:24 confronted 19:2 
+
+38:7 cause 15:22 16:6 5:9 15:24 comfortable 19:11 
+but-for 5:15 16:8,8,11,15 46:12 48:7,13 44:15 confronts 21:15 
+
+16:3 32:25 16:17,24 17:2 50:1 61:12 coming 14:20 Congress 4:13 
+56:20,25 17:6,10,13,16 cite 11:9 15:13 56:15 6:24 7:9 10:22 
+
+but-only-if 17:18,23 18:3 cites 40:6 common 8:4 12:7 14:2 
+35:25 39:24 33:3,5 50:14 claim 4:7 5:4 19:5,6 19:22,25 20:19 
+
+51:6,7,8 60:22 21:10,11 comp 40:2,5,7 20:24 22:4,12
+C caused 4:14 7:20 clean 8:5 41:1 58:10 22:19 23:9 
+
+C 1:21 2:1,9 3:1 17:16 30:11 cleaning 51:1,4 59:4 61:13 25:12,22 26:14 
+41:25 50:16,17 clear 9:23 25:3 compact 55:15 27:7,14,17,22
+
+Calbeck 40:18 certain 12:13 32:7 42:6 companies 28:2,6,21 29:2 
+California 40:6 25:5 37:5 clearer 14:13 54:13 29:9 34:13 
+
+40:7 40:13 clearly 5:12 7:18 company 45:22 35:21,24 36:18 
+call 11:1,3,6,8 Certainly 16:4 9:11 35:21 54:17,21,22,23 37:23,25 38:20 
+
+51:6 certainty 36:11 Clement 1:16 55:1,2 39:19,21 48:17 
+captures 26:6 cetera 51:1 2:3,12 3:6,7,9 compensation 49:16 56:7,13 
+care 9:17 24:20 Chandris 11:9 3:25 4:16,22 3:16 18:23 56:24 58:3,12
+
+24:21,22 48:6,25 53:7 5:21 6:11,17 20:16 22:21 58:15,19 59:2 
+career 53:5 53:13 6:22 7:14 8:13 30:7,9 33:22 59:6 
+carries 51:20 changed 29:13 8:21 9:15,21 33:24,24 34:3 conjunction 
+
+Alderson Reporting Company 
+
+
+
+64 
+Official 
+
+11:18,19 count 3:23,25 47:10 48:14 57:20 difficult 8:16 
+connection counterintuitive 49:18 51:5,9 define 12:15 50:25 52:10 
+
+29:25 32:13,20 4:10 52:7,12,13,21 defined 27:18 54:8 
+33:9 44:6 51:7 counts 18:19 52:25 58:24 29:5 dimension 50:10 
+51:13 couple 15:10 60:21 defines 12:19,20 direct 3:20 4:6,8 
+
+conscious 22:12 55:23 covering 58:24 55:21,22 16:17 55:13 
+consequence 6:9 course 34:2 covers 5:1 24:11 defining 12:23 60:22 
+consequences 44:20 45:3 56:17 definition 12:18 directed 7:7 
+
+27:15 Court 1:1,13 crash 4:18 47:13 13:8 15:1 directly 4:5,24 
+consistent 18:8 3:10 5:4 17:1 crashes 4:23 16:20 20:25 5:9 11:16 
+constitutional 19:1,11,11 created 4:13 30:25 31:1,3,7 13:22 15:19 
+
+59:5 21:11,15,17,21 58:9 59:25 46:2 47:4 
+consuming 23:1 27:3,10 creates 36:4 definitions 52:22 59:4 
+
+55:18 40:18,22 41:20 52:7 60:5 12:14 director's 41:14 
+contemplated 42:3 48:5 creating 14:22 degree 32:3 41:20 
+
+36:19,19 56:7 51:14 55:13 credence 15:1 40:13,19 disability 27:25 
+56:13 56:10 57:14 credited 50:8 Department 35:19,19 
+
+context 26:12 courts 41:14 crew 54:7 1:19 45:17 disagree 8:21 
+30:7 33:22 53:8,9,23 CSX 51:14 depend 48:2 48:24 
+35:24 39:1,22 Court's 5:3 curious 5:10 depending discussed 40:18 
+48:6 51:14 35:15 39:17 Curtis 33:1 18:16 division 36:4 
+
+continental 3:12 41:19 42:8 designed 7:5 dock 38:6 42:19 
+D3:17 4:12 5:14 47:5,15 53:6 determination 42:20 
+
+D 1:16 2:3,12 7:11,12,15 9:3 58:8 4:7 docks 37:7 
+3:1,7 57:6 24:5,7 25:14 cover 12:4 24:9 determine 55:2 DOHSA 5:4 
+
+damage 55:628:1,4,5 29:3,4 34:1 54:14 determines 51:8 doing 6:15 15:5 
+dangerous35:23 40:4 coverage 3:20 determining 18:15,21 29:15 
+
+30:15 50:2443:8 44:23,25 4:9 8:12,13 18:3 29:17,17 32:19 
+DAVID 1:21 2:9 45:10 49:21 19:3,13 21:16 develop 49:20 32:22 34:17 
+
+41:2550:15 56:9,15 22:1,7 35:18 developed 55:12 59:24 
+Davis 40:2258:4,14,20,25 36:20 38:3 developing 9:3 dominantly
+deal 22:1259:10 39:5 40:20,24 development 45:10 
+dealing 10:23contingent 41:9 48:17 49:4 56:9 double 40:16 
+
+14:3 60:19contractor covered 4:4,19 differ 25:17 32:2 doubt 6:24 
+death 27:2551:20 52:5 4:20,24 9:5,15 difference 15:14 drafting 25:13 
+
+35:19,19 50:4 contractors 18:15,19,21,22 30:4 36:25 27:14 
+50:2152:12 19:8,9 21:12 38:18 42:18 draw 52:10 
+
+December 26:5contrast 27:6 25:15 32:9 51:2 57:17 60:12 
+decide 6:428:7,19 35:8 34:23 35:5 differences drawing 33:16 
+decides 54:16controls 45:19 37:16,19 38:10 36:16 drill 26:9 
+decision 33:12core 26:19 38:13,17 40:1 different 15:6 drilling 45:22 
+
+35:15 39:18correct 37:11,21 40:5,10,25 19:25 20:6 drive 34:21 
+41:19 58:938:10,12,14 41:4 42:19,21 22:3 23:25 drives 52:19 
+
+defect 11:1543:12 45:11 43:10,19 44:4 27:23 28:11 driving 43:18 
+defend 49:953:16,20 54:15 44:7,13,13,21 31:14,15 32:15 dry 3:13,14,15
+deference 41:14counsel 41:23 45:1,6,19,25 32:23 55:10 61:11 
+
+41:22 57:10,1157:4 61:14 46:2,9,15 47:3 57:16,22 58:24 drydocks 12:6 
+
+Alderson Reporting Company 
+
+
+
+65 
+Official 
+
+21:4,6 60:6 30:11 31:11 expansive 32:25 Federal 1:20 2:7 42:2,23 43:2,6 
+duration 53:15 34:2 44:6,20 expect 28:15 11:24,25 23:4 43:12,15,25 
+
+54:4 45:3 46:6 48:8 experience 23:1 23:8,10 27:1 44:5,11,14 
+duties 54:5 53:11 23:2 25:21 37:1 45:20 45:2,11 46:1,8 
+D.C 1:9,16,19 encapsulates explained 57:17 48:18 49:19 46:21,25 47:11 
+
+1:21 22:1 explains 39:19 50:1,5,8 47:19,22 48:5 
+encourage 49:19 exploring 61:9 FELA 51:14 48:14,16,23
+
+E endorsed 40:17 exposed 30:14 ferrying 5:6 49:8,16 50:11 
+E 2:1 3:1,1 endorsement 34:15,25 49:23 find 50:12,12 50:19 51:23,25
+earlier 21:25 45:18 exposure 34:17 57:19 52:4,10,16,21
+easier 36:12 engaged 7:4 express 39:23 firm 52:14 53:1,6,16,20
+easiest 45:12 12:12 31:8 expressing first 3:4 5:22 54:1,15,19 
+easy 56:16 56:2,4,9 21:11 9:10 15:11 55:10,25 56:19 
+effect 4:13 engine 11:23 expressly 36:19 19:1 24:16 friends 24:13 
+effectively 4:13 entitled 30:24 extend 20:20 57:9 front 35:21 
+
+5:5 12:15 41:21 49:19 58:15,16 fit 44:15 full 6:25 
+effort 22:12 57:1 entity's 55:19 extended 4:25 fixed 12:21 40:4 function 5:6 
+
+57:1 environment 13:2 23:23 42:6,11,21,22 24:15 25:3,3
+either 28:6 36:4 30:15 58:4 47:6 37:25 38:1 
+
+41:2,4,4,8 46:7 equipment 8:5 extending 4:12 fixing 8:19 functions 24:18 
+55:2 59:3 61:3 50:24,25 12:17 20:13 fixtures 21:7 funny 17:1 
+
+eliminate 43:24 ESQ 1:16,18,21 37:13 59:7 flies 47:4 further 4:14 
+emergency 2:3,6,9,12 60:3 floating 42:5,7 future 50:9 
+
+34:19 essentially 13:8 extends 5:7 20:7 42:17 43:4,7 
+Gemphasis 7:9 26:19 61:4 20:17 27:17 flow 27:15 
+
+employ 60:1 G 3:1established 59:1 extension 3:17 flows 34:4 
+employed 6:13 gathering 29:20et 1:4,7 51:1 21:19 fly 47:12 
+
+31:6 34:10 general 1:19event 27:16 extracting 9:8 focus 31:7 42:4 
+52:14 29:8,828:22 51:5 61:6 
+
+Femployee 9:18 generally 21:18everyone's focused 12:11 
+25:6 26:17 face 13:14 47:4 generous 37:212:10 34:14 
+27:25 30:21,24 55:16 49:19exact 58:11 focusing 56:8 
+30:25 33:25 facility 4:8 geographic 29:159:20 follow 4:16 
+46:14 51:25 fact 7:21 24:5 29:8exactly 11:5 19:23 
+52:4,6,12 34:13 36:22 geographical14:12 56:4 followed 27:22 
+55:21,22,24 40:14 49:1 12:20,24,25example 4:5 6:7 force 56:8 61:6 
+
+employees 6:19 50:25 18:3 21:16:11 14:16 forklift 3:13 
+7:4 8:4 12:12 factors 53:10 22:13 23:1632:18 35:14 29:20 
+30:24 31:5,8,9 54:2 61:638:5 form 55:10 
+34:10,14 56:2 factory 40:1 geographyexamples 14:20 formulation 
+
+employer 31:1,3 facts 29:12 16:11 17:8exception 18:11 17:3 35:25 
+31:5,5 33:25 52:17 54:7 18:1238:24 forth 37:8 55:23 
+34:8,9,9 45:14 factual 15:5 getting 50:9exceptions fortuitous 15:23 
+55:5,16 56:2 faithfully 6:3 Ginsburg 6:2055:23 found 44:17 
+60:1 far 3:20 4:8 37:9 6:22 7:8 10:1 exchange 27:4 fours 57:23 
+
+employment fault 33:23 18:13 19:133:4 Frederick 1:21 
+24:12,22 26:15 favor 6:4 21:8,23 22:19 exclusive 23:9 2:9 41:24,25 
+
+Alderson Reporting Company 
+
+
+
+66 
+Official 
+
+44:19 45:7,12 ground 19:5,6 Honor 6:12 8:13 61:4 55:1,8,17 
+53:12,17,23 guess 49:15 8:21 9:22 14:8 incorporating insured 55:6 
+54:2 58:18,22 guidance 17:14 22:24 27:24 24:24 35:22 intended 37:25 
+59:11,16 Gulf 43:7 29:22 31:18 independent interesting 
+
+Ginsburg's guy 32:21 52:18 35:7 41:12 51:19 52:5,12 24:17 
+25:10 hurt 20:4 38:9 individual 22:2 interpretation
+
+Hgive 6:7 8:23 husband 49:11 34:18 41:21 
+handled 48:516:20 23:10 50:5 individuals 55:3 invitation 16:1 
+happen 24:1124:7 38:5 hypothetical industry 49:20 involving 27:12 
+
+26:17 28:2241:14 50:14 8:23 9:5 15:12 49:20 island 27:19 
+43:1652:16 57:11 31:16 43:17 injured 3:13,14 islands 12:21 
+
+happened 42:561:6,6 47:1,7 52:5,17 7:16 8:11,20 13:12 14:4 
+42:10given 8:2 33:16 54:8 9:18 19:7 21:4 21:7 60:7 
+
+happens 38:1648:10 hypotheticals 21:5 25:6 isolation 12:23 
+42:14 45:23gives 15:1 17:14 8:3 47:22 34:23 35:3 issue 14:15 15:6 
+
+hard 22:5 53:2 go 6:20,24,24 37:7 42:9,14
+I Jhazard 35:310:20 21:8 42:20 43:16 
+
+hazards 30:14 Ice 59:6 Jensen 35:1625:2,17 34:20 44:3 45:24 
+34:15,25 idea 23:10 26:6 39:18 58:8,934:21 49:4 46:2,14 61:8 
+
+Heads 46:16 32:17 58:14,14 59:9 53:10 54:3,4,4 61:10,11
+hear 3:3 20:1 ignore 24:3 job 18:21 48:4 54:5 58:10,13 injuries 6:1 9:7 
+
+38:21 illustrates 15:14 Jones 10:20goes 25:9,14,21 23:15 24:10,20
+heard 59:2,5 imagine 25:12 11:10,11 18:11 37:14 44:6 29:10 32:9 
+heavy 50:24 37:13 53:2 22:6,15 42:7,9 60:20 34:1 51:9 
+
+51:20,21 immaterial 51:2 42:21 43:11,16going 4:3 13:25 55:17 60:22 
+held 3:19 51:14 implication 43:18,19,2019:12 23:10 injury 5:12 6:8 
+helicopter 4:18 28:16 47:9 59:1526:8,9,10,20 7:20 9:1 10:3,5 
+
+5:5 47:1,3,10 implore 10:17 60:10 61:128:13 29:20 13:11 14:19,23
+47:12 import 8:23 JOSEPH 1:1840:16 41:9 15:7 16:17 
+
+Helicopters important 12:14 2:6 26:2546:8 51:5 18:16 20:10,23
+57:15 20:14 35:9 jurisdictionalgood 22:24 21:12 24:4,6
+
+help 38:6 imposing 26:15 18:9 59:2149:15 58:14 25:4 28:1,13
+helps 20:4,5 39:1,22 44:16 Justice 1:19 3:3 goods 55:19 31:13,18 32:13 
+Herb's 19:4,11 imprecision 3:9,21 4:1,16 governed 18:10 35:20 43:21 
+
+21:9,13,22 47:23 60:9,10 4:22 5:10,21governing 18:24 44:19,23 46:12 
+47:5,15 include 9:23 6:7,15,20,22Government 48:3 50:16,18
+
+higher 45:20 12:20 29:6 7:8,19,23,245:18 9:14,16 60:23 
+55:8 58:20 7:25 8:15 9:13 31:4 35:18 inland 3:20 4:8 
+
+highlighted 33:5 including 20:18 9:16 10:1,6,946:13 49:8 4:14 38:9 
+35:11 21:4,6 11:1,6 13:16 57:14,24 58:6 inquiry 46:10 
+
+historical 35:15 incongruity 13:20,24 14:6 60:23 installations 
+39:13 40:17 46:22 14:10,15,16,25Government's 29:7 
+
+history 39:19 incorporate 15:4,10 16:2,5 27:12 45:9 instance 50:3 
+hits 14:18 15:17 24:19 16:20,23 17:9 48:25 57:11,12 instructive 27:9 
+hitting 15:13 incorporated 17:20 18:13,25great 26:1 28:8 31:2 
+holding 21:14 22:10 19:15,22 20:3 greater 36:13 insurance 45:13 
+
+47:5,15 incorporates 20:9 21:8,2346:25 54:14,17,20,23 
+
+Alderson Reporting Company 
+
+
+
+67 
+Official 
+
+22:19 23:12,19 Kennedy 7:23 44:20,23 48:2 line 48:20,25 31:13 33:10 
+24:2,16 25:9 7:25 8:15 9:13 48:3,12 52:6 49:7,10 45:9 46:10,11 
+25:10,16 26:22 9:16 10:6,9 56:18 61:12 lines 52:10 48:6 56:23
+ 
+27:2,5 28:9,10
+ 11:1,6 14:16 Lands 3:12 lists 27:20 57:12 61:2 
+28:19 29:12,23 19:15,22 20:3 land-based 8:11 litigation 53:8 looking 8:22
+ 
+30:16,20 31:10
+ 20:9 41:13 language 5:11 little 11:14 19:16,24
+ 
+31:16,18,23
+ 53:4,7 57:10 7:7 8:2,16 28:11,11 29:13 looks 9:24
+ 
+32:4,16 33:4,6
+ Kennedy's 12:10,13 20:22 live 16:7 loosely 51:13
+ 
+33:14,20 34:6
+ 35:10 50:24 27:5,7,8 28:15 living 22:25 23:2 lose 46:17
+ 
+34:11,16 35:2
+ key 12:18 29:25 33:1,11 LLP 1:4 lower 53:8
+ 
+35:9,10 36:1,9
+ kind 5:5 16:1 33:18,20,21 location 17:4 LUISA 1:7
+ 
+36:15,24 37:3
+ 17:25 18:24 36:2 44:15 28:14 40:7 lump-sum 50:4 
+37:12,18,22 26:6,14 28:3 50:13 long 9:1 16:8 
+
+M38:5,12,15,23 30:8,10 32:25 Larson's 55:13 22:4 39:18
+ 
+39:6,12,15,25
+ machine 8:9,1134:2 36:11 latent 24:10,20 44:3 
+
+8:1840:9,12,25 39:8 44:21 Laughter 32:6 longshore 3:17
+ 
+41:5,7,10,13
+ machinery 8:8 
+
+majority 46:18
+48:16,20 51:6 law 3:16 11:24 3:20 4:5,7,9,12 
+
+41:17,18,23 51:12 53:9,17 11:25 16:18 4:14,24,25 5:8
+ 
+42:3,16,23,25
+ 46:20 
+
+man 15:5
+56:4,7,21 17:14 18:24 5:8 11:19 12:2 
+
+43:3,4,10,13 59:20 60:17 26:1,4 41:11 12:3,7,16 13:1
+ 
+43:17,23 44:2
+ marine 26:15 
+
+maritime 55:22 
+kinds 53:3 42:6 54:2 13:22 15:19 
+
+44:9,12,19 Knickerbocker 58:10,13,14 19:20 20:13,17
+ 
+45:7,12,21
+ matter 1:12 15:5 59:6 59:4,7 61:13 21:10,20 22:10 
+
+18:12 22:2,846:5,16,23 know 6:23,25 laws 18:23 58:16 22:11,14 23:3
+ 
+47:8,17,21
+ 32:2 54:13,1915:12 16:25 leap 11:16 23:22 24:19,23 
+
+61:1748:9,15,19 17:1,15,18,22 left 61:2,3 24:24 26:16
+ 
+49:6,9,12
+ matters 34:3 
+
+McBride 51:15 
+19:12 20:14 legal 27:15 51:8 35:9,13 36:5 
+
+50:11,23 51:11 23:7,20 24:21 legislating 25:22 36:21 37:8,16
+ 
+51:18,24 52:1
+ mean 6:23 10:11 26:7,8,9 30:20 26:7 38:11,23 39:9 
+
+16:9 18:952:9,13,17,18 31:25 34:21 let's 4:18 8:17 40:23 41:1 
+20:15 22:3 
+23:16,20 25:18 
+
+52:24 53:4,7 35:3,4 39:9,11 15:12 34:18 42:20 47:3,6,8 
+53:12,17,23 42:17 45:24 level 59:13 61:9 47:13,16 52:11
+ 
+54:2,10,16,20
+ 37:4 42:1748:11,20 49:12 liability 17:11 55:1 57:25 
+
+46:6 47:1755:7,20 56:1,6 49:14 53:21 17:12,24,24,25 58:5,7 59:8,12
+ 
+56:11,19 57:4
+ 54:17 56:12 
+
+Meaning 33:17
+58:7,12,19 55:11,16 59:18,21 60:2 
+
+57:8,10 58:18 liable 55:5,9 60:3 61:4 
+L means 31:5 
+
+L 1:7 
+58:22 59:11,16 lie 60:18 longshoreman 
+
+32:17 34:9,959:23 60:8 lies 16:18 61:12 20:7 38:6 
+labor 27:13,17 47:23 
+
+27:18,21 28:12 
+61:14 life 36:23 40:14 55:21 60:1 
+
+meant 7:9 19:25 Justice's 4:17 50:10 longshoremen
+28:13 45:17 56:24light 49:1 26:15 
+
+K land 3:14,14,15 member 54:8limit 3:23 7:3 longshores
+Kagan 4:16,22 3:22,23,25 4:2 mess 23:623:4 51:9 59:25 
+
+7:24 24:2,16 8:5,10 15:5 metal 29:1956:24 look 8:25 10:13
+ 
+25:9,16 27:5
+ 18:17 29:17 50:19,21limited 12:5 12:22 13:4,15
+28:9 31:10,23 32:18 34:19 Mexico 43:7limits 12:12 13:6 16:10 26:5,16
+50:11 42:9,14 43:17 miles 4:3,19,2015:7 60:12 30:8 31:2,11 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+68 
+
+35:4 37:15 navigable 4:4 28:3 35:20 9:11,20 16:16 P 
+38:9 5:1,2 12:5 13:7 occurs 4:18 6:8 16:19 17:17 P 3:1 
+
+mineral 7:6 9:9 13:11,23 14:9 13:11 20:10 23:18 24:6 Pacific 1:3 3:4 
+minimum 6:1 15:17,20 20:23 48:3 25:4,8 26:19 5:3 43:9 
+
+7:19 21:4,5 35:20 OCSLA 4:25 28:3,5,23 29:1 page 2:2 13:4 
+minutes 57:5 37:7 58:10,16 5:7 13:20 29:2,9,11 30:1 27:11 31:4 
+mishap 3:13 59:9 60:6 15:18,23 18:20 30:18 31:6,8 35:17 
+mishmash 54:11 nearly 39:3 18:21 19:2,9 32:14,21 34:10 Palmore 1:18 
+mission 54:6 need 14:1 34:20 19:13,14 21:11 42:15 44:7 2:6 26:24,25 
+mistake 20:8 negative 28:16 21:17,18 22:21 45:5 46:3,15 27:2 28:9,18 
+
+30:7 33:10 negligence 35:22 38:2 50:15,17 52:3 29:22 30:6,19 
+model 10:22,23 17:12,13,17 39:2,3 40:21 52:23 56:3,5 30:23 31:10,17 
+
+10:24 19:23 51:15 42:13 44:8,21 61:8,10,11 32:1,7,24 33:8 
+20:6,6 22:3,4 neighboring 45:1,6,19 Operators 1:3 33:19 34:11,24 
+22:10,17 27:22 27:8 54:25 58:12 3:4 5:3 35:7 36:8,11 
+
+modification neither 5:17 59:17 61:1,13 opinion 5:3 36:18 37:1,11 
+20:21 never 25:1,2 OCSLA's 3:16 21:12,14 33:1 37:17,21,24
+
+modifications 40:16 57:17 21:19 opponent 38:17 38:11,14,22
+12:3 new 16:23 25:23 OCSLA-type opposed 18:23 39:11,13,17
+
+modifies 9:11 26:7 34:20,21 39:8 50:5 40:3,11,13
+60:4 nexus 14:22 October 1:10 oral 1:12 2:2,5,8 41:3,8,12,16
+
+modifying 59:25 15:6,25 28:3 odd 21:15 26:13 3:7 26:25 41:19 
+month 53:5 33:6,9 61:5 offsets 41:9 41:25 part 5:3 14:11 
+months 48:1,1,2 nice 49:14 offsetting 36:21 order 25:13 52:6 14:25 18:9 
+
+48:10,12 Ninth 3:19 9:17 40:15,17 outer 3:12,17 20:13 34:20,21 
+monumental 14:17,21 31:17 offshore 1:3 3:5 4:12 5:14 7:10 48:3,4
+
+55:14 32:12 33:12 3:23 9:20 7:12,15 9:3 particular 14:3 
+morning 3:4 notwithstandi... 20:16 34:23 24:5,7 25:14 16:13 17:13,17 
+mound 14:17,19 43:20 35:1,5,6 51:5 28:1,4,5 29:3,4 27:16,20 28:14 
+move 19:3,12 number 43:6 off-shelf 32:9 35:23 40:4 28:21 29:18 
+moved 39:4 numbers 55:2 Oh 40:12 58:22 43:8 44:22,25 47:22 55:3,19 
+
+50:25 nut 15:12,17 oil 8:4 29:14 45:10 49:21 particularity
+moving 21:16,21 
+
+50:20 
+
+N 
+N 2:1,1 3:1 
+narrowly 33:4 
+nascent 49:20 
+National 27:13 
+
+27:17,21 
+natural 45:4 
+
+56:21,24 
+naturally 56:23 
+nature 46:10,11 
+
+53:11,14,21 
+54:3 
+
+O 
+O 2:1 3:1 
+objection 19:2 
+
+21:20 
+obverse 34:9 
+obviously 33:17 
+
+54:7,11 
+occasion 17:2 
+occasions 25:24 
+occurred 3:19 
+
+4:20 14:19 
+18:16 20:23 
+
+occurring 5:2,13 
+24:4,6 27:19 
+
+32:19,21 51:4 
+51:4 
+
+Okay 37:12,22 
+one-time 50:3 
+opening 55:13 
+operates 52:15 
+operating 43:8 
+
+60:22 
+operation 8:17 
+
+14:23 15:7 
+17:19 29:18 
+
+operations 3:15 
+5:13 6:2,9 7:1 
+7:4,20,21 8:10 
+8:19 9:2,7,11 
+
+50:15 56:9,14 
+58:4,13,20,25 
+59:10 
+
+outlier 57:25 
+overall 45:15 
+overlap 36:22 
+
+36:22 40:13,14 
+overlapping 
+
+36:20 40:20,24 
+overwhelming 
+
+58:23 
+overwhelmingly 
+
+58:19 
+owe 41:13 
+
+27:20 
+particularly 
+
+21:19 34:14 
+pass 25:25 
+passed 6:24 
+
+55:18 
+passing 58:12 
+PAUL 1:16 2:3 
+
+2:12 3:7 57:6 
+pay 45:16 55:8 
+payment 40:15 
+
+50:4 
+payments 36:22 
+
+40:18 
+payroll 45:14,16 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+69 
+
+peculiar 22:17 phrase 8:24 29:3 32:12,15 33:15 21:18,19 Q
+people 21:21 39:24 41:15 50:23 production 6:13 qualify 52:7 
+
+23:3,6 26:3,19 picked 58:4 57:12,13,13,16 7:5 question 3:11 
+37:6 54:18 Pickett 57:14 57:20,23 60:18 proposal 22:20 4:17 21:25 
+
+percent 7:12 pieces 15:10 positions 31:21 22:20 25:10 28:22 
+29:14,16,16,19 piers 37:7 31:21,23,24 proposing 43:24 31:2 36:24 
+30:3,3,13 pitcher 14:17 32:1 47:18,21 proposition 4:11 38:18,21 42:12 
+34:18,19 42:11 pitching 14:20 possibility 15:2 provide 13:17 42:23 43:3 
+44:22 45:22 place 7:1 9:24 post-1953 25:21 25:24 26:16,18 50:16 
+48:25 49:6,14 10:5 27:16,16 practical 54:13 29:10 36:21 questioned 59:3 
+52:25 53:4 29:2,9 51:21 54:19 48:17 49:21,22 questions 35:10 
+56:14,17,18 52:19 practice 27:18 provided 28:21 quite 5:12 8:4 
+
+percentage plainly 23:21 28:12,13 40:17 42:13 8:15 19:17 
+54:18 plant 38:8,10 precisely 15:24 provides 3:12 28:8 35:11,24 
+
+percenter 60:20 platform 18:15 23:22 30:1 17:11 26:2 41:5 
+60:20 19:7,8 22:7 precludes 25:5 34:13 35:18 quote 56:3 
+
+performance 23:15 37:9,14 predictability 36:13 38:3 quoted 35:17 
+54:5 37:15 38:16 36:13 providing 15:7 
+
+performed 40:4 42:6,7,11 predominant provision 21:2 R 
+24:18 42:17 44:3 9:24 27:12 34:13 R 1:18 2:6 3:1 
+
+performing 5:5 45:23,24 46:14 predominantly 35:17 36:20 26:25 
+perils 49:23 46:19,20 47:6 44:24 provisions 23:24 Rambo 41:20 
+period 50:7 47:14 49:23 premiums 45:16 24:19 27:8,9 range 54:2,7 
+periodic 54:22 52:15 55:17 58:3 rates 55:8 
+permissive platforms 4:1 prepare 8:6 proximate 5:15 read 11:17 18:6 
+
+42:12 6:21 14:4 43:4 presumably 15:22 16:6,8,8 18:8 20:8 24:4 
+person 7:10 9:18 43:7 49:17 22:5 16:11,15,17,24 24:23 59:24 
+
+15:22 18:18 plausible 57:18 prevails 36:15 17:2,3,6,10,12 reading 11:13 
+37:4,14,16 play 16:1 23:6 primarily 18:11 17:16,18,23 21:3 
+45:9 46:8,15 25:2,3 primary 11:23 18:2 33:3,5 real 23:2 54:10 
+47:2 48:17,20 please 3:10 27:3 15:15,16 31:24 51:6,7,7 54:11 55:9 
+52:7,22 56:4,7 41:18 42:3 principle 6:3 proximately reality 12:8 
+56:13,18 60:20 plus 11:13 57:21 private 1:22 17:16 really 5:17 14:2 
+61:8 point 7:3 10:13 2:10 40:5 42:1 public 55:18 15:23 17:8,9 
+
+personal 55:16 12:6 20:1 probably 7:16 pure 11:8 25:11 31:1 
+personally 21:24 22:25 problem 14:3 purpose 9:2,8 32:2 34:23 
+
+50:22 23:3,8 25:22 22:2,13,14 61:9 38:25 40:17 
+persuasive 27:10 34:12 53:18 58:2,9 purposes 6:14 45:8,8 60:17 
+
+57:19 37:23 43:15 59:9,10,21 12:16,24,25 reason 22:24 
+pertinent 34:17 49:16 50:24 60:25 17:5,23 21:1 23:12 58:7 
+petition 13:5 60:16,23 problems 47:25 25:5 60:3 reasonable 
+
+19:16 pointed 27:24 59:5 61:11 38:17 
+Petitioners 1:5 points 57:9 proceed 41:2,4 pushback 56:20 reasons 23:9 
+
+1:17 2:4,13 3:8 policies 17:7 41:11 put 3:22 29:7 35:15 39:14 
+57:7 policy 22:1 51:8 process 54:24 56:20 rebuttal 2:11 
+
+Petroleum position 18:14 produced 29:19 puzzle 12:22 57:6,9 
+57:15 31:20 32:4,11 product 21:17 18:9 recognize 61:2 
+
+Alderson Reporting Company 
+
+
+
+70 
+Official 
+
+recognized 26:16 42:9 restrict 57:1 20:19 23:14 section 27:10,23 
+20:19 40:22 43:16,20 57:25 restriction 37:22 43:25 28:7 40:14 
+
+recognizing 59:8 60:3 56:22 44:2 45:8,9 44:17 
+6:23 61:12 result 5:13 8:16 says 9:6 19:13 see 11:20 13:24 
+
+recover 15:18 remember 8:17 9:7 14:19 20:11,22 21:17 20:3,8 29:24 
+15:18,23 22:25 48:18 19:24 23:13,17 21:18 24:6 45:9 52:9,9 
+
+recovery 12:12 remind 48:18 24:6 25:4 28:4 30:17,17 31:4 seemingly 31:15 
+13:7,10 21:3,5 removal 51:1 29:10,24 30:17 36:2,4 37:13 self-contained 
+40:16 Reno 34:21 35:4 35:20 42:14 40:6 55:15 20:15 
+
+referenced 56:1 43:18 46:3,15 57:25 58:6 sense 8:2 12:20 
+referred 19:17 repaired 37:15 resulting 6:1 Scalia 6:7,15 22:1 29:2 
+
+21:9 38:8 27:25 17:9,20 23:12 36:10,14 49:24 
+regard 23:14 repairing 8:11 results 9:2 28:12 23:19 30:16,20 51:12,16 56:21 
+regime 20:16 reply 10:2,10 review 3:18 26:1 32:4 36:1,9,15 59:11 60:5 
+
+33:23 51:3 26:4 40:25 41:5,7 sensible 36:4 
+regimes 45:4 represent 54:20 riding 47:2 41:10 42:16,24 serve 24:15 
+regularly 7:10 require 28:2 rig 8:7,10 29:14 42:25 43:3,4 service 43:21 
+regulations 61:5 30:3,4 32:19 43:10,13,23 set 15:24 37:5,5 
+
+45:17 requirement 32:21 34:19 44:2,9,12 37:6 52:8 
+reject 23:9 5:25 10:15 49:4 45:21 46:5,16 settled 59:8 
+rejected 10:23 11:21,21 12:5 right 5:7 16:5 46:23 47:8 shelf 3:12,18 
+
+19:4 22:4,24 12:11 13:5,6 17:5 18:14 51:11,18,24 4:13 5:14 6:2,8 
+related 31:1 13:10 22:11,15 21:13 24:4 52:1,9,13,17 6:12 7:2,6,11 
+
+44:6 45:5 22:16 23:17,22 33:7 37:19,20 52:18 7:12,15,22 
+51:13 24:25 28:23,24 38:13 46:17 Scalia's 33:4 8:24 9:3,8,9,10 
+
+relation 53:24 35:13 38:24 51:11,22 52:15 scenario 10:15 9:12 11:24,25 
+Relations 27:13 39:1,8,22 40:8 55:24 scheme 30:7,10 12:3,4,8,17,21 
+
+27:17,21 44:17 58:5,8 rigs 8:4 33:24 34:3 13:12 14:3,7 
+relationship reserve 26:21 risk 55:6 39:2,23 51:10 14:11 15:8,13 
+
+7:19 30:5,11 resolved 23:1 risks 54:14 58:21 16:16 18:10,17 
+31:11,13 33:25 resorts 60:24 road 34:22 35:4 schemes 33:24 20:7,14,18,21 
+34:4,5 44:7 resources 49:21 ROBERTS 3:3 38:1 21:2,6 23:23 
+46:11 53:14 respect 13:19 3:21 26:22 scope 7:1 18:3 24:5,7 25:5,6,7 
+54:3 19:18 27:25 28:10 34:16 24:11,21 45:3 25:11,15,19,22 
+
+relaxed 51:16 respectfully 35:2 40:9,12 51:9 57:2 25:25 26:18,20 
+relevant 6:13 8:22 41:18,23 47:17 scrap 29:19 28:1,4,5 29:4,4 
+
+30:10 Respondent 47:21 48:9,15 50:19,21 51:1 30:1,13 31:12 
+relief 20:22 1:20,22 2:7,10 48:19 49:6,12 sea 37:15 54:3 31:14 32:11,14 
+remainder 50:6 27:1 29:13 52:24 54:10,16 seabed 29:6 34:15 35:24 
+remaining 57:5 40:5 42:1 55:7 56:11 seaman 42:8 40:4 42:14 
+remarked 17:2 Respondents 57:4 61:14 43:18 48:6 43:8 44:23,25 
+remedies 58:1 8:25 rule 38:25 seaman's 53:13 45:5,10,15 
+remedy 3:13,15 response 21:24 seamen 18:11 46:3 47:3,24
+
+S10:19 12:8 responses 18:25 60:11 48:1,4,21
+S 2:1 3:1 13:2,9,21 rest 11:18,22 seasonal 48:11 49:21 50:10,15
+saying 9:1,1716:18 22:5 12:13 20:20 second 21:24 50:17,22,23
+
+13:25 14:10,2123:4,4,5,10,11 52:17 34:12 57:24 51:1 52:3,22 
+
+Alderson Reporting Company 
+
+
+
+71 
+Official 
+
+52:25 56:9,15 smuggle 5:19 spent 9:19 29:15 17:10 18:4,6,8 32:13,20 33:6 
+58:4,14,20,25 smuggling 5:23 29:16 52:24 19:18,18,19 33:8,9,9 48:24 
+59:10,20,22 6:5 56:14 23:21 24:3,4,5 50:2,9 51:7,12 
+60:3,5,6,21,22 snapshot 30:8 spill 51:4,4 24:11,14,18 53:14,18,24 
+60:23 61:7,9 33:11 springs 8:8 25:12 27:23 substantially 
+61:10 social 55:15 square 8:16 31:12 35:12,23 44:5 52:22 
+
+shift 8:7 42:4 sole 35:14 standard 51:6 41:21 44:15 suffered 32:10 
+shifts 49:3 solely 15:8 51:15,16 53:7 46:24 50:13,13 sufficient 8:23 
+shore 4:3,19,21 Solicitor 1:18 53:11,13 55:25 56:23 suggest 33:12 
+show 19:25 solved 59:9,10 standards 53:10 59:22 60:13 suggested 7:19 
+shows 27:13 59:21 54:7 statutes 12:1 suggesting 
+side 4:11 solves 22:13 Stanford 26:4 18:9 23:15,16 28:16 31:19 
+sides 5:25 31:20 solving 59:20 stare 13:14 23:20 29:5 suggests 60:13 
+side's 60:18 somebody 6:12 start 11:22 27:4 39:7 superimpose 
+similar 57:21 15:13,16,17 38:3 statutory 5:11 10:2,4 13:9 
+similarly 4:19 21:16 46:13 state 3:15,22 29:24 21:2 
+simple 10:4 47:25 60:19 10:4 18:22,22 steel 51:21 52:2 superimposing 
+simply 23:14 someone's 30:12 18:23 19:7,8 52:19 44:16 
+sitting 22:14 somewhat 31:6 22:21 23:5,7 step 39:21 support 33:2 
+situation 17:15 sorry 13:16 40:9 23:11 37:2 stingy 39:9,13 34:13 
+
+36:6 38:22 53:21 40:1,5 41:1,11 straightforward suppose 8:9 
+49:14 55:5 sort 17:2 25:22 47:19 49:18 3:11 29:12 50:11 
+
+situations 22:21 Sotomayor 50:7 58:9,13 strange 23:17 supposed 24:9,9 
+30:2 36:8 13:16,20,24 58:24 59:7 strict 17:24 24:10 29:17 
+
+situs 5:24 8:1 14:6,10,15,25 61:13 38:23 Supreme 1:1,13 
+10:3,14 11:13 15:4,10 16:2,5 States 1:1,13 strike 32:14 sure 7:14 10:11 
+11:20 12:5 16:20,23 33:6 12:19,24,25 strikes 45:25 19:17 24:10 
+13:5,6,10,17 33:14,20 34:6 13:3 20:25 structures 10:24 25:13 44:14 
+14:18 22:11,15 34:11 39:25 39:3 58:15,19 stuck 54:12 59:19 61:10 
+23:21 24:24 56:1 59:23 58:23 59:3 subdivision 34:8 sweeps 33:2,3 
+28:23,23,25 sounds 17:3 status 7:18 8:1 subject 35:3 system 36:3 
+46:19 57:21,22 speak 5:11 9:24 10:2,4,14 53:8 
+
+T58:2,5,7 60:4,5 speaks 7:18,18 10:16,21 11:1 subjected 49:25 
+T 2:1,1situses 27:20 species 5:16 11:3,4,7,8,13 submission 45:6 
+
+situs-based table 4:11 
+tailor 12:7
+
+specific 22:20 11:21 12:11 46:1,9 47:11 
+19:19 60:24 specifically 9:6 33:16,17 45:18 47:12 56:6 
+
+tailored 16:9situs-of-injury 10:21,22 59:2 50:12 57:21 submit 31:21 
+17:635:13 38:24 specificity 28:20 status-based 33:19 46:21
+ 
+
+39:1,22 44:16
+ tails 46:16 
+take 7:1 9:17 
+
+specify 27:15 10:19 60:14,25 49:24 
+situs-of-the-in... spend 9:25 11:2 status-only submitted 61:15 
+
+13:8 15:946:17 29:19 32:10 22:16,18 61:17 
+16:11 17:8six 24:3,9,14 47:23 54:18 statute 6:25 7:17 subsection 
+18:20 24:20,21 
+29:2,9 34:18 
+
+25:2,13 26:13 spending 29:14 8:2 9:1,6,15,23 19:23 
+Skidmore 41:21 30:12,13 10:18,18 11:13 subsoil 29:6 
+skids 34:22 38:8 
+
+taken 24:22 34:7 
+spends 30:2 11:23 13:1 substantial 9:19 
+
+slightly 23:25 32:18 44:22 14:2,13 16:9 11:2 14:22 
+50:22,2357:22 48:21 56:18 16:10 17:5,6,7 15:6,25 32:10 
+
+Alderson Reporting Company 
+
+
+
+72 
+Official 
+
+takes 52:19 thereto 12:22 time 6:25 7:13 two-part 46:10 57:14 
+talk 5:22 17:16 13:12 20:24 7:15 9:19,25 type 28:15 vague 53:18 
+talked 60:8 21:7 60:7 11:3 18:15,18 Valladolid 1:7 
+
+Utalking 23:20 thing 5:10 7:17 23:2 26:21 3:5 30:12 42:5 
+28:11,25 29:1 ultimately 23:19:22 10:16 29:14,16,17,18 50:20 56:3 
+
+unavailable29:7 30:9 17:13 35:11 29:20 30:3,3,8 variety 18:22 
+22:22 23:5,1153:12 55:4 37:12 38:15 30:13 32:11,19 24:8 
+
+underlying 35:9talks 20:9,12 60:4 33:11 34:18 various 53:10 
+telling 35:24 underscoresthings 17:21 35:22 38:1 verification 
+
+14:2tells 38:7 58:15 24:11,14 28:6 39:2,3 40:21 54:24 
+term 12:19,23 understand29:15 31:14,15 42:11 44:22 version 16:23 
+
+17:10 21:2512:25 13:3 think 4:3,22 5:6 45:22 47:24 vessel 5:6 22:7 
+25:17 32:2329:5 31:4 34:8 5:23 6:2,6,11 48:21,22 50:20 42:18,18,22
+37:4 40:1051:14 6:23 7:6,17 52:25 53:5 43:21 53:14,25
+54:1,21terminology 8:14,15,22 9:4 54:9,18 56:12 54:4,6
+
+understanding23:13 9:10 10:17 56:14,18 vessels 43:14 
+terms 4:25 53:911:15,20,23 today 4:11 38:2 view 3:24 8:12 
+
+understood10:21 12:4,15 13:20,21 14:13 told 7:11 18:17,20 32:12 
+28:13,20 39:24 33:2114:15,21 15:11 top 29:7 45:1 
+
+underwrite49:10 56:15,23 16:10,13,13 tort 39:4 55:17 viewed 23:8 
+territorial 47:20 54:1717:4,7,21,22 tortured 39:19 31:17,18
+
+unfair 27:18test 9:24 10:3,4 18:4,7 19:5 tort-based 33:23 virtually 37:6 
+uniform 18:2410:16 11:2,4,9 21:20 22:23 totality 48:7,10 vulnerable 
+uniformity11:12 14:22 24:1,23 25:17 48:13 47:22
+ 
+
+15:7,22,25
+ 49:22 
+uniformly 39:4 
+
+26:12 27:6,13 traditionally 
+W16:3,6,8,9,11 28:7,18,19 55:12 
+
+uniquely 30:14 want 8:25,25 
+34:15,25 
+
+22:18 26:15 29:22 30:6,8 travels 10:19 
+13:4 16:3,632:25 33:16,17 30:19,21,25 treated 4:2 
+
+United 1:1,13 17:7 26:16,18 
+12:19,23,25 
+
+36:12 45:8,12 31:20 32:1,8,8 10:24 
+47:2 51:846:6,17,19 33:2,3,8,9,13 treatise 55:14 
+
+13:3 20:25 53:22 56:17 
+unmodified 13:6 
+
+48:23 49:13 33:19,21 34:12 trouble 30:16 
+wanted 21:2450:12,14 53:7 34:12,24 35:8 32:16
+ 
+
+56:16,17,20
+ unmoored 60:15 27:14 28:2 
+unpack 54:8
+
+36:12,24 37:13 truck 52:19 
+29:9 48:1760:9,14,17,24 38:19 41:10 trucker 51:20
+ 
+
+61:1,5
+ unprecedented 59:12,1642:16 44:4 true 23:24 
+38:25 wants 5:16,18testimony 59:3 51:23 53:2 try 10:12 11:14 
+
+text 60:10 unusual 22:13 5:1955:9 57:10 57:1 
+35:11 38:25 Warren 26:3,3textual 34:12 58:19 59:23 trying 7:2,3,3 
+39:21 Washington 1:9 
+
+updating 60:2 
+60:11 Third 33:1 25:23 49:17 
+
+1:16,19,21Thank 26:22 Thirty 49:6 Tuesday 1:10 
+use 12:25 23:13 wasn't 19:1727:2 34:11 thought 10:1,6 turns 24:1 
+
+26:13 28:15 61:1041:23 42:2 18:5 22:4 34:7 twilight 40:23
+ 
+57:3,4,8 61:14
+ 35:25 59:12 watching 6:19 
+
+uses 13:3 
+37:24 47:9,9 two 10:11 12:9 
+
+23:6theory 5:12 48:20 57:18 17:21 18:25 
+water 4:18 14:7 15:21 18:2 Three 12:18 30:2 31:14,15 V 47:1324:15 38:16 throws 14:17 36:17,25 
+
+v 1:6 3:5 51:14 waters 4:4 5:1,2 39:4 tight 15:21 61:5 two-factor 46:4 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+73 
+
+12:6 13:7,11 46:18 48:24 26:7 28:20 9 
+13:18,22,23,23 54:12 55:2 worse 60:9 19 35:18 903 13:1 20:4 
+14:9 15:17,20 56:8 worth 6:23 26:5 1950 48:18 903(a) 11:19 
+19:8 20:23 workday 38:4,4 wouldn't 3:25 1953 25:18 26:5 13:3,4,6,9
+21:4,6 35:21 worked 37:14 7:16 15:18,24 39:3 40:22 19:16 20:18,20 
+37:7 47:20 42:5 51:21 18:5 37:3 49:18 903(e) 36:21 
+58:10,16 59:9 52:20 53:9,24 writing 25:12 1972 26:14 40:14,16
+60:6 
+
+way 8:22 10:15 
+14:8 18:3,6,7 
+21:1 23:17 
+24:17,23 26:14 
+29:21 31:18 
+37:25 43:3 
+45:4,13 48:5 
+54:21 55:11 
+
+worker 3:13,14 
+7:11 8:9 10:19 
+18:14,19 19:6 
+34:4,25 40:1,3 
+44:7,21,24 
+47:1 48:18 
+50:10 51:4,21 
+55:22 58:23 
+59:17,18 60:2 
+
+written 10:21 
+26:2,5 
+
+X 
+x 1:2,8 
+
+Y 
+year 53:5 
+years 25:20 
+
+2 
+2 12:14 30:3 
+
+34:8,19 49:2,2 
+56:1 59:24,24 
+60:20 
+
+2.5 4:18 
+20 29:15 45:21 
+2002 57:15 
+
+96 13:4 19:16 
+98 7:12 29:14 
+
+30:2,13 34:18 
+42:11 44:22 
+56:16 60:19 
+
+56:20,22 60:13 
+ways 12:9 
+wealth 7:6 9:9 
+week 50:6 
+weeks 49:2,2 
+weird 17:3 
+welding 19:4,11 
+
+21:9,13,22 
+47:5,15 
+
+went 22:8 27:14 
+40:1 
+
+Western 43:9 
+We'll 3:3 
+we're 7:11 19:23 
+
+23:10 29:7 
+
+workers 3:16 
+11:19 18:23,24 
+19:3,12 20:13 
+20:16,16,17 
+22:21 26:9,10 
+30:7,9 32:10 
+33:22,23,24 
+34:3 35:12 
+38:1 39:2,4,23 
+40:5,7 42:12 
+45:4,13,15,16 
+45:18 49:2,18 
+49:22,25 51:10 
+51:17 53:2,2 
+54:3,25,25 
+
+Z 
+zone 29:1,8,8 
+
+40:23 
+
+$ 
+$42,000 50:4 
+$466 50:6 
+
+1 
+1 12:14 
+10-507 1:4 3:4 
+10:02 1:14 3:2 
+100 38:9 
+11 1:10 
+11:04 61:16 
+
+2011 1:10 
+26 2:7 
+
+3 
+3 2:4 4:3 12:15 
+
+12:18 13:8 
+20:24 48:1,1,2 
+48:10,12 60:4 
+61:5 
+
+3a 27:11 31:4 
+3-mile 3:22 
+3.5 4:20 
+30 48:25 49:14 
+
+52:24 53:4 
+56:14 
+
+54:12,12 55:4 
+whale 6:19 
+whatsoever 30:4 
+widow 50:7 
+
+55:11,14 58:1 
+58:3,10,13,20 
+59:4 61:13 
+
+worker's 48:7 
+
+12-hour 49:3 
+1331(a) 29:5 
+1332 14:14 
+1332(b) 21:12 
+
+4 
+4 57:5 
+41 2:10 
+
+win 46:16 working 11:3 1333 11:18,22 5 
+winch 38:7 
+wording 23:25 
+
+38:6 42:10 
+45:10 48:10 
+
+20:8 27:9 
+1333(a) 11:25 
+
+57 2:13 
+
+words 20:4 24:3 49:3 52:22 1333(b) 5:24 6 
+24:9,14 25:2,2 workmens 41:1 11:17,17,24 60 25:20,20
+25:13 26:13 
+61:6 
+
+workmen's 
+39:15 40:2 
+
+12:14,22,24 
+13:15 20:5,15 7 
+
+work 11:10 12:1 workplace 34:5 24:20 27:6,7 70 56:18 
+12:16 18:15 
+22:2 30:14 
+32:19,22 34:15 
+
+works 7:10 
+44:25 45:14 
+54:21 
+
+27:23 28:7,17 
+28:20,22 44:18 
+
+1333(b)(2) 31:3 
+8 
+
+80 29:16,19 
+44:5 45:2,5,21 world 25:23 1333(c) 27:11 
+
+Alderson Reporting Company 
+
+

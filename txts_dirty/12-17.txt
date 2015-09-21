@@ -1,0 +1,4548 @@
+
+        
+
+         
+
+                       
+
+      
+
+      
+
+      
+
+     
+
+5
+
+10
+
+  
+
+15
+
+20
+
+  
+
+  
+
+25
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2  - - - - - - - - - - - - - - - - - x 
+
+3  MARK J. MCBURNEY, ET AL. : 
+
+4  Petitioners :
+
+ v. : 
+
+6  NATHANIEL L. YOUNG, DEPUTY : No. 12-17 
+
+7  COMMISSIONER AND DIRECTOR, : 
+
+8  VIRGINIA DIVISION OF CHILD : 
+
+9  SUPPORT ENFORCEMENT, ET AL. :
+
+ - - - - - - - - - - - - - - - - - x 
+
+11  Washington, D.C. 
+
+12  Wednesday, February 20, 2013 
+
+13 
+
+14  The above-entitled matter came on for oral
+
+ argument before the Supreme Court of the United States 
+
+16  at 10:19 a.m. 
+
+17  APPEARANCES: 
+
+18  DEEPAK GUPTA, ESQ., Washington, D.C.; on behalf of 
+
+19  Petitioners.
+
+ EARLE DUNCAN GETCHELL, JR., ESQ., Solicitor General of 
+
+21  Virginia, Richmond, Virginia; on behalf of 
+
+22  Respondents. 
+
+23 
+
+24 
+
+1
+ 
+Alderson Reporting Company 
+
+
+
+                                
+
+                   
+
+                   
+
+                   
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+C O N T E N T S
+
+ ORAL ARGUMENT OF PAGE
+
+ DEEPAK GUPTA, ESQ.
+
+ On behalf of the Petitioners 3
+
+ ORAL ARGUMENT OF
+
+ EARLE DUNCAN GETCHELL, JR., ESQ.
+
+ On behalf of the Respondents 29
+
+ REBUTTAL ARGUMENT OF
+
+ DEEPAK GUPTA, ESQ.
+
+ On behalf of the Petitioners 53 
+
+2
+
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (10:19 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+4  this morning first in Case 12-17, McBurney v. Young.
+
+ Mr. Gupta? 
+
+6  ORAL ARGUMENT OF DEEPAK GUPTA 
+
+7  ON BEHALF OF THE PETITIONERS 
+
+8  MR. GUPTA: Thank you, and may it please the 
+
+9  Court:
+
+ All 50 States have public records laws. 47 
+
+11  of those States make access available to residents and 
+
+12  nonresidents on equal terms. Virginia, by contrast, 
+
+13  enforces a discriminatory access policy, and, because 
+
+14  commercial requesters make up the vast majority of
+
+ records requesters, out-of-State businesses bear the 
+
+16  brunt of Virginia's policy. 
+
+17  JUSTICE SCALIA: When -- when was the first 
+
+18  of those laws enacted? Do you know? I think it's -- I 
+
+19  think it's in my adult lifetime that Florida was the
+
+ first to enact a sunshine law. Is that -- am I correct 
+
+21  about that? 
+
+22  MR. GUPTA: That's right. All of these 
+
+23  laws -­
+
+24  JUSTICE SCALIA: In the '60s. 
+
+3
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. GUPTA: In the '60s and the early '70s. The 
+
+2 Virginia law was enacted in 1968. And we don't deny 
+
+3  that -­
+
+4  JUSTICE SCALIA: And you say that's a
+
+ fundamental -- that's a fundamental right covered by 
+
+6  Privileges and Immunities Clause, which nobody had until 
+
+7  the 1960s? 
+
+8  MR. GUPTA: Well, to be clear, the modern 
+
+9  transparency laws are new, but they sit on top of
+
+ well-established common-law right -- rights to access 
+
+11  that are based, not on modern notions of transparency, 
+
+12  but on the right to secure property and other basic 
+
+13  interests -­
+
+14  JUSTICE SCALIA: But those -- those rights
+
+ still exist in this State, don't they? Cannot you get 
+
+16  records of deeds and whatever the common law would have 
+
+17  covered? 
+
+18  MR. GUPTA: Well, it's true that -- that 
+
+19  Virginia's law exempts deeds from its Freedom of
+
+ Information law, but, if I understand their position 
+
+21  correctly, they would be entitled, as a constitutional 
+
+22  matter, under their theory, to preclude people from 
+
+23  other States from accessing even deeds. 
+
+24  JUSTICE SCALIA: Well, I'll ask them -- I
+
+ didn't understand that to be their position, but -- but 
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  I guess we can ask them. MR. GUPTA: Well, my 
+
+2 client, Mr. Hurlbert, 
+
+3  is in the business of gathering property records for his 
+
+4  clients. Now, it's true that, in Virginia, he could get
+
+ the deed, but what he can't get and what he principally 
+
+6  gathers for his clients are real estate tax assessment 
+
+7  records, and those are a much richer storehouse of 
+
+8  property-related information than simply the deed. 
+
+9  JUSTICE GINSBURG: Can you -- can you
+
+ explain that business a little more fully than you did 
+
+11  in the briefs? He's in the business of collecting 
+
+12  records from all the States about tax assessments. 
+
+13  MR. GUPTA: That's right. 
+
+14  JUSTICE GINSBURG: And he -- and he does
+
+ that for a client who could very well ask himself. So 
+
+16  what is the service that's being performed? 
+
+17  MR. GUPTA: Well, he -- you know, he doesn't 
+
+18  just do the routine request. The -- the large data 
+
+19  companies are the ones who hire him. And they -- if
+
+ they're routine requests, they can do them themselves; 
+
+21  although if they're not based in Virginia, they would 
+
+22  still have to hire a Virginian to do it. 
+
+23  But they bring him in when there's some flaw 
+
+24  in the -- the routine process where the -- the State is
+
+ being recalcitrant or the local official is being 
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  recalcitrant. And he's an expert in being able to gather 
+
+2 these -- these records and knowing the process is 
+
+3  knowing what he's allowed to do and what he's not 
+
+4  allowed to do.
+
+ CHIEF JUSTICE ROBERTS: All -- all he has to 
+
+6  do is get somebody from -- from Virginia to ask for him, 
+
+7  right? 
+
+8  MR. GUPTA: Well, he could hire someone from 
+
+9  Virginia to do that, but that's -- you know, that's sort
+
+ of precisely what the -­
+
+11  CHIEF JUSTICE ROBERTS: Well, but you don't 
+
+12  have to pay the person too much, he just has to write a 
+
+13  letter saying, give me these documents, right? 
+
+14  MR. GUPTA: He would still have to hire
+
+ someone, and that would be an increased cost. And -- for 
+
+16  CHIEF JUSTICE ROBERTS: Well, an increased 
+
+17  cost of -- I don't know how much -- 100 bucks, right? 
+
+18  Go -- write a letter, say you want these documents, and, 
+
+19  when they come to your house, give them to me.
+
+ MR. GUPTA: Yeah. For the large data 
+
+21  companies -- you know, they will hire someone other than 
+
+22  him to perform this service. They will -- if you're 
+
+23  talking about routine requests. But even -- you know, 
+
+24  even for them, if you're talking about a -- a request
+
+ that isn't routine, if he has to do something further to 
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  enforce the rights, he's going to have to do that in his own 
+
+2 name, or the data company will have to hire someone 
+
+3  other than him, someone based in Virginia, to do that 
+
+4  for them. And then he will lose that business.
+
+ So the lower you go down in the food chain 
+
+6  of the data industry, the bigger the effect of 
+
+7  Virginia's policy. 
+
+8  JUSTICE GINSBURG: How much -- how much of 
+
+9  an impact, in fact, does it have on his business? I
+
+ mean, there are 47 States who will provide this 
+
+11  information. 
+
+12  MR. GUPTA: Well, for -- for him, in the 
+
+13  Virginia market, it completely forecloses him from doing 
+
+14  access -- business in the Virginia market.
+
+ And, if other States were to have policies 
+
+16  like this, he wouldn't be able to do business in those 
+
+17  States as well. So if -- if the focus is on him and his 
+
+18  business in Virginia, it completely cuts him off. 
+
+19  If the focus is on -- on what the effect is
+
+ in the aggregate, on the market as a whole, because most 
+
+21  public records requests are commercial requests, it's 
+
+22  going to have an effect on most commercial requesters 
+
+23  who are out-of-State. And -­
+
+24  JUSTICE SCALIA: Mr. Gupta, I -- I
+
+ understand that the -- the reasoning of Virginia in not 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  allowing out-of-State people to -- to get these FOIA requests 
+
+2 is the following: That the purpose of these -­
+
+3  these laws -- and I remember it when the first ones were 
+
+4  enacted -- government in the sunshine. The purpose of
+
+ it was not to enable people to get information, per se; 
+
+6  it was to enable people to see how their government is 
+
+7  working, so that they could attend to any malfeasance 
+
+8  that is occurring in the process of government. 
+
+9  It seems to me entirely in accord with that
+
+ purpose of these laws to say it's only Virginia citizens 
+
+11  who -- who are concerned about the functioning of 
+
+12  Virginia government and ought to be able to get whatever 
+
+13  records Virginia agencies have. 
+
+14  What's -- what's wrong with that reasoning?
+
+ MR. GUPTA: A few responses, Justice Scalia. 
+
+16  First, transparency was one purpose, but, as 
+
+17  I said, these laws also carried forward the much more 
+
+18  longstanding rights to access based on personal 
+
+19  interests and property interests. Also, even at the
+
+ time that these laws were enacted -­
+
+21  JUSTICE SCALIA: But -- but you don't need 
+
+22  any personal or property interest under these laws. You 
+
+23  can just -- just out of curiosity, if you -- if you were a 
+
+24  Virginian, at least, in Virginia, even though you have
+
+ no interest in the matter at all, you can ask the agency 
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  for records about this or that. It -- it can't be 
+
+2 based on -- on the 
+
+3  traditional property interest. It's based on the 
+
+4  ability of the citizens of the State to find out what
+
+ the -- what the government of the State is up to. 
+
+6  MR. GUPTA: Even -- even at the time that 
+
+7  these laws were enacted in the -- in the '60s, it was 
+
+8  well-understood that they were going to have a big 
+
+9  commercial impact. The property records industry was in
+
+ full swing by the end of the late 19th Century. 
+
+11  JUSTICE GINSBURG: But the point is that 
+
+12  FOIA is tied to, as Justice Scalia said, the citizens 
+
+13  should know what their government is doing. And you 
+
+14  don't have to give any reason at all, if you were a part
+
+ of that political community. Now, Virginia doesn't 
+
+16  allow people from out-of-State to vote. They're not 
+
+17  part of Virginia's political community. 
+
+18  So why isn't this -- if you're not part of 
+
+19  the political community, then you don't fall under FOIA,
+
+ which is a peculiar statute, in that everybody who is 
+
+21  covered by it can get whatever they want, and they don't 
+
+22  have to give any reason for it. 
+
+23  MR. GUPTA: Right. Well, elections just 
+
+24  simply don't work if you -- if you allow noncitizens to
+
+ participate in elections or if you can't wall off the 
+
+9
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  State in that respect. But what the State can't say is, 
+
+2 simply because one purpose of this law is that we want 
+
+3  to constitute ourselves as a political community, that 
+
+4  we can exclude activities that have a big commercial
+
+ effect. 
+
+6  And -- you know, when we're looking under 
+
+7  the Dormant Commerce Clause or under the Privileges and 
+
+8  Immunities Clause, this Court's cases have said 
+
+9  repeatedly you don't look to uncover the original
+
+ legislative purpose, you look to whether there is 
+
+11  discrimination, which there is here, on its face, and 
+
+12  you look to whether there is a discriminatory effect. 
+
+13  One example of how this policy is actually 
+
+14  being -­
+
+JUSTICE KAGAN: And is the only thing that's 
+
+16  necessary -- excuse me -- is the only thing that's 
+
+17  necessary that the law affect a few people commercially? 
+
+18  I mean, how much -- how many of the requesters have to 
+
+19  be engaged in some kind of commercial activity in order
+
+ for your arguments to work? 
+
+21  MR. GUPTA: Well, what this Court has said 
+
+22  is that there is no de minimis exception, if there's 
+
+23  discrimination against commerce, but, here, what's going 
+
+24  on is anything, but de minimis. Virginia does not deny
+
+ that the -- the vast majority of the requesters are 
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  commercial requesters -- the vast majority of out-of-State 
+
+2 requesters are commercial requesters. 
+
+3  Their -- the amicus brief supporting their 
+
+4  side, the Local Government Attorneys of Virginia amicus
+
+ brief, at page 30, explains the way this policy -­
+
+6  policy is being implemented, is that noncommercial 
+
+7  requests are typically honored, but out-of-State 
+
+8  requests by data miners are being categorically denied 
+
+9  under the policy.
+
+ CHIEF JUSTICE ROBERTS: But this -- this is 
+
+11  not -- this is not a regulation of commerce. It's a 
+
+12  State practice that may have an incidental effect on 
+
+13  commerce, and the incidental effect may be 
+
+14  disproportionate, depending upon whether you're State or
+
+ local, but it's not a regulation of commerce. 
+
+16  MR. GUPTA: But that's -- that was the 
+
+17  Fourth Circuit's theory, and I think incidental can mean 
+
+18  a few different things, and I think in -- in their 
+
+19  opinion, it -- it does mean at least three different
+
+ things. So maybe it would be helpful if I try to unpack 
+
+21  that. 
+
+22  If it means incidental in terms of the 
+
+23  effect on my client's business, I think, as I've 
+
+24  explained, it's anything, but incidental; it completely
+
+ forecloses him from the market. If it means incidental 
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  in terms of the -- the aggregate effect of this statute, 
+
+2 again, it's not incidental because the vast majority 
+
+3  of -- of affected parties under this policy are 
+
+4  out-of-State commercial requesters, particularly data
+
+ companies. 
+
+6  And -- you know, if it means incidental 
+
+7  compared to the purpose of the statute, as I've said, 
+
+8  transparency was one purpose of the modern FOIA laws, 
+
+9  but they also subsumed and sit on top of all of the
+
+ longstanding rights of public access that have been 
+
+11  around since the -- the first settlements in the United 
+
+12  States -- or before the United States, when, in order to 
+
+13  have a functioning property system, we recognized that 
+
+14  you've got to have records of who owns what and -- and
+
+ those records have to be made available to anyone in 
+
+16  order to exercise property rights. 
+
+17  CHIEF JUSTICE ROBERTS: What if the State of 
+
+18  Virginia says, as a policy, we want to help Virginia 
+
+19  businesses, and so we're going to open a business
+
+ training, best practices institute, where you're going 
+
+21  to learn how to be a better business person, but the 
+
+22  only people who can come in are -- are Virginia 
+
+23  businesses. 
+
+24  MR. GUPTA: Right.
+
+ CHIEF JUSTICE ROBERTS: Under your theory, 
+
+12
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  because that will have an effect -- an incidental effect on 
+
+2 commerce in a way that's discriminatory, is -- is 
+
+3  that unconstitutional? 
+
+4  MR. GUPTA: I don't think so. And there are
+
+ a couple of distinctions. 
+
+6  First, that's not something that the State 
+
+7  exclusively is able to provide. It's not like the 
+
+8  courthouse or the public archives across the street or 
+
+9  the road that runs between them that only the -- the
+
+ State is able to provide. 
+
+11  Anyone can provide a business training 
+
+12  institute, so the State is just one player among many. 
+
+13  Also -- running a 
+
+14  JUSTICE SCALIA: But that -- that just goes
+
+ to the extent of the impact, not -- not on the 
+
+16  principle. And you say extent doesn't matter. You say 
+
+17  there's no such thing as a de minimis exception. 
+
+18  MR. GUPTA: No -­
+
+19  JUSTICE SCALIA: So that -- that explanation
+
+ doesn't -- doesn't seem, to me, to hold water. 
+
+21  MR. GUPTA: Well, maybe I didn't explain it 
+
+22  very well. To be clear, I think it's more than just a 
+
+23  difference in degree; it's a difference in kind. These 
+
+24  are fundamentally different when -- when you're talking
+
+ about running the courthouse or running the public 
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  archives, nobody else can do that. Nobody else 
+
+2 can collect -- you know, make 
+
+3  tax assessments, collect those records, and keep the 
+
+4  official public archive of those things. That -­
+
+JUSTICE SCALIA: So what? So what? Except 
+
+6  to the extent that that bears upon how much of a -- an 
+
+7  imposition this is upon interstate commerce. It seems, 
+
+8  to me, that's the only relevance of that point. 
+
+9  MR. GUPTA: Well -­
+
+JUSTICE SCALIA: And -- and you dismiss that 
+
+11  relevance. You say it doesn't matter how extensive the 
+
+12  impact is on -- on interstate commerce. 
+
+13  MR. GUPTA: Well, to the extent that you -­
+
+14  you think it does matter, I mean, that -- that
+
+ distinction doesn't matter in this case because the 
+
+16  impact is -- is great. The principal impact is an 
+
+17  impact on out-of-State commerce. 
+
+18  But let me -­
+
+19  CHIEF JUSTICE ROBERTS: Is that -- when
+
+ you're talking about impact, is that a Pike analysis? 
+
+21  MR. GUPTA: No. I think this -- if you were 
+
+22  in -- in the dormant Commerce Clause, this would be the 
+
+23  per se rule of invalidity. You have facial 
+
+24  discrimination. The -- the -­
+
+CHIEF JUSTICE ROBERTS: Well, I thought, if 
+
+14
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  it was facial discrimination, you're not concerned about 
+
+2 impact. 
+
+3  MR. GUPTA: That's right. That's right. 
+
+4  CHIEF JUSTICE ROBERTS: I thought a question
+
+ of talking about the effects on interstate commerce, 
+
+6  that's the -- you know, the Pike analysis. 
+
+7  MR. GUPTA: No. What this Court has said is 
+
+8  that -- that the first -- sort of first-tier scrutiny, 
+
+9  the per se rule is -- is for cases where there's
+
+ discrimination on its face or discrimination in effect. 
+
+11  And then you've got this other category for the -- the 
+
+12  Pike analysis, where the State regulates evenhandedly. 
+
+13  JUSTICE KENNEDY: What's your closest case 
+
+14  in support of the proposition that this is impermissible
+
+ as a discrimination against interstate commerce? What's 
+
+16  your best case? 
+
+17  MR. GUPTA: When you say, "this," you mean 
+
+18  the -- that public records access is commerce? 
+
+19  JUSTICE KENNEDY: If -- if you -- you are
+
+ arguing, as one of your arguments here, that this is 
+
+21  discriminatory as to -- as to interstate commerce, as I 
+
+22  understand your argument, what is the best case you have 
+
+23  to support your position? What's the closest case? 
+
+24  MR. GUPTA: Well, I think if you're -- if
+
+ you're -- if the question is about whether or not 
+
+15
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  records access is commerce, there's Reno v. Condon this 
+
+2 Court's unanimous decision -­
+
+3  JUSTICE KENNEDY: Well, my question is 
+
+4  what's the best case you have for your argument?
+
+ MR. GUPTA: Well, I think -- you know, this 
+
+6  Court's unanimous decision in Reno v. Condon held that, 
+
+7  because people buy public records and sell them in 
+
+8  interstate commerce, that's, indisputably, interstate 
+
+9  commerce. So we -­
+
+JUSTICE KENNEDY: But that wasn't a 
+
+11  discrimination. That wasn't a -­
+
+12  MR. GUPTA: That's right. 
+
+13  JUSTICE KENNEDY: That's just -- that goes 
+
+14  to the question whether or not this is commerce.
+
+ MR. GUPTA: That -- that's right. 
+
+16  JUSTICE KENNEDY: What -- what is your best 
+
+17  case to show that this is discriminatory in violation of 
+
+18  our precedence? 
+
+19  MR. GUPTA: Well, Virginia doesn't deny that
+
+ there's discrimination on its face, so I take your 
+
+21  question to be asking -- you know, what about the 
+
+22  commerce aspect? And in Reno v. Condon -­
+
+23  JUSTICE KENNEDY: Now -- if I have 
+
+24  to write the opinion, what case do I put down? I'm
+
+ waiting. 
+
+16
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. GUPTA: Yeah, I mean, you -- okay. So you 
+
+2 can also look to Camps Newfound, which, I think -­
+
+3  you know, was much -- much more attenuated to commerce. 
+
+4  There, you had a generally applicable law, a property
+
+ tax law -­
+
+6  JUSTICE BREYER: If I only have time to read 
+
+7  one case -­
+
+8  MR. GUPTA: Yeah. 
+
+9  JUSTICE BREYER: -- or possibly two, which
+
+ would you like me to read? I think that's, basically, 
+
+11  the question. 
+
+12  (Laughter.) 
+
+13  MR. GUPTA: Yeah. I mean -- you know, look. 
+
+14  There's no case that's -- that's entirely on all fours,
+
+ but -­
+
+16  JUSTICE BREYER: Okay. But I assume you 
+
+17  don't want me -­
+
+18  JUSTICE KENNEDY: That's why you're here. 
+
+19  (Laughter.)
+
+ MR. GUPTA: So right. So -- so -- okay. So 
+
+21  the Camps Newfound case is -- is a case where you had a 
+
+22  generally applicable law. It was a property tax law. 
+
+23  It exempted -- you know, charities that served primarily 
+
+24  in-State residents.
+
+ It was -- there is no evidence that the 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  State of Maine intended that to be a -- you know, a 
+
+2 discrimination against commerce and, obviously, swept 
+
+3  more broadly and affected both commerce and 
+
+4  non-commerce. But this Court said that -- you know, you
+
+ had facial discrimination against commerce because there 
+
+6  were people operating these summer camps, and they were 
+
+7  treated differently -­
+
+8  JUSTICE BREYER: I'll look at those. But I 
+
+9  think the Commerce Clause, basically, has, as its
+
+ objective, insofar as it's dormant, to prevent a 
+
+11  legislature or decisionmaker within its State 
+
+12  discriminating in favor of their own State producers. 
+
+13  MR. GUPTA: Right. 
+
+14  JUSTICE BREYER: Now, it's pretty hard for
+
+ me to put this case into that mold. 
+
+16  MR. GUPTA: Well, I mean, one -- you know, 
+
+17  one piece of evidence, Justice Breyer, is the media 
+
+18  exception to the Virginia statute. It -- this -- this 
+
+19  makes it clear that Virginia was aware that people who
+
+ were requesting information for commercial purposes were 
+
+21  going to use this statute and they exempted the press -­
+
+22  JUSTICE SCALIA: It's just Virginia media, 
+
+23  though, isn't it? Isn't it only media that -­
+
+24  MR. GUPTA: That's right, Justice Scalia.
+
+ So it's -­
+
+18
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1
+
+2 Virginia? 
+
+3
+
+4  it's -­
+
+JUSTICE SCALIA: -- exists or is broadcast into 
+
+MR. GUPTA: That's right. So it's -­
+
+JUSTICE SCALIA: Well, that's consistent 
+
+6  with their purpose, that this statute is meant to assure 
+
+7  good, honest government in Virginia. 
+
+8  MR. GUPTA: Well, if this is a statute, it's 
+
+9  a pretty unusual statute that discriminates among
+
+ newspapers, so it says -­
+
+11  JUSTICE BREYER: If it does what the -- I 
+
+12  had exactly the same question for both parts of your 
+
+13  argument, that what it's their -- am I right in thinking 
+
+14  that anyone can get any information -- anyone in any
+
+ State can get any information that pertains to him or 
+
+16  her? Is that right or not? 
+
+17  MR. GUPTA: There is a separate Virginia -­
+
+18  JUSTICE BREYER: Is that right or not? 
+
+19  MR. GUPTA: Yes. There is a
+
+ separate Virginia statute that allows this. 
+
+21  JUSTICE BREYER: Okay. That's what I wanted 
+
+22  to know, whether it's separate or not. 
+
+23  MR. GUPTA: That's right. 
+
+24  JUSTICE BREYER: Anyone from Alaska to
+
+ Hawaii can get any information that pertains to him or 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  her. Second, that this has nothing to do with 
+
+2  judicial records, there is a different statute that 
+
+3  makes judicial records public. 
+
+4  MR. GUPTA: That's correct.
+
+ JUSTICE BREYER: Okay. So we're, now, 
+
+6  talking about the class of information, other than the 
+
+7  two classes I've mentioned. 
+
+8  And I then ended up -- and I'd like you to 
+
+9  add something to this, if you can, that, really, this is
+
+ about -- since getting information involves usually a 
+
+11  benefit to the recipient, but, sometimes, harm to the 
+
+12  person the information is about, that willing to run 
+
+13  that harm and risk of harm is the interest in State good 
+
+14  government, okay?
+
+ MR. GUPTA: Uh-huh. 
+
+16  JUSTICE BREYER: Now, if that's the 
+
+17  interest, that's an interest that probably a State has 
+
+18  the right, just as it has the right to say other people 
+
+19  can't vote in State elections, if that's the interest,
+
+ then I guess it could take reasonable measures related 
+
+21  to that interest. 
+
+22  All right. Now, that is the -- the argument 
+
+23  or the position that I would appreciate your addressing. 
+
+24  MR. GUPTA: Sure. You know, that -- we 
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  don't deny that that's an interest that the State has, but 
+
+2 then you have to see whether the -- the interest is 
+
+3  reasonably furthered by the statute. And, here, you 
+
+4  have a resource that is not finite, and the statute
+
+ allows the State to recoup its expenses. 
+
+6  So nothing is lost to Virginians. There 
+
+7  isn't any loss in transparency to Virginians by 
+
+8  extending access to out-of-State data companies. 
+
+9  JUSTICE GINSBURG: But if it costs for
+
+ Virginia -- Virginia has to take care of its own, and, 
+
+11  if it has to service FOIA requests from all over, it's 
+
+12  going to cost the State. It's going to have to hire 
+
+13  people to do this. They're going to have to spend many 
+
+14  hours going through these records, so the State
+
+ doesn't -- it wants to conserve its resources for its 
+
+16  own people. 
+
+17  MR. GUPTA: But -- but there's no loss in 
+
+18  resources, Justice Ginsburg, because the statute allows 
+
+19  Virginia to fully recoup any administrative expenses.
+
+ JUSTICE SOTOMAYOR: Counsel, I'm having -­
+
+21  JUSTICE SCALIA: But they -- but they just 
+
+22  don't want out -- they -- they don't want outlanders 
+
+23  mucking around in -- in Virginia government. It's 
+
+24  perfectly okay for good old Virginians to do that, but
+
+ they don't want outlanders to do it. Why -- why is that 
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  unreasonable? MR. GUPTA: Yeah. That -- that is 
+
+2 certainly 
+
+3  their interest. But you've got to see whether the 
+
+4  policy serves -- serves -- you know, the interest,
+
+ and -- and this is a statute that is supposed to promote 
+
+6  transparency. It actually makes it less transparent. 
+
+7  JUSTICE SOTOMAYOR: Counsel, I'm -- I -­
+
+8  there is underlying your argument a sort of fundamental 
+
+9  belief that you are entitled to relief -- pardon the
+
+ alliteration -- simply because the statute discriminates 
+
+11  between citizens and noncitizens. Is that your 
+
+12  position? 
+
+13  MR. GUPTA: No, not at all, I mean -­
+
+14  JUSTICE SOTOMAYOR: So if it's not, what are
+
+ the two rights that you -- or what rights are it that 
+
+16  you're claiming have been violated? You say privileges 
+
+17  and immunities. What's the privilege or immunity? 
+
+18  MR. GUPTA: It's the privilege or immunity 
+
+19  of pursuing a common calling across State borders. So
+
+ there's no dispute here that Mr. Hurlbert's common 
+
+21  calling is -- is gathering data. In fact, those are the 
+
+22  principal users of public records laws. 
+
+23  JUSTICE SOTOMAYOR: So is this -- is this an 
+
+24  as-applied challenge to the -­
+
+MR. GUPTA: That's right. 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SOTOMAYOR: All right. MR. 
+
+2 GUPTA: That's right. 
+
+3  JUSTICE SOTOMAYOR: So this is an as-applied 
+
+4  challenge?
+
+ MR. GUPTA: Yes. So -- so it's an 
+
+6  as-applied challenge with respect to Mr. Hurlbert's 
+
+7  common calling. There's no -- there's no dispute that 
+
+8  that is his common calling and that this law has the 
+
+9  effect of completely cutting him off from pursuing his
+
+ common calling in the Virginia market and that 47 other 
+
+11  States -­
+
+12  JUSTICE GINSBURG: Then you would be doing 
+
+13  something very strange with this statute because you 
+
+14  would be saying Hurlbert has a right to this because
+
+ it's his business. But the statute, the character of 
+
+16  this statute is it doesn't matter what you want the 
+
+17  information for. 
+
+18  But you're saying the out-of -- the 
+
+19  in-Stater, it doesn't matter. Out-of-Stater, is it your
+
+ argument that, if this out-of-Stater has a good reason 
+
+21  for getting this and it's related to the out-of-State's 
+
+22  business, so you -- you're changing the character of a 
+
+23  FOIA statute, which is it doesn't matter what you want 
+
+24  it for.
+
+ MR. GUPTA: Right. I mean, you would -- you 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  know, we would -- we would ask that you rule that the statute 
+
+2 is unconstitutional, as applied to him, and then 
+
+3  Virginia would have the choice, if it has a -­
+
+4  JUSTICE SOTOMAYOR: I -- I'm having a
+
+ problem, and then I think it's Justice Ginsburg's 
+
+6  problem, which is, absent the statute, he can't demand 
+
+7  that Virginia provide him with this information because 
+
+8  that's how he wants to work, correct? 
+
+9  So what's the added value that gives him a
+
+ right to demand it merely because a statute exists? He 
+
+11  doesn't have a right to the information. 
+
+12  MR. GUPTA: Well, he's -- all he's asking 
+
+13  for is information that's available in the public 
+
+14  archives on equal terms with Virginians. In the same
+
+ way that -- that someone who -­
+
+16  JUSTICE BREYER: He -- he has a very 
+
+17  reasonable request in my view, but the question isn't 
+
+18  the reasonableness of his request. The question's -­
+
+19  you know, whether they can do it. And the -- the way -­
+
+the work -- the thing that's bothering me on the work 
+
+21  part is this: It seems that the work is sort of 
+
+22  tailored to the statute. 
+
+23  It's in this way. I -- I have a job, and my 
+
+24  job is to study election processes. And I write
+
+ reports, and I find amazing things about differences 
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  among States. They're truly amazing. And I say 
+
+2 -- you know, it would help me a 
+
+3  lot if I was actually a voter in each of these States. 
+
+4  That would help my job. It would lend authenticity, and
+
+ I could learn things that I probably couldn't learn 
+
+6  otherwise. 
+
+7  Now, does that add anything to the argument? 
+
+8  I mean, I don't think so, but it sounds a little bit 
+
+9  like you're making that kind of argument -­
+
+MR. GUPTA: No. 
+
+11  JUSTICE BREYER: -- and -- and they either 
+
+12  do have the right or they don't. And I don't know that 
+
+13  it helps that I -- that I say, well, I really want it 
+
+14  for my work.
+
+ MR. GUPTA: Right. But this is -- this is a 
+
+16  profession that has existed since the founding era. I 
+
+17  mean, we've -- you know, we've cited cases in our 
+
+18  opening brief of -- of people hiring professionals to 
+
+19  search the records for them before engaging in property
+
+ transactions. By the late 19th Century, you had an 
+
+21  enormous industry that was designed to do this. 
+
+22  So this isn't -- Mr. Hurlbert isn't someone 
+
+23  who's making up some profession. He's part of a very 
+
+24  large industry that has done this for a very long time.
+
+ And that industry, yes, like lawyers depend on 
+
+25
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  courthouses or truckers depend on roads, his industry depends 
+
+2 on access to the public archives. 
+
+3  And -- you know, it's true that -- that now 
+
+4  you have these modern public records laws, but I -- I
+
+ think Virginia's argument would be the same if you were 
+
+6  just talking about can -- can they bar the doors to the 
+
+7  archives building? Can they bar the doors to the 
+
+8  property records? So there's no -- I don't see any 
+
+9  distinction in kind -­
+
+CHIEF JUSTICE ROBERTS: Is this -- is this 
+
+11  your Privileges and Immunities argument or your dormant 
+
+12  Commerce Clause argument? 
+
+13  MR. GUPTA: You know, I think the logic of 
+
+14  both arguments are similar, but I think it, most
+
+ clearly, is illustrated in the Privileges and Immunities 
+
+16  context where -­
+
+17  CHIEF JUSTICE ROBERTS: So then it's not 
+
+18  enough that this is a big deal to your client. It has 
+
+19  to be something that is essential to hold the country
+
+ together as a national unit. And it seems, to me, it's 
+
+21  a bit of a stretch to say somebody gathering records 
+
+22  about commercial -- under FOIA fits that description. 
+
+23  MR. GUPTA: I don't think it's a stretch at 
+
+24  all, Justice -- Chief Justice. The -- the aggregators
+
+ of records make possible mortgage origination, credit 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  reporting, insurance adjustment. The -- the economy -- and 
+
+2 you have an amicus brief -­
+
+3  CHIEF JUSTICE ROBERTS: No, but, see, 
+
+4  they're just to get into those. Again, I think a lot of
+
+ those examples you -- you do have access under other 
+
+6  statutes. You're talking about mortgage rules and all 
+
+7  that. Aren't those all -­
+
+8  MR. GUPTA: No, no. Not to this kind of 
+
+9  information. The -- the information that Mr. Hurlbert
+
+ is gathering, tax assessment information, is essential 
+
+11  to -- to mortgage origination and credit reporting. The 
+
+12  people who hire him are large data companies, and the -­
+
+13  the data industry brief explains the uses of this 
+
+14  information.
+
+ That -- that information is essential to 
+
+16  these activities. And Virginia, virtually alone among 
+
+17  the States, is -- is erecting this barrier to access 
+
+18  that market and reserving the right to access that 
+
+19  market to only people who live in the State.
+
+ And -- and -- you know, this would be no 
+
+21  different if it were just talking about the archives 
+
+22  that -- that include all the information that the -­
+
+23  yes, it's true that Virginia has exempted of the title 
+
+24  itself, but I don't see that the logic of their position
+
+ allows them to make that distinction. I mean, that's 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  just a feature of their -- of their statute. 
+
+2 JUSTICE SOTOMAYOR: Could I -- I'm still trying to 
+
+3  tease out what your claim is. Let's suppose Virginia 
+
+4  passes a statute that says, We'll let nonresidents have
+
+ access, but they have to pay all the costs. 
+
+6  Nonresidents don't. 
+
+7  Would that satisfy you as valid? 
+
+8  MR. GUPTA: I think that would be a closer 
+
+9  question, but I think that presents some problems as
+
+ well. I mean, so, in your hypothetical, it's free to 
+
+11  the citizens of the State, but they're just passing the 
+
+12  cost on to out-of-Staters. 
+
+13  And -- you know, this -- this Court, in 
+
+14  cases like Toomer and Mullaney, have said that at
+
+ least -- you know, where the State can show that the 
+
+16  nonresidents pose some unique evil, that the -- the 
+
+17  State is entitled to pass the costs on. 
+
+18  JUSTICE SOTOMAYOR: Why isn't it just -- you 
+
+19  just being costs them more?
+
+ MR. GUPTA: Right. 
+
+21  JUSTICE SOTOMAYOR: That was Justice 
+
+22  Ginsburg's point, which is every time you've put in a 
+
+23  request, you're costing them more money. 
+
+24  MR. GUPTA: Right. But -- but that would be
+
+ discriminating against non as -- noncitizens solely 
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  because they're noncitizens. So, if there's some particular 
+
+2 -­
+
+3  JUSTICE SOTOMAYOR: Well, why? You were 
+
+4  costing them more.
+
+ MR. GUPTA: Right. Well, that's -- that's 
+
+6  precisely the rationale that -- that in 
+
+7  Justice Kennedy's opinion for the Court in Barnard v. 
+
+8  Thorstenn, this Court rejected. This -- the Virgin 
+
+9  Islands wanted to say if we open up our bar to people
+
+ from all over the country, it's going to increase the 
+
+11  administrative resources. And this Court said, no, 
+
+12  that's not a good enough reason. That's just 
+
+13  discriminating on the basis of citizenship. 
+
+14  But if, for example, the State could show
+
+ that there was -- you know, there were shipping costs 
+
+16  that were uniquely posed by nonresidents and they wanted 
+
+17  to assess a $5 shipping fee for all nonresidents, that 
+
+18  might be permissible. 
+
+19  And, if there are no further questions, I'd
+
+ like to reserve my time. 
+
+21  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+22  General Getchell? 
+
+23  ORAL ARGUMENT OF EARLE DUNCAN GETCHELL, JR., 
+
+24  ON BEHALF OF THE RESPONDENTS
+
+ MR. GETCHELL: Mr. Chief Justice, and may it 
+
+29
+ 
+Alderson Reporting Company 
+
+
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  please the Court: The -­
+
+2  JUSTICE SOTOMAYOR: I'm not sure how you 
+
+3  save administrative costs under this statute. They 
+
+4  could go to any Virginia resident, it's not illegal, and
+
+ probably will, it'll cost them something more, but not 
+
+6  you, and get the very same information. 
+
+7  So how do you justify this discrimination? 
+
+8  Because it's so easily -- the administrative cost is 
+
+9  going to be imposed anyway.
+
+ MR. GETCHELL: I would -- would suggest that 
+
+11  the purpose of the statute, which is political, not 
+
+12  commercial, left the State with the position that it was 
+
+13  going to subsidize with tax dollars this function 
+
+14  because we can't recover our overhead; we can over -­
+
+only recover the actual cost. 
+
+16  JUSTICE SOTOMAYOR: So you want to give more 
+
+17  businesses to Virginia citizens who will now charge 
+
+18  out-of-State residents money to process their FOIA 
+
+19  requests?
+
+ MR. GETCHELL: No, Your Honor. I don't 
+
+21  think anybody was thinking about businesses of any sort. 
+
+22  I think they were saying that we have a political 
+
+23  hygiene statute. They were very much the fad. It 
+
+24  happened in -- in my lifetime, too. I remember when 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  they were adopted. Nobody thought they were commercial in 
+
+2 nature. 
+
+3  And I do want to -- want to repel the notion 
+
+4  that there is even substantial discrimination in this
+
+ case because Mr. Hurlbert, in his admission that this is 
+
+6  an as-applied challenge, has a difficulty with 
+
+7  substantial equality of access, because it turns out 
+
+8  that Mr. Hurlbert, in his reply brief, when he teed up 
+
+9  the 1786 statute, which does give access -- did give
+
+ access, he focused his argument on that statute. 
+
+11  And if you run that statute, you will find 
+
+12  that between 1830 -- 1813 and 1840, that you did not 
+
+13  have general access. They went back to having to show a 
+
+14  particular interest. But that -- from 1840, '41 until
+
+ today, through the codes of 1819 and -- and up until the 
+
+16  present code, Section 17.1208, he has the right of 
+
+17  access to tax assessment records. 
+
+18  CHIEF JUSTICE ROBERTS: So the -- if I 
+
+19  understood your answer to Justice Sotomayor, the only
+
+ reason you don't let out-of-Staters get these records is 
+
+21  because of the added overhead costs? 
+
+22  MR. GETCHELL: No, Your Honor. It's just 
+
+23  not part of the interests the State was trying to serve. 
+
+24  The State -­
+
+CHIEF JUSTICE ROBERTS: Well, I know. 
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  But -- but -- so why don't you do it anyways? Just -- just 
+
+2 as I asked your friend, it doesn't seem like that 
+
+3  big a deal. It doesn't seem like that big a deal for 
+
+4  you either. If you can recoup overhead costs from
+
+ people who request -- and I'd assume you would be able 
+
+6  to -- why don't other people -- people from West 
+
+7  Virginia may have interest in how Virginia government 
+
+8  operates, too. 
+
+9  And -- and, again, if -- what cost is there to
+
+ you, other than overhead? You don't want to keep how 
+
+11  Virginia government operates quiet from outsiders when 
+
+12  you let in -- its citizens get the access, do you? 
+
+13  MR. GETCHELL: The -- we are here to defend 
+
+14  the decisions of the two lower courts that apply
+
+ existing doctrine. And, under existing doctrine, only 
+
+16  if we discover that this is a fundamental right, do I 
+
+17  have to justify -­
+
+18  CHIEF JUSTICE ROBERTS: Well, that's under 
+
+19  the Privileges -- the Privileges and Immunities
+
+ argument. 
+
+21  MR. GETCHELL: That's correct. 
+
+22  CHIEF JUSTICE ROBERTS: Okay. But what 
+
+23  about the Dormant Commerce Clause? 
+
+24  MR. GETCHELL: Under the Dormant Commerce
+
+ Clause, we would first have to have a regulation of 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  commerce that's discriminatory. And I would say that a -­
+
+2 that this is a governmental function. I would say 
+
+3  that -­
+
+4  CHIEF JUSTICE ROBERTS: No, I know -- I
+
+ understand your argument. I'm just asking you why 
+
+6  bother? I mean, what -- what's the -- and that's 
+
+7  certainly pertinent to some of the Commerce Clause 
+
+8  analysis. And I haven't heard anything, other than the 
+
+9  overhead costs. And I think you can recoup that from
+
+ the requesters. 
+
+11  MR. GETCHELL: I cannot, Your Honor. 
+
+12  CHIEF JUSTICE ROBERTS: Why not? 
+
+13  MR. GETCHELL: Mr. Chief Justice, the 
+
+14  statute says I cannot recoup the cost of maintaining and
+
+ generating the database, which is, by definition, 
+
+16  overhead. I cannot -­
+
+17  CHIEF JUSTICE ROBERTS: Well, you've got to 
+
+18  maintain and generate the database, anyway, for Virginia 
+
+19  citizens who are going to ask for it. This is not an
+
+ added cost. It's an added cost if you 
+
+21  have to hire an additional person to handle -- as far as 
+
+22  I can tell, just these two people. 
+
+23  MR. GETCHELL: It's an added burden, too. 
+
+24  It's not all -­
+
+JUSTICE SCALIA: But the Virginia citizens 
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  pay for that database, right? MR. GETCHELL: They 
+
+2 do. This is a 
+
+3  taxpayer -­
+
+4  JUSTICE SCALIA: And the out-of-Staters
+
+ don't pay for the database. 
+
+6  MR. GETCHELL: This is a taxpayer-subsidized 
+
+7  system. 
+
+8  JUSTICE SCALIA: And, besides, do -- do 
+
+9  you -- is it the law that -- that the State of Virginia
+
+ cannot do anything that's pointless? 
+
+11  Only -- only the Federal Government can do 
+
+12  stuff that's pointless? 
+
+13  (Laughter.) 
+
+14  MR. GETCHELL: The -- there is a
+
+ burden -- there is a non-financial burden as well 
+
+16  because, as one who is subject to FOIA requests, we have 
+
+17  a finite number of officials and employees who have to 
+
+18  address these things. And that -­
+
+19  JUSTICE SOTOMAYOR: You keep making that
+
+ argument. But you don't stop residents for asking for 
+
+21  the information from someone else. I mean, that's one 
+
+22  of the points of your law, which is they can hire a 
+
+23  Virginia resident to get it for them. Most of the big 
+
+24  people are doing that already.
+
+ So you're not saving any money if they can 
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  get the information simply by paying someone in Virginia to 
+
+2 get it for them. 
+
+3  MR. GETCHELL: In -- in fact, the State of 
+
+4  Virginia has made the policy decision to give this
+
+ information to its citizens and not to inquire behind it 
+
+6  to see whether or not somebody's doing it for an 
+
+7  out-of-Stater. And not -­
+
+8  JUSTICE SCALIA: Or even for commercial 
+
+9  purposes. Don't you think if -- if those who created
+
+ these government in the sunshine laws could have drafted 
+
+11  them in such a way that inquiries for commercial 
+
+12  purposes would not be allowed, but only those inquiries 
+
+13  that are intended to look into the workings of State 
+
+14  government and produce government in the sunshine, don't
+
+ you think that they probably would have excluded 
+
+16  commercial inquiries, if they could? 
+
+17  But you can't tell which ones are commercial 
+
+18  and which aren't. 
+
+19  MR. GETCHELL: And we don't -- and we don't
+
+ try. We have a policy decision that we want to have a 
+
+21  very simple system that allows our citizens to make 
+
+22  inquiries without a demonstrated need or cause because 
+
+23  we want there to be sunshine. 
+
+24  CHIEF JUSTICE ROBERTS: It's no more
+
+ complicated a system if you let out-of-Staters have 
+
+35
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  access, too. You say we want a simple system. It's going to 
+
+2 be the same system, whether you win or lose. 
+
+3  MR. GETCHELL: The thing that is of -- of 
+
+4  great concern -- why do we care, why do we bother -- is
+
+ the principle that when a government is providing a 
+
+6  taxpayer-subsidized service of recent origin to its 
+
+7  citizens, that it does not have to explain its choice, 
+
+8  either under the Privileges and Immunities Clause or 
+
+9  under the Dormant Commerce Clause.
+
+ It is very important that we not find 
+
+11  ourselves with lawsuits that say, "services." Voluntary 
+
+12  services are, in fact, things that, now, have to be 
+
+13  justified under those two provisions of the 
+
+14  Constitution.
+
+ JUSTICE BREYER: Well, that -- that's where 
+
+16  he comes in with his argument because I -- I agree, you 
+
+17  can -- you don't have -- let's say the most fabulous 
+
+18  reason for doing this, but you have a reason. 
+
+19  (Laughter.)
+
+ JUSTICE BREYER: And so the question is, 
+
+21  does it have to be better than that? And -- and they 
+
+22  are saying yes. And, as I heard it, this -- what I 
+
+23  would characterize as a strong argument -- this sort of, 
+
+24  first of all, strikes me as a stronger argument, is
+
+ that, look, if we go back into history, out-of-State 
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  real estate people could always get information about 
+
+2 property -- let's say they had a client who wanted to 
+
+3  buy it. 
+
+4  Now, you've protected that. But, in today's
+
+ world, it's important that we get statistics about this, 
+
+6  too, because our economy is national. If we understand 
+
+7  how States are taxing their real estate, we will know to 
+
+8  what extent they increase the value, to what extent they 
+
+9  increase the rate, to what extent they really get the
+
+ money they are supposed to, to what extent they might 
+
+11  get money or not get money in the future. 
+
+12  And all of those things are nationally 
+
+13  important, so that people can put them together and 
+
+14  make -- better than we have done in the past -­
+
+predictions about what is likely to happen to States 
+
+16  and, hence, the national economy. All right. 
+
+17  That's -- that's the kind of argument he's 
+
+18  making. And he says, so, therefore, there is a national 
+
+19  interest in the flow of this information. And that
+
+ means you have to have a better than "uh-huh" kind of 
+
+21  rationale. That's -- that's what he's saying, I think. 
+
+22  MR. GETCHELL: But it's very difficult for 
+
+23  Mr. Hurlbert to make that fairly expansive argument 
+
+24  because it turns out -­
+
+JUSTICE BREYER: Well, to be fair, I -- I 
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  was sort of expanding it. (Laughter.) 
+
+2  MR. GETCHELL: But, in point of fact, 
+
+3  because he is entitled to the tax assessment data in the 
+
+4  clerk's office, in the case of Henrico County, where he
+
+ went, you go in the same building and -- if you're 
+
+6  Mr. Hurlbert, you turn in one direction, you go to the 
+
+7  clerk's office. 
+
+8  And, if somebody in Virginia and wants to -­
+
+9  for whatever reason, get it from the tax assessor's
+
+ book, instead of from the clerk's book, you turn in the 
+
+11  other direction. 
+
+12  JUSTICE KAGAN: But you don't deny that, in 
+
+13  general, this does affect out-of-State data collectors, 
+
+14  people who are engaged in the kind of business that
+
+ Justice Breyer was talking about, is that right? 
+
+16  MR. GETCHELL: I have no idea in this record 
+
+17  because we were on summary judgment -- cross motions for 
+
+18  summary judgment, and the district court and the court of 
+
+19  appeals, both in our judgment, correctly ruled that
+
+ there's a two -- two-step inquiry. 
+
+21  And the first step is whether or not 
+
+22  there is a fundamental right. And in the absence 
+
+23  of a -­
+
+24  JUSTICE SOTOMAYOR: It's only in his 
+
+38
+ 
+Alderson Reporting Company 
+
+
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  Privileges and Immunities Clause claim. MR. 
+
+2 GETCHELL: Well -­
+
+3  JUSTICE SOTOMAYOR: He claims that the 
+
+4  dormant Commerce Clause has been effected because he
+
+ reads this statute as saying only Virginia recording 
+
+6  companies have access; out-of-State can't. And it's a 
+
+7  fair reading of the statute. It only permits Virginia 
+
+8  residents, which include commercial and noncommercial, 
+
+9  to access the information.
+
+ So assume, hypothetically, that the statute 
+
+11  reads "only Virginia commercial businesses have access 
+
+12  to this information" -­
+
+13  MR. GETCHELL: If -- if, in fact, you want 
+
+14  to rewrite the statute to -- subject to -- it to attack,
+
+ obviously, that would then raise questions about a 
+
+16  nongovernmental protectionist intent, but that's not the 
+
+17  way this statute was written. It's not how it was 
+
+18  crafted. It -- it has nothing to do with commerce. 
+
+19  JUSTICE SOTOMAYOR: Well, that's the
+
+ question I'm -- I'm raising the best argument for your 
+
+21  adversary, okay? 
+
+22  MR. GETCHELL: Right. 
+
+23  JUSTICE SOTOMAYOR: Because we could call it 
+
+24  a direct -- he calls it direct discrimination because
+
+ commercial businesses are being permitted in Virginia, 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  but not noncommercial. You say it's indirect. How do we 
+
+2 draw the line between direct and indirect, when the 
+
+3  bottom-line consequence is the same? 
+
+4  MR. GETCHELL: I would -- I would have about
+
+ three answers to that. The first -- the first one is 
+
+6  that we don't trigger the dormant Commerce Clause 
+
+7  analysis, unless we are exercising the police power of a 
+
+8  State to regulate commerce. And that means -- it does 
+
+9  mean that not every statute a State passes triggers an
+
+ inquiry, even if it has an indirect effect on commerce. 
+
+11  Whereas, here, we have a statute that has a 
+
+12  solely political intent, the fact that -- that now that 
+
+13  the amici want to tell us about this great burgeoning 
+
+14  enterprise, they -- they want the Court to take that
+
+ into account. 
+
+16  JUSTICE KENNEDY: Are you -- are you telling 
+
+17  us that there is simply no commercial consequences to 
+
+18  this statute at all, that Virginians find this to be of 
+
+19  no commercial value, in any instance?
+
+ MR. GETCHELL: I am totally agnostic on this 
+
+21  record because we don't have any data on that. 
+
+22  JUSTICE KENNEDY: Well, you were the one 
+
+23  with summary judgment. Now, maybe -- maybe they didn't 
+
+24  come forward with the information, but we interpret
+
+ summary judgment in favor of -- of the losing party. 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  And you're -- so you say you are totally 
+
+2 agnostic. I am concerned that you are preventing them, 
+
+3  by the summary judgment, from showing that there -- even 
+
+4  with Virginians, there is a commercial value frequently
+
+ to this information. 
+
+6  MR. GETCHELL: All right. 
+
+7  JUSTICE KENNEDY: It's not just political. 
+
+8  MR. GETCHELL: On this -- on this record -­
+
+9  on this record, the position that was accepted by the
+
+ two courts below, entirely in accordance with this 
+
+11  Court's existing doctrine, was the first inquiry under 
+
+12  Privileges and Immunities, was whether there was a 
+
+13  fundamental right. If there -- if there is not, then we 
+
+14  make no further inquiry.
+
+ JUSTICE KENNEDY: Let's talk about -- let's 
+
+16  talk about the Commerce Clause. You are saying you are 
+
+17  agnostic. You have no idea whether or not there might 
+
+18  be some commercial value to this information. I would 
+
+19  think, as an officer of the State of Virginia or as a
+
+ matter of judicial notice, we could -- we could take 
+
+21  notice that there is. 
+
+22  MR. GETCHELL: I'm saying that, under this 
+
+23  record, that never came up, nor should it have come up, 
+
+24  because what the court said on dormant Commerce Clause,
+
+ both of the courts below, was this is not a regulation 
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  of commerce, it is a governmental action --
+
+2 JUSTICE GINSBURG: But it has -- it has -­
+
+3  JUSTICE SCALIA: You are saying that it's no 
+
+4  more necessary for you to show that there's no
+
+ commercial value to allowing out-of-Staters to do this 
+
+6  than it is necessary for you to show that there is no 
+
+7  commercial value to your not allowing out-of-Staters to 
+
+8  hunt deer in Virginia. 
+
+9  MR. GETCHELL: I believe -­
+
+JUSTICE SCALIA: You say that it's up 
+
+11  to Virginia -­
+
+12  MR. GETCHELL: Correct, Your Honor. 
+
+13  JUSTICE SCALIA: -- whether -- whether 
+
+14  out-of-Staters can hunt for Virginia game.
+
+ MR. GETCHELL: Correct. 
+
+16  JUSTICE SCALIA: And it's up to Virginia 
+
+17  whether out-of-Staters can have access to the State's 
+
+18  records, that they have no interest in, personally, 
+
+19  under -- under this law. It seems, to me, perfectly
+
+ logical. 
+
+21  MR. GETCHELL: But, remember, they do -­
+
+22  they do have access to this information, both Hurlbert 
+
+23  and McBurney. 
+
+24  JUSTICE KENNEDY: Of course, that assumes
+
+ the question as to whether or not there is a general 
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  commercial interest in these -- in these -- in these 
+
+2 documents. And you say, oh, you are agnostic. At least 
+
+3  that means you are open to the possibility that there 
+
+4  might be a commercial interest.
+
+ (Laughter.) 
+
+6  MR. GETCHELL: Well, here's the problem in 
+
+7  this case is because I think that we are not at 
+
+8  first-tier analysis, because there is no regulation of 
+
+9  commerce that is discriminatory -­
+
+JUSTICE SCALIA: I didn't understand -- if 
+
+11  that's your argument on it, I reject it as Justice 
+
+12  Kennedy does. I -- I didn't understand you to be 
+
+13  arguing that there is no commercial value. 
+
+14  MR. GETCHELL: I'm trying to explain why it
+
+ doesn't matter. 
+
+16  JUSTICE SCALIA: Yes, that's what I thought. 
+
+17  (Laughter.) 
+
+18  MR. GETCHELL: It doesn't -- it doesn't 
+
+19  matter because if -- if, on the threshold inquiry, we
+
+ don't have a discriminatory regulation of commerce, but 
+
+21  just an ordinary governmental function, then only 
+
+22  Pike-Church analysis could possibly -­
+
+23  JUSTICE SCALIA: You -- you can't say 
+
+24  discriminatory regulation. What about a tax? I mean,
+
+ you can't tax discriminatorily, and I wouldn't call 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  taxation, in and of itself, a regulation of commerce, would 
+
+2 you? 
+
+3  MR. GETCHELL: The -- the fact of the matter 
+
+4  is that it has been -- taxes have been found to be both
+
+ violations of privileges and immunities and dormant 
+
+6  Commerce Clause, where there were -- there was unequal 
+
+7  taxation of commerce. 
+
+8  JUSTICE SCALIA: Well, even though it's -­
+
+9  even though it's not a regulation of commerce?
+
+ MR. GETCHELL: Okay. Well, I -­
+
+11  JUSTICE SCALIA: Okay. I mean, I guess 
+
+12  that's your argument, then. 
+
+13  MR. GETCHELL: I apologize I chose a word 
+
+14  that is not as apt as it should have been, but a
+
+ regulation or taxation centering around commerce 
+
+16  intended to affect and actually affecting commerce, it 
+
+17  just -- this just isn't that kind of activity. 
+
+18  JUSTICE KAGAN: Well, General, can I-- just 
+
+19  indulge me with a hypothetical. Suppose that the background
+
+ for these statutes was different. The statutes were the 
+
+21  same, but, in addition to talking about people's right 
+
+22  to know about how their government works, the people 
+
+23  spend a lot of time also talking about the economic 
+
+24  benefits of a free flow of information in our country.
+
+ Would that -- if that were true -- and I 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  want to put myself on record as not remembering when these 
+
+2 statutes were passed -- you know. 
+
+3  (Laughter. ) 
+
+4  JUSTICE KAGAN: But, if that were true,
+
+ would this case be different? Or would you still be up 
+
+6  here saying the same thing? 
+
+7  MR. GETCHELL: If -- if I had -- if I had a 
+
+8  statute which, on its face, dealt with -- with 
+
+9  commerce -­
+
+JUSTICE KAGAN: The statute does exactly the 
+
+11  same thing. I'm just suggesting that there might be two 
+
+12  interests behind the statute. One is about knowing the 
+
+13  way your government operates, and the other is about 
+
+14  free flows of information in our economy.
+
+ And, if both of those things had gone into 
+
+16  the mix to create statutes of this kind, would you 
+
+17  be up here saying the same thing or not? 
+
+18  MR. GETCHELL: I would be saying something 
+
+19  at least slightly different, if I had different facts
+
+ that I had to deal with, but I think, in principle, I 
+
+21  would be arguing the power of the State to pass this 
+
+22  kind of act without having to submit to the dormant 
+
+23  Commerce Clause, at least first-tier dormant Commerce 
+
+24  Clause analysis.
+
+ JUSTICE GINSBURG: What else -- what else 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  can Virginia do besides -- I don't know if there are elks in 
+
+2 Virginia, but besides -- to reserve for its 
+
+3  own -- for its own people? You say, this is -- good 
+
+4  government in Virginia is for Virginians. Big game
+
+ hunting, scarce resource can be reserved for in-State 
+
+6  people. 
+
+7  What else can Virginia do? 
+
+8  MR. GETCHELL: Well, Virginia can -- can do 
+
+9  things including have in-State tuition. It can have -­
+
+it can subsidize its own businesses, either by training 
+
+11  programs or even by other direct subsidy from public 
+
+12  FISK. It limits welfare payments to residents of the 
+
+13  Commonwealth. 
+
+14  When the Commonwealth is just acting as a
+
+ government and not as a regulator or taxer of interstate 
+
+16  commerce, it has the status of a coequal sovereign that, 
+
+17  in its own sphere, is allowed to do its own policy 
+
+18  choices. 
+
+19  JUSTICE KAGAN: I think the thing, General,
+
+ that I was trying to get at, it seems to me you have a 
+
+21  very good case that these statutes were -- were meant 
+
+22  for a different purpose. But, in fact, it seems as 
+
+23  though your friends there have a good case that these 
+
+24  statutes have been taken over, to a large extent, across
+
+ the country by economic enterprises doing economic 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  things. And, at that point in time, Virginia's -­
+
+2  and -- you know, you are only one of two States -­
+
+3  Virginia's maintenance of this kind of -- no, it's 
+
+4  Virginians -- you know, Virginia information for
+
+ Virginians, looks very different from what it might have 
+
+6  looked like when the statute was originally passed. 
+
+7  MR. GETCHELL: If -- if we were going to 
+
+8  say, if you were going to say that -- that this is an 
+
+9  inquiry that needs to be made under the Commerce Clause,
+
+ this would be a particularly poor vehicle for doing it 
+
+11  because the Fourth Circuit held that the Pike analysis 
+
+12  of the district court was not appealed, and, therefore, 
+
+13  this case could not be sent back on remand to develop a 
+
+14  burden analysis of a record -­
+
+JUSTICE KENNEDY: But Pike is not relevant 
+
+16  here. Pike involves -- the Southern Pacific v. Arizona 
+
+17  the -- where there were -- where there were melons -­
+
+18  where there were melons, and Arizona wanted to make sure 
+
+19  that you had labels and packing of the melons in
+
+ Arizona. That was -- that was discriminatory against -­
+
+21  against interstate -- against interstate commerce. 
+
+22  That's not -- that's not dormant Commerce 
+
+23  Clause, but that is discrimination, and there is 
+
+24  discrimination here. 
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. GETCHELL: Well, there's -- there's 
+
+2 discrimination, only in the sense that we discriminate 
+
+3  against people who we don't let vote because they don't 
+
+4  live in the Commonwealth as well. I mean, we -- this
+
+ statute has a function. It's a legitimate function 
+
+6  and -­
+
+7  JUSTICE KENNEDY: You -- you could say the 
+
+8  same thing, we don't discriminate against Californians 
+
+9  who want to come and pack their melons in Arizona.
+
+ MR. GETCHELL: Well, I would say that -­
+
+11  that whether or not somebody can deal with an item in 
+
+12  commerce is -- is -- raises Commerce Clause questions. 
+
+13  And just, like in Reno v. Condon, where the State of 
+
+14  South Carolina was choosing to take its records and sell
+
+ them into the stream of commerce, there, the Court held 
+
+16  that -- that they thereby became a thing in commerce. 
+
+17  The records of the tax assessor of the 
+
+18  County of Henrico, which are available through the 
+
+19  clerk's office to Mr. Hurlbert, are not things or
+
+ persons in commerce, nor are they -­
+
+21  JUSTICE KENNEDY: It -- it would surprise me 
+
+22  if an out-of-State investor, who was thinking of putting 
+
+23  a large plant in Virginia, had absolutely no interest in 
+
+24  Virginia's tax policies.
+
+ MR. GETCHELL: But they are available. They 
+
+48
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  are publicly available. They are not just not available 
+
+2 through this adjunct service. All -- all FOIA is, is a 
+
+3  device where you don't have to go and look. There has 
+
+4  always been public access for these -- these records.
+
+ JUSTICE BREYER: So -- so suppose -- I mean, 
+
+6  I think they have an argument, saying, of course, this 
+
+7  information would be useful for gathering national 
+
+8  statistics and helping the national economy. I think 
+
+9  that's true.
+
+ On the other hand, you say, well, but, look, 
+
+11  there must be something left that the States can reserve 
+
+12  to their own citizens, there must be something. They 
+
+13  can't protect their own commerce; that's clear. They 
+
+14  can't discriminate against people who want to come here
+
+ and live here. That's clear. 
+
+16  They can't do this and that and the other 
+
+17  thing, but, gee, there must be something. I mean, can't 
+
+18  they reserve at least their -- their beaches for their 
+
+19  own citizens? No. Parking near their beaches? Well,
+
+ maybe. And -- and maybe deer. And, if not this, what? 
+
+21  That's the end. Okay? 
+
+22  So that's, basically, what you are saying. 
+
+23  This is just an interest in trying to find out how State 
+
+24  institutions work, and the voters have the main interest
+
+ there, and this is other -- so you say the other one is 
+
+49
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  attenuated, but not non-existent. He says the other is 
+
+2 important, though he recognizes States should be able to 
+
+3  do something. 
+
+4  So if you were me, how would you decide?
+
+ How would you choose? 
+
+6  (Laughter.) 
+
+7  JUSTICE BREYER: What is the standard, 
+
+8  because you know the -- the Privileges and Immunities 
+
+9  Clause is -- is considerably opaque, and there are very
+
+ few cases on it. And so what -- how would you tell me 
+
+11  to -- to resolve that -- that tension because there is a 
+
+12  tension. 
+
+13  MR. GETCHELL: I -- I think there that -­
+
+14  that the important policy issue in this case for us is
+
+ precisely as you articulated. There -- there is 
+
+16  residual sovereign power in the State to act, and we 
+
+17  have to violate the Constitution, clearly, before we 
+
+18  lose that authority. 
+
+19  And, under existing privileges and
+
+ immunities doctrine, the privileges and immunities 
+
+21  are -- are few; they are -- they have been enumerated in 
+
+22  the courts, they are similar in character, having to do 
+
+23  with commerce, not governmental action. So I would say 
+
+24  you would not extend privileges and immunities.
+
+ JUSTICE SCALIA: We are talking about 
+
+50
+ 
+Alderson Reporting Company 
+
+
+
+            
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  State-owned documents, aren't we? MR. GETCHELL: 
+
+2 Yes, Your Honor. 
+
+3  JUSTICE SCALIA: There is not much that's as 
+
+4  close to the sovereignty of the State as the possession
+
+ and right to exclude people from its own records and its 
+
+6  own documents, right? 
+
+7  MR. GETCHELL: I agree, Your -­
+
+8  Justice Scalia. 
+
+9  JUSTICE SCALIA: So the -- the issue is can
+
+ the State allow its own citizens, for purposes of seeing 
+
+11  that the government is -- is being run on the up-and-up, 
+
+12  have access to those documents, without letting the 
+
+13  whole world? 
+
+14  MR. GETCHELL: Yes, Your Honor, that is our
+
+ position. 
+
+16  JUSTICE SOTOMAYOR: So why doesn't the 
+
+17  dormant Commerce Clause affect the hypothetical I laid 
+
+18  out? Because, directly, this permits Virginia 
+
+19  commercial businesses to get something that
+
+ out-of-Staters can't. The State is putting this 
+
+21  instrument into commerce. You say, I don't know that. 
+
+22  But make the assumption that we think the record's clear 
+
+23  enough on that point. 
+
+24  I know you want to fight me on that, but
+
+ it's hard -- it's a fight with no legs because you have 
+
+51
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  to know that commercial enterprises in Virginia seek these 
+
+2 records. 
+
+3  MR. GETCHELL: I am -- I am arguing that, of 
+
+4  course, I think we say in our brief that -- that they
+
+ can be put into commerce. They are put into commerce, 
+
+6  but we don't put them into commerce. And we have -- in 
+
+7  the architecture of our bill -- our act has nothing to 
+
+8  do with commerce. 
+
+9  And if a State can't deal with -­
+
+JUSTICE SOTOMAYOR: Tell us, under our 
+
+11  jurisprudence -- the dormant Common Commerce 
+
+12  jurisprudence -- and I have some colleagues who don't -- who 
+
+13  don't believe it should exist. Take that argument out. 
+
+14  Why is this not a dormant Commerce Clause case?
+
+ MR. GETCHELL: Because it is not an exercise 
+
+16  of the State police power to regulate commerce. The 
+
+17  documents in the -- in the tax assessor's office of the 
+
+18  County of Henrico are not things or persons in commerce, 
+
+19  nor are they channels or instrumentalities of commerce.
+
+ They are just the records of the sovereign, which we 
+
+21  will allow our citizens to obtain. 
+
+22  Unless the Court has further questions, I 
+
+23  think this argument has been developed from our 
+
+24  standpoint.
+
+ CHIEF JUSTICE ROBERTS: Thank you, General. 
+
+52
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  Mr. Gupta, you have three minutes remaining. 
+
+2  REBUTTAL ARGUMENT OF DEEPAK GUPTA 
+
+3  ON BEHALF OF THE PETITIONERS 
+
+4  MR. GUPTA: Thank you. Just a few quick
+
+ points: First, I just want to clear up, on the statute, 
+
+6  I want to make it clear that this statute does allow the 
+
+7  State to fully recoup its costs, including 
+
+8  administrative costs, and the State hasn't said 
+
+9  otherwise.
+
+ And, secondly, the suggestion has been 
+
+11  made -­
+
+12  JUSTICE SCALIA: Excuse me. The -- I -- I 
+
+13  think what he's saying is you don't have to pay the 
+
+14  costs of developing and maintaining those records, which
+
+ costs are paid by the citizens of Virginia, which gives 
+
+16  them an additional interest in being able to get to 
+
+17  those documents. 
+
+18  You -- you don't claim that -- that you pay 
+
+19  for the development and the maintenance of those
+
+ records. You just pay for the incremental costs of 
+
+21  giving it to you, right? 
+
+22  MR. GUPTA: That -- that's right, 
+
+23  Justice Scalia -­
+
+24  JUSTICE SCALIA: And Virginians pay for all
+
+ the rest? 
+
+53
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. GUPTA: That -- that's right, Justice Scalia, 
+
+2 and that's true of other things, like roads and 
+
+3  courthouses. And I think this gets to -- Justice Breyer 
+
+4  asked for our test, to try to differentiate this from
+
+ other services, and I'd like to try to provide one. 
+
+6  I think, at least where you've got a 
+
+7  function that is reserved to the State -- only the State 
+
+8  can do it, only the State can run the archives -- it's 
+
+9  necessary as a channel to -- to commerce. And in the -­
+
+in the modern economy, this is as much part of the 
+
+11  information infrastructure as transportation is, like 
+
+12  courthouses, like archives, like roads. 
+
+13  It would not stretch limited resources. It 
+
+14  would not cost the State additional money, and it would
+
+ not jeopardize important local traditions or 
+
+16  institutions -­
+
+17  JUSTICE GINSBURG: Are you leaving out -­
+
+18  MR. GUPTA: -- that I think you can feel 
+
+19  comfortable -­
+
+JUSTICE GINSBURG: Are you leaving it -­
+
+21  you -- you switched now to-- and you were led there, but 
+
+22  you switched to the dormant Commerce Clause. What about 
+
+23  your other client, McBurney? He doesn't have any 
+
+24  dormant Commerce Clause claim.
+
+ MR. GUPTA: Right. And I -- I think the 
+
+54
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  test that I just laid out would work for both clauses. It's a 
+
+2 limiting principle on the justification side. 
+
+3  But -- but that's right, Mr. McBurney does not have a 
+
+4  dormant Commerce Clause claim. His claim is based on
+
+ equal access to proceedings. 
+
+6  He wanted to get recovery of child support 
+
+7  that he was owed. So he is a creditor seeking to pursue 
+
+8  a debt on equal terms with people in the State of 
+
+9  Virginia, and the State set up a process. As one step
+
+ along the way to court, you go to the agency, you ask 
+
+11  the agency to enforce. The -- the agency has unique 
+
+12  enforcement tools. 
+
+13  It can suspend someone's driver's license, 
+
+14  for example. It can -- it can intercept income tax
+
+ refunds, and it can go to court on your behalf. And all 
+
+16  he's asking for is the rules of the game. He wants to 
+
+17  know what procedures apply to that process. And at 
+
+18  least where a -- an agency has a process that directly 
+
+19  affects a non-stater in the pocketbook, all we are
+
+ saying is that equal access to the proceedings means 
+
+21  equal access to the information governing those 
+
+22  proceedings. 
+
+23  And, finally, I would just like to close by 
+
+24  saying that -- you know, what I don't think we heard on
+
+ the justification side from the State was really any 
+
+55
+ 
+Alderson Reporting Company 
+
+
+
+  
+
+  
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  justification because the State can recoup its costs. And so 
+they are not saying that this will cost them 
+
+2  anything more, which was the only justification they 
+
+3  pressed in -- in the courts below. 
+
+4  And so they are left with the position that
+
+ they can discriminate simply because they think they 
+
+6  can. And, if you look at the Privileges and Immunities 
+
+7  Clause, it sits right next to the Full Faith and Credit 
+
+8  Clause, which indicates, if anything, that the framers 
+
+9  thought that the movement of public records across State
+
+ lines was important to interstate comity. 
+
+11  They changed the Articles of Confederation 
+
+12  version, which did not include public records; it only 
+
+13  referred to judicial records. They added a mention of 
+
+14  judicial records -- nonjudicial records and saw that
+
+ that was important to -- to comity across State lines. 
+
+16  But -- but their position is about the step 
+
+17  before that. It's about whether you get the records in 
+
+18  the first place. 
+
+19  Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+21  The case is submitted. 
+
+22  (Whereupon, at 11:16 a.m., the case in the 
+
+23  above-entitled matter was submitted.) 
+
+24 
+
+56 
+Alderson Reporting Company 
+
+
+
+OfficialOfficial 
+
+Page 57 
+
+adult 3:19 architecture 52:7 attenuated17:3 borders 22:19A 
+adversary 39:21 archive 14:4 50:1 bother33:6 36:4ability 9:4 
+affect 10:17 38:13 archives 13:8 14:1 Attorneys 11:4 bothering 24:20able 6:1 7:16 8:12 
+
+44:16 51:17 24:14 26:2,7 27:21 authenticity 25:4 bottom-line 40:313:7,10 32:5 50:2 
+agencies 8:13 54:8,12 authority 50:18 Breyer17:6,9,1653:16 
+agency 8:25 55:10 arguing 15:20 43:13 available 3:11 12:15 18:8,14,17 19:11above-entitled1:14 
+
+55:11,11,18 45:21 52:3 24:13 48:18,25 19:18,21,24 20:556:23 
+aggregate 7:20 12:1 argument 1:15 2:2,5 49:1,1 20:16 24:16 25:11absence 38:22 
+aggregators 26:24 2:8 3:3,6 15:22 aware 18:19 36:15,20 37:25absent 24:6 
+agnostic 40:20 41:2 16:4 19:13 20:22 a.m 1:16 3:2 56:22 38:15 49:5 50:7absolutely 48:23 
+
+41:17 43:2 22:8 23:20 25:7,9 54:3accepted41:9 Bagree 36:16 51:7 26:5,11,12 29:23 brief 11:3,5 25:18access 3:11,13 4:10 
+back 31:13 36:25AL 1:3,9 31:10 32:20 33:5 27:2,13 31:8 52:47:14 8:18 12:10 
+
+47:13Alaska 19:24 34:20 36:16,23,24 briefs 5:1115:18 16:1 21:8 
+background 44:19alliteration 22:10 37:17,23 39:20 bring 5:2326:2 27:5,17,18 
+bar26:6,7 29:9allow9:16,24 51:10 43:11 44:12 49:6 broadcast 19:128:5 31:7,9,10,13 
+Barnard 29:752:21 53:6 52:13,23 53:2 broadly 18:331:17 32:12 36:1 
+barrier27:17allowed6:3,4 35:12 arguments 10:20 brunt 3:1639:6,9,11 42:17,22 
+based4:11 5:21 7:346:17 15:20 26:14 bucks 6:1749:4 51:12 55:5,20 
+
+8:18 9:2,3 55:4allowing 8:1 42:5,7 Arizona 47:16,18,20 building 26:7 38:555:21 
+basic 4:12allows 19:20 21:5,18 48:9 burden33:23 34:15accessing 4:23 
+basically 17:10 18:927:25 35:21 Articles 56:11 34:15 47:14accord 8:9 
+
+49:22amazing 24:25 25:1 articulated50:15 burgeoning 40:13account 40:15 
+basis 29:13amici 40:13 asked32:2 54:4 business 5:3,10,11act 45:22 50:16 52:7 
+beaches 49:18,19amicus 11:3,4 27:2 asking 16:21 24:12 7:4,9,14,16,18acting 46:14 
+bear 3:15analysis 14:20 15:6 33:5 34:20 55:16 11:23 12:19,21action 42:1 50:23 
+bears 14:615:12 33:8 40:7 aspect 16:22 13:11 23:15,22activities 10:4 27:16 
+behalf 1:18,21 2:4,743:8,22 45:24 assess 29:17 38:14activity 10:19 44:17 
+
+2:10 3:7 29:2447:11,14 assessment 5:6 businesses 3:15actual 30:15 
+53:3 55:15answer31:19 27:10 31:17 38:3 12:19,23 30:17,21add 20:9 25:7 
+
+belief 22:9answers 40:5 assessments 5:12 39:11,25 46:10added24:9 31:21 
+believe 42:9 52:13anybody 30:21 14:3 51:1933:20,20,23 56:13 
+benefit 20:11anyway 30:9 33:18 assessor 48:17 buy 16:7 37:3addition 44:21 
+benefits 44:24anyways 32:1 assessor's 38:9additional 33:21 Cbest 12:20 15:16,22apologize 44:13 52:1753:16 54:14 
+
+16:4,16 39:20 C 2:1 3:1appealed47:12 assume 17:16 32:5address 34:18 
+better12:21 36:21 Californians 48:8appeals 38:19 39:10addressing 20:23 
+
+37:14,20 call 39:23 43:25APPEARANCES assumes 42:24adjunct 49:2 
+big 9:8 10:4 26:18 calling 22:19,211:17 assumption 51:22adjustment 27:1 
+
+32:3,3 34:23 46:4 23:7,8,10applicable 17:4,22 assure 19:6administrative 
+bigger7:6 calls 39:24applied24:2 as-applied22:2421:19 29:11 30:3,8 
+bill 52:7 camps 17:2,21 18:6apply 32:14 55:17 23:3,6 31:653:8 
+bit 25:8 26:21 care 21:10 36:4appreciate 20:23 attack 39:14admission 31:5 
+book 38:10,10 Carolina 48:14apt 44:14 attend 8:7adopted31:1 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+Official 
+
+Page 58 
+
+carried8:17 Circuit's 11:17 collectors 38:13 9:19 10:3 44:24 46:25 
+case 3:4 14:15 15:13 cited25:17 come 6:19 12:22 companies 5:19 County 38:4 48:18 
+
+15:16,22,23 16:4 citizens 8:10 9:4,12 40:24 41:23 48:9 6:21 12:5 21:8 52:18 
+16:17,24 17:7,14 22:11 28:11 30:17 49:14 27:12 39:6 couple 13:5 
+17:21,21 18:15 32:12 33:19,25 comes 36:16 company 7:2 course 42:24 49:6 
+31:5 38:4 43:7 35:5,21 36:7 49:12 comfortable 54:19 compared12:7 52:4 
+45:5 46:21,23 49:19 51:10 52:21 comity 56:10,15 completely 7:13,18 court 1:1,15 3:9 
+47:13 50:14 52:14 53:15 commerce 10:7,23 11:24 23:9 10:21 15:7 18:4 
+56:21,22 citizenship 29:13 11:11,13,15 13:2 complicated35:25 28:13 29:7,8,11 
+
+cases 10:8 15:9 claim 28:3 39:1 14:7,12,17,22 15:5 concern 36:4 30:1 38:18,18 
+25:17 28:14 50:10 53:18 54:24 55:4,4 15:15,18,21 16:1,8 concerned8:11 15:1 40:14 41:24 47:12 
+
+categorically 11:8 claiming 22:16 16:9,14,22 17:3 41:2 48:15 52:22 55:10 
+category 15:11 claims 39:3 18:2,3,5,9 26:12 Condon16:1,6,22 55:15 
+cause 35:22 class 20:6 32:23,24 33:1,7 48:13 courthouse 13:8,25 
+centering 44:15 classes 20:7 36:9 39:4,18 40:6 Confederation courthouses 26:1 
+Century 9:10 25:20 Clause 4:6 10:7,8 40:8,10 41:16,24 56:11 54:3,12 
+certainly 22:2 33:7 14:22 18:9 26:12 42:1 43:9,20 44:1 consequence 40:3 courts 32:14 41:10 
+chain 7:5 32:23,25 33:7 36:8 44:6,7,9,15,16 consequences 40:17 41:25 50:22 56:3 
+challenge 22:24 36:9 39:1,4 40:6 45:9,23,23 46:16 conserve 21:15 Court's 10:8 16:2,6 
+
+23:4,6 31:6 41:16,24 44:6 47:9,21,22 48:12 considerably 50:9 41:11 
+changed56:11 45:23,24 47:9,23 48:12,15,16,20 consistent 19:5 covered4:5,17 9:21 
+changing 23:22 48:12 50:9 51:17 49:13 50:23 51:17 constitute 10:3 crafted39:18 
+channel 54:9 52:14 54:22,24 51:21 52:5,5,6,8 Constitution 36:14 create 45:16 
+channels 52:19 55:4 56:7,8 52:11,14,16,18,19 50:17 created35:9 
+character23:15,22 clauses 55:1 54:9,22,24 55:4 constitutional 4:21 credit 26:25 27:11 
+
+50:22 clear 4:8 13:22 commercial 3:14 context 26:16 56:7 
+characterize 36:23 18:19 49:13,15 7:21,22 9:9 10:4 contrast 3:12 creditor55:7 
+charge 30:17 51:22 53:5,6 10:19 11:1,2 12:4 correct 3:20 20:4 cross 38:17 
+charities 17:23 clearly 26:15 50:17 18:20 26:22 30:12 24:8 32:21 42:12 curiosity 8:23 
+Chief 3:3 6:5,11,16 clerk's 38:4,7,10 31:1 35:8,11,16,17 42:15 cuts 7:18 
+
+11:10 12:17,25 48:19 39:8,11,25 40:17 correctly 4:21 38:19 cutting 23:9 
+14:19,25 15:4 client 5:2,15 26:18 40:19 41:4,18 42:5 cost 6:15,17 21:12 
+26:10,17,24 27:3 37:2 54:23 42:7 43:1,4,13 28:12 30:5,8,15 D 
+
+29:21,25 31:18,25 clients 5:4,6 51:19 52:1 32:9 33:14,20,20 D 3:1 
+32:18,22 33:4,12 client's 11:23 commercially 10:17 54:14 56:1 data 5:18 6:20 7:2,6 
+33:13,17 35:24 close 51:4 55:23 COMMISSION... costing 28:23 29:4 11:8 12:4 21:8 
+52:25 56:20 closer28:8 1:7 costs 21:9 28:5,17 22:21 27:12,13 
+
+child 1:8 55:6 closest 15:13,23 common4:16 22:19 28:19 29:15 30:3 38:3,13 40:21 
+choice 24:3 36:7 code 31:16 22:20 23:7,8,10 31:21 32:4 33:9 database 33:15,18 
+choices 46:18 codes 31:15 52:11 53:7,8,14,15,20 34:1,5 
+choose 50:5 coequal 46:16 Commonwealth 56:1 de 10:22,24 13:17 
+choosing 48:14 colleagues 52:12 46:13,14 48:4 counsel 21:20 22:7 deal 26:18 32:3,3 
+chose 44:13 collect 14:2,3 common-law4:10 29:21 56:20 45:20 48:11 52:9 
+Circuit 47:11 collecting 5:11 community 9:15,17 country 26:19 29:10 dealt 45:8 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 59 
+
+debt 55:8 directly 51:18 55:18 45:22,23 47:22 38:14 existing 32:15,15 
+decide 50:4 DIRECTOR 1:7 51:17 52:11,14 engaging 25:19 41:11 50:19 
+decision 16:2,6 35:4 discover32:16 54:22,24 55:4 enormous 25:21 exists 19:1 24:10 
+
+35:20 discriminate 48:2,8 drafted35:10 enterprise 40:14 expanding 38:1 
+decisionmaker 49:14 56:5 draw40:2 enterprises 46:25 expansive 37:23 
+
+18:11 discriminates 19:9 driver's 55:13 52:1 expenses 21:5,19 
+decisions 32:14 22:10 DUNCAN 1:20 2:6 entirely 8:9 17:14 expert 6:1 
+deed5:5,8 discriminating 29:23 41:10 explain 5:10 13:21 
+deeds 4:16,19,23 18:12 28:25 29:13 D.C 1:11,18 entitled4:21 22:9 36:7 43:14 
+DEEPAK 1:18 2:3,9 discrimination 28:17 38:3 explained11:24 
+
+3:6 53:2 10:11,23 14:24 E enumerated50:21 explains 11:5 27:13 
+deer42:8 49:20 15:1,10,10,15 E 2:1 3:1,1 equal 3:12 24:14 explanation 13:19 
+defend 32:13 16:11,20 18:2,5 EARLE 1:20 2:6 55:5,8,20,21 extend 50:24 
+definition 33:15 30:7 31:4 39:24 29:23 equality 31:7 extending 21:8 
+degree 13:23 47:23,24 48:2 early 4:1 era 25:16 extensive 14:11 
+demand 24:6,10 discriminatorily easily 30:8 erecting 27:17 extent 13:15,16 
+demonstrated35:22 43:25 economic 44:23 ESQ 1:18,20 2:3,6,9 14:6,13 37:8,8,9 
+denied11:8 discriminatory 3:13 46:25,25 essential 26:19 37:10 46:24 
+deny 4:2 10:24 10:12 13:2 15:21 economy 27:1 37:6 27:10,15 
+
+16:19 21:1 38:12 16:17 33:1 43:9,20 37:16 45:14 49:8 estate 5:6 37:1,7 F 
+
+depend 25:25 26:1 43:24 47:20 54:10 ET 1:3,9 fabulous 36:17 
+depending 11:14 dismiss 14:10 effect 7:6,19,22 evenhandedly 15:12 face 10:11 15:10 
+depends 26:1 disproportionate 10:5,12 11:12,13 everybody 9:20 16:20 45:8 
+DEPUTY1:6 11:14 11:23 12:1 13:1,1 evidence 17:25 facial 14:23 15:1 
+description 26:22 dispute 22:20 23:7 15:10 23:9 40:10 18:17 18:5 
+designed25:21 distinction14:15 effected39:4 evil 28:16 fact 7:9 22:21 35:3 
+develop 47:13 26:9 27:25 effects 15:5 exactly 19:12 45:10 36:12 38:2 39:13 
+developed52:23 distinctions 13:5 either25:11 32:4 example 10:13 40:12 44:3 46:22 
+developing 53:14 district 38:18 47:12 36:8 46:10 29:14 55:14 facts 45:19 
+development 53:19 DIVISION 1:8 election 24:24 examples 27:5 fad 30:23 
+device 49:3 doctrine 32:15,15 elections 9:23,25 exception 10:22 fair 37:25 39:7 
+difference 13:23,23 41:11 50:20 20:19 13:17 18:18 fairly 37:23 
+differences 24:25 documents 6:13,18 elks 46:1 exclude 10:4 51:5 Faith 56:7 
+different 11:18,19 43:2 51:1,6,12 employees 34:17 excluded35:15 fall 9:19 
+
+13:24 20:2 27:21 52:17 53:17 enable 8:5,6 exclusively 13:7 far 33:21 
+44:20 45:5,19,19 doing 7:13 9:13 enact 3:20 excuse 10:16 53:12 favor 18:12 40:25 
+46:22 47:5 23:12 34:24 35:6 enacted3:18 4:2 8:4 exempted17:23 feature 28:1 
+
+differentiate 54:4 36:18 46:25 47:10 8:20 9:7 18:21 27:23 February 1:12 
+differently 18:7 dollars 30:13 ended20:8 exempts 4:19 Federal 34:11 
+difficult 37:22 doors 26:6,7 enforce 7:1 55:11 exercise 12:16 fee 29:17 
+difficulty 31:6 dormant 10:7 14:22 enforcement 1:9 52:15 feel 54:18 
+direct 39:24,24 40:2 18:10 26:11 32:23 55:12 exercising 40:7 fight 51:24,25 
+
+46:11 32:24 36:9 39:4 enforces 3:13 exist 4:15 52:13 finally 55:23 
+direction 38:6,11 40:6 41:24 44:5 engaged10:19 existed25:16 find 9:4 24:25 31:11 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 60 
+
+36:10 40:18 49:23 22:8 32:16 38:22 28:22 22:1,13,18,25 23:2 48:19 
+finite 21:4 34:17 41:13 give 6:13,19 9:14,22 23:5,25 24:12 Hurlbert's 22:20 
+first 3:4,17,20 8:3 fundamentally 30:16 31:9,9 35:4 25:10,15 26:13,23 23:6 
+
+8:16 12:11 13:6 13:24 gives 24:9 53:15 27:8 28:8,20,24 hygiene 30:23 
+15:8 32:25 36:24 further6:25 29:19 giving 53:21 29:5 53:1,2,4,22 hypothetical 28:10 
+38:21 40:5,5 41:11 41:14 52:22 go 6:18 7:5 30:4 54:1,18,25 44:19 51:17 
+53:5 56:18 furthered21:3 36:25 38:5,6 49:3 hypothetically 
+
+first-tier15:8 43:8 future 37:11 55:10,15 H 39:10 
+45:23 goes 13:14 16:13 hand 49:10 
+
+FISK 46:12 G going 7:1,22 9:8 handle 33:21 I 
+
+fits 26:22 G 3:1 10:23 12:19,20 happen37:15 idea 38:16 41:17 
+flaw5:23 game 42:14 46:4 18:21 21:12,12,13 happened30:24 illegal 30:4 
+Florida 3:19 55:16 21:14 29:10 30:9 hard 18:14 51:25 illustrated26:15 
+flow37:19 44:24 gather6:1 30:13 33:19 36:1 harm 20:11,13,13 immunities 4:6 10:8 
+flows 45:14 gathering 5:3 22:21 47:7,8 Hawaii 19:25 22:17 26:11,15 
+focus 7:17,19 26:21 27:10 49:7 good 19:7 20:13 hear 3:3 32:19 36:8 39:1 
+focused31:10 gathers 5:6 21:24 23:20 29:12 heard 33:8 36:22 41:12 44:5 50:8,20 
+FOIA 8:1 9:12,19 gee 49:17 46:3,21,23 55:24 50:20,24 56:6 
+
+12:8 21:11 23:23 general 1:20 29:22 governing 55:21 held 16:6 47:11 immunity 22:17,18 
+26:22 30:18 34:16 31:13 38:13 42:25 government 8:4,6,8 48:15 impact 7:9 9:9 13:15 
+49:2 44:18 46:19 52:25 8:12 9:5,13 11:4 help 12:18 25:2,4 14:12,16,16,17,20 
+
+following 8:2 generally 17:4,22 19:7 20:14 21:23 helpful 11:20 15:2 
+food 7:5 generate 33:18 32:7,11 34:11 helping 49:8 impermissible 15:14 
+forecloses 7:13 generating 33:15 35:10,14,14 36:5 helps 25:13 implemented11:6 
+
+11:25 Getchell 1:20 2:6 44:22 45:13 46:4 Henrico 38:4 48:18 important 36:10 
+forward 8:17 40:24 29:22,23,25 30:10 46:15 51:11 52:18 37:5,13 50:2,14 
+found 44:4 30:20 31:22 32:13 governmental 33:2 hire 5:19,22 6:8,14 54:15 56:10,15 
+founding 25:16 32:21,24 33:11,13 42:1 43:21 50:23 6:21 7:2 21:12 imposed30:9 
+fours 17:14 33:23 34:1,6,14 great 14:16 36:4 27:12 33:21 34:22 imposition14:7 
+Fourth11:17 47:11 35:3,19 36:3 37:22 40:13 hiring 25:18 incidental 11:12,13 
+framers 56:8 38:2,16 39:2,13,22 guess 5:1 20:20 history 36:25 11:17,22,24,25 
+free 28:10 44:24 40:4,20 41:6,8,22 44:11 hold 13:20 26:19 12:2,6 13:1 
+
+45:14 42:9,12,15,21 43:6 Gupta 1:18 2:3,9 3:5 honest 19:7 include 27:22 39:8 
+Freedom 4:19 43:14,18 44:3,10 3:6,8,22 4:1,8,18 Honor30:20 31:22 56:12 
+frequently 41:4 44:13 45:7,18 46:8 5:1,13,17 6:8,14 33:11 42:12 51:2 including 46:9 53:7 
+friend 32:2 47:7 48:1,10,25 6:20 7:12,24 8:15 51:14 income 55:14 
+friends 46:23 50:13 51:1,7,14 9:6,23 10:21 11:16 honored11:7 increase 29:10 37:8 
+full 9:10 56:7 52:3,15 12:24 13:4,18,21 hours 21:14 37:9 
+fully 5:10 21:19 53:7 getting 20:10 23:21 14:9,13,21 15:3,7 house 6:19 increased6:15,16 
+function 30:13 33:2 Ginsburg 5:9,14 7:8 15:17,24 16:5,12 hunt 42:8,14 incremental 53:20 
+
+43:21 48:5,5 54:7 9:11 21:9,18 23:12 16:15,19 17:1,8,13 hunting 46:5 indicates 56:8 
+functioning 8:11 42:2 45:25 54:17 17:20 18:13,16,24 Hurlbert 5:2 23:14 indirect 40:1,2,10 
+
+12:13 54:20 19:3,8,17,19,23 25:22 27:9 31:5,8 indisputably 16:8 
+fundamental 4:5,5 Ginsburg's 24:5 20:4,15,24 21:17 37:23 38:6 42:22 indulge 44:19 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 61 
+
+industry 7:6 9:9 interpret 40:24 43:12 47:15 48:7 lawyers 25:25 M 
+25:21,24,25 26:1 interstate 14:7,12 48:21 learn 12:21 25:5,5 main 49:24 
+27:13 15:5,15,21 16:8,8 Kennedy's 29:7 leaving 54:17,20 Maine 18:1 
+
+information4:20 5:8 46:15 47:21,21 kind 10:19 13:23 led54:21 maintain 33:18 
+7:11 8:5 18:20 56:10 25:9 26:9 27:8 left 30:12 49:11 56:4 maintaining 33:14 
+19:14,15,25 20:6 invalidity 14:23 37:17,20 38:14 legislative 10:10 53:14 
+20:10,12 23:17 investor 48:22 44:17 45:16,22 legislature 18:11 maintenance 47:3 
+24:7,11,13 27:9,9 involves 20:10 47:3 legitimate 48:5 53:19 
+27:10,14,15,22 47:16 know3:18 5:17 6:9 legs 51:25 majority 3:14 10:25 
+30:6 34:21 35:1,5 in-State 17:24 46:5 6:17,21,23 9:13 lend 25:4 11:1 12:2 
+37:1,19 39:9,12 46:9 10:6 12:6 14:2 letter6:13,18 making 25:9,23 
+40:24 41:5,18 in-Stater23:19 15:6 16:5,21 17:3 letting 51:12 34:19 37:18 
+42:22 44:24 45:14 Islands 29:9 17:13,23 18:1,4,16 let's 28:3 36:17 37:2 malfeasance 8:7 
+47:4 49:7 54:11 issue 50:14 51:9 19:22 20:24 22:4 41:15,15 MARK 1:3 
+55:21 item48:11 24:1,19 25:2,12,17 license 55:13 market 7:13,14,20 
+
+infrastructure 54:11 it'll 30:5 26:3,13 27:20 lifetime 3:19 30:24 11:25 23:10 27:18 
+inquire 35:5 28:13,15 29:15 limited54:13 27:19Jinquiries 35:11,12 31:25 33:4 37:7 limiting 55:2 matter1:14 4:22 
+
+J 1:335:16,22 44:22 45:2 46:1 limits 46:12 8:25 13:16 14:11 
+jeopardize 54:15inquiry 38:20 40:10 47:2,4 50:8 51:21 line 40:2 14:14,15 23:16,19 
+job24:23,24 25:4 41:11,14 43:19 51:24 52:1 55:17 lines 56:10,15 23:23 41:20 43:15 
+JR 1:20 2:6 29:23 47:9 55:24 little 5:10 25:8 43:19 44:3 56:23 
+judgment 38:17,18 insofar 18:10 knowing 6:2,3 45:12 live 27:19 48:4 McBurney 1:3 3:4 
+
+38:19 40:23,25 instance 40:19 49:15 42:23 54:23 55:3 L41:3institute 12:20 local 5:25 11:4,15 mean 7:10 10:18 
+judicial 20:2,3 41:20 L 1:613:12 54:15 11:17,19 14:14 
+
+56:13,14 labels 47:19institutions 49:24 logic 26:13 27:24 15:17 17:1,13 
+jurisprudence 52:11 laid 51:17 55:1 54:16 logical 42:20 18:16 22:13 23:25 
+
+52:12 large 5:18 6:20 instrument 51:21 long 25:24 25:8,17 27:25 
+justification55:2,25 25:24 27:12 46:24 instrumentalities longstanding 8:18 28:10 33:6 34:21 
+
+56:1,2 48:2352:19 12:10 40:9 43:24 44:11 
+justified36:13 late 9:10 25:20 insurance 27:1 look 10:9,10,12 17:2 48:4 49:5,17 
+justify 30:7 32:17 Laughter17:12,19 intended18:1 35:13 17:13 18:8 35:13 means 11:22,25 
+
+34:13 36:19 38:1 44:16 36:25 49:3,10 56:6 12:6 37:20 40:8 K 43:5,17 45:3 50:6 intent 39:16 40:12 looked47:6 43:3 55:20KAGAN 10:15 law3:20 4:2,16,19 intercept 55:14 looking 10:6 meant 19:6 46:21 38:12 44:18 45:4 4:20 10:2,17 17:4 interest 8:22,25 9:3 looks 47:5 measures 20:2045:10 46:19 17:5,22,22 23:8 20:13,17,17,19,21 lose 7:4 36:2 50:18 media 18:17,22,23 keep14:3 32:10 34:9,22 42:19 21:1,2 22:3,4 losing 40:25 melons 47:17,18,19 34:19 laws 3:10,18,23 4:9 31:14 32:7 37:19 loss 21:7,17 48:9Kennedy 15:13,19 8:3,10,17,20,22 42:18 43:1,4 48:23 lost 21:6 mention 56:1316:3,10,13,16,23 9:7 12:8 22:22 49:23,24 53:16 lot 25:3 27:4 44:23 mentioned20:717:18 40:16,22 26:4 35:10interests 4:13 8:19 lower7:5 32:14 merely 24:1041:7,15 42:24 lawsuits 36:118:19 31:23 45:12 miners 11:8 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 62 
+
+minimis 10:22,24 28:4,6,16 29:16,17 original 10:9 party 40:25 pocketbook 55:19 
+13:17 non-commerce 18:4 originally 47:6 pass 28:17 45:21 point 9:11 14:8 
+
+minutes 53:1 non-existent 50:1 origination 26:25 passed45:2 47:6 28:22 38:2 47:1 
+mix 45:16 non-financial 34:15 27:11 passes 28:4 40:9 51:23 
+modern 4:8,11 12:8 non-stater55:19 ought 8:12 passing 28:11 pointless 34:10,12 
+
+26:4 54:10 notice 41:20,21 outlanders 21:22,25 pay 6:12 28:5 34:1,5 points 34:22 53:5 
+mold 18:15 notion31:3 outsiders 32:11 53:13,18,20,24 police 40:7 52:16 
+money 28:23 30:18 notions 4:11 out-of 23:18 paying 35:1 policies 7:15 48:24 
+
+34:25 37:10,11,11 number34:17 out-of-State 3:15 payments 46:12 policy 3:13,16 7:7 
+54:14 7:23 8:1 9:16 11:1 peculiar 9:20 10:13 11:5,6,9 
+
+morning 3:4 O 11:7 12:4 14:17 people 4:22 8:1,5,6 12:3,18 22:4 35:4 
+mortgage 26:25 O 2:1 3:1 21:8 30:18 36:25 9:16 10:17 12:22 35:20 46:17 50:14 
+
+27:6,11 objective 18:10 38:13 39:6 48:22 16:7 18:6,19 20:18 political 9:15,17,19 
+motions 38:17 obtain 52:21 Out-of-Stater23:19 21:13,16 25:18 10:3 30:11,22 
+movement 56:9 obviously 18:2 23:20 35:7 27:12,19 29:9 32:5 40:12 41:7 
+mucking 21:23 39:15 out-of-Staters 28:12 32:6,6 33:22 34:24 poor 47:10 
+Mullaney 28:14 occurring 8:8 31:20 34:4 35:25 37:1,13 38:14 pose 28:16 
+
+office 38:4,7 48:19 42:5,7,14,17 51:20 44:22 46:3,6 48:3 posed29:16 
+N 52:17 out-of-State's 23:21 49:14 51:5 55:8 position 4:20,25 
+
+N 2:1,1 3:1 officer41:19 overhead 30:14 people's 44:21 15:23 20:23 22:12 
+name 7:2 official 5:25 14:4 31:21 32:4,10 33:9 perfectly 21:24 27:24 30:12 41:9 
+NATHANIEL 1:6 officials 34:17 33:16 42:19 51:15 56:4,16 
+national 26:20 37:6 oh 43:2 owed55:7 perform 6:22 possession 51:4 
+
+37:16,18 49:7,8 okay 17:1,16,20 owns 12:14 performed5:16 possibility 43:3 
+nationally 37:12 19:21 20:5,14 permissible 29:18 possible 26:25 
+nature 31:2 21:24 32:22 39:21 P permits 39:7 51:18 possibly 17:9 43:22 
+near 49:19 44:10,11 49:21 P 3:1 permitted39:25 power40:7 45:21 
+necessary 10:16,17 old 21:24 Pacific 47:16 person 6:12 12:21 50:16 52:16 
+
+42:4,6 54:9 ones 5:19 8:3 35:17 pack 48:9 20:12 33:21 practice 11:12 
+need8:21 35:22 opaque 50:9 packing 47:19 personal 8:18,22 practices 12:20 
+needs 47:9 open12:19 29:9 page 2:2 11:5 personally 42:18 precedence 16:18 
+never41:23 43:3 paid 53:15 persons 48:20 52:18 precisely 6:10 29:6 
+new4:9 opening 25:18 pardon22:9 pertains 19:15,25 50:15 
+Newfound 17:2,21 operates 32:8,11 Parking 49:19 pertinent 33:7 preclude 4:22 
+newspapers 19:10 45:13 part 9:14,17,18 Petitioners 1:4,19 predictions 37:15 
+non28:25 operating 18:6 24:21 25:23 31:23 2:4,10 3:7 53:3 present 31:16 
+noncitizens 9:24 opinion11:19 16:24 54:10 piece 18:17 presents 28:9 
+
+22:11 28:25 29:1 29:7 participate 9:25 Pike 14:20 15:6,12 press 18:21 
+noncommercial 11:6 oral 1:14 2:2,5 3:6 particular29:1 47:11,15,16 pressed56:3 
+
+39:8 40:1 29:23 31:14 Pike-Church43:22 pretty 18:14 19:9 
+nongovernmental order10:19 12:12 particularly 12:4 place 56:18 prevent 18:10 
+
+39:16 12:16 47:10 plant 48:23 preventing 41:2 
+nonjudicial 56:14 ordinary 43:21 parties 12:3 player13:12 primarily 17:23 
+nonresidents 3:12 origin 36:6 parts 19:12 please 3:8 30:1 principal 14:16 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 63 
+
+22:22 46:11 49:4 56:9,12 24:18 remaining 53:1 5:13 6:7,13,17 
+principally 5:5 publicly 49:1 reasonably 21:3 remand 47:13 9:23 12:24 15:3,3 
+principle 13:16 36:5 purpose 8:2,4,10,16 reasoning 7:25 8:14 remember8:3 30:24 16:12,15 17:20 
+
+45:20 55:2 10:2,10 12:7,8 REBUTTAL 2:8 42:21 18:13,24 19:3,13 
+privilege 22:17,18 19:6 30:11 46:22 53:2 remembering 45:1 19:16,18,23 20:18 
+privileges 4:6 10:7 purposes 18:20 35:9 recalcitrant 5:25 6:1 Reno 16:1,6,22 20:18,22 22:25 
+
+22:16 26:11,15 35:12 51:10 recipient 20:11 48:13 23:1,2,14,25 24:10 
+32:19,19 36:8 39:1 pursue 55:7 recognized12:13 repeatedly 10:9 24:11 25:12,15 
+41:12 44:5 50:8,19 pursuing 22:19 23:9 recognizes 50:2 repel 31:3 27:18 28:20,24 
+50:20,24 56:6 put 16:24 18:15 record 38:16 40:21 reply 31:8 29:5 31:16 32:16 
+
+probably 20:17 25:5 28:22 37:13 45:1 41:8,9,23 45:1 reporting 27:1,11 34:1 37:16 38:15 
+30:5 35:15 52:5,5,6 47:14 reports 24:25 38:22 39:22 41:6 
+
+problem24:5,6 43:6 putting 48:22 51:20 recording 39:5 request 5:18 6:24 41:13 44:21 51:5,6 
+problems 28:9 records 3:10,15 24:17,18 28:23 53:21,22 54:1,25 
+
+Qprocedures 55:17 4:16 5:3,7,12 6:2 32:5 55:3 56:7 
+question 15:4,25 proceedings 55:5,20 7:21 8:13 9:1,9 requesters 3:14,15 rights 4:10,14 7:1 
+
+16:3,14,21 17:11 55:22 12:14,15 14:3 7:22 10:18,25 11:1 8:18 12:10,16 
+19:12 24:17 28:9 process 5:24 6:2 8:8 15:18 16:1,7 20:2 11:2,2 12:4 33:10 22:15,15 
+36:20 39:20 42:25 30:18 55:9,17,18 20:3 21:14 22:22 requesting 18:20 risk 20:13 
+
+questions 29:19processes 24:24 25:19 26:4,8,21,25 requests 5:20 6:23 road 13:9 
+39:15 48:12 52:22 produce 35:14 31:17,20 42:18 7:21,21 8:1 11:7,8 roads 26:1 54:2,12 
+
+question's 24:18producers 18:12 48:14,17 49:4 51:5 21:11 30:19 34:16 ROBERTS 3:3 6:5 
+quick 53:4profession 25:16,23 52:2,20 53:14,20 reserve 29:20 46:2 6:11,16 11:10 
+quiet 32:11professionals 25:18 56:9,12,13,14,14 49:11,18 12:17,25 14:19,25 
+
+programs 46:11 56:17 reserved46:5 54:7 15:4 26:10,17 27:3 R
+promote 22:5 record's 51:22 reserving 27:18 29:21 31:18,25 
+
+R 3:1property 4:12 5:3 recoup 21:5,19 32:4 resident 30:4 34:23 32:18,22 33:4,12 
+raise 39:158:19,22 9:3,9 33:9,14 53:7 56:1 residents 3:11 17:24 33:17 35:24 52:25 
+raises 48:1212:13,16 17:4,22 recover30:14,15 30:18 34:20 39:8 56:20
+raising 39:2025:19 26:8 37:2 recovery 55:6 46:12 routine 5:18,20,24 
+rate 37:9property-related referred56:13 residual 50:16 6:23,25 
+rationale 29:6 37:21 5:8 refunds 55:15 resolve 50:11 rule 14:23 15:9 24:1 
+read 17:6,10 proposition15:14 regulate 40:8 52:16 resource 21:4 46:5 ruled38:19
+reading 39:7protect 49:13 regulates 15:12 resources 21:15,18 rules 27:6 55:16 
+reads 39:5,11 protected37:4 regulation 11:11,15 29:11 54:13 run 20:12 31:11 
+real 5:6 37:1,7 protectionist 39:16 32:25 41:25 43:8 respect 10:1 23:6 51:11 54:8
+really 20:9 25:13 provide 7:10 13:7 43:20,24 44:1,9,15 Respondents 1:22 running 13:13,25,25 
+
+37:9 55:2513:10,11 24:7 54:5 regulator 46:15 2:7 29:24 runs 13:9 
+reason 9:14,22 providing 36:5 reject 43:11 responses 8:15
+
+23:20 29:12 31:20 Sprovisions 36:13 rejected29:8 rest 53:25
+36:18,18 38:9 S 2:1 3:1 public 3:10 7:21 related20:20 23:21 rewrite 39:14
+
+reasonable 20:20 satisfy 28:712:10 13:8,25 14:4 relevance 14:8,11 richer5:7
+24:17 save 30:315:18 16:7 20:3 relevant 47:15 Richmond 1:21
+
+reasonableness saving 34:2522:22 24:13 26:2,4 relief 22:9 right 3:22 4:5,10,12 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 64 
+
+saw56:14 services 36:11,12 9:5 10:1,1 11:12 strange 23:13 T 
+saying 6:13 23:14 54:5 11:14 12:17 13:6 stream 48:15 T 2:1,1 
+
+23:18 30:22 36:22 set 55:9 13:10,12 15:12 street 13:8 tailored24:22 
+37:21 39:5 41:16 settlements 12:11 18:1,11,12 19:15 stretch 26:21,23 take 16:20 20:20 
+41:22 42:3 45:6,17 shipping 29:15,17 20:13,17,19 21:1,5 54:13 21:10 40:14 41:20 
+45:18 49:6,22 show16:17 28:15 21:12,14 22:19 strikes 36:24 48:14 52:13 
+53:13 55:20,24 29:14 31:13 42:4,6 27:19 28:11,15,17 strong 36:23 taken46:24 
+56:1 showing 41:3 29:14 30:12 31:23 stronger36:24 talk 41:15,16 
+
+says 12:18 19:10 side 11:4 55:2,25 31:24 34:9 35:3,13 study 24:24 talking 6:23,24 
+28:4 33:14 37:18 similar26:14 50:22 40:8,9 41:19 45:21 stuff 34:12 13:24 14:20 15:5 
+50:1 simple 35:21 36:1 48:13 49:23 50:16 subject 34:16 39:14 20:6 26:6 27:6,21 
+
+Scalia 3:17,24 4:4 simply 5:8 9:24 10:2 51:4,10,20 52:9,16 submit 45:22 38:15 44:21,23 
+4:14,24 7:24 8:15 22:10 35:1 40:17 53:7,8 54:7,7,8,14 submitted56:21,23 50:25 
+8:21 9:12 13:14,19 56:5 55:8,9,25 56:1,9 subsidize 30:13 tax 5:6,12 14:3 17:5 
+14:5,10 18:22,24 sit 4:9 12:9 56:15 46:10 17:22 27:10 30:13 
+19:1,5 21:21 33:25 sits 56:7 States 1:1,15 3:10 subsidy 46:11 31:17 38:3,9 43:24 
+34:4,8 35:8 42:3 slightly 45:19 3:11 4:23 5:12 substantial 31:4,7 43:25 48:17,24 
+42:10,13,16 43:10 solely 28:25 40:12 7:10,15,17 12:12 subsumed12:9 52:17 55:14 
+43:16,23 44:8,11 Solicitor 1:20 12:12 23:11 25:1,3 suggest 30:10 taxation 44:1,7,15 
+50:25 51:3,8,9 somebody 6:6 26:21 27:17 37:7,15 47:2 suggesting 45:11 taxer46:15 
+53:12,23,24 54:1 38:8 48:11 49:11 50:2 suggestion 53:10 taxes 44:4 
+
+scarce 46:5 somebody's 35:6 State's 42:17 summary 38:17,18 taxing 37:7 
+scrutiny 15:8 someone's 55:13 State-owned51:1 40:23,25 41:3 taxpayer34:3 
+se 8:5 14:23 15:9 sort 6:9 15:8 22:8 statistics 37:5 49:8 summer18:6 taxpayer-subsidiz... 
+search 25:19 24:21 30:21 36:23 status 46:16 sunshine 3:20 8:4 34:6 36:6 
+Second 20:1 38:1 statute 9:20 12:1,7 35:10,14,23 tease 28:3 
+secondly 53:10 Sotomayor 21:20 18:18,21 19:6,8,9 support 1:9 15:14 teed31:8 
+Section 31:16 22:7,14,23 23:1,3 19:20 20:2 21:3,4 15:23 55:6 tell 33:22 35:17 
+secure 4:12 24:4 28:2,18,21 21:18 22:5,10 supporting 11:3 40:13 50:10 52:10 
+see 8:6 21:2 22:3 29:3 30:2,16 31:19 23:13,15,16,23 suppose 28:3 44:19 telling 40:16 
+
+26:8 27:3,24 35:6 34:19 38:24 39:3 24:1,6,10,22 28:1 49:5 tension 50:11,12 
+seeing 51:10 39:19,23 51:16 28:4 30:3,11,23 supposed22:5 terms 3:12 11:22 
+seek 52:1 52:10 31:9,10,11 33:14 37:10 12:1 24:14 55:8 
+seeking 55:7 sounds 25:8 39:5,7,10,14,17 Supreme 1:1,15 test 54:4 55:1 
+sell 16:7 48:14 South 48:14 40:9,11,18 45:8,10 sure 20:24 30:2 Thank 3:8 29:21 
+sense 48:2 Southern 47:16 45:12 47:6 48:5 47:18 52:25 53:4 56:19 
+sent 47:13 sovereign 46:16 53:5,6 surprise 48:21 56:20 
+separate 19:17,20 50:16 52:20 statutes 27:6 44:20 suspend 55:13 theory 4:22 11:17 
+
+19:22 sovereignty 51:4 44:20 45:2,16 swept 18:2 12:25 
+serve 31:23 spend 21:13 44:23 46:21,24 swing 9:10 thing 10:15,16 13:17 
+served17:23 sphere 46:17 step38:21 55:9 switched54:21,22 24:20 36:3 45:6,11 
+serves 22:4,4 standard 50:7 56:16 system12:13 34:7 45:17 46:19 48:8 
+service 5:16 6:22 standpoint 52:24 stop 34:20 35:21,25 36:1,2 48:16 49:17 
+
+21:11 36:6 49:2 State 4:15 5:24 9:4 storehouse 5:7 things 11:18,20 14:4 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 65 
+
+24:25 25:5 34:18 transparent 22:6 unusual 19:9 Virginians 21:6,7,24 we've 25:17,17 
+36:12 37:12 45:15 transportation up-and-up 51:11 24:14 40:18 41:4 willing 20:12 
+46:9 47:1 48:19 54:11 use 18:21 46:4 47:4,5 53:24 win 36:2 
+52:18 54:2 treated18:7 useful 49:7 Virginia's 3:16 4:19 word 44:13 
+
+think 3:18,19 11:17 trigger40:6 users 22:22 7:7 9:17 26:5 47:1 work 9:24 10:20 
+11:18,23 13:4,22 triggers 40:9 uses 27:13 47:3 48:24 24:8,20,20,21 
+14:14,21 15:24 truckers 26:1 usually 20:10 virtually 27:16 25:14 49:24 55:1 
+16:5 17:2,10 18:9 true 4:18 5:4 26:3 Voluntary 36:11 working 8:7 
+24:5 25:8 26:5,13 27:23 44:25 45:4 V vote 9:16 20:19 48:3 workings 35:13 
+26:14,23 27:4 28:8 49:9 54:2 v 1:5 3:4 16:1,6,22 voter25:3 works 44:22 
+28:9 30:21,22 33:9 truly 25:1 29:7 47:16 48:13 voters 49:24 world 37:5 51:13 
+35:9,15 37:21 try 11:20 35:20 54:4 valid 28:7 wouldn't 7:16 43:25 
+41:19 43:7 45:20 54:5 value 24:9 37:8 W write 6:12,18 16:24 
+46:19 49:6,8 50:13 trying 28:2 31:23 40:19 41:4,18 42:5 waiting 16:25 24:24 
+51:22 52:4,23 43:14 46:20 49:23 42:7 43:13 wall 9:25 written39:17 
+53:13 54:3,6,18,25 tuition 46:9 vast 3:14 10:25 11:1 want 6:18 9:21 10:2 wrong 8:14 
+55:24 56:5 turn 38:6,10 12:2 12:18 17:17 21:22 
+
+thinking 19:13 turns 31:7 37:24 vehicle 47:10 21:22,25 23:16,23 X 
+
+30:21 48:22 two 17:9 20:7 22:15 version 56:12 25:13 30:16 31:3,3 x 1:2,10 
+Thorstenn 29:8 
+thought 14:25 15:4 
+
+31:1 43:16 56:9 
+three 11:19 40:5 
+
+53:1 
+
+32:14 33:22 36:13 
+38:20 41:10 45:11 
+47:2 
+
+two-step38:20 
+typically 11:7 
+
+view24:17 
+violate 50:17 
+violated22:16 
+violation 16:17 
+violations 44:5 
+
+32:10 35:20,23 
+36:1 39:13 40:13 
+40:14 45:1 48:9 
+49:14 51:24 53:5,6 
+
+wanted19:21 29:9 
+
+Y 
+Yeah 6:20 17:1,8,13 
+
+22:1 
+Young 1:6 3:4 
+
+threshold 43:19 
+tied9:12 
+time 8:20 9:6 17:6 
+
+U 
+uh-huh 20:15 37:20 
+
+Virgin 29:8 
+Virginia 1:8,21,21 
+
+3:12 4:2 5:4,21 6:6 
+
+29:16 37:2 47:18 
+55:6 
+
+wants 21:15 24:8 
+
+$ 
+$5 29:17 
+
+25:24 28:22 29:20 unanimous 16:2,6 6:9 7:3,13,14,18 38:8 55:16 1 
+44:23 47:1 
+
+title 27:23 
+today 31:15 
+today's 37:4 
+tools 55:12 
+Toomer28:14 
+top 4:9 12:9 
+totally 40:20 41:1 
+traditional 9:3 
+traditions 54:15 
+training 12:20 13:11 
+
+46:10 
+transactions 25:20 
+transparency 4:9,11 
+
+unconstitutional 
+13:3 24:2 
+
+uncover10:9 
+underlying 22:8 
+understand 4:20,25 
+
+7:25 15:22 33:5 
+37:6 43:10,12 
+
+understood 31:19 
+unequal 44:6 
+unique 28:16 55:11 
+uniquely 29:16 
+unit 26:20 
+United1:1,15 12:11 
+
+12:12 
+
+7:25 8:10,12,13,24 
+9:15 10:24 11:4 
+12:18,18,22 16:19 
+18:18,19,22 19:2,7 
+19:17,20 21:10,10 
+21:19,23 23:10 
+24:3,7 27:16,23 
+28:3 30:4,17 32:7 
+32:7,11 33:18,25 
+34:9,23 35:1,4 
+38:8 39:5,7,11,25 
+41:19 42:8,11,14 
+42:16 46:1,2,4,7,8 
+47:4 48:23 51:18 
+
+Washington1:11,18 
+wasn't 16:10,11 
+water13:20 
+way 11:5 13:2 24:15 
+
+24:19,23 35:11 
+39:17 45:13 55:10 
+
+Wednesday 1:12 
+welfare 46:12 
+well-established 
+
+4:10 
+well-understood 9:8 
+went 31:13 38:5 
+West 32:6 
+We'll 3:3 28:4 
+
+10:19 1:16 3:2 
+100 6:17 
+11:16 56:22 
+12-17 1:6 3:4 
+17.1208 31:16 
+1786 31:9 
+1813 31:12 
+1819 31:15 
+1830 31:12 
+1840 31:12,14 
+19th 9:10 25:20 
+1960s 4:7 
+1968 4:2 
+
+8:16 12:8 21:7 unpack 11:20 52:1 53:15 55:9 we're 10:6 12:19 2 
+22:6 unreasonable 22:1 Virginian5:22 8:24 20:5 20 1:12 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+Page 66 
+
+2013 1:12 
+29 2:7 
+
+3 2:4 
+30 11:5 
+
+3
+ 
+
+4
+ 
+41 31:14 
+47 3:10 7:10 23:10 
+
+5
+ 
+50 3:10 
+53 2:10 
+
+6
+ 
+60s 3:24 4:1 9:7 
+
+7
+ 
+70s 4:1 
+
+Alderson Reporting Company 
+
+

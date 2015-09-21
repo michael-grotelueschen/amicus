@@ -1,0 +1,4188 @@
+
+ 
+ 
+
+               
+
+         
+
+                       
+
+      
+
+             
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 GLORIA GAIL KURNS, EXECUTRIX OF : 
+
+4 THE ESTATE OF GEORGE M. CORSON, : 
+
+DECEASED, ET AL., : 
+
+6  Petitioners : No. 10-879 
+
+7  v. : 
+
+8 RAILROAD FRICTION PRODUCTS : 
+
+9 CORPORATION, ET AL. : 
+
+- - - - - - - - - - - - - - - - - x 
+
+11  Washington, D.C. 
+
+12  Wednesday, November 9, 2011 
+
+13 
+
+14  The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+16 at 11:05 a.m. 
+
+17 APPEARANCES: 
+
+18 DAVID C. FREDERICK, ESQ., Washington, D.C.; on 
+
+19  behalf of Petitioners. 
+
+SARAH E. HARRINGTON, ESQ., Assistant to the Solicitor 
+
+21  General, Department of Justice, Washington, D.C.; for 
+
+22  United States, as amicus curiae, supporting 
+
+23  Petitioners. 
+
+24 JONATHAN D. HACKER, ESQ., Washington, D.C.; on behalf of
+
+ Respondents. 
+
+1
+ 
+Alderson Reporting Company 
+
+
+
+                                
+
+                   
+
+   
+
+                   
+
+                   
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF PAGE 
+
+3 DAVID C. FREDERICK, ESQ. 
+
+4  On behalf of the Petitioners 3 
+
+ORAL ARGUMENT OF 
+
+6 SARAH E. HARRINGTON, ESQ. 
+
+7  On behalf of the United States, 
+
+8  as amicus curiae, supporting the Petitioners 16 
+
+9 ORAL ARGUMENT OF 
+
+JONATHAN D. HACKER, ESQ. 
+
+11  On behalf of the Respondents 27 
+
+12 REBUTTAL ARGUMENT OF 
+
+13 DAVID C. FREDERICK, ESQ. 
+
+14  On behalf of the Petitioners 43 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+2
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (11:05 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+4 next this morning in Case 10-879, Kurns v. Railroad 
+
+Friction Products Corporation. 
+
+6  Mr. Frederick. 
+
+7  ORAL ARGUMENT OF DAVID C. FREDERICK 
+
+8  ON BEHALF OF THE PETITIONERS 
+
+9  MR. FREDERICK: Thank you, Mr. Chief 
+
+Justice, and may it please the Court: 
+
+11  Congress enacted the Locomotive Inspection 
+
+12 Act to ensure the safety of locomotives in use on 
+
+13 railroad lines, not to regulate hazards to mechanics 
+
+14 conducting repairs of locomotives.
+
+ The doctrine of implied --
+
+16  JUSTICE SOTOMAYOR: So, what do you -- what 
+
+17 do you make of the ICC in 1916, in the Tiller case, 
+
+18 regulating the lights that railroads had to have, 
+
+19 locomotives had to have in the yard, and that those 
+
+lights had to differ when the railroad was in use? 
+
+21  MR. FREDERICK: That was actually I think 
+
+22 pursuant to the Safety Appliance Act, Justice Sotomayor, 
+
+23 if I'm not -- if I'm not mistaken. And the principle 
+
+24 behind the safety in use regulation that this Court 
+
+construed in Napier was to ensure that locomotives were 
+
+3
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 safe for fit use on the line. And that was the 
+
+2 consistent construction both in the ICC's statement that 
+
+3 it made in 1922 and in this Court's post-Napier --
+
+4  JUSTICE SOTOMAYOR: I'm not sure I 
+
+understand. It prescribed different lights when the --
+
+6 when the locomotive was in the yard. 
+
+7  MR. FREDERICK: Yes. 
+
+8  JUSTICE SOTOMAYOR: That had nothing to do 
+
+9 with safety in use. It had to do with safety in repair.
+
+ MR. FREDERICK: Our position is that it was 
+
+11 not pursuant to the Locomotive Inspection Act that the 
+
+12 ICC promulgated that rule. As the Court has said in 
+
+13 numerous cases, the ICC had rules in place with respect 
+
+14 to different aspects of the train at different points in 
+
+time, but the Locomotive Inspection Act was designed to 
+
+16 address a very specific problem, which was boilers 
+
+17 exploding on the line when the train was in operation. 
+
+18 And that is the consistent way that the ICC, and 
+
+19 subsequently the Federal Railroad Administration, has 
+
+construed the Act. 
+
+21  JUSTICE SOTOMAYOR: Distinguish for me our 
+
+22 reasoning in the Ray case. 
+
+23  MR. FREDERICK: I'm sorry. 
+
+24  JUSTICE SOTOMAYOR: Distinguish for me the 
+
+difference in the Ray case, that had to do with 
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 navigation and where we held that the agency, in 
+
+2 ensuring safety in navigation, controlled design 
+
+3 completely, whether in repair or not. So, how do we --
+
+4 why don't we apply the logic of Ray to this case?
+
+ MR. FREDERICK: Well, of course in Ray you 
+
+6 addressed the Port and Tanker Safety Act, as well as the 
+
+7 Port and Waterway Safety Act. And in the United States 
+
+8 v. Locke case, the Court subsequently looked at Ray in 
+
+9 terms of design in a statute that also specifically 
+
+included the word "repair and maintenance," which is 
+
+11 absent here. 
+
+12  But what the Court was getting at in Ray was 
+
+13 to ensure that States were not using their law to 
+
+14 interfere with the design of equipment. Of course, that 
+
+was for --
+
+16  JUSTICE SOTOMAYOR: That's the argument 
+
+17 here, which is --
+
+18  MR. FREDERICK: No. 
+
+19  JUSTICE SOTOMAYOR: -- once you regulate 
+
+what -- what the design or use of asbestos is, you're 
+
+21 interfering with what available components there are for 
+
+22 locomotives. 
+
+23  MR. FREDERICK: If I could make two points 
+
+24 about that, Justice Sotomayor. That's not actually 
+
+correct. The first is anything that the Court might 
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 think about design does not impair our failure-to-
+
+2 warrant claims, which entail no challenge to the design 
+
+3 of a locomotive at all, only to the instructions for its 
+
+4 safe use. But to the --
+
+JUSTICE SOTOMAYOR: So, you're giving up all 
+
+6 of your other claims? 
+
+7  MR. FREDERICK: No. My second argument is 
+
+8 that the design claim here involves repair work or 
+
+9 problems uniquely; it does not include or intrude on the 
+
+fitness for service standard that this Court announced 
+
+11 in Napier or that has consistently been applied. The 
+
+12 asbestos harms that the repair workers here faced are 
+
+13 unique to the repair process, where they are scraping 
+
+14 off the --
+
+CHIEF JUSTICE ROBERTS: Well, but, counsel, 
+
+16 looking at Napier, the power that Justice Brandeis said 
+
+17 was conferred in that case was to specify the sort of 
+
+18 equipment to be used on locomotives, right? 
+
+19  MR. FREDERICK: Yes, but on --
+
+CHIEF JUSTICE ROBERTS: So, this is 
+
+21 equipment that was used in locomotives. 
+
+22  MR. FREDERICK: Yes, but, Mr. Chief Justice, 
+
+23 it also says on page 612 that the power delegated by 
+
+24 Congress is to determine fitness for service. So, the 
+
+words about the --
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  CHIEF JUSTICE ROBERTS: Yes, but that's the 
+
+2 same -- that's the same thing, I'll give you that, 
+
+3 fitness for service. 
+
+4  MR. FREDERICK: No, it's not --
+
+CHIEF JUSTICE ROBERTS: It doesn't say 
+
+6 something that's going to cause harm while it's actually 
+
+7 being used. 
+
+8  MR. FREDERICK: But, Mr. Chief Justice, the 
+
+9 principle here is to ensure that the locomotives, when 
+
+they are outside the repair yard and are on the 
+
+11 locomotive -- on the railroad line, are -- are safe to 
+
+12 operate. That standard in Napier had --
+
+13  CHIEF JUSTICE ROBERTS: Why does it 
+
+14 depend -- you want to know if this equipment is safe to 
+
+operate, right? To be used, whether -- whether it's 
+
+16 going to be used. If you have a --
+
+17  MR. FREDERICK: Not to be broken down. 
+
+18  CHIEF JUSTICE ROBERTS: If you have a boiler 
+
+19 that's going to be used, that's within the power that 
+
+was confirmed. It's not merely to inspect as, again, 
+
+21 Justice Brandeis said. 
+
+22  MR. FREDERICK: But the point here is that 
+
+23 it is not to be broken down. And the locomotive repair 
+
+24 workers here face unique hazards in repairing 
+
+locomotives whose safety standards are to ensure that 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 they work properly on the railroad line, not when 
+
+2 they're being taken apart and repaired. That they --
+
+3  CHIEF JUSTICE ROBERTS: Well, I guess your 
+
+4 argument isn't limited to being taken apart. Your 
+
+argument does depend on the fact that the asbestos 
+
+6 doesn't come out during use; right? 
+
+7  MR. FREDERICK: That's absolutely correct. 
+
+8 That's why this is --
+
+9  CHIEF JUSTICE ROBERTS: Well, how do we know 
+
+that --
+
+11  MR. FREDERICK: -- a unique hazard faced by 
+
+12 the repair workers. 
+
+13  CHIEF JUSTICE ROBERTS: Yes, but if there's 
+
+14 an accident or something, does the asbestos come out 
+
+during the use of the locomotive? 
+
+16  MR. FREDERICK: If it did, it would be 
+
+17 covered under the Locomotive Inspection Act safety 
+
+18 standard, and that would be covered by Federal law. 
+
+19  JUSTICE SCALIA: You -- you would say once 
+
+there's an accident and the locomotive is disabled, it's 
+
+21 no longer in use. I suppose that's what you'd say. 
+
+22  MR. FREDERICK: That's correct, and --
+
+23  JUSTICE SCALIA: It's unrealistic, but 
+
+24 that's what you'd say.
+
+ MR. FREDERICK: No. Well, it's governed by 
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 a different statute, which is found at 49 U.S.C. 303. 
+
+2  CHIEF JUSTICE ROBERTS: Well, that's the old 
+
+3 insurance cases we've had, that, you know, when the car, 
+
+4 you know, slams into a pole or something, it's not being 
+
+used as a car anymore; and, therefore, the insurance 
+
+6 doesn't cover it. 
+
+7  MR. FREDERICK: Well, if I could finish my 
+
+8 answer to your previous question, Mr. Chief Justice, 
+
+9 there's a specific statute on that point, and it 
+
+predated the Locomotive Inspection Act, and it provided 
+
+11 that when there was a crippled locomotive, the railroad 
+
+12 did not face liability, civil penalties, to bring the 
+
+13 crippled locomotive back to the yard, but it 
+
+14 specifically said if a worker was injured during that 
+
+process, the railroad would face liability. 
+
+16  Our point here is that the Locomotive 
+
+17 Inspection Act's field should be construed narrowly 
+
+18 because in 1970 Congress expressly and comprehensively 
+
+19 legislated in the Federal Rail Safety Act and provided a 
+
+conflict pre-emption regime in which if a State had a 
+
+21 rule in place, that rule would be permitted to survive 
+
+22 unless and until the Federal Rail Administration issued 
+
+23 a regulation. And there has never been a regulation on 
+
+24 asbestos.
+
+ JUSTICE BREYER: What I'm concerned about I 
+
+9
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 think is the same thing that the Chief Justice 
+
+2 mentioned, the particular language in Napier. And 
+
+3 whatever -- however this might come out today if Napier 
+
+4 were decided again, it did come out the way it did. And 
+
+Justice Brandeis did write it, and it's been the law a 
+
+6 long time. 
+
+7  And the argument is made in Napier that this 
+
+8 particular State regulation is aimed at preventing 
+
+9 sickness and disease, not at making locomotives safe, 
+
+and, therefore, it's not pre-empted. And the answer to 
+
+11 that was not sickness and disease are an object of the 
+
+12 statute, too. The answer was the Federal and the State 
+
+13 statutes are directed to the same subject, the equipment 
+
+14 of locomotives; and, therefore, it is pre-empted.
+
+ Now, how could we come out in your favor 
+
+16 without overturning what seems to be that key sentence 
+
+17 in Napier? That is the problem that's bothering me. 
+
+18  MR. FREDERICK: Well, first, I would urge 
+
+19 you not to read Napier like a statute, although Justice 
+
+Brandeis is obviously --
+
+21  JUSTICE BREYER: I see. Okay. That's a --
+
+22 the problem with (a) is that it's been followed and 
+
+23 followed and followed and followed, and really read for 
+
+24 all its worth, and so forth. So -- so one question is, 
+
+to what extent can I go back and revise that sentence? 
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 That's (a). Okay? What's (b)? 
+
+2  MR. FREDERICK: (B) is that he was 
+
+3 addressing himself to fitness for service standards on 
+
+4 the line, the Wisconsin and Georgia statutes at issue 
+
+there purporting to regulate what the locomotive could 
+
+6 do while it was in operation on the line. That's not 
+
+7 what the claims in this case entail. 
+
+8  JUSTICE BREYER: Not -- now, is there any 
+
+9 way that you could win your case -- reasonably, in a 
+
+reasonable way, not some far-out way -- but you win your 
+
+11 case on this, and it does not affect the manufacturers' 
+
+12 way of dealing with their equipment? 
+
+13  MR. FREDERICK: Yes. 
+
+14  JUSTICE BREYER: What is that?
+
+ MR. FREDERICK: First is if you accept our 
+
+16 proposition that warning claims are valid negligence 
+
+17 claims. The warning claims are not -- do not affect the 
+
+18 equipment, how it is made at all. It's simply how do 
+
+19 you use the equipment safely.
+
+ Secondly, the design claims here go to the 
+
+21 unique hazards faced by repair workers. You could use 
+
+22 asbestos, under our theory of the case, on the 
+
+23 locomotive in exactly the same way that the locomotive 
+
+24 equipment manufacturers have done, so long as there's a 
+
+safer way to take the asbestos off the locomotive in the 
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 repair yard. 
+
+2  That is a distinct kind of design claim that 
+
+3 doesn't go to the safe operation of the locomotive; it 
+
+4 goes to what hazards are created when a repair worker is 
+
+doing maintenance work on it. 
+
+6  JUSTICE SOTOMAYOR: I'm not sure I 
+
+7 understand this. Are you talking about wearing a 
+
+8 particular hazard suit? 
+
+9  MR. FREDERICK: That would be --
+
+JUSTICE SOTOMAYOR: Are you talking about 
+
+11 blowing out air? Are you talking about changing the 
+
+12 design so the asbestos comes off without the dust cloud 
+
+13 that's generally created? 
+
+14  MR. FREDERICK: Both. The dust cloud is 
+
+something that can be warned against and protected 
+
+16 against with protective gear that has nothing to do with 
+
+17 the design of a locomotive. There are, and there is 
+
+18 evidence that there are, safer and were safer ways -- I 
+
+19 remind you that asbestos isn't used on locomotives 
+
+anymore, so this is part of an historical debate here --
+
+21 but in ways that could be removed that would not create 
+
+22 the cloud dust. That's the essence of the design defect 
+
+23 claim. And the LIA and the FRA do not regulate in the 
+
+24 repair shop. So, there's a complete gap here in 
+
+terms --
+
+12
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE KAGAN: Let me make sure I 
+
+2 understand you. Is -- if the Secretary tomorrow decided 
+
+3 to issue a regulation saying railroads should no longer 
+
+4 use these asbestos-containing brakes because of the 
+
+hazards in the repair shop, do you think the Secretary 
+
+6 could not do that under the statute? 
+
+7  MR. FREDERICK: No. Absolutely --
+
+8 absolutely can do that under the Federal Rail Safety 
+
+9 Act, which, again, empowers the Secretary.
+
+ JUSTICE KAGAN: But the Secretary cannot do 
+
+11 that under LIA? Is that the idea? 
+
+12  MR. FREDERICK: It -- it very well could 
+
+13 because it's a fitness for service standard. But it 
+
+14 always -- and if you look at its regulations, in parts 
+
+229 and part 230 of 49 C.F.R., it always issues these 
+
+16 regulations under both authorities because the FRSA 
+
+17 expanded it. 
+
+18  JUSTICE KAGAN: Okay, then I'm a little bit 
+
+19 lost. If the Secretary can issue such a regulation 
+
+under LIA, L-I-A, then isn't it in the scope of 
+
+21 regulation, and then isn't it also in the scope of 
+
+22 what's pre-empted? 
+
+23  MR. FREDERICK: It would have to do so under 
+
+24 the B&O Railroad case in the early 1930s -- there was 
+
+another Justice Brandeis opinion -- in which it would 
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 have to make a finding that to make that regulation that 
+
+2 you posit, Justice Kagan, was necessary to avoid 
+
+3 unnecessary peril to life or limb. In that case, the 
+
+4 Court struck down the ICC's attempt to issue a 
+
+regulation on a particular type of equipment because the 
+
+6 ICC could not make that demonstration. 
+
+7  So, in the current world, the FRA would 
+
+8 regulate under the FRSA; it would not regulate under the 
+
+9 LIA because under this Court's jurisprudence it is a 
+
+harder standard to meet to implement a regulatory 
+
+11 standard. That's our point. 
+
+12  The regulatory field here does not need to 
+
+13 be read as expansively as the other side posits, because 
+
+14 the FRA has all the authority it needs under the FRSA if 
+
+it chooses to promulgate those rules, and it has not 
+
+16 chosen to promulgate those rules. The FRA can use 
+
+17 conflict pre-emption to displace any State rule, but 
+
+18 what they are seeking to do is to take the doctrine of 
+
+19 implied field pre-emption, gain immunity from State law 
+
+liability, and not be subject to any Federal rules. And 
+
+21 it's that proposition that is an extraordinary 
+
+22 proposition of implied field pre-emption. We found no 
+
+23 case from this Court that goes that far. 
+
+24  JUSTICE GINSBURG: Mr. Frederick, could 
+
+you -- could you clarify what is at stake for the worker 
+
+14
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 here? The railroad worker ordinarily has the FELA 
+
+2 claim, but the FELA claim in this case was dismissed. 
+
+3 So, can you tell us what recourse -- if you lose, what 
+
+4 recovery can this plaintiff get? And also explain to me 
+
+why the FELA claim was dismissed.
+ 
+
+6  MR. FREDERICK: If we lose this case,
+ 
+
+7 Justice Ginsburg, the decedent's family gets nothing,
+ 
+
+8 takes nothing, because the FELA claim was rendered
+ 
+
+9 summary judgment on the finding that there was no
+ 
+
+negligence by the railroad. The only claim that the 
+
+11 decedent's family has here is a third-party claim 
+
+12 against the manufacturer for failing to warn or design 
+
+13 defect on the basis of State law. 
+
+14  JUSTICE BREYER: You just -- you just said 
+
+that, which I think you certainly have the right to 
+
+16 bring a claim, don't you, to say the repair shop doesn't 
+
+17 have adequate warnings. And if -- if that's -- if the 
+
+18 railroad's at fault in that, or the manufacturers or the 
+
+19 owner of the repair shop, everybody who ever puts the 
+
+asbestos in there is negligent in not putting up 
+
+21 adequate warnings. 
+
+22  What's wrong with that? 
+
+23  MR. FREDERICK: Well, here -- ordinarily, 
+
+24 you'd bring a failure-to-warn claim directly against the 
+
+manufacturer for not putting in the manual or stamping 
+
+15
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 on the equipment --
+
+2  JUSTICE BREYER: What about -- what about 
+
+3 not --
+
+4  MR. FREDERICK: -- or providing instructions 
+
+for safe use. 
+
+6  JUSTICE BREYER: What about getting away 
+
+7 from the equipment and saying the failure here is not to 
+
+8 fail to put it on the equipment; it's to fail to put it 
+
+9 in the repair shop?
+
+ MR. FREDERICK: It's both. 
+
+11  JUSTICE BREYER: There's something I'm not 
+
+12 seeing. 
+
+13  MR. FREDERICK: No. It's -- it's both. 
+
+14 Manufacturers routinely are held liable for failing to 
+
+warn if in their manuals or in their other instruction 
+
+16 materials they do not provide for instructions for the 
+
+17 safe use of their equipment. 
+
+18  If I could save the balance of my time. 
+
+19  CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. Frederick. 
+
+21  Ms. Harrington. 
+
+22  ORAL ARGUMENT OF SARAH E. HARRINGTON 
+
+23  ON BEHALF OF THE UNITED STATES, 
+
+24  AS AMICUS CURIAE, SUPPORTING THE PETITIONERS
+
+ MS. HARRINGTON: Mr. Chief Justice, and may 
+
+16
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 it please the Court: 
+
+2  I think it's helpful in this case to try to 
+
+3 separate out the field pre-emption issues from the 
+
+4 conflict pre-emption issues. In the Government's view, 
+
+the only issue properly presented in this case is 
+
+6 whether Petitioners' tort claims fall within the field 
+
+7 pre-empted by the LIA, and our view is that they do not 
+
+8 because they arise from injuries that occurred when the 
+
+9 locomotive was not in use.
+
+ Now, Respondent would have the Court expand 
+
+11 the field that's pre-empted by the LIA to include any 
+
+12 claim that has anything to do with locomotive equipment, 
+
+13 regardless of whether the equipment or the locomotive 
+
+14 was in use at the time injury occurred.
+
+ But it doesn't make sense to --
+
+16  JUSTICE SCALIA: Don't you think that one of 
+
+17 the purposes of the legislation, which everybody 
+
+18 understood, was to enable engine manufacturers to be 
+
+19 able to construct their engines without having to worry 
+
+about a variety of different State requirements? 
+
+21 Railroading is a national transportation industry, and 
+
+22 whoever makes the engine has to know, if I do it this 
+
+23 way, it's going to be okay. 
+
+24  MS. HARRINGTON: Absolutely.
+
+ JUSTICE SCALIA: And you're saying it won't 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 be okay because, although every State may have -- every 
+
+2 State's requirements may be pre-empted when the -- when 
+
+3 the locomotive is in use, all 50 States can have 
+
+4 different requirements with respect to what the design 
+
+has to be in order to make the engine safe when it's
+ 
+
+6 being repaired. I think that truly frustrates the
+ 
+
+7 purpose of the Act.
+ 
+
+8  MS. HARRINGTON: I completely agree with
+ 
+
+9 what you're saying. And -- and I'm sorry if you
+ 
+
+missed -- if we didn't state our position clearly in our 
+
+11 brief. Our view is that those kinds of requirements --
+
+12 requirements that go to the design, construction, or 
+
+13 materials on a locomotive that will be used, if those 
+
+14 requirements are directed at the repair shop, then they 
+
+would be conflict pre-empted. 
+
+16  But they wouldn't fall within the field 
+
+17 that's governed by LIA because the LIA's substantive 
+
+18 standard of care only applies to locomotives that are in 
+
+19 use.
+
+ JUSTICE SCALIA: I'm not -- I'm not 
+
+21 concerned about conflict pre-emption. I'm not concerned 
+
+22 about State requirements that conflict with the Federal. 
+
+23 I'm talking about 50 State requirements that conflict 
+
+24 with each other, so that the manufacturer has to look to 
+
+all 50 States instead of looking to the Secretary here, 
+
+18
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 which says your engine is safe if you do this. And 
+
+2 you're telling me the manufacturer can no longer assume 
+
+3 that. 
+
+4  MS. HARRINGTON: No, I'm sorry. And let me 
+
+clarify. I appreciate the opportunity to clarify. In 
+
+6 our view, what the conflict is, is not a conflict with a 
+
+7 Federal rule saying you have to use this piece of 
+
+8 equipment and you can't use that piece of equipment. 
+
+9 The conflict is with one of the purposes of the LIA, 
+
+which is that the Federal Government be the only 
+
+11 regulator of equipment that will be used on a 
+
+12 locomotive. 
+
+13  And so, what that means is if -- if the 
+
+14 Federal Government hasn't spoken as to whether piece of 
+
+equipment A can be used on a locomotive, that means that 
+
+16 it can be, that the manufacturers know that it's okay. 
+
+17 And if you have a State rule that would have the effect 
+
+18 of dictating the equipment that can be used on a 
+
+19 locomotive, that would conflict with the single 
+
+regulator objective of the LIA. 
+
+21  JUSTICE BREYER: So, what's the difference 
+
+22 then? How do you do it? How do you -- how do you --
+
+23 what is it you're thinking of that the manufacturer's 
+
+24 going to have to do in respect to his locomotive in 
+
+order to comply with the State law about warning that is 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 not going to mean that he changes the locomotive when it 
+
+2 runs on the railroad? 
+
+3  MS. HARRINGTON: Well, I think it depends on 
+
+4 what the warning claim is.
+
+ JUSTICE BREYER: Well, give me an example. 
+
+6  MS. HARRINGTON: Well, under the -- under 
+
+7 the Respondents' -- under the Respondents' view of the 
+
+8 field that's pre-empted, a State could not regulate the 
+
+9 disposal of equipment that's removed from a locomotive 
+
+during their repair process, even though --
+
+11  JUSTICE BREYER: Does that have anything to 
+
+12 do with this case, the removal, never further -- no 
+
+13 further use of a bit of a locomotive? 
+
+14  MS. HARRINGTON: No. But also --
+
+JUSTICE BREYER: No. Okay. Let's get to 
+
+16 this case. 
+
+17  MS. HARRINGTON: Also, in Respondents' view 
+
+18 a State could not regulate workplace hazards, such as by 
+
+19 requiring that workers wear goggles or masks.
+
+ JUSTICE BREYER: Oh, I didn't know anybody 
+
+21 denied that, that the State could regulate the repair 
+
+22 shop, indeed require what warnings they wish, indeed 
+
+23 require what equipment workers have to have. I thought 
+
+24 we're only talking about those rules of State law that 
+
+would affect what the manufacturer has to put by way of 
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 design in his locomotive. 
+
+2  MS. HARRINGTON: Yes, but when you're --
+
+3  JUSTICE BREYER: And that's what I'm having 
+
+4 trouble thinking of one that would only affect repair 
+
+shops and repairs, but -- maybe there's some kind of 
+
+6 equipment that you could stick on the front of it, and 
+
+7 it is a hook or something -- and it holds something, and 
+
+8 before it goes back on the line, you take it off and put 
+
+9 it in a locker. And -- but, you know, the more I 
+
+thought along those lines, I thought I'm getting into 
+
+11 outer space. This isn't reality. So --
+
+12  MS. HARRINGTON: No. I think you could --
+
+13 I'm sorry. I think you could imagine a world where a 
+
+14 State says when a locomotive comes into a repair shop, 
+
+the railroad or the repair shop has to attach a certain 
+
+16 kind of clamp on the wheels, a certain kind of brake, 
+
+17 that makes sure that the locomotive won't move while 
+
+18 it's in the repair shop. And when you're done repairing 
+
+19 the locomotive, you take them off, and the locomotive 
+
+goes back --
+
+21  JUSTICE BREYER: All right. Now, does that 
+
+22 have more than theoretical value in this case? 
+
+23  MS. HARRINGTON: Well, I think in this case 
+
+24 the claims that we say would not be conflict pre-empted 
+
+or within the field are claims -- are the 
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 failure-to-warn claims. Now, how a manufacturer 
+
+2 actually issues the warning that would be required I 
+
+3 think is a question that could be worked out as the case 
+
+4 proceeds.
+
+ JUSTICE SOTOMAYOR: If the manufacturer is 
+
+6 really not controlling the repair shop, of what value is 
+
+7 this failure-to-warn claim? 
+
+8  MS. HARRINGTON: Well, again, I think it 
+
+9 depends how the warning is issued. You could require 
+
+that the manufacturer tell the purchaser of the products 
+
+11 to pass the warning along, to post warnings in a repair 
+
+12 shop. You know, there --
+
+13  JUSTICE SOTOMAYOR: How -- they can't 
+
+14 control whether they do or don't.
+
+ MS. HARRINGTON: They could require it 
+
+16 contractually through the sale of the products. I think 
+
+17 those sorts of detailed issues would be things that 
+
+18 would be worked out on remand in this case. 
+
+19  Again, in our view, the only question 
+
+squarely presented in this case is the field pre-emption 
+
+21 question. And --
+
+22  JUSTICE KAGAN: So, on that question, Ms. 
+
+23 Harrington, I'm still confused about the scope of your 
+
+24 regulatory authority and whether you think you have the 
+
+capacity to issue rules that are meant to protect repair 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 workers on railway equipment. So, can you issue a rule 
+
+2 under the LIA that says no asbestos-containing brakes 
+
+3 because we're afraid that these brakes injure the -- the 
+
+4 guys in the roundhouse.
+
+ MS. HARRINGTON: No. The LIA -- the 
+
+6 standard of care under the LIA only goes to whether a 
+
+7 locomotive is safe for use, and that is also the limit 
+
+8 of the FRA's regulatory authority. This Court, in the 
+
+9 United States v. B&O, addressed that issue. The ICC at 
+
+the time had issued a regulation requiring a certain 
+
+11 kind of reverse gear instead of a different kind of 
+
+12 reverse gear. 
+
+13  JUSTICE SCALIA: Well, what -- what 
+
+14 self-abnegation by the Federal Government, that "safe 
+
+for use" does not include safe for use when it's being 
+
+16 repaired. 
+
+17  MS. HARRINGTON: Because the statute says 
+
+18 safe for use on -- safe for use on the line. It's safe 
+
+19 for use on lines of interstate commerce.
+
+ JUSTICE KAGAN: But this does seem a very 
+
+21 limiting construction. Napier seems to have a broader 
+
+22 construction, and if I read some of your history right, 
+
+23 you've taken a broader understanding of your regulatory 
+
+24 authority in the past. So, why this narrow view?
+
+ MS. SMITH: I'm not aware that we've taken a 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 broader view of our regulatory authority under the LIA. 
+
+2 In Napier, again, what's important to remember is that 
+
+3 the State statutes at issue applied only to locomotives 
+
+4 that were in use. And so, I think it's hard to take any 
+
+-- any broad statements that were made in Napier and 
+
+6 read them as applying outside that context. 
+
+7  CHIEF JUSTICE ROBERTS: Well, but if you're 
+
+8 talking about -- I bet there are a lot of things on 
+
+9 railroad cars that you can fix in the shop or you can 
+
+fix while it's under way, right? We're not always 
+
+11 talking about brakes. So, let's suppose there's one of 
+
+12 those things. You get to the shop and the guy says: 
+
+13 Boy, you got to fix this. And they said: Well, the 
+
+14 train's leaving, and we're going to go in 10 hours. And 
+
+he says: Okay, I can fix it during the -- while it's in 
+
+16 use. Is that covered or not? 
+
+17  MS. HARRINGTON: Well, again the LIA only 
+
+18 applies to the locomotives. So, if the thing that's 
+
+19 broken that you could fix while it's in use would not 
+
+make the locomotive unsafe to use, then it would not be 
+
+21 a violation of the statute to use it while --
+
+22  CHIEF JUSTICE ROBERTS: So, the line you've 
+
+23 been talking about between the repair shop and the 
+
+24 locomotive on the tracks, that's not really the line at 
+
+all. 
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MS. HARRINGTON: The line is in use versus 
+
+2 not in use. And that tends to match --
+
+3  CHIEF JUSTICE ROBERTS: Well, then -- well, 
+
+4 then what's the answer to my question? This is 
+
+something you can fix in either place. It's covered 
+
+6 while it's -- if you fix it while the train is under 
+
+7 way, but it's not covered if you wait until it's in the 
+
+8 shop? 
+
+9  MS. HARRINGTON: Well, if it's -- if the 
+
+fact that it's broken makes the locomotive unsafe to 
+
+11 use, then the railroad cannot use it, cannot repair it 
+
+12 while it's in use. 
+
+13  CHIEF JUSTICE ROBERTS: So, then it's not 
+
+14 whether it's in use or in the shop. It's whether it is 
+
+something that affects whether the locomotive can go, 
+
+16 whether it's --
+
+17  MS. HARRINGTON: That's right. But here the 
+
+18 injuries occur when the locomotive is not in use because 
+
+19 it's in the repair shop. And in those situations, the 
+
+LIA's substantive heightened duty of care doesn't even 
+
+21 apply. And so, it doesn't make sense to think of those 
+
+22 claims as being within the field that's pre-empted by 
+
+23 the LIA because they're not governed by the LIA. Now, 
+
+24 those claims might bump up against the LIA in a 
+
+different way by conflicting again with the --
+
+25
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SCALIA: Do you have any --
+
+2  JUSTICE GINSBURG: Can you explain --
+
+3  JUSTICE SCALIA: I'm sorry. Go ahead.
+ 
+
+4  JUSTICE GINSBURG: Can you explain the
+ 
+
+difference -- you make a distinction between field 
+
+6 pre-emption and conflict pre-emption. Does that have 
+
+7 any practical significance at all in this case, because 
+
+8 I thought you agreed that the design defect claim would 
+
+9 be barred?
+
+ MS. HARRINGTON: Well, we agree that they 
+
+11 might be barred. I think, you know, this case comes to 
+
+12 the Court without any real development of the 
+
+13 plaintiffs' claim. All we have is what they stated in 
+
+14 their complaint. Their complaint incorporates a master 
+
+complaint which applies to all sorts of different kinds 
+
+16 of plaintiffs. And so, I think it's really hard to 
+
+17 understand exactly what their claims are, what the 
+
+18 effect of their claims would be with respect to the 
+
+19 design defect claims. And so, in our view, they would 
+
+-- the design defect claims would be pre-empted if they 
+
+21 would have the effect of dictating the character of 
+
+22 equipment that could be on a locomotive while it was in 
+
+23 use. 
+
+24  CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ MS. HARRINGTON: Thank you. 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  CHIEF JUSTICE ROBERTS: Mr. Hacker. 
+
+2  ORAL ARGUMENT OF JONATHAN D. HACKER 
+
+3  ON BEHALF OF THE RESPONDENTS 
+
+4  MR. HACKER: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+6  The LIA as construed by this Court in 
+
+7 Napier, in particular in the passage quoted by Justice 
+
+8 Breyer, delegates to the DOT the exclusive authority to 
+
+9 determine the design and the materials of locomotive 
+
+equipment. Petitioners, however, argue that States in 
+
+11 fact may dictate locomotive design and materials so long 
+
+12 as they do so for some purpose other than safety of use 
+
+13 on the line. 
+
+14  But, again, in the passage Justice Breyer 
+
+pointed out, Napier holds that LIA pre-emption is not 
+
+16 about the purpose of locomotive equipment regulation and 
+
+17 is not about the geographic location of the locomotive 
+
+18 on or off the line when the regulation is enforced. As 
+
+19 Justice Sotomayor pointed out in the earlier argument 
+
+this morning, regulatory power is broader than purpose. 
+
+21 As Napier says, under the LIA, pre-emption is about the 
+
+22 locomotive equipment itself, what Napier referred to as 
+
+23 the physical elements of the locomotive. 
+
+24  JUSTICE KAGAN: Well, Mr. Hacker, could you 
+
+explain to me -- I wasn't sure reading your brief 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 whether you agree or disagree with the Government's 
+
+2 point that the agency cannot, under the LIA, issue the 
+
+3 kind of rule that I suggested just, you know, saying no 
+
+4 asbestos-containing brakes because of the danger that 
+
+those brakes pose to the repairmen. 
+
+6  MR. HACKER: I -- frankly, I would have 
+
+7 thought it possible. I would have to defer to the -- to 
+
+8 the DOT's view. It seems to me it would have been 
+
+9 within DOT's power under the LIA to say a locomotive is 
+
+not safe to operate if it can't be safely repaired. 
+
+11 Because there's no point in having a locomotive ready to 
+
+12 go on the line if it -- as soon as it comes off the line 
+
+13 with a problem it's going to injure those who work with 
+
+14 it. But we don't need to assert that position to defend 
+
+the proposition we have now --
+
+16  JUSTICE KAGAN: Well, how is that? If they 
+
+17 are right as to the scope of their authority -- and 
+
+18 maybe they're not right, but if they are right about the 
+
+19 scope of their authority, why doesn't it follow that 
+
+these claims would not be field pre-empted; might be 
+
+21 conflict pre-empted but would not be field pre-empted 
+
+22 because we're no longer in the field? 
+
+23  MR. HACKER: Because the field is not --
+
+24 it's not about the repair shop versus not the repair 
+
+shop. The field is the physical elements of the 
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 locomotive itself. What States cannot do -- what DOT
+ 
+
+2 has exclusive authority over is the design, the
+ 
+
+3 materials, and the construction of the locomotive.
+ 
+
+4  JUSTICE SCALIA: But only the design,
+ 
+
+materials, and constructions for use. If you make that 
+
+6 concession, it's only those aspects of design, 
+
+7 materials, and construction that pertain to use. And if 
+
+8 you take the position that use includes only use on the 
+
+9 line and not use when it's being repaired in the repair 
+
+shop, I think you're in trouble. 
+
+11  MR. HACKER: I think we're not, Your Honor, 
+
+12 because the design doesn't change between the line and 
+
+13 the repair shop. And that's the key. If a State comes 
+
+14 in and says --
+
+JUSTICE SCALIA: It's design for use. 
+
+16  MR. HACKER: I understand, but --
+
+17  JUSTICE SCALIA: I'm not talking about the 
+
+18 word "design"; I'm talking about "design for use." 
+
+19  MR. HACKER: But the statute -- the reason 
+
+the statute gives power to the DOT is to ensure that 
+
+21 locomotives are safe for use on the line. But in order 
+
+22 to accomplish that objective, the power they have is 
+
+23 plenary over the design itself. They -- only one entity 
+
+24 gets to decide what the design is, and that's DOT. A 
+
+State can't come in and say --
+
+29
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE KENNEDY: It's not -- it's not 
+
+2 clear --
+
+3  JUSTICE SOTOMAYOR: So, you're okay --
+
+4  JUSTICE KENNEDY: It's not clear to me why a 
+
+railroad executive couldn't say, now I need to use 10 
+
+6 locomotives in this division because I will be using two 
+
+7 of them every week in the repair shop to repair them, 
+
+8 right? I don't know why that isn't use, but you 
+
+9 don't -- you don't seem to agree with that.
+
+ MR. HACKER: Well, I don't necessarily 
+
+11 disagree. We would certainly accept that proposition. 
+
+12 We're just saying you don't have to go there. 
+
+13  JUSTICE KENNEDY: Now, I know it's use on 
+
+14 the line, but it seems to me that the repair shop is an 
+
+obvious extension of the line. Everybody knows that 
+
+16 it's going to have to spend, I don't know, 1 day a month 
+
+17 in the repair shop, and that's just part of -- of the 
+
+18 use. 
+
+19  MR. HACKER: We don't disagree with that.
+
+ JUSTICE BREYER: Why would their law be 
+
+21 pre-empted, a State law that says since the railroad 
+
+22 knows that asbestos is dangerous when revealed and since 
+
+23 it would be revealed in a repair shop, the railroad has 
+
+24 to provide the repair shops with appropriate worker 
+
+safety equipment; or alternatively, and lesser, the 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 railroad has to provide for the repair shop's documents 
+
+2 to be given to the workers which explain the risks and 
+
+3 how they can overcome them. 
+
+4  Now, in respect to that, which I'll lump 
+
+under various kinds of failure-to-warn claims, how does 
+
+6 the Act pre-empt those? It doesn't affect design of the 
+
+7 railroad, nor does it affect the use. Neither. 
+
+8  MR. HACKER: I would say two points, Your 
+
+9 Honor. First of all, it does affect the design because 
+
+a way to comply with that regulation is to use something 
+
+11 other than asbestos, to change the design. It's the 
+
+12 State saying, because you're using this design, you can 
+
+13 only use it lawfully in this State if you do the 
+
+14 following two or three things.
+
+ JUSTICE GINSBURG: I thought that that was 
+
+16 not the nature of the notice claim. The design is 
+
+17 whatever it is. But the manufacturer has to issue 
+
+18 warnings so that the worker can protect himself against 
+
+19 that hazard. So, I thought that the defective design --
+
+yes, I understand your argument. You would have one 
+
+21 standard for on the line and another when it's in the 
+
+22 repair shop. But this is not telling them to change the 
+
+23 design in any respect. It just says: Asbestos -- you 
+
+24 could take these measures to protect yourself.
+
+ MR. HACKER: At common law, a design -- a 
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 failure-to-warn claim was a type of design defect claim. 
+
+2 It was a way of saying you can't use that design 
+
+3 lawfully unless you have the following type of warning. 
+
+4 If you -- you can't assume away the design aspect of it 
+
+because it still turns on -- it's a State conditioning 
+
+6 the design. 
+
+7  The LIA and the FRSA and SCAA and OSHA all 
+
+8 together solved this problem by -- and FELA, solved this 
+
+9 problem by saying it is the repair shop's responsibility 
+
+to ensure the safety of workers. We are not, to be 
+
+11 absolutely clear -- Ms. Harrington was incorrect when 
+
+12 she said: We don't believe that repair shop -- States 
+
+13 have the power to impose workplace conditions to protect 
+
+14 employee safety in the repair shop. They do.
+
+ JUSTICE BREYER: But -- no, no, no. That 
+
+16 argument would prevent States doing what they can do 
+
+17 lawfully, which is to regulate the repair shop because 
+
+18 with any given repair, with many of them, you could say, 
+
+19 well, we wouldn't have to -- we can just change the 
+
+locomotive design, for example. It carries beds with it 
+
+21 so that the workers who are repairing it get adequate 
+
+22 sleep. I mean, that isn't an answer to the argument 
+
+23 that it doesn't affect design to say, well, they could 
+
+24 comply with it by changing design, I don't think.
+
+ MR. HACKER: Well, what we would say is that 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 generally applicable laws that govern the repair shop --
+
+2 States have authority -- to the extent not pre-empted by 
+
+3 OSHA, States have authority to require workplace 
+
+4 conditions and to require employers to protect employees 
+
+working. But what they can't do is tell manufacturers 
+
+6 here's the conditions under which you can use this 
+
+7 design, sell this design, distribute the design and 
+
+8 these materials lawfully within the State --
+
+9  JUSTICE SCALIA: What would apply to the 
+
+repair shop would also apply to the locomotive in use, 
+
+11 I suppose, and it would be of little comfort to the 
+
+12 manufacturer that although the engine he has 
+
+13 manufactured has been certified as safe for use by the 
+
+14 Secretary, he is liable unless he warns the engineer: 
+
+Oh, it isn't safe for use in these circumstances; I have 
+
+16 to give you warning. 
+
+17  I mean, I cannot imagine that that's what --
+
+18 that that's what the statute means as applied, at least 
+
+19 to the use of the engine on the -- on the tracks.
+
+ MR. HACKER: Well, we agree with that, but 
+
+21 we also think it applies with respect to manufacturers' 
+
+22 liability in the repair shop for the reason I said 
+
+23 earlier. The locomotive doesn't change. So, when it's 
+
+24 certified as safe for use on line, it can't be -- and 
+
+the locomotive manufacturer knows everything they know 
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 by looking at DOT regulations. It can't be that a State 
+
+2 can come along and say: No, no, you can't use any of 
+
+3 that design; you have to use this completely different 
+
+4 one --
+
+JUSTICE BREYER: No, what they're saying 
+
+6 is --
+
+7  MR. HACKER: -- because this will make it 
+
+8 safe in the repair shop. 
+
+9  JUSTICE BREYER: What they're saying is 
+
+because when you open up the box, something no one does 
+
+11 on line, you will expose yourself to risk, and what we 
+
+12 are saying is, therefore, you must post a notice that 
+
+13 tells workers about those risks. And, indeed, if there 
+
+14 is a conflict, conflict pre-emption will take care of 
+
+it. But why should that kind of thing fall within the 
+
+16 scope of field pre-emption even under Napier, which, of 
+
+17 course, referred to equipment while this rule doesn't? 
+
+18 It refers to a sign. You're not going to change the 
+
+19 equipment.
+
+ MR. HACKER: Well, for the reason I said 
+
+21 earlier, Your Honor, which is, you don't know in 
+
+22 advance. If you say, in theory, a State can adopt a 
+
+23 warning requirement specific to a design otherwise 
+
+24 approved by the DOT, you don't know in advance whether 
+
+the warning requirements -- the manufacturers will be 
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 able to easily comply with all 50 different types of 
+
+2 warning requirements and whether or not the warning 
+
+3 requirements -- some will be so stringent that it will 
+
+4 be easier to simply adopt a different design. The point 
+
+of the LIA is to take that kind of decisionmaking out of 
+
+6 the State's hands and put it into a Federal authority 
+
+7 which can make the relevant and appropriate decisions --
+
+8  JUSTICE KENNEDY: Suppose --
+
+9  MR. HACKER: -- as to what designs are 
+
+unlawful. 
+
+11  JUSTICE KENNEDY: Suppose the allegation is 
+
+12 there's a failure to warn workers to use a special kind 
+
+13 of mask that's very important if you're working near 
+
+14 asbestos. That's the claim they want. Now, are you 
+
+saying that the manufacturer cannot be required to give 
+
+16 that warning? 
+
+17  MR. HACKER: That's correct. 
+
+18  JUSTICE KENNEDY: Are you also saying the 
+
+19 railroad cannot be forced to give that warning in its 
+
+repair shop? 
+
+21  MR. HACKER: The railroad can be required to 
+
+22 ensure the safe protection of employees that work there. 
+
+23 A workplace safety claim isn't really a warning claim. 
+
+24  JUSTICE KENNEDY: No, no. That was my --
+
+can the railroad be held liable for failing to tell the 
+
+35
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 worker to use the mask? 
+
+2  MR. HACKER: It can be under OSHA, be held 
+
+3 liable for that. 
+
+4  JUSTICE SCALIA: Can the manufacturer be 
+
+held liable for failing to tell the railroad? 
+
+6  MR. HACKER: No. That would be a failure 
+
+7 to --
+
+8  JUSTICE SCALIA: How is the railroad going 
+
+9 to know whether it's unsafe or not?
+
+ MR. HACKER: Because they have the --
+
+11  JUSTICE SCALIA: How is the railroad going 
+
+12 to know whether there's asbestos in there unless the 
+
+13 manufacturer at least tells the railroad, even it 
+
+14 doesn't have to tell the worker?
+
+ MR. HACKER: Railroads have a duty under 
+
+16 FELA to ensure a safe workplace environment. That's 
+
+17 clear. And so, they have adequate incentives to ensure 
+
+18 that their employees have a safe work environment. If 
+
+19 they're -- if a worker is exposed to asbestos --
+
+JUSTICE KENNEDY: But you could -- could 
+
+21 State law say you need a special kind of mask? 
+
+22  MR. HACKER: Well, not under the current 
+
+23 regime because FELA would pre-empt any claim by a 
+
+24 railroad worker. So, there wouldn't be -- there isn't 
+
+room for State law already. 
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE KENNEDY: What about an independent 
+
+2 contractor who's not covered by FELA? 
+
+3  MR. HACKER: Could be -- could not have a 
+
+4 claim against the manufacturer. An independent 
+
+contractor would not have claim against the manufacturer 
+
+6 for failure to warn. 
+
+7  JUSTICE KENNEDY: Under State law which by 
+
+8 hypothesis says you need this very special kind of mask. 
+
+9 It's required only in Illinois.
+
+ MR. HACKER: Right. The manufacturer could 
+
+11 not be held liable under that State law. That would be 
+
+12 a condition on the design, an effort by the State to 
+
+13 prescribe the condition, the type of design that could 
+
+14 be --
+
+JUSTICE KENNEDY: Could the railroad be held 
+
+16 liable for failure to give that kind of mask under State 
+
+17 law if it's not a FELA worker? 
+
+18  MR. HACKER: If it's a generally applicable 
+
+19 law about asbestos use, yes. I would say at some point 
+
+a law like that that's directed at a particular type of 
+
+21 equipment becomes potentially conflict pre-empted 
+
+22 because it puts a condition on the design of the 
+
+23 particular equipment. States are free to enforce 
+
+24 generally applicable laws about safe workplace 
+
+environments, asbestos handling --
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE KENNEDY: Let me ask this question: 
+
+2 Is it your position that the -- that the engine is as 
+
+3 much in use when it's in the shop as when it's running 
+
+4 on the track? Is that your position?
+
+ MR. HACKER: We don't have a problem with 
+
+6 that position. We don't have -- we don't have a --
+
+7 because we don't believe you have to establish that it's 
+
+8 in use in the repair shop to establish that the 
+
+9 pre-emption described by Justice Brandeis in Napier 
+
+controls, because the pre-emption he was describing 
+
+11 was -- the regulatory authority was over the equipment 
+
+12 itself which is the same exact equipment. A railroad --
+
+13 a locomotive designed a particular way doesn't change 
+
+14 when it enters the repair shop; so, it's designed to be 
+
+fit for service. 
+
+16  JUSTICE KENNEDY: Well, the reason it seems 
+
+17 to me somewhat important is that I can't conceive of 50 
+
+18 different State regulations for the kind of gloves and 
+
+19 things that the engineer has to wear on -- when he's 
+
+running the train on the track. And if that's so, it 
+
+21 seems to me it would help you to say that the shop was 
+
+22 the same, but you seem to say the shop was different. 
+
+23  MR. HACKER: Well, I only mean to say that 
+
+24 our position doesn't change whether or not the shop is 
+
+different because it's not -- the LIA pre-emption -- LIA 
+
+38
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 regulation isn't about repairing. The DOT may well have 
+
+2 authority -- they seem to think not -- over repairs 
+
+3 under the LIA, but what the LIA is about is the design 
+
+4 and the materials themselves. And States can't say for 
+
+themselves what a better or more preferable or -- a 
+
+6 locomotive design is for any other reason. The 
+
+7 Respondents' brief and reply brief on page 5 makes an 
+
+8 interesting point. They think they've proved their case 
+
+9 when they say the LIA doesn't for example permit the DOT 
+
+to impose a U.S. steel requirement, a domestic content 
+
+11 requirement, on locomotives. The implication would be, 
+
+12 of course, that a State could because it's outside the 
+
+13 field as Petitioners define it, that a State could say 
+
+14 locomotives can only be used within our State if they're 
+
+made of U.S. steel. 
+
+16  I don't think that makes any sense at all. 
+
+17 It can't possibly be right, and the reason it's not 
+
+18 right is that it misunderstands pre-emption under the 
+
+19 LIA as described by Napier. Of course, it's within the 
+
+general authority of the DOT to determine that a 
+
+21 locomotive should be made with U.S. steel, but that 
+
+22 authority can be abused. It might be arbitrary and 
+
+23 capricious; it's not permissible for them to do that. 
+
+24 But the content of locomotives is exclusively within the 
+
+jurisdiction of the DOT, and States can't decide for 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 themselves that a locomotive otherwise compliant under 
+
+2 Federal regulations is --
+
+3  JUSTICE SCALIA: Well, they're -- they're 
+
+4 not saying here you have to manufacture it a certain 
+
+way. They're just saying if you manufacture it in a 
+
+6 manner that we consider unsafe, you have to warn people. 
+
+7  MR. HACKER: Well, that's part of their 
+
+8 argument, but their main claim is the first one, which 
+
+9 is that you are prohibited in this State from using 
+
+asbestos. It can't happen, even though Federal 
+
+11 regulations said you could. That's the main part of 
+
+12 their claim. They have a secondary claim, which is 
+
+13 failure to warn and which we submit is essentially a 
+
+14 type of design defect claim that says if you're going to 
+
+use asbestos, then you have to warn. 
+
+16  And we don't even know -- as Ms. Harrington 
+
+17 was describing, there's a lot -- there would be a lot to 
+
+18 be determined if conflict pre-emption applies to failure 
+
+19 to warn in a given case. That's the whole problem, Your 
+
+Honors, is that the LIA was saying we don't want to 
+
+21 expose manufacturers to the potential of future State 
+
+22 court litigation. 
+
+23  JUSTICE KENNEDY: Well, do we have to reach 
+
+24 this failure-to-warn problem in this case?
+
+ MR. HACKER: I think it's presented here. I 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 mean, we think it's completely caught up in the design 
+
+2 defect issue, but the other side is -- is trying to 
+
+3 defend by saying we have a design defect claim, but we 
+
+4 also have a failure-to-warn claim. But we submit the 
+
+two are bound up together. 
+
+6  JUSTICE SOTOMAYOR: I -- if I'm 
+
+7 understanding your argument correctly, you're saying 
+
+8 that if Napier controls the design of -- and a 
+
+9 locomotive part, that includes any design defect that's 
+
+encompassed by State law, whether it's design in its 
+
+11 traditional sense or failure to warn. 
+
+12  MR. HACKER: That's correct. 
+
+13  JUSTICE SOTOMAYOR: That's basically what 
+
+14 the court below said.
+
+ MR. HACKER: That's correct, and that's what 
+
+16 Judge Kozinski said in the Law case, and Judge Winter 
+
+17 said in Oglesby. 
+
+18  JUSTICE SOTOMAYOR: Just as a practical 
+
+19 matter, I'm assuming that some railroad repair yards are 
+
+owned by the railroad itself, so the railroad repair 
+
+21 people are railroad employees, correct? 
+
+22  MR. HACKER: I -- I think that's right, yes. 
+
+23  JUSTICE SOTOMAYOR: Are there some that are 
+
+24 not?
+
+ MR. HACKER: Well, they might --
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SOTOMAYOR: They are not considered 
+
+2 railroad employees, but they're considered something 
+
+3 else? 
+
+4  MR. HACKER: I don't -- two things I would 
+
+say. I don't know the answer for sure, but I think they 
+
+6 probably are, but there are also repair shops that then 
+
+7 -- that are owned by other railroads, and that's part of 
+
+8 a problem that manufacturers have, is you don't know, 
+
+9 when you sell the -- the locomotive to a railroad, who 
+
+is going to be --
+
+11  JUSTICE SOTOMAYOR: Just to be --
+
+12  MR. HACKER: -- repairing under what 
+
+13 conditions. 
+
+14  JUSTICE SOTOMAYOR: Just to be clear, under 
+
+your view of the LIA, there could be other laws that 
+
+16 pre-empt it or prohibit it? States can tell railroad 
+
+17 yards put signs up, wear protective equipment, do 
+
+18 whatever it is to protect the worker from this repair. 
+
+19  MR. HACKER: Yes.
+
+ JUSTICE SOTOMAYOR: They just can't tell 
+
+21 them --
+
+22  MR. HACKER: Yes. 
+
+23  JUSTICE SOTOMAYOR: -- include a warning on 
+
+24 the brake, or to --
+
+MR. HACKER: Specific to the equipment 
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 itself. 
+
+2  What we would say is the State has to take 
+
+3 the locomotive equipment as a given. It is what it is. 
+
+4 And then if that locomotive equipment creates risks for 
+
+workers, the employer may have to do things to account 
+
+6 for those risks, but the equipment can't be regulated by 
+
+7 the State. The equipment itself can't be regulated by 
+
+8 the State in any respect. 
+
+9  JUSTICE KAGAN: Mr. Hacker, do you think we 
+
+would decide Napier the same way if it came to us today? 
+
+11  MR. HACKER: I do think so, Your Honor. Of 
+
+12 course, I don't think that matters because Napier is 
+
+13 what it is and has been relied upon for 85 years. But I 
+
+14 think there would be a very good argument that it would 
+
+be decided the same way today under the Ray case that 
+
+16 Justice Sotomayor mentioned. That was a very similar 
+
+17 kind of delegation of regulatory authority, and the 
+
+18 Court held that there was the same kind of field 
+
+19 pre-emption. There are some differences one could 
+
+discuss, but Napier is what it is, as I say. 
+
+21  If The Court has no further questions, I'll 
+
+22 cede the balance of my time. 
+
+23  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+24  Mr. Frederick, you have 4 minutes.
+
+ REBUTTAL ARGUMENT BY DAVID C. FREDERICK 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  ON BEHALF OF THE PETITIONERS 
+
+2  MR. FREDERICK: Manufacturers clearly have 
+
+3 the best information about the dangerous aspects of 
+
+4 their products, and they issue warnings and instructions 
+
+in manuals and provide all kinds of information so that 
+
+6 persons working on their equipment are going to know the 
+
+7 special hazards. It doesn't make sense to inoculate 
+
+8 those manufacturers from liability where they have the 
+
+9 best information to ensure that repair workers are not 
+
+going to be exposed to risks. 
+
+11  With respect to the point about being on the 
+
+12 line, the whole idea behind the Locomotive Inspection 
+
+13 Act was not just for use, Justice Kennedy, but also safe 
+
+14 to operate on the railroad line. Under the 
+
+regulations -- and this is well established -- yard 
+
+16 limits are drawn outside the bowl where switching 
+
+17 operations and repair operations occur, so that 
+
+18 everybody knows where the Federal LIA standard applies 
+
+19 and where it doesn't.
+
+ And the reason why the LIA has had this kind 
+
+21 of history with respect to repair work goes to the 
+
+22 history of -- behind this Court's recognition of the 
+
+23 commerce power. Up until the New Deal era, it was well 
+
+24 settled that Congress could not legislate on intrastate 
+
+activities, which are peculiar to repair yards. And so, 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 this Court when it decided the Shanks case in the mid 
+
+2 1910s held that a railroad worker could not bring an 
+
+3 FELA claim because his work was not in interstate 
+
+4 commerce; it was only in intrastate commerce. And that 
+
+is why the ICC throughout this entire period never 
+
+6 devoted regulations to repair yards, because this 
+
+7 Court's Commerce Clause jurisprudence precluded Federal 
+
+8 regulatory activity for that. 
+
+9  So, if you look at this case from an 
+
+historical perspective, Justice Kagan, it's not clear 
+
+11 that the full parameters of the way the Court would 
+
+12 explain Napier would be the same, because its approach 
+
+13 to field pre-emption is so different after the New Deal 
+
+14 era than it was before the New Deal era. And that is 
+
+also why when this Court looks at regulatory 
+
+16 implications of common law claims, it has had no problem 
+
+17 allowing State law to have design defect claims with 
+
+18 respect to planes, cars, motorboats, and trucks, even 
+
+19 though the implications of a State law claim might find 
+
+liability for the insufficiency of the design imposing 
+
+21 an unreasonable risk to the person who is exposed to 
+
+22 that risk with respect to that interstate modality. 
+
+23  There's no reason why you have to have a 
+
+24 broad and expansive view of the field here because 
+
+Congress subsequently has enacted in this very area to 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 give the Federal agency pre-emptive authority when it 
+
+2 deems that authority appropriate. And as the Federal 
+
+3 Government says --
+
+4  CHIEF JUSTICE ROBERTS: And it knows -- it 
+
+knows about Napier and what's been going on for 85 
+
+6 years, and if it wants to pull back on the pre-emptive 
+
+7 effect of the provisions interpreted in Napier, it's 
+
+8 free to do that, too. 
+
+9  MR. FREDERICK: It did so, though, Your 
+
+Honor in 49 U.S.C. 20106, where it said that unless and 
+
+11 until the Federal Government issues a regulation in a 
+
+12 particular field, the States are allowed to have their 
+
+13 rule be in effect. 
+
+14  JUSTICE GINSBURG: But that was -- that was 
+
+the Safety Act, and they didn't amend the Locomotive 
+
+16 Act. The Locomotive Act is what it was, and they didn't 
+
+17 put that clause in it. 
+
+18  MR. FREDERICK: But that's why, Justice 
+
+19 Ginsburg, the point here is how broadly do you define 
+
+the scope of the field, and Napier defined it in an 
+
+21 historical context that we just don't live in anymore. 
+
+22 And there's no reason to give manufacturers a complete 
+
+23 pass from liability when they have the best information 
+
+24 to advise railroad -- railroads and railroad workers how 
+
+to work on their equipment in a safe way without 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 exposing their workers to unnecessary risks. 
+
+2  Thank you. 
+
+3  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+4  The case is submitted.
+
+ (Whereupon, 11:53 a.m., the case in the 
+
+6 above-entitled matter was submitted.) 
+
+7 
+
+8 
+
+9 
+
+11 
+
+12 
+
+13 
+
+14 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+OfficialOfficial 
+
+48 
+
+A 
+able 17:19 35:1 
+above-entitled 
+
+1:14 47:6 
+absent 5:11 
+absolutely 8:7 
+
+13:7,8 17:24 
+32:11 
+
+abused 39:22 
+accept 11:15 
+
+30:11 
+accident 8:14,20 
+accomplish 
+
+29:22 
+account 43:5 
+Act 3:12,22 4:11 
+
+4:15,20 5:6,7 
+8:17 9:10,19 
+13:9 18:7 31:6 
+44:13 46:15,16 
+46:16 
+
+activities 44:25 
+activity 45:8 
+Act's 9:17 
+address 4:16 
+addressed 5:6 
+
+23:9 
+addressing 11:3 
+adequate 15:17 
+
+15:21 32:21 
+36:17 
+
+Administration 
+4:19 9:22 
+
+adopt 34:22 
+35:4 
+
+advance 34:22 
+34:24 
+
+advise 46:24 
+affect 11:11,17 
+
+20:25 21:4 
+31:6,7,9 32:23 
+
+afraid 23:3 
+agency 5:1 28:2 
+
+46:1 
+agree 18:8 26:10 
+
+28:1 30:9 
+33:20 
+
+agreed 26:8 
+ahead 26:3 
+aimed 10:8 
+air 12:11 
+AL 1:5,9 
+allegation 35:11 
+allowed 46:12 
+allowing 45:17 
+alternatively 
+
+30:25 
+amend 46:15 
+amicus 1:22 2:8 
+
+16:24 
+announced 6:10 
+answer 9:8 
+
+10:10,12 25:4 
+32:22 42:5 
+
+anybody 20:20 
+anymore 9:5 
+
+12:20 46:21 
+apart 8:2,4 
+APPEARAN... 
+
+1:17 
+Appliance 3:22 
+applicable 33:1 
+
+37:18,24 
+applied 6:11 
+
+24:3 33:18 
+applies 18:18 
+
+24:18 26:15 
+33:21 40:18 
+44:18 
+
+apply 5:4 25:21 
+33:9,10 
+
+applying 24:6 
+appreciate 19:5 
+approach 45:12 
+appropriate 
+
+30:24 35:7 
+46:2 
+
+approved 34:24 
+arbitrary 39:22 
+area 45:25 
+argue 27:10 
+argument 1:15 
+
+2:2,5,9,12 3:3 
+3:7 5:16 6:7 
+
+8:4,5 10:7 
+16:22 27:2,19 
+31:20 32:16,22 
+40:8 41:7 
+43:14,25 
+
+asbestos 5:20 
+6:12 8:5,14 
+9:24 11:22,25 
+12:12,19 15:20 
+30:22 31:11,23 
+35:14 36:12,19 
+37:19,25 40:10 
+40:15 
+
+asbestos-cont... 
+13:4 23:2 28:4 
+
+aspect 32:4 
+aspects 4:14 
+
+29:6 44:3 
+assert 28:14 
+Assistant 1:20 
+assume 19:2 
+
+32:4 
+assuming 41:19 
+attach 21:15 
+attempt 14:4 
+authorities 
+
+13:16 
+authority 14:14 
+
+22:24 23:8,24 
+24:1 27:8 
+28:17,19 29:2 
+33:2,3 35:6 
+38:11 39:2,20 
+39:22 43:17 
+46:1,2 
+
+available 5:21 
+avoid 14:2 
+aware 23:25 
+a.m 1:16 3:2 
+
+47:5 
+
+B 
+b 11:1,2 
+back 9:13 10:25 
+
+21:8,20 46:6 
+balance 16:18 
+
+43:22 
+
+barred 26:9,11 
+basically 41:13 
+basis 15:13 
+beds 32:20 
+behalf 1:19,24 
+
+2:4,7,11,14 3:8 
+16:23 27:3 
+44:1 
+
+believe 32:12 
+38:7 
+
+best 44:3,9 
+46:23 
+
+bet 24:8 
+better 39:5 
+bit 13:18 20:13 
+blowing 12:11 
+boiler 7:18 
+boilers 4:16 
+bothering 10:17 
+bound 41:5 
+bowl 44:16 
+box 34:10 
+Boy 24:13 
+brake 21:16 
+
+42:24 
+brakes 13:4 23:2 
+
+23:3 24:11 
+28:4,5 
+
+Brandeis 6:16 
+7:21 10:5,20 
+13:25 38:9 
+
+Breyer 9:25 
+10:21 11:8,14 
+15:14 16:2,6 
+16:11 19:21 
+20:5,11,15,20 
+21:3,21 27:8 
+27:14 30:20 
+32:15 34:5,9 
+
+brief 18:11 
+27:25 39:7,7 
+
+bring 9:12 15:16 
+15:24 45:2 
+
+broad 24:5 
+45:24 
+
+broader 23:21 
+23:23 24:1 
+
+27:20 
+broadly 46:19 
+broken 7:17,23 
+
+24:19 25:10 
+bump 25:24 
+B&O 13:24 23:9 
+
+C 
+C 1:18 2:1,3,13 
+
+3:1,7 43:25 
+capacity 22:25 
+capricious 39:23 
+car 9:3,5 
+care 18:18 23:6 
+
+25:20 34:14 
+carries 32:20 
+cars 24:9 45:18 
+case 3:4,17 4:22 
+
+4:25 5:4,8 6:17 
+11:7,9,11,22 
+13:24 14:3,23 
+15:2,6 17:2,5 
+20:12,16 21:22 
+21:23 22:3,18 
+22:20 26:7,11 
+39:8 40:19,24 
+41:16 43:15 
+45:1,9 47:4,5 
+
+cases 4:13 9:3 
+caught 41:1 
+cause 7:6 
+cede 43:22 
+certain 21:15,16 
+
+23:10 40:4 
+certainly 15:15 
+
+30:11 
+certified 33:13 
+
+33:24 
+challenge 6:2 
+change 29:12 
+
+31:11,22 32:19 
+33:23 34:18 
+38:13,24 
+
+changes 20:1 
+changing 12:11 
+
+32:24 
+character 26:21 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+49 
+Official 
+
+Chief 3:3,9 6:15 29:25 34:2 6:24 9:18 26:12 27:5,6 26:20 32:1 
+6:20,22 7:1,5,8 comes 12:12 44:24 45:25 40:22 41:14 40:14 41:2,3,9 
+7:13,18 8:3,9 21:14 26:11 consider 40:6 43:18,21 45:1 45:17 
+8:13 9:2,8 10:1 28:12 29:13 considered 42:1 45:11,15 defective 31:19 
+16:19,25 24:7 comfort 33:11 42:2 Court's 4:3 14:9 defend 28:14 
+24:22 25:3,13 commerce 23:19 consistent 4:2 44:22 45:7 41:3 
+26:24 27:1,4 44:23 45:4,4,7 4:18 cover 9:6 defer 28:7 
+43:23 46:4 common 31:25 consistently covered 8:17,18 define 39:13 
+47:3 45:16 6:11 24:16 25:5,7 46:19 
+
+chooses 14:15 complaint 26:14 construct 17:19 37:2 defined 46:20 
+chosen 14:16 26:14,15 construction 4:2 create 12:21 delegated 6:23 
+circumstances complete 12:24 18:12 23:21,22 created 12:4,13 delegates 27:8 
+
+33:15 46:22 29:3,7 creates 43:4 delegation 43:17 
+civil 9:12 completely 5:3 constructions crippled 9:11,13 demonstration 
+claim 6:8 12:2 18:8 34:3 41:1 29:5 curiae 1:22 2:8 14:6 
+
+12:23 15:2,2,5 compliant 40:1 construed 3:25 16:24 denied 20:21 
+15:8,10,11,16 comply 19:25 4:20 9:17 27:6 current 14:7 Department 
+15:24 17:12 31:10 32:24 content 39:10,24 36:22 1:21 
+20:4 22:7 26:8 35:1 context 24:6 C.F.R 13:15 depend 7:14 8:5 
+26:13 31:16 components 46:21 depends 20:3 
+
+D32:1,1 35:14 5:21 contractor 37:2 22:9 
+D 1:24 2:10 3:1 35:23,23 36:23 comprehensiv... 37:5 described 38:9 
+
+27:237:4,5 40:8,12 9:18 contractually 39:19 
+danger 28:440:12,14 41:3 conceive 38:17 22:16 describing
+dangerous41:4 45:3,19 concerned 9:25 control 22:14 38:10 40:17 
+
+30:22 44:3claims 6:2,6 18:21,21 controlled 5:2 design 5:2,9,14
+DAVID 1:18 2:3 11:7,16,17,17 concession 29:6 controlling 22:6 5:20 6:1,2,8
+
+2:13 3:7 43:25 11:20 17:6 condition 37:12 controls 38:10 11:20 12:2,12
+day 30:1621:24,25 22:1 37:13,22 41:8 12:17,22 15:12 
+Deal 44:2325:22,24 26:17 conditioning Corporation 1:9 18:4,12 21:1 
+
+45:13,1426:18,19,20 32:5 3:5 26:8,19,20
+dealing 11:1228:20 31:5 conditions 32:13 correct 5:25 8:7 27:9,11 29:2,4 
+debate 12:2045:16,17 33:4,6 42:13 8:22 35:17 29:6,12,15,18
+DECEASED 1:5clamp 21:16 conducting 3:14 41:12,15,21 29:18,23,24
+decedent's 15:7clarify 14:25 conferred 6:17 correctly 41:7 31:6,9,11,12
+
+15:1119:5,5 confirmed 7:20 CORSON 1:4 31:16,19,23,25
+decide 29:24clause 45:7 conflict 9:20 counsel 6:15 32:1,2,4,6,20
+
+39:25 43:1046:17 14:17 17:4 26:24 43:23 32:23,24 33:7 
+decided 10:4clear 30:2,4 18:15,21,22,23 47:3 33:7,7 34:3,23 
+
+13:2 43:1532:11 36:17 19:6,6,9,19 course 5:5,14 35:4 37:12,13
+45:142:14 45:10 21:24 26:6 34:17 39:12,19 37:22 39:3,6
+
+decisionmakingclearly 18:10 28:21 34:14,14 43:12 40:14 41:1,3,8
+35:544:2 37:21 40:18 court 1:1,15 41:9,10 45:17 
+
+decisions 35:7cloud 12:12,14 conflicting 3:10,24 4:12 45:20 
+deems 46:212:22 25:25 5:8,12,25 6:10 designed 4:15 
+defect 12:22come 8:6,14 confused 22:23 14:4,23 17:1 38:13,14
+
+15:13 26:8,1910:3,4,15 Congress 3:11 17:10 23:8 designs 35:9 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+50 
+
+detailed 22:17 34:24 39:1,9 29:20 32:10 exclusive 27:8 40:24 41:4 
+determine 6:24 39:20,25 35:22 36:16,17 29:2 fall 17:6 18:16 
+
+27:9 39:20 DOT's 28:8,9 44:9 exclusively 34:15 
+determined drawn 44:16 ensuring 5:2 39:24 family 15:7,11 
+
+40:18 dust 12:12,14,22 entail 6:2 11:7 executive 30:5 far 14:23 
+development duty 25:20 enters 38:14 EXECUTRIX far-out 11:10 
+
+26:12 36:15 entire 45:5 1:3 fault 15:18 
+devoted 45:6 D.C 1:11,18,21 entity 29:23 expand 17:10 favor 10:15 
+dictate 27:11 1:24 environment expanded 13:17 Federal 4:19 
+dictating 19:18 
+
+26:21 E 
+36:16,18 
+
+environments 
+expansive 45:24 
+expansively 
+
+8:18 9:19,22 
+10:12 13:8 
+
+differ 3:20 E 1:20 2:1,6 3:1 37:25 14:13 14:20 18:22 
+difference 4:25 3:1 16:22 equipment 5:14 explain 15:4 19:7,10,14 
+
+19:21 26:5 earlier 27:19 6:18,21 7:14 26:2,4 27:25 23:14 35:6 
+differences 33:23 34:21 10:13 11:12,18 31:2 45:12 40:2,10 44:18 
+
+43:19 early 13:24 11:19,24 14:5 exploding 4:17 45:7 46:1,2,11 
+different 4:5,14 easier 35:4 16:1,7,8,17 expose 34:11 FELA 15:1,2,5,8 
+
+4:14 9:1 17:20 easily 35:1 17:12,13 19:8 40:21 32:8 36:16,23 
+18:4 23:11 effect 19:17 19:8,11,15,18 exposed 36:19 37:2,17 45:3 
+25:25 26:15 26:18,21 46:7 20:9,23 21:6 44:10 45:21 field 9:17 14:12 
+34:3 35:1,4 46:13 23:1 26:22 exposing 47:1 14:19,22 17:3 
+38:18,22,25 effort 37:12 27:10,16,22 expressly 9:18 17:6,11 18:16 
+45:13 either 25:5 30:25 34:17,19 extension 30:15 20:8 21:25 
+
+directed 10:13 elements 27:23 37:21,23 38:11 extent 10:25 22:20 25:22 
+18:14 37:20 28:25 38:12 42:17,25 33:2 26:5 28:20,21 
+
+directly 15:24 employee 32:14 43:3,4,6,7 44:6 extraordinary 28:22,23,25 
+disabled 8:20 employees 33:4 46:25 14:21 34:16 39:13 
+disagree 28:1 
+
+30:11,19 
+35:22 36:18 
+41:21 42:2 
+
+era 44:23 45:14 
+45:14 F 
+
+43:18 45:13,24 
+46:12,20 
+
+discuss 43:20 employer 43:5 ESQ 1:18,20,24 face 7:24 9:12 find 45:19 
+disease 10:9,11 employers 33:4 2:3,6,10,13 9:15 finding 14:1 
+dismissed 15:2,5 empowers 13:9 essence 12:22 faced 6:12 8:11 15:9 
+displace 14:17 enable 17:18 essentially 40:13 11:21 finish 9:7 
+disposal 20:9 enacted 3:11 establish 38:7,8 fact 8:5 25:10 first 5:25 10:18 
+distinct 12:2 45:25 established 27:11 11:15 31:9 
+distinction 26:5 encompassed 44:15 fail 16:8,8 40:8 
+Distinguish 4:21 41:10 ESTATE 1:4 failing 15:12 fit 4:1 38:15 
+
+4:24 enforce 37:23 ET 1:5,9 16:14 35:25 fitness 6:10,24 
+distribute 33:7 enforced 27:18 everybody 36:5 7:3 11:3 13:13 
+division 30:6 engine 17:18,22 15:19 17:17 failure 16:7 fix 24:9,10,13,15 
+doctrine 3:15 18:5 19:1 30:15 44:18 35:12 36:6 24:19 25:5,6 
+
+14:18 33:12,19 38:2 evidence 12:18 37:6,16 40:13 follow 28:19 
+documents 31:1 engineer 33:14 exact 38:12 40:18 41:11 followed 10:22 
+doing 12:5 32:16 38:19 exactly 11:23 failure-to 6:1 10:23,23,23 
+domestic 39:10 engines 17:19 26:17 failure-to-warn following 31:14 
+DOT 27:8 29:1 ensure 3:12,25 example 20:5 15:24 22:1,7 32:3 
+
+29:20,24 34:1 5:13 7:9,25 32:20 39:9 31:5 32:1 forced 35:19 
+
+Alderson Reporting Company 
+
+
+
+51 
+Official 
+
+forth 10:24 16:6 21:10 30:10,19 31:8 44:21,22 information 
+found 9:1 14:22 Ginsburg 14:24 31:25 32:25 holds 21:7 27:15 44:3,5,9 46:23 
+FRA 12:23 14:7 15:7 26:2,4 33:20 34:7,20 Honor 29:11 injure 23:3 
+
+14:14,16 31:15 46:14,19 35:9,17,21 31:9 34:21 28:13 
+frankly 28:6 give 7:2 20:5 36:2,6,10,15 43:11 46:10 injured 9:14 
+FRA's 23:8 33:16 35:15,19 36:22 37:3,10 Honors 40:20 injuries 17:8 
+Frederick 1:18 37:16 46:1,22 37:18 38:5,23 hook 21:7 25:18 
+
+2:3,13 3:6,7,9 given 31:2 32:18 40:7,25 41:12 hours 24:14 injury 17:14 
+3:21 4:7,10,23 40:19 43:3 41:15,22,25 hypothesis 37:8 inoculate 44:7 
+5:5,18,23 6:7 gives 29:20 42:4,12,19,22 inspect 7:20 
+
+I6:19,22 7:4,8 giving 6:5 42:25 43:9,11 Inspection 3:11 
+ICC 3:17 4:12 7:17,22 8:7,11 GLORIA 1:3 handling 37:25 4:11,15 8:17 
+
+4:13,18 14:6 8:16,22,25 9:7 gloves 38:18 hands 35:6 9:10,17 44:12 
+23:9 45:510:18 11:2,13 go 10:25 11:20 happen 40:10 instruction 
+
+ICC's 4:2 14:4 11:15 12:9,14 12:3 18:12 hard 24:4 26:16 16:15 
+idea 13:11 44:12 13:7,12,23 24:14 25:15 harder 14:10 instructions 6:3 
+Illinois 37:914:24 15:6,23 26:3 28:12 harm 7:6 16:4,16 44:4 
+imagine 21:1316:4,10,13,20 30:12 harms 6:12 insufficiency
+
+33:1743:24,25 44:2 goes 12:4 14:23 Harrington 1:20 45:20 
+immunity 14:1946:9,18 21:8,20 23:6 2:6 16:21,22 insurance 9:3,5
+impair 6:1free 37:23 46:8 44:21 16:25 17:24 interesting 39:8 
+implementFriction 1:8 3:5 goggles 20:19 18:8 19:4 20:3 interfere 5:14 
+
+14:10front 21:6 going 7:6,16,19 20:6,14,17 interfering 5:21 
+implicationFRSA 13:16 17:23 19:24 21:2,12,23 interpreted 46:7 
+
+39:1114:8,14 32:7 20:1 24:14 22:8,15,23 interstate 23:19 
+implicationsfrustrates 18:6 28:13 30:16 23:5,17 24:17 45:3,22
+
+45:16,19full 45:11 34:18 36:8,11 25:1,9,17 intrastate 44:24 
+implied 3:15further 20:12,13 40:14 42:10 26:10,25 32:11 45:4 
+
+14:19,2243:21 44:6,10 46:5 40:16 intrude 6:9 
+important 24:2future 40:21 good 43:14 hazard 8:11 involves 6:8 
+
+35:13 38:17govern 33:1 12:8 31:19 issue 11:4 13:3 
+G impose 32:13governed 8:25 hazards 3:13 13:19 14:4 
+
+G 3:1 39:1018:17 25:23 7:24 11:21 17:5 22:25 
+GAIL 1:3 imposing 45:20Government 12:4 13:5 23:1,9 24:3 
+gain 14:19 incentives 36:1719:10,14 23:14 20:18 44:7 28:2 31:17 
+gap 12:24 include 6:946:3,11 hear 3:3 41:2 44:4 
+gear 12:16 23:11 17:11 23:15Government's heightened issued 9:22 22:9 
+
+23:12 42:2317:4 28:1 25:20 23:10 
+general 1:21 included 5:10guess 8:3 held 5:1 16:14 issues 13:15 
+
+39:20 includes 29:8guy 24:12 35:25 36:2,5 17:3,4 22:2,17 
+generally 12:13 41:9guys 23:4 37:11,15 43:18 46:11 
+
+33:1 37:18,24 incorporates45:2 
+H Jgeographic 26:14help 38:21 
+
+27:17 Hacker 1:24 incorrect 32:11 JONATHANhelpful 17:2 
+GEORGE 1:4 2:10 27:1,2,4 independent 1:24 2:10 27:2 historical 12:20 
+Georgia 11:4 27:24 28:6,23 37:1,4 Judge 41:16,1645:10 46:21 
+getting 5:12 29:11,16,19 industry 17:21 judgment 15:9history 23:22 
+
+Alderson Reporting Company 
+
+
+
+52 
+Official 
+
+jurisdiction 22:22 23:20 laws 33:1 37:24 lines 3:13 21:10 looked 5:8 
+looking 6:1639:25 27:24 28:16 42:15 23:19 
+
+jurisprudence 43:9 45:10 leaving 24:14 litigation 40:22 18:25 34:1 
+14:9 45:7 Kennedy 30:1,4 legislate 44:24 little 13:18 looks 45:15 
+
+Justice 1:21 3:3 30:13 35:8,11 legislated 9:19 33:11 lose 15:3,6
+ 
+3:10,16,22 4:4
+ 35:18,24 36:20 legislation 17:17 live 46:21 lost 13:19
+ 
+4:8,21,24 5:16
+ 37:1,7,15 38:1 lesser 30:25 location 27:17 lot 24:8 40:17,17 
+5:19,24 6:5,15 38:16 40:23 let's 20:15 24:11 Locke 5:8 lump 31:4
+ 
+6:16,20,22 7:1
+ 44:13 LIA 12:23 13:11 locker 21:9 L-I-A 13:20
+ 
+7:5,8,13,18,21
+ key 10:16 29:13 13:20 14:9 locomotive 3:11 
+
+M8:3,9,13,19,23 kind 12:2 21:5 17:7,11 18:17 4:6,11,15 6:3 
+M 1:49:2,8,25 10:1,5 21:16,16 23:11 19:9,20 23:2,5 7:11,23 8:15
+ 
+
+10:19,21 11:8
+ main 40:8,11 
+maintenance 
+
+23:11 28:3 23:6 24:1,17 8:17,20 9:10 
+11:14 12:6,10 34:15 35:5,12 25:23,23,24 9:11,13,16
+ 
+13:1,10,18,25
+ 5:10 12:5 
+
+making 10:9 
+36:21 37:8,16 27:6,15,21 11:5,23,23,25 
+
+14:2,24 15:7 38:18 43:17,18 28:2,9 32:7 12:3,17 17:9 
+manner 40:6 
+manual 15:25 
+
+15:14 16:2,6 44:20 35:5 38:25,25 17:12,13 18:3 
+16:11,19,25 kinds 18:11 39:3,3,9,19 18:13 19:12,15
+ 
+17:16,25 18:20
+ manuals 16:1526:15 31:5 40:20 42:15 19:19,24 20:1 
+
+44:519:21 20:5,11 44:5 44:18,20 20:9,13 21:1
+ 
+20:15,20 21:3
+ manufactureknow 7:14 8:9 liability 9:12,15 21:14,17,19,19 
+
+40:4,521:21 22:5,13 9:3,4 17:22 14:20 33:22 23:7 24:20,24 
+manufactured22:22 23:13,20 19:16 20:20 44:8 45:20 25:10,15,18 
+
+33:1324:7,22 25:3 21:9 22:12 46:23 26:22 27:9,11 
+manufacturer25:13 26:1,2,3 26:11 28:3 liable 16:14 27:16,17,22,23 
+
+15:12,25 18:24 26:4,24 27:1,4 30:8,13,16 33:14 35:25 28:9,11 29:1,3
+ 
+27:7,14,19,24
+ 19:2 20:25 
+
+22:1,5,10 
+33:25 34:21,24 36:3,5 37:11 32:20 33:10,23 
+
+28:16 29:4,15 36:9,12 40:16 37:16 33:25 38:13 
+31:17 33:12,2529:17 30:1,3,4 42:5,8 44:6 LIA's 18:17 39:6,21 40:1 
+35:15 36:4,1330:13,20 31:15 knows 30:15,22 25:20 41:9 42:9 43:3 
+37:4,5,1032:15 33:9 33:25 44:18 life 14:3 43:4 44:12 
+
+manufacturers34:5,9 35:8,11 46:4,5 lights 3:18,20 46:15,16
+ 
+35:18,24 36:4
+ 11:11,24 15:18 Kozinski 41:16 4:5 locomotives 
+
+16:14 17:1836:8,11,20 Kurns 1:3 3:4 limb 14:3 3:12,14,19,25
+ 
+37:1,7,15 38:1
+ 19:16 33:5,21limit 23:7 5:22 6:18,21
+
+L 34:25 40:2138:9,16 40:3 limited 8:4 7:9,25 10:9,14 
+language 10:2 42:8 44:2,8 
+law 5:13 8:18 
+
+40:23 41:6,13 limiting 23:21 12:19 18:18 
+46:2241:18,23 42:1 limits 44:16 24:3,18 29:21
+ 
+
+42:11,14,20,23
+ 10:5 14:19 manufacturer'sline 4:1,17 7:11 30:6 39:11,14
+15:13 19:25 19:2343:9,16,23 8:1 11:4,6 21:8 39:24 
+20:24 30:20,21 mask 35:13 36:1 44:13 45:10 23:18 24:22,24 logic 5:4 
+31:25 36:21,25 36:21 37:8,1646:4,14,18 25:1 27:13,18 long 10:6 11:24 
+37:7,11,17,19 masks 20:1947:3 28:12,12 29:9 27:11 
+37:20 41:10,16 master 26:1429:12,21 30:14 longer 8:21 13:3 
+
+K 45:16,17,19 match 25:2 
+Kagan 13:1,10 
+
+30:15 31:21 19:2 28:22 
+lawfully 31:13 materials 16:1633:24 34:11 look 13:14 18:24 
+
+13:18 14:2 32:3,17 33:8 18:13 27:9,1144:12,14 45:9 
+
+Alderson Reporting Company 
+
+
+
+53 
+Official 
+
+29:3,5,7 33:8 navigation 5:1,2 operations 39:23 potential 40:21 
+39:4 near 35:13 44:17,17 permit 39:9 potentially 
+
+matter 1:14 necessarily opinion 13:25 permitted 9:21 37:21 
+41:19 47:6 30:10 opportunity person 45:21 power 6:16,23 
+
+matters 43:12 necessary 14:2 19:5 persons 44:6 7:19 27:20 
+mean 20:1 32:22 need 14:12 oral 1:14 2:2,5,9 perspective 28:9 29:20,22 
+
+33:17 38:23 28:14 30:5 3:7 16:22 27:2 45:10 32:13 44:23 
+41:1 36:21 37:8 order 18:5 19:25 pertain 29:7 practical 26:7 
+
+means 19:13,15 needs 14:14 29:21 Petitioners 1:6 41:18 
+33:18 negligence ordinarily 15:1 1:19,23 2:4,8 precluded 45:7 
+
+meant 22:25 11:16 15:10 15:23 2:14 3:8 16:24 predated 9:10 
+measures 31:24 negligent 15:20 OSHA 32:7 33:3 17:6 27:10 preferable 39:5 
+mechanics 3:13 Neither 31:7 36:2 39:13 44:1 prescribe 37:13 
+meet 14:10 never 9:23 20:12 outer 21:11 physical 27:23 prescribed 4:5 
+mentioned 10:2 45:5 outside 7:10 28:25 presented 17:5 
+
+43:16 New 44:23 45:13 24:6 39:12 piece 19:7,8,14 22:20 40:25 
+merely 7:20 45:14 44:16 place 4:13 9:21 prevent 32:16 
+mid 45:1 notice 31:16 overcome 31:3 25:5 preventing 10:8 
+minutes 43:24 34:12 overturning plaintiff 15:4 previous 9:8 
+missed 18:10 November 1:12 10:16 plaintiffs 26:13 pre-empt 31:6 
+mistaken 3:23 numerous 4:13 owned 41:20 26:16 36:23 42:16 
+misunderstands 42:7 planes 45:18 pre-empted
+
+O39:18 owner 15:19 please 3:10 17:1 10:10,14 13:22 
+O 2:1 3:1 modality 45:22 27:5 17:7,11 18:2 
+
+Pobject 10:11month 30:16 plenary 29:23 18:15 20:8 
+objective 19:20 P 3:1morning 3:4 point 7:22 9:9 21:24 25:22 
+
+29:22 page 2:2 6:23 27:20 9:16 14:11 26:20 28:20,21
+obvious 30:15 39:7motorboats 28:2,11 35:4 28:21 30:21 
+obviously 10:20 parameters45:18 37:19 39:8 33:2 37:21 
+occur 25:18 45:11move 21:17 44:11 46:19 pre-emption
+
+44:17 part 12:20 13:15 pointed 27:15 9:20 14:17,19
+N occurred 17:8 30:17 40:7,11 27:19 14:22 17:3,4
+
+N 2:1,1 3:1 17:14 41:9 42:7 points 4:14 5:23 18:21 22:20 
+Napier 3:25 Oglesby 41:17 particular 10:2 31:8 26:6,6 27:15 
+
+6:11,16 7:12 Oh 20:20 33:15 10:8 12:8 14:5 pole 9:4 27:21 34:14,16
+10:2,3,7,17,19 okay 10:21 11:1 27:7 37:20,23 Port 5:6,7 38:9,10,25
+23:21 24:2,5 13:18 17:23 38:13 46:12 pose 28:5 39:18 40:18 
+27:7,15,21,22 18:1 19:16 parts 13:14 posit 14:2 43:19 45:13 
+34:16 38:9 20:15 24:15 pass 22:11 46:23 position 4:10 pre-emptive
+39:19 41:8 30:3 passage 27:7,14 18:10 28:14 46:1,6
+43:10,12,20 old 9:2 peculiar 44:25 29:8 38:2,4,6 principle 3:23 
+45:12 46:5,7 once 5:19 8:19 penalties 9:12 38:24 7:9 
+46:20 open 34:10 people 40:6 posits 14:13 probably 42:6 
+
+narrow 23:24 operate 7:12,15 41:21 possible 28:7 problem 4:16 
+narrowly 9:17 28:10 44:14 peril 14:3 possibly 39:17 10:17,22 28:13 
+national 17:21 operation 4:17 period 45:5 post 22:11 34:12 32:8,9 38:5 
+nature 31:16 11:6 12:3 permissible post-Napier 4:3 40:19,24 42:8 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+54 
+
+45:16 Q reason 29:19 remand 22:18 18:23 34:25 
+problems 6:9 question 9:8 33:22 34:20 remember 24:2 35:2,3 
+proceeds 22:4 10:24 22:3,19 38:16 39:6,17 remind 12:19 requiring 20:19 
+process 6:13 22:21,22 25:4 44:20 45:23 removal 20:12 23:10 
+
+9:15 20:10 38:1 46:22 removed 12:21 respect 4:13 
+products 1:8 3:5 questions 43:21 reasonable 20:9 18:4 19:24 
+
+22:10,16 44:4 quoted 27:7 11:10 rendered 15:8 26:18 31:4,23 
+prohibit 42:16 reasonably 11:9 repair 4:9 5:3 33:21 43:8 
+prohibited 40:9 R reasoning 4:22 5:10 6:8,12,13 44:11,21 45:18 
+promulgate R 3:1 REBUTTAL 7:10,23 8:12 45:22 
+
+14:15,16 Rail 9:19,22 2:12 43:25 11:21 12:1,4 Respondent 
+promulgated 13:8 recognition 12:24 13:5 17:10 
+
+4:12 railroad 1:8 3:4 44:22 15:16,19 16:9 Respondents 
+properly 8:1 3:13,20 4:19 recourse 15:3 18:14 20:10,21 1:25 2:11 20:7 
+
+17:5 7:11 8:1 9:11 recovery 15:4 21:4,14,15,18 20:7,17 27:3 
+proposition 9:15 13:24 referred 27:22 22:6,11,25 39:7 
+
+11:16 14:21,22 15:1,10 20:2 34:17 24:23 25:11,19 responsibility 
+28:15 30:11 21:15 24:9 refers 34:18 28:24,24 29:9 32:9 
+
+protect 22:25 25:11 30:5,21 regardless 17:13 29:13 30:7,7 revealed 30:22 
+31:18,24 32:13 30:23 31:1,7 regime 9:20 30:14,17,23,24 30:23 
+33:4 42:18 35:19,21,25 36:23 31:1,22 32:9 reverse 23:11,12 
+
+protected 12:15 36:5,8,11,13 regulate 3:13 32:12,14,17,18 revise 10:25 
+protection 35:22 36:24 37:15 5:19 11:5 33:1,10,22 right 6:18 7:15 
+protective 12:16 38:12 41:19,20 12:23 14:8,8 34:8 35:20 8:6 15:15 
+
+42:17 41:20,21 42:2 20:8,18,21 38:8,14 41:19 21:21 23:22 
+proved 39:8 42:9,16 44:14 32:17 41:20 42:6,18 24:10 25:17 
+provide 16:16 45:2 46:24,24 regulated 43:6,7 44:9,17,21,25 28:17,18,18 
+
+30:24 31:1 Railroading regulating 3:18 45:6 30:8 37:10 
+44:5 17:21 regulation 3:24 repaired 8:2 39:17,18 41:22 
+
+provided 9:10 railroads 3:18 9:23,23 10:8 18:6 23:16 risk 34:11 45:21 
+9:19 13:3 36:15 13:3,19,21 28:10 29:9 45:22 
+
+providing 16:4 42:7 46:24 14:1,5 23:10 repairing 7:24 risks 31:2 34:13 
+provisions 46:7 railroad's 15:18 27:16,18 31:10 21:18 32:21 43:4,6 44:10 
+pull 46:6 railway 23:1 39:1 46:11 39:1 42:12 47:1 
+purchaser 22:10 Ray 4:22,25 5:4 regulations repairmen 28:5 ROBERTS 3:3 
+purporting 11:5 5:5,8,12 43:15 13:14,16 34:1 repairs 3:14 6:15,20 7:1,5 
+purpose 18:7 reach 40:23 38:18 40:2,11 21:5 39:2 7:13,18 8:3,9 
+
+27:12,16,20 read 10:19,23 44:15 45:6 reply 39:7 8:13 9:2 16:19 
+purposes 17:17 14:13 23:22 regulator 19:11 require 20:22,23 24:7,22 25:3 
+
+19:9 24:6 19:20 22:9,15 33:3,4 25:13 26:24 
+pursuant 3:22 reading 27:25 regulatory required 22:2 27:1 43:23 
+
+4:11 ready 28:11 14:10,12 22:24 35:15,21 37:9 46:4 47:3 
+put 16:8,8 20:25 real 26:12 23:8,23 24:1 requirement room 36:25 
+
+21:8 35:6 reality 21:11 27:20 38:11 34:23 39:10,11 roundhouse 
+42:17 46:17 really 10:23 43:17 45:8,15 requirements 23:4 
+
+puts 15:19 37:22 22:6 24:24 relevant 35:7 17:20 18:2,4 routinely 16:14 
+putting 15:20,25 26:16 35:23 relied 43:13 18:11,12,14,22 rule 4:12 9:21 
+
+Alderson Reporting Company 
+
+
+
+55 
+Official 
+
+9:21 14:17 24:12,15 27:21 31:22 32:12,14 specifically 5:9 statutes 10:13 
+19:7,17 23:1 29:14 30:21 32:17 33:1,10 9:14 11:4 24:3 
+28:3 34:17 31:23 37:8 33:22 34:8 specify 6:17 steel 39:10,15,21 
+46:13 40:14 46:3 35:20 38:3,8 spend 30:16 stick 21:6 
+
+rules 4:13 14:15 SCAA 32:7 38:14,21,22,24 spoken 19:14 stringent 35:3 
+14:16,20 20:24 SCALIA 8:19 shops 21:5 30:24 squarely 22:20 struck 14:4 
+22:25 8:23 17:16,25 42:6 stake 14:25 subject 10:13 
+
+running 38:3,20 18:20 23:13 shop's 31:1 32:9 stamping 15:25 14:20 
+runs 20:2 26:1,3 29:4,15 sickness 10:9,11 standard 6:10 submit 40:13 
+
+29:17 33:9 side 14:13 41:2 7:12 8:18 41:4 
+S 36:4,8,11 40:3 sign 34:18 13:13 14:10,11 submitted 47:4 
+
+S 2:1 3:1 scope 13:20,21 significance 18:18 23:6 47:6 
+safe 4:1 6:4 7:11 22:23 28:17,19 26:7 31:21 44:18 subsequently
+
+7:14 10:9 12:3 34:16 46:20 signs 42:17 standards 7:25 4:19 5:8 45:25 
+16:5,17 18:5 scraping 6:13 similar 43:16 11:3 substantive 
+19:1 23:7,14 second 6:7 simply 11:18 state 9:20 10:8 18:17 25:20 
+23:15,18,18,18 secondary 40:12 35:4 10:12 14:17,19 suggested 28:3 
+28:10 29:21 Secondly 11:20 single 19:19 15:13 17:20 suit 12:8 
+33:13,15,24 Secretary 13:2,5 situations 25:19 18:1,10,22,23 summary 15:9 
+34:8 35:22 13:9,10,19 slams 9:4 19:17,25 20:8 supporting 1:22 
+36:16,18 37:24 18:25 33:14 sleep 32:22 20:18,21,24 2:8 16:24 
+44:13 46:25 see 10:21 SMITH 23:25 21:14 24:3 suppose 8:21 
+
+safely 11:19 seeing 16:12 Solicitor 1:20 29:13,25 30:21 24:11 33:11 
+28:10 seeking 14:18 solved 32:8,8 31:12,13 32:5 35:8,11
+
+safer 11:25 self-abnegation somewhat 38:17 33:8 34:1,22 Supreme 1:1,15
+12:18,18 23:14 soon 28:12 36:21,25 37:7 sure 4:4 12:6 
+
+safety 3:12,22 sell 33:7 42:9 sorry 4:23 18:9 37:11,12,16 13:1 21:17 
+3:24 4:9,9 5:2 sense 17:15 19:4 21:13 38:18 39:12,13 27:25 42:5 
+5:6,7 7:25 8:17 25:21 39:16 26:3 39:14 40:9,21 survive 9:21 
+9:19 13:8 41:11 44:7 sort 6:17 41:10 43:2,7,8 switching 44:16 
+27:12 30:25 sentence 10:16 sorts 22:17 45:17,19 
+
+T32:10,14 35:23 10:25 26:15 stated 26:13 
+46:15 T 2:1,1separate 17:3 Sotomayor 3:16 statement 4:2 
+
+sale 22:16 take 11:25 14:18 service 6:10,24 3:22 4:4,8,21 statements 24:5 
+SARAH 1:20 21:8,19 24:4 7:3 11:3 13:13 4:24 5:16,19 States 1:1,15,22
+
+2:6 16:22 29:8 31:2438:15 5:24 6:5 12:6 2:7 5:7,13 
+save 16:18 34:14 35:5settled 44:24 12:10 22:5,13 16:23 18:3,25
+saying 13:3 16:7 43:2Shanks 45:1 27:19 30:3 23:9 27:10 
+
+17:25 18:9 taken 8:2,4shop 12:24 13:5 41:6,13,18,23 29:1 32:12,16
+19:7 28:3 23:23,2515:16,19 16:9 42:1,11,14,20 33:2,3 37:23 
+30:12 31:12 takes 15:818:14 20:22 42:23 43:16 39:4,25 42:16 
+32:2,9 34:5,9 talking 12:7,1021:14,15,18 space 21:11 46:12 
+34:12 35:15,18 12:11 18:2322:6,12 24:9 special 35:12 State's 18:2 35:6 
+40:4,5,20 41:3 20:24 24:8,1124:12,23 25:8 36:21 37:8 statute 5:9 9:1,9 
+41:7 24:23 29:17,1825:14,19 28:24 44:7 10:12,19 13:6 
+
+says 6:23 19:1 Tanker 5:628:25 29:10,13 specific 4:16 9:9 23:17 24:21 
+21:14 23:2,17 tell 15:3 22:10 30:7,14,17,23 34:23 42:25 29:19,20 33:18 
+
+Alderson Reporting Company 
+
+
+
+56 
+Official 
+
+33:5 35:25 43:15 unreasonable 42:15 45:24 24:10,14 28:22 
+36:5,14 42:16 tomorrow 13:2 45:21 violation 24:21 29:11 30:12 
+42:20 tort 17:6 unsafe 24:20 we've 9:3 23:25 
+
+Wtelling 19:2 track 38:4,20 25:10 36:9 wheels 21:16 
+wait 25:731:22 tracks 24:24 40:6 win 11:9,10 
+want 7:14 35:14 tells 34:13 36:13 33:19 urge 10:18 Winter 41:16 
+
+tends 25:2 40:20traditional use 3:12,20,24 Wisconsin 11:4 
+wants 46:6terms 5:9 12:25 41:11 4:1,9 5:20 6:4 wish 20:22 
+
+Thank 3:9 16:19 warn 15:12train 4:14,17 8:6,15,21 word 5:10 29:18 
+16:15 35:1226:24,25 43:23 25:6 38:20 11:19,21 13:4 words 6:25
+ 
+
+47:2,3
+ 37:6 40:6,13train's 24:14 14:16 16:5,17 work 6:8 8:1 
+40:15,19 41:11 theoretical transportation 17:9,14 18:3 12:5 28:13 
+
+warned 12:1521:22 17:21 18:19 19:7,8 35:22 36:18 
+warning 11:16theory 11:22 trouble 21:4 20:13 23:7,15 44:21 45:3 
+
+11:17 19:2534:22 29:10 23:15,18,18,19 46:25 
+20:4 22:2,9,11thing 7:2 10:1 trucks 45:18 24:4,16,19,20 worked 22:3,18
+32:3 33:1624:18 34:15 truly 18:6 24:21 25:1,2 worker 9:14 
+34:23,25 35:2 things 22:17 try 17:2 25:11,11,12,14 12:4 14:25
+ 
+
+24:8,12 31:14
+ 35:2,16,19,23trying 41:2 25:18 26:23 15:1 30:24 
+42:2338:19 42:4 turns 32:5 27:12 29:5,7,8 31:18 36:1,14
+
+warnings 15:1743:5 two 5:23 30:6 29:8,9,15,18 36:19,24 37:17 
+15:21 20:22think 3:21 6:1 31:8,14 41:5 29:21 30:5,8 42:18 45:2 
+22:11 31:1810:1 13:5 42:4 30:13,18 31:7 workers 6:12 
+44:415:15 17:2,16 type 14:5 32:1,3 31:10,13 32:2 7:24 8:12 
+
+warns 33:1418:6 20:3 37:13,20 40:14 33:6,10,13,15 11:21 20:19,23 
+warrant 6:221:12,13,23 types 35:1 33:19,24 34:2 23:1 31:2
+ 
+
+22:3,8,16,24
+ Washington34:3 35:12 32:10,21 34:13 
+U 1:11,18,21,2424:4 25:21 36:1 37:19 35:12 43:5
+ 
+
+26:11,16 29:10
+ understand 4:5 wasn't 27:2538:3,8 40:15 44:9 46:24 
+12:7 13:2 Waterway 5:729:11 32:24 44:13 47:1 
+26:17 29:16 way 4:18 10:4 33:21 39:2,8 U.S 39:10,15,21 working 33:5 
+31:20 11:9,10,10,1239:16 40:25 U.S.C 9:1 46:10 35:13 44:6
+ 
+
+41:1,22 42:5
+ understanding 11:23,25 17:23 workplace
+V23:23 41:7 20:25 24:1043:9,11,12,14 20:18 32:13 
+
+thinking 19:23 understood v 1:7 3:4 5:8 25:7,25 31:10 33:3 35:23 
+17:18 23:9 32:2 38:1321:4 36:16 37:24 
+
+unique 6:13 valid 11:16 40:5 43:10,15third-party world 14:7 
+7:24 8:11 value 21:22 22:6 45:11 46:2515:11 21:13 
+
+thought 20:23 11:21 variety 17:20 ways 12:18,21 worry 17:19 
+uniquely 6:9 various 31:5 wear 20:1921:10,10 26:8 worth 10:24 
+United 1:1,15,22 versus 25:1 38:19 42:1728:7 31:15,19 wouldn't 18:16 
+
+2:7 5:7 16:23 28:24 wearing 12:7three 31:14 32:19 36:24 
+Tiller 3:17 23:9 view 17:4,7 Wednesday write 10:5 
+
+unlawful 35:10 18:11 19:6 1:12time 4:15 10:6 wrong 15:22 
+unnecessary 20:7,17 22:19 week 30:716:18 17:14 
+
+X14:3 47:1 23:24 24:1 We'll 3:323:10 43:22 
+today 10:3 43:10 unrealistic 8:23 26:19 28:8 we're 20:24 23:3 x 1:2,10 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+57 
+
+Y 
+yard 3:19 4:6 
+
+7:10 9:13 12:1 
+44:15 
+
+yards 41:19 
+42:17 44:25 
+45:6 
+
+years 43:13 46:6 
+
+1 
+1 30:16 
+10 24:14 30:5 
+10-879 1:6 3:4 
+11:05 1:16 3:2 
+11:53 47:5 
+16 2:8 
+1910s 45:2 
+1916 3:17 
+1922 4:3 
+1930s 13:24 
+1970 9:18 
+
+2 
+20106 46:10 
+2011 1:12 
+229 13:15 
+230 13:15 
+27 2:11 
+
+3 
+3 2:4 
+303 9:1 
+
+4 
+4 43:24 
+43 2:14 
+49 9:1 13:15 
+
+46:10 
+
+5 
+5 39:7 
+50 18:3,23,25 
+
+35:1 38:17 
+
+6 
+612 6:23 
+
+8 
+
+85 43:13 46:5 
+
+9 
+9 1:12 
+
+Alderson Reporting Company 
+
+

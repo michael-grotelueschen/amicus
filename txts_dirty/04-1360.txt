@@ -1,0 +1,7183 @@
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+BOOKER T. HUDSON, JR., : 
+
+Petitioner, : 
+
+v. : No. 04-1360 
+
+MICHIGAN. : 
+
+- - - - - - - - - - - - - - - - - x 
+
+Washington, D.C. 
+
+Monday, January 9, 2006 
+
+The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United 
+
+States at 10:02 a.m. 
+
+APPEARANCES: 
+
+DAVID A. MORAN, ESQ., Detroit, Michigan; on behalf of 
+
+the Petitioner. 
+
+TIMOTHY A. BAUGHMAN, ESQ., Detroit, Michigan; on 
+
+behalf of the Respondent. 
+
+DAVID B. SALMONS, ESQ., Assistant to the Solicitor General,
+
+ Department of Justice, Washington, D.C.; for the 
+
+United States, as amicus curiae, supporting the 
+
+Respondent. 
+
+1
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ C O N T E N T S 
+
+
+ORAL ARGUMENT OF PAGE 
+
+DAVID A. MORAN, ESQ. 
+
+On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+TIMOTHY A. BAUGHMAN, ESQ. 
+
+On behalf of the Respondent 29 
+
+ORAL ARGUMENT OF 
+
+DAVID B. SALMONS, ESQ. 
+
+For the United States, as amicus curiae, 
+
+Supporting the Respondent 50 
+
+REBUTTAL ARGUMENT OF 
+
+DAVID A. MORAN, ESQ. 
+
+On behalf of the Petitioner 63 
+
+2
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ P R O C E E D I N G S 
+
+[10:02 a.m.] 
+
+CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+in Hudson versus Michigan. 
+
+Mr. Moran. 
+
+ORAL ARGUMENT OF DAVID A. MORAN 
+
+ON BEHALF OF PETITIONER 
+
+MR. MORAN: Mr. Chief Justice, and may it 
+
+please the Court: 
+
+Over the last 50 years, courts in virtually 
+
+every American jurisdiction have suppressed evidence 
+
+seized inside homes following knock-and-announce 
+
+violations -- including this Court, on two occasions. 
+
+Those suppression orders reflect an understanding of 
+
+two points key to this appeal. The first point is 
+
+that the manner of entry -- and, in particular, a 
+
+knock-and-announce violation -- is not somehow 
+
+independent of the police activity that occurs inside 
+
+the house. And, as this Court directly recognized in 
+
+Wilson, the reasonableness of police activity inside 
+
+a home is dependent on the manner of the police 
+
+entry. 
+
+JUSTICE O'CONNOR: May I ask you whether 
+
+there are statutes in various States that allow an 
+
+officer to get a no-knock warrant? 
+
+3
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ MR. MORAN: Yes, there are, Justice 
+
+O'Connor. 
+
+JUSTICE O'CONNOR: And does Michigan have 
+
+such a statute? 
+
+MR. MORAN: I do not believe so, Justice 
+
+O'Connor. 
+
+JUSTICE O'CONNOR: How common are those 
+
+statutes? 
+
+MR. MORAN: I believe about half the States 
+
+have such no-knock -- no-knock statutes. So, in 
+
+Michigan, a police officer -- if the -- if the 
+
+circumstances on the scene justify a no-knock entry, 
+
+then the officer is permitted, by case law and, of 
+
+course, by the precedents of this Court, to go ahead 
+
+and do so. 
+
+JUSTICE O'CONNOR: Why would an officer, 
+
+without such permission, want to make a no-knock 
+
+entry while possessing a warrant --
+
+MR. MORAN: Well --
+
+JUSTICE O'CONNOR: -- a search warrant? 
+
+MR. MORAN: -- as this case illustrates, 
+
+sometimes officers believe that it is to their 
+
+advantage to perform a no-knock entry, or to fail to 
+
+comply with the knock-and-announce requirement. And 
+
+that is why --
+
+4
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ JUSTICE O'CONNOR: Why? 
+
+MR. MORAN: Well, Officer Good apparently 
+
+thought that his safety would be better served he if 
+
+disregarded the knock-and-announce requirement; and 
+
+so, he candidly testified, at the evidentiary 
+
+hearing, that it's essentially his policy, in drug 
+
+cases, to go in without a -- without performing the 
+
+necessary knock-and-announce. And that was 1 year 
+
+after the -- this Court's decision in Richards, 
+
+saying that there is no per-se exclusion of drug 
+
+cases from the knock-and-announce requirement. 
+
+But that brings me to the second reason why 
+
+courts have almost universally, until the Stevens 
+
+case in 1999, held that suppression of evidence is 
+
+necessary, and that is deterrence; because, without 
+
+the suppression of evidence, there is very little 
+
+chance that the officers will be deterred from 
+
+routinely violating the knock-and-announce 
+
+requirement, from adopting a sort of personal 
+
+violation of the requirement, just as --
+
+JUSTICE SCALIA: I don't know, I'd be 
+
+worried -- you know, bust in somebody's door -- that 
+
+the homeowner wouldn't shoot me. Without announcing 
+
+that I'm the police, he had every reason to believe 
+
+he's under attack. Isn't that a considerable 
+
+5
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+deterrent? 
+
+MR. MORAN: Yes, that's the one purpose of 
+
+the knock-and-announce requirement that doesn't 
+
+protect the homeowner's interest, that protects the 
+
+officer's interest --
+
+JUSTICE SCALIA: Exactly. 
+
+MR. MORAN: -- against being shot. 
+
+JUSTICE SCALIA: Right. 
+
+MR. MORAN: However, what we'll see then, 
+
+if there is no exclusion of evidence following knock-
+
+and-announce rules, are entries precisely like the 
+
+one we have here, where the officers will, in fact, 
+
+announce -- they yell, "Police, search warrant" --
+
+but then they'll immediately go in. Officer Good 
+
+said that he went in real fast. He went in, and it 
+
+took him just a few seconds to get in the door. So, 
+
+that's what they'll do. They'll announce -- some 
+
+officers will announce, because they'll want the --
+
+JUSTICE SCALIA: Yes. 
+
+MR. MORAN: -- people inside to know that 
+
+they're police, but they will not wait for a refusal, 
+
+and they certainly will not wait for a reasonable 
+
+amount of time for some --
+
+JUSTICE SCALIA: I'm not sure I agree with 
+
+a point that you make in your brief that civil 
+
+6
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+actions simply are of no use. That might have been 
+
+the case when we first adopted the exclusionary rule, 
+
+but our docket is crowded with 1983 cases brought by 
+
+prisoners, brought by convicted felons, and many of 
+
+these cases are successful below. What reason is 
+
+there to believe that that wouldn't be an adequate 
+
+deterrent? 
+
+MR. MORAN: Simply, Justice Scalia, that, 
+
+as far as we can determine, no one wins a knock-and-
+
+announce case, or we haven't been able to find a 
+
+single case in which someone has actually recovered 
+
+damages for a knock-and-announce violation. So, if 
+
+this --
+
+JUSTICE GINSBURG: Is that because the 
+
+damages are slight or because there's a defense that 
+
+is successful? What has been the defense in these 
+
+tort cases? 
+
+MR. MORAN: Both, Justice Ginsburg. First 
+
+of all, in many cases, such as this one, where the 
+
+police don't actually destroy the door, it would be 
+
+very hard to quantify the damages, and it would be 
+
+very hard to find a lawyer to take a case such as 
+
+this. But the second barrier is the various 
+
+immunities, tort immunities. In section 1983 
+
+actions, there are qualified immunities that make it 
+
+7 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22 -- 
+
+23
+
+24
+
+25
+
+difficult to win a suit. And because it is not a 
+
+bright line as to when the police officers have to 
+
+knock and announce, and when they do not -- that is, 
+
+Is there a reasonable suspicion that a quick entry or 
+
+a no-knock entry will be met with violence or that 
+
+the evidence will be destroyed? -- courts tend to be 
+
+very generous in granting qualified immunity to 
+
+officers -- that is, concluding that some reasonable 
+
+officers might have concluded that it was justified 
+
+to dispense with the knock-and-announcement 
+
+requirement. 
+
+JUSTICE SCALIA: Of course, that same 
+
+problem exists if the consequence is exclusion of 
+
+evidence. Courts are going to view it the same way. 
+
+You're not going to avoid that problem by excluding 
+
+evidence. 
+
+MR. MORAN: Well, there -- but there is not 
+
+a qualified-immunity defense to the exclusionary 
+
+rule. 
+
+JUSTICE SCALIA: Well --
+
+MR. MORAN: And so, if the Court concluded 
+
+JUSTICE SCALIA: Well, I mean, your point 
+
+is, it's very hard to tell whether they waited long 
+
+enough, right? And that's why they don't win a lot 
+
+8 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+of these cases. But the same thing is going to be 
+
+true if the consequence of not waiting long enough is 
+
+the exclusion of the evidence. The court is going to 
+
+be very -- it's going to be very difficult to tell if 
+
+they waited long enough, and, as you say, the court 
+
+is likely to say, you know, "Let it go." 
+
+MR. MORAN: That's true, to some extent, 
+
+Justice Scalia, but, as an empirical matter, I've 
+
+cited many cases, in my brief, over the last 50 years 
+
+where courts from a vast majority of American 
+
+jurisdictions have found knock-and-announce 
+
+violations in criminal cases, and have, therefore, 
+
+excluded the evidence, including this Court, on two 
+
+occasions, 1958 and 1968. So, courts do find knock-
+
+and-announce violations in criminal cases. 
+
+JUSTICE SCALIA: Our two cases did not --
+
+did not raise that issue. The issue was not decided 
+
+in those cases, was it? 
+
+MR. MORAN: The issue of a knock-and-
+
+announce violation leading to exclusion of evidence--
+
+JUSTICE SCALIA: Right. 
+
+MR. MORAN: -- was decided. The -- there 
+
+was not an inevitable-discovery issue raised in those 
+
+two cases, because those cases predated the 
+
+inevitable-discovery doctrine. But, of course, in 
+
+9 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+1958 and 1968, this Court was very familiar with the 
+
+independent-source doctrine. And, really, the 
+
+argument that the Michigan Supreme Court has adopted 
+
+-- they call it an inevitable-discovery argument; 
+
+it's really an independent-source doctrine. 
+
+CHIEF JUSTICE ROBERTS: You don't -- you 
+
+don't dispute the application of the inevitable-
+
+discovery principle here, do you? 
+
+MR. MORAN: Not at all, Justice -- Mr. 
+
+Chief Justice. 
+
+CHIEF JUSTICE ROBERTS: Okay. 
+
+MR. MORAN: No, the --
+
+CHIEF JUSTICE ROBERTS: And you don't 
+
+dispute that the purpose of the knock-and-announce 
+
+rule is not to allow the targets of the search to 
+
+dispose of evidence, or anything of that sort. 
+
+MR. MORAN: Absolutely not. The purpose of 
+
+the knock-and-announce rule is to protect the 
+
+homeowner's privacy rights. It's one of the core 
+
+parts of the right of the people to be secure in 
+
+their homes against unreasonable police invasions. 
+
+CHIEF JUSTICE ROBERTS: Well, but it's a 
+
+limited privacy right, of course. These people have 
+
+a warrant, right? 
+
+MR. MORAN: That's correct. 
+
+10
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ CHIEF JUSTICE ROBERTS: So, how would you 
+
+describe the privacy interest that the knock-and-
+
+announce rule is protecting? 
+
+MR. MORAN: Well, I think this Court has 
+
+described it well in the -- in its most recent cases 
+
+-- in Banks and Richards, in particular, as well as 
+
+Ramirez and Wilson -- that it is a right against 
+
+being terrified by having the police come in. It is 
+
+a right against being embarrassed. People might be 
+
+in all stages of undress or in compromising positions 
+
+when the police come in. And it is a right against 
+
+having one's door destroyed. The English cases, the 
+
+early English cases, first recognized that it's a 
+
+right against having one's --
+
+CHIEF JUSTICE ROBERTS: So, it doesn't go 
+
+at all to the items that are the target of the 
+
+warrant. 
+
+MR. MORAN: No. 
+
+CHIEF JUSTICE ROBERTS: And so, why should 
+
+the remedy for the violation be to exclude those 
+
+items? The privacy that's protected isn't the 
+
+cocaine, the weapons, the other items that were 
+
+discovered. 
+
+MR. MORAN: Well, with respect, Mr. Chief 
+
+Justice, I think you could say the same thing about 
+
+11
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+the warrant requirement. The purpose of the warrant 
+
+requirement is also to protect the sanctity and the 
+
+privacy of the home; it's not to protect contraband 
+
+that one might have in the home, or whatever it is 
+
+that the police are looking for. It's --
+
+CHIEF JUSTICE ROBERTS: No, it's to protect 
+
+privacy in the possessions and papers and effects. 
+
+And these are possessions, papers, and effects. It 
+
+goes right to what the police are trying to seize, 
+
+and you have an independent magistrate make a 
+
+determination that there's probable cause to believe 
+
+it, et cetera, et cetera. The knock-and-announce 
+
+rule is an entirely -- concerned with entirely 
+
+different things. And yet, you're enforcing it by 
+
+excluding the papers, effects, and possessions. 
+
+MR. MORAN: And I think the courts have 
+
+recognized that it's necessary to enforce it that 
+
+way, because other methods of enforcing it will not 
+
+work. But --
+
+JUSTICE KENNEDY: Well, but just --
+
+MR. MORAN: -- I think it's --
+
+JUSTICE KENNEDY: -- just on the point of 
+
+the causal relation that the Chief Justice was 
+
+exploring, I mean, there is a causal relation in a 
+
+but-for sense. We know that. 
+
+12
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ MR. MORAN: Yes. 
+
+JUSTICE KENNEDY: I suppose the position of 
+
+the Respondent is that the minute there's an entry 
+
+after the knock violation -- the no-knock violation -
+
+- the minute there's an entry, that injury ceases, so 
+
+that it's different from a warrantless rummaging-
+
+around through drawers and so forth. I suppose that 
+
+would be their argument. 
+
+MR. MORAN: I think that is their argument, 
+
+Justice Kennedy, and I respectfully disagree with it. 
+
+As a historical matter, even the early English cases 
+
+recognized that when an officer illegally entered --
+
+a sheriff illegally entered a home with a valid writ, 
+
+that officer became a trespasser, and the activity 
+
+that he performed in the home was, therefore, 
+
+illegal. In the reply brief, I cited several early 
+
+American cases, from the 1830s and 1840s, holding 
+
+that when an officer had a valid writ to seize a 
+
+debtor's goods, but illegally entered the home, then 
+
+that writ became no good; and, therefore, the officer 
+
+-- the sheriff, in those cases -- could be sued, not 
+
+only for the illegal entry, but also for the seizure 
+
+of the goods that he had a valid warrant, or a valid 
+
+writ, to seize, and that that --
+
+JUSTICE SCALIA: 	 Yes, but here it was a 
+
+13
+1111 14th Street, NW Suite 400 Alderson Reporting Company	 Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+warrant to enter the home, not to seize particular 
+
+goods. So, the entry of the home was not illegal. 
+
+The entering of the home was perfectly okay. What 
+
+was illegal was not knocking and announcing in 
+
+advance. It seems to me that's quite a different --
+
+quite a different issue, and the causality is quite 
+
+different. 
+
+MR. MORAN: Well, Justice Scalia, I 
+
+respectfully disagree that the entry was not illegal. 
+
+I believe the entry was illegal, because what a 
+
+warrant authorizes an -- a -- an officer to do is to 
+
+make a legal entry. It does not allow the officer to 
+
+enter however he pleases; it allows the officer to 
+
+make an entry that complies with the law -- in 
+
+particular, the fourth amendment. And so, the entry 
+
+was illegal. They could have performed a legal 
+
+entry. 
+
+JUSTICE SCALIA: I understand that, but the 
+
+essence of the violation was not the entering; 
+
+whereas, in the cases, the old common law cases 
+
+you're talking about, the essence of the violation 
+
+was the entering. Here, the entering was perfectly 
+
+okay; it was the manner of it, the failure to give 
+
+the advance notice, that made it bad. And that, it 
+
+seems to me, creates a different situation. 
+
+14
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ MR. MORAN: I think, starting in Semayne's 
+
+case, the Court recognized that even if the officer 
+
+would have a right to knock down the door after a 
+
+refusal of entry was obtained, that if the officer 
+
+did not wait for that refusal, then the entry was 
+
+illegal. And so, I think the common law cases do 
+
+support -- the old English common law cases, starting 
+
+with Semayne's case -- do support the notion that the 
+
+entry -- the entry does become illegal if the officer 
+
+does not wait for the refusal. And in this case, of 
+
+course, the officer did not wait at all for any 
+
+refusal, candidly admitted that he went in as soon as 
+
+he could get through the door, as quickly as he 
+
+could. 
+
+JUSTICE GINSBURG: Mr. Moran, would you 
+
+clarify an answer you gave to Justice O'Connor at the 
+
+outset of the argument? You said there is no 
+
+statutory right to get a no-knock warrant. But did 
+
+you say, as a matter of case law and practice, that 
+
+can be done in Michigan? 
+
+MR. MORAN: I don't believe so. I don't 
+
+believe that Michigan still allows for no-knock 
+
+warrants. But officers, of course, can perform no-
+
+knock entries when arriving at the scene, the 
+
+circumstances justify a no-knock entry. 
+
+15
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ CHIEF JUSTICE ROBERTS: You mean, if you 
+
+had a case where the reason you were arresting the 
+
+guy is because he's shot through the door the last 
+
+three times somebody knocked and announced, you still 
+
+have to knock and announce, under Michigan law? 
+
+MR. MORAN: No, I don't think so, Mr. Chief 
+
+Justice. I think, in that case, that would satisfy 
+
+the Richards standard. In that case, the officer 
+
+would have particularized suspicions amounting --
+
+CHIEF JUSTICE ROBERTS: But he couldn't get 
+
+a warrant saying that. 
+
+MR. MORAN: I don't believe Michigan has a 
+
+procedure for granting no-knock warrants, not --
+
+JUSTICE BREYER: But that's -- that's 
+
+actually what's disturbing me about this, because I 
+
+thought the knock-and-announce rule was a rule that 
+
+would allow a policeman to go in without knocking and 
+
+announcing when he has reasonable grounds for 
+
+thinking he might get shot if he didn't. So, I -- as 
+
+I read the briefs, I thought maybe that's not how 
+
+it's being implemented, that the policemen are 
+
+supposed to run the risk of being shot. I didn't 
+
+think that was the situation. So, I'd appreciate 
+
+your explaining that to me. 
+
+MR. MORAN: Well, in Richards, this Court 
+
+16
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+said that if there are particular facts about this 
+
+particular entry that would make an officer have 
+
+reasonable suspicions that he is going to be shot at 
+
+or the evidence is going to be destroyed, then the 
+
+officer may dispense with the knock-and-announce 
+
+requirement. There were no such suspicions in this 
+
+case, and that's why the prosecution conceded, at the 
+
+outset and at every step since, that it was a knock-
+
+and-announce violation. The officers had no 
+
+information about this particular --
+
+JUSTICE BREYER: Would it be sufficient if 
+
+the officer says, "One, this is a drug gang; two, 
+
+they don't let people into the house whom they don't 
+
+know; and, three, they have guns"? 
+
+MR. MORAN: That might be sufficient, after 
+
+Richards, but that's not the facts of this case. We 
+
+have none of those facts in this case. They were 
+
+serving a warrant, and they had no information that 
+
+they were going to be in particular danger. They had 
+
+no information, for example, that there were drugs, 
+
+stored near the toilet, that were going to be flushed 
+
+down. 
+
+JUSTICE STEVENS: Let me just be sure I 
+
+understand the hypothetical case, where, three times 
+
+before, there had been warrants served, and, each 
+
+17 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+time, the homeowner shot at the officer, the fourth 
+
+time, they could go in without waiting. 
+
+MR. MORAN: I think that would be an easy 
+
+case, Justice Stevens. 
+
+JUSTICE STEVENS: You think it would, okay. 
+
+MR. MORAN: Because then you would have 
+
+particular facts about this particular residence and 
+
+the people involved. I think that would be a very 
+
+easy case for a no-knock entry. We --
+
+CHIEF JUSTICE ROBERTS: But you can't get a 
+
+warrant that says he can do that. 
+
+MR. MORAN: I don't believe Michigan has 
+
+that procedure. Perhaps Mr. Baughman can correct me. 
+
+He's a -- he's with the prosecuting attorney's 
+
+office. But I don't believe Michigan has that 
+
+procedure. Not all States do have that procedure. 
+
+And, instead, States that don't have that procedure 
+
+simply leave it to the officer to determine if there 
+
+are those facts that justify a no-knock entry. So, 
+
+there are many entries in Michigan, that occur all 
+
+the time, that do not comply with the knock-and-
+
+announce requirement. And that's fine, because the 
+
+officer does, in fact, have the particularized facts 
+
+justifying a no-knock entry. 
+
+JUSTICE KENNEDY: We've been down this 
+
+18
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+route before in other cases, like Wilson, but it's 
+
+still a troublesome measure. It's hard for me to 
+
+believe that if a person has drugs in the pockets of 
+
+his trousers or on the -- next to the chair where 
+
+he's sitting, that he wouldn't immediately run and 
+
+try to dispose them. I just think that it's ordinary 
+
+behavior. And, if that's so, then it would follow 
+
+that you never have to knock if you're looking for 
+
+drugs that might be on the person. Do you have any 
+
+comment as to that? 
+
+MR. MORAN: Well, then that would -- this 
+
+Court, I think, would have to reverse Richards, 
+
+because Richards said that the fact that it's a 
+
+felony drug investigation does not justify a blanket 
+
+exclusion from the knock-and-announce requirement. 
+
+And this Court unanimously held, in Richards, that 
+
+the knock-and-announce requirement applies in felony 
+
+drug cases --
+
+JUSTICE KENNEDY: But --
+
+MR. MORAN: -- unless --
+
+JUSTICE KENNEDY: But if we say that a 
+
+likelihood -- or that the -- or substantial 
+
+probability that the evidence will be destroyed 
+
+allows the no-knock, why won't that be true in every 
+
+drug case, other than for what we said in Richards? 
+
+19 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ MR. MORAN: Well, because in Richards --
+
+JUSTICE KENNEDY: I mean, do people say, 
+
+"Oh, they've got me now. I won't get rid of the 
+
+drugs"? 
+
+MR. MORAN: Well, first of all, Justice 
+
+Kennedy, I think the law presumes that homeowners 
+
+will either make an explicit refusal, "No," or will 
+
+answer the door; and primarily that they'll do the 
+
+latter. The presumption of the homeowner that we're 
+
+talking about is an innocent homeowner, somebody who 
+
+is either -- has nothing to do with whatever the 
+
+police are looking for. There are many cases where 
+
+the police are looking for goods that are not 
+
+connected to the people who are home. 
+
+JUSTICE KENNEDY: Well, when there's 
+
+probable cause to enter, there's no presumption of 
+
+innocence, is there, or am I wrong? 
+
+MR. MORAN: Well, it -- with -- probable 
+
+cause is a standard at somewhere around 50 percent, 
+
+and a very large number of warrants are executed on 
+
+the homes of people who have nothing, or people who -
+
+- there is something that the police are looking for, 
+
+but they don't have anything to do with it; they're 
+
+third-party homeowners. And, for that reason, the 
+
+knock-and-announce requirement recognizes that many, 
+
+20
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+many warrants -- many, many searches -- will be 
+
+executed on the homes of perfectly upstanding, 
+
+innocent people. And --
+
+CHIEF JUSTICE ROBERTS: Do you have -- do 
+
+you have any empirical basis for your statement that 
+
+many warrants are executed and they don't find 
+
+anything? 
+
+MR. MORAN: Well, I don't have any 
+
+statistics. I'm sure the FBI keeps statistics on at 
+
+least Federal warrants. But it's true that in a 
+
+large number of warrants, the police don't find what 
+
+they're looking for, because probable cause is a 
+
+standard that is not particularly high. 
+
+CHIEF JUSTICE ROBERTS: Do you have any 
+
+basis for your statement that, in a large number, 
+
+they don't find what they're -- anything that they're 
+
+looking for? 
+
+MR. MORAN: I don't have any empirical 
+
+evidence, but certainly lots and lots of anecdotal 
+
+evidence, from reading newspaper accounts of police -
+
+-
+
+JUSTICE STEVENS: And you --
+
+MR. MORAN: -- searches. 
+
+JUSTICE STEVENS: -- you don't dispute the 
+
+fact that presumption of innocence -- the presumption 
+
+21 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+of innocence survives an indictment, doesn't it? 
+
+MR. MORAN: It does, and I think it --
+
+JUSTICE STEVENS: Yes. 
+
+MR. MORAN: -- survives the search warrant. 
+
+JUSTICE STEVENS: So probable cause is not 
+
+enough to eliminate the presumption of innocence. 
+
+MR. MORAN: I certainly would argue that --
+
+JUSTICE STEVENS: Yes. 
+
+MR. MORAN: -- Justice Stevens, that 
+
+probable cause it not a very high standard. And in -
+
+- many search warrants are, in fact, served on the 
+
+homes of people who are not suspected, because 
+
+they're thought to be the place where stuff was 
+
+stored, but not be the people who are suspected of 
+
+doing anything wrong in the first place. 
+
+JUSTICE GINSBURG: In --
+
+JUSTICE SCALIA: Mr. Moran, these old 
+
+common law cases you referred to, which held that a 
+
+failure to knock and announce renders the entry 
+
+unlawful, what was the consequence, in those cases? 
+
+MR. MORAN: Those were cases in which, 
+
+typically, the sheriff was sued for trespassing. 
+
+JUSTICE SCALIA: Right. And the evidence 
+
+would -- if found, was not excluded, right? 
+
+MR. MORAN: No. There was --
+
+22
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ JUSTICE SCALIA: So, if we wanted to be 
+
+faithful to those common law cases, we wouldn't 
+
+exclude the evidence. 
+
+MR. MORAN: I think things have changed, 
+
+Justice Scalia, since those common law days, for that 
+
+reason. 
+
+JUSTICE SCALIA: Well, then you shouldn't 
+
+have cited the common law case. 
+
+[Laughter.] 
+
+MR. MORAN: Well, Justice Stevens -- I 
+
+mean, excuse me, Justice Scalia, things have changed, 
+
+in the sense, first of all, that in those days there 
+
+was a common law writ of trespass. If one were to 
+
+file, in Michigan, a complaint for trespass against 
+
+the sheriff, one would be laughed out of court today, 
+
+because all that you have is a tort suit, which you 
+
+have to show an extreme violation -- I cited the 
+
+Michigan statute that requires extreme recklessness 
+
+on the part of the police officer. 
+
+The second point is that in those days the 
+
+sheriffs were -- there were adequate means to control 
+
+the behavior of sheriffs, because they were seen as 
+
+arms of the judiciary. That, of course, was before 
+
+the rise of the independent police forces that we 
+
+have today. And so, the exclusionary rule, of 
+
+23
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+course, was adopted in the late 1800s, early 1900s --
+
+in part, in response to the changing circumstances of 
+
+the police. The police were no longer under the 
+
+direct control of the judiciary; and so, different 
+
+remedies were necessary in order to assure compliance 
+
+with constitutional rights. 
+
+JUSTICE GINSBURG: In the courts that have 
+
+allowed this action to go forward, has the rationale 
+
+been that there is no other effective deterrent to 
+
+ignoring or violating the knock-and-announce rule? 
+
+MR. MORAN: Yes, Justice Ginsburg. At last 
+
+count now, 11 State and Federal appellate courts have 
+
+directly rejected the Michigan Supreme Court's 
+
+reasoning. The Idaho Court of Appeals just joined 
+
+the list 2 weeks ago, in a -- in a case that I -- is 
+
+not cited, because it's so recent. And they have 
+
+uniformly -- I believe all 11 of those cases have 
+
+said that, "Were we to hold otherwise, the knock-and-
+
+announce rule would become meaningless," a worry that 
+
+this Court expressed in Richards. This Court was 
+
+very concerned, in Richards, that simply excluding 
+
+drug cases from the knock-and-announce rule would 
+
+make the knock-and-announce rule meaningless. And 
+
+these courts have noted that statement -- the courts 
+
+that came out -- this -- the decisions that came out 
+
+24
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+after Richards, and have said, "If that is 
+
+meaningless, then it would be especially meaningless 
+
+if we were to exclude the entire knock-and-announce 
+
+rule from the exclusionary rule, that there would be 
+
+virtually no reason for police officers ever to 
+
+comply with a knock-and-announce requirement. 
+
+And so, I think the deterrence rationale is 
+
+a large part of this, and that's what distinguishes 
+
+this case from the inevitable-discovery cases, which 
+
+the Michigan Supreme Court relied on. 
+
+JUSTICE SCALIA: Well, I suppose there are 
+
+a lot of other violations of constitutional rights by 
+
+the police that are very hard to get at, and that 
+
+cannot be remedied. And I suppose we could punish 
+
+them by excluding all the evidence, as well. We 
+
+don't do so, simply because there's no causality. We 
+
+insist upon a causal connection between the two. 
+
+It's not enough just to say the -- this is the only 
+
+way to stop the police from making the violation. 
+
+MR. MORAN: No, it is not enough, but what 
+
+is critical in this case is that the knock-and-
+
+announce violation goes to the manner of entry, and 
+
+the Court has long recognized that the two predicates 
+
+for seizure of goods inside a home, or arrest inside 
+
+a home, are authority to enter the home, which is not 
+
+25 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+contested here, and a lawful entry. And if either 
+
+one of those two predicates is missing, then you have 
+
+grounds to suppress the evidence; that is, the 
+
+evidence inside the home is in the fruit of the 
+
+unlawful entry. 
+
+JUSTICE SCALIA: What about our opinion in 
+
+Ramirez, where the manner of entry was such that 
+
+there was damage to property? 
+
+MR. MORAN: I --
+
+JUSTICE SCALIA: We didn't exclude the 
+
+evidence there, did we? 
+
+MR. MORAN: No. First of all, this Court 
+
+didn't find that there was a violation in the -- in 
+
+the damage in property; this Court found no -- did 
+
+not find, as a matter of law, any fourth amendment 
+
+violation. But I read the Ramirez -- that language 
+
+from Ramirez as saying that as long as the entry 
+
+remains lawful -- and, in Ramirez, the entry was 
+
+lawful, because there were valid grounds to dispense 
+
+with the knock-and-announce requirement. You had a 
+
+known dangerous fugitive, who had bragged that he 
+
+wouldn't be taken alive. And so, there was every 
+
+reason for the officers to dispense with the knock-
+
+and-announce requirement. Therefore, the entry was 
+
+legal. They had both authority -- that is, the 
+
+26 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+warrant -- and they had a valid entry -- that is, a 
+
+no-knock entry that was justified by reasonable 
+
+suspicion that the officers would be met with 
+
+violence if they did knock and announce their 
+
+presence. And so, we -- in Ramirez, we have a lawful 
+
+entry. The language that's quoted from Ramirez 
+
+directly says, "the entry remains lawful," or words 
+
+to that effect. And you have a different case if you 
+
+had --
+
+JUSTICE SCALIA: Well, what had happened? 
+
+Had they broken a window on the way in? Is that --
+
+MR. MORAN: That's correct. 
+
+JUSTICE SCALIA: Well, the entry remains 
+
+lawful, despite the fact that the manner of the 
+
+entry, which included the breaking of a window, was 
+
+unlawful. I think what the Court meant was not, as 
+
+you're portraying it, that, objectively, the entry 
+
+was lawful. I think they were speaking: as a matter 
+
+of law, despite the fact that the breaking of the 
+
+window was wrong, the entry was lawful. Just as your 
+
+opponent is saying here: despite the fact that there 
+
+was no knock-and-announce, the entry was lawful. 
+
+MR. MORAN: Justice Scalia, I don't see any 
+
+language in Ramirez saying that the breaking of the 
+
+window was unlawful. I think the breaking of the 
+
+27 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+window -- I read the Ramirez opinion as saying the 
+
+breaking --
+
+JUSTICE STEVENS: But even if it was 
+
+unlawful, it was not unconstitutional. 
+
+MR. MORAN: It wasn't -- certainly wasn't 
+
+unconstitutional. Often, when the police perform a 
+
+valid no-knock entry, they will damage property. 
+
+Typically, they will destroy the door. And so, the 
+
+breaking of the window in Ramirez, I don't believe 
+
+was unlawful. I believe it was perfectly valid way 
+
+for the officer to perform the entry; that is, to put 
+
+the gun through the window in the garage area in 
+
+order to prevent -- they believed that the homeowner 
+
+had guns there and was going to use the -- run to the 
+
+guns in order to repel the entry. And so, I believe 
+
+it was a perfectly lawful entry. 
+
+I think what Ramirez was saying was that 
+
+not all fourth amendment violations bear fruit. And 
+
+I agree with that. We do not have -- we do not 
+
+propound here a theory of everything, having to do 
+
+with all fourth amendment violations and the fruit 
+
+that they propound. We simply say that, with a 
+
+knock-and-announce violation that makes the entry 
+
+unlawful, the evidence found inside the home, and 
+
+only inside the home, is the fruit of that violation, 
+
+28 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6 -- 
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+unless there truly is an inevitable-discovery or 
+
+independent-source argument; that is, something 
+
+independent of the entry, which can't be done here, 
+
+when the police simply barge in and, in a matter of 
+
+seconds, perhaps minutes, find the evidence. So, the 
+
+JUSTICE O'CONNOR: Mr. Moran, is it 
+
+undisputed by you that the client would not have 
+
+disposed of the drugs if the police had waited a few 
+
+seconds? 
+
+MR. MORAN: Yes, we presume that he would 
+
+have come to the door. He was just a few feet from 
+
+the door, in fact. He was right in front of the 
+
+door. We presume that he would have come to the 
+
+door, answered the door, admitted the police, and the 
+
+police would -- then would have performed the search. 
+
+If the Court has no further questions, I'd 
+
+like to reserve the balance of my time. 
+
+CHIEF JUSTICE ROBERTS: Thank you, Mr. 
+
+Moran. 
+
+MR. MORAN: Thank you, Mr. Chief Justice. 
+
+CHIEF JUSTICE ROBERTS: Mr. Baughman. 
+
+ORAL ARGUMENT OF TIMOTHY A. BAUGHMAN 
+
+ON BEHALF OF RESPONDENT 
+
+MR. BAUGHMAN: Mr. Chief Justice, and may 
+
+29
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+it please the Court: 
+
+The metaphor of "fruit of the poisonous 
+
+tree" is frequently employed when the exclusionary 
+
+rule is discussed. And that metaphor is apt. It is 
+
+apt, because the sanction of exclusion, which is not, 
+
+itself, constitutionally required, is designed to 
+
+deter, and to deter in a specific way: to deter by 
+
+depriving the police of the result -- the fruit, the 
+
+product, the evidentiary advantage that has been 
+
+gained by their improper conduct. And so --
+
+JUSTICE O'CONNOR: Would you agree there is 
+
+a knock-and-announce requirement --
+
+MR. BAUGHMAN: Yes. 
+
+JUSTICE O'CONNOR: -- even though there is 
+
+a warrant? 
+
+MR. BAUGHMAN: Yes. 
+
+JUSTICE O'CONNOR: And do you agree that 
+
+that was violated here, that there wasn't really a 
+
+knock-and-announce here? 
+
+MR. BAUGHMAN: Yes, there was a -- an 
+
+announcement, but a failure to wait. There's not --
+
+the announcement principles require --
+
+JUSTICE O'CONNOR: All right. 
+
+MR. BAUGHMAN: -- not only an --
+
+JUSTICE O'CONNOR: Now, is exclusion of 
+
+30 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+evidence in these circumstances a deterrent, so that 
+
+the police would be less likely to do that? 
+
+MR. BAUGHMAN: It may be. 
+
+JUSTICE O'CONNOR: Yes. 
+
+MR. BAUGHMAN: But I believe that, before 
+
+the question of deterrence is reached, the question 
+
+of causality must be addressed. This Court has 
+
+always said that causation is a necessary, though not 
+
+always sufficient, predicate, for a application of 
+
+the exclusionary rule. The way this Court has put it 
+
+is that it is clear that implementation of the 
+
+exclusionary rule in particular cases begins with the 
+
+premise that the challenged evidence is, in some 
+
+sense, the product of the improper police activity. 
+
+So, I believe --
+
+JUSTICE SOUTER: Well, isn't it --
+
+MR. BAUGHMAN: -- the question --
+
+JUSTICE SOUTER: -- the product, here? I 
+
+mean, if they had not -- if they had not entered, 
+
+they would not have gotten their evidence. Their 
+
+entry, because it violated knock-and-announce, was 
+
+unlawful. So, it is a product, isn't it? 
+
+MR. BAUGHMAN: I think -- I think where I 
+
+would disagree, Your Honor, is that the entry is 
+
+lawful -- in fact, it's not simply authorized, it's 
+
+31 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+commanded by judicial order. The use of force --
+
+JUSTICE SOUTER: Well, an entry that 
+
+conformed with knock-and-announce would have been 
+
+lawful. This entry didn't. This entry was 
+
+unreasonable. So, I don't see how your argument fits 
+
+the facts. 
+
+MR. BAUGHMAN: The way I distinguish it, 
+
+and what I -- where I believe the distinction lies is 
+
+that what was improper was not the fact of entry; 
+
+what was improper was the use of force in entering. 
+
+The --
+
+JUSTICE SOUTER: Well, but --
+
+MR. BAUGHMAN: -- knock-and-announce --
+
+JUSTICE SOUTER: -- I mean, how do you make 
+
+that distinction? I mean, it's like the -- you know, 
+
+the Cheshire cat and a -- and the smile; you can't 
+
+distinguish the two. There was one entry, and that 
+
+entry violated the knock-and-announce rule. 
+
+MR. BAUGHMAN: Well, again, the use of 
+
+force in making the entry violated the knock-and-
+
+announce rule. The entry itself was commanded by the 
+
+order of the court. 
+
+JUSTICE BREYER: Well, how is that 
+
+different from saying the entry is lawful, its only 
+
+problem is, it was done without a warrant? I mean, 
+
+32 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+you know, he's --
+
+MR. BAUGHMAN: Because if they're --
+
+JUSTICE BREYER: -- inside the building; 
+
+just, unfortunately, the means wasn't right. No 
+
+warrant. 
+
+MR. BAUGHMAN: No, if --
+
+JUSTICE BREYER: The means wasn't right. 
+
+No knock-and-announce. 
+
+MR. BAUGHMAN: If there is no warrant, 
+
+there is no judicial command to enter, so the entry 
+
+is completely unjustified. Here, we have not set the 
+
+appropriate --
+
+JUSTICE STEVENS: Well, but you might have 
+
+probable cause, but just not have the -- have the 
+
+warrant. So, what is the difference between having 
+
+probable cause to enter, but failing to get a 
+
+warrant, and having a warrant, but failing to knock 
+
+and announce? 
+
+MR. BAUGHMAN: Because the fourth amendment 
+
+commands that the police not enter without judicial 
+
+authorization. The police don't get to make the 
+
+probable cause decision in advance. And we wish to 
+
+have a judge make that decision, so we won't, in 
+
+hindsight, say, "Had you gone to the judge, the judge 
+
+would have found probable cause, so we'll ratify what 
+
+33 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+you did after the fact." The entry itself -- not 
+
+just the manner of entry -- the entry is invalid, 
+
+unless the judge authorizes it, or unless some 
+
+exception exists. 
+
+JUSTICE STEVENS: Is it your view the entry 
+
+was lawful or unlawful, in this case? 
+
+MR. BAUGHMAN: The fact of entry was 
+
+lawful. 
+
+JUSTICE STEVENS: No. 
+
+JUSTICE BREYER: So, in fact --
+
+JUSTICE STEVENS: No --
+
+JUSTICE BREYER: -- if they had a bazooka -
+
+-
+
+JUSTICE STEVENS: -- that's not the 
+
+question. The actually -- actual entry was lawful, 
+
+yes? 
+
+MR. BAUGHMAN: The entry was lawful. 
+
+JUSTICE STEVENS: Oh, okay. 
+
+JUSTICE BREYER: And the same would be true 
+
+if what they had was a bazooka, and blew the house 
+
+up. 
+
+[Laughter.] 
+
+MR. BAUGHMAN: Yes. 
+
+JUSTICE BREYER: Yes, okay. 
+
+MR. BAUGHMAN: Yes. The entry would be 
+
+34 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+lawful. The manner of entry would be unlawful. And 
+
+the consequence of that entry would turn on what 
+
+force was used. As, in this case, they opened the 
+
+door and walked in. There was no -- there was no 
+
+injury to person, there was no injury to property. 
+
+JUSTICE SOUTER: So, basically, your 
+
+argument rests on the fact that we can draw a 
+
+distinction between entry and manner of entry. 
+
+MR. BAUGHMAN: Yes. My principle that I am 
+
+advocating is that any police error in the execution 
+
+of a search, or in the accomplishment of a search, 
+
+bears fruit only in relation to the purpose, or 
+
+purposes, served by the principle violated. One --
+
+CHIEF JUSTICE ROBERTS: It's a --
+
+MR. BAUGHMAN: -- has to ask --
+
+CHIEF JUSTICE ROBERTS: It's a -- it's a 
+
+strong argument, on the other side, that if we adopt 
+
+your position, the officers would have no incentive, 
+
+other than their own judgment about their personal 
+
+safety, whether to comply with the knock-and-announce 
+
+rule. 
+
+MR. BAUGHMAN: That is if one assumes that 
+
+the civil remedy -- that the 1983 actions has no 
+
+teeth and has no force, and I don't believe that's 
+
+true at all. 
+
+35
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ JUSTICE GINSBURG: What is the experience 
+
+in Michigan? The Michigan Supreme Court has had this 
+
+rule for some time, that you don't exclude the 
+
+evidence. 
+
+MR. BAUGHMAN: Uh-huh. 
+
+JUSTICE GINSBURG: How many successful 1983 
+
+actions have there been --
+
+MR. BAUGHMAN: I am not -- I am not aware 
+
+of any. On the other hand, like Mr. Moran, I --
+
+other than anecdotal evidence, I have no statistical 
+
+evidence that the police are violating the knock-and-
+
+announce principle since the decision in Stevens. 
+
+JUSTICE GINSBURG: But you have not even 
+
+one case that you can cite where a 1983 remedy was 
+
+resorted to and was successful. 
+
+MR. BAUGHMAN: In Michigan, I don't. There 
+
+are cases cited in our brief where, in fact, there 
+
+are actions -- such actions brought. There are 
+
+several recent decisions in the Seventh Circuit, for 
+
+example, where qualified immunity was denied on a 
+
+knock-and-announce violation in the cases in the 
+
+district court for trial or settlement. And there 
+
+may be many cases that don't make the reports, what 
+
+actions are brought and settled. 
+
+JUSTICE GINSBURG: But you're not aware of 
+
+36
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+any case --
+
+MR. BAUGHMAN: I am not aware of any case -
+
+-
+
+JUSTICE GINSBURG: -- where anyone has 
+
+recovered --
+
+MR. BAUGHMAN: And, again, I think Mr. 
+
+Moran correctly points out, in -- many of these cases 
+
+are resolved by finding that the Richards v. 
+
+Wisconsin exceptions have been met. It is not, to 
+
+me, remarkable that there are not a lot of civil 
+
+actions. I believe there are not a lot of 
+
+violations, because, while no-knock entries may 
+
+occur, they are justified, under Richards v. 
+
+Wisconsin, in most cases. This case is an 
+
+aberration. 
+
+JUSTICE GINSBURG: On the no-knock warrant, 
+
+do you agree that it's not possible to get one in 
+
+Michigan? 
+
+MR. BAUGHMAN: Yes, there is no statute in 
+
+Michigan where one can go to the judge in advance and 
+
+say, "Here are the facts, known to me already, before 
+
+I even get to the scene, that should justify a no-
+
+knock." That doesn't exist in Michigan. Michigan 
+
+follows Richards v. Wisconsin, and, in -- had case 
+
+law, even in advance of that, which simply said, 
+
+37 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+"Whether known in advance, or whether the facts 
+
+occurred at the time of the execution of the warrant, 
+
+if the Richards exceptions are met, you can go in 
+
+without knocking and announcing." So, we do follow 
+
+that rule. You just simply can't get advance 
+
+judicial authorization. It doesn't exist. But it is 
+
+certainly permissible, and it -- as Mr. Moran 
+
+indicated, it happens on a fairly regular basis, 
+
+because, unlike Mr. Moran, I believe the notion that 
+
+-- even in this case, I'm not saying there was no 
+
+violation; there was a violation, because the police 
+
+didn't know in advance that the defendant was sitting 
+
+in a chair with the cocaine in his pocket, on the 
+
+chair in front of him, and a gun by his side. I 
+
+think that he would have answered the door. It's 
+
+highly speculative, and somewhat fanciful, in that 
+
+circumstance. 
+
+CHIEF JUSTICE ROBERTS: Do they get to make 
+
+-- do they get to make "inevitable" arguments on 
+
+their side? I mean, let's say, as what happened 
+
+here, or as seemingly happened, the fellow is found 
+
+near the chair with the drugs. Can't they argue, 
+
+"Well, if you had knocked and you had waited 10 
+
+seconds, he would have gotten up from the chair and 
+
+gone somewhere else"? And you wouldn't have been 
+
+38 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 -- 
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+able to argue, at trial, "He was sitting in the chair 
+
+with the drugs." 
+
+MR. BAUGHMAN: That's true, but the drugs 
+
+were -- in this case, the drugs were in his pocket. 
+
+So, it wouldn't have helped him. 
+
+CHIEF JUSTICE ROBERTS: There was something 
+
+in the chair, right? I mean, the --
+
+MR. BAUGHMAN: There was --
+
+CHIEF JUSTICE ROBERTS: -- the gun, or what 
+
+MR. BAUGHMAN: The gun was in the -- in the 
+
+chair, but he was only convicted for the drugs in his 
+
+pocket. 
+
+CHIEF JUSTICE ROBERTS: Hmm. 
+
+MR. BAUGHMAN: I don't think he -- he could 
+
+say, "If you would have -- I would have gotten up and 
+
+answered the door; and, therefore, you wouldn't have 
+
+had to come in without knocking, you wouldn't have 
+
+had to break the door, you wouldn't have had to scare 
+
+me." 
+
+CHIEF JUSTICE ROBERTS: You wouldn't have 
+
+been able to tell the jury, "I was standing next to 
+
+the chair, because if I had -- I obviously would have 
+
+gotten away from the chair, because I knew that's 
+
+where the gun was." 
+
+39
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ MR. BAUGHMAN: That's -- that may well be. 
+
+And I want to be clear, I am not here arguing that 
+
+this Court should decide that there is no 
+
+circumstance possible where something that occurs in 
+
+the premises is not causally connected to the failure 
+
+to knock and announce. All I'm asking the Court to 
+
+decide is that causation is required before the 
+
+exclusionary rule is implemented, and physical 
+
+evidence found within a proper search of -- search of 
+
+proper scope, pursuant to the warrant, that that is 
+
+not causally connected to the -- to the knock-and-
+
+announce violation. There may be other --
+
+JUSTICE SCALIA: So, you -- so, you think 
+
+it's possible that the defendant could argue that the 
+
+evidence should be excluded because, "Had he knocked 
+
+and announced, I would have run to the toilet and 
+
+flushed it down, rather than" --
+
+MR. BAUGHMAN: No. 
+
+JUSTICE SCALIA: -- "answering the" --
+
+MR. BAUGHMAN: No, I --
+
+JUSTICE SCALIA: Well, why not? 
+
+MR. BAUGHMAN: I think the only thing he 
+
+could --
+
+JUSTICE SCALIA: That's causal. 
+
+MR. BAUGHMAN: But I think you have to tie 
+
+40
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+the causal connection to the purposes -- as I have 
+
+tried to indicated -- to the purpose, or purposes, 
+
+served by the principle violated. What is the 
+
+purpose of knocking and announcing? And I think --
+
+Your Honor indicated -- it's to protect against 
+
+injury to the police, injury of people inside, and 
+
+property. It has no purpose to protect against the 
+
+invasion of the privacy of the dwelling and the 
+
+discovery of the evidence. In fact, if the police 
+
+knew in advance that the defendant might flush the 
+
+drugs down the toilet, they wouldn't have to knock 
+
+and announce at all. So, I think we have to relate 
+
+the causal question to, What is the principle 
+
+violated? What purposes does it serve? And, in the 
+
+case of knock-and-announce, it does not serve the 
+
+purpose of allowing evidence to be destroyed. That, 
+
+in fact, serves as an exception to knocking and 
+
+announcing at all. 
+
+JUSTICE SOUTER: What do you say the 
+
+purpose of knock-and-announce is? 
+
+MR. BAUGHMAN: This Court has identified it 
+
+on several occasions as to avoid unnecessary violence 
+
+to the property, avoid unnecessary possible injury to 
+
+people, both to the officers who are executing the 
+
+warrant and people inside, and to allow the person 
+
+41 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+inside to prepare to answer -- as Mr. Moran 
+
+indicated, if they might be in a state of undress or 
+
+something, they could avoid that embarrassment. 
+
+JUSTICE SOUTER: So, I take it your 
+
+argument is that, except in cases in which the people 
+
+inside the house are not dressed, or cases in which 
+
+there is, in fact, a gun battle of some sort, that a 
+
+knock-and-announce violation will, in fact, never be 
+
+the cause of any damage at all. 
+
+MR. BAUGHMAN: It will never be the cause 
+
+of the discovery of the physical evidence found --
+
+JUSTICE SOUTER: No, no, it -- no, but 
+
+it'll never be the cause of any compensable damage at 
+
+all. 
+
+MR. BAUGHMAN: Well, if a --
+
+JUSTICE SOUTER: Because I take it your 
+
+argument is: what you can recover from requires 
+
+causation. And what I mean by "causation" is the 
+
+causation of the harms which the rule is intended to 
+
+avoid. 
+
+MR. BAUGHMAN: Correct. 
+
+JUSTICE SOUTER: And if the only harms that 
+
+the rule is intended to avoid is the exposure of 
+
+nakedness and violence, once inside, and there are 
+
+cases without nakedness or without violence, then, in 
+
+42 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+those cases, there will never be a recovery. 
+
+MR. BAUGHMAN: Oh, in those cases, correct. 
+
+In cases where there is violence, there will be 
+
+recovery. In a case such as the instant one, where 
+
+there is no nakedness, there is no violence, they 
+
+simply opened an unlocked door, I would say, yes, 
+
+there would be no recovery, in that circumstance; 
+
+there would be no damages. There may be cases -- and 
+
+this is why not -- I'm not arguing there was no 
+
+knock-and-announce violation, in that the police 
+
+shouldn't knock and announce, because, in different 
+
+cases, the consequences may be dramatic, they may be 
+
+severe, and damages may be severely assessed. 
+
+JUSTICE SOUTER: But, basically, your rule 
+
+is, the police are entitled to take the chance. If 
+
+they -- if they get inside, and people have got their 
+
+clothes on and there's no gun battle, no problem; 
+
+nothing that the police are exposed to, either by an 
+
+exclusionary rule or by a civil recovery. And if 
+
+they want to take that chance, if they want to take 
+
+the chance that somebody will not be dressed or a gun 
+
+will be pulled, basically that's their option. 
+
+MR. BAUGHMAN: I think, as in other 
+
+situations where this Court does not apply the 
+
+exclusionary rule, simply on a deterrence basis --
+
+43 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+because the Court does not always apply the 
+
+exclusionary rule, even when there would be 
+
+deterrence -- that that is correct. 
+
+CHIEF JUSTICE ROBERTS: Well, that's not 
+
+true. I mean, there are going to be situations, or 
+
+at least possible, where evidence is going to be a --
+
+causally connected to a violation of the knock-and-
+
+announce rule, right? The situation -- the warrant 
+
+is because these people were involved in a shootout 
+
+with the -- you know, the Johnson gang; they knock 
+
+the door down and somebody yells, "Look out, it's the 
+
+Johnson gang." 
+
+MR. BAUGHMAN: Yes. 
+
+CHIEF JUSTICE ROBERTS: And if they had 
+
+knocked and announced, and "It's the police," they 
+
+wouldn't have that statement that's incriminating. 
+
+Now, you would agree that that statement would be 
+
+excluded because of the violation, right? 
+
+MR. BAUGHMAN: Yes, exactly. That was 
+
+precisely the point I was going to make, in terms of 
+
+a hypothetical. We're not arguing -- as I tried to 
+
+indicate earlier, we're not arguing that you need to 
+
+resolve every question today about what is, or is 
+
+not, causally related. And there are circumstances 
+
+where a spontaneous declaration -- you know, the 
+
+44 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+police break through the door, and the defendant 
+
+says, "The drugs are in the closet," and you want to 
+
+use that declaration to tie him to the drugs -- that 
+
+may well be causally connected. All we're asking 
+
+today is for this Court to decide that the items --
+
+the physical evidence found within a proper scope, a 
+
+search of proper scope of the warrant that's being 
+
+executed -- is not causally connected. Other 
+
+questions of spontaneous declarations, tying the 
+
+defendant by position to the chair, those may present 
+
+different issues. But the drugs that were named in 
+
+the search warrant as items to be searched for and 
+
+seized are not causally connected; they are the fruit 
+
+of the execution of the judicial command, not of the 
+
+knock-and-announce violation. 
+
+JUSTICE STEVENS: I can understand the 
+
+requirement there be causal connection. Are there 
+
+cases in which courts have held that there was a 
+
+knock-and-announce violation, and there is a general 
+
+remedy of exclusion, unless -- except when there's a 
+
+causal connection; but, in fact, the evidence was 
+
+admitted because it was not causally connected to the 
+
+entry? 
+
+MR. BAUGHMAN: I'm not aware of any. 
+
+JUSTICE STEVENS: I mean, I can understand 
+
+45
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+the hypothetical, but it seems to me it's really a 
+
+hypothetical. 
+
+MR. BAUGHMAN: Yeah. And I think the 
+
+reason that that exists is because, up til today --
+
+and Mr. Moran's correct, most courts go the other way 
+
+-- up until the Stevens case, the assumption had been 
+
+-- and I think the assumption has come from Miller 
+
+and Sabbath -- the assumption has been, if there's a 
+
+knock-and-announce violation, you exclude the 
+
+evidence. So, questions of causation have not been 
+
+explored until the Stevens case, and then the Seventh 
+
+Circuit, in several opinions, has also reached the 
+
+same conclusion. But I think Sabbath and Miller 
+
+present very different circumstances. Sabbath and 
+
+Miller, as the Court will recall, were arrest cases. 
+
+And the arrest situation does not translate into the 
+
+execution of a search warrant, because knock-and-
+
+announce serves a different purpose, an additional 
+
+purpose, in the arrest situation, that is not served 
+
+when -- in the search situation. 
+
+JUSTICE BREYER: Oh, I see your argument 
+
+now. I think your argument is, most of the fourth 
+
+amendment rules are really designed to prevent 
+
+warrantless entries. But this one isn't. 
+
+MR. BAUGHMAN: That's correct. 
+
+46 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ JUSTICE BREYER: This one is designed to 
+
+prevent damage to property --
+
+MR. BAUGHMAN: That's correct. 
+
+JUSTICE BREYER: -- et cetera. So, let's 
+
+not have the exclusionary rule and rely on the damage 
+
+remedy where that kind of thing actually occurs, 
+
+which isn't often. 
+
+MR. BAUGHMAN: That's correct. 
+
+JUSTICE BREYER: And if we buy that 
+
+principle, suppose we were to apply it in the Miranda 
+
+area -- purpose of a Miranda warning is really to 
+
+make certain he can have a lawyer, if he wants one, 
+
+for example. So, now we prove this guy wouldn't have 
+
+asked for a lawyer anyway. All the evidence comes 
+
+in. 
+
+I mean, it's an interesting principle. I 
+
+see the logic. But it seems to me to have a lot of 
+
+implications that this Court has never bought. 
+
+MR. BAUGHMAN: I think it's much more 
+
+speculative in the -- in the fifth-amendment area, 
+
+but I think --
+
+JUSTICE BREYER: I can't think of any other 
+
+area, fifth or fourth, where we've bought it. And 
+
+I've tried to explain, in the question, why we 
+
+haven't bought it. Now, you go ahead. 
+
+47
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ MR. BAUGHMAN: But I think to not accept 
+
+causation as a requirement, which I think this Court 
+
+has always done -- as I said at the outset, this 
+
+Court has said that implementation of the 
+
+exclusionary rule is premised on the evidence being 
+
+the product of the police misconduct. To not do 
+
+that, to not have a causation requirement, I believe, 
+
+severs this Court's current exclusionary-rule 
+
+doctrines from its moorings. There are many 
+
+circumstances that this Court has, at this point, at 
+
+least, seen fit to rest with the lower courts, such 
+
+as the execution of a search warrant. You search 
+
+within proper scope, you're looking for computer 
+
+monitors, you find them, but, as you're executing, 
+
+you open a desk drawer and you shut it, you exceed 
+
+the scope of the warrant. The law is pretty uniform, 
+
+currently, that you don't suppress the computer 
+
+monitors because you exceeded the scope by opening 
+
+the drawer. If you found drugs in the drawer, you 
+
+make -- you'd exclude those. But you don't exclude 
+
+the monitors, because there's not a causal connection 
+
+between the wrong in exceeding the scope of the 
+
+warrant and the discovery of the monitors. 
+
+All those cases are up for grabs again if 
+
+this Court severs the causation requirement from the 
+
+48
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+application of the exclusionary rule. And that's 
+
+just one example; there are others. This Court has 
+
+always required that there be a causal connection, 
+
+and I believe that it should simply continue to do 
+
+so. 
+
+We're not asking this Court to overrule any 
+
+cases, to create any really new principles, we're 
+
+simply asking this Court to understand that Sabbath 
+
+and Miller were knock-and-announce for arrest. With 
+
+an arrest situation, if a person surrenders at the 
+
+door, you don't go in and search the premises 
+
+thoroughly. There's a different purpose served in 
+
+arrest. With a search warrant, knock-and-announce 
+
+has no purpose of protecting the privacy of the 
+
+dwelling itself with the discovery of the items named 
+
+in the warrant, and they shouldn't be suppressed. 
+
+Things that are causally connected can be left to an 
+
+argument that may be made by counsel in different 
+
+situations, but, as to the items named in the warrant 
+
+-- contraband, fruit, spirits, instrumentalities --
+
+that should not be suppressed. It is simply not 
+
+causally connected to the entry, and we would ask 
+
+this Court to so hold. 
+
+Thank you. 
+
+CHIEF JUSTICE ROBERTS: Thank you, Counsel. 
+
+49
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ Mr. Salmons. 
+
+ORAL ARGUMENT OF DAVID B. SALMONS 
+
+FOR THE UNITED STATES, AS AMICUS CURIAE, 
+
+IN SUPPORT OF RESPONDENT 
+
+MR. SALMONS: Thank you, Mr. Chief Justice, 
+
+and may it please the Court: 
+
+The knock-and-announce rule, unlike the 
+
+warrant and probable cause requirements, does not 
+
+protect the individual's privacy interest in the 
+
+items to be searched, and does not relate to the 
+
+officer's authority to conduct the search and obtain 
+
+the evidence. An unannounced or premature entry, 
+
+therefore, does not detract from the officer's legal 
+
+authority reflected in the warrant to enter and 
+
+conduct a search. Instead, as this Court held in 
+
+Segura, an untainted warrant provides an independent 
+
+source for the search, even where the entry is 
+
+illegal. There was only one entry in the Segura 
+
+case, since the officers remained in the apartment 
+
+until a warrant was finally obtained. 
+
+JUSTICE BREYER: It depends, of course, on 
+
+whether you -- what you're doing. Now I see what 
+
+you're doing. You're applying a kind of Palsgraf 
+
+causation analysis within the risk -- I think that's 
+
+what you're doing -- to saying it's outside, it's not 
+
+50
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+a cause. You're saying -- you don't say it's not a 
+
+necessary condition of his being there. It is. You 
+
+do say, "Well, the being-in-the-room-there is not 
+
+within the risk, the reason for which we have a 
+
+knock-and-announce rule." But, of course, that's a 
+
+matter of judgment. I mean, you could say the 
+
+purpose of the cause -- of the knock-and-announce 
+
+rule is to keep people out of there without knocking 
+
+and announcing. And if that's the purpose of it, 
+
+it's right within the risk, right cause. 
+
+MR. SALMONS: Your Honor --
+
+JUSTICE BREYER: You just are looking at 
+
+the harms that his being there in that room without 
+
+announcing might bring about. That doesn't mean 
+
+that's why we don't have the rule. We have the rule 
+
+to keep him out of there without announcing. 
+
+MR. SALMONS: Your Honor, there are --
+
+there are several reasons why the Court has -- the 
+
+Court has articulated several reasons for why there 
+
+is the knock-and-announce rule. We think the 
+
+important point, though, with regard to Segura 
+
+case is that the entry, in Segura, was unlawful both 
+
+because the officers did not announce and because 
+
+they did not have a warrant. They, nonetheless, 
+
+stayed there for 20 hours, and, when they finally did 
+
+51 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19 -- 
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+obtain a warrant, they conducted the search. And 
+
+this Court had no difficulty in saying that, even 
+
+though the initial entry was unlawful, the warrant-
+
+authorized search -- the warrant was an independent 
+
+source for the search, and that the legality with 
+
+regard to the initial entry was, quote, "wholly 
+
+irrelevant to the evidence that was obtained pursuant 
+
+to the warrant." And we would submit that it would 
+
+be an odd fourth amendment rule that would allow 
+
+admission of the evidence where the officers failed 
+
+to obtain a warrant. They entered without a warrant 
+
+and without announcement, and only later obtained 
+
+one, as in Segura; and then suppress all evidence, in 
+
+this case, where the officers did obtain a warrant in 
+
+advance, and their only illegality was the much more 
+
+minor one of entering a few moments prematurely. 
+
+JUSTICE SOUTER: What was the --
+
+MR. SALMONS: Nothing in this Court's cases 
+
+JUSTICE SOUTER: I'm sorry, I didn't mean 
+
+to interrupt. 
+
+MR. SALMONS: No, that's fine, Your Honor. 
+
+JUSTICE SOUTER: I was going to say, What 
+
+was -- what were the grounds upon which the warrant, 
+
+in Segura, was obtained? 
+
+52
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ MR. SALMONS: The warrant, in Segura, was 
+
+obtained by -- based on evidence that was in 
+
+existence prior to the unlawful entry, so that it was 
+
+an untainted warrant. 
+
+JUSTICE SOUTER: So, it didn't -- it didn't 
+
+depend on the entry or anything gained as a result of 
+
+the entry, right? 
+
+MR. SALMONS: Well, of course, the officers 
+
+-- once that warrant was obtained, officers would 
+
+have to enter the apartment in order to conduct a 
+
+search --
+
+JUSTICE SOUTER: Right, but the --
+
+MR. SALMONS: -- here, except for the fact 
+
+that --
+
+JUSTICE SOUTER: -- but the --
+
+MR. SALMONS: -- they had already entered 
+
+illegally and were already present illegally --
+
+JUSTICE SOUTER: Right, but the warrant --
+
+MR. SALMONS: -- in the apartment. 
+
+JUSTICE SOUTER: -- the warrant -- the 
+
+warrant itself didn't depend on anything they had 
+
+gained as a result of the entry. There was no --
+
+MR. SALMONS: That's correct --
+
+JUSTICE SOUTER: -- kind of causal --
+
+MR. SALMONS: -- in Segura. 
+
+53
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ JUSTICE SOUTER: -- continuum there. 
+
+MR. SALMONS: That's absolutely correct, 
+
+and that's --
+
+JUSTICE BREYER: So, you do --
+
+JUSTICE SOUTER: Isn't --
+
+MR. SALMONS: -- a requirement for --
+
+JUSTICE SOUTER: Isn't that the difference, 
+
+though, with this case? Because, here, there is a 
+
+causal continuum, at least, as Justice Breyer said, a 
+
+but-for causal continuum. They wouldn't have been in 
+
+the apartment but for the entry. And so, the 
+
+authority of the warrant and the manner of executing 
+
+the warrant are not divisible the way they were in 
+
+Segura. 
+
+MR. SALMONS: Your Honor, with respect, I 
+
+think that's -- it would be an improper reading of 
+
+Segura. There was an illegal entry, in Segura, that 
+
+was just as necessary in order to conduct the search 
+
+and obtain evidence in that case as there was at 
+
+premature entry here. 
+
+JUSTICE SOUTER: But, in Segura, the court 
+
+issuing the subsequent warrant says, "You can -- you 
+
+can go in there and do this." The court -- by the 
+
+way, I -- maybe this makes it even easier -- did the 
+
+court, in Segura, know that they were in the 
+
+54
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+apartment? 
+
+MR. SALMONS: No, Your Honor. 
+
+JUSTICE SOUTER: Okay. 
+
+MR. SALMONS: Their -- they had no 
+
+knowledge of the illegality, and the evidence that 
+
+was -- that was the basis for the affidavit for the 
+
+warrant was untainted by the illegal entry. But, of 
+
+course, the same is true here, there was -- there is 
+
+no allegation at all that --
+
+JUSTICE BREYER: No, no --
+
+MR. SALMONS: -- the warrant in this case -
+
+-
+
+JUSTICE BREYER: -- the difference is --
+
+MR. SALMONS: -- is tainted. 
+
+JUSTICE BREYER: All right, look, this --
+
+you know, I'd appreciate your explaining this -- this 
+
+seems to me what you're saying in your brief was the 
+
+inevitable discovery. The inevitable-discovery rule, 
+
+in my -- the way -- the way I've thought of it, and 
+
+I'd like you to correct me if I haven't thought of it 
+
+correctly -- to use a kind of analogy, it's like a 
+
+primitive tribe that beats a tom-tom every morning so 
+
+the sun comes up. Hey, the sun's going to come up 
+
+anyway, and the bodies are going to be discovered 
+
+anyway, in those cases. And, in Segura, the warrant 
+
+55 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+is going to be issued anyway. So, it isn't a 
+
+question of whether it would have been issued if they 
+
+had behaved properly, it's a question of what will 
+
+really happen in the absence of the illegality. 
+
+MR. SALMONS: Well --
+
+JUSTICE BREYER: Now, that's what I thought 
+
+inevitable discovery here was, and, in the absence of 
+
+these people entering the apartment illegally, they 
+
+wouldn't have found a thing, because --
+
+MR. SALMONS: Well, Your Honor --
+
+JUSTICE BREYER: -- there was nothing else 
+
+in motion. 
+
+MR. SALMONS: Your Honor, with respect, 
+
+that is -- that is directly at odds with the way the 
+
+Court, in Segura, approached --
+
+JUSTICE BREYER: Now, which --
+
+
+MR. SALMONS: -- the question. 
+
+
+JUSTICE BREYER: -- case is contrary to 
+
+
+what I said? 
+
+MR. SALMONS: I think Segura is contrary to 
+
+that. 
+
+JUSTICE BREYER: Segura? 
+
+MR. SALMONS: I think Murray --
+
+JUSTICE BREYER: You have just said --
+
+MR. SALMONS: -- is contrary to that. 
+
+56 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ JUSTICE BREYER: -- that, in Segura, they 
+
+would have gotten in, anyway, under a legal warrant 
+
+that had nothing whatsoever to do with the illegal 
+
+entry. 
+
+MR. SALMONS: In fact, that is precisely 
+
+the analysis --
+
+JUSTICE BREYER: The sun rose, anyway. 
+
+MR. SALMONS: -- that's precisely the 
+
+analysis the Court ordered -- took in Segura. It 
+
+said, if there had been no illegal entry, the 
+
+officers --
+
+JUSTICE BREYER: Right. 
+
+
+MR. SALMONS: -- would have obtained the 
+
+
+evidence --
+
+JUSTICE BREYER: Exact --
+
+MR. SALMONS: -- the same way --
+
+JUSTICE BREYER: No. Well --
+
+MR. SALMONS: -- because they had --
+
+JUSTICE BREYER: -- not "would have." Did. 
+
+MR. SALMONS: Well, Your -- I'm just 
+
+informing Your Honor what the Segura case says. It 
+
+says the court -- the courts would have found --
+
+excuse me -- the officers would have found the same 
+
+evidence that they found pursuant to the warrant if 
+
+they had complied with the fourth amendment. That's 
+
+57
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+because the court viewed the -- that warrant as a 
+
+separate independent source for the authority to 
+
+enter and conduct a search. One would have to posit, 
+
+I guess, that the officers in this case, if they --
+
+if they would rather not execute the warrant than 
+
+delay a few additional moments before entering, but I 
+
+think that would not be a very realistic hypothesis. 
+
+JUSTICE GINSBURG: Then your --
+
+MR. SALMONS: Now, with regard --
+
+JUSTICE GINSBURG: -- position is that you 
+
+never -- if you have a warrant, then you can seize 
+
+what the warrant lists. So, if you have a warrant, 
+
+then there is never a reason that the police would 
+
+have to knock and announce, because the warrant gives 
+
+them independent authority to enter. That seems to 
+
+be what you're saying, that as long as you have a 
+
+warrant, there -- the knock-and-announce does not 
+
+have to be complied with. 
+
+MR. SALMONS: No, Your Honor. The knock-
+
+and-announce requirement is -- we take no issue with 
+
+that. That is required by the fourth amendment. 
+
+With regard --
+
+JUSTICE O'CONNOR: Well --
+
+MR. SALMONS: -- to deterrence --
+
+JUSTICE O'CONNOR: -- but in this very case 
+
+58
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2 -- 
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+you had an officer who said it was his regular policy 
+
+MR. SALMONS: Well --
+
+JUSTICE O'CONNOR: -- never to knock and 
+
+announce --
+
+MR. SALMONS: That's not --
+
+JUSTICE O'CONNOR: -- to just go in. So, 
+
+if the rule you propose is adopted, then every police 
+
+officer in America can follow the same policy. Is 
+
+there no policy of protecting the homeowner a little 
+
+bit --
+
+MR. SALMONS: Of course the --
+
+JUSTICE O'CONNOR: -- and the sanctity of 
+
+the home --
+
+MR. SALMONS: Of course there is --
+
+JUSTICE O'CONNOR: -- from this immediate -
+
+-
+
+MR. SALMONS: -- Your Honor, and that is 
+
+not --
+
+JUSTICE O'CONNOR: -- entry? 
+
+MR. SALMONS: -- our position. And we, 
+
+respectfully, would argue that that's not an 
+
+appropriate way to conduct the deterrence analysis. 
+
+Even just on the terms of deterrence, we think that 
+
+suppression here would be a disproportionate remedy. 
+
+59 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ And that's because, as this Court has repeatedly 
+
+recognized, the officers already have an incentive, 
+
+inherent in the nature of the circumstances, to 
+
+announce and delay some period of time before entry. 
+
+Now, there may be --
+
+JUSTICE SOUTER: But what --
+
+MR. SALMONS: -- not --
+
+JUSTICE SOUTER: Wait a minute. What is 
+
+this incentive inherent in the circumstances? 
+
+MR. SALMONS: It's not to be mistaken for 
+
+an intruder and shot at, Your Honor. 
+
+JUSTICE SOUTER: Well, it doesn't seem to 
+
+work. 
+
+MR. SALMONS: Well --
+
+JUSTICE SOUTER: I mean, you've got -- this 
+
+is a case in which the officer testifies, "It never 
+
+works, I always go in." 
+
+MR. SALMONS: That's not really -- I mean, 
+
+to be fair, Your Honor, that's not what he testified 
+
+to, exactly. What he said was, he's been shot at 
+
+several times, and he went in early, in this case, in 
+
+part because of his safety concerns. But he didn't 
+
+speak to any broader policy. 
+
+JUSTICE SOUTER: When is it going --
+
+MR. SALMONS: But, in any event, the --
+
+60
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ JUSTICE SOUTER: I mean, what reason do we 
+
+have to believe that this incentive inherent in 
+
+circumstances is ever going to work in the absence of 
+
+an exclusionary rule? 
+
+MR. SALMONS: Well, Your Honor, I think --
+
+I think there are several reasons. One -- and, 
+
+again, this Court -- these are -- all of the things 
+
+I'm going to list come from this Court's cases, 
+
+including Nix and Murray and Segura, where the Court 
+
+has applied the doctrines we ask the Court to apply 
+
+here. And what you have is, you have the inherent 
+
+incentive to knock and announce, because of their own 
+
+safety concerns. We think the only thing that might 
+
+not cover, in terms of deterrence, would be the 
+
+additional few moments you may want them to wait. 
+
+They will announce, and they will delay some period 
+
+of time. 
+
+Now, in the absence of concerns about 
+
+safety or destruction of evidence, the officers have 
+
+nothing to gain by entering prematurely. And so, in 
+
+doing a deterrence analysis, I think it's important 
+
+to keep that in mind. It's not like there's a huge 
+
+gain for the officers --
+
+JUSTICE SOUTER: Why don't they --
+
+MR. SALMONS: -- when they don't have 
+
+61
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+legitimate concerns. 
+
+JUSTICE SOUTER: Why don't they have 
+
+something to gain? If they're right that there is 
+
+evidence inside, they gain. They're -- I mean, 
+
+they're perfectly rational --
+
+MR. SALMONS: Well --
+
+JUSTICE SOUTER: -- in this. They gain a 
+
+greater chance of getting that evidence than if they 
+
+let a few seconds elapse and the evidence can be 
+
+flushed away. 
+
+MR. SALMONS: To be sure, Your Honor, there 
+
+are times when they may miscalculate the nature of 
+
+the concerns about safety and destruction of 
+
+evidence, but, in cases where there aren't those 
+
+concerns, they have nothing to gain. And, in 
+
+addition, entering prematurely may make them a 
+
+defendant in 1983 or Bivens actions, which I'm sure 
+
+that no officer --
+
+JUSTICE SOUTER: For --
+
+MR. SALMONS: -- relishes and --
+
+JUSTICE SOUTER: For which there is no 
+
+record of any recovery in any court in the United 
+
+States, isn't that correct? 
+
+MR. SALMONS: May I answer, Your Honor? 
+
+CHIEF JUSTICE ROBERTS: Sure. 
+
+62
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ MR. SALMONS: Your Honor, I would -- I 
+
+would disagree with that. And I would point the 
+
+Court, in particular, to a recent case out of the 
+
+Seventh Circuit, Jones versus Wilhelm. The seventh 
+
+circuit has announced the position -- it decided the 
+
+position that we advocate. There are many cases, 
+
+Your Honor -- the courts -- the courts are replete 
+
+with them -- where people --
+
+CHIEF JUSTICE ROBERTS: Thank --
+
+MR. SALMONS: -- bring those types of 
+
+claims, and win, and then they settle. 
+
+CHIEF JUSTICE ROBERTS: Thank you, Counsel. 
+
+MR. SALMONS: Thank you. 
+
+CHIEF JUSTICE ROBERTS: Mr. Moran, you have 
+
+4 minutes remaining. 
+
+REBUTTAL ARGUMENT OF DAVID A. MORAN 
+
+ON BEHALF OF PETITIONER 
+
+MR. MORAN: Thank you, Mr. Chief Justice. 
+
+First of all, as to the evidence that is 
+
+causally connected to the knock-and-announce 
+
+violation, there are two reasons why the remote 
+
+possibility of such evidence will never deter police 
+
+officers from violating the knock-and-announce 
+
+requirement. The first is that it's very remote. 
+
+I'm not aware of a single case in American history 
+
+63
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+where there has been identified such evidence that is 
+
+directly causally related only to the knock-and-
+
+announce violation. But the second reason, more 
+
+fundamental, is that even if there were such 
+
+evidence, by definition the possibility of finding 
+
+such evidence will not deter the police from 
+
+committing a knock-and-announce violation, because 
+
+they wouldn't have found that evidence had they 
+
+complied with the knock-and-announce requirement. In 
+
+other words, the police would only gain that evidence 
+
+by committing the knock-and-announce violation, so 
+
+there would be nothing lost in going ahead and 
+
+risking an excited utterance that they wouldn't be 
+
+able to use, because, by definition, they wouldn't be 
+
+getting that excited utterance, anyway. 
+
+I think it's important, with the Solicitor 
+
+General's brief, to rebut the claim that Miller and 
+
+Sabbath had something to do with the fact that there 
+
+was no warrant in those cases. Nothing in Miller and 
+
+Sabbath turned on the absence of a warrant. And, in 
+
+fact, in Miller the Court specifically said, "The 
+
+requirements stated in Semayne's case still obtains. 
+
+It applies, as the Government here concedes, whether 
+
+the arrest is to be made by virtue of a warrant or 
+
+when officers are authorized to make an arrest for a 
+
+64
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+felony without a warrant." The Government conceded, 
+
+in Miller, that whether there was a warrant or not 
+
+had nothing to do with the knock-and-announce 
+
+violation in that case. 
+
+JUSTICE SCALIA: I thought the Government's 
+
+distinction was based on the fact that they were 
+
+arrest cases. I thought that's the distinction they 
+
+were making. 
+
+MR. MORAN: Perhaps I misread their brief, 
+
+Justice Scalia, but I thought it was that there was 
+
+an absence of a warrant. Of course, this is an 
+
+arrest case, as well. The -- Mr. Hudson was seized, 
+
+and was searched, incident to arrest. And so, this 
+
+was also an arrest case, much like Miller and 
+
+Sabbath. 
+
+As for the causal-connection argument, if 
+
+this Court were to accept it, I listed, in my 
+
+principal brief, a litany of cases that I think would 
+
+have to be overruled -- Katz, Knowles, Silverthorne 
+
+Lumber -- for that matter, Kyllo. All those cases 
+
+say that it doesn't matter that the Government has a 
+
+clear, lawful route to get the evidence; the fact 
+
+that they didn't follow that clear, lawful route 
+
+prevents the Government from using that evidence. 
+
+And it's impossible to explain how Mr. Baughman's 
+
+65 
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+causation theory is consonant with all of those 
+
+cases. 
+
+CHIEF JUSTICE ROBERTS: Well --
+
+MR. MORAN: I think --
+
+CHIEF JUSTICE ROBERTS: Well, isn't the --
+
+isn't the reason it's consonant is because, in those 
+
+cases, there is a -- the connection, in terms of the 
+
+purposes of the rule that was violated and the 
+
+evidence that was seized? 
+
+MR. MORAN: Mr. Chief Justice, I think the 
+
+same thing applies here. I think that the knock-and-
+
+announce rule is about the sanctity of the home. And 
+
+this Court could not have said it any more clearly in 
+
+Wilson, that the reasonableness of a search or 
+
+seizure inside a home is connected to the method of 
+
+entry. In fact, the Court said it three times, in 
+
+Wilson, in various ways. And so, I think it is the 
+
+purpose of the knock-and-announce rule, is to protect 
+
+the homeowner's right of privacy against shock, 
+
+fright, and embarrassment that can come with a 
+
+precipitous police entry. 
+
+CHIEF JUSTICE ROBERTS: But not the general 
+
+privacy of the home, because you don't dispute that 
+
+if he had waited an additional 4 seconds, he could 
+
+have entered the home and executed the warrant. 
+
+66
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ MR. MORAN: No, we don't dispute that at 
+
+all, Mr. Chief Justice. 
+
+Finally, I have to ask why this Court has 
+
+decided all these knock-and-announce cases in the 
+
+last 10 years, if my opponents are right. This Court 
+
+shouldn't have -- they're all criminal cases, and 
+
+this Court should have simply said the Petitioners or 
+
+Respondents, as the case may be, cannot obtain the 
+
+relief they are seeking, because the knock-and-
+
+announce rule is not causally related to the evidence 
+
+that they're trying to suppress. And so, if this 
+
+Court were to adopt my opponent's position, the 
+
+knock-and-announce rule will become a dead letter. 
+
+There will be virtually no cases, there will be 
+
+virtually no more development of this rule. This 
+
+Court would have been wrong in Miller, it would have 
+
+been wrong in Sabbath, and it was wrong to reach the 
+
+substantive constitutional questions it reached in 
+
+Banks, Richards, Ramirez, and Wilson. And all the 
+
+other courts, the -- virtually every State currently 
+
+suppressing evidence seized after a knock-and-
+
+announce -- well, they would have to be wrong, too. 
+
+And so, a lot of courts, including this Court, have 
+
+been wrong a lot of times, if my opponent is correct. 
+
+Finally, one last word on Segura. Segura 
+
+67
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+is the sort of case where one can make a respectable 
+
+inevitable-discovery -- in fact, a winning 
+
+inevitable-discovery or independent-source argument. 
+
+But the key thing in Segura is, this Court did not 
+
+disturb the fact that the evidence that was seized 
+
+during the initial entry was suppressed, because that 
+
+was directly connected to the unlawful entry. And 
+
+so, the evidence that the police initially seized, 
+
+before the 19-hour wait in Segura, was suppressed. 
+
+Thank you, Mr. Chief Justice. 
+
+CHIEF JUSTICE ROBERTS: Thank you, Counsel. 
+
+The case is submitted. 
+
+[Whereupon, at 11:01 a.m., the case in the 
+
+above-entitled matter was submitted.] 
+
+68
+
+1111 14th Street, NW Suite 400 Alderson Reporting Company Washington, DC 20005 
+
+1-800-FOR-DEPO 
+
+

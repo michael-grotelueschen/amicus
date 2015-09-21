@@ -1,0 +1,9507 @@
+
+           
+
+           
+
+                        
+
+           
+
+            
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+WEYERHAEUSER COMPANY, :
+
+ Petitioner :
+
+ v. : No. 05-381 
+
+ROSS-SIMMONS HARDWOOD : 
+
+LUMBER COMPANY, INC. : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Tuesday, November 28, 2006
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 10:02 a.m. 
+
+APPEARANCES: 
+
+ANDREW J. PINCUS, ESQ., Washington, D.C.; on behalf of
+
+ Petitioner. 
+
+KANNON K. SHANMUGAM, ESQ., Assistant to the Solicitor
+
+ General, Department of Justice, Washington, D.C.; on
+
+ behalf of the United States, as amicus curiae,
+
+ supporting Petitioner. 
+
+MICHAEL E. HAGLUND, ESQ., Portland, Ore.; on behalf of
+
+ Respondent 
+
+1
+
+Alderson Reporting Company 
+
+
+
+                                
+
+                     
+
+                  
+
+                    
+
+                        
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+
+ANDREW J. PINCUS, ESQ.
+
+ On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+KANNON K. SHANMUGAM, ESQ.
+
+ On behalf of the United States, as amicus
+
+ curiae, supporting Petitioner 19 
+
+ORAL ARGUMENT OF 
+
+MICHAEL E. HAGLUND, ESQ.
+
+ On behalf of the Respondent 28 
+
+REBUTTAL ARGUMENT OF 
+
+ANDREW J. PINCUS, ESQ.
+
+ On behalf of Petitioner 51 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (10:02 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+first in case 05-381 Weyerhaeuser Company versus 
+
+Ross-Simmons Hardwood Lumber Company. 
+
+Mr. Pincus.
+
+ ORAL ARGUMENT OF ANDREW J. PINCUS
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. PINCUS: Thank you, Mr. Chief Justice, 
+
+and may it please the Court:
+
+ The question in this case is whether the 
+
+standards this Court adopted in Brooke Group to 
+
+determine whether a seller's prices violate the 
+
+antitrust laws because they are too low also should 
+
+apply in assessing the claim that the buyer's purchase 
+
+prices are illegally high. We submit that the Brooke 
+
+Group test applies because the four key underpinnings of 
+
+the Court's ruling apply fully here.
+
+ First, there's a high risk of mistaking 
+
+aggressive competition for anticompetitive behavior. 
+
+Increasing the prices that are paid for inputs like 
+
+lowering sales prices is a mechanism by which a firm 
+
+competes. It's the result that we would expect from a 
+
+buyer's ordinary competitive instincts. So the conduct 
+
+targeted here is on its face identical to core 
+
+3
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+procompetitive conduct. It's also very hard to 
+
+distinguish losses suffered by a more inefficient 
+
+competitor from hard -- to anticompetitive behavior, but 
+
+the antitrust laws --
+
+JUSTICE STEVENS: Can I ask you a 
+
+preliminary question before you get too far into your 
+
+argument? Is it your understanding that the 
+
+instructions to the jury were that finding that 
+
+predatory price cutting was in itself sufficient to 
+
+establish a Section 2 violation? I know the Court of 
+
+Appeals opinion reads that way but is it, do you think 
+
+the jury was so instructed?
+
+ MR. PINCUS: Yes. Our position is that that 
+
+is what the jury was instructed, because the predatory 
+
+pricing instruction said one of plaintiff's contentions 
+
+is that defendant purchased more logs than needed or 
+
+paid a higher price for logs than necessary in order to 
+
+prevent the plaintiffs from obtaining the logs they 
+
+needed at a fair price. I'm reading from page 14(a) of 
+
+the appendix to the petition. And then it concluded, if 
+
+you find this to be true, you may regard it as an 
+
+anticompetitive act.
+
+ JUSTICE STEVENS: You may consider it as an 
+
+anticompetitive act, but it does not say you may regard 
+
+it as a violation of Section 2. 
+
+4
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. PINCUS: No.
+
+ JUSTICE STEVENS: And as I read the 
+
+instructions, it did require there be three elements of 
+
+the violation of Section 2 which, two of which were not 
+
+discussed by the Court of Appeals.
+
+ MR. PINCUS: Well, Your Honor, there is no, 
+
+there is no contention here about monopoly power. The 
+
+focus here is on the conduct element of Section 2.
+
+ JUSTICE STEVENS: Do you concede there is 
+
+monopoly power?
+
+ MR. PINCUS: We are not disputing it before 
+
+this Court.
+
+ JUSTICE STEVENS: But is that relevant to 
+
+the question whether, if there is monopoly power plus an 
+
+attempt to preserve that power or require that power, 
+
+plus an anticompetitive act, is that a violation of 
+
+section 2.
+
+ MR. PINCUS: Well, Your Honor, our view is 
+
+what the Court has said in cases like Trinko, is that 
+
+the test is monopoly power and anticompetitive conduct. 
+
+Those are the two elements. We are not contesting the 
+
+monopoly power element. We are looking at whether there 
+
+was anticompetitive conduct here.
+
+ JUSTICE STEVENS: But you do agree that the 
+
+conduct in itself is not sufficient to establish a 
+
+5
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+violation, the question of whether the conduct plus the 
+
+monopoly power --
+
+MR. PINCUS: Yes. Because this is a claim 
+
+under Section 2, there would have to be either monopoly 
+
+power or a danger of probability to the monopoly power. 
+
+It's single firm conduct so there would have to be --
+
+JUSTICE STEVENS: And so you're arguing not 
+
+only that the pricing conduct was not itself sufficient 
+
+to prove a violation, but it also was not even an 
+
+anticompetitive act that may give rise to damages?
+
+ MR. PINCUS: Yes, Your Honor. We are 
+
+arguing both things. I think, I'm not sure that there 
+
+is much space between the two, but to the extent there 
+
+is, we are arguing both.
+
+ JUSTICE STEVENS: Obviously, if there's just 
+
+an anticompetitive act without a violation of the 
+
+statute, then there would be no basis for damages.
+
+ MR. PINCUS: I think that's right, but I 
+
+guess the way I think the Court has approached 
+
+determining anticompetitive act, anticompetitive 
+
+conduct, is it's the kind of conduct when engaged in by 
+
+a monopolist or an entity that has a dangerous 
+
+probability of cheating it, it is a violation of this 
+
+statute.
+
+ JUSTICE STEVENS: Of course in the Brooke 
+
+6
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+case, it may not have even been a monopolist.
+
+ MR. PINCUS: Well, because Brooke involved a 
+
+claim under the Patent Act. But this Court in the 
+
+Trinko case has certainly interpreted the Brooke 
+
+Standard as also applying to claims under Section 2. 
+
+And in fact the Court explicitly said that in Brooke 
+
+Group.
+
+ As I said, the first critical underpinning 
+
+is the risk of mistaking aggressive competition for 
+
+anticompetitive behavior. Second, this case involves --
+
+CHIEF JUSTICE ROBERTS: Well, it's a little 
+
+different here in that in the Brooke Group cases, of 
+
+course, the alleged anticompetitive conduct was pricing 
+
+too low, which has at least a direct benefit to 
+
+consumers either in the short term, certainly in the 
+
+short term, and arguably in the long-term as well, while 
+
+here that is not the form in which the anticompetitive 
+
+conduct, that's not the form the anticompetitive conduct 
+
+takes. So isn't that a reason not to think that we 
+
+should apply the Brooke Group test to this situation?
+
+ MR. PINCUS: Your Honor, we don't, we don't 
+
+think that that difference is a distinction that 
+
+warrants a different test, for several reasons. First 
+
+of all, we are dealing here with single firm pricing 
+
+conduct and it's recognized that that's key to the 
+
+7
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+proper functioning of the markets. As the court said in 
+
+Professional Engineers, fixed pricing is the central 
+
+nervous system of the economy. It allocates goods and 
+
+ensures that, that they are allocated to the most 
+
+efficient use.
+
+ Here, although there's no immediate benefit 
+
+to consumers, there is an immediate benefit to the 
+
+sellers of the logs, who certainly benefit when 
+
+competition drives up the prices that they achieve. And 
+
+we think that the Sherman Act protects them and gives 
+
+them the benefit of full competition just as much as it 
+
+does consumers. Over the course --
+
+CHIEF JUSTICE ROBERTS: Have we ever 
+
+identified that as a benefit that the antitrust laws try 
+
+to achieve, people get higher prices for what they sell?
+
+ MR. PINCUS: Yes. In Mandeville Farms, 
+
+which was a Section 1 case, the Court did talk about the 
+
+fact that the antitrust laws protect sellers as well as 
+
+buyers, and that was a case in which there was allegedly 
+
+a Section 1 conspiracy to price too low, and the Court 
+
+said that's per se unlawful.
+
+ CHIEF JUSTICE ROBERTS: So in Brooke Group, 
+
+we said it's a benefit when prices are low to consumers, 
+
+and in this other case we said it's a benefit when 
+
+prices are high to suppliers. 
+
+8
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. PINCUS: Because the benefit that I 
+
+think the Court is looking at in both cases is not the 
+
+particular price levels, but in achieving and ensuring 
+
+free price competition because of the central role that 
+
+price plays in the economy. That's what the Court is 
+
+trying to protect in Professional Real Estate -- in 
+
+Professional Engineers --
+
+JUSTICE SCALIA: I assume it's a benefit to 
+
+consumers if the supply of the needed goods is increased 
+
+because of higher prices being paid for those needed 
+
+goods, and I assume when a higher price is paid, more of 
+
+those goods will be forthcoming, which will benefit 
+
+consumers who want those goods.
+
+ MR. PINCUS: That is our second argument, 
+
+Justice Scalia.
+
+ JUSTICE SOUTER: Well, you don't have that 
+
+in this case, do you, because I thought the, I thought 
+
+one of the arguments on the other side was the 
+
+inelasticity of the supplies, so that no matter what 
+
+they were paying, basically the same amount of wood was 
+
+ultimately going to get processed; is that correct?
+
+ MR. PINCUS: No, Your Honor. The claim is 
+
+that the supply was relatively inelastic, not that it's 
+
+perfectly inelastic, and as long as the supply market is 
+
+not perfectly inelastic, an increase in price may lead 
+
+9
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to more supplies, maybe not as much as if there were 
+
+higher elasticity, but more. But there's another 
+
+benefit to consumers here, which is that if one would 
+
+expect that a buyer bidding more can make a more 
+
+efficient use of the product and therefore generate more 
+
+output, and that output expansion which doesn't depend 
+
+on supply expansion is also beneficial to consumers 
+
+because that means there will be more output in the 
+
+downstream market and a corresponding decrease in price.
+
+ So we have those two benefits to consumers 
+
+and we also have the fact that as the Court said in 
+
+Professional Engineers, the Sherman Act reflects a 
+
+judgment that price competition generally, a free and 
+
+open price competition will produce lower prices and 
+
+better goods and services, and the Court has not 
+
+required that that be traced to consumer welfare in 
+
+every particular case.
+
+ JUSTICE SCALIA: I presume it could lead to 
+
+lower consumer prices too. If you have a firm that has 
+
+developed a new, a new technique for processing the 
+
+logs, and it can process them cheaper and faster, and 
+
+sell them for a lower price but in greater volume, and 
+
+thereby make even more profit, that firm would be 
+
+willing to pay more for those logs, even though it would 
+
+sell them for less than competitors might sell them. 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. PINCUS: That's exactly right, Justice 
+
+Scalia, and that's what the record reflects here, that 
+
+Weyerhaeuser invested in its lumber mills and created a 
+
+process that got more value out of a log. The record 
+
+reflects that plaintiffs, for example, did not do that. 
+
+And there is testimony that plaintiff's mill was quite, 
+
+relatively inefficient compared to Weyerhaeuser. 
+
+Weyerhaeuser invested new processes that had less waste, 
+
+produced more output as Justice Scalia suggested, and 
+
+therefore it was able to sell, sell that output at a 
+
+lower price and still make a profit, because it was 
+
+getting more output for log and therefore could pay more 
+
+for the log.
+
+ JUSTICE KENNEDY: Was there any argument in 
+
+the trial court or in the briefs of the Court of Appeals 
+
+as to how to calculate cost? You basically have two 
+
+markets. You don't usually think of cost when you buy 
+
+something. But was there any argument as to how to 
+
+determine whether or not this was below cost in the 
+
+Brooke Group sense?
+
+ MR. PINCUS: Well, our view, Justice 
+
+Kennedy, there really wasn't, because the district judge 
+
+had made clear his view in the pretrial motions that 
+
+there wasn't a need to prove prices, and that --
+
+JUSTICE KENNEDY: But that was the end of it 
+
+11
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+at the trial court.
+
+ MR. PINCUS: But our position is, and there 
+
+has certainly been some writing on this in the 
+
+literature, is that what one does is take the cost of 
+
+producing the output which includes the allegedly 
+
+predatory price of the log, and here logs are 75 percent 
+
+of the cost so it's a very big cost. Compare those 
+
+costs to the revenues that are received in the 
+
+downstream market and if those revenues exceed costs, 
+
+then you're in a position where the defendant is 
+
+behaving perfectly economically rationally. If they're 
+
+less, then you go on to recoup it.
+
+ JUSTICE GINSBURG: Mr. Pincus, how do you 
+
+determine the price of the logs? Because we, the 
+
+charges that some logs were purchased at an excessive 
+
+price, and if we were dealing with only those logs to 
+
+determine cost, that's one thing. But we are, also in 
+
+this picture is that some of the logs came from 
+
+Weyerhaeuser's own land and some came from long-term 
+
+contracts that it had, and those, the price was not 
+
+inflated on those. So if you take those into account 
+
+you may get one figure, but if you take only the high 
+
+bid logs you might get a different picture. So how, 
+
+what is it? How do you determine costs? Do you look at 
+
+all the logs that were purchased or only the ones that 
+
+12 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+were allegedly bid out?
+
+ MR. PINCUS: No. You would look, you would 
+
+look, Your Honor, at all of the, at all of the logs, 
+
+just as in the downstream market if you have a sell side 
+
+case, you look at, you look at prices of all sales. 
+
+Here it's interesting that the record reflects that 
+
+plaintiff received more than, between 30 and 50 percent 
+
+of its logs from the same kind of long-term sources that 
+
+it argues that Weyerhaeuser received it from. So in 
+
+this case there really isn't the kind of disparity, but 
+
+our position would be that you add all of those up and 
+
+compare them to revenues.
+
+ JUSTICE KENNEDY: It's not clear to me that 
+
+we have to get into this but if we do, I'm not sure 
+
+about your answer to Justice Ginsburg's question. If 
+
+you have your own logs that you own already and if you 
+
+have logs on a long-term contract, the only relevant 
+
+logs are the logs that both people are competing for. 
+
+That's the only relevant market that we are talking 
+
+about insofar as the purchaser is concerned.
+
+ MR. PINCUS: And it might be --
+
+JUSTICE KENNEDY: And if Weyerhaeuser wanted 
+
+to drive somebody out of the market, then they go after 
+
+the logs which are open to both parties.
+
+ MR. PINCUS: And Your Honor, as the Court 
+
+13 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+observed in Brooke Group, there really wasn't a need 
+
+there to get into how the test works and we think there 
+
+isn't here. We think the issue is symmetrical and it 
+
+might be that the focus is on the incremental costs that 
+
+are associated with the alleged predatory volume, and 
+
+therefore that might focus on those incremental costs. 
+
+But in this case there's no dispute that, whatever the 
+
+measure of costs, there has been no challenge to the 
+
+position that Weyerhaeuser's prices were above those 
+
+costs.
+
+ Let me just turn back to, to the other two 
+
+reasons why we think Brooke Group applies because I 
+
+think they're important. The third is it's much more 
+
+likely that the high bids here were going to, were a 
+
+result of legitimate competition than of anticompetitive 
+
+effort. As this Court has observed both in Brooke Group 
+
+and Matsushita, predatory conduct is self-deterring. To 
+
+engage in it, the defendant has to be willing to incur a 
+
+near-term loss against the hope of higher returns later. 
+
+And as the Court explained in those cases, the loss is 
+
+definite but the gain depends on a number of 
+
+imponderables. So there is some self-deterring.
+
+ And finally, a test that provides no 
+
+guidance threatens false positives that will deter the 
+
+very competition that our economy requires and that 
+
+14 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+helps our economy reach its most efficient state. As 
+
+Justice Breyer put it for the First Circuit in Town of 
+
+Comfort, antitrust rules must be clear enough for 
+
+lawyers to explain them to their clients, especially in 
+
+a sensitive area like pricing.  And certainly the rule 
+
+that the Ninth Circuit adopted here has none of that 
+
+clarity and we think that the Court's Brooke Group 
+
+decision and that test does.
+
+ JUSTICE STEVENS: May I ask this question? 
+
+Supposing the evidence was perfectly clear that the 
+
+company did engage in a plan to get a total monopoly and 
+
+there were minutes of the board of directors says that 
+
+in order to do this we've got to drive company X out of 
+
+business and so you, we want you to compete in every 
+
+transaction with company X that you can and buy the logs 
+
+at a higher price. Would that be an anticompetitive act 
+
+even if it did not result in loss to the defendant?
+
+ MR. PINCUS: And the only anticompetitive 
+
+conduct alleged was pricing conduct, Your Honor?
+
+ JUSTICE STEVENS: No. The 
+
+anticompetitive -- the plan is to drive the company out 
+
+of business. And the only anticompetitive conduct other 
+
+than proving the whole objective is that you pick on 
+
+this one competitor and outbid him every time you can. 
+
+Could that possibly give rise to a damage claim? 
+
+15 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. PINCUS: No, it wouldn't, Your Honor.
+
+ JUSTICE STEVENS: Even if the whole purpose 
+
+was to drive it out of business?
+
+ MR. PINCUS: Even if that was the whole 
+
+purpose.
+
+ JUSTICE STEVENS: Pursuant to a plan to 
+
+acquire a monopoly.
+
+ MR. PINCUS: And the reason for that, 
+
+Justice Stevens, is it's very hard to distinguish, 
+
+especially for the judicial system to distinguish, 
+
+between hard-fought competition and anticompetitive 
+
+intent if all we're looking at is what's in people's 
+
+mind set. As judge Easterbrook wrote in his AA Poultry 
+
+decision --
+
+JUSTICE KENNEDY: Why is it so hard if you 
+
+take Justice Stevens' premise that there's an agreement 
+
+and we take that as a given, as a given premise?
+
+ MR. PINCUS: Well, because there won't be a 
+
+given premise in every case, Your Honor, and the problem 
+
+is the Court has to write rules that will, that will 
+
+govern conduct, primary conduct of business people in 
+
+the market, and a rule that says if you can prove intent 
+
+then you don't have to worry about prices and costs is a 
+
+rule that opens the door to second-guess, judicial 
+
+second-guessing of prices --
+
+16
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE STEVENS: No, but only intent plus 
+
+monopoly power. You have to be able to prove monopoly 
+
+power, too.
+
+ MR. PINCUS: You do, Your Honor.
+
+ JUSTICE STEVENS: There aren't too many 
+
+cases that fit this.
+
+ MR. PINCUS: As the Court has recognized in 
+
+the section 2 context, the problem of deterring 
+
+procompetitive conduct is even more serious because you 
+
+don't have the threshold environment of proof of 
+
+conspiracy, as one does in section 1. We're dealing 
+
+with unilateral conduct, and so --
+
+JUSTICE STEVENS: No, but unilateral conduct 
+
+where you have monopoly power. There aren't too many of 
+
+these cases, as you know.
+
+ MR. PINCUS: Well, Your Honor, market 
+
+definition is a complicated issue and it may be hard for 
+
+businesses --
+
+JUSTICE STEVENS: It was an issue that was 
+
+resolved by the jury in this case and I don't understand 
+
+you to be disputing the resolution of that issue.
+
+ JUSTICE SCALIA: What do we do in the 
+
+correlative situation where there is an allegation of 
+
+predatory selling rather than predatory buying if you 
+
+had the same situation posed by Justice Stevens? Namely 
+
+17
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+evidence that you're trying to drive the competitor out 
+
+of business, wouldn't that establish a violation?
+
+ MR. PINCUS: It would not establish a 
+
+violation, Your Honor. In fact, the Brooke Group Court 
+
+dealt with that very case because the dissent in Brooke 
+
+Group pointed out that the district court in that case 
+
+had held that the intent evidence was amongst the most 
+
+powerful that had ever been, been presented in any case, 
+
+and it still said, even though there was a clear 
+
+evidence of intent --
+
+JUSTICE STEVENS: But that did not involve a 
+
+monopoly. That did not involve monopoly power.
+
+ MR. PINCUS: But it involved the test for 
+
+predatory pricing, Your Honor, under Robinson-Patman. 
+
+But the Court said its test was perfectly applicable to 
+
+section 2. And the lower courts have certainly applied 
+
+that test in just that way in section 2 cases. And if 
+
+the rule would be that even in the predatory selling 
+
+situation intent can override the price-cost and the 
+
+recoupment requirements, then you're in a situation 
+
+where there's no ability for business people to know in 
+
+advance when low prices are justified. All we think is 
+
+that there should be symmetry.
+
+ If the Court has no further questions I'll 
+
+reserve the balance of my time. 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. Pincus.
+
+ Mr. Shanmugam.
+
+ ORAL ARGUMENT OF KANNON K. SHANMUGAM 
+
+ON BEHALF OF UNITED STATES, 
+
+AS AMICUS CURIAE, SUPPORTING PETITIONER
+
+ MR. SHANMUGAM: Thank you, Mr. Chief 
+
+Justice, and may it please the Court.
+
+ Aggressive bidding by the buyer of an input, 
+
+no less than aggressive pricecutting by the seller of a 
+
+finished product, is usually procompetitive. Because a 
+
+claim of predatory bidding is simply the flip side of a 
+
+claim of predatory pricing, the Brooke Group standard 
+
+for predatory pricing claims should apply to predatory 
+
+bidding claims as well. And in our view the court of 
+
+appeals erred in this case by sanctioning a broader and 
+
+more subjective standard of liability. In Brooke Group, 
+
+this Court adopted its now familiar two-pronged standard 
+
+for predatory pricing claims despite recognizing that 
+
+each prong of that standard might permit some 
+
+anticompetitive pricecutting. The court was willing to 
+
+tolerate that modest degree of underinclusion because, 
+
+in the Court's own words, "The mechanism by which a firm 
+
+engages in predatory pricing is the same mechanism by 
+
+which a firm stimulates competition, namely by lowering 
+
+19
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+its prices. And the Court explained that a broader or a 
+
+less precise standard of liability would run the risk of 
+
+prohibiting or chilling some procompetitive price 
+
+cutting. In our view the same analysis can apply to a 
+
+claim of predatory bidding. Because aggressive bidding 
+
+is usually procompetitive, application of the Brooke 
+
+Group standard is warranted in order to avoid 
+
+prohibiting or chilling procompetitive conduct with 
+
+regard to price in that context as well.
+
+ The court of appeals in this case held that 
+
+Brooke Group was inapplicable to respondent's claim of 
+
+predatory bidding by --
+
+CHIEF JUSTICE ROBERTS: Would you describe 
+
+the hypothetical Justice Stevens posed to your, your 
+
+brother, would you describe that as just aggressive 
+
+bidding? Aggressive is, you know, it's kind of a good 
+
+term when you're talking about competition. But what if 
+
+it's purposely bidding higher than you know your rival 
+
+can afford?
+
+ MR. SHANMUGAM: Well, Mr. Chief Justice, I 
+
+understood Justice Stevens' hypothetical, and he can 
+
+correct me if I'm wrong, to posit a case in which there 
+
+was dynamite evidence that the defendant had a 
+
+monopolistic or exclusionary intent. But in our view 
+
+that is insufficient to state a section 2 claim. One 
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+has to have exclusionary conduct as well.
+
+ JUSTICE STEVENS: No, you have to have the 
+
+monopoly power as well.
+
+ MR. SHANMUGAM: Well, that is also true, and 
+
+with regard to a claim of attempted --
+
+JUSTICE STEVENS: In your view, if as the 
+
+jury was instructed in this case there was proof of 
+
+monopoly power and intent to maintain or preserve that 
+
+power, plus anticompetitive acts, does the 
+
+anticompetitive act have to be in and of itself a 
+
+violation of the Sherman Act?
+
+ MR. SHANMUGAM: Well, I think you need to 
+
+have all three of those elements in order to state a 
+
+claim of attempted monopolization --
+
+JUSTICE STEVENS: And if you do have all 
+
+three, is that enough to prove a violation?
+
+ MR. SHANMUGAM: That would be enough to 
+
+state a claim for attempted monopolization under this 
+
+Court's decision in Separate Forks.
+
+ JUSTICE STEVENS: And isn't that how the 
+
+jury was instructed in this case?
+
+ MR. SHANMUGAM: In our view the jury was 
+
+instructed that it would be sufficient to establish an 
+
+anticompetitive act to find that petitioner priced its 
+
+logs --
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE STEVENS: Yes, but if it was not 
+
+instructed it would be sufficient to find a violation of 
+
+section 2 by those, by that accounting, is that not 
+
+correct?
+
+ MR. SHANMUGAM: That is correct, Justice 
+
+Stevens, and the jury was also instructed and in our 
+
+view the jury was properly instructed with regard to the 
+
+other two elements, namely a dangerous probability of 
+
+monopolization and a specific intent to monopolize. The 
+
+sole question before this Court is what constitutes 
+
+exclusionary conduct for purposes of section 2, what 
+
+constitutes it regardless of whether it's a claim of 
+
+attempted monopolization or actual monopolization.
+
+ JUSTICE STEVENS: Go back to my 
+
+hypothetical. Supposing you have the first two elements 
+
+and you say in order to drive this company out of 
+
+business we want you to compete with them and get the 
+
+logs at whatever cost it takes. Would that be an 
+
+anticompetitive act?
+
+ MR. SHANMUGAM: No, Justice Stevens. That 
+
+would solely be --
+
+JUSTICE STEVENS: Even if it was for the 
+
+sole purpose of driving the company out of business in 
+
+order to accomplish the goal of getting a monopoly?
+
+ MR. SHANMUGAM: That would be evidence, and 
+
+22
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+it may be powerful evidence, of a monopolistic intent, 
+
+though courts have noted that even with regard to that 
+
+requirement it's famously difficult to distinguish 
+
+between a legitimate competitive attempt on the one hand 
+
+and an illegitimate monopolistic intent.
+
+ JUSTICE STEVENS: No, no. I'm assuming this 
+
+is not evidence of intent. There's independent evidence 
+
+of both intent and monopoly power. With those two 
+
+elements established, would this, the kind of evidence I 
+
+described, be evidence of an injury to the plaintiff 
+
+that could be actual in damages?
+
+ MR. SHANMUGAM: No, Justice Stevens. You 
+
+would need to have objective evidence that the defendant 
+
+met both of the prongs of the Brooke Group requirement.
+
+ JUSTICE STEVENS: Will you need to meet the 
+
+prongs of the Brooker test even if you otherwise prove a 
+
+violation of section 2?
+
+ MR. SHANMUGAM: Well, I'm not quite sure 
+
+what it means to say that you otherwise prove a 
+
+violation in that example.
+
+ JUSTICE STEVENS: You prove monopoly power 
+
+plus an intent to maintain or acquire it.
+
+ MR. SHANMUGAM: That is insufficient. You 
+
+have to have some action --
+
+JUSTICE STEVENS: That's insufficient to 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+prove a violation of Section 2?
+
+ MR. SHANMUGAM: It is insufficient to prove 
+
+a violation of section 2 because you have to have some 
+
+conduct that is classed as exclusionary, and in our view 
+
+that is the content that the Brooke Group standard 
+
+supplies. It specifies the conduct that you need to 
+
+have and that conduct is the defendant suffering a loss 
+
+in the short term and having a dangerous probability of 
+
+recouping that loss in the long term.
+
+ JUSTICE SCALIA: I assume you could have a 
+
+company that has a dynamite evidence of seeking to 
+
+monopolize and the means that they choose is just 
+
+idiotic. For example, they say, we're going to try to 
+
+get a monopoly by buying these logs at a lower price as, 
+
+at as low a price as possible. You would have the two 
+
+elements, monopoly power, intent to monopolize, but you 
+
+wouldn't have an act that constitutes anticompetitive 
+
+conduct.
+
+ MR. SHANMUGAM: Justice Scalia --
+
+JUSTICE SCALIA: And that's what you're 
+
+asserting is the case here.
+
+ MR. SHANMUGAM: You could have an 
+
+incompetent monopolist more generally or an incompetent 
+
+predator in this specific context. And I think that the 
+
+only other thing I would say with regard to this 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+colloquy is that the Court really did confront this 
+
+issue in Brooke Group. There was fairly strong evidence 
+
+of monopolistic intent and the majority opinion --
+
+JUSTICE STEVENS: But there is no evidence 
+
+of monopoly power and it isn't even remotely at issue in 
+
+that case.
+
+ MR. SHANMUGAM: That's right, and it wasn't 
+
+an issue simply because it was a Robinson-Patman Act 
+
+case and all that is required under the Robinson-Patman 
+
+Act is the possibility of harm to competition and there 
+
+was some disagreement about whether a showing had been 
+
+made of that requisite possibility between the majority 
+
+opinion and your dissenting opinion. But I don't think 
+
+that there was any disagreement in Brooke Group with 
+
+regard to the relevant standard for exclusionary 
+
+conduct. Even the dissenting opinion recognized that 
+
+recoupment would be necessary in order to state the 
+
+predatory pricing claim in the Robinson-Patman Act 
+
+context.
+
+ JUSTICE ALITO: Would your answer be the 
+
+same if you added to Justice Stevens' hypothetical very 
+
+high barriers of entry that would prevent other 
+
+competitors from entering the market after the target 
+
+was driven out?
+
+ MR. SHANMUGAM: High barriers to entry, 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Justice Alito, would be very relevant to the inquiry 
+
+under the second prong of the Brooke Group standard, 
+
+namely whether the defendant had a dangerous probability 
+
+of recoupment in the long term. And indeed in many 
+
+predation cases, many predatory pricing cases in the 13 
+
+years since Brooke Group, barriers to entry have been 
+
+absolutely vital in resolving predatory pricing claims 
+
+at the summary judgment stage, because typically 
+
+defendants will make the argument that the absence of 
+
+barriers to entry make the possibility of recoupment 
+
+unlikely. But that is a consideration that is built 
+
+into the Brooke Group standard and it certainly would be 
+
+part of the Brooke Group analysis in the predatory 
+
+bidding context as well.
+
+ I want to say just one thing in response to 
+
+Justice Ginsburg and Justice Kennedy's questions to my 
+
+friend Mr. Pincus about the question of the appropriate 
+
+measure of cost if Brooke Group were to apply to 
+
+predatory bidding claims. As in Brooke Group itself, we 
+
+believe that it is unnecessary for this Court to specify 
+
+the exact method of calculating costs in this case. But 
+
+the position of the United States more generally both in 
+
+the predatory pricing context and in the predatory 
+
+bidding context is that a Court should look to a 
+
+defendant's incremental costs, and in this context that 
+
+26 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+would mean looking to the amount of the input that was 
+
+the subject of the alleged predation. So in this case 
+
+the amount of logs that petitioner allegedly predatorily 
+
+purchased on the open market. And such an incremental 
+
+approach to be sure is not within its difficulties in 
+
+application and for that reason a number of lower courts 
+
+in the predatory pricing context have instead looked to 
+
+average variable costs or other measures as a proxy for 
+
+incremental costs. But we believe that in a case such 
+
+as this one, looking to incremental costs may be useful 
+
+because it effectively excludes from the analysis any 
+
+potential cross-subsidization, whether by virtue of the 
+
+fact that in this case, for example, petitioner may have 
+
+harvested logs from its own lands. There are claims in 
+
+this case that petitioner entered into various exclusive 
+
+dealing arrangements as well, obtained logs at a lower 
+
+price on that basis. And an incremental approach has 
+
+the virtue of focusing only on that portion of the 
+
+market that is the subject of the alleged predation 
+
+claims.
+
+ JUSTICE SOUTER: You also, I take it, have 
+
+to have an equally limited approach on the recoupment 
+
+analysis, then. I mean, your recoupment analysis would 
+
+have to be symmetrical with your cost analysis.
+
+ MR. SHANMUGAM: Yes. That's absolutely 
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+true, Justice Souter, and again this is an issue that 
+
+the lower courts have been grappling with in the 
+
+predatory pricing context, and I by no means want to 
+
+suggest that it is always an easy analysis in the 
+
+predatory pricing context. Professor Arita's treatise 
+
+has hundreds of pages on the appropriate calculation of 
+
+cost, but I think that the important thing to remember 
+
+with regard to the below cost pricing prong of the 
+
+Brooke Group analysis is that it does provide an 
+
+objective yardstick by which a defendant's loss can be 
+
+measured.
+
+ Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. Shanmugam.
+
+ Mr. Haglund.
+
+ ORAL ARGUMENT OF MICHAEL E. HAGLUND
+
+ ON BEHALF OF RESPONDENT
+
+ MR. HAGLUND: Mr. Chief Justice, and may it 
+
+please The Court.
+
+ In this Court's antitrust jurisprudence over 
+
+the last 25 years, market realities have consistently 
+
+trumped per se rules. The same approach should apply 
+
+here. Brooke Group's per se rule which carved out a 
+
+special exception to the standard rule of reason 
+
+balancing test in Section 2 cases should not be extended 
+
+28 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to the buy side. No safe harbor per se rule is 
+
+justified here because raising input prices, unlike 
+
+cutting output prices, is moving prices in the wrong 
+
+direction for consumers.
+
+ JUSTICE BREYER: But even it does hurt the 
+
+suppliers and the antitrust laws are just as, I don't 
+
+know just as, but they are just as concerned about a 
+
+group of small farmers or a group of small growers or a 
+
+group of small fishermen faced with a monopsony buyer as 
+
+they are with a group of consumers having to fight off a 
+
+monopoly seller.
+
+ MR. HAGLUND: Justice Breyer --
+
+JUSTICE BREYER: I mean that's pretty well 
+
+established, isn't it?
+
+ MR. HAGLUND: Well I'd like to point out 
+
+that the Mandeville Farms case that Mr. Pincus cited 
+
+does not stand for the same --
+
+JUSTICE BREYER: No, no, Congress has 
+
+actually passed special legislation that the Mandeville 
+
+Farms is consistent with the Farmers Cooperative and so 
+
+-- you want me to write the proposition that the 
+
+antitrust laws are not concerned --
+
+MR. HAGLUND: Oh, absolutely --
+
+JUSTICE BREYER: -- with the monopoly buyer 
+
+who would in fact exploit a group of small suppliers, 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+farmers?
+
+ MR. HAGLUND: Absolutely not.
+
+ JUSTICE BREYER: Okay.
+
+ MR. HAGLUND: But in this particular context 
+
+which the Ninth Circuit repeatedly emphasized, in an 
+
+inelastic market like this one raising input prices is 
+
+not going to increase supply and --
+
+JUSTICE BREYER: That can't possibly be 
+
+right, can it? I mean if in fact the object here is to 
+
+strike, is -- suppose their object is what you say. 
+
+Their object is in fact to try to get a monopoly on the 
+
+buying side over a group of small woodsmen. And they 
+
+might do that if they drove out all the buying 
+
+competitors, and now what are they going to try to do? 
+
+What they will try to do if they get that terrible 
+
+monopoly, which would be bad --
+
+MR. HAGLUND: Drive prices down.
+
+ JUSTICE BREYER: Right. Drive prices way 
+
+down, below what the woodsmen could get for them. And 
+
+if that's going to have any effect aside from an income 
+
+effect, it will leave some of them to go to the bread 
+
+line or go to other places where they have other jobs at 
+
+lesser revenue than they would get by staying in the 
+
+woods business and selling at a reasonable price. That 
+
+would be an antitrust concern. 
+
+30 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. HAGLUND: Absolutely, and that is 
+
+exactly what Weyerhaeuser's plan was here, as shown by 
+
+their own materials, that their plan was and in fact 
+
+they did foresee and project that log prices would go 
+
+down in 2001 --
+
+JUSTICE BREYER: So where we are is at the 
+
+problem. The problem is the same as at the buying side. 
+
+What we have is possibly a very bad motive and very bad 
+
+effects. On the other hand, low prices are good for the 
+
+consumer.
+
+ MR. HAGLUND: But you're not --
+
+JUSTICE BREYER: Here we have bad effects, 
+
+bad possibilities. On the other hand, higher prices are 
+
+good for the woodsmen. So we need rules to separate the 
+
+sheep from the goats. And the other side is proposing a 
+
+rule, and the rule simply is don't count this as bad 
+
+conduct, unless the person who pays the money for the 
+
+goods is in fact buying so many goods that later on when 
+
+he tries to sell them he will incur a loss.
+
+ Now I would have thought for 40 years that 
+
+was a traditional idea. If you're trying to decide 
+
+whether people are hogging goods unnecessarily for bad 
+
+purposes, or rather storing up nuts for winter for good 
+
+purposes, then a very good key to that is do these 
+
+people expect in the long run to make money out of this 
+
+31
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+without driving those victims out? If the answer is 
+
+yes; they can make money on the market, they are storing 
+
+up nuts for winter. It's good. And if the answer is no 
+
+it's bad. That's called the recoupment test. I don't 
+
+think that's new. I think it's old. And I'm not sure 
+
+what your view of it is.
+
+ MR. HAGLUND: Well, as to Brooke Group and 
+
+what the Court's being asked to do here, Justice Breyer, 
+
+is to go down the same path that it did in Albrecht 
+
+versus Harold Company in '68 when it agreed to treat 
+
+completely symmetrically minimum and maximum vertical 
+
+resale price restraints.
+
+ Later on, in State Oil Company vs. Kahn the 
+
+Court abandoned and accepted Justice Harlan's dissent 
+
+that it was wrong to equate those two.
+
+ JUSTICE BREYER: -- I agree with you. But I 
+
+don't still think you can defend this retail versus 
+
+maximum price restraint. That's a whole another kettle 
+
+of fish. And what I'm interested -- I guess my 
+
+question particularly is, I propose one test not two, 
+
+but it might be that my test encompasses the dollar test 
+
+and incremental costs and so forth. What do you think 
+
+of my one test?
+
+ MR. HAGLUND: Well --
+
+JUSTICE BREYER: One test is if they are not 
+
+32 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+going to make money legitimately out of this in the long 
+
+run, it's bad, unless they can explain it away. But if 
+
+they are, it's okay.
+
+ MR. HAGLUND: The problem with granting a 
+
+safe harbor for above cost input purchases is that it 
+
+does not work well in this context, especially in an 
+
+inelastic market. The suggestion that you can simply 
+
+use incremental cost is not a workable approach here if 
+
+you look at the facts in this case.
+
+ CHIEF JUSTICE ROBERTS: What about the fact 
+
+that the woodsmen in Justice Breyer's story are rational 
+
+actors as well, and they don't have to be geniuses to 
+
+realize that they are in a better shape having two 
+
+buyers rather than just one. So maybe they forego the 
+
+extra 50 cents a log, or whatever -- tree, it is in the 
+
+short term and sell enough to keep the other company in 
+
+business? I mean they can make that decision 
+
+themselves. Or they can make the decision as rational 
+
+actors that they are better off having more money that 
+
+they can then use to buy more alder saplings that they 
+
+can plant for the future. And either way it benefits 
+
+the consumers.
+
+ MR. HAGLUND: Well not, that's not quite 
+
+correct, because the signals that the higher input 
+
+prices show, yes, they do generally incent more 
+
+33 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+production in a, in a typical market. Here, however, 
+
+where you have a product that takes 30 to 50 years time 
+
+and production, the price, higher price signals when 
+
+they are sent by a monopsonist, like Weyerhaeuser in 
+
+this case, actually send a very powerful message to tree 
+
+farmers not to replant alder, despite those high prices. 
+
+And there was evidence in the follow-on cases that 
+
+reference that.
+
+ It was alleged in our complaint in this case 
+
+but not actually backed up by any testimony at trial, 
+
+that tree farmers in Oregon and Washington were actually 
+
+electing not to replant alder and as Professor Noel 
+
+notes in his law review article in the issue of the 
+
+Antitrust Law Journal, which by the way is the only area 
+
+-- half of this issue is devoted to this subject. It's 
+
+the sum total of literature devoted to predatory 
+
+overbidding in this area. And what Professor Noel notes 
+
+is that where you have localized monopsony, the result 
+
+is when the monopsony is in full flower a misallocation 
+
+of resources between regions. The highly productive 
+
+forest lands of the Pacific Northwest won't have as much 
+
+alder in the future because of the significant signals 
+
+sent by a monopsonist, even when they are engaged in 
+
+that scheme.
+
+ The seller is happy if he has mature alder 
+
+34 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+to sell at that time to get the good price, but he is 
+
+not going to replant, because he sees that 30 years down 
+
+the road he will not have a competitive marketplace 
+
+within which to sell his timber, and that was the 
+
+reality in this case.
+
+ CHIEF JUSTICE ROBERTS: Well if he is, if he 
+
+is that rational and foresighted, why isn't he rational 
+
+and foresighted enough to know that he ought to be 
+
+selling some to the other, the other processor even if 
+
+that processor is not bidding as much?
+
+ MR. HAGLUND: Well we did actually have some 
+
+record evidence in this case that at least a few people 
+
+were doing that. One of the major suppliers of the 
+
+respondent here, Ross-Simmons, was a company called 
+
+Longview Fiber which made it -- a very sophisticated 
+
+publicly held company -- made it a practice to sell most 
+
+of its volume to Ross-Simmons on a market basis because 
+
+it did not want the eventuality of not having 
+
+Ross-Simmons in that competitive circle with 
+
+Weyerhaeuser.
+
+ Most small woodland owners, however, who may 
+
+only be in the market once every five years because 
+
+that's the nature of their rotation, of the age classes 
+
+of the timber that they have got, are not in that kind 
+
+of sophisticated position because they are in the market 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+so infrequently to make that kind of a judgment. It's 
+
+been --
+
+JUSTICE ALITO: If we don't take the Brooke 
+
+Group approach, is the alternative to ask the jury to do 
+
+what the instructions in this case ask them to do.
+
+ MR. HAGLUND: No, it's not.
+
+ JUSTICE ALITO: To decide whether 
+
+Weyerhaeuser bought more logs than it needed in order to 
+
+prevent its rivals from obtaining the logs that they 
+
+needed at a fair price? How is a jury to, a lay jury, 
+
+to decide whether a company like Weyerhaeuser bought 
+
+more logs than it needed, or what is the fair price?
+
+ MR. HAGLUND: We don't contend that the 
+
+instruction was perfect here, but if one looks at the 
+
+instruction as a whole and --
+
+JUSTICE ALITO: But you think it was 
+
+sufficient.
+
+ MR. HAGLUND: Pardon me?
+
+ JUSTICE ALITO: You think it was sufficient 
+
+enough.
+
+ MR. HAGLUND: In this case it was legally 
+
+sufficient and I point out that this Court very recently 
+
+has issued a decision in the first case of the term, 
+
+Ayers vs. Belmontes, where you looked at the question of 
+
+the catch-all mitigation factor in California in the 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+penalty phase of a capital murder case. And you looked 
+
+at the instruction and interpreted it in terms of the 
+
+closing arguments, the evidence and the other 
+
+instructions as a whole.
+
+ JUSTICE GINSBURG: Who proposed the 
+
+instruction in this case?
+
+ MR. HAGLUND: The instruction, the paragraph 
+
+that is subject to the great criticism on the other 
+
+side, was a paragraph that was drafted by the district 
+
+judge and handed out near the end of the trial and then 
+
+commented on by the lawyers in, prior to --
+
+JUSTICE GINSBURG: There was no requested 
+
+charge on this point by the plaintiff?
+
+ MR. HAGLUND: That's -- as to the issue of 
+
+predatory pricing, plaintiffs, as we make clear in our 
+
+brief, actually submitted a predatory pricing 
+
+instruction three weeks before the trial. You tend to 
+
+be overinclusive pretrial. Defendant on the other hand 
+
+surprisingly submitted no such instruction on predatory 
+
+pricing. The judge submitted a paragraph that had 
+
+something more than what the current, or the ultimate 
+
+paragraph contained. There was a debate over whether it 
+
+needed to be, whether it was consistent with Brooke 
+
+Group. I agreed with the other side that it did not 
+
+have both components of the Brooke Group test. Judge 
+
+37 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Panner and I had a colloquy where ultimately he was 
+
+going to turn one paragraph into two, include a Brooke 
+
+Group test. We then withdrew our request for that 
+
+instruction, Weyerhaeuser objected to the, the thinned 
+
+down version of the ultimate paragraph.
+
+ But the interesting thing about 
+
+Weyerhaeuser's relationship to this instruction is that 
+
+they really invited the linguistic framework of this, 
+
+"bought more than they needed" or --
+
+JUSTICE ALITO: What does that mean? What 
+
+does a fair price in this, in this context mean? Does 
+
+it mean the price that's necessary in order to keep an 
+
+inefficient competitor in business?
+
+ MR. HAGLUND: Well, what it meant in this 
+
+case, Justice Alito, is that it meant what, how much did 
+
+Weyerhaeuser artificially increase the log market above 
+
+where it otherwise would have been? We had several 
+
+experts and a number of both industry and forest 
+
+economists testify that for 20-plus years log prices had 
+
+been following lumber. There was an equilibrium in the 
+
+market. Then you get to --
+
+JUSTICE SOUTER: Why is that the standard of 
+
+fairness? I mean that, you know, that may be fine. But 
+
+how does, how does a jury, A, what's the authority for 
+
+saying that is the standard of fairness and B, how does 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+a jury know that?
+
+ MR. HAGLUND: The -- if you look at the 
+
+Ninth Circuit opinion, the Ninth Circuit made it clear 
+
+that the instructions as a whole provided sufficient 
+
+guidance. Nowhere in the case as we tried it did we 
+
+attempt to exploit the instruction in the way that 
+
+Weyerhaeuser suggests happened.
+
+ JUSTICE SOUTER: Maybe you didn't, but that 
+
+basically left the jury on a, on a free float, didn't 
+
+it?
+
+ MR. HAGLUND: Well, I don't think so if you 
+
+look at the evidence. The evidence that we presented 
+
+included a forest economist who presented three 
+
+different scenarios where he identified how much 
+
+Weyerhaeuser had artificially increased log prices above 
+
+where they would have been but for their anticompetitive 
+
+behavior. We in no way went to the jury in closing, 
+
+saying award what you think is fair. We relied 
+
+completely on that evidence, and in fact the jury, which 
+
+included a Ph.D. in physics in a high-tech industry, an 
+
+accountant, the head of a chain store, and a banker and 
+
+a retired farmer, they looked at the evidence and they 
+
+actually to the dollar picked one of those market -based 
+
+scenarios for how much was the market elevated.
+
+ JUSTICE SOUTER: Okay. Let's assume I 
+
+39 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+accept your sort of Delmonte's analysis here. If we 
+
+were to approve of that instruction in effect, as you 
+
+want us to do, and we also believe that on its face 
+
+something more has got to be said than merely the word 
+
+fair, what proposition would we say must be included in 
+
+that instruction to make the so-called fairness 
+
+instruction a sensible one that can be consistently 
+
+applied?
+
+ MR. HAGLUND: And we don't contend that it 
+
+was a perfect instruction. We think it would be 
+
+perfectly appropriate if --
+
+JUSTICE SOUTER: No, I realize that.
+
+ MR. HAGLUND: Okay.
+
+ JUSTICE SOUTER: And I'm saying if we follow 
+
+your lead, we're going to try to take that and make it a 
+
+closer to perfect instruction, and what should we say 
+
+must be added to it?
+
+ MR. HAGLUND: It's quite simple. If you 
+
+look at that paragraph, there are two pieces of it. One 
+
+of them, one portion says that you can regard it as an 
+
+anticompetitive act if defendant purchased more logs 
+
+than it needed. We don't think that needs to be 
+
+improved because that's easy to figure out, and here we 
+
+had evidence that they continued --
+
+JUSTICE GINSBURG: Why? Why is it easy to 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+figure out? As Justice Breyer brought up the 
+
+stockpiling, how do you know whether they are storing 
+
+it, or a time when the supply is short, or they are just 
+
+letting it go to rack and moon in order to put this 
+
+company out of business?
+
+ MR. HAGLUND: Justice Ginsburg, you will 
+
+know because of the evidence in the case. If the 
+
+plaintiff, the defendant is able to show that they were 
+
+storing up this extra input against a prospect of a 
+
+price hike in the future or because they were out trying 
+
+to get enough volume for some promotion for a customer 
+
+that was going to significantly increase their 
+
+purchases, then you'd have a different kind of case. We 
+
+have a situation where they warehoused large, 
+
+unprecedentedly high volumes of lumber because they --
+
+JUSTICE BREYER: Why did they say they 
+
+needed it? I mean, why do you need all this Ph.D. guy 
+
+up there? Why don't you just prove what you just said?
+
+ MR. HAGLUND: We did.
+
+ JUSTICE BREYER: Fine. Then why do you need 
+
+all these other instructions about pricing? I suppose 
+
+the only reason you'd need them is if there's a dispute 
+
+as to whether it was in their economic interest in the 
+
+absence of any intent to monopolize these people to buy 
+
+all these logs or not. And so it would be very 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+interesting if you have a way of proving that they did 
+
+not need these for any legitimate purpose, a matter 
+
+which is likely to be disputed. So, I think the hard 
+
+thing in these cases is to prove that. And if you can 
+
+tell me how you prove that without giving the jury an 
+
+instruction something like, look to see whether they can 
+
+sell them reasonably at a profit. Or, look to see even 
+
+if they can't sell them at a profit, whether they could 
+
+recoup whatever they are losing later. Or, or, and you 
+
+fill in some blanks, and now I'll have some candidates 
+
+for testing.
+
+ MR. HAGLUND: Well, as to the paid a higher 
+
+price than necessary, the language we would suggest 
+
+could be used in another case and passed on by this 
+
+Court, is the following: Paid a higher price than 
+
+necessary to move the log market to higher levels than 
+
+otherwise would have prevailed in order to injure 
+
+competition.
+
+ JUSTICE BREYER: Oh. But of course, I want 
+
+to injure competition always when I in fact sell at a 
+
+lower price that I very much hope my competitor can't 
+
+possibly meet, indeed would go out of business. I 
+
+cheer. I would love to get a monopoly. I would love to 
+
+make a better product, lower prices, et cetera. Do you 
+
+see the problem? And so what you've told the jury there 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+on that instruction --
+
+MR. HAGLUND: But here --
+
+JUSTICE BREYER: -- is that they can find 
+
+this person guilty even if all he wants to do is so 
+
+second-guess that market that he gets the logs and will 
+
+sell them at a huge profit later on in a competitive 
+
+selling market.
+
+ MR. HAGLUND: We don't have a situation 
+
+here, Justice Breyer, where Weyerhaeuser presented 
+
+evidence that they were the most efficient and able to 
+
+pay higher prices. Weyerhaeuser presented no 
+
+quantitative evidence that it was the lowest cost 
+
+producer in terms of costs --
+
+JUSTICE BREYER: What if it were the highest 
+
+cost producer? Suppose still, they think that by buying 
+
+these logs we later can make a profit when we resell 
+
+them on the competitive market. You see, the reason 
+
+they're coming up with this test is they don't think you 
+
+can give, the reasoning of it is that they don't think 
+
+that you can produce a better one. So I'm listening.
+
+ MR. HAGLUND: Well, one of the reasons that 
+
+one can't go in this direction here, Brooke Group was a 
+
+pricing only case. As the briefs make clear and the 
+
+decision made clear, if that had been a standard 
+
+monopolization case it would have been out the door on 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+summary judgment because the defendant was a 12 percent 
+
+player. They had no prospect of, of attempted or 
+
+monopolization, a viable monopolization claim. Here we 
+
+have a situation where Weyerhaeuser's pricing conduct, 
+
+deliberately and artificially pushing the market up 
+
+through a variety of mechanisms, was also interconnected 
+
+and linked to complementary other conduct that we think 
+
+set the table for the effectiveness of their strategy in 
+
+elevating the log market that our client was 
+
+participating in.
+
+ Bear in mind that, that at JA 901 we have a 
+
+Weyerhaeuser document showing that very significant 
+
+foreclosure from their exclusive contracts in the, in 
+
+Oregon for example, this is a document that shows that 
+
+62 percent of the market was covered through either 
+
+exclusive purchase arrangements between Weyerhaeuser and 
+
+large landowners, or non-efficiency-based trades were 
+
+the, were linked to the exchange of the alder sawlogs 
+
+from that landowner. Only 33 percent according to JA 
+
+901 show, in Oregon, was projected to be open market 
+
+bidding. Weyerhaeuser acquired, when it was then at a 
+
+65 percent market share, acquired the dominant seller, a 
+
+built-in monopsony in British Columbia and it's five, 15 
+
+to 20-year exclusive forest licenses. That kind of 
+
+foreclosure, linked with the anticompetitive behavior 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+they engaged in that was a variety of bidding practices, 
+
+some of it was overbuying, some of it was manipulating 
+
+bidding back and forth, and then putting the last bid in 
+
+terms of that cost on the other side.
+
+ I think it's important, I'd like to shift to 
+
+the instruction again, and make the point that 
+
+Weyerhaeuser never gave either the plaintiff in this 
+
+case or the district judge the opportunity to consider a 
+
+different instruction than was given here. And the fact 
+
+that's demonstratively shown if one looks at page 43 of 
+
+their opening brief in the Ninth Circuit, in the Ninth 
+
+Circuit they only took the position in the bulk of their 
+
+brief that they were entitled to judgment as a matter of 
+
+law on the basis of Brooke Group. As to the ground or 
+
+the contention --
+
+JUSTICE GINSBURG: Do you -- do you agree 
+
+that you couldn't have made it on Brooke Group because 
+
+they were selling these logs at a profit?
+
+ MR. HAGLUND: I didn't quite hear that, 
+
+Justice Ginsburg.
+
+ JUSTICE GINSBURG: Do you agree that you 
+
+could not have prevailed under the Brooke Group test 
+
+because Weyerhaeuser was, was making a profit on these 
+
+sales even though it had bid up the price of the logs?
+
+ MR. HAGLUND: We do not agree as to the 
+
+45 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+evidence in this case. We have evidence in this case 
+
+that we cited to in our brief that when you adjust, as 
+
+against the Longview mill which our client was literally 
+
+right next door to, when you adjust for the fact that 
+
+Weyerhaeuser supplied half of the raw material needs of 
+
+the Longview mill at way below market transfer prices, 
+
+when you adjust those to the average price they paid 
+
+other third parties for logs, the Longview mill ran at a 
+
+loss for a significant part of the, of the predation 
+
+period. We do have the evidence in this case to 
+
+contend --
+
+JUSTICE SCALIA: It's ultimately a jury 
+
+question, I assume.
+
+ MR. HAGLUND: If Brooke Group is applied --
+
+JUSTICE SCALIA: But that question was not 
+
+put to the jury, right?
+
+ MR. HAGLUND: That's correct. We withdrew 
+
+the request for a Brooke Group instruction.
+
+ But to finish my point about the fact that 
+
+this --
+
+CHIEF JUSTICE ROBERTS: So then, would you 
+
+be entitled to a remand on that or not, given that you 
+
+withdrew that instruction?
+
+ MR. HAGLUND: If the Court concludes the 
+
+Brooke Group applies to this case, then the instruction 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+was incomplete, it was not correct, and we would be 
+
+entitled to a remand and a chance to retry the case.
+
+ JUSTICE ALITO: But what about the 
+
+recoupment prong, given that Weyerhaeuser doesn't have 
+
+market power in the selling market and that mills were 
+
+entering, new mills were coming on line during this 
+
+period. How would you satisfy the recoupment?
+
+ MR. HAGLUND: Well, the recoupment is not in 
+
+the output end of things. The recoupment is the 
+
+opportunity to drive log costs down to recoup the extra 
+
+costs you pay during the predatory period. And we had 
+
+evidence in the record that a former executive from 
+
+Weyerhaeuser testified that they had used this strategy 
+
+multiple times, that when it was questioned by some in 
+
+top management that the head of a division would always 
+
+say once we either acquire or get rid of a competitor, 
+
+we will recoup those costs many fold. That's at JA 260, 
+
+Cliff Chulos. We also had at JA 903 a planning document 
+
+in 2001 where Weyerhaeuser was showing in that 
+
+PowerPoint chart the expectation that log prices would 
+
+be going down in '01, '02, '03, and for every 2 percent 
+
+change downward it was an extra $2 million in profits to 
+
+the bottom line. There was no plan to pass on the 
+
+benefits of those lower input prices to consumers. 
+
+Obvious consumer lack of benefit in that situation. 
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Also as to recoupment, if you look at JA 831 
+
+to 95, which are the year-end financials for the 
+
+Weyerhaeuser alder mills in Oregon, Washington and BC 
+
+during a roughly four-year period, you see a monu -- a 
+
+huge price differential between the prices in British 
+
+Columbia and those prevailing in Oregon and Washington. 
+
+We think there was every expectation on management's 
+
+part to drive the prices down to the levels that 
+
+prevailed in British Columbia, which works out to about 
+
+$40 million a year, way way above the amount they were 
+
+spending in this predatory scheme predominantly in 
+
+Oregon and Washington, because there is no competition 
+
+in British Columbia.
+
+ But I would like to point out that they 
+
+never preserved the issue of whether or not the standard 
+
+that the Ninth Circuit in dictum stated was as a whole 
+
+sufficient to guide the jury as to a definition of 
+
+anticompetitive conduct. At page 43 of their brief 
+
+after quoting this paragraph they so criticize, they 
+
+note, although that statement of the law -- this is 43 
+
+of the Ninth Circuit brief, not the blue brief that you 
+
+have -- although that statement of the law may have been 
+
+acceptable when Reed Brothers was decided, it is not in 
+
+the wake of Brooke Group for reasons explained above. 
+
+The point here is that they never made any charge in the 
+
+48
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Ninth Circuit that the instruction was flawed 
+
+independent of Brooke Group. Now we concede, if Brooke 
+
+Group applies, the instruction was -- was -- is wrong, 
+
+and the case should be reversed and remanded. But the 
+
+second point that they try to make in their briefing is 
+
+not properly preserved. And in fact, I'd like to point 
+
+out that they contributed to the linguistic framework of 
+
+this instruction in a very significant way. First --
+
+JUSTICE SCALIA: I'm losing you. What's the 
+
+second point that they're trying to make besides the 
+
+fact that this didn't conform to Brooke Group?
+
+ MR. HAGLUND: Well, they have also asserted 
+
+in their briefing that as an independent ground for 
+
+reversal, the instruction was so standardless that the 
+
+verdict cannot stand.
+
+ JUSTICE SCALIA: Regardless of Brooke Group.
+
+ JUSTICE SOUTER: But isn't that something 
+
+that we've got to consider because if, if we disagree 
+
+with them on Brooke Group, we've got to do it in the 
+
+course of making a choice between a Brooke Group 
+
+instruction and something else, and the only something 
+
+else we've got right now is what we have in this case 
+
+and we ought to, we ought to decide whether in fact that 
+
+is good enough.
+
+ MR. HAGLUND: I agree with that. 
+
+49 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SOUTER: And so I mean, I think, 
+
+they may not have made that an independent basis of 
+
+reversal but we've got to consider it.
+
+ MR. HAGLUND: I agree with that, but I would 
+
+like to point out these facts in terms of the way they 
+
+contributed to it. They submitted jury instructions 
+
+just like us based upon the ABA model instructions, 
+
+theirs are at JA 97 to 122, that used the words outside 
+
+of this paragraph that we are talking about, fair, 
+
+reasonable or necessary 18 times. They showed up 19 
+
+times in those instructions. In their opening and 
+
+closing --
+
+JUSTICE SOUTER: I'll stipulate to that.
+
+ MR. HAGLUND: Right.
+
+ JUSTICE SOUTER: Assuming they don't have a 
+
+leg to stand on in complaint, we have still got to face 
+
+what the alternative to a Brooke Group kind of 
+
+instruction is. And -- and however they may have tried 
+
+their case, we've still got the same problem.
+
+ MR. HAGLUND: That's correct. And I suggest 
+
+that you look to the type of formulation I gave a little 
+
+earlier where you're looking at how much did the 
+
+defendant push the market to levels that are above where 
+
+it otherwise would have been. It's not too far from the 
+
+test that is proposed by the State at page 29 of their 
+
+50
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+brief where they suggest it's, that the conduct be 
+
+measured by whether it raised the price that the buyer's 
+
+rivals had to pay for the input beyond a level that 
+
+could be justified or explained by other market or 
+
+exogenous factors and substantially affected the ability 
+
+of the buyer's rivals to compete for the input. The 
+
+eight States, all of which have concerns both as sellers 
+
+into these vulnerable resource markets and for citizens 
+
+and companies in their own resource State, laden States, 
+
+whether it's mineral, whether it's agriculture, they 
+
+have that concern and they've offered that test that's 
+
+not too far from what I posited as a way to improve the 
+
+instruction that Weyerhaeuser invited.
+
+ I'd like to make one further point on 
+
+that subject and that is, if you look at the opening 
+
+statement of their counsel, the closing, he used that 
+
+very language. They were going to put on witnesses who 
+
+would all state that they never bought more than they 
+
+needed, they never paid more than necessary. That same 
+
+litany was put to 13 different witnesses.
+
+ Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. Haglund.
+
+ Mr. Pincus, you have two minutes remaining.
+
+ REBUTTAL ARGUMENT OF ANDREW J. PINCUS 
+
+51 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+ON BEHALF OF PETITIONER
+
+ MR. PINCUS: Thank you, Mr. Chief Justice. 
+
+Just a couple of points.
+
+ With respect to the story of how this 
+
+instruction came to be, in fact it closely resembles 
+
+some language that was requested by respondent that 
+
+appears on page 93A of the joint appendix which refers 
+
+to a test that paying a price for logs with higher than 
+
+market value unnecessarily to drive out or injure 
+
+competition. So I do think that this is an instruction 
+
+that comes from respondent.
+
+ It's true that we did not request a Brooke 
+
+Group instruction because the district court had ruled 
+
+that Brooke Group didn't apply at the summary judgment 
+
+phase. We did object to the instruction proposed by the 
+
+district judge on the grounds that it did not conform 
+
+with Brooke Group in order to preserve our argument here 
+
+and we believe that that objection gives the Court the 
+
+power to adopt an intermediate rule, but it isn't 
+
+exactly what we requested and there are decisions in the 
+
+court of appeals of to that effect.
+
+ With respect to the question about 
+
+purchasing more logs than they needed, as we say in our 
+
+briefs we think that that claim can't really be 
+
+separated from the predatory pricing claim here because 
+
+52
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the argument is that by purchasing more logs the price 
+
+was driven up and it's the increased price, that's the 
+
+impact that respondent complains of. So creating a 
+
+separate overbuying claim that relies on price for 
+
+impact would be the same thing as saying on the sell 
+
+side you can have an overselling claim regardless of 
+
+whether you flunk the Brooke Group standard with respect 
+
+to prices, and that's just going to undercut the 
+
+certainty that this Court has prescribed.
+
+ With respect to the document that 
+
+Mr. Haglund cited, 901A about the inputs, that document 
+
+is described in testimony in the joint appendix at 571A 
+
+to 573A, and that's a hypothetical look at what the 
+
+market might would look like if current, past purchasing 
+
+patterns had continued. It's not a document that in any 
+
+way says that the various sources of log supply were 
+
+locked up and it doesn't indicate that, and in fact 
+
+there's nothing in the record to indicate what the 
+
+percentage of logs were that were available to 
+
+Weyerhaeuser by long-term contract, in contrast, as I 
+
+said, to the testimony in the record that indicates that 
+
+respondent got between 30 and 50 percent of its logs 
+
+through those long-term sources.
+
+ With respect to the proper disposition of 
+
+the case, in the Boyle case this Court made clear that 
+
+53 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+where there's no, not sufficient evidence in the 
+
+record -- I'm sorry, my time is up.
+
+ CHIEF JUSTICE ROBERTS: You can finish your 
+
+sentence.
+
+ MR. PINCUS: Where there's not sufficient 
+
+evidence in the record to go to the jury under the 
+
+proper jury instruction, the proper outcome is for the 
+
+claim to be dropped from the case.
+
+ CHIEF JUSTICE ROBERTS: Thank you, 
+
+Mr. Pincus. The case is submitted.
+
+ (Whereupon, at 11:03 a.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+54 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 55 
+
+A 
+AA 16:13 
+ABA 50:7 
+abandoned 
+
+32:14 
+ability 18:21 
+
+51:5 
+able 11:10 17:2 
+
+41:8 43:10 
+above-entitled 
+
+1:12 54:12 
+absence 26:9 
+
+41:24 
+absolutely 26:7 
+
+27:25 29:23 
+30:2 31:1 
+
+accept 40:1 
+acceptable 
+
+48:23 
+accepted 32:14 
+accomplish 
+
+22:24 
+account 12:21 
+accountant 
+
+39:21 
+accounting 22:3 
+achieve 8:9,15 
+achieving 9:3 
+acquire 16:7 
+
+23:22 47:16 
+acquired 44:21 
+
+44:22 
+act 4:22,24 5:16 
+
+6:10,16,20 7:3 
+8:10 10:12 
+15:16 21:10,11 
+21:24 22:19 
+24:17 25:8,10 
+25:18 40:21 
+
+action 23:24 
+actors 33:12,19 
+acts 21:9 
+actual 22:13 
+
+23:11 
+add 13:11 
+added 25:21 
+
+40:17 
+
+adjust 46:2,4,7 
+adopt 52:19 
+adopted 3:12 
+
+15:6 19:18 
+advance 18:22 
+afford 20:19 
+age 35:23 
+aggressive 3:20 
+
+7:9 19:9,10 
+20:5,15,16 
+
+agree 5:24 32:16 
+45:16,21,25 
+49:25 50:4 
+
+agreed 32:10 
+37:24 
+
+agreement 
+16:16 
+
+agriculture 
+51:10 
+
+Albrecht 32:9 
+alder 33:20 34:6 
+
+34:12,22,25 
+44:18 48:3 
+
+Alito 25:20 26:1 
+36:3,7,16,19 
+38:10,15 47:3 
+
+allegation 17:23 
+alleged 7:13 
+
+14:5 15:19 
+27:2,19 34:9 
+
+allegedly 8:19 
+12:5 13:1 27:3 
+
+allocated 8:4 
+allocates 8:3 
+alternative 36:4 
+
+50:17 
+amicus 1:20 2:7 
+
+19:6 
+amount 9:20 
+
+27:1,3 48:10 
+analysis 20:4 
+
+26:13 27:11,23 
+27:23,24 28:4 
+28:9 40:1 
+
+ANDREW 1:16 
+2:3,13 3:7 
+51:25 
+
+answer 13:15 
+25:20 32:1,3 
+
+anticompetitive 
+3:20 4:3,22,24 
+5:16,20,23 
+6:10,16,20,20 
+7:10,13,17,18 
+14:15 15:16,18 
+15:21,22 16:11 
+19:21 21:9,10 
+21:24 22:19 
+24:17 39:16 
+40:21 44:25 
+48:18 
+
+antitrust 3:14 
+4:4 8:14,18 
+15:3 28:20 
+29:6,22 30:25 
+34:14 
+
+appeals 4:11 5:5 
+11:15 19:16 
+20:10 52:21 
+
+APPEARAN... 
+1:15 
+
+appears 52:7 
+appendix 4:20 
+
+52:7 53:12 
+applicable 18:15 
+application 20:6 
+
+27:6 
+applied 18:16 
+
+40:8 46:14 
+applies 3:17 
+
+14:12 46:25 
+49:3 
+
+apply 3:15,18 
+7:20 19:14 
+20:4 26:18 
+28:22 52:14 
+
+applying 7:5 
+approach 27:5 
+
+27:17,22 28:22 
+33:8 36:4 
+
+approached 
+6:19 
+
+appropriate 
+26:17 28:6 
+
+40:11 
+approve 40:2 
+area 15:5 34:14 
+
+34:17 
+arguably 7:16 
+argues 13:9 
+arguing 6:7,12 
+
+6:14 
+argument 1:13 
+
+2:2,5,9,12 3:3 
+3:7 4:7 9:14 
+11:14,18 19:4 
+26:9 28:16 
+51:25 52:17 
+53:1 
+
+arguments 9:18 
+37:3 
+
+Arita's 28:5 
+arrangements 
+
+27:16 44:16 
+article 34:13 
+artificially 
+
+38:16 39:15 
+44:5 
+
+aside 30:20 
+asked 32:8 
+asserted 49:12 
+asserting 24:21 
+assessing 3:15 
+Assistant 1:18 
+associated 14:5 
+assume 9:8,11 
+
+24:10 39:25 
+46:13 
+
+assuming 23:6 
+50:15 
+
+attempt 5:15 
+23:4 39:6 
+
+attempted 21:5 
+21:14,18 22:13 
+44:2 
+
+authority 38:24 
+available 53:19 
+average 27:8 
+
+46:7 
+avoid 20:7 
+award 39:18 
+
+Ayers 36:24 
+a.m 1:14 3:2 
+
+54:11 
+
+B 
+B 38:25 
+back 14:11 
+
+22:14 45:3 
+backed 34:10 
+bad 30:16 31:8,8 
+
+31:12,13,16,22 
+32:4 33:2 
+
+balance 18:25 
+balancing 28:25 
+banker 39:21 
+barriers 25:22 
+
+25:25 26:6,10 
+based 39:23 
+
+50:7 
+basically 9:20 
+
+11:16 39:9 
+basis 6:17 27:17 
+
+35:17 45:14 
+50:2 
+
+BC 48:3 
+Bear 44:11 
+behalf 1:16,20 
+
+1:22 2:4,7,11 
+2:14 3:8 19:5 
+28:17 52:1 
+
+behaving 12:11 
+behavior 3:20 
+
+4:3 7:10 39:17 
+44:25 
+
+believe 26:20 
+27:9 40:3 
+52:18 
+
+Belmontes 
+36:24 
+
+beneficial 10:7 
+benefit 7:14 8:6 
+
+8:7,8,11,14,23 
+8:24 9:1,8,12 
+10:3 47:25 
+
+benefits 10:10 
+33:21 47:24 
+
+better 10:15 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 56 
+
+33:13,19 42:24 
+43:20 
+
+beyond 51:3 
+bid 12:23 13:1 
+
+45:3,24 
+bidding 10:4 
+
+19:9,12,15 
+20:5,5,12,16 
+20:18 26:14,19 
+26:24 35:10 
+44:21 45:1,3 
+
+bids 14:14 
+big 12:7 
+blanks 42:10 
+blue 48:21 
+board 15:12 
+bottom 47:23 
+bought 36:8,11 
+
+38:9 51:18 
+Boyle 53:25 
+bread 30:21 
+Breyer 15:2 
+
+29:5,12,13,18 
+29:24 30:3,8 
+30:18 31:6,12 
+32:8,16,25 
+41:1,16,20 
+42:19 43:3,9 
+43:14 
+
+Breyer's 33:11 
+brief 37:16 
+
+45:11,13 46:2 
+48:18,21,21 
+51:1 
+
+briefing 49:5,13 
+briefs 11:15 
+
+43:23 52:24 
+British 44:23 
+
+48:5,9,13 
+broader 19:16 
+
+20:1 
+Brooke 3:12,16 
+
+6:25 7:2,4,6,12 
+7:20 8:22 
+11:20 14:1,12 
+14:16 15:7 
+18:4,5 19:13 
+
+19:17 20:6,11 
+23:14 24:5 
+25:2,14 26:2,6 
+26:12,13,18,19 
+28:9,23 32:7 
+36:3 37:23,25 
+38:2 43:22 
+45:14,17,22 
+46:14,18,25 
+48:24 49:2,2 
+49:11,16,19,20 
+50:17 52:12,14 
+52:17 53:7 
+
+Brooker 23:16 
+brother 20:15 
+Brothers 48:23 
+brought 41:1 
+built 26:11 
+built-in 44:23 
+bulk 45:12 
+business 15:14 
+
+15:22 16:3,21 
+18:2,21 22:17 
+22:23 30:24 
+33:17 38:13 
+41:5 42:22 
+
+businesses 17:18 
+buy 11:17 15:15 
+
+29:1 33:20 
+41:24 
+
+buyer 10:4 19:9 
+29:9,24 
+
+buyers 8:19 
+33:14 
+
+buyer's 3:15,24 
+51:2,6 
+
+buying 17:24 
+24:14 30:12,13 
+31:7,18 43:15 
+
+C 
+C 2:1 3:1 
+calculate 11:16 
+calculating 
+
+26:21 
+calculation 28:6 
+California 36:25 
+
+called 32:4 
+35:14 
+
+candidates 
+42:10 
+
+capital 37:1 
+carved 28:23 
+case 3:4,11 7:1,4 
+
+7:10 8:17,19 
+8:24 9:17 
+10:17 13:5,10 
+14:7 16:19 
+17:20 18:5,6,8 
+19:16 20:10,22 
+21:7,21 24:21 
+25:6,9 26:21 
+27:2,9,13,15 
+29:16 33:9 
+34:5,9 35:5,12 
+36:5,21,23 
+37:1,6 38:15 
+39:5 41:7,13 
+42:14 43:23,25 
+45:8 46:1,1,10 
+46:25 47:2 
+49:4,22 50:19 
+53:25,25 54:8 
+54:10,11 
+
+cases 5:19 7:12 
+9:2 14:20 17:6 
+17:15 18:17 
+26:5,5 28:25 
+34:7 42:4 
+
+catch-all 36:25 
+central 8:2 9:4 
+cents 33:15 
+certainly 7:4,15 
+
+8:8 12:3 15:5 
+18:16 26:12 
+
+certainty 53:9 
+cetera 42:24 
+chain 39:21 
+challenge 14:8 
+chance 47:2 
+change 47:22 
+charge 37:13 
+
+48:25 
+charges 12:15 
+
+chart 47:20 
+cheaper 10:21 
+cheating 6:23 
+cheer 42:23 
+Chief 3:3,9 7:11 
+
+8:13,22 19:1,7 
+20:13,20 28:13 
+28:18 33:10 
+35:6 46:21 
+51:22 52:2 
+54:3,9 
+
+chilling 20:3,8 
+choice 49:20 
+choose 24:12 
+Chulos 47:18 
+circle 35:19 
+Circuit 15:2,6 
+
+30:5 39:3,3 
+45:11,12 48:16 
+48:21 49:1 
+
+cited 29:16 46:2 
+53:11 
+
+citizens 51:8 
+claim 3:15 6:3 
+
+7:3 9:22 15:25 
+19:12,13 20:5 
+20:11,25 21:5 
+21:14,18 22:12 
+25:18 44:3 
+52:24,25 53:4 
+53:6 54:8 
+
+claims 7:5 19:14 
+19:15,19 26:7 
+26:19 27:14,20 
+
+clarity 15:7 
+classed 24:4 
+classes 35:23 
+clear 11:23 
+
+13:13 15:3,10 
+18:9 37:15 
+39:3 43:23,24 
+53:25 
+
+client 44:9 46:3 
+clients 15:4 
+Cliff 47:18 
+closely 52:5 
+closer 40:16 
+
+closing 37:3 
+39:17 50:12 
+51:16 
+
+colloquy 25:1 
+38:1 
+
+Columbia 44:23 
+48:6,9,13 
+
+comes 52:11 
+Comfort 15:3 
+coming 43:18 
+
+47:6 
+commented 
+
+37:11 
+companies 51:9 
+company 1:3,7 
+
+3:4,5 15:11,13 
+15:15,21 22:16 
+22:23 24:11 
+32:10,13 33:16 
+35:14,16 36:11 
+41:5 
+
+compare 12:7 
+13:12 
+
+compared 11:7 
+compete 15:14 
+
+22:17 51:6 
+competes 3:23 
+competing 
+
+13:18 
+competition 
+
+3:20 7:9 8:9,11 
+9:4 10:13,14 
+14:15,25 16:11 
+19:25 20:17 
+25:10 42:18,20 
+48:12 52:10 
+
+competitive 
+3:24 23:4 35:3 
+35:19 43:6,17 
+
+competitor 4:3 
+15:24 18:1 
+38:13 42:21 
+47:16 
+
+competitors 
+10:25 25:23 
+30:14 
+
+complains 53:3 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 57 
+
+complaint 34:9 
+50:16 
+
+complementary 
+44:7 
+
+completely 
+32:11 39:19 
+
+complicated 
+17:17 
+
+components 
+37:25 
+
+concede 5:9 49:2 
+concern 30:25 
+
+51:11 
+concerned 13:20 
+
+29:7,22 
+concerns 51:7 
+concluded 4:20 
+concludes 46:24 
+conduct 3:24 4:1 
+
+5:8,20,23,25 
+6:1,6,8,21,21 
+7:13,18,18,25 
+14:17 15:19,19 
+15:22 16:21,21 
+17:9,12,13 
+20:8 21:1 
+22:11 24:4,6,7 
+24:18 25:16 
+31:17 44:4,7 
+48:18 51:1 
+
+conform 49:11 
+52:16 
+
+confront 25:1 
+Congress 29:18 
+consider 4:23 
+
+45:8 49:18 
+50:3 
+
+consideration 
+26:11 
+
+consistent 29:20 
+37:23 
+
+consistently 
+28:21 40:7 
+
+conspiracy 8:20 
+17:11 
+
+constitutes 
+22:10,12 24:17 
+
+consumer 10:16 
+10:19 31:10 
+47:25 
+
+consumers 7:15 
+8:7,12,23 9:9 
+9:13 10:3,7,10 
+29:4,10 33:22 
+47:24 
+
+contained 37:22 
+contend 36:13 
+
+40:9 46:11 
+content 24:5 
+contention 5:7 
+
+45:15 
+contentions 4:15 
+contesting 5:21 
+context 17:8 
+
+20:9 24:24 
+25:19 26:14,23 
+26:24,25 27:7 
+28:3,5 30:4 
+33:6 38:11 
+
+continued 40:24 
+53:15 
+
+contract 13:17 
+53:20 
+
+contracts 12:20 
+44:13 
+
+contrast 53:20 
+contributed 
+
+49:7 50:6 
+Cooperative 
+
+29:20 
+core 3:25 
+correct 9:21 
+
+20:22 22:4,5 
+33:24 46:17 
+47:1 50:20 
+
+correlative 
+17:23 
+
+corresponding 
+10:9 
+
+cost 11:16,17,19 
+12:4,7,7,17 
+22:18 26:18 
+27:24 28:7,8 
+33:5,8 43:12 
+
+43:15 45:4 
+costs 12:8,9,24 
+
+14:4,6,8,10 
+16:23 26:21,25 
+27:8,9,10 
+32:22 43:13 
+47:10,11,17 
+
+counsel 51:16 
+count 31:16 
+couple 52:3 
+course 6:25 7:13 
+
+8:12 42:19 
+49:20 
+
+court 1:1,13 
+3:10,12 4:10 
+5:5,12,19 6:19 
+7:3,6 8:1,17,20 
+9:2,5 10:11,15 
+11:15,15 12:1 
+13:25 14:16,20 
+16:20 17:7 
+18:4,6,15,24 
+19:8,15,18,21 
+20:1,10 22:10 
+25:1 26:20,24 
+28:19 32:14 
+36:22 42:15 
+46:24 52:13,18 
+52:21 53:9,25 
+
+courts 18:16 
+23:2 27:6 28:2 
+
+Court's 3:18 
+15:7 19:23 
+21:19 28:20 
+32:8 
+
+covered 44:15 
+created 11:3 
+creating 53:3 
+critical 7:8 
+criticism 37:8 
+criticize 48:19 
+cross-subsidiz... 
+
+27:12 
+curiae 1:20 2:8 
+
+19:6 
+current 37:21 
+
+53:14 
+
+customer 41:11 
+cutting 4:9 20:4 
+
+29:3 
+
+D 
+D 3:1 
+damage 15:25 
+damages 6:10 
+
+6:17 23:11 
+danger 6:5 
+dangerous 6:22 
+
+22:8 24:8 26:3 
+dealing 7:24 
+
+12:16 17:11 
+27:16 
+
+dealt 18:5 
+debate 37:22 
+decide 31:21 
+
+36:7,11 49:23 
+decided 48:23 
+decision 15:8 
+
+16:14 21:19 
+33:17,18 36:23 
+43:24 
+
+decisions 52:20 
+decrease 10:9 
+defend 32:17 
+defendant 4:16 
+
+12:10 14:18 
+15:17 20:23 
+23:13 24:7 
+26:3 37:18 
+40:21 41:8 
+44:1 50:23 
+
+defendants 26:9 
+defendant's 
+
+26:25 28:10 
+definite 14:21 
+definition 17:17 
+
+48:17 
+degree 19:22 
+deliberately 
+
+44:5 
+Delmonte's 40:1 
+demonstratively 
+
+45:10 
+Department 
+
+1:19 
+depend 10:6 
+depends 14:21 
+describe 20:13 
+
+20:15 
+described 23:10 
+
+53:12 
+despite 19:19 
+
+34:6 
+deter 14:24 
+determine 3:13 
+
+11:19 12:14,17 
+12:24 
+
+determining 
+6:20 
+
+deterring 17:8 
+developed 10:20 
+devoted 34:15 
+
+34:16 
+dictum 48:16 
+difference 7:22 
+different 7:12 
+
+7:23 12:23 
+39:14 41:13 
+45:9 51:20 
+
+differential 48:5 
+difficult 23:3 
+difficulties 27:5 
+direct 7:14 
+direction 29:4 
+
+43:22 
+directors 15:12 
+disagree 49:18 
+disagreement 
+
+25:11,14 
+discussed 5:5 
+disparity 13:10 
+disposition 
+
+53:24 
+dispute 14:7 
+
+41:22 
+disputed 42:3 
+disputing 5:11 
+
+17:21 
+dissent 18:5 
+
+32:14 
+dissenting 25:13 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 58 
+
+25:16 
+distinction 7:22 
+distinguish 4:2 
+
+16:9,10 23:3 
+district 11:22 
+
+18:6 37:9 45:8 
+52:13,16 
+
+division 47:15 
+document 44:12 
+
+44:14 47:18 
+53:10,11,15 
+
+doing 35:13 
+dollar 32:21 
+
+39:23 
+dominant 44:22 
+door 16:24 
+
+43:25 46:4 
+downstream 
+
+10:9 12:9 13:4 
+downward 
+
+47:22 
+drafted 37:9 
+drive 13:23 
+
+15:13,21 16:3 
+18:1 22:16 
+30:17,18 47:10 
+48:8 52:9 
+
+driven 25:24 
+53:2 
+
+drives 8:9 
+driving 22:23 
+
+32:1 
+dropped 54:8 
+drove 30:13 
+dynamite 20:23 
+
+24:11 
+D.C 1:9,16,19 
+
+E 
+E 1:22 2:1,10 
+
+3:1,1 28:16 
+earlier 50:22 
+Easterbrook 
+
+16:13 
+easy 28:4 40:23 
+
+40:25 
+economic 41:23 
+
+economically 
+12:11 
+
+economist 39:13 
+economists 
+
+38:19 
+economy 8:3 9:5 
+
+14:25 15:1 
+effect 30:20,21 
+
+40:2 52:21 
+effectively 27:11 
+effectiveness 
+
+44:8 
+effects 31:9,12 
+efficient 8:5 
+
+10:5 15:1 
+43:10 
+
+effort 14:16 
+eight 51:7 
+either 6:4 7:15 
+
+33:21 44:15 
+45:7 47:16 
+
+elasticity 10:2 
+electing 34:12 
+element 5:8,22 
+elements 5:3,21 
+
+21:13 22:8,15 
+23:9 24:16 
+
+elevated 39:24 
+elevating 44:9 
+emphasized 
+
+30:5 
+encompasses 
+
+32:21 
+engage 14:18 
+
+15:11 
+engaged 6:21 
+
+34:23 45:1 
+engages 19:24 
+Engineers 8:2 
+
+9:7 10:12 
+ensures 8:4 
+ensuring 9:3 
+entered 27:15 
+entering 25:23 
+
+47:6 
+entitled 45:13 
+
+46:22 47:2 
+
+entity 6:22 
+entry 25:22,25 
+
+26:6,10 
+environment 
+
+17:10 
+equally 27:22 
+equate 32:15 
+equilibrium 
+
+38:20 
+erred 19:16 
+especially 15:4 
+
+16:10 33:6 
+ESQ 1:16,18,22 
+
+2:3,6,10,13 
+establish 4:10 
+
+5:25 18:2,3 
+21:23 
+
+established 23:9 
+29:14 
+
+Estate 9:6 
+et 42:24 
+eventuality 
+
+35:18 
+evidence 15:10 
+
+18:1,7,10 
+20:23 22:25 
+23:1,7,7,9,10 
+23:13 24:11 
+25:2,4 34:7 
+35:12 37:3 
+39:12,12,19,22 
+40:24 41:7 
+43:10,12 46:1 
+46:1,10 47:12 
+54:1,6 
+
+exact 26:21 
+exactly 11:1 
+
+31:2 52:20 
+example 11:5 
+
+23:20 24:13 
+27:13 44:14 
+
+exceed 12:9 
+exception 28:24 
+excessive 12:15 
+exchange 44:18 
+excludes 27:11 
+exclusionary 
+
+20:24 21:1 
+22:11 24:4 
+25:15 
+
+exclusive 27:15 
+44:13,16,24 
+
+executive 47:12 
+exogenous 51:5 
+expansion 10:6 
+
+10:7 
+expect 3:23 10:4 
+
+31:25 
+expectation 
+
+47:20 48:7 
+experts 38:18 
+explain 15:4 
+
+33:2 
+explained 14:20 
+
+20:1 48:24 
+51:4 
+
+explicitly 7:6 
+exploit 29:25 
+
+39:6 
+extended 28:25 
+extent 6:13 
+extra 33:15 41:9 
+
+47:10,22 
+
+F 
+face 3:25 40:3 
+
+50:16 
+faced 29:9 
+fact 7:6 8:18 
+
+10:11 18:4 
+27:13 29:25 
+30:9,11 31:3 
+31:18 33:10 
+39:19 42:20 
+45:9 46:4,19 
+49:6,11,23 
+52:5 53:17 
+
+factor 36:25 
+factors 51:5 
+facts 33:9 50:5 
+fair 4:19 36:10 
+
+36:12 38:11 
+39:18 40:5 
+50:9 
+
+fairly 25:2 
+fairness 38:23 
+
+38:25 40:6 
+false 14:24 
+familiar 19:18 
+famously 23:3 
+far 4:6 50:24 
+
+51:12 
+farmer 39:22 
+farmers 29:8,20 
+
+30:1 34:6,11 
+Farms 8:16 
+
+29:16,20 
+faster 10:21 
+Fiber 35:15 
+fight 29:10 
+figure 12:22 
+
+40:23 41:1 
+fill 42:10 
+finally 14:23 
+financials 48:2 
+find 4:21 21:24 
+
+22:2 43:3 
+finding 4:8 
+fine 38:23 41:20 
+finish 46:19 54:3 
+finished 19:11 
+firm 3:22 6:6 
+
+7:24 10:19,23 
+19:23,25 
+
+first 3:4,19 7:8 
+7:23 15:2 
+22:15 36:23 
+49:8 
+
+fish 32:19 
+fishermen 29:9 
+fit 17:6 
+five 35:22 44:23 
+fixed 8:2 
+flawed 49:1 
+flip 19:12 
+float 39:9 
+flower 34:19 
+flunk 53:7 
+focus 5:8 14:4,6 
+focusing 27:18 
+fold 47:17 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 59 
+
+follow 40:14 
+following 38:20 
+
+42:15 
+follow-on 34:7 
+foreclosure 
+
+44:13,25 
+forego 33:14 
+foresee 31:4 
+foresighted 35:7 
+
+35:8 
+forest 34:21 
+
+38:18 39:13 
+44:24 
+
+Forks 21:19 
+form 7:17,18 
+former 47:12 
+formulation 
+
+50:21 
+forth 32:22 45:3 
+forthcoming 
+
+9:12 
+four 3:17 
+four-year 48:4 
+framework 38:8 
+
+49:7 
+free 9:4 10:13 
+
+39:9 
+friend 26:17 
+full 8:11 34:19 
+fully 3:18 
+functioning 8:1 
+further 18:24 
+
+51:14 
+future 33:21 
+
+34:22 41:10 
+
+G 
+G 3:1 
+gain 14:21 
+General 1:19 
+generally 10:13 
+
+24:23 26:22 
+33:25 
+
+generate 10:5 
+geniuses 33:12 
+getting 11:12 
+
+22:24 
+
+Ginsburg 12:13 
+26:16 37:5,12 
+40:25 41:6 
+45:16,20,21 
+
+Ginsburg's 
+13:15 
+
+give 6:10 15:25 
+43:19 
+
+given 16:17,17 
+16:19 45:9 
+46:22 47:4 
+
+gives 8:10 52:18 
+giving 42:5 
+go 12:12 13:23 
+
+22:14 30:21,22 
+31:4 32:9 41:4 
+42:22 43:22 
+54:6 
+
+goal 22:24 
+goats 31:15 
+going 9:21 14:14 
+
+24:13 30:7,14 
+30:20 33:1 
+35:2 38:2 
+40:15 41:12 
+47:21 51:17 
+53:8 
+
+good 20:16 31:9 
+31:14,23,24 
+32:3 35:1 
+49:24 
+
+goods 8:3 9:9,11 
+9:12,13 10:15 
+31:18,18,22 
+
+govern 16:21 
+granting 33:4 
+grappling 28:2 
+great 37:8 
+greater 10:22 
+ground 45:14 
+
+49:13 
+grounds 52:16 
+group 3:12,17 
+
+7:7,12,20 8:22 
+11:20 14:1,12 
+14:16 15:7 
+18:4,6 19:13 
+
+19:17 20:7,11 
+23:14 24:5 
+25:2,14 26:2,6 
+26:12,13,18,19 
+28:9 29:8,8,9 
+29:10,25 30:12 
+32:7 36:4 
+37:24,25 38:3 
+43:22 45:14,17 
+45:22 46:14,18 
+46:25 48:24 
+49:2,3,11,16 
+49:19,20 50:17 
+52:13,14,17 
+53:7 
+
+Group's 28:23 
+growers 29:8 
+guess 6:19 32:19 
+guidance 14:24 
+
+39:5 
+guide 48:17 
+guilty 43:4 
+guy 41:17 
+
+H 
+Haglund 1:22 
+
+2:10 28:15,16 
+28:18 29:12,15 
+29:23 30:2,4 
+30:17 31:1,11 
+32:7,24 33:4 
+33:23 35:11 
+36:6,13,18,21 
+37:7,14 38:14 
+39:2,11 40:9 
+40:13,18 41:6 
+41:19 42:12 
+43:2,8,21 
+45:19,25 46:14 
+46:17,24 47:8 
+49:12,25 50:4 
+50:14,20 51:23 
+53:11 
+
+half 34:15 46:5 
+hand 23:4 31:9 
+
+31:13 37:18 
+handed 37:10 
+
+happened 39:7 
+happy 34:25 
+harbor 29:1 
+
+33:5 
+hard 4:1,3 16:9 
+
+16:15 17:17 
+42:3 
+
+Hardwood 1:6 
+3:5 
+
+hard-fought 
+16:11 
+
+Harlan's 32:14 
+harm 25:10 
+Harold 32:10 
+harvested 27:14 
+head 39:21 
+
+47:15 
+hear 3:3 45:19 
+held 18:7 20:10 
+
+35:16 
+helps 15:1 
+high 3:16,19 
+
+8:25 12:22 
+14:14 25:22,25 
+34:6 41:15 
+
+higher 4:17 8:15 
+9:10,11 10:2 
+14:19 15:16 
+20:18 31:13 
+33:24 34:3 
+42:12,15,16 
+43:11 52:8 
+
+highest 43:14 
+highly 34:20 
+high-tech 39:20 
+hike 41:10 
+hogging 31:22 
+Honor 5:6,18 
+
+6:11 7:21 9:22 
+13:3,25 15:19 
+16:1,19 17:4 
+17:16 18:4,14 
+
+hope 14:19 
+42:21 
+
+huge 43:6 48:5 
+hundreds 28:6 
+hurt 29:5 
+
+hypothetical 
+20:14,21 22:15 
+25:21 53:13 
+
+I 
+idea 31:21 
+identical 3:25 
+identified 8:14 
+
+39:14 
+idiotic 24:13 
+illegally 3:16 
+illegitimate 23:5 
+immediate 8:6,7 
+impact 53:3,5 
+imponderables 
+
+14:22 
+important 14:13 
+
+28:7 45:5 
+improve 51:12 
+improved 40:23 
+inapplicable 
+
+20:11 
+incent 33:25 
+include 38:2 
+included 39:13 
+
+39:20 40:5 
+includes 12:5 
+income 30:20 
+incompetent 
+
+24:23,23 
+incomplete 47:1 
+increase 9:25 
+
+30:7 38:16 
+41:12 
+
+increased 9:9 
+39:15 53:2 
+
+Increasing 3:21 
+incremental 
+
+14:4,6 26:25 
+27:4,9,10,17 
+32:22 33:8 
+
+incur 14:18 
+31:19 
+
+independent 
+23:7 49:2,13 
+50:2 
+
+indicate 53:17 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 60 
+
+53:18 
+indicates 53:21 
+industry 38:18 
+
+39:20 
+inefficient 4:2 
+
+11:7 38:13 
+inelastic 9:23,24 
+
+9:25 30:6 33:7 
+inelasticity 9:19 
+inflated 12:21 
+infrequently 
+
+36:1 
+injure 42:17,20 
+
+52:9 
+injury 23:10 
+input 19:9 27:1 
+
+29:2 30:6 33:5 
+33:24 41:9 
+47:24 51:3,6 
+
+inputs 3:21 
+53:11 
+
+inquiry 26:1 
+insofar 13:20 
+instincts 3:24 
+instructed 4:12 
+
+4:14 21:7,21 
+21:23 22:2,6,7 
+
+instruction 4:15 
+36:14,15 37:2 
+37:6,7,17,19 
+38:4,7 39:6 
+40:2,6,7,10,16 
+42:6 43:1 45:6 
+45:9 46:18,23 
+46:25 49:1,3,8 
+49:14,21 50:18 
+51:13 52:5,10 
+52:13,15 54:7 
+
+instructions 4:8 
+5:3 36:5 37:4 
+39:4 41:21 
+50:6,7,11 
+
+insufficient 
+20:25 23:23,25 
+24:2 
+
+intent 16:12,22 
+17:1 18:7,10 
+
+18:19 20:24 
+21:8 22:9 23:1 
+23:5,7,8,22 
+24:16 25:3 
+41:24 
+
+interconnected 
+44:6 
+
+interest 41:23 
+interested 32:19 
+interesting 13:6 
+
+38:6 42:1 
+intermediate 
+
+52:19 
+interpreted 7:4 
+
+37:2 
+invested 11:3,8 
+invited 38:8 
+
+51:13 
+involve 18:11,12 
+involved 7:2 
+
+18:13 
+involves 7:10 
+issue 14:3 17:17 
+
+17:19,21 25:2 
+25:5,8 28:1 
+34:13,15 37:14 
+48:15 
+
+issued 36:23 
+
+J 
+J 1:16 2:3,13 3:7 
+
+51:25 
+JA 44:11,19 
+
+47:17,18 48:1 
+50:8 
+
+jobs 30:22 
+joint 52:7 53:12 
+Journal 34:14 
+judge 11:22 
+
+16:13 37:10,20 
+37:25 45:8 
+52:16 
+
+judgment 10:13 
+26:8 36:1 44:1 
+45:13 52:14 
+
+judicial 16:10 
+16:24 
+
+jurisprudence 
+28:20 
+
+jury 4:8,12,14 
+17:20 21:7,21 
+21:22 22:6,7 
+36:4,10,10 
+38:24 39:1,9 
+39:17,19 42:5 
+42:25 46:12,16 
+48:17 50:6 
+54:6,7 
+
+Justice 1:19 3:3 
+3:9 4:5,23 5:2 
+5:9,13,24 6:7 
+6:15,25 7:11 
+8:13,22 9:8,15 
+9:16 10:18 
+11:1,9,14,21 
+11:25 12:13 
+13:13,15,22 
+15:2,9,20 16:2 
+16:6,9,15,16 
+17:1,5,13,19 
+17:22,25 18:11 
+19:1,8 20:13 
+20:14,20,21 
+21:2,6,15,20 
+22:1,5,14,20 
+22:22 23:6,12 
+23:15,21,25 
+24:10,19,20 
+25:4,20,21 
+26:1,16,16 
+27:21 28:1,13 
+28:18 29:5,12 
+29:13,18,24 
+30:3,8,18 31:6 
+31:12 32:8,14 
+32:16,25 33:10 
+33:11 35:6 
+36:3,7,16,19 
+37:5,12 38:10 
+38:15,22 39:8 
+39:25 40:12,14 
+40:25 41:1,6 
+41:16,20 42:19 
+43:3,9,14 
+
+45:16,20,21 
+46:12,15,21 
+47:3 49:9,16 
+49:17 50:1,13 
+50:15 51:22 
+52:2 54:3,9 
+
+justified 18:22 
+29:2 51:4 
+
+K 
+K 1:18 2:6 19:4 
+Kahn 32:13 
+KANNON 1:18 
+
+2:6 19:4 
+keep 33:16 
+
+38:12 
+Kennedy 11:14 
+
+11:22,25 13:13 
+13:22 16:15 
+
+Kennedy's 
+26:16 
+
+kettle 32:18 
+key 3:17 7:25 
+
+31:24 
+kind 6:21 13:8 
+
+13:10 20:16 
+23:9 35:24 
+36:1 41:13 
+44:24 50:17 
+
+know 4:10 17:15 
+18:21 20:16,18 
+29:7 35:8 
+38:23 39:1 
+41:2,7 
+
+L 
+lack 47:25 
+laden 51:9 
+land 12:19 
+landowner 
+
+44:19 
+landowners 
+
+44:17 
+lands 27:14 
+
+34:21 
+language 42:13 
+
+51:17 52:6 
+large 41:14 
+
+44:17 
+law 34:13,14 
+
+45:14 48:20,22 
+laws 3:14 4:4 
+
+8:14,18 29:6 
+29:22 
+
+lawyers 15:4 
+37:11 
+
+lay 36:10 
+lead 9:25 10:18 
+
+40:15 
+leave 30:21 
+left 39:9 
+leg 50:16 
+legally 36:21 
+legislation 29:19 
+legitimate 14:15 
+
+23:4 42:2 
+legitimately 
+
+33:1 
+lesser 30:23 
+letting 41:4 
+Let's 39:25 
+level 51:3 
+levels 9:3 42:16 
+
+48:8 50:23 
+liability 19:17 
+
+20:2 
+licenses 44:24 
+limited 27:22 
+line 30:22 47:6 
+
+47:23 
+linguistic 38:8 
+
+49:7 
+linked 44:7,18 
+
+44:25 
+listening 43:20 
+litany 51:20 
+literally 46:3 
+literature 12:4 
+
+34:16 
+little 7:11 50:21 
+localized 34:18 
+locked 53:17 
+log 11:4,12,13 
+
+12:6 31:4 
+33:15 38:16,19 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 61 
+
+39:15 42:16 
+44:9 47:10,20 
+53:16 
+
+logs 4:16,17,18 
+8:8 10:21,24 
+12:6,14,15,16 
+12:18,23,25 
+13:3,8,16,17 
+13:18,18,24 
+15:15 21:25 
+22:18 24:14 
+27:3,14,16 
+36:8,9,12 
+40:21 41:25 
+43:5,16 45:18 
+45:24 46:8 
+52:8,23 53:1 
+53:19,22 
+
+long 9:24 24:9 
+26:4 31:25 
+33:1 
+
+Longview 35:15 
+46:3,6,8 
+
+long-term 7:16 
+12:19 13:8,17 
+53:20,23 
+
+look 12:24 13:2 
+13:3,5,5 26:24 
+33:9 39:2,12 
+40:19 42:6,7 
+48:1 50:21 
+51:15 53:13,14 
+
+looked 27:7 
+36:24 37:1 
+39:22 
+
+looking 5:22 9:2 
+16:12 27:1,10 
+50:22 
+
+looks 36:14 
+45:10 
+
+losing 42:9 49:9 
+loss 14:19,20 
+
+15:17 24:7,9 
+28:10 31:19 
+46:9 
+
+losses 4:2 
+love 42:23,23 
+
+low 3:14 7:14 
+8:20,23 18:22 
+24:15 31:9 
+
+lower 10:14,19 
+10:22 11:11 
+18:16 24:14 
+27:6,16 28:2 
+42:21,24 47:24 
+
+lowering 3:22 
+19:25 
+
+lowest 43:12 
+lumber 1:7 3:5 
+
+11:3 38:20 
+41:15 
+
+M 
+maintain 21:8 
+
+23:22 
+major 35:13 
+majority 25:3 
+
+25:12 
+making 45:23 
+
+49:20 
+management 
+
+47:15 
+management's 
+
+48:7 
+Mandeville 8:16 
+
+29:16,19 
+manipulating 
+
+45:2 
+market 9:24 
+
+10:9 12:9 13:4 
+13:19,23 16:22 
+17:16 25:23 
+27:4,19 28:21 
+30:6 32:2 33:7 
+34:1 35:17,22 
+35:25 38:16,21 
+39:23,24 42:16 
+43:5,7,17 44:5 
+44:9,15,20,22 
+46:6 47:5,5 
+50:23 51:4 
+52:9 53:14 
+
+marketplace 
+35:3 
+
+markets 8:1 
+11:17 51:8 
+
+material 46:5 
+materials 31:3 
+Matsushita 
+
+14:17 
+matter 1:12 9:19 
+
+42:2 45:13 
+54:12 
+
+mature 34:25 
+maximum 32:11 
+
+32:18 
+mean 27:1,23 
+
+29:13 30:9 
+33:17 38:10,11 
+38:12,23 41:17 
+50:1 
+
+means 10:8 
+23:19 24:12 
+28:3 
+
+meant 38:14,15 
+measure 14:8 
+
+26:18 
+measured 28:11 
+
+51:2 
+measures 27:8 
+mechanism 3:22 
+
+19:23,24 
+mechanisms 
+
+44:6 
+meet 23:15 
+
+42:22 
+merely 40:4 
+message 34:5 
+met 23:14 
+method 26:21 
+MICHAEL 1:22 
+
+2:10 28:16 
+mill 11:6 46:3,6 
+
+46:8 
+million 47:22 
+
+48:10 
+mills 11:3 47:5,6 
+
+48:3 
+mind 16:13 
+
+44:11 
+mineral 51:10 
+
+minimum 32:11 
+minutes 15:12 
+
+51:24 
+misallocation 
+
+34:19 
+mistaking 3:19 
+
+7:9 
+mitigation 36:25 
+model 50:7 
+modest 19:22 
+money 31:17,25 
+
+32:2 33:1,19 
+monopolist 6:22 
+
+7:1 24:23 
+monopolistic 
+
+20:24 23:1,5 
+25:3 
+
+monopolization 
+21:14,18 22:9 
+22:13,13 43:25 
+44:3,3 
+
+monopolize 22:9 
+24:12,16 41:24 
+
+monopoly 5:7 
+5:10,14,20,22 
+6:2,4,5 15:11 
+16:7 17:2,2,14 
+18:12,12 21:3 
+21:8 22:24 
+23:8,21 24:14 
+24:16 25:5 
+29:11,24 30:11 
+30:16 42:23 
+
+monopsonist 
+34:4,23 
+
+monopsony 29:9 
+34:18,19 44:23 
+
+monu 48:4 
+moon 41:4 
+motions 11:23 
+motive 31:8 
+move 42:16 
+moving 29:3 
+multiple 47:14 
+murder 37:1 
+
+N 
+
+N 2:1,1 3:1 
+nature 35:23 
+near 37:10 
+near-term 14:19 
+necessary 4:17 
+
+25:17 38:12 
+42:13,16 50:10 
+51:19 
+
+need 11:24 14:1 
+21:12 23:13,15 
+24:6 31:14 
+41:17,20,22 
+42:2 
+
+needed 4:16,19 
+9:9,10 36:8,10 
+36:12 37:23 
+38:9 40:22 
+41:17 51:19 
+52:23 
+
+needs 40:22 46:5 
+nervous 8:3 
+never 45:7 48:15 
+
+48:25 51:18,19 
+new 10:20,20 
+
+11:8 32:5 47:6 
+Ninth 15:6 30:5 
+
+39:3,3 45:11 
+45:11 48:16,21 
+49:1 
+
+Noel 34:12,17 
+non-efficiency... 
+
+44:17 
+Northwest 
+
+34:21 
+note 48:20 
+noted 23:2 
+notes 34:13,17 
+November 1:10 
+number 14:21 
+
+27:6 38:18 
+nuts 31:23 32:3 
+
+O 
+O 2:1 3:1 
+object 30:9,10 
+
+30:11 52:15 
+objected 38:4 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 62 
+
+objection 52:18 
+objective 15:23 
+
+23:13 28:10 
+observed 14:1 
+
+14:16 
+obtained 27:16 
+obtaining 4:18 
+
+36:9 
+Obvious 47:25 
+Obviously 6:15 
+offered 51:11 
+Oh 29:23 42:19 
+Oil 32:13 
+okay 30:3 33:3 
+
+39:25 40:13 
+old 32:5 
+once 35:22 
+
+47:16 
+ones 12:25 
+open 10:14 
+
+13:24 27:4 
+44:20 
+
+opening 45:11 
+50:11 51:15 
+
+opens 16:24 
+opinion 4:11 
+
+25:3,13,13,16 
+39:3 
+
+opportunity 
+45:8 47:10 
+
+oral 1:12 2:2,5,9 
+3:7 19:4 28:16 
+
+order 4:17 15:13 
+20:7 21:13 
+22:16,24 25:17 
+36:8 38:12 
+41:4 42:17 
+52:17 
+
+ordinary 3:24 
+Ore 1:22 
+Oregon 34:11 
+
+44:14,20 48:3 
+48:6,12 
+
+ought 35:8 
+49:23,23 
+
+outbid 15:24 
+outcome 54:7 
+
+output 10:6,6,8 
+11:9,10,12 
+12:5 29:3 47:9 
+
+outside 50:8 
+overbidding 
+
+34:17 
+overbuying 45:2 
+
+53:4 
+overinclusive 
+
+37:18 
+override 18:19 
+overselling 53:6 
+owners 35:21 
+
+P 
+P 3:1 
+Pacific 34:21 
+page 2:2 4:19 
+
+45:10 48:18 
+50:25 52:7 
+
+pages 28:6 
+paid 3:21 4:17 
+
+9:10,11 42:12 
+42:15 46:7 
+51:19 
+
+Panner 38:1 
+paragraph 37:7 
+
+37:9,20,22 
+38:2,5 40:19 
+48:19 50:9 
+
+Pardon 36:18 
+part 26:13 46:9 
+
+48:8 
+participating 
+
+44:10 
+particular 9:3 
+
+10:17 30:4 
+particularly 
+
+32:20 
+parties 13:24 
+
+46:8 
+pass 47:23 
+passed 29:19 
+
+42:14 
+Patent 7:3 
+path 32:9 
+patterns 53:15 
+
+pay 10:24 11:12 
+43:11 47:11 
+51:3 
+
+paying 9:20 52:8 
+pays 31:17 
+penalty 37:1 
+people 8:15 
+
+13:18 16:21 
+18:21 31:22,25 
+35:12 41:24 
+
+people's 16:12 
+percent 12:6 
+
+13:7 44:1,15 
+44:19,22 47:21 
+53:22 
+
+percentage 
+53:19 
+
+perfect 36:14 
+40:10,16 
+
+perfectly 9:24 
+9:25 12:11 
+15:10 18:15 
+40:11 
+
+period 46:10 
+47:7,11 48:4 
+
+permit 19:20 
+person 31:17 
+
+43:4 
+petition 4:20 
+petitioner 1:4,17 
+
+1:21 2:4,8,14 
+3:8 19:6 21:24 
+27:3,13,15 
+52:1 
+
+phase 37:1 
+52:15 
+
+physics 39:20 
+Ph.D 39:20 
+
+41:17 
+pick 15:23 
+picked 39:23 
+picture 12:18,23 
+pieces 40:19 
+Pincus 1:16 2:3 
+
+2:13 3:6,7,9 
+4:13 5:1,6,11 
+5:18 6:3,11,18 
+
+7:2,21 8:16 9:1 
+9:14,22 11:1 
+11:21 12:2,13 
+13:2,21,25 
+15:18 16:1,4,8 
+16:18 17:4,7 
+17:16 18:3,13 
+19:2 26:17 
+29:16 51:24,25 
+52:2 54:5,10 
+
+places 30:22 
+plaintiff 13:7 
+
+23:10 37:13 
+41:8 45:7 
+
+plaintiffs 4:18 
+11:5 37:15 
+
+plaintiff's 4:15 
+11:6 
+
+plan 15:11,21 
+16:6 31:2,3 
+47:23 
+
+planning 47:18 
+plant 33:21 
+player 44:2 
+plays 9:5 
+please 3:10 19:8 
+
+28:19 
+plus 5:14,16 6:1 
+
+17:1 21:9 
+23:22 
+
+point 29:15 
+36:22 37:13 
+45:6 46:19 
+48:14,25 49:5 
+49:6,10 50:5 
+51:14 
+
+pointed 18:6 
+points 52:3 
+portion 27:18 
+
+40:20 
+Portland 1:22 
+posed 17:25 
+
+20:14 
+posit 20:22 
+posited 51:12 
+position 4:13 
+
+12:2,10 13:11 
+
+14:9 26:22 
+35:25 45:12 
+
+positives 14:24 
+possibilities 
+
+31:13 
+possibility 25:10 
+
+25:12 26:10 
+possible 24:15 
+possibly 15:25 
+
+30:8 31:8 
+42:22 
+
+potential 27:12 
+Poultry 16:13 
+power 5:7,10,14 
+
+5:15,15,20,22 
+6:2,5,5 17:2,3 
+17:14 18:12 
+21:3,8,9 23:8 
+23:21 24:16 
+25:5 47:5 
+52:19 
+
+powerful 18:8 
+23:1 34:5 
+
+PowerPoint 
+47:20 
+
+practice 35:16 
+practices 45:1 
+precise 20:2 
+predation 26:5 
+
+27:2,19 46:9 
+predator 24:24 
+predatorily 27:3 
+predatory 4:9 
+
+4:14 12:6 14:5 
+14:17 17:24,24 
+18:14,18 19:12 
+19:13,14,14,19 
+19:24 20:5,12 
+25:18 26:5,7 
+26:13,19,23,23 
+27:7 28:3,5 
+34:16 37:15,16 
+37:19 47:11 
+48:11 52:25 
+
+predominantly 
+48:11 
+
+preliminary 4:6 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 63 
+
+premise 16:16 
+16:17,19 
+
+prescribed 53:9 
+presented 18:8 
+
+39:12,13 43:9 
+43:11 
+
+preserve 5:15 
+21:8 52:17 
+
+preserved 48:15 
+49:6 
+
+presume 10:18 
+pretrial 11:23 
+
+37:18 
+pretty 29:13 
+prevailed 42:17 
+
+45:22 48:9 
+prevailing 48:6 
+prevent 4:18 
+
+25:22 36:9 
+price 4:9,17,19 
+
+8:20 9:3,4,5,11 
+9:25 10:9,13 
+10:14,22 11:11 
+12:6,14,16,20 
+15:16 20:3,9 
+24:14,15 27:17 
+30:24 32:12,18 
+34:3,3 35:1 
+36:10,12 38:11 
+38:12 41:10 
+42:13,15,21 
+45:24 46:7 
+48:5 51:2 52:8 
+53:1,2,4 
+
+pricecutting 
+19:10,21 
+
+priced 21:24 
+prices 3:13,16 
+
+3:21,22 8:9,15 
+8:23,25 9:10 
+10:14,19 11:24 
+13:5 14:9 
+16:23,25 18:22 
+20:1 29:2,3,3 
+30:6,17,18 
+31:4,9,13 
+33:25 34:6 
+
+38:19 39:15 
+42:24 43:11 
+46:6 47:20,24 
+48:5,8 53:8 
+
+price-cost 18:19 
+pricing 4:15 6:8 
+
+7:13,24 8:2 
+15:5,19 18:14 
+19:13,14,19,24 
+25:18 26:5,7 
+26:23 27:7 
+28:3,5,8 37:15 
+37:16,20 41:21 
+43:23 44:4 
+52:25 
+
+primary 16:21 
+prior 37:11 
+probability 6:5 
+
+6:23 22:8 24:8 
+26:3 
+
+problem 16:19 
+17:8 31:7,7 
+33:4 42:25 
+50:19 
+
+process 10:21 
+11:4 
+
+processed 9:21 
+processes 11:8 
+processing 
+
+10:20 
+processor 35:9 
+
+35:10 
+procompetitive 
+
+4:1 17:9 19:11 
+20:3,6,8 
+
+produce 10:14 
+43:20 
+
+produced 11:9 
+producer 43:13 
+
+43:15 
+producing 12:5 
+product 10:5 
+
+19:11 34:2 
+42:24 
+
+production 34:1 
+34:3 
+
+productive 
+
+34:20 
+Professional 8:2 
+
+9:6,7 10:12 
+Professor 28:5 
+
+34:12,17 
+profit 10:23 
+
+11:11 42:7,8 
+43:6,16 45:18 
+45:23 
+
+profits 47:22 
+prohibiting 20:3 
+
+20:8 
+project 31:4 
+projected 44:20 
+promotion 
+
+41:11 
+prong 19:20 
+
+26:2 28:8 47:4 
+prongs 23:14,16 
+proof 17:10 21:7 
+proper 8:1 
+
+53:24 54:7,7 
+properly 22:7 
+
+49:6 
+propose 32:20 
+proposed 37:5 
+
+50:25 52:15 
+proposing 31:15 
+proposition 
+
+29:21 40:5 
+prospect 41:9 
+
+44:2 
+protect 8:18 9:6 
+protects 8:10 
+prove 6:9 11:24 
+
+16:22 17:2 
+21:16 23:16,19 
+23:21 24:1,2 
+41:18 42:4,5 
+
+provide 28:9 
+provided 39:4 
+provides 14:23 
+proving 15:23 
+
+42:1 
+proxy 27:8 
+publicly 35:16 
+purchase 3:15 
+
+44:16 
+purchased 4:16 
+
+12:15,25 27:4 
+40:21 
+
+purchaser 13:20 
+purchases 33:5 
+
+41:13 
+purchasing 
+
+52:23 53:1,14 
+purpose 16:2,5 
+
+22:23 42:2 
+purposely 20:18 
+purposes 22:11 
+
+31:23,24 
+Pursuant 16:6 
+push 50:23 
+pushing 44:5 
+put 15:2 41:4 
+
+46:16 51:17,20 
+putting 45:3 
+
+Q 
+quantitative 
+
+43:12 
+question 3:11 
+
+4:6 5:14 6:1 
+13:15 15:9 
+22:10 26:17 
+32:20 36:24 
+46:13,15 52:22 
+
+questioned 
+47:14 
+
+questions 18:24 
+26:16 
+
+quite 11:6 23:18 
+33:23 40:18 
+45:19 
+
+quoting 48:19 
+
+R 
+R 3:1 
+rack 41:4 
+raised 51:2 
+raising 29:2 
+
+30:6 
+ran 46:8 
+rational 33:11 
+
+33:18 35:7,7 
+
+rationally 12:11 
+raw 46:5 
+reach 15:1 
+read 5:2 
+reading 4:19 
+reads 4:11 
+Real 9:6 
+realities 28:21 
+reality 35:5 
+realize 33:13 
+
+40:12 
+really 11:22 
+
+13:10 14:1 
+25:1 38:8 
+52:24 
+
+reason 7:19 16:8 
+27:6 28:24 
+41:22 43:17 
+
+reasonable 
+30:24 50:10 
+
+reasonably 42:7 
+reasoning 43:19 
+reasons 7:23 
+
+14:12 43:21 
+48:24 
+
+REBUTTAL 
+2:12 51:25 
+
+received 12:8 
+13:7,9 
+
+recognized 7:25 
+17:7 25:16 
+
+recognizing 
+19:19 
+
+record 11:2,4 
+13:6 35:12 
+47:12 53:18,21 
+54:2,6 
+
+recoup 12:12 
+42:9 47:10,17 
+
+recouping 24:9 
+recoupment 
+
+18:20 25:17 
+26:4,10 27:22 
+27:23 32:4 
+47:4,7,8,9 48:1 
+
+Reed 48:23 
+reference 34:8 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 64 
+
+refers 52:7 
+reflects 10:12 
+
+11:2,5 13:6 
+regard 4:21,24 
+
+20:9 21:5 22:7 
+23:2 24:25 
+25:15 28:8 
+40:20 
+
+regardless 22:12 
+49:16 53:6 
+
+regions 34:20 
+relationship 
+
+38:7 
+relatively 9:23 
+
+11:7 
+relevant 5:13 
+
+13:17,19 25:15 
+26:1 
+
+relied 39:18 
+relies 53:4 
+remaining 51:24 
+remand 46:22 
+
+47:2 
+remanded 49:4 
+remember 28:7 
+remotely 25:5 
+repeatedly 30:5 
+replant 34:6,12 
+
+35:2 
+request 38:3 
+
+46:18 52:12 
+requested 37:12 
+
+52:6,20 
+require 5:3,15 
+required 10:16 
+
+25:9 
+requirement 
+
+23:3,14 
+requirements 
+
+18:20 
+requires 14:25 
+requisite 25:12 
+resale 32:12 
+resell 43:16 
+resembles 52:5 
+reserve 18:25 
+resolution 17:21 
+
+resolved 17:20 
+resolving 26:7 
+resource 51:8,9 
+resources 34:20 
+respect 52:4,22 
+
+53:7,10,24 
+respondent 1:23 
+
+2:11 28:17 
+35:14 52:6,11 
+53:3,22 
+
+respondent's 
+20:11 
+
+response 26:15 
+restraint 32:18 
+restraints 32:12 
+result 3:23 
+
+14:15 15:17 
+34:18 
+
+retail 32:17 
+retired 39:22 
+retry 47:2 
+returns 14:19 
+revenue 30:23 
+revenues 12:8,9 
+
+13:12 
+reversal 49:14 
+
+50:3 
+reversed 49:4 
+review 34:13 
+rid 47:16 
+right 6:18 11:1 
+
+25:7 30:9,18 
+46:4,16 49:22 
+50:14 
+
+rise 6:10 15:25 
+risk 3:19 7:9 
+
+20:2 
+rival 20:18 
+rivals 36:9 51:3 
+
+51:6 
+road 35:3 
+ROBERTS 3:3 
+
+7:11 8:13,22 
+19:1 20:13 
+28:13 33:10 
+35:6 46:21 
+51:22 54:3,9 
+
+Robinson-Pat... 
+18:14 25:8,9 
+25:18 
+
+role 9:4 
+Ross-Simmons 
+
+1:6 3:5 35:14 
+35:17,19 
+
+rotation 35:23 
+roughly 48:4 
+rule 15:5 16:22 
+
+16:24 18:18 
+28:23,24 29:1 
+31:16,16 52:19 
+
+ruled 52:13 
+rules 15:3 16:20 
+
+28:22 31:14 
+ruling 3:18 
+run 20:2 31:25 
+
+33:2 
+
+S 
+S 2:1 3:1 
+safe 29:1 33:5 
+sales 3:22 13:5 
+
+45:24 
+sanctioning 
+
+19:16 
+saplings 33:20 
+satisfy 47:7 
+sawlogs 44:18 
+saying 38:25 
+
+39:18 40:14 
+53:5 
+
+says 15:12 16:22 
+40:20 53:16 
+
+Scalia 9:8,15 
+10:18 11:2,9 
+17:22 24:10,19 
+24:20 46:12,15 
+49:9,16 
+
+scenarios 39:14 
+39:24 
+
+scheme 34:24 
+48:11 
+
+se 8:21 28:22,23 
+29:1 
+
+second 7:10 9:14 
+
+26:2 49:5,10 
+second-guess 
+
+16:24 43:5 
+second-guessing 
+
+16:25 
+section 4:10,25 
+
+5:4,8,17 6:4 
+7:5 8:17,20 
+17:8,11 18:16 
+18:17 20:25 
+22:3,11 23:17 
+24:1,3 28:25 
+
+see 42:6,7,25 
+43:17 48:4 
+
+seeking 24:11 
+sees 35:2 
+self-deterring 
+
+14:17,22 
+sell 8:15 10:22 
+
+10:25,25 11:10 
+11:10 13:4 
+31:19 33:16 
+35:1,4,16 42:7 
+42:8,20 43:6 
+53:5 
+
+seller 19:10 
+29:11 34:25 
+44:22 
+
+sellers 8:8,18 
+51:7 
+
+seller's 3:13 
+selling 17:24 
+
+18:18 30:24 
+35:9 43:7 
+45:18 47:5 
+
+send 34:5 
+sense 11:20 
+sensible 40:7 
+sensitive 15:5 
+sent 34:4,23 
+sentence 54:4 
+separate 21:19 
+
+31:14 53:4 
+separated 52:25 
+serious 17:9 
+services 10:15 
+set 16:13 44:8 
+
+Shanmugam 
+1:18 2:6 19:3,4 
+19:7 20:20 
+21:4,12,17,22 
+22:5,20,25 
+23:12,18,23 
+24:2,19,22 
+25:7,25 27:25 
+28:14 
+
+shape 33:13 
+share 44:22 
+sheep 31:15 
+Sherman 8:10 
+
+10:12 21:11 
+shift 45:5 
+short 7:15,16 
+
+24:8 33:16 
+41:3 
+
+show 33:25 41:8 
+44:20 
+
+showed 50:10 
+showing 25:11 
+
+44:12 47:19 
+shown 31:2 
+
+45:10 
+shows 44:14 
+side 9:18 13:4 
+
+19:12 29:1 
+30:12 31:7,15 
+37:9,24 45:4 
+53:6 
+
+signals 33:24 
+34:3,22 
+
+significant 
+34:22 44:12 
+46:9 49:8 
+
+significantly 
+41:12 
+
+simple 40:18 
+simply 19:12 
+
+25:8 31:16 
+33:7 
+
+single 6:6 7:24 
+situation 7:20 
+
+17:23,25 18:19 
+18:20 41:14 
+43:8 44:4 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 65 
+
+47:25 
+small 29:8,8,9 
+
+29:25 30:12 
+35:21 
+
+sole 22:10,23 
+solely 22:21 
+Solicitor 1:18 
+somebody 13:23 
+sophisticated 
+
+35:15,25 
+sorry 54:2 
+sort 40:1 
+sources 13:8 
+
+53:16,23 
+Souter 9:16 
+
+27:21 28:1 
+38:22 39:8,25 
+40:12,14 49:17 
+50:1,13,15 
+
+so-called 40:6 
+space 6:13 
+special 28:24 
+
+29:19 
+specific 22:9 
+
+24:24 
+specifies 24:6 
+specify 26:20 
+spending 48:11 
+stage 26:8 
+stand 29:17 
+
+49:15 50:16 
+standard 7:5 
+
+19:13,17,18,20 
+20:2,7 24:5 
+25:15 26:2,12 
+28:24 38:22,25 
+43:24 48:15 
+53:7 
+
+standardless 
+49:14 
+
+standards 3:12 
+state 15:1 20:25 
+
+21:13,18 25:17 
+32:13 50:25 
+51:9,18 
+
+stated 48:16 
+statement 48:20 
+
+48:22 51:16 
+States 1:1,13,20 
+
+2:7 19:5 26:22 
+51:7,9 
+
+statute 6:17,24 
+staying 30:23 
+Stevens 4:5,23 
+
+5:2,9,13,24 6:7 
+6:15,25 15:9 
+15:20 16:2,6,9 
+16:16 17:1,5 
+17:13,19,25 
+18:11 20:14,21 
+21:2,6,15,20 
+22:1,6,14,20 
+22:22 23:6,12 
+23:15,21,25 
+25:4,21 
+
+stimulates 19:25 
+stipulate 50:13 
+stockpiling 41:2 
+store 39:21 
+storing 31:23 
+
+32:2 41:2,9 
+story 33:11 52:4 
+strategy 44:8 
+
+47:13 
+strike 30:10 
+strong 25:2 
+subject 27:2,19 
+
+34:15 37:8 
+51:15 
+
+subjective 19:17 
+submit 3:16 
+submitted 37:16 
+
+37:19,20 50:6 
+54:10,12 
+
+substantially 
+51:5 
+
+suffered 4:2 
+suffering 24:7 
+sufficient 4:9 
+
+5:25 6:8 21:23 
+22:2 36:17,19 
+36:22 39:4 
+48:17 54:1,5 
+
+suggest 28:4 
+
+42:13 50:20 
+51:1 
+
+suggested 11:9 
+suggestion 33:7 
+suggests 39:7 
+sum 34:16 
+summary 26:8 
+
+44:1 52:14 
+supplied 46:5 
+suppliers 8:25 
+
+29:6,25 35:13 
+supplies 9:19 
+
+10:1 24:6 
+supply 9:9,23,24 
+
+10:7 30:7 41:3 
+53:16 
+
+supporting 1:21 
+2:8 19:6 
+
+suppose 30:10 
+41:21 43:15 
+
+Supposing 
+15:10 22:15 
+
+Supreme 1:1,13 
+sure 6:12 13:14 
+
+23:18 27:5 
+32:5 
+
+surprisingly 
+37:19 
+
+symmetrical 
+14:3 27:24 
+
+symmetrically 
+32:11 
+
+symmetry 18:23 
+system 8:3 16:10 
+
+T 
+T 2:1,1 
+table 44:8 
+take 12:4,21,22 
+
+16:16,17 27:21 
+36:3 40:15 
+
+takes 7:19 22:18 
+34:2 
+
+talk 8:17 
+talking 13:19 
+
+20:17 50:9 
+target 25:23 
+
+targeted 3:25 
+technique 10:20 
+tell 42:5 
+tend 37:17 
+term 7:15,16 
+
+20:17 24:8,9 
+26:4 33:16 
+36:23 
+
+terms 37:2 
+43:13 45:4 
+50:5 
+
+terrible 30:15 
+test 3:17 5:20 
+
+7:20,23 14:2 
+14:23 15:8 
+18:13,15,17 
+23:16 28:25 
+32:4,20,21,21 
+32:23,25 37:25 
+38:3 43:18 
+45:22 50:25 
+51:11 52:8 
+
+testified 47:13 
+testify 38:19 
+testimony 11:6 
+
+34:10 53:12,21 
+testing 42:11 
+Thank 3:9 19:1 
+
+19:7 28:12,13 
+51:21,22 52:2 
+54:9 
+
+theirs 50:8 
+thing 12:17 
+
+24:25 26:15 
+28:7 38:6 42:4 
+53:5 
+
+things 6:12 47:9 
+think 4:11 6:12 
+
+6:18,19 7:19 
+7:22 8:10 9:2 
+11:17 14:2,3 
+14:12,13 15:7 
+18:22 21:12 
+24:24 25:13 
+28:7 32:5,5,17 
+32:22 36:16,19 
+39:11,18 40:10 
+
+40:22 42:3 
+43:15,18,19 
+44:7 45:5 48:7 
+50:1 52:10,24 
+
+thinned 38:4 
+third 14:13 46:8 
+thought 9:17,17 
+
+31:20 
+threatens 14:24 
+three 5:3 21:13 
+
+21:16 37:17 
+39:13 
+
+threshold 17:10 
+timber 35:4,24 
+time 15:24 18:25 
+
+34:2 35:1 41:3 
+54:2 
+
+times 47:14 
+50:10,11 
+
+told 42:25 
+tolerate 19:22 
+top 47:15 
+total 15:11 
+
+34:16 
+Town 15:2 
+traced 10:16 
+trades 44:17 
+traditional 
+
+31:21 
+transaction 
+
+15:15 
+transfer 46:6 
+treat 32:10 
+treatise 28:5 
+tree 33:15 34:5 
+
+34:11 
+trial 11:15 12:1 
+
+34:10 37:10,17 
+tried 39:5 50:18 
+tries 31:19 
+Trinko 5:19 7:4 
+true 4:21 21:4 
+
+28:1 52:12 
+trumped 28:22 
+try 8:14 24:13 
+
+30:11,14,15 
+40:15 49:5 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 66 
+
+trying 9:6 18:1 
+31:21 41:10 
+49:10 
+
+Tuesday 1:10 
+turn 14:11 38:2 
+two 5:4,21 6:13 
+
+10:10 11:16 
+14:11 22:8,15 
+23:8 24:15 
+32:15,20 33:13 
+38:2 40:19 
+51:24 
+
+two-pronged 
+19:18 
+
+type 50:21 
+typical 34:1 
+typically 26:8 
+
+U 
+ultimate 37:21 
+
+38:5 
+ultimately 9:21 
+
+38:1 46:12 
+undercut 53:8 
+underinclusion 
+
+19:22 
+underpinning 
+
+7:8 
+underpinnings 
+
+3:17 
+understand 
+
+17:20 
+understanding 
+
+4:7 
+understood 
+
+20:21 
+unilateral 17:12 
+
+17:13 
+United 1:1,13,20 
+
+2:7 19:5 26:22 
+unlawful 8:21 
+unnecessarily 
+
+31:22 52:9 
+unnecessary 
+
+26:20 
+unprecedente... 
+
+41:15 
+
+use 8:5 10:5 
+33:8,20 
+
+useful 27:10 
+usually 11:17 
+
+19:11 20:6 
+
+V 
+v 1:5 
+value 11:4 52:9 
+variable 27:8 
+variety 44:6 
+
+45:1 
+various 27:15 
+
+53:16 
+verdict 49:15 
+version 38:5 
+versus 3:4 32:10 
+
+32:17 
+vertical 32:11 
+viable 44:3 
+victims 32:1 
+view 5:18 11:21 
+
+11:23 19:15 
+20:4,24 21:6 
+21:22 22:7 
+24:4 32:6 
+
+violate 3:13 
+violation 4:10 
+
+4:25 5:4,16 6:1 
+6:9,16,23 18:2 
+18:4 21:11,16 
+22:2 23:17,20 
+24:1,3 
+
+virtue 27:12,18 
+vital 26:7 
+volume 10:22 
+
+14:5 35:17 
+41:11 
+
+volumes 41:15 
+vs 32:13 36:24 
+vulnerable 51:8 
+
+W 
+wake 48:24 
+want 9:13 15:14 
+
+22:17 26:15 
+28:3 29:21 
+35:18 40:3 
+
+42:19 
+wanted 13:22 
+wants 43:4 
+warehoused 
+
+41:14 
+warranted 20:7 
+warrants 7:23 
+Washington 1:9 
+
+1:16,19 34:11 
+48:3,6,12 
+
+wasn't 11:22,24 
+14:1 25:7 
+
+waste 11:8 
+way 4:11 6:19 
+
+18:17 30:18 
+33:21 34:14 
+39:6,17 42:1 
+46:6 48:10,10 
+49:8 50:5 
+51:12 53:16 
+
+weeks 37:17 
+welfare 10:16 
+went 39:17 
+Weyerhaeuser 
+
+1:3 3:4 11:3,7 
+11:8 13:9,22 
+34:4 35:20 
+36:8,11 38:4 
+38:16 39:7,15 
+43:9,11 44:12 
+44:16,21 45:7 
+45:23 46:5 
+47:4,13,19 
+48:3 51:13 
+53:20 
+
+Weyerhaeuser's 
+12:19 14:9 
+31:2 38:7 44:4 
+
+We'll 3:3 
+we're 16:12 
+
+17:11 24:13 
+40:15 
+
+we've 15:13 
+49:18,19,22 
+50:3,19 
+
+willing 10:24 
+14:18 19:21 
+
+winter 31:23 
+32:3 
+
+withdrew 38:3 
+46:17,23 
+
+witnesses 51:17 
+51:20 
+
+wood 9:20 
+woodland 35:21 
+woods 30:24 
+woodsmen 
+
+30:12,19 31:14 
+33:11 
+
+word 40:4 
+words 19:23 
+
+50:8 
+work 33:6 
+workable 33:8 
+works 14:2 48:9 
+worry 16:23 
+wouldn't 16:1 
+
+18:2 24:17 
+write 16:20 
+
+29:21 
+writing 12:3 
+wrong 20:22 
+
+29:3 32:15 
+49:3 
+
+wrote 16:13 
+
+X 
+x 1:2,8 15:13,15 
+
+Y 
+yardstick 28:10 
+year 48:10 
+years 26:6 28:21 
+
+31:20 34:2 
+35:2,22 38:19 
+
+year-end 48:2 
+
+$ 
+$2 47:22 
+$40 48:10 
+
+0 
+01 47:21 
+02 47:21 
+03 47:21 
+
+05-381 1:5 3:4 
+
+1 
+1 8:17,20 17:11 
+10:02 1:14 3:2 
+11:03 54:11 
+12 44:1 
+122 50:8 
+13 26:5 51:20 
+14(a) 4:19 
+15 44:23 
+18 50:10 
+19 2:8 50:10 
+
+2 
+2 4:10,25 5:4,8 
+
+5:17 6:4 7:5 
+17:8 18:16,17 
+20:25 22:3,11 
+23:17 24:1,3 
+28:25 47:21 
+
+20-plus 38:19 
+20-year 44:24 
+2001 31:5 47:19 
+2006 1:10 
+25 28:21 
+260 47:17 
+28 1:10 2:11 
+29 50:25 
+
+3 
+3 2:4 
+30 13:7 34:2 
+
+35:2 53:22 
+33 44:19 
+
+4 
+40 31:20 
+43 45:10 48:18 
+
+48:20 
+
+5 
+50 13:7 33:15 
+
+34:2 53:22 
+51 2:14 
+571A 53:12 
+573A 53:13 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+Page 67 
+
+6
+
+62 44:15
+
+65 44:22
+
+68 32:10
+
+
+75 12:6
+
+7
+
+
+8
+
+831 48:1
+
+
+9
+
+901 44:11,20 
+901A 53:11 
+903 47:18 
+93A 52:7 
+95 48:2 
+97 50:8 
+
+Alderson Reporting Company 
+
+

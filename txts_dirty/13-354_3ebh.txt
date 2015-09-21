@@ -1,0 +1,7090 @@
+
+              
+
+         
+
+          
+
+         
+
+                       
+
+       
+
+                         
+
+                             
+
+                  
+
+        
+
+                         
+
+         
+
+                       
+
+              
+
+         
+
+          
+
+1 
+
+Official ­ Subject to Final Review 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+3 KATHLEEN SEBELIUS,  : 
+
+4 SECRETARY OF HEALTH AND  :  No. 13­354 
+
+5 HUMAN SERVICES, ET AL.  : 
+
+6  Petitioners  : 
+
+7  v.  : 
+
+8 HOBBY LOBBY STORES, INC.,  : 
+
+9 ET AL.;  : 
+
+10  : 
+
+11 and  : 
+
+12  : 
+
+13 CONESTOGA WOOD  : 
+
+14 SPECIALTIES CORPORATION,  : 
+
+15 ET AL.,  : 
+
+16  Petitioners  :  No. 13­356 
+
+17  v.  : 
+
+18 KATHLEEN SEBELIUS,  : 
+
+19 SECRETARY OF HEALTH AND  : 
+
+20 HUMAN SERVICES, ET AL.  : 
+
+21 ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+22  Washington, D.C. 
+
+23  Tuesday, March 25, 2014 
+
+24 
+
+25  The above­entitled matter came on for oral 
+
+Alderson Reporting Company 
+
+
+
+2 
+
+Official ­ Subject to Final Review 
+
+1 argument before the Supreme Court of the United States 
+
+2 at 10:11 a.m.
+ 
+
+3
+ APPEARANCES:
+ 
+
+4
+ PAUL D. CLEMENT, ESQ., Washington, D.C.; on behalf
+ 
+
+5
+  of the Private Parties. 
+
+6 DONALD B. VERRILLI, JR., ESQ., Solicitor General, 
+
+7  Department of Justice, Washington, D.C.; on behalf of 
+
+8  the Federal Government. 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+
+
+                                
+
+               
+
+            
+
+               
+
+3 
+
+Official ­ Subject to Final Review 
+
+1  C O N T E N T S
+ 
+
+2
+ ORAL ARGUMENT OF  PAGE 
+
+3 PAUL D. CLEMENT, ESQ. 
+
+4 4On behalf of the Private Parties 
+
+
+5
+ ORAL ARGUMENT OF 
+
+6 DONALD B. VERRILLI, JR., ESQ. 
+
+7  On behalf of the Federal Government  41 
+
+8 REBUTTAL ARGUMENT OF 
+
+9 PAUL D. CLEMENT, ESQ. 
+
+10  On behalf of the Private Parties  83 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+
+
+4 
+
+Official ­ Subject to Final Review 
+
+1  P R O C E E D I N G S 
+
+2  (10:11 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS:  We'll hear argument 
+
+4 this morning in consolidated cases Number 13­354, 
+
+5 Sebelius, Secretary of Health and Human Services v. 
+
+6 Hobby Lobby Stores; and 13­356, Conestoga Wood 
+
+7 Specialties Corporation v. Sebelius. 
+
+8  Mr. Clement. 
+
+9  ORAL ARGUMENT OF PAUL D. CLEMENT 
+
+10  ON BEHALF OF THE PRIVATE PARTIES 
+
+11  MR. CLEMENT:  Mr. Chief Justice, and may it 
+
+12 please the Court: 
+
+13  When a Federal Government agency compelled 
+
+14 employers to provide something as religiously sensitive 
+
+15 as contraception, it knew that free exercise in RFRA 
+
+16 claims would soon follow. 
+
+17  In particular, the agency itself provided 
+
+18 exemptions and accommodations for the religious exercise 
+
+19 of a subset ­­
+
+20  JUSTICE SOTOMAYOR:  Is your claim limited to 
+
+21 sensitive materials like contraceptives or does it 
+
+22 include items like blood transfusion, vaccines?  For 
+
+23 some religions, products made of pork?  Is any claim 
+
+24 under your theory that has a religious basis, could an 
+
+25 employer preclude the use of those items as well? 
+
+Alderson Reporting Company 
+
+
+
+5 
+
+Official ­ Subject to Final Review 
+
+1  MR. CLEMENT:  Well, Justice Sotomayor, the 
+
+2 first step in the analysis would be to ask whether or 
+
+3 not there's a substantial burden on religious exercise. 
+
+4 I do think this case is, in a sense, easier than most of 
+
+5 the examples that you've brought up because here's one 
+
+6 where it's so religiously sensitive, so fraught with 
+
+7 religious controversy, that the agency itself provides a 
+
+8 certain number of exemptions and accommodations.  So 
+
+9 that's one way, I think, that you'd address the first 
+
+10 step of the question here. 
+
+11  JUSTICE KAGAN:  Well, I mean, just take one 
+
+12 of the things that Justice Sotomayor asked about, which 
+
+13 is vaccinations, because there are many people who have 
+
+14 religious objections to vaccinations.  So suppose an 
+
+15 employer does and ­­ and refuses to fund or wants not to 
+
+16 fund vaccinations for her employees, what ­­ what 
+
+17 happens then? 
+
+18  MR. CLEMENT:  Well, if we assume we get past 
+
+19 the substantial burden step of the analysis, then the 
+
+20 next step of the analysis is the compelling interest and 
+
+21 least restrictive alternatives analysis.  And every case 
+
+22 would have to be analyzed on its own.  I do think in the 
+
+23 context of vaccinations, the government may have a 
+
+24 stronger compelling interest than it does in this 
+
+25 context because there are notions of herd immunity and 
+
+Alderson Reporting Company 
+
+
+
+6 
+
+Official ­ Subject to Final Review 
+
+1 the like that give the government a particularly 
+
+2 compelling interest in trying to maximize the number ­­
+
+3  JUSTICE KAGAN:  Blood transfusions? 
+
+4  MR. CLEMENT:  Blood transfusions.  Again, 
+
+5 each one of these cases, I think would have to be 
+
+6 evaluated on its own and apply the compelling 
+
+7 interest­least restrictive alternative test and the 
+
+8 substantial burdens part of the test. 
+
+9  JUSTICE KAGAN:  So really, every medical 
+
+10 treatment.  And Justice Sotomayor is quite right that 
+
+11 there are quite a number of medical treatments that 
+
+12 difference religious groups object to.  So one religious 
+
+13 group could opt out of this and another religious group 
+
+14 could opt out of that and everything would be piecemeal 
+
+15 and nothing would be uniform. 
+
+16  MR. CLEMENT:  Well ­­ well, Justice Kagan, 
+
+17 nothing could be clearer than when Congress passed RFRA 
+
+18 Congress made a judgment that RFRA was going to apply to 
+
+19 all manner of Federal statutes.  And I think what the 
+
+20 Congress ­­
+
+21  JUSTICE GINSBURG:  Mr. Clement, maybe it 
+
+22 seemed clear then, but since RFRA, just as before RFRA, 
+
+23 Congress has continued to write into Federal legislation 
+
+24 specific religious exemptions for some, but not 
+
+25 everybody, for individuals, sometimes religious 
+
+Alderson Reporting Company 
+
+
+
+7 
+
+Official ­ Subject to Final Review 
+
+1 institutions.  So if it was all that clear that RFRA 
+
+2 took care of it all, why did Congress continue after 
+
+3 RFRA to pass these laws focusing the exemption on an 
+
+4 individual, religious institution?  Those, as I take 
+
+5 your argument, all of those laws ­­ and there are more 
+
+6 than half a dozen ­­ were unnecessary.  Once RFRA was on 
+
+7 the books, Congress didn't have to do that any more. 
+
+8  MR. CLEMENT:  Well, Justice Ginsburg, I'm 
+
+9 not sure that they were all unnecessary.  And of course, 
+
+10 in a variety of contexts, Congress may proceed on a belt 
+
+11 and suspenders matters.  So I think there's really two 
+
+12 different questions.  One is when Congress passed RFRA, 
+
+13 was RFRA just done with creating other exemptions.  And 
+
+14 I think the answer to that is no.  But I think the 
+
+15 question that Justice Kagan's question brought up is, 
+
+16 was Congress evident and did Congress specifically 
+
+17 consider whether RFRA would apply across the board to 
+
+18 all the provisions of 18 U.S.C., or rather all the 
+
+19 provisions of the United States Code.  And Congress 
+
+20 could not have been clearer that it was passing a 
+
+21 statute that it wanted to apply to all preexisting 
+
+22 statutes and to all subsequent statutes unless Congress 
+
+23 specifically provided otherwise. 
+
+24  JUSTICE KENNEDY:  You were beginning by 
+
+25 giving us a framework for your argument.  Do I think of 
+
+Alderson Reporting Company 
+
+
+
+8 
+
+Official ­ Subject to Final Review 
+
+1 this as a statutory case?  Of course, the First 
+
+2 Amendment is on the stage at some point here, but I take 
+
+3 it you can prevail just on the question of statutory 
+
+4 interpretation, and if that is so, are there any 
+
+5 statutory rules that work in your favor, that is to say, 
+
+6 avoiding a constitutional question or how do we think 
+
+7 about this case, primarily as a statutory case? 
+
+8  MR. CLEMENT:  Obviously, one of my clients 
+
+9 has before you right now a free exercise claim and my 
+
+10 other client has a free exercise claim that's live in 
+
+11 the lower courts.  So those issues are preserved.  But 
+
+12 I, think, as your question points out, this Court 
+
+13 really, first and foremost, can decide this on the basis 
+
+14 of the Federal statute, and the Ashwander principles of 
+
+15 constitutional avoidance seem like they would be sort of 
+
+16 fully applicable to the Court's consideration of that 
+
+17 question.  And then, of course, the normal principles of 
+
+18 statutory construction would certainly point you to the 
+
+19 answer to the first objection the government raises, 
+
+20 which is do persons include for­profit corporations 
+
+21 because ­­
+
+22  JUSTICE KAGAN:  Mr. Clement, isn't this a 
+
+23 special kind of statute?  Because this is a statute that 
+
+24 specifically refers back to a body of constitutional 
+
+25 law.  It basically says we want to get right back to the 
+
+Alderson Reporting Company 
+
+
+
+9 
+
+Official ­ Subject to Final Review 
+
+1 place that we were with respect to religious claims 
+
+2 before Employment Division v. Smith.  And so we have ­­
+
+3 it's not ­­ you know, it's a statute that directs us to 
+
+4 a body of constitutional law. 
+
+5  That body of constitutional law is, I think, 
+
+6 very different from the one you portray in your brief. 
+
+7 It suggests that accommodations should be made 
+
+8 sometimes, but rarely, and subject to a ­­ to a 
+
+9 balancing analysis, not to a compelling interest 
+
+10 standard in the way we would use it for, say, race 
+
+11 discrimination.  So, you know, what's ­­ what's the 
+
+12 response to that? 
+
+13  MR. CLEMENT:  Well, first, Justice Kagan, 
+
+14 let me take a little bit of an issue with your premise 
+
+15 and let me try to responsive to your question anyways 
+
+16 after I do that.  How I'd like to take issue with your 
+
+17 premise is that when Congress first passed the statute 
+
+18 RFRA, it talked about free exercise as defined in the 
+
+19 Court's cases.  And then at the time that it passed 
+
+20 RLUIPA, which is a later statute, it actually confronted 
+
+21 some lower court cases that had limited RFRA and tried 
+
+22 to impose a centrality requirement.  And Congress didn't 
+
+23 want that.  It didn't want to take all the baggage of 
+
+24 the pre­Smith free exercise cases.  So it actually 
+
+25 amended the statute to broaden it so it now protects any 
+
+Alderson Reporting Company 
+
+
+
+10 
+
+Official ­ Subject to Final Review 
+
+1 exercise of religion.  So I would take issue with your 
+
+2 premise that RFRA simply picks up everything that ever 
+
+3 happened pre­Smith. 
+
+4  JUSTICE SCALIA:  Well, there ­­ there's 
+
+5 another respect in which this, even as originally 
+
+6 enacted, does not track the ­­ the preemployment 
+
+7 Division v. Smith law.  That is to say, the ­­ the 
+
+8 compelling State interest test in the prior cases was 
+
+9 never accompanied by a least restrictive alternative 
+
+10 requirement.  That was an invention of this ­­ of this 
+
+11 law. 
+
+12  MR. CLEMENT:  I think that's fair, Justice 
+
+13 Scalia.  One of the things that you run into if you try 
+
+14 to sort of get at this statute the way that Justice 
+
+15 Kagan is suggesting is that not everybody exactly agreed 
+
+16 as to what the pre­Smith case law was.  You described 
+
+17 the pre­Smith case law in your opinion in a certain way. 
+
+18 Justice O'Connor described the pre­Smith case law in 
+
+19 another way.  So it's a little bit difficult to try to 
+
+20 say, as Justice Kagan's question would suggest, that 
+
+21 rather than just apply the statute as written, we should 
+
+22 really sort of just go back and apply pre­Smith laws if 
+
+23 this were ­­
+
+24  JUSTICE KAGAN:  Well, it is applying the 
+
+25 statute as written.  The statute as written ­­ this is 
+
+Alderson Reporting Company 
+
+
+
+11 
+
+Official ­ Subject to Final Review 
+
+1 not a question of legislative history ­­ the statute as 
+
+2 written points back to pre­Smith law.  It says:  That's 
+
+3 what we mean. 
+
+4  MR. CLEMENT:  Well, you're right, Justice 
+
+5 Kagan, in the purpose part of the statute it says:  What 
+
+6 we mean to do here is basically restore the pre­Smith 
+
+7 law.  But it also accompanies that purpose statute with 
+
+8 operative language.  And the operative language, which I 
+
+9 think this Court should apply, as Justice Scalia 
+
+10 suggests, applies broadly to any exercise of religion by 
+
+11 any person and then suggests that the relevant test is 
+
+12 substantial burden with the burden on my client as to 
+
+13 the substantial burden part of the test.  And then 
+
+14 it's ­­
+
+15  JUSTICE GINSBURG:  Mr. Clement, this ­­ this 
+
+16 was a law that was passed overwhelmingly, both houses of 
+
+17 Congress.  People from all sides of the political 
+
+18 spectrum voted for it.  It seems strange that there 
+
+19 would have been that tremendous uniformity if it means 
+
+20 what you said it means, to take ­­ to cover profit 
+
+21 corporations, especially in light of ­­ there was an 
+
+22 effort to adopt a conscience amendment, a specific 
+
+23 conscience amendment in 2012, and the Senate rejected 
+
+24 that.  That ­­ that amendment would have enabled secular 
+
+25 employers and insurance providers to deny coverage on 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+12 
+
+1 the basis of religious beliefs or moral convictions.  It 
+
+2 was specifically geared to secular employers and 
+
+3 insurance providers.  And that ­­ that was rejected. 
+
+4  MR. CLEMENT:  Well, Justice Ginsburg, I 
+
+5 would suggest to the contrary.  The reason that there 
+
+6 was such unanimity behind RFRA in the first place is 
+
+7 that efforts to limit it to just certain subclasses, 
+
+8 subsets of religious freedom claims, were rejected and 
+
+9 sort of everybody in Congress got together and said, all 
+
+10 right, you have some claims you actually want to be 
+
+11 vindicated, you have some claims you want to be 
+
+12 vindicated, we'll vindicate all of them.  And if we're 
+
+13 going to look at any legislative history as shedding 
+
+14 light on this, then I would suggest you look at 
+
+15 Professor Laycock's brief, which goes into great detail 
+
+16 about the legislative debates involved in ­­ that led up 
+
+17 ultimately to the passage of RLUIPA.  And when Congress 
+
+18 was trying to pass a broader statute, the RLPA, the 
+
+19 Religious Liberty Protection Act, the issue of the 
+
+20 statute's application and RFRA's application to 
+
+21 for­profit corporations was squarely put at issue by the 
+
+22 Nadler Amendment.  And that amendment was rejected and 
+
+23 the House report that demonstrates the rejection of that 
+
+24 amendment could not be clearer that they understood that 
+
+25 for­profit corporations would be covered. 
+
+Alderson Reporting Company 
+
+
+
+13 
+
+Official ­ Subject to Final Review 
+
+1  Now, in fairness, what they understood is 
+
+2 that we were probably talking about in the real world a 
+
+3 relatively small set of corporations like an 
+
+4 incorporated kosher market or kosher deli of the kind 
+
+5 that this Court had before it in the Crown Kosher case. 
+
+6 And so I think it's ­­ you know, we can talk about the 
+
+7 extent and how you'd apply these principles to Exxon, 
+
+8 but I think that's just something that's not going to 
+
+9 happen in the real world.  It is no accident that the 
+
+10 claims that you have before you in these cases are 
+
+11 brought by small closely­held corporations that have 
+
+12 firmly held religious beliefs. 
+
+13  JUSTICE KAGAN:  But, again, Mr. Clement as 
+
+14 Justice Ginsburg said, this was a very uncontroversial 
+
+15 law.  Your understanding of this law, your 
+
+16 interpretation of it, would essentially subject the 
+
+17 entire U.S. Code to the highest test in constitutional 
+
+18 law, to a compelling interest standard.  So another 
+
+19 employer comes in and that employer says, I have a 
+
+20 religious objection to sex discrimination laws; and then 
+
+21 another employer comes in, I have a religious objection 
+
+22 to minimum wage laws; and then another, family leave; 
+
+23 and then another, child labor laws.  And all of that is 
+
+24 subject to the exact same test which you say is this 
+
+25 unbelievably high test, the compelling interest standard 
+
+Alderson Reporting Company 
+
+
+
+14 
+
+Official ­ Subject to Final Review 
+
+1 with the least restrictive alternative. 
+
+2  MR. CLEMENT:  Well, I don't say that.  I 
+
+3 think Congress said that.  But to be as responsive as I 
+
+4 can to your question, the parade of horribles that the 
+
+5 government offers you ought to sound familiar, because 
+
+6 if you look at that parade of horribles ­­ Social 
+
+7 Security, minimum wage, discrimination laws, compelled 
+
+8 vaccination ­­ every item on that list was included in 
+
+9 Justice Scalia's opinion for the Court in Smith.  And 
+
+10 Justice O'Connor responded to that in her separate 
+
+11 opinion and she said, look, you've got to trust the 
+
+12 courts; just because free exercise claims are being 
+
+13 brought doesn't mean that the courts can't separate the 
+
+14 sheep from the goats.  Now, whatever ­­
+
+15  JUSTICE KAGAN:  Well, she had an 
+
+16 understanding of how the Court worked pre­Smith that was 
+
+17 a kind of Sherbert v. Verner­Yoder understanding, which 
+
+18 was we did a balancing, we looked at the government's 
+
+19 interests, we took those very seriously, especially to 
+
+20 the extent that there was harm to identifiable third 
+
+21 parties and that it fell on an identifiable third party. 
+
+22 That was basically ­­ you could not get an accommodation 
+
+23 for that kind of harm. 
+
+24  MR. CLEMENT:  Well, what she said and 
+
+25 whatever the merits of it as a matter of constitutional 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+15 
+
+1 debate isn't relevant.  What ­­ what I think is relevant 
+
+2 is that Congress clearly preferred one side of that 
+
+3 debate and thought courts could handle this. 
+
+4  So then the question becomes:  How do courts 
+
+5 actually apply this test?  And I don't think applying 
+
+6 the test to recognize this case, where I think the 
+
+7 government has an incredibly weak case on compelling 
+
+8 interest and least restrictive alternatives, which they 
+
+9 almost don't want to talk about at all, is going to 
+
+10 endanger any other statutes.  And if I could talk about 
+
+11 specific ­­
+
+12  JUSTICE ALITO:  Well, could I ask you this, 
+
+13 Mr. Clement.  In ­­ in all the years since RFRA has been 
+
+14 on the books, has any of these claims involving minimum 
+
+15 wage, for example, been brought and have they succeeded? 
+
+16  MR. CLEMENT:  Justice Alito, very few of 
+
+17 these claims have been brought.  Very few of them have 
+
+18 succeeded, and that's notwithstanding the fact that all 
+
+19 of these statutes we're talking about apply to employers 
+
+20 generally.  And it ­­ and none of those claims have been 
+
+21 brought or they haven't succeeded notwithstanding the 
+
+22 fact that the government concedes that sole 
+
+23 proprietorships and partnerships and nonprofit 
+
+24 corporations are all protected by RFRA. 
+
+25  Now, millions of Americans are employed by 
+
+Alderson Reporting Company 
+
+
+
+16 
+
+Official ­ Subject to Final Review 
+
+1 proprietorships, partnerships, and nonprofits.  So if 
+
+2 these statutes really were on a collision course, I 
+
+3 think we would have seen the collision already. 
+
+4  JUSTICE KAGAN:  Well, with respect, 
+
+5 Mr. Clement, I think that that's probably because the 
+
+6 Court has had a different understanding of what RFRA 
+
+7 does and the kind of analysis that it requires courts to 
+
+8 perform than you're arguing for in this case.  That if 
+
+9 your argument were adopted and there was a strict 
+
+10 scrutiny standard of the kind that usually applies and a 
+
+11 least restrictive alternative requirement, then you 
+
+12 would see religious objectors come out of the woodwork 
+
+13 with respect to all of these laws.  And because you say 
+
+14 that there ­­ and I think this is absolutely right when 
+
+15 you say it ­­ that you ­­ you cannot test the centrality 
+
+16 of a belief to a religion, you cannot test the sincerity 
+
+17 of religion.  I think a court would be, you know ­­
+
+18 their hands would be bound when faced with all these 
+
+19 challenges if your standard applies. 
+
+20  MR. CLEMENT:  Well, Justice Kagan, a couple 
+
+21 of thoughts.  First of all, I mean, it's not like this 
+
+22 Court has never had a RFRA case that it applied the 
+
+23 standard on the merits.  And in the O Centro case, this 
+
+24 Court applied something that very much felt to the 
+
+25 government at the time as being strict scrutiny.  But if 
+
+Alderson Reporting Company 
+
+
+
+17 
+
+Official ­ Subject to Final Review 
+
+1 this Court ­­
+
+2  JUSTICE GINSBURG:  Well, It was a religious 
+
+3 organization. 
+
+4  MR. CLEMENT:  It certainly was a religious 
+
+5 organization and it's a separate question as ­­
+
+6  JUSTICE GINSBURG:  This is ­­ this is what's 
+
+7 different.  I mean, all along the earlier cases dealt 
+
+8 with individuals and they dealt with religious 
+
+9 institutions. 
+
+10  MR. CLEMENT:  Well, if I may, Justice 
+
+11 Ginsburg, there's two separate questions.  There's a 
+
+12 question about how to apply the test if it's applicable 
+
+13 in a particular case, and I think O Centro is the 
+
+14 starting place for guidance on that. 
+
+15  Your question also brings up the separate 
+
+16 question about the coverage of the statute.  And as to 
+
+17 that, I think the place to start is the statute itself, 
+
+18 which broadly provides coverages to persons.  That is 
+
+19 not an incidental term.  It's a term that picks up 
+
+20 additional context through the Dictionary Act and 
+
+21 specifically applies to all corporations, to joint 
+
+22 partnerships, to societies. 
+
+23  JUSTICE SOTOMAYOR:  How does a corporation 
+
+24 exercise religion?  I mean, I know how it speaks and we 
+
+25 have, according to our jurisprudence, 200 years of 
+
+Alderson Reporting Company 
+
+
+
+18 
+
+Official ­ Subject to Final Review 
+
+1 corporations speaking in its own interests.  But where 
+
+2 are the cases that show that a corporation exercises 
+
+3 religion? 
+
+4  MR. CLEMENT:  Well, Justice Sotomayor, 
+
+5 those ­­ those cases ­­ I mean, I'd start with cases 
+
+6 like Lukumi or O Centro, which all involved 
+
+7 corporations, and nobody thought it was particularly 
+
+8 problematic there that the plaintiffs before the court 
+
+9 were artificial entities.  And I suppose you could 
+
+10 take ­­
+
+11  JUSTICE SOTOMAYOR:  Well, but they were 
+
+12 really arguing about things that affected their 
+
+13 membership, not them as a corporate entity. 
+
+14  MR. CLEMENT:  Well, I'm not sure that you 
+
+15 can so easily divide the two, and we can talk about how 
+
+16 it is with corporations generally.  You understand how 
+
+17 the corporation has certain beliefs or certain intent, a 
+
+18 scienter requirement.  The courts every day deal with 
+
+19 issues of trying to figure out what kind of intent or 
+
+20 motivation a corporate entity has. 
+
+21  JUSTICE SOTOMAYOR:  So the dissent in this 
+
+22 case, in the Tenth Circuit case, said how do we 
+
+23 determine when a corporation has that belief?  Who says 
+
+24 it?  The majority of shareholders?  The corporate 
+
+25 officers?  The ­­ is it 51 percent?  What happens to the 
+
+Alderson Reporting Company 
+
+
+
+19 
+
+Official ­ Subject to Final Review 
+
+1 minority?  And how much of the business has to be 
+
+2 dedicated to religion?  5 percent?  10 percent?  90 
+
+3 percent?  Just assume not a business like yours ­­ you 
+
+4 picked great plaintiffs, but let's assume ­­
+
+5  (Laughter.) 
+
+6  JUSTICE SOTOMAYOR:  Let's assume just a 
+
+7 business that sells 5 percent of religious books, 
+
+8 doesn't play Christmas music, doesn't give off ­­ works 
+
+9 on Sunday, you know, does nothing else religiously. 
+
+10  MR. CLEMENT:  Right.  And, Justice 
+
+11 Sotomayor, I think the way to approach those cases would 
+
+12 be the same basic way you approach other questions of 
+
+13 corporate intent or corporate motivation.  You look to 
+
+14 the governance doctrines, if any of this is put at 
+
+15 issue.  And I think that's really a critical question, 
+
+16 which is ultimately, I think this line of questioning 
+
+17 goes to a question of sincerity, and if some large 
+
+18 corporation asserts some claim that's going to save them 
+
+19 lots of money, I would think that the government in 
+
+20 those kind of cases is really going to resist the 
+
+21 sincerity piece of the analysis.  In this kind of 
+
+22 case ­­
+
+23  JUSTICE SOTOMAYOR:  That's the most 
+
+24 dangerous piece.  That's the one we've resisted in all 
+
+25 our exercise jurisprudence, to measure the depth of 
+
+Alderson Reporting Company 
+
+
+
+20 
+
+Official ­ Subject to Final Review 
+
+1 someone's religious beliefs. 
+
+2  MR. CLEMENT:  To be clear, this Court's 
+
+3 cases have always distinguished between the sincerity 
+
+4 inquiry, which the Court has allowed, and the centrality 
+
+5 inquiry, which it suggested is inappropriate.  But 
+
+6 sincerity has always been a part of this Court's cases. 
+
+7  JUSTICE SOTOMAYOR:  I thought more 
+
+8 importantly was whether a burden was substantial or not. 
+
+9 That we've never acceded to the person claiming a 
+
+10 religious exemption, a belief in how substantial the 
+
+11 burden might be. 
+
+12  MR. CLEMENT:  Right.  This Court has not 
+
+13 questioned that.  The Thomas case, I think, puts as 
+
+14 common ground the idea that you don't really 
+
+15 second­guess the person's ­­ the person's belief, but 
+
+16 you can contest sincerity.  It is ­­ there is case law 
+
+17 in this.  You know, you have people who are arrested in 
+
+18 possession of large quantities of marijuana and they 
+
+19 assert that they belong to the church of marijuana, and 
+
+20 those cases do get litigated and they get rejected.  And 
+
+21 there's a lot of different ways to ­­
+
+22  JUSTICE SOTOMAYOR:  Is there ­­ is there a 
+
+23 different way of looking at it, the leeway?  In U.S. v. 
+
+24 Lee, we said, "When followers of a particular sect enter 
+
+25 into a commercial activity as a matter of choice, the 
+
+Alderson Reporting Company 
+
+
+
+21 
+
+Official ­ Subject to Final Review 
+
+1 limits they accept on their own conduct as a matter of 
+
+2 conscience and faith are not to be superimposed on the 
+
+3 statutory schemes which are binding on others in that 
+
+4 activity." 
+
+5  So isn't that really the answer, that we've 
+
+6 never considered a for­profit corporation as exercising 
+
+7 religion? 
+
+8  MR. CLEMENT:  Well, let me ­­ let me take on 
+
+9 Lee first.  And I mean, that's obviously the two lines 
+
+10 of Lee that are the government's favorite two lines in 
+
+11 Lee.  But Lee starts with a substantial burden inquiry, 
+
+12 which is where most of these sincerity questions go. 
+
+13 And Lee definitely says that there is a sincere 
+
+14 religious belief and a substantial burden on religious 
+
+15 exercise. 
+
+16  So the two sentences that you're quoting 
+
+17 come in the compelling interest analysis of the case. 
+
+18 And I think Lee does stand for the proposition that in 
+
+19 the tax context, it's going to be very hard for somebody 
+
+20 to bring a claim that satisfies even the demanding 
+
+21 compelling interest, least restrictive alternative test. 
+
+22  JUSTICE SOTOMAYOR:  Well, that's an 
+
+23 interesting question, because the briefs on both sides 
+
+24 here are written as if the penalty for not having a 
+
+25 health insurance policy that covers contraceptives is at 
+
+Alderson Reporting Company 
+
+
+
+22 
+
+Official ­ Subject to Final Review 
+
+1 issue.  But isn't there another choice nobody talks 
+
+2 about, which is paying the tax, which is a lot less than 
+
+3 a penalty and a lot less than ­­ than the cost of health 
+
+4 insurance at all?  These employers could choose not to 
+
+5 give health insurance and pay not that high a penalty ­­
+
+6 not that high a tax. 
+
+7  MR. CLEMENT:  Well, just to put this in 
+
+8 concrete terms, for Hobby Lobby, for example, the choice 
+
+9 is between paying a 500 ­­ a $475 million per year 
+
+10 penalty and paying a $26 million per year coverage. 
+
+11  JUSTICE KAGAN:  No, I don't think that 
+
+12 that's the same thing, Mr. Clement.  There's one penalty 
+
+13 that is if the employer continues to provide health 
+
+14 insurance without this part of the coverage, but Hobby 
+
+15 Lobby could choose not to provide health insurance at 
+
+16 all.  And in that case Hobby Lobby would pay $2,000 per 
+
+17 employee, which is less than Hobby Lobby probably pays 
+
+18 to provide insurance to its employees. 
+
+19  So there is a choice here.  It's not even a 
+
+20 penalty by ­­ in the language of the statute.  It's a 
+
+21 payment or a tax.  There's a choice.  And so the 
+
+22 question is, why is there a substantial burden at all? 
+
+23  MR. CLEMENT:  Well, just to be clear, we 
+
+24 were talking about the same thing.  So the option, the 
+
+25 choice, is between paying a $475 million a year penalty 
+
+Alderson Reporting Company 
+
+
+
+23 
+
+Official ­ Subject to Final Review 
+
+1 and a $26 million a year penalty.  That's what Hobby 
+
+2 Lobby faces.  So $2,000 per person ­­
+
+3  JUSTICE KAGAN:  No, between paying $2,000 
+
+4 per employee per year if Hobby Lobby does not provide ­­
+
+5  MR. CLEMENT:  That's $26 million. 
+
+6  JUSTICE KAGAN:  You know, Hobby Lobby is 
+
+7 paying something right now for the ­­ for the coverage. 
+
+8 It's less than what Hobby Lobby is paying for the 
+
+9 coverage.  There are employers all over the United 
+
+10 States that are doing this voluntarily because they 
+
+11 think that it's less. 
+
+12  CHIEF JUSTICE ROBERTS:  I thought ­­ I 
+
+13 thought that part of the religious commitment of the 
+
+14 owners was to provide health care for its employees. 
+
+15  MR. CLEMENT:  That is true, Mr. Chief 
+
+16 Justice.  It is also true that this ­­
+
+17  JUSTICE SOTOMAYOR:  Well, if they want to do 
+
+18 that, they can just pay a greater salary and let the 
+
+19 employees go in on the exchange. 
+
+20  MR. CLEMENT:  Exactly, which is, by the way, 
+
+21 why comparing the $2,000 penalty to the cost of the 
+
+22 health care is a false ­­ it's a false comparison. 
+
+23  JUSTICE SOTOMAYOR:  It's not called a 
+
+24 penalty.  It's called a tax.  And it's calibrated ­­ and 
+
+25 it's calibrated ­­
+
+Alderson Reporting Company 
+
+
+
+24 
+
+Official ­ Subject to Final Review 
+
+1  CHIEF JUSTICE ROBERTS:  She's right about 
+
+2 that. 
+
+3  (Laughter.) 
+
+4  MR. CLEMENT:  And it has been treated for 
+
+5 some purposes as a penalty.  And I think for this 
+
+6 purposes, it certainly feels punitive. 
+
+7  And if I could finish the thought about why it's 
+
+8 a false comparison, the 2,000 penalty to the cost of the 
+
+9 health insurance, is that it's going to very much hurt 
+
+10 Hobby Lobby if all of the sudden it doesn't provide 
+
+11 health care to its employees.  And in order to 
+
+12 compensate for that, it would have to increase the 
+
+13 wages.  And I think it would be worse off as a result of 
+
+14 this.  But if I could also ­­
+
+15  JUSTICE KAGAN:  Well, let's say that that's 
+
+16 right.  Let's say that they have to increase the wages a 
+
+17 little bit.  I mean, still we are talking about pretty 
+
+18 equivalent numbers.  Maybe it's a little bit less; maybe 
+
+19 it's a little bit more.  But this is not the kind of 
+
+20 thing that's going to drive a person out of business. 
+
+21 It's not prohibitive. 
+
+22  It's like the thing that we talked about in 
+
+23 Braunfeld where we said, you know, maybe if the store 
+
+24 can't stay open 7 days a week, it makes a little bit 
+
+25 less money.  But so be it, is what we said. 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+25 
+
+1  MR. CLEMENT:  No, I actually think what it's 
+
+2 like, Your Honor, with all due respect, it's like the 
+
+3 five dollar penalty enforcing the prohibition in Yoder. 
+
+4 And what this Court says, it's one thing if you don't 
+
+5 have a direct government prohibition on a religious 
+
+6 exercise or a mandate that somebody do something that 
+
+7 violates their religion.  In those cases, which is like 
+
+8 Sherbert and is like Braunfeld, then you have to look at 
+
+9 the substantial pressure, and it becomes a little bit 
+
+10 more of a loosey­goosey analysis.  But when you have a 
+
+11 government law that specifically says you must do 
+
+12 something that violates your religion ­­ and it's 
+
+13 enforced with a penalty, and with all due respect I 
+
+14 think $2,000 per employee is a penalty. 
+
+15  JUSTICE KAGAN:  But Mr. Clement, it's not 
+
+16 saying you must do something that violates your 
+
+17 religion.  It's giving you a choice.  You can do this 
+
+18 thing or if this thing violates your religion you can do 
+
+19 another thing.  And that other thing is approximately 
+
+20 the same price as the thing that you don't want to do. 
+
+21  MR. CLEMENT:  I don't think it would be the 
+
+22 same price at the end of the day.  I'd also like to 
+
+23 point out how this ­­
+
+24  JUSTICE SCALIA:  Well, of course it wouldn't 
+
+25 be the same price at the end of the day.  If they deny 
+
+Alderson Reporting Company 
+
+
+
+26 
+
+Official ­ Subject to Final Review 
+
+1 health insurance, they're going to have to raise wages 
+
+2 if they are going to get employees. 
+
+3  MR. CLEMENT:  Absolutely. 
+
+4  JUSTICE SCALIA:  It's absurd to say that, 
+
+5 you know, it comes out of nowhere. 
+
+6  MR. CLEMENT:  Absolutely, Your Honor.  And 
+
+7 by the way, this $2,000 penalty is very much a 
+
+8 double­edged sword for the government, because you're 
+
+9 trying to ­­
+
+10  JUSTICE KENNEDY:  But why ­­ why is that a 
+
+11 problem?  Let's assume that the cost of providing 
+
+12 insurance is roughly equivalent to the $2,000 penalty. 
+
+13 How ­­ how is the employer hurt?  He can just raise the 
+
+14 wages. 
+
+15  JUSTICE SOTOMAYOR:  May I just put a 
+
+16 footnote on this.  I thought the average price of 
+
+17 providing insurance for a single person is $4,000, and 
+
+18 it's $12,000 for a family ­­ for a family.  So the 2,000 
+
+19 tax ­­ that's what it's called ­­ is to help the 
+
+20 government provide subsidies to people on the exchange 
+
+21 that don't have employer insurance.  So it's a tax 
+
+22 because it's ­­ it is to do exactly what your client 
+
+23 wants, to get the government to supply the 
+
+24 contraceptives, not the insurance companies. 
+
+25  MR. CLEMENT:  Here's the problem with this 
+
+Alderson Reporting Company 
+
+
+
+27 
+
+Official ­ Subject to Final Review 
+
+1 way of looking at it, which is to say whatever it costs 
+
+2 per employee to get this, this health care, that's 
+
+3 something that right now Hobby Lobby is paying whatever 
+
+4 it's paying them, plus it's ­­ it's ­­ you know, imputed 
+
+5 into that is the idea that they're getting their wage 
+
+6 and they're getting health care insurance. 
+
+7  If they take away the health care insurance, 
+
+8 they are going to have to increase the wages to make up 
+
+9 for that.  And they're going to have to pay the $2,000 
+
+10 penalty on top of it, plus they're going to have to 
+
+11 violate their ­­ their own interest which is, we 
+
+12 actually ­­ we believe it's important to provide our 
+
+13 employees with qualified health care. 
+
+14  JUSTICE KENNEDY:  Okay, the last is 
+
+15 important.  But just assume hypothetically that it's a 
+
+16 wash, that the employer would be in about the same 
+
+17 position if he paid the penalty and the employer ­­
+
+18 pardon me, an employee went out and got the insurance 
+
+19 and that the employee's wages were raised slightly and 
+
+20 then it's ­­ and that it's a wash so far as the employer 
+
+21 are concerned, other than the employer's religious 
+
+22 objection, but just on the financial standpoint.  Can we 
+
+23 assume that as a hypothetical.  Then what would your 
+
+24 case be? 
+
+25  MR. CLEMENT:  I think my case would be that 
+
+Alderson Reporting Company 
+
+
+
+28 
+
+Official ­ Subject to Final Review 
+
+1 in that case the government might be able to sort of 
+
+2 support itself on the compelling interest.  I think 
+
+3 there would still be a substantial burden on their 
+
+4 exercise.  But again, this all turns on issues that the 
+
+5 government hasn't put in issue.  This case hasn't been 
+
+6 litigated on this particular theory, so I think ­­ I'd 
+
+7 love to have the opportunity to show how by not 
+
+8 providing health insurance it would have a huge burden 
+
+9 on my client and their ability to attract workers, and 
+
+10 that in fact would cost them much more out of pocket. 
+
+11 But that's not been the nature of the government's 
+
+12 theory. 
+
+13  JUSTICE KAGAN:  Can I ask ­­
+
+14  JUSTICE GINSBURG:  There was a point made 
+
+15 earlier, and I think you didn't mean to say this, that 
+
+16 provision of health care is not part of their religious 
+
+17 belief.  Covering their employees for health care, that 
+
+18 is not a religious tenet, right? 
+
+19  MR. CLEMENT:  No, it actually is.  Again, it 
+
+20 hasn't been the principal theory on which this case has 
+
+21 been litigated.  But see, if you go back to the 
+
+22 complaints and you go back to our briefs, you know, it's 
+
+23 part of the religious beliefs that both the Hahns and 
+
+24 the Greens have.  They think it's actually important ­­
+
+25  JUSTICE KAGAN:  But, Mr. Clement, you're not 
+
+Alderson Reporting Company 
+
+
+
+29 
+
+Official ­ Subject to Final Review 
+
+1 saying, are you, that their religious beliefs mandate 
+
+2 them to provide health care?  I thought that you were 
+
+3 never making that claim. 
+
+4  MR. CLEMENT:  I didn't have to make that 
+
+5 claim in the course of this litigation.  What I'm 
+
+6 pointing out, though, is for purposes of the substantial 
+
+7 burden analysis, it is perfectly appropriate to take 
+
+8 into account that the 2,000 ­­ the $26 million in fines 
+
+9 they would pay would not be the only thing that they 
+
+10 would lose out if they are on that horn of the dilemma. 
+
+11 They would also lose out all the additional wages they 
+
+12 would have to pay, and they would be in this position of 
+
+13 not offering health care, which is something they 
+
+14 believe is important for their religion as well. 
+
+15  JUSTICE KAGAN:  You know, I'm sure they seem 
+
+16 like very good employers.  And I'm sure they want to be 
+
+17 good employers.  But again, that's a different thing 
+
+18 than saying that their religious beliefs mandate them to 
+
+19 provide health insurance, because here Congress has said 
+
+20 that the health insurance that they're providing is not 
+
+21 adequate, it's not the full package. 
+
+22  MR. CLEMENT:  Well, with respect, what 
+
+23 Congress has said is that this kind of plan is not 
+
+24 appropriate for a non­grandfathered plan.  But if we're 
+
+25 going to talk about the government's compelling 
+
+Alderson Reporting Company 
+
+
+
+30 
+
+Official ­ Subject to Final Review 
+
+1 interests here, which I think has got to be part of the 
+
+2 analysis, then I think the grandfathered provisions of 
+
+3 this statute really are devastating for the government's 
+
+4 argument that it has a compelling interest. 
+
+5  When the government pursues compelling 
+
+6 interest, it demands immediate compliance.  It doesn't 
+
+7 say, "Get around to it whenever it's convenient."  I 
+
+8 can't imagine Congress passing Title VII and saying, 
+
+9 "Stop discriminating on the basis of race, unless of 
+
+10 course you have a preexisting policy that discriminates 
+
+11 on the basis of race, and then you can keep it as long 
+
+12 as you'd like." 
+
+13  It is fundamentally inconsistent with a 
+
+14 compelling interest ­­
+
+15  JUSTICE KAGAN:  Well, but I think even ­­
+
+16  MR. CLEMENT:  ­­ analysis to have this kind 
+
+17 of grandfathering. 
+
+18  JUSTICE KAGAN:  ­­ that example, you know, 
+
+19 initially Title VII did not apply to any employers with 
+
+20 fewer than 25 employees.  And then gradually, Congress 
+
+21 brought the number down because Congress realized that 
+
+22 there were going to be transition issues and that some 
+
+23 time was needed to make sure that the compelling 
+
+24 interest, you know, should be applied uniformly across 
+
+25 all employers. 
+
+Alderson Reporting Company 
+
+
+
+31 
+
+Official ­ Subject to Final Review 
+
+1  MR. CLEMENT:  Here's, respectfully, why I 
+
+2 don't think that that works, which is I think the 
+
+3 question whenever there are exemptions in the statute is 
+
+4 to ask yourself, do the exemptions undermine the 
+
+5 compelling interest that the government asserts. 
+
+6  There's nothing inconsistent with an 
+
+7 interest in prohibiting employment discrimination to say 
+
+8 we're going to focus on the people who actually employ 
+
+9 the most people and therefore can engage in the most 
+
+10 discrimination. 
+
+11  It's quite a different matter, and I don't 
+
+12 think anybody would think that Congress would pass a 
+
+13 Title VII that said, "Hey, as long as you have a 
+
+14 preexisting discriminatory policy, you're allowed to 
+
+15 keep it."  That doesn't seem like it would be 
+
+16 consistent. 
+
+17  JUSTICE SOTOMAYOR:  Counsel, your 
+
+18 attorney ­­ one of the attorneys below on behalf of your 
+
+19 clients admitted that the grandfathered policies weren't 
+
+20 going to be around very long because any change to an 
+
+21 existing policy ­­ and he said these changes happen on a 
+
+22 yearly basis.  And we already know from the government's 
+
+23 statistics that it's up to 40 percent now have 
+
+24 grandfathered out.  Your own client changed its policy, 
+
+25 and that's why it's not grandfathered. 
+
+Alderson Reporting Company 
+
+
+
+32 
+
+Official ­ Subject to Final Review 
+
+1  And he changed it to drop contraceptives it 
+
+2 was covering. 
+
+3  MR. CLEMENT:  Well ­­
+
+4  JUSTICE SOTOMAYOR:  And so my point is, 
+
+5 since when does a transitioned grandfathered exemption 
+
+6 and one that everybody knows will have to change, 
+
+7 because premiums by definition will change or co­pays 
+
+8 will change, something is going to change ­­ it's a very 
+
+9 short transition period.  Since when does that prove 
+
+10 that the need is not compelling? 
+
+11  MR. CLEMENT:  With all due respect, it's not 
+
+12 necessarily a very short transition period.  And your ­­
+
+13 your references to co­pays and premiums is precisely on 
+
+14 point, because the government, through its regulations, 
+
+15 has allowed grandfathered plans to make changes to the 
+
+16 co­pays as long as they're indexed to medical inflation. 
+
+17  Now, if you have a transition period that's 
+
+18 just there for a nanosecond, you don't bother indexing 
+
+19 it to medical inflation.  So this is a grandfather 
+
+20 provision that's going to be around for multiple years. 
+
+21 And by the government's own numbers, tens of millions of 
+
+22 employees are not getting this mandated coverage as a 
+
+23 result of the grandfather provision.  And even if we can 
+
+24 project forward ten years to when maybe there would only 
+
+25 be a handful of grandfathered plans, even at that point, 
+
+Alderson Reporting Company 
+
+
+
+33 
+
+Official ­ Subject to Final Review 
+
+1 you would still have the same problem that the 
+
+2 government would have, which is it has to make an 
+
+3 argument for a compelling interest. 
+
+4  JUSTICE KENNEDY:  Just before your time 
+
+5 starts to go too fast, how would you suggest that we 
+
+6 think about the position and the rights of the ­­ of the 
+
+7 employees?  And you can have hypotheticals about the 
+
+8 employer makes them ­­ wants to make them wear burkas 
+
+9 and so forth.  That's not in this case. 
+
+10  But in ­­ in a way, the employees are in a 
+
+11 position where the government, through its healthcare 
+
+12 plans, is ­­ is, under your view, is ­­ is allowing the 
+
+13 employer to put the employee in a disadvantageous 
+
+14 position.  The employee may not agree with these 
+
+15 religious ­­ religious beliefs of the employer.  Does 
+
+16 the religious beliefs just trump?  Is that the way it 
+
+17 works? 
+
+18  MR. CLEMENT:  Well, no, it's not just the 
+
+19 way it works, Justice Kennedy.  And I actually have four 
+
+20 things I'd like to say about that, if it's possible. 
+
+21  One is, I think the first thing about 
+
+22 third­party burdens is you have to ask where are they 
+
+23 coming from.  And if the third­party burdens are coming 
+
+24 from an employer ­­ I mean, an employer right now can 
+
+25 put some burden on their rights because they have to 
+
+Alderson Reporting Company 
+
+
+
+34 
+
+Official ­ Subject to Final Review 
+
+1 listen to religious music or whatever.  That's not as 
+
+2 serious as a burden that's coming directly from the 
+
+3 government.  So that's one principle to think about. 
+
+4  Another principle, and this is more of a 
+
+5 detail, but I think it's important, is that to the 
+
+6 extent you take into account third­party burdens, you 
+
+7 take those into account in the compelling interest part 
+
+8 of the analysis.  The government has an argument that 
+
+9 somehow third­party interests go into the substantial 
+
+10 burden part of the analysis, where we bear the burden. 
+
+11 And we don't think that's right at all. 
+
+12  The third­party ­­
+
+13  JUSTICE GINSBURG:  But, Mr. Clement, you 
+
+14 made the analogy to RLUIPA.  And the one thing that has 
+
+15 not been mentioned up till now is the Establishment 
+
+16 Clause.  The Court was very clear when it came to 
+
+17 RLUIPA, which you said is similar to RFRA, that the 
+
+18 accommodation must be measured so it doesn't override 
+
+19 other significant interests.  And that was true of 
+
+20 Sherbert and that was true of Yoder.  The ­­ and the 
+
+21 Cutter case, and this Court made it very clear, that the 
+
+22 accommodation has to be balanced and you have to take 
+
+23 into account other significant interests. 
+
+24  MR. CLEMENT:  Right.  But that actually 
+
+25 brings me to my third point, which is those other 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+35 
+
+1 significant interests that carry the most weight have to 
+
+2 be independent of the very statute that's at issue in 
+
+3 the case and that the party seeks an exemption from. 
+
+4  So if you think about the Caldor case, there 
+
+5 the Court was concerned with the third­party burdens on, 
+
+6 say, an employee who had a seniority right to take the 
+
+7 weekends off.  So he or she had an independent right to 
+
+8 take the weekend off, and the government policy was 
+
+9 coming in and displacing this. 
+
+10  JUSTICE SOTOMAYOR:  I'm not sure that ­­
+
+11 that squares with Lee.  The ­­ the statute created the 
+
+12 right to Social Security, and there the Court said you 
+
+13 can't deprive employees of a statutory right because of 
+
+14 your religious beliefs.  So Lee is contrary to the point 
+
+15 you're making. 
+
+16  MR. CLEMENT:  There, too, I have to 
+
+17 respectfully disagree, because if you remember the facts 
+
+18 of Lee, Lee is brought not just by the employer, but by 
+
+19 the employee.  So the particular employees there don't 
+
+20 have a beef with what he's doing at all.  And I think 
+
+21 when they're talking about third­party burdens there, 
+
+22 what the Court is really talking about is the ­­ the 
+
+23 burdens of everybody else who contributes into a system 
+
+24 where uniformity, to use the Court's words, was 
+
+25 indispensable. 
+
+Alderson Reporting Company 
+
+
+
+36 
+
+Official ­ Subject to Final Review 
+
+1  And so if I could, though, I think, just to 
+
+2 illustrate why it's sort of double counting to count the 
+
+3 mandated issue here as being what gives the burden to 
+
+4 the third party or the benefit on the third party. 
+
+5 Imagine two hypotheticals.  One is Congress passes a 
+
+6 statute and says I have to destroy all of my books, 
+
+7 including my Bibles.  Another statute, Congress comes in 
+
+8 and says I have to give all of my books, including all 
+
+9 of my Bibles, to you. 
+
+10  Now, in the second case, I suppose you could 
+
+11 say that a RFRA claim somehow gets rid of your statutory 
+
+12 entitlement to my Bibles, but I don't think, since it's 
+
+13 the very benefit that we're talking about that's at 
+
+14 issue there, I don't think ­­ I think that really is 
+
+15 double counting and I don't think those two hypothetical 
+
+16 statutes should be analyzed any differently. 
+
+17  The other thing, though, about burdens, and 
+
+18 I think it should go ­­ this is the fourth point ­­ that 
+
+19 should go into the compelling interest test ­­
+
+20  JUSTICE KAGAN:  I mean, Mr. Clement, isn't 
+
+21 that just a way of saying that you think that this isn't 
+
+22 a good statute, because it asks one person to subsidize 
+
+23 another person.  But Congress has made a judgment and 
+
+24 Congress has given a statutory entitlement and that 
+
+25 entitlement is to women and includes contraceptive 
+
+Alderson Reporting Company 
+
+
+
+37 
+
+Official ­ Subject to Final Review 
+
+1 coverage.  And when the employer says, no, I don't want 
+
+2 to give that, that woman is quite directly, quite 
+
+3 tangibly harmed. 
+
+4  MR. CLEMENT:  Well, Justice Kagan, I think 
+
+5 you could say the same thing about my Bible 
+
+6 hypothetical. 
+
+7  But I do have one last thing to say about 
+
+8 burdens.  And I do think when you think about impacts on 
+
+9 third parties, not all of these burdens are created 
+
+10 equal.  And that, too, I think is borne out in this 
+
+11 Court's cases.  And the most relevant factor is, is 
+
+12 there some alternative way for the government to 
+
+13 ameliorate the burden. 
+
+14  And I think about two types of, kind of 
+
+15 accommodations, if you will.  You get sort of Title VII 
+
+16 with a very narrow accommodation.  And then you have 
+
+17 conscience clauses that allow medical providers, 
+
+18 including for­profit medical providers, not to provide 
+
+19 abortions. 
+
+20  Now, each of those has a burden on third 
+
+21 parties, but I would respectfully suggest they're 
+
+22 different.  In the case of the employee who's been 
+
+23 subject to racial discrimination, even if they can get 
+
+24 another job, that racial discrimination is a unique 
+
+25 injury to them that you can't remedy unless you tell the 
+
+Alderson Reporting Company 
+
+
+
+38 
+
+Official ­ Subject to Final Review 
+
+1 employer, don't discriminate on the basis of race. 
+
+2  Now, in the context of the conscience 
+
+3 clause, if a woman can't get an abortion from her 
+
+4 preferred provider, that's surely a significant burden 
+
+5 on her.  But we don't view that as trumping the 
+
+6 conscience clause, because she can get the abortion 
+
+7 through another mechanism. 
+
+8  Here, as your question rightfully 
+
+9 highlights, all we're really talking about is who's 
+
+10 going to pay for a subsidy that the government prefers. 
+
+11 This is not about access to the contraception.  It's 
+
+12 about who's going to pay for the government's preferred 
+
+13 subsidy.  And I think in that context, there are ample 
+
+14 alternative ways to address any burdens on third 
+
+15 parties.  And that goes right to the least ­­
+
+16  JUSTICE GINSBURG:  It would make no 
+
+17 difference if it were ­­ there are 20 FDA­approved 
+
+18 contraceptives, all of them covered by the Healthcare 
+
+19 Act. 
+
+20  MR. CLEMENT:  I think ­­
+
+21  JUSTICE GINSBURG:  You ­­ you picked out, in 
+
+22 one case what, three, and the other case four?  Suppose 
+
+23 the employer says contraceptives all together are 
+
+24 against my religion, so I'm not going to give any 
+
+25 contraceptive coverage. 
+
+Alderson Reporting Company 
+
+
+
+39 
+
+Official ­ Subject to Final Review 
+
+1  MR. CLEMENT:  Well, obviously, 
+
+2 Justice Ginsburg, I didn't pick these out.  I mean, my 
+
+3 clients and their religious beliefs identified these as 
+
+4 problematic.  There are certainly ­­
+
+5  JUSTICE GINSBURG:  But your argument, it 
+
+6 seems to me, would apply just as well if the employer 
+
+7 said no contraceptives. 
+
+8  MR. CLEMENT:  I think that's a fair point, 
+
+9 Justice Ginsburg, and the government's own 
+
+10 accommodations, where they offer them to religious 
+
+11 groups and religious employers like nonprofit hospitals, 
+
+12 also applies to whatever the religious beliefs of that 
+
+13 provider are.  So if they extend to all 20, then the 
+
+14 exemption's applied to all 20.  If they only extend to 
+
+15 four, then the exemption applies to all four. 
+
+16  JUSTICE ALITO:  Are there ways of 
+
+17 accommodating the interests of the women who may want 
+
+18 these particular drugs or devices without imposing a 
+
+19 substantial burden on the employer who has the religious 
+
+20 objection to it? 
+
+21  MR. CLEMENT:  There are ample less 
+
+22 restrictive alternatives, Your Honor. 
+
+23  JUSTICE ALITO:  What are they? 
+
+24  MR. CLEMENT:  And I think they all flow from 
+
+25 this fact that this is ultimately about who's going to 
+
+Alderson Reporting Company 
+
+
+
+40 
+
+Official ­ Subject to Final Review 
+
+1 pay for a substitute ­­
+
+2  JUSTICE SOTOMAYOR:  Those are alternatives 
+
+3 that you're asking the government to incur or the person 
+
+4 to incur.  There isn't an alternative that doesn't put a 
+
+5 cost on someone else. 
+
+6  MR. CLEMENT:  Well, it's ­­ it's ­­ it's 
+
+7 funny about this particular mandate because the 
+
+8 government's position is this is actually a cost­free 
+
+9 mandate; that whatever you pay out in contraceptions, 
+
+10 you're going to make up in not having to pay for other 
+
+11 coverages.  And so one alternative, one less restrictive 
+
+12 alternative is what's done in the accommodation for 
+
+13 nonprofit employers like hospitals, where basically they 
+
+14 tell the insurance carrier or the plan administer that 
+
+15 you pick up the cost for this and then essentially it'll 
+
+16 be cost neutral from you. 
+
+17  But I don't think there's anything sort of 
+
+18 sacrosanct, if you will, about having the government pay 
+
+19 for its preferred subsidy as a less restrictive 
+
+20 alternative.  And that's essentially what the government 
+
+21 does for those employees who have employers ­­ under 50 
+
+22 employers.  If those employees ­­ if the employer 
+
+23 doesn't provide healthcare, those employees go on to the 
+
+24 exchanges with a subsidy from the government.  Now, they 
+
+25 can do the same thing for objecting religious employers. 
+
+Alderson Reporting Company 
+
+
+
+41 
+
+Official ­ Subject to Final Review 
+
+1 They just have chosen not to. 
+
+2  If I may reserve my time. 
+
+3  CHIEF JUSTICE ROBERTS:  Thank you, 
+
+4 Mr. Clement. 
+
+5  General Verrilli. 
+
+6  ORAL ARGUMENT OF DONALD B. VERRILLI, JR. 
+
+7  ON BEHALF OF THE FEDERAL GOVERNMENT 
+
+8  GENERAL VERRILLI:  Mr. Chief Justice, and 
+
+9 may it please the Court: 
+
+10  The touchstone for resolving this case is 
+
+11 the principle Justice Jackson articulated in Prince v. 
+
+12 Massachusetts.  As he said, "Limitations which of 
+
+13 necessity bound religious freedom begin to operate 
+
+14 whenever activities begin to affect or collide with the 
+
+15 liberties of others or of the public.  Adherence to that 
+
+16 principle is what makes possible the harmonious 
+
+17 functioning of a society like ours, in which people of 
+
+18 every faith live and work side by side." 
+
+19  CHIEF JUSTICE ROBERTS:  That's a statement 
+
+20 that is inconsistent with RFRA, isn't it?  The whole 
+
+21 point of RFRA is that Congress wanted to provide 
+
+22 exceptions for the religious views of particular ­­
+
+23 including proprietors, individuals. 
+
+24  GENERAL VERRILLI:  No, Mr. Chief Justice, I 
+
+25 don't think so at all.  In fact, the ­­ although I 
+
+Alderson Reporting Company 
+
+
+
+42 
+
+Official ­ Subject to Final Review 
+
+1 was ­­ of course, I was referring to Justice Jackson's 
+
+2 words for their wisdom because it wasn't the opinion of 
+
+3 the Court.  But see, Jackson ­­
+
+4  CHIEF JUSTICE ROBERTS:  Yeah.  But the 
+
+5 wisdom you cited is the idea that you don't have 
+
+6 imposed, on the basis of religious beliefs, exemptions 
+
+7 or ­­ or limitations.  And it seems to me that was the 
+
+8 whole point of RFRA, to tell the courts that that is 
+
+9 exactly what you should do unless the exception 
+
+10 satisfies the strict scrutiny test. 
+
+11  GENERAL VERRILLI:  Well, but I think ­­
+
+12 well, unless it satisfies the ­­ the pre­Smith standards 
+
+13 under ­­ under the Establishment Clause.  But I do think 
+
+14 that the exact same point ­­
+
+15  JUSTICE SCALIA:  It's more than pre­Smith. 
+
+16  GENERAL VERRILLI:  I take your point ­­
+
+17  JUSTICE SCALIA:  Plus ­­
+
+18  GENERAL VERRILLI:  ­­ I take your point 
+
+19 about less restrictive means, Your Honor. 
+
+20  JUSTICE SCALIA:  Okay. 
+
+21  GENERAL VERRILLI:  But the ­­ the exact same 
+
+22 point that Justice Jackson made in Prince, I submit, is 
+
+23 the point that this Court made unanimously in Cutter. 
+
+24 It's not ­­ it's that when you are analyzing what is 
+
+25 required under RFRA, the court must take account of the 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+43 
+
+1 way in which the requested accommodation will affect the 
+
+2 rights and interests of third parties. 
+
+3  JUSTICE ALITO:  Well, is it your argument 
+
+4 that providing the accommodation that's requested here 
+
+5 would violate the Establishment Clause? 
+
+6  GENERAL VERRILLI:  It's not our argument 
+
+7 that it would violate the Establishment Clause.  But it 
+
+8 is our argument that you ­­ in any RFRA case, including 
+
+9 this one, you have to consider the impact on third 
+
+10 parties, because otherwise, you will be skating on thin 
+
+11 constitutional ice. 
+
+12  And so Justice Kennedy, you asked about 
+
+13 principles that ­­ that surround statutory construction. 
+
+14 Avoidance is one of them.  And that was why the Court 
+
+15 unanimously in Cutter said that in every RFRA case when 
+
+16 you're considering an accommodation, you have to weigh 
+
+17 the effect on third parties.  And that ­­
+
+18  JUSTICE SCALIA:  Where ­­ where is that in 
+
+19 RFRA?  I mean, what ­­ what factor of RFRA do you fold 
+
+20 that in under?  Is ­­ is that part of the compelling 
+
+21 State interest requirement or ­­ or substantial burden 
+
+22 requirement?  Where ­­ where is it in RFRA? 
+
+23  GENERAL VERRILLI:  I'd like ­­ I think the 
+
+24 answer is that it could inform every operative provision 
+
+25 in RFRA.  We have said that it should inform the court's 
+
+Alderson Reporting Company 
+
+
+
+44 
+
+Official ­ Subject to Final Review 
+
+1 interpretation of who counts as a person. 
+
+2  JUSTICE SCALIA:  If ­­ if they wanted you to 
+
+3 balance ­­ balance the interest of the religious 
+
+4 objector against the interest of other individuals, 
+
+5 they ­­ they made no reference to that in RFRA at all. 
+
+6  GENERAL VERRILLI:  Well, I ­­
+
+7  JUSTICE SCALIA:  They said unless the 
+
+8 government has a compelling State interest. 
+
+9  GENERAL VERRILLI:  And the compelling ­­ and 
+
+10 certainly compelling interest analysis certainly does 
+
+11 require consideration of the interests of third parties. 
+
+12 Of course, what the court ­­ what the Congress said in 
+
+13 RFRA, in explaining how the compelling interest test was 
+
+14 to work, was that it was to strike a sensible balance 
+
+15 between claims for religious liberty and governmental 
+
+16 interests. 
+
+17  And ­­ and, of course, Lee is one of the 
+
+18 pre­Smith cases that provides the governing law.  And I 
+
+19 would submit it is really the only case from this Court 
+
+20 in which the request for an exemption under the Free 
+
+21 Exercise Clause had the effect of extinguishing a 
+
+22 statutorily­guaranteed benefit.  Because in Lee, had the 
+
+23 employer gotten the exemption from providing Social 
+
+24 Security, the consequence would have been that the 
+
+25 employees would have been disqualified from receiving 
+
+Alderson Reporting Company 
+
+
+
+45 
+
+Official ­ Subject to Final Review 
+
+1 Social Security benefits. 
+
+2  JUSTICE SCALIA:  But that wasn't the basis 
+
+3 for ­­ for denying the claim.  The basis was that the 
+
+4 government has to run a uniform system that applies to 
+
+5 everybody. 
+
+6  GENERAL VERRILLI:  I disagree. 
+
+7  JUSTICE SCALIA:  And you can't argue that 
+
+8 here because the government has made a lot of 
+
+9 exemptions. 
+
+10  GENERAL VERRILLI:  I ­­ first of all, I 
+
+11 disagree with respect to Lee, that one of the points 
+
+12 that the Court made in Lee was that granting the 
+
+13 exemption from Social Security taxes to an employer 
+
+14 operates to impose the employer's religious faith on the 
+
+15 employees.  It was one of the grounds of decision. 
+
+16  Now ­­ but turning to ­­ I would like to 
+
+17 address these exemptions.  I'm happy to talk about them. 
+
+18 I'm happy to talk about our compelling interest at 
+
+19 length.  The ­­ now, the ­­ my ­­
+
+20  JUSTICE ALITO:  Well, if you could start 
+
+21 with the question of whether the ­­ the companies in 
+
+22 this case have a right to bring RFRA claims because 
+
+23 they're for­profit corporations.  You argue that they 
+
+24 can't. 
+
+25  GENERAL VERRILLI:  That's correct. 
+
+Alderson Reporting Company 
+
+
+
+46 
+
+Official ­ Subject to Final Review 
+
+1  JUSTICE ALITO:  Now, why is that?  Is it ­­
+
+2 is it your position that there's something about the 
+
+3 corporate form per se that is inconsistent with the free 
+
+4 exercise claim? 
+
+5  GENERAL VERRILLI:  No, because, obviously, 
+
+6 churches can bring claims. 
+
+7  JUSTICE ALITO:  All right.  But is it your 
+
+8 argument that there's something about engaging in a 
+
+9 for­profit activity that is inconsistent with a free 
+
+10 exercise claim? 
+
+11  GENERAL VERRILLI:  Yes.  And if I could walk 
+
+12 through the ­­ let me, if you don't mind, just walk 
+
+13 through the analysis on ­­
+
+14  JUSTICE ALITO:  Well, were the merchants in 
+
+15 the Braunfeld case engaged in for­profit activity? 
+
+16  GENERAL VERRILLI:  Yes. 
+
+17  JUSTICE ALITO:  So there isn't anything 
+
+18 inherent in ­­
+
+19  GENERAL VERRILLI:  But I think ­­
+
+20  JUSTICE ALITO:  ­­ in participating in a 
+
+21 for­profit activity that's inconsistent with corporate 
+
+22 form, is there?  I'm sorry, with a free exercise claim. 
+
+23  GENERAL VERRILLI:  Yes.  But I think the 
+
+24 relevant question is what did Congress think it was 
+
+25 doing when it enacted RFRA in 1993?  What kinds of 
+
+Alderson Reporting Company 
+
+
+
+47 
+
+Official ­ Subject to Final Review 
+
+1 claims did it think it was ­­
+
+
+2
+  JUSTICE ALITO:  Well, what is it about ­­
+
+
+3
+  GENERAL VERRILLI:  ­­ justifying?
+ 
+
+4
+  JUSTICE ALITO:  ­­ a for­profit corporation 
+
+5 that is inconsistent with a free exercise claim?  Do you 
+
+6 agree with the proposition that was endorsed by one of 
+
+7 the lower courts in this case, that for­profit 
+
+8 corporations must do nothing but maximize profits, they 
+
+9 cannot have other aims ­­
+
+10  GENERAL VERRILLI:  No, not ­­
+
+11  JUSTICE ALITO:  ­­ including religious aims? 
+
+12  GENERAL VERRILLI:  No.  But here's how we 
+
+13 look at it.  At its core ­­
+
+14  JUSTICE SOTOMAYOR:  I'm sorry, General.  You 
+
+15 answered yes to Braunfeld.  It was Jewish merchants, but 
+
+16 it was the merchants themselves ­­
+
+17  GENERAL VERRILLI: 
+
+18  JUSTICE SOTOMAYOR: 
+
+19  GENERAL VERRILLI: 
+
+20  JUSTICE SOTOMAYOR: 
+
+Individuals. 
+
+­­ the individuals ­­
+
+Yes. 
+
+­­ not the corporation 
+
+21 that was going to be jailed.  It was a ­­
+
+22  GENERAL VERRILLI:  Yes, that's right. 
+
+23  JUSTICE SOTOMAYOR:  ­­ criminal prosecution. 
+
+24  GENERAL VERRILLI:  I understood Justice 
+
+25 Alito to be asking me not about the corporate form, but 
+
+Alderson Reporting Company 
+
+
+
+48 
+
+Official ­ Subject to Final Review 
+
+1 about the ­­ the activity.  And when you have an 
+
+2 individual, you have an individual.  It's a person. 
+
+3  JUSTICE SOTOMAYOR:  So whether it was a 
+
+4 merchant that was a corporation or not was irrelevant. 
+
+5 It was that the individual was ­­
+
+6  GENERAL VERRILLI:  That's ­­
+
+7  JUSTICE SOTOMAYOR:  ­­ going to be jailed. 
+
+8  GENERAL VERRILLI:  That's correct. 
+
+9  JUSTICE SCALIA:  It was an individual making 
+
+10 a profit, right? 
+
+11  GENERAL VERRILLI:  Certainly. 
+
+12  JUSTICE SCALIA:  He was running a business 
+
+13 for a profit, and that was the point of ­­ of Justice 
+
+14 Alito's question, right, which I think you understood. 
+
+15  GENERAL VERRILLI:  And I did try to answer 
+
+16 it, yes.  But I ­­ but let me say, I think the relevant 
+
+17 question here is what did Congress think it was doing in 
+
+18 1993?  And I think the answer to that has to be in ­­
+
+19 you know, we understand the Dictionary Act provides a 
+
+20 broad definition of person, but the Dictionary Act 
+
+21 doesn't define exercise religion.  And the operative 
+
+22 statutory language is exercise ­­ person's exercise of 
+
+23 religion.  And so you can't look to the Dictionary Act 
+
+24 to define that.  But Congress told you where to look. 
+
+25 It told you to look to the pre­Smith case law ­­
+
+Alderson Reporting Company 
+
+
+
+49 
+
+Official ­ Subject to Final Review 
+
+1  JUSTICE ALITO:  And why did it tell ­­
+
+2  GENERAL VERRILLI:  ­­ to define that. 
+
+3  JUSTICE ALITO:  Why did it say that?  It 
+
+4 changed the definition at the time when RLUIPA was 
+
+5 adopted, did it not, to eliminate the reference to the 
+
+6 First Amendment; isn't that right? 
+
+7  GENERAL VERRILLI:  Yes.  But it ­­ but the 
+
+8 difference there was to say it didn't want courts to get 
+
+9 involved in the entangling enterprise of deciding what 
+
+10 was a central belief versus what was ­­
+
+11  JUSTICE ALITO:  Well, it says free exercise. 
+
+12 And didn't it also adopt a provision in RLUIPA saying 
+
+13 that ­­ that the exercise of religion was to be 
+
+14 interpreted in the broadest possible way? 
+
+15  GENERAL VERRILLI:  Well, I think it ­­ it 
+
+16 said something more precise than that, which was that it 
+
+17 was to be interpreted not to be confined only to central 
+
+18 religious tenets. 
+
+19  JUSTICE ALITO:  No.  Didn't it say ­­ didn't 
+
+20 it say the term "religious exercise" includes any 
+
+21 exercise ­­
+
+22  GENERAL VERRILLI:  Yes, includes any 
+
+23 exercise of religion, but it doesn't define what that 
+
+24 is.  It just says you don't draw a line between 
+
+25 centrality and something that may ­­
+
+Alderson Reporting Company 
+
+
+
+50 
+
+Official ­ Subject to Final Review 
+
+1  JUSTICE ALITO:  No.  But there is another 
+
+2 provision that says that, "This chapter shall be 
+
+3 construed in favor of a broad protection of religious 
+
+4 exercise to the maximum extent permitted by the terms of 
+
+5 this chapter and the Constitution." 
+
+6  GENERAL VERRILLI:  Right.  And it ­­ but 
+
+7 with respect to what exercise religion means, it said 
+
+8 don't draw lines between centrality and non­centrality. 
+
+9 It didn't go beyond that and tell you what it means. 
+
+10 And what RFRA tells you to look to is pre­Smith case 
+
+11 law.  And in the entire history of this country, there 
+
+12 is not a single case in which a for­profit corporation 
+
+13 was granted an exemption on ­­
+
+14  JUSTICE SCALIA:  Not a single case in which 
+
+15 it was denied exemption, either.  All you're saying 
+
+16 is ­­
+
+17  GENERAL VERRILLI:  Well, Lee ­­
+
+18  JUSTICE SCALIA:  ­­ that there are no cases. 
+
+19  GENERAL VERRILLI:  Well, Lee was certainly a 
+
+20 case in which a for­profit enterprise was denied an 
+
+21 exemption.  Braunfeld was such a case.  Gallagher was 
+
+22 such a case. 
+
+23  JUSTICE SCALIA:  Not on the ground that it 
+
+24 was a for­profit enterprise.  There is not a single case 
+
+25 which says that a for­profit enterprise cannot make a ­­
+
+Alderson Reporting Company 
+
+
+
+51 
+
+Official ­ Subject to Final Review 
+
+1 a freedom of religion claim, is there? 
+
+2  GENERAL VERRILLI:  Right.  There is not a 
+
+3 single case ­­
+
+4  JUSTICE SCALIA:  Right. 
+
+5  GENERAL VERRILLI:  ­­ holding that.  Except 
+
+6 that in Lee, it was critical to the Court's analysis 
+
+7 that the ­­ that the ­­ that Mr. Lee and his business 
+
+8 had chosen to enter the commercial sphere. 
+
+9  JUSTICE KAGAN:  Isn't that a merits 
+
+10 question, General?  I mean, I totally understand that 
+
+11 argument as a ­­ as an argument about the merits.  I'm 
+
+12 not sure I understand it as a threshold claim that 
+
+13 this ­­ that the claim is not recognizable at all. 
+
+14  GENERAL VERRILLI:  Right.  Well, let me ­­ I 
+
+15 do want to move to the compelling interest analysis, but 
+
+16 if I could make one point in response to Your Honor's 
+
+17 question, that the Court's got to decide what person ­­
+
+18 a person's exercise of religion means.  And that ­­ it 
+
+19 seems to me that it would be such a vast expansion of 
+
+20 what Congress must ­­ could have thought it was doing in 
+
+21 1993, when it enacted RFRA, to say that for­profit 
+
+22 corporations can make claims for religious exemptions to 
+
+23 any laws of general application that they want to 
+
+24 challenge. 
+
+25  I do ­­ you know, Mr. Clement says, well, 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+52 
+
+1 you don't have to worry about anything other than small, 
+
+2 tightly­knit corporations like the one at issue here.  I 
+
+3 take the point of the appeal of a situation like this 
+
+4 one.  But the way in which he suggests that you will be 
+
+5 able to distinguish this case from a case in which a 
+
+6 large corporation comes in or a public company comes in, 
+
+7 is that you will have more grounds to question the 
+
+8 sincerity of the claim.  But that raises exactly the 
+
+9 kinds of entanglement concerns that this Court has 
+
+10 always said you should try to avoid. 
+
+11  CHIEF JUSTICE ROBERTS:  Well, that's his 
+
+12 argument for distinguishing it.  But there are others, 
+
+13 including the fact that it is more you avoid all of the 
+
+14 problems with what to do if it's a ­­ you know, there's 
+
+15 a 51 percent ownership of the shareholders, if you 
+
+16 simply say that it's in this type of Chapter S 
+
+17 Corporation that is closely held.  Whether it applies in 
+
+18 the other situations is ­­ is a question that we'll have 
+
+19 to await another case when a large publicly­traded 
+
+20 corporation comes in and says, we have religious 
+
+21 principles, the sort of situation, I don't think, is 
+
+22 going to happen. 
+
+23  GENERAL VERRILLI:  But even with respect to 
+
+24 these companies, Your Honor, what are you going to do if 
+
+25 there's a dispute between ­­ let's say there are three 
+
+Alderson Reporting Company 
+
+
+
+53 
+
+Official ­ Subject to Final Review 
+
+1 shareholders ­­ a dispute between two in the majority 
+
+2 and one in the minority?  You're going to have to get 
+
+3 yourself involved ­­ the courts will have to get 
+
+4 themselves involved in all kinds of ­­
+
+5  JUSTICE SCALIA:  Whoever controls the 
+
+6 corporation.  Whoever controls the corporation 
+
+7 determines what the party ­­
+
+8  GENERAL VERRILLI:  And then ­­ and the 
+
+9 minority shareholder will say, well, this is ­­ under 
+
+10 state law, this is an act of oppression and this 
+
+11 is ­­
+
+12  CHIEF JUSTICE ROBERTS:  Well, that's a 
+
+13 question of State corporate law.  It's not a question of 
+
+14 who can bring an action under RFRA. 
+
+15  Could I just raise ­­ eight courts of 
+
+16 appeals, every court of appeal to have looked at the 
+
+17 situation have held that corporations can bring racial 
+
+18 discrimination claims as corporations. 
+
+19  Now, does the government have a position on 
+
+20 whether corporations have a race? 
+
+21  GENERAL VERRILLI:  Yes.  We think those are 
+
+22 correct and that this situation is different. 
+
+23  CHIEF JUSTICE ROBERTS:  So that ­­ so that a 
+
+24 corporation does have a race for purposes of 
+
+25 discrimination laws. 
+
+Alderson Reporting Company 
+
+
+
+54 
+
+Official ­ Subject to Final Review 
+
+1  GENERAL VERRILLI:  No, not that the 
+
+2 corporation has a race, but that corporations can bring 
+
+3 those claims.  But you're not interpreting ­­ in that 
+
+4 situation, all you're interpreting is the word "person" 
+
+5 in a statute, not exercise of religion, which is what 
+
+6 makes it different here. 
+
+7  CHIEF JUSTICE ROBERTS:  So those ­­ those 
+
+8 cases involve construction of the term "person"? 
+
+9  GENERAL VERRILLI:  Yes, but only "person." 
+
+10  CHIEF JUSTICE ROBERTS:  So the person ­­ the 
+
+11 corporation can bring as a person a claim of racial 
+
+12 discrimination. 
+
+13  GENERAL VERRILLI:  That's correct, but not 
+
+14 exercise of religion.  That's the difference.  But let 
+
+15 me, if I could, we think that part of the problem here 
+
+16 and the reason we make the argument we do at the 
+
+17 threshold about why you ought not recognize claims under 
+
+18 RFRA for for­profit corporations is that they are going 
+
+19 to predictively give rise to the kinds of issues you 
+
+20 have in this case in which the exemption is going to 
+
+21 impose a burden on third parties or extinguish rights of 
+
+22 third parties, employees or others, and that that ­­
+
+23 that really can't be what Congress was thinking about. 
+
+24 But even if you ­­
+
+25  JUSTICE ALITO:  If you say they can't even 
+
+Alderson Reporting Company 
+
+
+
+55 
+
+Official ­ Subject to Final Review 
+
+1 get their ­­ they can't even get their ­­ their day in 
+
+2 court, you're saying something pretty, pretty strong. 
+
+3  GENERAL VERRILLI:  And I understand, but if 
+
+4 Your Honor disagrees with me ­­ if the Court doesn't 
+
+5 agree with this position at the threshold, the same 
+
+6 considerations with respect to the harms of third 
+
+7 parties definitely play into the compelling­interest 
+
+8 analysis. 
+
+9  In fact, under RFRA, the standard, the 
+
+10 precise standard of the statute says the government must 
+
+11 meet is that it must show that the application of the 
+
+12 law to the particular parties here, Conestoga and Hobby 
+
+13 Lobby, is in furtherance of the government's compelling 
+
+14 interest.  That's the test.  So the question here is 
+
+15 whether having Hobby Lobby and Conestoga provide this 
+
+16 coverage is in furtherance of the government's interests 
+
+17 in ensuring that this kind of preventive service 
+
+18 coverage is available and, in particular, the 
+
+19 contraceptive coverage that's included within it. 
+
+20  JUSTICE KENNEDY:  Is it your position that 
+
+21 part of the compelling interest here is that you have to 
+
+22 protect the integrity ­­ the operational integrity of 
+
+23 the whole Act? 
+
+24  GENERAL VERRILLI:  It is part of our 
+
+25 argument, absolutely.  And ­­ but it ­­ but there is in 
+
+Alderson Reporting Company 
+
+
+
+56 
+
+Official ­ Subject to Final Review 
+
+1 addition to that, much more ­­
+
+2  JUSTICE KENNEDY:  Does that mean the 
+
+3 constitutionality of the whole Act has to be examined 
+
+4 before we accept your view? 
+
+5  GENERAL VERRILLI:  Well, I think it has been 
+
+6 examined, Your Honor, is my recollection. 
+
+7  (Laughter.) 
+
+8  GENERAL VERRILLI:  But ­­ but with respect 
+
+9 to ­­ but with respect to the ­­ there is a 
+
+10 particularized interest here in that what we are talking 
+
+11 about is a question of whether 14,000 employees and 
+
+12 their families get access to this contraceptive 
+
+13 coverage. 
+
+14  JUSTICE KENNEDY:  You ­­ you have exempted a 
+
+15 whole class of corporations and you've done so under 
+
+16 your view not because of RFRA. 
+
+17  GENERAL VERRILLI:  So let me ­­ let me go to 
+
+18 that ­­
+
+19  JUSTICE KENNEDY:  Now, what ­­ what kind of 
+
+20 constitutional structure do we have if the Congress can 
+
+21 give an agency the power to grant or not grant a 
+
+22 religious exemption based on what the agency determined? 
+
+23 I recognize delegation of powers rules are somewhat 
+
+24 moribund insofar as their enforcement in this Court. 
+
+25 But when we have a First Amendment issue of ­­ of this 
+
+Alderson Reporting Company 
+
+
+
+57 
+
+Official ­ Subject to Final Review 
+
+1 consequence, shouldn't we indicate that it's for the 
+
+2 Congress, not the agency to determine that this 
+
+3 corporation gets the exemption on that one, and not even 
+
+4 for RFRA purposes, for other purposes. 
+
+5  GENERAL VERRILLI:  And, Your Honor, I do 
+
+6 think that it was appropriate for the agency, in 
+
+7 exercising its delegated authority here, to take into 
+
+8 account the special solicitude that under our 
+
+9 constitutional order churches receive.  And it's 
+
+10 important to understand, and I want to walk through 
+
+11 the ­­ this question of exemptions very carefully 
+
+12 because I think there's a lot of confusion here that 
+
+13 needs to be cleared up, that all that the ­­ all that 
+
+14 the government has done is say that churches, because of 
+
+15 that special solicitude, which the Court recognized in 
+
+16 Hosanna­Tabor, churches get an exemption. 
+
+17  The nonprofit religious organizations don't 
+
+18 get an exemption.  There's an accommodation there 
+
+19 provided, but that accommodation results in the 
+
+20 employees receiving access to this ­­ to the 
+
+21 contraceptive coverage, so that doesn't diminish the 
+
+22 government's compelling interest. 
+
+23  The Tenth Circuit and my friends on the 
+
+24 other side have relied on this idea that employers with 
+
+25 fewer than 50 employees are somehow exempt. 
+
+Alderson Reporting Company 
+
+
+
+58 
+
+Official ­ Subject to Final Review 
+
+1  JUSTICE KENNEDY:  But you gave this
+ 
+
+2
+ exemption, according to your brief, without reference to 
+
+3 the policies of RFRA.  What ­­ what were the policies
+ 
+
+4
+ that you were implementing?
+ 
+
+5
+  GENERAL VERRILLI:  Well, with respect to ­­
+
+6 as I said, with respect to the churches, it was the 
+
+7 special solicitude that churches receive under our 
+
+8 Constitution under the First Amendment. 
+
+9  But with respect ­­ now with respect to the 
+
+10 employers 50 and under, it's just not right to say that 
+
+11 there's any kind of an exemption.  If they offer health 
+
+12 insurance, they're subject to exactly the same 
+
+13 per­employee, per­day penalty as larger corporations, 
+
+14 exactly the same risk of Labor Department enforcement, 
+
+15 exactly the same risk of an ERISA suit by the plan 
+
+16 beneficiaries.  There is no possible way to look at the 
+
+17 statutory scheme and conclude there is an exemption 
+
+18 there.
+ 
+
+19  CHIEF JUSTICE ROBERTS: 
+
+
+20 grandfathered plans?
+ 
+
+21  GENERAL VERRILLI:  Yes. 
+
+
+22 the grandfathered plans.
+ 
+
+23
+  CHIEF JUSTICE ROBERTS: 
+
+What about the 
+
+Let me talk about 
+
+Well, just before 
+
+24 you ­­ so one thing I'd like you to address, the dispute
+ 
+
+25 arose with Mr. Clement about how long they were going to
+ 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+59 
+
+1 be in effect.  Can you make a representation to us about 
+
+2 how long the grandfathering is going to be in effect? 
+
+3  GENERAL VERRILLI:  I ­­ I can't give you a 
+
+4 precise figure as to ­­ there's a clear downward 
+
+5 trajectory.  There's significant movement downward every 
+
+6 year in the numbers.  There's every reason to think 
+
+7 that's going to continue.  I can't give you a precise 
+
+8 time when that is going to be ­­
+
+9  CHIEF JUSTICE ROBERTS:  Can you give me an 
+
+10 approximate time, if not a precise one? 
+
+11  GENERAL VERRILLI:  I ­­ I can't give you a 
+
+12 representation of exactly how low that number is going 
+
+13 to go and exactly how long it's going to take.  But I 
+
+14 think what you're talking about is a period in which 
+
+15 that number is going to go to a very, very low level 
+
+16 over a several year period. 
+
+17  CHIEF JUSTICE ROBERTS:  Well, if you can't 
+
+18 tell us, and I don't fault you for not being able to 
+
+19 tell us, when the grandfathering is going to end, 
+
+20 shouldn't we assume in our analysis that it is current 
+
+21 and, as far as we can tell, not going to end? 
+
+22  GENERAL VERRILLI:  No.  I don't that's 
+
+23 right, Your Honor.  And I think ­­ let's ­­ let's look 
+
+24 at this, if we could, in toto.  That with respect to 
+
+25 grandfathering, it's to be expected that employers and 
+
+Alderson Reporting Company 
+
+
+
+60 
+
+Official ­ Subject to Final Review 
+
+1 insurance companies are going to make decisions that 
+
+2 trigger the loss of that so­called grandfathered status 
+
+3 under the ­­ under the governing regulation. 
+
+4  JUSTICE ALITO:  Isn't it true with respect 
+
+5 to the grandfathered plans that the regulations required 
+
+6 immediate compliance with certain requirements, but not 
+
+7 with preventive care requirements; isn't that right? 
+
+8 Let me read you what HHS said in the regulation:  "With 
+
+9 certain particularly significant protections, 
+
+10 particularly significant protections, Congress required 
+
+11 grandfathered health plans to comply with a subset of 
+
+12 the Affordable Care Act's health reform provisions.  On 
+
+13 the other hand, grandfathered health plans are not 
+
+14 required to comply with certain other requirements of 
+
+15 the Affordable Care Act; for example, the requirement 
+
+16 that preventive health services be covered without any 
+
+17 cost sharing." 
+
+18  So isn't HHS saying there, quite 
+
+19 specifically, these, in our view, are not within this 
+
+20 subset of particularly significant requirements as to 
+
+21 which there must be immediate compliance? 
+
+22  GENERAL VERRILLI:  Well, the ­­ the question 
+
+23 would be whether there's a compelling interest in 
+
+24 compliance with these requirements.  And I ­­ I'd like 
+
+25 to make two points in response to Your Honor's question. 
+
+Alderson Reporting Company 
+
+
+
+61 
+
+Official ­ Subject to Final Review 
+
+1 First with respect to this issue of delay, which I 
+
+2 think, Mr. Chief Justice, your question raised, and my 
+
+3 friend on the other side has put a lot of weight on, I'd 
+
+4 refer the Court to the ADA.  I don't think anybody would 
+
+5 doubt that the Americans with Disabilities Act advances 
+
+6 interest of the highest order.  But when Congress 
+
+7 enacted that, it put a two­year delay on the 
+
+8 applicability of the discrimination provision. 
+
+9  CHIEF JUSTICE ROBERTS:  Well, isn't that 
+
+10 because you're talking about building ramps and things 
+
+11 like that? 
+
+12  GENERAL VERRILLI:  No.  No, Your Honor. 
+
+13 There's an even longer delay with respect to those kinds 
+
+14 of provisions, but it's just a basic prohibition of 
+
+15 discrimination two­year delay, and no one would doubt 
+
+16 there's a compelling interest here.  And with ­­ and 
+
+17 take ­­ take Title VII.  My friends on the other side 
+
+18 have said, well, this is different because there's so 
+
+19 many more people who are going to not have this coverage 
+
+20 under the grandfathered plan.  But with respect to Title 
+
+21 VII, of course, it's still the case that ­­ that 
+
+22 employers with 15 or fewer people are not subject to 
+
+23 that law, and that's 80 percent of the employers in the 
+
+24 country.  And if you run the math, that's ­­ it's at 
+
+25 least 80 percent ­­ that's ­­ it's going to be somewhere 
+
+Alderson Reporting Company 
+
+
+
+62 
+
+Official ­ Subject to Final Review 
+
+1 between 10 and 22 million people who are not within the 
+
+2 coverage.  No one would say that because the coverage is 
+
+3 incomplete in that respect, that Title VII ­­ enforcing 
+
+4 Title VII doesn't advance ­­
+
+5  CHIEF JUSTICE ROBERTS:  Those were 
+
+6 decisions ­­ those were decisions that Congress made, 
+
+7 right? 
+
+8  GENERAL VERRILLI:  Yes. 
+
+9  CHIEF JUSTICE ROBERTS:  Well, the 
+
+10 grandfathering is not a decision that Congress made, is 
+
+11 it? 
+
+12  GENERAL VERRILLI:  Well, the way in which 
+
+13 it's implemented is a decision that the agency has made, 
+
+14 that's true.  But even with respect to the preventive 
+
+15 services, I don't think anyone would say that there's 
+
+16 not a compelling interest in advancing colorectal cancer 
+
+17 screening and immunizations and the things that the 
+
+18 preventive services provisions provide in addition to 
+
+19 contraceptive coverage.  I just think this is a 
+
+20 compelling interest under any understanding of the term. 
+
+21  JUSTICE BREYER:  I just want ­­ before you 
+
+22 get to this point, and my question reflects no point of 
+
+23 view at all on my behalf.  I just ­­ but I took 
+
+24 Mr. Clement, one of his points, which I thought was an 
+
+25 important one.  He says there are some people here who 
+
+Alderson Reporting Company 
+
+
+
+63 
+
+Official ­ Subject to Final Review 
+
+1 strongly object to helping with abortions which include 
+
+2 abortifacient contraceptives.  Everybody says, yes, they 
+
+3 do object to that and that's sincere.  So he's not 
+
+4 saying this, but I might. 
+
+5  But there is a compelling interest in 
+
+6 women's health and in the health of the family, and 
+
+7 they're not having a religious objection to taking it. 
+
+8 And so the government has said provide it. 
+
+9  Then he says, but there is a less 
+
+10 restrictive way, and the less restrictive way is the 
+
+11 government pays for it.  Says it wouldn't cost much. 
+
+12 You'd have to have another piece of paper that would go 
+
+13 to the insurance company that would say, insofar as your 
+
+14 employer has a sincere objection against paying this, 
+
+15 the government will pay for it. 
+
+16  Now, what I want to hear, and this is not 
+
+17 coming from any point of view, I want to hear your 
+
+18 precise answer to that kind of argument. 
+
+19  GENERAL VERRILLI:  Yes.  They did argue ­­ I 
+
+20 will point out, for the first time at the podium this 
+
+21 morning ­­ that a less restrictive means would be to 
+
+22 extend the accommodation that currently exists ­­
+
+23  JUSTICE BREYER:  I'm not interested in 
+
+24 whether they made the argument sooner or later.  What I 
+
+25 want to hear from you is I want to hear ­­ and it's 
+
+Alderson Reporting Company 
+
+
+
+64 
+
+Official ­ Subject to Final Review 
+
+1 not ­­ you've thought about this.  I want to hear your 
+
+2 answer to that kind of argument. 
+
+3  GENERAL VERRILLI:  Well ­­
+
+4  JUSTICE BREYER:  I want to be sure you have 
+
+5 a chance to give it. 
+
+6  GENERAL VERRILLI:  The answer ­­ I think 
+
+7 there are two answers to it.  Assuming it's before the 
+
+8 Court ­­ and I'm going to answer your honest question 
+
+9 directly, but I do want to make a prefatory point here, 
+
+10 which is that under the law, under Ashcroft v. ACLU, for 
+
+11 example, the burden on the government is to show that 
+
+12 proposed less restrictive alternatives are not equally 
+
+13 effective.  If they don't propose it, we don't have a 
+
+14 burden to refute it. 
+
+15  Having said that, we can refute it.  Now, 
+
+16 there are two ­­ and there are two ways.  The first is, 
+
+17 they claim that they don't think that the accommodation 
+
+18 is a less restrictive means, I take it, because ­­ or 
+
+19 they haven't raised it before today, because they 
+
+20 believe that RFRA would require exemptions to that too, 
+
+21 such that if you were ­­ if you were to provide the 
+
+22 accommodation in which the insurance company comes in 
+
+23 and provides the contraception if the employer signs the 
+
+24 form, they would say that that ­­ signing the form also 
+
+25 makes them complicit in the central activity, and that 
+
+Alderson Reporting Company 
+
+
+
+65 
+
+Official ­ Subject to Final Review 
+
+1 therefore RFRA provides an exemption there, too. 
+
+2  And of course the test is whether the 
+
+3 proposed alternative advances the government's 
+
+4 interests as effectively.  And if it is going to be 
+
+5 subject to exactly the same RFRA objections by exactly 
+
+6 the same class of people asking for it, it's not going 
+
+7 to serve the government's interest as effectively 
+
+8 because the RFRA exemption will result in no coverage 
+
+9 there. 
+
+10  The second point being that ­­
+
+11  JUSTICE SCALIA:  So don't make them sign a 
+
+12 piece of paper. 
+
+13  GENERAL VERRILLI:  Well, whether they sign 
+
+14 the piece of paper or not, if they make the RFRA claim 
+
+15 there, which they have with respect to that 
+
+16 accommodation, it will result in it being less effective 
+
+17 in terms of accomplishing the compelling interest.  In 
+
+18 addition ­­
+
+19  JUSTICE ALITO:  Well, we can ask Mr. Clement 
+
+20 what his position is on this.  But you say they have 
+
+21 already asserted that it would be inconsistent with RFRA 
+
+22 as they understand it to provide for a for­profit 
+
+23 corporation, like the ones involved here, the sort of 
+
+24 accommodation that HHS has extended to so­called 
+
+25 religious nonprofits, perhaps with the modification that 
+
+Alderson Reporting Company 
+
+
+
+66 
+
+Official ­ Subject to Final Review 
+
+1 was included in our stay order in the Little Sisters 
+
+2 case.  Have they taken a position on that? 
+
+3  GENERAL VERRILLI:  You'll have to ask them. 
+
+4 I don't think they have.  But they have studiously 
+
+5 avoided arguing this as a less restrictive alternative, 
+
+6 and I take it it's because their theory, at least, would 
+
+7 lead one to the conclusion you would have to provide a 
+
+8 RFRA objection.  But now the ­­ yes, thank you, 
+
+9 Mr. Chief Justice. 
+
+10  The second point is that you're talking 
+
+11 about a very open­ended increase in the cost to the 
+
+12 government.  Now, we don't know how much that cost would 
+
+13 be.  The reason is because, since this wasn't litigated 
+
+14 in the lower courts, there's not a record on it.  So I 
+
+15 can't tell you what that ­­ what that increased cost is 
+
+16 going to be, but it could be quite considerable. 
+
+17  JUSTICE SCALIA:  You're talking about, what, 
+
+18 three or four birth controls, not all of them, just 
+
+19 those that are abortifacient.  That's not terribly 
+
+20 expensive stuff, is it? 
+
+21  GENERAL VERRILLI:  Well, to the contrary. 
+
+22 And two points to make about that.  First, of course 
+
+23 the ­­ one of the methods of contraception they object 
+
+24 to here is the IUD.  And that is by far and away the 
+
+25 method of contraception that is most effective, but has 
+
+Alderson Reporting Company 
+
+
+
+67 
+
+Official ­ Subject to Final Review 
+
+1 the highest upfront cost and creates precisely the kind 
+
+2 of cost barrier that the preventive services provision 
+
+3 is trying to break down. 
+
+4  JUSTICE ALITO:  I thought that ­­ I was 
+
+5 taken by your answer.  I thought it was the government's 
+
+6 position that providing coverage for the full range of 
+
+7 contraceptives and other devices and drugs that are 
+
+8 covered here is actually financially neutral for an 
+
+9 insurance company, that that reduces other costs that 
+
+10 they would incur. 
+
+11  GENERAL VERRILLI:  It is for the insurance 
+
+12 company, but for the woman who is going to not get the 
+
+13 benefit of the statute if the exemption is granted ­­
+
+14  JUSTICE ALITO:  No.  No.  If she ­­ if she 
+
+15 has the coverage through the insurance company but the 
+
+16 employer has nothing to do with arranging for that. 
+
+17  GENERAL VERRILLI:  Well, so, in other words, 
+
+18 if they haven't raised a RFRA objection to the 
+
+19 alternative, but that ­­ but as I said, you know, the 
+
+20 logic of their position is that you would get a RFRA 
+
+21 objection.  It can't be ­­
+
+22  JUSTICE BREYER:  Still, I want to get ­­
+
+23 press this a little further, and I don't want you simply 
+
+24 to just agree with what I'm about to say. 
+
+25  GENERAL VERRILLI:  Don't worry. 
+
+Alderson Reporting Company 
+
+
+
+68 
+
+Official ­ Subject to Final Review 
+
+1  (Laughter.) 
+
+2  JUSTICE BREYER:  No, I mean ­­ I mean, after 
+
+3 all, somebody, a taxpayer, might say, "I don't want to 
+
+4 pay for this small war."  And it would be a religious 
+
+5 ground, and it would be very, very little money, in 
+
+6 fact, that you take from him.  Or the church might say, 
+
+7 "I want a Sunday morning reduction in the cost of 
+
+8 municipal parking."  And by the way, that will not only 
+
+9 not cost the government anything, they'll make money 
+
+10 because nobody parks there on Sunday, particularly with 
+
+11 this high a fee. 
+
+12  Now, I'm thinking of ­­ I'm trying to figure 
+
+13 out where this case fits in that spectrum because I 
+
+14 think the answer to the first two questions is no.  And 
+
+15 I know, so you're just going to agree, and that's what I 
+
+16 don't want.  I want to understand your thinking on that. 
+
+17  GENERAL VERRILLI:  On that point, I think 
+
+18 that question plugs into our view of what the 
+
+19 substantial burden test requires, that their view of 
+
+20 substantial burden is if you have a sincere religious 
+
+21 belief and there is any law with a meaningful penalty 
+
+22 that imposes on you pressure to do something 
+
+23 inconsistent with your belief, then you may pass the 
+
+24 substantial burden test. 
+
+25  I think the problem with that test as they 
+
+Alderson Reporting Company 
+
+
+
+69 
+
+Official ­ Subject to Final Review 
+
+1 formulate it, is that under the two hypotheticals that 
+
+2 you just gave, Justice Breyer, you've got a substantial 
+
+3 burden in those situations, because if you don't pay the 
+
+4 tax you can go to jail, for example. 
+
+5  And so we think the substantial burden 
+
+6 analysis has got to be more strenuous than that.  It's 
+
+7 got to incorporate principles of attenuation and 
+
+8 proximate cause, and that when you think about this case 
+
+9 where the requirement is to purchase insurance which 
+
+10 enables actions by others, that you're really closer to 
+
+11 the tax situation than to imposing a direct obligation 
+
+12 to act. 
+
+13  So that's how we would think about that 
+
+14 issue.  But now, with respect to ­­
+
+15  JUSTICE ALITO:  Mr. ­­ General Verrilli, 
+
+16 isn't that really a question of theology or moral 
+
+17 philosophy, which has been debated for ­­ by many 
+
+18 scholars and adherents to many religions.  A does 
+
+19 something that B thinks is immoral.  How close a 
+
+20 connection does there have to be between what B does 
+
+21 that may have some ­­ that may provide some assistance 
+
+22 to A in order for B to ­­ to be required to refrain from 
+
+23 doing that ­­ that action. 
+
+24  GENERAL VERRILLI:  It's true that it's a 
+
+25 difficult question.  But it isn't ­­
+
+Alderson Reporting Company 
+
+
+
+70 
+
+Official ­ Subject to Final Review 
+
+1  JUSTICE ALITO:  It is a religious question 
+
+2 and it's a moral question.  And you want us to provide a 
+
+3 definitive secular answer to it? 
+
+4  GENERAL VERRILLI:  No, but I do think the 
+
+5 problem, Justice Alito, is that this Court has 
+
+6 recognized, and certainly the courts of appeals have 
+
+7 recognized, that there is a difference.  You accept the 
+
+8 sincerity of the belief, but the Court still has to make 
+
+9 a judgment of its own about what constitutes a 
+
+10 substantial burden, or otherwise, for example, the tax 
+
+11 thing would be a substantial burden.  Or we cited a D.C. 
+
+12 Circuit case in which prisoners objected to giving DNA 
+
+13 samples and the court said:  We accept the sincerity of 
+
+14 that belief, but it's up to us to decide whether that's 
+
+15 a actually substantial burden. 
+
+16  In the Bowen case in this Court, the Court 
+
+17 accepted the sincerity of the belief that the use of the 
+
+18 child's Social Security number would offend religious 
+
+19 belief and commitments, but said they still had to make 
+
+20 a judgment about whether that was a substantial burden. 
+
+21  So it does have to be, with all due respect, 
+
+22 part of the analysis. 
+
+23  JUSTICE KENNEDY:  I still don't understand 
+
+24 how HHS exercised its judgment to grant the exemption to 
+
+25 nonreligious corporations if you say it was not 
+
+Alderson Reporting Company 
+
+
+
+71 
+
+Official ­ Subject to Final Review 
+
+1 compelled by RFRA. 
+
+2  GENERAL VERRILLI:  I don't think ­­
+
+3  JUSTICE KENNEDY:  Then it must have been 
+
+4 because the health care coverage was not that important. 
+
+5  GENERAL VERRILLI:  It didn't grant an 
+
+6 exemption to any nonreligious organizations, Justice 
+
+7 Kennedy.  It granted an exemption to churches, and that 
+
+8 was it.  With respect to religious nonprofits, it 
+
+9 constructed an accommodation, but the accommodation 
+
+10 delivers the contraceptive coverage to the employees of 
+
+11 the nonprofits.  It just does it through an indirect 
+
+12 means.  But there is no diminution of the ­­ there's no 
+
+13 basis for questioning the government's interest with 
+
+14 respect to that accommodation because the employees get 
+
+15 the coverage, just as they would ­­
+
+16  CHIEF JUSTICE ROBERTS:  Well, but that of 
+
+17 course is an issue that's being hotly litigated right 
+
+18 now, right?  Whether the employees can get the coverage 
+
+19 when you're talking about the religious organizations. 
+
+20  GENERAL VERRILLI:  Well, that's exactly why 
+
+21 I think you can't look to that as a less restrictive ­­
+
+22 that accommodation, extending that accommodation to 
+
+23 for­profit corporations.  As a less restrictive 
+
+24 alternative.  Precisely because it's being hotly 
+
+25 litigated whether RFRA will require exemptions to that, 
+
+Alderson Reporting Company 
+
+
+
+72 
+
+Official ­ Subject to Final Review 
+
+1 as well. 
+
+2  CHIEF JUSTICE ROBERTS:  But you're 
+
+3 relying ­­ you're relying on it to make your point with 
+
+4 respect to the accommodation, and then you're 
+
+5 criticizing your friend for relying on the same thing in 
+
+6 making his points. 
+
+7  GENERAL VERRILLI:  Well, I think ­­ I think 
+
+8 what Justice Kennedy ­­ I took Justice Kennedy to be 
+
+9 asking me, Mr. Chief Justice, was whether the 
+
+10 government's choice to provide that accommodation 
+
+11 reflected a judgment on the part of the government that 
+
+12 this was something less than a compelling interest, and 
+
+13 I don't think that inference is possible, because the 
+
+14 government was trying to use that accommodation to 
+
+15 ensure that the contraceptives were delivered.  So, with 
+
+16 all due respect, I don't think there is an inconsistency 
+
+17 there. 
+
+18  And I ­­ and I do think, if I could, with 
+
+19 respect to this issue of whether there are exemptions 
+
+20 that defeat a compelling interest, that I submit would 
+
+21 be a very dangerous principle for this Court to adopt in 
+
+22 the form that my friends on the other side have offered 
+
+23 it, because not only would you then be in a position 
+
+24 where it would be very hard to see how Title VII 
+
+25 enforcement could be justified by compelling interest in 
+
+Alderson Reporting Company 
+
+
+
+73 
+
+Official ­ Subject to Final Review 
+
+1 response to a RFRA objection, ADA enforcement, FMLA 
+
+2 enforcement, all kinds of things.  And I do think ­­
+
+3  JUSTICE GINSBURG:  Title VII was passed 
+
+4 before 1993, so it wouldn't apply ­­ RFRA wouldn't apply 
+
+5 to Title VII. 
+
+6  GENERAL VERRILLI:  Well, I think ­­ with all 
+
+7 due respect, Justice Ginsburg, I think you could claim a 
+
+8 RFRA exemption from Title VII.  And the problem here 
+
+9 would be that ­­ and I think one of the things that's 
+
+10 significant about the position that my friends on the 
+
+11 other side are taking here, is that with respect to 
+
+12 exemptions, for example, from the Title VII requirement 
+
+13 against discrimination on the basis of religion and 
+
+14 hiring, Congress made a quite clear judgment to provide 
+
+15 a very narrow exemption:  Churches and religious 
+
+16 educational institutions and religious associations, and 
+
+17 that's it.  Nobody else can claim an exemption under 
+
+18 Title VII. 
+
+19  JUSTICE SCALIA:  Except that they passed 
+
+20 RFRA after that.  That made a lot of sense.  But the 
+
+21 question is they passed RFRA after that. 
+
+22  GENERAL VERRILLI:  But I think the further 
+
+23 question, Your Honor, is whether you would interpret 
+
+24 RFRA in a manner where you would essentially obliterate 
+
+25 that carefully crafted ­­ or what Congress meant to do 
+
+Alderson Reporting Company 
+
+
+
+74 
+
+Official ­ Subject to Final Review 
+
+1 was to obliterate that carefully crafted exemption and 
+
+2 instead say that every for­profit corporation could make 
+
+3 a request like that. 
+
+4  CHIEF JUSTICE ROBERTS:  Well, if Congress 
+
+5 feels as strongly about this as you suggest, they can 
+
+6 always pass an exemption, an exception to RFRA, which 
+
+7 they have done on other occasions.  And they haven't 
+
+8 done it here. 
+
+9  GENERAL VERRILLI:  Well, with all due 
+
+10 respect, Your Honor, I think you could make the same 
+
+11 argument either way in this case, that the question here 
+
+12 is what Congress thought it was doing in 1993, and we 
+
+13 don't think, given the long history and the fact that 
+
+14 not only do you have no case in which a for­profit 
+
+15 corporation ever had a successful ­­
+
+16  CHIEF JUSTICE ROBERTS:  Well, we've already 
+
+17 discussed that there is no case holding that they can't, 
+
+18 right? 
+
+19  GENERAL VERRILLI:  In addition, if you look 
+
+20 at the history of exemptions and accommodations in our 
+
+21 legislation, State and Federal legislation may extend to 
+
+22 churches and religious nonprofits, and that's ­­ and 
+
+23 individuals.  And that's where the line has been drawn 
+
+24 in our legislation historically.  There just is nothing 
+
+25 in our current ­­
+
+Alderson Reporting Company 
+
+
+
+75 
+
+Official ­ Subject to Final Review 
+
+1  JUSTICE KENNEDY:  Under your view, a profit 
+
+2 corporation could be forced ­­ in principle, there are 
+
+3 some statutes on the books now which would prevent it, 
+
+4 but ­­ could be forced in principle to pay for 
+
+5 abortions. 
+
+6  GENERAL VERRILLI:  No.  I think, as you 
+
+7 said, the law now ­­ the law now is to the contrary. 
+
+8  JUSTICE KENNEDY:  But your reasoning would 
+
+9 permit that. 
+
+10  GENERAL VERRILLI:  Well, I think that ­­ you 
+
+11 know, I don't think that that's ­­ I think it would 
+
+12 depend on the law and it would depend on the entity.  It 
+
+13 certainly wouldn't be true, I think, for religious 
+
+14 nonprofits.  It certainly wouldn't be true for a church. 
+
+15  JUSTICE KENNEDY:  I'm talking about a profit 
+
+16 corporation.  You say profit corporations just don't 
+
+17 have any standing to vindicate the religious rights of 
+
+18 their shareholders and owners. 
+
+19  GENERAL VERRILLI:  Well, I think that if it 
+
+20 were for a for­profit corporation and if such a law like 
+
+21 that were enacted, then you're right, under our theory 
+
+22 that the for­profit corporation wouldn't have an ability 
+
+23 to sue.  But there is no law like that on the books.  In 
+
+24 fact, the law is the opposite. 
+
+25  CHIEF JUSTICE ROBERTS:  I'm sorry, I lost 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+76 
+
+1 track of that.  There is no law on the books that does 
+
+2 what? 
+
+3  GENERAL VERRILLI:  That makes a requirement 
+
+4 of the kind that Justice Kennedy hypothesized.  The law 
+
+5 is the opposite. 
+
+6  CHIEF JUSTICE ROBERTS:  Well, flesh it out a 
+
+7 little more.  What ­­ there is no law on the books that 
+
+8 does what? 
+
+9  GENERAL VERRILLI:  That requires for­profit 
+
+10 corporations to provide abortions. 
+
+11  JUSTICE KENNEDY:  What if a law like that ­­
+
+12  CHIEF JUSTICE ROBERTS:  Isn't that what we 
+
+13 are talking about in terms of their religious beliefs? 
+
+14 One of the religious beliefs is that they have to pay 
+
+15 for these four methods of contraception that they 
+
+16 believe provide abortions.  I thought that's what we had 
+
+17 before us. 
+
+18  GENERAL VERRILLI:  It is their sincere 
+
+19 belief and we don't question that.  But I will say, and 
+
+20 I do think this is important and I say it with all 
+
+21 respect, that that is how they ­­ that is the judgment 
+
+22 that they make.  It is not the judgment that Federal law 
+
+23 or State law reflects.  Federal law and State law which 
+
+24 does ­­ which do preclude funding for abortions don't 
+
+25 consider these particular forms of contraception to be 
+
+Alderson Reporting Company 
+
+
+
+77 
+
+Official ­ Subject to Final Review 
+
+1 abortion. 
+
+2  With all due respect, I would say that I 
+
+3 think that, you know, we've got about 2 million women 
+
+4 who rely on the IUD as a method of birth control in this 
+
+5 country.  I don't think they think they are engaged in 
+
+6 abortion in doing that.  It is their belief.  It's 
+
+7 sincere.  We respect it. 
+
+8  But it isn't a belief that we think is 
+
+9 reflected in Federal or State law or our traditions of 
+
+10 where that line is drawn.  And so ­­ and I do think that 
+
+11 that is what makes this a difficult case.  I agree. 
+
+12  And if you disagree with our position at the 
+
+13 threshold that corporations ­­ that even though you have 
+
+14 a situation, and we acknowledge you can have situations, 
+
+15 in which a tightly knit group of ­­ a small group of 
+
+16 tightly knit individuals own and operate a corporation 
+
+17 where there is appeal to that, to the argument that they 
+
+18 ought to recognize a claim of exercising religion in 
+
+19 those circumstances. 
+
+20  The problem, I would submit, is with the 
+
+21 implications of doing it, the implications for 
+
+22 entanglement and making the judgments when you move past 
+
+23 that group, the administrability problems, and the 
+
+24 problems of inviting the kinds of claims that are 
+
+25 predictably going to impose harms on third parties. 
+
+Alderson Reporting Company 
+
+
+
+78 
+
+Official ­ Subject to Final Review 
+
+1  JUSTICE ALITO:  What about the implications 
+
+2 of saying that no for­profit corporation can raise any 
+
+3 sort of free exercise claim at all and nobody associated 
+
+4 with the for­profit corporation can raise any sort of 
+
+5 free exercise claim at all? 
+
+6  Let me give you this example.  According to 
+
+7 the media, Denmark recently prohibited kosher and halal 
+
+8 slaughter methods because they believe that they are 
+
+9 inhumane.  Now, suppose Congress enacted something like 
+
+10 that here.  What would the ­­ what would a corporation 
+
+11 that is a kosher or halal slaughterhouse do?  They would 
+
+12 simply ­­ they would have no recourse whatsoever.  They 
+
+13 couldn't even get a day in court.  They couldn't raise a 
+
+14 RFRA claim.  They couldn't raise a First Amendment 
+
+15 claim. 
+
+16  GENERAL VERRILLI:  Well, I'm not sure they 
+
+17 couldn't raise a First Amendment claim, Justice Alito. 
+
+18 I think if you had a targeted law like that, that 
+
+19 targeted a specific religious practice, that ­­ I don't 
+
+20 think it is our position that they couldn't make a free 
+
+21 exercise claim in that circumstance and so ­­
+
+22  JUSTICE ALITO:  Why is that ­­
+
+23  JUSTICE KENNEDY:  Well, but you're getting 
+
+24 away from the hypothetical.  Say ­­ Justice Alito's 
+
+25 hypothetical was that the impetus for this was humane 
+
+Alderson Reporting Company 
+
+
+
+79 
+
+Official ­ Subject to Final Review 
+
+1 treatment of animals.  There was no animus to religion 
+
+2 at all, which in the Church of Lukumi, there was an 
+
+3 animus to the religion.  So we're taking that out of the 
+
+4 hypothetical. 
+
+5  JUSTICE ALITO:  Exactly. 
+
+6  GENERAL VERRILLI:  Right.  Well, I think if 
+
+7 it were targeted only at the practices of the ­­ the 
+
+8 kosher and halal practices, then I think you would have 
+
+9 an issue of whether it's a targeted law or not.  But 
+
+10 even if it is ­­
+
+11  JUSTICE ALITO:  Well, they say no animal may 
+
+12 be slaughtered unless it's stunned first, unless the 
+
+13 animal is rendered unconscious before it is slaughtered. 
+
+14  GENERAL VERRILLI:  Well, I think in that 
+
+15 circumstance, you would have, I think, an ability for 
+
+16 customers to bring suit.  I think you might recognize 
+
+17 third party standing on behalf of the corporation ­­ on 
+
+18 the corporations, on behalf of customers.  So a suit 
+
+19 like that could be brought. 
+
+20  But even if you disagree with me at the 
+
+21 threshold, even if you disagree with us with respect to 
+
+22 the kinds of risks that we think you will be inviting if 
+
+23 you hold that for­profit corporations can bring these 
+
+24 claims, when you get to the compelling interest 
+
+25 analysis, the rights of the third party employees are at 
+
+Alderson Reporting Company 
+
+
+
+80 
+
+Official ­ Subject to Final Review 
+
+1 center stage here.  And that's ­­ I think that's the 
+
+2 point of critical importance in thinking about this 
+
+3 case.  And I think, frankly, the point that has been 
+
+4 just left on the sidelines by my friends on the other 
+
+5 side. 
+
+6  The consequence of holding here that the 
+
+7 RFRA exemption applies is not a situation like ones in 
+
+8 which this Court under the Free Exercise Clause or under 
+
+9 RFRA have recognized exemptions in the past.  Those have 
+
+10 always been situations where it's a relationship between 
+
+11 the individual and the government and granting the 
+
+12 exemption might result in the government not being able 
+
+13 to enforce the law with respect to the individual, but 
+
+14 ­­
+
+15  JUSTICE BREYER:  I mean, the point that 
+
+16 Justice Alito was making is that ­­ take five Jewish or 
+
+17 Muslim butchers and what you're saying to them is if 
+
+18 they choose to work under the corporate form, which is 
+
+19 viewed universally, you have to give up on that form the 
+
+20 Freedom of Exercise Clause that you'd otherwise have. 
+
+21  Now, looked at that way, I don't think it 
+
+22 matters whether they call themselves a corporation or 
+
+23 whether they call themselves individuals.  I mean, I 
+
+24 think that's the question you're being asked, and I need 
+
+25 to know what your response is to it. 
+
+Alderson Reporting Company 
+
+
+
+81 
+
+Official ­ Subject to Final Review 
+
+1  GENERAL VERRILLI:  Well, I think our 
+
+2 response is what the Court said in Part 3 of the Lee 
+
+3 opinion, which is that once you make a choice to go into 
+
+4 the commercial sphere, which you certainly do when you 
+
+5 incorporate as a for­profit corporation, you are making 
+
+6 a choice to live by the rules that govern you and your 
+
+7 competitors in the commercial sphere. 
+
+8  But even if you disagree with me about that, 
+
+9 what I'd like to leave the Court with, is what I think 
+
+10 is the most important point here, is that if this 
+
+11 exemption were granted, it will be the first time under 
+
+12 the Free Exercise Clause or under RFRA in which this 
+
+13 Court or any court has held that an employer may take ­­
+
+14 may be granted an exemption that extinguishes 
+
+15 statutorily­guaranteed benefits of fundamental 
+
+16 importance. 
+
+17  Lee came to exactly the opposite conclusion 
+
+18 with respect to Social Security benefits, that you ­­
+
+19 that it was imperative that the employee's interest be 
+
+20 protected.  And that is the fundamental problem with the 
+
+21 position that my friends on the other side raise here, 
+
+22 that they leave the third­party employees entirely out 
+
+23 of the equation. 
+
+24  JUSTICE SCALIA:  That's okay for 
+
+25 not­for­profit corporations to do that with respect to 
+
+Alderson Reporting Company 
+
+
+
+82 
+
+Official ­ Subject to Final Review 
+
+1 all of their employees, and some of them are pretty big 
+
+2 operations ­­
+
+3  GENERAL VERRILLI:  No. 
+
+4  JUSTICE SCALIA:  ­­ that's okay there? 
+
+5  GENERAL VERRILLI:  No, we don't think that. 
+
+6 We don't ­­ we're not drawing a line between non­profits 
+
+7 and profits. 
+
+8  JUSTICE SCALIA:  They can make ­­ you allow 
+
+9 them to make this religious objection, don't you? 
+
+10  GENERAL VERRILLI:  No.  No.  Religious 
+
+11 non­profits get an accommodation in which their 
+
+12 employees get the contraception.  But we are not drawing 
+
+13 a line between for­profit and profit. 
+
+14  JUSTICE SCALIA:  But they don't have to pay 
+
+15 for it, right? 
+
+16  GENERAL VERRILLI:  The ­­
+
+17  JUSTICE SCALIA:  And you could set that up 
+
+18 this way, that these people don't have to pay for it. 
+
+19  GENERAL VERRILLI:  Well, as I've said a 
+
+20 couple of times, they haven't asked for that until this 
+
+21 morning.  But the fundamental point here is that you 
+
+22 would be extinguishing statutorily­guaranteed health 
+
+23 benefits of fundamental importance to these employees, 
+
+24 and that is something that this Court has never done. 
+
+25 And I submit that Congress can't have thought it was 
+
+Alderson Reporting Company 
+
+
+
+83 
+
+Official ­ Subject to Final Review 
+
+1 authorizing it when it enacted RFRA in 1993. 
+
+2  Thank you. 
+
+3  CHIEF JUSTICE ROBERTS:  Thank you, General. 
+
+4  Mr. Clement, four minutes. 
+
+5  REBUTTAL ARGUMENT OF PAUL D. CLEMENT 
+
+6  ON BEHALF OF PRIVATE PARTIES 
+
+7  MR. CLEMENT:  Thank you, Mr. Chief Justice. 
+
+8  Just a few points in rebuttal.  Let me start 
+
+9 with the Abortion Conscious Clause.  It's ­­ because it 
+
+10 tells you something about where Congress has drawn the 
+
+11 line and it tells you the consequences of the 
+
+12 government's position.  Historically, those conscious 
+
+13 provisions have applied to all medical providers, 
+
+14 including for­profit medical providers.  But we learned 
+
+15 today that as far as the government's concerned, that's 
+
+16 just Congress' judgment.  If Congress changes its 
+
+17 judgment and says that a for­profit medical provider has 
+
+18 to provide an abortion, RFRA doesn't apply.  That, with 
+
+19 all due respect, cannot be what Congress had in mind 
+
+20 when it passed RFRA.  They also suggested if a kosher 
+
+21 market takes the trouble to incorporate itself, then it 
+
+22 has no free exercise claims at all. 
+
+23  Now, you can go back and read the Crown 
+
+24 kosher case.  I took it as common ground, that all nine 
+
+25 justices thought that if the Massachusetts law there had 
+
+Alderson Reporting Company 
+
+
+
+84 
+
+Official ­ Subject to Final Review 
+
+1 forced Crown kosher to be open on Saturday, that that 
+
+2 would be a free exercise claim notwithstanding the 
+
+3 incorporation. 
+
+4  The second point I want to talk about is the 
+
+5 least restrictive alternatives.  In a colloquy with 
+
+6 Justice Scalia, the Solicitor General points out that 
+
+7 yeah, well, it's a little bit different from the 
+
+8 pre­Smith law because now you have the less restrictive 
+
+9 alternatives analysis. 
+
+10  That's not a small difference.  That's a 
+
+11 major difference.  And it's really the easiest way to 
+
+12 rule against the government in this case.  Because you 
+
+13 have a unique situation here where their policy is about 
+
+14 a government ­­ a subsidy for a government­ preferred 
+
+15 health care item, and the question is who pays?  The 
+
+16 government paying or a third­party insurer paying is a 
+
+17 perfectly good least restrictive alternative. 
+
+18  JUSTICE SOTOMAYOR:  So we go back to the 
+
+19 start of my question, that would be essentially the same 
+
+20 for vaccines, blood transfusions, non­pork products, the 
+
+21 government has to pay for all of the medical needs that 
+
+22 an employer thinks or claims it has a religious 
+
+23 exemption to? 
+
+24  MR. CLEMENT:  Not necessarily, 
+
+25 Justice Sotomayor.  It will depend on how you ­­
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+85 
+
+1  JUSTICE SOTOMAYOR:  Because those things are 
+
+2 more important? 
+
+3  MR. CLEMENT:  No, not because they're 
+
+4 more ­­
+
+5  JUSTICE SOTOMAYOR:  It's really the amount 
+
+6 of money ­­
+
+7  MR. CLEMENT:  ­­ important.  But the easiest 
+
+8 way to distinguish them is if the government's already 
+
+9 provided this accommodation for religious employers. 
+
+10  JUSTICE SOTOMAYOR:  Well, but they ­­
+
+11  MR. CLEMENT:  And with all due respect ­­
+
+12  JUSTICE SOTOMAYOR:  ­­ they make exemptions 
+
+13 for vaccines, presumably, to some people on some basis, 
+
+14 but we have a tax code that applies to everybody, but we 
+
+15 have a million exemptions. 
+
+16  Does the creation of the exemption relieve 
+
+17 me from paying taxes when I have a sincere religious 
+
+18 belief that taxes are immoral? 
+
+19  MR. CLEMENT:  I think Lee says that taxes 
+
+20 are different and not all exemptions are created equal, 
+
+21 because some exemptions undermine the compelling 
+
+22 interest.  Now, the reason ­­
+
+23  JUSTICE ALITO:  Isn't there a Federal 
+
+24 program that pays for vaccines for any children who are 
+
+25 not covered by insurance for those vaccines? 
+
+Alderson Reporting Company 
+
+
+
+86 
+
+Official ­ Subject to Final Review 
+
+1  MR. CLEMENT:  There is, Justice Alito.  Of 
+
+2 course, there's also Title X, which provides for 
+
+3 contraception coverage, which is another least 
+
+4 restrictive alternative. 
+
+5  But I do want to get on the table that it is 
+
+6 not true, that we have not suggested that the 
+
+7 accommodation provided to religious employers, like 
+
+8 nonprofit hospitals, that's not something I invented at 
+
+9 the podium. 
+
+10  If you look at page 58 of our brief, the red 
+
+11 brief, we specifically say that one of the least 
+
+12 restrictive alternatives would be ­­ the most obvious 
+
+13 least restrictive alternative is for the government to 
+
+14 pay for their favorite contraception methods themselves. 
+
+15  Later in that paragraph, the only full 
+
+16 paragraph on the page, we say, "And indeed, the 
+
+17 government has attempted something like that with 
+
+18 respect to certain objective employers ­­ objective 
+
+19 employees ­­ employers," and we cite the Federal 
+
+20 Register provision where there is the accommodation 
+
+21 provision. 
+
+22  JUSTICE SOTOMAYOR:  Will your clients claim 
+
+23 that filling out the form, if ­­ you're saying they 
+
+24 would claim an exemption like the churches have already? 
+
+25  MR. CLEMENT:  We haven't been offered that 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+87 
+
+1 accommodation, so we haven't had to decide what kind of 
+
+2 objection, if any, we would make to that.  But it's 
+
+3 important to recognize that as I understand that 
+
+4 litigation, the objection is not to the fact that the 
+
+5 insurance or the provider pays for the contraception 
+
+6 coverage.  The whole debate is about how much complicity 
+
+7 there has to be from the employer in order to trigger 
+
+8 that coverage.  And whatever the answer is for Little 
+
+9 Sisters of the Poor, presumably you can extend the same 
+
+10 thing to my clients and there wouldn't be a problem with 
+
+11 that. 
+
+12  If I could have just one second more to say 
+
+13 that the agency point that Justice Kennedy has pointed 
+
+14 to is tremendously important, because Congress spoke, it 
+
+15 spoke in RFRA.  Here the agency has decided that it's 
+
+16 going to accommodate a subset of the persons protected 
+
+17 by RFRA.  In a choice between what Congress has provided 
+
+18 and what the agency has done, the answer is clear. 
+
+19  Thank you, Your Honor. 
+
+20  CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+21  Counsel, the case is submitted. 
+
+22  (Whereupon, at 11:39 a.m., the case in the 
+
+23 above­titled matter was submitted.) 
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final ReviewOfficial ­ Subject to Final Review 
+
+88 
+
+A 64:17,22 65:16 Adherence allowing 33:12 63:18 64:2,6,8 
+
+$12,000 26:18 65:24 71:9,9 41:15 alternative 6:7 67:5 68:14 
+
+$2,000 22:16 71:14,22,22 adherents 69:18 10:9 14:1 70:3 87:8,18 
+
+23:2,3,21 72:4,10,14 administer 16:11 21:21 answered 47:15 
+
+25:14 26:7,12 82:11 85:9 40:14 37:12 38:14 answers 64:7 
+
+27:9 86:7,20 87:1 administrability 40:4,11,12,20 anybody 31:12 
+
+$26 22:10 23:1,5 accommodati... 77:23 65:3 66:5 61:4 
+
+29:8 4:18 5:8 9:7 admitted 31:19 67:19 71:24 anyways 9:15 
+
+$4,000 26:17 37:15 39:10 adopt 11:22 84:17 86:4,13 appeal 52:3 
+
+$475 22:9,25 74:20 49:12 72:21 alternatives 53:16 77:17 
+
+a.m 2:2 4:2 accompanied adopted 16:9 5:21 15:8 appeals 53:16 
+
+87:22 10:9 49:5 39:22 40:2 70:6 
+
+ability 28:9 accompanies advance 62:4 64:12 84:5,9 APPEARAN... 
+
+75:22 79:15 11:7 advances 61:5 86:12 2:3 
+
+able 28:1 52:5 accomplishing 65:3 ameliorate applicability 
+
+59:18 80:12 65:17 advancing 62:16 37:13 61:8 
+
+abortifacient account 29:8 affect 41:14 43:1 amended 9:25 applicable 8:16 
+
+63:2 66:19 34:6,7,23 Affordable amendment 8:2 17:12 
+
+abortion 38:3,6 42:25 57:8 60:12,15 11:22,23,24 application 
+
+77:1,6 83:9,18 acknowledge agency 4:13,17 12:22,22,24 12:20,20 51:23 
+
+abortions 37:19 77:14 5:7 56:21,22 49:6 56:25 55:11 
+
+63:1 75:5 ACLU 64:10 57:2,6 62:13 58:8 78:14,17 applied 16:22,24 
+
+76:10,16,24 act 12:19 17:20 87:13,15,18 Americans 30:24 39:14 
+
+above­entitled 38:19 48:19,20 agree 33:14 47:6 15:25 61:5 83:13 
+
+1:25 48:23 53:10 55:5 67:24 amount 85:5 applies 11:10 
+
+above­titled 55:23 56:3 68:15 77:11 ample 38:13 16:10,19 17:21 
+
+87:23 60:15 61:5 agreed 10:15 39:21 39:12,15 45:4 
+
+absolutely 16:14 69:12 aims 47:9,11 analogy 34:14 52:17 80:7 
+
+26:3,6 55:25 Act's 60:12 AL 1:5,9,15,20 analysis 5:2,19 85:14 
+
+absurd 26:4 action 53:14 Alito 15:12,16 5:20,21 9:9 apply 6:6,18 
+
+acceded 20:9 69:23 39:16,23 43:3 16:7 19:21 7:17,21 10:21 
+
+accept 21:1 56:4 actions 69:10 45:20 46:1,7 21:17 25:10 10:22 11:9 
+
+70:7,13 activities 41:14 46:14,17,20 29:7 30:2,16 13:7 15:5,19 
+
+accepted 70:17 activity 20:25 47:2,4,11,25 34:8,10 44:10 17:12 30:19 
+
+access 38:11 21:4 46:9,15 49:1,3,11,19 46:13 51:6,15 39:6 73:4,4 
+
+56:12 57:20 46:21 48:1 50:1 54:25 55:8 59:20 83:18 
+
+accident 13:9 64:25 60:4 65:19 69:6 70:22 applying 10:24 
+
+accommodate ADA 61:4 73:1 67:4,14 69:15 79:25 84:9 15:5 
+
+87:16 addition 56:1 70:1,5 78:1,17 analyzed 5:22 approach 19:11 
+
+accommodating 62:18 65:18 78:22 79:5,11 36:16 19:12 
+
+39:17 74:19 80:16 85:23 analyzing 42:24 appropriate 
+
+accommodation additional 17:20 86:1 animal 79:11,13 29:7,24 57:6 
+
+14:22 34:18,22 29:11 Alito's 48:14 animals 79:1 approximate 
+
+37:16 40:12 address 5:9 78:24 animus 79:1,3 59:10 
+
+43:1,4,16 38:14 45:17 allow 37:17 82:8 answer 7:14 approximately 
+
+57:18,19 63:22 58:24 allowed 20:4 8:19 21:5 25:19 
+
+adequate 29:21 31:14 32:15 43:24 48:15,18 argue 45:7,23 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+89 
+
+63:19 authorizing 83:1 49:10 68:21,23 Breyer 62:21 19:7 24:20 
+
+arguing 16:8 available 55:18 70:8,14,17,19 63:23 64:4 48:12 51:7 
+
+18:12 66:5 average 26:16 76:19 77:6,8 67:22 68:2 butchers 80:17 
+
+argument 2:1 avoid 52:10,13 85:18 69:2 80:15 
+
+3:2,5,8 4:3,9 avoidance 8:15 beliefs 12:1 brief 9:6 12:15 C 
+
+7:5,25 16:9 43:14 13:12 18:17 58:2 86:10,11 C 3:1 4:1 
+
+30:4 33:3 34:8 avoided 66:5 20:1 28:23 briefs 21:23 Caldor 35:4 
+
+39:5 41:6 43:3 avoiding 8:6 29:1,18 33:15 28:22 calibrated 23:24 
+
+43:6,8 46:8 await 52:19 33:16 35:14 bring 21:20 23:25 
+
+51:11,11 52:12 39:3,12 42:6 45:22 46:6 call 80:22,23 
+
+54:16 55:25 B 76:13,14 53:14,17 54:2 called 23:23,24 
+
+63:18,24 64:2 B 2:6 3:6 41:6 believe 27:12 54:11 79:16,23 26:19 
+
+74:11 77:17 69:19,20,22 29:14 64:20 brings 17:15 cancer 62:16 
+
+83:5 back 8:24,25 76:16 78:8 34:25 care 7:2 23:14 
+
+arose 58:25 10:22 11:2 belong 20:19 broad 48:20 23:22 24:11 
+
+arranging 67:16 28:21,22 83:23 belt 7:10 50:3 27:2,6,7,13 
+
+arrested 20:17 84:18 beneficiaries broaden 9:25 28:16,17 29:2 
+
+articulated baggage 9:23 58:16 broader 12:18 29:13 60:7,12 
+
+41:11 balance 44:3,3 benefit 36:4,13 broadest 49:14 60:15 71:4 
+
+artificial 18:9 44:14 44:22 67:13 broadly 11:10 84:15 
+
+Ashcroft 64:10 balanced 34:22 benefits 45:1 17:18 carefully 57:11 
+
+Ashwander 8:14 balancing 9:9 81:15,18 82:23 brought 5:5 73:25 74:1 
+
+asked 5:12 14:18 beyond 50:9 7:15 13:11 carrier 40:14 
+
+43:12 80:24 barrier 67:2 Bible 37:5 14:13 15:15,17 carry 35:1 
+
+82:20 based 56:22 Bibles 36:7,9,12 15:21 30:21 case 5:4,21 8:1,7 
+
+asking 40:3 basic 19:12 big 82:1 35:18 79:19 8:7 10:16,17 
+
+47:25 65:6 61:14 binding 21:3 building 61:10 10:18 13:5 
+
+72:9 basically 8:25 birth 66:18 77:4 burden 5:3,19 15:6,7 16:8,22 
+
+asks 36:22 11:6 14:22 bit 9:14 10:19 11:12,12,13 16:23 17:13 
+
+assert 20:19 40:13 24:17,18,19,24 20:8,11 21:11 18:22,22 19:22 
+
+asserted 65:21 basis 4:24 8:13 25:9 84:7 21:14 22:22 20:13,16 21:17 
+
+asserts 19:18 12:1 30:9,11 blood 4:22 6:3,4 28:3,8 29:7 22:16 27:24,25 
+
+31:5 31:22 38:1 84:20 33:25 34:2,10 28:1,5,20 33:9 
+
+assistance 69:21 42:6 45:2,3 board 7:17 34:10 36:3 34:21 35:3,4 
+
+associated 78:3 71:13 73:13 body 8:24 9:4,5 37:13,20 38:4 36:10 37:22 
+
+associations 85:13 books 7:7 15:14 39:19 43:21 38:22,22 41:10 
+
+73:16 bear 34:10 19:7 36:6,8 54:21 64:11,14 43:8,15 44:19 
+
+assume 5:18 beef 35:20 75:3,23 76:1,7 68:19,20,24 45:22 46:15 
+
+19:3,4,6 26:11 beginning 7:24 borne 37:10 69:3,5 70:10 47:7 48:25 
+
+27:15,23 59:20 behalf 2:4,7 3:4 bother 32:18 70:11,15,20 50:10,12,14,20 
+
+Assuming 64:7 3:7,10 4:10 bound 16:18 burdens 6:8 50:21,22,24 
+
+attempted 86:17 31:18 41:7 41:13 33:22,23 34:6 51:3 52:5,5,19 
+
+attenuation 69:7 62:23 79:17,18 Bowen 70:16 35:5,21,23 54:20 61:21 
+
+attorney 31:18 83:6 Braunfeld 24:23 36:17 37:8,9 66:2 68:13 
+
+attorneys 31:18 belief 16:16 25:8 46:15 38:14 69:8 70:12,16 
+
+attract 28:9 18:23 20:10,15 47:15 50:21 burkas 33:8 74:11,14,17 
+
+authority 57:7 21:14 28:17 break 67:3 business 19:1,3 77:11 80:3 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+90 
+
+83:24 84:12 71:16 72:2,9 13:10 14:12 51:25 58:25 comparing 
+
+87:21,22 74:4,16 75:25 15:14,17,20 62:24 65:19 23:21 
+
+cases 4:4 6:5 76:6,12 83:3,7 44:15 45:22 83:4,5,7 84:24 comparison 
+
+9:19,21,24 87:20 46:6 47:1 85:3,7,11,19 23:22 24:8 
+
+10:8 13:10 child 13:23 51:22 53:18 86:1,25 compelled 4:13 
+
+17:7 18:2,5,5 child's 70:18 54:3,17 77:24 client 8:10 11:12 14:7 71:1 
+
+19:11,20 20:3 children 85:24 79:24 83:22 26:22 28:9 compelling 5:20 
+
+20:6,20 25:7 choice 20:25 84:22 31:24 5:24 6:2,6 9:9 
+
+37:11 44:18 22:1,8,19,21 class 56:15 65:6 clients 8:8 31:19 10:8 13:18,25 
+
+50:18 54:8 22:25 25:17 clause 34:16 39:3 86:22 15:7 21:17,21 
+
+cause 69:8 72:10 81:3,6 38:3,6 42:13 87:10 28:2 29:25 
+
+center 80:1 87:17 43:5,7 44:21 close 69:19 30:4,5,14,23 
+
+central 49:10,17 choose 22:4,15 80:8,20 81:12 closely 52:17 31:5 32:10 
+
+64:25 80:18 83:9 closely­held 33:3 34:7 
+
+centrality 9:22 chosen 41:1 51:8 clauses 37:17 13:11 36:19 43:20 
+
+16:15 20:4 Christmas 19:8 clear 6:22 7:1 closer 69:10 44:8,9,10,13 
+
+49:25 50:8 church 20:19 20:2 22:23 co­pays 32:7,13 45:18 51:15 
+
+Centro 16:23 68:6 75:14 34:16,21 59:4 32:16 55:13,21 57:22 
+
+17:13 18:6 79:2 73:14 87:18 code 7:19 13:17 60:23 61:16 
+
+certain 5:8 churches 46:6 cleared 57:13 85:14 62:16,20 63:5 
+
+10:17 12:7 57:9,14,16 clearer 6:17 collide 41:14 65:17 72:12,20 
+
+18:17,17 60:6 58:6,7 71:7 7:20 12:24 collision 16:2,3 72:25 79:24 
+
+60:9,14 86:18 73:15 74:22 clearly 15:2 colloquy 84:5 85:21 
+
+certainly 8:18 86:24 Clement 2:4 3:3 colorectal 62:16 compelling­int... 
+
+17:4 24:6 39:4 Circuit 18:22 3:9 4:8,9,11 come 16:12 55:7 
+
+44:10,10 48:11 57:23 70:12 5:1,18 6:4,16 21:17 compensate 
+
+50:19 70:6 circumstance 6:21 7:8 8:8,22 comes 13:19,21 24:12 
+
+75:13,14 81:4 78:21 79:15 9:13 10:12 26:5 36:7 52:6 competitors 
+
+challenge 51:24 circumstances 11:4,15 12:4 52:6,20 64:22 81:7 
+
+challenges 16:19 77:19 13:13 14:2,24 coming 33:23,23 complaints 
+
+chance 64:5 cite 86:19 15:13,16 16:5 34:2 35:9 28:22 
+
+change 31:20 cited 42:5 70:11 16:20 17:4,10 63:17 compliance 30:6 
+
+32:6,7,8,8 claim 4:20,23 18:4,14 19:10 commercial 60:6,21,24 
+
+changed 31:24 8:9,10 19:18 20:2,12 21:8 20:25 51:8 complicit 64:25 
+
+32:1 49:4 21:20 29:3,5 22:7,12,23 81:4,7 complicity 87:6 
+
+changes 31:21 36:11 45:3 23:5,15,20 commitment comply 60:11,14 
+
+32:15 83:16 46:4,10,22 24:4 25:1,15 23:13 concedes 15:22 
+
+chapter 50:2,5 47:5 51:1,12 25:21 26:3,6 commitments concerned 27:21 
+
+52:16 51:13 52:8 26:25 27:25 70:19 35:5 83:15 
+
+Chief 4:3,11 54:11 64:17 28:19,25 29:4 common 20:14 concerns 52:9 
+
+23:12,15 24:1 65:14 73:7,17 29:22 30:16 83:24 conclude 58:17 
+
+41:3,8,19,24 77:18 78:3,5 31:1 32:3,11 companies conclusion 66:7 
+
+42:4 52:11 78:14,15,17,21 33:18 34:13,24 26:24 45:21 81:17 
+
+53:12,23 54:7 84:2 86:22,24 35:16 36:20 52:24 60:1 concrete 22:8 
+
+54:10 58:19,23 claiming 20:9 37:4 38:20 company 52:6 conduct 21:1 
+
+59:9,17 61:2,9 claims 4:16 9:1 39:1,8,21,24 63:13 64:22 Conestoga 1:13 
+
+62:5,9 66:9 12:8,10,11 40:6 41:4 67:9,12,15 4:6 55:12,15 
+
+Alderson Reporting Company 
+
+
+
+91 
+
+Official ­ Subject to Final Review 
+
+confined 49:17 consolidated 4:4 contributes 28:10 40:5,15 courts 8:11 
+
+confronted 9:20 constitutes 70:9 35:23 40:16 60:17 14:12,13 15:3 
+
+confusion 57:12 Constitution control 77:4 63:11 66:11,12 15:4 16:7 
+
+Congress 6:17 50:5 58:8 controls 53:5,6 66:15 67:1,2 18:18 42:8 
+
+6:18,20,23 7:2 constitutional 66:18 68:7,9 47:7 49:8 53:3 
+
+7:7,10,12,16 8:6,15,24 9:4,5 controversy 5:7 cost­free 40:8 53:15 66:14 
+
+7:16,19,22 13:17 14:25 convenient 30:7 costs 27:1 67:9 70:6 
+
+9:17,22 11:17 43:11 56:20 convictions 12:1 counsel 31:17 cover 11:20 
+
+12:9,17 14:3 57:9 core 47:13 87:20,21 coverage 11:25 
+
+15:2 29:19,23 constitutionali... corporate 18:13 count 36:2 17:16 22:10,14 
+
+30:8,20,21 56:3 18:20,24 19:13 counting 36:2 23:7,9 32:22 
+
+31:12 36:5,7 constructed 19:13 46:3,21 36:15 37:1 38:25 
+
+36:23,24 41:21 71:9 47:25 53:13 country 50:11 55:16,18,19 
+
+44:12 46:24 construction 80:18 61:24 77:5 56:13 57:21 
+
+48:17,24 51:20 8:18 43:13 corporation counts 44:1 61:19 62:2,2 
+
+54:23 56:20 54:8 1:14 4:7 17:23 couple 16:20 62:19 65:8 
+
+57:2 60:10 construed 50:3 18:2,17,23 82:20 67:6,15 71:4 
+
+61:6 62:6,10 contest 20:16 19:18 21:6 course 7:9 8:1 71:10,15,18 
+
+73:14,25 74:4 context 5:23,25 47:4,20 48:4 8:17 16:2 86:3 87:6,8 
+
+74:12 78:9 17:20 21:19 50:12 52:6,17 25:24 29:5 coverages 17:18 
+
+82:25 83:10,16 38:2,13 52:20 53:6,6 30:10 42:1 40:11 
+
+83:16,19 87:14 contexts 7:10 53:24 54:2,11 44:12,17 61:21 covered 12:25 
+
+87:17 continue 7:2 57:3 65:23 65:2 66:22 38:18 60:16 
+
+connection 59:7 74:2,15 75:2 71:17 86:2 67:8 85:25 
+
+69:20 continued 6:23 75:16,20,22 court 1:1 2:1 covering 28:17 
+
+conscience continues 22:13 77:16 78:2,4 4:12 8:12 9:21 32:2 
+
+11:22,23 21:2 contraception 78:10 79:17 11:9 13:5 14:9 covers 21:25 
+
+37:17 38:2,6 4:15 38:11 80:22 81:5 14:16 16:6,17 crafted 73:25 
+
+conscious 83:9 64:23 66:23,25 corporations 16:22,24 17:1 74:1 
+
+83:12 76:15,25 82:12 8:20 11:21 18:8 20:4,12 created 35:11 
+
+consequence 86:3,14 87:5 12:21,25 13:3 25:4 34:16,21 37:9 85:20 
+
+44:24 57:1 contraceptions 13:11 15:24 35:5,12,22 creates 67:1 
+
+80:6 40:9 17:21 18:1,7 41:9 42:3,23 creating 7:13 
+
+consequences contraceptive 18:16 45:23 42:25 43:14 creation 85:16 
+
+83:11 36:25 38:25 47:8 51:22 44:12,19 45:12 criminal 47:23 
+
+consider 7:17 55:19 56:12 52:2 53:17,18 52:9 53:16 critical 19:15 
+
+43:9 76:25 57:21 62:19 53:20 54:2,18 55:2,4 56:24 51:6 80:2 
+
+considerable 71:10 56:15 58:13 57:15 61:4 criticizing 72:5 
+
+66:16 contraceptives 70:25 71:23 64:8 70:5,8,13 Crown 13:5 
+
+consideration 4:21 21:25 75:16 76:10 70:16,16 72:21 83:23 84:1 
+
+8:16 44:11 26:24 32:1 77:13 79:18,23 78:13 80:8 current 59:20 
+
+considerations 38:18,23 39:7 81:25 81:2,9,13,13 74:25 
+
+55:6 63:2 67:7 correct 45:25 82:24 currently 63:22 
+
+considered 21:6 72:15 48:8 53:22 court's 8:16 customers 79:16 
+
+considering contrary 12:5 54:13 9:19 20:2,6 79:18 
+
+43:16 35:14 66:21 cost 22:3 23:21 35:24 37:11 Cutter 34:21 
+
+consistent 31:16 75:7 24:8 26:11 43:25 51:6,17 42:23 43:15 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+92 
+
+D demonstrates direct 25:5 69:23 74:12 eliminate 49:5 
+
+D 2:4 3:3,9 4:1,9 12:23 69:11 77:6,21 employ 31:8 
+
+83:5 denied 50:15,20 directly 34:2 dollar 25:3 employed 15:25 
+
+D.C 1:22 2:4,7 Denmark 78:7 37:2 64:9 DONALD 2:6 employee 22:17 
+
+70:11 deny 11:25 directs 9:3 3:6 41:6 23:4 25:14 
+
+dangerous 19:24 25:25 Disabilities 61:5 double 36:2,15 27:2,18 33:13 
+
+72:21 denying 45:3 disadvantageo... double­edged 33:14 35:6,19 
+
+day 18:18 25:22 Department 2:7 33:13 26:8 37:22 
+
+25:25 55:1 58:14 disagree 35:17 doubt 61:5,15 employee's 
+
+78:13 depend 75:12,12 45:6,11 77:12 downward 59:4 27:19 81:19 
+
+days 24:24 84:25 79:20,21 81:8 59:5 employees 5:16 
+
+deal 18:18 deprive 35:13 disagrees 55:4 dozen 7:6 22:18 23:14,19 
+
+dealt 17:7,8 depth 19:25 discriminate draw 49:24 50:8 24:11 26:2 
+
+debate 15:1,3 described 10:16 38:1 drawing 82:6,12 27:13 28:17 
+
+87:6 10:18 discriminates drawn 74:23 30:20 32:22 
+
+debated 69:17 destroy 36:6 30:10 77:10 83:10 33:7,10 35:13 
+
+debates 12:16 detail 12:15 34:5 discriminating drive 24:20 35:19 40:21,22 
+
+decide 8:13 determine 18:23 30:9 drop 32:1 40:23 44:25 
+
+51:17 70:14 57:2 discrimination drugs 39:18 45:15 54:22 
+
+87:1 determined 9:11 13:20 67:7 56:11 57:20,25 
+
+decided 87:15 56:22 14:7 31:7,10 due 25:2,13 71:10,14,18 
+
+deciding 49:9 determines 53:7 37:23,24 53:18 32:11 70:21 79:25 81:22 
+
+decision 45:15 devastating 30:3 53:25 54:12 72:16 73:7 82:1,12,23 
+
+62:10,13 devices 39:18 61:8,15 73:13 74:9 77:2 86:19 
+
+decisions 60:1 67:7 discriminatory 83:19 85:11 employer 4:25 
+
+62:6,6 
+
+dedicated 19:2 
+
+Dictionary 
+
+17:20 48:19,20 
+
+31:14 
+
+discussed 74:17 E 
+5:15 13:19,19 
+
+13:21 22:13 
+
+defeat 72:20 48:23 displacing 35:9 
+E 3:1 4:1,1 26:13,21 27:16 
+
+define 48:21,24 difference 6:12 dispute 52:25 
+earlier 17:7 27:17,20 33:8 
+
+49:2,23 38:17 49:8 53:1 58:24 
+28:15 33:13,15,24,24 
+
+defined 9:18 54:14 70:7 disqualified 
+easier 5:4 35:18 37:1 
+
+definitely 21:13 84:10,11 44:25 
+easiest 84:11 38:1,23 39:6 
+
+55:7 different 7:12 dissent 18:21 
+85:7 39:19 40:22 
+
+definition 32:7 9:6 16:6 17:7 distinguish 52:5 
+easily 18:15 44:23 45:13 
+
+48:20 49:4 20:21,23 29:17 85:8 
+educational 63:14 64:23 
+
+definitive 70:3 31:11 37:22 distinguished 
+73:16 67:16 81:13 
+
+delay 61:1,7,13 53:22 54:6 20:3 
+effect 43:17 84:22 87:7 
+
+61:15 61:18 84:7 distinguishing 
+44:21 59:1,2 employer's 
+
+delegated 57:7 85:20 52:12 
+effective 64:13 27:21 45:14 
+
+delegation 56:23 differently divide 18:15 
+65:16 66:25 employers 4:14 
+
+deli 13:4 36:16 Division 9:2 
+effectively 65:4 11:25 12:2 
+
+delivered 72:15 difficult 10:19 10:7 
+65:7 15:19 22:4 
+
+delivers 71:10 69:25 77:11 DNA 70:12 
+effort 11:22 23:9 29:16,17 
+
+demanding dilemma 29:10 doctrines 19:14 
+efforts 12:7 30:19,25 39:11 
+
+21:20 diminish 57:21 doing 23:10 
+eight 53:15 40:13,21,22,25 
+
+demands 30:6 diminution 35:20 46:25 
+either 50:15 57:24 58:10 
+
+71:12 48:17 51:20 74:11 59:25 61:22,23 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+93 
+
+85:9 86:7,18 14:19 57:3,16,18 63:22 74:21 8:14 41:7 
+
+86:19 ESQ 2:4,6 3:3,6 58:2,11,17 87:9 74:21 76:22,23 
+
+employment 9:2 3:9 65:1,8 67:13 extended 65:24 77:9 85:23 
+
+31:7 essentially 13:16 70:24 71:6,7 extending 71:22 86:19 
+
+enabled 11:24 40:15,20 73:24 73:8,15,17 extent 13:7 fee 68:11 
+
+enables 69:10 84:19 74:1,6 80:7,12 14:20 34:6 feels 24:6 74:5 
+
+enacted 10:6 Establishment 81:11,14 84:23 50:4 fell 14:21 
+
+46:25 51:21 34:15 42:13 85:16 86:24 extinguish 54:21 felt 16:24 
+
+61:7 75:21 43:5,7 exemption's extinguishes fewer 30:20 
+
+78:9 83:1 ET 1:5,9,15,20 39:14 81:14 57:25 61:22 
+
+endanger 15:10 evaluated 6:6 exemptions 4:18 extinguishing figure 18:19 
+
+endorsed 47:6 everybody 6:25 5:8 6:24 7:13 44:21 82:22 59:4 68:12 
+
+enforce 80:13 10:15 12:9 31:3,4 42:6 Exxon 13:7 filling 86:23 
+
+enforced 25:13 32:6 35:23 45:9,17 51:22 financial 27:22 
+
+enforcement 45:5 63:2 57:11 64:20 F financially 67:8 
+
+56:24 58:14 85:14 71:25 72:19 faced 16:18 fines 29:8 
+
+72:25 73:1,2 evident 7:16 73:12 74:20 faces 23:2 finish 24:7 
+
+enforcing 25:3 exact 13:24 80:9 85:12,15 fact 15:18,22 firmly 13:12 
+
+62:3 42:14,21 85:20,21 28:10 39:25 first 5:2,9 8:1,13 
+
+engage 31:9 exactly 10:15 exercise 4:15,18 41:25 52:13 8:19 9:13,17 
+
+engaged 46:15 23:20 26:22 5:3 8:9,10 9:18 55:9 68:6 12:6 16:21 
+
+77:5 42:9 52:8 9:24 10:1 74:13 75:24 21:9 33:21 
+
+engaging 46:8 58:12,14,15 11:10 14:12 87:4 45:10 49:6 
+
+ensure 72:15 59:12,13 65:5 17:24 19:25 factor 37:11 56:25 58:8 
+
+ensuring 55:17 65:5 71:20 21:15 25:6 43:19 61:1 63:20 
+
+entanglement 79:5 81:17 28:4 44:21 facts 35:17 64:16 66:22 
+
+52:9 77:22 examined 56:3,6 46:4,10,22 fair 10:12 39:8 68:14 78:14,17 
+
+entangling 49:9 example 15:15 47:5 48:21,22 fairness 13:1 79:12 81:11 
+
+enter 20:24 51:8 22:8 30:18 48:22 49:11,13 faith 21:2 41:18 fits 68:13 
+
+enterprise 49:9 60:15 64:11 49:20,21,23 45:14 five 25:3 80:16 
+
+50:20,24,25 69:4 70:10 50:4,7 51:18 false 23:22,22 flesh 76:6 
+
+entire 13:17 73:12 78:6 54:5,14 78:3,5 24:8 flow 39:24 
+
+50:11 examples 5:5 78:21 80:8,20 familiar 14:5 FMLA 73:1 
+
+entirely 81:22 exception 42:9 81:12 83:22 families 56:12 focus 31:8 
+
+entities 18:9 74:6 84:2 family 13:22 focusing 7:3 
+
+entitlement exceptions 41:22 exercised 70:24 26:18,18 63:6 fold 43:19 
+
+36:12,24,25 exchange 23:19 exercises 18:2 far 27:20 59:21 follow 4:16 
+
+entity 18:13,20 26:20 exercising 21:6 66:24 83:15 followers 20:24 
+
+75:12 exchanges 40:24 57:7 77:18 fast 33:5 footnote 26:16 
+
+equal 37:10 exempt 57:25 existing 31:21 fault 59:18 for­profit 8:20 
+
+85:20 exempted 56:14 exists 63:22 favor 8:5 50:3 12:21,25 21:6 
+
+equally 64:12 exemption 7:3 expansion 51:19 favorite 21:10 37:18 45:23 
+
+equation 81:23 20:10 32:5 expected 59:25 86:14 46:9,15,21 
+
+equivalent 24:18 35:3 39:15 expensive 66:20 FDA­approved 47:4,7 50:12 
+
+26:12 44:20,23 45:13 explaining 38:17 50:20,24,25 
+
+ERISA 58:15 50:13,15,21 44:13 Federal 2:8 3:7 51:21 54:18 
+
+especially 11:21 54:20 56:22 extend 39:13,14 4:13 6:19,23 65:22 71:23 
+
+Alderson Reporting Company 
+
+
+
+94 
+
+Official ­ Subject to Final Review 
+
+74:2,14 75:20 82:23 generally 15:20 61:19,25 64:8 32:19,23 
+
+75:22 76:9 fundamentally 18:16 65:4,6 66:16 grandfathered 
+
+78:2,4 79:23 30:13 getting 27:5,6 67:12 68:15 30:2 31:19,24 
+
+81:5 82:13 funding 76:24 32:22 78:23 77:25 87:16 31:25 32:5,15 
+
+83:14,17 funny 40:7 Ginsburg 6:21 good 29:16,17 32:25 58:20,22 
+
+forced 75:2,4 further 67:23 7:8 11:15 12:4 36:22 84:17 60:2,5,11,13 
+
+84:1 73:22 13:14 17:2,6 gotten 44:23 61:20 
+
+foremost 8:13 furtherance 17:11 28:14 govern 81:6 grandfathering 
+
+form 46:3,22 55:13,16 34:13 38:16,21 governance 30:17 59:2,19 
+
+47:25 64:24,24 39:2,5,9 73:3,7 19:14 59:25 62:10 
+G72:22 80:18,19 give 6:1 19:8 governing 44:18 grant 56:21,21 
+
+G 4:186:23 22:5 36:8 37:2 60:3 70:24 71:5 
+Gallagher 50:21forms 76:25 38:24 54:19 government 2:8 granted 50:13 
+geared 12:2formulate 69:1 56:21 59:3,7,9 3:7 4:13 5:23 67:13 71:7 
+general 2:6 41:5 forth 33:9 59:11 64:5 6:1 8:19 14:5 81:11,14 
+41:8,24 42:11 forward 32:24 78:6 80:19 15:7,22 16:25 granting 45:12 
+42:16,18,21 four 33:19 38:22 given 36:24 19:19 25:5,11 80:11 
+43:6,23 44:6,9 39:15,15 66:18 74:13 26:8,20,23 great 12:15 19:4 
+45:6,10,25 76:15 83:4 gives 36:3 28:1,5 30:5 greater 23:18 
+46:5,11,16,19 fourth 36:18 giving 7:25 31:5 32:14 Greens 28:24 
+46:23 47:3,10 framework 7:25 25:17 70:12 33:2,11 34:3,8 ground 20:14 
+47:12,14,17,19 frankly 80:3 go 10:22 21:12 35:8 37:12 50:23 68:5 
+47:22,24 48:6 fraught 5:6 23:19 28:21,22 38:10 40:3,18 83:24 
+48:8,11,15 free 4:15 8:9,10 33:5 34:9 40:20,24 41:7 grounds 45:15 
+49:2,7,15,22 9:18,24 14:12 36:18,19 40:23 44:8 45:4,8 52:7 
+50:6,17,19 44:20 46:3,9 50:9 56:17 53:19 55:10 group 6:13,13 
+51:2,5,10,14 46:22 47:5 59:13,15 63:12 57:14 63:8,11 77:15,15,23 
+51:23 52:2349:11 78:3,5 69:4 81:3 63:15 64:11 groups 6:12 
+53:8,21 54:1,9 78:20 80:8 83:23 84:18 66:12 68:9 39:11 
+54:13 55:3,24 81:12 83:22 goats 14:14 72:11,14 80:11 guidance 17:14 
+56:5,8,17 57:5 84:2 goes 12:15 19:17 80:12 84:12,14 
+
+H58:5,21 59:3 freedom 12:8 38:15 84:14,16,21 
+59:11,22 60:22 Hahns 28:2341:13 51:1 going 6:18 12:13 86:13,17 
+61:12 62:8,12 halal 78:7,11 80:20 13:8 15:9 government's 
+63:19 64:3,6 79:8friend 61:3 72:5 19:18,20 21:19 14:18 21:10 
+65:13 66:3,21 half 7:6friends 57:23 24:9,20 26:1,2 28:11 29:25 
+67:11,17,25 hand 60:1361:17 72:22 27:8,9,10 30:3 31:22 
+68:17 69:15,24 handful 32:2573:10 80:4 29:25 30:22 32:21 38:12 
+70:4 71:2,5,20 handle 15:381:21 31:8,20 32:8 39:9 40:8 
+72:7 73:6,22 hands 16:18full 29:21 67:6 32:20 38:10,12 55:13,16 57:22 
+74:9,19 75:6 happen 13:986:15 38:24 39:25 65:3,7 67:5 
+75:10,19 76:3 31:21 52:22fully 8:16 40:10 47:21 71:13 72:10 
+76:9,18 78:16 happened 10:3functioning 48:7 52:22,24 83:12,15 85:8 
+79:6,14 81:1 happens 5:1741:17 53:2 54:18,20 governmental 
+82:3,5,10,16 18:25fund 5:15,16 58:25 59:2,7,8 44:15 
+82:19 83:3 happy 45:17,18 fundamental 59:12,13,15,19 gradually 30:20 
+84:6 hard 21:1981:15,20 82:21 59:21 60:1 grandfather 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+95 
+
+72:24 55:12,15 imagine 30:8 49:20,22 inherent 46:18 
+
+harm 14:20,23 hold 79:23 36:5 including 36:7,8 inhumane 78:9 
+
+harmed 37:3 holding 51:5 immediate 30:6 37:18 41:23 initially 30:19 
+
+harmonious 74:17 80:6 60:6,21 43:8 47:11 injury 37:25 
+
+41:16 honest 64:8 immoral 69:19 52:13 83:14 inquiry 20:4,5 
+
+harms 55:6 Honor 25:2 26:6 85:18 incomplete 62:3 21:11 
+
+77:25 39:22 42:19 immunity 5:25 inconsistency insofar 56:24 
+
+health 1:4,19 4:5 52:24 55:4 immunizations 72:16 63:13 
+
+21:25 22:3,5 56:6 57:5 62:17 inconsistent institution 7:4 
+
+22:13,15 23:14 59:23 61:12 impact 43:9 30:13 31:6 institutions 7:1 
+
+23:22 24:9,11 73:23 74:10 impacts 37:8 41:20 46:3,9 17:9 73:16 
+
+26:1 27:2,6,7 87:19 imperative 46:21 47:5 insurance 11:25 
+
+27:13 28:8,16 Honor's 51:16 81:19 65:21 68:23 12:3 21:25 
+
+28:17 29:2,13 60:25 impetus 78:25 incorporate 22:4,5,14,15 
+
+29:19,20 58:11 horn 29:10 implemented 69:7 81:5 22:18 24:9 
+
+60:11,12,13,16 horribles 14:4,6 62:13 83:21 26:1,12,17,21 
+
+63:6,6 71:4 Hosanna­Tabor implementing incorporated 26:24 27:6,7 
+
+82:22 84:15 57:16 58:4 13:4 27:18 28:8 
+
+healthcare hospitals 39:11 implications incorporation 29:19,20 40:14 
+
+33:11 38:18 40:13 86:8 77:21,21 78:1 84:3 58:12 60:1 
+
+40:23 hotly 71:17,24 importance 80:2 increase 24:12 63:13 64:22 
+
+hear 4:3 63:16 House 12:23 81:16 82:23 24:16 27:8 67:9,11,15 
+
+63:17,25,25 houses 11:16 important 27:12 66:11 69:9 85:25 
+
+64:1 huge 28:8 27:15 28:24 increased 66:15 87:5 
+
+held 13:12 52:17 Human 1:5,20 29:14 34:5 incredibly 15:7 insurer 84:16 
+
+53:17 81:13 4:5 57:10 62:25 incur 40:3,4 integrity 55:22 
+
+help 26:19 humane 78:25 71:4 76:20 67:10 55:22 
+
+helping 63:1 hurt 24:9 26:13 81:10 85:2,7 independent intent 18:17,19 
+
+herd 5:25 hypothesized 87:3,14 35:2,7 19:13 
+
+Hey 31:13 76:4 importantly indexed 32:16 interest 5:20,24 
+
+HHS 60:8,18 hypothetical 20:8 indexing 32:18 6:2 9:9 10:8 
+
+65:24 70:24 27:23 36:15 impose 9:22 indicate 57:1 13:18,25 15:8 
+
+high 13:25 22:5 37:6 78:24,25 45:14 54:21 indirect 71:11 21:17,21 27:11 
+
+22:6 68:11 79:4 77:25 indispensable 28:2 30:4,6,14 
+
+highest 13:17 hypothetically imposed 42:6 35:25 30:24 31:5,7 
+
+61:6 67:1 27:15 imposes 68:22 individual 7:4 33:3 34:7 
+
+highlights 38:9 hypotheticals imposing 39:18 48:2,2,5,9 36:19 43:21 
+
+hiring 73:14 33:7 36:5 69:1 69:11 80:11,13 44:3,4,8,10,13 
+
+historically imputed 27:4 individuals 6:25 45:18 51:15 
+
+74:24 83:12 I inappropriate 17:8 41:23 55:14,21 56:10 
+
+history 11:1 ice 43:11 20:5 44:4 47:17,18 57:22 60:23 
+
+12:13 50:11 idea 20:14 27:5 incidental 17:19 74:23 77:16 61:6,16 62:16 
+
+74:13,20 42:5 57:24 include 4:22 80:23 62:20 63:5 
+
+Hobby 1:8 4:6 identifiable 8:20 63:1 inference 72:13 65:7,17 71:13 
+
+22:8,14,16,17 14:20,21 included 14:8 inflation 32:16 72:12,20,25 
+
+23:1,4,6,8 identified 39:3 55:19 66:1 32:19 79:24 81:19 
+
+24:10 27:3 illustrate 36:2 includes 36:25 inform 43:24,25 85:22 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+96 
+
+interest­least Jackson's 42:1 42:22 43:3,12 22:11 23:3,6 knows 32:6 
+
+6:7 jail 69:4 43:18 44:2,7 24:15 25:15 kosher 13:4,4,5 
+
+interested 63:23 jailed 47:21 48:7 45:2,7,20 46:1 28:13,25 29:15 78:7,11 79:8 
+
+interesting Jewish 47:15 46:7,14,17,20 30:15,18 36:20 83:20,24 84:1 
+
+21:23 80:16 47:2,4,11,14 37:4 51:9 
+
+interests 14:19 job 37:24 47:18,20,23,24 Kagan's 7:15 L 
+
+18:1 30:1 34:9 joint 17:21 48:3,7,9,12,13 10:20 labor 13:23 
+
+34:19,23 35:1 JR 2:6 3:6 41:6 49:1,3,11,19 KATHLEEN 58:14 
+
+39:17 43:2 judgment 6:18 50:1,14,18,23 1:3,18 language 11:8,8 
+
+44:11,16 55:16 36:23 70:9,20 51:4,9 52:11 keep 30:11 22:20 48:22 
+
+65:4 70:24 72:11 53:5,12,23 31:15 large 19:17 
+
+interpret 73:23 73:14 76:21,22 54:7,10,25 Kennedy 7:24 20:18 52:6,19 
+
+interpretation 83:16,17 55:20 56:2,14 26:10 27:14 larger 58:13 
+
+8:4 13:16 44:1 judgments 56:19 58:1,19 33:4,19 43:12 Laughter 19:5 
+
+interpreted 77:22 58:23 59:9,17 55:20 56:2,14 24:3 56:7 68:1 
+
+49:14,17 jurisprudence 60:4 61:2,9 56:19 58:1 law 8:25 9:4,5 
+
+interpreting 17:25 19:25 62:5,9,21 70:23 71:3,7 10:7,11,16,17 
+
+54:3,4 Justice 2:7 4:3 63:23 64:4 72:8,8 75:1,8 10:18 11:2,7 
+
+invented 86:8 4:11,20 5:1,11 65:11,19 66:9 75:15 76:4,11 11:16 13:15,15 
+
+invention 10:10 5:12 6:3,9,10 66:17 67:4,14 78:23 87:13 13:18 20:16 
+
+inviting 77:24 6:16,21 7:8,15 67:22 68:2 kind 8:23 13:4 25:11 44:18 
+
+79:22 7:24 8:22 9:13 69:2,15 70:1,5 14:17,23 16:7 48:25 50:11 
+
+involve 54:8 10:4,12,14,18 70:23 71:3,6 16:10 18:19 53:10,13 55:12 
+
+involved 12:16 10:20,24 11:4 71:16 72:2,8,8 19:20,21 24:19 61:23 64:10 
+
+18:6 49:9 53:3 11:9,15 12:4 72:9 73:3,7,19 29:23 30:16 68:21 75:7,7 
+
+53:4 65:23 13:13,14 14:9 74:4,16 75:1,8 37:14 55:17 75:12,20,23,24 
+
+involving 15:14 14:10,15 15:12 75:15,25 76:4 56:19 58:11 76:1,4,7,11,22 
+
+irrelevant 48:4 15:16 16:4,20 76:6,11,12 63:18 64:2 76:23,23,23 
+
+issue 9:14,16 17:2,6,10,23 78:1,17,22,23 67:1 76:4 87:1 77:9 78:18 
+
+10:1 12:19,21 18:4,11,21 78:24 79:5,11 kinds 46:25 52:9 79:9 80:13 
+
+19:15 22:1 19:6,10,23 80:15,16 81:24 53:4 54:19 83:25 84:8 
+
+28:5 35:2 36:3 20:7,22 21:22 82:4,8,14,17 61:13 73:2 laws 7:3,5 10:22 
+
+36:14 52:2 22:11 23:3,6 83:3,7 84:6,18 77:24 79:22 13:20,22,23 
+
+56:25 61:1 23:12,16,17,23 84:25 85:1,5 knew 4:15 14:7 16:13 
+
+69:14 71:17 24:1,15 25:15 85:10,12,23 knit 77:15,16 51:23 53:25 
+
+72:19 79:9 25:24 26:4,10 86:1,22 87:13 know 9:3,11 Laycock's 12:15 
+
+issues 8:11 26:15 27:14 87:20 13:6 16:17 lead 66:7 
+
+18:19 28:4 28:13,14,25 justices 83:25 17:24 19:9 learned 83:14 
+
+30:22 54:19 29:15 30:15,18 justified 72:25 20:17 23:6 leave 13:22 81:9 
+
+it'll 40:15 31:17 32:4 justifying 47:3 24:23 26:5 81:22 
+
+item 14:8 84:15 33:4,19 34:13 27:4 28:22 led 12:16 
+
+items 4:22,25 35:10 36:20 K 29:15 30:18,24 Lee 20:24 21:9 
+
+IUD 66:24 77:4 37:4 38:16,21 Kagan 5:11 6:3 31:22 48:19 21:10,11,11,13 
+
+39:2,5,9,16,23 6:9,16 8:22 51:25 52:14 21:18 35:11,14 
+J 40:2 41:3,8,11 9:13 10:15,24 66:12 67:19 35:18,18 44:17 
+
+Jackson 41:11 41:19,24 42:1 11:5 13:13 68:15 75:11 44:22 45:11,12 
+
+42:3,22 42:4,15,17,20 14:15 16:4,20 77:3 80:25 50:17,19 51:6 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+97 
+
+51:7 81:2,17 55:13,15 73:24 mentioned N 3:1,1 4:1 
+
+85:19 logic 67:20 March 1:23 34:15 Nadler 12:22 
+
+leeway 20:23 long 30:11 31:13 marijuana merchant 48:4 nanosecond 
+
+left 80:4 31:20 32:16 20:18,19 merchants 32:18 
+
+legislation 6:23 58:25 59:2,13 market 13:4 46:14 47:15,16 narrow 37:16 
+
+74:21,21,24 74:13 83:21 merits 14:25 73:15 
+
+legislative 11:1 longer 61:13 Massachusetts 16:23 51:9,11 nature 28:11 
+
+12:13,16 look 12:13,14 41:12 83:25 method 66:25 necessarily 
+
+length 45:19 14:6,11 19:13 materials 4:21 77:4 32:12 84:24 
+
+let's 19:4,6 25:8 47:13 math 61:24 methods 66:23 necessity 41:13 
+
+24:15,16 26:11 48:23,24,25 matter 1:25 76:15 78:8 need 32:10 
+
+52:25 59:23,23 50:10 58:16 14:25 20:25 86:14 80:24 
+
+level 59:15 59:23 71:21 21:1 31:11 million 22:9,10 needed 30:23 
+
+liberties 41:15 74:19 86:10 87:23 22:25 23:1,5 needs 57:13 
+
+liberty 12:19 looked 14:18 matters 7:11 29:8 62:1 77:3 84:21 
+
+44:15 53:16 80:21 80:22 85:15 neutral 40:16 
+
+light 11:21 looking 20:23 maximize 6:2 millions 15:25 67:8 
+
+12:14 27:1 47:8 32:21 never 10:9 16:22 
+
+limit 12:7 loosey­goosey maximum 50:4 mind 46:12 20:9 21:6 29:3 
+
+limitations 25:10 mean 5:11 11:3 83:19 82:24 
+
+41:12 42:7 lose 29:10,11 11:6 14:13 minimum 13:22 nine 83:24 
+
+limited 4:20 loss 60:2 16:21 17:7,24 14:7 15:14 non­centrality 
+
+9:21 lost 75:25 18:5 21:9 minority 19:1 50:8 
+
+limits 21:1 lot 20:21 22:2,3 24:17 28:15 53:2,9 non­grandfat... 
+
+line 19:16 49:24 45:8 57:12 33:24 36:20 minutes 83:4 29:24 
+
+74:23 77:10 61:3 73:20 39:2 43:19 modification non­pork 84:20 
+
+82:6,13 83:11 lots 19:19 51:10 56:2 65:25 non­profits 82:6 
+
+lines 21:9,10 love 28:7 68:2,2 80:15 money 19:19 82:11 
+
+50:8 low 59:12,15 80:23 24:25 68:5,9 nonprofit 15:23 
+
+list 14:8 lower 8:11 9:21 meaningful 85:6 39:11 40:13 
+
+listen 34:1 47:7 66:14 68:21 moral 12:1 57:17 86:8 
+
+litigated 20:20 Lukumi 18:6 means 11:19,20 69:16 70:2 nonprofits 16:1 
+
+28:6,21 66:13 79:2 42:19 50:7,9 moribund 56:24 65:25 71:8,11 
+
+71:17,25 51:18 63:21 morning 4:4 74:22 75:14 
+
+litigation 29:5 M 64:18 71:12 63:21 68:7 nonreligious 
+
+87:4 major 84:11 meant 73:25 82:21 70:25 71:6 
+
+little 9:14 10:19 majority 18:24 measure 19:25 motivation normal 8:17 
+
+24:17,18,19,24 53:1 measured 34:18 18:20 19:13 not­for­profit 
+
+25:9 66:1 making 29:3 mechanism 38:7 move 51:15 81:25 
+
+67:23 68:5 35:15 48:9 media 78:7 77:22 notions 5:25 
+
+76:7 84:7 87:8 72:6 77:22 medical 6:9,11 movement 59:5 notwithstandi... 
+
+live 8:10 41:18 80:16 81:5 32:16,19 37:17 multiple 32:20 15:18,21 84:2 
+
+81:6 mandate 25:6 37:18 83:13,14 municipal 68:8 number 4:4 5:8 
+
+Lobby 1:8 4:6 29:1,18 40:7,9 83:17 84:21 music 19:8 34:1 6:2,11 30:21 
+
+22:8,15,16,17 mandated 32:22 meet 55:11 Muslim 80:17 59:12,15 70:18 
+
+23:2,4,6,8 36:3 membership numbers 24:18 
+
+24:10 27:3 manner 6:19 18:13 N 32:21 59:6 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+98 
+
+O operates 45:14 86:15,16 passing 7:20 permitted 50:4 
+
+O 3:1 4:1 16:23 operational pardon 27:18 30:8 person 11:11 
+
+17:13 18:6 55:22 parking 68:8 PAUL 2:4 3:3,9 20:9 23:2 
+
+O'Connor 10:18 operations 82:2 parks 68:10 4:9 83:5 24:20 26:17 
+
+14:10 operative 11:8,8 part 6:8 11:5,13 pay 22:5,16 36:22,23 40:3 
+
+object 6:12 63:1 43:24 48:21 20:6 22:14 23:18 27:9 44:1 48:2,20 
+
+63:3 66:23 opinion 10:17 23:13 28:16,23 29:9,12 38:10 51:17 54:4,8,9 
+
+objected 70:12 14:9,11 42:2 30:1 34:7,10 38:12 40:1,9 54:10,11 
+
+objecting 40:25 81:3 43:20 54:15 40:10,18 63:15 person's 20:15 
+
+objection 8:19 opportunity 55:21,24 70:22 68:4 69:3 75:4 20:15 48:22 
+
+13:20,21 27:22 28:7 72:11 81:2 76:14 82:14,18 51:18 
+
+39:20 63:7,14 opposite 75:24 participating 84:21 86:14 persons 8:20 
+
+66:8 67:18,21 76:5 81:17 46:20 paying 22:2,9,10 17:18 87:16 
+
+73:1 82:9 87:2 oppression particular 4:17 22:25 23:3,7,8 Petitioners 1:6 
+
+87:4 53:10 17:13 20:24 27:3,4 63:14 1:16 
+
+objections 5:14 opt 6:13,14 28:6 35:19 84:16,16 85:17 philosophy 
+
+65:5 option 22:24 39:18 40:7 payment 22:21 69:17 
+
+objective 86:18 oral 1:25 3:2,5 41:22 55:12,18 pays 22:17 pick 39:2 40:15 
+
+86:18 4:9 41:6 76:25 63:11 84:15 picked 19:4 
+
+objector 44:4 order 24:11 57:9 particularized 85:24 87:5 38:21 
+
+objectors 16:12 61:6 66:1 56:10 penalty 21:24 picks 10:2 17:19 
+
+obligation 69:11 69:22 87:7 particularly 6:1 22:3,5,10,12 piece 19:21,24 
+
+obliterate 73:24 organization 18:7 60:9,10 22:20,25 23:1 63:12 65:12,14 
+
+74:1 17:3,5 60:20 68:10 23:21,24 24:5 piecemeal 6:14 
+
+obvious 86:12 organizations parties 2:5 3:4 24:8 25:3,13 place 9:1 12:6 
+
+obviously 8:8 57:17 71:6,19 3:10 4:10 25:14 26:7,12 17:14,17 
+
+21:9 39:1 46:5 originally 10:5 14:21 37:9,21 27:10,17 58:13 plaintiffs 18:8 
+
+occasions 74:7 ought 14:5 38:15 43:2,10 68:21 19:4 
+
+offend 70:18 54:17 77:18 43:17 44:11 people 5:13 plan 29:23,24 
+
+offer 39:10 override 34:18 54:21,22 55:7 11:17 20:17 40:14 58:15 
+
+58:11 overwhelmingly 55:12 77:25 26:20 31:8,9 61:20 
+
+offered 72:22 11:16 83:6 41:17 61:19,22 plans 32:15,25 
+
+86:25 owners 23:14 partnerships 62:1,25 65:6 33:12 58:20,22 
+
+offering 29:13 75:18 15:23 16:1 82:18 85:13 60:5,11,13 
+
+offers 14:5 ownership 17:22 per­day 58:13 play 19:8 55:7 
+
+officers 18:25 52:15 party 14:21 35:3 per­employee please 4:12 41:9 
+
+okay 27:14 
+
+42:20 81:24 
+P 
+
+36:4,4 53:7 
+
+79:17,25 
+
+58:13 
+
+percent 18:25 
+
+plugs 68:18 
+
+plus 27:4,10 
+
+82:4 
+P 4:1 pass 7:3 12:18 19:2,2,3,7 42:17 
+
+once 7:6 81:3 
+package 29:21 31:12 68:23 31:23 52:15 pocket 28:10 
+
+ones 65:23 80:7 
+page 3:2 86:10 74:6 61:23,25 podium 63:20 
+
+open 24:24 84:1 
+86:16 passage 12:17 perfectly 29:7 86:9 
+
+open­ended 
+paid 27:17 passed 6:17 7:12 84:17 point 8:2,18 
+
+66:11 
+paper 63:12 9:17,19 11:16 perform 16:8 25:23 28:14 
+
+operate 41:13 
+65:12,14 73:3,19,21 period 32:9,12 32:4,14,25 
+
+77:16 
+parade 14:4,6 83:20 32:17 59:14,16 34:25 35:14 
+paragraph passes 36:5 permit 75:9 36:18 39:8 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+99 
+
+41:21 42:8,14 44:18 48:25 75:2,4 47:23 60:12 61:14 
+
+42:16,18,22,23 50:10 84:8 principles 8:14 protect 55:22 62:18 83:13 
+
+48:13 51:16 precise 49:16 8:17 13:7 protected 15:24 proximate 69:8 
+
+52:3 62:22,22 55:10 59:4,7 43:13 52:21 81:20 87:16 public 41:15 
+
+63:17,20 64:9 59:10 63:18 69:7 protection 12:19 52:6 
+
+65:10 66:10 precisely 32:13 prior 10:8 50:3 publicly­traded 
+
+68:17 72:3 67:1 71:24 prisoners 70:12 protections 60:9 52:19 
+
+80:2,3,15 preclude 4:25 Private 2:5 3:4 60:10 punitive 24:6 
+
+81:10 82:21 76:24 3:10 4:10 83:6 protects 9:25 purchase 69:9 
+
+84:4 87:13 predictably probably 13:2 prove 32:9 purpose 11:5,7 
+
+pointed 87:13 77:25 16:5 22:17 provide 4:14 purposes 24:5,6 
+
+pointing 29:6 predictively problem 26:11 22:13,15,18 29:6 53:24 
+
+points 8:12 11:2 54:19 26:25 33:1 23:4,14 24:10 57:4,4 
+
+45:11 60:25 preemployment 54:15 68:25 26:20 27:12 pursues 30:5 
+
+62:24 66:22 10:6 70:5 73:8 29:2,19 37:18 put 12:21 19:14 
+
+72:6 83:8 84:6 preexisting 7:21 77:20 81:20 40:23 41:21 22:7 26:15 
+
+policies 31:19 30:10 31:14 87:10 55:15 62:18 28:5 33:13,25 
+
+58:3,3 prefatory 64:9 problematic 63:8 64:21 40:4 61:3,7 
+
+policy 21:25 preferred 15:2 18:8 39:4 65:22 66:7 puts 20:13 
+
+30:10 31:14,21 38:4,12 40:19 problems 52:14 69:21 70:2 
+
+31:24 35:8 84:14 77:23,24 72:10 73:14 Q 
+
+84:13 prefers 38:10 proceed 7:10 76:10,16 83:18 qualified 27:13 
+
+political 11:17 premise 9:14,17 products 4:23 provided 4:17 quantities 20:18 
+
+Poor 87:9 10:2 84:20 7:23 57:19 question 5:10 
+
+pork 4:23 premiums 32:7 Professor 12:15 85:9 86:7 7:15,15 8:3,6 
+
+portray 9:6 32:13 profit 11:20 87:17 8:12,17 9:15 
+
+position 27:17 preserved 8:11 48:10,13 75:1 provider 38:4 10:20 11:1 
+
+29:12 33:6,11 press 67:23 75:15,16 82:13 39:13 83:17 14:4 15:4 17:5 
+
+33:14 40:8 pressure 25:9 profits 47:8 82:7 87:5 17:12,15,16 
+
+46:2 53:19 68:22 program 85:24 providers 11:25 19:15,17 21:23 
+
+55:5,20 65:20 presumably prohibited 78:7 12:3 37:17,18 22:22 31:3 
+
+66:2 67:6,20 85:13 87:9 prohibiting 31:7 83:13,14 38:8 45:21 
+
+72:23 73:10 pretty 24:17 prohibition 25:3 provides 5:7 46:24 48:14,17 
+
+77:12 78:20 55:2,2 82:1 25:5 61:14 17:18 44:18 51:10,17 52:7 
+
+81:21 83:12 prevail 8:3 prohibitive 48:19 64:23 52:18 53:13,13 
+
+possession 20:18 prevent 75:3 24:21 65:1 86:2 55:14 56:11 
+
+possible 33:20 preventive project 32:24 providing 26:11 57:11 60:22,25 
+
+41:16 49:14 55:17 60:7,16 propose 64:13 26:17 28:8 61:2 62:22 
+
+58:16 72:13 62:14,18 67:2 proposed 64:12 29:20 43:4 64:8 68:18 
+
+power 56:21 price 25:20,22 65:3 44:23 67:6 69:16,25 70:1 
+
+powers 56:23 25:25 26:16 proposition provision 28:16 70:2 73:21,23 
+
+practice 78:19 primarily 8:7 21:18 47:6 32:20,23 43:24 74:11 76:19 
+
+practices 79:7,8 Prince 41:11 proprietors 49:12 50:2 80:24 84:15,19 
+
+pre­Smith 9:24 42:22 41:23 61:8 67:2 questioned 
+
+10:3,16,17,18 principal 28:20 proprietorships 86:20,21 20:13 
+
+10:22 11:2,6 principle 34:3,4 15:23 16:1 provisions 7:18 questioning 
+
+14:16 42:12,15 41:11,16 72:21 prosecution 7:19 30:2 19:16 71:13 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+100 
+
+questions 7:12 receiving 44:25 relieve 85:16 remedy 37:25 respectfully 
+
+17:11 19:12 57:20 religion 10:1 remember 35:17 31:1 35:17 
+
+21:12 68:14 recognizable 11:10 16:16,17 rendered 79:13 37:21 
+
+quite 6:10,11 51:13 17:24 18:3 report 12:23 responded 14:10 
+
+31:11 37:2,2 recognize 15:6 19:2 21:7 25:7 representation response 9:12 
+
+60:18 66:16 54:17 56:23 25:12,17,18 59:1,12 51:16 60:25 
+
+73:14 77:18 79:16 29:14 38:24 request 44:20 73:1 80:25 
+
+quoting 21:16 87:3 48:21,23 49:13 74:3 81:2 
+
+recognized 49:23 50:7 requested 43:1,4 responsive 9:15 
+R 57:15 70:6,7 51:1,18 54:5 require 44:11 14:3 
+
+R 4:1 80:9 54:14 73:13 64:20 71:25 restore 11:6 
+race 9:10 30:9 recollection 56:6 77:18 79:1,3 required 42:25 restrictive 5:21 
+30:11 38:1 record 66:14 religions 4:23 60:5,10,14 6:7 10:9 14:1 
+53:20,24 54:2 recourse 78:12 69:18 69:22 15:8 16:11 
+
+racial 37:23,24 red 86:10 religious 4:18,24 requirement 21:21 39:22 
+53:17 54:11 reduces 67:9 5:3,7,14 6:12 9:22 10:10 40:11,19 42:19 
+
+raise 26:1,13 reduction 68:7 6:12,13,24,25 16:11 18:18 63:10,10,21 
+53:15 78:2,4 refer 61:4 7:4 9:1 12:1,8 43:21,22 60:15 64:12,18 66:5 
+78:13,14,17 reference 44:5 12:19 13:12,20 69:9 73:12 71:21,23 84:5 
+81:21 49:5 58:2 13:21 16:12 76:3 84:8,17 86:4 
+
+raised 27:19 references 32:13 17:2,4,8 19:7 requirements 86:12,13 
+61:2 64:19 referring 42:1 20:1,10 21:14 60:6,7,14,20 result 24:13 
+67:18 refers 8:24 21:14 23:13 60:24 32:23 65:8,16 
+
+raises 8:19 52:8 reflected 72:11 25:5 27:21 requires 16:7 80:12 
+ramps 61:10 77:9 28:16,18,23 68:19 76:9 results 57:19 
+range 67:6 reflects 62:22 29:1,18 33:15 reserve 41:2 RFRA 4:15 6:17 
+rarely 9:8 76:23 33:15,16 34:1 resist 19:20 6:18,22,22 7:1 
+read 60:8 83:23 reform 60:12 35:14 39:3,10 resisted 19:24 7:3,6,12,13,17 
+real 13:2,9 refrain 69:22 39:11,12,19 resolving 41:10 9:18,21 10:2 
+realized 30:21 refuses 5:15 40:25 41:13,22 respect 9:1 10:5 12:6 15:13,24 
+really 6:9 7:11 refute 64:14,15 42:6 44:3,15 16:4,13 25:2 16:6,22 34:17 
+8:13 10:22 Register 86:20 45:14 47:11 25:13 29:22 36:11 41:20,21 
+16:2 18:12 regulation 60:3 49:18,20 50:3 32:11 45:11 42:8,25 43:8 
+19:15,20 20:14 60:8 51:22 52:20 50:7 52:23 43:15,19,19,22 
+21:5 30:3 regulations 56:22 57:17 55:6 56:8,9 43:25 44:5,13 
+35:22 36:14 32:14 60:5 63:7 65:25 58:5,6,9,9 45:22 46:25 
+38:9 44:19 rejected 11:23 68:4,20 70:1 59:24 60:4 50:10 51:21 
+54:23 69:10,16 12:3,8,22 70:18 71:8,19 61:1,13,20 53:14 54:18 
+84:11 85:5 20:20 73:15,16 74:22 62:3,14 65:15 55:9 56:16 
+
+reason 12:5 rejection 12:23 75:13,17 76:13 69:14 70:21 57:4 58:3 
+54:16 59:6 relationship 76:14 78:19 71:8,14 72:4 64:20 65:1,5,8 
+66:13 85:22 80:10 82:9,10 84:22 72:16,19 73:7 65:14,21 66:8 
+
+reasoning 75:8 relatively 13:3 85:9,17 86:7 73:11 74:10 67:18,20 71:1 
+rebuttal 3:8 relevant 11:11 religiously 4:14 76:21 77:2,7 71:25 73:1,4,8 
+83:5,8 15:1,1 37:11 5:6 19:9 79:21 80:13 73:20,21,24 
+
+receive 57:9 46:24 48:16 rely 77:4 81:18,25 83:19 74:6 78:14 
+58:7 relied 57:24 relying 72:3,3,5 85:11 86:18 80:7,9 81:12 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+101 
+
+83:1,18,20 run 10:13 45:4 screening 62:17 18:24 52:15 situations 52:18 
+
+87:15,17 61:24 scrutiny 16:10 53:1 75:18 69:3 77:14 
+
+RFRA's 12:20 running 48:12 16:25 42:10 sharing 60:17 80:10 
+
+rid 36:11 se 46:3 shedding 12:13 skating 43:10 
+
+right 6:10 8:9,25 S Sebelius 1:3,18 sheep 14:14 slaughter 78:8 
+
+11:4 12:10 S 3:1 4:1 52:16 4:5,7 Sherbert 14:17 slaughtered 
+
+16:14 19:10 sacrosanct second 36:10 25:8 34:20 79:12,13 
+
+20:12 23:7 40:18 65:10 66:10 short 32:9,12 slaughterhouse 
+
+24:1,16 27:3 salary 23:18 84:4 87:12 show 18:2 28:7 78:11 
+
+28:18 33:24 samples 70:13 second­guess 55:11 64:11 slightly 27:19 
+
+34:11,24 35:6 satisfies 21:20 20:15 side 15:2 41:18 small 13:3,11 
+
+35:7,12,13 42:10,12 Secretary 1:4,19 41:18 57:24 52:1 68:4 
+
+38:15 45:22 Saturday 84:1 4:5 61:3,17 72:22 77:15 84:10 
+
+46:7 47:22 save 19:18 sect 20:24 73:11 80:5 Smith 9:2 10:7 
+
+48:10,14 49:6 saying 25:16 secular 11:24 81:21 14:9 
+
+50:6 51:2,4,14 29:1,18 30:8 12:2 70:3 sidelines 80:4 so­called 60:2 
+
+58:10 59:23 36:21 49:12 Security 14:7 sides 11:17 65:24 
+
+60:7 62:7 50:15 55:2 35:12 44:24 21:23 Social 14:6 
+
+71:17,18 74:18 60:18 63:4 45:1,13 70:18 sign 65:11,13 35:12 44:23 
+
+75:21 79:6 78:2 80:17 81:18 significant 45:1,13 70:18 
+
+82:15 86:23 see 16:12 28:21 34:19,23 35:1 81:18 
+
+rightfully 38:8 says 8:25 11:2,5 42:3 72:24 38:4 59:5 60:9 societies 17:22 
+
+rights 33:6,25 13:19 18:23 seeks 35:3 60:10,20 73:10 society 41:17 
+
+43:2 54:21 21:13 25:4,11 seen 16:3 signing 64:24 sole 15:22 
+
+75:17 79:25 36:6,8 37:1 sells 19:7 signs 64:23 Solicitor 2:6 
+
+rise 54:19 38:23 49:11,24 Senate 11:23 similar 34:17 84:6 
+
+risk 58:14,15 50:2,25 51:25 seniority 35:6 simply 10:2 solicitude 57:8 
+
+risks 79:22 52:20 55:10 sense 5:4 73:20 52:16 67:23 57:15 58:7 
+
+RLPA 12:18 62:25 63:2,9 sensible 44:14 78:12 somebody 21:19 
+
+RLUIPA 9:20 63:11 83:17 sensitive 4:14,21 sincere 21:13 25:6 68:3 
+
+12:17 34:14,17 85:19 5:6 63:3,14 68:20 someone's 20:1 
+
+49:4,12 Scalia 10:4,13 sentences 21:16 76:18 77:7 somewhat 56:23 
+
+ROBERTS 4:3 11:9 25:24 separate 14:10 85:17 soon 4:16 
+
+23:12 24:1 26:4 42:15,17 14:13 17:5,11 sincerity 16:16 sooner 63:24 
+
+41:3,19 42:4 42:20 43:18 17:15 19:17,21 20:3 sorry 46:22 
+
+52:11 53:12,23 44:2,7 45:2,7 serious 34:2 20:6,16 21:12 47:14 75:25 
+
+54:7,10 58:19 48:9,12 50:14 seriously 14:19 52:8 70:8,13 sort 8:15 10:14 
+
+58:23 59:9,17 50:18,23 51:4 serve 65:7 70:17 10:22 12:9 
+
+61:9 62:5,9 53:5 65:11 service 55:17 single 26:17 28:1 36:2 
+
+71:16 72:2 66:17 73:19 services 1:5,20 50:12,14,24 37:15 40:17 
+
+74:4,16 75:25 81:24 82:4,8 4:5 60:16 51:3 52:21 65:23 
+
+76:6,12 83:3 82:14,17 84:6 62:15,18 67:2 Sisters 66:1 87:9 78:3,4 
+
+87:20 Scalia's 14:9 set 13:3 82:17 situation 52:3 Sotomayor 4:20 
+
+roughly 26:12 scheme 58:17 sex 13:20 52:21 53:17,22 5:1,12 6:10 
+
+rule 84:12 schemes 21:3 shareholder 54:4 69:11 17:23 18:4,11 
+
+rules 8:5 56:23 scholars 69:18 53:9 77:14 80:7 18:21 19:6,11 
+
+81:6 scienter 18:18 shareholders 84:13 19:23 20:7,22 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+102 
+
+21:22 23:17,23 74:21 76:23,23 stuff 66:20 68:7,10 56:10 59:14 
+
+26:15 31:17 77:9 stunned 79:12 superimposed 61:10 66:10,17 
+
+32:4 35:10 statement 41:19 subclasses 12:7 21:2 71:19 75:15 
+
+40:2 47:14,18 States 1:1 2:1 subject 9:8 supply 26:23 76:13 
+
+47:20,23 48:3 7:19 23:10 13:16,24 37:23 support 28:2 talks 22:1 
+
+48:7 84:18,25 statistics 31:23 58:12 61:22 suppose 5:14 tangibly 37:3 
+
+85:1,5,10,12 status 60:2 65:5 18:9 36:10 targeted 78:18 
+
+86:22 statute 7:21 8:14 submit 42:22 38:22 78:9 78:19 79:7,9 
+
+sound 14:5 8:23,23 9:3,17 44:19 72:20 Supreme 1:1 2:1 tax 21:19 22:2,6 
+
+speaking 18:1 9:20,25 10:14 77:20 82:25 sure 7:9 18:14 22:21 23:24 
+
+speaks 17:24 10:21,25,25 submitted 87:21 29:15,16 30:23 26:19,21 69:4 
+
+special 8:23 57:8 11:1,5,7 12:18 87:23 35:10 51:12 69:11 70:10 
+
+57:15 58:7 17:16,17 22:20 subsequent 7:22 64:4 78:16 85:14 
+
+Specialties 1:14 30:3 31:3 35:2 subset 4:19 surely 38:4 taxes 45:13 
+
+4:7 35:11 36:6,7 60:11,20 87:16 surround 43:13 85:17,18,19 
+
+specific 6:24 36:22 54:5 subsets 12:8 suspenders 7:11 taxpayer 68:3 
+
+11:22 15:11 55:10 67:13 subsidies 26:20 sword 26:8 tell 37:25 40:14 
+
+78:19 statute's 12:20 subsidize 36:22 system 35:23 42:8 49:1 50:9 
+
+specifically 7:16 statutes 6:19 subsidy 38:10 45:4 59:18,19,21 
+
+7:23 8:24 12:2 7:22,22 15:10 38:13 40:19,24 66:15 
+
+17:21 25:11 15:19 16:2 84:14 T tells 50:10 83:10 
+
+60:19 86:11 36:16 75:3 substantial 5:3 T 3:1,1 83:11 
+
+spectrum 11:18 statutorily­gu... 5:19 6:8 11:12 table 86:5 ten 32:24 
+
+68:13 44:22 81:15 11:13 20:8,10 take 5:11 7:4 8:2 tenet 28:18 
+
+sphere 51:8 81:4 82:22 21:11,14 22:22 9:14,16,23 tenets 49:18 
+
+81:7 statutory 8:1,3,5 25:9 28:3 29:6 10:1 11:20 tens 32:21 
+
+spoke 87:14,15 8:7,18 21:3 34:9 39:19 18:10 21:8 Tenth 18:22 
+
+squarely 12:21 35:13 36:11,24 43:21 68:19,20 27:7 29:7 34:6 57:23 
+
+squares 35:11 43:13 48:22 68:24 69:2,5 34:7,22 35:6,8 term 17:19,19 
+
+stage 8:2 80:1 58:17 70:10,11,15,20 42:16,18,25 49:20 54:8 
+
+stand 21:18 stay 24:24 66:1 substitute 40:1 52:3 57:7 62:20 
+
+standard 9:10 step 5:2,10,19 succeeded 15:15 59:13 61:17,17 terms 22:8 50:4 
+
+13:18,25 16:10 5:20 15:18,21 64:18 66:6 65:17 76:13 
+
+16:19,23 55:9 Stop 30:9 successful 74:15 68:6 80:16 terribly 66:19 
+
+55:10 store 24:23 sudden 24:10 81:13 test 6:7,8 10:8 
+
+standards 42:12 Stores 1:8 4:6 sue 75:23 taken 66:2 67:5 11:11,13 13:17 
+
+standing 75:17 strange 11:18 suggest 10:20 takes 83:21 13:24,25 15:5 
+
+79:17 strenuous 69:6 12:5,14 33:5 talk 13:6 15:9,10 15:6 16:15,16 
+
+standpoint strict 16:9,25 37:21 74:5 18:15 29:25 17:12 21:21 
+
+27:22 42:10 suggested 20:5 45:17,18 58:21 36:19 42:10 
+
+start 17:17 18:5 strike 44:14 83:20 86:6 84:4 44:13 55:14 
+
+45:20 83:8 strong 55:2 suggesting 10:15 talked 9:18 65:2 68:19,24 
+
+84:19 stronger 5:24 suggests 9:7 24:22 68:25 
+
+starting 17:14 strongly 63:1 11:10,11 52:4 talking 13:2 thank 41:3 66:8 
+
+starts 21:11 33:5 74:5 suit 58:15 79:16 15:19 22:24 83:2,3,7 87:19 
+
+state 10:8 43:21 structure 56:20 79:18 24:17 35:21,22 87:20 
+
+44:8 53:10,13 studiously 66:4 Sunday 19:9 36:13 38:9 theology 69:16 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+103 
+
+theory 4:24 28:6 56:5 57:6,12 52:25 66:18 87:7 understand 
+
+28:12,20 66:6 59:6,14,23 threshold 51:12 trouble 83:21 18:16 48:19 
+
+75:21 61:2,4 62:15 54:17 55:5 true 23:15,16 51:10,12 55:3 
+
+thin 43:10 62:19 64:6,17 77:13 79:21 34:19,20 60:4 57:10 65:22 
+
+thing 22:12,24 66:4 68:14,17 tightly 77:15,16 62:14 69:24 68:16 70:23 
+
+24:20,22 25:4 68:25 69:5,8 tightly­knit 52:2 75:13,14 86:6 87:3 
+
+25:18,18,19,19 69:13 70:4 till 34:15 trump 33:16 understanding 
+
+25:20 29:9,17 71:2,21 72:7,7 time 9:19 16:25 trumping 38:5 13:15 14:16,17 
+
+33:21 34:14 72:13,16,18 30:23 33:4 trust 14:11 16:6 62:20 
+
+36:17 37:5,7 73:2,6,7,9,22 41:2 49:4 59:8 try 9:15 10:13 understood 
+
+40:25 58:24 74:10,13 75:6 59:10 63:20 10:19 48:15 12:24 13:1 
+
+70:11 72:5 75:10,11,11,13 81:11 52:10 47:24 48:14 
+
+87:10 75:19 76:20 times 82:20 trying 6:2 12:18 uniform 6:15 
+
+things 5:12 77:3,5,5,8,10 Title 30:8,19 18:19 26:9 45:4 
+
+10:13 18:12 78:18,20 79:6 31:13 37:15 67:3 68:12 uniformity 
+
+33:20 61:10 79:8,14,15,16 61:17,20 62:3 72:14 11:19 35:24 
+
+62:17 73:2,9 79:22 80:1,3 62:4 72:24 Tuesday 1:23 uniformly 30:24 
+
+85:1 80:21,24 81:1 73:3,5,8,12,18 turning 45:16 unique 37:24 
+
+think 5:4,9,22 81:9 82:5 86:2 turns 28:4 84:13 
+
+6:5,19 7:11,14 85:19 today 64:19 two 7:11 17:11 United 1:1 2:1 
+
+7:14,25 8:6,12 thinking 54:23 83:15 18:15 21:9,10 7:19 23:9 
+
+9:5 10:12 11:9 68:12,16 80:2 told 48:24,25 21:16 36:5,15 universally 
+
+13:6,8 14:3 thinks 69:19 top 27:10 37:14 53:1 80:19 
+
+15:1,5,6 16:3,5 84:22 totally 51:10 60:25 64:7,16 unnecessary 7:6 
+
+16:14,17 17:13 third 14:20,21 toto 59:24 64:16 66:22 7:9 
+
+17:17 19:11,15 34:25 36:4,4 touchstone 68:14 69:1 upfront 67:1 
+
+19:16,19 20:13 37:9,20 38:14 41:10 two­year 61:7 use 4:25 9:10 
+
+21:18 22:11 43:2,9,17 track 10:6 76:1 61:15 35:24 70:17 
+
+23:11 24:5,13 44:11 54:21,22 traditions 77:9 type 52:16 72:14 
+
+25:1,14,21 55:6 77:25 trajectory 59:5 types 37:14 usually 16:10 
+
+27:25 28:2,6 79:17,25 transfusion 4:22 
+
+28:15,24 30:1 third­party transfusions 6:3 U V 
+
+30:2,15 31:2,2 33:22,23 34:6 6:4 84:20 U.S 13:17 20:23 v 1:7,17 4:5,7 
+
+31:12,12 33:6 34:9,12 35:5 transition 30:22 U.S.C 7:18 9:2 10:7 14:17 
+
+33:21 34:3,5 35:21 81:22 32:9,12,17 ultimately 12:17 20:23 41:11 
+
+34:11 35:4,20 84:16 transitioned 19:16 39:25 64:10 
+
+36:1,12,14,14 Thomas 20:13 32:5 unanimity 12:6 vaccination 14:8 
+
+36:15,18,21 thought 15:3 treated 24:4 unanimously vaccinations 
+
+37:4,8,8,10,14 18:7 20:7 treatment 6:10 42:23 43:15 5:13,14,16,23 
+
+38:13,20 39:8 23:12,13 24:7 79:1 unbelievably vaccines 4:22 
+
+39:24 40:17 26:16 29:2 treatments 6:11 13:25 84:20 85:13,24 
+
+41:25 42:11,13 51:20 62:24 tremendous unconscious 85:25 
+
+43:23 46:19,23 64:1 67:4,5 11:19 79:13 variety 7:10 
+
+46:24 47:1 74:12 76:16 tremendously uncontroversial vast 51:19 
+
+48:14,16,17,18 82:25 83:25 87:14 13:14 Verner­Yoder 
+
+49:15 52:21 thoughts 16:21 tried 9:21 undermine 31:4 14:17 
+
+53:21 54:15 three 38:22 trigger 60:2 85:21 Verrilli 2:6 3:6 
+
+Alderson Reporting Company 
+
+
+
+Official ­ Subject to Final Review 
+
+104 
+
+41:5,6,8,24 violate 27:11 63:10,10 68:8 67:25 200 17:25 
+
+42:11,16,18,21 43:5,7 74:11 80:21 worse 24:13 2012 11:23 
+
+43:6,23 44:6,9 violates 25:7,12 82:18 84:11 wouldn't 25:24 2014 1:23 
+
+45:6,10,25 25:16,18 85:8 63:11 73:4,4 22 62:1 
+
+46:5,11,16,19 voluntarily ways 20:21 75:13,14,22 25 1:23 30:20 
+
+46:23 47:3,10 
+
+47:12,17,19,22 
+
+23:10 
+
+voted 11:18 
+
+38:14 39:16 
+
+64:16 
+
+87:10 
+
+write 6:23 3 
+
+47:24 48:6,8 
+
+48:11,15 49:2 
+
+49:7,15,22 
+
+50:6,17,19 
+
+51:2,5,14 
+
+52:23 53:8,21 
+
+W 
+
+wage 13:22 14:7 
+
+15:15 27:5 
+
+wages 24:13,16 
+
+26:1,14 27:8 
+
+we'll 4:3 12:12 
+
+52:18 
+
+we're 12:12 
+
+15:19 29:24 
+
+31:8 36:13 
+
+38:9 79:3 82:6 
+
+written 10:21,25 
+
+10:25 11:2 
+
+21:24 
+
+X 
+
+x 1:2,21 86:2 
+
+3 81:2 
+
+4 
+
+4 3:4 
+
+40 31:23 
+
+41 3:7 
+
+54:1,9,13 55:3 
+
+55:24 56:5,8 
+
+56:17 57:5 
+
+58:5,21 59:3 
+
+59:11,22 60:22 
+
+61:12 62:8,12 
+
+63:19 64:3,6 
+
+65:13 66:3,21 
+
+67:11,17,25 
+
+68:17 69:15,24 
+
+27:19 29:11 
+
+walk 46:11,12 
+
+57:10 
+
+want 8:25 9:23 
+
+9:23 12:10,11 
+
+15:9 23:17 
+
+25:20 29:16 
+
+37:1 39:17 
+
+49:8 51:15,23 
+
+57:10 62:21 
+
+we've 19:24 20:9 
+
+21:5 74:16 
+
+77:3 
+
+weak 15:7 
+
+wear 33:8 
+
+week 24:24 
+
+weekend 35:8 
+
+weekends 35:7 
+
+weigh 43:16 
+
+weight 35:1 61:3 
+
+Y 
+
+yeah 42:4 84:7 
+
+year 22:9,10,25 
+
+23:1,4 59:6,16 
+
+yearly 31:22 
+
+years 15:13 
+
+17:25 32:20,24 
+
+Yoder 25:3 
+
+34:20 
+
+5 
+
+5 19:2,7 
+
+50 40:21 57:25 
+
+58:10 
+
+500 22:9 
+
+51 18:25 52:15 
+
+58 86:10 
+
+6 
+
+70:4 71:2,5,20 
+
+72:7 73:6,22 
+
+74:9,19 75:6 
+
+75:10,19 76:3 
+
+63:16,17,25,25 
+
+64:1,4,9 67:22 
+
+67:23 68:3,7 
+
+68:16,16 70:2 
+
+went 27:18 
+
+weren't 31:19 
+
+whatsoever 
+
+78:12 
+
+Z 
+
+0 
+
+7 
+
+7 24:24 
+
+8 
+
+76:9,18 78:16 84:4 86:5 wisdom 42:2,5 1 80 61:23,25 
+
+79:6,14 81:1 
+
+82:3,5,10,16 
+
+82:19 
+
+versus 49:10 
+
+view 33:12 38:5 
+
+56:4,16 60:19 
+
+62:23 63:17 
+
+68:18,19 75:1 
+
+viewed 80:19 
+
+views 41:22 
+
+VII 30:8,19 
+
+31:13 37:15 
+
+61:17,21 62:3 
+
+62:4 72:24 
+
+wanted 7:21 
+
+41:21 44:2 
+
+wants 5:15 
+
+26:23 33:8 
+
+war 68:4 
+
+wash 27:16,20 
+
+Washington 
+
+1:22 2:4,7 
+
+wasn't 42:2 45:2 
+
+66:13 
+
+way 5:9 9:10 
+
+10:14,17,19 
+
+19:11,12 20:23 
+
+23:20 26:7 
+
+woman 37:2 
+
+38:3 67:12 
+
+women 36:25 
+
+39:17 77:3 
+
+women's 63:6 
+
+Wood 1:13 4:6 
+
+woodwork 
+
+16:12 
+
+word 54:4 
+
+words 35:24 
+
+42:2 67:17 
+
+work 8:5 41:18 
+
+44:14 80:18 
+
+worked 14:16 
+
+10 19:2 62:1 
+
+10:11 2:2 4:2 
+
+11:39 87:22 
+
+13­354 1:4 4:4 
+
+13­356 1:16 4:6 
+
+14,000 56:11 
+
+15 61:22 
+
+18 7:18 
+
+1993 46:25 
+
+48:18 51:21 
+
+73:4 74:12 
+
+83:1 
+
+2 
+
+83 3:10 
+
+9 
+
+90 19:2 
+
+73:3,5,8,12,18 27:1 33:10,16 workers 28:9 2 77:3 
+
+vindicate 12:12 33:19 36:21 works 19:8 31:2 2,000 24:8 26:18 
+
+75:17 37:12 43:1 33:17,19 29:8 
+
+vindicated 12:11 49:14 52:4 world 13:2,9 20 38:17 39:13 
+
+12:12 58:16 62:12 worry 52:1 39:14 
+
+Alderson Reporting Company 
+
+

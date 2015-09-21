@@ -1,0 +1,4723 @@
+
+                    
+
+          
+
+                       
+
+                        
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  IN THE SUPREME COURT OF THE UNITED STATES 
+
+2 - - - - - - - - - - - - - - - - - x 
+
+3 LAMAR EVANS, : 
+
+4  Petitioner : No. 11-1327
+
+ v. : 
+
+6 MICHIGAN : 
+
+7 - - - - - - - - - - - - - - - - - x 
+
+8  Washington, D.C. 
+
+9  Tuesday, November 6, 2012 
+
+11  The above-entitled matter came on for oral 
+
+12 argument before the Supreme Court of the United States 
+
+13 at 11:03 a.m. 
+
+14 APPEARANCES: 
+
+DAVID A. MORAN, ESQ., Ann Arbor, Michigan; on behalf of 
+
+16  Petitioner. 
+
+17 TIMOTHY A. BAUGHMAN, ESQ., Detroit, Michigan; on behalf 
+
+18  of Respondent. 
+
+19 CURTIS E. GANNON, ESQ., Assistant to the Solicitor
+
+ General, Department of Justice, Washington, D.C.; for 
+
+21  United States, as amicus curiae, supporting 
+
+22  Respondent. 
+
+23 
+
+24 
+
+1
+ 
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                    
+
+           
+
+                    
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  C O N T E N T S 
+
+2 ORAL ARGUMENT OF PAGE 
+
+3 DAVID A. MORAN, ESQ. 
+
+4  On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+6 TIMOTHY A. BAUGHMAN, ESQ. 
+
+7  On behalf of the Respondent 27 
+
+8 ORAL ARGUMENT OF 
+
+9 CURTIS E. GANNON, ESQ.
+
+ For United States, as amicus curiae, 44 
+
+11  supporting the Respondent. 
+
+12 REBUTTAL ARGUMENT OF 
+
+13 DAVID A. MORAN, ESQ. 
+
+14  On behalf of the Petitioner 54 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+2
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  P R O C E E D I N G S 
+
+2  (11:03 a.m.) 
+
+3  CHIEF JUSTICE ROBERTS: We'll hear argument 
+
+4 next in Case 11-1327, Evans v. Michigan.
+
+ Mr. Moran.
+ 
+
+6  ORAL ARGUMENT OF DAVID A. MORAN
+ 
+
+7  ON BEHALF OF THE PETITIONER
+ 
+
+8  MR. MORAN: Mr. Chief Justice, and may it
+ 
+
+9 please the Court:
+
+
+ A long and unbroken line of this Court's 
+
+11 precedents stand for the principle that a judge's final 
+
+12 determination that a defendant is not guilty is a final 
+
+13 determination of an acquittal for -- for double jeopardy 
+
+14 purposes, even if that determination is wrong as a 
+
+matter of law or as a matter of fact. And even if --
+
+16  JUSTICE SOTOMAYOR: Do we give credence to 
+
+17 how the judge labels what the acquittal is? 
+
+18  MR. MORAN: No. No. This Court must 
+
+19 determine -- whatever its label, what has the judge 
+
+done. Has the judge made a determination that the 
+
+21 government has failed to prove its case, as in Martin 
+
+22 Linen, or has the government -- has the judge made a 
+
+23 determination of something else, as in Scott, for 
+
+24 example, pretrial delay.
+
+ Now, the Michigan Supreme Court --
+
+3
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE KENNEDY: But once -- once the judge 
+
+2 determines, quite erroneously, that it has to be a 
+
+3 dwelling -- midway during the trial, I'm the judge, I 
+
+4 consider this has to be a dwelling, is there any way I 
+
+can make that point, make that ruling, without invoking 
+
+6 double jeopardy? 
+
+7  MR. MORAN: Well, you could reserve that 
+
+8 ruling to the end of the case. You could make a ruling 
+
+9 as to the jury instructions without -- or what the jury 
+
+instructions are going to be without applying them to 
+
+11 the facts of the case; in other words, without making a 
+
+12 determination of the defendant's guilt or innocence. 
+
+13  JUSTICE KENNEDY: But -- but if I persist in 
+
+14 that view, there's nothing the government can do?
+
+ MR. MORAN: The government can try -- we 
+
+16 learned from Smith -- try to get you to reconsider that 
+
+17 view before the defendant puts on his case. But once 
+
+18 the defendant -- once the judge has made a final 
+
+19 determination that the defendant is not guilty, even on 
+
+an erroneous view of the law, this Court has held 
+
+21 multiple times that that is a final determination --
+
+22 that is an acquittal, for double jeopardy purposes. 
+
+23  JUSTICE SCALIA: Because, I suppose, the 
+
+24 judge is the government, too.
+
+ MR. MORAN: Exactly. Once -- once the 
+
+4
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 government --
+
+2  JUSTICE SCALIA: So whether the unfairness 
+
+3 adheres in the prosecution or in the judge, the guy's 
+
+4 been treated unfairly.
+
+ MR. MORAN: If a state chooses, 
+
+6 Justice Scalia, to vest acquittal power in its judges, 
+
+7 it must accept the double jeopardy consequences of that. 
+
+8  JUSTICE GINSBURG: Even when the defendant 
+
+9 interjected this issue and the defendant urged the judge 
+
+to make this incorrect notion that you have to negate 
+
+11 the higher crime, in order to convict of the lesser 
+
+12 crime, it was the defendant that led the -- the trial 
+
+13 judge into error. The trial judge didn't come up with 
+
+14 this on his own.
+
+ MR. MORAN: The judge came up with this, 
+
+16 Your Honor, on defendant's motion, that's correct. But 
+
+17 it was actually supported by the jury instructions that 
+
+18 were in use. And actually, it was supported by the 
+
+19 structure of the statute in question. The statute in 
+
+question, under which Mr. Evans was charged, explicitly 
+
+21 said that the building other than one specified in the 
+
+22 preceding subsection --
+
+23  JUSTICE GINSBURG: But you're not arguing 
+
+24 that that was the correct charge that --
+
+MR. MORAN: No. We're precluded now from 
+
+5
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 arguing that that's correct. 
+
+2  JUSTICE SOTOMAYOR: But you don't --
+
+3  JUSTICE SCALIA: Counsel often encourage 
+
+4 judges to do the wrong thing. In fact, in every case, 
+
+there is one of the two counsel urging the court to do 
+
+6 the wrong thing; right? 
+
+7  MR. MORAN: Yes, Justice Scalia. And --
+
+8  JUSTICE SCALIA: That's what the adversary 
+
+9 system consists of.
+
+ MR. MORAN: Yes. And in Sanabria, this 
+
+11 Court noted that point exactly, that all acquittals, 
+
+12 whether they're by the judge or by the jury -- or I 
+
+13 should say almost all acquittals, some are sua sponte --
+
+14 almost all acquittals, whether by judge or by jury, are 
+
+upon invitation of defense counsel. 
+
+16  JUSTICE KENNEDY: What -- could a state 
+
+17 provide a procedure where, if a judge makes a critical 
+
+18 ruling mid-trial, that at the request of the opposing 
+
+19 counsel, jury proceedings are suspended for 48 hours, 
+
+and the aggrieved party can run to the court of appeals 
+
+21 to get a mandate? 
+
+22  MR. MORAN: I don't think the state could do 
+
+23 that, Justice Kennedy, because of Smalis. 
+
+24  JUSTICE KENNEDY: Because of?
+
+ MR. MORAN: Because of Smalis. So that was 
+
+6
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 essentially the situation in Smalis. You had a bench
+ 
+
+2 trial. The judge grants a demurrer. He says the
+ 
+
+3 evidence is insufficient. And then the prosecution
+ 
+
+4 attempted to run to the Pennsylvania appellate court.
+ 
+
+And this Court said it couldn't do that because that was 
+
+6 a final determination.  I think --
+
+7  JUSTICE KENNEDY: Well, in my hypothetical, 
+
+8 the state said -- and this isn't a final determination; 
+
+9 the ruling doesn't become final until you have 48 hours 
+
+and go to the court of appeals. 
+
+11  MR. MORAN: Well, I think a state could 
+
+12 make -- could -- investing acquittal power in judges 
+
+13 could put limitations on that acquittal power. 
+
+14  JUSTICE SOTOMAYOR: How would they do that? 
+
+I'd like to go back to Justice Kennedy's question. It's 
+
+16 easy when you have a jury because what happens is a 
+
+17 judge can decide whether, at the end of the 
+
+18 prosecution's case, he's going to dismiss for 
+
+19 insufficiency, or he can give it to the jury, and if the 
+
+jury renders a verdict, set it aside. 
+
+21  Jeopardy attaches only if the judge 
+
+22 dismisses the case after the prosecution's judgment, but 
+
+23 not if he sets aside the verdict, correct? 
+
+24  MR. MORAN: Well, jeopardy attaches both 
+
+ways, but a retry -- a reversal is possible in the -- in 
+
+7
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 the latter. 
+
+2  JUSTICE SOTOMAYOR: In the latter. 
+
+3  MR. MORAN: Yes. 
+
+4  JUSTICE SOTOMAYOR: So what can a state 
+
+do -- some have done something -- to ensure that, even 
+
+6 if jeopardy has attached, that there can be a valid 
+
+7 reversal; if the judge is wrong on a legal theory. 
+
+8  MR. MORAN: Well, the easy --
+
+9  JUSTICE SOTOMAYOR: So give us an example of 
+
+what, in a judge trial, a state could do to ensure that 
+
+11 a legally wrong judgment is still reversible. 
+
+12  MR. MORAN: In a bench trial, Your Honor? 
+
+13  JUSTICE SOTOMAYOR: In a bench trial. What 
+
+14 could it do?
+
+ MR. MORAN: I think if -- if in a bench 
+
+16 trial, if the judge has the power to acquit or convict 
+
+17 and the judge acquits, I believe the Double Jeopardy 
+
+18 Clause would preclude the state from coming up with a 
+
+19 clever mechanism allowing -- for allowing appellate 
+
+review. The Court, of course -- I mean, the state 
+
+21 could, of course --
+
+22  JUSTICE SOTOMAYOR: I thought there were, in 
+
+23 your briefs, some examples -- in someone's brief, there 
+
+24 were some examples --
+
+MR. MORAN: In a jury trial with a judge --
+
+8
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SOTOMAYOR: No, forget about a jury 
+
+2 trial. Let's go to the bench trial. 
+
+3  MR. MORAN: I don't know what --
+
+4  JUSTICE SOTOMAYOR: You're not helping your 
+
+argument by saying there's nothing a state could ever 
+
+6 do. 
+
+7  MR. MORAN: Well, they could withdraw the 
+
+8 power of judges to grant acquittals or convictions in 
+
+9 the first place. In other words, they could abolish 
+
+bench trials, which, as the Court noted --
+
+11  JUSTICE SOTOMAYOR: Do you know something, 
+
+12 Counselor? You're sinking your hole deeper. You're not 
+
+13 helping yourself in this argument because how does that 
+
+14 help the system?
+
+ MR. MORAN: Well, with all respect, Your 
+
+16 Honor, the Double Jeopardy Clause here transcends the 
+
+17 state's --
+
+18  JUSTICE SOTOMAYOR: I don't disagree. You 
+
+19 mean no state could ever say to a judge, given --
+
+given -- render a verdict on the prosecution's theory, 
+
+21 and then set it aside? If you think the theory is not 
+
+22 legally --
+
+23  MR. MORAN: After Smith, it's clear that 
+
+24 immediate reconsideration is a possibility. And if a 
+
+state set up a system, as in Lydon v. Municipal Court, 
+
+9
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 where you have essentially a magistrate making a 
+
+2 preliminary determination, and then it goes to a higher 
+
+3 judge who goes trial de novo, that, of course, is 
+
+4 permissible.
+
+ But if the judge is the final arbiter -- in 
+
+6 other words, if the judge sits in the place of the jury, 
+
+7 this Court has said, over and over again, that a judge 
+
+8 verdict is equivalent to a jury verdict, for purposes of 
+
+9 Double Jeopardy.
+
+ So, yes, courts -- a state could set up 
+
+11 systems, in which judges have less power than a jury 
+
+12 does. I'm not aware of any state that's done that. I 
+
+13 am aware of what Nevada has done, which has said that 
+
+14 judges can't grant mid-trial directed verdicts. And 
+
+that's the way in a jury trial. 
+
+16  JUSTICE SOTOMAYOR: You keep saying, 
+
+17 "mid-trial." 
+
+18  MR. MORAN: Yes. 
+
+19  JUSTICE SOTOMAYOR: What -- what is not 
+
+mid-trial? Some states require a judge to wait. 
+
+21  MR. MORAN: Yes. Yes. Nevada. 
+
+22  JUSTICE SOTOMAYOR: Well, what happens in 
+
+23 those states? 
+
+24  MR. MORAN: Well, in that case, then there 
+
+is no problem because, if the judge makes a 
+
+10
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 determination after the jury verdict, then the -- then 
+
+2 that can be appealed under Wilson. 
+
+3  JUSTICE SOTOMAYOR: I keep talking, not 
+
+4 about jury verdicts, but about bench trials. I want to 
+
+focus on the bench trial process. 
+
+6  MR. MORAN: If -- but if the judge at the 
+
+7 end of a trial renders a solemn, formal, final verdict, 
+
+8 "I find the defendant not guilty," in a bench trial, I 
+
+9 don't see a mechanism for -- for the state to appeal 
+
+that determination, consistent with the Double Jeopardy 
+
+11 guarantee, unless the state has set up a system as in 
+
+12 Lydon -- as Massachusetts did in Lydon. But short of 
+
+13 that, a judge's determination is entitled to the same 
+
+14 respect.
+
+ JUSTICE ALITO: If, in the middle of a 
+
+16 trial, a judge grants a mistrial and says -- I'm sorry, 
+
+17 grants an acquittal and says, I think that prompt 
+
+18 prosecution is an element of the offense, and there 
+
+19 wasn't prompt prosecution here. Now, could there be a 
+
+re-prosecution in that situation? 
+
+21  MR. MORAN: Yes, Your Honor. 
+
+22  JUSTICE ALITO: Even though the judge says 
+
+23 he thinks that that's an element of the offense? 
+
+24  MR. MORAN: Because no part of my argument 
+
+depends upon the judge's labeling. What the judge has 
+
+11
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 done in that case is -- is a mid-trial dismissal that he 
+
+2 called an acquittal, but it was actually a dismissal for 
+
+3 another purpose. That's exactly what Scott was talking 
+
+4 about. And that is like Scott, where the judge may have 
+
+characterized what he had done as acquitting the
+ 
+
+6 defendant, but he --
+
+7  JUSTICE ALITO: Well, he saw a phantom
+ 
+
+8 element, and -- and that's what happened here, too,
+ 
+
+9 isn't it?
+
+
+ MR. MORAN: Well, pretrial delay is not an 
+
+11 element of the offense. Pretrial delay is another part 
+
+12 of criminal procedure in this state. 
+
+13  JUSTICE ALITO: And this -- and the fact 
+
+14 that this was not a dwelling wasn't an element of the 
+
+offense, either. 
+
+16  MR. MORAN: But it is clearly related to the 
+
+17 offense. And then Scott clarified what Martin Linen 
+
+18 meant. Martin Linen was an attempt to distinguish 
+
+19 between cases in which the judge makes a ruling relating 
+
+to guilt or innocence and a ruling designed to serve 
+
+21 some other purpose. 
+
+22  The problem with the line the Michigan 
+
+23 Supreme Court drew here is that it is completely 
+
+24 impossible to administer. And if I can give a couple of 
+
+examples, the Lynch case, from the Second Circuit, was 
+
+12
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 an effort by one circuit to attempt to administer -- to 
+
+2 follow the Maker line, and you get questions that are 
+
+3 completely unanswerable in that case. 
+
+4  Is bad intent simply a gloss on the 
+
+willfulness element? In which case, all you've done is 
+
+6 misconstrue an existing element. Or is it, as the 
+
+7 dissent claimed in Lynch, a -- a new element? And these 
+
+8 are questions like how many angels can dance on the head 
+
+9 of a pin. They're simply semantics. It's all labeling. 
+
+There is no -- there is no substance there. 
+
+11  JUSTICE ALITO: Well, there -- that's a 
+
+12 problem. But you're -- to come back to my earlier 
+
+13 question, your -- what is your answer? Your answer is 
+
+14 that, if the judge grants an acquittal based on the 
+
+failure to prove anything that the judge thinks the 
+
+16 prosecution has to prove, that's an acquittal. Is that 
+
+17 fair? 
+
+18  MR. MORAN: Yes. And -- and I fall back to 
+
+19 this Court's footnote in Scott, that courts are 
+
+perfectly capable of distinguishing between rulings 
+
+21 relating to guilt and innocence and rulings designed to 
+
+22 serve other purposes. So if you have a devious judge 
+
+23 who's determined to package a prosecutorial misconduct 
+
+24 ruling as an acquittal, I have no doubt that an 
+
+appellate court would be able to -- to smoke that out. 
+
+13
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE ALITO: Well, to come back to the
+ 
+
+2 argument we just heard, so suppose the judge grants a
+ 
+
+3 mistrial for failure to prove an action within the
+ 
+
+4 statute of limitations, even though no statute of
+ 
+
+limitations defense was raised. Would that be -- would 
+
+6 that be an acquittal? 
+
+7  MR. MORAN: Only -- I think my answer to 
+
+8 that would depend on how you rule in the prior case, 
+
+9 depending on whether the statute of limitations is -- is 
+
+something the prosecution has to prove in order to 
+
+11 establish guilt. 
+
+12  JUSTICE ALITO: All right. Assuming, for 
+
+13 the sake of argument, that it's not an element -- it's 
+
+14 not really an element, but the judge thinks it's an 
+
+element. 
+
+16  MR. MORAN: Well, if it -- if it's something 
+
+17 that could result in an acquittal, if it is -- if the 
+
+18 defendant raising the statute of limitations is 
+
+19 something that could result in an acquittal -- because I 
+
+come to Burks, where Burks says an affirmative insanity 
+
+21 defense, the prosecution fails to disprove that, that is 
+
+22 an acquittal -- when the appellate court concluded that 
+
+23 there was failure to disprove the affirmative insanity 
+
+24 defense.
+
+ That shows that that language in Martin 
+
+14
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Linen can't be taken as if it was construing the terms 
+
+2 of an easement. You have to look at what was Martin 
+
+3 Linen getting at. And Martin Linen is trying to 
+
+4 identify those rulings relating to guilt or innocence, 
+
+which include affirmative defenses or --
+
+6  JUSTICE KENNEDY: I'm not sure I understand 
+
+7 the rationale for your answer to your own hypothetical. 
+
+8 The judge characterizes a prosecutorial -- or a 
+
+9 misconduct incident as a grounds for acquittal; it 
+
+really isn't. Then you said the court of appeals could 
+
+11 straighten that out? 
+
+12  MR. MORAN: Yes. That's Scott. 
+
+13  JUSTICE KENNEDY: On what rationale -- so 
+
+14 what's the general principle that allows the court of 
+
+appeals to do this sometimes and not others? 
+
+16  MR. MORAN: If the judge has made a ruling 
+
+17 going to the defendant's guilt or innocence and finding 
+
+18 that, as in Martin, examining the government's evidence 
+
+19 and finding that they have failed to prove the 
+
+defendant's guilt, final. There can be no appeal. But 
+
+21 if the judge has made a ruling that is designed to serve 
+
+22 some other purpose, so if the judge, in my hypothetical, 
+
+23 were to say --
+
+24  JUSTICE KENNEDY: Oh, I thought -- I thought 
+
+it was the judge just subjectively does this, but he 
+
+15
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 doesn't say any -- he just characterizes it as an
+ 
+
+2 acquittal?
+ 
+
+3  MR. MORAN: That's -- that's a case,
+ 
+
+4 actually, quite a bit like some of the cases, and it
+ 
+
+demonstrates the problem of -- of the Michigan Supreme 
+
+6 Court's line. So example, in Martin Linen, all the 
+
+7 judge said is, this is one of the weakest cases I've 
+
+8 ever seen. 
+
+9  Presumably, if the Respondent were to win, 
+
+they would be entitled to appeal a determination like 
+
+11 that to at least try to convince the appellate court 
+
+12 that the reason the case seems so weak to the trial 
+
+13 judge was that the trial judge had added an extra 
+
+14 element.
+
+ Same thing in Smalis, where the judge simply 
+
+16 said -- he granted a demurrer by looking at the 
+
+17 prosecution's case and saying that, I find the evidence 
+
+18 insufficient. And, in fact, in Smalis, the --
+
+19 Pennsylvania tried to argue that the judge had actually 
+
+heightened the burden for mens rea for third-degree 
+
+21 murder. 
+
+22  And -- and so -- you know, they would be 
+
+23 entitled to make these arguments. And so then we get 
+
+24 into questions of, in granting acquittals, would judges 
+
+have to explain all of the elements --
+
+16
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE BREYER: I see the problem, but I am 
+
+2 still back to where Justice Kennedy was -- and that is 
+
+3 my own failing here. I didn't quite understand. I 
+
+4 thought, when you grant a dismissal and you dismiss the 
+
+case in the middle of the trial because the prosecution 
+
+6 was brought too late, all you're doing is, in the middle 
+
+7 of the trial, granting something you should have granted 
+
+8 in the first place before you impaneled the jury. 
+
+9  But I thought that, in Fong Foo, Judge 
+
+Wyzanski had dismissed the case after empanelment 
+
+11 because he wrongly thought that the U.S. attorney had 
+
+12 been talking to a witness or a juror or something at 
+
+13 lunch time and that he had -- and that's an acquittal. 
+
+14 And I thought Justice Harlan, for the Court, wrote 
+
+Double Jeopardy, Jeopardy attached, you can't try him 
+
+16 again. And I didn't think the Court ever overruled 
+
+17 that. That -- what -- in where? 
+
+18  MR. MORAN: Fong -- Fong Foo has not been 
+
+19 explicitly overruled, but I think it has been limited by 
+
+Scott. 
+
+21  JUSTICE BREYER: So Scott says that even in 
+
+22 judge-wise -- Scott says Fong Foo was wrong, that that 
+
+23 -- because the reason that Charlie Wyzanski dismissed it 
+
+24 is he has this idea of a -- the AUSA doing something 
+
+improper at lunch. And -- and that's -- that's -- now, 
+
+17
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 on your theory -- on the theory you just enunciated, 
+
+2 there would -- there would -- Double Jeopardy wouldn't 
+
+3 protect against the second indictment, right? 
+
+4  MR. MORAN: Well, Justice Breyer, Fong Foo 
+
+actually listed two reasons why the trial judge granted 
+
+6 the directed verdict. One was prosecutorial misconduct. 
+
+7 The judge apparently thought that the prosecutor had 
+
+8 been speaking with a witness. 
+
+9  JUSTICE BREYER: Yes.
+
+ MR. MORAN: But the second one was the total 
+
+11 lack of credibility of the prosecution's witnesses. 
+
+12 And -- and when the case came --
+
+13  JUSTICE BREYER: Yes. Yes. That's --
+
+14  MR. MORAN: When the case came to this 
+
+Court, the concurring Justice said, the second one is 
+
+16 good for Double Jeopardy purposes, but I would make 
+
+17 clear that the prosecutorial misconduct rationale is 
+
+18 not. 
+
+19  That part -- I think that concurring opinion 
+
+has been effectively adopted in Scott, so that a finding 
+
+21 of prosecutorial misconduct on dumping this case 
+
+22 mid-trial, yes, the prosecution gets another bite at the 
+
+23 apple, assuming that it's done on -- on the defendant's 
+
+24 motion.
+
+ CHIEF JUSTICE ROBERTS: One -- one of the 
+
+18
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 reasons we've said that underlies Double Jeopardy clause 
+
+2 is to prevent overbearing conduct by the government. 
+
+3 That's not an issue here, is it? You said the 
+
+4 government gets one fair shot at conviction. And if 
+
+there has been a legal error below, they haven't had a 
+
+6 fair shot. 
+
+7  MR. MORAN: Mr. Chief Justice, I would 
+
+8 respectfully disagree. Mr. Evans was hauled into court 
+
+9 by the state. He was acquitted, in our view, by the 
+
+judge who is representative of the state, who was 
+
+11 relying on the standard jury instructions --
+
+12  CHIEF JUSTICE ROBERTS: Well, this business 
+
+13 about the judge being a representative of the state, I'm 
+
+14 not sure how far that gets you. The government is one 
+
+of the adversaries appearing before the judge, and the 
+
+16 judge is not supposed to take the government's side. So 
+
+17 he is not really a part of the government. And it does 
+
+18 seem to me that, if they had been thrown out of court 
+
+19 because of a legal error, that's not a fair shot.
+
+ MR. MORAN: Well, I understand that view, 
+
+21 Mr. Chief Justice, but it's contrary to a lot of this 
+
+22 Court's cases. I think this Court would have to review 
+
+23 a lot of its cases, most recently, Smith and Smalis and 
+
+24 Martin Linen, all of which said that a legal error 
+
+affects the quality of a judgment -- and Scott also 
+
+19
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 specifically said this, a legal error affects the 
+
+2 quality of the judgment, but not it's finality for 
+
+3 Double Jeopardy purposes. 
+
+4  JUSTICE KAGAN: Well, I suppose the 
+
+question --
+
+6  CHIEF JUSTICE ROBERTS: No, I know that --
+
+7 I'm just saying that that particular rationale for the 
+
+8 Double Jeopardy Clause is not applicable in this case. 
+
+9  MR. MORAN: Well, I think it is because a 
+
+citizen has been brought into court, expects to go 
+
+11 through one trial, and they are told, sir, I am finding 
+
+12 you not guilty. And then to find out later -- for the 
+
+13 state to come back later --
+
+14  CHIEF JUSTICE ROBERTS: That's looking at it 
+
+from the defendant's perspective. We have said that the 
+
+16 government should have one fair shot at conviction. And 
+
+17 it seems to me that, if they lose because of an error, 
+
+18 that's not a fair shot. 
+
+19  MR. MORAN: Your Honor, I come back to the 
+
+language in Martin Linen, which talks about what the 
+
+21 purpose of the Double Jeopardy Clause is, is to protect 
+
+22 defendants against continuing government oppression. 
+
+23 And that oppression arises from the anxiety of having to 
+
+24 go through it again and again.
+
+ JUSTICE KAGAN: But isn't it -- isn't it 
+
+20
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 hard to argue with a notion that your client has gotten 
+
+2 a windfall here?  I mean, this is not continuing 
+
+3 government oppression and -- and -- you know, that's --
+
+4 that -- that suggests a real harm on the part of your 
+
+client. I mean, here because of a legal error, your 
+
+6 client walks away the winner when he shouldn't have. 
+
+7  MR. MORAN: Well, Your Honor, without the 
+
+8 error, the trial would have -- would have continued. 
+
+9 But I think that argument, respectfully, proves too much 
+
+because there are lots of these cases in which legal 
+
+11 error was made. And so -- in Rumsey, you could say 
+
+12 exactly the same thing about Mr. Rumsey. 
+
+13  JUSTICE KAGAN: Yes, I think that's right. 
+
+14 This is -- this is an argument against this whole line 
+
+of cases, that this whole line of cases essentially has 
+
+16 set up a system where the real purposes of the Double 
+
+17 Jeopardy Clause do not apply and where defendants walk 
+
+18 away with windfalls. And I guess what's your best 
+
+19 argument against that proposition?
+
+ MR. MORAN: Well, once you accept the 
+
+21 equivalency of a judicial acquittal to a jury acquittal, 
+
+22 you have to accept that both actors are capable of 
+
+23 error. Both actors are human. Juries are incapable --
+
+24 are capable of making legal errors, as well as factual 
+
+errors. They are capable of misunderstanding the 
+
+21
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 instructions. In fact, they are capable of being 
+
+2 misinstructed. 
+
+3  Had the judge not granted the directed 
+
+4 verdict here, she presumably would have instructed the 
+
+jury the same way, and the jury would have also 
+
+6 acquitted Mr. Evans for the same reason. 
+
+7  And so to try and tease out legal and 
+
+8 factual errors, especially when -- and often, there are 
+
+9 mixed questions of fact or law that are at stake here --
+
+I think, is a losing proposition. I think it -- I think 
+
+11 the Court has decided to draw a firm line, recognizing 
+
+12 that an acquittal is special. An acquittal is the most 
+
+13 fundamental thing that can happen. 
+
+14  JUSTICE GINSBURG: Could a system say, if 
+
+you have Double Jeopardy looming in -- in -- in the 
+
+16 case, then arguments like the one that the defendant 
+
+17 made and the judge bought have to be made pretrial, and 
+
+18 if they are not made pretrial, they are waived. I mean, 
+
+19 here, the -- the -- the case was ongoing when the 
+
+defendant made this suggestion, as opposed the system 
+
+21 had built into it a requirement that defendants that are 
+
+22 going to make this kind of plea do it pretrial. 
+
+23  MR. MORAN: Justice Ginsburg, I don't think 
+
+24 it would have been right for Mr. Evans to make this 
+
+argument pretrial because it was only with the 
+
+22
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 prosecution's proof that it became clear that what the 
+
+2 prosecution was proving was that the building burned 
+
+3 was, in fact, a dwelling house and, therefore, seemed to 
+
+4 be excluded by the statutory language and especially the 
+
+commentary to the jury instructions from the definition 
+
+6 of the offense. 
+
+7  Michigan is an information state. Michigan 
+
+8 does not require an indictment that lists every -- every 
+
+9 little bit of the crime and all of the details. All 
+
+Michigan requires is a very simple statement of the 
+
+11 crime and the statutory citation and, of course, who the 
+
+12 defendant is and the date and venue of the alleged 
+
+13 crime. 
+
+14  And so here, Mr. Evans would have had no way 
+
+of knowing in advance what the prosecution was going to 
+
+16 prove. That's why this case is unlike Lee. This is --
+
+17 Lee is an effective indictment. Nobody claims that Mr. 
+
+18 Lee was innocent and that the prosecution couldn't prove 
+
+19 the elements of the crime against Mr. Lee. The problem 
+
+was just that the indictment failed to allege a specific 
+
+21 fact. And that --
+
+22  JUSTICE SOTOMAYOR: I'm sorry. I'm a little 
+
+23 confused. It was charged with the crime of burning down 
+
+24 a dwelling, correct?
+
+ MR. MORAN: Mr. Evans, no. He was charged 
+
+23
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 with burning other real property. 
+
+2  JUSTICE SOTOMAYOR: Of? 
+
+3  MR. MORAN: Burning other real property. 
+
+4  JUSTICE SOTOMAYOR: And no specific statute 
+
+was cited? 
+
+6  MR. MORAN: Yes. 
+
+7  JUSTICE SOTOMAYOR: Which one? 
+
+8  MR. MORAN: The -- that -- that statute, I 
+
+9 have --
+
+JUSTICE SOTOMAYOR: The dwelling statute, 
+
+11 not the -- not the exception to the dwelling. 
+
+12  MR. MORAN: It's the exception to the 
+
+13 dwelling statute. It's -- it's 750.73, which is on page 
+
+14 2 of the top side brief.
+
+ JUSTICE SOTOMAYOR: That's what he was 
+
+16 charged with? 
+
+17  MR. MORAN: Yes. 
+
+18  JUSTICE SOTOMAYOR: So why did the court 
+
+19 dismiss, if he was charged with burning down a house? I 
+
+thought he was charged with burning down a dwelling, and 
+
+21 the argument was he should have been --
+
+22  MR. MORAN: No. 
+
+23  JUSTICE SOTOMAYOR: -- charged with burning 
+
+24 down a house.
+
+ MR. MORAN: No, he was charged with the 
+
+24
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 crime in 750.7 -- 750.73, which reads, in relevant part, 
+
+2 that, "a person who willfully or maliciously burns any 
+
+3 building or other real property, or the contents 
+
+4 thereof, other than those specified in the next 
+
+proceeding subsection" -- "subsection of this chapter." 
+
+6 And the next proceeding section of the chapter is about 
+
+7 burning down dwelling houses. 
+
+8  JUSTICE SOTOMAYOR: My only quibble is you 
+
+9 have no doubt -- the defense attorney had no doubt that 
+
+he burnt down a house -- that someone burnt down a 
+
+11 house, correct? 
+
+12  MR. MORAN: It was -- it was allegedly a 
+
+13 vacant house. And apparently, that's why the 
+
+14 prosecution charged it this way.
+
+ JUSTICE SOTOMAYOR: Got it. 
+
+16  MR. MORAN: So they charged it. They're the 
+
+17 ones who made the choice of which statute to apply. 
+
+18 They, apparently, thought that they couldn't prove that 
+
+19 it was a dwelling house, so they proved the other crime. 
+
+And the thinking -- the thinking of the defense attorney 
+
+21 and the thinking of the judge was that these two crimes 
+
+22 were complementary to each other; in other words, that 
+
+23 they did not overlap. 
+
+24  It was either a dwelling house or not a 
+
+dwelling house, and then one statute or the other 
+
+25
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 applies.
+ 
+
+2  As a result of the ruling of the Michigan
+ 
+
+3 Court of Appeals in this case, which is now not
+ 
+
+4 contested, in fact, the burning -- the -- the statute
+ 
+
+under which Mr. Evans was charged totally encompasses 
+
+6 the greater crime because any building is covered in the 
+
+7 crime with which Mr. Evans is charged, while only 
+
+8 specific buildings, dwelling houses, are charged in the 
+
+9 arson --
+
+JUSTICE SOTOMAYOR: It's a sentencing 
+
+11 enhancement, is really what the argument is -- the 
+
+12 decision was. 
+
+13  MR. MORAN: Well, there --
+
+14  JUSTICE SOTOMAYOR: That every -- you can be 
+
+charged with burning down a dwelling and you can only 
+
+16 get the enhancement if they prove it's a house. 
+
+17  MR. MORAN: You can only get the greater 
+
+18 offense. 
+
+19  JUSTICE SOTOMAYOR: Exactly.
+
+ MR. MORAN: Yes. But the -- a jury would 
+
+21 have to make that determination -- or the judge in a 
+
+22 bench trial would have to make that determination beyond 
+
+23 a reasonable doubt. 
+
+24  If there are no further questions, I will 
+
+reserve the balance of my time. 
+
+26
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+2  Mr. Baughman. 
+
+3  ORAL ARGUMENT OF TIMOTHY A. BAUGHMAN 
+
+4  ON BEHALF OF THE RESPONDENT
+
+ MR. BAUGHMAN: Mr. Chief Justice, and may it 
+
+6 please the Court: 
+
+7  This trial here was ended before verdict 
+
+8 from a jury on the motion of the defendant, opposed 
+
+9 vigorously by the prosecution, alleging, essentially, 
+
+that the crime charged contained an uncharged element on 
+
+11 which insufficient proof had been presented for a 
+
+12 rational factfinder to find guilt beyond a reasonable 
+
+13 doubt; that uncharged element being that the offense be, 
+
+14 for want of a better term, of a -- excuse me -- the 
+
+structure be, for want of a better term, a non-dwelling. 
+
+16  We had -- that had not been alleged. But it 
+
+17 has been conceded throughout the appellate history of 
+
+18 this case, from the Michigan Court of Appeals on, that 
+
+19 there is no such element in -- in the -- in the crime.
+
+ The statute that Mr. Moran mentioned, that 
+
+21 refers to the next preceding section, over three decades 
+
+22 ago, was held to be words of limitation; in other words, 
+
+23 you don't have to prove it's a dwelling, to prove that 
+
+24 other real property -- a building or other real property 
+
+has been burned. 
+
+27
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  So in the 1970s, it was held the difference 
+
+2 between the two statutes is the greater requires proof 
+
+3 of a dwelling or a habitation; the lesser does not. The 
+
+4 judge held that you have to prove the negative of the 
+
+element that enhances the offense, in order to prove the 
+
+6 lesser offense; you have to prove it's a non-dwelling. 
+
+7 And, again, that's been conceded to be error throughout 
+
+8 the entire appellate history here. 
+
+9  And so the proofs were adequate -- were 
+
+appropriate here, and the charging document was 
+
+11 appropriate here. And the question becomes, on these 
+
+12 facts, does termination of the trial by the judge 
+
+13 constitute an acquittal, so that jeopardy should bar a 
+
+14 second trial?
+
+ The Jeopardy Clause is aimed at prohibiting 
+
+16 certain governmental abuses that occurred historically. 
+
+17 One of them is when the government would terminate a 
+
+18 trial that was not going well, without the consent of 
+
+19 the defendant, in order to take another shot at it -- to 
+
+build a better case or perhaps get a better factfinder. 
+
+21  And the Double Jeopardy Clause prohibits 
+
+22 that kind of conduct by establishing, through this 
+
+23 Court's cases, that mistrials without the consent of the 
+
+24 defendant bar retrial, that abhorrent practice is 
+
+barred, unless a manifest necessity is shown. 
+
+28
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  And we've even extended that to the 
+
+2 circumstance that, if the judge is intending to help the 
+
+3 defendant, if he is doing something that he believes is 
+
+4 in defendant's favor, if defendant has not consented, 
+
+then that valued right to a verdict from the tribunal 
+
+6 that he is before trumps everything. 
+
+7  But if there is consent, as there was in 
+
+8 this case -- the defendant asked the judge to terminate 
+
+9 the trial without going to this jury, so he gave up his 
+
+valued right to a decision by this tribunal -- if he 
+
+11 does that, then that -- the other side of that coin is, 
+
+12 that is ordinarily outcome-determinative the other way. 
+
+13  A retrial is permissible, unless the 
+
+14 government has achieved the first harm by the back door; 
+
+that is, by goading the defendant into the mistrial. 
+
+16  JUSTICE SCALIA: So if -- if the judge did 
+
+17 this on her own, that would have been okay? And there 
+
+18 would be Double Jeopardy attaching? 
+
+19  MR. BAUGHMAN: That's correct.
+
+ JUSTICE SCALIA: So we have to decide in 
+
+21 each case whether the defendant was the initiating 
+
+22 source of the error? 
+
+23  MR. BAUGHMAN: In terms of the -- whether or 
+
+24 not a judgment of acquittal was granted, yes, both the 
+
+Federal rule and the Michigan rule provide that, on the 
+
+29
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 defendant's motion or on the court's own motion, the 
+
+2 court may grant a directed verdict. 
+
+3  JUSTICE SCALIA: What -- what if the 
+
+4 defendant just agrees with the judge? The judge says --
+
+you know, I think this indictment is bad because you --
+
+6 you have to show that it wasn't a dwelling place, and 
+
+7 the counsel for the Defendant says, yes, that seems like 
+
+8 a good -- a good idea.  Is -- is that enough to --
+
+9  MR. BAUGHMAN: I think that would be enough. 
+
+I think agreement with the judge's course of action 
+
+11 would be the judge -- would be, as in the mistrial 
+
+12 situation, would be the defendant's --
+
+13  JUSTICE SCALIA: Well, my goodness, 
+
+14 disagreement would be malpractice, wouldn't it?
+
+ (Laughter.) 
+
+16  MR. BAUGHMAN: Well, it -- it depends on 
+
+17 whether you really wish to get a verdict from this jury 
+
+18 or whether you risk having a -- risk -- risk wanting to 
+
+19 have a retrial before a different factfinder. You may 
+
+be very happy with --
+
+21  JUSTICE SCALIA: A bird in the hand, 
+
+22 counsel. I -- I --
+
+23  MR. BAUGHMAN: Sometimes, that bird in the 
+
+24 hand can come back and bite you, when you have a second 
+
+trial. 
+
+30
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE KAGAN: Mr. Baughman, what would 
+
+2 happen if the defendant asked for improper instructions, 
+
+3 really saying exactly something like this -- you know, 
+
+4 that the jury has to find this additional element that, 
+
+in fact, it doesn't have to find? But your theory, I 
+
+6 would think, would say that too, the government could 
+
+7 try the defendant again. After all, the government 
+
+8 didn't get its one fair shot. 
+
+9  MR. BAUGHMAN: That -- that's correct. And 
+
+that -- that's the logic of Justice Holmes' position in 
+
+11 Kepner, and we don't go that far, essentially because 
+
+12 this isn't a jury case. There is a logic to that 
+
+13 position, but it is -- there's --
+
+14  JUSTICE KAGAN: You don't go that far, in 
+
+other words, just because it doesn't happen to be this 
+
+16 case. 
+
+17  MR. BAUGHMAN: That's correct. 
+
+18  JUSTICE KAGAN: But do you concede that the 
+
+19 logic of your position would extend to improperly 
+
+instructed juries? 
+
+21  MR. BAUGHMAN: It would, to a certain 
+
+22 extent, but it is -- it is cut off by two facts. One is 
+
+23 simply, as -- as Justice Holmes often said, the -- the 
+
+24 life -- an ounce of -- I'm -- excuse me -- an ounce of 
+
+logic is often trumped by a pound of history. We have 
+
+31
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 historically said that a verdict by the factfinder, by 
+
+2 the jury, terminates jeopardy, and there is no inquiry 
+
+3 into --
+
+4  JUSTICE KAGAN: Well, we've historically 
+
+said it in this context, too. I mean, the cases that 
+
+6 you are asking us to overrule go back 50 years. 
+
+7  MR. BAUGHMAN: Well, when I say 
+
+8 historically, I mean back to the time of the founding, 
+
+9 in terms of when the Double Jeopardy Clause was 
+
+promulgated and adopted into the Constitution. 
+
+11 Fifty years is not back to when we were determining what 
+
+12 it is we were protecting against when we adopted the 
+
+13 clause. 
+
+14  And as I think most of the commentators have 
+
+noted, there is very little explanation in Fong Foo as 
+
+16 to how the Court came out where it came out, and there 
+
+17 has been very little explanation since as to how we got 
+
+18 from the common law prohibition of a retrial after 
+
+19 acquittal on the merits by a jury, to a ruling of law by 
+
+the judge that no jury could find guilt beyond a 
+
+21 reasonable doubt being the same thing, which is where we 
+
+22 are today. 
+
+23  JUSTICE GINSBURG: You cannot necessarily --
+
+24  JUSTICE SCALIA: Well, we didn't have it, at 
+
+the time of the founding, any mechanism for a judge to 
+
+32
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 do that. I mean, this -- this is a new procedure, and 
+
+2 how it fit into the prohibition of Double Jeopardy was 
+
+3 certainly a -- an open question. 
+
+4  It's not as though this procedure existed at 
+
+the time of the founding or in English law before then 
+
+6 and was never adequate to -- to constitute Double 
+
+7 Jeopardy. It's a new procedure introduced, so the 
+
+8 question for the Court was, well -- you know, if it's 
+
+9 the judge rather than the jury that pronounces the 
+
+acquittal, does -- does that constitute Double Jeopardy? 
+
+11  MR. BAUGHMAN: Well, I think you are exactly 
+
+12 right. It, of course, is a new procedure. It didn't 
+
+13 exist at the time of the founding. So our question then 
+
+14 becomes is this new procedure sufficiently equivalent to 
+
+that procedure that is historically protected, that 
+
+16 it's -- that the protections that it is designed to 
+
+17 guard against are served when we bar retrial in these 
+
+18 circumstances? 
+
+19  And I think, as Justice Kagan has indicated, 
+
+there are many circumstances where what -- what we are 
+
+21 doing is giving the defendant a windfall while serving 
+
+22 no interest that was protected by the Jeopardy Clause. 
+
+23 So if it's to be an analog, then we need to see does it 
+
+24 really closely approximate a retrial after acquittal on 
+
+the merits by a jury --
+
+33
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE KAGAN: But the point I was making 
+
+2 was that the same windfall is received by the defendant 
+
+3 that gets an acquittal from an improperly instructed 
+
+4 jury.
+
+ MR. BAUGHMAN: But -- that is true, except 
+
+6 we -- we could speculate that's -- that's true, but we 
+
+7 don't know why the jury came back the way it did. The 
+
+8 jury may have acquitted for an entirely different 
+
+9 reason. We don't know. We don't have special verdicts, 
+
+and we don't have any mechanism for inquiring, so we 
+
+11 treat -- you have to have a line somewhere. Jeopardy 
+
+12 terminates with the jury verdict, which may have been 
+
+13 misinstructed, but we don't know why they came out the 
+
+14 way they did.
+
+ If they --
+
+16  JUSTICE BREYER: Now -- now, I take it 
+
+17 you -- you -- you agree that sometimes the 
+
+18 prosecution -- I'm not saying anyone would -- but 
+
+19 they -- the defendant's acquitted by the jury so --
+
+because he doesn't find -- they don't find enough 
+
+21 evidence, and so the prosecutor thinks, I think I'd like 
+
+22 to try him again, and then he's acquitted again. I'd 
+
+23 like to try him again, and he's acquitted again. 
+
+24  Now, substitute judge for jury, the same 
+
+thing could happen. I mean, I don't see why not. And 
+
+34
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 there's no answer to that, is there? And if there's no 
+
+2 answer to that, the same bad thing could happen. Well, 
+
+3 then you're going to have to start distinguishing among 
+
+4 which judge or jury acquittals do or do not invoke the 
+
+problem of the Double Jeopardy Clause. 
+
+6  And where I'm driving is that -- that there 
+
+7 is a principle, and the principle was -- it seems the 
+
+8 simplest way to put it, is where in fact the acquittal 
+
+9 rests upon a judgment that there isn't enough evidence, 
+
+that's it. That's what we're after. And where it's 
+
+11 some procedural thing or not, maybe we aren't. Okay. 
+
+12  Now, the virtue of that is it's simple, it's 
+
+13 consistent with the cases, it's been clear. And you're 
+
+14 advocating, let's go into that and change it or at least 
+
+interpret the cases that's consistent with it. And 
+
+16 we're saying there wasn't enough evidence, is because 
+
+17 the judge had in mind a legal point that he was wrong 
+
+18 about, then Double Jeopardy Clause doesn't work. But if 
+
+19 the judge was right, it does work. Well, except for the 
+
+matter of substantive evidence. Now, that way, as your 
+
+21 opponent, lies a mess. 
+
+22  I just went through that long thing because 
+
+23 I don't want you to get -- sit down without addressing 
+
+24 what I see as a central problem, namely, if we don't 
+
+accept his view, it's going to be a terrible mess. 
+
+35
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. BAUGHMAN: Well, let me say two things. 
+
+2 One is we don't -- we don't have the circumstance that 
+
+3 existed at the common law that the Jeopardy Clause was 
+
+4 designed to protect against of the executive simply 
+
+saying, after an acquittal by the factfinder, let's try 
+
+6 him again, let's try him again, let's try him again. 
+
+7  Something has to happen in-between there, 
+
+8 and that is that a court has to determine -- neutral and 
+
+9 detached arbiters have to determine that what happened 
+
+when the judge granted the directed verdict of 
+
+11 acquittal, as it's known in Michigan, was not that at 
+
+12 all. 
+
+13  The judge actually did something different. 
+
+14 And if the court doesn't interpose on the prosecution's 
+
+request, there will be no retrial. So it's not the 
+
+16 harassment and abusive practice of simply starting a new 
+
+17 prosecution, we're trying to get what happened in 
+
+18 that --
+
+19  JUSTICE BREYER: Now, you're beginning to 
+
+make distinctions. 
+
+21  MR. BAUGHMAN: Yes. 
+
+22  JUSTICE BREYER: And once you make those 
+
+23 distinctions, I go back to the question I asked, which 
+
+24 was there is a distinction. The distinction is whether 
+
+it's a procedural ground or -- and Justice Harlan's --
+
+36
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 it's whether there was -- "Just talk to the U.S. 
+
+2 attorney, I didn't like it," or "Talk to the witness," 
+
+3 or "The prosecution brought too late." 
+
+4  The other side of it, where the clause 
+
+attaches, is where it was done on a substantive basis, 
+
+6 not enough evidence. I said -- I don't want to repeat 
+
+7 myself, but I'm saying what he's coming up with is a 
+
+8 simple, clear rule, basically consistent with the cases, 
+
+9 and why shouldn't we follow it?
+
+ MR. BAUGHMAN: Well, I think -- I think 
+
+11 consistent with the cases, and also clear, is to apply 
+
+12 Martin Linen Supply by the very terms that it uses; that 
+
+13 is, the resolution that we're talking about the judge 
+
+14 making is moored to something. It's moored to the 
+
+elements of the crime. We're talking about somebody 
+
+16 being twice tried for the same offense. How do we 
+
+17 define offense in the law? 
+
+18  In other Double Jeopardy cases, this Court 
+
+19 has taken an elements approach. Two -- two offenses 
+
+are -- are different if one requires proof of an 
+
+21 element, the other does not. We look to the elements. 
+
+22 And to direct a jury trial, this Court has been very 
+
+23 active very recently in determining how is it that we 
+
+24 determine when somebody has a right to a jury trial on 
+
+some fact before punishment can be imposed? We look to 
+
+37
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 what are the elements that have to be proven beyond a 
+
+2 reasonable doubt. 
+
+3  If a fact is necessary to -- to -- in order 
+
+4 for punishment to be imposed, if that has to be proven, 
+
+then it is a matter for jury trial and it has to be 
+
+6 proven beyond a reasonable doubt. So when this Court 
+
+7 said one or more of the factual elements of the offense 
+
+8 in Martin Linen Supply, I took it to mean -- and I have 
+
+9 always taken it to mean -- one or more of the factual 
+
+elements. And we can identify what those are. We have 
+
+11 to identify them in every case. 
+
+12  This is not a -- a strange process you have 
+
+13 to instruct on them, determine what they are and use 
+
+14 those --
+
+JUSTICE ALITO: If the judge -- if the judge 
+
+16 simply misinterprets one of the elements, but doesn't 
+
+17 add a new element, you say that there would be Double 
+
+18 Jeopardy there, right? 
+
+19  MR. BAUGHMAN: Yes.
+
+ JUSTICE ALITO: Isn't that going to be a 
+
+21 very difficult line to draw? 
+
+22  MR. BAUGHMAN: It can be a very difficult 
+
+23 line to draw, but all tests can sometimes involve 
+
+24 difficult lines to draw. We used to have a no evidence 
+
+test for whether evidence was sufficient and we -- that 
+
+38
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 was changed in Jackson v. Virginia, to whether a 
+
+2 reasonable juror could find guilt beyond a reasonable 
+
+3 doubt. 
+
+4  And you will find a great many dissents in 
+
+cases between appellate judges on whether or not this 
+
+6 case itself involved sufficient proof for a jury to find 
+
+7 guilt beyond a reasonable doubt. The test is not always 
+
+8 easily -- easily applicable. And neither was the no 
+
+9 evidence test. So there might be some --
+
+JUSTICE ALITO: Let me give you an example. 
+
+11 Suppose the -- a statute makes it a crime to burn down a 
+
+12 dwelling, and the judge interprets dwelling to mean a 
+
+13 building that is currently lived in and, therefore, not 
+
+14 including a vacation home. And let's assume that's an 
+
+incorrect interpretation. 
+
+16  Now, is that an incorrect interpretation? 
+
+17 Or is that the addition of a new element to the statute, 
+
+18 namely, that it is a building in which people -- that's 
+
+19 one element, and the other is people are currently 
+
+living there? 
+
+21  MR. BAUGHMAN: I -- I would define -- I 
+
+22 would draw the line at any time the court requires the 
+
+23 prosecution to prove a fact that, under the law passed 
+
+24 by the legislature, the prosecution never has to prove 
+
+in order to make out the case. 
+
+39
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  JUSTICE SCALIA: Well, that's every 
+
+2 misinterpretation. I mean, I don't know why this case 
+
+3 doesn't involve simply a misinterpretation of what the 
+
+4 elements of the crime are. I mean, any 
+
+misinterpretation, you can -- which goes beyond the 
+
+6 minimum that the -- that the statute requires, can be 
+
+7 recharacterized as adding an additional element. 
+
+8  MR. BAUGHMAN: Well, it does involve a -- a 
+
+9 mischaracterization of what the elements were, but not 
+
+of an element. The judge didn't here say, you can't 
+
+11 prove that this is a building, unless it was a dwelling, 
+
+12 you can't prove it was real property unless it was a 
+
+13 dwelling. 
+
+14  The judge said, you have -- you can prove 
+
+those things, and it's not enough, you also have to 
+
+16 prove that it was a non-dwelling in this case. 
+
+17  JUSTICE KAGAN: But in several of our cases, 
+
+18 what the court has done wrong is to make the prosecution 
+
+19 prove additional facts in order to prove an element. So 
+
+the distinction that you're drawing is one between 
+
+21 incorrectly making the prosecution prove additional 
+
+22 facts and incorrectly saying that the prosecution has to 
+
+23 show an additional element. And I guess I just don't 
+
+24 understand that distinction.
+
+ MR. BAUGHMAN: Well, I would suggest that 
+
+40
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 this is an opportunity for this Court to draw the line 
+
+2 at does -- does the judge require -- has the judge 
+
+3 required the prosecution to prove something the statute 
+
+4 doesn't require to be proven, it's not one of the 
+
+factual elements of the offense. 
+
+6  Or has the judge -- the error the judge can 
+
+7 make under Martin Linen Supply -- has the judge simply 
+
+8 misassessed the evidence? The judge has looked at it 
+
+9 and said -- you know, I -- I understand all your proofs, 
+
+I'm looking at them, and they're just not enough for a 
+
+11 reasonable juror to find guilt --
+
+12  JUSTICE KAGAN: Well, if I understand your 
+
+13 test correctly, under your test, Rumsey, Smalis, and 
+
+14 Smith would all have come out differently.
+
+ MR. BAUGHMAN: No, I don't think so. Rumsey 
+
+16 is -- is a difficult case, but Rumsey is a verdict case. 
+
+17 Rumsey is not a directed verdict case. The judge in 
+
+18 Rumsey was the factfinder. Rumsey is your bench trial. 
+
+19 It's -- it's -- it's complicated because it was a 
+
+sentencing case -- a death penalty sentencing case that 
+
+21 this Court treats the hearing the same as the trial for 
+
+22 Double Jeopardy purposes. 
+
+23  But the judge was the factfinder, and it was 
+
+24 more like a misinstructed jury. The judge himself --
+
+JUSTICE SCALIA: So you're saying that 
+
+41
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 your -- your approach doesn't solve the bench trial 
+
+2 problem any more than your friend's approach, right? 
+
+3  MR. BAUGHMAN: A verdict is a verdict, I 
+
+4 agree with Mr. Moran. When the judge on the merits 
+
+returns a verdict, what the judge does or the jury does 
+
+6 in returning a verdict on the merits is very different 
+
+7 when what the judge does on a judgment of acquittal. 
+
+8  The jury weighs credibility and assesses the 
+
+9 weight of evidence, and the judge is prohibited from 
+
+doing those things -- is supposed to be by the law, in 
+
+11 making his decision. His is the ruling of law as 
+
+12 gatekeeper, that -- that we won't even reach this 
+
+13 decision. 
+
+14  The jury is expressing its opinion based on 
+
+the evidence. And although it can be proven that 
+
+16 they've reached a result contrary to reality, they can't 
+
+17 be right or wrong. Legally, their opinion is their 
+
+18 opinion of those 12 collective people after doing 
+
+19 something the judge isn't allowed to do.
+
+ So the directed verdict isn't, I don't 
+
+21 think, a perfect analog to the jury trial. But the 
+
+22 bench trial issue gets very complicated because it is 
+
+23 possible to do something with a bench trial that we 
+
+24 don't do with jury trials, and that is have specific 
+
+factfinding as to the elements. Many jurisdictions do. 
+
+42
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  There is, in fact, a case -- the Lynch case 
+
+2 that Mr. Moran cited, where, on rehearing en banc, the 
+
+3 court split evenly as to whether or not the judge's 
+
+4 verdict, where the judge had actually specifically found 
+
+all of the elements -- the crime is elements A, B, and 
+
+6 C, I find them; I don't find element B, so I acquit --
+
+7 the court split five to five on rehearing en banc and 
+
+8 whether or not that judge had really announced two 
+
+9 verdicts and it could be reformed -- be reformed to a 
+
+conviction. 
+
+11  And Justice Sotomayor was one of the members 
+
+12 of the five who would have addressed the question of, is 
+
+13 that not different? The form of the language doesn't 
+
+14 control. Has not the judge actually entered a guilty 
+
+verdict in that circumstance? 
+
+16  That's a very -- you know, kind of 
+
+17 off-the-beaten-track kind of a situation. In a jury 
+
+18 trial, where a judge simply takes the case from the jury 
+
+19 on the motion of the defendant and resolves the fact 
+
+that the legislature has not said that one needs to be 
+
+21 proven, that is not one of the constituent parts of the 
+
+22 crime, that is not something that need be proven to 
+
+23 impose punishment under the law, then he's done 
+
+24 something very different than what the jury has done.
+
+ And to reverse that and allow the 
+
+43
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 prosecution to have one full and fair opportunity, we
+ 
+
+2 believe imposes no cruelty or oppression upon the
+ 
+
+3 defendant.
+ 
+
+4  Thank you very much.
+
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+6  Mr. Gannon. 
+
+7  ORAL ARGUMENT OF CURTIS F. GANNON, 
+
+8  FOR UNITED STATES, AS AMICUS CURIAE, 
+
+9  SUPPORTING THE RESPONDENT
+
+ MR. GANNON: Mr. Chief Justice, and may it 
+
+11 please the Court: 
+
+12  We believe the Court can resolve this case 
+
+13 by distinguishing between the misconstruction of an 
+
+14 element and the erroneous addition of an element to the 
+
+case. But if the Court's unwilling to draw that 
+
+16 particular distinction, it could also resolve the case 
+
+17 by allowing the government to appeal in both of those 
+
+18 instances. This goes to the question that Justice Kagan 
+
+19 was asking near the end of my friend's argument.
+
+ We don't think that that would require 
+
+21 overruling any of the Court's cases. We think it would 
+
+22 require narrowing Smalis and Rumsey to their facts, 
+
+23 and -- and -- but Smith would not be a problem in that 
+
+24 context.
+
+ Rumsey is distinct for the reason that my 
+
+44
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 friend suggested. It was actually a case involving 
+
+2 factfindings by the judge. The Court characterized it 
+
+3 as a special verdict made by the sole decisionmaker 
+
+4 there. It was not an instance like this, where the 
+
+judge had taken the case away, as a matter of law, from 
+
+6 the jury because there wouldn't be any sufficient 
+
+7 evidence. It has been cited later on in this cases, in 
+
+8 particular, in Smalis, as being about something like a 
+
+9 sufficiency decision, but on its facts, that's not what 
+
+it was. 
+
+11  Smith is about a completely separate 
+
+12 question because there is no dispute there about the 
+
+13 appropriate construction of the element. The firearms 
+
+14 offense there, the element in question was whether the 
+
+barrel length was less than 13 inches. There was a 
+
+16 question about whether certain evidence that the firearm 
+
+17 in question was a pistol was sufficient to satisfy that 
+
+18 burden, but there was no doubt about what the -- what 
+
+19 the element was. It was 13 inches or less. And so it 
+
+wasn't about misconstruing the element. 
+
+21  Smalis is probably the hardest case in this 
+
+22 context, but if you look at what actually happened in 
+
+23 Smalis and what was at issue in the demurrer there, the 
+
+24 decision that the Court was reviewing was one that was 
+
+principally about whether there was sufficient evidence 
+
+45
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 of causation, which was an undisputed element of each of 
+
+2 the counts at issue there, and only in footnote 7 of the 
+
+3 Court's opinion did it address potential misconstruction 
+
+4 of the element.
+
+ And it was a different element. This was 
+
+6 what my -- my friend Mr. Moran mentioned --
+
+7  JUSTICE BREYER: Let's go through this. My 
+
+8 basic question: Normally, a judge will wait till the 
+
+9 jury comes in and then decide, if the jury convicts him, 
+
+whether to set it aside. So there's no problem. So 
+
+11 now, we have the judge -- for some reason or other, this 
+
+12 judge has decided to grant the motion of acquittal in 
+
+13 the middle of the case. 
+
+14  Now, this is unusual, I think -- I hope. 
+
+And if so, though, the judge might not think of writing 
+
+16 down his reasons. So he might just say there isn't 
+
+17 enough evidence. And now, it happens that, just before 
+
+18 he did that, the defense lawyer argued to him an 
+
+19 erroneous theory. All right. An added element or 
+
+something or other, some kind of misconstruction of 
+
+21 this. What happens then? 
+
+22  MR. GANNON: Well, I think that we -- we 
+
+23 normally expect judges to give reasons for their 
+
+24 decisions.
+
+ JUSTICE BREYER: Yes. But this a judge, 
+
+46
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 after all, who for some reason -- we don't know what --
+
+2 decided, instead of waiting, as they normally would do, 
+
+3 grant it in the middle of the case. 
+
+4  MR. GANNON: Well, in the -- in the State of 
+
+Michigan, the rule does not permit the judge to reserve 
+
+6 the ruling on this motion. 
+
+7  JUSTICE BREYER: Oh, I see. So there are a 
+
+8 lot more places --
+
+9  MS. GANNON: So -- and actually, in the vast 
+
+majority of states --
+
+11  JUSTICE BREYER: They do. They --
+
+12  MR. GANNON: -- that's the rule. The 
+
+13 Federal rule was only changed in 1994, to allow this 
+
+14 type of --
+
+JUSTICE BREYER: And then this is a --
+
+16  MS. GANNON: -- decision to be reserved 
+
+17 after trial. 
+
+18  JUSTICE BREYER: This has arisen a lot more 
+
+19 than -- than I think.
+
+ All right. Fine. Thank you. 
+
+21  MS. GANNON: And in fact, in the Federal 
+
+22 context --
+
+23  JUSTICE BREYER: And in that case, do they 
+
+24 have to write it down?
+
+ MR. GANNON: Well, I -- I think that the 
+
+47
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 rule in Michigan, and in the Federal Rule 29, does 
+
+2 require the judge to make a determination of -- to 
+
+3 satisfy that -- that there's an acquittal, which would 
+
+4 mean that there is no -- no sufficient evidence to -- to 
+
+support a guilty --
+
+6  JUSTICE SOTOMAYOR: But many states have a 
+
+7 different rule. 
+
+8  MR. GANNON: Many -- many states --
+
+9  JUSTICE SOTOMAYOR: And many states permit 
+
+the judge to reserve it till after the jury verdict. 
+
+11  MR. GANNON: My -- my understanding is that 
+
+12 most states do not permit that. The Federal government 
+
+13 only started permitting that in 1994, and even the last 
+
+14 time the Justice Department studied this, about ten 
+
+years ago, it concluded that, notwithstanding the 1994 
+
+16 rule amendment in the Federal rules, which came with 
+
+17 advisory committee notes, strongly encouraging judges to 
+
+18 reserve these sorts of decisions precisely to preserve 
+
+19 the public's interest. So notwithstanding --
+
+JUSTICE BREYER: So then, in other words, 
+
+21 when an acquittal --
+
+22  JUSTICE SCALIA: Finish the sentence. 
+
+23 Notwithstanding that, what? 
+
+24  MR. GANNON: Notwithstanding that, in 
+
+approximately 70 percent of the cases in which there are 
+
+48
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 Rule 29 verdicts, they are done mid-trial, even in the 
+
+2 Federal system, at least in the early 2000s, is the only 
+
+3 data collection that I'm aware of. 
+
+4  And so this -- this still is a problem. I 
+
+think that if -- if it looks like the decision is based 
+
+6 on classic insufficiency of the evidence and there is no 
+
+7 argument about whether it was -- it's based on a 
+
+8 misconstruction or an erroneous addition of the 
+
+9 elements, then we -- we would have to be -- we would 
+
+lose, unless the Court's willing to overturn the broader 
+
+11 line of cases in Martin Linens, Sanabria, Scott, and the 
+
+12 other cases that were --
+
+13  JUSTICE BREYER: Can you add to that -- your 
+
+14 -- just your idea of what the empirical situation is in 
+
+the last 30 or 40 years? Have most U.S. prosecutors or 
+
+16 prosecutors in these states thought that they could 
+
+17 appeal an acquittal on the -- in the middle of the trial 
+
+18 on the ground that the judge made a mistake of law? 
+
+19  MR. GANNON: I don't think that they -- they 
+
+have mostly thought that, but the Federal government 
+
+21 certainly has maintained that that -- that that is 
+
+22 appropriate. In -- we think that in the Maker decision 
+
+23 in the Third Circuit in 1984 recognized this. 
+
+24  We do think that there is -- my -- my friend 
+
+Mr. Moran asks the Court to conclude that any decision 
+
+49
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 like this, that is predicated upon a supposed erroneous 
+
+2 addition of an element, could easily be recharacterized 
+
+3 as a misconstruction of another element. 
+
+4  And I think that -- that while, at some 
+
+formal level, that -- that that might be theoretically 
+
+6 true, in an egregious case like this, there is a 
+
+7 distinction, which is that if -- if this were an element 
+
+8 of the offense that needed to be charged in the 
+
+9 indictment -- at least in the Federal system, then the 
+
+failure to have alleged that the structure here was a 
+
+11 non-dwelling would have made the indictment invalid. 
+
+12  And the Defendant would have been able to 
+
+13 make exactly the same legal argument he made to the 
+
+14 judge here, which is to say that the prosecution has 
+
+failed to prove -- has failed even to allege one of the 
+
+16 necessary elements of the offense, which is that this 
+
+17 structure is not a dwelling. We know that that 
+
+18 particular --
+
+19  JUSTICE GINSBURG: Mr. Gannon, if we -- if 
+
+we adopt your rule, it -- it can't be for this case 
+
+21 only. And I -- I think this characterization, 
+
+22 nonexistent element -- or a court's misconstruction of 
+
+23 an element, I think, in many cases, you could do -- call 
+
+24 it one or call it the other, so that -- that's a 
+
+difficult line to -- to adopt. 
+
+50
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1  MR. GANNON: Well, I don't think it's 
+
+2 difficult, in the sense that most -- most of the cases 
+
+3 that we are talking about don't involve this type of 
+
+4 error. The cases that this Court has decided, Rumsey, 
+
+Smalis, and Smith, even the Petitioner doesn't 
+
+6 characterize this case as involving additional elements. 
+
+7  And this Court has recognized, in Lee, that 
+
+8 when the error is one that kept the indictment from 
+
+9 being valid because it failed to charge a relevant 
+
+element and the judge did not rule on that until after 
+
+11 jeopardy attached, the government was still entitled to 
+
+12 appeal that decision, and if it were erroneous -- the 
+
+13 government's only going to get a chance at retrial if 
+
+14 the judge's decision was legally erroneous, then, 
+
+therefore, it demonstrates that there was no so-called 
+
+16 acquittal on the -- on the offense charged --
+
+17  JUSTICE SOTOMAYOR: Counsel, you gave us 
+
+18 earlier the statistics of how many judges grant Rule 29 
+
+19 motions in trial. I think you said 76 percent. What's 
+
+the gross number, relative to the number of actual 
+
+21 verdict decisions by juries or the judge himself? 
+
+22  MR. GANNON: The only data that I have seen 
+
+23 about this is data that the Justice Department collected 
+
+24 about ten years ago. It was from the early 2000s. 
+
+And -- and the conclusion there was that there were 
+
+51
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 approximately 73 pretrial Rule 29 dismissals per year --
+
+2  JUSTICE SOTOMAYOR: Out of what number? 
+
+3  MS. GANNON: -- which actually is a larger 
+
+4 number than you -- than you might at first think, 
+
+because that represents about ten percent of the number 
+
+6 of cases that were actually resolved by jury verdicts. 
+
+7 And so it -- it is not uncommon. 
+
+8  I mean, this particular type of error that 
+
+9 we have in this case, we think, is the most egregious 
+
+kind, the non-existent element error, which -- which the 
+
+11 government had also pointed out in its amicus brief in 
+
+12 Smalis, we think is the most egregious kind of error. 
+
+13 It's one that demonstrates that the court is engaging 
+
+14 in -- it's usurping the province of the legislature in 
+
+redefining the scope of the offense. 
+
+16  And we think, under the terms of the Double 
+
+17 Jeopardy Clause itself, which talks about whether 
+
+18 there's been -- somebody's been subject to being twice 
+
+19 in jeopardy for the same offense -- then it -- it 
+
+matters what the offense was. 
+
+21  And when the judge has redefined the -- the 
+
+22 crime so extensively that the indictment literally would 
+
+23 have been invalid and could have been dismissed as not 
+
+24 adequately alleging the elements of the offense, and we 
+
+know that that is something that the government would 
+
+52
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 have been able to appeal. 
+
+2  We also know that the government would be 
+
+3 able to appeal if the judge had reserved decision until 
+
+4 after the jury had returned a jury -- a guilty verdict.
+
+ We acknowledge, as the state does, that jury 
+
+6 verdicts are different. If a jury is misinstructed and 
+
+7 a jury returns an acquittal, that we are not quarrelling 
+
+8 with that in any way. We don't think there's any 
+
+9 purchase in the Court's case law to do that. And I 
+
+think one of the reasons is because the jury verdict 
+
+11 might be attributable, not just to mistake or error, but 
+
+12 also to lenity or compromise. 
+
+13  There -- there are lots of reasons why we 
+
+14 don't exactly know why a jury did what it did, and why 
+
+juries generally enter general verdicts. And that makes 
+
+16 it different from what we have here. We have here an 
+
+17 instance where the court, as a matter of law, at the 
+
+18 defendant's behest, took the case away from the jury. 
+
+19 We think the fact that the defendants chose --
+
+JUSTICE SCALIA: Is that important, "at 
+
+21 defendant's behest"? 
+
+22  MR. GANNON: We do think that that's 
+
+23 important by analogy to the Court's mistrial cases in 
+
+24 the Double Jeopardy Clause context.
+
+ JUSTICE SCALIA: So you -- you're arguing 
+
+53
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 that this should only -- only be -- this rule should 
+
+2 only be applied when the defendant asks for it? 
+
+3  MR. GANNON: Or if the defendant consents to 
+
+4 it, as is the case in the mistrial cases in the Double 
+
+Jeopardy context. 
+
+6  CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+7  Mr. Moran, you have five minutes. 
+
+8  REBUTTAL ARGUMENT OF DAVID A. MORAN 
+
+9  ON BEHALF OF THE PETITIONER
+
+ MR. MORAN: Thank you, Mr. Chief Justice. 
+
+11  Responding to Mr. Gannon's argument first, I 
+
+12 do characterize Rumsey as an additional element case. 
+
+13 And I also characterize it as a misconstrued element 
+
+14 case. It's a perfect example of how these cases can be 
+
+construed either way. 
+
+16  The judge required a contract. You can call 
+
+17 that an additional element to the aggravating 
+
+18 circumstance, or you can call it as a misconstruction of 
+
+19 what pecuniary gain means in the first place.
+
+ The same here, the error here can be 
+
+21 construed as a misconstruction of the element that the 
+
+22 property burned has to be a building, and the judge 
+
+23 says, looking at the statute, I construe that to mean a 
+
+24 particular type of building. Or it can be, as the 
+
+prosecution construed it, as the addition of an element. 
+
+54
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 There is no difference between the two 
+
+2 characterizations. 
+
+3  Turning to the -- the broader question about 
+
+4 this whole line of cases and should this Court go back 
+
+and revisit this whole line of cases, is there really a 
+
+6 problem here? We have no amicus briefs from any states 
+
+7 indicating that there's a problem. We have only the 
+
+8 amicus from the United States saying that there's a 
+
+9 problem.
+
+ Is there a problem here that justifies going 
+
+11 back and revisiting 50 years -- or possibly 108 years, 
+
+12 all the way back to Kepner -- all of this case law? We 
+
+13 submit not, especially since, as this Court noted just 
+
+14 six years ago in Smith, there is an easy solution if 
+
+there really is a problem. 
+
+16  If there really is a problem with judges 
+
+17 going wild and granting directed verdicts mid-trial for 
+
+18 no apparent reason, all that has to be done is the 
+
+19 states can fall into that, as we can say, judges can't 
+
+do that, or judges as an intermediate -- states as an 
+
+21 intermediate step could at least give judges the power 
+
+22 to reserve that decision --
+
+23  JUSTICE KENNEDY: Have any states done that? 
+
+24 I -- I'm somewhat concerned about telling a judge that, 
+
+if the judge's best judgment says there's insufficient 
+
+55
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 evidence, that then it has to proceed with a trial.
+ 
+
+2  MR. MORAN: I would be, too,
+ 
+
+3 Justice Kennedy. I think it would be a mistake.
+ 
+
+4  I'm not aware of any state, since this
+ 
+
+decision -- since this Court's decision in Smith -- that 
+
+6 have followed Nevada's lead. There are good reasons to 
+
+7 give judges this acquittal power, namely, preserve the 
+
+8 state's resources, preserve the jury's time, and 
+
+9 present -- and prevent the defendant from having to go 
+
+through a trial that is going nowhere. 
+
+11  And so there are good reasons why states 
+
+12 don't do this. States have apparently made the 
+
+13 decision, even after being alerted in Smith, that 
+
+14 there's something they can do about it, that the good of 
+
+giving judges this mid-trial directed verdict acquittal 
+
+16 power outweighs the bad. 
+
+17  Finally, I'd just like to respond to 
+
+18 Mr. Baughman's point, and it was also raised by 
+
+19 Mr. Gannon, about how jury verdicts are different. 
+
+There's something special about jury verdicts because we 
+
+21 don't always know why they granted the verdict. 
+
+22  But we have the same problem with judicial 
+
+23 directed verdicts. And we have Martin Linen, where the 
+
+24 judge just says, this is the weakest case I -- I have 
+
+ever seen. We have Smalis, where he just says, it's 
+
+56
+ 
+Alderson Reporting Company 
+
+
+
+5
+10
+
+15
+
+20
+
+25
+
+Official 
+
+1 legally insufficient. 
+
+2  If the Court adopts the line that the 
+
+3 prosecution and -- and the Solicitor General would have 
+
+4 you adopt, you're going to have to require judges to 
+
+give very specific findings as to what the elements of 
+
+6 the offense are and which ones that they -- they don't 
+
+7 find. And that, itself, would require a radical 
+
+8 reworking of this Court's jurisprudence. 
+
+9  If there are no further questions?
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+11  MR. MORAN: Thank you, Mr. Chief Justice. 
+
+12  CHIEF JUSTICE ROBERTS: The case is 
+
+13 submitted. 
+
+14  (Whereupon, at 12:00 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+16 
+
+17 
+
+18 
+
+19 
+
+21 
+
+22 
+
+23 
+
+24 
+
+57
+ 
+Alderson Reporting Company 
+
+
+
+58 
+OfficialOfficial 
+
+adding 40:7 allege 23:20 apple 18:23 Assistant 1:19A 
+addition 39:17 50:15 applicable 20:8 assume 39:14abhorrent 28:24 
+
+44:14 49:8 alleged 23:12 39:8 assuming 14:12able 13:25 50:12 
+50:2 54:25 27:16 50:10 applied 54:2 18:2353:1,3 
+
+additional 31:4 allegedly 25:12 applies 26:1 attached 8:6abolish 9:9 
+40:7,19,21,23 alleging 27:9 apply 21:17 17:15 51:11above-entitled 
+51:6 54:12,17 52:24 25:17 37:11 attaches 7:21,241:11 57:15 
+
+address 46:3 allow 43:25 applying 4:10 37:5abuses 28:16 
+addressed 43:12 47:13 approach 37:19 attaching 29:18abusive 36:16 
+addressing allowed 42:19 42:1,2 attempt 12:18accept 5:7 21:20 
+
+35:23 allowing 8:19,19 appropriate 13:121:22 35:25 
+adequate 28:9 44:17 28:10,11 45:13 attempted 7:4achieved 29:14 
+
+33:6 allows 15:14 49:22 attorney 17:11acknowledge 
+adequately amendment approximate 25:9,20 37:253:5 
+
+52:24 48:16 33:24 attributableacquit 8:16 43:6 
+adheres 5:3 amicus 1:21 approximately 53:11acquits 8:17 
+administer 2:10 44:8 48:25 52:1 AUSA 17:24acquittal 3:13 
+
+12:24 13:1 52:11 55:6,8 arbiter 10:5 aware 10:12,133:17 4:22 5:6 
+adopt 50:20,25 analog 33:23 arbiters 36:9 49:3 56:47:12,13 11:17 
+
+57:4 42:21 Arbor 1:15 a.m 1:13 3:212:2 13:14,16 
+adopted 18:20 analogy 53:23 argue 16:1913:24 14:6,17 B32:10,12 angels 13:8 21:114:19,22 15:9 B 43:5,6adopts 57:2 Ann 1:15 argued 46:1816:2 17:13 back 7:15 13:12advance 23:15 announced 43:8 arguing 5:23 6:121:21,21 22:12 
+
+13:18 14:1adversaries answer 13:13,13 53:2522:12 28:13 
+17:2 20:13,1919:15 14:7 15:7 35:1 argument 1:1229:24 32:19 
+29:14 30:24adversary 6:8 35:2 2:2,5,8,12 3:333:10,24 34:3 
+32:6,8,11 34:7advisory 48:17 anxiety 20:23 3:6 9:5,1335:8 36:5,11 
+36:23 55:4,11advocating apparent 55:18 11:24 14:2,1342:7 46:12 
+55:1235:14 apparently 18:7 21:9,14,1948:3,21 49:17 bad 13:4 30:5affirmative 25:13,18 56:12 22:25 24:2151:16 53:7 
+35:2 56:1614:20,23 15:5 appeal 11:9 26:11 27:356:7,15 balance 26:25aggravating 15:20 16:10 44:7,19 49:7acquittals 6:11 banc 43:2,754:17 44:17 49:17 50:13 54:8,116:13,14 9:8 bar 28:13,24aggrieved 6:20 51:12 53:1,3 arguments16:24 35:4 
+33:17ago 27:22 48:15 appealed 11:2 16:23 22:16acquitted 19:9 barred 28:2551:24 55:14 appeals 6:20 arisen 47:1822:6 34:8,19 barrel 45:15agree 34:17 42:4 7:10 15:10,15 arises 20:2334:22,23 based 13:14agreement 26:3 27:18 arson 26:9acquitting 12:5 
+42:14 49:5,730:10 APPEARAN... aside 7:20,23action 14:3 basic 46:8agrees 30:4 1:14 9:21 46:1030:10 basically 37:8aimed 28:15 appearing 19:15 asked 29:8 31:2active 37:23 basis 37:5alerted 56:13 appellate 7:4 36:23actors 21:22,23 Baughman 1:17ALITO 11:15 8:19 13:25 asking 32:6actual 51:20 
+2:6 27:2,3,511:22 12:7,13 14:22 16:11 44:19add 38:17 49:13 
+29:19,23 30:913:11 14:1,12 27:17 28:8 asks 49:25 54:2added 16:13 
+30:16,23 31:138:15,20 39:10 39:5 assesses 42:846:19 
+
+Alderson Reporting CompanyAlderson Reporting Company 
+
+
+
+59 
+Official 
+
+31:9,17,21 23:2 25:3 26:6 52:9 53:9,18 Chief 3:3,8 coming 8:18 
+32:7 33:11 27:24 39:13,18 54:4,12,14 18:25 19:7,12 37:7 
+34:5 36:1,21 40:11 54:22,24 55:12 56:24 19:21 20:6,14 commentary 
+37:10 38:19,22 buildings 26:8 57:12,14 27:1,5 44:5,10 23:5 
+39:21 40:8,25 built 22:21 cases 12:19 16:4 54:6,10 57:10 commentators 
+41:15 42:3 burden 16:20 16:7 19:22,23 57:11,12 32:14 
+
+Baughman's 45:18 21:10,15,15 choice 25:17 committee 
+56:18 Burks 14:20,20 28:23 32:5 chooses 5:5 48:17 
+
+beginning 36:19 burn 39:11 35:13,15 37:8 chose 53:19 common 32:18 
+behalf 1:15,17 burned 23:2 37:11,18 39:5 circuit 12:25 36:3 
+
+2:4,7,14 3:7 27:25 54:22 40:17 44:21 13:1 49:23 complementary 
+27:4 54:9 burning 23:23 45:7 48:25 circumstance 25:22 
+
+behest 53:18,21 24:1,3,19,20 49:11,12 50:23 29:2 36:2 completely 
+believe 8:17 24:23 25:7 51:2,4 52:6 43:15 54:18 12:23 13:3 
+
+44:2,12 26:4,15 53:23 54:4,14 circumstances 45:11 
+believes 29:3 burns 25:2 55:4,5 33:18,20 complicated 
+bench 7:1 8:12 burnt 25:10,10 causation 46:1 citation 23:11 41:19 42:22 
+
+8:13,15 9:2,10 business 19:12 central 35:24 cited 24:5 43:2 compromise 
+11:4,5,8 26:22 certain 28:16 45:7 53:12 
+
+C41:18 42:1,22 31:21 45:16 citizen 20:10 concede 31:18 
+C 2:1 3:1 43:6 42:23 certainly 33:3 claimed 13:7 conceded 27:17 
+call 50:23,24best 21:18 55:25 49:21 claims 23:17 28:7 
+
+54:16,18better 27:14,15 chance 51:13 clarified 12:17 concerned 55:24 
+called 12:228:20,20 change 35:14 classic 49:6 conclude 49:25 
+capable 13:20beyond 26:22 changed 39:1 clause 8:18 9:16 concluded 14:22 
+
+21:22,24,2527:12 32:20 47:13 19:1 20:8,21 48:15 
+22:138:1,6 39:2,7 chapter 25:5,6 21:17 28:15,21 conclusion 
+
+case 3:4,21 4:8 40:5 characterizati... 32:9,13 33:22 51:25 
+4:11,17 6:4 bird 30:21,23 50:21 35:5,18 36:3 concurring
+7:18,22 10:24 bit 16:4 23:9 characterizati... 37:4 52:17 18:15,19
+12:1,25 13:3,5 bite 18:22 30:24 55:2 53:24 conduct 19:2 
+14:8 16:3,12bought 22:17 characterize clear 9:23 18:17 28:22 
+16:17 17:5,10Breyer 17:1,21 51:6 54:12,13 23:1 35:13 confused 23:23 
+18:12,14,2118:4,9,13 characterized 37:8,11 consent 28:18 
+20:8 22:16,1934:16 36:19,22 12:5 45:2 clearly 12:16 28:23 29:7 
+23:16 26:346:7,25 47:7 characterizes clever 8:19 consented 29:4 
+27:18 28:2047:11,15,18,23 15:8 16:1 client 21:1,5,6 consents 54:3 
+29:8,21 31:12 48:20 49:13 charge 5:24 51:9 closely 33:24 consequences
+31:16 38:11brief 8:23 24:14 charged 5:20 coin 29:11 5:7 
+39:6,25 40:2 52:11 23:23,25 24:16 collected 51:23 consider 4:4 
+40:16 41:16,16briefs 8:23 55:6 24:19,20,23,25 collection 49:3 consistent 11:10 
+41:17,20,20broader 49:10 25:14,16 26:5 collective 42:18 35:13,15 37:8 
+43:1,1,1855:3 26:7,8,15 come 5:13 13:12 37:11 
+44:12,15,16brought 17:6 27:10 50:8 14:1,20 20:13 consists 6:9 
+45:1,5,2120:10 37:3 51:16 20:19 30:24 constituent 
+46:13 47:3,23build 28:20 charging 28:10 41:14 43:21 
+50:6,20 51:6 building 5:21 Charlie 17:23 comes 46:9 constitute 28:13 
+
+Alderson Reporting Company 
+
+
+
+60 
+Official 
+
+33:6,10 3:18,25 4:20 currently 39:13 20:22 21:17 determining 
+Constitution 6:5,11,20 7:4,5 39:19 22:21 53:19 32:11 37:23 
+
+32:10 7:10 8:20 9:10 CURTIS 1:19 defendant's Detroit 1:17 
+construction 9:25 10:7 2:9 44:7 4:12 5:16 devious 13:22 
+
+45:13 12:23 13:25 cut 31:22 15:17,20 18:23 difference 28:1 
+construe 54:23 14:22 15:10,14 20:15 29:4 55:1 
+
+Dconstrued 54:15 16:11 17:14,16 30:1,12 34:19 different 30:19 
+D 3:154:21,25 18:15 19:8,18 53:18,21 34:8 36:13 
+dance 13:8construing 15:1 19:22 20:10 defense 6:15 37:20 42:6 
+data 49:3 51:22 contained 27:10 22:11 24:18 14:5,21,24 43:13,24 46:5 
+
+51:23contents 25:3 26:3 27:6,18 25:9,20 46:18 48:7 53:6,16
+date 23:12contested 26:4 30:2 32:16 defenses 15:5 56:19 
+DAVID 1:15 2:3 context 32:5 33:8 36:8,14 define 37:17 differently
+
+2:13 3:6 54:8 44:24 45:22 37:18,22 38:6 39:21 41:14 
+de 10:347:22 53:24 39:22 40:18 definition 23:5 difficult 38:21 
+death 41:2054:5 41:1,21 43:3,7 delay 3:24 12:10 38:22,24 41:16 
+decades 27:21continued 21:8 44:11,12 45:2 12:11 50:25 51:2 
+decide 7:17continuing 45:24 49:25 demonstrates direct 37:22 
+
+29:20 46:920:22 21:2 51:4,7 52:13 16:5 51:15 directed 10:14 
+decided 22:11contract 54:16 53:17 55:4,13 52:13 18:6 22:3 30:2 
+
+46:12 47:2contrary 19:21 57:2 demurrer 7:2 36:10 41:17 
+51:442:16 courts 10:10 16:16 45:23 42:20 55:17 
+
+decision 26:12control 43:14 13:19 Department 56:15,23
+29:10 42:11,13convict 5:11 court's 3:10 1:20 48:14 disagree 9:18 
+45:9,24 47:16 8:16 13:19 16:6 51:23 19:8 
+49:5,22,25conviction 19:4 19:22 28:23 depend 14:8 disagreement
+51:12,14 53:3 20:16 43:10 30:1 44:15,21 depending 14:9 30:14 
+55:22 56:5,5convictions 9:8 46:3 49:10 depends 11:25 dismiss 7:18 
+56:13convicts 46:9 50:22 53:9,23 30:16 17:4 24:19 
+
+decisionmakerconvince 16:11 56:5 57:8 designed 12:20 dismissal 12:1,2
+45:3correct 5:16,24 covered 26:6 13:21 15:21 17:4 
+
+decisions 46:246:1 7:23 23:24 credence 3:16 33:16 36:4 dismissals 52:1 
+48:18 51:2125:11 29:19 credibility 18:11 detached 36:9 dismissed 17:10 
+
+deeper 9:1231:9,17 42:8 details 23:9 17:23 52:23 
+defendant 3:12correctly 41:13 crime 5:11,12 determination dismisses 7:22 
+
+4:17,18,19 5:8 counsel 6:3,5,15 23:9,11,13,19 3:12,13,14,20 disprove 14:21 
+5:9,12 11:8 6:19 27:1 30:7 23:23 25:1,19 3:23 4:12,19 14:23 
+12:6 14:1830:22 44:5 26:6,7 27:10 4:21 7:6,8 10:2 dispute 45:12 
+22:16,20 23:12 51:17 54:6 27:19 37:15 11:1,10,13 dissent 13:7 
+27:8 28:19,2457:10 39:11 40:4 16:10 26:21,22 dissents 39:4 
+29:3,4,8,15,21Counselor 9:12 43:5,22 52:22 48:2 distinct 44:25 
+30:4,7 31:2,7 counts 46:2 crimes 25:21 determine 3:19 distinction 
+33:21 34:2couple 12:24 criminal 12:12 36:8,9 37:24 36:24,24 40:20 
+43:19 44:3course 8:20,21 critical 6:17 38:13 40:24 44:16 
+50:12 54:2,310:3 23:11 cruelty 44:2 determined 50:7 
+56:930:10 33:12 curiae 1:21 2:10 13:23 distinctions 
+
+defendantscourt 1:1,12 3:9 44:8 determines 4:2 36:20,23 
+
+Alderson Reporting Company 
+
+
+
+61 
+Official 
+
+distinguish E 1:19 2:1,9 3:1 26:5 Evans 1:3 3:4 extensively 
+12:18 3:1 encourage 6:3 5:20 19:8 22:6 52:22 
+
+distinguishing earlier 13:12 encouraging 22:24 23:14,25 extent 31:22 
+13:20 35:3 51:18 48:17 26:5,7 extra 16:13 
+44:13 early 49:2 51:24 ended 27:7 evenly 43:3 
+
+Fdocument 28:10 easement 15:2 engaging 52:13 evidence 7:3 
+doing 17:6,24 F 44:7 
+
+fact 3:15 6:4 
+easily 39:8,8 English 33:5 15:18 16:17 
+
+29:3 33:21 50:2 enhancement 34:21 35:9,16
+ 
+42:10,18
+ 12:13 16:18 
+
+22:1,9 23:3,21 
+easy 7:16 8:8 26:11,16 35:20 37:6 
+
+door 29:14 55:14 enhances 28:5 38:24,25 39:9 
+double 3:13 4:6 26:4 31:5 35:8 effective 23:17 ensure 8:5,10 41:8 42:9,15 
+
+37:25 38:34:22 5:7 8:17 effectively 18:20 enter 53:15 45:7,16,25 
+39:23 43:1,199:16 10:9 effort 13:1 entered 43:14 46:17 48:4 
+47:21 53:1911:10 17:15 egregious 50:6 entire 28:8 49:6 56:1
+ 
+
+18:2,16 19:1
+ factfinder 27:1252:9,12 entirely 34:8 exactly 4:25 
+28:20 30:1920:3,8,21 either 12:15 entitled 11:13 6:11 12:3 
+32:1 36:5 
+41:18,23 
+
+21:16 22:15 25:24 54:15 16:10,23 51:11 21:12 26:19 
+28:21 29:18 element 11:18 enunciated 18:1 31:3 33:11 
+
+factfinding32:9 33:2,6,10 11:23 12:8,11 equivalency 50:13 53:14 
+42:2535:5,18 37:18 12:14 13:5,6,7 21:21 examining 
+
+factfindings38:17 41:22 14:13,14,15 equivalent 10:8 15:18 
+45:252:16 53:24 16:14 27:10,13 33:14 example 3:24 
+
+facts 4:11 28:12 54:4 27:19 28:5 erroneous 4:20 8:9 16:6 39:10 
+31:22 40:19,22doubt 13:24 31:4 37:21 44:14 46:19 54:14
+ 
+
+25:9,9 26:23
+ 44:22 45:9 
+factual 21:24 
+
+38:17 39:17,19 49:8 50:1 examples 8:23 
+27:13 32:21 40:7,10,19,23 51:12,14 8:24 12:25
+ 
+38:2,6 39:3,7
+ 22:8 38:7,943:6 44:14,14 erroneously 4:2 exception 24:11 
+
+41:545:18 45:13,14,19,20 error 5:13 19:5 24:12 
+draw 22:11 failed 3:21 15:19 46:1,4,5,19 19:19,24 20:1 excluded 23:4 
+
+23:20 50:15,1538:21,23,24 50:2,3,7,22,23 20:17 21:5,8 excuse 27:14 
+51:9 
+
+failing 17:3 
+39:22 41:1 51:10 52:10 21:11,23 28:7 31:24 
+44:15 54:12,13,17,21 29:22 41:6 executive 36:4 
+
+drawing 40:20 fails 14:21 
+failure 13:15 
+
+54:25 51:4,8 52:8,10 exist 33:13 
+drew 12:23 elements 16:25 52:12 53:11 existed 33:4 
+driving 35:6 14:3,23 50:10 
+
+fair 13:17 19:4,6 
+23:19 37:15,19 54:20 36:3 
+
+dumping 18:21 37:21 38:1,7 errors 21:24,25 existing 13:6 
+dwelling 4:3,4 19:19 20:16,1838:10,16 40:4 22:8 expect 46:23 
+
+31:8 44:112:14 23:3,24 40:9 41:5 especially 22:8 expects 20:10
+ 
+24:10,11,13,20
+ fall 13:18 55:19 
+
+far 19:14 31:11 
+42:25 43:5,5 23:4 55:13 explain 16:25 
+
+25:7,19,24,25 49:9 50:16 ESQ 1:15,17,19 explanation 
+31:14 
+
+favor 29:4
+26:8,15 27:23 51:6 52:24 2:3,6,9,13 32:15,17 
+28:3 30:6 57:5 essentially 7:1 explicitly 5:20
+ 
+39:12,12 40:11
+ Federal 29:25 
+
+47:13,21 48:1 
+empanelment 10:1 21:15 17:19 
+
+40:13 50:17 17:10 27:9 31:11 expressing 
+48:12,16 49:2 D.C 1:8,20 empirical 49:14 establish 14:11 42:14 
+49:20 50:9en 43:2,7 establishing extend 31:19 
+
+E Fifty 32:11encompasses 28:22 extended 29:1 
+
+Alderson Reporting Company 
+
+
+
+62 
+Official 
+
+final 3:11,12 fundamental 23:15 28:18 guess 21:18 28:8 31:25 
+4:18,21 7:6,8,9 22:13 29:9 35:3,25 40:23 hole 9:12 
+10:5 11:7 further 26:24 38:20 51:13 guilt 4:12 12:20 Holmes 31:10 
+15:20 57:9 55:10,17 56:10 13:21 14:11 31:23 
+
+finality 20:2 57:4 15:4,17,20 home 39:14 
+GFinally 56:17 good 18:16 30:8 27:12 32:20 Honor 5:16 8:12 
+
+G 3:1find 11:8 16:17 30:8 56:6,11 39:2,7 41:11 9:16 11:21 
+gain 54:1920:12 27:12 56:14 guilty 3:12 4:19 20:19 21:7 
+Gannon 1:1931:4,5 32:20 goodness 30:13 11:8 20:12 hope 46:14 
+
+2:9 44:6,7,1034:20,20 39:2 gotten 21:1 43:14 48:5 hours 6:19 7:9 
+46:22 47:4,939:4,6 41:11 government 53:4 house 23:3 
+47:12,16,21,2543:6,6 57:7 3:21,22 4:14 guy's 5:3 24:19,24 25:10 
+48:8,11,24finding 15:17,19 4:15,24 5:1 25:11,13,19,24
+
+H49:19 50:1918:20 20:11 19:2,4,14,17 25:25 26:16 
+51:1,22 52:3 habitation 28:3findings 57:5 20:16,22 21:3 houses 25:7 26:8 
+53:22 54:3 hand 30:21,24Fine 47:20 28:17 29:14 human 21:23 
+56:19 happen 22:13Finish 48:22 31:6,7 44:17 hypothetical 7:7 
+
+Gannon's 54:11 31:2,15 34:25 firearm 45:16 48:12 49:20 15:7,22
+gatekeeper 35:2 36:7firearms 45:13 51:11 52:11,25 
+
+I42:12 happened 12:8firm 22:11 53:2 
+general 1:20 36:9,17 45:22 idea 17:24 30:8 first 9:9 17:8 governmental
+
+15:14 53:15 happens 7:16 49:1429:14 52:4 28:16 
+57:3 10:22 46:17,21 identify 15:454:11,19 government's
+
+generally 53:15 happy 30:20 38:10,11fit 33:2 15:18 19:16 
+getting 15:3 harassment immediate 9:24five 43:7,7,12 51:13 
+Ginsburg 5:8,23 36:16 impaneled 17:854:7 grant 9:8 10:14 
+
+22:14,23 32:23 hard 21:1 important 53:20focus 11:5 17:4 30:2 
+50:19 hardest 45:21 53:23follow 13:2 37:9 46:12 47:3 
+
+give 3:16 7:19 Harlan 17:14 impose 43:23followed 56:6 51:18 
+8:9 12:24 Harlan's 36:25 imposed 37:25Fong 17:9,18,18 granted 16:16 
+39:10 46:23 harm 21:4 29:14 38:417:22 18:4 17:7 18:5 22:3 
+55:21 56:7 hauled 19:8 imposes 44:232:15 29:24 36:10 
+57:5 head 13:8 impossibleFoo 17:9,18,22 56:21 
+
+given 9:19,20 hear 3:3 12:2418:4 32:15 granting 16:24 
+giving 33:21 heard 14:2 improper 17:25footnote 13:19 17:7 55:17 
+
+56:15 hearing 41:21 31:246:2 grants 7:2 11:16 
+gloss 13:4 heightened improperlyforget 9:1 11:17 13:14 
+go 7:10,15 9:2 16:20 31:19 34:3form 43:13 14:2 
+
+20:10,24 31:11 held 4:20 27:22 incapable 21:23formal 11:7 50:5 great 39:4 
+31:14 32:6 28:1,4 inches 45:15,19found 43:4 greater 26:6,17
+35:14 36:23 help 9:14 29:2 incident 15:9founding 32:8 28:2 
+46:7 55:4 56:9 helping 9:4,13 include 15:532:25 33:5,13 gross 51:20 
+
+goading 29:15 higher 5:11 10:2 including 39:14friend 45:1 46:6 ground 36:25 
+goes 10:2,3 40:5 historically incorrect 5:1049:24 49:18 
+
+44:18 28:16 32:1,4,8 39:15,16friend's 42:2 grounds 15:9 
+going 4:10 7:18 33:15 incorrectly44:19 guarantee 11:11 
+
+15:17 22:22 history 27:17 40:21,22full 44:1 guard 33:17 
+
+Alderson Reporting Company 
+
+
+
+63 
+Official 
+
+indicated 33:19 investing 7:12 17:9 18:5,7 jurisprudence 24:2,4,7,10,15 
+indicating 55:7 invitation 6:15 19:10,13,15,16 57:8 24:18,23 25:8 
+indictment 18:3 invoke 35:4 22:3,17 25:21 juror 17:12 39:2 25:15 26:10,14 
+
+23:8,17,20 invoking 4:5 26:21 28:4,12 41:11 26:19 27:1,5 
+30:5 50:9,11 involve 38:23 29:2,8,16 30:4 jury 4:9,9 5:17 29:16,20 30:3 
+51:8 52:22 40:3,8 51:3 30:4,11 32:20 6:12,14,19 30:13,21 31:1 
+
+information involved 39:6 32:25 33:9 7:16,19,20 31:10,14,18,23 
+23:7 involving 45:1 34:24 35:4,17 8:25 9:1 10:6,8 32:4,23,24 
+
+initiating 29:21 51:6 35:19 36:10,13 10:11,15 11:1 33:19 34:1,16 
+innocence 4:12 in-between 36:7 37:13 38:15,15 11:4 17:8 36:19,22,25 
+
+12:20 13:21 issue 5:9 19:3 39:12 40:10,14 19:11 21:21 38:15,20 39:10 
+15:4,17 42:22 45:23 41:2,2,6,6,7,8 22:5,5 23:5 40:1,17 41:12 
+
+innocent 23:18 46:2 41:17,23,24 26:20 27:8 41:25 43:11 
+inquiring 34:10 42:4,5,7,9,19 29:9 30:17 44:5,10,18
+
+Jinquiry 32:2 43:4,8,14,18 31:4,12 32:2 46:7,25 47:7 
+Jackson 39:1insanity 14:20 45:2,5 46:8,11 32:19,20 33:9 47:11,15,18,23
+jeopardy 3:1314:23 46:12,15,25 33:25 34:4,7,8 48:6,9,14,20
+
+4:6,22 5:7 7:21 instance 45:4 47:5 48:2,10 34:12,19,24 48:22 49:13 
+7:24 8:6,1753:17 49:18 50:14 35:4 37:22,24 50:19 51:17,23
+9:16 10:9instances 44:18 51:10,21 52:21 38:5 39:6 52:2 53:20,25
+11:10 17:15,15instruct 38:13 53:3 54:16,22 41:24 42:5,8 54:6,10 55:23 
+18:2,16 19:1 instructed 22:4 55:24 56:24 42:14,21,24 56:3 57:10,11
+20:3,8,2131:20 34:3 judges 5:6 6:4 43:17,18,24 57:12 
+21:17 22:15instructions 4:9 7:12 9:8 10:11 45:6 46:9,9 justifies 55:10 
+28:13,15,214:10 5:17 10:14 16:24 48:10 52:6 
+
+K29:18 32:2,919:11 22:1 39:5 46:23 53:4,4,5,6,7,10
+33:2,7,10,22 Kagan 20:4,2523:5 31:2 48:17 51:18 53:14,18 56:19 
+34:11 35:5,18 21:13 31:1,14insufficiency 55:16,19,20,21 56:20 
+36:3 37:18 31:18 32:47:19 49:6 56:7,15 57:4 jury's 56:8 
+38:18 41:22 33:19 34:1insufficient 7:3 judge's 3:11 Justice 1:20 3:3 
+51:11 52:17,19 40:17 41:1216:18 27:11 11:13,25 30:10 3:8,16 4:1,13 
+53:24 54:5 44:1855:25 57:1 43:3 51:14 4:23 5:2,6,8,23
+
+judge 3:17,19,20 keep 10:16 11:3 intending 29:2 55:25 6:2,3,7,8,16,23
+3:22 4:1,3,18 Kennedy 4:1,13intent 13:4 judge-wise 6:24 7:7,14,15
+4:24 5:3,9,13 6:16,23,24 7:7 interest 33:22 17:22 8:2,4,9,13,22
+5:13,15 6:12 15:6,13,2448:19 judgment 7:22 9:1,4,11,18
+6:14,17 7:2,17 17:2 55:23interjected 5:9 8:11 19:25 10:16,19,22
+7:21 8:7,10,16 56:3intermediate 20:2 29:24 11:3,15,22
+8:17,25 9:19 Kennedy's 7:1555:20,21 35:9 42:7 12:7,13 13:11 
+10:3,5,6,7,20 Kepner 31:11interpose 36:14 55:25 14:1,12 15:6 
+10:25 11:6,16 55:12interpret 35:15 judicial 21:21 15:13,24 17:1 
+11:22,25 12:4 kept 51:8interpretation 56:22 17:2,14,21
+12:19 13:14,15 kind 22:2239:15,16 juries 21:23 18:4,9,13,15
+13:22 14:2,14 28:22 43:16,17interprets 39:12 31:20 51:21 18:25 19:7,12
+15:8,16,21,22 46:20 52:10,12introduced 33:7 53:15 19:21 20:4,6
+15:25 16:7,13 know 9:3,11invalid 50:11 jurisdictions 20:14,25 21:13 
+16:13,15,19 16:22 20:652:23 42:25 22:14,23 23:22 
+
+Alderson Reporting Company 
+
+
+
+64 
+Official 
+
+21:3 30:5 31:3 lenity 53:12 losing 22:10 means 54:19 45:20 
+33:8 34:7,9,13 lesser 5:11 28:3 lot 19:21,23 47:8 meant 12:18 misinstructed 
+40:2 41:9 28:6 47:18 mechanism 8:19 22:2 34:13 
+43:16 47:1 let's 9:2 35:14 lots 21:10 53:13 11:9 32:25 41:24 53:6 
+50:17 52:25 36:5,6,6 39:14 lunch 17:13,25 34:10 misinterpreta... 
+53:2,14 56:21 46:7 Lydon 9:25 members 43:11 40:2,3,5 
+
+knowing 23:15 level 50:5 11:12,12 mens 16:20 misinterprets 
+known 36:11 lies 35:21 Lynch 12:25 mentioned 38:16 
+
+life 31:24 13:7 43:1 27:20 46:6 mistake 49:18 
+L limitation 27:22 merits 32:19 53:11 56:3 
+
+Mlabel 3:19 limitations 7:13 33:25 42:4,6 mistrial 11:16 
+labeling 11:25 magistrate 10:114:4,5,9,18 mess 35:21,25 14:3 29:15 
+
+13:9 maintainedlimited 17:19 Michigan 1:6,15 30:11 53:23 
+labels 3:17 49:21line 3:10 12:22 1:17 3:4,25 54:4 
+lack 18:11 majority 47:1013:2 16:6 12:22 16:5 mistrials 28:23 
+LAMAR 1:3 Maker 13:221:14,15 22:11 23:7,7,10 26:2 misunderstan... 
+language 14:25 49:2234:11 38:21,23 27:18 29:25 21:25 
+
+20:20 23:4 making 4:1139:22 41:1 36:11 47:5 mixed 22:9 
+43:13 10:1 21:2449:11 50:25 48:1 moored 37:14 
+
+larger 52:3 34:1 37:1455:4,5 57:2 middle 11:15 37:14 
+late 17:6 37:3 40:21 42:11Linen 3:22 17:5,6 46:13 Moran 1:15 2:3 
+Laughter 30:15 maliciously 25:212:17,18 15:1 47:3 49:17 2:13 3:5,6,8,18
+law 3:15 4:20 malpractice15:3,3 16:6 midway 4:3 4:7,15,25 5:5 
+
+22:9 32:18,19 30:1419:24 20:20 mid-trial 6:18 5:15,25 6:7,10 
+33:5 36:3 mandate 6:2137:12 38:8 10:14,17,20 6:22,25 7:11 
+37:17 39:23 manifest 28:2541:7 56:23 12:1 18:22 7:24 8:3,8,12
+42:10,11 43:23 Martin 3:21Linens 49:11 49:1 55:17 8:15,25 9:3,7 
+45:5 49:18 12:17,18 14:25 lines 38:24 56:15 9:15,23 10:18 
+53:9,17 55:12 15:2,3,18 16:6 listed 18:5 mind 35:17 10:21,24 11:6 
+
+lawyer 46:18 19:24 20:20lists 23:8 minimum 40:6 11:21,24 12:10 
+lead 56:6 37:12 38:8literally 52:22 minutes 54:7 12:16 13:18 
+learned 4:16 41:7 49:11little 23:9,22 misassessed 14:7,16 15:12 
+led 5:12 56:2332:15,17 41:8 15:16 16:3 
+Lee 23:16,17,18 Massachusettslived 39:13 mischaracteri... 17:18 18:4,10
+
+23:19 51:7 11:12living 39:20 40:9 18:14 19:7,20
+legal 8:7 19:5,19 matter 1:11 3:15 logic 31:10,12 misconduct 20:9,19 21:7 
+
+19:24 20:1 3:15 35:2031:19,25 13:23 15:9 21:20 22:23 
+21:5,10,24 38:5 45:5long 3:10 35:22 18:6,17,21 23:25 24:3,6,8
+22:7 35:17 53:17 57:15look 15:2 37:21 misconstruction 24:12,17,22,25
+50:13 matters 52:2037:25 45:22 44:13 46:3,20 25:12,16 26:13 
+
+legally 8:11 9:22 mean 8:20 9:19 looked 41:8 49:8 50:3,22 26:17,20 27:20 
+42:17 51:14 21:2,5 22:18 looking 16:16 54:18,21 42:4 43:2 46:6 
+57:1 32:5,8 33:1 20:14 41:10 misconstrue 49:25 54:7,8
+
+legislature 34:25 38:8,954:23 13:6 54:10 56:2 
+39:24 43:20 39:12 40:2,4looks 49:5 misconstrued 57:11 
+52:14 48:4 52:8looming 22:15 54:13 motion 5:16 
+
+length 45:15 54:23lose 20:17 49:10 misconstruing 18:24 27:8 
+
+Alderson Reporting Company 
+
+
+
+65 
+Official 
+
+30:1,1 43:19 November 1:9 ounce 31:24,24 perspective 16:9 22:4 
+46:12 47:6 novo 10:3 outcome-dete... 20:15 pretrial 3:24 
+
+motions 51:19 number 51:20 29:12 Petitioner 1:4 12:10,11 22:17 
+multiple 4:21 51:20 52:2,4,5 outweighs 56:16 1:16 2:4,14 3:7 22:18,22,25 
+Municipal 9:25 overbearing 51:5 54:9 52:1 
+
+Omurder 16:21 19:2 phantom 12:7 prevent 19:2 
+O 2:1 3:1 overlap 25:23 pin 13:9 56:9 
+
+N occurred 28:16 overrule 32:6 pistol 45:17 principally
+N 2:1,1 3:1 offense 11:18,23 overruled 17:16 place 9:9 10:6 45:25 
+narrowing 12:11,15,17 17:19 17:8 30:6 principle 3:11 
+
+44:22 23:6 26:18 overruling 54:19 15:14 35:7,7 
+near 44:19 27:13 28:5,6 44:21 places 47:8 prior 14:8 
+necessarily 37:16,17 38:7 overturn 49:10 plea 22:22 probably 45:21 
+
+32:23 41:5 45:14 please 3:9 27:6 problem 10:25 
+Pnecessary 38:3 50:8,16 51:16 44:11 12:22 13:12 
+
+50:16 52:15,19,20,24 P 3:1 point 4:5 6:11 16:5 17:1 
+necessity 28:25 57:6 package 13:23 34:1 35:17 23:19 35:5,24
+need 33:23 offenses 37:19 page 2:2 24:13 56:18 42:2 44:23 
+
+43:22 off-the-beaten... part 11:24 12:11 pointed 52:11 46:10 49:4 
+needed 50:8 43:17 18:19 19:17 position 31:10 55:6,7,9,10,15
+needs 43:20 Oh 15:24 47:7 21:4 25:1 31:13,19 55:16 56:22 
+negate 5:10 okay 29:17 particular 20:7 possibility 9:24 procedural
+negative 28:4 35:11 44:16 45:8 possible 7:25 35:11 36:25 
+neither 39:8 once 4:1,1,17,18 50:18 52:8 42:23 procedure 6:17 
+neutral 36:8 4:25,25 21:20 54:24 possibly 55:11 12:12 33:1,4,7
+Nevada 10:13 36:22 parts 43:21 potential 46:3 33:12,14,15
+
+10:21 ones 25:17 57:6 party 6:20 pound 31:25 proceed 56:1 
+Nevada's 56:6 ongoing 22:19 passed 39:23 power 5:6 7:12 proceeding 25:5 
+never 33:6 39:24 open 33:3 pecuniary 54:19 7:13 8:16 9:8 25:6 
+new 13:7 33:1,7 opinion 18:19 penalty 41:20 10:11 55:21 proceedings
+
+33:12,14 36:16 42:14,17,18 Pennsylvania 56:7,16 6:19 
+38:17 39:17 46:3 7:4 16:19 practice 28:24 process 11:5 
+
+nonexistent opponent 35:21 people 39:18,19 36:16 38:12 
+50:22 opportunity 42:18 precedents 3:11 prohibited 42:9 
+
+non-dwelling 41:1 44:1 percent 48:25 preceding 5:22 prohibiting
+27:15 28:6 opposed 22:20 51:19 52:5 27:21 28:15 
+40:16 50:11 27:8 perfect 42:21 precisely 48:18 prohibition
+
+non-existent opposing 6:18 54:14 preclude 8:18 32:18 33:2 
+52:10 oppression perfectly 13:20 precluded 5:25 prohibits 28:21 
+
+normally 46:8 20:22,23 21:3 permissible 10:4 predicated 50:1 prompt 11:17 
+46:23 47:2 44:2 29:13 preliminary 11:19 
+
+noted 6:11 9:10 oral 1:11 2:2,5,8 permit 47:5 48:9 10:2 promulgated
+32:15 55:13 3:6 27:3 44:7 48:12 present 56:9 32:10 
+
+notes 48:17 order 5:11 14:10 permitting presented 27:11 pronounces
+notion 5:10 21:1 28:5,19 38:3 48:13 preserve 48:18 33:9 
+notwithstandi... 39:25 40:19 persist 4:13 56:7,8 proof 23:1 27:11 
+
+48:15,19,23,24 ordinarily 29:12 person 25:2 presumably 28:2 37:20 
+
+Alderson Reporting Company 
+
+
+
+66 
+Official 
+
+39:6 proved 25:19 raised 14:5 redefining 52:15 1:18,22 2:7,11 
+proofs 28:9 41:9 proven 38:1,4,6 56:18 refers 27:21 16:9 27:4 44:9 
+property 24:1,3 41:4 42:15 raising 14:18 reformed 43:9,9 Responding 
+
+25:3 27:24,24 43:21,22 rational 27:12 rehearing 43:2,7 54:11 
+40:12 54:22 proves 21:9 rationale 15:7 related 12:16 rests 35:9 
+
+proposition provide 6:17 15:13 18:17 relating 12:19 result 14:17,19 
+21:19 22:10 29:25 20:7 13:21 15:4 26:2 42:16 
+
+prosecution 5:3 province 52:14 rea 16:20 relative 51:20 retrial 28:24 
+7:3 11:18,19 proving 23:2 reach 42:12 relevant 25:1 29:13 30:19 
+13:16 14:10,21 public's 48:19 reached 42:16 51:9 32:18 33:17,24 
+17:5 18:22 punishment reads 25:1 relying 19:11 36:15 51:13 
+23:2,15,18 37:25 38:4 real 21:4,16 render 9:20 retry 7:25 
+25:14 27:9 43:23 24:1,3 25:3 renders 7:20 returned 53:4 
+34:18 36:17 purchase 53:9 27:24,24 40:12 11:7 returning 42:6 
+37:3 39:23,24 purpose 12:3,21 reality 42:16 repeat 37:6 returns 42:5 
+40:18,21,22 15:22 20:21 really 14:14 representative 53:7 
+41:3 44:1 purposes 3:14 15:10 19:17 19:10,13 reversal 7:25 
+50:14 54:25 4:22 10:8 26:11 30:17 represents 52:5 8:7 
+57:3 13:22 18:16 31:3 33:24 request 6:18 reverse 43:25 
+
+prosecution's 20:3 21:16 43:8 55:5,15 36:15 reversible 8:11 
+7:18,22 9:20 41:22 55:16 require 10:20 review 8:20 
+16:17 18:11 put 7:13 35:8 reason 16:12 23:8 41:2,4 19:22 
+23:1 36:14 puts 4:17 17:23 22:6 44:20,22 48:2 reviewing 45:24 
+
+prosecutor 18:7 p.m 57:14 34:9 44:25 57:4,7 revisit 55:5 
+34:21 46:11 47:1 required 41:3 revisiting 55:11 
+
+Qprosecutorial 55:18 54:16 reworking 57:8 
+quality 19:2513:23 15:8 reasonable requirement re-prosecution
+
+20:218:6,17,21 26:23 27:12 22:21 11:20 
+quarrelling 53:7prosecutors 32:21 38:2,6 requires 23:10 right 6:6 14:12 
+question 5:19,2049:15,16 39:2,2,7 41:11 28:2 37:20 18:3 21:13 
+
+7:15 13:13protect 18:3 reasons 18:5 39:22 40:6 22:24 29:5,10
+20:5 28:1120:21 36:4 19:1 46:16,23 reserve 4:7 33:12 35:19 
+33:3,8,13protected 33:15 53:10,13 56:6 26:25 47:5 37:24 38:18 
+36:23 43:1233:22 56:11 48:10,18 55:22 42:2,17 46:19 
+44:18 45:12,14protecting 32:12 REBUTTAL reserved 47:16 47:20 
+45:16,17 46:8 protections 2:12 54:8 53:3 risk 30:18,18,18
+55:333:16 received 34:2 resolution 37:13 ROBERTS 3:3 
+
+questions 13:2,8prove 3:21 recharacterized resolve 44:12,16 18:25 19:12 
+16:24 22:913:15,16 14:3 40:7 50:2 resolved 52:6 20:6,14 27:1 
+26:24 57:914:10 15:19 recognized resolves 43:19 44:5 54:6 
+
+quibble 25:823:16,18 25:18 49:23 51:7 resources 56:8 57:10,12
+quite 4:2 16:4 26:16 27:23,23 recognizing respect 9:15 rule 14:8 29:25 
+
+17:328:4,5,6 39:23 22:11 11:14 29:25 37:8 
+39:24 40:11,12 reconsider 4:16 respectfully 47:5,12,13R40:14,16,19,19 reconsideration 19:8 21:9 48:1,1,7,16
+
+R 3:140:21 41:3 9:24 respond 56:17 49:1 50:20
+radical 57:750:15 redefined 52:21 Respondent 51:10,18 52:1 
+
+Alderson Reporting Company 
+
+
+
+67 
+Official 
+
+54:1 19:25 49:11 11:20 30:12 specific 23:20 strongly 48:17 
+rules 48:16 second 12:25 43:17 49:14 24:4 26:8 structure 5:19 
+ruling 4:5,8,8 18:3,10,15 six 55:14 42:24 57:5 27:15 50:10,17 
+
+6:18 7:9 12:19 28:14 30:24 Smalis 6:23,25 specifically 20:1 studied 48:14 
+12:20 13:24 section 25:6 7:1 16:15,18 43:4 sua 6:13 
+15:16,21 26:2 27:21 19:23 41:13 specified 5:21 subject 52:18 
+32:19 42:11 see 11:9 17:1 44:22 45:8,21 25:4 subjectively 
+47:6 33:23 34:25 45:23 51:5 speculate 34:6 15:25 
+
+rulings 13:20,21 35:24 47:7 52:12 56:25 split 43:3,7 submit 55:13 
+15:4 seen 16:8 51:22 Smith 4:16 9:23 sponte 6:13 submitted 57:13 
+
+Rumsey 21:11 56:25 19:23 41:14 stake 22:9 57:15 
+21:12 41:13,15 semantics 13:9 44:23 45:11 stand 3:11 subsection 5:22 
+41:16,17,18,18 sense 51:2 51:5 55:14 standard 19:11 25:5,5 
+44:22,25 51:4 sentence 48:22 56:5,13 start 35:3 substance 13:10 
+54:12 sentencing smoke 13:25 started 48:13 substantive 
+
+run 6:20 7:4 26:10 41:20,20 sole 45:3 starting 36:16 35:20 37:5 
+separate 45:11 solemn 11:7 state 5:5 6:16,22 substitute 34:24 
+
+S serve 12:20 Solicitor 1:19 7:8,11 8:4,10 sufficiency 45:9 
+S 2:1 3:1 13:22 15:21 57:3 8:18,20 9:5,19 sufficient 38:25 
+sake 14:13 served 33:17 solution 55:14 9:25 10:10,12 39:6 45:6,17
+Sanabria 6:10 serving 33:21 solve 42:1 11:9,11 12:12 45:25 48:4 
+
+49:11 set 7:20 9:21,25 somebody 37:15 19:9,10,13 sufficiently
+satisfy 45:17 10:10 11:11 37:24 20:13 23:7 33:14 
+
+48:3 21:16 46:10 somebody's 47:4 53:5 56:4 suggest 40:25 
+saw 12:7 sets 7:23 52:18 statement 23:10 suggested 45:1 
+saying 9:5 10:16 short 11:12 someone's 8:23 states 1:1,12,21 suggestion
+
+16:17 20:7 shot 19:4,6,19 somewhat 55:24 2:10 10:20,23 22:20 
+31:3 34:18 20:16,18 28:19 sorry 11:16 44:8 47:10 suggests 21:4 
+35:16 36:5 31:8 23:22 48:6,8,9,12 Supply 37:12 
+37:7 40:22 show 30:6 40:23 sorts 48:18 49:16 55:6,8 38:8 41:7 
+41:25 55:8 shown 28:25 Sotomayor 3:16 55:19,20,23 support 48:5 
+
+says 7:2 11:16 shows 14:25 6:2 7:14 8:2,4 56:11,12 supported 5:17 
+11:17,22 14:20 side 19:16 24:14 8:9,13,22 9:1,4 state's 9:17 56:8 5:18 
+17:21,22 30:4 29:11 37:4 9:11,18 10:16 statistics 51:18 supporting 1:21 
+30:7 54:23 simple 23:10 10:19,22 11:3 statute 5:19,19 2:11 44:9 
+55:25 56:24,25 35:12 37:8 23:22 24:2,4,7 14:4,4,9,18 suppose 4:23 
+
+Scalia 4:23 5:2,6 simplest 35:8 24:10,15,18,23 24:4,8,10,13 14:2 20:4 
+6:3,7,8 29:16 simply 13:4,9 25:8,15 26:10 25:17,25 26:4 39:11 
+29:20 30:3,13 16:15 31:23 26:14,19 43:11 27:20 39:11,17 supposed 19:16 
+30:21 32:24 36:4,16 38:16 48:6,9 51:17 40:6 41:3 42:10 50:1 
+40:1 41:25 40:3 41:7 52:2 54:23 Supreme 1:1,12
+48:22 53:20,25 43:18 source 29:22 statutes 28:2 3:25 12:23 
+
+scope 52:15 sinking 9:12 so-called 51:15 statutory 23:4 16:5 
+Scott 3:23 12:3 sir 20:11 speaking 18:8 23:11 sure 15:6 19:14 
+
+12:4,17 13:19 sit 35:23 special 22:12 step 55:21 suspended 6:19 
+15:12 17:20,21 sits 10:6 34:9 45:3 straighten 15:11 system 6:9 9:14 
+17:22 18:20 situation 7:1 56:20 strange 38:12 9:25 11:11 
+
+Alderson Reporting Company 
+
+
+
+68 
+Official 
+
+21:16 22:14,20 22:13 32:21 1:17 2:6 27:3 31:22 36:1 30:2,17 32:1 
+49:2 50:9 34:25 35:2,11 today 32:22 37:19,19 43:8 34:12 36:10 
+
+systems 10:11 35:22 told 20:11 55:1 41:16,17 42:3 
+things 36:1 top 24:14 type 47:14 51:3 42:3,5,6,20
+
+T 40:15 42:10 total 18:10 52:8 54:24 43:4,15 45:3 
+T 2:1,1 think 6:22 7:6 totally 26:5 48:10 51:21 
+
+Utake 19:16 28:19 7:11 8:15 9:21 transcends 9:16 53:4,10 56:15 
+34:16 unanswerable11:17 14:7 treat 34:11 56:21 
+
+taken 15:1 37:19 13:317:16,19 18:19 treated 5:4 verdicts 10:14 
+38:9 45:5 unbroken 3:1019:22 20:9 treats 41:21 11:4 34:9 43:9 
+
+takes 43:18 uncharged21:9,13 22:10 trial 4:3 5:12,13 49:1 52:6 53:6 
+talk 37:1,2 27:10,1322:10,10,23 7:2 8:10,12,13 53:15 55:17 
+talking 11:3 uncommon 52:730:5,9,10 31:6 8:16,25 9:2,2 56:19,20,23
+
+12:3 17:12 underlies 19:132:14 33:11,19 10:3,15 11:5,7 vest 5:6 
+37:13,15 51:3 understand 15:634:21 37:10,10 11:8,16 16:12 view 4:14,17,20
+
+talks 20:20 17:3 19:2041:15 42:21 16:13 17:5,7 19:9,20 35:25 
+52:17 40:24 41:9,1244:20,21 46:14 18:5 20:11 vigorously 27:9 
+
+tease 22:7 understanding46:15,22 47:19 21:8 26:22 Virginia 39:1 
+telling 55:24 48:1147:25 49:5,19 27:7 28:12,14 virtue 35:12 
+ten 48:14 51:24 undisputed 46:149:22,24 50:4 28:18 29:9 
+
+W52:5 unfairly 5:450:21,23 51:1 30:25 37:22,24 
+term 27:14,15 unfairness 5:2 wait 10:20 46:8 51:19 52:4,9 38:5 41:18,21
+terminate 28:17 United 1:1,12,21 waiting 47:252:12,16 53:8 42:1,21,22,23
+
+29:8 2:10 44:8 55:8 waived 22:1853:10,19,22 43:18 47:17 
+terminates 32:2 unusual 46:14 walk 21:1756:3 49:17 51:19 
+
+34:12 unwilling 44:15 walks 21:6thinking 25:20 56:1,10
+termination urged 5:9 want 11:4 27:14 25:20,21 trials 9:10 11:4 
+
+28:12 urging 6:5 27:15 35:23thinks 11:23 42:24 
+terms 15:1 use 5:18 38:13 37:613:15 14:14 tribunal 29:5,10
+
+29:23 32:9 uses 37:12 wanting 30:1834:21 tried 16:19 
+37:12 52:16 usurping 52:14 Washington 1:8Third 49:23 37:16 
+
+terrible 35:25 U.S 17:11 37:1 1:20third-degree true 34:5,6 50:6 
+test 38:25 39:7,9 49:15 wasn't 11:1916:20 trumped 31:25 
+
+41:13,13 12:14 30:6thought 8:22 trumps 29:6 Vtests 38:23 35:16 45:2015:24,24 17:4 try 4:15,16 
+v 1:5 3:4 9:25 Thank 27:1 44:4 way 4:4 10:15 17:9,11,14 16:11 17:15 
+
+39:144:5 47:20 22:5 23:1418:7 24:20 22:7 31:7 
+vacant 25:1354:6,10 57:10 25:14 29:1225:18 49:16,20 34:22,23 36:5 
+vacation 39:1457:11 34:7,14 35:8 three 27:21 36:6,6 
+valid 8:6 51:9 theoretically 35:20 53:8thrown 19:18 trying 15:3 
+valued 29:5,1050:5 54:15 55:12till 46:8 48:10 36:17 
+vast 47:9theory 8:7 9:20 ways 7:25time 17:13 26:25 Tuesday 1:9 
+venue 23:129:21 18:1,1 weak 16:1232:8,25 33:5 Turning 55:3 
+verdict 7:20,2331:5 46:19 weakest 16:733:13 39:22 twice 37:16 
+
+9:20 10:8,8thereof 25:4 56:2448:14 56:8 52:18 
+11:1,7 18:6 thing 6:4,6 weighs 42:8times 4:21 two 6:5 18:5 
+22:4 27:7 29:5 16:15 21:12 weight 42:9TIMOTHY 25:21 28:2 
+
+Alderson Reporting Company 
+
+
+
+Official 
+
+69 
+
+went 35:22 51:24 55:11,11 
+We'll 3:3 55:14 
+we're 5:25 35:10 
+
+35:16 36:17 1 
+37:13,15 108 55:11 
+
+we've 19:1 29:1 11-1327 1:4 3:4 
+32:4 11:03 1:13 3:2 
+
+wild 55:17 12 42:18 
+willfully 25:2 12:00 57:14 
+willfulness 13:5 13 45:15,19 
+willing 49:10 1970s 28:1 
+Wilson 11:2 1984 49:23 
+win 16:9 1994 47:13 
+windfall 21:2 48:13,15 
+
+33:21 34:2 
+windfalls 21:18 
+winner 21:6 
+wish 30:17 
+withdraw 9:7 
+witness 17:12 
+
+18:8 37:2 
+witnesses 18:11 
+
+2 
+2 24:14 
+2000s 49:2 51:24 
+2012 1:9 
+27 2:7 
+29 48:1 49:1 
+
+51:18 52:1 
+words 4:11 9:9 
+
+10:6 25:22 
+27:22,22 31:15 
+48:20 
+
+3 
+3 2:4 
+30 49:15 
+
+work 35:18,19 4 
+wouldn't 18:2 
+
+30:14 45:6 
+write 47:24 
+writing 46:15 
+
+40 49:15 
+44 2:10 
+48 6:19 7:9 
+
+wrong 3:14 6:4 5 
+6:6 8:7,11 50 32:6 55:11 
+17:22 35:17 54 2:14 
+40:18 42:17 
+
+wrongly 17:11 6 
+wrote 17:14 6 1:9 
+Wyzanski 17:10 
+
+17:23 7 
+7 46:2 
+
+X 70 48:25 
+x 1:2,7 73 52:1 
+
+Y 
+750.7 25:1 
+750.73 24:13 
+
+year 52:1 25:1 
+years 32:6,11 76 51:19 
+
+48:15 49:15 
+
+Alderson Reporting Company 
+
+

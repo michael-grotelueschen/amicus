@@ -1,0 +1,6581 @@
+
+              
+
+          
+
+                       
+
+      
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+AT&T MOBILITY LLC, :
+
+ Petitioner :
+
+ v. : No. 09-893 
+
+VINCENT CONCEPCION, ET UX. : 
+
+- - - - - - - - - - - - - - - - - x
+
+ Washington, D.C.
+
+ Tuesday, November 9, 2010
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 10:02 a.m. 
+
+APPEARANCES: 
+
+ANDREW J. PINCUS, ESQ., Washington, D.C.; on behalf of
+
+ Petitioner. 
+
+DEEPAK GUPTA, ESQ., Washington, D.C.; on behalf of
+
+ Respondents. 
+
+1
+Alderson Reporting Company 
+
+
+
+                                
+
+                    
+
+                   
+
+                    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF PAGE 
+
+ANDREW J. PINCUS, ESQ.
+
+ On behalf of the Petitioner 3 
+
+ORAL ARGUMENT OF 
+
+DEEPAK GUPTA, ESQ.
+
+ On behalf of the Respondents 26 
+
+REBUTTAL ARGUMENT OF 
+
+ANDREW J. PINCUS, ESQ.
+
+ On behalf of the Petitioner 52 
+
+2
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (10:02 a.m.)
+
+ CHIEF JUSTICE ROBERTS: We will hear 
+
+argument first this morning in Case 09-893, AT&T 
+
+Mobility v. Concepcion.
+
+ Mr. Pincus.
+
+ ORAL ARGUMENT OF ANDREW J. PINCUS
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. PINCUS: Thank you, Mr. Chief Justice, 
+
+and may it please the Court:
+
+ The Ninth Circuit concluded in this case 
+
+that a State law may mandate the use of a particular 
+
+procedure in arbitration as long as the law also 
+
+requires the use of that same procedure in litigation. 
+
+That interpretation of section 2 of the Federal 
+
+Arbitration Act would permit a State to oppose in 
+
+arbitration any procedure employed in court and thereby 
+
+require arbitration to be a carbon copy of litigation, 
+
+precisely what the Act was designed to prevent.
+
+ Section 2 of the Federal Arbitration Act 
+
+provides that an arbitration agreement may be held 
+
+unenforceable under State law only if the State law rule 
+
+being invoked to invalidate the agreement qualifies as a 
+
+ground that exists in law or equity for the revocation 
+
+of any contract. Respondent argues that, because 
+
+3
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+California's Discover Bank rule does not facially 
+
+discriminate against arbitration, it falls within the 
+
+savings clause. But the plain language of the savings 
+
+clause makes clear that it is not limited to statutes 
+
+that discriminates facially against arbitration.
+
+ By referring to "any contract," it makes 
+
+clear that, as this Court has said, the rule must be 
+
+applicable to contracts generally.
+
+ JUSTICE SCALIA: What if -- what if a State 
+
+finds it unconscionable to have an arbitration clause in 
+
+an adhesion contract which requires the arbitration to 
+
+be held at a great distance from -- from where the other 
+
+party is and requires that party to pay the cost of the 
+
+arbitration? Can a State not find that to be 
+
+unconscionable?
+
+ MR. PINCUS: It can, Your Honor, and -­
+
+JUSTICE SCALIA: Well, that wouldn't apply 
+
+to other -- to other contracts.
+
+ MR. PINCUS: But the legal doctrine that the 
+
+State is applying there, as States have and as we 
+
+discuss in our brief, is a doctrine that applies a 
+
+general principle of unconscionability with principles 
+
+elucidating how it applies that apply evenhandedly 
+
+across the board.
+
+ JUSTICE SCALIA: Are we going to sit in 
+
+4 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+judgment? Are we going to sit in judgment? I know you 
+
+say -- you say it has to shock the conscience, but if a 
+
+State wants to apply a lesser standard of 
+
+unconscionability, can we strike that down?
+
+ MR. PINCUS: If it wants to apply a lesser 
+
+standard to arbitration clauses, yes, absolutely you 
+
+can, because that would -- that would violate what is at 
+
+the core of the provision, which is discrimination 
+
+against State law.
+
+ If a State -- if a State enacted -- if the 
+
+legislature enacted a statute and it was headed 
+
+arbitration -- unconscionability, rather, and section 1 
+
+of that statute had general principles to be applied to 
+
+all contractual provisions to determine 
+
+unconscionability: It must shock the conscience, the 
+
+question is addressed with respect to the party before 
+
+the court against whom the contract is going to be 
+
+applied, and the third principle is unconscionability is 
+
+decided ex ante. And then section B said -- I'm sorry?
+
+ JUSTICE SOTOMAYOR: What's the difference, 
+
+then, with the act that you are positing? A State comes 
+
+in -- or I should ask: Is there no difference between a 
+
+State saying these terms in a contract are 
+
+unconscionable, making the petitioner always pay the 
+
+fees and making him or her arbitrate in a different 
+
+5 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+State -- that is unconscionable -- or a general rule of 
+
+State law that says in a contract of adhesion the 
+
+stronger party can't impose undue cost or expenses on 
+
+the other side to vindicate their rights, whether it's 
+
+in litigation and/or arbitration.
+
+ In your mind, there is no difference between 
+
+those two things, between these two approaches to the 
+
+issue?
+
+ MR. PINCUS: I don't think so, Justice 
+
+Sotomayor. Maybe if I could finish with my example, it 
+
+may elucidate the distinction that I'm trying to draw.
+
+ JUSTICE SCALIA: So how do you address 
+
+Justice Scalia's -- if you are saying there is no 
+
+difference between those two things, then how can a 
+
+State find those terms unconscionable? Under what 
+
+theory, general theory of law, would they be -­
+
+MR. PINCUS: I think the critical question 
+
+is: Is the State applying the same principles to 
+
+arbitration, of unconscionability to arbitration 
+
+agreements, as to other agreements? And in my example I 
+
+was positing a first provision that laid out three 
+
+principles that would be applied.
+
+ If part B of that section, or part 2 of that 
+
+section, said with respect to arbitration agreements, on 
+
+the other hand, we are going to require that the 
+
+6 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+procedures be equivalent to what is in court, we are 
+
+going to look at the time the dispute arises rather than 
+
+ex ante, and we are going to look at the effect on 
+
+everyone, then I think it would be quite clear that that 
+
+would be discrimination.
+
+ JUSTICE SCALIA: That is bad, absolutely, 
+
+but that's not what the State is going to do. The State 
+
+is simply going to say: We find this to be 
+
+unconscionable. And you say it's not unconscionable; 
+
+it's very fair. And the State says: Eh, we think it is 
+
+unconscionable.
+
+ Are we going to tell the State of California 
+
+what it has to consider unconscionable?
+
+ MR. PINCUS: Respectfully, Justice Scalia, I 
+
+don't think that's what the State is doing here. I 
+
+think what the State is doing here is saying -- is not 
+
+saying, under the same principles we apply elsewhere, 
+
+this is unconscionable. They're just saying, it's quite 
+
+clear that it's -­
+
+JUSTICE GINSBURG: There's nothing -­
+
+MR. PINCUS: I'm sorry.
+
+ JUSTICE GINSBURG: There is nothing that 
+
+indicates that California's laws are applying a 
+
+different concept of unconscionability. You haven't 
+
+come up and said, oh, look what they did here. And in 
+
+7 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23 --
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+another case they said it has to shock the conscience.
+
+ Maybe across the board, California is 
+
+saying: We think that unconscionability should have a 
+
+broader meaning. Is it unfair to the weaker party 
+
+to the bargain? Is there really no genuine agreement 
+
+here? And if that is so, that will fit our definition 
+
+of unconscionability.
+
+ You don't have anything that says -- the 
+
+California court hasn't said: We are applying a special 
+
+definition of unconscionability to arbitration 
+
+agreements.
+
+ MR. PINCUS: Well, they haven't said that, 
+
+Your Honor, but their opinion makes clear that they do. 
+
+For example, the statute in California that defines 
+
+unconscionability specifically says unconscionability 
+
+shall be assessed at the time of contracting.
+
+ Here, the decision holding the Discover Bank 
+
+rule is specifically based on a determination of 
+
+unconscionability, not ex ante, when there would be a 
+
+variety of situations to consider, but it is explicitly 
+
+based at the time the dispute arose.
+
+ JUSTICE KAGAN: I was under the impression 
+
+MR. PINCUS: So it's clear that they are 
+
+applying a different -­
+
+8 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE KAGAN: I was under the impression, 
+
+Mr. Pincus, that Discover Bank specifically cites a case 
+
+which arose not in the arbitration context, but instead 
+
+in the general litigation context, which is this America 
+
+Online case, and thereby made clear that its rule, 
+
+however different it may seem to you from normal 
+
+contract provisions, its rule applied both in the 
+
+arbitration sphere and in the litigation sphere.
+
+ MR. PINCUS: Justice Kagan, I think that 
+
+question goes to -- to a separate question. I think 
+
+Respondent has two arguments. One is, because this rule 
+
+applies to all dispute resolution provisions, it is a 
+
+general -- it applies to any contract that qualifies 
+
+under section 2. We think that that clearly can't be 
+
+the case, for several reasons.
+
+ First of all, section 2 says "any contract," 
+
+and that, the Court has said, means principles that 
+
+apply to contracts generally, not principles that are 
+
+limited to dispute resolution contracts.
+
+ JUSTICE KAGAN: Well, this -­
+
+JUSTICE GINSBURG: Well, any contract that 
+
+would have an arbitration clause.
+
+ MR. PINCUS: True, Your Honor. But if the 
+
+provision meant that, then as long as -- as long as a 
+
+State law banning arbitration said, we are banning 
+
+9
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+arbitration in any contract, then the State could say it 
+
+applied to any contract. Or a provision that said 
+
+juries are required to resolve every dispute, whether in 
+
+arbitration or not.
+
+ JUSTICE GINSBURG: Can we criticize one 
+
+feature of this? You are not claiming that, vis à vis 
+
+litigation, arbitration is being disfavored, which was 
+
+the original concern about arbitration agreements and 
+
+what prompted the Federal Arbitration Act. The courts 
+
+didn't like to have their business taken away, and so 
+
+they were disfavoring arbitration contracts.
+
+ That is no part of the picture here, as far 
+
+as I can see, because the rule is the same whether it's 
+
+litigation or arbitration.
+
+ MR. PINCUS: Well, we -- we do make an 
+
+argument, Your Honor, that the impact of this rule is 
+
+much more significant on arbitration than it is on 
+
+litigation, because it basically -- with respect to 
+
+litigation, it is reaffirming the default rule, but with 
+
+respect to arbitration, it has a quite significant 
+
+different effect, which is really to transform 
+
+arbitration in the ways that the Court described in 
+
+Stolt-Nielsen.
+
+ And so we do argue that it does have a 
+
+disproportionate burden, but our principal argument here 
+
+10 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25 --
+
+Official - Subject to Final Review 
+
+is that the "any contract" requirement means that the 
+
+State law rule being applied has to be a rule that 
+
+applies generally to contractual provisions, as the 
+
+Court has said.
+
+ JUSTICE SCALIA: Yes, but some -- some 
+
+elements of unconscionability can only arise in a 
+
+litigation or an arbitration context, such as requiring 
+
+the complaining party to litigate or arbitrate at a 
+
+distant location. How could that possibly apply in -­
+
+to any other contracts?
+
+ MR. PINCUS: Well, that -- that now turns to 
+
+the second argument that Respondents make, which is, 
+
+even if the mere fact that it applies to litigation and 
+
+arbitration satisfied section 2, the rule satisfied -­
+
+satisfies section 2 because it is merely a specific 
+
+application of California's general unconscionability 
+
+rule.
+
+ JUSTICE SCALIA: Yes.
+
+ MR. PINCUS: And -- and our response to that 
+
+is: It is quite clear that in three critical respects, 
+
+it is the principles that were applied -- not the 
+
+result, but the principles that were applied in order to 
+
+find unconscionability here -- are different than the 
+
+principles applied in every other context. By example 
+
+11 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA: Three? What are the three?
+
+ MR. PINCUS: The three are, first of all, 
+
+looking to the effect on people other than the parties 
+
+to the dispute. In every other case -­
+
+JUSTICE SCALIA: I was going to ask you 
+
+about that. Right.
+
+ MR. PINCUS: -- the question is: Is it fair 
+
+to the person before the court to apply the contract to 
+
+them? Here, the district court found it was quite fair 
+
+to apply to that person; the problem was third parties.
+
+ The second issue: When is the 
+
+unconscionability decision made? As I said, the statute 
+
+says ex ante. Here, the decisions explicitly say: We 
+
+are going to look at it at the time the dispute arises.
+
+ Third question: The general standard is 
+
+shock the -- so unfair as to shock the conscience. Here 
+
+the standard is: Is there a deterrent effect equivalent 
+
+to a judicial class action?
+
+ Three critical differences, three 
+
+differences that are not differences in result, but are 
+
+differences in the legal principles that are being 
+
+applied to determine unconscionability.
+
+ JUSTICE BREYER: I thought that Discover 
+
+Bank is the California case that sets it out; is that 
+
+correct? 
+
+12
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. PINCUS: Yes, Your Honor.
+
+ JUSTICE BREYER: So that's California law. 
+
+And what they say in Discover Bank is -- they are 
+
+talking about class waivers in both arbitration 
+
+contracts and not arbitration contracts. And they say 
+
+they are void when it's a consumer contract of adhesion, 
+
+when they predictably involve small amounts of damages, 
+
+when it is claimed that the party with the superior 
+
+bargaining power has carried out a scheme deliberately 
+
+to cheat large numbers of consumers out of individually 
+
+small sums of money, and the waiver becomes in practice 
+
+the exemption of the party from responsibility for its 
+
+own fraud.
+
+ Now, seems to -- those seem to be the 
+
+principles that apply. Those principles apply to 
+
+litigation. They apply to arbitration. What's the 
+
+problem? They don't say anything there about the things 
+
+you mention. They just mention four things, which I 
+
+just read.
+
+ MR. PINCUS: Well, and the only -- as I 
+
+said, there are two questions in this case and I think 
+
+it's helpful to keep them separate. One is: Is it 
+
+permissible, simply because the rule applies to both 
+
+litigation and arbitration, is that sufficient to 
+
+satisfy -­
+
+13
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: No. I would guess it's 
+
+like Switzerland having a law saying, we only buy milk 
+
+from cows who are in pastures higher than 9,000 feet. 
+
+That discriminates against milk from the rest of the 
+
+continent. But to say we want cows that have passed the 
+
+tuberculin test doesn't. So I guess we have to look at 
+
+the particular case.
+
+ And here, my impression is -- correct me if 
+
+I am wrong -- the class arbitration exists. It's not 
+
+a -- it's not like having a jury trial. You could have 
+
+it in arbitration. You can have it in litigation. So 
+
+where is the 9,000-foot cow, or whatever it is? Where 
+
+is the discrimination?
+
+ MR. PINCUS: Well, I think this is exactly 
+
+the 9,000-foot meadow, Your Honor, because I think the 
+
+problem here is there is -- it is not possible, based on 
+
+the language of section 2 or any other basis that we can 
+
+think of, to say a statute that requires the full use of 
+
+discovery procedures in court and in arbitration or 
+
+factual determinations by a panel of six individuals 
+
+selected at random -­
+
+JUSTICE GINSBURG: Mr. Pincus, are they 
+
+necessarily saying that? As I read it, the plaintiff 
+
+brought a case to court, not to arbitration, and then 
+
+there was a motion to stay the State court litigation. 
+
+14
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Why isn't it a proper reading of this case 
+
+to say: You want -- if you are in the arbitration 
+
+forum, it's bilateral, but you can't dupe these 
+
+plaintiffs out of a class action? So if you don't have 
+
+a class action in arbitration, you can have it in court. 
+
+That is, the class action is preserved, not necessarily 
+
+in the arbitration forum, but in the court.
+
+ MR. PINCUS: Well, I think the problem, 
+
+Justice Ginsberg, is both prongs of that requirement are 
+
+independently problematic. I think, for the reasons 
+
+that I was just saying and I think for the reasons that 
+
+the Court explained in Stolt-Nielsen, requiring class 
+
+arbitration is just the same as requiring discovery or a 
+
+jury trial or all of the other judicial processes in 
+
+arbitration. And if the alternative prong of that is to 
+
+say, well, if you don't do that you must exclude these 
+
+claims from arbitration -­
+
+JUSTICE SOTOMAYOR: But they're not 
+
+requiring -­
+
+MR. PINCUS: -- is independently -­
+
+JUSTICE SOTOMAYOR: But they're not 
+
+requiring arbitration -­
+
+CHIEF JUSTICE ROBERTS: Go ahead, Justice 
+
+Sotomayor.
+
+ JUSTICE SOTOMAYOR: They are not saying you 
+
+15
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+have to arbitration -- class actions in all arbitration 
+
+proceedings. They are identifying a class of cases in 
+
+which they pursue the State, who's their own sovereign, 
+
+and the savings clause in the FAA permits them in law or 
+
+equity to set forth rules to say in this subset of cases 
+
+there is a substantive right being affected. That is 
+
+different than rules that are looking at procedures and 
+
+setting uniform procedures in both.
+
+ How do we draw the line between a law that 
+
+says discovery has to happen in arbitration, and one 
+
+that says a -- in a contract of adhesion, if the 
+
+superior party retains the right to do discovery but 
+
+tells the inferior party, you can't? And a State says, 
+
+that's unconscionable.
+
+ MR. PINCUS: Your Honor, I think that's the 
+
+precise difference between the two issues that are -­
+
+that are in this case. For the reason we have been 
+
+discussing, we think there is a very strong argument 
+
+that a rule cannot qualify to be saved under section 2 
+
+simply because it applies even-handedly to arbitration 
+
+and litigation because of the fact that that would sweep 
+
+in all of these other rules that we are talking about.
+
+ And an additional reason, to respond to 
+
+Justice Breyer's question, is that at the time that the 
+
+FAA was enacted the ouster doctrine did apply to 
+
+16 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+arbitration litigation. It was a broad doctrine in 
+
+which courts said: We are going to invalidate any 
+
+contractual provision that deprives us of jurisdiction 
+
+whether it directs the claim to arbitration or it 
+
+directs the claim to some other court.
+
+ JUSTICE KAGAN: But Mr. Pincus -­
+
+MR. PINCUS: And so the very same argument 
+
+being made here could have been made then.
+
+ JUSTICE KAGAN: But, Mr. Pincus, I'm not 
+
+understanding what test you are asking us to formulate. 
+
+Justice Scalia started this by saying, how about a 
+
+provision prohibiting certain kinds of attorney's fees? 
+
+How about a provision prohibiting certain kinds of -- a 
+
+law prohibiting certain kinds of discovery provisions? 
+
+And you said that would be fine, for the State courts to 
+
+hold those things unconscionable, but it's not fine for 
+
+the State court to hold a class arbitration prohibition 
+
+unconscionable.
+
+ So what separates the two? How do we know 
+
+when something is on one side of the line and something 
+
+is on the other? Both procedures, but you say some are 
+
+fine, to say that those procedures are unconscionable, 
+
+but other procedures if you held them unconscionable 
+
+that would not be sufficient.
+
+ MR. PINCUS: What separates the two is, is 
+
+17 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+the State in the particular case in which the 
+
+determination is made applying principles that apply to 
+
+-- across -- that apply to its unconscionability 
+
+doctrine across the board.
+
+ JUSTICE KAGAN: The State says yes.
+
+ MR. PINCUS: Well, but I think -­
+
+JUSTICE KAGAN: The State says it absolutely 
+
+is. Now, who are we to say that the State is wrong 
+
+about that.
+
+ MR. PINCUS: Well, let me answer that in two 
+
+ways, Justice Kagan. First of all, let me explain why 
+
+the hypotheticals that you posit and that Justice Scalia 
+
+posited and that Justice Sotomayor posited have been 
+
+addressed under the traditional unconscionability 
+
+doctrine that we described. In all of those cases, what 
+
+courts have said is this provision -- we are measuring 
+
+whether it is unconscionable at the time of contracting; 
+
+we are looking at the effect on the party before the 
+
+court; can this person get to arbitration, is the fee 
+
+too high, is it too far away. What about -- we are 
+
+looking at the effect on this particular person and we 
+
+are deciding whether it shocks the conscience or 
+
+whatever their across-the-board State standard is.
+
+ And in all of those cases, that's what those 
+
+courts do, and that's why those provisions have been 
+
+18 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+invalidated, because they are invalidated under an even­
+
+handed application of the unconscionability provisions 
+
+that courts apply when they assess -­
+
+JUSTICE ALITO: I thought that -- I don't 
+
+want to interrupt your complete answer.
+
+ MR. PINCUS: Sure.
+
+ JUSTICE ALITO: But I thought that was the 
+
+gist of your argument, the heart of your argument, that 
+
+traditional unconscionability in California and 
+
+elsewhere focuses on unfairness to the party who is 
+
+before the tribunal. So here it would be unfairness to 
+
+the Concepcions, rather than unfairness to other members 
+
+of the class who are not before the court.
+
+ MR. PINCUS: That's exactly right, 
+
+Justice Alito.
+
+ JUSTICE KAGAN: But, Mr. Pincus, the State 
+
+says, well, our unconscionability doctrine may not have 
+
+done that in the past, but now in the year 2010 it 
+
+actually applies to more things than it did in the past, 
+
+and we do take into account third parties and that's our 
+
+new unconscionability doctrine. Now, it may be a good 
+
+unconscionability doctrine or it may be a bad 
+
+unconscionability doctrine, but it's the State's 
+
+unconscionability doctrine.
+
+ MR. PINCUS: But it is not the State's 
+
+19 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+general unconscionability doctrine, Justice Kagan. It 
+
+is a doctrine that applies only in the context of class 
+
+waivers and that's the problem. If the State were to 
+
+adopt a general statute that said, for unconscionability 
+
+purposes henceforward we will look in assessing the 
+
+unconscionability of every provision at third parties, 
+
+at the impact on third parties and whether it's fair to 
+
+them, perhaps they could do that.
+
+ I think there might be some reasons why a 
+
+State wouldn't do that, because that would upset a lot 
+
+of things in the judicial system that we think of as 
+
+routine, such as confidential settlements and the fact 
+
+that arbitration doesn't require publication or estoppel 
+
+and all kinds of rules could be invalidated on that 
+
+ground. But at least it would be an even-handed rule 
+
+that the State applied across the board, and it would 
+
+also apply to things like the level of rent in rent 
+
+contracts and statutes of limitations and all sorts of 
+
+things.
+
+ JUSTICE BREYER: Why, why, why?
+
+ MR. PINCUS: But here, that's not -- I'm 
+
+sorry.
+
+ JUSTICE BREYER: Why? That's I think what 
+
+Justice Kagan is getting at. If a State wants to have a 
+
+doctrine which says, you have to have a seal of a 
+
+20 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+certain kind on certain kinds of contracts, they've 
+
+never done it before, but now they do it, and on that 
+
+kind you have to have a seal both on the arbitration 
+
+contract and on the other. And here what they've done 
+
+is they have listed the four characteristics from 
+
+Discover Bank, and they've said all contracts to do with 
+
+litigation have to satisfy those four.
+
+ At which point I think Justice Kagan said, 
+
+so what if they've never done this before? They sure 
+
+have done it now. And what's the basis for saying that 
+
+the Arbitration Act or any other part of Federal law 
+
+forbids California from doing that?
+
+ MR. PINCUS: Two answers to that, 
+
+Justice Breyer. First of all, they haven't done it 
+
+generally with respect to contracts. They have made up 
+
+a special rule that is targeted on a special kind of 
+
+contract and that carries -- to the extent one is 
+
+worried about discrimination -- nonfacial discrimination 
+
+designing the category of contracts relating to 
+
+litigation or dispute resolution is precisely the kind 
+
+of category that most presents the risk of 
+
+discrimination that isn't facial.
+
+ And again, whatever any contract means, we 
+
+think it has to mean that the category of dispute 
+
+resolution contracts can't be one that satisfies any 
+
+21 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+contract, because at the time the law was enacted the 
+
+ouster doctrine did just that and it was the doctrine 
+
+that was being targeted.
+
+ JUSTICE KENNEDY: But it seems to me that 
+
+all State -- most State statutes pertaining to contracts 
+
+pertain to a class that is not entirely universal. 
+
+Suppose the State had a statute referring to banks, 
+
+contracts with banks. That doesn't apply to all 
+
+contracts. It doesn't apply to railroads. But we know 
+
+that it applies to a class that generally includes both 
+
+arbitration and non-arbitration. And that's this case, 
+
+because there can be class action rule with respect to 
+
+litigation and class action rules with respect to 
+
+arbitration. So you have to have some rule that 
+
+recognizes that you don't have to have the entire 
+
+universe of contracts.
+
+ MR. PINCUS: Well, Your Honor -­
+
+JUSTICE KENNEDY: And I'm not quite sure 
+
+what your test is. You have a few of them in your 
+
+brief.
+
+ MR. PINCUS: Well, I think the "any 
+
+contract" language of the statute shows that Congress 
+
+was not enacting -- was not providing that everything 
+
+other than facial discrimination qualifies for the 
+
+savings clause, because it could have said any 
+
+22 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+nondiscriminatory rule. It said a rule that applies to 
+
+any contract. And the reason for that we think is 
+
+because of the ouster doctrine it was confronted with, 
+
+which did apply to both arbitration and litigation 
+
+contracts, and because of the risk generally that a 
+
+contract rule could be devised that maybe didn't 
+
+facially discriminate against arbitration, but had the 
+
+effect of targeting arbitration disproportionately and 
+
+that's what is going on.
+
+ JUSTICE SCALIA: So how do you have special 
+
+rules applicable to banks?
+
+ MR. PINCUS: Well, most -- most -­
+
+JUSTICE SCALIA: Contracts by banks, can't a 
+
+State say, you know, certain bank contracts have to have 
+
+this or that?
+
+ MR. PINCUS: In most of the examples that we 
+
+have looked at of situations like that, the contract 
+
+principles that are being applied are general 
+
+principles, and perhaps they are being applied -- they 
+
+are being specified for four particular categories of 
+
+contracts, like the UCC, but they are tied to general 
+
+principles.
+
+ JUSTICE SCALIA: They claim that here. They 
+
+claim it's the general principle of unconscionability.
+
+ MR. PINCUS: But -- but I think, as I have 
+
+23 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+discussed, the problem here it has the label 
+
+"unconscionability" on it, but the test that is applied 
+
+has nothing to do with the test that is applied in every 
+
+other context. So it's an easy case to decide. Going 
+
+back to my statutory example, this is an 
+
+unconscionability -- this is a test that may have the 
+
+label on it, but everything that the court looks at to 
+
+find unconscionability or to find this impermissible are 
+
+things that are not looked at in the other context. And 
+
+in the other context, indeed as the district court said, 
+
+this contract is more than fair under our general 
+
+unconscionability standard, because it -- the people 
+
+before the court are better off than they would be in a 
+
+class action.
+
+ JUSTICE SOTOMAYOR: So then we have -- we 
+
+have to serve as reviewers of State law?
+
+ MR. PINCUS: I -­
+
+JUSTICE SOTOMAYOR: We have to look at what 
+
+the States are doing in -- to interpret their own laws?
+
+ MR. PINCUS: I think what the Court has to 
+
+do, as it does in the independent and adequate State 
+
+ground context and other contexts, is to determine 
+
+whether the State is -- is applying a rule that is -­
+
+that discriminates, because the core protection of 
+
+section 2 is discrimination. And so, if the -- if the 
+
+24 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+State has devised a rule that clearly discriminates, but 
+
+has simply put the label on -- of unconscionability, 
+
+surely the FAA permits the Court to look at that. 
+
+Otherwise it's -- the protection will be reduced to 
+
+nothing.
+
+ JUSTICE GINSBURG: So if we look at the 
+
+California law and we find other instances of 
+
+unconscionability that are applying a standard less 
+
+stringent than "shock the conscience," then we would say 
+
+okay?
+
+ MR. PINCUS: No, Your Honor. I think that 
+
+the critical question here -- are there other cases that 
+
+look to the effect on the party before the court? We 
+
+found none and -- and Respondents have found none. Are 
+
+there other case that assess the -- whether it's 
+
+unconscionability at the time of the dispute rather than 
+
+at the time of contracting? There are none. The 
+
+statute specifically requires it to be done at the time 
+
+of contracting. And are there cases that say, we are 
+
+going to look at whether something is -- not whether 
+
+something is so unfair as to shock the conscience, but 
+
+at whether it is the equivalent to some statutory 
+
+procedure? There are none. And that's the problem.
+
+ JUSTICE SOTOMAYOR: Then, Mr. Pincus -­
+
+CHIEF JUSTICE ROBERTS: Thank you. 
+
+25 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. PINCUS: I'd like to reserve the balance 
+
+of my time.
+
+ CHIEF JUSTICE ROBERTS: Thank you, Mr. 
+
+Pincus.
+
+ MR. PINCUS: Thank you.
+
+ CHIEF JUSTICE ROBERTS: Mr. Gupta.
+
+ ORAL ARGUMENT OF DEEPAK GUPTA
+
+ ON BEHALF OF THE RESPONDENTS
+
+ MR. GUPTA: Mr. Chief Justice, and may it 
+
+please the Court:
+
+ As I think several of the questions this 
+
+morning have brought out, the question here is not what 
+
+this Court would decide if it were sitting as the 
+
+Supreme Court of California and applying the State's 
+
+common law in the first instance. Rather, the question 
+
+is whether the State law at issue falls within a 
+
+statutory savings clause that expressly preserves 
+
+contract defenses available at law or in equity.
+
+ The State law at issue here is not 
+
+preemptive, for three reasons. First, it is consistent 
+
+with the equal footing principle or nondiscrimination 
+
+principle that this Court has consistently recognized is 
+
+embodied in section 2.
+
+ Second, it's consistent with two key 
+
+purposes that the savings clause fulfills under the FAA: 
+
+26
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+ensuring that arbitration is a matter of consent and not 
+
+coercion; and that it represents merely a choice of 
+
+forum, but not an exemption from the law.
+
+ And third, the State law at issue is a 
+
+correct and legitimate application of the State's common 
+
+law to which this Court should defer.
+
+ CHIEF JUSTICE ROBERTS: If I could just go 
+
+to your -- your second reason seemed to be focused 
+
+particularly on arbitration as opposed to a principle 
+
+that applies to every other contract.
+
+ MR. GUPTA: Well, let me be clear about what 
+
+I mean by the second reason. I think that the savings 
+
+clause in the FAA serves two critical purposes, and that 
+
+is that the -- the contract law doctrines ensure 
+
+consent. You don't have arbitration unless you have a 
+
+consensual agreement between both parties, and you look 
+
+to State contract law to determine whether there is 
+
+consent.
+
+ And also, I think as this Court has 
+
+repeatedly said about arbitration under the FAA, it 
+
+represents a choice of forum, but it doesn't withdraw 
+
+the parties from the substantive liability rules of the 
+
+State.
+
+ CHIEF JUSTICE ROBERTS: No, but the 
+
+substantive State liability rule on the issue you are 
+
+27 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+addressing is that you consider the issue of consent ex 
+
+ante, and with respect to arbitration you are 
+
+considering it at the time the dispute arose. Isn't 
+
+that a discrimination against arbitration agreements?
+
+ MR. GUPTA: Well, first of all, I think it 
+
+is a -- it's a question of State law whether the 
+
+determination is ex ante or ex post. But we actually -­
+
+CHIEF JUSTICE ROBERTS: Well, sure. That's 
+
+true in all of these cases.
+
+ MR. GUPTA: Right.
+
+ CHIEF JUSTICE ROBERTS: It's a question of 
+
+what the State law provides; then you consider whether 
+
+it's consistent with the Federal Arbitration Act.
+
+ MR. GUPTA: Right. And the Discover Bank 
+
+application of State unconscionability law we believe is 
+
+an ex ante analysis. It looks at whether the contract 
+
+is fair or exculpatory at the time that the contract is 
+
+made; and indeed there is -- the two arguments that Mr. 
+
+Pincus made about California unconscionability law are 
+
+somewhat at war with themselves. He said that the -­
+
+the doctrine looks to third parties and that that's 
+
+illegitimate; and he said that the doctrine is ex post 
+
+and that's illegitimate. But in fact, from the 
+
+perspective of a consumer that's entering into this 
+
+contract, from the perspective of any AT&T consumer, 
+
+28 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+they don't know whether they are going to be among the 
+
+very few consumers who detect fraud, recognize a legal 
+
+claim, or hire a lawyer to do so, and come forward and 
+
+seek compensation. And so the Concepcions are situated 
+
+just like any other AT&T customer, and that is the point 
+
+at which fairness is assessed.
+
+ So from the perspective of California 
+
+unconscionability doctrine, the Concepcions and -- and 
+
+all the other AT&T customers are not differently 
+
+situated. It's not a question of whether the 
+
+Concepcions, once they have chosen to make a claim, 
+
+whether the contract is then fair to them; it's whether 
+
+it's fair to any AT&T customer.
+
+ CHIEF JUSTICE ROBERTS: Well, what other 
+
+area of contract law does the court consider 
+
+unconscionability not with respect to the parties before 
+
+the court, but with respect to third parties?
+
+ MR. GUPTA: Well, I think, first of all, the 
+
+California State law is applying an exculpatory clause 
+
+prohibition that has been on the books since 1872 in 
+
+California. And if you look at the cases, many of which 
+
+we've cited in our brief today -­
+
+CHIEF JUSTICE ROBERTS: But isn't that -­
+
+doesn't that look to the parties before the court rather 
+
+than third parties? 
+
+29 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. GUPTA: No. In fact, the -- the 
+
+California courts have developed a test that says, we'll 
+
+-- we'll enforce exculpatory clauses, or what would 
+
+otherwise be exculpatory clauses, if they don't have 
+
+significant public effects.
+
+ So the test under that statute is actually 
+
+to look to the public effects, the effects of similarly 
+
+situated people that are parties to the contract. And 
+
+for example, there was a case in the early 20th century 
+
+under that statute where the question was whether a 
+
+banking contract was unfair; and what the court said is 
+
+that -- that parties to the contract are not the only 
+
+people that matter here; what matters is the interests 
+
+of the banking public.
+
+ CHIEF JUSTICE ROBERTS: Well, it's a general 
+
+rule of contract law that contracts contrary to public 
+
+policy could be unenforceable. It seems to me that's 
+
+quite different than saying we're worried about third 
+
+parties that are in the same position as these 
+
+particular parties. In other words, it's not simply 
+
+adverse public consequences, but it's a different mode 
+
+of analysis than I'm familiar with under basic contract 
+
+law.
+
+ MR. GUPTA: Well, again, I want to try to 
+
+explain why I don't think that the Concepcions are -­
+
+30
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+are any different from the -- what Mr. Pincus is 
+
+describing as third parties. At the time that they 
+
+entered into the contract, the question is whether the 
+
+contract ex ante is unconscionable as to them. And 
+
+they're just like anyone else. They don't know whether 
+
+they will detect this fraud and be able to come forward. 
+
+And so the question is -- is that -- is that 
+
+unconscionable as to them? It's not looking only to the 
+
+effects on third parties.
+
+ But there is also an exculpatory clause 
+
+prohibition that has always taken into account the 
+
+effects on the public. And both of those are at work in 
+
+Discover Bank.
+
+ JUSTICE ALITO: Well, maybe you can explain 
+
+it this way. Compare what the Concepcions have 
+
+available to them under the contract with what going 
+
+through the arbitration, all the procedures leading up 
+
+to arbitration and arbitration, against what they would 
+
+get at best if this were allowed to proceed on a class 
+
+basis.
+
+ MR. GUPTA: Right. The California -­
+
+JUSTICE ALITO: Why is -- why are they 
+
+better off with a -- with a class adjudication?
+
+ MR. GUPTA: Because from an ex ante 
+
+perspective, again when they enter into the contract, 
+
+31 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+they have -- there -- it's not reasonable to be -- to 
+
+expect that they will be among the very few people who 
+
+will recognize that there's fraud, recognize a legal 
+
+claim, and come forward. And so from that perspective, 
+
+it -- it is not reasonable them -- for them to give up 
+
+the benefits that they would get from a class action.
+
+ A class action incentivizes lawyers and 
+
+others to detect for this fraud. It makes it -- it 
+
+makes it economically justifiable to come forward with 
+
+these kinds of claims.
+
+ JUSTICE ALITO: And -- and isn't that what 
+
+distinguishes this from the ordinary unconscionability 
+
+analysis?
+
+ If the district court correctly understood 
+
+the way the AT&T Mobility scheme works and --and the 
+
+district court said that under the revised arbitration 
+
+provision nearly all consumers who purchase the 
+
+informal -- who pursue, I'm sorry, the informal claims 
+
+process, are very likely to be compensated promptly and 
+
+in full, etcetera, etcetera. If the district court 
+
+understood that correctly, the scheme here was -- is 
+
+found to be unconscionable because it doesn't allow the 
+
+enlistment of basically private attorneys general to 
+
+enforce -- to enforce the law. And isn't that quite 
+
+different from ordinary unconscionability analysis? 
+
+32
+
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. GUPTA: I don't think it is. I mean, 
+
+obviously it's impossible to come up with a precise 
+
+analogy that is going to be on all fours. But in our 
+
+case we cite -- in our brief we cite cases involving 
+
+unreasonably shortened statutes of limitations, where 
+
+the California courts for over 100 years have found that 
+
+those can be deemed unconscionable. And the principle 
+
+is the same. Those kinds of clauses can interfere with 
+
+the parties' ability to have notice that they have a 
+
+claim and take action on that claim. That -- that kind 
+
+of procedural limitation has always been deemed 
+
+unconscionable.
+
+ JUSTICE KENNEDY: Suppose that this doesn't 
+
+have what's called a blowout clause. Suppose that that 
+
+kind of clause was not in there. And the consumer opts 
+
+out of the arbitration. Arbitration doesn't -- doesn't 
+
+go well. Anyway, can the consumer then insist on the 
+
+arbitration that the consumer bargained for, the 
+
+individual arbitration that the consumer bargained for?
+
+ MR. GUPTA: Well, under this clause the 
+
+consumer will always have the ability to proceed on a 
+
+bilateral -- on a bilateral basis.
+
+ JUSTICE KENNEDY: So then the bank has to 
+
+have -- liability exposure for two different 
+
+proceedings? 
+
+33
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. GUPTA: I mean that's true anyway, 
+
+right? The the mine run of consumer waivers -­
+
+JUSTICE KENNEDY: But you are saying then 
+
+California can say it's unconscionable to allow the 
+
+parties to agree that there will be just the single 
+
+arbitration proceedings? I don't see how the third 
+
+parties are necessarily protected. If you say that the 
+
+consumer still has the election, that certainly isn't 
+
+what they bargained for. Maybe I'm -- maybe that's just 
+
+a quarrel with the content of the unconscionability 
+
+standard.
+
+ MR. GUPTA: Right.
+
+ JUSTICE KENNEDY: Rather than FAA, but I 
+
+think it does bear on at least section 4 of the FAA.
+
+ MR. GUPTA: Well, and maybe I'm 
+
+misunderstanding your question, but I think, you know, 
+
+that's true of any of the procedural limitations that 
+
+the Petitioners concede would be subject to the 
+
+unconscionability doctrine. A person would still be 
+
+free to proceed under a basis that would otherwise be 
+
+unconscionable.
+
+ For example, if you had an arbitration 
+
+clause that limited important remedies -- it banned 
+
+punitive damages, injunctive relief, insisted on a 
+
+distant forum, required excessive fees -- those would be 
+
+34
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22 --
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+unconscionable as a matter of state contract law, or 
+
+could be anyway, but the consumer would still have the 
+
+ability to proceed on that basis.
+
+ JUSTICE SOTOMAYOR: Counsel, I've asked your 
+
+adversary this question and I'm not sure yet what his 
+
+answer is, so I'm asking you it. How would you propose 
+
+to distinguish between facially neutral contract law 
+
+defenses that implicitly discriminate against 
+
+arbitration and those that do not? What's the test you 
+
+would use to tell the difference between the two? 
+
+Because obviously there are subterfuges that some legal 
+
+systems could use to address themselves just to 
+
+arbitration. So how do we tell the difference?
+
+ MR. GUPTA: Right, and we don't deny that's 
+
+true. But it's not that different from the way this 
+
+Court approaches State law in general. You start from a 
+
+position of deference. The Court says this is facially 
+
+nondiscriminatory law, it's generally applicable, but 
+
+there's a limit on that. If the State law is -- if the 
+
+State is engaging in obvious subterfuge to deny 
+
+federally protected rights, this Court has always said 
+
+JUSTICE SOTOMAYOR: How do we test that?
+
+ MR. GUPTA: -- that there is a limit -­
+
+JUSTICE SOTOMAYOR: I mean, other than -- I 
+
+35 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19 --
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+don't want to look through legislative history and 
+
+determine whether some committee person said something 
+
+that sounds like subterfuge. How do I look at the law 
+
+and its effects and determine that subterfuge or that 
+
+discrimination?
+
+ MR. GUPTA: I think in the first instance it 
+
+would be an objective determination. You would see 
+
+whether the State court is telling the truth. Is this 
+
+law really being applied in the same way in the 
+
+arbitration context and outside of the arbitration 
+
+context. And here we know because, as Justice Kagan 
+
+said, the first California appellate case on point is a 
+
+case outside of the arbitration context, the America 
+
+Online case. The Discover Bank case relied on that case 
+
+when it struck down a class-action ban in the 
+
+arbitration context.
+
+ CHIEF JUSTICE ROBERTS: Where do you get -­
+
+JUSTICE BREYER: Your brother says that the 
+
+CHIEF JUSTICE ROBERTS: Where do you get 
+
+"obvious subterfuge" in the Federal Arbitration Act?
+
+ MR. GUPTA: That's not in the Federal 
+
+Arbitration Act, Your Honor, but in Mullaney v. Wilbur 
+
+case and other cases where the Court is describing the 
+
+limits on deference to State law, those are the kinds of 
+
+36 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+standards the Court has used. If it's not a credible 
+
+rule of State law, if the State is not really doing what 
+
+its saying, and the result is the deprivation of 
+
+Federally protected rights, this Court has always said 
+
+that there's a limit on deference to State law. Now -­
+
+CHIEF JUSTICE ROBERTS: But that's in the 
+
+independent and adequate State ground context, which 
+
+strikes me as quite different. We have a statute here 
+
+that says the arbitration agreements have to be treated 
+
+like any other contract, any contract. I don't see how 
+
+that's the same as obvious subterfuge.
+
+ MR. GUPTA: Well, I'm addressing -- Justice 
+
+Sotomayor's question, if I understand it, is when you 
+
+have a facially nondiscriminatory rule of contract law, 
+
+where when you look at the face of the opinion nothing 
+
+suggests it's nondiscriminatory. And the question is 
+
+how do you tell whether the State court is not telling 
+
+the truth? And I think in that circumstance you'd have 
+
+to -- I can't think of any other way you would do the 
+
+analysis.
+
+ JUSTICE BREYER: You have to -- you would do 
+
+it differently, because they might be telling the truth. 
+
+The example that your brother lawyer gave is this: That 
+
+we have a State and the State says, if you have a 
+
+contract, in the dispute resolution provision, whether 
+
+37 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+you have arbitration or not, that provision is void if 
+
+it says you won't have a judge, and it's void if it says 
+
+you won't have a jury, and it's void if it says that you 
+
+will not go to the United States courthouse for deciding 
+
+all Federal claims.
+
+ That applies whether there is an arbitration 
+
+clause or not an arbitration clause. Now, that would 
+
+seem to me no subterfuge. It is absolutely clear. They 
+
+are not lying. It just happens to prevent arbitration. 
+
+And he says that's absolutely true of this one, that 
+
+once you get into class actions you will discover you 
+
+have something that really looks like a court case. You 
+
+have to have discovery, you have dozens of lawyers 
+
+involved, you have depositions, you are running off 
+
+every 5 minutes to the judge or to somebody to say is 
+
+this deposition good, bad or indifferent. You have 
+
+methods for enforcing the deposition. You have all 
+
+kinds of things.
+
+ He can make a much bigger list than me. So 
+
+he says: This case is like the case of California 
+
+saying everybody can decide it any way they want as long 
+
+as they do it before a Federal judge. Okay? Now what's 
+
+your answer to that?
+
+ MR. GUPTA: Obviously we concede that those 
+
+kinds of rules are preempted. 
+
+38 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+JUSTICE BREYER: But what's your answer to 
+
+his specific effort to assimilate the issue in this 
+
+case, which is the class action, to the made-up issue, 
+
+which you concede is a discrimination?
+
+ MR. GUPTA: Right. I think there are two 
+
+limiting principles in addition to the discrimination 
+
+inquiry. Discrimination doesn't get you there. You can 
+
+then ask, is the rule tantamount to a rule of 
+
+non-enforceability of arbitration agreements. So for 
+
+example, if a State law says you cannot waive the right 
+
+to a public jury trial. Now, obviously that renders all 
+
+arbitration agreements unenforceable. It contradicts 
+
+the general rule of enforceability. To read the savings 
+
+clause to allow a rule like that would be to read -­
+
+JUSTICE BREYER: What about -- what about a 
+
+rule that says what you have to have in any contract is 
+
+a rule that all the rules of the Federal Civil Procedure 
+
+apply to discovery, not necessarily in a courtroom, but 
+
+you have to follow exactly those procedures?
+
+ MR. GUPTA: I think that would bring into 
+
+play the second limiting principle, because parties 
+
+could contract, obviously, to agree to certain 
+
+procedural rules like that. But I think that that would 
+
+bring into play a principle of obstacle preemption.
+
+ JUSTICE BREYER: Okay. Now, why isn't this 
+
+39
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+obstacle preemption?
+
+ MR. GUPTA: Right. I think one of the 
+
+purposes -- we agree with Petitioners about this. One 
+
+of the purposes of the Federal Arbitration Act is to 
+
+allow parties to contract their procedures, to tailor 
+
+their procedures; and in general the courts ought not to 
+
+be interfering with those kinds of consensual decisions.
+
+ But there are two other important purposes 
+
+at play, and no statute pursues its purposes at all 
+
+costs. One of those purposes is to ensure that there's 
+
+not coercion, that you have a consensual agreement; and 
+
+another, just as important, is to ensure that 
+
+arbitration merely represents a change of forum, but 
+
+isn't an exemption from the law. So that's -- I think 
+
+that's at work in the examples that Petitioner concedes.
+
+ JUSTICE GINSBURG: Mr. Gupta, is -- I'd like 
+
+you to focus on Stolt-Nielsen. In Stolt-Nielsen this 
+
+Court said that, absent express consent, no class 
+
+arbitration. If the seller or employer, whoever it is, 
+
+doesn't want that class arbitration, doesn't have to 
+
+have it.
+
+ And here that's surely the case; the ATT has 
+
+not consented to class arbitration. Then California law 
+
+says: Well, that's okay; then you will be subject to a 
+
+class-action suit in court. But the very purpose of the 
+
+40 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+arbitration agreement was that you would be in 
+
+arbitration and not in court. So why isn't 
+
+Stolt-Nielsen dispositive of this case?
+
+ MR. GUPTA: I think Stolt-Nielsen is 
+
+properly read as -- the questions there was a question 
+
+of contract interpretation. The question here is 
+
+whether the agreement is valid in the first place, 
+
+whether you have a contract. What Stolt-Nielsen tells 
+
+you is that you cannot impose class arbitration on an 
+
+unwilling defendant.
+
+ JUSTICE GINSBURG: But here you have an 
+
+unwilling defendant who doesn't want class arbitration.
+
+ MR. GUPTA: Well, the defendant here has 
+
+specified in its arbitration agreement that if the 
+
+class-action ban is invalidated, it would prefer to face 
+
+any class-wide proceedings in court, and that choice is 
+
+up to the defendant. If the defendant chose to face 
+
+class-wide proceedings in arbitration, they could do so 
+
+under -- under the California rule, or they could elect 
+
+to do so in court, and they could do so under whatever 
+
+procedures they specified in the agreement or that were 
+
+specified in a subsequent agreement between the parties.
+
+ California law doesn't impose any particular 
+
+procedures on the party. It just insists that in 
+
+circumstances where the ban would function as an 
+
+41 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+exculpatory clause, that there is some avenue for 
+
+class-wide proceedings, where claims wouldn't feasibly 
+
+be litigated individually. I don't -­
+
+JUSTICE KAGAN: Mr. Gupta, AT&T says that 
+
+nobody would ever choose class arbitration; it's the 
+
+worst of both worlds. You get all the procedures, you 
+
+get broad liability, but at the same time you have no 
+
+judicial review, so that this will effectively kill off 
+
+arbitration in the consumer context.
+
+ MR. GUPTA: I think one answer to that is 
+
+that some parties have chosen class arbitration, and we 
+
+cite some examples in the brief. There have also been 
+
+hundreds of class arbitrations conducted by the American 
+
+Arbitration Association, the leading arbitration 
+
+association. Class arbitration has existed for a 
+
+quarter century, so it's not something that is foreign 
+
+to arbitration.
+
+ But also, I just refer back to what I said 
+
+to Justice Ginsburg, which is that this is a matter of 
+
+consent. Nobody is forcing defendants to face class 
+
+arbitration, and nobody is forcing them to face it on 
+
+terms that they haven't consented to. So if there are 
+
+concerns about -- about the ability of class arbitration 
+
+to effectively manage the process, they can be tailored 
+
+by the parties. And in fact, there are even hybrid 
+
+42 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+procedures where -­
+
+JUSTICE SCALIA: Of course. The question is 
+
+not whether they are being forced to accept class 
+
+arbitration; it's whether they are being coerced into 
+
+abandoning regular arbitration. That's really the 
+
+issue.
+
+ MR. GUPTA: I mean, one could say the same 
+
+thing about many of the procedural limitations that both 
+
+parties agree are subject to the unconscionability 
+
+doctrine. If a defendant said: Well, we don't want to 
+
+face arbitration unless we can ban punitive damages or 
+
+other important remedies, unless we can insist on 
+
+certain kinds of discovery limitations that the State 
+
+courts deem unconscionable because they don't allow the 
+
+parties to vindicate their rights individually, the same 
+
+argument would hold true. The defendant would be able 
+
+to say: Well, that's -- you know, if we can't have 
+
+arbitration on our terms, we won't have arbitration at 
+
+all.
+
+ That is not what the Federal Arbitration Act 
+
+says, though. The Federal Arbitration Act puts 
+
+arbitration agreements on an equal footing with other 
+
+contracts. It forbids States from discriminating 
+
+against arbitration, but it doesn't require them to 
+
+remove all impediments that -- that a party may wish 
+
+43 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+removed to have arbitration on their terms, even where 
+
+it would effectively exculpate -­
+
+JUSTICE SCALIA: That's true, as long as 
+
+those impediments are removed on an -- on an equal 
+
+footing with all contracts.
+
+ MR. GUPTA: That's right. That's right, 
+
+Your Honor, and I think -- you know, we concede that if 
+
+the California courts were discriminating against 
+
+arbitration agreements, if they were applying one rule 
+
+to class-action bans or other kinds of procedural 
+
+limitations in arbitration and another outside of 
+
+arbitration, that would not fall within the savings 
+
+clause.
+
+ JUSTICE ALITO: Can I take you back to a 
+
+question that was asked a few minutes ago, because I'm 
+
+not sure I understood your answer.
+
+ What is the difference between a State rule 
+
+that says that the rules of civil procedure must be 
+
+followed in any adjudication and a rule that says that 
+
+class adjudication must always be available?
+
+ MR. GUPTA: I think in the first instance, I 
+
+don't think that -- I'm assuming that you're describing 
+
+a rule that purports to apply general contract law, 
+
+let's say unconscionability; right?
+
+ JUSTICE ALITO: Yes, uh-huh. 
+
+44 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+MR. GUPTA: I don't think -- I think it 
+
+would be hard for a State to credibly claim that the 
+
+absence of the Federal Rules of Civil Procedure 
+
+systematically exculpate one party from -- from 
+
+liability. That just -­
+
+JUSTICE ALITO: No, I just -- I'm not 
+
+putting this under an unconscionability label. These 
+
+are just general rules, and the question is whether 
+
+they -- whether they can be applied, whether they 
+
+constitute discrimination against -- against 
+
+arbitration.
+
+ MR. GUPTA: Well, whether or not they 
+
+constitute discrimination against arbitration, I think 
+
+your first hypothetical would be preempted, because a 
+
+State could not credibly be serving the purposes that 
+
+the savings clause serves in insisting on the Federal 
+
+Rules of Civil Procedure.
+
+ JUSTICE ALITO: Why?
+
+ MR. GUPTA: Because -- because I don't think 
+
+that a credible argument can be made that that 
+
+systematically serves and functions as an exculpatory 
+
+clause.
+
+ There are going to be questions of degree 
+
+here, but take, for example, discovery. I think that 
+
+both parties would agree that if an employer said: I 
+
+45
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+get discovery and you, the employee, don't get discovery 
+
+for your fact-bound discrimination -­
+
+JUSTICE ALITO: No, but I really would 
+
+appreciate it if you would answer my hypothetical on one 
+
+that was posed before.
+
+ What is the difference -- let me change it 
+
+slightly -- between a rule that says you must follow the 
+
+rules of evidence in every adjudication and a rule that 
+
+says that class adjudication must always be available?
+
+ I think your answer comes down to the 
+
+proposition that the former is inconsistent with the 
+
+idea of arbitration, and therefore, that's why it's not 
+
+allowed, and the latter is not inconsistent with the 
+
+idea of arbitration, and therefore, it is allowed. Is 
+
+that correct or not?
+
+ MR. GUPTA: No, I think -- I think -- I 
+
+think a better way to analyze that is under the rubric 
+
+of obstacle preemption, because there are important 
+
+purposes that are served by the savings clause in 
+
+invalidating certain procedural procedures that have an 
+
+exculpatory effect, a substantively unfair effect, but 
+
+at the same time the act, to be able to function, has to 
+
+allow parties to contract for -­
+
+JUSTICE ALITO: Well, okay. It amounts to 
+
+the same thing. Insisting on compliance with the 
+
+46 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+Federal -- with the California rules of evidence is an 
+
+obstacle to arbitration, but allowing -- insisting on 
+
+the availability of class adjudication is not an 
+
+obstacle to arbitration. But in the end -­
+
+MR. GUPTA: Right.
+
+ JUSTICE ALITO: -- we have to make a value 
+
+judgment about whether these things, one thing or the 
+
+other, fits with arbitration. That's what it comes down 
+
+to.
+
+ MR. GUPTA: No, I think -- I think that's 
+
+not right. I mean, I think in the first instance you 
+
+defer to what the State court says it is doing, and what 
+
+the State says it is doing -- and there is no reason to 
+
+doubt this -- is that it is preventing a procedural 
+
+limitation that systematically favors one party, tilts 
+
+the playing field to a degree that parties cannot 
+
+feasibly vindicate their claims through arbitration.
+
+ JUSTICE ALITO: And when it -- when it 
+
+imposes the rule that the -- the rules of evidence apply 
+
+across the board, it says it feels that these are 
+
+necessary in order for parties to be treated fairly in 
+
+every method of adjudication.
+
+ MR. GUPTA: Right. And, I mean, obviously, 
+
+the application of the Federal Rules of Evidence don't 
+
+have a systematic effect that favors one party or the 
+
+47 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+other, and -- and so I think a rule like that would not 
+
+be credible. And I'm trying to answer your 
+
+hypothetical, but I do think that the discovery -­
+
+JUSTICE BREYER: Where do we look to find 
+
+the answer? I mean, I understand your answer and I know 
+
+the other side's going to say: Well, this is a 
+
+tremendous obstacle. If I have one person to deal with, 
+
+I say: You want your $75, I will offer you $75, and if 
+
+you don't take it and I turn out to be wrong, I'm going 
+
+to give you $7,500. That's their system. Right?
+
+ So they say the alternative is class action. 
+
+There are a million customers. I'm faced with a claim 
+
+for $75 million. I can't afford that. I'll settle it, 
+
+even if I'm right. So if you have your rule, I'm going 
+
+to be facing these things all the time. I'm not -- I'm 
+
+not going to enter into arbitration agreements. I will 
+
+take my chances in court. Okay? Now, that -- that's 
+
+their argument.
+
+ So it is empirical, in part: What do I look 
+
+to? It's not logic. It's a question of where should 
+
+I -- what should I read to show, in your opinion, you're 
+
+right?
+
+ MR. GUPTA: I think you have to look first 
+
+at what the State law is trying to do, and the -- the 
+
+hypotheticals about the insistence on jury trials, 
+
+48 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+insistence on Federal Rules of Evidence or civil 
+
+procedure, those are clear -- it just would not be 
+
+credible for a State, I think, to say that those things 
+
+are required.
+
+ JUSTICE KAGAN: Is your test a purpose test 
+
+or an effects test? Is it a test that says the State is 
+
+doing this in order to kill arbitration, or is it a test 
+
+that says the State is doing something that will kill 
+
+arbitration?
+
+ MR. GUPTA: I think you can look to both. 
+
+think you would have to look to both. I mean, it would 
+
+pose an obstacle to the statute, whether the State was 
+
+doing something antithetical to the purposes of the 
+
+statute or whether it had the effect of destroying 
+
+arbitration. In either case, those things would be 
+
+preempted.
+
+ But all of these hypotheticals describe 
+
+rules that don't exist under any State's laws and are 
+
+unlikely to exist, because they -- they can't -- they 
+
+wouldn't really be able to be reconciled with 
+
+traditional notions of contract law, and then you really 
+
+would have obvious subterfuge. You really would have a 
+
+rule that is not true State law.
+
+ But -- but I think if you look, for example, 
+
+at discovery, a State could not insist on plenary 
+
+49 
+Alderson Reporting Company 
+
+I 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+discovery, full discovery, to the same degree available 
+
+in courts, but a State can certainly insist on 
+
+invalidating one-sided discovery limitations. A State 
+
+could certainly say to someone who seeks to vindicate a 
+
+fact-bound employment discrimination claim has to have 
+
+some opportunity to develop the facts. Otherwise, 
+
+that -- that is exculpatory.
+
+ JUSTICE KENNEDY: If you stick with the 
+
+theory that the test is whether or not the law in 
+
+question is inconsistent with the idea of arbitration -­
+
+whose idea of arbitration? What about, suppose it's the 
+
+bank's idea of arbitration, that we -- we want this 
+
+settlement, say; we do not want that; that's the bank's 
+
+idea of arbitration that the parties agreed on.
+
+ MR. GUPTA: Right. I think you are right 
+
+Justice Kennedy, and I think the difficulty of 
+
+ascertaining what is sort of at the essential core of 
+
+arbitration means that the -- that the test of what's 
+
+tantamount to a rule of non-enforceability is going to 
+
+be -- it's going to be a very small category.
+
+ It's going to describe the ouster doctrine, 
+
+the jury trial waiver of prohibition; and I think that's 
+
+why you have got to resort to some principle of obstacle 
+
+preemption to figure out whether the State is -- is 
+
+legitimately fulfilling the purposes, the important 
+
+50 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+purposes that the savings clause serves, or whether it's 
+
+just insisting on full-scale procedures for the sake of 
+
+it, in ways that have nothing to do with the -- the 
+
+State policing its own marketplace, protecting its 
+
+substantive rules of liability and ensuring that parties 
+
+can adequately vindicate their claims. And if a State 
+
+is doing that, I think that kind of rule -­
+
+JUSTICE SCALIA: Yes, but I -- I find it 
+
+difficult to regard as -- voiding exculpatory contracts. 
+
+I mean, yes, contracts which say I'm not liable if -­
+
+even though I've committed a wrong, that's exculpatory. 
+
+But the State here says, you have to not only be liable 
+
+for any faults that the other party to this contract 
+
+discovers, but the other party of this contract has to 
+
+be able to benefit from whatever faults anybody else in 
+
+the world might find and bring -- and bring a class 
+
+action lawsuit. I -- that -- that goes well beyond 
+
+forbidding any exculpatory provisions.
+
+ MR. GUPTA: Well, with respect, 
+
+Justice Scalia, that is not the rule of law that this 
+
+State has announced. The State has made a judgment that 
+
+if you preclude class-wide relief, that will mean -­
+
+that will gut the State's substantive consumer 
+
+protection laws, because people will -- in the context 
+
+of small frauds not be able to bring those cases. 
+
+51 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+
+ MR. GUPTA: Thank you, Mr. Chief Justice.
+
+ CHIEF JUSTICE ROBERTS: Mr. Pincus, you have 
+
+4 minutes remaining.
+
+ REBUTTAL ARGUMENT OF ANDREW J. PINCUS
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. PINCUS: Thank you, Mr. Chief Justice.
+
+ Although we believe we win under the 
+
+principle of obstacle preemption that was just being 
+
+discussed for the reasons that were enunciated in 
+
+Stolt-Nielsen, we think there is a much easier way for 
+
+this Court to decide this case. Congress when it wrote 
+
+section 2 used the phrase "any contract." And it 
+
+clearly did that for a reason, and the reason was it 
+
+wasn't -- it recognized, as Justice Sotomayor said, that 
+
+there could be attempts through nondiscriminatory 
+
+provisions to injure arbitration; and the protection 
+
+Congress adopted was a prophylactic rule. It said if 
+
+the State law rule that the State is trying to apply to 
+
+an arbitration clause applies broadly to a large set of 
+
+clauses, that's the best protection against 
+
+discrimination and that's why the "any contract" 
+
+language is there.
+
+ And so, in answer to your question, Justice 
+
+Sotomayor, about where to look for, for what "any 
+
+52
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+contract" means, we think it means very broad; and the 
+
+Court has said that, and the doctrines that the court 
+
+has identified as qualifying -- duress, fraud and 
+
+unconscionability -- are doctrines that apply broadly 
+
+across the entire range of contract.
+
+ But one thing that is very clear, we think, 
+
+is that it can't mean -- "any contract" can't mean any 
+
+dispute resolution contract, because that is the 
+
+gerrymandered category that most presents the risk of 
+
+discrimination. And if the Court holds that that 
+
+category is impermissible to justify a rule, it deals 
+
+with all of the hypotheticals that are being discussed 
+
+because they are all jury waivers, discovery, evidence; 
+
+those are all rules that, as the Court has propagated as 
+
+hypotheticals, are rules that apply to all dispute 
+
+resolution clauses, and they are focused on dispute 
+
+resolution clauses.
+
+ So we think that disposes of the argument 
+
+that Discover Bank can be applied, simply because it 
+
+applies to litigation contracts and arbitration 
+
+contracts.
+
+ The next question is Respondents' second 
+
+argument, which is okay, if that is not a reason it 
+
+falls within the savings clause, it falls within the 
+
+savings clause because it's simply an application of 
+
+53 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+California's general unconscionability doctrine. And 
+
+that is where we turn to the first part of the issues I 
+
+was discussing in the issues that -- that I was 
+
+discussing in the first part of the argument with the 
+
+Court, which is it isn't, because in the three 
+
+particulars that I listed, it is clearly a totally 
+
+different legal rule that simply has the 
+
+unconscionability label on it.
+
+ And just to drill down on my colleague's 
+
+discussion that this was really an ex ante analysis. It 
+
+couldn't be an ex ante analysis, because that would have 
+
+to take into account that the vast majority of claims 
+
+that anyone will ever have under a contract are 
+
+nonclassable claims. And as to nonclassable claims, 
+
+it's clear that the arbitration process is infinitely 
+
+better than the court process, because for most small 
+
+consumer claims there is no real court process. And so 
+
+if one were to make an ex ante assessment of the 
+
+fairness for the parties of the court, it wouldn't just 
+
+be about classable claims; it would have to include 
+
+nonclassable claims; and as to those claims it is clear 
+
+that there is a tremendous benefit to those people from 
+
+the arbitration clause.
+
+ With respect to exculpation, my friend 
+
+referred to the California rule that the contract has to 
+
+54 
+Alderson Reporting Company 
+
+
+
+1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official - Subject to Final Review 
+
+have a public effect. That is not about effects on 
+
+third parties. In the Tunkl case, which is a California 
+
+Supreme Court case that we cite, the court makes clear 
+
+that it's looking for contracts that -- in which public 
+
+services are being performed and that are otherwise 
+
+imbued with a public interest. It's not looking at all 
+
+at the effects on third parties.
+
+ Finally, my colleague spoke about lots of 
+
+class arbitrations. To our knowledge all of those class 
+
+arbitrations were arbitrations that were conducted 
+
+before this Court's decision in Stolt-Nielsen where a 
+
+party had a silent agreement and therefore it was held 
+
+by some lower courts to mean that class arbitration was 
+
+permissible. We are not aware as we say in our brief of 
+
+any contract that explicitly permits class arbitrations 
+
+for the reasons that the Court discussed. It's not -­
+
+just not something that makes any sense.
+
+ Thank you.
+
+ CHIEF JUSTICE ROBERTS: Thank you, counsel. 
+
+The case is submitted.
+
+ (Whereupon, at 11:03 a.m., the case in the 
+
+above-entitled case was submitted.) 
+
+55 
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final ReviewOfficial - Subject to Final Review
+
+adjudication analyze 46:17 13:15,15,16 41:1,2,9,12,14A 
+31:23 44:19,20 ANDREW 1:15 16:25 18:2,3 41:18 42:5,9,11abandoning 43:5 
+46:8,9 47:3,22 2:3,9 3:7 52:5 19:3 20:17 22:8 42:14,14,15,17ability 33:9,21 
+
+adopt 20:4 and/or6:5 22:9 23:4 39:18 42:21,23 43:4,535:3 42:23 
+adopted52:18 announced51:21 44:23 47:19 43:11,18,18,20able 31:6 43:16 
+adversary 35:5 answer18:10 52:19 53:4,15 43:21,22,2446:22 49:20 
+adverse 30:21 19:5 35:6 38:23 applying 4:20 44:1,9,11,1251:15,25 
+afford 48:13 39:1 42:10 6:18 7:23 8:9 45:11,13 46:12above-entitled 
+ago 44:15 44:16 46:4,10 8:25 18:2 24:23 46:14 47:2,4,81:11 55:22 
+agree 34:5 39:22 48:2,5,5 52:24 25:8 26:14 47:17 48:16absence 45:3 
+
+40:3 43:9 45:25 answers 21:13 29:19 44:9 49:7,9,15 50:10absent 40:18 
+agreed50:14 ante 5:19 7:3 appreciate 46:4 50:11,12,14,18absolutely 5:6 
+agreement 3:21 8:19 12:13 28:2 approaches 6:7 52:17,20 53:207:6 18:7 38:8 
+
+3:23 8:5 27:16 28:7,16 31:4,24 35:16 54:15,23 55:1338:10 
+40:11 41:1,7,14 54:10,11,18 arbitrate 5:25 arbitrationsaccept 43:3 
+41:21,22 55:12 antithetical 11:8 42:13 55:9,10account 19:20 
+
+agreements 6:20 49:13 arbitration3:13 55:10,1531:11 54:12 
+6:20,24 8:11 anybody 51:15 3:16,17,18,20 area 29:15across-the-boa... 
+10:8 28:4 37:9 anyway 33:17 3:21 4:2,5,10 argue 10:2418:23 
+39:9,12 43:22 34:1 35:2 4:11,14 5:6,12 argues 3:25act 3:16,19,20 
+44:9 48:16 APPEARANC... 6:5,19,19,24 argument 1:125:21 10:9 21:11 
+
+ahead 15:23 1:14 8:10 9:3,8,22 2:2,5,8 3:4,728:13 36:21,23 
+Alito 19:4,7,15 appellate 36:12 9:25 10:1,4,7,8 10:16,25 11:1240:4 43:20,21 
+
+31:14,22 32:11 applicable 4:8 10:9,11,14,17 16:18 17:7 19:846:22 
+44:14,25 45:6 23:11 35:18 10:20,22 11:7 19:8 26:7 43:16action 12:18 15:4 
+45:18 46:3,24 application 11:16 11:14 13:4,5,16 45:20 48:1815:5,6 22:12,13 
+47:6,18 19:2 27:5 28:15 13:24 14:9,11 52:5 53:18,2324:14 32:6,7 
+
+allow32:22 34:4 47:24 53:25 14:19,24 15:2,5 54:433:10 39:3 
+39:14 40:5 applied5:13,18 15:7,13,15,17 arguments 9:1148:11 51:17 
+43:14 46:23 6:22 9:7 10:2 15:22 16:1,1,10 28:18actions 16:1 
+
+allowed31:19 11:2,21,22,24 16:20 17:1,4,17 arises 7:2 12:1438:11 
+46:13,14 12:22 20:16 18:19 20:13 arose 8:21 9:3addition 39:6 
+
+allowing 47:2 23:18,19 24:2,3 21:3,11 22:11 28:3additional 16:23 
+alternative 15:15 36:9 45:9 53:19 22:14 23:4,7,8 ascertainingaddress 6:12 
+
+48:11 applies 4:21,23 27:1,9,15,20 50:1735:12 
+America 9:4 9:12,13 11:3,13 28:2,4,13 31:17 asked35:4 44:15addressed5:16 
+
+36:13 13:23 16:20 31:18,18 32:16 asking 17:1018:14 
+American42:13 19:19 20:2 33:16,16,18,19 35:6addressing 28:1 
+amounts 13:7 22:10 23:1 34:6,22 35:9,13 assess 19:337:12 
+
+46:24 27:10 38:6 36:10,10,13,16 25:15adequate 24:21 
+analogy 33:3 52:20 53:20 36:21,23 37:9 assessed8:1637:7 
+analysis 28:16 apply 4:17,23 5:3 38:1,6,7,9 39:9 29:6adequately 51:6 
+
+30:22 32:13,25 5:5 7:17 9:18 39:12 40:4,13 assessing 20:5adhesion 4:11 
+37:20 54:10,11 11:9 12:8,10 40:19,20,23 assessment6:2 13:6 16:11 
+
+56 
+
+Alderson Reporting CompanyAlderson Reporting Company
+
+
+
+Official - Subject to Final Review 
+
+54:18 33:19 34:9 broad17:1 42:7 55:22 cited29:22 
+assimilate 39:2 bargaining 13:9 53:1 cases 16:2,5 cites 9:2 
+association based8:18,21 broader8:4 18:15,24 25:12 civil 39:17 44:18 
+
+42:14,15 14:16 broadly 52:20 25:19 28:9 45:3,17 49:1 
+assuming 44:22 basic 30:22 53:4 29:21 33:4 claim17:4,5 
+ATT 40:22 basically 10:18 brother36:18 36:24 51:25 23:23,24 29:3 
+attempts 52:16 32:23 37:23 categories 23:20 29:11 32:4 
+attorneys 32:23 basis 14:17 brought 14:24 category 21:19 33:10,10 45:2 
+attorney's 17:12 21:10 31:20 26:12 21:21,24 50:20 48:12 50:5 
+AT&T 1:3 3:4 33:22 34:20 burden10:25 53:9,11 claimed13:8 
+
+28:25 29:5,9,13 35:3 business 10:10 century 30:9 claiming 10:6 
+32:15 42:4 bear 34:14 buy 14:2 42:16 claims 15:17 
+
+availability 47:3 behalf 1:15,17 certain 17:12,13 32:10,18 38:5 
+Cavailable 26:18 2:4,7,10 3:8 17:14 21:1,1 42:2 47:17 51:6 
+
+C 2:1 3:1 31:16 44:20 26:8 52:6 23:14 39:22 54:12,14,14,17 
+California 7:1246:9 50:1 believe 28:15 43:13 46:20 54:20,21,21 
+
+8:2,9,14 12:24 avenue 42:1 52:8 certainly 34:8 class 12:18 13:4 
+13:2 19:9 21:12 aware 55:14 benefit 51:15 50:2,4 14:9 15:4,5,6 
+25:7 26:14a.m 1:13 3:2 54:22 chances 48:17 15:12 16:1,2 
+28:19 29:7,19 55:21 benefits 32:6 change 40:13 17:17 19:13 
+29:21 30:2best 31:19 52:21 46:6 20:2 22:6,10,12 
+
+B 31:21 33:6 34:4 better24:13 characteristics 22:13 24:14 
+B 5:19 6:23 36:12 38:2031:23 46:17 21:5 31:19,23 32:6,7 
+back 24:5 42:18 40:23 41:19,23 54:16 cheat 13:10 38:11 39:3 
+
+44:14 44:8 47:1 54:25 beyond 51:17 Chief 3:3,9 15:23 40:18,20,23 
+bad7:6 19:22 55:2bigger38:19 25:25 26:3,6,9 41:9,12 42:5,11 
+
+38:16 California's 4:1bilateral 15:3 27:7,24 28:8,11 42:13,15,20,23 
+balance 26:1 7:23 11:16 54:1 33:22,22 29:14,23 30:15 43:3 44:20 46:9 
+ban36:15 41:15 called33:14blowout 33:14 36:17,20 37:6 47:3 48:11 
+
+41:25 43:11 carbon3:18board 4:24 8:2 52:1,2,3,7 51:16 55:9,9,13 
+bank 4:1 8:17 9:2 carried13:918:4 20:16 55:19 55:15 
+
+12:24 13:3 21:6 carries 21:1747:20 choice 27:2,21 classable 54:20 
+23:14 28:14 case 3:4,11 8:1 books 29:20 41:16 class-action 
+31:13 33:23 9:2,5,15 12:4 Breyer12:23 choose 42:5 36:15 40:25 
+36:14 53:19 12:24 13:2113:2 14:1 20:20 chose 41:17 41:15 44:10 
+
+banking 30:11 14:7,24 15:1 20:23 21:14 chosen29:11 class-wide 41:16 
+30:14 16:17 18:136:18 37:21 42:11 41:18 42:2 
+
+banks 22:7,8 22:11 24:439:1,15,25 48:4 Circuit 3:11 51:22 
+23:11,13 25:15 30:9 33:4 Breyer's 16:24 circumstance clause 4:3,4,10 
+
+bank's 50:12,13 36:12,13,14,14 brief 4:21 22:20 37:18 9:22 16:4 22:25 
+banned34:23 36:14,24 38:12 29:22 33:4 circumstances 26:17,25 27:13 
+banning 9:25,25 38:20,20 39:3 42:12 55:14 41:25 29:19 31:10 
+bans 44:10 40:22 41:3bring 39:20,24 cite 33:4,4 42:12 33:14,15,20 
+bargain 8:5 49:15 52:1251:16,16,25 55:3 34:23 38:7,7 
+bargained33:18 55:2,3,20,21 
+
+57 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+39:14 42:1 19:12 29:4,8,11 context 9:3,4 39:12 Court's 55:11 
+44:13 45:16,22 30:25 31:15 11:7,24 20:2 contrary 30:16 cow14:12 
+46:19 51:1 concept 7:24 24:4,9,10,22 copy 3:18 cows 14:3,5 
+52:20 53:24,25 concern 10:8 36:10,11,13,16 core 5:8 24:24 credible 37:1 
+54:23 concerns 42:23 37:7 42:9 51:24 50:17 45:20 48:2 49:3 
+
+clauses 5:6 30:3 concluded3:11 contexts 24:22 correct 12:25 credibly 45:2,15 
+30:4 33:8 52:21 conducted42:13 continent 14:5 14:8 27:5 46:15 critical 6:17 
+53:16,17 55:10 contract 3:25 4:6 correctly 32:14 11:20 12:19 
+
+clear 4:4,7 7:4,19 confidential 4:11 5:17,23 32:21 25:12 27:13 
+8:13,24 9:5 20:12 6:2 9:7,13,16 cost 4:13 6:3 criticize 10:5 
+11:20 27:11 confronted23:3 9:21 10:1,2 costs 40:10 customer29:5 
+38:8 49:2 53:6 Congress 22:22 11:1 12:8 13:6 counsel 35:4 29:13 
+54:15,21 55:3 52:12,18 16:11 21:4,17 52:1 55:19 customers 29:9 
+
+clearly 9:14 25:1 conscience 5:2 21:23 22:1,22 course 43:2 48:12 
+52:14 54:6 5:15 8:1 12:16 23:2,6,17 24:11 court 1:1,12 3:10 
+
+Dcoerced43:4 18:22 25:9,21 26:18 27:10,14 3:17 4:7 5:17 
+D 3:1coercion 27:2 consensual 27:17 28:16,17 7:1 8:9 9:17 
+damages 13:740:11 27:16 40:7,11 28:25 29:12,15 10:22 11:4 12:8 
+
+34:24 43:11colleague 55:8 consent 27:1,15 30:8,11,12,16 12:9 14:19,24 
+deal 48:7colleague's 54:9 27:18 28:1 30:22 31:3,4,16 14:25 15:5,7,12 
+deals 53:11come 7:25 29:3 40:18 42:20 31:25 35:1,7 17:5,17 18:19 
+decide 24:431:6 32:4,9 consented40:23 37:10,10,14,25 19:13 24:7,10 
+
+26:13 38:2133:2 42:22 39:16,22 40:5 24:13,20 25:3 
+52:12comes 5:21 consequences 41:6,8 44:23 25:13 26:10,13 
+
+decided5:1946:10 47:8 30:21 46:23 49:21 26:14,22 27:6 
+deciding 18:22committed51:11 consider7:13 51:13,14 52:13 27:19 29:15,17 
+
+38:4committee 36:2 8:20 28:1,12 52:22 53:1,5,7 29:24 30:11 
+decision 8:17common26:15 29:15 53:8 54:13,25 32:14,16,20 
+
+12:12 55:1127:5 considering 28:3 55:15 35:16,17,21 
+decisions 12:13Compare 31:15 consistent 26:20 contracting 8:16 36:8,24 37:1,4 
+
+40:7compensated 26:24 28:13 18:17 25:17,19 37:17 38:12 
+deem43:1432:19 consistently contracts 4:8,18 40:18,25 41:2 
+deemed33:7,11 compensation 26:22 9:18,19 10:11 41:16,20 47:12 
+DEEPAK 1:1729:4 constitute 45:10 11:10 13:5,5 48:17 52:12 
+
+2:6 26:7complaining 11:8 45:13 20:18 21:1,6,15 53:2,2,10,14 
+default 10:19complete 19:5 consumer13:6 21:19,25 22:5,8 54:5,16,17,19 
+defendant 41:10compliance 28:24,25 33:15 22:9,16 23:5,13 55:3,3,16 
+
+41:12,13,17,17 46:25 33:17,18,19,21 23:14,21 30:16 courthouse 38:4 
+43:10,16 concede 34:18 34:2,8 35:2 43:23 44:5 51:9 courtroom39:18 
+
+defendants38:24 39:4 44:7 42:9 51:23 51:10 53:20,21 courts 10:9 17:2 
+42:20concedes 40:15 54:17 55:4 17:15 18:16,25 
+
+defenses 26:18Concepcion 1:6 consumers 13:10 contractual 5:14 19:3 30:2 33:6 
+35:83:5 29:2 32:17 11:3 17:3 40:6 43:14 44:8 
+
+defer27:6 47:12 Concepcions content 34:10 contradicts 50:2 55:13 
+deference 35:17 
+
+58 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+36:25 37:5 7:24 8:25 9:6 discussion 54:10 drill 54:9 39:13 
+defines 8:14 10:21 11:23 disfavored10:7 dupe 15:3 enforcing 38:17 
+definition 8:6,10 16:7 30:18,21 disfavoring duress 53:3 engaging 35:20 
+degree 45:23 31:1 32:25 10:11 D.C 1:8,15,17 enlistment 32:23 
+
+47:16 50:1 33:24 35:15 disposes 53:18 ensure 27:14 
+deliberately 13:9 37:8 54:7 dispositive 41:3 E 40:10,12 
+deny 35:14,20 differently 29:9 disproportionate E 2:1 3:1,1 ensuring 27:1 
+deposition 38:16 37:22 10:25 early 30:9 51:5 
+
+38:17 difficult 51:9 disproportiona... easier52:11 enter31:25 
+depositions difficulty 50:16 23:8 easy 24:4 48:16 
+
+38:14 directs 17:4,5 dispute 7:2 8:21 economically entered31:3 
+deprivation37:3 discover4:1 8:17 9:12,19 10:3 32:9 entering 28:24 
+deprives 17:3 9:2 12:23 13:3 12:4,14 21:20 effect 7:3 10:21 entire 22:15 53:5 
+describe 49:17 21:6 28:14 21:24 25:16 12:3,17 18:18 entirely 22:6 
+
+50:21 31:13 36:14 28:3 37:25 53:8 18:21 23:8 enunciated52:10 
+described10:22 38:11 53:19 53:15,16 25:13 46:21,21 equal 26:21 
+
+18:15 discovers 51:14 distance 4:12 47:25 49:14 43:22 44:4 
+describing 31:2 discovery 14:19 distant 11:9 55:1 equity 3:24 16:5 
+
+36:24 44:22 15:13 16:10,12 34:25 effectively 42:8 26:18 
+designed3:19 17:14 38:13 distinction6:11 42:24 44:2 equivalent 7:1 
+designing 21:19 39:18 43:13 distinguish35:7 effects 30:5,7,7 12:17 25:22 
+destroying 49:14 45:24 46:1,1 distinguishes 31:9,12 36:4 ESQ 1:15,17 2:3 
+detect 29:2 31:6 48:3 49:25 50:1 32:12 49:6 55:1,7 2:6,9 
+
+32:8 50:1,3 53:13 district 12:9 effort 39:2 essential 50:17 
+determination discriminate 4:2 24:10 32:14,16 Eh 7:10 estoppel 20:13 
+
+8:18 18:2 28:7 23:7 35:8 32:20 either49:15 ET 1:6 
+36:7 discriminates 4:5 doctrine 4:19,21 elect 41:19 etcetera 32:20 
+
+determinations 14:4 24:24 25:1 16:25 17:1 18:4 election 34:8 32:20 
+14:20 discriminating 18:15 19:17,21 elements 11:6 evenhandedly 
+
+determine 5:14 43:23 44:8 19:22,23,24 elucidate 6:11 4:23 
+12:22 24:22 discrimination 20:1,2,25 22:2 elucidating 4:23 even-handed 
+27:17 36:2,4 5:8 7:5 14:13 22:2 23:3 28:21 embodied26:23 20:15 
+
+deterrent 12:17 21:18,18,22 28:22 29:8 empirical 48:19 even-handedly 
+develop 50:6 22:24 24:25 34:19 43:10 employed3:17 16:20 
+developed30:2 28:4 36:5 39:4 50:21 54:1 employee 46:1 everybody 38:21 
+devised23:6 39:6,7 45:10,13 doctrines 27:14 employer40:19 evidence 46:8 
+
+25:1 46:2 50:5 52:22 53:2,4 45:25 47:1,19,24 49:1 
+difference 5:20 53:10 doing 7:15,16 employment 53:13 
+
+5:22 6:6,14 discuss 4:21 21:12 24:19 50:5 ex 5:19 7:3 8:19 
+16:16 35:10,13 discussed24:1 37:2 47:12,13 enacted5:10,11 12:13 28:1,7,7 
+44:17 46:6 52:10 53:12 49:7,8,13 51:7 16:25 22:1 28:16,22 31:4 
+
+differences 55:16 doubt 47:14 enacting 22:23 31:24 54:10,11 
+12:19,20,20,21 discussing 16:18 dozens 38:13 enforce 30:3 54:18 
+
+different 5:25 54:3,4 draw6:11 16:9 32:24,24 exactly 14:14 
+enforceability 
+
+59 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+19:14 39:19 faced48:12 field 47:16 33:6 give 32:5 48:10 
+example 6:10,20 facial 21:22 figure 50:24 four 13:18 21:5,7 go 15:23 27:7 
+
+8:14 11:24 24:5 22:24 Finally 55:8 23:20 33:17 38:4 
+30:9 34:22 facially 4:1,5 find 4:14 6:15 7:8 fours 33:3 goes 9:10 51:17 
+37:23 39:10 23:7 35:7,17 11:23 24:8,8 fraud 13:13 29:2 going 4:25 5:1,17 
+45:24 49:24 37:14 25:7 48:4 51:8 31:6 32:3,8 6:25 7:2,3,7,8 
+
+examples 23:16 facing 48:15 51:16 53:3 7:12 12:5,14 
+40:15 42:12 fact 11:13 16:21 finds 4:10 frauds 51:25 17:2 23:9 24:4 
+
+excessive 34:25 20:12 28:23 fine 17:15,16,22 free 34:20 25:20 29:1 
+exclude 15:16 30:1 42:25 finish6:10 friend 54:24 31:16 33:3 
+exculpate 44:2 facts 50:6 first 3:4 6:21 fulfilling 50:25 45:23 48:6,9,14 
+
+45:4 factual 14:20 9:16 12:2 18:11 fulfills 26:25 48:16 50:19,20 
+exculpation fact-bound 46:2 21:14 26:15,20 full 14:18 32:20 50:21 
+
+54:24 50:5 28:5 29:18 36:6 50:1 good 19:21 38:16 
+exculpatory fair 7:10 12:7,9 36:12 41:7 full-scale 51:2 great 4:12 
+
+28:17 29:19 20:7 24:11 44:21 45:14 function 41:25 ground 3:24 
+30:3,4 31:10 28:17 29:12,13 47:11 48:23 46:22 20:15 24:22 
+42:1 45:21 fairly 47:21 54:2,4 functions 45:21 37:7 
+46:21 50:7 51:9 fairness 29:6 fit 8:6 guess 14:1,6 
+
+G51:11,18 54:19 fits 47:8 Gupta 1:17 2:6 
+G 3:1exemption 13:12 fall 44:12 focus 40:17 26:6,7,9 27:11 
+general 4:2227:3 40:14 falls 4:2 26:16 focused27:8 28:5,10,14 
+
+5:13 6:1,16 9:4 exist 49:18,19 53:24,24 53:16 29:18 30:1,24 
+9:13 11:16existed42:15 familiar 30:22 focuses 19:10 31:21,24 33:1 
+12:15 20:1,4 exists 3:24 14:9 far 10:12 18:20 follow39:19 46:7 33:20 34:1,12 
+23:18,21,24 expect 32:2 faults 51:13,15 followed44:19 34:15 35:14,24 
+24:11 30:15expenses 6:3 favors 47:15,25 footing 26:21 36:6,22 37:12 
+32:23 35:16explain 18:11 feasibly 42:2 43:22 44:5 38:24 39:5,20 
+39:13 40:630:25 31:14 47:17 forbidding 51:18 40:2,16 41:4,13 
+44:23 45:8 54:1 explained15:12 feature 10:6 forbids 21:12 42:4,10 43:7 
+
+generally 4:8explicitly 8:20 Federal 3:15,20 43:23 44:6,21 45:1,12 
+9:18 11:3 21:15 12:13 55:15 10:9 21:11 forced43:3 45:19 46:16 
+22:10 23:5exposure 33:24 28:13 36:21,22 forcing 42:20,21 47:5,10,23 
+35:18express 40:18 38:5,22 39:17 foreign 42:16 48:23 49:10 
+
+genuine 8:5expressly 26:17 40:4 43:20,21 former46:11 50:15 51:19 
+gerrymanderedextent 21:17 45:3,16 47:1,24 formulate 17:10 52:2 
+
+53:949:1 forth 16:5 gut 51:23 
+F getting 20:24federally 35:21 forum 15:3,7 
+
+HFAA 16:4,25 Ginsberg 15:937:4 27:3,21 34:25 
+25:3 26:25 Ginsburg 7:20 hand 6:25fee 18:19 40:13 
+27:13,20 34:13 7:22 9:21 10:5 handed19:2feels 47:20 forward 29:3 
+34:14 14:22 25:6 happen16:10fees 5:25 17:12 31:6 32:4,9 
+
+face 37:15 41:15 40:16 41:11 happens 38:934:25 found 12:9 25:14 
+41:17 42:20,21 42:19 hard 45:2feet 14:3 25:14 32:22 
+43:11 gist 19:8 headed5:11 
+
+60 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+hear 3:3 46:18 50:25 interests 30:13 10:5 11:5,18 kill 42:8 49:7,8 
+heart 19:8 impose 6:3 41:9 interfere 33:8 12:1,5,23 13:2 kind 21:1,3,16 
+held 3:21 4:12 41:23 interfering 40:7 14:1,22 15:9,18 21:20 33:10,15 
+
+17:23 55:12 imposes 47:19 interpret24:19 15:21,23,23,25 51:7 
+helpful 13:22 impossible 33:2 interpretation 16:24 17:6,9,11 kinds 17:12,13 
+henceforward impression 8:22 3:15 41:6 18:5,7,11,12 17:14 20:14 
+
+20:5 9:1 14:8 interrupt 19:5 18:13 19:4,7,15 21:1 32:10 33:8 
+high18:20 incentivizes 32:7 invalidate 3:23 19:16 20:1,20 36:25 38:18,25 
+higher14:3 include 54:20 17:2 20:23,24 21:8 40:7 43:13 
+hire 29:3 includes 22:10 invalidated19:1 21:14 22:4,18 44:10 
+history 36:1 inconsistent 19:1 20:14 23:10,13,23 know5:1 17:19 
+hold 17:16,17 46:11,13 50:10 41:15 24:15,18 25:6 22:9 23:14 29:1 
+
+43:16 independent invalidating 25:24,25 26:3,6 31:5 34:16 
+holding 8:17 24:21 37:7 46:20 50:3 26:9 27:7,24 36:11 43:17 
+holds 53:10 independently invoked3:23 28:8,11 29:14 44:7 48:5 
+Honor 4:16 8:13 15:10,20 involve 13:7 29:23 30:15 knowledge 55:9 
+
+9:23 10:16 13:1 indicates 7:23 involved38:14 31:14,22 32:11 
+L14:15 16:15 indifferent 38:16 involving 33:4 33:13,23 34:3 
+
+label 24:1,7 25:2 22:17 25:11 individual 33:19 issue 6:8 12:11 34:13 35:4,23 
+45:7 54:836:23 44:7 individually 26:16,19 27:4 35:25 36:11,17 
+
+laid 6:21hundreds 42:13 13:10 42:3 27:25 28:1 39:2 36:18,20 37:6 
+language 4:3hybrid 42:25 43:15 39:3 43:6 37:12,21 39:1 
+
+14:17 22:22hypothetical individuals 14:20 issues 16:16 54:2 39:15,25 40:16 
+52:2345:14 46:4 48:3 inferior16:13 54:3 41:11 42:4,19 
+
+large 13:10hypotheticals infinitely 54:15 43:2 44:3,14,25 
+J 52:2018:12 48:25 informal 32:18 45:6,18 46:3,24 
+
+J 1:15 2:3,9 3:7 law3:12,13,22 49:17 53:12,15 32:18 47:6,18 48:4 
+52:5 3:22,24 5:9 6:2 injunctive 34:24 49:5 50:8,16 
+
+I judge 38:2,15,22 6:16 9:25 11:2 injure 52:17 51:8,20 52:1,2 
+idea 46:12,14 judgment 5:1,1 13:2 14:2 16:4 inquiry 39:7 52:3,7,15,24 
+
+50:10,11,12,14 47:7 51:21 16:9 17:14insist 33:17 55:19 
+identified53:3 judicial 12:18 21:11 22:143:12 49:25 justifiable 32:9 
+identifying 16:2 15:14 20:11 24:16 25:750:2 justify 53:11 
+illegitimate 42:8 26:15,16,18,19 insisted34:24 
+
+K28:22,23 juries 10:3 27:3,4,6,14,17 insistence 48:25 
+imbued55:6 jurisdiction17:3 Kagan 8:22 9:1,9 28:6,12,15,19 49:1 
+impact 10:16 jury 14:10 15:14 9:20 17:6,9 29:15,19 30:16 insisting 45:16 
+
+20:7 38:3 39:11 18:5,7,11 19:16 30:23 32:2446:25 47:2 51:2 
+impediments 48:25 50:22 20:1,24 21:8 35:1,7,16,18 insists 41:24 
+
+43:25 44:4 53:13 36:11 42:4 49:5 35:19 36:3,9,25 instance 26:15 
+impermissible Justice 3:3,9 4:9 keep13:22 37:2,5,14 39:10 36:6 44:21 
+
+24:8 53:11 4:17,25 5:20 Kennedy 22:4,18 40:14,23 41:23 47:11 
+implicitly 35:8 6:9,12,13 7:6 33:13,23 34:3 44:23 48:24instances 25:7 
+important 34:23 7:14,20,22 8:22 34:13 50:8,16 49:21,23 50:9 interest 55:6 
+
+40:8,12 43:12 9:1,9,20,21 key 26:24 51:20 52:19 
+
+61 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+laws 7:23 24:19 11:7,13 13:16 27:12 33:1 34:1 new19:21 oppose 3:16 
+49:18 51:24 13:24 14:11,25 35:25 43:7 Ninth 3:11 opposed27:9 
+
+lawsuit 51:17 16:21 17:1 21:7 47:11,23 48:5 nonclassable opts 33:15 
+lawyer29:3 21:20 22:13 49:11 51:10,22 54:14,14,21 oral 1:11 2:2,5 
+
+37:23 23:4 53:20 53:7,7 55:13 nondiscriminat... 3:7 26:7 
+lawyers 32:7 LLC 1:3 meaning 8:4 26:21 order11:22 
+
+38:13 location 11:9 means 9:17 11:1 nondiscriminat... 47:21 49:7 
+leading 31:17 logic 48:20 21:23 50:18 23:1 35:18 ordinary 32:12 
+
+42:14 long 3:13 9:24,24 53:1,1 37:14,16 52:16 32:25 
+legal 4:19 12:21 38:21 44:3 meant 9:24 nonfacial 21:18 original 10:8 
+
+29:2 32:3 35:11 look 7:2,3,25 measuring 18:16 non-arbitration ought 40:6 
+54:7 12:14 14:6 20:5 members 19:12 22:11 ouster16:25 
+
+legislative 36:1 24:18 25:3,6,13 mention13:18 non-enforceab... 22:2 23:3 50:21 
+legislature 5:11 25:20 27:16 13:18 39:9 50:19 outside 36:10,13 
+legitimate 27:5 29:21,24 30:7 mere 11:13 normal 9:6 44:11 
+legitimately 36:1,3 37:15 merely 11:15 notice 33:9 
+
+P50:25 48:4,19,23 27:2 40:13 notions 49:21 
+P 3:1lesser5:3,5 49:10,11,24 method47:22 November1:9 
+PAGE 2:2let's 44:24 52:25 methods 38:17 numbers 13:10 
+panel 14:20level 20:17 looked23:17 milk 14:2,4 
+
+O part 6:23,23 liability 27:22,25 24:9 million48:12,13 
+O 2:1 3:1 10:12 21:1133:24 42:7 45:5 looking 12:3 16:7 mind 6:6 
+objective 36:7 48:19 54:2,4 51:5 18:18,21 31:8 mine 34:2 
+obstacle 39:24 particular3:12liable 51:10,12 55:4,6 minutes 38:15 
+
+40:1 46:18 47:2 14:7 18:1,21 limit 35:19,24 looks 24:7 28:16 44:15 52:4 
+47:4 48:7 49:12 23:20 30:2037:5 28:21 38:12 misunderstand... 
+50:23 52:9 41:23limitation 33:11 lot 20:10 34:16 
+
+obvious 35:20 particularly 27:947:15 lots 55:8 Mobility 1:3 3:5 
+36:21 37:11 particulars 54:6limitations 20:18 lower55:13 32:15 
+49:22 parties 12:3,10 33:5 34:17 43:8 lying 38:9 mode 30:21 
+
+obviously 33:2 19:20 20:6,7 43:13 44:11 money 13:11 
+M 35:11 38:24 27:16,22 28:21 50:3 morning 3:4 
+
+made-up 39:3 39:11,22 47:23 29:16,17,24,25 limited4:4 9:19 26:12 
+majority 54:12 offer48:8 30:8,12,19,20 34:23 motion14:25 
+making 5:24,25 oh 7:25 31:2,9 33:9 limiting 39:6,21 Mullaney 36:23 
+manage 42:24 okay 25:10 38:22 34:5,7 39:21 limits 36:25 
+
+Nmandate 3:12 39:25 40:24 40:5 41:22line 16:9 17:20 
+marketplace N 2:1,1 3:1 46:24 48:17 42:11,25 43:9 list 38:19 
+
+51:4 nearly 32:17 53:23 43:15 45:25listed21:5 54:6 
+matter1:11 27:1 necessarily once 29:11 38:11 46:23 47:16,21 litigate 11:8 
+
+30:13 35:1 14:23 15:6 34:7 one-sided50:3 50:14 51:5litigated42:3 
+42:19 39:18 Online 9:5 36:14 54:19 55:2,7 litigation 3:14,18 
+
+matters 30:13 necessary 47:21 opinion 8:13 party 4:13,13 6:5 9:4,8 10:7 
+meadow14:15 neutral 35:7 37:15 48:21 5:16 6:3 8:4 10:14,18,19 
+mean 21:24 never21:2,9 opportunity 50:6 11:8 13:8,12 
+
+62 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+16:12,13 18:18 20:21 21:13 52:9 42:6 43:1 46:20 38:1 
+19:10 25:13 22:17,21 23:12 preemptive 51:2 provisions 5:14 
+41:24 43:25 23:16,25 24:17 26:20 proceed31:19 9:7,12 11:3 
+45:4 47:15,25 24:20 25:11,24 prefer41:15 33:21 34:20 17:14 18:25 
+51:13,14 55:12 26:1,4,5 28:19 presents 21:21 35:3 19:2 51:18 
+
+passed14:5 31:1 52:3,5,7 53:9 proceedings 16:2 52:17 
+pastures 14:3 place 41:7 preserved15:6 33:25 34:6 public 30:5,7,14 
+pay 4:13 5:24 plain 4:3 preserves 26:17 41:16,18 42:2 30:16,21 31:12 
+people 12:3 plaintiff 14:23 prevent 3:19 process 32:19 39:11 55:1,4,6 
+
+24:12 30:8,13 plaintiffs 15:4 38:9 42:24 54:15,16 publication20:13 
+32:2 51:24 play 39:21,24 preventing 47:14 54:17 punitive 34:24 
+54:22 40:9 principal 10:25 processes 15:14 43:11 
+
+performed55:5 playing 47:16 principle 4:22 prohibiting 17:12 purchase 32:17 
+permissible please 3:10 5:18 23:24 17:13,14 purports 44:23 
+
+13:23 55:14 26:10 26:21,22 27:9 prohibition17:17 purpose 40:25 
+permit 3:16 plenary 49:25 33:7 39:21,24 29:20 31:11 49:5 
+permits 16:4 point 21:8 29:5 50:23 52:9 50:22 purposes 20:5 
+
+25:3 55:15 36:12 principles 4:22 prompted10:9 26:25 27:13 
+person 12:8,10 policing 51:4 5:13 6:18,22 promptly 32:19 40:3,4,8,9,10 
+
+18:19,21 34:19 policy 30:17 7:17 9:17,18 prong 15:15 45:15 46:19 
+36:2 48:7 pose 49:12 11:21,22,24 prongs 15:9 49:13 50:25 
+
+perspective posed46:5 12:21 13:15,15 propagated 51:1 
+28:24,25 29:7 posit 18:12 18:2 23:18,19 53:14 pursue 16:3 
+31:25 32:4 posited18:13,13 23:22 39:6 proper15:1 32:18 
+
+pertain 22:6 positing 5:21 private 32:23 properly 41:5 pursues 40:9 
+pertaining 22:5 6:21 problem12:10 prophylactic put 25:2 
+petitioner1:4,16 position 30:19 13:17 14:16 52:18 puts 43:21 
+
+2:4,10 3:8 5:24 35:17 15:8 20:3 24:1 propose 35:6 putting 45:7 
+40:15 52:6 possible 14:16 25:23 proposition 
+
+QPetitioners 34:18 possibly 11:9 problematic 46:11 
+qualifies 3:2340:3 post 28:7,22 15:10 protected34:7 
+
+9:13 22:24phrase 52:13 power13:9 procedural 33:11 35:21 37:4 
+qualify 16:19picture 10:12 practice 13:11 34:17 39:23 protecting 51:4 
+qualifying 53:3Pincus 1:15 2:3,9 precise 16:16 43:8 44:10 protection 24:24 
+quarrel34:103:6,7,9 4:16,19 33:2 46:20 47:14 25:4 51:24 
+quarter42:165:5 6:9,17 7:14 precisely 3:19 procedure 3:13 52:17,21 
+question 5:167:21 8:12,24 21:20 3:14,17 25:23 provides 3:21 
+
+6:17 9:10,10 9:2,9,23 10:15 preclude 51:22 39:17 44:18 28:12 
+12:7,15 16:24 11:11,19 12:2,7 predictably 13:7 45:3,17 49:2 providing 22:23 
+25:12 26:12,15 13:1,20 14:14 preempted38:25 procedures 7:1 provision 5:8 
+28:6,11 29:10 14:22 15:8,20 45:14 49:16 14:19 16:7,8 6:21 9:24 10:2 
+30:10 31:3,7 16:15 17:6,7,9 preemption 17:21,22,23 17:3,12,13 
+34:16 35:517:25 18:6,10 39:24 40:1 31:17 39:19 18:16 20:6 
+37:13,16 41:5,6 19:6,14,16,25 46:18 50:24 40:5,6 41:21,24 32:17 37:25 
+43:2 44:15 45:8 
+
+63 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+48:20 50:10 reduced25:4 Respectfully 6:1 8:18 9:5,7 7:16,17,18 8:3 
+52:24 53:22 refer42:18 7:14 9:11 10:13,16 14:2,23 15:11 
+
+questions 13:21 referred54:25 respects 11:20 10:19 11:2,2,14 15:25 17:11 
+26:11 41:5 referring 4:6 respond 16:23 11:17 13:23 21:10 30:18 
+45:23 22:7 Respondent 3:25 16:19 20:15 34:3 37:3 38:21 
+
+quite 7:4,18 regard 51:9 9:11 21:16 22:12,14 says 6:2 7:10 8:8 
+10:20 11:20 regular 43:5 Respondents 23:1,1,6 24:23 8:15 9:16 12:13 
+12:9 22:18 relating 21:19 1:18 2:7 11:12 25:1 27:25 16:10,11,13 
+30:18 32:24 relied36:14 25:14 26:8 30:16 37:2,14 18:5,7 19:17 
+37:8 relief 34:24 53:22 39:8,8,13,14 20:25 30:2 
+
+51:22 response 11:19 39:16,17 41:19 35:17 36:18 
+R remaining 52:4 responsibility 44:9,17,19,23 37:9,24 38:2,2 
+
+R 3:1 remedies 34:23 13:12 46:7,8 47:19 38:3,10,20 
+railroads 22:9 43:12 rest 14:4 48:1,14 49:23 39:10,16 40:24 
+random14:21 remove 43:25 result 11:22 50:19 51:7,20 42:4 43:21 
+range 53:5 removed44:1,4 12:20 37:3 52:18,19 53:11 44:18,19 46:7,9 
+read 13:19 14:23 renders 39:11 retains 16:12 54:7,25 47:12,13,20 
+
+39:13,14 41:5 rent 20:17,17 review42:8 rules 16:5,7,22 49:6,8 51:12 
+48:21 repeatedly 27:20 reviewers 24:16 20:14 22:13 Scalia 4:9,17,25 
+
+reading 15:1 represents 27:2 revised32:16 23:11 27:22 6:12 7:6,14 
+reaffirming 27:21 40:13 revocation 3:24 38:25 39:17,23 11:5,18 12:1,5 
+
+10:19 require 3:18 6:25 right 12:6 16:6 44:18 45:3,8,17 17:11 18:12 
+real 54:17 20:13 43:24 16:12 19:14 46:8 47:1,19,24 23:10,13,23 
+really 8:5 10:21 required10:3 28:10,14 31:21 49:1,18 51:5 43:2 44:3 51:8 
+
+36:9 37:2 38:12 34:25 49:4 34:2,12 35:14 53:14,15 51:20 
+43:5 46:3 49:20 requirement 39:5,10 40:2 run 34:2 Scalia's 6:13 
+49:21,22 54:10 11:1 15:9 44:6,6,24 47:5 running 38:14 scheme 13:9 
+
+reason 16:17,23 requires 3:14 47:11,23 48:10 32:15,21 
+S23:2 27:8,12 4:11,13 14:18 48:14,22 50:15 seal 20:25 21:3 
+
+47:13 52:14,14 S 2:1 3:1 25:18 50:15 second 11:12 
+53:23 sake 51:2requiring 11:7 rights 6:4 35:21 12:11 26:24 
+
+reasonable 32:1 satisfied11:1415:12,13,19,22 37:4 43:15 27:8,12 39:21 
+32:5 11:14reserve 26:1 risk 21:21 23:5 53:22 
+
+reasons 9:15 satisfies 11:15resolution 9:12 53:9 section 3:15,20 
+15:10,11 20:9 21:259:19 21:20,25 ROBERTS 3:3 5:12,19 6:23,24 
+26:20 52:10 satisfy 13:2537:25 53:8,16 15:23 25:25 9:14,16 11:14 
+55:16 21:753:17 26:3,6 27:7,24 11:15 14:17 
+
+REBUTTAL 2:8 saved16:19resolve 10:3 28:8,11 29:14 16:19 24:25 
+52:5 savings 4:3,3 resort 50:23 29:23 30:15 26:23 34:14 
+
+recognize 29:2 16:4 22:25respect 5:16 6:24 36:17,20 37:6 52:13 
+32:3,3 26:17,25 27:12 10:18,20 21:15 52:1,3 55:19 see 10:13 34:6 
+
+recognized26:22 39:13 44:1222:12,13 28:2 routine 20:12 36:7 37:10 
+52:15 45:16 46:1929:16,17 51:19 rubric 46:17 seek 29:4 
+
+recognizes 22:15 51:1 53:24,25 54:24 rule 3:22 4:1,7 seeks 50:4 
+reconciled49:20 saying 5:23 6:13 
+
+64 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+selected14:21 six 14:20 10:1 11:2 14:25 strike 5:4 45:4,21 47:15 
+seller40:19 slightly 46:7 16:3,13 17:15 strikes 37:8 systems 35:12 
+sense 55:17 small 13:7,11 17:17 18:1,5,7 stringent 25:9 
+
+Tseparate 9:10 50:20 51:25 18:8,23 19:16 strong 16:18 
+T 2:1,1 13:22 54:16 20:3,10,16,24 stronger6:3 
+tailor 40:5separates 17:19 somebody 38:15 22:5,5,7 23:14 struck 36:15 
+tailored42:2417:25 somewhat 28:20 24:16,21,23 subject 34:18 
+take 19:20 33:10 serve 24:16 sorry 5:19 7:21 25:1 26:16,19 40:24 43:9 
+
+44:14 45:24served46:19 20:22 32:18 27:4,17,23,25 submitted55:20 
+48:9,17 54:12 serves 27:13 sort 50:17 28:6,12,15 55:22 
+
+taken10:1045:16,21 51:1 sorts 20:18 29:19 35:1,16 subsequent 
+31:11services 55:5 Sotomayor 5:20 35:19,20 36:8 41:22 
+
+talking 13:4serving 45:15 6:10 15:18,21 36:25 37:2,2,5 subset 16:5 
+16:22set 16:5 52:20 15:24,25 18:13 37:7,17,24,24 substantive 16:6 
+
+tantamount 39:8sets 12:24 24:15,18 25:24 39:10 43:13 27:22,25 51:5 
+50:19setting 16:8 35:4,23,25 44:17 45:2,15 51:23 
+
+targeted21:16settle 48:13 52:15,25 47:12,13 48:24 substantively 
+22:3settlement 50:13 Sotomayor's 49:3,6,8,12,23 46:21 
+
+targeting 23:8settlements 37:13 49:25 50:2,3,24 subterfuge 35:20 
+tell 7:12 35:10,13 20:12 sounds 36:3 51:4,6,12,21 36:3,4,21 37:11 
+
+37:17shock 5:2,15 8:1 sovereign 16:3 51:21 52:19,19 38:8 49:22 
+telling 36:8 37:17 12:16,16 25:9 special 8:9 21:16 States 1:1,12 subterfuges 
+
+37:2225:21 21:16 23:10 4:20 24:19 38:4 35:11 
+tells 16:13 41:8 shocks 18:22 specific 11:15 43:23 sufficient 13:24 
+terms 5:23 6:15 shortened33:5 39:2 State's 19:23,25 17:24 
+
+42:22 43:18show48:21 specifically 8:15 26:14 27:5 suggests 37:16 
+44:1shows 22:22 8:18 9:2 25:18 49:18 51:23 suit 40:25 
+
+test 14:6 17:10 side 6:4 17:20 specified23:20 statute 5:11,13 sums 13:11 
+22:19 24:2,3,6 side's 48:6 41:14,21,22 8:14 12:12 superior 13:8 
+30:2,6 35:9,23 significant 10:17 sphere 9:8,8 14:18 20:4 22:7 16:12 
+49:5,5,6,6,7 10:20 30:5 spoke 55:8 22:22 25:18 suppose 22:7 
+50:9,18 silent 55:12 standard 5:3,6 30:6,10 37:8 33:13,14 50:11 
+
+Thank 3:9 25:25 similarly 30:7 12:15,17 18:23 40:9 49:12,14 Supreme 1:1,12 
+26:3,5 52:1,2,7 simply 7:8 13:23 24:12 25:8 statutes 4:4 26:14 55:3 
+55:18,19 16:20 25:2 34:11 20:18 22:5 33:5 sure 19:6 21:9 
+
+theory 6:16,16 30:20 53:19,25 standards 37:1 statutory 24:5 22:18 28:8 35:5 
+50:954:7 start 35:16 25:22 26:17 44:16 
+
+thing 43:8 46:25 single 34:5 started17:11 stay 14:25 surely 25:3 40:22 
+47:7 53:6sit 4:25 5:1 state 3:12,16,22 stick 50:8 sweep16:21 
+
+things 6:7,14 sitting 26:13 3:22 4:9,14,20 Stolt-Nielsen Switzerland 14:2 
+13:17,18 17:16 situated29:4,10 5:3,9,10,10,21 10:23 15:12 system20:11 
+19:19 20:11,17 30:8 5:23 6:1,2,15 40:17,17 41:3,4 48:10 
+20:19 24:9situations 8:20 6:18 7:7,7,10 41:8 52:11 systematic 47:25 
+38:18 47:723:17 7:12,15,16 9:25 55:11 systematically 
+48:15 49:3,15 
+
+65 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+think 6:9,17 7:4 31:2 42:7 46:22 12:12,22 18:3 upset 20:10 we'll 30:2,3 
+7:10,15,16 8:3 48:15 18:14 19:2,9,17 use 3:12,14 we're 30:18 
+9:9,10,14 13:21 today 29:22 19:21,22,23,24 14:18 35:10,12 we've 29:22 
+14:14,15,18 totally 54:6 20:1,4,6 23:24 UX 1:6 Wilbur 36:23 
+15:8,10,11 traditional 18:14 24:2,6,8,12 win 52:8 
+
+V16:15,18 18:6 19:9 49:21 25:2,8,16 28:15 wish43:25 
+v 1:5 3:5 36:23 20:9,11,23 21:8 transform 10:21 28:19 29:8,16 withdraw27:21 
+valid 41:721:24 22:21 treated37:9 32:12,25 34:10 words 30:20 
+value 47:623:2,25 24:20 47:21 34:19 43:9 work 31:12 40:15 
+variety 8:2025:11 26:11 tremendous 48:7 44:24 45:7 53:4 works 32:15 
+vast 54:1227:12,19 28:5 54:22 54:1,8 world 51:16 
+VINCENT 1:629:18 30:25 trial 14:10 15:14 unconscionable worlds 42:6 
+vindicate 6:433:1 34:14,16 39:11 50:22 4:10,15 5:24 worried21:18 
+
+43:15 47:1736:6 37:18,19 trials 48:25 6:1,15 7:9,9,11 30:18 
+50:4 51:639:5,20,23 40:2 tribunal 19:11 7:13,18 16:14 worst42:6 
+
+violate 5:740:14 41:4 true 9:23 28:9 17:16,18,22,23 wouldn't 4:17 
+vis 10:6,6 42:10 44:7,21 34:1,17 35:15 18:17 31:4,8 20:10 42:2 
+void 13:6 38:1,2 44:22 45:1,1,13 38:10 43:16 32:22 33:7,12 49:20 54:19 
+
+38:345:19,24 46:10 44:3 49:23 34:4,21 35:1 wrong 14:9 18:8 
+voiding 51:946:16,16,17 truth36:8 37:18 43:14 48:9 51:11 
+
+47:10,10,11 37:22 understand wrote 52:12W
+48:1,3,23 49:3 try 30:24 37:13 48:5 
+
+waive 39:10 X49:10,11,24 trying 6:11 48:2 understanding 
+waiver13:11 x 1:2,7 50:15,16,22 48:24 52:19 17:10 
+
+50:2251:7 52:11 53:1 tuberculin 14:6 understood Ywaivers 13:453:6,18 Tuesday 1:9 32:14,21 44:16 
+20:3 34:2 53:13 year 19:18third 5:18 12:10 Tunkl 55:2 undue 6:3 
+
+want 14:5 15:2 years 33:612:15 19:20 turn 48:9 54:2 unenforceable 
+19:5 30:24 36:1 20:6,7 27:4 turns 11:11 3:22 30:17 À38:21 40:2028:21 29:17,25 two 6:7,7,14 9:11 39:12 à 10:641:12 43:1030:18 31:2,9 13:21 16:16 unfair8:4 12:16 
+48:8 50:12,13 34:6 55:2,7 17:19,25 18:10 25:21 30:11 $
+
+wants 5:3,5 thought 12:23 21:13 26:24 46:21 $7,500 48:1020:2419:4,7 27:13 28:18 unfairness 19:10 $75 48:8,8,13 war28:20three 6:21 11:20 33:24 35:10 19:11,12 
+Washington1:8 012:1,1,2,19,19 39:5 40:8 uniform 16:8 
+
+1:15,17 09-893 1:5 3:4 26:20 54:5 United1:1,12 
+wasn't 52:15Utied23:21 38:4 
+way 31:15 32:15 1UCC 23:21tilts 47:15 universal 22:6 
+
+35:15 36:9 1 5:12uh-huh 44:25time 7:2 8:16,21 universe 22:16 
+37:19 38:21 10:02 1:13 3:2 unconscionabil... 12:14 16:24 unreasonably 
+46:17 52:11 100 33:64:22 5:4,12,15 18:17 22:1 33:5 
+
+ways 10:22 18:11 11:03 55:215:18 6:19 7:24 25:16,17,18 unwilling 41:10 
+51:3 1872 29:208:3,7,10,15,15 26:2 28:3,17 41:12 
+
+weaker8:48:19 11:6,16,23 
+
+66 
+
+Alderson Reporting Company 
+
+
+
+Official - Subject to Final Review 
+
+2
+
+2 3:15,20 6:23 
+
+9:14,16 11:14 
+11:15 14:17 
+16:19 24:25 
+26:23 52:13 
+
+20th 30:9 
+2010 1:9 19:18 
+26 2:7 
+
+3
+
+3 2:4
+
+
+4
+
+4 34:14 52:4
+
+
+5
+
+5 38:15 
+52 2:10 
+
+9
+
+9 1:9 
+9,000 14:3 
+9,000-foot 14:12 
+
+14:15 
+
+67 
+
+Alderson Reporting Company 
+
+
