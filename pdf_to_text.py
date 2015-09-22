@@ -38,16 +38,11 @@ def convert_pdfs_to_dirty_text_files():
         os.system(tika_command)
 
 def clean_text_files():
-    #input_filenames = os.listdir('txts_dirty/')
-    input_filenames = ['02-1472.txt']
-
+    input_filenames = os.listdir('txts_dirty/')
     for input_filename in input_filenames:
-        print input_filename
-        print
         lines = strip_lines('txts_dirty/' + input_filename)
 
         output_filename = 'txts_clean/' + input_filename
-        print output_filename
         with open(output_filename, 'w') as f:
             for line in lines:
                 f.write(line + '\n')
@@ -98,7 +93,15 @@ def strip_lines(filename=None):
 
             # Check if we have reached the end of the argument.
             # (Before we have reached the appendix.)
-            if 'The case is submitted.' in line:
+            #
+            # This condition is for case 14556 part 1
+            # This condition is for case 03-1693
+            if line.startswith('(Wher') or \
+                line.startswith('[Wher') or \
+                line.startswith('[ Wher') or \
+                line.startswith('Whereupon,') or \
+                '(Short break at 11:32 a.m.)' in line or \
+                'now adjourned until Monday next at 10' in line:
                 reached_end = True
     return lines
 
