@@ -37,36 +37,46 @@ def convert_pdfs_to_dirty_text_files():
         tika_command += '> %s' % output_filename
         os.system(tika_command)    
 
-def strip_lines(filename='14-556q1_l5gm.txt'):
+def strip_lines(filename=None):
     lines = []
     with open(filename) as f:
-        for line in f:
-            # remove unicode byte: '\xc2\xa0' == ' '
-            # remove unicode byte: '\xc2\xad' == '-'
-            # remove leading and trailing whitespace
-            # remove 'Official'
-            # remove 'Alderson Reporting Company'
-            new_line = line.replace('\xc2\xa0', ' ')
-            new_line = new_line.replace('\xc2\xad', '-')
-            new_line = new_line.strip()
-            new_line = new_line.replace('Official', '')
-            new_line = new_line.replace('Alderson Reporting Company', '')
+        reached_end = False
+        while not reached_end:
+            line = f.readline()
+            # remove: unicode byte: '\xc2\xa0' == ' '
+            #         unicode byte: '\xc2\xad' == '-'
+            #         leading and trailing whitespace
+            #         'Official'
+            #         'Alderson Reporting Company'
+            #         '1111 14th Street NW, Suite 400 Washington, DC 20005'
+            line = line.replace('\xc2\xa0', ' ')
+            line = line.replace('\xc2\xad', '-')
+            line = line.strip()
+            line = line.replace('Official', '')
+            line = line.replace('Alderson Reporting Company', '')
+            line = line.replace('1111 14th Street NW, Suite 400 Washington, DC 20005', '')
 
             # ignore lines that are too short to be meaningful
             # remove leading digits
             # remove leading and trailing whitespace
-            if 3 < len(new_line):
-                if new_line[0].isdigit():
-                    new_line = new_line[1:]
-                if new_line[0].isdigit():
-                    new_line = new_line[1:]
-                new_line = new_line.strip()
+            # convert to lowercase
+            if 3 < len(line):
+                if line[0].isdigit():
+                    line = line[1:]
+                if line[0].isdigit():
+                    line = line[1:]
+                line = line.strip()
+                #line = line.lower()
+                lines.append(line)
 
-                lines.append(new_line)
+            # Check if we have reached the end of the argument.
+            # (Before we have reached the appendix.)
+            if 'The case is submitted.' in line:
+                reached_end = True
+                print 'REACHED END'
     return lines
 
 
 if __name__ == "__main__":
-    convert_pdfs_to_dirty_text_files()
-
-    
+    filename = '13-7120_hd1a.txt'
+    #lines = strip_lines(filename)
