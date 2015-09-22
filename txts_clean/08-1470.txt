@@ -1,0 +1,1477 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+MARY BERGHUIS, WARDEN, :
+Petitioner :
+v. : No. 08-1470
+VAN CHESTER THOMPKINS :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Monday, March 1, 2010
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:03 a.m.
+APPEARANCES:
+B. ERIC RESTUCCIA, ESQ., Solicitor General, Lansing,
+Michigan; on behalf of Petitioner.
+NICOLE A. SAHARSKY, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.; for
+United States, as amicus curiae, supporting
+Petitioner.
+ELIZABETH L. JACOBS, ESQ., Detroit, Michigan; on behalf
+of Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+B. ERIC RESTUCCIA, ESQ.
+On behalf of the Petitioner 3
+NICOLE A. SAHARSKY, ESQ.
+For the United States, as amicus
+curiae, supporting the Petitioner 19
+ELIZABETH L. JACOBS, ESQ.
+On behalf of the Respondent 30
+REBUTTAL ARGUMENT OF
+B. ERIC RESTUCCIA, ESQ.
+On behalf of the Petitioner 56
+P R O C E E D I N G S
+(10:03 a.m.)
+CHIEF JUSTICE ROBERTS: We’ll hear
+argument first this morning in case 08-1470,
+Berghuis v. Thompkins.
+Mr. Restuccia.
+ORAL ARGUMENT OF B. ERIC RESTUCCIA
+ON BEHALF OF THE PETITIONER
+MR. RESTUCCIA: Mr. Chief Justice, and may
+it please the Court:
+In rejecting Mr. Thompkins's Miranda claim
+and ineffective assistance of counsel claim, the
+Michigan courts did not unreasonably apply clearly
+established Supreme Court precedent. I plan to focus on
+the Miranda claim.
+Now, with respect to the Miranda claim, there
+really are two distinct inquiries at issue. The first
+is whether Mr. Thompkins impliedly waived his rights
+under the Fifth Amendment and, second, whether he
+invoked his right to remain silent during a police
+interview.
+Regarding the waiver question, this Court
+established in Butler that there may be an implied
+waiver, even where a suspect remains silent after having
+received his Miranda warnings, where that suspect
+knowingly receives his rights and there is a course of
+conduct that indicates waiver.
+The Michigan courts here did not
+unreasonably conclude that Mr. Thompkins had impliedly
+waived his rights where he expressly acknowledged his
+rights under -- from his form. After having read out loud
+from that form, he participated in a limited fashion
+during the interview.
+JUSTICE GINSBURG: But he didn't -- he
+didn't waive them. And quite unlike Butler -- Butler,
+if I have it right, said, "I'll talk to you." So that
+was a statement --
+MR. RESTUCCIA: But --
+JUSTICE GINSBURG: -- that he was waiving
+the right to remain silent. He volunteered to talk.
+Here there was no such indication that there was a
+waiver of his right to remain silent.
+MR. RESTUCCIA: Although in Butler this
+Court noted that -- that Butler himself had remained
+silent and did not answer the -- answer at all, or
+remained silent when asked whether he wished to waive
+his right to counsel. So the -- the standard that was
+established from which the Michigan courts relied is
+really on this -- this language of the standard
+established from Butler, that you can -- you can imply
+waiver from the knowing reception, and then a course of
+conduct, because the -- the inference can be drawn from
+the words and actions of the person interrogated. And
+here --
+JUSTICE SOTOMAYOR: Could you tell me
+without more detail, which is what the circuit court
+said, about what the limited responses -- I'm using your
+word -- were. How do we -- how can we imply waiver?
+MR. RESTUCCIA: Well --
+JUSTICE SOTOMAYOR: Meaning if all he said
+was, yes, I want them in, that's much different than
+saying, if someone had asked him, do you want to leave,
+and he shakes his head no. The latter might imply to me
+that he waived, but the former certainly would be
+neutral.
+MR. RESTUCCIA: I have to
+carefully delineate between waiver and invocation. So
+here the waiver occurs at the time that he is asked the
+series of questions: Do you believe in God? Do you
+pray to God? Did you pray for forgiveness --
+JUSTICE BREYER: That happened about 2
+hours and 15 minutes into the exercise, didn't it?
+MR. RESTUCCIA: That's right. It happened
+near the --
+JUSTICE BREYER: Okay. So -- so what we
+have here is a course of conduct, 2 hours and 15 minutes
+of saying nothing.
+MR. RESTUCCIA: Well, we –
+JUSTICE BREYER: Would you say that
+that’s -- that's gone past the point where --
+MR. RESTUCCIA: Well, this -- if you’re
+looking at what has been clearly established for this
+Court, this Court has never -- I mean, one of the
+arguments raised against the position I’m
+advocating is that there is an immediacy requirement.
+Well, this Court in Butler didn't say that the waiver
+had to occur immediately.
+JUSTICE BREYER: In Butler he said: I will
+talk to you, but I am not signing any forms.
+MR. RESTUCCIA: That's right. But if you
+look at what’s the clearly established law -- this Court
+identified the standard, what can be inferred from the
+words and actions of the person interrogated. And if
+you look at what the two --
+JUSTICE BREYER: What they say is, “a course
+of conduct” -- we will not hold -- “This does not mean a
+defendant's silence, coupled with an understanding and a
+course of conduct indicating waiver, may never support a
+conclusion....”
+MR. RESTUCCIA: Right.
+JUSTICE BREYER: But the prosecution's
+burden is great.
+MR. RESTUCCIA: Right. And if -- if you
+look at the two aspects of what constitutes a waiver,
+it's knowing and intelligent, and voluntary. At the
+time that Mr. Thompkins gave his answer to that series
+of questions, there’s nothing in the course of that
+interview that suggested that no longer did he know that
+he didn't have to answer questions.
+JUSTICE BREYER: But going back to Justice
+Sotomayor's question, is there anything during the 2
+hours and 15 minutes that could suggest a waiver?
+MR. RESTUCCIA: The -- the -- the waiver
+occurs at the time that he answered the question. So the
+answer is that he didn't waiver before then, but that --
+it still is evidence to show that that course -- that
+nothing the police had done -- there were no threats --
+JUSTICE SOTOMAYOR: So what do we do with
+our case law that says that you can't infer waiver
+simply from the confession?
+MR. RESTUCCIA: Well, the --
+JUSTICE SOTOMAYOR: I mean, we have said
+that. So that’s pretty clearly established statement --
+MR. RESTUCCIA: Well, the --
+JUSTICE SOTOMAYOR: -- by the Court.
+MR. RESTUCCIA: The courts on direct review
+have allowed -- where there’s a knowing reception of
+one's rights, have allowed the answers themselves to
+provide the evidence that the person did waive his
+rights. In fact --
+JUSTICE SOTOMAYOR: Well, I think certainly
+in -- in Butler, if someone in their confession says, I
+know I don't have to talk to you, but I want to, that
+that would be using those words.
+MR. RESTUCCIA: But that would be --
+JUSTICE SOTOMAYOR: So how can you say --
+MR. RESTUCCIA: That would be an express
+waiver, though.
+JUSTICE SOTOMAYOR: How can you say that
+an appeal to someone's religious position after 2 and
+a quarter hours is a voluntary waiver?
+MR. RESTUCCIA: Well, if you look at what
+this Court has provided in terms of guidance regarding
+what constitutes a lengthy interrogation, Miranda notes
+that a lengthy interrogation would be strong evidence
+against there being a valid waiver. But what
+this Court has determined to be a lengthy interrogation
+were interrogations of much longer duration. In fact,
+Miranda even talks about --
+JUSTICE GINSBURG: We didn't say -- we don't
+have any decision that says the police are home free for
+and a quarter hours. You said that that this was not
+lengthy interrogation.
+MR. RESTUCCIA: Right.
+JUSTICE GINSBURG: But we -- we have no
+decision that says that the police, faced with a silent
+suspect, goes after that suspect, questioning him
+incessantly for 2 and -- 2 hours and 15 minutes, that
+that is not lengthy.
+MR. RESTUCCIA: Well, I think it's important
+to remember that the factual record here was established
+by the State court, and the factual record isn't that he
+remained absolutely silent, but that he participated --
+JUSTICE GINSBURG: He said "yeah," "no," and
+"I don't know."
+MR. RESTUCCIA: Right. But he was
+participating. There’s a fundamental difference between
+remaining absolutely silent and participating --
+JUSTICE SCALIA: Wait. Do -- do we have any
+case that says that 2 and a quarter hours is too long?
+MR. RESTUCCIA: No, and in fact --
+JUSTICE SCALIA: And that there can't be a
+waiver after 2 and a quarter hours?
+MR. RESTUCCIA: No, there's no case law to
+that effect.
+JUSTICE SCALIA: And, therefore, there’s no
+clearly established Supreme Court law that 2 and a
+quarter hours is too long.
+MR. RESTUCCIA: That's the position that --
+JUSTICE SCALIA: Isn't that the name of the
+game here?
+MR. RESTUCCIA: That's the position --
+JUSTICE KENNEDY: Is there a clearly
+established rule that in all of the circumstances of the
+case, we can find that there is coercion, time being one
+aspect of those circumstances?
+MR. RESTUCCIA: I think that's right. And
+what -- one of the --
+JUSTICE KENNEDY: And so that is a clearly
+established rule, and then it's a question whether 2 and
+a half, 3 and a half, 4 and a half suffices. -
+MR. RESTUCCIA: Right. The -- the case that
+I cited was Frazier v. Cupp, in which the interview
+started at 5:00 p.m. and it finished at 6:45 p.m., and
+the Court called that an interrogation of short
+duration. And it is important to remember that this
+Court has stated expressly in Davis that once you have
+knowingly received your rights, that the knowing
+reception itself dispels the inherently coercive
+aspect --
+CHIEF JUSTICE ROBERTS: The question --
+JUSTICE KENNEDY: But your -- your position
+is that if -- same facts, but it's 10 hours instead of
+and a half, is that a closer case, at least? For --
+MR. RESTUCCIA: That's a very different
+case, because there is case law -- like I cited Blackburn
+was an interview that ran 8 or 9 hours, and this Court
+found that that person was probably incompetent or
+insane. But that duration is -- there's been guidance
+about that kind of long duration, whereas in our --
+JUSTICE KENNEDY: And does that show that –
+that the circumstances are coercive, so that even if there
+were a waiver it would be --
+MR. RESTUCCIA: Right. That's the
+suggestion from Miranda, that a lengthy interrogation
+preceding the waiver can suggest the waiver was not
+valid.
+CHIEF JUSTICE ROBERTS: The question, of
+course, is not whether we think 2 and a quarter hours
+under all the circumstances is -- is too long under our
+precedent. The question is, instead, whether it would be
+unreasonable for the State court to determine otherwise.
+MR. RESTUCCIA: That's right. And, ultimately,
+the question is what guidance is there to the State of
+Michigan in applying the implied waiver doctrine to
+indicate that the implied waiver couldn't come after 2
+hours and 15 minutes of interaction in which it
+concluded that the -- that the suspect had been a
+willing participant. The testimony from detective
+Helgert, which -- he was the only person to testify at
+the evidentiary hearing, is that --
+JUSTICE BREYER: I thought Miranda held that
+you can't question a person unless he waives his right.
+MR. RESTUCCIA: No, Miranda in fact talks
+about --
+JUSTICE BREYER: You can question him even
+after he -- it's clear that he hadn't waived his right.
+Is that -- that's Miranda? Or at least that's unclear?
+Is that --
+MR. RESTUCCIA: Warnings -- warnings is a
+prerequisite to questioning, but the waiver is not. In
+fact --
+JUSTICE BREYER: No, I'm not talking about
+the waiver. I'm saying, imagine that it's clear that a
+person hasn't waived his right. Now let's suppose he
+says, "I do not waive my right." Okay?
+Now, is it clear law that once he says "I do
+not waive my right," the police cannot continue to
+question him?
+MR. RESTUCCIA: If there is a --
+JUSTICE BREYER: Is that clear law, yes or
+MR. RESTUCCIA: Yes, that if there is --
+JUSTICE BREYER: Okay, yes. If that's clear
+law, would you say that at some point before the 2 hours
+and 15 minutes expires where they're continuously asking
+him questions and he says nothing, that it has become
+clear that he has not waived his right?
+MR. RESTUCCIA: No. The factual record --
+JUSTICE BREYER: For the question is not
+this. The question is whether, after 2 hours and
+minutes of silence, it is clear -- it's nothing about
+Supreme Court law. Supreme Court law is clear: You
+cannot question him after he makes clear he hasn't
+waived his right. So then the question becomes, is it
+reasonable for a State court to say -- after 2 hours and
+minutes of asking questions and he says nothing, is
+it reasonable to hold that he has not -- conclude that
+he has not waived his rights? Is that the question?
+MR. RESTUCCIA: Yes. The question as I see
+it is that -- let me see if I understand. Let me see if
+I understand your question. There’s a difference
+between refusing to waive, saying I will not waive my
+rights. Essentially if you make it an expressed statement
+that you are unwilling to waive, then essentially it is
+in that case -- I want to keep this separate, but that
+would be an invocation: I do not wish to answer your
+questions. If you make a crystal-clear statement like
+that, it's a different question.
+But here Mr. Thompkins didn't say he was
+unwilling to waive. He’s participating. Now, you
+suggest that there was silence --
+JUSTICE KENNEDY: You’re saying there’s a
+difference between a waiver and a failure to assert?
+MR. RESTUCCIA: Yes, exactly. Here -- the
+fact pattern here is he did not say "I am unwilling to
+waive, I do not wish this interview to go forward." He
+doesn't do that. He just doesn't assert --
+JUSTICE SOTOMAYOR: You want to change the
+Miranda rule to say: Tell someone their rights, and
+unless they explicitly say "I don't want to talk to
+you," then they implicitly under virtually any
+circumstance haven't. That's what you believe the rule
+in Miranda and Butler and Davis sets forth?
+MR. RESTUCCIA: Butler states that where
+there was silence after the provision of the Miranda
+warnings, silence, that where the subsequent conduct,
+where knowing reception of rights and the course of
+conduct indicates waiver --
+JUSTICE SOTOMAYOR: There wasn't -- there wasn’t
+silence in Butler. There was an express "I want to
+talk to you."
+MR. RESTUCCIA: I understand that's the facts
+of Butler. But the standards by which all the courts
+are operating, including the Michigan court, are the
+standards articulated by Butler. Butler says that the
+waiver can be inferred from the words and actions of the
+person interrogated, indicating that the --
+JUSTICE SOTOMAYOR: My -- but we go back to the
+point you made earlier. Your position is the moment
+that someone confesses, that's an implicit waiver.
+MR. RESTUCCIA: No, because there could have
+been actions taken by the police during the course of
+this interview. There were no threats. There were no
+improper promises.
+JUSTICE SCALIA: I don't understand how this
+person could just sit there for 2 hours and didn't want
+to be interrogated and doesn't say: You know, I don't
+want to answer your questions. He just sits there, and
+some questions he doesn't answer. And he does make a
+few comments, anyway.
+MR. RESTUCCIA: That's right.
+JUSTICE SCALIA: Why shouldn't we have a
+rule which simply says if you don't want to be
+interrogated, all you have to say is "I don't want to
+answer your questions"?
+MR. RESTUCCIA: Mr. Thompkins --
+JUSTICE SCALIA: That's nice and clear,
+wouldn't be any problem at all. That was never said
+here. He, in fact, submitted to having these questions
+asked of him.
+MR. RESTUCCIA: I think that that kind of
+cuts to the nub of what Miranda says. Miranda says that
+ultimately the statement has to be the free election of
+the suspect. And here when Mr. Thompkins answered the
+series of questions, he knew that he didn't have to
+answer those questions, and nothing the police had done
+during the course of the interview had undermined the
+provision of rights, because it's those two aspects
+which are the core, the knowing and intelligent and when
+it's voluntary. Nothing the police had done had
+undermined --
+JUSTICE SCALIA: Why should the police have
+to play this game of, you know, an hour and a half,
+hours, 2 hours and 15 minutes, 5 hours, 7 hours?
+Why don't we have just a clear rule: You’re read your
+rights; if you don't want to be questioned all you have
+to say is: I don't want to be questioned.
+MR. RESTUCCIA: I think that's right, that here
+Mr. Thompkins at any point could have said: I want
+to stop" --
+JUSTICE BREYER: What would you do with
+Miranda's statement "But a valid waiver will not be
+presumed simply from the silence of the accused" -- I
+grant you, as modified in Butler to say that the State
+has a heavy burden of showing that the silence followed
+by a confession -- the State has a heavy burden of
+showing that that is an affirmative waiver. Now, those
+I think are the two statements of law, the third being
+that after, if there is no waiver, the police cannot
+continue to question. Now, I thought that was the clear
+law.
+MR. RESTUCCIA: It’s a --
+JUSTICE BREYER: I grant you, you might argue
+for a change in the law.
+MR. RESTUCCIA: But -- but this language from
+Miranda that says the silence of the accused after
+warnings are given would not be sufficient, that's
+right, but Butler then fully explained. And think about
+the State courts are coming in that they then -- this
+Court then made clear that even silence after having
+received Miranda warnings -- that if you knowingly
+receive your rights and there is a course of conduct
+that indicates waiver, that there can be a waiver.
+That's exactly what the Federal courts have done on
+direct review.
+Now, thinking about the Michigan courts and
+trying to determine what’s -- how these rules are to be
+applied, the Federal courts have found, in the absence of a
+waiver, where a suspect knowingly receives his rights
+and then answers questions implicating himself, that the
+answers themselves can serve as the basis for the
+finding of a waiver.
+That's what the -- the conclusion that Mr.
+Thompkins waived here is a reasonable one. It’s not
+objectively unreasonable. And, of course, you have to
+recall the overarching habeas law that governs this,
+that not just does a Michigan court decision have to
+be incorrect, it has to be objectively unreasonable.
+JUSTICE SCALIA: Is there any difference
+between -- between waiving your right and a failure to
+assert your right?
+MR. RESTUCCIA: Yes, there is a difference,
+that here Mr. Thompkins did not assert his right. He
+did not --
+JUSTICE SCALIA: Is every failure to assert
+a waiver?
+MR. RESTUCCIA: No, because at the point --
+the point at which Mr. Thompkins waived is when he acts
+inconsistent with the exercise of his rights. When he
+answers questions knowing that he doesn't have to
+answer, that is the waiver.
+JUSTICE SCALIA: What about before that?
+What is happening before that?
+MR. RESTUCCIA: Before -- in that --
+JUSTICE SCALIA: He hasn't asserted his
+right. I mean, he hasn't said I --
+MR. RESTUCCIA: Right. So what happens is
+he has not waived and he has not invoked.
+JUSTICE SCALIA: He has done neither.
+MR. RESTUCCIA: He has does neither.
+JUSTICE SCALIA: He has neither waived nor
+asserted.
+MR. RESTUCCIA: And there's nothing -- the
+way the Miranda rule works is that the waiver is a -- is
+a prerequisite for the -- for admission of the evidence, but
+not for the interrogation itself. So what happens is the --
+well, if there are no further questions, I’d like to
+reserve my remaining time for rebuttal.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Ms. Saharsky.
+ORAL ARGUMENT OF NICOLE A. SAHARSKY
+ON BEHALF OF THE UNITED STATES,
+AS AMICUS CURIAE SUPPORTING PETITIONER
+MS. SAHARSKY: Mr. Chief Justice, and may it
+please the Court:
+Respondent's confession was properly
+admitted at his trial. I’d like to go right to some
+of the questions that this Court had about the language
+that was used in the Miranda decision and in the Butler
+decision. Both -- all of this language comes up in
+Butler. Now, Butler was a case not about the waiver of
+the right to silence, but a waiver of the right to
+counsel. So the suspect said "I will talk to you," but
+the North Carolina Supreme Court said: Well, we don't
+know if he waived his right to counsel, and that's why
+the court got into a question of implied waiver.
+So the Court in its analysis in Butler first
+reviewed this language that the Court has talked about
+this morning from Miranda that says "A valid waiver will
+not be presumed simply from the silence of the accused
+or simply from the fact that a confession was in fact
+eventually obtained."
+And this is our understanding of that language:
+First, it is not the case that a failure to invoke Miranda
+rights will be taken in the Miranda context as a waiver.
+Now, Justice Scalia, I think you
+alluded to the fact that the normal rule for the Fifth
+Amendment at trial is that you assert your rights or
+they are waived. But Miranda's an exception to that,
+that the failure to assert we are not going to take as a
+waiver. The government has to do something more.
+JUSTICE KENNEDY: So do you read -- yes. So
+do you read Miranda as saying that there cannot be
+questioning unless there is a waiver? Then we'll go
+on to -- or do you --
+MS. SAHARSKY: No.
+JUSTICE KENNEDY: Okay, you do not.
+MS. SAHARSKY: No.
+JUSTICE KENNEDY: So are you going to go on --
+because this is right where you are. Are you going to go on
+to say that, in the Miranda context, the failure to assert
+can -- can suffice to allow the questioning to proceed?
+MS. SAHARSKY: As long as the warnings are
+given, the accused has been told of his rights, and that
+the police will respect his rights, and questioning can
+proceed. The Court said in Davis and said in other
+cases, Moran versus Burbine, that the primary protection
+afforded by Miranda is to level the playing field by
+letting the accused know of his rights and that the
+police will respect them. And after the point that he
+gets his rights and understands them, the police can
+question him. You'd have to overrule Butler to say that
+there has to be a waiver before any questioning.
+Just to get back to the second thing that
+the Court said in Miranda that was picked up in Butler,
+it said: We are not going to assume that there is a
+waiver simply from the fact that a confession was
+eventually obtained; there is a burden on the
+government.
+And the way that we understand that is that
+the government can't just go into court and say: Look,
+we have a confession; we know he waived his rights.
+JUSTICE KENNEDY: But why isn't that
+language that you quote a negative inference that there
+must be a waiver?
+MS. SAHARSKY: Well, if you look back at the
+language -- the other language in Miranda, it says that a
+waiver is a prerequisite to the admission of the
+evidence at trial. We know that to be able to use that
+evidence we have to know that he made a knowing and
+intelligent and voluntary decision to talk. But that
+he -- that doesn't mean he has to make the decision to
+talk right away. He might want to listen to what the
+police have to say about the benefits of cooperation or
+the evidence that they have in his case. And that --
+those are the kinds of things the police could say that
+could be understood to be custodial interrogation.
+JUSTICE KENNEDY: So there’s a difference
+between waiving at the time of the interrogation and
+then waiving it at the time of trial? I don't
+understand that.
+MS. SAHARSKY: I'm sorry. I didn't mean to
+suggest that. What I'm saying is at the time the
+Respondent makes his statements, that waiver -- there has
+to be a waiver and it has to be a knowing, intelligent,
+and voluntary one. That at the time he makes his
+statement -- here when he admitted that he shot the boy
+down, he had to understand what his rights were and
+there had -- those statements had to not be the result
+of police coercion.
+And no court here has found that they were the
+result of police coercion. There is no question about
+voluntariness here.
+So what we understand this language in
+Butler to mean about an implied waiver is the fact of a
+confession itself is not enough to show the government
+has met its burden. When the Court talked about a
+course of conduct, it talked about the same standard
+that it's always used in the Miranda context, that came
+up again recently in this Court's decision in Shatzer,
+which is that the ultimate question is a knowing,
+intelligent, and voluntary waiver.
+The course of conduct doesn't mean anything
+more than that. It means that at the time the guy
+spoke --
+JUSTICE STEVENS: But in this case, it was
+the fact of the concession -- the confession that
+constituted the waiver.
+MS. SAHARSKY: That shows that he decided to
+talk, but the confession itself isn't enough. We needed
+to have -- the State needed to have evidence that he
+understood his rights, which he said he did, and that there
+was -- that the confession was not the product of police
+coercion.
+And I think that that comes through directly
+in the language that's at issue in Butler. The Court
+said “an express written or oral statement of waiver” --
+to remain silent or the right to counsel -- “is strong proof
+of the validity of the waiver but not inevitably necessary….
+The question is not one of form, but whether the
+defendant, in fact, knowingly and voluntarily waived the
+rights delineated in Miranda.”
+JUSTICE KENNEDY: But I just want to make
+sure where we are.
+MS. SAHARSKY: Yes.
+JUSTICE KENNEDY: You’re not -- you’re conceding,
+it seems to me, that there must be a waiver?
+MS. SAHARSKY: Before the evidence can be
+admitted at trial.
+JUSTICE KENNEDY: I just don't understand --
+why -- why can't --
+MS. SAHARSKY: Okay. It's --
+JUSTICE KENNEDY: We have to guide the
+police.
+MS. SAHARSKY: Yes.
+JUSTICE KENNEDY: Why don't we tell the
+police, there must be a waiver before you can continue
+to interrogate?
+MS. SAHARSKY: That would -- that would
+exact a substantial price on law enforcement, and that's
+the exact argument that Justice Brennan made in the
+Butler case that was rejected. He was in dissent in
+that case. He said the police should always have to --
+have to seek a waiver before they interrogate.
+JUSTICE KENNEDY: I don't know why you
+didn't answer Justice Stevens's questions by saying,
+Justice Stevens, I don't care about waiver. There was
+no -- there was no assertion of the right.
+But you’re not saying that. You are
+admitting there has to be a waiver.
+MS. SAHARSKY: Yes. To admit the evidence
+at trial, there has to be a waiver.
+JUSTICE BREYER: Why do you say it would
+change the police's behavior? Inbau and Reid and, you
+know, the -- the NAC -- the Defense Lawyers’ brief here is
+filled with quotations from typical police manuals, and
+they all seem to say things like you have to have at --
+once the waiver is given, the police may proceed with
+interrogation. That seems to be what police today are
+instructed across the country.
+It says you cannot question people until he
+indicates after the warning is given a willingness to
+answer questions. That's the police manual.
+So why do you say this would extract a price
+on law enforcement when the typical police manuals seem
+to say what the Petitioner here is saying?
+MS. SAHARSKY: Not every police --
+JUSTICE BREYER: I mean the Respondent.
+MS. SAHARSKY: -- manual says that. That
+brief itself cites many examples going both ways.
+It is often the case, and it is often the
+case in Federal law enforcement, that the police try to
+seek a waiver immediately after giving rights because we
+want to avoid the problems of proof that come up at
+trial if we don't have a written waiver.
+JUSTICE BREYER: Which -- which are the
+police manuals that go your way? Because I want to look
+at those, too.
+MS. SAHARSKY: I'm sorry, I don't -- I don't
+have the specific citations from the brief. I -- I know
+from asking the Federal law enforcement agencies -- DHS,
+the FBI, and the DEA -- that the DEA does not invariably
+seek a waiver and that we don't understand that we need
+to get an immediate waiver.
+And, again, that was what Justice Brennan
+said in -- in dissent in Butler, is that the police should have
+to seek an immediate waiver. And the Court said, no,
+the Fifth Amendment right is -- compel -- about compelled
+statements being introduced at trial. We don't need
+this protection, that the police have to seek an immediate
+waiver. In fact, if you adopted a rule like that, it
+would essentially take any burden off the suspect to
+invoke his rights.
+He wouldn't need to invoke his rights,
+because the police would just -- if the police didn't
+seek a waiver.
+JUSTICE SCALIA: Well, you’re saying
+there -- there’s a difference, I -- I assume, between
+not waiving and positively asserting your right not to
+be interrogated?
+MS. SAHARSKY: That's exactly right. If the
+person --
+JUSTICE SCALIA: So, if -- if he had -- here
+he simply refused to sign the -- the Miranda form,
+right?
+MS. SAHARSKY: That's right.
+JUSTICE SCALIA: Which would have -- which
+would been the -- the waiver. And -- and you’re saying
+it's his later behavior that -- that showed that, in
+fact, he waived. What if instead of just refusing to
+sign, he had said, I do not want to be interrogated?
+MS. SAHARSKY: Then the interrogation stops.
+JUSTICE SCALIA: Okay.
+MS. SAHARSKY: And that --
+JUSTICE SCALIA: So -- so he has the right
+to terminate the whole thing by asserting his right. If
+he neither asserts the right nor grants the waiver, the
+police can continue to try to obtain a statement from
+him?
+MS. SAHARSKY: Right. A contrary rule would
+have to overrule Butler, because the Court said you can
+clearly infer waiver from the actions and words of the
+person interrogated. That assumes that the person is
+being interrogated. Just to talk a minute about the --
+JUSTICE KENNEDY: But there also assumes
+there has to be a waiver.
+MS. SAHARSKY: Yes, at the time that the
+person makes the inculpatory statements that are going
+at be introduced at trial, it must be the case that he
+decided he was going to talk to the police knowingly,
+intelligently, and voluntarily.
+JUSTICE SOTOMAYOR: Excuse me. As I read
+this transcript, the police's tactic, by their own
+statement, was to approach him and say: This is our
+evidence. Explain yourself -- that's the words
+the officer used -- but he's entitled to an alternative
+explanation. Tell us.
+What's clear is that at no point did he
+answer those questions, because nothing about the nods
+of the head or anything else showed a willingness to
+confess.
+And even in the responses he gave, he
+answered a series of questions with a “yes,” but not with
+an explanation, which was what was being requested.
+So my question is, how does one infer a
+voluntary statement from a situation in which someone's
+really not talking? I've never understood how a yes or
+a nod to questions that don't -- that's what the circuit
+said, to questions that we don't know what they were
+about -- do you want a mint or not, I don't even know
+that -- can reflect voluntariness?
+And I understand that in Butler when someone
+says I don't want to sign that, but I'm going to spill
+my guts now, and does, that's a course of conduct one
+could view as voluntary.
+MS. SAHARSKY: Right. And we say that the
+waiver occurred at the time he answered the questions
+about his belief in God. And it doesn't matter what he
+said in response to the earlier questions, as long as at the
+time that he answered questions about God, his decision
+to talk was a knowing and intelligent and voluntary one.
+JUSTICE SCALIA: Unless, I assume, that
+you -- you -- you acknowledge that if the interrogation
+had go on -- had gone on for so long that it had become
+coercive, then that -- that -- that last statement would
+not -- would not be a voluntary waiver.
+MS. SAHARSKY: That's right. But Respondent
+made a voluntariness argument throughout all of the
+courts in this case, and every court has rejected it.
+CHIEF JUSTICE ROBERTS: Thank you,
+Ms. Saharsky.
+Ms. Jacobs.
+ORAL ARGUMENT OF ELIZABETH L. JACOBS
+ON BEHALF OF THE RESPONDENT
+MS. JACOBS: Mr. Chief Justice, and may it
+please the Court:
+When I review Miranda, I find language from
+Miranda that says that you have to have a -- an advice
+of rights and a waiver before you question. And I just
+want to direct the Court to page 475 of Miranda:
+Requirement of warnings and waiver is a fundamental
+aspect of the Fifth Amendment privilege and not simply a
+preliminary ritual to existing interrogation methods.
+CHIEF JUSTICE ROBERTS: What happens when
+you read Butler?
+MS. JACOBS: Butler, I think, is an
+interesting case, because Butler is mostly aimed at the
+right to counsel. When you talk about the right to
+counsel and the right to remain silent, you have really
+two different kinds of rights. And there’s an
+assertion requirement in the right to counsel. You
+can't exercise that right without getting some help from
+the police.
+But the right to remain silent -- we don't
+require that it be asserted. It is a presumption. And
+that presumption remains.
+JUSTICE ALITO: Your argument is that you
+can infer waiver of the right to counsel from conduct,
+but you can't infer waiver of the right to remain silent
+from conduct?
+MS. JACOBS: Essentially, yes.
+JUSTICE KENNEDY: What's your best authority
+for that proposition?
+MS. JACOBS: Let me make sure that I -- that
+I said yes to the right thing.
+You can -- I do -- you can take an implied
+waiver of the -- of the right to silence. I -- I do
+agree with that. And I look at the cases that have been
+cited, and I know that there are three kinds of examples.
+One is the person walks into the police
+Station, and he says I want to confess. That's a
+voluntary confession. You don't have to assert
+anything. He's -- he's going to confess.
+If you have a steady stream of speech in
+which he says, I don't want to talk but I'll tell you
+about this, again, you have somebody acting voluntarily.
+Someone who says I'll only talk about drugs
+but I'm not going to talk about murder -- he’s implied
+he’s waived his right to that.
+But in this case, when you look at this
+case, the key issue really is was it volitional? What
+fact would lead a court to decide that there -- that my
+client --
+JUSTICE ALITO: So, basically what you’re
+saying is that if the defendant here had said at the
+beginning, I don't know whether I -- I want to talk
+to you or not, but I'm going to listen to your questions
+and I might answer some and I might answer others -- that
+would be a different case?
+MS. JACOBS: Yes, absolutely. You have an
+implied waiver.
+JUSTICE ALITO: And where is there -- what
+Supreme Court case establishes the distinction between
+those two situations clearly?
+MS. JACOBS: Well, Davis is a case that
+talks about the assertion of the right to counsel, but
+does not apply to the right to remain silent. So I
+think as long as you still have the presumption of --
+the presumption of the privilege against
+self-incrimination as a presumptive right, the police
+have to do something to move you off square one in order
+to make it voluntary.
+Am I answering your question, Justice Alito?
+JUSTICE ALITO: I'm not sure I really
+understand.
+JUSTICE SCALIA: It depends on what you --
+what you need to make "it," it depends on what "it" is.
+If -- if you mean the ultimate confession, I think I
+don't agree. Ultimately, if he confesses and hasn't
+been coerced, it's voluntary.
+But if by the "it" you mean to make the
+continuation of the interrogation voluntary, that's a
+different question. And I don't know that our cases
+establish that you cannot continue the interrogation
+until there has been a waiver.
+MS. JACOBS: Well, Justice Scalia, I just
+read you page 475 from Miranda that says the requirement
+is warnings and waiver, and that's not, as they said, a
+preliminary ritual. That means more. Seibert -- and I
+know it's a preliminary -- a plurality --
+JUSTICE SCALIA: But does that make it clear
+that -- that there has to be a waiver before the
+interrogation can continue? And if it does, how does it
+square with Butler?
+MS. JACOBS: Again, Butler is really a right
+to counsel case.
+JUSTICE SCALIA: They’re both under --
+they’re both under Miranda. Both of those rights are
+Miranda rights.
+MS. JACOBS: In Butler the -- the waiver,
+the voluntary act of the person being interrogated
+really occurred very, very early. There wasn't any kind
+of a gap. He said, I don't -- I believe he said, I
+don't want to -- I don't want to do something in
+writing, but I'll talk to you.
+Now, that is a voluntary act: I'm going to
+talk to you. That is clearly a waiver. That isn't
+what we’ve got in this case. You have a young man who is
+sitting in a chair, looking at the ground; he's sullen.
+The only time he looks at the officer is when the
+officer directs him to look.
+JUSTICE ALITO: I thought your answer was
+that there does not have to be a waiver before
+questioning can occur.
+MS. JACOBS: No, there must be a waiver.
+There's no such thing as --
+JUSTICE ALITO: There must be --
+JUSTICE BREYER: Well, Miranda does not say
+that. I mean, I think -- I think that Justice Scalia is
+right on that, that Miranda doesn't say you can't
+question him. The pages that you read to us say that if
+you have a lengthy questioning, then the fact that he
+then gives a statement cannot be taken as a -- cannot be
+admitted. That's -- that's what it seems to say on page
+6 --
+MS. JACOBS: Okay.
+JUSTICE BREYER: -- in the absence of some
+special circumstance.
+MS. JACOBS: In this case, because it went --
+because the interrogation lasted so long --
+JUSTICE BREYER: Am I right? I mean Miranda
+does not explicitly say that you cannot continue
+questioning. Am I right about that?
+MS. JACOBS: Um --
+JUSTICE BREYER: I'm asking because I don't
+know. I didn't see it in the --
+MS. JACOBS: And I -- and I want to answer
+you with what -- what I read. “The requirement of warnings
+and waiver is fundamental.” My argument is that you cannot
+continue to question someone who has not waived the
+right, that there’s --
+JUSTICE ALITO: So, what if the person says:
+I'm not waiving, but I'm not saying that I will never
+waive. I’ll listen to your questions.
+MS. JACOBS: I think you've got a waiver.
+JUSTICE ALITO: When he says --
+MS. JACOBS: You’ve got a waiver.
+JUSTICE ALITO: -- I'm not waiving?
+MS. JACOBS: But he's willing to talk to the
+police. In my case, Mr. Thompkins was unwilling. He
+could -- he would not look at anybody. He would not
+answer questions. We don't know what the "I don't know"
+and the "yeah" was to. So that's a very -- my case is a
+very different case than what you are proposing. There
+is no willingness to engage with the police; there is, in
+fact, this feeling that there is coercion going on. The
+longer that interrogation --
+JUSTICE ALITO: Can I interrupt? Before I
+can understand your case, I would like to understand
+this hypothetical. If the person says: I'm not waiving,
+but I'm not telling you that I won't waive at some point
+in the future. I’ll listen to your questions.
+MS. JACOBS: I think he is engaging in a
+conversation.
+JUSTICE ALITO: That's a waiver.
+MS. JACOBS: I think he's engaging in a
+conversation with the police and that the police at that
+point can continue to talk. But that isn’t what
+happened in this case. There was no indication by my
+client that he wanted to listen, that he wanted to talk.
+The longer that interrogation lasted, the more --
+JUSTICE KENNEDY: Well, he -- he didn't say
+anything. You -- I think you could say that his conduct
+implied the very kind of statement that Justice Alito
+suggested in his hypothetical: I'll listen to you guys
+for a while.
+MS. JACOBS: What is key, I think, in your
+-- in your hypothetical and in Justice Alito's
+hypothetical, is that you have a defendant that feels
+comfortable, that is not being oppressed by this
+coercive atmosphere. My client did not engage in
+anything, and the longer he sat there, the greater the
+chances that anything he said was the product of
+coercion.
+JUSTICE STEVENS: May I -- just refresh my
+recollection. In the record in this case, do we know
+whether he said he understood his rights?
+MS. JACOBS: Justice Stevens, that's kind of
+iffy. The police officer --
+JUSTICE STEVENS: Because that was present
+in Butler.
+MS. JACOBS: Yes, the police officer in this
+case said either “I don't remember whether I asked him” or
+“I think he nodded that he understood.” I don't think
+we've got a real solid proof of that.
+JUSTICE SCALIA: It was read to him.
+MS. JACOBS: Yes, it was read to him.
+JUSTICE SCALIA: And they had him read a
+portion of the Miranda warning.
+MS. JACOBS: I don't think they had him read
+a portion --
+JUSTICE SCALIA: Huh?
+MS. JACOBS: -- Justice Scalia.
+JUSTICE SCALIA: What?
+JUSTICE KENNEDY: I thought, in order to test
+his knowledge of English, they asked him to read one or two
+paragraphs.
+MS. JACOBS: Okay.
+JUSTICE SCALIA: Yes, they had him read --
+MS. JACOBS: I guess it was just that
+they didn't ask him to write anything, so that they
+didn't know whether he could write in English. Yes,
+Justice Scalia, you're correct.
+JUSTICE SCALIA: So I -- boy, I -- what more
+do you need?
+MS. JACOBS: You need --
+JUSTICE SCALIA: I mean, he -- he’s
+listening when -- when they read it to him. He -- he --
+he can read it himself.
+MS. JACOBS: You are presuming that a
+defendant thinks that they've got the kind of power to
+look at a police officer and say, "I don't want to talk
+to you. Remove me."
+JUSTICE SCALIA: Maybe -- maybe he doesn't
+want to talk for the moment, but he does want to listen.
+I'm not sure you’re doing defendants a great -- a great
+favor. I mean, some of them might want to listen to --
+to the police telling them, you know, by the way, your
+co-conspirator is singing like a bird and he's trying to
+pin it all on you, and maybe, you know, if -- if you
+don't want to get left holding the bag, maybe you’d better
+to talk to us and tell us what really happened.
+I'm not sure that -- that if I were there,
+even if I didn't want to talk right now, I might still
+want to listen, which is apparently what this -- what
+this person did. He could have said, I don't want to --
+I don't want talk.
+And it -- and it would have ended. That
+would have been an assertion of his right. He didn't
+assert his right, but --
+MS. JACOBS: What --
+JUSTICE SCALIA: -- he -- he sat there and
+listened. Now, maybe he wanted to find out what the
+police would have to say to him.
+MS. JACOBS: There is nothing in -- on this
+record that indicates that he wanted to listen to them
+as opposed to what Justice Alito's hypothetical is,
+where the gentleman says: Well, I'm not going to say
+anything, but I want to hear what you have to say. We
+don't have that here.
+CHIEF JUSTICE ROBERTS: Well, we have it to
+the extent that he was told he had right to remain
+silent and he didn't say, I'm not going to talk to you.
+MS. JACOBS: There’s no clearly established
+law that says that he has to assert his right to remain
+silent.
+CHIEF JUSTICE ROBERTS: Is it there any
+clearly established law the other way, which is the
+pertinent question?
+MS. JACOBS: I think that because there is
+the presumption of the -- the privilege is a presumptive
+right, that he does not have to assert it. This is --
+this is -- the right, or the privilege against
+self-incrimination, the constitutional command, is the
+one right that really defines our criminal justice
+system. It means that you cannot talk to -- the police
+do not have the right to talk to the defendant. It
+makes us an accusatorial system --
+CHIEF JUSTICE ROBERTS: We’re not talking
+-- we’re not talking about the Fifth Amendment right.
+We’re talking about the Miranda warnings. There’s no
+issue of voluntariness in this case. Right?
+MS. JACOBS: Well, when --
+CHIEF JUSTICE ROBERTS: There’s no
+suggestion that there’s -- that the statements are not
+voluntary. The suggestion is that they may have
+violated Miranda.
+MS. JACOBS: Right. That's correct. But if
+you are going to adopt the suggestion of the government
+that you do pre-interrogation waiver, which I think is
+what we’re talking about -- that is, you don't give him
+his rights and then you can just talk and talk
+until you are blue in the face, that that ends up being
+a more coercive situation than we have now.
+This is the kind of situation that could
+have been easily resolved just by the officer asking Mr.
+Thompkins, do you want to talk to us? Instead, once
+they establish --
+CHIEF JUSTICE ROBERTS: What if he said, do
+you want to remain silent?
+MS. JACOBS: He could -- that's fine.
+CHIEF JUSTICE ROBERTS: And he doesn't
+answer either one.
+MS. JACOBS: Then -- then he’s not
+cooperating. He’s not waiving his rights. It's not
+voluntary. Take him back to the cell, that's it.
+Because the police --
+JUSTICE GINSBURG: Then you’re saying then
+that the defendant has to -- never has to invoke his
+right? That --
+MS. JACOBS: The state of the -- the state
+of the law is a defendant does not have to invoke his
+right to remain silent. Davis is the invocation case;
+it applies to the second stage of -- of the
+interrogation. And it has to do with --
+JUSTICE GINSBURG: Was the Miranda warning
+adequate in this case? He got the four warnings, but
+then, unlike some police forms that then ask the
+defendant, do you waive your rights, this form never
+asked, did you waive your rights? It just said: Do you
+acknowledge that we have informed you of your rights?
+MS. JACOBS: That's correct, Justice
+Ginsburg. That's all that form said. And what the
+officer said is once Mr. Thompkins would not sign it, he
+then moved into interview mode. There was no
+further -- if this was an ambiguous act to him, then the
+officer should have asked a clarifying question.
+CHIEF JUSTICE ROBERTS: You say you don't
+have to invoke your rights, but Butler also says that
+you can impliedly waive them. You don't have to
+expressly waive them.
+MS. JACOBS: I'm saying you don't have to
+invoke the right to remain silent, that that’s not the
+state of the law, that only the right to remain -- I'm
+sorry -- the right to counsel must be invoked.
+CHIEF JUSTICE ROBERTS: Right. So the
+question under AEDPA -- you agree there can be an implied
+waiver; that's what Butler says, right? So the question
+under AEDPA is whether the State court was unreasonable
+to determine that there was an implied waiver on these
+facts?
+MS. JACOBS: The State actually found two --
+I think you’re saying that there was an objectively
+unreasonable determination of the facts in this case?
+CHIEF JUSTICE ROBERTS: Yes.
+MS. JACOBS: And I think that --
+CHIEF JUSTICE ROBERTS: Maybe.
+MS. JACOBS: It's one way or the other.
+CHIEF JUSTICE ROBERTS: Right.
+MS. JACOBS: And I think clearly that there
+-- that there were facts that the Michigan Court of
+Appeals found that were not supported by the record and
+were objectively unreasonable.
+CHIEF JUSTICE ROBERTS: What are those?
+MS. JACOBS: The Sixth Circuit found that
+when the Michigan Court of Appeals said the defendant
+continued to talk with officers, the Sixth Circuit said
+that that was an objectively unreasonable finding
+because there was no continuation, there was no talking.
+They also found unreasonable that the defendant talked
+with officers sporadically. The Sixth Circuit said that
+that was a misrepresentation of the record.
+The last fact that they talked about is the
+Michigan Court of Appeals said that the defendant made
+eye contact several times or a number of times. And the
+Sixth Circuit said, quote -- this is what the -- they
+said that that was incorrect. What the officer said at
+the hearing is that eye contact came only at the end,
+--
+one of the very -- one of the very first times came only
+at the end.
+So -- but those are important facts. The
+fact that he was not continuing to talk -- he wasn't
+talking at all. How do you find this -- this
+voluntariness, that the rights are waived --
+JUSTICE SCALIA: Of course, those facts are
+relevant only if we accept your -- your principal assertion,
+which is that you -- you don't have to invoke the right and
+interrogation must cease immediately. If we agree with
+that, then all of these facts become relevant. But if
+we think that, until you invoke the right, the police can
+continue to ask you questions and it's up to you to
+answer or not, then those facts are really not relevant
+at all, are they?
+I think that's true.
+MS. JACOBS: I don't want to say it's true
+JUSTICE SCALIA: It wasn't meant to be a
+trick question.
+MS. JACOBS: -- just because you are asking
+If you invoke those -- if you invoke -- if
+you hold that he has to invoke those rights.
+JUSTICE SCALIA: On your theory, those --
+those factual things are irrelevant, whether --
+MS. JACOBS: Well, my theory is that you
+don't get past the failure to get the waiver.
+JUSTICE SCALIA: Exactly, exactly.
+MS. JACOBS: Yes.
+Returning now to -- to the idea of the
+pre-interrogation waiver, I would suggest to the Court
+that that would return this -- this Court back to the
+kind of test that Miranda stopped, which was the
+applying the totality of the circumstances test, and
+that you would then, again, revert to pre-Miranda law,
+where -- and this I believe is what the Wayne County
+prosecutor amicus wants to do, is just apply totality of
+the -- the circumstances test to whether in fact someone
+has waived their rights. And I would suggest to you that
+Miranda has not been a failure, that this bright-line rule --
+you give the rights, you get the waiver, then can you talk --
+that that’s --
+JUSTICE SCALIA: I must say I've never
+understood that to be the law, and I don't think it's
+generally understood to be the law, that unless you get
+a waiver right at the outset, you have to -- you have to
+terminate interrogation. I think there are a lot of
+police departments that don't -- I've never understood
+that to be the rule.
+MS. JACOBS: Justice Scalia, the opposite of
+that then becomes the ability to keep the defendant in a
+room, and the longer --
+JUSTICE SCALIA: I'm not saying it isn't a
+good rule. It may be a good rule. But the issue here
+is whether it is so clearly established that it was
+unreasonable for the State court to think otherwise.
+MS. JACOBS: And we would just suggest that
+the State court applied Moseley incorrectly and applied
+Miranda, that those are the clearly established law
+in that case.
+JUSTICE SCALIA: I like clear rules. Your
+rule is a clear one. Another clear one would be just
+the opposite of yours; that is, that interrogation can
+continue unless he asserts his right. That's another
+clear rule. We can go either way, and it will be clear.
+MS. JACOBS: But if interrogation continues,
+the longer it continues the less likely that the
+statement that is taken is going to be the product of my
+client's free will. So the government is going to have
+an even greater burden in trying to prove that this
+statement was voluntary or that the waiver of rights is
+voluntary.
+So this Court should not adopt a
+pre-interrogation waiver rule, especially not one
+that -- that ends up being as long as this case is, and
+just in case --
+JUSTICE SOTOMAYOR: Could you tell me when
+the police have to stop? They read somebody their
+rights; the person says nothing. Are you saying at that
+point they have to stop?
+MS. JACOBS: I think that they can say to
+the person: Do you now want to waive your right and
+talk to us or do you want to remain silent? I think
+that that's an easy and expedient answer. If --
+JUSTICE SCALIA: But he doesn't answer. He
+just sits there --
+MS. JACOBS: Then that's it.
+JUSTICE SCALIA: -- impassively.
+MS. JACOBS: Then that's it.
+JUSTICE SCALIA: Then they have to stop?
+MS. JACOBS: There's no burden -- I mean,
+then the burden isn't met, this heavy burden that he
+has knowingly, intelligently, and voluntarily waived
+those rights.
+JUSTICE KENNEDY: I don't see how you
+square that with Moseley.
+MS. JACOBS: Well, Moseley says that the
+longer that you question someone, that -- Moseley is the
+persistent questioning case, where you keep questioning
+the guy and questioning the guy. And this is very
+clearly a Moseley case. You’ve got two officers in that
+room, and they talk about the fact that they are both
+questioning and they talk about the different themes
+they used. And the very fact that they had to change
+themes showed that the defendant was not being
+cooperative and not -- and was not engaging in this
+conversation willingly.
+CHIEF JUSTICE ROBERTS: And all he has to
+do is say: I don't want to talk to you. It's over.
+MS. JACOBS: And all they had to say -- I've
+got to take the flip side -- is -- and because it's their
+house, because if they don't want to create the
+ambiguity, they are the ones that have to say: Will
+you talk to us now?
+They don't even have to ask him to sign the
+waiver, although I think the waiver is proof positive.
+Once he signs the waiver, you know, I haven't got much
+to argue in terms of the admissibility of the
+confession. But if they create the ambiguity, then
+according to Miranda, that ambiguity is resolved against
+them.
+CHIEF JUSTICE ROBERTS: I don't understand
+how they create the ambiguity.
+MS. JACOBS: Because they are leaving --
+they're not moving off of square one. They're leaving
+this, where they are not looking for an answer to
+whether the rights want to be waived and they are
+immediately, as they did in this case, going into
+interview mode. They are going to start to question
+him.
+And this gets to Moseley, where, in fact, you
+end up where you are badgering somebody, and in this case,
+they used many different tactics: the softening technique --
+- here, have a mint.
+CHIEF JUSTICE ROBERTS: Well, I guess this
+gets back to a question I had earlier. I thought
+there was no dispute on this record that there was no
+involuntariness. We are talking about a violation of
+the technical, important but formal, Miranda
+requirements. This is not a case where the person says:
+My statements were involuntary.
+MS. JACOBS: If you are going to base this
+on an implied waiver, don't you have to look to see what
+the circumstances were that were going on? How can you
+look at the very end of a 2-hour and --
+CHIEF JUSTICE ROBERTS: But that's correct --
+and that's where -- how I read Butler; you have to look at
+the circumstances. And you’re saying no, you don't look at
+any circumstances; they have got to ask the question and
+he has to waive.
+MS. JACOBS: Yes.
+CHIEF JUSTICE ROBERTS: The other
+circumstances are irrelevant.
+Well then, if yes, why are you talking to me
+about 2 hours 15 minutes, what they are doing? You say
+that circumstances don't matter.
+MS. JACOBS: If you find that the officer
+does not have to ask the question, does not have to
+clarify whether in fact the defendant is remaining
+silent, then I do have to talk to the rest to try and
+persuade you that in those 2 hours and 45 minutes he was
+not being cooperative, he was not willingly entering
+into --
+CHIEF JUSTICE ROBERTS: That issue is not in
+this case, though.
+MS. JACOBS: Well --
+CHIEF JUSTICE ROBERTS: As I understand it,
+you've lost at every stage on the voluntariness and have
+not renewed that, correct? This is a Miranda case; it's
+not a Fifth Amendment case.
+MS. JACOBS: I did -- I did talk about
+voluntariness in my brief to this Court.
+JUSTICE KENNEDY: Your argument would be the
+same if this was compressed to 45 minutes?
+MS. JACOBS: Yes.
+JUSTICE KENNEDY: Same result?
+MS. JACOBS: Yes.
+JUSTICE KENNEDY: 30 minutes?
+MS. JACOBS: Yes.
+JUSTICE KENNEDY: 15?
+MS. JACOBS: Yes.
+(Laughter.)
+CHIEF JUSTICE ROBERTS: One? I mean,
+that's -- I don't want to piggyback off
+Justice Kennedy's point, but that's the whole point, is
+you do not look at any of those circumstances, you say.
+Before they can say anything more, they have to get a
+waiver. So it's 30 seconds if they go on, before
+they -- if they sit there for how long before -- how
+long do they have to ask, do you want to waive?
+MS. JACOBS: If -- if you were going to go
+and use implied waiver, if -- and I think that you can use
+an implied waiver, you -- you are interested in looking at
+what happened in this case to decide whether, in fact,
+the “yes” answers were an implied waiver. And that's why
+I'm arguing about the circumstances, that there's
+nothing in these circumstances that could lead you to
+believe that after 2 hours and 45 minutes, there was a
+voluntary waiver, the implied waiver.
+CHIEF JUSTICE ROBERTS: Could -- could you
+describe a situation where you think there would be an
+implied waiver?
+MS. JACOBS: I'm willing to talk to you, but
+I won't put anything in writing. I'll willing to listen
+to what you have to say, but I'm not going to answer
+your questions. And then your -- then as the
+conversation -- a conversation ensues, and I think this
+is what Justice Alito --
+CHIEF JUSTICE ROBERTS: Well, I thought
+that -- that doesn't sound implied. That sounds
+express to me.
+MS. JACOBS: Okay.
+CHIEF JUSTICE ROBERTS: So, is --
+JUSTICE SCALIA: Wait. Excuse me. A waiver
+of what? I thought the Chief Justice was talking about
+a waiver of your right to remain silent.
+MS. JACOBS: Yes.
+JUSTICE SCALIA: That wasn't a waiver --
+MS. JACOBS: Okay.
+JUSTICE SCALIA: -- of his right to remain
+silent.
+MS. JACOBS: Then let me give another
+example of a waiver of the right to remain silent.
+JUSTICE SCALIA: I'm willing to talk to you,
+I'm willing to listen to you. It seems to me you’re
+confusing a -- a waiver of -- of the right to remain
+silent with a waiver of the right not to be
+interrogated, which is the right that you are asserting
+here, a right not to be interrogated, unless going
+in you say, I waive my right to remain silent. That's --
+that's the new right that you are asserting.
+MS. JACOBS: Well, it's not a new right.
+JUSTICE SCALIA: A right not to be
+interrogated.
+MS. JACOBS: It's -- it's not a new right.
+It's not a new right. The police cannot interrogate the
+defendant unless they read him his rights and my
+understanding of Miranda is that they obtain a waiver of
+those rights.
+Without obtaining the waiver, questioning
+cannot ensue, because then the rest of the questioning
+becomes trying to talk the defendant into waiving the
+rights, trying to talk the defendant into confessing,
+and you have badgering and you have persistent
+questioning, and you don't end up with a volitional
+waiver or a volitional statement.
+CHIEF JUSTICE ROBERTS: Okay. So what --
+what is an implied waiver case?
+MS. JACOBS: Well, it's -- the implied
+waiver case is North Carolina v. Butler.
+CHIEF JUSTICE ROBERTS: Well, that's right.
+Now, getting back to Ms. Saharsky's point, she said if you
+prevail, you have to overrule Butler. And it seems to
+me that that's the point we're at.
+MS. JACOBS: But Butler -- I don't think you
+have to overrule Butler, because Butler really was a
+right to counsel case. It did talk about the right to
+remain silent, but most of language has to do with the
+fact that this gentleman did not waive the right to
+counsel.
+So, I don't think you have to. I think you
+can still have implied waivers.
+CHIEF JUSTICE ROBERTS: So, there's --
+so, there's no implied waiver with respect to the right
+to remain silent?
+MS. JACOBS: That's a hard question, and I
+don't have -- I don't have an easy answer or a hard
+answer for you. I -- I don't think that -- I don't
+think that you want to hog-tie the police. I agree with
+that. I think that the police should be able to talk to a
+defendant, but there's got -- but it's got to be
+voluntary, and that in order to do that, you really have
+to get a waiver.
+U.S. v. Cardwell I think is an implied
+waiver where the defendant starts to talk to the officer
+there -- they’re in a police car, and the defendant
+starts to talk to the officer after an hour and a half
+of silence, although that, again, isn't a custodial
+situation, but the police found -- but the court found
+that that was, in fact, a waiver.
+So if there are no further questions, I’ll
+cede my time. Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Restuccia, you have 4 minutes remaining.
+JUSTICE KENNEDY: I -- I have to say that --
+page 475 and 476, particularly, of Miranda do talk in
+terms of a -- of a waiver. Did -- are there -- did the
+subsequent cases indicate an articulation of that view
+that’s closer to your position?
+REBUTTAL ARGUMENT OF B. ERIC RESTUCCIA
+ON BEHALF OF THE PETITIONER
+MR. RESTUCCIA: Well, I think Miranda itself
+contemplates pre-waiver interrogation. If you look at
+page 14 of the -- of the reply brief, the yellow brief,
+and the quote from Miranda talking about the processes is,
+on page 14, "Once warnings have been given, the
+subsequent procedure is clear. If" -- it’s on page --
+JUSTICE GINSBURG: What page is --
+MR. RESTUCCIA: Page 14 on the left side in
+the middle. It’s a block quote from Miranda. This is
+Miranda's description of the processes: "Once warnings
+have been given, the subsequent procedure is clear. If
+the individual indicates in any manner at any time prior
+to or during questioning, that he wishes to remain
+silent, the interrogation must cease." The --
+JUSTICE STEVENS: Well, why doesn’t it --
+JUSTICE BREYER: But I don't think that was the
+question. The question, at least as I understood it, is
+that Miranda says you cannot admit a confession into
+evidence unless he has first waived it.
+MR. RESTUCCIA: That's right.
+JUSTICE BREYER: Then it says, clearly, that
+even if the police and the prosecution testify he did
+waive it, even if they say he did, explicitly, still, if
+there's a long questioning, even then, the court should
+be very careful about admitting it.
+MR. RESTUCCIA: Right. But then --
+JUSTICE BREYER: And doesn't it flow from
+that a fortiori that if he doesn’t admit it and all there
+is, is the long questioning that, there has been no
+waiver?
+MR. RESTUCCIA: But here Mr. Thompkins
+answered a series of questions knowing --
+JUSTICE BREYER: He answered three
+questions.
+MR. RESTUCCIA: Right.
+JUSTICE BREYER: All right. One, do you
+believe in God? Yes.
+Two, do you pray to God? Yes.
+Three, have you asked God for forgiveness
+for shooting the boy? Yes.
+Okay. So, where -- where did he waive it?
+MR. RESTUCCIA: He -- that's what the
+Federal courts have done on direct review -- this is what
+Cardwell did, and there are five or six circuits have
+found the answers to the questions themselves can be the
+best --
+JUSTICE BREYER: So, in this case, after 2
+hours and 15 minutes when he gave the answers I just
+said, when did he waive his Miranda rights?
+MR. RESTUCCIA: When he answered those
+questions, because the --
+JUSTICE BREYER: No, I think any then -- then
+Miranda is --
+MR. RESTUCCIA: No, because --
+JUSTICE BREYER: It says you can't admit the stuff
+after a long questioning unless he waives. Obviously, he says
+something or there would be nothing to admit.
+MR. RESTUCCIA: The -- that's what the
+Federal courts have done in applying Butler, because the
+words and actions of the person interrogated can give
+rise to the inference that the person has waived. Where
+the person has taken action that's inconsistent with the
+exercise of his rights, it is proper to find waiver.
+The -- this --
+JUSTICE STEVENS: May I ask, can you go back
+to page 14 in your reply brief? "Once warnings have
+been given, the subsequent procedure is clear. If the
+individual indicates in any manner, at any time prior to
+or during questioning, that he wishes to remain silent,
+the interrogation must cease."
+MR. RESTUCCIA: Right.
+JUSTICE STEVENS: So the question is whether
+during those two hours by not answering a -- a number of
+questions, did he indicate in any way that he wished to
+remain silent?
+MR. RESTUCCIA: Right. That this -- so if
+you look at the implication analysis, did he make it clear
+that I don't want to participate in this interrogation?
+Detective Helgert's testimony --
+JUSTICE STEVENS: Then it says that any -- in
+any manner that he wished to remain silent. And until
+the 2 hours and a half later when he did answer the
+three questions, that's pretty -- it's at least arguable
+that his silence indicated he wished to remain silent.
+MR. RESTUCCIA: Well, what happens, though,
+in Davis, this Court made clear for the purpose of
+invocation, that the invocation has to be unambiguous
+because the police have to know when they have to cut
+off their questioning. The -- so, if it's ambiguous,
+it's ultimately, for the question of invocation, his
+burden to assert the right to take an affirmative action
+to show, I don't want to answer any questions.
+Detective Helgert believed, through his
+limited responses, the give and take of part of this
+interview, that he was a willing participant in the
+interview. This is the factual record that was
+established by the State courts. It's important to
+remember that this case being reviewed in habeas that
+those factual determinations are entitled to deference
+unless disproven.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+MR. RESTUCCIA: Thank you.
+CHIEF JUSTICE ROBERTS: The case is
+submitted.
+(Whereupon, at 11:00 a.m., the case in the

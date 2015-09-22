@@ -1,0 +1,1486 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+DANA ROBERTS, :
+Petitioner : No. 10-1399
+v. :
+SEA-LAND SERVICES, INC., ET AL. :
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Wednesday, January 11, 2012
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:23 a.m.
+APPEARANCES:
+JOSHUA T. GILLELAN, II, ESQ., Washington, D.C.; for
+Petitioner.
+JOSEPH R. PALMORE, ESQ., Assistant to the Solicitor
+General, Department of Justice, Washington, D.C.;
+for Federal Respondent.
+PETER D. KEISLER, ESQ., Washington, D.C.; for
+private Respondent.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+JOSHUA T. GILLELAN, II, ESQ.
+On behalf of the Petitioner 3
+ORAL ARGUMENT OF
+JOSEPH R. PALMORE, ESQ.
+On behalf of the Federal Respondent 28
+ORAL ARGUMENT OF
+PETER D. KEISLER, ESQ.
+On behalf of the private Respondent 49
+REBUTTAL ARGUMENT OF
+JOSHUA T. GILLELAN, II, ESQ.
+On behalf of the Petitioner 59
+P R O C E E D I N G S
+(11:23 a.m.)
+CHIEF JUSTICE ROBERTS: We'll hear argument
+next this morning in Case 10-1399, Roberts v. Sea-Land
+Services.
+Mr. Gillelan.
+ORAL ARGUMENT OF JOSHUA T. GILLELAN, II,
+ON BEHALF OF THE PETITIONER
+MR. GILLELAN: Mr. Chief Justice, and may it
+please the Court:
+Dana Roberts was injured and shortly
+thereafter became disabled in the course of his work for
+Sea-Land in fiscal year 2002, but he was not awarded
+compensation until fiscal year 2007.
+The question presented here is whether the
+maximum weekly rate established by section 6 of the
+Longshore Act that was in effect at the time his
+disability began or that which was in effect at the time
+he was awarded compensation governs his case. He is
+entitled to whichever maximum is the applicable one.
+Section 6(c) of the Act provides explicitly
+that the applicable maximum is that in effect at the
+time that the claimant is "newly awarded compensation."
+The term "award" or "awarded" in the Longshore Act has a
+consistent meaning throughout, contrary to the views of
+the court of appeals below; and that meaning is a
+compensation order filed pursuant to section 19(e) of
+the Act, which is described in section 19(e) as "the
+order making the award."
+JUSTICE SCALIA: It seems to me that --
+JUSTICE GINSBURG: What happens in the
+case --
+JUSTICE SCALIA: -- that the two parties are
+at extremes and that there is indeed something in the
+middle. I mean, you say it has to be the determination
+of entitlement to compensation by the agency. The other
+side says no, it's just entitlement, whether it's been
+decreed or not. Why -- why wouldn't it be an award,
+however, if it was the employer that voluntarily paid
+the amount due, which is what he's supposed to do
+anyway, right? Why wouldn't that be an award of
+compensation?
+MR. GILLELAN: Well, because the statute --
+in some sense of the word "award" it is.
+JUSTICE SCALIA: Yes, a sense that -- that
+the text would bear, as opposed to the -- to the sense
+that the other side argues here.
+MR. GILLELAN: I think that the text will
+not bear that reading, in particular because the
+payments that you are describing that could be
+considered an award are described throughout the Act as
+payments "without an award." Now, how the claimant can
+have been newly awarded benefits at the time the
+employer makes a payment "without an award" I think
+defies the meaning of that word.
+JUSTICE SCALIA: Where -- well, I wish you
+would submit the sections of the Act that use it that
+way, that say "compensation without an award."
+MR. GILLELAN: Section 14(a) through (e)
+refers to compensation payments without an award.
+JUSTICE SCALIA: Okay.
+MR. GILLELAN: Those are the provisions.
+Section 14(a) and (b) directs those payments without an
+award.
+JUSTICE GINSBURG: And the -- and the
+critical time, then -- I think, isn't it true that most
+compensation payments are the -- are as a result of
+voluntary action by the employer and not a proceeding?
+MR. GILLELAN: That is true, yes.
+JUSTICE GINSBURG: So -- and then in those
+cases, when the employer says, okay, I will voluntarily
+make this compensation available, then measuring --
+the -- the pay would be measured by the time the
+employer makes -- makes the compensation available,
+right?
+MR. GILLELAN: I think not, because the --
+the statutory provision says it's the award that's
+determinative.
+JUSTICE SCALIA: Well, it's --
+JUSTICE GINSBURG: But there's no award.
+MR. GILLELAN: But there can be an award. I
+think that's the critical --
+JUSTICE GINSBURG: But we have -- what is --
+I mean, there can be.  But here's a person who has been
+injured and gets compensation without having to bring
+any legal proceeding for it. What is the weekly -- the
+measure then? It can't be an award, the date of the
+award, because there is no award. So, what is it?
+MR. GILLELAN: The employer that wants to
+lock in this year's maximum rate and not have his
+liability progress above that simply needs to have an
+award entered.
+JUSTICE SCALIA: No, he doesn't. No, he
+doesn't. He can just begin payment. This (c), which is
+the section we're talking about here, doesn't just
+provide for newly awarded compensation. It also says
+"survivors currently receiving compensation for
+permanent total disability or death benefits."
+"Currently receiving." Now, does that mean
+it has to have been decreed by the agency? I don't
+think so.
+MR. GILLELAN: That provision, which -- that
+clause --
+JUSTICE SCALIA: That clause.
+MR. GILLELAN: -- that separate clause --
+JUSTICE SCALIA: Yes.
+MR. GILLELAN: -- which is not in this case,
+because --
+JUSTICE SCALIA: I understand. But it --
+but it applies to the question, it seems to me, that
+Justice Ginsburg asked, doesn't it?
+MR. GILLELAN: No, I think not.
+JUSTICE SCALIA: No?
+MR. GILLELAN: The function of that clause
+is that in permanent total and death cases, because
+there's an annual escalator provision, whatever your
+rate is this year is going to go up -- if it's a
+permanent total or death case -- is going to go up each
+October 1st by the increase in the national average
+rate.
+JUSTICE SCALIA: But only if you've been
+receiving compensation.
+MR. GILLELAN: If you -- if --
+JUSTICE SCALIA: Okay? If neither the
+employment -- if neither the employer gives you the
+compensation voluntarily nor as you -- as you contend,
+there has been an award by the agency, you're out; (c)
+doesn't apply. Right?
+MR. GILLELAN: I wouldn't say (c) doesn't
+apply, no. I think --
+JUSTICE SCALIA: How else would it apply?
+You are either receiving compensation, which I would
+understand to mean receiving it from the employer or by
+reason of an award, or else you've been newly awarded
+compensation, which I guess means it hasn't yet been
+paid, but -- but you have the award in your pocket.
+MR. GILLELAN: Well, the -- the function of
+that separate clause is for cases in which an award has
+been entered of death benefits or permanent total
+disability benefits, and everything up to that point is
+governed by the maximum that's in effect at the time of
+that --
+JUSTICE SCALIA: It doesn't say that,
+counsel. It says "survivors currently receiving
+compensation." It doesn't say "by virtue of an award."
+It says "receiving compensation." So, if the employer
+is paying it voluntarily, you're in there. And then it
+goes on and it contrasts with receiving compensation
+those newly awarded compensation. You're not yet
+receiving it, but you've been awarded it.
+MR. GILLELAN: Well, Mr. Roberts did not
+fall within the currently receiving compensation --
+JUSTICE SCALIA: I understand that.
+MR. GILLELAN: Okay.
+JUSTICE SCALIA: But I'm just trying to make
+sense out of the provision. And it doesn't seem to me
+to make any sense unless you read it just the way I
+suggested.
+MR. GILLELAN: Okay. I hope I can provide
+that sense. The function of that separate clause is
+that a claimant who has been awarded compensation at a
+given rate, at the -- which is the maximum at the time
+of the award, will continue to receive compensation
+in --
+JUSTICE SCALIA: It doesn't say that. It
+says nothing about an award. The last part talks about
+an award. It says "currently receiving compensation for
+permanent total disability or death benefits." And if
+you're receiving it from your employer, I don't know why
+that isn't covered by that. Why isn't it covered?
+MR. GILLELAN: I can certainly see that
+those terms would appear to apply --
+JUSTICE SCALIA: Yes.
+MR. GILLELAN: -- to that situation in which
+the employer is paying compensation for death or for
+permanent total disability. That wouldn't provide us
+for a maximum -- any applicable maximum.
+JUSTICE SCALIA: I don't think it affects
+your case. It's just a matter of understanding what
+this provision is talking about.
+MR. GILLELAN: Yes. And the -- what I'm
+trying to say about the function of this clause is that
+a claimant who has been awarded compensation for
+permanent total disability -- let's assume the employer
+hasn't paid anything until the ALJ issues an award, and
+at the time that award is issued the maximum is $1,000 a
+week, and the employer was making -- the employee was
+making more than 1500. So, that maximum is the rate.
+JUSTICE SCALIA: But if the employer has
+been paying voluntarily, you don't penalize the employee
+for not having an award, right? I mean he's in the same
+position; the employer has conceded the liability.
+MR. GILLELAN: He certainly is not in the
+same position, no.
+JUSTICE SOTOMAYOR: Counsel, would
+Justice Scalia's reading in your judgment -- accept his
+proposition that those currently receiving voluntary
+payments from the employer fall under subsection (c).
+Would his reading require the employer every year to
+recalculate the benefits to the maximum that's
+established that year?
+MR. GILLELAN: Yes, it would. Yes, it
+would.
+JUSTICE SOTOMAYOR: And that's why his
+reading --
+MR. GILLELAN: And that is precisely the
+function of that clause.
+JUSTICE SOTOMAYOR: The function of (b) is
+to set a maximum that will control all payments present
+and future.
+MR. GILLELAN: Yes, yes, definitely.
+JUSTICE SOTOMAYOR: And so, if you read it
+the way he does, that maximum would change each year.
+MR. GILLELAN: Yes. And for permanent total
+disability and death cases --
+JUSTICE SCALIA: I don't understand why
+that's so only for employment -- for employer payments
+and not the case for awards. If that's so for the
+employer's payment, why isn't it so for awards that have
+been decreed? Why don't they change every year?
+MR. GILLELAN: They do. If the award is for
+permanent total disability or for death, they do.
+JUSTICE SCALIA: Okay. So, then my reading
+makes perfect sense.
+MR. GILLELAN: Yes, your reading does make
+perfect sense. And the function of that second -- that
+-- the clause for those currently receiving compensation
+for permanent total or death is that even when the
+maximum continues to go up after the date of an award,
+that new maximum is the applicable one for the
+continuing period of disability or survivorship.
+CHIEF JUSTICE ROBERTS: When -- one of the
+arguments on the other side that I thought made some
+sense was the idea that you should focus on a particular
+point in time when you're figuring out what the amount
+of the award is going to be; that it doesn't make --
+that it's at least odd to say, well, we're going to
+calculate how much you're entitled to at this point, but
+in terms of the applicable maximum, we're going to wait
+however long it takes and calculate that as of this
+point. Doesn't it make more sense to figure out the
+applicable numbers at the same point in time?
+MR. GILLELAN: Marginally more sense,
+perhaps so. But that is an argument that should be
+addressed to Congress. Congress could easily have made
+section 6(c) turn on the time of injury. Instead, they
+provided very explicitly --
+CHIEF JUSTICE ROBERTS: So, if we think --
+if we think the statute -- in other words, your
+argument, your response, is that the statute is
+unambiguous and it can't be read --
+MR. GILLELAN: Yes.
+CHIEF JUSTICE ROBERTS: -- in a more
+sensical way.
+MR. GILLELAN: Yes.
+CHIEF JUSTICE ROBERTS: Okay.
+MR. GILLELAN: Yes, and that each use of the
+term "award," contrary to the Ninth Circuit's view, is
+consistent with that. That is, whenever Congress refers
+in this statute to an award or compensation being
+awarded, it is talking about the order making the award
+as it's described in section 19(e).
+JUSTICE SCALIA: You don't really have to
+establish that, do you? All you have to establish is
+that it is -- there is no way in which "newly awarded
+compensation" means entitlement to compensation. That's
+all you have to establish.
+MR. GILLELAN: That is exactly correct.
+JUSTICE SCALIA: You don't have to show that
+it's used consistently throughout, only that it's never
+used to mean entitlement to compensation.
+MR. GILLELAN: That is -- that is exactly
+correct, and I --
+JUSTICE ALITO: Are you conceding in answer
+to these questions that your reading doesn't really make
+any sense; that's just what Congress -- that's what
+Congress did?
+MR. GILLELAN: No, I hope I'm not conceding
+that.
+JUSTICE ALITO: Well, what sense does it
+make? What -- why should the ceiling depend on whether
+an employee is getting compensation voluntarily from the
+employer or as a result of a formal award? If you have
+two identical -- identically situated employees and one
+is getting the compensation without an award and one is
+getting it with an award, as you understand the term
+"award," why -- what sense does it make to treat them
+differently?
+MR. GILLELAN: I would say they certainly
+are not identically situated. The claimant who has an
+award --
+JUSTICE ALITO: They're identically situated
+in every respect except one. One has a formal award;
+one does not. What sense does it make to treat them
+differently then?
+MR. GILLELAN: There are serious
+consequences of the fact that one has an award and the
+other is being paid only without an award.
+JUSTICE SCALIA: Counsel, if I understood
+your response to my prior line of questioning, you deny
+that they are treated differently. The one who is
+receiving compensation is treated the same, under the
+same provision. There are two parts to it: survivors
+currently receiving compensation and survivors newly
+awarded compensation.
+Those two classes are treated exactly the
+same. The only one that is treated differently is
+somebody who is neither being paid by the employer nor
+has yet received an award.
+MR. GILLELAN: No. No.
+JUSTICE SCALIA: No?
+MR. GILLELAN: No, no. The clause that
+depends on whether you're currently receiving only
+applies to permanent total disability and death cases.
+In all other cases, the clause that says "newly awarded"
+is the only applicable provision.
+JUSTICE SCALIA: I see. Partial disability,
+in other words.
+MR. GILLELAN: Correct.
+JUSTICE SCALIA: Okay.
+MR. GILLELAN: And temporary total.
+Temporary total has -- the rates do not go up each year.
+JUSTICE BREYER: Would you then go back -- I
+did have the same question Justice Alito asked, and I'd
+like to hear the answer. The answer -- that there --
+I'll add one footnote, perhaps, which -- make it a more
+complete answer, and that is that it makes very little
+sense to me when a worker becomes disabled on January 1,
+1990, for example. He is now disabled. And so, we
+calculate what his wage was. His wage was $200 a week.
+And now we say: But that shouldn't exceed twice the
+average weekly wage, and we're not going to apply it to
+him.
+You're going to apply it to him at some
+random date. His wage that he's getting paid is figured
+out as of January 1, 1990.
+MR. GILLELAN: Yes.
+JUSTICE BREYER: But the maximum that it
+could be is figured out as of January 1, 1998, when he
+finishes a proceeding.
+Now, I just -- for both reasons, why would
+you distinguish and why would you get that result? For
+those two reasons, it doesn't seem to make much sense to
+me, your reading of it, while theirs does make sense.
+Now, you explain why that is.
+MR. GILLELAN: Okay. Okay. I think the
+point is to encourage the employer to get an award
+entered promptly because that way they will lock in that
+early maximum rate or minimum rate. The minimum rate
+provision applies exactly the same way under section
+6(c).
+JUSTICE KAGAN: But I thought Congress
+wanted the system to operate so that people just did it
+voluntarily without an award.
+MR. GILLELAN: Well, they want that to
+happen as often as possible, but the employer has the
+right in any case to file a notice with the Department
+of Labor saying we do not believe the claimant is
+entitled to compensation.
+JUSTICE SCALIA: Counsel, it really doesn't
+make a whole lot of sense. I mean, it seems to me you
+have to acknowledge it would be a much better statute
+had it been written differently. And really your
+argument here is it's not up to us to revise the
+inadequacies of a statute. I mean, your argument is you
+just can't read the language that way. And it provides
+a stupid result. There are such things as stupid
+statutes, and this is one of them, right?
+MR. GILLELAN: I don't think it's stupid,
+but yes, my basic argument is it isn't.
+JUSTICE BREYER: But you think -- you think
+it is not stupid because you think it is a good idea to
+give a lot of work to the Department of Labor and that
+all the employers who are going to do this voluntarily
+and there will never be a problem with it -- all should
+be encouraged to go and get a certificate from the
+Department of Labor. All right. I'll take that as --
+something.
+And now, why is it I can't read the statute
+the way that it seems to make somewhat more sense? I
+don't see any words here that stop me from reading it.
+MR. GILLELAN: "Newly awarded compensation"
+are the critical words.
+JUSTICE BREYER: Where now there exactly?
+It says -- you mean in (c)?
+MR. GILLELAN: In -- yes, 6(c).
+JUSTICE BREYER: You just told me that just
+has to do with permanent or total disability, and this
+is far --
+MR. GILLELAN: No. Excuse me. The other
+clause of that provision, the one that says "currently
+receiving compensation" -- that one only applies to
+survivors and permanently totally disabled workers.
+JUSTICE BREYER: But why -- why don't they
+both? I mean, as I read it naturally, it says that --
+we now have a special thing, you know, which these
+people are the dead ones and the widows are getting it
+and the permanently disabled people, and the -- this
+individual, and the Secretary, the Secretary or his
+delegate is going to calculate this thing all the time.
+And they've got a special thing here for -- for
+permanent people, permanently disabled, and they're
+saying as to those people, we're giving them a break.
+They can't look for more work. They can't look for --
+they're dead, for example, and they can't find other
+sources of income. And so, we say that, that if the
+average wage goes up and their wage was higher to begin
+with, we will raise it a bit.
+MR. GILLELAN: Yes.
+JUSTICE BREYER: And that applies not only
+to the people who are just getting this for the first
+time in the relevant period; it also applies to all
+those who have been getting it. It applies to both
+groups. Well, that makes sense to me.
+MR. GILLELAN: For permanent total
+disability --
+JUSTICE BREYER: Yes. Right.
+MR. GILLELAN: -- and death.
+JUSTICE BREYER: Right.
+MR. GILLELAN: Yes.
+JUSTICE BREYER: So, the whole thing applies
+just to the permanently disabled and the death things.
+What says it applies to anybody else?
+MR. GILLELAN: No, the -- the clause --
+JUSTICE BREYER: The whole thing. The
+whole -- the whole -- all of (c). That's -- in my thing
+here, that's seven lines. All of (c) applies to
+permanently disabled and those who died.
+MR. GILLELAN: Well, that's certainly -- no
+one has put forward that construction, and that would
+mean that there is no maximum applicable to other
+categories of disability, like Mr. Roberts's disability.
+JUSTICE BREYER: Oh, yes. Oh.
+MR. GILLELAN: The new --
+JUSTICE BREYER: I feel slightly like an
+Abbott and Costello movie, but I'm getting this --
+(Laughter.)
+JUSTICE SOTOMAYOR: Counsel, what happens to
+your argument if we disagree with you that employers
+have a way to seek a compensation order? As I read the
+regulations, the only way they can do that is if the
+employee files a claim, and the employee's filing of the
+claim then sets the process in motion. I can't imagine
+that an -- any employee, knowing that a future award
+could help them, would bother filing a claim to help the
+employer lock in his rate.
+MR. GILLELAN: I think -- actually, my
+experience, my universal experience with this statute,
+is that that is not a realistic view of what claimants'
+behavior is.
+The critical difference is an -- the entry
+of an award does not merely confirm that the employer is
+making payments; it requires it to continue making those
+payments until --
+JUSTICE SOTOMAYOR: That's not my question.
+Most of your argument is premised on the -- I thought,
+that the employer could lock in his rate --
+MR. GILLELAN: Yes.
+JUSTICE SOTOMAYOR: -- by seeking an award.
+MR. GILLELAN: Yes.
+JUSTICE SOTOMAYOR: If I disagree with you
+that the Act doesn't provide for that and neither do the
+regulations, that only employees can seek awards, what
+happens to your argument?
+MR. GILLELAN: Oh, I think -- well -- I have
+trouble accepting that hypothetical situation because --
+JUSTICE SOTOMAYOR: Well, as I've studied
+it, I think that's the case. So, assume that fact to be
+true, that employers have no regulatory or statutory
+right to seek an award. They can either stop paying and
+have the employee make a claim or not.
+How -- what does this do to your argument,
+if that's accurate?
+MR. GILLELAN: Nothing. It simply requires
+the employer to induce the claimant to file a claim if
+it wants that award.
+JUSTICE SOTOMAYOR: By stopping payment.
+MR. GILLELAN: Yes. Yes.
+JUSTICE SOTOMAYOR: So, that destroys the
+whole voluntary payment aspects of this.
+MR. GILLELAN: Well, they wouldn't --
+indeed, they wouldn't have to stop payment. They simply
+need to tell the claimant: If you don't file a claim,
+we're going to stop payments. No --
+JUSTICE SOTOMAYOR: Isn't it an odd statute?
+JUSTICE BREYER: I see. Is your argument
+this now -- I'm sorry to be so slow. But that, look,
+there is a statute here; it that says compensation
+cannot exceed more than 200 percent of the annual weekly
+-- or the weekly wage. Then in (3), it says how to
+calculate that particular number. And then you go over
+to (c), and (c) says that calculated number applies to
+those newly awarded compensation.
+And you're saying "newly awarded
+compensation" means somebody got it through an award,
+not somebody got it automatically. And since somebody
+got it -- had to get it through an award or it wouldn't
+apply when you just get it because they pay for it, it
+just doesn't apply. You have to go get the award. And
+the word you're turning on is "newly awarded."
+MR. GILLELAN: Yes.
+JUSTICE BREYER: That's the argument?
+MR. GILLELAN: Yes, it is.
+JUSTICE BREYER: Like Abbott and Costello, I
+don't know what I'm talking about. But I do -- I do --
+(Laughter.)
+JUSTICE BREYER: I was -- I was --
+JUSTICE KAGAN: Well, Mr. Gillelan --
+JUSTICE BREYER: Now I fully understand your
+argument.
+JUSTICE SCALIA: Counsel, could I --
+JUSTICE KAGAN: Could I follow --
+JUSTICE SCALIA: Could I ask you about
+another inconsistency in this section? We've gone over
+one, which I think is there. Isn't there a group left
+out of this thing, even under -- even under the
+Government's interpretation of it? What happens to
+people who are receiving compensation for temporary
+total disability or for partial disability? They
+don't -- they don't come under either one of those two
+categories, even under the Government's interpretation,
+right?
+MR. GILLELAN: No. I think under the
+Government's interpretation, as under ours, they fall
+under those --
+JUSTICE SCALIA: No, they haven't gotten an
+award yet. They have not gotten an award yet, and they
+are only partially disabled or have temporary permanent
+disability. They're -- they're not covered by (c), are
+they?
+MR. GILLELAN: Well, they are covered by it,
+but before we know which year's maximum applies, an
+award --
+JUSTICE SCALIA: Oh, that's right, but
+they --
+MR. GILLELAN: Yes.
+JUSTICE SCALIA: It doesn't take effect --
+MR. GILLELAN: That's correct.
+JUSTICE SCALIA: -- during that year.
+MR. GILLELAN: That's correct.
+JUSTICE SCALIA: Well, does that make any
+sense?
+MR. GILLELAN: Yes --
+JUSTICE SCALIA: No, it doesn't. But you
+say the statute doesn't make sense.
+MR. GILLELAN: I think it does because it
+encourages the employer to have an award entered so that
+it will have the benefit of the current maximum rate and
+not next year's or the year's after or the year's after
+that.
+JUSTICE SOTOMAYOR: All right.
+CHIEF JUSTICE ROBERTS: It's not a
+serious --
+JUSTICE KAGAN: Mr. Gillelan, if a --
+CHIEF JUSTICE ROBERTS: Go ahead. You've
+been -- you've been waiting the longest.
+(Laughter.)
+JUSTICE KAGAN: I think the way the argument
+has gone so far is that we've all been saying this can't
+make sense, and you've been saying, as you have every
+right to say, yes, but this is what the statute says
+based on the "newly awarded" language.
+But that does assume that "newly awarded"
+can't mean an entitlement. And then you run up against
+some other statutory provisions where an award does seem
+to mean, not a formal compensation order, but instead an
+entitlement to funds. So, 908(d)(1), it seems as though
+the word "award" means entitlement; 910(h)(1), it seems
+as though the word "award" means an entitlement; and
+3(b), which says "award in a compensation order,"
+suggests that awards can be made in a formal order or
+awards can be made differently because of an entitlement
+that is automatically paid.
+So, I guess there are three places that it
+seems to me your reading of the word -- your limited
+reading of the phrase "newly awarded," you know, runs
+into problems in those three ways, and I'm left then
+thinking we should do what makes sense.
+MR. GILLELAN: I may have missed what the
+third of those was. I have the --
+JUSTICE KAGAN: 933(b), 908(d)(1), and
+910(h)(1).
+MR. GILLELAN: Ah, okay. Yes, 9 -- the
+section 8(d)(1) that they're referring to refers to an
+award to an -- the unpaid portion of an award to an
+employee who dies before that award has been paid out.
+Their reading of "award" in that provision is
+contradicted by the subsequent paragraph of the same
+subsection, which says "an award may be made after the
+death of the injured employee." It's 908(d)(3).
+Now, that is impossible on their reading of
+"award" -- on the reading they give "award" in section
+8(d)(1). No, what it means in 8(d)(1), as throughout
+the Act, is an award. And if none has been entered
+while the claimant is still alive, it's entered after
+his death. And the survivors under that provision take
+the rest of it that had not been paid before the death.
+Now, we have essentially the same analysis
+of those other provisions. Yes, in those other
+provisions as well, it does mean a compensation order.
+If you cut it loose from that statutory foundation, we
+get three or four different possible meanings that the
+Respondents try to put on it, and we are cut loose from
+anything.
+JUSTICE SCALIA: Well, you're -- you're
+making your case harder than it has to be, it seems to
+me, by saying that it always means an award of
+compensation by the agency.
+I -- I think in -- in 8(d), I don't think it
+means that, but it certainly means an amount due and not
+an entitlement. It means an amount, a specific amount
+due, and that explains its meaning elsewhere, but that's
+quite different from saying that it means entitlement.
+MR. GILLELAN: No doubt it is, yes. And --
+and perhaps there may be some variation in the meaning
+in the other provisions. That's possible. But in
+section 6(d), we think it has to mean the entry of an
+award. That's the only definite event it could refer
+to.
+JUSTICE SCALIA: Oh, I think that's true,
+but only because of the earlier portion of 6(c) which --
+which covers all other payments that are not by virtue
+of an award.
+MR. GILLELAN: Right. Yes.
+JUSTICE SCALIA: Receiving compensation.
+MR. GILLELAN: Yes.
+I would reserve what time I have left.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+MR. GILLELAN: Thank you.
+CHIEF JUSTICE ROBERTS: Mr. Palmore.
+ORAL ARGUMENT OF JOSEPH R. PALMORE
+ON BEHALF OF THE FEDERAL RESPONDENT
+MR. PALMORE: Mr. Chief Justice, and may it
+please the Court:
+Petitioner's interpretation of section 906,
+which hinges entirely on the date of an administrative
+compensation order, renders that provision impossible to
+apply in the many cases expressly contemplated by the
+Act in which there is no such order. That
+interpretation also creates arbitrary distinctions
+between beneficiaries' benefit levels based on
+administrative happenstance.
+JUSTICE SCALIA: Your --
+CHIEF JUSTICE ROBERTS: So, if you're --
+JUSTICE SCALIA: I'm sorry.
+CHIEF JUSTICE ROBERTS: So, if you're
+walking down the street, you're on a business
+enterprise, they haven't shoveled the snow, you slip and
+fall and you're hurt, you go home and say: Good news,
+I've been awarded damages.
+MR. PALMORE: The statute provides for the
+award of damages, and I think this is -- this -- the key
+to this, understanding how this scheme works, is
+understanding section 914 and section 913. These are at
+page 17a --
+JUSTICE SCALIA: But we're not talking --
+MR. PALMORE: -- of the appendix.
+JUSTICE SCALIA: -- about how the scheme
+works. Grant you that it makes a lot more sense your
+way, but you -- will you grant that it's not up to us to
+rewrite the statute?
+MR. PALMORE: It's absolutely not up to
+you --
+JUSTICE SCALIA: Okay.
+MR. PALMORE: -- to rewrite the statute,
+Justice Scalia.
+JUSTICE SCALIA: So, what we're talking
+about is whether "awarded" in that provision can bear
+the meaning that you want to give it. Let's assume that
+Congress passes a -- a new statute providing for tax
+credits for -- for each child, okay? My wife gives
+birth to a child just before Christmas, and I say, oh,
+goody; I've been awarded $2,000. I wouldn't say that.
+That's not a normal use of the language.
+MR. PALMORE: I think it's --
+JUSTICE SCALIA: I am entitled to it under
+this statute. But when the event of having a child
+occurs, I don't say I've been awarded $2,000. You might
+say it analogously. I mean, you know, oh, hey, I've
+been awarded $2,000. But that's analogous. And
+statutes are not written by analogy; they're written to
+say what they say.
+And I don't know anybody that would use the
+term "awarded" the way you want it used. The Chief
+Justice's example is another one: Oh, good, I've been
+awarded damages.
+You haven't been awarded damages. You're
+entitled to them.
+MR. PALMORE: I think Justice Kagan
+highlighted three provisions where the statute does in
+fact use the word "award" to indicate a statutory
+entitlement.
+JUSTICE SCALIA: Let's go through those.
+MR. PALMORE: I'd be glad to, Justice
+Scalia.
+JUSTICE SCALIA: And you -- you show me
+how -- I agree with you that they don't mean the entry
+of an award by the agency, but I don't agree with you
+that the only -- only reading you can give them is
+entitlement.
+MR. PALMORE: Well, just -- to start with
+section 933, which is at page 24a of the Government
+appendix. This is one of the sections highlighted by
+Justice Kagan.
+JUSTICE SCALIA: 933 --
+CHIEF JUSTICE ROBERTS: -- of the gray
+brief.
+MR. PALMORE: Of the gray brief. 933(b)
+says: "Acceptance of compensation under an award in a
+compensation order filed by the deputy commissioner"
+will have certain consequences. That expressly
+contemplates -- this is page 24a, Justice Scalia.
+Sorry.
+JUSTICE SCALIA: I'm sorry. Give me a
+minute. Give me a minute.
+isn't it?
+MR. PALMORE: Okay.
+JUSTICE SCALIA: The language is important,
+MR. PALMORE: Absolutely.
+JUSTICE SCALIA: Okay. What page?
+MR. PALMORE: Page 24a of the appendix to
+the gray brief.
+JUSTICE SCALIA: Okay. Got it.
+MR. PALMORE: Okay.
+JUSTICE SCALIA: And the language is?
+MR. PALMORE: So, the first sentence says:
+"Acceptance of compensation under an award in a
+compensation order" --
+JUSTICE SCALIA: Right.
+MR. PALMORE: -- "filed by the deputy
+commissioner" shall have certain legal consequences --
+JUSTICE SCALIA: Right.
+MR. PALMORE: -- that aren't important here.
+That sentence, even read by itself, suggests there can
+be an award that's not in a compensation order.
+Moreover --
+JUSTICE SCALIA: Oh, yes. Yes.
+MR. PALMORE: -- the last sentence says:
+"For purposes of this subsection" -- not the purposes of
+the entire Act -- "for purposes of this subsection, the
+term 'award' with respect to a compensation order means
+a formal order issued by the deputy commissioner, an
+administrative law judge" --
+JUSTICE SCALIA: That's -- that's true. And
+what that means is that it can be considered an award if
+you've gotten it from the employer voluntarily. That is
+still an award of compensation.
+That's all that that last sentence proves.
+MR. PALMORE: I think it contemplates -- it
+certainly precludes, I think, Petitioner --
+Petitioner's --
+JUSTICE SCALIA: Oh, yes. Yes. I agree
+he's wrong.
+(Laughter.)
+MR. PALMORE: Well, the actual -- the
+"actual receipt" interpretation that Your Honor is
+advancing is not one that's been advanced in this case.
+It would have extraordinarily -- extraordinary practical
+difficulties, and application would be really
+inconsistent.
+JUSTICE SCALIA: No, no, no. I think he's
+persuaded me that in -- in the section we're talking
+about, subsection (c), the only meaning left for "award"
+is an award by the agency, because --
+MR. PALMORE: Well, I'd like to try -- I'd
+like to try to convince you otherwise.
+JUSTICE SCALIA: But -- but you have to show
+me one other provision at least where the only meaning
+you can give "award" is entitlement to money.
+MR. PALMORE: Well, I think section
+910(h)(1), another provision cited by Justice Kagan, is
+another example.
+JUSTICE SCALIA: (h)(1)?
+MR. PALMORE: (h)(1).
+JUSTICE SCALIA: "Upward adjustments to" --
+MR. PALMORE: At 15a.
+JUSTICE SCALIA: -- "compensation to
+which" --
+MR. PALMORE: Right. This is a very
+complicated provision, but what's important to note here
+is that Congress made -- this was Congress's attempt to
+provide additional benefits to beneficiaries whose
+disabilities commenced before 1972.
+JUSTICE SCALIA: Right.
+MR. PALMORE: They make a critical --
+JUSTICE SOTOMAYOR: What page are you on?
+MR. PALMORE: I'm sorry. Page 15a of the
+appendix to the gray brief.
+The specifics aren't as important as the use
+of the phrase, and it's one, two, three, four, five
+lines from the bottom, "or his survivor was awarded
+compensation as the result of death." So, it makes a
+key determinant for figuring out how these adjustments
+are going to be made whether someone was awarded
+compensation prior to October 27th, 1972. There's no
+indication here, and it would make no sense to suggest,
+that Congress meant to distinguish between people who
+had a formal compensation order and those who didn't.
+I think -- but if I could go back to
+section --
+JUSTICE SOTOMAYOR: His answer to that was
+that the provision also permits an entry after someone
+-- of an order after someone dies.
+MR. PALMORE: That's his answer on some of
+the other provisions --
+JUSTICE SOTOMAYOR: So, it's -- the
+incongruity is taken care of by the Act directly.
+MR. PALMORE: Right. But here that -- here
+there'd be no reason for someone to go in and get a
+compensation order, because these were long-past
+disabilities, and Congress was simply creating a rule
+for how to true up these past beneficiaries and provide
+them additional benefits.
+But I think if you --
+JUSTICE SCALIA: What -- what does "awarded
+compensation at less than the maximum rate" mean? I'm
+not sure what that refers to.
+MR. PALMORE: There was an old maximum.
+Prior to 1972, there was a $70 maximum.
+JUSTICE SCALIA: Right.
+MR. PALMORE: Okay. So, if someone was --
+JUSTICE SCALIA: Aren't you entitled to get
+the maximum? No?
+MR. PALMORE: Yes. But some people --
+two-thirds of their average weekly wage resulted in a
+figure below the maximum, right? So, for those people,
+what section 910(h)(1) did was said if you were awarded
+compensation at less than the prior maximum, you're
+going to get an inflation adjustment.
+JUSTICE SCALIA: I got you.
+MR. PALMORE: For everyone else who was
+already at the maximum, they got a new, statutorily
+created time of injury, which is itself significant,
+that Congress went -- used that route.
+JUSTICE SCALIA: Yes.
+MR. PALMORE: But there's no indication --
+JUSTICE SCALIA: You're right. It doesn't
+make sense. It --
+MR. PALMORE: Well, it doesn't make sense
+under Petitioner's reading. I think it does make sense
+under our reading.
+JUSTICE SCALIA: Yes, yes.
+MR. PALMORE: Okay?
+And if you go to page -- page 17a, I think
+these are the key provisions for understanding how
+section 906 works in the statutory scheme. Section 914,
+at the bottom of the page, 17a to the Government's
+brief, provides that employers must pay compensation
+without a compensation order promptly, as soon as they
+have notice of an injury.
+(b), which is on the next page, 18a, says
+that the first payment has to come in 14 days, within
+14 days of notice of the injury, unless the employer
+controverts liability.
+So, if I'm an employer, I have an employee
+who's injured, I've got to get out my checkbook on day
+14 and start writing checks. I need to know what number
+to fill in. I need to know --
+CHIEF JUSTICE ROBERTS: But you're doing
+that -- you're doing that without an award.
+MR. PALMORE: Correct.
+CHIEF JUSTICE ROBERTS: So, how can you say
+what the employer pays should be considered an award?
+MR. PALMORE: Because --
+CHIEF JUSTICE ROBERTS: It's without an
+award.
+MR. PALMORE: Because if you don't consider
+that, then the -- the statutory maximum provision is
+impossible to apply because then it's unclear -- and I
+haven't heard Petitioner answer what the statutory
+maximum is. If that employee who gets his first check
+after 14 days has not been newly awarded compensation
+and --
+JUSTICE KENNEDY: Well, then we're back --
+we're back to (b) overrides (a). You -- you're saying
+that (a) would be interpreted in favor of the Petitioner
+but for (b)?
+MR. PALMORE: No, I'm saying that --
+JUSTICE KENNEDY: Because I agree with the
+Chief Justice. Without an award, it seems to me it
+tends to help the Petitioner.
+MR. PALMORE: That use of "award" clearly
+means compensation order, and I'm not here to suggest
+that the -- that the statute never uses the word "award"
+to mean compensation order. Often it does, and in this
+case, that provision does. But the larger point is that
+that employer has to start payments in 14 days, and he
+has to know what statutory maximum applies. Under
+Petitioner's view of the statute, there is no answer to
+that question, because that employee has not been newly
+awarded compensation. So, section 906(c) --
+JUSTICE KAGAN: And in what percentage of
+the cases are we in that world?
+MR. PALMORE: It's a -- in a substantial
+majority of cases no claim is ever filed, Justice Kagan.
+Page 38 of the red brief points to legislative history
+before Congress in 1972 which demonstrated that, and
+that remains the case. This is a workers'
+compensation scheme that encourages employers to pay
+without administrative compulsion. It's supposed to be
+simple to apply. The employer is supposed to know how
+much to write that check for at the time he writes that
+first check, after 14 days.
+JUSTICE GINSBURG: But your reading doesn't
+encourage employers to pay, because they can stop just
+by saying they contest, right?
+MR. PALMORE: Absolutely. They have a
+statutory right to controvert.
+JUSTICE GINSBURG: So -- so, your reading I
+think leads to protraction. And they get that date of
+injury rule no matter how long they string it out under
+your reading. If you read -- what is the magic
+phrase -- newly --
+MR. PALMORE: Newly awarded compensation.
+JUSTICE GINSBURG: You can say, well, that
+means in the case of the employer who pays promptly,
+pays immediately and continues to pay voluntarily, that
+the compensation is acquired when the employer starts
+paying voluntarily. But if the employer is not paying,
+then the compensation is newly awarded when there's an
+award.
+So, I don't see why -- what kind of problems
+this statute would have if we say newly awarded could
+mean awarded by the statute, which would be newly
+awarded when you're injured; but it can also mean
+compensation ordered by an award. So, you have the
+employer who pays promptly can lock in that early date,
+but if he doesn't pay promptly, the -- then the ceiling
+is going to go up till the time the award is entered.
+What's wrong with that reading?
+MR. PALMORE: That's again a reading that
+hasn't been advanced in this case, but I understand Your
+Honor's question and Your Honor's point. I think that
+reading of it would be very difficult to apply because
+there may be many cases where an employer will write one
+or two checks and then stop. There made be cases in
+which an employer will write a check for the wrong
+amount; there will later be a dispute about what the
+proper benefit level would be.
+So, I think you'd develop a whole body of
+case law and controversy about what it meant for the
+employer to have paid, in that sense.
+CHIEF JUSTICE ROBERTS: But those aren't
+going to be the typical cases, I think. You said there
+may be cases, and I suppose there may be. I assume what
+happens -- employers just don't write checks. They say
+this is how we calculate what we owe you. And it is
+based on the maximum of this year, not any future ones,
+and if the employee says no, no, no; I have a right to
+get the -- then the employer will say, well, okay, I
+either agree with that or not, but you don't get a
+check.
+MR. PALMORE: Well, the -- the employer will
+need to protect itself by writing that check unless it's
+going to controvert liability. Justice Ginsburg pointed
+to one of Petitioner's arguments that this provides an
+incentive for employers not to controvert liability when
+they don't have a good-faith basis for doing so, but
+section 928 of the Act provides for attorney's fees in
+that situation. So, there's already a remedy for that
+kind of situation.
+CHIEF JUSTICE ROBERTS: I -- I understand
+the amounts at issue here. What is a usual amount
+that's at stake in this sort of case? We're talking
+about the concerns -- I guess on both -- about
+gamesmanship, but how much difference are we talking
+about?
+MR. PALMORE: Well, the --
+CHIEF JUSTICE ROBERTS: I don't know; maybe
+you don't have statistics, on an average.
+MR. PALMORE: Well, I can -- we can use this
+case as an -- as an illustration. So, in this case, the
+Petitioner's disability began in 2002. So, our view is
+that that's when he was initially awarded compensation.
+And so, the 2002 maximum of $966 applies.
+Petitioner's view is that because he
+received a formal compensation order in 2007, the 2007
+maximum applies, this 1,114.
+So, it can make a considerable difference.
+I think, though, that Petitioner recognizes --
+CHIEF JUSTICE ROBERTS: The consequence -- I
+mean, there's the time value of money, too. The
+consequence of the employee saying I'm going to wait 5
+years because I think the maximum is going to be a lot
+higher is that he doesn't get anything in the meantime,
+right?
+MR. PALMORE: Well, that's -- that's right.
+CHIEF JUSTICE ROBERTS: It's reasonable for
+an employer to say, okay, if you want to wait, I'll
+wait.
+MR. PALMORE: That's right. The larger
+point though is that in many cases in which compensation
+is paid without compulsion of a compensation order, an
+employee never files a claim. Section 913 expressly
+contemplates that by saying that an employee has 1 year
+in which to file a claim from an injury unless he has
+been receiving payments, in which case the time runs
+from the last payment received.
+JUSTICE BREYER: What happens -- just for my
+technical knowledge here. The -- the employee suffers
+partial disability on February 1. He then doesn't
+notify the employer until, let's say, February 10, and
+then the employer waits for a week or so, and then
+begins to pay.
+Now, is the employer supposed to calculate
+the -- the weekly wage that he's paying on in the week
+February 1 to February 10 or -- 3 days, he puts it
+aside. But -- in the first week or does he do it on the
+first week he got notice? How is that -- how does that
+work?
+MR. PALMORE: Well, he needs to provide --
+he needs to make a payment within 14 days --
+JUSTICE BREYER: That's right.
+MR. PALMORE: -- of notice.
+JUSTICE BREYER: But I'm saying he has to
+write the check now.
+MR. PALMORE: Right.
+JUSTICE BREYER: And the wage could have
+changed in those few weeks.
+MR. PALMORE: It's from the --
+JUSTICE BREYER: The first week he didn't
+get the notice. Then the second week he did get the
+notice. Which week does he calculate the payment on?
+MR. PALMORE: From when the disability
+commenced.
+JUSTICE BREYER: All right. So, what you're
+not --
+MR. PALMORE: And --
+JUSTICE BREYER: Then we can't -- we cannot
+read this thing "award" to mean award by the employer.
+We can't mean it to read "award" by the -- by the
+government, in your view. We have to mean it to mean
+the time that he became entitled to some money.
+MR. PALMORE: That is our submission --
+JUSTICE BREYER: Yes.
+MR. PALMORE: -- Justice Breyer. And --
+JUSTICE BREYER: And the tough thing is
+saying, well, that that's an award. That's what this
+case turns on.
+MR. PALMORE: Well, as we -- as I was
+discussing earlier, we think that the statute does
+sometimes use "award" that way.
+JUSTICE BREYER: And what you pointed to in
+the statute is you pointed to some situations which say
+we have situation 3 and 4, and they're not present here;
+but in situation 3 or 4, award does mean this.
+MR. PALMORE: I think --
+JUSTICE BREYER: All right. That's --
+MR. PALMORE: Right. I think if I can show
+you -- if I can show you -- there are some cases --
+JUSTICE BREYER: You don't have another
+example of a -- of a situation where "award" did mean --
+and so, you're saying there are some others where
+"award" doesn't mean, okay. But --
+MR. PALMORE: Well, I think there are --
+JUSTICE BREYER: -- is there anything --
+what's the most analogous thing you can find anywhere
+where award has referred to the time a person became
+entitled to a thing, prior to the time anyone was --
+became obliged to give him some money?
+MR. PALMORE: Well, I think --
+JUSTICE BREYER: Even if that time first was
+the period for -- way for calculating the money?
+MR. PALMORE: I think 910(h)(1) is that
+example --
+JUSTICE BREYER: 910(h)(1).
+MR. PALMORE: And I hesitate to go back into
+the weeds of that --
+JUSTICE BREYER: No, no, don't do it again.
+MR. PALMORE: -- provision.
+(Laughter.)
+MR. PALMORE: But the first sentence says --
+it talks about those who were entitled to total
+permanent disability or death, which commenced -- so, it
+talks about commencement of entitlement and then --
+JUSTICE BREYER: It says was awarded
+compensation.
+MR. PALMORE: -- and then later uses
+"awarded compensation." If I could go back quickly to
+the claim issue.
+JUSTICE BREYER: Yes, okay.
+JUSTICE SOTOMAYOR: Your brief -- your brief
+seem to use the "newly awarded compensation," your
+meaning of it, at the time of injury, the time of
+disability, the time of entitlement to compensation.
+And it seems to use those terms interchangeably. What
+term are you settling on and why?
+MR. PALMORE: Okay. I think we address this
+in footnote 9 of our brief. It's the commencement of
+entitlement to disability benefits, which is almost
+always going to be when disability itself commences.
+Petitioner has pointed out that there is an
+idiosyncratic set of cases in which, if a disability
+lasts more than 3 days but fewer than 14, you're not
+compensated for those first 3 days. So, in that unusual
+circumstance, it would be day 4, but the employer who
+writes that check at day 14 is going to know. That's --
+that's the key.
+JUSTICE BREYER: I mean, you can do it. You
+can say it's the time that the statute awards him the
+compensation. That's the English language.
+MR. PALMORE: That's -- that's correct,
+Justice -- Justice Breyer. And I think that --
+JUSTICE BREYER: But it's the statute that's
+doing the awarding.
+MR. PALMORE: To make his -- I think
+Petitioner has developed kind of a procedural
+work-around to the -- the problem created by his
+interpretation the statute, which is that he needs a
+compensation order in every case to make the scheme make
+sense. To get compensation order, he needs a claim in
+every case. And as the colloquy before reflected, the
+way he can get a claim in every case, because in many
+cases claims are not filed today, is that the employer
+must threaten the disabled employee to cut off benefits
+if that employee doesn't file a claim, threaten to
+controvert liability when that employer has no
+good-faith basis for doing so. All to get the employee
+to file a claim that the claim -- employee doesn't think
+is necessary, to get a compensation order which serves
+no other purpose than to trigger this maximum rate
+provision.
+That's contrary to the way this statute is
+supposed to work. The statute is supposed to encourage
+amicable agreement between employers and employees to
+avoid administrative process and the gearing up of the
+administrative machinery wherever possible.
+And Petitioner's proffered solution to the
+problem of the absence of a compensation order in every
+case is contrary to that of the entire thrust of the
+Longshore Act as a workers' compensation scheme.
+JUSTICE GINSBURG: And your answer to the --
+to the problem of an employer protracting -- so he
+doesn't have to pay sooner; he can wait till later -- is
+there would be no penalty as long as the employer says
+I'm -- I'm contesting, but you say the attorney's fees,
+that's -- is that --
+MR. PALMORE: Attorney's fees and interest,
+both of which are generally applicable remedies that
+apply to cases that don't implicate the statutory
+maximum or the statutory minimum. This -- Petitioner's
+solution using his reading of the statute to deal with
+employer delay is over-inclusive and under-inclusive.
+It's over-inclusive because it's going to
+deal with cases in which there hasn't been delay by any
+responsibility by the employer, but there's been
+administrative delay, there's been a dispute.
+But it's also under-inclusive in that it
+only deals with those small number of cases that deal
+with the statutory maximum or minimum.
+CHIEF JUSTICE ROBERTS: Thank you,
+Mr. Palmore.
+We'll let Mr. Keisler speak for a bit.
+Mr. Keisler.
+ORAL ARGUMENT OF PETER D. KEISLER
+ON BEHALF OF THE PRIVATE RESPONDENT
+MR. KEISLER: Mr. Chief Justice, and may it
+please the Court:
+I'd like to begin, if I may, by addressing
+Justice Scalia's and the Chief Justice's questions on
+whether the term "award" can bear the meaning that we
+ascribe to it and then explain why, since it can bear
+that meaning, this is the only sensible interpretation
+of the Act.
+First, it is not uncommon, Your Honor, to
+use the term "award" to describe a benefit conferred by
+a statute. The dictionary definition is a benefit
+conferred. Your Honor, Justice Scalia used a
+formulation -- what if a statute awards a tax credit?
+Well, the Court's decision in New Energy Company v.
+Limbach began: An Ohio statute awards a tax credit to a
+certain producers of ethanol.
+I think even Your Honor was the author of
+that decision. It is --
+(Laughter.)
+JUSTICE SCALIA: Yes, well, I -- I agree
+with that. You can speak of the statute as awarding
+something. But when you use the phrase "newly awarded,"
+you're not referring to the enactment of the statute;
+you're referring to the time at which the person
+qualifies under the statute. And I don't know any usage
+of that sort, that a person -- well, you know, when my
+wife has a baby, I've been awarded money.
+You haven't been awarded money.
+MR. KEISLER: I think the party becomes
+newly awarded at the time the party becomes disabled,
+and, therefore, there is an amount due under the
+statute. And --
+JUSTICE SCALIA: Yes, that's what you say.
+But I don't know -- I don't know any common usage that
+employs the term --
+MR. KEISLER: But it is a usage within the
+Longshore Act elsewhere, as Mr. Palmore --
+JUSTICE BREYER: What about the -- the
+business was newly awarded the tax credit at the time
+they made the deduction?
+MR. KEISLER: At the time they became
+qualified for what the statute required them to do to
+get the tax credit, yes. And that is how it is used in
+0(h)(1), as Justice Kagan said. It's how it's used in
+908. And section 933 specifically provides Petitioner's
+definition of "award," a formal compensation order, but
+says it is only for purposes of this subsection.
+CHIEF JUSTICE ROBERTS: But it's not the way
+it's used in 914.
+MR. KEISLER: That's correct. And that's
+why this is a case like Robinson v. Shell Oil, in which
+the word "employer" was used throughout Title VII in
+different ways. And what the Court said is you then
+have to look at the context of the individual provision
+in which the word appears that you're construing to
+determine how the word is being used in that particular
+provision.
+And here the most fundamental reason why it
+is an untenable construction of this Act to rely on the
+date of a compensation order to determine the applicable
+maximum rate is that then the Act would be silent as to
+the maximum rate in the vast majority of instances in
+which compensation is paid, because, as Mr. Palmore
+said, in the vast majority of instances no claim is
+filed. And, as Justice Sotomayor pointed out, when no
+claim is filed, no compensation order will ever be
+issued.
+And that's not an accident. That is a
+function of a very central feature of the Act's design
+that Petitioner's interpretation is entirely at odds
+with. The Act is designed to enable compensation to be
+calculated precisely and as early as possible so that
+the money can get into the employee's hands very quickly
+and with a minimum of instances in which the
+administrative machinery has to be invoked. That's why
+the norm is no compensation order.
+And so, Petitioner's interpretation is
+counter to that in at least two respects: It relies on
+the existence of a compensation order, which in most
+instances won't and shouldn't issue, and it would
+maximize, rather than minimize, the number of instances
+in which someone has to go and get an order to force
+compensation orders out of the system to make
+Petitioner's interpretation work, even though everything
+is happening exactly as the Act says it should. The
+employer is voluntarily paying exactly the amount that
+the employee says is due, and there's no need to get the
+agency involved.
+CHIEF JUSTICE ROBERTS: But how much of a
+practical problem is this? I understand the -- the
+amounts are here, but it's 5 years, and apparently the
+employee was happy to wait 5 years to get an award.
+Normally, if you're an employee and you're disabled, and
+the employer says, well, here's what we're going to give
+you, and it's based on the maximum of the latest we
+have, you're not going to say: I'm going to wait; these
+wages are going to go up nationally, and I'm going to
+wait a year; maybe I'll wait 4 years because I think
+there's a trend on national average wages, and I'm going
+to cash in on that; I'm going to be without money for
+the next 4 years and I'm disabled, but -- I mean, that
+doesn't sound to me to be a plausible situation.
+MR. KEISLER: But if Your Honor thinks about
+the situation in which the employee is voluntarily
+receiving from the employer everything that the employee
+agrees is due, then the question is, in that
+circumstance where the employer is doing everything
+right, what can the employer do to force out of the
+system a compensation order that will lock in the
+maximum rate? And Petitioner's solution to that problem
+evidences the problem with his position.
+CHIEF JUSTICE ROBERTS: Well, no, I mean --
+I don't know what the employers do, but usually in a
+situation like this, the employers have good lawyers and
+they write at the end of the check, you know: This is
+in full satisfaction of any claims under the -- the
+whatever.
+MR. KEISLER: But there is no compensation
+order until that employee files a claim. And under
+Petitioner's interpretation, there would therefore be no
+knowable maximum rate. And Petitioner's solution to
+that problem, on page 16 of his reply brief, is to say
+that the employer should threaten a bad-faith cutoff of
+funds. The employer should say I will cut you off
+unless you file a claim.
+That's bad for everyone. It's bad for the
+employee who has access to payments delayed. It's bad
+for the employer who apparently is being told it must
+controvert liability in bad faith, because the employer
+doesn't in fact disagree that the employee is entitled
+to liability, or face a 10 percent penalty for cutting
+off the employee without a basis for controverting
+liability. And it's bad for the agency who suddenly has
+all these claims filed. All in a situation in which
+everything is working exactly as the Act intends.
+JUSTICE SCALIA: Give me your example again
+of "award" used as "entitlement."
+statute.
+Limbach.
+MR. KEISLER: 910(h)(1).
+JUSTICE SCALIA: No, no, no. Not from the
+MR. KEISLER: Okay.
+JUSTICE SCALIA: You -- you gave --
+MR. KEISLER: Oh, New Energy Company v.
+It was a Commerce Clause case from, I think,
+1989 in which Your Honor began the opinion by saying, to
+describe the setup, an Ohio statute awards tax benefits
+to... and then described the category of energy
+producers who could take advantage of the tax benefit.
+And I think those energy producers --
+JUSTICE SCALIA: That wasn't -- you gave
+another example.
+MR. KEISLER: Robinson v. Shell oil?
+JUSTICE SCALIA: No, not a case.
+MR. KEISLER: Okay.
+JUSTICE SCALIA: Just an example you made up
+out of your fertile imagination which --
+(Laughter.)
+JUSTICE SCALIA: -- which seemed to me
+pretty good. But I forgot it. I'll get --
+MR. KEISLER: An example --
+JUSTICE SCALIA: I'll get it from the
+transcript.
+MR. KEISLER: I think it's the employee who
+was receiving voluntary payments, and everything is
+proceeding the way the Act intended. But the employer,
+in order to know what its maximum rate will be, in order
+not to be surprised 5 years hence by a maximum rate that
+only then can be known, has to force a compensation
+order out of the system. And the only way Petitioner
+says the employer can do that is by threatening a
+bad-faith cutoff of funds.
+Whether it happens frequently or
+infrequently, Mr. Chief Justice, I think an
+interpretation that relies on a mechanism that is so
+obviously counter to the way the statute is supposed to
+function is, by virtue of that, an extremely unlikely
+and unnatural interpretation of the statute.
+JUSTICE GINSBURG: About what percentage of
+the compensation cases involve the statutory maximum?
+Because if you -- if your pay is less than the statutory
+maximum, this issue doesn't come up.
+MR. KEISLER: In 1972, Congress was told
+that it would be about 10 percent. My understanding is
+since then, it's grown so that I'm told that about 20
+percent of cases today require application of the
+maximum rate.
+CHIEF JUSTICE ROBERTS: Does the maximum
+always go up?
+MR. KEISLER: Ever since 1972, each year's
+maximum as calculated by the Secretary of Labor has been
+higher than the preceding year.
+CHIEF JUSTICE ROBERTS: Theoretically, it
+can go down.
+MR. KEISLER: Theoretically, it can. It
+never has.
+If the Court has no further questions.
+JUSTICE KAGAN: Mr. Keisler, if I could just
+go back to this language. If -- if according to Justice
+Scalia's old opinion, the statute awards compensation at
+the time of disability, essentially what you would be
+saying is that an employee who becomes disabled in a
+certain year is awarded compensation at that time. Is
+that right?
+MR. KEISLER: That's right, Your Honor.
+JUSTICE SCALIA: Yes, but I -- I didn't say
+in that opinion that the -- the employer in -- in that
+-- or whoever it was that was entitled under the statute
+-- was "newly awarded" it. I agree the statute awards
+it, but when you say somebody is "newly awarded," you're
+talking about an event at that time. And that's --
+MR. KEISLER: I think the function --
+JUSTICE SCALIA: That's a different usage.
+MR. KEISLER: I think the function of
+"newly" in this statute is something different,
+Justice Scalia. And that relates to the questions that
+Your Honor and Justice Breyer were asking about the
+relationship between the "currently receiving" clause
+and the final clause. I think the "currently receiving"
+clause, which relates to those with permanent total
+disability and death, is an adjunct to another provision
+of the Act, section 19(f), which provides for a COLA, a
+cost-of-living increase, every year for that narrow
+subset of the most disabled of employees. They and they
+alone get that annual bump-up.
+And so, that "currently receiving" clause is
+written for that category to make sure that their
+bump-up isn't capped by a static maximum rate. The
+other part of the clause, "newly awarded compensation,"
+is about everybody else.
+Now, I think the use of the word "newly"
+there is just to distinguish it from the "currently
+receiving" clause, which is escalating year by year.
+And those newly awarded compensation, meaning at one
+point, fixed in time -- only when you are "newly"
+awarded compensation are you then going to have your
+maximum rate fixed.
+And then -- and both Petitioner and we
+agree -- whatever it's fixed at, whatever year, that
+stays the same for the duration of your collection of
+compensation.
+If the Court has no further questions, I
+thank the Court.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+Mr. Gillelan, if I got that right, you have
+2 minutes remaining.
+REBUTTAL ARGUMENT OF JOSHUA T. GILLELAN, II,
+ON BEHALF OF THE PETITIONER
+JUSTICE SOTOMAYOR: Counsel, let's assume an
+employer pays, continues to pay over a period of time,
+and the employee needs more money and goes in and says
+you owe me more money; I'm going to make a claim. The
+board says no, he doesn't owe you more money; he was
+paying the right amount. And so, you're not entitled to
+the 1200 you're asking for; you're only entitled to the
+1,000 he was paying.
+Under your view, if that happened 5 or 10
+years after the payments started, would the employer be
+liable for the higher average 10 years later?
+MR. GILLELAN: Only, of course, if the
+employee's own wages at the time of the injury qualified
+for that, but yes.
+JUSTICE SOTOMAYOR: Assuming it does, that
+the answer is "yes"?
+MR. GILLELAN: Yes. Yes.
+JUSTICE SOTOMAYOR: So, what stops an
+employee from simply doing what I said? What stops an
+employee from kicking up his own maximum by -- whenever
+he chooses to do it, years and years later?
+MR. GILLELAN: Well, I think in that
+situation, the claimant hasn't triggered that award. In
+fact, the claimant has triggered the maximum that's in
+effect at the time of that award that only makes -- it's
+an award only of what the employer has been paying.
+It's not a denial, as it's characterized in the
+Government's brief. But it is an award only of what of
+the employer has been paying.
+If the claimant did not bring it forward
+with that and the employer let it go for still further
+years, then even a subsequent year's maximum would be
+the actual --
+JUSTICE SOTOMAYOR: If we find any ambiguity
+in the statute, in the statutory language, would it then
+make more sense to adopt your meaning or the
+Government's, given all of the factors that the
+Government argues counsels in its favor?
+MR. GILLELAN: I think each of those
+arguments is fallacious. They misdescribe the statute
+in their reasons why this is not a sensible provision.
+But even if there is an ambiguity --
+JUSTICE SOTOMAYOR: Assume that --
+MR. GILLELAN: Before we lose, that -- the
+other possible meanings of "newly awarded" have got to
+include what they say the test is.
+CHIEF JUSTICE ROBERTS: Thank you, counsel.
+The case is submitted.
+(Whereupon, at 12:23 p.m., the case in the

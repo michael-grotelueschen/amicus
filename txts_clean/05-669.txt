@@ -1,0 +1,1423 @@
+IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+BP AMERICAN PRODUCTION COMPANY,
+SUCCESSOR IN INTEREST TO AMOCO
+PRODUCTION COMPANY, ET AL.,
+Petitioners,
+: No.05-669
+REJANE BURTON, ACTING ASSISTANT
+SECRETARY, LAND AND MINERALS
+MANAGEMENT, DEPARTMENT OF THE
+INTERIOR, ET AL.
+- - - - - - - - - - - - - - - - - x
+Washington, D.C.
+Wednesday, October 4, 2006
+The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:06 a.m.
+APPEARANCES:
+JEFFREY A. LAMKEN, ESQ., Washington, D.C.; on behalf of
+the Petitioners.
+DARYL JOSEFFER, ESQ., Assistant to the Solicitor General,
+Department of Justice, Washington, D.C.; on behalf of
+the Respondents.
+C O N T E N T S
+ORAL ARGUMENT OF PAGE
+JEFFREY A. LAMKEN, ESQ.
+On behalf of the Petitioners 3
+ORAL ARGUMENT OF
+DARYL JOSEFFER, ESQ.
+On behalf of the Respondents 22
+REBUTTAL ARGUMENT OF
+JEFFREY A. LAMKEN, ESQ.
+On behalf of the Petitioners 49
+P R O C E E D I N G S
+[11:06 a.m.]
+JUSTICE STEVENS: We'll hear argument in BP
+America Production Company against the Secretary.
+Mr. Lamken.
+ORAL ARGUMENT OF JEFFREY A. LAMKEN
+ON BEHALF OF PETITIONER
+MR. LAMKEN: Thank you, Justice Stevens, and may
+it please the Court:
+Section 2415(a) established a limitations period
+for every action for money damages by the Government which
+is founded on any contract. That provision, by its terms,
+applies to every contract action, every adversary
+adjudication seeking monetary compensation for breach,
+whether pursued before a court or an agency.
+The contention that every action encompasses
+only civil actions or judicial actions is incorrect for
+three reasons. First, it is inconsistent with the broad
+language that Congress used. It is inconsistent with the
+statutory structure, in that it renders another provision,
+the exception for administrative offset, totally
+superfluous. It also creates an irrationality in the
+hierarchy of the Government's claims. Finally, it robs
+Section 2415(a) of its intended effect.
+Turning to the text, Congress
+and agencies regularly use the term "action" to refer to
+adversary adjudications before administrative agencies and
+before the judiciary. The term --
+JUSTICE SOUTER: What --
+MR. LAMKEN: -- denotes --
+JUSTICE SOUTER: May I ask you, on that point --
+I understand what you're saying, and I've looked at your
+authority, but, right in the provision itself, there is a
+verbal distinction made between actions for money damages,
+and what, at the end of the provision, they refer to as
+"administrative proceedings" in providing for the 1-year
+supplementary rule. Doesn't the statute, in effect, say,
+"We don't mean, by 'action,' what we would possibly --
+what possibly might be included as an administrative
+proceeding"? If they had wanted an administrative
+proceeding to be a subset of the actions for money
+damages, wouldn't it have been sensible for Congress to
+say in -- to refer, instead of to "administrative
+proceedings," to "administrative actions"?
+MR. LAMKEN: Well, in fact, the -- it refers to
+"administrative proceedings required by contract or law."
+And that clause applies in the particular circumstance
+where a law or a contract requires some sort of
+administrative proceeding as a condition precedent to the
+action for money damages. So, if you can bring your
+money-damages action without any prior administrative
+proceeding, regardless of where you bring --
+JUSTICE SCALIA: I think your point has to be
+that there are administrative proceedings that are not
+actions.
+MR. LAMKEN: That is absolutely correct.
+Nonadversarial administrative proceedings would,
+themselves, not be actions.
+JUSTICE SCALIA: Right.
+MR. LAMKEN: And they also wouldn't be money-
+damages actions. So, the distinction the statute draws is
+not between money-damages actions in court and money-
+damages actions before agencies; it's before money-damages
+actions, wherever brought, and the administrative
+proceedings that have to be brought as a condition
+precedent.
+JUSTICE SCALIA: You contend that what commenced
+the action here was the order demanding payment.
+MR. LAMKEN: That is correct. That is the --
+JUSTICE SCALIA: That's a very weird
+commencement of an action, where what then follows is what
+is referred to as an "appeal," within the agency.
+MR. LAMKEN: For historical reasons, the
+denominations are quite strange, but for Grisa, quoted --
+on subsections 1702 and 1724, quoted on pages 5 and 6 of
+--
+our reply brief, specifically state that the order to pay
+commences the proceedings. And so, since that is the --
+JUSTICE SCALIA: Which says that?
+MR. LAMKEN: It's on page 5-6 of our brief.
+It's Section 1702 of our --
+JUSTICE SCALIA: What page of your brief?
+MR. LAMKEN: 5 and 6 of the reply brief.
+JUSTICE SCALIA: Of the reply.
+MR. LAMKEN: Yes. And it's 13 U.S.C. 1724, and
+it talks -- or it defines the "demand" as the order to
+pay. And then, the definitional provisions, in turn --
+when they're talking about what commences the action, it
+says that the order to pay "commences" the action. And so
+JUSTICE SCALIA: I'm not finding it. Where is
+it, again?
+MR. LAMKEN: Page 6 of the reply, Your Honor,
+very top. The citation says "13 U.S.C. 1724(b), emphasis
+added." It defines "demand" to include an order to pay
+issued by the Secretary. And, in the next line down, we
+say, "For Grisa thus recognizes that the so-call order to
+pay, far from concluding the action, in fact, commences
+it," because the statute of limitations prepared -- uses
+the word "commenced" to describe what the action -- the
+order to pay does.
+JUSTICE SCALIA: Why is -- why doesn't it make
+much more sense -- as I understand the proceeding, this
+order doesn't come out of the blue. As required, there
+has to be a letter to the -- to the payee saying, "We
+think -- we think you owe so much money." He is allowed
+to respond, right?
+MR. LAMKEN: That --
+JUSTICE SCALIA: And then, after considering the
+response, the order issues. Now, I would consider that a
+-- you know, an -- that sounds to me like a complaint and
+an opportunity to respond to it. And then, finally, the
+first decision of the agency, which is then appealed --
+and CFR provides for an -- what he calls an appeal. And
+it seems to me the final opinion of the agency is the
+opinion on the appeal.
+MR. LAMKEN: In fact, that process, which isn't
+even mentioned in the regulations, doesn't have any legal
+operative effect. It's more like a demand letter. If the
+lessee doesn't respond to the letter, he doesn't waive any
+of his rights. If the Government fails to include a claim
+in its demand letter, in the -- well, in the audit letter
+-- it doesn't waive any of its rights. The --
+JUSTICE SCALIA: Well, it doesn't --
+MR. LAMKEN: -- first document --
+JUSTICE SCALIA: -- waive it, but it can't issue
+the order without having issued the letter first, giving --
+MR. LAMKEN: I --
+JUSTICE SCALIA: -- giving the party an
+opportunity to say why this amount isn't owed.
+MR. LAMKEN: Well, in fact, there's nothing in
+the regulations -- and I think the Solicitor General would
+concede -- that actually requires this informal process.
+It happens to be typically done. And the SG uses the word
+"typically" in the brief. But there's nothing that
+requires it. And if you don't respond, there are no
+consequences to failure to respond.
+JUSTICE SCALIA: Is there anything that requires
+the order?
+MR. LAMKEN: The -- anything that requires the
+Secretary to proceed by order?
+JUSTICE SCALIA: Yes.
+MR. LAMKEN: That is the Secretary's traditional
+way of doing things --
+JUSTICE SCALIA: Well --
+MR. LAMKEN: -- yes, but --
+JUSTICE SCALIA: So, you could say the same for
+the other.
+MR. LAMKEN: Oh, but it -- but there is no
+liability if the order fails to issue. The order, if it
+were the first salvo, you still would be required to
+respond. And so, your failure to respond is very much a
+default. The failure to respond to the letter, the audit
+letter, has no legal operative effect --
+JUSTICE SCALIA: You don't -- you don't -- but
+you don't respond to the order; you take an appeal from
+the order.
+MR. LAMKEN: That's correct. You file a --
+JUSTICE SCALIA: It seems to me crazy to call
+that order a complaint. I -- even if I grant your other
+argument, that an administrative proceeding can be
+commenced by a complaint -- or that the term "complaint"
+can apply to administrative proceedings, I don't think
+that what you've hung your hat on here -- namely, the
+order -- seems to me to fit that description.
+MR. LAMKEN: Well, Justice Scalia, it is the
+first document, which is recognized in the regulations,
+which provides the lessor of the notice of claims against
+it, the first one that's required by the regulations in
+order to commence the proceedings.
+JUSTICE SOUTER: You mean --
+MR. LAMKEN: It's recognized --
+JUSTICE SOUTER: -- the regulations don't refer
+to the initial letter?
+MR. LAMKEN: No. They don't -- the regulations
+don't require this informal process. It's typically done
+--
+JUSTICE SOUTER: So, they literally could start,
+absolutely out of the blue, by issuing the order?
+MR. LAMKEN: I think that's correct. That is
+the way that it could be done. There's an informal
+process that's typically followed; but you could ignore
+it, and there's no legal operative effect. So, that --
+JUSTICE SCALIA: I doubt whether --
+MR. LAMKEN: -- informal process --
+JUSTICE SCALIA: -- that would --
+MR. LAMKEN: -- can't be a complaint.
+JUSTICE SCALIA: I doubt whether that would
+conform with the Administrative Procedure Act. I mean,
+either -- even at the first level of agency decision --
+MR. LAMKEN: Well --
+JUSTICE SCALIA: -- it seems to me you have to
+give the individual an opportunity to reply.
+MR. LAMKEN: Well, that is perhaps why the
+agency tries this -- to do the informal process. But, in
+fact, it does not have legal operative effect. There --
+you could completely ignore that initial demand letter,
+and say, "Sorry, Agency, I'm not responding." The agency
+then files its order. And that's the first time you must
+register your defenses, upon failure or forfeiture --
+JUSTICE SCALIA: Of course you can ignore it.
+--
+That doesn't prove anything. You could ignore an agency
+complaint, too --
+MR. LAMKEN: Right.
+JUSTICE SCALIA: -- I mean, a formal complaint,
+in which case you'll be found liable. What does --
+MR. LAMKEN: That's the --
+JUSTICE SCALIA: -- the fact that you don't have
+to respond have to do with anything?
+MR. LAMKEN: The legal consequences. It's
+exactly right, Justice Scalia. If you don't respond to
+the demand letter, there are no legal consequences. If
+you don't respond to the letter by filing what's called an
+"appeal," you lose. And so, it's just like a complaint;
+you default if you fail to raise your defenses at that
+point. In addition, Section 2415 --
+JUSTICE STEVENS: And it's also, I assume, true
+that the demand letter would not toll a statute.
+MR. LAMKEN: No, we don't believe a demand
+letter would toll a statute, because it's not required by
+JUSTICE SCALIA: Well, you --
+MR. LAMKEN: -- by law.
+JUSTICE SCALIA: -- you'd win in this case even
+if it did. I don't think that the difference between the
+initial letter giving you an opportunity to reply, and the
+-- what you call the "complaint," the order -- that time
+period doesn't put you out of -- out of the permissible
+period.
+MR. LAMKEN: Oh, I certainly hope --
+JUSTICE SCALIA: Right.
+MR. LAMKEN: -- hope not.
+JUSTICE SCALIA: Yes.
+MR. LAMKEN: But, in fact, Section 2415(f),
+which is on page 4 and 5 of the appendix to our brief,
+makes it clear that whether something is denominated a
+complaint or not does not determine whether or not it's
+covered by the limitations period. 2415(f) is an
+exception for counterclaims and offsets by the Government
+where a private party brings an action against the
+Government. But counterclaims and offsets typically
+aren't brought by complaint; they're brought in the
+answer, they're submitted in the answer. Therefore,
+whether it's denominated an "order," an "answer," or
+something else, doesn't control whether or not 2415
+applies. 2415 applies to any action for money damages
+founded on a contract, however you might denominate the
+initial filing which commences the proceedings. In --
+JUSTICE GINSBURG: Mr. Lamken, the point has
+been made that there are many indications that what
+Congress had in mind was ordinary civil action in a court.
+In addition to finding this provision solely in title 28,
+the judiciary code, and not in title 5, there's also, if
+you read the following provision, 2416, time for
+commencing actions brought by the United States. And then
+it tells us the tolling periods. And, in doing that, it
+refers twice to the "defendant," which is a term that's
+used in civil proceedings, not administrative proceedings.
+MR. LAMKEN: Well, starting at 28 U.S.C., why
+it's there, it, in fact, applies both to administrative
+agency actions and actions in courts. And sometimes in 28
+U.S.C. there are provisions that apply to both. The
+Federal Tort Claims Act, for example, is in 28 U.S.C., and
+it has a provision for administrative adjustment of claims.
+People must file their claims before an agency first, and
+then the agency can do administrative adjustment. That's
+entirely separate from the attorney general's ability to
+compromise the claim once it's filed in court.
+Section -- title 5 also contains things that
+apply to courts and agencies -- the right to judicial
+review of agency actions, the waiver of immunity that's
+necessary for those -- in addition to standards that
+govern judicial review of agency actions. Those were all
+in title 5, but they actually apply to courts. These --
+JUSTICE SCALIA: Well, 2415(a), (i), we -- you,
+you cannot possibly say that that only applies to judicial
+actions, can you?
+MR. LAMKEN: Oh, no. That's --
+JUSTICE SCALIA: Yes.
+MR. LAMKEN: -- actually completely --
+JUSTICE SCALIA: And that's in --
+MR. LAMKEN: -- superfluous.
+JUSTICE SCALIA: -- and that's in title 28.
+MR. LAMKEN: And that's in -- yes, that's in
+title 28, as well.
+And with respect to the term "defendants,"
+Justice Ginsburg, Congress has often used the term
+"defendants" even in the context of administrative
+actions. The Stockyard and Packers Act of 1921 -- it's in
+U.S.C. 210 -- actually talks about a complaint against a
+defendant for damages, all adjudicated before the
+Secretary of Agriculture, and that was 85 years ago. It
+seems a little late in the day now to debate whether one
+can be a defendant, the person who defends before an
+agency, as well as the defendant --
+JUSTICE GINSBURG: It's not the typical term
+used in agency proceedings to designate the responding
+party.
+MR. LAMKEN: Well, you can talk about the
+"responding party," or the "defendant," but the term
+"defendant" is sufficiently broad to include one who
+defends or denies, and that would be a term -- and it's
+been used in the past, as long as 85 years ago -- to
+discuss the person who might be liable for damages in --
+JUSTICE GINSBURG: And the content --
+MR. LAMKEN: -- an adversary --
+JUSTICE GINSBURG: -- the content of the tolling
+provision, as well, seems geared -- seems geared to a
+civil lawsuit. It talks about a person being outside the
+United States; therefore, they wouldn't be amenable to
+service of process.
+MR. LAMKEN: That's certainly right. These are
+all things that would apply, we would expect, both to
+a civil action in court and an administrative-agency
+action, as well. They may work better for one or
+the other in different particular circumstances, but they
+are all sufficiently broad that they can be used in both
+circumstances. And the one the Government, in the
+administrative context, would be most interested in would
+be subsection C. When the Government just doesn't know
+the facts, or the Government reasonably couldn't know the
+facts, it gets an exception, just tolling, until it
+reasonably could have known of the fact. And that's just
+as applicable in an action before an agency as it would be
+in an action before a court.
+In addition, the Government's contrary
+construction renders an entire provision superfluous. And
+that is the one that Justice Scalia mentioned, Section
+15(i), which is an exception for administrative offsets.
+That exception for administrative offsets would do no work
+at all if --
+JUSTICE GINSBURG: That wasn't part of the
+original statute, was it?
+MR. LAMKEN: No, that was added about 16 years
+later, Your Honor. And it was added, but it clarifies the
+scope of the statute. And, as this Court admitted in --
+pointed out in cases like Fausto and LaFranca, the later
+amendment to a statute can clarify its meaning; and,
+indeed, statutes are ordinarily read, once amended, as if
+they existed in their amended form from the offset.
+JUSTICE GINSBURG: I thought that (i) was added
+because it's -- for a very specific reason, that there was
+a debate between the Department of Justice and -- I forgot
+the other agency --
+MR. LAMKEN: The Comptroller, Your Honor.
+JUSTICE SCALIA: Yes.
+JUSTICE GINSBURG: -- yes -- about whether an
+offset would be subject to the time limit.
+MR. LAMKEN: That's exactly right. And Congress
+resolved that debate by providing an exception for
+administrative offsets, and no other exception for any --
+JUSTICE SCALIA: What --
+MR. LAMKEN: -- sort of administrative
+proceeding. And that raises the strong inference that, in
+fact, this applies to administrative proceedings, and it
+simply doesn't apply to administrative offsets, because
+they're an exception.
+JUSTICE SCALIA: They could have said -- if the
+other interpretation of 2415(a), as not applying to
+administrative proceedings, were correct, they could have
+said the provisions of this section do not apply to
+administrative proceedings --
+MR. LAMKEN: That's --
+JUSTICE SCALIA: -- which would have -- which
+would have handled the offset --
+MR. LAMKEN: Yes. It would have --
+JUSTICE SCALIA: -- but would have been well
+beyond the offset. And the fact --
+MR. LAMKEN: That's exactly right.
+JUSTICE SCALIA: -- that they only focus on the
+offset certainly suggests that when you're not talking
+about offset, it does apply to administrative proceedings.
+MR. LAMKEN: I could not have said it better,
+and I will not attempt to. In fact, in addition, it
+raises another anomaly in the statute, the Government's
+contrary construction. And that is, it creates sort of an
+irrationality in the hierarchy of claims for the
+Government. Offensive judicial actions to extract money
+from private individuals must be brought within 6 years.
+Administrative offsets for the Government to try and avoid
+paying money, those must be brought within 10 years, under
+the administrative offset provision that was enacted
+together with the exception in (i). However, offensive
+administrative actions to extract money may be brought in
+perpetuity, forever. It simply strains credulity to
+believe that Congress, at the same time it was saying the
+Government has only 10 years to assert administrative
+offsets to avoid paying money, instead intended
+administrative agencies to be able to extract money on
+that very same claim --
+JUSTICE SCALIA: I can believe that they do --
+MR. LAMKEN: -- in perpetuity.
+JUSTICE SCALIA: -- I can -- I can believe that
+they do that.
+[Laughter.]
+JUSTICE SCALIA: But --
+MR. LAMKEN: Well, Justice --
+JUSTICE SCALIA: By mistake. But I would not
+assume a mistake unless it's very clear.
+MR. LAMKEN: I think that's exactly right,
+Justice Scalia. And that's, again, going back to Fausto,
+where there is a sensible hierarchy of claims, or a
+sensible hierarchy of preferences. The Court doesn't
+ordinarily presume that Congress put in a structure that
+doesn't respect that ordinary hierarchy. And the
+Government's construction here is inconsistent with the
+ordinary hierarchy which allows the Government to avoid
+making payment on more favorable terms; then the
+Government gets to go in and forcibly extract money from
+private individuals.
+Finally, the Government's construction also
+undermines the intended effect of the statute. The effect
+of statute -- the purpose of statutes of limitations --
+and this one, in particular -- is to provide repose -- to
+allow the individual to know that he will no longer
+confront Government claims, to dispose of his documents,
+and also to encourage the Government to be diligent in
+pursuing its claims. None of those purposes are achieved,
+all of those purposes are defeated, if -- once the statute
+of limitations period expires --
+JUSTICE KENNEDY: Mr. Lamken --
+MR. LAMKEN: Yes.
+JUSTICE KENNEDY: -- could we go back to Section
+(i) for a second more? Is it also possible to say that
+there was this disagreement between the Department of
+Justice and the Comptroller General, and Congress decided
+that the Comptroller General was right? And, if that's
+true, should we not accept the Comptroller General's
+reading of the entire statute?
+MR. LAMKEN: Well, if Congress had decided the
+Comptroller General is right, and had done that in
+subsection (i), it would have written subsection (i) the
+way Justice Scalia proposed, which is to say this doesn't
+apply to administrative claims at all. What it did is, it
+said, "Ooh, this appears to apply to administrative claims
+and the Comptroller thinks these administrative offsets are
+important, so we will give a special statute of
+limitations period in 31 U.S.C. for those, and exempt them
+from the more general statute of limitations period in
+section 28 U.S.C. 2415." So, I don't believe that it
+should be read that way. Is it frivolous to suggest that
+that's the reading? No, the Government --
+JUSTICE STEVENS: Does the --
+MR. LAMKEN: -- got it's --
+JUSTICE STEVENS: -- legislative history tell us
+how detailed the congressional examination of the
+particular issue was?
+MR. LAMKEN: Well, indeed, the legislative
+history mentions -- and there is a battle of letters
+between --
+JUSTICE STEVENS: That's about all --
+MR. LAMKEN: -- the Office of Legal Counsel and
+the Comptroller on this issue. And Congress actually
+stepped into the fray and created an exception. But it
+created a limited exception --
+JUSTICE STEVENS: Okay.
+MR. LAMKEN: -- an exception that applies only
+to one context, and that's administrative offsets. And
+that certainly raises a very strong inference that, where
+there isn't such an exception, the statute applies to
+administrative proceedings, more generally.
+JUSTICE ALITO: Isn't the most likely answer
+that they just -- they saw a small problem, and they
+rendered a decision on the small problem, and they didn't
+think about it any further than that?
+MR. LAMKEN: Well, I have a hard time
+psychoanalyzing Congress, because it's sort of a corporate
+body, and I can't tell what Member of Member of Congress
+is saying what. But when the Court of these statutes, it
+generally reads them -- and it, in fact, avoids, whenever
+possible, superfluity. And if this provision applies to
+administrative proceedings from the outset, subsection (i)
+is superfluous, it's -- does no work whatsoever. And so,
+the -- when Congress amended this statute, it certainly
+clarified that, where there is no exception, this statute
+applies to actions filed in administrative proceedings.
+If there are no further questions, I'll reserve
+the remainder of my time for rebuttal.
+JUSTICE STEVENS: Thank you.
+Mr. Joseffer.
+ORAL ARGUMENT OF DARYL JOSEFFER
+ON BEHALF OF RESPONDENT
+MR. JOSEFFER: Justice Stevens, and may it
+please the Court:
+The presumption is that the Government is not
+bound by a statute of limitations. And, when read as a
+whole, Section 2415(a) does not overcome that presumption,
+but instead makes clear that it applies only to suits in
+court. There are several reasons for that. First, the
+ordinary meanings of all of the key statutory terms refer
+to suits in court. Second, the statute expressly
+distinguishes between administrative proceedings and
+actions. Third the statute's located in the judicial
+code. Fourth, the committee reports, for those who are
+inclined to consider them, strongly support the statute's
+ordinary meaning. And, fifth, even if some administrative
+proceedings were governed by Section 2415(a), these would
+not, because they do not involve a complaint.
+Now, on the first of those points, the term
+"action" ordinarily refers to the pursuit of a right in
+court, which just is why, just 7 years ago, in West v.
+Gibson, every member of this Court agreed that the term
+"action" often refers only to suits in court, and not to
+administrative proceedings.
+JUSTICE SCALIA: It often does. It often does.
+But it does not, universally. And there are a number of
+instances cited by the Petitioner that -- where this Court
+and -- and statutes use the term in context where it
+clearly applies to administrative proceedings.
+MR. JOSEFFER: Well --
+JUSTICE SCALIA: So, the question is, How -- you
+know, how absurd is it not to read it to apply to
+administrative proceedings in this case? And I find it
+pretty absurd, because you assume, if you read that it
+way, that there is effectively no statute of limitations
+whatever for the Government in these cases.
+MR. JOSEFFER: Well, the structure of the law
+here is that in those instances where Congress does
+authorize administrative recovery, it ordinarily provides
+a context-specific administrative limitations period, such
+as in the Contract Disputes Act, which governs almost all
+of the contract claims the Government can pursue
+administratively. Congress specifically enacted a 6-year
+limitations period for the submission of a claim to a
+contracting officer.
+In this unique context, however, Congress had
+very good reasons for not applying a limitations period
+until it prospectively enacted a partial one in 1996. The
+reason is that what Congress found here, in context of
+mineral leasing, based on the findings of an independent
+commission, was that the companies were historically on an
+honors system and had abused that by underpaying royalties
+of up to half a billion dollars annually. So, what
+Congress directed the agency to do is to audit all current
+and past lease accounts. One of the committee reports
+said to focus on old accounts, because this was a Congress
+that was not concerned with repose, but with getting some
+of those vast underpayments back from the companies.
+Now, when we fast-forward to 1996 --
+JUSTICE SCALIA: Wait.
+MR. JOSEFFER: -- at that point --
+JUSTICE SCALIA: Excuse me. And this was the
+Congress that enacted what?
+MR. JOSEFFER: No, I -- agreed. What I'm
+referring to now is the Congress that enacted the mineral
+leasing provisions.
+JUSTICE SCALIA: Oh.
+MR. JOSEFFER: -- which is not a good --
+JUSTICE SCALIA: Which is not what we're talking
+about here.
+MR. JOSEFFER: No, but -- well, we are, because
+the structure of the law here is that Section 2415(a), as
+we see it, governs court suits. And that works, because,
+when Congress authorizes administrative recovery, it
+almost always provides a specific -- context-specific
+administrative limitations period.
+Also, when Congress was telling the agency to
+focus on old accounts, it certainly wasn't thinking that a
+statute of limitations applied to that, and the agency, in
+that contemporary context, did not understand that there
+was a limitations period, either, because the orders that
+issued in the aftermath of the 1982 Act went back 7, 8, 9,
+sometimes more, years than that.
+JUSTICE SCALIA: As late as 1978, the Justice
+Department didn't think that way, did it?
+MR. JOSEFFER: No, the Justice Department--
+JUSTICE SCALIA: The opinion of the Office of
+Legal Counsel, in '78, was exactly what the Petitioner
+here would urge.
+MR. JOSEFFER: No, the OLC opinion was limited,
+by both its terms and its reasoning, to administrative
+offsets, not to administrative adjudications. And if I
+could explain that, an administrative offset occurs in the
+situation -- this is what OLC was looking at -- where the
+Government, by statute, owed retirement benefits to a
+person, and, because it thought that person owed it money,
+what the Government did was to unilaterally reduce the
+retirement benefits. What OLC opined is that that is a --
+nothing more than a prejudgment attachment. And OLC
+thought that if the Government is time-barred from
+obtaining a judgment, it should be time-barred from
+obtaining a prejudgment attachment.
+An administrative adjudication is significantly
+different, because it does provide an actual judgment.
+So, there are a couple of important points from that.
+First is that the dispute between OLC and the
+Comptroller General was limited by its terms to
+administrative offsets, although, Justice Stevens, the
+Comptroller General did opine beyond that, that the
+statute specifically applies only to suits in court. But
+the actual dispute was as to administrative offsets. So,
+when Congress addressed that specific dispute, as Justice
+Alito pointed out, it resolved only that specific dispute.
+JUSTICE SCALIA: But -- excuse me -- how could
+OLC possibly think that it applied to administrative
+offsets if it didn't apply to administrative proceedings?
+I mean, it was a contradiction of the proposition, which
+you're urging here, which is that this statute applies
+only to judicial proceedings. I mean, that's the point.
+Whether they spoke just to offsets or not, the position
+taken by the Justice Department was that this statute
+relates to administrative proceedings.
+MR. JOSEFFER: No, the position of OLC was
+limited to administrative offsets, and it did not -- the
+important thing is, OLC opinion did not interpret the
+statutory term "action," or, frankly, any other statutory
+term. Instead, it had a theory, which was probably wrong,
+that administrative offsets are unique because they are
+prejudgment attachment devices. That's the dispute that
+went to Congress, and that's the dispute that Congress
+actually resolved.
+And, in any event, going forward --
+JUSTICE SOUTER: Well, on that theory, then,
+there was -- there was no time issue with respect to the
+right to offset, then, in the OLC's position.
+MR. JOSEFFER: No, the OLC's view is that if the
+Government was time-barred from obtaining a judgment under
+Section 2415(a), then it would be time-barred from
+obtaining a prejudgment attachment.
+JUSTICE SOUTER: No, but I thought your -- in
+answer to Justice Scalia, you said what was essential to
+the -- to OLC's position was that the offset is like a
+prejudgment attachment, and, in effect, it's an attachment
+without process. If that's the case, then timing should
+have nothing to do with it. Conversely, as Justice Scalia
+said, if timing does have something to do with it, timing
+presumably derives from this provision; this provision,
+therefore, must have been assumed to apply to
+administrative proceedings.
+So, either there's no time question with respect
+to the offsets, or, if there is a time question with
+respect to the offsets, it implies an OLC position that
+this provision applies to administrative proceedings.
+MR. JOSEFFER: Well --
+JUSTICE SOUTER: What's wrong with that logic?
+MR. JOSEFFER: I think what's wrong with the
+logic is what was wrong with the logic of the OLC opinion.
+We don't mean to defend the --
+JUSTICE SOUTER: You put me --
+MR. JOSEFFER: -- reasoning of the OLC opinion --
+JUSTICE SOUTER: -- in good company, but --
+MR. JOSEFFER: -- but what OLC really did say --
+and Comptroller General and Congress promptly disagreed --
+was that -- it didn't see a problem -- OLC didn't see a
+problem with procedurally imposing an administrative
+offset. What it saw a problem with was, it thought if an
+-- a judgment would be time-barred, then a prejudgment
+attachment should be time-barred, as well. I mean, that
+was the reasoning of the --
+JUSTICE SOUTER: No, but if it was --
+MR. JOSEFFER: -- OLC opinion, which --
+JUSTICE SOUTER: -- a prejudgment --
+MR. JOSEFFER: -- I agree was --
+JUSTICE SOUTER: It was a prejudgment attachment
+in aid of what could be accomplished administratively by,
+ultimately, an administrative judgment.
+MR. JOSEFFER: No, the -- I guess it was another
+point. The OLC opinion was -- arose in the context where
+a judgment could be obtained at all only in court.
+JUSTICE SCALIA: Do we have --
+MR. JOSEFFER: In the context of --
+JUSTICE SCALIA: -- that opinion, by the way?
+Both sides cited it. The -- is it -- it was unpublished.
+MR JOSEFFER: It was unpublished, and --
+JUSTICE SCALIA: Does anybody give it to us?
+MR. JOSEFFER: Petitioners offered to lodge it
+with the Court--
+JUSTICE SCALIA: Yes, I know they did offer, but
+nobody did it.
+MR. JOSEFFER: I'll -- we'll do it this
+afternoon.
+JUSTICE SCALIA: Good. I would like that.
+MR. JOSEFFER: The point's just -- the OLC
+reasoning was admittedly somewhat odd, but that was the
+context in which Congress was responding to. And, going
+forward, it is not surplusage, because the issue still
+arises. If the Government could pursue its suit only in
+court, it would be time-barred from pursuing a suit in
+court. The question would then still arise, under the OLC
+opinion, unless it had been overruled, whether the
+Government could, nonetheless, obtain a prejudgment
+attachment, even though it cannot obtain judgment. That's
+all that Congress was looking at there. And, as this
+Court's recognized in cases like O'Gilvie and Vonn, when
+Congress amends a statue to resolve a specific dispute,
+oftentimes its amendments should be read as doing no more
+than that.
+We -- I agree, though, that terms -- to get back
+to the beginning of this discussion -- terms do not always
+have their ordinary meanings, but they presumptively do,
+especially when a statute must be strictly construed. And
+here, the context confirms that "action" does have its
+ordinary meaning, for several reasons.
+First, the ordinary meanings of the other key
+statutory terms, such as "right of action," "complaint,"
+and "defendant," as Justice Ginsberg pointed out, all
+ordinarily refer to aspects of suits in court. A "right
+of action" is the right to bring a suit in court; a
+"defendant" is the person defending in court ordinarily;
+and a "complaint" is the document that initiates
+proceedings by stating a claim that's seeking relief in a
+civil action, which is a suit in court. Especially when
+those terms are used together, this Court recognized, in
+Unexcelled Chemical, that a reference to commencing a
+action by filing a complaint ordinarily refers to filing a
+suit in court, not a pleading before an administrative
+agency. The statute then goes on to expressly juxtapose
+an action against an administrative proceeding by saying
+that the time to file an action does not run until after
+the administrative proceedings have concluded, which
+certainly gives weight to the point that the action is --
+an administrative proceeding is not an action.
+JUSTICE SOUTER: Would the -- at the time that
+15 -- is that the --
+MR. JOSEFFER: It's 2415.
+JUSTICE SOUTER: 20- -- I'm sorry. At the time
+that was enacted, were there any limitations in other
+statutes on the commencement of administrative
+proceedings?
+MR. JOSEFFER: The ones that we have found were
+-- I'm not 100-percent sure, but the ones that we -- that
+we have found and cited in our brief do appear to be
+enacted after that time. I think the reason is that -- I
+mean, historically, administrative -- obviously, court
+suits have been around a lot longer than administrative
+adjudications. And, as Congress has authorized
+--
+administrative adjudications, it's dealt with them on a
+case-by-case basis. And every time that it enacted a
+context-specific administrative adjudications period since
+66 -- in theory, it could have just done an
+across-the-board one for all agency adjudications, but,
+instead, it's chosen to deal with the context-specific; in
+part, because of the great variety of administrative
+procedure.
+I mean, as this case illustrates, a statute of
+limitations that governs a complaint in an action is just
+not going to work in a lot of administrative contexts.
+Here, there's no complaint. An "order" is a legally
+binding order. It doesn't seek relief, it imposes it.
+And unless it is both appealed and stayed pending appeal
+JUSTICE SCALIA: How about the initial letter
+that, in the agency practice, precedes the order? I
+gather there's a letter to the --
+MR. JOSEFFER: Right. There's -- there are
+basically three steps here. First, there's an audit.
+Then, if the audit reveals an apparent discrepancy, the
+agency or a State with delegate authority would send an
+issue letter requesting an explanation.
+JUSTICE STEVENS: An issue letter.
+MR. JOSEFFER: Yes. It's called an "issue
+letter." And then would basically request an explanation
+of the apparent discrepancy. And then, if the agency then
+decides, after consideration of the audit and the issue
+letter, that it's appropriate to issue an order to pay it,
+will do so. It --
+JUSTICE SCALIA: Sounds to me like a complaint,
+a response --
+MR. JOSEFFER: An issue letter?
+JUSTICE SCALIA: -- and an adjudication. I
+mean, you know --
+MR. JOSEFFER: I don't know whether you mean the
+audit --
+JUSTICE SCALIA: -- "We think you owe this."
+MR. JOSEFFER: -- or the issue letter, but
+either way --
+JUSTICE SCALIA: The response comes back, "I
+don't think we owe it, and here's why." And then there's
+a ruling, "You do owe it." And that's the order. And
+then you can appeal it. And the CFR refers to it as an
+appeal.
+MR. JOSEFFER: Yes. Well, there are a few
+things. First, on the -- with respect to the issue letter
+-- I mean, a complaint, functionally, is a document that
+initiates proceedings, stating it -- by stating the claim
+for relief, is seeking relief in a civil action. With
+respect to the second of those, an issue letter does not
+-- is not an allegation of wrongdoing, and it does not
+seek relief; it seeks information so that the agency can
+determine whether or not an apparent discrepancy raised by
+an audit is, in fact, a discrepancy. But there's --
+JUSTICE SCALIA: It does not --
+MR. JOSEFFER: -- no claim.
+JUSTICE SCALIA: -- assert that there's a
+discrepancy?
+MR. JOSEFFER: Well, what it -- what it asserts
+is that, "We've done an audit, and the audit has raised
+the following issues" -- that's why it's called an "issue
+letter" -- "Please provide an explanation." And it -- so,
+at that point, the agency has not decided yet whether it
+is, in fact, asserting a claim. It's not -- and it's not
+requesting relief, which a complaint definitely does. All
+it's requesting is information to help the agency assess
+the issue.
+JUSTICE SCALIA: Do we have an example of issue
+letters anywhere? That's not in the materials either, is
+it? In the --
+MR. JOSEFFER: No, in fact, it's not even -- in
+fact, it's not even in the administrative record --
+JUSTICE SCALIA: Right.
+MR. JOSEFFER: -- which is one of the reasons
+it's not in the issue --
+JUSTICE STEVENS: Do we know --
+MR. JOSEFFER: -- record of the case --
+JUSTICE STEVENS: -- what time lapse --
+MR. JOSEFFER: -- which also reflects that it's
+not a formal complaint, or it would be in the record.
+JUSTICE STEVENS: Do we know, in this case, what
+time lapse there was between the issue letter and the
+order?
+MR. JOSEFFER: I don't think it was more than a
+year or two.
+JUSTICE STEVENS: But --
+MR. JOSEFFER: And there was --
+JUSTICE STEVENS: -- would that -- if you took
+the issue letter as the day, wouldn't all of the -- all of
+the Government's claims be timely? Because we're only
+talking about part of the claim, anyway, as I understand
+it. Is that correct?
+MR. JOSEFFER: Here, I think if you ran --
+JUSTICE SCALIA: I don't think so. I tried to
+figure that out. I think --
+MR. JOSEFFER: Yes, if it ran from the --
+JUSTICE SCALIA: I think --
+MR. JOSEFFER: -- if it ran from the issue
+letter --
+JUSTICE SCALIA: Okay.
+MR. JOSEFFER: -- I think there would still be
+about a year in dispute here.
+JUSTICE STEVENS: There would be some in dispute.
+JUSTICE ALITO: Going forward, if we --
+MR. JOSEFFER: But --
+JUSTICE ALITO: -- if we agree with your
+position, the result will be that there will be a 7-year
+limitations period for oil and gas leases, but, for Indian
+claims and for minerals, there'll be no statute of
+limitations?
+MR. JOSEFFER: Yes, and the reason is that
+that's what Congress chose to do. I mean, in the
+prospective 1996 Act, it --
+JUSTICE ALITO: Did they --
+MR. JOSEFFER: -- enacted the limitations --
+JUSTICE ALITO: When they enacted the 7-year
+limitation period, did they explain why they would treat
+those two situations so differently?
+MR. JOSEFFER: No, there's no explanation. As a
+practical matter, though, the prospective 1996 legislation
+governs a wide variety of aspects of the -- of the
+relationship between the Federal Government and the
+lessees. And, on balance, that package was pretty
+favorable to the oil companies, and I think Congress
+probably just decided not to -- to apply that to itself,
+but not to the Indians.
+Getting back to the order, though, it's not only
+that --
+JUSTICE SCALIA: How do you defend against a
+claim for, you know, stuff that went on a hundred years
+ago?
+MR. JOSEFFER: Well, as a --
+JUSTICE SCALIA: I -- I'm really very reluctant
+to -- unless there is no possible other reading of the
+statute, to think that that's -- that that's what the law
+provides, that the Government can show up a hundred years
+later, and say, "Oh, by the way, you owe all this money."
+MR. JOSEFFER: Well, first off, until --
+JUSTICE SCALIA: The company says "Gee, I -- you
+know, I don't have records from a hundred years ago."
+MR. JOSEFFER: Right. Well, there are a few
+points, both legal and practical. On the legal, until
+66 that absolutely was the law, because historically no
+limitations period ever applies against the Government.
+And that's the reason for the strict construction canon,
+that the statute applies here only if it clearly applies,
+and thereby bars the Government from forcing the law in
+the public interest.
+JUSTICE SCALIA: Say that again. Until 1966,
+there were no statute of limitations against any
+Government suits?
+MR. JOSEFFER: Not contract. I mean, the
+historic rule is that the Government is not bound by
+statutes of limitations, because what it's doing is
+enforcing the law in the public interest. Now, in 1966,
+Congress enacted Section 2415(a) so that there would
+prospectively be a contract limitations period. But it's
+strictly construed, because of the historical backdrop and
+the importance of enforcing the law in the public
+interest. So that's why we do have a strict construction
+canon here. As a --
+JUSTICE SCALIA: He didn't apply against the
+Government either.
+MR. JOSEFFER: For the same reason laches is
+never applied against the Government.
+JUSTICE GINSBURG: So, there's no limit at all,
+and you concede that that's the case. So, the Government
+could go back on these royalties as long as it likes.
+MR. JOSEFFER: Well, as an abstract theoretical
+matter, the Government could reach back many, many
+decades. As a practical matter, though, that's never
+happened that we've gone back, say, 50 or 100 years
+and there are practical reasons for that. First is that
+the agency does not have enough resources to audit --
+JUSTICE KENNEDY: Well, there's a case involving
+the Oneida Indians, that went back quite a ways --
+MR. JOSEFFER: That's true. It's -- I meant in
+the --
+JUSTICE KENNEDY: -- 200 years --
+MR. JOSEFFER: -- leasing context here.
+JUSTICE KENNEDY: Yes.
+MR. JOSEFFER: I didn't mean in the leasing
+context here. But in the leasing context, one -- there
+are a couple of important points. One is that the
+Government does not have enough resources to audit all of
+the current accounts in all of the years, which is one of
+the reasons that we need to be able to go back farther
+when we catch the violation. As a -- but as
+a result, the notion that we're going to pull auditing
+resources off of today to do a frolicking detour into 50
+years ago, there's a reason that's never happened.
+In addition, the farther we try to go back, the
+greater the proof problems, because oftentimes only the
+companies have the information that shows what royalties
+they would owe, and if they lawfully destroy those records
+after 6 years, it makes it even harder for us to try to go
+back, because of proof problems.
+JUSTICE SCALIA: That's another indication. Why
+would you allow them to destroy those records after 6
+years if you -- if you thought -- if you thought that
+there was no statute of limitations to claims for these
+things? I mean, that's just another inconsistency that --
+in the statutory scheme that's created.
+MR. JOSEFFER: Well, no, the --
+JUSTICE SCALIA: You say, "You can destroy your
+records after 6 years." Well, why? It doesn't make any
+sense.
+MR. JOSEFFER: Well, first, it's optional, not
+mandatory. If they want to keep them, they --
+JUSTICE SCALIA: Yes.
+MR. JOSEFFER: -- certainly can. But there's no
+-- and, as a practical matter -- I mean, because the
+Government bears the initial burden of going forward, if
+the company destroys the sources of proof, that's, on
+balance, going to be in its favor. But, in addition,
+there's not a strict congruence between the 6-year
+periods, because, first, the companies only have to keep
+records for 6 years, but, in some circumstances, the
+Secretary can require they be kept for longer. In
+addition, sometimes the statute of limitations, because of
+tolling, is much longer than 6 years; and so, the lawful
+destruction of records would still leave absence-of-proof
+issues in situations where the statute might, because of
+tolling, be much longer. So, there's not a strict
+congruence.
+There is also no indication that Congress
+enacted the 6-year records-retention policy because it was
+thinking about a 6-year limitations period. There's never
+been any linkage between the two.
+If I could briefly cover, then, also -- I mean,
+in addition to all the textual points, this is also
+located in the judicial code. And, although it's true
+that a couple stray provisions in the judicial code apply
+to administrative proceedings, they say that expressly.
+Every time the word "action" is used in the judicial code
+-- and Petitioners identified no examples -- every time
+the word "action" is used in the judicial code, it refers
+to a suit in court, and only a suit in court.
+When a provision of the judicial code applies to
+something else, it will say so. For example, 28 U.S. Code
+62, which is a statute of limitations for penalty
+proceedings, refers to an "action, suit, or proceeding."
+The Federal Tort Claims Act is very clear that what
+it's talking about is submitting something to an agency.
+So, if Congress was going to legislate against
+the backdrop of a strict construction canon with terms
+that ordinarily refer to suits in court, and put the
+provision in the judicial code, I mean, that just is a
+totally irrational way of expressing intent, especially
+clear -- especially a clear intent, when it's trying to
+govern administrative proceedings.
+The committee reports also strongly confirm
+that, because they not only say that the statute defines
+the time limitation for bringing an action in the U.S.
+courts, and not only use court terminology from front to
+back, they also say, like the statute, that they're aware
+of the administrative proceedings, but what they're saying
+is that the time to bring an action in the courts does not
+expire until after the conclusion of those proceedings.
+The committee has explained that the reason for
+that provision was the great number and variety of
+administrative proceedings. So, in other words, Congress
+was saying, "There's a great variety of administrative
+procedure. We're just not going to deal with that here.
+We're taking it off the table by saying this limitations
+period does not expire until a year after those
+administrative proceedings, whatever they might be, have
+expired."
+There's also some relevance in the fact that
+this legislation was proposed by the Justice Department as
+part of an overall package of reforms that would govern
+the civil litigation that the Department was handling in
+the courts. It was then referred to the Judiciary
+Committees, not to the House Government Reform Committees
+that might consider administrative procedure matters, and,
+as I mentioned before, was enacted as part of the judicial
+code.
+From start to finish, this legislation has never
+had anything to do with anything other than court suits,
+which is why Congress has expressly provided for
+context-specific administrative systems -- limitations
+periods -- which make sense in the context of the relevant
+administrative procedures.
+JUSTICE SCALIA: Well, except when you -- when
+you say "this legislation," you limit it to the body of
+15(a) and you leave out (i), which -- -- or I guess it's
+"one." Is it? Little -- or --
+MR. JOSEFFER: It's (i). It is (i).
+JUSTICE SCALIA: It's (i). I mean, that clearly
+does apply to administrative proceedings. And I could
+understand the argument that Congress was just making
+things doubly clear -- okay? -- that (a) does not apply to
+administrative proceedings. I could understand that
+argument if the way (i) was written is, "The provisions of
+this section shall not apply to administrative
+proceedings." And then I would say, "You know, oh, well,
+that was always the case, and this is just making it
+clear."
+It doesn't say that. It says that -- the only
+administrative proceeding that they cut out of it is these
+offsets.
+MR. JOSEFFER: I think the reason is that --
+JUSTICE SCALIA: And, you know, the normal rule
+is inclusio unius, exclusio alterius. I would -- it
+means, to me, when I read the statute as a whole -- and
+that's the way I read statutes, I don't ask whether this
+section was adopted this year, and the other section was
+adopted next year -- I don't do it bite by bite; you look
+at the whole text -- and, when you read all this stuff
+together, it seems to me that the import of (i) is that
+administrative proceedings, despite the fact that "action"
+is not a very common word to use for them, are covered.
+MR. JOSEFFER: I mean, it's -- there's no doubt
+the statute should be read as a whole. But, as this Court
+has explained in cases like the O'Gilvie and Vonn cases
+cited in our brief, when a court's trying to make sense of
+a statute read as a whole, oftentimes it will find that
+when Congress faces a specific dispute and amends a
+statute to resolve that specific dispute, that's all it
+resolves, and there's no reason to draw further negative
+inference, especially here, as the Court of Appeals
+pointed out, where a strict construction canon applies.
+JUSTICE SCALIA: That's the best thing you have
+going for you, really, the strict construction canon.
+MR. JOSEFFER: Well, because -- I mean, and it
+is an important point, that the statute applies only if it
+clearly applies by its terms. And it seems to me, the
+best that Petitioners can do is to say that some of the
+statutory terms, in isolation, are ambiguous. But that --
+all that means, as I said, is that, under the strict
+construction canon, we would prevail. And even if the
+statute governs some administrative proceedings, but not
+others, it would not govern these, for the reason I gave
+earlier, which is that there's no complaint here. We
+talked, before, about the ways in which an order is not a
+complaint. It's another important point, though, that in
+order not only -- it is -- not only does it not begin the
+proceedings, it normally ends them, because appeals are
+only taken about a quarter of the time. And in some
+limited circumstances there's not even a right of appeal,
+if the Assistant Secretary issued the order. So --
+JUSTICE SCALIA: What if I didn't think the
+order was a complaint, but I thought the initial letter
+was a complaint? Would the Petitioner lose? Because they
+never made that argument.
+MR. JOSEFFER: Correct. It's -- the only
+argument they've ever made --
+JUSTICE SCALIA: Yes.
+MR. JOSEFFER: -- is that an "order" is a
+complaint. So, they haven't preserved the point.
+JUSTICE GINSBURG: Because you're --
+MR. JOSEFFER: But --
+JUSTICE GINSBURG: -- you made the point that
+the issue letter is just raising the issues, and it's not
+charging, as a complaint would allege, "You owe us," but
+this is, "Maybe you owe us."
+MR. JOSEFFER: Correct. There's no -- in an
+issue letter, there's no claim for relief, just a claim
+for the request for information, and there's no allegation
+of wrongdoing. So, it's just not a complaint in those
+ways. Also, it doesn't -- it's not really fair to say
+that it begins proceedings, because it comes between an
+audit and an order to pay. So it doesn't -- and plus,
+it's, of course, not filed in a civil action. And, in
+that respect, it doesn't satisfy any of the -- any of the
+elements of the -- of the ordinary definition of
+"complaints."
+JUSTICE ALITO: Are you saying that this doesn't
+apply to any administrative proceeding, or just those that
+are structured like this one, where you don't have
+anything that's labeled a "complaint"?
+MR. JOSEFFER: We -- well, our primary
+submission is that it does not apply to any administrative
+proceedings, for the reason -- reasons I've given, that
+the ordinary meanings of all of the key statutory terms
+are for suits in court. A "complaint" itself is
+ordinarily defined to be --
+JUSTICE SCALIA: Even if you have an
+administrative proceeding which is called a "complaint"?
+You know, I mean -- and some are, I think.
+MR. JOSEFFER: There are -- there are some
+contexts in administrative procedure in which the word
+"complaint" is used.
+JUSTICE SCALIA: And that would not be covered
+by 2415(a).
+MR. JOSEFFER: Because it's not filed in an
+"action," which refers to a suit in court, following
+occurral of a right of action, which refers to the right
+to bring suit in court, in a statute which then juxtaposes
+the terms "action" against "administrative proceedings" --
+JUSTICE SCALIA: And let's assume all those
+terms are used in the agency procedure. They're talking
+about "action," "right of action." All those terms are
+used in the agency's procedural rules. Would they then
+come under this thing?
+MR. JOSEFFER: No.
+JUSTICE SCALIA: I think you have to say no --
+MR. JOSEFFER: Yes.
+JUSTICE SCALIA: -- because, otherwise, it would
+be up to the agency, just by renaming their things, to
+come in or out, right?
+MR. JOSEFFER: Well, and it's a much more --
+JUSTICE SCALIA: Yes.
+MR. JOSEFFER: -- fundamental point than that,
+too, is that what Congress was doing here was, when using
+these terms in their ordinary sense, to lay out an across-
+the-board rule that applies to suits in court.
+And, finally, one thing I should also emphasize
+is that what we have in this context is a comprehensive
+administrative scheme. Petitioners like to say that,
+"Well, we could just as easily be in court." There's a
+reason that no administrative royalty proceeding has ever
+been brought by the Government in a court. And that's,
+first, that Congress directed the agency to establish a
+comprehensive auditing and collection system, and then
+gave the agency administrative authority to enforce its
+administrative orders. The only way the agency could
+administer thousands of leases with something like $9
+billion in royalties every year is to do this in an
+efficient administrative manner.
+Congress has not only authorized that, and
+ratified it, it has strengthened that scheme and told the
+agency, as I said, in 1982, to go back and look at old
+leases, precisely because Congress knew that is a
+standalone administrative scheme, and it's never provided
+the administrative limitations period for the standalone
+administrative scheme.
+If there are no more questions --
+JUSTICE STEVENS: Thank you, Mr. Joseffer.
+Mr. Lamken, as I understand it, you have about
+minutes left. You don't have to use them all.
+[Laughter.]
+REBUTTAL ARGUMENT OF JEFFREY A. LAMKEN
+ON BEHALF OF PETITIONERS
+MR. LAMKEN: I will endeavor not to. Thank you,
+Justice Stevens.
+I wanted to start with the ordinary meaning of
+the term "action." I was somewhat bemused by the
+Government's insistence that had -- the term "action" in
+West versus Gibson was construed -- it must mean an action
+before a court, and has that as its ordinary meaning.
+The Solicitor General's own position in West
+versus Gibson, on page 25 and -6 of its brief was,
+"Section 1981(a) does not, however, define the term
+'action' as being limited to judicial proceedings. The
+statutory language, read in context, suggests that no such
+limitation was intended."
+Page 6 of the Government's reply, "The term
+'action,' in Section 1981, can reasonably be construed as
+encompassing both administrative and judicial
+proceedings."
+The term "action" is a term that's used for
+adversary adjudicative proceedings, whether those are in
+court or before an agency. It is not limited to
+administrative agency proceedings, as the Government
+itself recognized in West versus Gibson.
+There are more general terms here. There's also
+"complaint," there's also "defendant." There's a number
+of those. But those general terms are also the terms of
+adversary adjudication. And Congress uses them, as far
+back as 1921, for adversary adjudications before agencies.
+JUSTICE STEVENS: Mr. Lamken, have you had any
+second thoughts about your position that it's the order,
+rather than the issue letter, that we should look at?
+MR. LAMKEN: Well, in fact -- no. But the --
+the answer is that we didn't -- no issue was engaged as to
+what was the functional equivalent of the complaint below.
+That raised -- was raised for the first time by the
+Solicitor General in its merits brief, saying, "No, no,
+no, there's actually some stuff that comes before the
+order."
+But if -- I would encourage the Court to look at
+the definitions in FOGRSFA, 1724 and 1702(A), which tell
+you what, under -- in Congress's view, commences the
+proceedings here. And, in Congress's view, what commences
+the proceedings, what triggers the new statute of
+limitations and stops it from running, is the order to
+pay, which Congress defines as a "demand."
+JUSTICE SCALIA: Well, that's true. That's
+true. But the provision you're arguing that you come
+under does talk about a complaint.
+MR. LAMKEN: That's --
+JUSTICE SCALIA: And that's what -- you know,
+that's what starts the 6 years running. And it's -- seems
+to me odd to call something a "complaint" which is, in
+fact, an order. They're not complaining about anything;
+they're saying, "Pay the money."
+MR. LAMKEN: Actually, Justice Scalia --
+JUSTICE SCALIA: You know, usually a complaint,
+you're -- you make your point, and say, "What do you say?
+What's your answer?"
+MR. LAMKEN: Well --
+JUSTICE SCALIA: And this is an order. "You're
+-- boom, "Pay."
+MR. LAMKEN: It certainly has a hybrid quality,
+Justice Scalia. And it's not a hybrid quality that the
+industry particularly likes. But it is the first time
+that the Government asserts its state -- its claims as to
+what's wrong, in a binding legally operative document,
+where the failure to respond results in default. It has
+that function as complaint. It is the first salvo in
+official, formal administrative proceedings.
+JUSTICE SCALIA: Well, that's only true if you
+consider an appeal to be the response. And that's rather
+weird, that --
+MR. LAMKEN: It is --
+JUSTICE SCALIA: -- that the response to a
+complaint is an appeal.
+MR. LAMKEN: The language that has been used,
+and -- as a result of very odd historical anomalies and
+attempts to introduce a sense of due process to these
+proceedings over time -- is odd, and it is awkward. But
+it's clear that when Congress wrote the scope of this
+statute, it said it applies to "every action for money
+damages by the Government which is founded in contract."
+It doesn't say "actions that are begun by complaint."
+Now, the complaint is what Congress assumes will
+stop the provision from running. And there is always, in
+an adversary adjudication, some document that functions
+like a complaint, that provides the defendant the notice
+of what the claims are against it, and to which failure to
+respond will result in default.
+We believe that the most likely thing to be the
+complaint here is, the thing that provided us with notice,
+is that -- "Boys, you've got to respond; otherwise, you're
+in trouble" -- was the order to pay. And Congress came to
+that same conclusion when it enacted -- when it enacted
+FOGRSFA and established a 7-year statute of limitations
+provision. But if we lose 2 years of the claim, and only
+get 1 because it is the agency letter, in the Court's
+view, well, that's fine, but there's some document here
+that started these agency proceedings, and it is that
+document which is a complaint.
+JUSTICE SCALIA: Could you get us -- we're going
+to have supplemental material filed, the OLC opinion.
+Could you -- could you get us a -- you know, a sample of
+an agency letter? Or, if you can't, maybe the Government
+can?
+MR. LAMKEN: Yes, I -- that's true. And in
+terms of the OLC letter, we offered to lodge it in our
+brief. Unfortunately, by the Court's rules, we're not
+allowed to lodge it, unless the Court specifically
+requests it. And so, that's why it's not there. But we
+will get that to you, or the Government will get it to
+you, as soon as possible.
+The actual agency letter, in this case, isn't in
+the administrative record. And it turns out that we
+haven't been able to find it, and the Government hasn't
+been able to find it. And so, it's a letter. It's a
+--
+demand letter, but it is a letter, and that -- the order
+to pay is actually the opening salvo in these proceedings.
+And again, what opens the proceedings in -- the Justice
+Department regulations and other regulations --
+JUSTICE STEVENS: May I suggest --
+MR. LAMKEN: -- to try to define --
+JUSTICE STEVENS: -- this, Mr. Lamken, that when
+the -- when the filing is made giving us the OLC opinion,
+you include a -- an example of such a letter?
+MR. LAMKEN: Yes. Yes. Of course.
+JUSTICE STEVENS: And so, we'll get a notion of
+what it looks like.
+MR. LAMKEN: Right. It may have to be from some
+other proceeding; it wouldn't necessarily be from this
+case.
+JUSTICE GINSBURG: Your position is, this would
+apply to the universe of administrative proceedings. Now,
+this particular lease arrangement is taken care of by an
+express statute of limitations. So, what we're talking
+about, for the future -- what would change under your
+interpretation? Not gas leases, because -- there's a 7-
+year limitation for both administrative orders to pay and
+MR. LAMKEN: Right.
+JUSTICE GINSBURG: -- court actions.
+MR. LAMKEN: Right. It would be all leases on
+Indian lands. It would be all leases which involve
+minerals other than oil and gas, whether it be coal, gold,
+silver, anything like that. It would also be all claims
+before September -- all production before September of
+96. That introduces something of an oddity, if one
+accepts the Government's position. It would be that, for
+all claims going forward from September of 1996, the
+Government has 7 years, but, for the prior 200 years,
+those claims persist in perpetuity. When Section 2415(a)
+itself was enacted, Congress avoided precisely that result
+by deeming all prior claims to have accrued on the date
+the statute of limitations was enacted. And the very fact
+that Congress didn't do that here is evidence that
+Congress -- to the extent it has anything to do with it at
+all -- is evidence that Congress, in fact, understood that
+there already was a statute of limitations applicable.
+And, in fact --
+JUSTICE SCALIA: What --
+MR. LAMKEN: -- it also --
+JUSTICE SCALIA: What other areas would we be
+messing up by finding for you? I mean, here, you know, if
+we don't find that this administrative action is covered
+by this statute of limitations, there's no statute of
+limitations. But there may -- there are other -- may be
+other areas covered by this text -- namely, a suit by the
+United States -- founded upon any contract expressly or
+implied in law or in fact, where there is some kind of a
+statute of limitations.
+MR. LAMKEN: Right. There are -- there are some
+contexts in which there already is a separate
+administrative regime which would have its own statute of
+limitations. The Contract Disputes Act, as the Government
+points out, is one of those.
+JUSTICE SCALIA: And that would prevail over
+this --
+MR. LAMKEN: Yes, because the --
+JUSTICE SCALIA: -- because it's more --
+MR. LAMKEN: -- Contract Disputes --
+JUSTICE SCALIA: -- specific.
+MR. LAMKEN: -- Act has an exception at the
+front and says "notwithstanding 2415." It's its own
+animal to itself. And there is a clause at the front of
+15 that says "except as otherwise provided by Congress."
+And so, Congress often takes exceptions. And when it
+modified the Mineral Leasing Act of 1996, that was an
+exception to the 2415 regime. So, Congress knows how to
+conduct specialized situations and take things outside of
+15 when it needs to. But it enacted Section 2415 as a
+catchall for all of those situations where Congress hadn't
+managed to anticipate the circumstances. And the
+Government's premise of the whole provision is that
+Congress botched it. Congress provided a catchall that
+catches judicial actions, but leaves the Government free,
+in perpetuity, to persist -- to proceed on precisely the
+same claims for precisely the same relief, plus interest.
+And, because interest is calculated at a relatively high
+rate, that makes those old claims much, much more valuable
+than the relatively more recent claims. And it seems
+implausible to think that Congress enacted a catchall
+limitations period with a loophole so large that it
+deprives the statute of limitations period of effect
+almost entirely.
+Finally, I'd like to say, one moment about the
+statute -- the canon of strict construction. And that is
+that it doesn't always require the court to narrow
+otherwise broad statutory language, particularly where
+doing so would have the effect of rendering another
+provision -- here, subsection (i) is superfluous --
+introducing anomalies into the statutory structure and
+depriving the statute of its intended effect, as the
+Bowers case we cite in our reply brief on page 16 makes
+clear. And Bowers case was virtually on point. It
+was the case where the -- it was a statute of limitations
+that could have applied to administrative agency actions,
+or it could not have. And the Court declined to accept a
+narrowing construction proffered by the Government under
+statute of strict construction because it would have
+rendered one of the provisions -- one for consent
+proceedings -- superfluous, because it would have resulted
+in anomaly, and because it would have undermined the
+premise of repose which undergirded the statute of
+limitations in that case. Precisely the same things are
+true here. And, for those reasons, the Court should reach
+precisely the same result.
+If there are no further questions, thank you
+very much.
+JUSTICE STEVENS: Thank you, Mr. Lamken.
+The case is taken -- is -- as submitted.
+[Whereupon, at 11:59 a.m., the case in the
