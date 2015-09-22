@@ -1,0 +1,10 @@
+1) 
+Get the decisions for each case.
+
+
+
+2)
+Figure out how to characterize both sides of each case.
+
+a)
+Get the names of speakers for both sides of each case.
