@@ -8,3 +8,11 @@ Figure out how to characterize both sides of each case.
 
 a)
 Get the names of speakers for both sides of each case.
+Regular expressions.
+
+Two sides:
+petitioner(s)
+plaintiff(s)
+
+respondent(s)
+defendant(s)
