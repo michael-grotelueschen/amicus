@@ -1,4 +1,3 @@
-Page 1
 IN THE SUPREME COURT OF THE UNITED STATES
 - - - - - - - - - - - - - - - - - x
 CARLOS TREVINO, :
@@ -19,7 +18,6 @@ WARREN A. WOLF, ESQ., San Antonio, Texas; on behalf of
 Petitioner.
 ANDREW S. OLDHAM, ESQ., Deputy Solicitor General,
 Austin, Texas; on behalf of Respondent.
-Page 2
 C O N T E N T S
 ORAL ARGUMENT OF PAGE
 WARREN A. WOLF, ESQ.
@@ -30,7 +28,6 @@ On behalf of the Respondent 20
 REBUTTAL ARGUMENT OF
 WARREN A. WOLF, ESQ.
 On behalf of the Petitioner 49
-Page 3
 P R O C E E D I N G S
 (11:02 a.m.)
 CHIEF JUSTICE ROBERTS: We will hear next
@@ -56,7 +53,6 @@ any new trial motion.
 The State itself argued, quote -- in
 Sprouse -- "Without access to that record, new counsel
 would have little basis for attacking the performance of
-Page 4
 trial counsel."
 JUSTICE GINSBURG: Suppose the State's
 position were not as you accurately have stated the
@@ -82,7 +78,6 @@ the -- the State's highest court has to say, we prefer
 this matter to be brought up on collateral review?
 MR. WOLF: It's not just them saying it in
 words, but it's also saying it in the legislation and in
-Page 5
 the rules that the State of Texas has adopted.
 In order to expand the record in a Wiggins
 claim -- which is what's the basis of Mr. Trevino's
@@ -108,7 +103,6 @@ CHIEF JUSTICE ROBERTS: So as far as you know,
 the court -- the appellate court's never done that?
 MR. WOLF: That's correct.
 CHIEF JUSTICE ROBERTS: Okay. Why does
-Page 6
 Texas afford people in your client's position a new
 appellate counsel?
 MR. WOLF: Well, there's two -- actually,
@@ -134,7 +128,6 @@ I'm going to take it up because it interests me.
 Let's assume, as she did in her
 hypothetical, that a State says -- doesn't have any case
 law like Texas does, that says, we prefer you to go that
-Page 7
 way, for non-record-based claims.
 Is the difference between that hypothetical
 State that says, you can do either, and the Texas
@@ -160,7 +153,6 @@ the collateral proceeding that is the meaningful one --
 and then we go through 50 States to see if that rule
 applies?
 MR. WOLF: Well, it wouldn't really affect
-Page 8
 States because some States provide a mechanism for an
 abatement to go back on direct appeal and -- and expand
 the record. Other States require that it go to direct
@@ -186,7 +178,6 @@ case-by-case determination in every other State that
 doesn't fall within the Martinez category, wouldn't it?
 MR. WOLF: Well, not necessarily --
 JUSTICE ALITO: No?
-Page 9
 MR. WOLF: -- Justice Alito, because
 there's -- some States require that their -- their cases
 are directed back to -- to direct appeal, and there's a
@@ -212,7 +203,6 @@ direct appeal or it's lost. You can't wait until
 collateral -- until the collateral proceeding, and, by
 the way, you don't get a new attorney. You get the same
 attorney that represented you at trial. Would that be
-Page 10
 all right?
 MR. WOLF: No, because the new -- the old
 attorney -- the trial attorney is in the worst, really,
@@ -238,7 +228,6 @@ that's -- that 75-day limitation.
 JUSTICE GINSBURG: But is your point that he
 has to have one full and fair opportunity to make the
 Wiggins claim, and it doesn't matter whether it's direct
-Page 11
 or collateral? I think you mentioned that at least one
 State requires you to do it on direct, but does provide
 for developing the record.
@@ -264,7 +253,6 @@ stranger to the case. He doesn't know anything about
 the case. He's not in a position to talk to the client.
 The client is not the best person to understand the
 Rules of Appellate Procedure.
-Page 12
 So he's got to wait on that -- on that trial
 record, first of all, to see what's there. And then --
 JUSTICE KENNEDY: I'm -- I'm not sure
@@ -290,7 +278,6 @@ attorney in the interest of justice, but it's not always
 guaranteed. And, in that case, the appeal is done in a
 successive way, not in this dual-track way.
 And in -- in the death penalty arena, it
-Page 13
 manifests -- it makes it even more manifestly obvious
 that there is a systematic channeling by the State
 referring these type of claims into habeas, while the
@@ -316,7 +303,6 @@ examining each of the 49 -- or 49 systems -- or maybe
 , after we've decided Martinez?
 MR. WOLF: Right. Well, I would suggest --
 JUSTICE SOTOMAYOR: And -- and why should we
-Page 14
 not fear that outcome?
 MR. WOLF: Okay. I would suggest the rule
 to be that Martinez applies when a State channels
@@ -342,7 +328,6 @@ back and expand the record. We don't have the -- that
 ability in Texas.
 CHIEF JUSTICE ROBERTS: Well, your friend
 says, page 18 of his brief, that you do. He says,
-Page 15
 "Under Texas Rule of Appellate Procedure 21, direct
 appeal counsel can supplement the record with evidence
 developed by investigators and experts, the ones that
@@ -368,7 +353,6 @@ makes this impracticable just the amount of time?
 MR. WOLF: Yes, because the time -- the
 time -- especially in a Wiggins claim, is prohibitive in
 order to be able to prepare and -- not just the time
-Page 16
 there, but the time that is imposed by the Rules of --
 of Appellate Procedure.
 That 75-day window, in order to expand the
@@ -394,7 +378,6 @@ JUSTICE ALITO: Okay. And that would -- in
 most of those cases, the attorney on direct appeal is
 going to be the attorney who represented the defendant
 at trial and is probably not going to be in a very good
-Page 17
 position to argue that he or she was ineffective at
 trial, but that would still be okay?
 MR. WOLF: Well, but it's a --
@@ -420,7 +403,6 @@ know, those are problems within those States. But as
 far as Texas is concerned -- you know, we are in a
 situation that we find ourselves in -- in a Martinez
 situation, where there was no ability to -- to raise --
-Page 18
 the system that we have prevents you from raising this
 claim.
 And, as far as the other States are
@@ -446,7 +428,6 @@ and, in some of these situations, one record leads to
 another record, finding one witness leads to another
 witness. And, by the time you start developing all
 these other avenues and when you put all that together,
-Page 19
 then you're in a position to present that to an expert,
 in order to make that sort of evaluation.
 CHIEF JUSTICE ROBERTS: Oh, surely --
@@ -472,7 +453,6 @@ the habeas work.
 JUSTICE KENNEDY: And because of the rather
 sharp disagreements in the briefs on what the actual
 facts are here, I looked at the brief filed by the State
-Page 20
 Bar of Texas in support of neither party.
 Can you tell me -- and that they are
 critical of having new counsel work simultaneously on a
@@ -498,7 +478,6 @@ ON BEHALF OF THE RESPONDENT
 MR. OLDHAM: Mr. Chief Justice, and may it please
 the Court:
 Texas's procedures for raising
-Page 21
 ineffectiveness claims are some of the most generous in
 the country. Those procedures offered Petitioner two
 bites at the apple.
@@ -524,7 +503,6 @@ appellant from meeting the first part of the Strickland
 test as the reasonableness of counsel's choices and
 motivations during trial can be proven deficient only
 through facts that don't normally appear in the
-Page 22
 appellate record.
 So the only question presented by those
 instructions that are quoted over and over again in the
@@ -550,7 +528,6 @@ assistance of counsel on direct appeal is because, in
 cases where there is no explanation from the trial
 counsel, it will be impossible to adjudicate the first
 prong of the Strickland test."
-Page 23
 It doesn't say that, as a general rule, you
 should just never do it. It just says, if you are
 actually going to raise a claim of ineffective
@@ -576,7 +553,6 @@ The showing in both States is roughly the
 same; it's a facially plausible claim of
 ineffectiveness.
 JUSTICE KENNEDY: So the new counsel on
-Page 24
 direct waits for 7 months, gets the transcript. In the
 meantime, let's assume has made some investigation, and
 he said -- and he tells the appellate court, we have
@@ -601,7 +577,6 @@ said, in the Ibarra case, the Texas Court of Criminal
 Appeals has made it clear that State habeas petitions --
 and the State habeas petition is the preferred vehicle
 for developing ineffective assistance claims?
-Page 25
 Was that wrong?
 MR. OLDHAM: I believe it just needs to be
 taken in the context of -- it is the preferred vehicle
@@ -627,7 +602,6 @@ noncapital contexts alike, have done that within the
 days, but I want to emphasize --
 JUSTICE SOTOMAYOR: How many were given an
 indefinite stay until they got the trial record to set
-Page 26
 forth the affidavits?
 MR. OLDHAM: Well, if it's done within the
 first 30 days, you don't need a stay, indefinite or
@@ -653,7 +627,6 @@ exhausted their claim. But we are talking about the
 people who don't.
 MR. OLDHAM: So to the second -- the second
 box. After the new trial motion has been denied by an
-Page 27
 operation of law, you can make, effectively, a factual
 proffer of -- so the -- the trial court no longer has
 jurisdiction to grant your motion, but you can make a
@@ -679,7 +652,6 @@ counsel's ineffectiveness.
 CHIEF JUSTICE ROBERTS: Even beyond the
 days?
 MR. OLDHAM: Yes, Your Honor. It
-Page 28
 effectively restarts the 30-day clock, so the -- the old
 days is obviously gone, and you get a new 35 days on
 the stay and abate motion. So, in that sense, it's
@@ -705,7 +677,6 @@ MR. OLDHAM: Your --
 JUSTICE BREYER: Because I did not get that
 impression from the State Bar brief, but you are saying
 that is how it works?
-Page 29
 MR. OLDHAM: Almost exactly, except that you
 go to -- you go to the court of appeals and not --
 JUSTICE BREYER: You go to the court of
@@ -731,7 +702,6 @@ MR. OLDHAM: It's called Cooks vs. State.
 JUSTICE BREYER: Cooks vs. State. And they
 got the transcript, months later, and they looked back,
 and they said, oh, dear, there was something wrong with
-Page 30
 the trial performance. So we go to the Federal
 appeals -- the State appeals court, and we say, State
 appeals court, please direct an evidentiary hearing.
@@ -757,7 +727,6 @@ give him enough proceeding. All right?
 Well, what do I do, where people are
 disagreeing about how the State procedure works, as to
 whether it was full and fair? What do I do? What is
-Page 31
 your suggestion?
 By the way, if he doesn't get the full and
 fair, he still has to show to the Federal habeas judge
@@ -783,7 +752,6 @@ It exists in Texas, and, therefore, unless
 he could say his lawyer there was incompetent, he's out
 of luck. Okay? The other side seems to say, no, it
 doesn't exist in Texas. And, now, what am I supposed to
-Page 32
 do, since I am not an expert on Texas procedure?
 MR. OLDHAM: Well, Your Honor, I think you
 could do one of two things. You could always certify
@@ -809,7 +777,6 @@ $1,500 fixed fee.
 But, if counsel who's appointed as
 collateral review gets $25,000, doesn't that suggest
 that the -- that the counsel on direct appeal is
-Page 33
 expected to deal with trial errors and the one that gets
 all this $25,000 can go out and find a psychologist, a
 sociologist, whoever is going to give us a profile on
@@ -835,7 +802,6 @@ State reimburses the habeas counsel?
 MR. OLDHAM: Yes, Your Honor, after 1999.
 But the State habeas application in this case was filed
 a month before that statute went into effect.
-Page 34
 JUSTICE KENNEDY: Well, but you -- you say
 it's before, but this -- this indicates how Texas views
 its system. And, as Justice Ginsburg indicates, Texas
@@ -861,7 +827,6 @@ JUSTICE KAGAN: Well, able -- able to be
 brought, Mr. Oldham, but, as Justice Ginsburg started
 off by saying, many times, the court of criminal appeals
 has said the preferred mechanism is to bring it on
-Page 35
 collateral appeal.
 And, more to the point even, when attorneys
 try to bring these kinds of claims on a motion for a new
@@ -887,7 +852,6 @@ insufficient. That is, when you haven't -- you haven't
 given your trial lawyer --
 JUSTICE KAGAN: Well, because, mostly, the
 record isn't sufficient for a Wiggins claim. So anytime
-Page 36
 somebody brings a Wiggins claim on this 30-day window,
 the Court says -- you know, there's only 30 days, the
 record is insufficient. Go away, do it again.
@@ -913,7 +877,6 @@ practical way to do it, and it -- it is as generous or
 more generous than a lot of the States in the country,
 including States that Petitioner concedes are --
 JUSTICE KAGAN: Do you agree, Mr. Oldham,
-Page 37
 that, if you didn't have the mechanism for a new trial,
 then you would form under the Martinez rule?
 MR. OLDHAM: With no new trial and no
@@ -939,7 +902,6 @@ this system stands for? If an ineffective assistance of
 counsel claim is brought on direct appeal, with or
 without a record -- court says, we don't have a record,
 it throws it into collateral review, as I have seen it
-Page 38
 do dozens of times -- are you saying, in that situation,
 that Martinez applies?
 Counsel raised it, but was told, we're not
@@ -965,7 +927,6 @@ Texas chose not to, now there's no protection, there is
 no full and fair opportunity for the petitioner to have
 had that claim adjudicated?
 That's really the end result of what you're
-Page 39
 saying.
 MR. OLDHAM: Well, I'm certainly not
 suggesting that the rule needs to turn on the
@@ -991,7 +952,6 @@ technically, the ability to raise it, which is all that
 Martinez spoke about, the mere fact that the ability to
 raise it is not effective enough should produce the same
 result that Martinez produced.
-Page 40
 I don't think there is any -- I'm not even
 sure the other side claims that Martinez said what --
 what he is arguing here.
@@ -1017,7 +977,6 @@ And the judge says, it is substantial. And he says, you
 know why it wasn't raised before? Because my counsel
 was incompetent on State habeas, and they didn't raise
 it on appeal because that's just how people normally do
-Page 41
 things in Texas, they don't raise it on appeal. They
 wait until State habeas.
 Has that person had a full and fair
@@ -1043,7 +1002,6 @@ Martinez at the moment because I don't want to get into
 whether it is an extension or just an elaboration or
 just a situation covered, but they didn't think of it or
 just a lot of other things.
-Page 42
 I just want to know, given Martinez, what do
 you think?
 MR. OLDHAM: I'm not sure how to answer the
@@ -1069,7 +1027,6 @@ but I don't mean to be. I mean, you see what I'm trying
 to get to?
 JUSTICE SCALIA: It was the nose of the
 camel, which is what Martinez was -- which is what the
-Page 43
 dissent said, actually.
 (Laughter.)
 JUSTICE BREYER: Yes, the dissent said that.
@@ -1095,7 +1052,6 @@ either side in this sense because the State Bar agrees
 that there were no relevant guidelines of any kind at
 the time of any of the proceedings in this case.
 The only guideline that any Bar association
-Page 44
 had promulgated at the time of the direct appeal
 proceeding or State habeas proceeding in this case was
 the 1989 American Bar Association guideline, 11.9.2,
@@ -1121,7 +1077,6 @@ prejudice for all defaults in States across the country.
 And I think that the best way to understand
 it is to imagine, in the very hypothetical that you
 offered, where there is just one person who could get
-Page 45
 through, that person would have a constitutional claim
 in the State of -- I'm sorry, the other 900 or however
 many there were, those people would have constitutional
@@ -1147,7 +1102,6 @@ availability of a mechanism that nobody uses and that
 everybody is told not to use should matter with respect
 to the application of an equitable rule like Martinez?
 MR. OLDHAM: Justice Kagan, there is no work
-Page 46
 for an equitable rule in Martinez to do if you can get
 there another way. And it's not just that you can raise
 it on direct appeal, it's also that, if your direct
@@ -1173,7 +1127,6 @@ counsel followed the advice of Texas Court of Criminal
 Appeals, she was ineffective?
 MR. OLDHAM: No, Justice -- Justice
 Ginsburg, I am not aware of any particular case on
-Page 47
 Wiggins in particular. But -- but claims against
 appellate ineffectiveness for failure to raise a claim
 on direct appeal are -- are raised and adjudicated on
@@ -1199,7 +1152,6 @@ through a factual proffer following it, or through a
 stay and abatement procedure, to make sure that, when
 the claim actually gets to the court -- the court of
 appeals, that it has a record upon which to adjudicate
-Page 48
 the claim.
 That's all that -- and, to the extent that
 the appellate lawyer fails to do that, that can
@@ -1225,7 +1177,6 @@ opportunity to develop the record in the new trial
 window. So, in the Cooks case, for example, that was --
 there was only a lawyer for 10 of the 30 days, and
 the court said the new trial window is a critical stage
-Page 49
 for the development of a particular record for raising
 a Wiggins-style claim on direct appeal, and because that
 is so --
@@ -1251,7 +1202,6 @@ And those situations is when there's a delay
 in appointing the direct appeal attorney after the
 trial. So, during the 30-day window to file the motion
 for new trial, that time limitation is -- is -- that
-Page 50
 clock is running, and, if there's no attorney appointed,
 the constitutional violation is considered a critical
 stage of the trial.
@@ -1277,7 +1227,6 @@ JUSTICE KENNEDY: I understood that, if the
 you can ask the appellate court to please remand because
 there is some additional evidence to be --
 MR. WOLF: That's not correct.
-Page 51
 JUSTICE KENNEDY: -- to be determined.
 MR. WOLF: That is not a correct statement
 of the law, and -- and I would refer the Court to our
@@ -1303,7 +1252,6 @@ record because that's what is relegated to the direct
 appeal. The habeas attorney has more money available
 and has more time available to do the things, and it
 becomes a function of time as well.
-Page 52
 But I want to direct the Court's attention
 also to the -- to the statement in Sprouse. And -- and
 the statement --
@@ -1329,7 +1277,6 @@ aberrational. And that's exactly what we have here.
 The last thing that I wanted to say is -- is
 that the direct appeal, if -- if -- there's a choice
 here that the State has systemically developed a system
-Page 53
 that has caused -- that has directed attorneys on appeal
 that the habeas attorney does the extra-record claims,
 the Wiggins-type claims, and that the -- the claims that
@@ -1355,7 +1302,6 @@ And -- and because 11.071 also has -- when
 they -- when that was promulgated in 1995 in order to
 expedite these claims, it provided three things: One, a
 new attorney; two, the money to fund those claims; and,
-Page 54
 three, an abuse of the writ, which is Section 5a, which
 is what we met in -- in our case.
 The Texas scheme, because of that abuse of

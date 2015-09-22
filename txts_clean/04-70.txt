@@ -23,10 +23,8 @@ ROBERT A. LONG, JR., ESQ., Washington, D.C.; on behalf of
 the Respondent in 04-79.
 EUGENE E. STEARNS, ESQ., Miami, Florida; on behalf of the
 Respondents in 04-70.
-Page 1
 DONALD B. AYER, ESQ., Washington, D.C.; on behalf of the
 Petitioner in 04-79.
-Page 2
 C O N T E N T S
 ORAL ARGUMENT OF PAGE
 CARTER G. PHILLIPS, ESQ.
@@ -40,7 +38,6 @@ On behalf of the Petitioner in 04-79 60
 REBUTTAL ARGUMENT OF
 CARTER G. PHILLIPS, ESQ.
 On behalf of the Petitioner in 04-70 78
-Page 3
 P R O C E E D I N G S
 (10:27 a.m.)
 JUSTICE STEVENS: We will now hear argument in
@@ -66,7 +63,6 @@ Plaintiffs in the lower courts that have felt
 constrained to conclude that the language of section 1367
 requires the conclusion that Zahn and, candidly, also this
 Court's decision in Strawbridge were overruled by 1367 do
-Page 4
 so by gliding past the express language in 1367(a) that is
 the primary basis upon which our argument stands.
 In the appendix 246a to the petition, there's --
@@ -92,7 +88,6 @@ class, this Court said you cannot proceed forth under the
 diversity jurisdiction.
 The second one is the classic sort of joinder
 situation, and what the Court held in Strawbridge is that
-Page 5
 simply because you have a plaintiff who satisfies the
 amount-in-controversy requirement and satisfies the
 complete diversity requirement does not mean that you're
@@ -118,7 +113,6 @@ dichotomy between a Federal question case where, as long
 as you have a Federal question claim in the case, you
 qualify within those words, of which the district courts
 have original jurisdiction. But you say that in a
-Page 6
 diversity case, that's not so if you have people not of
 the same citizenship -- of the same citizenship on both
 sides of the party line, so that you have to have a
@@ -144,7 +138,6 @@ what do you do in terms of trying to put the omelette back
 into the egg at that point when the litigation has gone
 forward. And the Court, as a matter of judicial
 efficiency, decided essentially to ignore the
-Page 7
 jurisdictional problem.
 Here, by contrast, this jurisdictional problem
 existed on day one, and the complaint was filed --
@@ -170,7 +163,6 @@ JUSTICE GINSBURG: They didn't start over in
 Caterpillar.
 MR. PHILLIPS: I'm sorry.
 JUSTICE GINSBURG: The Caterpillar didn't start
-Page 8
 over and Newman-Green wasn't detected till appeal, but the
 appeals court didn't say start over.
 MR. PHILLIPS: No, I understand that the Court's
@@ -196,7 +188,6 @@ MR. PHILLIPS: The -- well, the -- and the
 question is what adjustment should it make. And the --
 and -- and our argument is at a minimum you have to
 dismiss all of the class claims.
-Page 9
 JUSTICE STEVENS: But why is that the minimum?
 Wouldn't the minimum be just to dismiss those parties who
 don't have the aggregate -- the necessary jurisdictional
@@ -222,7 +213,6 @@ alternatives on the table -- I think it is appropriate --
 is for the Court to excise the class action allegations --
 JUSTICE STEVENS: Right.
 MR. PHILLIPS: -- and dismiss the entirety of
-Page 10
 the class and proceed forth solely in the name of the four
 individual plaintiffs.
 JUSTICE STEVENS: Well, maybe. Why isn't it
@@ -248,7 +238,6 @@ So Exxon is going to be bound by that -- by the
 determination. Somebody who was not in the litigation and
 might say, well, I want more, say, somebody who had opted
 out --
-Page 11
 JUSTICE KENNEDY: In other words, you'd have the
 same issue of preclusion problems if you had done the case
 from the beginning the way you contend it ought to have
@@ -275,7 +264,6 @@ MR. PHILLIPS: I -- I would --
 JUSTICE O'CONNOR: And I hope you will address
 the fact that Congress very recently has enacted
 legislation that makes all this in the future at least
-Page 12
 non-objectionable.
 MR. PHILLIPS: Well, it doesn't eliminate it
 completely, Justice O'Connor. The Class Action Fairness
@@ -301,7 +289,6 @@ So I would have thought the more sensible way,
 at least from my perspective, to read this case -- to read
 this statute is to say, is this a claim that could have
 been brought in 1990? And the answer from Zahn is
-Page 13
 absolutely no, it couldn't. And similarly with the --
 with the joinder cases. They could not have been
 brought --
@@ -327,7 +314,6 @@ and not to diversity jurisdiction. Very simple. Arising-
 under jurisdiction, you do maintain jurisdiction over the
 original action. You can add a claim, but as long as
 there's one good claim arising under, there's original
-Page 14
 jurisdiction. Diversity, there isn't.
 MR. PHILLIPS: No.
 JUSTICE BREYER: If you add that plaintiff, you
@@ -353,7 +339,6 @@ because you've got a -- a retention. Okay? Then -- and
 so your -- your claim against them is only for $50,000.
 That wouldn't satisfy the amount-in-controversy
 requirement but it does satisfy the supplemental
-Page 15
 jurisdiction over claims brought separately.
 JUSTICE BREYER: So -- so, in -- in other words,
 in that situation, it's a third party claim by the
@@ -379,7 +364,6 @@ that also have to fall within (a).
 MR. PHILLIPS: Right. I picked one.
 JUSTICE BREYER: All right.
 MR. PHILLIPS: There's another one that fits --
-Page 16
 JUSTICE BREYER: So the other thing, of course,
 is if these three professors who wrote this had -- had
 figured this out so well, why in heaven's name didn't they
@@ -405,7 +389,6 @@ MR. PHILLIPS: Well, no. Actually what I'm
 saying is that 1367(a), in effect, codifies both aspects
 of the Kroger -- of this Court's decision in Kroger. In
 Kroger, the Court said you would have ancillary
-Page 17
 jurisdiction over the third party claim that I identified
 for Justice Breyer, and that that would fall within
 1367(a) under my interpretation of it, but that 1367(b)
@@ -431,7 +414,6 @@ forward because it says there is a role. There is now a
 supplemental jurisdiction. And then the question is under
 what circumstances does it apply.
 So to go back to the Owen case, you know, we all
-Page 18
 assumed that there was ancillary jurisdiction over the
 third party claim. This statute makes it absolutely clear
 that there is jurisdiction over the third party claim
@@ -457,7 +439,6 @@ an express statutory provision granting that authority.
 If you accept that, then this makes a fundamental change.
 If I could --
 JUSTICE GINSBURG: I thought that's what Kroger
-Page 19
 was about. It said, yes, that you could do it -- that the
 plaintiff then couldn't turn around and sue the third
 party defendant.
@@ -483,7 +464,6 @@ I have three basic points.
 First, section 1367 does not alter the
 requirements of section 1332 for original jurisdiction in
 a civil diversity action, and therefore, the plain
-Page 20
 language of section 1367 does not alter the complete
 diversity requirement or the requirement that each
 plaintiff in a diversity action must have more than
@@ -509,7 +489,6 @@ action has to give -- be diverse as to all claims.
 MR. LONG: Well, yes. I mean, basically each --
 as to each plaintiff, they must be diverse from each
 defendant and each --
-Page 21
 JUSTICE KENNEDY: Over every claim -- every
 claim in the class.
 MR. LONG: Yes.
@@ -535,7 +514,6 @@ interpretation of the two differs if -- if the City of
 Chicago --
 MR. LONG: Well --
 JUSTICE KENNEDY: -- is -- is correct.
-Page 22
 MR. LONG: Well, but I think it's the same
 answer. Original jurisdiction and civil action are found
 -- each of those terms is found in 1331 and 1332. And I
@@ -561,7 +539,6 @@ JUSTICE GINSBURG: Then what you're saying is
 that this statute, as far as class actions go, changed
 nothing.
 MR. LONG: Well, of course, our case is not a
-Page 23
 class action, but -- but we would say that --
 JUSTICE GINSBURG: Or party joinder, which is
 your case.
@@ -587,7 +564,6 @@ Congress doesn't necessarily express what was before, but
 it -- it seems to me there's an institutional judgment
 that Strawbridge is not that hallowed a -- a principle.
 MR. LONG: Well, I -- I think you could fairly
-Page 24
 say the -- the new statute reflects a judgment by Congress
 that in these class actions of national importance, which
 meet certain requirements, minimal diversity should be
@@ -613,7 +589,6 @@ JUSTICE BREYER: What -- what is the -- can you
 -- this is something I should know, but I don't know. All
 right. It's very elementary. If you have two parties
 from different States, diversity claim, they're in court
-Page 25
 perfectly properly. Now, if somebody intervenes under,
 say -- say, rule 24 or suppose it's rule 19, a necessary
 party, and that destroys the diversity, does the -- does
@@ -639,7 +614,6 @@ MR. LONG: Well, before -- this -- this is
 exactly an excellent example because it's one of the few
 things that was clearly changed by 1367, and it was
 changed in the direction of narrowing the -- the
-Page 26
 jurisdiction. The understanding was that you could -- if
 a party came in on its own under rule 24, said I -- I can
 intervene of right --
@@ -665,7 +639,6 @@ MR. LONG: Could not. It was --
 JUSTICE BREYER: And rule 24 you could.
 MR. LONG: The Kroger problem is if you -- you
 certainly couldn't put in these nondiverse parties in the
-Page 27
 initial complaint. And of course, Kroger worried about,
 well, the plaintiff leaves them out and then they come in
 in a second stage, and that's an evasion of completed
@@ -691,7 +664,6 @@ that I'm having is let's imagine rule 19 or 24.
 MR. LONG: Okay.
 JUSTICE BREYER: Now, you're saying that is an
 instance where, if you bring the party in and he destroys
-Page 28
 diversity, you're out. That was true before this statute.
 MR. LONG: Well, what would happen is -- I mean,
 you wouldn't get to that stage, Justice Breyer, because
@@ -717,7 +689,6 @@ JUSTICE BREYER: Then -- then what's confuse --
 now, we look at 1367(b) and it says the district court
 shall not have supplemental jurisdiction over a claim by
 the plaintiff against a rule 19 person who is brought on
-Page 29
 the defense side.
 MR. LONG: Right. Right.
 JUSTICE BREYER: Where the inconsistent -- i.e.,
@@ -743,7 +714,6 @@ bring it in. You may have got me to a point where I'm not
 going to be able to --
 JUSTICE BREYER: All right. Well, then I'm
 going to stop asking --
-Page 30
 MR. LONG: -- give you the exactly right --
 JUSTICE BREYER: -- because it's very easy to me
 to reach the outer limit of my understanding.
@@ -769,7 +739,6 @@ not be destroyed.
 Footnote 18 of Owen Equipment cites one of these
 cases. It's called Scott against Fancher. It was a Fifth
 Circuit case. There was an accident with three trucks.
-Page 31
 One of the drivers was from Texas and the other two were
 from Oklahoma. So the -- their case was brought in Texas
 against the two. The Texas drivers sued the two Oklahoma
@@ -795,7 +764,6 @@ have a -- if I remember right, a permissive counterclaim.
 MR. LONG: Yes.
 JUSTICE GINSBURG: The defendant --
 MR. LONG: Yes.
-Page 32
 JUSTICE GINSBURG: -- can have a --
 MR. LONG: And I'm thinking again this all -- I
 think this all traces back to Owen Equipment in this
@@ -821,7 +789,6 @@ in if the defendant --
 MR. LONG: Yes.
 JUSTICE BREYER: -- under rule 14 joined another
 person.
-Page 33
 MR. LONG: Yes.
 JUSTICE BREYER: And then person X wanted to
 join --
@@ -847,7 +814,6 @@ I do want to get to the argument that's made by
 understand their argument, they accept that there must be
 original jurisdiction over the entire civil action, and
 they accept that that means that there must be complete
-Page 34
 diversity. But then they say, well, matter-in-controversy
 is really different. It should be treated differently.
 It really doesn't go to whether the court has jurisdiction
@@ -873,7 +839,6 @@ MR. LONG: Yes.
 JUSTICE GINSBURG: And that qualifies under the
 amount-in-controversy.
 MR. LONG: Yes.
-Page 35
 JUSTICE GINSBURG: And her mother or sister and,
 I think, father wanted to come in and -- and bring claims
 that were entirely derivative of the injured child's
@@ -899,7 +864,6 @@ JUSTICE GINSBURG: Well, what a legislature
 might think, well, now this Finley has -- we've been --
 taken care of that. And your case looks very much the
 same in terms of breaking up a lawsuit into two when it
-Page 36
 makes sense to try it all together. So we think that --
 that old case should go just the way Finley went.
 And the same thing with Zahn because, after all,
@@ -925,7 +889,6 @@ That would have been a rational thing for Congress if they
 wanted to fix that.
 MR. LONG: Well, in -- in the class action
 context -- and again, my case is not a class action -- I
-Page 37
 frankly can't explain how you reconcile Ben Hur and Zahn.
 I think those -- the cases -- for the same -- if -- if the
 rationale of Ben Hur is that the class members are not
@@ -951,7 +914,6 @@ rational for Congress to go to all this trouble that it
 went to in subsection in (b) to rule out all these sort of
 indirect situations where the plaintiffs leave out a party
 in the initial complaint and then wait for the party to
-Page 38
 come in some other way -- I mean, things that frankly are
 not likely to happen in a lot of cases -- but then say,
 oh, but the -- the doors are -- are wide open under rule
@@ -977,7 +939,6 @@ second defendant in the case, suddenly all this
 supplemental jurisdiction goes away. Now, that makes
 sense under our view because plaintiffs are not supposed
 to be asserting these kinds of claims anyway. Whether
-Page 39
 there's one defendant or two, it's the rationale of Owen
 Equipment.
 Thank you.
@@ -1003,7 +964,6 @@ Now, that wasn't the first time this Court had
 said those words, we're not going to do it anymore, but it
 was said in a way that got somebody's attention. And if
 there was a surprise, it was within a year Congress did
-Page 40
 precisely what you asked them to do. They adopted 1367,
 and they did it in the way that Congress does things.
 It's better not to watch. They don't necessarily explain
@@ -1029,7 +989,6 @@ plaintiff or defendant in the original complaint.
 JUSTICE GINSBURG: Are you talking about a claim
 mover? I'm not --
 MR. STEARNS: Any claim, Your Honor, that's
-Page 41
 brought in in a third party practice, any claim that's
 brought in an additional party claim is part of the same
 civil action. There's only one form of action. All the
@@ -1055,7 +1014,6 @@ jurisdictional amount should be dismissed.
 Now, interesting, look at the language in 1332.
 It says the district courts shall have original
 jurisdiction of all civil actions where the matter in
-Page 42
 controversy exceeds the sum or value of $75,000. Well,
 when we read that statute and we apply Zahn and Snyder, we
 say civil action doesn't mean the aggregate of all claims.
@@ -1081,7 +1039,6 @@ two were not, the first thing the judge would say is, I'm
 very sorry. There is not complete diversity. I do not
 have jurisdiction over this action.
 And so I take it their point is by coincidence
-Page 43
 or not, that's what this statute says.
 MR. STEARNS: I'd --
 JUSTICE BREYER: And since that's what the
@@ -1107,7 +1064,6 @@ MR. STEARNS: Justice Breyer, I -- I agree
 that --
 JUSTICE BREYER: All right. Well, if you agree
 -- and I'm -- when I'm saying these things in such a
-Page 44
 definite tone of voice, they reflect deep insecurity
 because I --
 (Laughter.)
@@ -1133,7 +1089,6 @@ civil action, was correct, then Zahn was wrongly decided
 and Snyder was wrongly decided.
 JUSTICE GINSBURG: Mr. Stearns, there's a
 difference. It's not just style. There's a difference
-Page 45
 between a claim and a civil action. A civil action can
 bundle several claims.
 MR. STEARNS: Indeed, Your Honor, but if their
@@ -1159,7 +1114,6 @@ courthouse. Now, Congress says there's another door.
 Congress went through and cleaned up 200 years of Federal
 court jurisprudence.
 And incidentally, it is anathema to law
-Page 46
 professors who have written books and tomes and lectured
 to law students, Your Honor, who don't understand what
 they're reading. The notion that in 1367 in one page,
@@ -1185,7 +1139,6 @@ Honor, because let me start with the first premise.
 Three law professors didn't write this article
 -- didn't write this language. That's incorrect. The
 article is written by a subcommittee of the Federal Courts
-Page 47
 Study Committee that was chaired by Judge Posner. Judge
 Posner is the author of one of the decisions that affirms
 the -- has the same view as the Eleventh Circuit. Judge
@@ -1211,7 +1164,6 @@ overrule Zahn. The words in this statute were written by
 the people who said we intend to overrule Zahn.
 JUSTICE STEVENS: I thought the --
 MR. STEARNS: It goes to the full committee.
-Page 48
 JUSTICE STEVENS: -- I thought the committee
 report said we do not intend to overrule Zahn.
 MR. STEARNS: No. Actually the subcommittee
@@ -1237,7 +1189,6 @@ concluded are mutually exclusive positions, but that's
 what it said.
 But, Your Honor, respectfully, we now know,
 because they've all written Law Review articles, that the
-Page 49
 people that wrote the House report, because they've said
 it, wrote those law -- wrote those words because they knew
 that the language did overrule Zahn and they didn't want
@@ -1263,7 +1214,6 @@ says he was --
 JUSTICE STEVENS: In a footnote to what?
 MR. STEARNS: To his opinion in this -- in the
 decision. It will take me a second to find it. His
-Page 50
 opinion in the Meritcare v. St. Paul. In a footnote, he
 acknowledges -- what he says is he was upset that --
 JUSTICE STEVENS: That's in an opinion written
@@ -1289,7 +1239,6 @@ MR. STEARNS: Precisely. That's the point he
 makes in his footnote. He acknowledges what the
 subcommittee did. But it's -- it's important to know
 Representative Kastenmeier was a member of this
-Page 51
 subcommittee. The Federal Courts Study Committee is not
 Congress. It's merely an advisory body.
 JUSTICE GINSBURG: Mr. Stearns, one of the
@@ -1315,7 +1264,6 @@ Zahn issue. Zahn has no material significance on
 litigation in the Federal courts. And why is that? It's
 because most plaintiffs don't want to be in Federal court.
 These plaintiffs are different.
-Page 52
 And incidentally, by the way, this is not --
 JUSTICE GINSBURG: It -- it does -- to the
 extent that Strawbridge is involved, it -- it is --
@@ -1341,7 +1289,6 @@ JUSTICE BREYER: And therefore, this
 interpretation, if you're overruling Zahn, would have made
 a big difference because it would have meant the
 defendants could have brought a lot of cases into Federal
-Page 53
 court by the removal, and you would have seen the
 plaintiffs bar up in arms if, in fact, this provision
 would have allowed for easier removal.
@@ -1367,7 +1314,6 @@ aggregation that's the issue. All plaintiffs lawyers had
 to do to avoid removal is simply put named plaintiffs that
 don't meet the jurisdictional standards for diversity,
 create imperfect diversity, have amounts in controversy of
-Page 54
 less than the amount in controversy required, and then
 they could never be removed. So Zahn is simply a
 footnote, and it got it -- all the billing of Zahn, Zahn,
@@ -1393,7 +1339,6 @@ class claims.
 And incidentally, the significance of that in
 this case is -- Justice O'Connor, you said is it
 retroactive. The answer is yes and no. It's applicable
-Page 55
 to all cases filed after its effective date, which is
 already effective as of a couple weeks ago. If Exxon gets
 dismissal of this claim and gets it refiled, we will be
@@ -1419,7 +1364,6 @@ MR. STEARNS: I'm sorry?
 JUSTICE STEVENS: I say that's not a direct
 quote of the House report.
 MR. STEARNS: I paraphrased, Your Honor.
-Page 56
 (Laughter.)
 MR. STEARNS: What we're left with here in this
 circumstance is that -- that what -- by the way, what you
@@ -1445,7 +1389,6 @@ do we know? They did write Law Review articles and they
 did pretty much admit what they did. Now, I may have a
 different take on it than someone else.
 But what are we doing here? These -- these
-Page 57
 plaintiffs filed this lawsuit in Federal court. They
 didn't go to Madison County, Illinois to sue one of the
 largest companies in the world. They didn't go to a
@@ -1471,7 +1414,6 @@ over. They were found guilty. Judgment should be
 entered.
 And incidentally, that last point. They want to
 reverse a judgment. There is no judgment.
-Page 58
 JUSTICE STEVENS: But do you agree that if
 they're right on the interpretation of 1367, the judgment
 has to be reversed?
@@ -1497,7 +1439,6 @@ doesn't say that. No reported case says that. No
 reported case has ever found jurisdiction destruction in a
 jurisdictional amount case ever in the annals of Federal
 jurisprudence.
-Page 59
 And when people -- you invite people to look at
 a statute, you invite Congress to write one, and people
 look at it and read it, they ought to be able to rely upon
@@ -1523,7 +1464,6 @@ Federal question case that is in Federal court and the
 diversity case. Under their reading, it's perfectly clear
 -- and I think everyone agrees -- that -- that when
 additional claims, as in the City of Chicago case, are
-Page 60
 joined with a Federal question case and they are -- they
 relate to the same subject matter, that it will, in fact
 -- they will be within the supplemental jurisdiction.
@@ -1549,7 +1489,6 @@ MR. AYER: No, no. No, I'm sorry, Your Honor.
 I -- I must have misspoke. What I mean to say is that --
 that in the case where a -- a diverse additional plaintiff
 comes in to bring a claim --
-Page 61
 JUSTICE SOUTER: You're talking about
 geographical diversity --
 MR. AYER: Yes.
@@ -1575,7 +1514,6 @@ components. One was the citizenship of the parties. Two
 was the amount in controversy.
 MR. AYER: Correct, Your Honor. The -- the
 question -- I think the difference is that the concept of
-Page 62
 complete diversity, which this Court for 200 years has
 articulated as in the statute that grants diversity
 jurisdiction is a relational concept. In order to
@@ -1601,7 +1539,6 @@ MR. AYER: Correct, Your Honor.
 JUSTICE BREYER: And they say you can't do that
 under the statute. If you're prepared to say that
 bringing in a new plaintiff from the same State as the
-Page 63
 defendant does destroy diversity over the original action,
 you must also be prepared to say that bringing in a new
 plaintiff who only has $3 at issue destroys the original
@@ -1627,7 +1564,6 @@ This Court has many, many decisions and many
 other courts have many decisions saying emphatically that
 when you add a party or when there is a party in a case
 who destroys complete diversity, the court loses
-Page 64
 jurisdiction over the entire matter. To my knowledge, the
 last time the Court said it as a holding was in the
 Schacht case a few years ago. There are, I think, dozens
@@ -1653,7 +1589,6 @@ within the original jurisdiction.
 JUSTICE SCALIA: Well, you -- you could say the
 same thing about -- about a -- a second claim that
 destroys diversity. You could say the same thing. Does
-Page 65
 that -- does that -- does the absence of diversity in this
 second claim destroy the diversity that existed in the
 first claim?
@@ -1679,7 +1614,6 @@ Well, we -- we have cited cases, I think on page
 33 of our brief, where it's perfectly clear that no court,
 I think, in its right mind is going to turn around 2 weeks
 later and say, oh, you got me. You know, we're going to
-Page 66
 have to let these nondiverse plaintiffs in. We're going
 to have to go forward with this case because you did it in
 the right order. If you had filed it all in one
@@ -1705,7 +1639,6 @@ see it as three separate problems, the words fall into
 place as long as you do interpret that word, civil action,
 to mean, well, there is no jurisdiction over the civil
 action where what's happened is you've simply added as a
-Page 67
 defendant a nondiverse party or you've added as a
 plaintiff a nondiverse party or a party that doesn't meet
 the jurisdictional amount.
@@ -1731,7 +1664,6 @@ case. Every time this issue arises in the context of --
 of complete diversity, the court says, oh, my goodness, we
 don't have jurisdiction. We can't hear any part of this.
 JUSTICE SOUTER: Mr. Ayer, let -- maybe I'm
-Page 68
 going to oversimplify to the point of the absurd but let
 me try it.
 The argument that you're answering is the
@@ -1757,7 +1689,6 @@ under what amounts to a case within -- it's incredible how
 complex the law that this Court has spelled out is under
 1332.
 Our view of the statute is that that body of law
-Page 69
 has been preserved and it's been preserved in two places.
 It has been preserved in the first clause of 1367(a),
 which is really all that's at issue right here, and it's
@@ -1783,7 +1714,6 @@ absolutely no sense to read the statute that way.
 So how do we read it? We read it to say if
 these are claims whose presence in the case at the
 beginning would have destroyed the anchor that gets us
-Page 70
 into court, which is a case under 1332, then the whole
 thing goes out the window.
 And furthermore, I would say -- and again, this
@@ -1809,7 +1739,6 @@ JUSTICE BREYER: -- getting a defendant. He
 knows this defendant is going to bring a third party
 complaint against Smith from the same State, and he says,
 ha, I'll sue this defendant.
-Page 71
 And analogous things happen with rule 19 and 24,
 not really with 20 they said, but 19 and 24. And then
 Kroger says, hey, you can't do that.
@@ -1835,7 +1764,6 @@ the supplemental jurisdiction is a tail that falls off.
 It -- it goes away.
 JUSTICE GINSBURG: Mr. -- Mr. Ayer, may I ask
 you a question on your interpretation? I think you were
-Page 72
 -- your position is that Clark against Paul Gray has been
 overruled, and whatever one may say about the attention
 that was focused on Zahn, Clark against Paul Gray has been
@@ -1861,7 +1789,6 @@ first -- in the first instance is that there really isn't
 any reason to consider it because this is not a statute
 that destroys complete diversity. It doesn't do anything
 radical. It actually is quite sensible and limited and
-Page 73
 clear when you read it. So we don't think you need to go
 to it.
 But if the Court is going to go to it, we would
@@ -1887,7 +1814,6 @@ The second enactment, which we have put in an
 addendum to our yellow brief because it, frankly, plays
 little role in the case in -- in thinking through the
 statute, is the section 120 of House Resolution 5381. And
-Page 74
 essentially when Congress -- it's quite correct that the
 Federal Courts Study Committee did not specifically
 endorse the subcommittee proposal. It passed it along,
@@ -1913,7 +1839,6 @@ we think you should enact. If you compare the language of
 you will see that it's a couple lines longer. It has a
 few more embellishments and words, but it is substantively
 indistinguishable, the provision in (a). And so what we
-Page 75
 have is Judge Weis putting forward a proposal that can't
 be substantively distinguished from the one that the
 subcommittee said, clearly correctly, would reverse Zahn.
@@ -1939,7 +1864,6 @@ way in City of Chicago if the presence of a
 nonjurisdictional claim destroys original jurisdiction
 over the civil action.
 The last thing I -- I want to say about the --
-Page 76
 the jurisdiction which the other side relies upon --
 essentially it's a sentence that says there was no intent
 to, quote, affect the jurisdictional requirements of 1332
@@ -1965,7 +1889,6 @@ This is supplemental jurisdiction additional to it.
 And secondly, this is not a class action.
 There's nothing in our case that relates to a class
 action. That's an issue, if you think this is relevant,
-Page 77
 you have to deal with in -- in the other case, but you
 don't have to deal with it in our case.
 I guess the last thing I would say about
@@ -1991,7 +1914,6 @@ MR. PHILLIPS: Thank -- thank you, Justice
 Stevens, and I'd just like to make a few points.
 First of all, Justice Kennedy, you asked about
 the City of Chicago case, and Justice Ginsburg said this
-Page 78
 sort of feels like a Finley type case in the -- in -- in
 how it applies in the diversity context. But the
 fundamental point here is that there is a very different
@@ -2017,7 +1939,6 @@ defeat jurisdiction. So it says in the rule that if
 you're bringing in a necessary party -- remember, this is
 the defendant who is bringing in a necessary party -- if
 it would defeat jurisdiction, you can't do it, and if it
-Page 79
 still is indispensable, you have to dismiss the entirety
 of the case, which is precedent for the notion that
 sometimes you have to dismiss the entirety of the case in
@@ -2043,7 +1964,6 @@ You can dispense with the geography requirement in Ben
 Hur, but you cannot dispense with the amount-in-
 controversy requirement. And the reason --
 JUSTICE GINSBURG: This didn't make a whole lot
-Page 80
 of sense.
 MR. PHILLIPS: Well, except it does because the
 -- the amount-in-controversy requirement keeps a lot of
@@ -2069,7 +1989,6 @@ JUSTICE GINSBURG: That -- this point was not --
 would be you're asking us to decide it in the first
 instance. You, I would expect, make argument to the
 district judge when you go back.
-Page 81
 MR. PHILLIPS: Well, except that this Court in
 Dataflux didn't send it back. This Court in Dataflux
 decided that the right -- in Grupo Dataflux that the right

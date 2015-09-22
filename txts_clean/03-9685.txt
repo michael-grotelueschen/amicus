@@ -16,7 +16,6 @@ the Petitioner.
 DAN HIMMELFARB, ESQ., Assistant to the Solicitor General,
 Department of Justice, Washington, D.C.; on
 behalf of the Respondent.
-Page 1
 C O N T E N T S
 ORAL ARGUMENT OF PAGE
 COURTLAND REICHMAN, ESQ.
@@ -26,7 +25,6 @@ On behalf of the Respondent 21
 REBUTTAL ARGUMENT OF
 COURTLAND REICHMAN, ESQ.
 On behalf of the Petitioner 45
-Page 2
 P R O C E E D I N G S
 (11:04 a.m.)
 JUSTICE STEVENS: We'll now hear argument in
@@ -52,7 +50,6 @@ for three reasons.
 First, as expressed, Daniels made clear that the
 underlying facts, those facts that you use for the
 challenge to the prior conviction, do not support a claim
-Page 3
 under 2255, leaving the vacatur as the operative fact.
 Second, the plain meaning of the word fact
 encompasses a vacatur just like courts often refer to
@@ -78,7 +75,6 @@ before going back to the State and seeking a vacatur? Or
 does that due diligence requirement apply to the efforts
 to get State action?
 MR. REICHMAN: Well, there -- there are several
-Page 4
 levels to the response. Let me work through them.
 The first is that the petitioner's position
 relies on a straightforward reading of the statute, and we
@@ -104,7 +100,6 @@ before going back to the State to seek to overturn those
 earlier State convictions. Is there no requirement that
 he act promptly?
 MR. REICHMAN: The requirement is not found in
-Page 5
 the fourth trigger. The requirement is found in the State
 statutes of limitations. And to elaborate on the
 footnotes in our brief, we have found that there are
@@ -130,7 +125,6 @@ That's the fact supporting the claim, not the facts which
 led to the vacatur, but it's the vacatur. So that makes
 the Government's case a little uncomfortable.
 But it seems to me you have to acknowledge that
-Page 6
 your case is pretty uncomfortable when you -- when you
 talk about discovering the fact of the -- of the vacatur.
 I mean, it's a matter of public record. How does one
@@ -156,7 +150,6 @@ What's -- what's your response to that? You
 really think -- especially about the discover.
 MR. REICHMAN: I do and here's why, first,
 starting with the language before I turn to the policy
-Page 7
 side of your question.
 On the language, paragraph (4), the fourth
 trigger, is broad language that was meant to cover a
@@ -182,7 +175,6 @@ ways. You want us to read that phrase very broadly to
 include under the word facts something like a vacatur, and
 then it sounds to me you're being very literal and
 linguistic when you say that due diligence to find the
-Page 8
 facts shouldn't mean what I would take it as ordinarily
 meaning, that -- that you have to, when you had a chance,
 go back and generate this fact.
@@ -208,7 +200,6 @@ is -- is commonly referred to by the court.
 JUSTICE SOUTER: Well, just so that I understand
 your argument then, going back to Justice O'Connor's
 question, if you get a long sentence, can you sit there
-Page 9
 for 10 years, then initiate the process to get the earlier
 conviction vacated and then say, as soon as it is, with
 due diligence I'm here at the courthouse because, although
@@ -234,7 +225,6 @@ JUSTICE SOUTER: Maybe it's only in six States,
 but six States count.
 MR. REICHMAN: They do count. But it ties into
 the response -- the second part of Justice Scalia's
-Page 10
 question is, isn't finality served? Isn't that what AEDPA
 is all about? We don't believe that the Government's rule
 that they propose will serve finality in the vast majority
@@ -260,7 +250,6 @@ That's the point at which you've got to file your petition
 so that you can come into court with reasonable
 promptness, if not by the sentencing hearing itself, as
 soon afterwards as the State process allows you.
-Page 11
 That would be a simple due diligence point. It
 wouldn't involve placeholder petitions, and it would get
 things concluded with reasonable promptness. Why isn't
@@ -286,7 +275,6 @@ JUSTICE SOUTER: But he would have acted with
 due diligence and he would have had as -- I suppose, a
 very powerful argument, which -- which the Government
 apparently would accept, for -- for tolling.
-Page 12
 MR. REICHMAN: For equitable tolling? Well, I
 don't know that the Government would accept equitable
 tolling.
@@ -312,7 +300,6 @@ Congress was aware of the precedent, but the --
 JUSTICE O'CONNOR: Now, wasn't -- didn't Mr.
 Johnson here wait a couple of years after the Federal
 sentencing before he tried to go back to the State courts?
-Page 13
 MR. REICHMAN: Yes, he did.
 The -- the -- our answer --
 JUSTICE O'CONNOR: I'm not sure that was a
@@ -338,7 +325,6 @@ the pendency of State habeas, and then we'll add another
 vacatur is obtained. So we end up with -- instead of the
 plain language, we have two 1-year statutes of limitations
 with a tolling provision in between, the type of tolling
-Page 14
 provision that is, by the way, in section 2244.
 We believe that petitioner's interpretation,
 although the answer is not difficult, it -- it is the
@@ -364,7 +350,6 @@ were challenged at sentencing. But Custis and then
 followed on by Daniels made a different decision, and I
 think a good one. It made the decision to wrap these
 challenges back to the State and that inevitably will
-Page 15
 result in delays as it works it way through the State.
 The rationale for the Court's decision makes
 perfect sense when you apply it to this context. One of
@@ -390,7 +375,6 @@ begin fighting the vacatur battle at the same time that he
 has only 1 year to complete his habeas with reference to
 the other challenges to his conviction?
 MR. REICHMAN: That is not something that we've
-Page 16
 argued in the briefs. It -- it, no doubt, is true
 especially when you're talking about a pro se petitioner.
 JUSTICE STEVENS: May I ask? You mentioned -- I
@@ -416,7 +400,6 @@ MR. REICHMAN: Yes.
 JUSTICE KENNEDY: -- have those States all made
 clear they'd say we will never apply laches, or is it just
 the case that there have never -- there's never been an
-Page 17
 instance where the laches issue was presented to them?
 MR. REICHMAN: The latter is more accurate. I'm
 -- I'm -- I was trying not to overreach, but I went with
@@ -442,7 +425,6 @@ MR. REICHMAN: The record doesn't reveal except
 that he is pro se.
 JUSTICE KENNEDY: Pro se.
 MR. REICHMAN: Yes.
-Page 18
 JUSTICE GINSBURG: Even -- that was the question
 I was going to ask. With respect to -- he came into
 Federal court and he said -- a little -- like 3 days too
@@ -468,7 +450,6 @@ April 24th, 1997. Well, he did it by mail, and under the
 mailbox rule, that would have been a timely motion to the
 extent that we are concerned with equitable tolling and --
 and permitting the placeholder petition of that kind.
-Page 19
 But again, this -- this difficulty in managing
 the process is familiar to the court because it -- it's
 what happens when you have these pro se petitioners.
@@ -494,7 +475,6 @@ opportunity to correct unreliable information when it came
 to light and it was discovered.
 If there are no further questions, I would
 reserve the remainder of my time.
-Page 20
 JUSTICE STEVENS: You may. Thank you.
 Mr. Himmelfarb.
 ORAL ARGUMENT OF DAN HIMMELFARB
@@ -520,7 +500,6 @@ To begin with the statutory scheme, under clause
 is that a defendant wishing to -- to collaterally
 challenge a Federal conviction has a year from the date on
 which the conviction becomes final.
-Page 21
 Clauses (2), (3) -- (2), (3), and (4) create
 exceptions to that general rule when a prisoner is unable
 to comply with the rule in clause (1) for reasons beyond
@@ -546,7 +525,6 @@ space of a year.
 It's critical to keep in mind that in the
 typical case of this type, the factual basis for the State
 claim is going to available at the time of the State
-Page 22
 guilty or trial, which in almost every case is going to be
 years before the Federal conviction becomes final. And
 since the limitation provision under AEDPA runs from the
@@ -572,7 +550,6 @@ may well be true, Justice Stevens, but laches is a much
 more -- a -- a case-by-case --
 JUSTICE STEVENS: It -- it does seem to me that
 the State has a greater interest than the Federal
-Page 23
 Government does in the finality of its own convictions,
 and so the State would be the primary guardian of
 preventing dilatory tactics, it would seem to me.
@@ -598,7 +575,6 @@ sits on their rights and the records are destroyed, then
 you have an obvious defense of laches.
 MR. HIMMELFARB: The -- the important point,
 Justice Kennedy, is the limitation provision at issue here
-Page 24
 has to do with the finality of Federal convictions.
 Congress was concerned that challenges to Federal
 convictions not be --
@@ -624,7 +600,6 @@ MR. HIMMELFARB: Yes, Justice O'Connor. He
 actually obtained vacatur of seven prior State
 convictions, only one of which was relevant to the career
 offender sentence that he received in the Federal case.
-Page 25
 JUSTICE O'CONNOR: But he did succeed. And then
 we have to look at whether the petitioner has complied
 with section 2255 of AEDPA. And so we look to subpart
@@ -650,7 +625,6 @@ even so, the petitioner didn't go back to State court
 diligently and on a timely basis.
 MR. HIMMELFARB: That's exactly right. The
 textual language we rely on is not fact or facts
-Page 26
 supporting the claim, but rather could have been
 discovered through the exercise of due diligence.
 JUSTICE O'CONNOR: And you say he was not
@@ -676,7 +650,6 @@ worthwhile, he wouldn't have been entering the guilty
 plea.
 And it seems to me that if we're going to
 measure due diligence from the date of conviction, most
-Page 27
 convictions resting on pleas, as a practical matter under
 your system, a conviction that rests on a plea is never
 going to be subject to a timely challenge for purposes of
@@ -702,7 +675,6 @@ JUSTICE SOUTER: Well, would you comment
 specifically on your preferred position which starts at
 the very -- as I understand it, starts at the earliest
 date, which would be the date of the State conviction?
-Page 28
 MR. HIMMELFARB: That's right. We think that's
 consistent with the text because the diligence has to be
 connected in some way to the facts supporting the claim,
@@ -728,7 +700,6 @@ interpretation you're offering because it doesn't tie
 diligence to facts supporting a claim.
 JUSTICE SOUTER: Well, how about the one you're
 offering? Before you tell me why mine is bad, tell me why
-Page 29
 yours does not suffer the -- the -- at least I think, the
 objection that I've -- I've raised?
 MR. HIMMELFARB: Because it avoids the problem
@@ -754,7 +725,6 @@ procedures are available. And if a defendant does not
 avail himself of those remedies and procedures, at a
 minimum he will know that so long as his State conviction
 remains on the books, if he goes out and commits another
-Page 30
 crime, he runs a risk that he will be subject to an
 enhanced sentence based on the fact that he's committed
 the prior crime. We think the same --
@@ -780,7 +750,6 @@ JUSTICE BREYER: It is right? Because I thought
 that Justice Souter provided that, but you don't because
 if you're relegated to (4) -- let's say it becomes final
 quickly. If you're relegated to (4), what you're saying
-Page 31
 is the date on which the facts supporting the claim could
 have been discovered, if this is a conviction that took
 place 10 years earlier, you are saying the date on which
@@ -806,7 +775,6 @@ Justice Souter's practical point, it seemed to me that the
 language here is different from Daniels and different in
 the other cases. The language is the date on which facts
 supporting the claim or claims presented could have been
-Page 32
 discovered. And facts supporting the claim prior to there
 being a claim are not facts supporting the claim. And
 therefore, it seems as if it would run no later than the
@@ -832,7 +800,6 @@ factual basis for the State claim.
 But if you take into account the broader
 statutory context and statutory purpose, in particular if
 you take into account the due diligence requirement, we
-Page 33
 think the better reading is that facts supporting the
 claim, in the context of this limitation provision, is the
 factual basis for the State claim. It is true --
@@ -858,7 +825,6 @@ immediate or sufficient sense. It is the facts supporting
 the Federal claim in an indirect, a but for, a once
 removed, or a necessary sense. If a defendant has served
 his State sentence, he's been sentenced to an enhanced
-Page 34
 Federal sentence and he wants to challenge his Federal
 sentence and he's armed with a factual predicate for a
 State claim, so long as he takes the intermediate step of
@@ -884,7 +850,6 @@ wouldn't think, because he has just a year from
 conviction.
 MR. HIMMELFARB: Justice Breyer, under our view,
 the hypothetical you just gave would be one where a timely
-Page 35
 2255 motion could be filed. If the DNA evidence were
 discoverable in the exercise of due diligence only more
 than a year after the Federal conviction became final such
@@ -910,7 +875,6 @@ Under our primary interpretation, there would be tolling
 during the 1-year period of the time while the motion, the
 State motion, is pending in State court.
 Our alternative interpretation doesn't depend on
-Page 36
 tolling because it doesn't begin to run until the vacatur
 of the State conviction could have been obtained. So it's
 just the -- the time while the State motion is pending is
@@ -936,7 +900,6 @@ sentence he's going --
 JUSTICE STEVENS: Whether he gets the --
 JUSTICE SOUTER: Is that also true under the
 Armed Career Criminal Act cases?
-Page 37
 MR. HIMMELFARB: I -- I don't believe it is,
 Justice Souter. I don't think there's any kind of time
 limitation there the way there is in the guidelines.
@@ -962,7 +925,6 @@ JUSTICE GINSBURG: But you're not -- you're not
 insisting on that super diligence because you say, well,
 in every case he has at least a year to begin to try to
 undo the State conviction.
-Page 38
 MR. HIMMELFARB: That -- that's right, Justice
 Ginsburg. We agree with that.
 The -- the purpose of AEDPA's limitation
@@ -988,7 +950,6 @@ airline, and the lady said has my plane landed yet.
 (Laughter.)
 JUSTICE KENNEDY: I was kind of stopped by that
 question.
-Page 39
 It seems to me this case is something like that.
 I mean, this is just not a question the -- the defendant
 asks until the Federal conviction arrives, which I --
@@ -1014,7 +975,6 @@ interpretation of what is the meaning of facts supporting
 the claim or claims. I mean, once you say that the facts
 supporting the claim is the vacatur of the -- of the State
 conviction, I mean, it seems that's the end of it.
-Page 40
 MR. HIMMELFARB: Well --
 JUSTICE SCALIA: And -- and as for due
 diligence, yes, it doesn't seem to make much sense in that
@@ -1040,7 +1000,6 @@ rejects our view that the facts supporting the claim under
 paragraph 6(4) as the factual basis for the State claim,
 we think it should still reject petitioner's
 interpretation and should adopt our alternative
-Page 41
 interpretation which is not subject to that objection
 because our alternative interpretation assumes that the
 facts supporting the claim is the vacatur of the State
@@ -1066,7 +1025,6 @@ MR. HIMMELFARB: As to your first question,
 Justice Stevens, one -- one would think that this is a
 little bit of an unusual situation and you don't see too
 many cases where it arises. Perhaps surprisingly, though,
-Page 42
 there are quite a few reported decisions where this
 arises. There is a 2 to 1 circuit split on this question.
 There are some district courts from other circuits that
@@ -1092,7 +1050,6 @@ interpretation does not require diligence. It enables the
 defendant to extend the limitation period through his own
 actions, and we think it's simply foreign to the whole
 notion of statutes of limitations to say that the
-Page 43
 limitation period can be determined by actions that are
 within the prisoner's control.
 The court of appeals --
@@ -1118,7 +1075,6 @@ limitations with a discovery rule. The question is on the
 facts of this case, when could the factual basis of the
 claim been discovered given the totality of the
 information available to the plaintiff through the
-Page 44
 exercise of due diligence. So we think it's precisely the
 same situation.
 JUSTICE SCALIA: But you're still asking us -- I
@@ -1144,7 +1100,6 @@ They're advocating for the statute they want, not the
 statute they have. This statute says the fact that could
 have been discovered with exercise of due diligence. And
 once -- as this Court -- several Justices have recognized
-Page 45
 once you admit that the vacatur is a fact, the
 Government's entire argument unravels because what the
 Government would have -- this Court holds -- is that the
@@ -1170,7 +1125,6 @@ And if the Brackett court, the court on the front lines
 down there in the district court, the First Circuit is
 right, we're talking about the results of the Government's
 rule to be that thousands of placeholder petitions will be
-Page 46
 filed so that petitioners don't lose their rights to
 challenge their Federal sentence based on the vacatur of
 their prior sentences. And when -- when I think about
@@ -1196,7 +1150,6 @@ that's a hard equitable tolling rule, that is, there is
 tolling every time there's the pendency of the State
 petition, well, it seems to me that we are adding a
 provision very expressly to the statute that doesn't
-Page 47
 exist. 2244 has exactly that tolling provision, and that
 is not in this -- in the 2255 provision. And this Court
 would be adding it, and we don't think that is

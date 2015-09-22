@@ -1,4 +1,3 @@
-Page 1
 IN THE SUPREME COURT OF THE UNITED STATES
 - - - - - - - - - - - - - - - - - x
 ARIZONA, ET AL., :
@@ -20,7 +19,6 @@ of Respondents.
 SRI SRINIVASAN, ESQ., Deputy Solicitor General,
 Department of Justice, Washington, D.C.; for United
 States, as amicus curiae, supporting Respondents.
-Page 2
 C O N T E N T S
 ORAL ARGUMENT OF PAGE
 THOMAS C. HORNE, ESQ.
@@ -35,7 +33,6 @@ supporting Respondents 50
 REBUTTAL ARGUMENT OF
 THOMAS C. HORNE, ESQ.
 On behalf of the Petitioners 61
-Page 3
 P R O C E E D I N G S
 (10:04 a.m.)
 CHIEF JUSTICE ROBERTS: We'll hear argument
@@ -61,7 +58,6 @@ prohibited notarization and other forms of
 authentication. This Court has frequently held that
 statutory language that indicates -- that prohibits one
 thing indicates there's no other implicit prohibition:
-Page 4
 The expressio unius rule.
 Third, Proposition 200 is consistent with
 the purposes and objectives of the NVRA because the
@@ -87,7 +83,6 @@ equally important. And so --
 JUSTICE SOTOMAYOR: So, if something you do
 conflicts with one of those purposes, why isn't it
 preempted by the Federal law?
-Page 5
 MR. HORNE: Your Honor, I think the question
 is, if you take the two purposes together, does -- does
 the Proposition 200 strongly fulfill one and have a
@@ -113,7 +108,6 @@ It did. And it said this is the way we deal with
 citizenship. Then Arizona adds something else.
 So I would like, General Horne, for you to
 respond to a question that's already been raised in --
-Page 6
 by the -- the panel that decided this case originally,
 which was, the statute said -- says each State must
 accept and use the Federal form, period. That's the end
@@ -139,7 +133,6 @@ don't need to bring a paper ticket. And then I got
 there and they said, we want to see identification to
 prove that you are who you say you are, that would not
 contradict the statement that they are accepting and
-Page 7
 using the e-ticket. They are accepting and using the
 e-ticket for a specific purpose --
 JUSTICE KAGAN: But, General Horne, wouldn't
@@ -165,7 +158,6 @@ evidence that the person is a citizen, that they're
 eligible to vote. The form is not exclusive. The form
 does not bind us to use only the form and nothing else.
 JUSTICE KAGAN: Do you -- do you think that
-Page 8
 you could have said -- you know, we have our own State
 form, which we're allowed to have under the statute.
 Anybody who requires the Federal form has to append the
@@ -191,7 +183,6 @@ included the eligibility requirements that your State
 demands. And it seems to me your complaint is that the
 Federal form does not require proof of citizenship,
 unless you consider just the statement that I'm a
-Page 9
 citizen to be proof of citizenship.
 But why didn't you challenge the form? I
 mean, that's -- that's my problem with this. I frankly
@@ -217,7 +208,6 @@ simply denying then that the Federal government can, so
 long as it protects the requirements that your State
 imposes, you're -- you're saying the Federal government
 cannot prescribe a single form for -- for voter
-Page 10
 registration.
 MR. HORNE: Your Honor, the Federal
 government can prescribe the form, but the form is not
@@ -243,7 +233,6 @@ look at external evidence, but we can't ask the
 applicant himself, who has the most information, to pull
 out his driver's license and write down a number.
 There's no --
-Page 11
 JUSTICE GINSBURG: General Horne, there --
 there are a whole list of State-specific requirements
 that get appended to the form. And I think Justice
@@ -269,7 +258,6 @@ MR. HORNE: Your Honor, that -- that was
 under a predecessor of mine, so I don't know the reason.
 JUSTICE SCALIA: Oh. Okay.
 Why didn't he do it?
-Page 12
 (Laughter.)
 MR. HORNE: I'm -- I'm not sure I would be
 competent to answer for him, Your Honor. But I think --
@@ -295,7 +283,6 @@ position that the executive director took, that if the
 form is fully filled out and on its face it shows the
 person is qualified we must accept the application. We
 then pointed out in our brief that that would mean that
-Page 13
 even if we had documentary proof that the person was not
 a citizen, we'd still have to accept the application.
 In response to that, the Respondent ITCA and
@@ -321,7 +308,6 @@ MR. HORNE: Your Honor, the Federal form
 sets forth certain minimum requirements that -- that
 have to be met. In fact, the -- the Act says
 specifically in Section 7(b)(2) that they must ask for
-Page 14
 the signature under oath of the applicant. The Federal
 form also provides under 7(a)(1) that additional things
 that are necessary to determine the eligibility of the
@@ -347,7 +333,6 @@ license number or some other numbers? I -- I guess you
 could -- you could make them check off place of birth
 and if that place of birth is not the United States, you
 could require them to write down some number of -- of
-Page 15
 their admission to citizenship. Are there -- are there
 numbers that you could demand?
 MR. HORNE: Well, some States require the
@@ -373,7 +358,6 @@ statement, government check, paycheck or other
 government document." So --
 JUSTICE SCALIA: Yes, that's the kind of
 thing you should have had and that your predecessor
-Page 16
 should have asked for to be included in the Federal
 form.
 MR. HORNE: Your Honor, the Federal form is
@@ -399,7 +383,6 @@ arbitrary and capricious limitations, just as any other
 agency is. And to allow Louisiana -- to include what --
 what they've allowed a Louisiana to include and to say
 that the only proof of citizenship -- there is a
-Page 17
 provision in the statute which says consistent with
 determining, the States being able to determine the
 qualifications.
@@ -425,7 +408,6 @@ right? So it's under oath. Big deal. If -- if -- if
 you're willing to violate the voting laws, I suppose
 you're willing to violate the perjury laws.
 MR. HORNE: That's exactly right, Your
-Page 18
 Honor.
 JUSTICE SCALIA: So I think you should --
 you should have challenged the commission's refusal
@@ -451,7 +433,6 @@ distinction, which we do not find in the statute,
 between using external evidence that we already have and
 asking someone to write down the -- the number on his
 driver's license, which he is the one that has the most
-Page 19
 information. It's the logical way to do it. In fact,
 there is no Federal register of American citizens.
 JUSTICE KAGAN: I'm a little bit confused.
@@ -477,7 +458,6 @@ didn't do that. And they had shown when they dealt with
 authentication that they knew how to prohibit something
 if they wanted to prohibit it. They chose not to
 prohibit this exclusively and -- and so therefore, it
-Page 20
 rests with the States --
 JUSTICE SOTOMAYOR: Some of us have -- do
 believe in legislative history. Some of my colleagues
@@ -503,7 +483,6 @@ that?
 MR. HORNE: Your Honor, if the -- if the
 legislative history were consistent, I would -- I would
 say that was an argument that could be made. But the
-Page 21
 legislative history here is extremely self-contradictory
 and one cannot conclude from any part of that
 legislative history what was the intent of the majority
@@ -529,7 +508,6 @@ JUSTICE SCALIA: Gee, if I believed -- if I
 believed in legislative history, I would find that very
 persuasive.
 (Laughter.)
-Page 22
 MR. HORNE: Thank you, Your Honor.
 JUSTICE BREYER: Could I ask a different --
 can I ask --
@@ -555,7 +533,6 @@ MR. HORNE: Yes, Your Honor.
 JUSTICE BREYER: And under perjury.
 MR. HORNE: Yes.
 JUSTICE BREYER: It says that. Then I look
-Page 23
 at the Arizona law and it says in Arizona, you have to
 include like in immigration -- you know, a passport, a
 birth certificate, and then you have a couple of other
@@ -581,7 +558,6 @@ of the eligibility of the citizen because --
 JUSTICE BREYER: I didn't say it wasn't. I
 just want to know, since you have right in front of you
 a birth certificate or the equivalent, what use are you
-Page 24
 making of the Federal provision that's there in the
 form: I am a citizen. What use are you making of that?
 MR. HORNE: Well, Your Honor, we are making
@@ -607,7 +583,6 @@ not a -- it is not a functional way to determine
 eligibility. And in 7(a)(1), Congress said that -- that
 both the Federal form and the State form as incorporated
 under Section 4 may ask for such additional information,
-Page 25
 only such additional information as is necessary to
 determine the eligibility of the voter. That shows that
 Congress did not intend to prohibit us from getting
@@ -633,7 +608,6 @@ down a -- a driver's license number, you can write down
 a naturalization number, you can write down an Indian
 tribal identification number. If you don't have any of
 those numbers, then you can send in one of these
-Page 26
 additional documents.
 But that is not an additional form. The
 reason -- the distinction I draw between the --
@@ -659,7 +633,6 @@ the Federal form, those things must be consistent with
 the purposes and objectives of the Act. And I -- and
 I -- and I justify my assertion that Prop 200 is
 consistent with the purposes and objectives of the Act
-Page 27
 by relying on the findings of the trial court that
 relate exactly to that question, finding that it was a
 minimal burden, overcome by a major interest that the
@@ -685,7 +658,6 @@ that could not satisfy -- who was entitled to vote, who
 could not satisfy the requirements of the Act; and a lot
 of other findings by the trial court.
 And this Court instructed the Ninth Circuit
-Page 28
 to give deference to the factual findings of the trial
 court in the Purcell case, and the Ninth Circuit ignored
 that. And what I'm saying is if you look at the factual
@@ -711,7 +683,6 @@ MR. HORNE: Yes, Your Honor.
 JUSTICE SOTOMAYOR: How do you fit in the
 question of what documents you use to prove that with
 establishing the qualification? Meaning citizenship,
-Page 29
 you either have it or you don't. That's why the Federal
 form says are you or aren't you.
 MR. HORNE: Yes.
@@ -737,7 +708,6 @@ we could not ask for additional information. Congress
 could have said that, just as they said we can't ask for
 notarization. They chose not to say that.
 JUSTICE SOTOMAYOR: Well, you admit that it
-Page 30
 doesn't let you add things. You have to accept and use
 that form.
 MR. HORNE: We have to accept and use the
@@ -763,7 +733,6 @@ of the people and a somewhat higher burden on a few
 people, that does not negate the interests of the State
 and the integrity of the system.
 May I reserve time for rebuttal, Your Honor?
-Page 31
 CHIEF JUSTICE ROBERTS: Yes, you may.
 MR. HORNE: Thank you.
 CHIEF JUSTICE ROBERTS: Ms. Millett?
@@ -789,7 +758,6 @@ percent of eligible voters away?
 MS. MILLETT: First of all, with -- with
 respect to the driver's license, it's only driver's
 licenses issued after 1996, October 1996, and those that
-Page 32
 were not -- that someone did not obtain when they became
 naturalized. So you have to be about 33 years of age.
 Anyone older than that, their driver's license isn't
@@ -815,7 +783,6 @@ MS. MILLETT: Joint appendix page 263, the
 district court found that 31,550 people were rejected
 from voting because of Proposition 200. Even on that
 same page he finds that 11,000 of them subsequently
-Page 33
 registered, but they had to do the double gauntlet that
 Congress was trying to eliminate. The other 20,000
 swore under oath that they were citizens and Mr. Horne,
@@ -841,7 +808,6 @@ language where accept and use comes from. But what's
 critical here is Section gg-7 which is on 26H of the
 petition appendix here. And that's where they say on
 this form.
-Page 34
 The form may require only, may require
 only -- from the applicant, I'm adding that in -- such
 identifying information essentially as the Commission
@@ -867,7 +833,6 @@ they ask him, could you show me some proof of age, like
 he would have to if he tried to buy alcohol or
 cigarettes?
 MS. MILLETT: They may not require anything
-Page 35
 else from the applicant, but they can certainly apply
 their own evidence that they obtain, whether it's from
 their own eyeballs or whether it is through records or
@@ -893,7 +858,6 @@ it and it doesn't say we can't add a few other things.
 Okay. Now, that's his argument. Now, your
 answer, which would be very helpful to me, is?
 MS. MILLETT: My answer is when you look at
-Page 36
 H it's talking about the form. And first, we know
 that the commission is the one that decides what is
 necessary on this form, a decision that wasn't
@@ -919,7 +883,6 @@ you get to that conclusion? He says you can't get there
 from the language because the language doesn't say that.
 It says what the Commission can put on the form. It
 doesn't say anything about whether some other agency,
-Page 37
 such as a State or -- you know, a sovereign, can add
 something.
 Now, that's his problem. And I would like
@@ -945,7 +908,6 @@ form. And what we know from six --
 JUSTICE SCALIA: Excuse me, they may require
 it. It doesn't say they must require it. So it leaves
 it open to the Commission, does it not, to decline to
-Page 38
 require some materials that is necessary to enable the
 appropriate State election official to assess
 eligibility? Isn't that -- isn't that what the language
@@ -971,7 +933,6 @@ MS. MILLETT: The relevant phraseology is
 may require only, and that is not your normal permissive
 language. It's actually Congress -- it is language of
 limitation when used that way. "You may require only"
-Page 39
 does not mean that you may -- that you may run freely
 and do what you want, and they have further down --
 JUSTICE SCALIA: It says what you only may
@@ -997,7 +958,6 @@ makes clear, for example, in at least one place that
 Congress did think they shouldn't add a provision that
 allows the State to do just what it's doing here because
 that wouldn't be consistent with the purpose of the Act.
-Page 40
 So I'm putting words in your mouth, but
 don't accept them because I put them there.
 (Laughter.)
@@ -1023,7 +983,6 @@ different in that context, in two ways. First of all,
 the Commission made the decision so they have that.
 CHIEF JUSTICE ROBERTS: Yes, I know. I'm
 assuming that, and I'm saying they were wrong.
-Page 41
 MS. MILLETT: Oh, I'm sorry. And then the
 second thing is the information that's required there is
 information, for the most part, that is -- that the Help
@@ -1049,7 +1008,6 @@ citizenship. What it is, is an identification
 requirement that can be applied at the polls or the Help
 America Vote Act says at the time of registration.
 JUSTICE GINSBURG: Can you -- can you
-Page 42
 explain -- it's puzzling. You have all these
 State-specific and pages of State-specific requirements.
 What State-specific requirements are permitted and what
@@ -1075,7 +1033,6 @@ on the form because another statute requires it. And
 then you put on -- it says to put on party
 identification for the States that have it. Some States
 have race identified, and then the instructions tell you
-Page 43
 about the different filing deadlines –
 JUSTICE SCALIA: Is all that stuff required
 by the Vote America Act? All that stuff?
@@ -1101,7 +1058,6 @@ saying if it's not doing a very good job, I'd be -- I'd
 question whether or not the fact that the EAC is going
 to implement it is sufficient assurance that the Act
 reads the way you say it does.
-Page 44
 MS. MILLETT: But the Act, I think, by – by
 its own plain language and by its normal -- it can't
 have no -- there is only two ways to look at this
@@ -1127,7 +1083,6 @@ MS. MILLETT: This is -- statements --
 JUSTICE SCALIA: This is not proof at all.
 MS. MILLETT: Statements under oath,
 statements under oath in a criminal case --
-Page 45
 JUSTICE SCALIA: Under oath is not proof at
 all. It's just a statement.
 MS. MILLETT: Statements under oath in a
@@ -1153,7 +1108,6 @@ Federal form, it would be accepted. How can that be?
 MS. MILLETT: Well, there is two responses.
 One, it's an open question whether what -- whether the
 State form, for purposes of Federal elections, can add
-Page 46
 new requirements, but we haven't challenged it, we
 haven't challenged here and I think it's --
 JUSTICE ALITO: What statutory provision
@@ -1179,7 +1133,6 @@ the Federal form is that it's in -- it's in addition to
 whatever the States are already doing --
 JUSTICE ALITO: Well, I've read all those
 provisions and -- all right. Let's assume for the sake
-Page 47
 of argument that Arizona could do this on its own form.
 You haven't argued that their form is illegal.
 MS. MILLETT: Correct.
@@ -1205,7 +1158,6 @@ that's what Congress wanted for Federal elections or not
 or whether --
 CHIEF JUSTICE ROBERTS: It's not just
 different forms. You'd have different voter rolls then,
-Page 48
 right, depending on which form?
 MS. MILLETT: No.
 CHIEF JUSTICE ROBERTS: No?
@@ -1231,7 +1183,6 @@ satisfy the State form, so you're not on the State list.
 MS. MILLETT: It doesn't work the other way
 at least for State elections. For Federal -- for
 Federal elections, it has to be the same. And so for
-Page 49
 Federal elections, there's a single roll. It's up to
 States to decide how they want to deal with the State
 form. At the time the Congress enacted this statute,
@@ -1257,7 +1208,6 @@ question of whether there should be a different test, I
 don't think it matters on the outcome in this case
 because the preemption is in those 31,550 people who
 couldn't register.
-Page 50
 But, I think the Election Clause is going to
 be very different in this sense -- in two critical
 senses. And that is that the Elections Clause involves
@@ -1283,7 +1233,6 @@ SUPPORTING THE RESPONDENTS
 MR. SRINIVASAN: Thank you, Mr. Chief
 Justice, and may it Please the Court:
 The National Voter Registration Act aims to
-Page 51
 streamline the process of registration for applicants,
 and the provisions that provide for the establishment of
 a Federal form embody that objective.
@@ -1309,7 +1258,6 @@ the chief election officers of the States.
 JUSTICE SCALIA: Mr. Srinivasan, the problem
 that I have with that is that the provision you're
 alluding to says that -- not that the State shall – not
-Page 52
 that the commission "shall" require the information
 necessary to enable the appropriate State election
 official to assess eligibility, but it simply says that
@@ -1335,7 +1283,6 @@ only?
 MR. SRINIVASAN: It "may require only," in
 effect, means shall require information that's
 necessary, but may only require that information. I
-Page 53
 think the statute would make very little sense if the
 EAC discharged its statutory responsibility by having a
 Federal form that required nothing other than the name.
@@ -1361,7 +1308,6 @@ JUSTICE BREYER: And that's the grand
 purpose -- to go back to your -- I see that as your
 grand purpose. That's the grand purpose argument. And
 then there is the subsidiary purpose argument, which you
-Page 54
 started to make, which I wanted to hear, which has to do
 with (b). It says may require only such identifying
 information. So I thought, well, they could require
@@ -1387,7 +1333,6 @@ just not quite -- the last step of what I wanted you to
 think up was this --
 MR. SRINIVASAN: Sure.
 JUSTICE BREYER: It does say "may require
-Page 55
 only" –
 MR. SRINIVASAN: Correct.
 JUSTICE BREYER: -- "that which is
@@ -1413,7 +1358,6 @@ Congress made that responsibility --
 JUSTICE GINSBURG: Mr. Srinivasan, I think
 General Horne told us that -- that the State did ask the
 Commission, but the Commission had only two members; the
-Page 56
 Commission didn't act on it. Only the legal director.
 So how could they get court review of an agency decision
 that was never made?
@@ -1439,7 +1383,6 @@ MR. SRINIVASAN: Well, that --
 JUSTICE SCALIA: And the district court here
 certainly thought that was necessary. So you're going
 to be in -- in bad shape -- the government is going to
-Page 57
 be -- the next time somebody does challenge the
 Commission determination in court under the
 Administrative Procedure Act.
@@ -1465,7 +1408,6 @@ was submitted to the EAC, and the EAC approved of it.
 And I think that's the critical distinction here.
 CHIEF JUSTICE ROBERTS: How is that
 consistent with the statutory purpose to streamline
-Page 58
 registration?
 MR. SRINIVASAN: Because the statute -- the
 statute seeks to streamline registration, but it's not
@@ -1491,7 +1433,6 @@ Chief Justice's question.
 In Arizona, it was 2-2.
 Now, I want to point out one other critical
 feature of the statute, and General Horne alluded to
-Page 59
 this and said that there's no way to look in the statute
 and see a distinction between on one hand what the
 individuals can be required to provide, and on the other
@@ -1517,7 +1458,6 @@ And what's the State -- chief State election
 official going to do with that? Well of course, what
 they're going to do is they're going to take a look at
 the Federal form, they're going to see what the
-Page 60
 individual said about their felony history, and they're
 going to crosscheck it – against the information that
 they got from the United States Attorney -- to make sure
@@ -1543,7 +1483,6 @@ question about whether that would ever be practical or
 useful, given that an individual will want to use the
 State form for State, local and Federal elections, but
 there is also the -- the well-understood practice of
-Page 61
 organizations that go out to register individuals to
 vote.
 And they can use the Federal form, and the
@@ -1569,7 +1508,6 @@ reply brief that provides that you -- you must renew
 every 12 years. So by 2004, the problem that my friend
 spoke about was completely erased. Everybody had a new
 license which would be sufficient for this purpose, 100
-Page 62
 percent.
 They admit that we can reject applications
 by reference to other -- by reference to other
@@ -1595,7 +1533,6 @@ State could not look to external evidence and ask for
 additional evidence, and they chose not to do that. And
 so I would say that HAVA is further evidence that
 Congress was not choosing to prohibit us from asking for
-Page 63
 additional information to fulfill our function, if it's
 necessary, of being sure that the applicant is eligible
 to vote.

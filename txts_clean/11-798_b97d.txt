@@ -1,4 +1,3 @@
-Page 1
 IN THE SUPREME COURT OF THE UNITED STATES
 - - - - - - - - - - - - - - - - - x
 AMERICAN TRUCKING :
@@ -21,7 +20,6 @@ Department of Justice, Washington, D.C.; for United
 States, as amicus curiae, supporting Petitioner.
 STEVEN S. ROSENTHAL, ESQ., Washington, D.C.; on behalf
 of Respondents.
-Page 2
 C O N T E N T S
 ORAL ARGUMENT OF PAGE
 DANIEL N. LERMAN, ESQ.
@@ -36,7 +34,6 @@ On behalf of the Respondents 30
 REBUTTAL ARGUMENT OF
 DANIEL N. LERMAN, ESQ.
 On behalf of the Petitioner 52
-Page 3
 P R O C E E D I N G S
 (11:17 a.m.)
 CHIEF JUSTICE ROBERTS: We will hear
@@ -62,7 +59,6 @@ of a motor carrier. The only statutory language at
 issue here is the force and effect of law requirement.
 And the Port's actions have the force and effect of law
 under any reasonable interpretation of the phrase.
-Page 4
 The Port is imposing binding standards of
 conduct on motor carriers as a condition of accessing a
 channel of interstate commerce. The Port is enforcing
@@ -88,7 +84,6 @@ the truckers from both ends. On the one end, you have
 the criminal penalties imposed on the terminal operators
 to coerce their conduct and exclude truckers. On the
 other hand, you have the tariff which puts conditions on
-Page 5
 access to the Port of Los Angeles, which is a key
 channel of interstate commerce.
 So the Port's requirements here have the
@@ -114,7 +109,6 @@ MR. LERMAN: It's -- it's different in this
 case, Your Honor, because -- in addition to the overlay
 that 14506 specifically targets identification
 requirements, and -- and for purposes of this case,
-Page 6
 it's -- but I understand --
 JUSTICE SOTOMAYOR: But even if that, if we
 didn't have a market participant, why couldn't the State
@@ -140,7 +134,6 @@ Justice Sotomayor, because there's an express exception
 to the FAAAA for weight and size restrictions. So
 Congress carved out a series of exceptions for the FAAAA
 for safety requirements, which gets to part of your
-Page 7
 question, for height and weight and size limits, for
 requirements pertaining to the transport of
 nonconsensual goods and the like. It did not create a
@@ -166,7 +159,6 @@ include that proprietary exception.
 JUSTICE GINSBURG: Do we know why, why
 Congress had a different regulation for ports and for
 airfields?
-Page 8
 MR. LERMAN: I don't believe the record --
 the legislative history doesn't show why. But Congress
 thought, clearly copied the statute and made the
@@ -192,7 +184,6 @@ intent, which is an express preemption provision
 dictating the term -- the scope of preemption. And
 Boston Harbor --
 JUSTICE SCALIA: Boston Harbor was implied
-Page 9
 preemption, right?
 MR. LERMAN: That's correct, Your Honor, it
 was implied preemption. There was no express preemption
@@ -218,7 +209,6 @@ prevent. Congress sought to prevent State actions that
 impede the free flow of trade or that would result in a
 patchwork of requirements from jurisdiction to
 jurisdiction.
-Page 10
 That is what the Port's doing here. It --
 it conflicts with Congress's objectives and it falls
 within the text of the statute. And it cannot be saved
@@ -244,7 +234,6 @@ the express preemption clause and this Court does not
 need to address any of that.
 I'd like to turn my --
 JUSTICE SCALIA: Some -- some of the rules
-Page 11
 are okay, though, as you acknowledge, and I guess
 there's a second question in the case.
 MR. LERMAN: There is. Thank you --
@@ -270,7 +259,6 @@ CHIEF JUSTICE ROBERTS: That matters -- that
 matters in your view whether it's a key component of
 commerce or not. If it's -- if it's a particular
 highway, a particular street, you think Castle doesn't
-Page 12
 apply in that case?
 MR. LERMAN: Your Honor, Mr. Chief Justice,
 Castle spoke to partial suspensions of a motor carrier's
@@ -295,7 +283,6 @@ operations. This falls within Castle's exact terms.
 And Congress has not --
 CHIEF JUSTICE ROBERTS: So they say there's
 this particular road, through a State park or something,
-Page 13
 that's scenic, and sometimes the trucks drive on the
 side of the road and it causes damage to what the
 State's trying to preserve. And they have a rule, look,
@@ -321,7 +308,6 @@ port.
 MR. LERMAN: Justice Kagan, the conventional
 forms of punishment include, as we acknowledge, taking
 an unsafe truck out of service or denying access. If --
-Page 14
 if the truck is leaking hazardous material, the port can
 deny access to that particular truck.
 The key -- the key problem here is the
@@ -347,7 +333,6 @@ unsafe, we're just going to keep the company off our
 premises until the company can show us that they've
 cured all their trucks, that they are a safe operator
 now.
-Page 15
 MR. LERMAN: Because that's what Castle
 dealt with, Your Honor. And I was going to turn to the
 statutory scheme in Castle, which is Castle's decision
@@ -373,7 +358,6 @@ which is -- is -- there was no reason to -- to deny that
 the conventional forms of punishment are sufficient to
 protect the State's safety concerns, and then if they
 are not sufficient there was then and there still exists
-Page 16
 a remedy, which is to go to the Department of
 Transportation and ask them.
 And that remedy exists to this day under 49
@@ -399,7 +383,6 @@ you seem to have said what they should have done. You
 go to the NTSB and you ask, and they do it. They
 approve it or they don't.
 And their -- their problem is that they
-Page 17
 don't want 40 or 50 States each saying a different
 sticker, all right? So then the whole back fills up
 with stickers and that's the problem. That's the
@@ -425,7 +408,6 @@ And it's a question for both sides.
 MR. LERMAN: You're right that it's not in
 the case, Your Honor. It's not in the case because the
 only issue here was whether it has the force and effect
-Page 18
 of law because that's what the court below held. The
 court below held that these could escape preemption
 because the port was acting arguably in part by a
@@ -451,7 +433,6 @@ would like to answer this question and then reserve my
 time for rebuttal if I might.
 But that gets to the "related to" question,
 is that in fact related to rates, routes, and services
-Page 19
 with respect to the transportation of property? That
 sometimes is a more factual inquiry. But that is not at
 issue here. The only issue here is whether it can
@@ -477,7 +458,6 @@ that regulation, they'd have to make out a record that
 it either -- it comes within one -- one of the
 exceptions. Now, it could have been the safety
 exception. The Port argued for that here and the
-Page 20
 district court rejected it on the record after hearing
 testimony about the alleged safety and hazardous cargo
 justifications.
@@ -503,7 +483,6 @@ roads unless you sign a certain agreement. But don't
 worry, if you don't agree to bide by that agreement we
 won't do anything to you, but we will throw every person
 who does business with you in jail.
-Page 21
 Whatever else you could say about that
 scheme, I think it would be pretty clear that it would
 be the act of a sovereign and so it would have the force
@@ -529,7 +508,6 @@ commercial enterprise that you might see in the private
 marketplace.
 This port authority, like I think virtually
 all other port authorities in charge of these massive
-Page 22
 container ports, hold land much like a highway
 commission in trust for the public.
 This is not private property ownership. If
@@ -555,7 +533,6 @@ might say, hey, we don't do business with labor law
 violators, or we adhere to certain environmental
 practices, as part of a marketing campaign. But I think
 what this Court said in Boston Harbor was that, yeah, a
-Page 23
 private business could boycott labor law -- law
 violators too, and, in a sense, the private business
 would be engaged in quote-unquote regulation.
@@ -581,7 +558,6 @@ The Port is a department of the city, and its members
 are appointed by the mayor and its revisions to the
 tariff are codified in city ordinances. So it's in
 every way a part of the city, it's not just a
-Page 24
 contractual relationship.
 We think just the criminal penalties here
 and the nature of what a port is. A port -- a
@@ -607,7 +583,6 @@ no recourse. And I just note parenthetically that the
 same could be true of any state highway commission
 that's contemplating an expansion of a highway project.
 They could face similar suits based on environmental
-Page 25
 complaints. They could face similar community
 opposition, we don't want these huge trucks coming
 through our neighborhood. That doesn't make the decrees
@@ -633,7 +608,6 @@ I mean, I thought that the purpose of these
 exceptions -- of course cities can have parking
 regulations. Of course States and cities can have
 regulations involving trucks as to how and where they
-Page 26
 use the highways and which ones they can't use and which
 routes, et cetera. That's the purpose of that
 exception, isn't it? I mean, I -- I thought that's what
@@ -659,7 +633,6 @@ case.
 JUSTICE SCALIA: I don't think there is.
 You think there is? You can ask the question.
 JUDGE BREYER: I -- I myself don't know.
-Page 27
 JUSTICE SCALIA: Seems to me the answer is
 MR. BASH: But I -- I just wanted to
 emphasize for Justice Ginsburg, though, that there are a
@@ -684,7 +657,6 @@ confines of this preemption statute.
 The Chief Justice asked about the Castle
 question, whether it matters or what if you just didn't
 want a road or what's the size of it?
-Page 28
 I will say that the court in Castle seemed
 to think it made a difference, the sort of size of the
 imposition, but I don't think it needs to make a
@@ -710,7 +682,6 @@ that a statute that says if you're a trucking company
 operator and you have three violations of X safety
 regulations, you just can't use our highways because we
 don't trust you, is that okay?
-Page 29
 MR. BASH: No, that's certainly not okay.
 We think that fails under both the holding of Castle and
 just under the current presumption provision, which is
@@ -736,7 +707,6 @@ operations of motor carriers.
 Thank you.
 CHIEF JUSTICE ROBERTS: Thank you, counsel.
 Mr. Rosenthal?
-Page 30
 ORAL ARGUMENT OF STEVEN S. ROSENTHAL
 ON BEHALF OF THE RESPONDENTS
 MR. ROSENTHAL: Thank you,
@@ -762,7 +732,6 @@ We do not believe --
 JUSTICE SCALIA: Well, that's a different
 point, but -- but you're -- you're talking about, you
 know, an exception for private contract operations as
-Page 31
 opposed to public matters.
 MR. ROSENTHAL: We're --
 JUSTICE SCALIA: There are exceptions to the
@@ -788,7 +757,6 @@ think the criminal penalties is a red herring in this
 case, and if you will -- if you'll just indulge me a
 moment. The -- the concession agreement everyone
 concedes does not include any criminal penalties. The
-Page 32
 tariff which applies to the marine terminal operators,
 yes, it contains a criminal penalty, but the criminal
 penalty is not included in this tariff against the
@@ -814,7 +782,6 @@ and say, oh, you know, no harm, no foul because it's on
 the books, but we -- we don't really use it. Well, I
 don't know -- I don't know that we do that. If it's
 there, it's a criminal penalty, and if -- if the
-Page 33
 condition of -- of -- of you're being able to impose
 these limitations is that you not have criminal
 penalties, there is a criminal penalty.
@@ -840,7 +807,6 @@ MR. ROSENTHAL: But, Mr. Chief Justice, what
 reason I'm bringing this up is we have an entirely
 separate and much more robust relationship with our own
 tenants through the lease. The lease is the way this is
-Page 34
 enforced. Criminal penalties -- no MTO thinks for a
 second about the criminal penalty. They think about the
 contractual relationship.
@@ -866,7 +832,6 @@ regulation thing is the exception. But the State of
 California decides --
 MR. ROSENTHAL: But we're not acting –
 JUSTICE BREYER: Pardon me. I know you're
-Page 35
 not. The State of California decides, here's what we
 have, a State public utilities commission which issues a
 tariff, and what the tariff says is anyone who contracts
@@ -892,7 +857,6 @@ within the rates, routes and services, and then the
 question is, is there proprietary exception, et cetera.
 MR. ROSENTHAL: Well, the -- the answer –
 our position is that even if it is rates, routes, and
-Page 36
 services, that what we are doing is not regulation, that
 this is proprietary.
 JUSTICE BREYER: That's why I asked you, and
@@ -918,7 +882,6 @@ crucial. You think a State can -- can say nobody's
 going to come on our highways until it signs a contract?
 Okay? These highways belong to us, they are State land,
 and anybody who wants to ride on the highways, you have
-Page 37
 to enter a contract with the State. And that's going to
 get around this Federal statute?
 MR. ROSENTHAL: No, no, no. Justice Scalia,
@@ -944,7 +907,6 @@ and let me give you the difference, Justice Scalia. And
 that is in this particular case we are dealing with a
 business, a commercial enterprise. And I think the
 appropriate standard which we would contend controls
-Page 38
 whether force and effect of law, market participant
 applies, is whether this was an action taken, reasonably
 taken to deal with a genuine commercial interest of the
@@ -970,7 +932,6 @@ And we believe what's critical to this
 analysis and what we have extensive findings from the
 district court is that this was run as a business, like
 the cement plant, like the Boston Harbor. Boston Harbor
-Page 39
 I think I would posit is far closer case, it seems to me
 than what we're dealing with here, which are marine
 terminals.
@@ -996,7 +957,6 @@ requirement by the Port, any requirement by a city
 whatsoever, I believe we'd have a closer case. But
 they're only talking about things which have application
 to the general public.
-Page 40
 We submit that force and effect of law
 almost invites a market participant analysis.
 Let me also respond to your point about the
@@ -1022,7 +982,6 @@ interests, that there would not be inferred -- not be
 inferred -- a restriction on a State's power to manage
 its own property.
 So unlike the situation when the ADA was
-Page 41
 adopted, when the FAAAA was adopted in 1994, there was,
 we submit, a background principle, which this Court had
 enunciated earlier, that there was a presumption that
@@ -1048,7 +1007,6 @@ the Port? What trucks -- what trucks or what trucking
 companies do you exclude?
 MR. ROSENTHAL: Well, in fact, we don't
 exclude anybody from the Port. We simply ask that those
-Page 42
 trucks that come on to port property sign a nonexclusive
 concession agreement which agrees to certain conditions.
 So drayage trucks that come on, on a regular
@@ -1074,7 +1032,6 @@ you whack them with a big penalty.
 What is that?
 MR. ROSENTHAL: In -- in cases involving
 fraud, criminal penalties of a continuing nature, we can
-Page 43
 suspend or revoke their right to come on to the
 property. That's the ultimate. But -- but -- and this
 deals with the Castle argument --
@@ -1100,7 +1057,6 @@ of the suspension requirement, given the fact that ATA
 has launched a facial attack on our regulation, that it
 will be sufficient time to deal with an as-applied
 Castle.
-Page 44
 If Castle survives and this Court --
 JUSTICE BREYER: There are three reasons,
 and the first one, I -- I'm not sure why it wouldn't
@@ -1126,7 +1082,6 @@ is -- this being a facial attack, given the fact that we
 believe that there are lawful applications of -- of the
 revocation to ongoing continuing violations, which is,
 frankly, the only -- I can't make a representation --
-Page 45
 JUSTICE SCALIA: I've never heard of this
 doctrine. This is a facial attack to a contract? Is
 that it? I mean, you --
@@ -1152,7 +1107,6 @@ where, given Castle --
 MR. ROSENTHAL: Yes.
 JUSTICE BREYER: -- and its applications, it
 would be --
-Page 46
 MR. ROSENTHAL: Where -- where a truck is in
 continuing violation, a company is in continuing
 violation of a safety restriction.
@@ -1178,7 +1132,6 @@ I think if one reads the opinion in Castle,
 Castle dealt with a past violation, not a continuing
 violation. The record in that case didn't deal with
 the -- and I think the words of the -- Justice Black
-Page 47
 said that would be a different case, that there would be
 a right to exclude a continuing violation.
 JUSTICE SOTOMAYOR: Could I just go back
@@ -1204,7 +1157,6 @@ else, then the operator's in violation of the agreement.
 MR. ROSENTHAL: That -- that's correct.
 JUSTICE SOTOMAYOR: All right. With respect
 to the placard, as I read the provision it says you have
-Page 48
 to have the placard coming in and going out. Is this
 like one of those parking placards that people can affix
 temporarily or does it have to be a permanent?
@@ -1230,7 +1182,6 @@ that's not required. The plaque is only required as it
 enters, while it's on Port property, and when it leaves,
 as it leaves.
 JUSTICE SOTOMAYOR: So how is the public
-Page 49
 going to use that plaque?
 MR. ROSENTHAL: What?
 JUSTICE SOTOMAYOR: How is the public going
@@ -1256,7 +1207,6 @@ MR. ROSENTHAL: We -- we are -- there has
 been very little practice, Justice Ginsburg, under that,
 but basically our enforcement where there have been
 violations has been to ban the particular truck in
-Page 50
 question, not the entire LMC.
 JUSTICE GINSBURG: But you could do the
 other. See, I'm -- what -- what are -- is it -- is it
@@ -1282,7 +1232,6 @@ uncertainty about that, whether you --
 MR. ROSENTHAL: We have -- we have never
 enforced it that way. I mean, the enforcement – we
 haven't used revocation. We haven't used suspension.
-Page 51
 And generally speaking, our intent has been, as we
 stated in the lower court and as we stated repeatedly,
 to use this for continuing violations. But we are
@@ -1308,7 +1257,6 @@ precisely and substitute for "port authority" the words
 right. I mean, what's bothering me is, I -- I don't
 know you've got the right one. So -- so if we decide in
 your way, what we've done is distinguish precisely the
-Page 52
 same situation, you from the city of Los Angeles, simply
 because of the method they have of governmentally
 regulating the port.
@@ -1334,7 +1282,6 @@ MR. LERMAN: Justice Scalia, the criminal
 penalties are not a red herring. Rowe makes clear that
 you can't circumvent the Act by –
 JUSTICE SCALIA: I didn't say they were a
-Page 53
 red herring.
 MR. LERMAN: I know you didn't, Your Honor.
 I was referring to Mr. Rosenthal's argument that -- in
@@ -1360,7 +1307,6 @@ for the decision then, and it's the basis today.
 Justice Ginsburg, the concession agreements
 gives the Port unfettered discretion to determine
 whether or not to suspend or revoke access. In this
-Page 54
 Court's city of Chicago cases, the fact that the city
 claimed at least some power to deny a license or access
 to interstate commerce was sufficient and it's

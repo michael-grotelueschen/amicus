@@ -1,4 +1,3 @@
-Page 1
 IN THE SUPREME COURT OF THE UNITED STATES
 - - - - - - - - - - - - - - - - - x
 DAN’S CITY USED CARS, INC., :
@@ -21,7 +20,6 @@ LEWIS S. YELIN, ESQ., Assistant to the Solicitor
 General, Department of Justice, Washington, D.C.;
 for United States, as amicus curiae, supporting
 Respondent.
-Page 2
 C O N T E N T S
 ORAL ARGUMENT OF PAGE
 ANDRE D. BOUFFARD, ESQ.
@@ -36,7 +34,6 @@ supporting Respondent 39
 REBUTTAL ARGUMENT OF
 ANDRE D. BOUFFARD, ESQ.
 On behalf of the Petitioner 49
-Page 3
 P R O C E E D I N G S
 (11:11 a.m.)
 CHIEF JUSTICE ROBERTS: We will have
@@ -62,7 +59,6 @@ that's referred to in the business as nonconsensual
 tows.
 JUSTICE GINSBURG: Mr. Bouffard, this law,
 this New Hampshire law, it regulates storage. Is this a
-Page 4
 law that applies only to the towing companies who tow
 the automobile and then store it, or does the law apply,
 say, to a garage, say, someone brings a car to a garage
@@ -88,7 +84,6 @@ statute apply.
 MR. BOUFFARD: Well, let me be clear about
 this statute, Your Honor. It's an abandoned vehicle
 statute, and what's really important to understand with
-Page 5
 this case is that none of the Plaintiff's claims rely on
 this abandoned vehicle statute.
 The Plaintiff has pled in his complaint a
@@ -114,7 +109,6 @@ defense is directed to in this case.
 JUSTICE BREYER: What's -- what's your
 point? If it's not part of the towing law, then it's
 further removed.
-Page 6
 MR. BOUFFARD: The reason -- the reason why
 these claims are preempted, Your Honor, is because they
 all stem from the towing of the vehicle, which was
@@ -140,7 +134,6 @@ week? I mean, as I read your brief, I -- are you saying
 that all the northeast statutes that say your car will
 be towed if you park here during a snow emergency, what
 happens? I mean, do they have to go to the Department
-Page 7
 of Transportation? Boston couldn't function. I know
 that they do tow cars. I don't know that firsthand, but
 I've seen it.
@@ -166,7 +159,6 @@ Consumer Protection Act claim. That claim is predicated
 on the consumer protection law. It's predicated on the
 State of New Hampshire's policy protecting consumers.
 Now, there's -- there's an allegation in the
-Page 8
 complaint that there was also -- there happened to be a
 violation of this abandoned vehicle law. But that is a
 completely meaningless allegation as it relates to the
@@ -192,7 +184,6 @@ that all of these claims are related to, within the
 meaning of this statute, to the towing of the vehicle.
 JUSTICE SCALIA: Suppose -- I understand.
 My goodness. Suppose a vehicle -- I pay for somebody to
-Page 9
 tow -- I agree that somebody will tow my vehicle and I
 will pay him $100. And he tows the vehicle, puts it in
 my garage and says, give me the $100. And I say, ha,
@@ -218,7 +209,6 @@ hours and if it wasn't picked up they would
 immediately sell it for parts.
 Your argument would be that's preempted by
 the Federal statute?
-Page 10
 MR. BOUFFARD: No, we wouldn't --
 JUSTICE ALITO: The State can't regulate
 that?
@@ -244,7 +234,6 @@ involve a payment dispute, Your Honor. This case -- the
 case we have before us today, involves a payment
 dispute. This is really a payment dispute. A person --
 JUSTICE ALITO: It would involve a payment
-Page 11
 dispute to the same extent as this. Towed, notice sent
 out immediately, wasn't picked up within 24 hours, sell
 it for parts.
@@ -270,7 +259,6 @@ towing.
 MR. BOUFFARD: Well, Justice Ginsburg, we
 don't agree with that. It is -- it is exactly that kind
 of case.
-Page 12
 JUSTICE GINSBURG: At what point did Pelkey
 say, I won't pay for the towing?
 MR. BOUFFARD: There -- there's a letter in
@@ -296,7 +284,6 @@ MR. BOUFFARD: He -- he offered in this
 letter to pay the towing fees only. There was never any
 tender of payment. There was an offer to pay, provided
 that -- provided that my client would tow the vehicle
-Page 13
 back to his place of residence because the vehicle
 wasn't operative at the time.
 JUSTICE SOTOMAYOR: If this was a consensual
@@ -322,7 +309,6 @@ MR. BOUFFARD: It would be preempted to the
 extent that it's a -- the case involves a dispute over
 payment for the services. This is a -- this case is
 a --
-Page 14
 JUSTICE SOTOMAYOR: That gets back to
 whether the services include storage, which is what the
 New Hampshire court said it doesn't.
@@ -348,7 +334,6 @@ term in Title 49, and it's defined very broadly for --
 for good reason because that term is used throughout
 Title 49. In fact, the term is used to define the scope
 of jurisdiction of the Department of Transportation, and
-Page 15
 the definition of transportation is quite broad, and --
 JUSTICE SCALIA: It -- it includes storage,
 is the point you are coming to, right?
@@ -374,7 +359,6 @@ where you store it, that's covered by -- by this
 statute.
 MR. BOUFFARD: No, that's not what I'm
 saying, Your Honor. I'm saying that if you tow a motor
-Page 16
 vehicle, you bring the motor vehicle into your
 possession via towing and, as is the case here, you also
 store the vehicle. And in particular in a case like
@@ -400,7 +384,6 @@ your tow trucks on somebody else's parking lot, and you
 don't pay the rent. So they sell your tow truck. Is
 your claim against your landlord preempted?
 MR. BOUFFARD: I don't think so, Your Honor,
-Page 17
 because I don't think that that scenario would fall
 within what Congress intended by the term "services"
 there. That -- that claim -- that claim that -- that
@@ -426,7 +409,6 @@ of their services. They could be involved in a real
 estate transaction, for example.
 They may be buying a new -- a new depot, and
 there may be claims that arise out of disputes in
-Page 18
 connection with that real estate transaction. Those
 claims aren't preempted by this statute, even though in
 a very remote sense, they -- those -- those disputes
@@ -452,7 +434,6 @@ your truck is involved in transporting property. That's
 the claim against you, that you don't -- you don't
 render good service because you're negligent in a -- and
 it just seems to me to fit within the terms of the
-Page 19
 statute, if you adopt as broad a reading as you adopt.
 MR. BOUFFARD: Well, literally, I think
 you're -- you're right, Your Honor, that -- that the
@@ -478,7 +459,6 @@ consumer protection law.
 MR. BOUFFARD: Well --
 JUSTICE SCALIA: So you want us to eat those
 words, they were wrong, or -- or somehow you don't come
-Page 20
 within them?
 MR. BOUFFARD: Respectfully, Justice Scalia,
 I think those words came from your dissent in that case.
@@ -504,7 +484,6 @@ very similar, general -- broad, general, preemptive
 language. And it does not -- neither of those -- those
 provisions in 41713 contains limiting language that --
 that -- that would limit the scope of preemption in any
-Page 21
 way.
 The -- the -- and we know from the -- the
 legislative intent with regard to the statute involved
@@ -530,7 +509,6 @@ is a different reference, I agree, should be read to
 preserve, not preempt traditional prerogative for the
 State.
 And Justice White said previously that you
-Page 22
 have to start with the idea that this is -- historic
 police powers of the State are not going to be
 superseded by the Act, unless it's a clear manifest
@@ -556,7 +534,6 @@ transportation since 1935 with the enactment of the
 Motor Vehicle Act in that year. So --
 JUSTICE SOTOMAYOR: That's your problem,
 which is, what is it directed to? And that's the real
-Page 23
 issue in this case. Yes, it's preempted with respect to
 any towing activity. The issue is, is it -- is it
 preempted, as the New Hampshire court, said to storage
@@ -582,7 +559,6 @@ And so in a garage scenario, I suppose if a
 tower towed the vehicle to a garage and then left it,
 left it at a garage to be worked on, that -- that garage
 owner wouldn't be in a position to say that I can assert
-Page 24
 a preemption defense because that garage owner has
 never -- has never engaged in the kind of transportation
 activity that triggers this preemption law.
@@ -608,7 +584,6 @@ laws that allow the sale of a motor vehicle.
 Now, let me address some of the things that
 my brother has argued that this case is about that we
 disagree about. My brother has argued that this case is
-Page 25
 about payment. This case is not about payment. Mr.
 Pelkey is not challenging that Dan's City Used Car had
 the ability to tow the vehicle. We are not challenging
@@ -633,7 +608,6 @@ brings up the issue raised by Justice Sotomayor with
 respect to the storage. And I would disagree with the
 characterization of my brother with respect to what RSA
 2 is. RSA 262 talks about removed vehicles. It
-Page 26
 actually provides the authority to law enforcement to
 remove a vehicle that might be in a public way, but it
 also gives the authority to a private landowner to have
@@ -659,7 +633,6 @@ believe the definition of "transportation" specifically
 refers to a "motor carrier," meaning a person providing
 motor vehicle transportation for compensation, but also
 relates to the movement of the passengers and the
-Page 27
 property, and the services related to that movement.
 So the very definition that applies to this
 case and to the transportation services relate to the
@@ -685,7 +658,6 @@ hire private investigators to go figure out who owns
 this car. Would any of those be preempted?
 MR. SHAUGHNESSY: Yes. I believe it's
 pointed out in the Rowe decision, in order for it to be
-Page 28
 related to the motor carrier service you have to either
 directly regulate that service or it has an indirect
 connection with the service that significantly affects
@@ -711,7 +683,6 @@ posited is not storage-related, it is something
 else-related. It's towing-related. What's the
 difference?
 MR. SHAUGHNESSY: Correct. The way I -- the
-Page 29
 way I interpreted the hypothetical is the State is then
 saying in order as a precondition to or as part of the
 motor carrier service of transporting or towing that
@@ -737,7 +708,6 @@ may impinge upon those things, Your Honor. But it
 doesn't affect the service of the motor carrier with
 respect to the transportation of the property because
 that's the movement of the property.
-Page 30
 Certainly getting paid is an important part
 of the service that anybody provides, but that is
 getting too attenuated, that's getting too far out.
@@ -763,7 +733,6 @@ what's causing the problem, "related to" and what does
 "related to" mean? And as has been pointed out, if you
 actually use "related to" to its extreme, everything is
 related to everything else. That has been said several
-Page 31
 times in the case law.
 But "related to" in Travelers, I believe in
 that case the Court looked at -- there was attention to
@@ -789,7 +758,6 @@ in a sense but I want the answer really from the
 Solicitor General who may know. But I'm going to ask it
 to you too because you've probably both thought about
 it. He may have -- they may have some experience on it.
-Page 32
 If you start talking about significant
 effect, without those last words, "deregulatory purpose"
 I suddenly worry about the following, that every city in
@@ -815,7 +783,6 @@ this case, it doesn't require a tow truck company to do
 anything.
 JUSTICE BREYER: No, you -- you can just
 rest on that, but I'm going to have -- or somebody's
-Page 33
 going to have to write an opinion. And we could just
 say that, but I -- I don't see I can -- my own problem
 is not being able to have an intelligent answer to that
@@ -841,7 +808,6 @@ says, if you park your car here for more than 3 hours,
 you will be towed, okay? And as part of that statute,
 though we don't see it, there is an arrangement for the
 service of the city with the tow truck company, which
-Page 34
 says when the parking person calls you and says -- the
 meter says red, yellow, purple, green, you are to go
 there and tow, okay?
@@ -867,7 +833,6 @@ But I don't believe that that's affecting
 the motor carrier service. There is nothing that forces
 that tow truck carrier to go out and actually undertake
 that tow. And if they do undertake the tow or do the
-Page 35
 business or whatnot, then certainly, they would be under
 whatever obligations that the State has.
 And that's one of the problems I think we
@@ -893,7 +858,6 @@ MR. SHAUGHNESSY: I think he did yesterday,
 too, Your Honor.
 JUSTICE SCALIA: Yeah, you're both from
 Boston, Massachusetts.
-Page 36
 JUSTICE BREYER: And they're -- they're very
 attractive places except in the winter.
 But a -- a motor carrier vehicle -- a
@@ -919,7 +883,6 @@ particular case. It gets easier to draw the line
 because of the with respect to transportation of
 property. So with respect to the FAAAA and motor
 carriers, we're drawing the line as to only the services
-Page 37
 of the movement of the property, and that is limiting.
 And I do -- I would agree with your dissent.
 JUSTICE SCALIA: Related to -- related to --
@@ -945,7 +908,6 @@ transportation of property" are words of limitation, and
 they are not present in the ADA, and they were not
 present with the ERISA cases, which deals with a broad
 regulatory scheme with long history and other things
-Page 38
 that apply.
 We don't have that in this case. I believe
 the New Hampshire Supreme Court got it right when they
@@ -971,7 +933,6 @@ within the meaning of Section 14501(c)(1) includes
 activities that are incidental and distinct from the
 actual transportation services."
 So the Petitioner's brief is calling the
-Page 39
 storage afterwards, after the transportation has
 stopped. And -- and they call it incidental and
 distinct.
@@ -997,7 +958,6 @@ SUPPORTING THE RESPONDENT
 MR. YELIN: Thank you, Mr. Chief Justice,
 and may it please the Court:
 Congress deregulated the trucking industry
-Page 40
 to eliminate undue interference with market forces and
 consumer choice. But market forces and consumer choice
 cannot operate on the sale of nonconsensually towed
@@ -1023,7 +983,6 @@ effect on Congress's deregulatory and preemptive
 objectives. I think --
 CHIEF JUSTICE ROBERTS: Well, it's -- I
 asked your friend on the other side the question.
-Page 41
 Storage is part of what tow trucks do. Maybe in a way
 that -- you know, cross-country trucks don't. And it
 seems to me if you have a local jurisdiction who figures
@@ -1049,7 +1008,6 @@ are reasons in the statutory text itself and in the
 statutory objectives for viewing service as
 independent -- excuse me, storage --
 JUSTICE SCALIA: Service where? Service
-Page 42
 where?
 MR. YELIN: I misspoke, Justice Scalia.
 Storage --
@@ -1075,7 +1033,6 @@ Mr. Shaughnessy a couple of hypotheticals about very
 onerous regulations involving storage after the towing
 that might very conceivably have an effect on the tower,
 drive up the tower's prices, conceivably even drive the
-Page 43
 tower out of the market. So how do we draw the line as
 between this and those kinds of things?
 MR. YELIN: So I have two points that I
@@ -1101,7 +1058,6 @@ look at the law and say the law is preempted or the law
 isn't preempted. Don't tell me -- you know, the purpose
 of the law is this or that. That's not something I am
 able to do.
-Page 44
 MR. YELIN: Your Honor, I think some of
 these preemption questions necessarily are factual in
 part in nature. The Court, to consider whether or not a
@@ -1127,7 +1083,6 @@ towing services. In the absence --
 CHIEF JUSTICE ROBERTS: Well, but I mean,
 maybe these, but you can easily imagine that these types
 of laws would be subject to abuse and would have an
-Page 45
 adverse impact on the towing company and, therefore, on
 the transportation of property.
 MR. YELIN: And if there were such abusive
@@ -1153,7 +1108,6 @@ MR. YELIN: Fair enough, Your Honor. My
 comment was too broad. What I would say is some laws
 will be obvious. Those that directly regulate towing
 industries, for example, a State law that flatly
-Page 46
 prohibits nonconsensual towing would be the type of
 direct regulation which is proscribed by this preemption
 clause.
@@ -1179,7 +1133,6 @@ first I would like to know, it seems my guess is it is
 universally thought by cities that this Act does not
 preempt their normal parking regulations. Am I right
 about that?
-Page 47
 MR. YELIN: You are right about that, Your
 Honor.
 JUSTICE BREYER: Okay. Then we either have
@@ -1205,7 +1158,6 @@ the motor carrier services.
 I would propose, Your Honor, that in this
 context, where the Department of Transportation would
 have no regulatory authority and where there is no
-Page 48
 private market that could fill the vacuum that would be
 created by the removal of State laws creating the
 structure for the private choices that are undertaken
@@ -1230,7 +1182,6 @@ MR. YELIN: Thank you, Mr. Chief Justice.
 Your Honor, the Consumer Protection Act
 claims that are asserted here are premised on Chapter
 2, which structures the background organization of the
-Page 49
 nonconsensual towing services altogether. There will be
 no treble damages if the substantive provisions were
 satisfied. If they are not, that would be a different
@@ -1256,7 +1207,6 @@ JUSTICE BREYER: Thank you.
 MR. BOUFFARD: And, Justice Kagan, the
 reason why this -- this case goes over the line and is
 preempted is because what the Plaintiff's damages claims
-Page 50
 in this case seek to do is they seek to enforce duties
 that go well beyond what even the New Hampshire
 abandoned vehicle law requires.
@@ -1282,7 +1232,6 @@ vehicle will be sold -- sold, and your client is
 invoking that statute in order to be able to sell the
 car, but wants to have enforced only the parts that are
 favorable to the tow operation. And the -- the regime
-Page 51
 in New Hampshire is, yes, you can sell the vehicle, but
 this is how you do it. And it seems to me that that's
 not how it was done here.
@@ -1308,7 +1257,6 @@ with the sweet.
 CHIEF JUSTICE ROBERTS: Please.
 MR. BOUFFARD: Well, I -- I think
 that the -- the New Hampshire law is the New Hampshire
-Page 52
 law, and what we have here is -- is a tow trucker that
 was just making a good faith -- a good faith attempt to
 comply with the law. And if -- if tow truckers that are

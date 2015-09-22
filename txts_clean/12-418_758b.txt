@@ -1,4 +1,3 @@
-Page 1
 IN THE SUPREME COURT OF THE UNITED STATES
 - - - - - - - - - - - - - - - - - x
 UNITED STATES, :
@@ -18,7 +17,6 @@ Petitioner.
 M. CAROLYN FUENTES, ESQ., Assistant Federal Public
 Defender, San Antonio, Texas; on behalf of
 Respondent.
-Page 2
 C O N T E N T S
 ORAL ARGUMENT OF PAGE
 MICHAEL R. DREEBEN, ESQ.
@@ -29,7 +27,6 @@ On behalf of the Respondent 25
 REBUTTAL ARGUMENT OF
 MICHAEL R. DREEBEN, ESQ.
 On behalf of the Petitioner 51
-Page 3
 P R O C E E D I N G S
 (10:15 a.m.)
 CHIEF JUSTICE ROBERTS: We'll hear argument
@@ -55,7 +52,6 @@ legislating retroactively with respect to civil remedies
 for past violations of Federal law. The Ex Post Facto
 Clause, the Due Process Clause, and Article I analysis
 under the Necessary and Proper Clause all provide some
-Page 4
 degree of protection against retroactive provisions, but
 no per se rule bars Congress from applying sex offender
 registration requirements, which this Court has held to
@@ -81,7 +77,6 @@ limits. If we --
 JUSTICE SOTOMAYOR: So what -- what is the
 limit? Is it just safety? It can't be just safety of
 the public because you just said that it doesn't apply
-Page 5
 to recidivist Federal offenders, generally.
 MR. DREEBEN: The -- the principal
 limitation on retroactive legislation is the Ex Post
@@ -107,7 +102,6 @@ issue.
 MR. DREEBEN: It is settled law, and that
 means that sex offender registration provisions aren't
 punitive. The question here is, are they within
-Page 6
 Article I. And the Court in United States v. Comstock
 went through an elaborate Necessary and Proper Clause
 analysis --
@@ -133,7 +127,6 @@ released. The basis for the statute in this case is not
 that the individual was in Federal custody. Federal
 custody is irrelevant to it. The basis for the statute
 in this case is that this is a sex offender in violation
-Page 7
 of Federal law, and Congress has the authority to
 impose, as was done in this case, criminal punishment,
 but it also has the authority to impose civil regulatory
@@ -159,7 +152,6 @@ that it is not in execution of a Federal power.
 MR. DREEBEN: Well, I think the whole point
 in this case is that it's retroactive because there
 isn't any serious dispute that if somebody commits a
-Page 8
 Federal sex offense they can be placed on supervised
 release for life so --
 JUSTICE SCALIA: That would be an execution
@@ -185,7 +177,6 @@ years later the Federal government decides, oh, it would
 be a good idea if people who have committed sex crimes
 are -- are subjected to these limitations. That's quite
 different from imposing that simultaneously as -- as a
-Page 9
 punishment for the crime. This is not a punishment for
 the crime, right?
 MR. DREEBEN: That's precisely --
@@ -211,7 +202,6 @@ sex crime while in the armed forces. And Congress's
 power to address that and to prescribe remedies for it
 both civil and criminal is entirely tied to the Federal
 nature of the offense.
-Page 10
 JUSTICE ALITO: Well, we start out with the
 power under the Constitution to make rules to regulate
 the military and we end up with a registration
@@ -237,7 +227,6 @@ unusual punishment limitations, due process limitations,
 et cetera, that individual can be incarcerated, placed
 on supervised release potentially up to life. A
 condition of supervised release, well-recognized and now
-Page 11
 mandated by Federal law, is that that individual
 register as a sex offender. And the reason that that is
 tied to Federal law is that when an individual violates
@@ -263,7 +252,6 @@ a very serious problem and that there are a lot of
 people who have escaped prosecution because of lax
 interest in pursuing those crimes. And after a period
 of years, it sets up a board of inquiry and it says this
-Page 12
 board of inquiry is going to look into sex offenses that
 were committed at the time that people were in the
 military, even if they're out of the military, and we're
@@ -289,7 +277,6 @@ And if Congress can do that in order to
 protect the integrity of the military and to promote
 confidence in the military, then it's a very small step,
 if any step at all, to SORNA.
-Page 13
 CHIEF JUSTICE ROBERTS: Yeah, but if they can
 do that. But that's not what they've done here. Your
 argument, as you told me a while ago, is linked to the
@@ -315,7 +302,6 @@ situation where I think at the time every State dealt
 with the issue of whether the sex offenders should have
 to register or not.
 MR. DREEBEN: That's correct. But Federal
-Page 14
 law did as well and Federal law provided encouragement.
 This is actually a primary example of partnership
 between State governments and the Federal government.
@@ -341,7 +327,6 @@ JUSTICE KENNEDY: The discussion so far has
 assumed, your discussion primarily, that there's this
 line between civil and criminal, we don't need to worry
 about ex post facto. Is that line made clear in our
-Page 15
 precedents or is there some room to argue that if the
 line is somewhat blurred that there may be ex post facto
 concerns here and that that in turn is a reason for
@@ -367,7 +352,6 @@ that it is not governed by the Ex Post Facto Clause.
 Now, that's not to say that an individual
 couldn't argue that SORNA is different or an individual
 couldn't argue that the Due Process Clause makes it
-Page 16
 either irrational or substantively off limits to impose
 this kind of civil remedy. The individual can also
 argue that running this through the Comstock factors,
@@ -393,7 +377,6 @@ Federal custody, they have no relationship with the
 State anymore. Whereas sex offender notification is far
 more accommodating of State interests.
 JUSTICE KAGAN: Mr. Dreeben --
-Page 17
 JUSTICE SCALIA: To -- to what does this
 civil -- civil-criminal line apply? Suppose instead of
 a registration requirement, Congress just decided, you
@@ -419,7 +402,6 @@ it civil.
 MR. DREEBEN: Well, it's not eliminated. It
 still is available for an individual to argue, as
 Respondent did in this case in the district court but
-Page 18
 abandoned long before he got to the court of appeals,
 that it violates due process, that it violates ex post
 facto.
@@ -445,7 +427,6 @@ CHIEF JUSTICE ROBERTS: Your argument
 based -- your argument based on Congress's authority
 with respect to the military, your Article I argument,
 and you say it doesn't make a difference that he's no
-Page 19
 longer in the military, does that -- do you come out
 differently if the basis for jurisdiction is asserted to
 be inter -- interstate commerce?
@@ -471,7 +452,6 @@ question, which is if you put aside that it's part of
 the punishment because you say it's not part of the
 punishment, you want us not to look at it as punishment
 because otherwise you'd run into the ex post facto
-Page 20
 problem, you're saying we have a need today. Outside of
 protecting the public from a recidivist, what's the
 interest? Because that wasn't enough in Comstock. We
@@ -497,7 +477,6 @@ civil penalties you want for as long as you want. We go
 back to my initial question and Justice --
 MR. DREEBEN: Justice Sotomayor, really, the
 answer to your question is the same. The answer to all
-Page 21
 of your questions is the same, which is that there is an
 analysis that the Court went through in Comstock where
 it took into consideration history, it took into
@@ -523,7 +502,6 @@ address the fact that people were engaging in criminal
 activities when in the military, they weren't -- they
 weren't found out, they weren't prosecuted. Later on
 they can go back.
-Page 22
 But then you say that the interest that's at
 issue here is preventing recidivism, and that doesn't
 seem to have anything to do with the integrity of the
@@ -549,7 +527,6 @@ Yes, I see a power to regulate the military, but your
 description, it has nothing to do with regulating the
 military. It has to do with protecting the -- the
 public at large from people who have committed Federal
-Page 23
 crimes, military or not.
 MR. DREEBEN: As the Court has pointed out
 numerous times, including in Comstock, there is very
@@ -575,7 +552,6 @@ me in answering some of these questions if you went
 through the analysis on the assumption that this was
 instead a Commerce Clause case. So take the military
 out of it, what would the necessary and proper analysis
-Page 24
 look like?
 MR. DREEBEN: It would look essentially the
 same, Justice Kagan. Somebody who violates a Federal
@@ -601,7 +577,6 @@ Comstock-type analysis of the Necessary and Proper
 Clause.
 JUSTICE GINSBURG: Mr. Dreeben, you say
 nothing about the -- what was the opening argument in --
-Page 25
 in your brief, that the assumption that SORNA is
 something new added after is wrong because there were
 these predecessor laws that established a Federal
@@ -627,7 +602,6 @@ MS. FUENTES: Yes. Mr. Chief Justice, and
 may it please the Court:
 The government asks this Court to go beyond
 its holding in United States v. Comstock to allow the
-Page 26
 Federal government to reach back, after a Federal
 sentence has expired, to bring back into Federal control
 a person who has returned to the authority of the State.
@@ -653,7 +627,6 @@ MS. FUENTES: In this case, on these facts,
 and based on the Federal statutes that exist today, the
 answer is yes. And the illustration, I think, is the
 way that SORNA works today. As the government
-Page 27
 mentioned --
 JUSTICE SOTOMAYOR: Well, SORNA today
 becomes part of the supervised relief terms.
@@ -679,7 +652,6 @@ JUSTICE SOTOMAYOR: All right. So that
 power -- I guess then what the government is saying, as
 I understand their argument, if you have the power to do
 it at that point, why can't you have the power to do it
-Page 28
 later?
 MS. FUENTES: Well --
 JUSTICE SOTOMAYOR: Are the same factors
@@ -705,7 +677,6 @@ constitutional power. So if we start out with the
 example of registration for life being imposed as part
 of supervised release, part of the criminal sentence,
 then we go to an example where it is not part of the
-Page 29
 criminal sentence, but it is a civil requirement
 triggered by a separate civil proceeding for every
 Federal -- every person convicted of a sex offense under
@@ -731,7 +702,6 @@ Military Justice. That does not, in your judgment, fall
 within Article I?
 MS. FUENTES: It does if the person is still
 in the military or if he has been -- or if he has
-Page 30
 committed a criminal offense and the prosecutorial
 power, the Federal power to prosecute him for that
 offense, has not been exhausted, yes, that can be done.
@@ -757,7 +727,6 @@ violation of due process part, the equal protection
 part, take that aside. Now I've got to just think about
 whether it has, Congress has the power under the
 provision that Justice Alito said. I'm trying to do
-Page 31
 that, and I've dissented in other cases on other
 grounds.
 All right. But in -- in just trying to do
@@ -783,7 +752,6 @@ We turned you loose and there you are, and we want, as
 part of our military regulation, to be able to tell
 authorities about you and to make you register according
 to State law.
-Page 32
 Now, no due process problem, I have to
 assume that away. No punishment, bad punishment
 problem, none of those. But it's a power, all right?
@@ -809,7 +777,6 @@ what I'm worried about is following this distinction
 into other areas.
 MS. FUENTES: I don't think that is a
 problem, and I think the reason is I disagree
-Page 33
 fundamentally with the government. I think necessary
 and proper analysis is important in each case and it
 does bear similarities in each case. But depending on
@@ -835,7 +802,6 @@ offense involving a 15-year-old girl who lived off the
 base.
 So in order to ensure that there -- we don't
 have excessive civilian opposition to the location of
-Page 34
 military bases, we are going to do a number of things.
 One thing is we're going to criminally prosecute members
 of the military who commit these offenses. This will
@@ -861,7 +827,6 @@ around the military installation. This requires him to
 register anywhere, you know, in the -- in the wilds of
 Alaska where -- it's just not this case.
 And even -- even if you would allow that,
-Page 35
 and say it is a reasonable -- it has a reasonable
 connection to the power to regulate the military, to say
 wherever he goes he has to register is -- is a different
@@ -887,7 +852,6 @@ assume the need. The difference is the restriction on
 the individual. And it's that part that I'm suddenly
 worried about the Commerce Clause and every power in
 Article I being read with exceptions in the civil rights
-Page 36
 area even though we have the amendments to protect the
 civil rights problems.
 MS. FUENTES: I haven't thought of it that
@@ -913,7 +877,6 @@ that is just incorrect. I -- I have to disagree with
 that. And I have to disagree with it because the --
 everything the Fifth Circuit said was limited by these
 facts.
-Page 37
 These facts are what controls the case. And
 the Fifth Circuit took great care to make a very narrow
 ruling. And that ruling, the Fifth Circuit said, is
@@ -939,7 +902,6 @@ Federal interests change, whether it's the day before he
 gets out of supervised release or the day after he gets
 out of supervised release. What in the Federal
 interests shift based on that?
-Page 38
 MS. FUENTES: I'll answer that question
 first, then come back to another.
 It's not a question, I don't think, of
@@ -965,7 +927,6 @@ JUSTICE KAGAN: In both cases, he's not in
 the military anymore.
 MS. FUENTES: Constitutionally, it -- it can
 be all right constitutionally, depending on the
-Page 39
 statutory procedures that govern it. And the way that
 the Federal law operates now, the statutes that I
 mentioned, 3583 and 3553, the way those statutes --
@@ -991,7 +952,6 @@ JUSTICE ALITO: Someone is sentenced to
 prison --
 MS. FUENTES: Right.
 JUSTICE ALITO: -- under the UCMJ, released,
-Page 40
 dishonorably discharged from the military. Can Congress
 say the person has to remain on supervised release for a
 longer period of time after he is returned to civilian
@@ -1017,7 +977,6 @@ the Constitution which may last longer than others, and
 the example I raised before was the rule of making
 uniform naturalization. That's a broader power, I
 think, than the military power.
-Page 41
 And we see that in the cases the
 government's mentioned and we've mentioned, the Toth
 case and the Kinsella case.
@@ -1043,7 +1002,6 @@ Breyer was concerned about, constricting the Commerce
 Clause, which has been since Madison more broadly
 defined than he did, or Justice Alito's example of
 ensuring that you're not closing off other things that
-Page 42
 can be done after someone leaves, that might be related
 to, like punishing a crime that you find out about
 afterwards. How would you write this opinion?
@@ -1069,7 +1027,6 @@ CHIEF JUSTICE ROBERTS: Well, how -- I'm not
 sure that makes much sense. You're saying if they're
 relying on the enumerated power with respect to the
 military, they can do more than if they're relying on
-Page 43
 the enumerated power over interstate commerce?
 MS. FUENTES: No. And if that's your
 understanding --
@@ -1095,7 +1052,6 @@ do business. If it's dealing with an insured bank, then
 it can impose that civil consequence. And it can do
 it -- I don't want to use the word "independently" of.
 They may do it by reason of the criminal conviction, but
-Page 44
 there is an independent power to do it.
 That power doesn't exist here, and so it
 would have to be --
@@ -1121,7 +1077,6 @@ MS. FUENTES: I think it all -- I think it
 does turn on the nature of the power. I mean, could you
 use the military power to say you, Mr. Bank Fraud
 Client, cannot contract with the government any more?
-Page 45
 CHIEF JUSTICE ROBERTS: I get to ask the
 questions. You don't.
 (Laughter.)
@@ -1146,7 +1101,6 @@ They say, after all, the means here is, notify them when
 we're -- you're moving around. And therefore, is it
 forbidden?
 Well, we're not supposed to consider that
-Page 46
 part, but -- so leave that out. But the -- the others,
 they say is okay. So that's the basic.
 Do you think maybe we should send this back
@@ -1172,7 +1126,6 @@ go into those, if you want, if you'd like.
 JUSTICE BREYER: I just want to know what to
 do if I end up thinking they are right.
 MS. FUENTES: Yes. They are --
-Page 47
 JUSTICE BREYER: What's your recommendation
 there on that assumption? I'm not saying I would, but
 I'm just saying on that assumption.
@@ -1198,7 +1151,6 @@ condition of that release, under 3583, that he comply
 with sex offender registration requirements. What
 happens if he doesn't comply?
 He can go back to prison on the original
-Page 48
 conviction because he was released on condition that he
 comply with Federal sex offender requirements. It just
 goes to -- to the judge. It's by preponderance of the
@@ -1224,7 +1176,6 @@ requirement. It is a penalty, not a registration
 requirement.
 The State imposed a registration
 requirement. Wetterling did not.
-Page 49
 And if you'd just read -- and I think that's
 what the Fifth Circuit did. They just read the statute,
 072(i)(3) and (i)(4). It doesn't say a person who is
@@ -1250,7 +1201,6 @@ MS. FUENTES: I guess I don't. And the
 reason is it's not the degree of power exerted, it's
 whether the power exists. And once Mr. Kebodeaux
 completed his Federal sentence, the military power,
-Page 50
 which permitted him to be prosecuted and punished, had
 expired.
 And so in some ways it's like there's
@@ -1276,7 +1226,6 @@ In the Sixth, Ninth and Third Circuits, he
 could not be prosecuted under SORNA, and so that is an
 alternative basis that I think the Court can decide this
 case on.
-Page 51
 And if there are no other questions, I will
 cede the rest of my time.
 CHIEF JUSTICE ROBERTS: Thank you, counsel.
@@ -1302,7 +1251,6 @@ JUSTICE SCALIA: But that's not unusual.
 When you're released from the military, for example,
 you're no longer subject to -- to Congress's
 jurisdiction over the military. That's a matter of
-Page 52
 timing too, isn't it?
 MR. DREEBEN: Well, that's just wrong,
 Justice Scalia, because this Court made clear in United
@@ -1328,7 +1276,6 @@ be due process or other concerns out there, it comes
 down to whether Congress has Article I authority to
 say --
 CHIEF JUSTICE ROBERTS: And that's not
-Page 53
 limited. You've limited it to sex offenses, but the --
 Congress could say it's important to us that people who
 serve in the military behave correctly even after
@@ -1354,7 +1301,6 @@ contemplate this longstanding, continuous jurisdiction,
 that's a feature of Federal law that the Court ought to
 keep in mind in the way that it writes this opinion.
 But, second, if Congress passed such a law,
-Page 54
 it's not that it has carte blanche to do that, it's just
 that there's no per se rule that says it can't. The
 Court would --
@@ -1380,5 +1326,4 @@ tied to the nature of that crime.
 CHIEF JUSTICE ROBERTS: Thank you, counsel,
 counsel.
 The case is submitted.
-Page 55
 (Whereupon, at 11:14 a.m., the case in the

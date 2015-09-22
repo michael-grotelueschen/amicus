@@ -1,4 +1,3 @@
-Page 1
 IN THE SUPREME COURT OF THE UNITED STATES
 - - - - - - - - - - - - - - - - - x
 KATHLEEN SEBELIUS, SECRETARY OF :
@@ -18,7 +17,6 @@ General, Department of Justice, Washington, D.C.; on
 behalf of Petitioner.
 ROBERT T. FISHMAN, ESQ., Denver, Colorado; on behalf of
 Respondent.
-Page 2
 C O N T E N T S
 ORAL ARGUMENT OF PAGE
 BENJAMIN J. HORWICH, ESQ.
@@ -29,7 +27,6 @@ On behalf of the Respondent 26
 REBUTTAL ARGUMENT OF
 BENJAMIN J. HORWICH, ESQ.
 On behalf of the Petitioner 48
-Page 3
 P R O C E E D I N G S
 (10:14 a.m.)
 CHIEF JUSTICE ROBERTS: We'll hear argument
@@ -55,7 +52,6 @@ Now, that provision, like most limitations
 provisions, doesn't itself actually say what the
 consequences of the failure to comply with the provision
 are. And in some sense, just as in the -- the civil
-Page 4
 context, it's not as if the Special Master, upon finding
 the limitations provision hasn't been complied with, can
 go back in time and prevent the petition from being
@@ -81,7 +77,6 @@ a notice in the Federal Register, those both refer to
 any petition filed. And so in those sections at least,
 petition filed would include petition filed after the
 running of the statute of limitations.
-Page 5
 MR. HORWICH: Well, those provisions
 would -- those provisions by their terms apply at points
 in the proceedings where we would entirely
@@ -107,7 +102,6 @@ it has very recently come to my office's attention that
 the Department of Health and Human Services has not been
 complying with that provision for the last few years,
 and they are taking steps to bring themselves in --
-Page 6
 JUSTICE GINSBURG: So they don't file
 anything in the Federal Register?
 MR. HORWICH: Well, it -- they -- they have
@@ -133,7 +127,6 @@ would -- just as you would describe in a civil context,
 you would certainly say that an action that ultimately
 proves to be held untimely was nonetheless commenced
 if -- for example, if you imagine a statute of
-Page 7
 limitations that says no action may be commenced, you
 wouldn't say the action hadn't been commenced at the
 time it was pending. And -- and that's not the argument
@@ -159,7 +152,6 @@ because it's the Special Masters and the court that do,
 but the reports that I have seen, my understanding is
 that the report of the Special Master is delivered
 orally to the judges, and so I don't actually know what
-Page 8
 the contents of that are. And the report that -- and
 the report that the Court of Federal Claims sends to
 Congress is a statistical report of all -- actually, of
@@ -185,7 +177,6 @@ Act so much as it means it -- it is to be applied with
 the understand -- it is to be applied as the -- as a
 fair stand at the time the provision is applied.
 JUSTICE KENNEDY: Well, I meant -- I meant
-Page 9
 that just to supplement Justice Kagan's question. I
 didn't mean to cut it off.
 MR. HORWICH: Well, let me -- let me focus
@@ -211,7 +202,6 @@ where there's a judgment, and you've determined that
 this petition was forbidden from being filed, in the
 sense that the limitations provision forbids it, then
 you should visit the consequences there.
-Page 10
 JUSTICE SOTOMAYOR: That sounds like a
 jurisdictional argument to me. But I understand the
 government to be conceding that this statute of
@@ -237,7 +227,6 @@ sure I heard you right. You said if it sounds
 jurisdictional, we should say it is, and you win.
 MR. HORWICH: Well, what I was saying --
 what I was saying in response to Justice Sotomayor's
-Page 11
 question is that if -- if it seems that that argument
 compels you to believe that it's jurisdictional, then
 the Court should reach the conclusion that it's
@@ -263,7 +252,6 @@ the award of fees?
 MR. HORWICH: Well, it seems to -- there is
 not anything in the compensation provision that says
 that it's an affirmative defense any more than -- in any
-Page 12
 way that's more explicit than what we're relying on to
 say that it's an affirmative defense to attorneys' fees.
 It's not as if Congress said there -- in another section
@@ -289,7 +277,6 @@ appropriate disposition of a case that is held to be
 untimely is that there is a judgment denying
 compensation. And the reasons for that have to do with
 something that's not really briefed, but the operation
-Page 13
 of the appellate provisions of the Act --
 JUSTICE SCALIA: Wait, so --
 MR. HORWICH: -- become confusing if you
@@ -315,7 +302,6 @@ that --
 JUSTICE SCALIA: That petition means --
 means a petition properly filed, but I don't see that
 the -- that the statutory scheme, the provision that's
-Page 14
 at issue here, the provision for the award of attorneys'
 fees looks to the end of the case and not to the
 beginning. It looks to the judgment. And if it's a
@@ -341,7 +327,6 @@ waived sovereign immunity. It's absolutely clear that
 there's a waiver of sovereign immunity here.
 MR. HORWICH: It's clear that there's a
 waiver, but it's --
-Page 15
 JUSTICE SCALIA: And once we find that, I
 don't think we nitpick the following language to
 unrealistically narrow it as much as possible. I mean,
@@ -367,7 +352,6 @@ text a little bit, is this understanding that you have
 of what it means to be filed, does it have any
 consequences other than with respect to attorneys' fees,
 or is that the only thing that -- that depends on
-Page 16
 viewing the word "filed" in this way?
 MR. HORWICH: Well, I think viewing the word
 "filed" in this way also explains mechanically why the
@@ -393,7 +377,6 @@ through it in the statute itself.
 JUSTICE SOTOMAYOR: Could you -- could you
 go back and talk to me again about what you mean about
 not having a record?
-Page 17
 MR. HORWICH: Sure. So Section 13 of the
 Act, which starts on page 19A of the government's brief
 says that compensation is awarded "if the Special Master
@@ -419,7 +402,6 @@ limitation -- when it's determined that the limitations
 provision applies and should have prevented the filing
 of the petition, and the Special Master has to decide,
 well, what are the consequences of that. Because,
-Page 18
 again, the Special Master can't go back and actually
 prevent the whole thing from having happened, but the
 Special Master can say, well, if this direct -- if this
@@ -445,7 +427,6 @@ could be a factual dispute. And in that situation as
 well, the claimant does not prevail on the statute of
 limitations argument, but there was a reasonable basis
 for thinking that the petition was submitted within the
-Page 19
 period after the -- the onset of this significant
 aggravation.
 Why would Congress want to draw a line
@@ -471,7 +452,6 @@ evidence, the expert testimony, the review of
 literature, the different theories of causation, and
 getting to the end, and obviously, if the decision is that
 compensation is to be awarded, then attorneys' fees
-Page 20
 follow as a matter of right, but if compensation is
 denied, the Special Master can and typically does add,
 literally as an afterthought, that -- but having been
@@ -497,7 +477,6 @@ could you -- there seems to be a confusion in this
 consequence conversation. You seem to be assuming that
 the attorneys' fee award on good faith basis has to do
 with the ultimate merits, did the vaccine cause this
-Page 21
 injury? I would have assumed that the award of
 attorneys' fees has to do with whether the petition was
 brought in good faith; i.e., was there a reasonable
@@ -523,7 +502,6 @@ The question isn't was there a reasonable basis to
 believe it was timely, the question is -- and -- and I
 think my friend agrees with me on this --
 JUSTICE SOTOMAYOR: Now, I understand.
-Page 22
 JUSTICE BREYER: But now, look, still, the
 worst thing, the obvious question -- I mean, as a
 textual matter, but I don't know how you reconcile your
@@ -549,7 +527,6 @@ his client has a good claim, a plausible one. Now, if
 the government wants to say, we want to present some
 evidence, let them do it. And if they don't, the worst
 that happens is this person who thought she had a good
-Page 23
 claim, and who was reasonable in her timeliness will get
 some attorneys' fees paid.
 Why is that -- why is that so terrible? Why
@@ -575,7 +552,6 @@ Congress doesn't want attorneys' fees to be a second
 major litigation. So it seems exceedingly odd to think
 it would have set up a scheme in which the case would
 end on the merits and yet, the question on which
-Page 24
 attorneys' fees are to be decided -- the availability of
 attorneys' fees is to be decided is going to require
 some further proceedings that have not --
@@ -601,7 +577,6 @@ the example I was giving in response to the -- the
 second part of Justice Alito's dichotomy in that Smith
 case. So the timeliness question the Special Master
 resolved was, okay, was it the blood glucose reading
-Page 25
 that was within the limitations period that was the
 first symptom or was it the excessive thirst and
 frequent urination that fell outside the limitations
@@ -627,7 +602,6 @@ assuming that it's even in the petition, which is not
 always the case. We'd be asking the Special Master to
 spend -- spend her time evaluating that material in a
 proceeding that can't result in compensation to any
-Page 26
 injured person, which is, of course, the point of the
 program, instead of spending her time on -- on other
 petitions, and it's that diversion of resources that's
@@ -653,7 +627,6 @@ filing provisions of Section 11, which are Section
 (a)(1) similarly say nothing about compliance with the
 statute of limitations. Our position, therefore, is the
 most direct and sensible reading of 15(e)(1), is you can
-Page 27
 get an award of fees on a petition that has been denied
 regardless of the reason why, and there is no textual
 basis for saying that that provision carves out an
@@ -679,7 +652,6 @@ limitations was going to run.
 You ran to the courthouse and filed. You
 had a basis, we believe, for filing your claim. Further
 investigation, examination of the medical -- medical
-Page 28
 records made you question that judgment, and you
 abandoned the case. And -- and there can be fee awards
 in -- in that scenario.
@@ -705,7 +677,6 @@ hypothetical would be by the attorney's own account,
 clearly time barred without justification.
 JUSTICE GINSBURG: So are you saying that
 the good faith and the reasonableness go to two things:
-Page 29
 One, the claim on the merits, and also the timeliness.
 MR. FISHMAN: That is what we're saying.
 That's also what the Federal circuit said. I think the
@@ -731,7 +702,6 @@ MR. FISHMAN: They are accumulated -- the
 system that's established is one of front-loading.
 You -- 11(c) requires an enormous amount of medical
 documentation that is to be filed with the petition when
-Page 30
 it's filed. If they are incomplete, you're required to
 submit an affidavit explaining what's missing and why.
 The very first thing substantively that
@@ -757,7 +727,6 @@ cases get litigated and the areas of contention get
 refined. Additional information can also be submitted,
 but it is front loaded.
 JUSTICE SOTOMAYOR: So is your bottom line
-Page 31
 that the record is already there for the shadow
 determination?
 MR. FISHMAN: Sure. And that's the reason
@@ -783,7 +752,6 @@ mini-trial in order to figure out fees and that's a bad
 use of everybody's time, so I'm not going to grant
 attorneys' fees here? In other words -- you know, this
 is a "may" provision; would it be a sufficient reason
-Page 32
 that this is just going to take too long, it's too
 involved, so I'm going to deny attorneys' fees in this
 case?
@@ -809,7 +777,6 @@ Justice Kagan's hypothetical proposes. I'm just saying,
 I can't stand here and give you a hard and fast rule
 that says that will never be appropriate.
 Maybe if that case comes before a court and
-Page 33
 a Special Master has done that, the argument will be
 it's an abuse of discretion.
 CHIEF JUSTICE ROBERTS: I thought you
@@ -835,7 +802,6 @@ JUSTICE GINSBURG: Well, let's take -- let's
 take this case. What would you put in to show that you
 have been reasonable, in good faith and reasonable, one,
 as to the claim; and two, as to the attorneys' fees?
-Page 34
 What -- what would the Special Master have to look at to
 make those determinations in this case?
 MR. FISHMAN: I will take the second part
@@ -861,7 +827,6 @@ affidavits that were filed subsequently. And I think
 that is all you would need to look at, and -- that is
 the only thing in the record. Because the government
 has introduced no evidence in this case at any stage
-Page 35
 contesting the merits of our underlying claim.
 JUSTICE SOTOMAYOR: They are arguing that
 they don't need to, and why should be -- why should they
@@ -887,7 +852,6 @@ to award fees on petitions that have been denied. And
 as we point out in our brief, petitions are routinely
 denied on procedural grounds where there has been no
 examination of the underlying merits, just as the
-Page 36
 government contends is the case with statute of
 limitations.
 We disagree with that. We think actually to
@@ -913,7 +877,6 @@ Are those things that -- I mean, should that
 be considered under the rubric of equitable tolling, or
 under -- under your idea that you don't have to file on
 time anyway?
-Page 37
 MR. FISHMAN: The -- the -- I think that the
 best answer to that question is to look at the Federal
 Circuit -- Circuit's en banc ruling in Cloer I. We
@@ -939,7 +902,6 @@ because the Federal Circuit made clear in Cloer I that
 fraud and duress are the grounds for equitable tolling.
 So I think if you are going to bring a claim that you
 know is late and your only excuse is a snowstorm, you
-Page 38
 have to look at Cloer I and think, I don't have a very
 strong or maybe any equitable tolling argument.
 JUSTICE KENNEDY: It does seem to me, I did
@@ -965,7 +927,6 @@ JUSTICE KAGAN: Mr. Fishman, this may be a
 hard question for you to answer, but is your sense of
 why it is that petitions are untimely filed that they
 usually have to do with things like -- you know,
-Page 39
 snowstorms and lawyer error, or that they usually have
 to do with questions about the manifestation of
 symptoms?
@@ -991,7 +952,6 @@ fund out of which the -- the claims and the attorneys'
 fees are paid has a positive balance of $3.5 billion.
 Maybe the only government fund that has a positive
 balance, but --
-Page 40
 (Laughter.)
 JUSTICE ALITO: Is this going to bankrupt
 the -- the system?
@@ -1017,7 +977,6 @@ is going to result in a flood of frivolous litigation.
 I think that's just not supported because of the
 requirements you'd have to establish.
 I think there's also no reason to think that
-Page 41
 that will be the case empirically, and I say that for
 this reason: The -- the program for 25 years has
 authorized the payment of fees to losers. It has paid
@@ -1043,7 +1002,6 @@ that a petition has, quote, "been filed under Section
 The question that -- that you raised,
 Justice Kagan, is there any other situation where this
 reading results in a petition that has been filed. The
-Page 42
 answer is yes, the government argues that a petition
 filed under Section 11, even if it's untimely, is
 sufficient to commence proceedings and confer
@@ -1069,7 +1027,6 @@ Those lawyers now come before the Special
 Master and seek fees in those cases, and the Secretary
 is arguing no fees because these are time-barred. And
 in that case, you are going to have a judgment, by the
-Page 43
 government's account, entered on the merits and then
 they're going to come back and defend a fee award
 saying, there is no judgment because there's never been
@@ -1095,7 +1052,6 @@ it's a terrible -- it's a terrible, outrageous thing for
 the government to do, to win the case and get -- get
 stare decisis effect, and then to say you can't get
 lawyers' fees because there's never been a case, right?
-Page 44
 MR. FISHMAN: Right. I mean, I think
 that -- yes, and I think that, in terms of authority,
 power, I think that --
@@ -1121,7 +1077,6 @@ and there can be all sorts of rulings, but as soon as
 the Special Master enters a ruling on timeliness, the
 phrase is they're bound to, quote, "refuse to recognize"
 that it has ever been filed.
-Page 45
 They could have established that -- Congress
 could have established that legal fiction. It could
 have said no petition shall be deemed to be filed if it
@@ -1147,7 +1102,6 @@ MR. FISHMAN: Inadequate records is one
 reason. Sometimes, a petitioner dies, and their family
 or estate does not want to pursue this, so it's
 abandoned. There's cases where there's just a failure
-Page 46
 to prosecute, it's not clear why; the lawyers lost touch
 with a client or I don't know the reason why, it's just
 a failure to prosecute.
@@ -1173,7 +1127,6 @@ Masters are resolving the challenges that the Secretary
 made, and they are doing it without a hearing.
 There also is this argument about -- I think
 we've already gone over the fact that a statute of
-Page 47
 limitations determination is not identical to a
 causation determination. The additional argument that
 the Secretary made in their brief is that, unlike many
@@ -1199,7 +1152,6 @@ Denver are as opposed to the rates in New York or Los
 Angeles --
 JUSTICE SOTOMAYOR: I know that civil rights
 rates, for example, are far below market rates for most
-Page 48
 law firms. Is that the same for this, or is it market
 rates generally?
 MR. FISHMAN: Right. I think it's less.
@@ -1225,7 +1177,6 @@ important --
 JUSTICE SOTOMAYOR: Do you have some
 evidence -- numbers -- to tell us how complicated the
 fee award disputes are generally -- putting aside
-Page 49
 because it hasn't until recently been an issue for cases
 dismissed -- but for other cases, particularly those
 dismissed on -- other procedural grounds.
@@ -1251,7 +1202,6 @@ And -- and so I think the Court needs to
 keep in mind that, for example, when my friend says
 there's -- the government doesn't cite a case where
 there's been any shadow trial, the reason is because
-Page 50
 there haven't been fees available on untimely petitions,
 which is exactly the set-up that would cause you to have
 a shadow trial.
@@ -1277,7 +1227,6 @@ Of course the record is complete because the case has
 been decided on the merits. And that's the paradigm
 situation under which the program has been operated.
 What we are talking about here is entering
-Page 51
 this unchartered territory, where -- where the program
 has not been before, and where you wouldn't think
 Congress would want to send it. And this is our central
@@ -1303,7 +1252,6 @@ Congress would have wanted attorneys' fees.
 Or is it --
 MR. HORWICH: Well, in the case of --
 JUSTICE BREYER: -- do you think in some but
-Page 52
 not others?
 MR. HORWICH: Well, no. In the case where
 the claimant dies, the statute has provisions for that,
@@ -1329,6 +1277,5 @@ finding of reasonable basis. I think that is an
 unexceptional result.
 Thank you.
 CHIEF JUSTICE ROBERTS: Thank you, counsel.
-Page 53
 The case is submitted.
 (Whereupon, at 11:12 a.m., the case in the
