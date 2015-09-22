@@ -35,9 +35,33 @@ def convert_pdfs_to_dirty_text_files():
         tika_command = "java -jar ../tika-app-1.10.jar --text " #[input file]
         tika_command += '%s%s ' % ('pdfs/', input_filename)
         tika_command += '> %s' % output_filename
-        os.system(tika_command)    
+        os.system(tika_command)
+
+def clean_text_files():
+    #input_filenames = os.listdir('txts_dirty/')
+    input_filenames = ['02-1472.txt']
+
+    for input_filename in input_filenames:
+        print input_filename
+        print
+        lines = strip_lines('txts_dirty/' + input_filename)
+
+        output_filename = 'txts_clean/' + input_filename
+        print output_filename
+        with open(output_filename, 'w') as f:
+            for line in lines:
+                f.write(line + '\n')
 
 def strip_lines(filename=None):
+    space_byte = '\xc2\xa0'
+    hyphen_byte = '\xc2\xad'
+    t1 = 'Official'
+    t2 = 'Alderson Reporting Company'
+    t3 = '1111 14th Street'
+    t4 = 'Suite 400 Washington'
+    t5 = 'DC 20005'
+    t6 = '1-800-FOR-DEPO'
+    
     lines = []
     with open(filename) as f:
         reached_end = False
@@ -46,15 +70,18 @@ def strip_lines(filename=None):
             # remove: unicode byte: '\xc2\xa0' == ' '
             #         unicode byte: '\xc2\xad' == '-'
             #         leading and trailing whitespace
-            #         'Official'
-            #         'Alderson Reporting Company'
-            #         '1111 14th Street NW, Suite 400 Washington, DC 20005'
-            line = line.replace('\xc2\xa0', ' ')
-            line = line.replace('\xc2\xad', '-')
+            line = line.replace(space_byte, ' ')
+            line = line.replace(hyphen_byte, '-')
             line = line.strip()
-            line = line.replace('Official', '')
-            line = line.replace('Alderson Reporting Company', '')
-            line = line.replace('1111 14th Street NW, Suite 400 Washington, DC 20005', '')
+
+            # remove all traces of the Alderson Reporting Company
+            if t1 in line or \
+               t2 in line or \
+               t3 in line or \
+               t4 in line or \
+               t5 in line or \
+               t6 in line:
+                line = ''
 
             # ignore lines that are too short to be meaningful
             # remove leading digits
@@ -73,10 +100,8 @@ def strip_lines(filename=None):
             # (Before we have reached the appendix.)
             if 'The case is submitted.' in line:
                 reached_end = True
-                print 'REACHED END'
     return lines
 
 
 if __name__ == "__main__":
-    filename = '13-7120_hd1a.txt'
-    #lines = strip_lines(filename)
+    clean_text_files()
