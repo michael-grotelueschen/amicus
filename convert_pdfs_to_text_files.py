@@ -30,6 +30,7 @@ def clean_text_files():
 def strip_lines(filename=None):
     """Clean up dirty txt file:
 
+    0) delete lines that denote Page numbers
     1) replace all unicode byte strings with regular strings
     2) delete all empty lines or lines only containing newlines
     3) delete all line numbers and page numbers
@@ -56,6 +57,10 @@ def strip_lines(filename=None):
         reached_end = False
         while not reached_end:
             line = f.readline()
+            # delete lines that denote Page numbers
+            line = line.strip()
+            if line.startswith('Page'):
+                line = ''
             # remove: unicode byte: '\xc2\xa0' == ' '
             #         unicode byte: '\xc2\xad' == '-'
             #         leading and trailing whitespace
