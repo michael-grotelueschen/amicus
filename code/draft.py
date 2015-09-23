@@ -45,14 +45,11 @@ def get_speaker_names():
                           'appellee',\
                           'defendant']
 
-    output1 = ''
-    output2 = ''
-    output3 = ''
+    ok_cases = set([])
     problem_cases = set([])
 
-    for filename in os.listdir('txts_clean/'):
-        full_filename = 'txts_clean/' + filename
-
+    for filename in os.listdir('../txts_clean/'):
+        full_filename = '../txts_clean/' + filename
         with open(full_filename) as f:
             match = reg.search(f.read())
 
@@ -64,37 +61,24 @@ def get_speaker_names():
 
             speakers = speakers_string.split('.\n')
             # Find speakers whose status is ambiguous
+            ambiguity_found = False
             for speaker in speakers:
                 found_petitioner = any(s in speaker.lower() for s in petitioner_strings)
                 found_respondent = any(s in speaker.lower() for s in respondent_strings)
                 found_neither = 'neither' in speaker.lower()
 
-                if not found_petitioner and not found_respondent and not found_neither:
-                    problem_cases.add(filename)
-                    output1 += filename + ' : ' + speaker.replace('\n', ' ') + '\n'
-                
-                if found_petitioner and found_respondent and not found_neither:
-                    problem_cases.add(filename)
-                    output2 += filename + ' : ' + speaker.replace('\n', ' ') + '\n'
+                if (not found_petitioner and not found_respondent and not found_neither) or \
+                   (found_petitioner and found_respondent and not found_neither):
+                    ambiguity_found = True
 
-                if found_neither:
-                    output3 += filename + ' : ' + speaker.replace('\n', ' ') + '\n'
+            if ambiguity_found:
+                problem_cases.add(filename)
+            else:
+                ok_cases.add(filename)
 
-    with open('problem_speakers_1', 'w') as f:
-        f.write('THESE SPEAKERS ARE NEITHER PETITIONERS NOR RESPONDENTS\n\n')
-        f.write(output1)
-
-    with open('problem_speakers_2', 'w') as f:
-        f.write('THESE SPEAKERS ARE BOTH PETITIONERS AND RESPONDENTS\n\n')
-        f.write(output2)
-
-    with open('problem_speakers_3', 'w') as f:
-        f.write('THESE SPEAKERS ARE AMICUS CURIAE THAT EXPLICITY ARE NEITHER PETITIONS NOR RESPONDENTS\n\n')
-        f.write(output3)
-
-    with open('problem_cases', 'w') as f:
-        f.write('THESE CASES HAVE AT LEAST ONE SPEAKER THAT IS DIFFICULT TO ASSIGN\n\n')
-        f.write('\n'.join(problem_cases))
+    with open('../debug_files/ok_cases', 'w') as f:
+        f.write('THESE CASES HAVE NO SPEAKERS THAT ARE DIFFICULT TO ASSIGN\n\n')
+        f.write('\n'.join(ok_cases))
 
 if __name__ == '__main__':
     get_speaker_names()
