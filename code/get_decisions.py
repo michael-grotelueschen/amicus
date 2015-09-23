@@ -9,30 +9,34 @@ def get_dockets():
         dockets = [line.split('.')[0] for line in f if '.txt' in line]
     return dockets
 
-def get_dockets_and_decisions():
+def get_decisions():
     """Get the decisions for all of the dockets.
     Return a dictionary with dockets as keys and decicions as values.
     The decicions are either 1 (petitioner won) or 0 (respondent won).
     """
     dockets = get_dockets()
+
+    # Use SCDB_2015_01_caseCentered_Citation.csv
+    # Docket column is: 'docket'
+    # Decision column is: 'partyWinning'
+    # 'partyWinning' = 1: petitioner won
+    # 'partyWinning' = 0: respondent won
     df = pd.read_csv('../scdb/SCDB_2015_01_caseCentered_Citation.csv')    
 
-    dockets_and_decisions = {}
+    decisions = {}
     for docket in dockets:
         decision = df[df['docket'] == docket]['partyWinning'].values[0]
-        dockets_and_decisions[docket] = decision
-    return dockets_and_decisions
+        decisions[docket] = decision
+    return decisions
 
 def get_speaker_names(filename):
     """Get full speaker names for both petitioners and respondents."""
     petitioner_strings = ['petitioner',\
                           'appellant',\
                           'plaintiff']
-
     respondent_strings = ['respondent',\
                           'appellee',\
                           'defendant']
-
     # The second 'start' condition is for case 10-7387,
     # which does not include the word 'APPEARANCES'
     reg = re.compile(r"""(?P<start>APPEARANCES:\n|
@@ -42,8 +46,8 @@ def get_speaker_names(filename):
                                  \nC\sO\sIn\sT\sE\sIn\sT\sS|
                                  \nORAL\sARGUMENT\sOF\sPAGE)
                       """, flags=re.MULTILINE|re.DOTALL|re.VERBOSE)
-    full_filename = '../txts_clean/' + filename
-    with open(full_filename) as f:
+
+    with open(filename) as f:
         match = reg.search(f.read())
     # This is to account for the 'start' condition for case 10-7387
     if 'JASON D. HAWKINS' in match.group('start'):
@@ -62,17 +66,13 @@ def get_speaker_names(filename):
             respondent_speakers.append(name)
     return petitioner_speakers, respondent_speakers
 
-def get_interruption_count():
+def get_interruption_count(filename, petitioners, respondents):
     """Get the interruption counts for both petitioners
     and respondents.
     """
     petitioner_interruption_count = 0
     respondent_interruption_count = 0
 
-    petitioners = ['WILLIAM W. LOCKYER']
-    respondents = ['MARK R. DROZDOWSKI']
-
-    filename = '../txts_clean/04-52.txt'
     for petitioner in petitioners:
         last_name = petitioner.split(' ')[-1]
         count = get_individual_interruption_count(filename, last_name)
@@ -104,7 +104,27 @@ def get_individual_interruption_count(filename, last_name):
 
 
 if __name__ == '__main__':
-    get_interruption_count()
+    output = ''
+
+    dockets = get_dockets()
+    decisions = get_decisions()
+
+    for docket in dockets:
+        filename = '../txts_clean/' + docket + '.txt'
+        petitioner_speakers, respondent_speakers = get_speaker_names(filename)
+
+        petitioner_interruption_count, \
+        respondent_interruption_count = get_interruption_count(filename,\
+                                                               petitioner_speakers,\
+                                                               respondent_speakers)
+
+        output += docket + ','
+        output += str(petitioner_interruption_count) + ','
+        output += str(respondent_interruption_count) + ','
+        output += str(decisions[docket]) + '\n'
+
+    with open('test', 'w') as f:
+        f.write(output)
 
 
 
