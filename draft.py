@@ -44,13 +44,15 @@ def get_speaker_names():
     respondent_strings = ['respondent',\
                           'appellee',\
                           'defendant']
-                          
+
     output1 = ''
     output2 = ''
     output3 = ''
-    output4 = ''
+    problem_cases = set([])
+
     for filename in os.listdir('txts_clean/'):
         full_filename = 'txts_clean/' + filename
+
         with open(full_filename) as f:
             match = reg.search(f.read())
 
@@ -61,44 +63,38 @@ def get_speaker_names():
                 speakers_string = match.group('speakers')
 
             speakers = speakers_string.split('.\n')
+            # Find speakers whose status is ambiguous
             for speaker in speakers:
                 found_petitioner = any(s in speaker.lower() for s in petitioner_strings)
                 found_respondent = any(s in speaker.lower() for s in respondent_strings)
+                found_neither = 'neither' in speaker.lower()
 
-                if not found_petitioner and not found_respondent:
+                if not found_petitioner and not found_respondent and not found_neither:
+                    problem_cases.add(filename)
                     output1 += filename + ' : ' + speaker.replace('\n', ' ') + '\n'
-
-                if found_petitioner and not found_respondent:
+                
+                if found_petitioner and found_respondent and not found_neither:
+                    problem_cases.add(filename)
                     output2 += filename + ' : ' + speaker.replace('\n', ' ') + '\n'
 
-                if not found_petitioner and found_respondent:
+                if found_neither:
                     output3 += filename + ' : ' + speaker.replace('\n', ' ') + '\n'
 
-                if found_petitioner and found_respondent:
-                    output4 += filename + ' : ' + speaker.replace('\n', ' ') + '\n'
-
-    with open('reg_ex_test__1', 'w') as f:
+    with open('problem_speakers_1', 'w') as f:
+        f.write('THESE SPEAKERS ARE NEITHER PETITIONERS NOR RESPONDENTS\n\n')
         f.write(output1)
 
-    with open('reg_ex_test__2', 'w') as f:
+    with open('problem_speakers_2', 'w') as f:
+        f.write('THESE SPEAKERS ARE BOTH PETITIONERS AND RESPONDENTS\n\n')
         f.write(output2)
 
-    with open('reg_ex_test__3', 'w') as f:
+    with open('problem_speakers_3', 'w') as f:
+        f.write('THESE SPEAKERS ARE AMICUS CURIAE THAT EXPLICITY ARE NEITHER PETITIONS NOR RESPONDENTS\n\n')
         f.write(output3)
 
-    with open('reg_ex_test__4', 'w') as f:
-        f.write(output4)
-
-def list_problems():
-    output = set([])
-    for filename in os.listdir('txts_clean/'):
-        full_filename = 'txts_clean/' + filename
-
-        with open(full_filename) as f:
-            for line in f.readlines():
-                if line.startswith('Page'):
-                    output.add(filename)
-    print '\n'.join(output)
+    with open('problem_cases', 'w') as f:
+        f.write('THESE CASES HAVE AT LEAST ONE SPEAKER THAT IS DIFFICULT TO ASSIGN\n\n')
+        f.write('\n'.join(problem_cases))
 
 if __name__ == '__main__':
-    list_problems()
+    get_speaker_names()
