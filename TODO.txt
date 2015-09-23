@@ -15,6 +15,7 @@ quotation marks: \xe2\x80\x99
 
 
 
+
 1) 
 Get the decisions for each case that is not a problem case.
 Are there differences between the case names in the 
@@ -32,18 +33,3 @@ c)
 Parse the text for each of those cases to get the
 total number of interruptions for both sides of the
 case.
-
-
-Use
-SCDB_2015_01_caseCentered_Citation.csv
-
-Docket column is: 
-'docket'
-
-Decision column is:
-'partyWinning'
-
-'partyWinning' = 1: petitioner won
-'partyWinning' = 0: respondent won
-
-
