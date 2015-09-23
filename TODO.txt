@@ -8,6 +8,11 @@ UNDERSTAND THE DEPENDENCIES AS EARLY AS POSSIBLE
 
 
 
+0)
+TEXT CLEAN UP:
+quotation marks: \xe2\x80\x99
+
+
 
 
 1) 
@@ -16,9 +21,13 @@ Are there differences between the case names in the
 txt files and the case names in the SCDB?
 
 a)
-Get list of all cases that don't have speaker ambiguity.
+Get list of all cases that don't have speaker ambiguity
+AND whose docket numbers appear in the SCDB as is
+(require no edge case parsing).
+
 b)
 Get decision for each of those cases.
+
 c)
 Parse the text for each of those cases to get the
 total number of interruptions for both sides of the
@@ -36,3 +45,5 @@ Decision column is:
 
 'partyWinning' = 1: petitioner won
 'partyWinning' = 0: respondent won
+
+
