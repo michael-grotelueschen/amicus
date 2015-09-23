@@ -1,24 +1,25 @@
-1) 
-Get the decisions for each case.
-BOUND?
+WHAT IS THE JOB TO BE DONE?
 
+BOUND PROBLEMS AS EARLY AS POSSIBLE
+UNDERSTAND THE DEPENDENCIES AS EARLY AS POSSIBLE
+
+
+
+
+
+
+
+
+1) 
+Get the decisions for each case that is not a problem case.
 Are there differences between the case names in the 
 txt files and the case names in the SCDB?
 
-
-
-
-
-
-2)
-Figure out how to characterize both sides of each case.
-
 a)
-Get the names of speakers for both sides of each case.
-Regular expressions.
-
+Get list of all cases that don't have speaker ambiguity.
 b)
-Get the text for each speaker.
-
+Get decision for each of those cases.
 c)
-Feature engineering based on the text for each speaker.
+Parse the text for each of those cases to get the
+total number of interruptions for both sides of the
+case.
