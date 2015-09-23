@@ -1,5 +1,13 @@
 1) 
 Get the decisions for each case.
+BOUND?
+
+Are there differences between the case names in the 
+txt files and the case names in the SCDB?
+
+
+
+
 
 
 2)
