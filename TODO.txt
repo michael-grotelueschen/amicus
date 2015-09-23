@@ -23,3 +23,16 @@ c)
 Parse the text for each of those cases to get the
 total number of interruptions for both sides of the
 case.
+
+
+Use
+SCDB_2015_01_caseCentered_Citation.csv
+
+Docket column is: 
+'docket'
+
+Decision column is:
+'partyWinning'
+
+'partyWinning' = 1: petitioner won
+'partyWinning' = 0: respondent won
