@@ -5,6 +5,12 @@ UNDERSTAND THE DEPENDENCIES AS EARLY AS POSSIBLE
 
 
 
+PRIORITIES:
+1) Model (need lots of signal)
+2) App/presentation (this will likely be trivially complex)
+
+
+
 
 
 
@@ -19,5 +25,17 @@ quotation marks: \xe2\x80\x99
 1) 
 Investigate datasets/features besides the oral argument transcripts.
 
+Supreme Court Database
 CourtListener
 CiteGeist
+
+
+Possible features:
+citations
+lawyers
+lawyers experience (number of (successful) cases 
+                    brought before the court)
+reason for hearing the case
+date of argument
+number of dockets within case
+number of issues/legal provisions within case (SCDB Vote ID (voteId))
