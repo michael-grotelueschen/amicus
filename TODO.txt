@@ -31,11 +31,27 @@ CiteGeist
 
 
 Possible features:
-citations
-lawyers
-lawyers experience (number of (successful) cases 
-                    brought before the court)
-reason for hearing the case
-date of argument
-number of dockets within case
-number of issues/legal provisions within case (SCDB Vote ID (voteId))
+1) Oral arguments:
+ 1) 
+
+2) SCDB:
+ 1) citations
+ 2) lawyers
+ 3) lawyers experience (number of (successful) cases 
+                        brought before the court)
+ 4) reason for hearing the case
+ 5) date of oral argument (dateArgument)
+    (What if there was no oral argument?)
+ 6) number of dockets within case
+ 7) number of issues/legal provisions within case (SCDB Issues ID (caseIssuesId))
+ 8) jurisdiction (original vs appellate)
+ 9) manner in which the court takes jurisdiction (jurisdiction)
+10) reason for granting cert (certReason)
+11) natural court (naturalCourt)
+12) Chief Justice (chief)
+13) issue area (issueArea)
+14) how the court views the issue (decisionDirection)
+                                  (conservative, liberal, unspecifiable)
+
+3) CourtListener:
+ 1) 
