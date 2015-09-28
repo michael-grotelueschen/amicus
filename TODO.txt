@@ -25,14 +25,18 @@ quotation marks: \xe2\x80\x99
 1) 
 Investigate datasets/features besides the oral argument transcripts.
 
+Oral arguments
 Supreme Court Database
-CourtListener
-CiteGeist
-
+other?????
 
 Possible features:
 1) Oral arguments:
- 1) 
+ 1) interruptions
+ 2) word counts
+ 3) how many justices interact with a side
+ 4) laughter
+ 5) how many questions justices ask a side
+ 6) 
 
 2) SCDB:
  1) citations
@@ -53,5 +57,5 @@ Possible features:
 14) how the court views the issue (decisionDirection)
                                   (conservative, liberal, unspecifiable)
 
-3) CourtListener:
- 1) 
+3) other?????:
+ 1) political party of the president that appointed the justice
