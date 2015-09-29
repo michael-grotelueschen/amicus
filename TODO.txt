@@ -44,18 +44,18 @@ Possible features:
  3) lawyers experience (number of (successful) cases 
                         brought before the court)
  4) reason for hearing the case
- 5) date of oral argument (dateArgument)
-    (What if there was no oral argument?)
+ 5) dateArgument: date of oral argument
+                  (What if there was no oral argument?)
  6) number of dockets within case
- 7) number of issues/legal provisions within case (SCDB Issues ID (caseIssuesId))
+ 7) caseIssuesId: specifically number of issues/legal provisions within case
  8) jurisdiction (original vs appellate)
- 9) manner in which the court takes jurisdiction (jurisdiction)
-10) reason for granting cert (certReason)
-11) natural court (naturalCourt)
-12) Chief Justice (chief)
-13) issue area (issueArea)
-14) how the court views the issue (decisionDirection)
-                                  (conservative, liberal, unspecifiable)
+ 9) jurisdiction: manner in which the court takes jurisdiction
+10) certReason: reason for granting cert
+11) naturalCourt: natural court
+12) chief: Chief Justice
+13) issueArea: issue area
+14) decisionDirection: how the court views the issue
+                       (conservative, liberal, unspecifiable)
 
 3) other?????:
  1) political party of the president that appointed the justice
