@@ -27,7 +27,6 @@ Investigate datasets/features besides the oral argument transcripts.
 
 Oral arguments
 Supreme Court Database
-other?????
 
 Possible features:
 1) Oral arguments:
@@ -36,7 +35,7 @@ Possible features:
  3)  how many justices interact with a side
  4)  laughter
  5)  how many questions justices ask a side
- 6)  key words for each side
+ 6)  key words for petitioners/respondents
  7)  key words for justices
  8)  whether lawyers use all of their time ("reserve the remainder of my time")
  9)  sentiment
@@ -60,6 +59,3 @@ Possible features:
 13) issueArea: issue area
 14) decisionDirection: how the court views the issue
                        (conservative, liberal, unspecifiable)
-
-3) other?????:
- 1) political party of the president that appointed the justice
