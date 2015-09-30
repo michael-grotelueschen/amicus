@@ -7,7 +7,7 @@ UNDERSTAND THE DEPENDENCIES AS EARLY AS POSSIBLE
 
 PRIORITIES:
 1) Model (need lots of signal)
-2) App/presentation (this will likely be trivially complex)
+2) App/presentation (this will likely be simple)
 
 
 
@@ -31,12 +31,16 @@ other?????
 
 Possible features:
 1) Oral arguments:
- 1) interruptions
- 2) word counts
- 3) how many justices interact with a side
- 4) laughter
- 5) how many questions justices ask a side
- 6) 
+ 1)  interruptions
+ 2)  word counts
+ 3)  how many justices interact with a side
+ 4)  laughter
+ 5)  how many questions justices ask a side
+ 6)  key words for each side
+ 7)  key words for justices
+ 8)  whether lawyers use all of their time ("reserve the remainder of my time")
+ 9)  sentiment
+ 10) 
 
 2) SCDB:
  1) citations
