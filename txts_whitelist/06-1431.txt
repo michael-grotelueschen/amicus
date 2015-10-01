@@ -1,0 +1,333 @@
+PETITIONERS:MICHAEL W. HAWKINS
+RESPONDENTS:CYNTHIA H. HYNDMAN,GEN. PAUL D. CLEMENT
+
+CHIEF JUSTICE ROBERTS: We'll hear argument this morning in Case 06-1431, CBOCS West v. Humphries. Mr. Hawkins.
+ORAL ARGUMENT OF MICHAEL W. HAWKINS ON BEHALF OF THE PETITIONER
+MR. HAWKINS: Mr. Chief Justice, and may it please the Court: Based on the plain terms of section 1981, this Court's interpretation of that statute under Runyon, Patterson, and Domino's Pizza, as well as Congress' recognition of the distinction between discrimination and retaliation and this Court's decision in Burlington Northern, section 1981 does not contain a separate cause of action for retaliation. The Court starts with a review of the text of the statute. Section 1981(a) says that all persons shall have the right, the same right as is enjoyed by white citizens to make and enforce contracts. Words like "the same," "equal," and "like" are all in 1981(a), and those words all have normal, plain, ordinary meaning, that is identical. So what section 1981 says is in the making and enforcing of contracts all persons shall have identical rights as white citizens. As we move into this issue --
+JUSTICE ALITO: Do you see any meaningful difference between the language of 1981 and 1982 in this regard?
+MR. HAWKINS: Justice Alito, I do, and in that context section 1981 was amended in 1991, and with a lot of this Court's precedent in terms of how statutes are viewed, they all have a life. This section 1981 has a new life when it was amended in 1981.
+JUSTICE ALITO: Do you think that it was narrowed in 1981?
+MR. HAWKINS: I think with respect to this issue, Your Honor, of retaliation, that it was. And I say it because of this. In 1991, Congress passed the 91 Civil Rights Act and in that act they also included retaliation for 2 U.S.C. 1212. So Congress was consciously thinking about this issue of retaliation. They had Patterson that had come before it, they had West Virginia Hospital that had come before it, saying you have to have specific terms, you have to deal with specific issues.
+JUSTICE ALITO: Well, wasn't the purpose of the 1991 act to broaden the scope of 1981 rather than narrow it?
+MR. HAWKINS: Your Honor, with respect to the '91 act, it was supposed to specifically pick up the post-formation contract issues under Patterson.
+JUSTICE SCALIA: Which is to say it was designed to overrule Patterson.
+MR. HAWKINS: Well, Your Honor --
+JUSTICE SCALIA: Not overrule. They can't overrule it, but change the law --
+MR. HAWKINS: Well, it didn't --
+JUSTICE SCALIA: -- so that Patterson would no longer be right.
+MR. HAWKINS: It didn't change Patterson. I believe as Chief Judge Easterbrook said, Patterson has been cited some 27 times by this Court --
+JUSTICE GINSBURG: "EES-ter-brook."
+MR. HAWKINS: Or "EAS-ter-brook." I'm sorry. Thank you, Your Honor. By this Court, and in that context it is still good law. What it did was to clarify the issue of post-formation contracts.
+JUSTICE KENNEDY: Do you mean Patterson would come out the same under 1981 as amended by the 91 act.
+MR. HAWKINS: Yes. I think Patterson would come out the same, Your Honor.
+JUSTICE KENNEDY: I think Congress would have been quite amazed at that rule.
+JUSTICE SCALIA: I think that they would be astounded.
+MR. HAWKINS: No. In the context of the new post-formation -- excuse me. I understood your question a little differently, Your Honor.  Yes, it would come out differently if you were dealing with the precise issue in Patterson.
+JUSTICE GINSBURG: Are you saying that before the 1991 amendment retaliation was included?
+MR. HAWKINS: No. I would say, Justice Ginsburg, that before the 1991 amendment retaliation wasn't included and it wasn't included after the 1991 amendment.
+JUSTICE SCALIA: What change did the 1991 amendment make then?
+MR. HAWKINS: Well, it wasn't included --
+JUSTICE SCALIA: You say it was intended to change the outcome of Patterson. In what respect? You say not in the respect of whether retaliation is included but in what respect then?
+MR. HAWKINS: In respect to the post-formation. Patterson was dealing with those aspects of just the initial making and enforcing of a contract, not once you've got the contract established and in this case employment, what happens, promotions, demotions, actions of that nature, Justice Scalia.
+JUSTICE SCALIA: I don't understand you. Patterson said that post-formation actions were not covered, right?
+MR. HAWKINS: Correct.
+JUSTICE SCALIA: Retaliation is one, but just one of many post-formation actions, right?
+MR. HAWKINS: Well Your Honor --
+JUSTICE SCALIA: What other post-formation actions were there that --
+MR. HAWKINS: What other post-formation --
+JUSTICE SCALIA: What was the post-formation action that was in action in Patterson?
+MR. HAWKINS: Patterson was dealing with the issue about after you had the relationship could an employer take an adverse discriminatory action against the individual, and the Court said no. It was dealing with a harassment situation. Afterwards you could not have a cause of action in the post-formation situation.
+JUSTICE KENNEDY: And Congress changed that and the case we have is also post-formation.
+MR. HAWKINS: Well, but Congress changed it to say that it would include, in subsection 1981(b), that it would include certain specified post-formation conduct with respect to --
+JUSTICE SCALIA: It didn't specify them. I think your point is probably that it includes the same post-formation conduct that is prohibited at formation, which is to say discrimination on the basis of race, which is not retaliation; right?
+MR. HAWKINS: It did not change that, that's correct, Your Honor. It did not add retaliation. And so what has taken place with respect to this issue of discrimination and retaliation and the reason that we say that it does not exist in section 1981 is Congress in some 30 statutes we've been able to run across has specifically included retaliation in provisions where they so applauded appropriate --
+JUSTICE KENNEDY: Under your view, would harassment be prohibited by 1981 as amended?
+MR. HAWKINS: If it is racial harassment, meaning the treating of someone differently than a white citizen because of their race, then it would be. That's the status issue and that's what was addressed in Burlington Northern in terms of the distinction that exists between discrimination and retaliation, one being based on the individual status, which is really what section 1981 is focused on.
+JUSTICE KENNEDY: But the term "harassment" is not included in 1981(b).
+MR. HAWKINS: Well, if it's just harassment, Justice Kennedy, in the abstract -- I'm harassing somebody because I don't like them -- whether they're black or white, that wouldn't be actionable under section 1981. You have to have a focus of "I'm taking this action against the individual because of the color of their skin, because of their race."
+JUSTICE GINSBURG: Why isn't that true here? Because we're not talking about retaliation in a vacuum; we're talking about retaliation for complaining about race discrimination.
+MR. HAWKINS: Your Honor, if you have a situation where -- and I think it's even addressed in some of the Respondent's brief. And many of the cases going back in the '70s and '80s that were even cited by the Seventh Circuit, all deal with situations even where they were, if you want to call them retaliation, they were retaliation based on directly the person's color of their skin. They were this particular supervisor or this employer is taking this or that action against somebody because they're a black person. They're not taking --
+JUSTICE GINSBURG: What kind of -- what kind of right to be free from discrimination would there be if once one complains one can be fired, demoted? That would not be a very effective right, would it be?
+MR. HAWKINS: Well, Your Honor, I mean there are alternatives for that particular issue. In this particular case, there was Title VII that fully protected the Respondent from any form of discrimination or retaliation. In addition, in the State of Illinois there are state statutes.
+JUSTICE GINSBURG: But one can say the same thing for Title VII and, say, the Equal Pay Act. There are a lot of overlapping antidiscrimination laws. That doesn't mean that we shrink one because another exists.
+MR. HAWKINS: No, but there is precedent for the fact that where one law does cover a particular situation, we don't go about removing that impact. So Title VII clearly does cover this particular situation of a retaliation, a pure retaliation claim.
+JUSTICE SCALIA: Why did they -- why did they proceed under Title VII then? What -- what help --
+MR. HAWKINS: Well, they did proceed under Title VII, and that was dismissed by the Federal court because he did not pay his proper filing fee on time in compliance with Title VII requirements.
+JUSTICE GINSBURG: Well, that's -- that's often the case, isn't it? I mean, the argument you just made could go as well to somebody who uses 1981 to complain about a racially-based demotion wasn't able to use Title VII because he filed too late. That's a typical use of 1981; is it not?
+MR. HAWKINS: Well, it can be a use, yes, Your Honor, that people do use it for that very purpose.
+JUSTICE GINSBURG: So what is the difference between this case -- you say, well, there's Title VII and this would erode Title VII. Doesn't it erode Title VII when I'm complaining about, say, a demotion?
+MR. HAWKINS: No, because they can coexist with respect to those particular issues, and this Court has recognized that those two statutes can coexist.
+JUSTICE SCALIA: Does -- does the person who is retaliated against, that is the person who complained and is retaliated against, have to be the person who was discriminated against?
+MR. HAWKINS: Well, Your Honor, based on a reading of Domino's, it would certainly appear that the individual who is making the complaint to have protection must be the individual who has the contractual right, as opposed to complaining about a third person.
+CHIEF JUSTICE ROBERTS: Now, is your position that in that situation a retaliation is not covered by 1981?
+MR. HAWKINS: Yes, Your Honor.
+CHIEF JUSTICE ROBERTS: I would have thought that you could argue that it's direct discrimination. In other words, if you're fired, whatever form the retaliation takes, that, as Justice Ginsburg suggests, that that would be on the basis -- basis of race. And I thought your position, or at least your position could be narrowed to say it's only when the individual against whom the retaliation takes place is not the individual complaining of the direct discrimination that your position would be pertinent.
+MR. HAWKINS: Well, Your Honor, we take the position that in order to have a retaliation claim under section 1981, it really has to be a discrimination claim. You have to be able to show that you --
+CHIEF JUSTICE ROBERTS: Well, that's right. That's why I thought the person directly discriminated against would be able to phrase the retaliation claim certainly as a discrimination claim.
+MR. HAWKINS: Well, Your Honor, they can make -- phrase it however they want to in terms of their particular complaint, but the issue in terms of the analysis under the plain text of section 1981 is whether or not a white person in this situation is being treated differently with respect to making a similar complaint.
+JUSTICE SCALIA: Surely -- surely, you don't mean what you just said a minute ago, that in order to have a retaliation claim you must have a discrimination claim.
+MR. HAWKINS: Well --
+JUSTICE SCALIA: Surely it's your position that even when you have a discrimination claim, you don't have a retaliation claim. I thought it was your position there are no retaliation claims under this statute.
+MR. HAWKINS: There is no retaliation claim in the abstract under this statute, period, correct.
+JUSTICE SCALIA: Okay.
+JUSTICE KENNEDY: You practice in this --
+JUSTICE GINSBURG: And you say --
+JUSTICE KENNEDY: -- in this area --
+MR. HAWKINS: Yes, Your Honor.
+JUSTICE KENNEDY: Perhaps you can maybe just tell me based on your experience: After 1981 was amended, did 1981(b) supersede Title VII in run-of-the-mill termination and harassment cases?
+MR. HAWKINS: No, Your Honor. In my 32 years of experience of doing labor and employment law, and particularly in employment law, individuals are not -- typically bringing 1981 retaliation claims, where most
+JUSTICE KENNEDY: No, no, not retaliation. I mean harassment, discharge, et cetera.
+MR. HAWKINS: Did we see a big spurt in those?
+JUSTICE KENNEDY: Yes.
+MR. HAWKINS: No, Your Honor.
+JUSTICE KENNEDY: Why not? There's a longer statute of limitation. There's no cap on damages.
+MR. HAWKINS: From our experience, more and more people -- there's been a trend to go to State court because more and more States --
+JUSTICE KENNEDY: Well, then I have to refine the hypothetical. I don't want to take too much, but in Federal court --
+MR. HAWKINS: In Federal --
+JUSTICE KENNEDY: -- because it does seem to me that Congress told us: We don't care if there's an overlap between 1981 and Title VII, we don't care if there's a longer statute of limitations, we don't care if there's no cap an damages; we want 1981 to work. And that's -- 1981 does apply in a large number of employment discrimination cases.
+MR. HAWKINS: In the Federal system.
+JUSTICE KENNEDY: And if that's true, then why do we worry about retaliation? If Congress is not concerned about it, why should we be?
+MR. HAWKINS: Your Honor, in answer to your question, yes, we've seen more adding on section 1981 claims with Title VII claims in Federal court. So the answer to that question is yes.
+JUSTICE GINSBURG: Of course, it's just for race claims, and Title VII covers sex, national origin.
+MR. HAWKINS: Title VII covers race and retaliation.
+JUSTICE GINSBURG: My point is that 1981 would not be available to other categories. It's only race, right?
+MR. HAWKINS: Correct.
+JUSTICE SCALIA: Any other advantages to 81? You get attorney's fees in 1981?
+MR. HAWKINS: Longer statute of limitations, similar attorney's fees, yes.
+JUSTICE SCALIA: But you get that under Title VII?
+MR. HAWKINS: Yes, you do, but it's a longer statute of limitations, and it's uncapped damages because of the caps under Title VII that exists.
+JUSTICE BREYER: What happens in just a basic employment case? I'm trying to remember from law school. Somebody's contract with another man, he's the employee, and he says -- the employer says: I'm firing you because you won't help me rob the bank. Or the employee goes and he finds some money in a wallet or something on the street, and he says, I'm going to return it to the rightful owner, and the employer says, I hate rightful owners, so I'm firing you.  Now, when the employee goes to court, I take it -- my vague recollection is the employer can't do that.
+MR. HAWKINS: Well, it's going to depend upon the State and --
+JUSTICE BREYER: The State law, is there some kind of policy against that from the State law, he couldn't do it?
+MR. HAWKINS: That's correct.
+JUSTICE BREYER: Well, here we have a Federal statute that says that a black person shall have the same right to make a contract as a white person. But if nobody ever can report on that, that they're not, it's not going to be the same right; it's going to be zero right. So, why by parity of reasoning wouldn't this provide for the same kind of thing?
+MR. HAWKINS: Well, Justice Breyer, if white individuals are also terminated for making complaints --
+JUSTICE BREYER: Oh, no. It would make no difference whether you're a thief in my example, whether you're good-hearted. It doesn't matter who you are. You could even be somebody from another country. You don't have to be American. You could be anything. But the State law tries to follow out that -- that policy of not having bank robberies and of returning money to rightful owners. Well, here we have a Federal policy, and the Federal policy is that black people shall be treated the same as white in respect to making a contract. But were the law to allow you to fire anybody who complained about it, then black people wouldn't have that right. And therefore the policy is that you can't do it under this statute because otherwise the written policy is ineffective. I'm just remembering that from my written -- from my policy arguments that were in contract law.
+MR. HAWKINS: Well, Your Honor, I would go back to the plain, clear terms with their ordinary meaning, and it says equal rights as white citizens and it talks about the same and that --
+JUSTICE BREYER: Does it say anywhere, by the way, in that statute that a black person who is discriminated against can go to court and file a -- lawsuit?
+MR. HAWKINS: If they have --
+JUSTICE BREYER: Does it say that?
+MR. HAWKINS: If they are not being treated
+JUSTICE BREYER: Yes. Does it say is in that statute, 1981?
+MR. HAWKINS: Does it have the words "you may go into court for lawsuit"?
+JUSTICE BREYER: Yes, correct.
+MR. HAWKINS: No, it does not.
+JUSTICE BREYER: No. Okay.
+JUSTICE SCALIA: Is there a Federal common law? Are we sitting here trying to write a Federal common law?
+MR. HAWKINS: No, we're here dealing dealing with Federal statutes.
+JUSTICE SCALIA: So State courts can do that. They can make it up; can't they?
+MR. HAWKINS: State courts develop public policy. They do.
+JUSTICE BREYER: And have we developed a policy here in creating a right of action under this 81?
+MR. HAWKINS: Rights of action have existed under Federal statute, that's correct.
+JUSTICE BREYER: Which is the statute that does -- is there a statute that specifically gives you a right to sue under 1981? Is there a statute?
+MR. HAWKINS: Well, this Court has established that, particularly with respect to section 81, that an individual does have a right of action.
+JUSTICE BREYER: It has established it. Yes, that's my point: That the Federal court implied from the statute a right of action. Now, if they're implying a right of action from the statute, why wouldn't courts also imply those rights of action necessary to make the statute effective?
+MR. HAWKINS: Because this Court in a variety of cases such as Russello, West Virginia, University Hospital, Arlington Public School, has said that we look at the text and we examine the text of the statute, and unless it is ambiguous -- and I would certainly submit that words like "same," "like," "equal" are not ambiguous terms -- that we leave it alone; that that's --
+JUSTICE BREYER: That isn't the word I was looking for. The word I was looking for in 1981(a) is the word "and can bring a lawsuit in Federal court." I don't see that written there.
+MR. HAWKINS: It's not in there, Your Honor.
+JUSTICE BREYER: No, correct. So we've implied that. And therefore, if I can imply that, why can't we imply a lawsuit on behalf of those who need the lawsuit to make the right effective?
+MR. HAWKINS: Because --
+JUSTICE BREYER: That was my basic question.
+MR. HAWKINS: Well, in response to it, I would simply say that you have to look to the text as to how you're trying to apply it, and what you're applying it to, and this particular statute protects against different treatment, not specifically with respect to some other --
+JUSTICE SCALIA: Mr. Hawkins, don't we have a whole line of recent cases which say we have set our face against implying causes of action?
+MR. HAWKINS: Yes.
+JUSTICE SCALIA: A whole bunch of recent cases saying we're not going to do that any more.
+MR. HAWKINS: Yes, Your Honor.
+JUSTICE SCALIA: We used to do it, but we said we're not going to do it any more.
+MR. HAWKINS: That's correct, Your Honor.
+JUSTICE SCALIA: So why don't you invoke those?
+MR. HAWKINS: Well, I -- we -- we do invoke those in our brief, and those are all part of what I'm getting at in terms of -- I mean Arlington School Board was one of those cases.
+CHIEF JUSTICE ROBERTS: We do have those recent cases, but we also have the Sullivan case interpreting -- interpreting 1982, which arose under the prior approach to these questions. And my question for you is: Under principles of stare decisis, which body do we follow, the earlier case interpreting 1982 under the more freewheeling approach to statutory interpretation or this later body of law that says we're not going to do that any more?
+MR. HAWKINS: Well, Mr. Chief Justice, particularly since this Court has Runyon, Patterson, and Domino's interpreting Section 1981, that's what to look at to interpret section 1981, not Sullivan, which interprets a different statute. They all --
+JUSTICE GINSBURG: But it's a statute that has the same derivation. They're both from the 1866 Civil Rights Act, and they're both set up the same way. 82 also says "same" as 1981 does. So wouldn't it be odd to take these twin measures and say one includes retaliation and the other doesn't? Wouldn't Congress, when it revised 1981 in 91 been aware of Sullivan and expect this Court to interpret those twin statutes the same way?
+MR. HAWKINS: Justice Ginsburg, with all due respect, I would think not; and the reason is this Court, when it acted in 1991, had in front of it to look at Patterson, which was saying, we're going to interpret Section 1981 in a straightforward, plain-text situation. In fact, Patterson says in it if the right is not specifically set forth in section 1981, there is no relief. Then after that, you had West Virginia, which was decided in March of 1991, again taking that same sort of approach with respect to if it's not in the statute, we're not going to make it. It may be that it's a job left for Congress. So they act on those and pass the law in November of '91. That's the context. And even in the Jackson case, in looking back, Justice O'Connor ended up saying that what we are looking back at is 1972 following 1969. So in 1991 we're looking at Section 1981 being amended, and we're looking at Patterson and West Virginia to give the context.
+JUSTICE GINSBURG: Wouldn't you look at what Congress was trying to do in the 1991 amendments? That is, Congress changed the law that this Court had declared; and the message, the essential message, was this Court has been too stingy in its interpretation of Title -- of 1981, so we're going to change it.
+MR. HAWKINS: Correct.
+JUSTICE GINSBURG: And it seems to me that we wouldn't be hearing -- we wouldn't be grasping that message.
+MR. HAWKINS: But, Your Honor, in --
+JUSTICE SCALIA: Why do you agree with that? I don't understand why you agree with that.
+MR. HAWKINS: Well, I think that there was some perspective. I don't personally agree with it, But I think there was some --
+JUSTICE SCALIA: Then don't say "yes." I mean, it may well be that Congress thought our interpretation of 1981 was perfectly reasonable, or it had no idea what our interpretation of 1981 was. But they know what they wanted to do in -- in 1991. Okay?
+MR. HAWKINS: I agree, Justice Scalia.
+JUSTICE SCALIA: That's all we know for sure.
+MR. HAWKINS: Right.
+JUSTICE SCALIA: That Congress wanted that disposition. They weren't necessarily disapproving our prior decision. Is there anything in the statute which said the Supreme Court made a bad decision, and we're going to fix it?
+MR. HAWKINS: No. There's nothing in that at all.
+JUSTICE GINSBURG: There is something to that effect in the legislative history that explains why Congress made the amendments it did in 1991.
+MR. HAWKINS: And we could have a whole debate about the legislative history and what --
+JUSTICE BREYER: Why not? Because the legislative history does say, when they passed this, that the new law will involve a claim, allow them to make a claim of harassment, discharge, promotion, transfer, retaliation, and hiring.
+MR. HAWKINS: Justice Breyer --
+JUSTICE BREYER: So when they write that in the House report, isn't that some evidence that they did look back and see Sullivan, and they did think that in 82 there's a retaliation action, and therefore in 1981 there is one? Isn't there at least evidence that there were people in Congress thinking that?
+MR. HAWKINS: Yes, that's evidence that somebody in Congress was thinking that.
+JUSTICE BREYER: And that someone --
+MR. HAWKINS: But I think if we just use an analogy with contract law, if we're negotiating a contract --
+JUSTICE SCALIA: Did the committee vote on that committee report?
+MR. HAWKINS: No, they did not.
+JUSTICE SCALIA: So how do you know if anybody in Congress thought that?
+MR. HAWKINS: Well, somebody wrote it in a report.
+JUSTICE SCALIA: It could have been a teenager who wrote the report.
+MR. HAWKINS: It doesn't have any significance with respect to this legislation. What I'm saying is I think it works against -- that argument works against what ended up being in the statute.
+JUSTICE BREYER: Well, I think we're familiar with that debate. But if we can look -- look at the statute, if I ask you why isn't this an enjoyment of a benefit, a privilege or term or a condition of the contract, is your answer that this was an at-will contract?
+MR. HAWKINS: I think the Seventh Circuit is saying we're not making the at-will argument in this case, and that's not where we are going.
+JUSTICE BREYER: All right.
+MR. HAWKINS: It could be made and it could be developed.
+JUSTICE BREYER: All right, because I don't think that's is a good argument. Why isn't this a benefit or a privilege that's been denied?
+MR. HAWKINS: Whether it -- it may well be a benefit or a privilege, Your Honor, but it isn't shown that there's different treatment than a white employee. I mean just to say, I exercised this benefit and something happened to me negatively, therefore, I have a claim under section 1981, that's not where it's going.
+JUSTICE STEVENS: Mr. Hawkins, is it at all relevant on the issue that the several courts of appeals have come out the same way both before the 1991 amendment and since the 1991 amendment, and opinions to the contrary are pretty scarce? Does that have any weight in a sort of a stare decisis sense?
+MR. HAWKINS: No. Stare decisis applies when it's the same facts and the same set of law And this is not the same facts and the same set of law. This is section 1991, Your Honor.
+JUSTICE STEVENS: I know, but even under the 91 the courts of appeals have been fairly uniform on the answer to the very issue we're confronting here. Isn't that true?
+MR. HAWKINS: They have, but I would submit, Your Honor, that they haven't been following the text of the statute. They have just been relying on Sullivan.
+JUSTICE STEVENS: My question is, are they entitled to give any stare decisis weight to a consensus among all the courts of appeals both before and after the 1991 amendment.
+MR. HAWKINS: I don't believe the Supreme Court has to give stare decisis --
+JUSTICE STEVENS: Don't have to, but does it make sense in trying to understand the stability of the law generally?
+MR. HAWKINS: Based on our argument it does not, Your Honor. Thank you. I would like to reserve my time, Mr. Chief Justice.
+CHIEF JUSTICE ROBERTS: Thank you, counsel. Ms. Hyndman.
+ORAL ARGUMENT OF CYNTHIA H. HYNDMAN ON BEHALF OF THE RESPONDENT
+MS. HYNDMAN: Thank you, Mr. Chief Justice, and may it please the Court: I'd like to address the questions that Justice Ginsburg and Justice Breyer raised about the effectiveness of section 1981 if there is no right to bring an action for retaliation. Section 1981 doesn't provide any specific remedies or any type of enforcement mechanism. It can only be enforced through a private lawsuit. Petitioner's basically asking this Court to allow an employer to be able to fire an employee who brought a private lawsuit to enforce his section 1981 rights. If the Court were to allow employers to do that, then any employer or contracting party would have the ability to exempt themselves from section 1981 liability. Take the example of a person who complains that he was not promoted because of his race in violation of section 1981. His employer fires him for making that complaint. If he did not have protection under section 1981 against retaliation, he would never have the opportunity to remedy that discriminatory promotion.
+JUSTICE SCALIA: That's a good argument to Congress. Congress should enact a retaliatory provision. But the statute says what it says, and what it says is that there has to be discrimination on the basis of race. And firing somebody for -- in retaliation for making a complaint is not firing him on the basis of race. Indeed, the person making the complaint may not have been the person who was racially discriminated against. You would acknowledge that you couldn't fire -- if retaliations claims lie, you couldn't fire a white whistleblower who says this employer has been discriminating against blacks. Wouldn't that white whistleblower have a cause of action for being fired?
+MS. HYNDMAN: They would in fact have a cause of action, Justice Scalia. But this Court --
+JUSTICE SCALIA: On your theory, but that has nothing to do with the text of the statute, which requires discrimination on the basis of race. I agree with you entirely that it would make sense to provide a cause of action for retaliation, but we don't write statutes. We read them. And there's nothing in this statute that says that.
+MS. HYNDMAN: This Court held in the Jackson case that discrimination on the basis -- that retaliation when there was a complaint about sex discrimination constituted discrimination on the basis of sex. So it follows that here under section 1981 if someone makes a complaint about race discrimination and they are retaliated against that they are being discriminated against on the basis of race.
+JUSTICE SCALIA: Well, you can say that, but it doesn't make any sense.
+MS. HYNDMAN: Well, that's what the Court held in Jackson, Your Honor.
+JUSTICE SCALIA: It didn't make any sense then, either. (Laughter.)
+CHIEF JUSTICE ROBERTS: Counsel, if we rule in your favor, why would anyone ever bring a Title VII action if they could bring a 1981 action?
+MS. HYNDMAN: There's a lot of reasons to bring a Title VII action, Your Honor. Title VII allows an employee to go to the EEOC, and the EEOC has a lot of advantages. And so you can bring both a Title VII and a section 1981 claim.
+CHIEF JUSTICE ROBERTS: All right. So if you bring -- you'd at least bring them both, right, because --
+MS. HYNDMAN: That's correct.
+CHIEF JUSTICE ROBERTS: -- 1981 allows you to get out of the Title VII cap on damages?
+MS. HYNDMAN: That's correct.
+CHIEF JUSTICE ROBERTS: Or isn't that rendering Congress' careful -- I mean the 1991 legislation was a careful compromise. In exchange for the expansions of Title VII, they put caps on the damages. You would allow them to keep the expansion, but do away with the caps.
+MS. HYNDMAN: Congress said specifically in -- in the 1991 Civil Rights Act that the damage caps do not apply if an employee has a right under section 81 and so --
+CHIEF JUSTICE ROBERTS: Well, you're just begging the question. You're assuming you have the right that's at issue here today.
+MS. HYNDMAN: Well -- and we do have the right that's at issue here today, because --
+JUSTICE GINSBURG: When were -- when there damages, as opposed to back pay, added as a remedy for Title VII?
+MS. HYNDMAN: Title VII damages were added, compensatory and punitive damages were added, in the 91 Civil Rights Act.
+JUSTICE GINSBURG: So it wasn't that it was cut back, as the Chief suggested.
+MS. HYNDMAN: That's right.
+JUSTICE GINSBURG: It's the first time ever Title VII plaintiffs were entitled to get money damages as distinguished from simply back pay?
+MS. HYNDMAN: That's absolutely --
+CHIEF JUSTICE ROBERTS: Well then, why do they put the caps in? I mean, I do think that is a limitation on the remedy they provided. They provided a damage remedy with a very clear cap and it's not a particularly generous cap, either.
+MS. HYNDMAN: That's correct.
+CHIEF JUSTICE ROBERTS: And you would allow them to completely obliterate that cap under any case that could be brought under 1981.
+MS. HYNDMAN: And Congress clearly made that -- made that choice.
+JUSTICE KENNEDY: Well, you say it's clear, but neither you or the government seems to tell me any words in this statute. Your argument is that we should create a cause of action in order to make this effective. I understand that argument. I think the Court's cases stand against it, and if you want to -- but it seems to me that you're admitting that nothing in the words of the statute as amended help you. And the government -- which as well is an impairment, which I think is quite wrong because that's not what section (c} intended for. But that's almost an admission on the government's part that it can't find any words in section (b) either.
+MS. HYNDMAN: The words in the statute that provide the basis for this claim is that you are entitled to the same rights to make and enforce contracts as white citizens. And this Court has consistently interpreted that to mean --
+JUSTICE KENNEDY: But that was there before -- but that was there as of the time of Patterson.
+MS. HYNDMAN: That's correct.
+JUSTICE KENNEDY: So then Congress did nothing by the amendment to help your case.
+MS. HYNDMAN: What the Court did to help our case was that after Patterson was decided and before the section -- before the Civil Rights Act of 1991 was passed, the lower courts had interpreted Patterson to restrict retaliation claims because they generally involve post formation conduct. And what Congress made clear in the -- in the Civil Rights Act of 1991 is that they wanted to have protection throughout the entire contractual relationship.
+JUSTICE KENNEDY: Patterson was not a retaliation case.
+MS. HYNDMAN: That's correct, Your Honor.
+JUSTICE KENNEDY: Patterson was a discharge and harassment case.
+MS. HYNDMAN: That's correct.
+JUSTICE KENNEDY: And the words do seem to cover that.
+JUSTICE STEVENS: No. But your point is that Patterson made a number of lower courts think that retaliation was no longer a viable cause of action.
+MS. HYNDMAN: That's absolutely right, Justice --
+JUSTICE STEVENS: Before Patterson they had all thought retaliation was a cause of action.
+MS. HYNDMAN: They consistently thought there was a cause of action for retaliation based upon Sullivan.
+JUSTICE KENNEDY: But nothing that you argued so far shows that the words of the statute as amended, that is to say new subsection (b), help your case.
+MS. HYNDMAN: The words of the statute that help us establish the cause of action are that it made -- that Congress made clear that the entire contractual relationship would be covered from the beginning of the contractual relationship through the end, through termination. And coupling that with the original words of the statute that lower courts had interpreted to allow a cause of action for retaliation and with subsection (c), which uses broader language, it says "impairment by discrimination" -- under this Court's holding in Jackson --
+JUSTICE KENNEDY: I do not read subsection (c) as giving substantive rights. I mean, you can argue about that. I think you have to talk about (b), and I think you have a valid point when they say that they're extending the protection for the life of the contract. But I still want to know what particular words in section (b) you rely on? "Benefit"? "Privilege"?
+MS. HYNDMAN: Any of those could apply, Justice Kennedy. But the -- what Congress was legislating against was this Court's restriction in Patterson and saying that the rights that are protected are only those rights at the making of the contract and the enforcement of the contract. And they expanded the language to cover the entire contractual relationship. So that, for example, here where you have a termination caused by retaliation, then you would have a cause of action for retaliation under the statute.
+JUSTICE SCALIA: I guess those court of appeals cases pre-1991 that found there was a retaliation claim, right, those cases were just wrong as to whether there was any post-contract claim? Right? I mean, they were wrong about that. Patterson, in effect, said you're wrong.
+MS. HYNDMAN: Patterson said you were wrong.
+JUSTICE SCALIA: So if they were wrong about whether there's a post-contract claim, why wouldn't they be wrong about whether there's a retaliation claim?
+MS. HYNDMAN: There were --
+JUSTICE SCALIA: I don't know why we should give deference to them on the one point when they've been proven wrong on the other one.
+MS. HYNDMAN: They based that on -- on this Court's reading in Sullivan. And Sullivan interpreted the companion statute to section 1981, which was section 82.
+JUSTICE KENNEDY: Because it's ironic to say all those cases were wrong when Congress agreed with them and disagreed with Patterson.
+JUSTICE BREYER: But is the rationale of those cases -- and it's important to get the right rationale. If I say this and I'm wrong tell me I'm wrong. And I thought that the heart of it is not that the retaliated -- the act of retaliation is discrimination. It isn't. What they say is when the white man helps the black man from being discriminated against, it falls within the statute, not because you've discriminated against the black man, but because if it didn't fall within the statute it would seriously erode or destroy the black man's right. That's what it seemed to me Douglas said in Sullivan.
+MS. HYNDMAN: That's correct, Justice Breyer.
+JUSTICE BREYER: And so then we're looking very hard in a place for a word that couldn't be there.
+MS. HYNDMAN: I would agree with that.
+JUSTICE KENNEDY: But that was true in Sullivan because a property owner who wants to sell is in a particularly advantageous position to enforce the rights of the buyer. It's part of his own contract. And to extend it to the situation we have here is quite an extension of Sullivan in my view.
+MS. HYNDMAN: Well, I would disagree with that respectfully, Justice Kennedy. I would say here, when you have the person who was the victim of the discrimination, who was also, who was complaining about the discrimination and then gets fired, he's in actually a better position than the white homeowner was in Sullivan.
+CHIEF JUSTICE ROBERTS: When you agreed with Justice Breyer that we're looking for a word that couldn't be there, you said yes, but it is in fact a word that is there in about 37 other statutes, right?
+MS. HYNDMAN: Those statutes --
+CHIEF JUSTICE ROBERTS: The word could be there. I'm not saying whether it has to be there or not. But it certainly could be there, and it's not here.
+MS. HYNDMAN: The word "retaliation."
+CHIEF JUSTICE ROBERTS: Yes.
+MS. HYNDMAN: -- does not appear in -- in those. There's actually very few Federal statutes where the actual word "retaliation" appears. But the other statutes that --
+CHIEF JUSTICE ROBERTS: But they provide a specific cause of action for retaliation, correct?
+MS. HYNDMAN: They do, but there is no specific cause of action provided in section 1981 at all. And this Court has already held that there is a private cause of action under section 1981, and what we're asking --
+CHIEF JUSTICE ROBERTS: Is this -- the question I asked your friend and I'll ask you as well. I think you have a case under Sullivan, which recognized, although it's 1982, this type of action. But Sullivan would not come out the same way today given Alexander against Sandoval and our new approach to statutory interpretation. So if you're concerned about stare decisis, which body of law do you give effect to, the Sullivan case or our more recent cases on how to read statutes?
+MS. HYNDMAN: I think you give effect to Sullivan in this situation, and the reason is because at the time that Congress was legislating and amending section 1981, and it was acting against the backdrop of this Court's jurisprudence, it had Patterson in front of it, it had -- it knew that Sullivan was still good law. It knew that this Court had repeatedly directed that section 1981 and section 1982 be construed similarly; and Patterson did not address the specific situation that was in Sullivan, that is whether you could bring a cause of action for retaliation.
+CHIEF JUSTICE ROBERTS: Of course, by 1991 our new approach to reading statutes was pretty clearly established.
+MS. HYNDMAN: That's correct. But --
+CHIEF JUSTICE ROBERTS: So if Congress were looking at both of those bodies of law, then wouldn't the normal care be for it to put in a retaliation provision?
+MS. HYNDMAN: If they were legislating on a clean slate I might agree with that Justice -- Chief Justice Roberts. But in this situation they were not legislating on a clean slate. What they were doing was amended one of the oldest civil rights acts in this country, the Civil Rights Act of 1866. And given that they were going to amend that law and they amended it based upon what this Court had said in Patterson, and I think under those circumstances it -- they wouldn't necessarily go and create and write a reticulated statute such as the modern antidiscrimination statutes are.
+JUSTICE ALITO: You're saying they would have -- you're saying they would have added an express retaliation provision in 1981 in 1991 if they had thought that the mode of reasoning in Sullivan was no longer sound? Is that what this comes down to?
+MS. HYNDMAN: I don't know that that's necessarily true. I think they -- they legislated against the backdrop both of Sullivan and the lower courts' consistent recognition of a cause of action.
+JUSTICE ALITO: When you say they legislated against the backdrop, you're -- are you not relying on something they didn't do, rather than anything that they did?
+MS. HYNDMAN: I wouldn't necessarily agree with that, Justice Alito. I would --
+JUSTICE GINSBURG: The interpretation was consistent with this -- was it 2005, long after those other new approach statutes, decisions were on the books. Jackson was in 2005.
+MS. HYNDMAN: That's correct, Justice Ginsburg; and at that time this Court said that you look to the language of the statute, and there in Title IX the language was broad. It was a general ban on discrimination, such as we have in section 1981 and section 1982, and in fact the Jackson court relied on Sullivan and relied on this Court's interpretation of Sullivan to find that there was a cause of action for retaliation under Title IX.
+JUSTICE KENNEDY: What I'm -- what I'm taking away from the argument is that if I were to write this opinion in your favor, I would have to say that it's necessary to imply a cause of action prohibiting retaliation in order to make these other words effective. And that seems to me a very limited argument and a very difficult argument for you to prevail upon, given the authorities and the approach of the Court that we've discussed.
+MS. HYNDMAN: Well, the Court has already implied a cause of action and the question is whether --
+JUSTICE KENNEDY: I understand that, and -- and there certainly is a cause of action as to all the terms in the contract, but you want to add -- for me to add a new term. You can't use the existing terms to say that there is a cause of action other -- that helps your client, other than that there is a general approach that there is protection post-contract formation. I would have to agree with that; and I don't think you can get out of it impairment.
+MS. HYNDMAN: Well, the language in this statute that guarantees the same rights to make and enforce contracts by citizens provides that basis, based on this Court's decision in Jackson.
+JUSTICE KENNEDY: Now you're making enforcement, as with Patterson.
+MS. HYNDMAN: I'm sorry. I didn't hear -- I'm sorry, I didn't hear you, Justice Kennedy.
+JUSTICE KENNEDY: Now you're just talking about make or enforce and that brings us right back to where we started.
+MS. HYNDMAN: But -- subsection (b) defines make and enforce more broadly. And that was the purpose of the language in section 1981(d), that was to make clear that the terms make and enforce contracts cover the entire contractual relationship, from the beginning of the relationship to the end of it.
+CHIEF JUSTICE ROBERTS: To the extent your argument relies so heavily on Sullivan, I went back and read it, and rather than an implied right of action case it looked to me like a third party standing case.
+MS. HYNDMAN: And I know there is some disagreement about that, but the Court in Jackson found that -- it did find that Sullivan did stand for the proposition that there was a cause of action for retaliation.
+CHIEF JUSTICE ROBERTS: But I think -- that's right. Now I get back to another stare decisis question. Do I rely on what Sullivan actually said, or I do I rely on Jackson's reinterpretation of Sullivan?
+MS. HYNDMAN: Well, if you look at what Sullivan actually said, Chief Justice Roberts, I think you would find that you could read it more expansively that just a third party standing case. In that case the white lessor, Mr. Sullivan, had been expelled from the corporation after he advocated the rights of his black lessee, Mr. Freeman; and he was allowed under -- the Court allowed him to bring his action to recover damages and get injunctive relief, because he himself was expelled from that corporation. So he was the person that had an had injury in that circumstance. So I think that it's not --
+CHIEF JUSTICE ROBERTS: You agree, though, that the language in the opinion focuses on it as a third party standing question.
+MS. HYNDMAN: The -- the Court says that Mr. Sullivan does have standing to bring the action. I do agree with that, but if you read the entire opinion, you would see that they also say that Mr. Sullivan had the right to bring his action for damages and injunctive relief. Just to sum up, because this Court in Sullivan and Jackson has recognized that persons who themselves were not victims of discrimination must be protected against retaliation when they advocate the rights of those victims; otherwise the underlying discrimination would go unchecked -- we are not asking the Court to do anything here that they haven't already done. We are just asking that the victim of the discrimination here, Mr. Humphries, have the same protection against retaliation that this Court has already recognized that his advocate would have. Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, Counsel. General Clement.
+ORAL ARGUMENT OF GEN. PAUL D. CLEMENT, ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE, SUPPORTING THE RESPONDENT
+GENERAL CLEMENT: Mr. Chief Justice, and may it please the Court: This Court has already inferred a private cause of action under section 1981. So the question before the Court now is simply the scope of the basic guarantee in section 1981 and particularly whether it prohibits retaliation against someone who exercised their undoubted right to complain about racial discrimination in a contractual process.
+JUSTICE SCALIA: It's a little more complicated than that. We inferred that cause of action in the bad old days, when we were inferring causes of action all over the place. Now, the position the Government takes here is that we should infer this new cause of action to assist the one that's already on the books. Is the Government going to be consistent in this position? And you want us to in the future go back to our prior practice of readily inferring causes of action that are not set forth in the -- in the text of this statute? Is the Government willing to live with that?
+GENERAL CLEMENT: No, Justice Scalia, we're not asking to you to go back to the bad old days. But I think it's important to recognize that we are simply asking you to interpret the scope of the cause of action you've already inferred. And I think that's consistent with the way this Court has approached 1981 cases. Patterson would be a great example. This Court in Patterson didn't say, are we going to infer a new cause of action for harassment? No. This Court interpreted the basic prohibition of 1981 and said it didn't cover harassment. We think if you interpret the basic prohibitions in 1981, it covers retaliation.
+JUSTICE SCALIA: Patterson was still the bad old days. When do you think the bad old days ended? (Laughter.)
+GENERAL CLEMENT: Patterson was 1989. I don't think anybody thinks Patterson was the bad old days.
+JUSTICE SCALIA: Oh, I'm sorry. I was thinking of Sullivan.
+GENERAL CLEMENT: The bad old days ended when you got on the Court, Mr. Justice Scalia. (Laughter.)
+GENERAL CLEMENT: Now, I think the considerations of precedent as well speak very loudly here. And Justice Alito asked the question, what would cause the Court to interpret 1981 and 1982 differently? And the answer is absolutely nothing. These are two -- these aren't just two closely related statutes that were codified together.
+JUSTICE KENNEDY: Are you asking us to infer, to find implied in the words a cause of action against retaliation?
+GENERAL CLEMENT: No. We're asking to you interpret the cause of action that exists --
+JUSTICE KENNEDY: What words --
+GENERAL CLEMENT: -- to include retaliation.
+JUSTICE KENNEDY: What words in the statute? And not "impairment" because I don't agree with the government on that.
+GENERAL CLEMENT: Okay, Justice Kennedy. I think part of the disconnect may be, if I could try to address this, is there are two reasons you might think that retaliation isn't covered. One reason you might think retaliation isn't covered is because it's not discrimination on the basis of race. The other reason that you might think retaliation is not covered and the reason that the court of appeals, post-Patterson, pre-1991, thought that retaliation wasn't covered was simply that it was post-formation conduct. And as to that, what is clear is that 1981(b) provides a textual answer to that. A --
+JUSTICE KENNEDY: A third reason is that the word isn't in the statute.
+GENERAL CLEMENT: Well -- but neither is the word "harassment," Justice Kennedy. Neither, frankly, is the words "discrimination on the basis of race."
+JUSTICE KENNEDY: Well, that's a benefit, privilege, and term of the contract --
+GENERAL CLEMENT: Is --
+JUSTICE KENNEDY: -- to me fairly obvious to me to include harassment. That was the situation in Patterson. That's what Congress sought to address. Retaliation is something quite different.
+GENERAL CLEMENT: Sure, but I don't think there's any doubt since Mr. Humphries was fired that he no longer enjoys the benefits and privileges of his contractual relationship. They were clearly interfered with. His rights under 1981 are clearly implicated. It would seem to me the only argument that he's not covered is that he was retaliated -- he was fired, he lost his contractual relationships not because he was African-American --
+JUSTICE KENNEDY: Well, then why were you --
+GENERAL CLEMENT: -- but he claimed -- -
+JUSTICE KENNEDY: -- talking about impairment in your brief?
+GENERAL CLEMENT: We were making a slightly different point, Justice Kennedy, which is we think this -- case is a fortiori from the Jackson case in a couple of respects. First and foremost, we think that a 1982 precedent, if it governs Title IX, ought to a fortiorari govern 1981. But the second way we think this case is a fortiori from Jackson is that the same textual obstacles are not present here that the Jackson -- that the Jackson dissenters identified. You know, the Jackson dissenters didn't say that retaliation isn't a form of discrimination. They said it's not discrimination on the basis of sex. And if you look at the text of 81(a), (b), and (c), you find that it's actually more capacious language, and you don't have the same problem. It doesn't say "discrimination on the basis of race." Now, to be sure, we're not saying that 1981 isn't a race statute; of course it is. But those exact words don't appear and don't provide a stumbling block. And if you look at the form that 1981 takes, it doesn't take the form of an express prohibition of discrimination on the basis of race; it actually textually takes the form of a guarantee of equal treatment. And it seems to me that a guarantee of equal treatment quite naturally is violated not just by the basic discrimination but is also violated by retaliating
+CHIEF JUSTICE ROBERTS: So, if you have --
+GENERAL CLEMENT: -- against someone for exercising their rights.
+CHIEF JUSTICE ROBERTS: If you have an employer who fires everybody who complains about practices at work, that would not be covered retaliation?
+GENERAL CLEMENT: Mr. Chief Justice, you're right. Judge Easterbrook's hypothetical of the equal opportunity retaliator I think as a theoretical matter would not be covered by this statute. But of course I think it's only an interesting theoretical possibility, because I rather doubt that employer would have many employees in practice. I mean, in practice --
+CHIEF JUSTICE ROBERTS: Do you think it's unusual for employers to have a practice that anybody who alleges that I've committed a violation of Federal law, I want to get rid of them?
+GENERAL CLEMENT: Well, I -- I actually do think that's unusual, and I do think if an employer -- I mean, just in looking at the cases that are actually decided, you don't see that as the nondiscriminatory defense that many employers resort to. And I think as a practical matter that's just not the position that they're taking. And I think as a practical matter you're going to see that those are covered by the statute. You -- Mr. Chief Justice, you also asked about stare decisis and which cases that this Court should point to. I think there are a couple reasons why Sullivan is the precedent that this Court should follow in this case. First of all, this Court followed it in a less analogous context just a few terms ago in Jackson. Second, this Court has a whole line of cases, including Tillman and Runyon, that treat 1982 cases as binding authority for section 1981 purposes. So if this Court were to turn its back on Sullivan, I think it would also be turning its back on cases like --
+CHIEF JUSTICE ROBERTS: You don't have any doubt that Sullivan would come out differently today under our current analysis?
+GENERAL CLEMENT: It -- I mean, it's hard to say. I mean, you know, Jackson was just three terms ago, Mr. Chief Justice, so -- and I don't know how Jackson would have been decided without the benefit of Sullivan. I certainly think that the current Court would be a tougher Court to make the arguments that carried the day in Sullivan than the Court at the time, but --
+JUSTICE SOUTER: It would be a tougher Court to make the argument on inferring a cause of action, period. But I don't know whether it would be a tougher Court to make the argument that, if there is a cause of action, it's got to include this, which was your point a moment ago.
+GENERAL CLEMENT: And I think that's a very fair point, Justice Souter. And I guess I would say that, just to amplify something my co-counsel said, I really do think -- I mean, the Jackson Court took the -- the Sullivan case to be something other than a third-party standing case and to be a case about retaliation. I really think that that is the correct reading of the opinion. If you look at the critical paragraph on page --
+CHIEF JUSTICE ROBERTS: The correct reading of Jackson or of Sullivan?
+GENERAL CLEMENT: Of both, but more to the point, of Sullivan. If you go to page 237 of the Sullivan opinion, after the Court's disposed of Freeman's claim the whole discussion of Sullivan's claim is prefaced with the observation "we turn now to Sullivan's claim for" expulsion -- "for advocacy on Freeman's behalf."
+JUSTICE KENNEDY: Well, of course, and you in your brief bracketed that and just made that equivalent to retaliation. I don't think it is because he was arguing that he didn't -- he was himself injured because he couldn't sell his own property. He has an interest in his own property. And that just isn't true in the standard retaliation case of the type we're discussing.
+GENERAL CLEMENT: But, Justice Kennedy, if that were the only claim that Sullivan could bring, i.e., if he could only bring the second half of the leasehold claim that Freeman had, I would agree with your reading of Sullivan. But what the Court is focused on is not Sullivan's ability to sue for his inability to sell to Freeman. They allow him to sue because he was expelled from the property owner's association after the fact. Now, why was he expelled from the property owner's association? Not because of his race; but because he had advocated on Freeman's behalf. The point about Sullivan getting to sue for his expulsion from --
+JUSTICE KENNEDY: But a seller is -- or a would-be seller is always a built-in advocate for a buyer if some third person interferes with the contract.
+GENERAL CLEMENT: I agree with that, but I think what's critical is that he was allowed to recover not just for that injury but for his expulsion from the property owner's association. And that's not an injury that was an obvious injury to Freeman at all. But more to the point, it doesn't really matter if Freeman and Sullivan can sue for that or just Sullivan. The point is somebody could sue for Sullivan's expulsion from the property owner's association. And I don't understand how that's anything other than a retaliation holding. And as I said, this Court on a number of occasions has given 1982 holdings even stare decisis effect, using those words in Runyon in the 1981 context. And so I think that's also something that this Court would have to confront.
+JUSTICE ALITO: If we thought --
+GENERAL CLEMENT: When --
+JUSTICE ALITO: If we thought Sullivan was incorrectly decided, what should we do? Should we say we accept it insofar as it interpreted section 1982, but we don't necessarily have to extend it to 1981, to take an approach similar to what we did in the recent John R. Sand & Gravel case? Or do we have to apply the reasoning in the 1981 case because of the close relationship between the two provisions?
+GENERAL CLEMENT: I think you have to apply its reasoning. That would be consistent with decisions like Runyon and Tillman that say that you apply 1982 cases and 1981. Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, General. Mr. Hawkins, you have three minutes remaining.
+REBUTTAL ARGUMENT OF MICHAEL W. HAWKINS ON BEHALF OF THE PETITIONER
+MR. HAWKINS: Respondent and the government and its amicus arguments are more appropriate on the floor of Congress debating whether or not to amend section 1981 to include retaliation. Instead of giving the clear and plain meaning of the terms and the ordinary and natural definitions, the Seventh Circuit relied on extrinsic issues to reach its decision in violation of Article 1 Section 1 of the Constitution. It exercised its will instead of its judgment in violation of the principles set forth in Jones versus Bock, where this Court had said the judge's job is to construe the statute, not to make it better. George Washington said in 1790 "I've always been persuaded that the success of our nation and our government depends upon the acceptance its people and that that would depend upon the interpretation and execution of its laws. Therefore, it is important that the judicial system should not only be independent in its operation but as perfect as possible in its formation." To follow the text of the statute, this Court's interpretations of section 1981 and the --
+JUSTICE SCALIA: This is no longer Washington, right?
+MR. HAWKINS: I understand, Your Honor. (Laughter.)
+JUSTICE SCALIA: Okay. I didn't know where he stopped and you began. (Laughter.)
+MR. HAWKINS: The Seventh Circuit's decision should be reversed. Thank you.
+CHIEF JUSTICE ROBERTS: Thank you, counsel. The case is submitted. (
