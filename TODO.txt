@@ -32,14 +32,16 @@ Possible features:
 1) Oral arguments:
  1)  interruptions
  2)  word counts
- 3)  how many justices interact with a side
- 4)  laughter
+ 3)  laughter
+ 4)  how many justices interact with a side
  5)  how many questions justices ask a side
- 6)  key words for petitioners/respondents
- 7)  key words for justices
- 8)  whether lawyers use all of their time ("reserve the remainder of my time")
+ 6)  key (positive/negative) words for petitioners/respondents
+ 7)  key (positive/negative) words for justices
+ 8)  whether lawyers use all of their time ("reserve the remainder...")
  9)  sentiment
- 10) 
+ 10) how many times lawyers say "Your honor"
+ 11) how many times justices interrupt each other
+ 12) how many questions lawyers ask justices
 
 2) SCDB:
  1) citations
