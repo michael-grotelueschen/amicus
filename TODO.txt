@@ -42,6 +42,14 @@ Possible features:
  10) how many times lawyers say "Your honor"
  11) how many times justices interrupt each other
  12) how many questions lawyers ask justices
+ 13) how many pauses lawyers take
+ 14) how many pauses justices take
+ 15) how many times lawyers say "constitution"
+ 16) how many times justices say "constitution"
+ 17) whether an amicus curiae speaks
+ 18) which side the amicus curiae speaks for
+ 19) which justice speaks the most
+ 20) how much the Chief Justice speaks
 
 2) SCDB:
  1) citations
@@ -61,3 +69,5 @@ Possible features:
 13) issueArea: issue area
 14) decisionDirection: how the court views the issue
                        (conservative, liberal, unspecifiable)
+
+3) Katz project:
