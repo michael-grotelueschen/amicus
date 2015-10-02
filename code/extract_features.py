@@ -21,12 +21,6 @@
 #  19) which justice speaks the most
 #  20) how much the Chief Justice speaks
 
-
-# 0) Get the names of the lawyers for the petitioners
-#    and respondents.
-# 1) Go through each line of the file and extract
-#    features.
-
 def extract_features(filename):
     """Extract features from a whitelist text file.
     Each whitelist text file has the same structure:
@@ -79,7 +73,8 @@ def extract_features(filename):
         # p_no_count : The number of times petitioners say 'no'.
         # p_I_count : The number of times petitioners say 'I'.
         # p_rebuttal : Did the petitioner offer a rebuttal?
-        #
+        # p_case_reference_count : The number of times a petitioner
+        #                          references a case.
         # 
         # p_num_justices  : The number of justices that speak to petitioners.
         # p_justice_word_count : The number of words justices speak to 
@@ -98,11 +93,13 @@ def extract_features(filename):
         # p_justice_no_count : The number of times justices say 'no'.
         # p_justice_I_count : The number of times justices say 'I'.
         # p_justice_why_count : The number of times justices say 'why'.
-        # 
+        # p_justice_case_reference_count : The number of times justices reference
+        #                                  cases.
         # 
 
         num_petitioner_lawyers = len(petitioners)
         num_respondent_lawyers = len(respondents)
+        amicus_curiae = False
 
         p_interruption_count = 0
         p_word_count = 0
@@ -114,6 +111,7 @@ def extract_features(filename):
         p_no_count = 0
         p_I_count = 0
         p_rebuttal = False
+        p_case_reference_count = 0
 
         p_justice_word_count = 0
         p_justice_interruption_count = 0
@@ -126,6 +124,7 @@ def extract_features(filename):
         p_justice_no_count = 0
         p_justice_I_count = 0
         p_justice_why_count = 0
+        p_justice_case_reference_count = 0
 
         r_interruption_count = 0
         r_word_count = 0
@@ -136,6 +135,7 @@ def extract_features(filename):
         r_yes_count = 0
         r_no_count = 0
         r_I_count = 0
+        r_case_reference_count = 0
 
         r_justice_word_count = 0
         r_justice_interruption_count = 0
@@ -148,6 +148,7 @@ def extract_features(filename):
         r_justice_no_count = 0
         r_justice_I_count = 0
         r_justice_why_count = 0
+        r_justice_case_reference_count = 0
 
         for line in f:
             # Determine which section of the text we are in:
@@ -165,6 +166,9 @@ def extract_features(filename):
 
                 if line.startswith('REBUTTAL ARGUMENT OF'):
                     p_rebuttal = True
+
+                if 'AMICUS' in line:
+                    amicus_curiae = True
                 continue
 
             # Determine the type of speaker
@@ -193,6 +197,7 @@ def extract_features(filename):
                     p_yes_count += get_yes_count(line)
                     p_no_count += get_no_count(line)
                     p_I_count += get_I_count(line)
+                    p_case_reference_count += get_case_reference_count(line)
 
                 if found_justice_speech:
                     p_justice_word_count += get_word_count(line)
@@ -209,6 +214,7 @@ def extract_features(filename):
                     p_justice_no_count += get_no_count(line)
                     p_justice_I_count += get_I_count(line)
                     p_justice_why_count += get_why_count(line)
+                    p_justice_case_reference_count += get_case_reference_count(line)
 
             if found_respondent_argument_section:
                 if found_lawyer_speech:
@@ -221,6 +227,7 @@ def extract_features(filename):
                     r_yes_count += get_yes_count(line)
                     r_no_count += get_no_count(line)
                     r_I_count += get_I_count(line)
+                    r_case_reference_count += get_case_reference_count(line)
 
                 if found_justice_speech:
                     r_justice_word_count += get_word_count(line)
@@ -232,20 +239,22 @@ def extract_features(filename):
                     r_justice_set.update(justice_name)
                     r_justice_question_count += get_question_count(line)
                     r_chief_justice_count += get_chief_justice_count(line)
+
                     r_justice_yes_count += get_yes_count(line)
                     r_justice_no_count += get_no_count(line)
                     r_justice_I_count += get_I_count(line)
                     r_justice_why_count += get_why_count(line)
+                    r_justice_case_reference_count += get_case_reference_count(line)
 
 
     p_num_justices = len(p_justice_set)
     r_num_justices = len(r_justice_set)
 
     print 'PETITIONER:'
-    print num_petitioner_lawyers
+    print p_justice_case_reference_count
     print 
     print 'RESPONDENT:'
-    print num_respondent_lawyers
+    print r_justice_case_reference_count
 
 def get_interruption(line):
     return line.endswith('--\n')
@@ -296,8 +305,12 @@ def get_I_count(line):
 def get_why_count(line):
     return line.lower().count('why')
 
+def get_case_reference_count(line):
+    return line.count(' v. ')
+
 if __name__ == '__main__':
-    filename = '../txts_whitelist/02-1672.txt'
+    #filename = '../txts_whitelist/02-1672.txt'
+    filename = '../txts_whitelist/03-10198.txt'
     extract_features(filename)
 
 
