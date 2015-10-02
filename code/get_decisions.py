@@ -29,43 +29,6 @@ def get_decisions():
         decisions[docket] = decision
     return decisions
 
-def get_speaker_names(filename):
-    """Get full speaker names for both petitioners and respondents."""
-    petitioner_strings = ['petitioner',\
-                          'appellant',\
-                          'plaintiff']
-    respondent_strings = ['respondent',\
-                          'appellee',\
-                          'defendant']
-    # The second 'start' condition is for case 10-7387,
-    # which does not include the word 'APPEARANCES'
-    reg = re.compile(r"""(?P<start>APPEARANCES:\n|
-                                   JASON\sD\.\sHAWKINS,\sESQ\.,\sAssistant\sFederal\sPublic)
-                         (?P<speakers>.+?)
-                         (?P<end>\nC\sO\sN\sT\sE\sN\sT\sS|
-                                 \nC\sO\sIn\sT\sE\sIn\sT\sS|
-                                 \nORAL\sARGUMENT\sOF\sPAGE)
-                      """, flags=re.MULTILINE|re.DOTALL|re.VERBOSE)
-
-    with open(filename) as f:
-        match = reg.search(f.read())
-    # This is to account for the 'start' condition for case 10-7387
-    if 'JASON D. HAWKINS' in match.group('start'):
-        speakers_string = match.group('start') + match.group('speakers')
-    else:
-        speakers_string = match.group('speakers')
-
-    speakers = speakers_string.split('.\n')
-    petitioner_speakers = []
-    respondent_speakers = []
-    for speaker in speakers:
-        name = speaker.split(',')[0]
-        if any(s in speaker.lower() for s in petitioner_strings):
-            petitioner_speakers.append(name)
-        else:
-            respondent_speakers.append(name)
-    return petitioner_speakers, respondent_speakers
-
 def get_interruption_count(filename, petitioners, respondents):
     """Get the interruption counts for both petitioners
     and respondents.
