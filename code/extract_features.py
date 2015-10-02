@@ -43,10 +43,21 @@ def extract_features(filename):
     REBUTTAL ARGUMENT OF...
     """
     with open(filename) as f:
-        petitioner_line = f.readline()
-        respondent_line = f.readline()
-        # The third line of the file is always blank
+        petitioner_line = f.readline().replace('\n', '')
+        petitioners = petitioner_line.split(':')[1].split(',')
+
+        respondent_line = f.readline().replace('\n', '')
+        respondents = respondent_line.split(':')[1].split(',')
+
+        # The third line of the file is always blank to make
+        # visual inspection easier.
         f.readline()
+
+        found_petitioner_argument_section = False
+        found_respondent_argument_section = False
+
+        found_lawyer_speech = False
+        found_justice_speech = False
 
         # These are the features to extract.
         # Here are some brief descriptions:
@@ -63,9 +74,68 @@ def extract_features(filename):
         # p_pauses        : The number of pauses petitioners take.
         # p_justice_pauses : The number of pauses justices take during
         #                    petitioners' argument.
-        # 
+        p_interruptions = 0
+        r_interruptions = 0
+
+        for line in f:
+            # Determine which section of the text we are in:
+            # petitioners' argument
+            # OR
+            # respondents' argument
+            if line.startswith('ORAL ARGUMENT OF') or \
+               line.startswith('REBUTTAL ARGUMENT OF'):
+                if any(s in line for s in petitioners):
+                    found_petitioner_argument_section = True
+                    found_respondent_argument_section = False
+
+                if any(s in line for s in respondents):
+                    found_petitioner_argument_section = False
+                    found_respondent_argument_section = True
+
+            # Determine the type of speaker
+            # lawyer
+            # OR
+            # justice
+            if line.startswith('MR') or \
+               line.startswith('MS') or \
+               line.startswith('GENERAL'):
+                found_lawyer_speech = True
+                found_justice_speech = False
+
+            if line.startswith('JUSTICE') or \
+               line.startswith('CHIEF JUSTICE'):
+                found_lawyer_speech = False
+                found_justice_speech = True
+
+            if found_petitioner_argument_section:
+                if found_lawyer_speech:
+                    p_interruptions += get_interruption(line)
+
+                if found_justice_speech:
+                    pass
+
+            if found_respondent_argument_section:
+                if found_lawyer_speech:
+                    r_interruptions += get_interruption(line)
+
+                if found_justice_speech:
+                    pass
+
+    return p_interruptions, r_interruptions
+
+def get_interruption(line):
+    return line.endswith('--\n')
+
+
 
 if __name__ == '__main__':
+    filename = '../txts_whitelist/02-1672.txt'
+    p_interruptions, r_interruptions = extract_features(filename)
+
+    print 'PETITIONER INTERRUPTIONS:'
+    print p_interruptions
+    print 'RESPONDENT INTERRUPTIONS:'
+    print r_interruptions
 
 
 
