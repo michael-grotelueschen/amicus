@@ -60,6 +60,7 @@ def extract_features(filename):
         #                          petitioners.
         # num_respondent_lawyers : The number of lawyers arguing for the 
         #                          respondents.
+        # amicus_curiae : Whether an amicus curiae speaks.
         #
         # p_interruptions : The number of times petitioners are interrupted.
         # p_word_count    : The number of words petitioners speak.
