@@ -1,3 +1,5 @@
+import pandas as pd
+
 # Possible features:
 # 1) Oral arguments:
 #  1)  interruptions
@@ -247,6 +249,9 @@ def extract_features(filename):
                     r_justice_why_count += get_why_count(line)
                     r_justice_case_reference_count += get_case_reference_count(line)
 
+    amicus_curiae = int(amicus_curiae)
+    p_rebuttal = int(p_rebuttal)
+
     p_num_justices = len(p_justice_set)
     r_num_justices = len(r_justice_set)
 
@@ -390,7 +395,11 @@ def get_decisions():
 if __name__ == '__main__':
     #filename = '../txts_whitelist/02-1672.txt'
 
-    output = ''
+    output = 'docket,'
+    for n in xrange(1, 49):
+        output += 'f' + str(n) + ','
+    output += 'decision,\n'
+
     dockets = get_dockets()
     decisions = get_decisions()
     for docket in dockets:
@@ -398,7 +407,7 @@ if __name__ == '__main__':
         features = extract_features(filename)
 
         output += docket + ','
-        output += ','.join(features) + ','
+        output += ','.join([str(f) for f in features]) + ','
         output += str(decisions[docket]) + '\n'
 
     with open('test_file.csv', 'w') as f:
