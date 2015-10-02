@@ -247,15 +247,65 @@ def extract_features(filename):
                     r_justice_why_count += get_why_count(line)
                     r_justice_case_reference_count += get_case_reference_count(line)
 
-
     p_num_justices = len(p_justice_set)
     r_num_justices = len(r_justice_set)
 
-    print 'PETITIONER:'
-    print p_justice_case_reference_count
-    print 
-    print 'RESPONDENT:'
-    print r_justice_case_reference_count
+    features = [num_petitioner_lawyers, 
+                num_respondent_lawyers, 
+                amicus_curiae,
+
+                p_interruption_count,
+                p_word_count,
+                p_laughter,
+                p_pauses,
+                p_question_count,
+                p_your_honor_count,
+                p_yes_count,
+                p_no_count,
+                p_I_count,
+                p_rebuttal,
+                p_case_reference_count,
+
+                p_justice_word_count,
+                p_justice_interruption_count,
+                p_justice_pauses,
+                p_justice_laughter,
+                p_justice_question_count,
+                p_chief_justice_count,
+                p_justice_yes_count,
+                p_justice_no_count,
+                p_justice_I_count,
+                p_justice_why_count,
+                p_justice_case_reference_count,
+
+                r_interruption_count,
+                r_word_count,
+                r_laughter,
+                r_pauses,
+                r_question_count,
+                r_your_honor_count,
+                r_yes_count,
+                r_no_count,
+                r_I_count,
+                r_case_reference_count,
+
+                r_justice_word_count,
+                r_justice_interruption_count,
+                r_justice_pauses,
+                r_justice_laughter,
+                r_justice_question_count,
+                r_chief_justice_count,
+                r_justice_yes_count,
+                r_justice_no_count,
+                r_justice_I_count,
+                r_justice_why_count,
+                r_justice_case_reference_count,
+
+                p_num_justices,
+                r_num_justices]
+
+    return features
+
 
 def get_interruption(line):
     return line.endswith('--\n')
@@ -309,13 +359,50 @@ def get_why_count(line):
 def get_case_reference_count(line):
     return line.count(' v. ')
 
+def get_dockets():
+    """Get all of the dockets to investigate."""
+    filename = '../debug_files/ok_case_names'
+    with open(filename) as f:
+        dockets = [line.split('.')[0] for line in f if '.txt' in line]
+    return dockets
+
+def get_decisions():
+    """Get the decisions for all of the dockets.
+    Return a dictionary with dockets as keys and decicions as values.
+    The decicions are either 1 (petitioner won) or 0 (respondent won).
+    """
+    dockets = get_dockets()
+
+    # Use SCDB_2015_01_caseCentered_Citation.csv
+    # Docket column is: 'docket'
+    # Decision column is: 'partyWinning'
+    # 'partyWinning' = 1: petitioner won
+    # 'partyWinning' = 0: respondent won
+    df = pd.read_csv('../scdb/SCDB_2015_01_caseCentered_Citation.csv')    
+
+    decisions = {}
+    for docket in dockets:
+        decision = df[df['docket'] == docket]['partyWinning'].values[0]
+        decisions[docket] = decision
+    return decisions
+
+
 if __name__ == '__main__':
     #filename = '../txts_whitelist/02-1672.txt'
-    filename = '../txts_whitelist/03-10198.txt'
-    extract_features(filename)
 
+    output = ''
+    dockets = get_dockets()
+    decisions = get_decisions()
+    for docket in dockets:
+        filename = '../txts_whitelist/' + docket + '.txt'
+        features = extract_features(filename)
 
+        output += docket + ','
+        output += ','.join(features) + ','
+        output += str(decisions[docket]) + '\n'
 
+    with open('test_file.csv', 'w') as f:
+        f.write(output)
 
 
 
