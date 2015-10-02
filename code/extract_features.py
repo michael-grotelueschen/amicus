@@ -70,6 +70,9 @@ def extract_features(filename):
         # p_question_count : The number of questions petitioners ask.
         # p_your_honor_count : The number of times petitioners say
         #                      'Your honor'
+        # p_yes_count : The number of times petitioners say 'yes'.
+        # p_no_count : The number of times petitioners say 'no'.
+        # p_I_count : The number of times petitioners say 'I'.
         # 
         # p_num_justices  : The number of justices that speak to petitioners.
         # p_justice_word_count : The number of words justices speak to 
@@ -84,6 +87,9 @@ def extract_features(filename):
         #                            during the petitioners' argument.
         # p_chief_justice_count : How many times the chief justice speaks
         #                         during the petitioners' argument.
+        # p_justice_yes_count : The number of times justices say 'yes'.
+        # p_justice_no_count : The number of times justices say 'no'.
+        # p_justice_I_count : The number of times justices say 'I'.
         # 
         # 
         # 
@@ -100,6 +106,9 @@ def extract_features(filename):
         p_pauses = 0
         p_question_count = 0
         p_your_honor_count = 0
+        p_yes_count = 0
+        p_no_count = 0
+        p_I_count = 0
 
         p_justice_word_count = 0
         p_justice_interruption_count = 0
@@ -108,6 +117,9 @@ def extract_features(filename):
         p_justice_set = set([])
         p_justice_question_count = 0
         p_chief_justice_count = 0
+        p_justice_yes_count = 0
+        p_justice_no_count = 0
+        p_justice_I_count = 0
 
         r_interruption_count = 0
         r_word_count = 0
@@ -115,6 +127,9 @@ def extract_features(filename):
         r_pauses = 0
         r_question_count = 0
         r_your_honor_count = 0
+        r_yes_count = 0
+        r_no_count = 0
+        r_I_count = 0
 
         r_justice_word_count = 0
         r_justice_interruption_count = 0
@@ -123,6 +138,9 @@ def extract_features(filename):
         r_justice_set = set([])
         r_justice_question_count = 0
         r_chief_justice_count = 0
+        r_justice_yes_count = 0
+        r_justice_no_count = 0
+        r_justice_I_count = 0
 
         for line in f:
             # Determine which section of the text we are in:
@@ -162,6 +180,9 @@ def extract_features(filename):
                     p_laughter += get_laughter(line)
                     p_question_count += get_question_count(line)
                     p_your_honor_count += get_your_honor_count(line)
+                    p_yes_count += get_yes_count(line)
+                    p_no_count += get_no_count(line)
+                    p_I_count += get_I_count(line)
 
                 if found_justice_speech:
                     p_justice_word_count += get_word_count(line)
@@ -174,6 +195,10 @@ def extract_features(filename):
                     p_justice_question_count += get_question_count(line)
                     p_chief_justice_count += get_chief_justice_count(line)
 
+                    p_justice_yes_count += get_yes_count(line)
+                    p_justice_no_count += get_no_count(line)
+                    p_justice_I_count += get_I_count(line)
+
             if found_respondent_argument_section:
                 if found_lawyer_speech:
                     r_interruption_count += get_interruption(line)
@@ -182,6 +207,9 @@ def extract_features(filename):
                     r_laughter += get_laughter(line)
                     r_question_count += get_question_count(line)
                     r_your_honor_count += get_your_honor_count(line)
+                    r_yes_count += get_yes_count(line)
+                    r_no_count += get_no_count(line)
+                    r_I_count += get_I_count(line)
 
                 if found_justice_speech:
                     r_justice_word_count += get_word_count(line)
@@ -193,16 +221,19 @@ def extract_features(filename):
                     r_justice_set.update(justice_name)
                     r_justice_question_count += get_question_count(line)
                     r_chief_justice_count += get_chief_justice_count(line)
+                    r_justice_yes_count += get_yes_count(line)
+                    r_justice_no_count += get_no_count(line)
+                    r_justice_I_count += get_I_count(line)
 
 
     p_num_justices = len(p_justice_set)
     r_num_justices = len(r_justice_set)
 
     print 'PETITIONER:'
-    print p_your_honor_count
+    print p_justice_I_count
     print 
     print 'RESPONDENT:'
-    print r_your_honor_count
+    print r_justice_I_count
 
 def get_interruption(line):
     return line.endswith('--\n')
@@ -238,6 +269,17 @@ def get_chief_justice_count(line):
 def get_your_honor_count(line):
     return line.lower().count('your honor')
 
+def get_yes_count(line):
+    return line.lower().count('yes')
+
+def get_no_count(line):
+    no_count =  line.lower().count(' no ')
+    no_count += line.lower().count(' no.')
+    no_count += line.lower().count(' no,')
+    return no_count
+
+def get_I_count(line):
+    return line.count('I')
 
 if __name__ == '__main__':
     filename = '../txts_whitelist/02-1672.txt'
