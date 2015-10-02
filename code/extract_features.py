@@ -66,16 +66,43 @@ def extract_features(filename):
         # p_word_count    : The number of words petitioners speak.
         # p_laughter      : The number of times laughter occurs during the
         #                   petitioners section
+        # p_pauses        : The number of pauses petitioners take.
+        # 
         # p_num_justices  : The number of justices that speak to petitioners.
         # p_justice_word_count : The number of words justices speak to 
         #                        petitioners.
-        # p_justice_interruptions : The number of times justices interrupt
-        #                           each other during the petitioners' argument.
-        # p_pauses        : The number of pauses petitioners take.
+        # p_justice_interruptions : The number of times justices are 
+        #                           interrupted during the petitioners' argument.
         # p_justice_pauses : The number of pauses justices take during
         #                    petitioners' argument.
-        p_interruptions = 0
-        r_interruptions = 0
+        # p_justice_laughter : The number of times laughter occurs during
+        #                      a justices speech.
+        # 
+        # 
+        # 
+        # 
+
+        p_interruption_count = 0
+        p_word_count = 0
+        p_laughter = 0
+        p_pauses = 0
+
+        p_justice_word_count = 0
+        p_justice_interruption_count = 0
+        p_justice_pauses = 0
+        p_justice_laughter = 0
+        p_justice_set = set([])
+
+        r_interruption_count = 0
+        r_word_count = 0
+        r_laughter = 0
+        r_pauses = 0
+
+        r_justice_word_count = 0
+        r_justice_interruption_count = 0
+        r_justice_pauses = 0
+        r_justice_laughter = 0
+        r_justice_set = set([])
 
         for line in f:
             # Determine which section of the text we are in:
@@ -87,10 +114,10 @@ def extract_features(filename):
                 if any(s in line for s in petitioners):
                     found_petitioner_argument_section = True
                     found_respondent_argument_section = False
-
                 if any(s in line for s in respondents):
                     found_petitioner_argument_section = False
                     found_respondent_argument_section = True
+                continue
 
             # Determine the type of speaker
             # lawyer
@@ -109,36 +136,72 @@ def extract_features(filename):
 
             if found_petitioner_argument_section:
                 if found_lawyer_speech:
-                    p_interruptions += get_interruption(line)
+                    p_interruption_count += get_interruption(line)
+                    p_word_count += get_word_count(line)
+                    p_pauses += get_pauses(line)
+                    p_laughter += get_laughter(line)
 
                 if found_justice_speech:
-                    pass
+                    p_justice_word_count += get_word_count(line)
+                    p_justice_interruption_count += get_interruption(line)
+                    p_justice_pauses += get_pauses(line)
+                    p_justice_laughter += get_laughter(line)
+
+                    justice_name = [get_justice_name(line)]
+                    p_justice_set.update(justice_name)
 
             if found_respondent_argument_section:
                 if found_lawyer_speech:
-                    r_interruptions += get_interruption(line)
+                    r_interruption_count += get_interruption(line)
+                    r_word_count += get_word_count(line)
+                    r_pauses += get_pauses(line)
+                    r_laughter += get_laughter(line)
 
                 if found_justice_speech:
-                    pass
+                    r_justice_word_count += get_word_count(line)
+                    r_justice_interruption_count += get_interruption(line)
+                    r_justice_pauses += get_pauses(line)
+                    r_justice_laughter += get_laughter(line)
 
-    return p_interruptions, r_interruptions
+                    justice_name = [get_justice_name(line)]
+                    r_justice_set.update(justice_name)
+
+    p_num_justices = len(p_justice_set)
+    r_num_justices = len(r_justice_set)
+
+    print 'PETITIONER:'
+    print 
+    print 
+    print 'RESPONDENT:'
+    print 
 
 def get_interruption(line):
     return line.endswith('--\n')
 
+def get_word_count(line):
+    """Get the word count of a line, but ignore 'CHIEF JUSTICE'
+    and 'JUSTICE' and '[NAME]:'
+    """
+    if line.startswith('CHIEF'):
+        return len(line.split(' ')) - 3
+    else:
+        return len(line.split(' ')) - 2        
+
+def get_laughter(line):
+    return '(Laughter.)' in line
+
+def get_pauses(line):
+    return line.count(' -- ')
+
+def get_justice_name(line):
+    name_string = line.split(':')[0]
+    name = name_string.split(' ')[-1]
+    return name
 
 
 if __name__ == '__main__':
     filename = '../txts_whitelist/02-1672.txt'
-    p_interruptions, r_interruptions = extract_features(filename)
-
-    print 'PETITIONER INTERRUPTIONS:'
-    print p_interruptions
-    print 'RESPONDENT INTERRUPTIONS:'
-    print r_interruptions
-
-
-
+    extract_features(filename)
 
 
 
