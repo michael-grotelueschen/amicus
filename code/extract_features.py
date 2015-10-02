@@ -61,6 +61,11 @@ def extract_features(filename):
 
         # These are the features to extract.
         # Here are some brief descriptions:
+        # 
+        # num_petitioner_lawyers : The number of lawyers arguing for the 
+        #                          petitioners.
+        # num_respondent_lawyers : The number of lawyers arguing for the 
+        #                          respondents.
         #
         # p_interruptions : The number of times petitioners are interrupted.
         # p_word_count    : The number of words petitioners speak.
@@ -95,12 +100,9 @@ def extract_features(filename):
         # p_justice_why_count : The number of times justices say 'why'.
         # 
         # 
-        # 
-        # 
-        # 
-        # 
-        # 
-        # 
+
+        num_petitioner_lawyers = len(petitioners)
+        num_respondent_lawyers = len(respondents)
 
         p_interruption_count = 0
         p_word_count = 0
@@ -240,10 +242,10 @@ def extract_features(filename):
     r_num_justices = len(r_justice_set)
 
     print 'PETITIONER:'
-    print 
+    print num_petitioner_lawyers
     print 
     print 'RESPONDENT:'
-    print 
+    print num_respondent_lawyers
 
 def get_interruption(line):
     return line.endswith('--\n')
