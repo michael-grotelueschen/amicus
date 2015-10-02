@@ -73,6 +73,8 @@ def extract_features(filename):
         # p_yes_count : The number of times petitioners say 'yes'.
         # p_no_count : The number of times petitioners say 'no'.
         # p_I_count : The number of times petitioners say 'I'.
+        # p_rebuttal : Did the petitioner offer a rebuttal?
+        #
         # 
         # p_num_justices  : The number of justices that speak to petitioners.
         # p_justice_word_count : The number of words justices speak to 
@@ -90,7 +92,7 @@ def extract_features(filename):
         # p_justice_yes_count : The number of times justices say 'yes'.
         # p_justice_no_count : The number of times justices say 'no'.
         # p_justice_I_count : The number of times justices say 'I'.
-        # 
+        # p_justice_why_count : The number of times justices say 'why'.
         # 
         # 
         # 
@@ -109,6 +111,7 @@ def extract_features(filename):
         p_yes_count = 0
         p_no_count = 0
         p_I_count = 0
+        p_rebuttal = False
 
         p_justice_word_count = 0
         p_justice_interruption_count = 0
@@ -120,6 +123,7 @@ def extract_features(filename):
         p_justice_yes_count = 0
         p_justice_no_count = 0
         p_justice_I_count = 0
+        p_justice_why_count = 0
 
         r_interruption_count = 0
         r_word_count = 0
@@ -141,6 +145,7 @@ def extract_features(filename):
         r_justice_yes_count = 0
         r_justice_no_count = 0
         r_justice_I_count = 0
+        r_justice_why_count = 0
 
         for line in f:
             # Determine which section of the text we are in:
@@ -155,6 +160,9 @@ def extract_features(filename):
                 if any(s in line for s in respondents):
                     found_petitioner_argument_section = False
                     found_respondent_argument_section = True
+
+                if line.startswith('REBUTTAL ARGUMENT OF'):
+                    p_rebuttal = True
                 continue
 
             # Determine the type of speaker
@@ -198,6 +206,7 @@ def extract_features(filename):
                     p_justice_yes_count += get_yes_count(line)
                     p_justice_no_count += get_no_count(line)
                     p_justice_I_count += get_I_count(line)
+                    p_justice_why_count += get_why_count(line)
 
             if found_respondent_argument_section:
                 if found_lawyer_speech:
@@ -224,16 +233,17 @@ def extract_features(filename):
                     r_justice_yes_count += get_yes_count(line)
                     r_justice_no_count += get_no_count(line)
                     r_justice_I_count += get_I_count(line)
+                    r_justice_why_count += get_why_count(line)
 
 
     p_num_justices = len(p_justice_set)
     r_num_justices = len(r_justice_set)
 
     print 'PETITIONER:'
-    print p_justice_I_count
+    print 
     print 
     print 'RESPONDENT:'
-    print r_justice_I_count
+    print 
 
 def get_interruption(line):
     return line.endswith('--\n')
@@ -280,6 +290,9 @@ def get_no_count(line):
 
 def get_I_count(line):
     return line.count('I')
+
+def get_why_count(line):
+    return line.lower().count('why')
 
 if __name__ == '__main__':
     filename = '../txts_whitelist/02-1672.txt'
