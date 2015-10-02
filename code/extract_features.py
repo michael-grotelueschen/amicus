@@ -67,6 +67,7 @@ def extract_features(filename):
         # p_laughter      : The number of times laughter occurs during the
         #                   petitioners section
         # p_pauses        : The number of pauses petitioners take.
+        # p_question_count : The number of questions petitioners ask.
         # 
         # p_num_justices  : The number of justices that speak to petitioners.
         # p_justice_word_count : The number of words justices speak to 
@@ -77,8 +78,8 @@ def extract_features(filename):
         #                    petitioners' argument.
         # p_justice_laughter : The number of times laughter occurs during
         #                      a justices speech.
-        # 
-        # 
+        # p_justice_question_count : The number of questions justices ask
+        #                            during the petitioners' argument.
         # 
         # 
 
@@ -86,23 +87,27 @@ def extract_features(filename):
         p_word_count = 0
         p_laughter = 0
         p_pauses = 0
+        p_question_count = 0
 
         p_justice_word_count = 0
         p_justice_interruption_count = 0
         p_justice_pauses = 0
         p_justice_laughter = 0
         p_justice_set = set([])
+        p_justice_question_count = 0
 
         r_interruption_count = 0
         r_word_count = 0
         r_laughter = 0
         r_pauses = 0
+        r_question_count = 0
 
         r_justice_word_count = 0
         r_justice_interruption_count = 0
         r_justice_pauses = 0
         r_justice_laughter = 0
         r_justice_set = set([])
+        r_justice_question_count = 0
 
         for line in f:
             # Determine which section of the text we are in:
@@ -140,6 +145,7 @@ def extract_features(filename):
                     p_word_count += get_word_count(line)
                     p_pauses += get_pauses(line)
                     p_laughter += get_laughter(line)
+                    p_question_count += get_question_count(line)
 
                 if found_justice_speech:
                     p_justice_word_count += get_word_count(line)
@@ -149,6 +155,7 @@ def extract_features(filename):
 
                     justice_name = [get_justice_name(line)]
                     p_justice_set.update(justice_name)
+                    p_justice_question_count += get_question_count(line)
 
             if found_respondent_argument_section:
                 if found_lawyer_speech:
@@ -156,6 +163,7 @@ def extract_features(filename):
                     r_word_count += get_word_count(line)
                     r_pauses += get_pauses(line)
                     r_laughter += get_laughter(line)
+                    r_question_count += get_question_count(line)
 
                 if found_justice_speech:
                     r_justice_word_count += get_word_count(line)
@@ -165,15 +173,17 @@ def extract_features(filename):
 
                     justice_name = [get_justice_name(line)]
                     r_justice_set.update(justice_name)
+                    r_justice_question_count += get_question_count(line)
+
 
     p_num_justices = len(p_justice_set)
     r_num_justices = len(r_justice_set)
 
     print 'PETITIONER:'
-    print 
+    print p_justice_question_count
     print 
     print 'RESPONDENT:'
-    print 
+    print r_justice_question_count
 
 def get_interruption(line):
     return line.endswith('--\n')
@@ -197,6 +207,9 @@ def get_justice_name(line):
     name_string = line.split(':')[0]
     name = name_string.split(' ')[-1]
     return name
+
+def get_question_count(line):
+    return line.count('?')
 
 
 if __name__ == '__main__':
