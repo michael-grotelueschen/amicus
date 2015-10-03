@@ -407,7 +407,7 @@ if __name__ == '__main__':
         features = extract_features(filename)
 
         output += docket + ','
-        output += ','.join([str(f) for f in features]) + ','
+        output += ','.join([str(f) for f in features])
         output += str(decisions[docket]) + '\n'
 
     with open('test_file.csv', 'w') as f:
