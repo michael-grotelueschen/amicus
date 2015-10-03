@@ -410,7 +410,7 @@ if __name__ == '__main__':
         output += ','.join([str(f) for f in features])
         output += str(decisions[docket]) + '\n'
 
-    with open('test_file.csv', 'w') as f:
+    with open('../debug_files/test_file.csv', 'w') as f:
         f.write(output)
 
 
