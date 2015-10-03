@@ -20,38 +20,30 @@ quotation marks: \xe2\x80\x99
 
 CASE 04-277
 
+1)
 
 
 
 
-1) 
-Investigate datasets/features besides the oral argument transcripts.
+
+
+
+
+
+
+
+
+
+
 
 Oral arguments
 Supreme Court Database
 
 Possible features:
 1) Oral arguments:
- 1)  interruptions
- 2)  word counts
- 3)  laughter
- 4)  how many justices interact with a side
- 5)  how many questions justices ask a side
- 6)  key (positive/negative) words for petitioners/respondents
- 7)  key (positive/negative) words for justices
- 8)  whether lawyers use all of their time ("reserve the remainder...")
- 9)  sentiment
- 10) how many times lawyers say "Your honor"
- 11) how many times justices interrupt each other
- 12) how many questions lawyers ask justices
- 13) how many pauses lawyers take
- 14) how many pauses justices take
- 15) how many times lawyers say "constitution"
- 16) how many times justices say "constitution"
- 17) whether an amicus curiae speaks
- 18) which side the amicus curiae speaks for
- 19) which justice speaks the most
- 20) how much the Chief Justice speaks
+ 1)  sentiment
+ 2) how many times lawyers say "constitution"
+ 3) how many times justices say "constitution"
 
 2) SCDB:
  1) citations
@@ -71,5 +63,3 @@ Possible features:
 13) issueArea: issue area
 14) decisionDirection: how the court views the issue
                        (conservative, liberal, unspecifiable)
-
-3) Katz project:
