@@ -77,10 +77,101 @@ print np.mean(scores)
 
 # In[37]:
 
+  
+
+
+# In[ ]:
+
+
+
+
+# In[ ]:
+
+
+
+
+
+
+
+
+# coding: utf-8
+
+# In[21]:
+
+import pandas as pd
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
+
+from sklearn.cross_validation import cross_val_score
+from sklearn.metrics import accuracy_score,                             precision_score,                             recall_score,                             classification_report,                             confusion_matrix                
+        
+get_ipython().magic(u'matplotlib inline')
+
+
+# In[22]:
+
+df_transcripts = pd.read_csv('amicus/code/test_file.csv')
+
+
+# In[23]:
+
+df_transcripts.columns[-1]
+
+
+# In[24]:
+
+df_transcripts.pop('Unnamed: 50')
+
+
+# In[25]:
+
+df_transcripts
+
+
+# In[26]:
+
+y_true = df_transcripts['decision'].values
+
+df_transcripts.pop('decision')
+df_transcripts.pop('docket')
+
+x = df_transcripts.values
+
+
+# In[29]:
+
+x.shape
+
+
+# In[68]:
+
+model = LogisticRegression()
+model.fit(x, y_true)
+model.get_params()
+
+probs = model.predict_proba(x)[:, 1]
+threshold = 0.5
+y_pred = probs > threshold
+
+print classification_report(y_true, y_pred)
+print accuracy_score(y_true, y_pred)
+print confusion_matrix(y_true, y_pred)
+
+scores = cross_val_score(model, x, y_true, scoring='f1', cv=10)
+print np.mean(scores)
+
+
+# In[55]:
+
 model = RandomForestClassifier()
-#model.fit(x, y_true)
+model.fit(x, y_true)
 
 #probs = model.predict_proba(x)[:, 1]
+#threshold = 0.5
 #y_pred = probs > threshold
 
 #print classification_report(y_true, y_pred)
@@ -89,11 +180,6 @@ model = RandomForestClassifier()
 
 scores = cross_val_score(model, x, y_true, scoring='f1', cv=10)
 print np.mean(scores)
-
-
-# In[ ]:
-
-
 
 
 # In[ ]:
