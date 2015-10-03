@@ -27,6 +27,7 @@ def strip_lines(filename=None):
     """
     space_byte = '\xc2\xa0'
     hyphen_byte = '\xc2\xad'
+    quote_byte = '\xe2\x80\x99'
     t1 = 'Official'
     t2 = 'Alderson Reporting Company'
     t3 = '1111 14th Street'
@@ -45,11 +46,13 @@ def strip_lines(filename=None):
             line = line.strip()
             if line.startswith('Page'):
                 line = ''
-            # remove: unicode byte: '\xc2\xa0' == ' '
-            #         unicode byte: '\xc2\xad' == '-'
+            # remove: unicode byte: '\xc2\xa0'     == ' '
+            #         unicode byte: '\xc2\xad'     == '-'
+            #         unicode byte: '\xe2\x80\x99' == "'"
             #         leading and trailing whitespace
             line = line.replace(space_byte, ' ')
             line = line.replace(hyphen_byte, '-')
+            line = line.replace(quote_byte, "'")
             line = line.strip()
             # remove all traces of the Alderson Reporting Company
             if t1 in line or \
