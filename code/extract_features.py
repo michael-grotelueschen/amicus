@@ -398,7 +398,7 @@ if __name__ == '__main__':
     output = 'docket,'
     for n in xrange(1, 49):
         output += 'f' + str(n) + ','
-    output += 'decision,\n'
+    output += 'decision\n'
 
     dockets = get_dockets()
     decisions = get_decisions()
