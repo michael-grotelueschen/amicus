@@ -76,8 +76,8 @@ def exlore_models():
     #print scores
     #print np.mean(scores)
 
-def get_predictions():
-    """Get predictions for a particular model."""
+def get_predictions_and_actual_outcomes():
+    """Get predictions for a particular model and the actual outcomes."""
     df_train_set, df_test_set = get_train_set_and_test_set_dataframes()
 
     y_true_train = df_train_set['decision'].values
@@ -92,16 +92,26 @@ def get_predictions():
     threshold = 0.7
     y_pred = probs > threshold
 
-    predictions = []
+    predictions_and_actual_outcomes = []
     for docket, prediction in zip(df_test_set['docket'].tolist(), y_pred):
         if prediction == True:
-            winning_side = 'petitioner'
+            predicted_winning_side = 'petitioner'
         else:
-            winning_side = 'respondent'
-        predictions.append(docket + ':' + winning_side)
-    return '\n'.join(predictions)
+            predicted_winning_side = 'respondent'
+        
+        actual_outcome = df_test_set[df_test_set['docket'] == docket]['decision'].values[0]
+        if actual_outcome == True:
+            actual_winning_side = 'petitioner'
+        else:
+            actual_winning_side = 'respondent'
+        print actual_winning_side
+
+        predictions_and_actual_outcomes.append(docket + \
+                                               ':' + predicted_winning_side + \
+                                               ':' + actual_winning_side)
+    return '\n'.join(predictions_and_actual_outcomes)
 
 if __name__ == "__main__":
-    predictions = get_predictions()
-    with open('predictions', 'w') as f:
-        f.write(predictions)
+    predictions_and_actual_outcomes = get_predictions_and_actual_outcomes()
+    with open('predictions_and_actual_outcomes', 'w') as f:
+        f.write(predictions_and_actual_outcomes)
