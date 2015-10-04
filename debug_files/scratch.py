@@ -58,34 +58,6 @@ x = np.hstack((x, pd.get_dummies(df_final['respondent_interruption_count']).valu
 y_true = df_final['partyWinning'].values
 
 
-# In[36]:
-
-model = LogisticRegression()
-
-#model.fit(x, y_true)
-#probs = model.predict_proba(x)[:, 1]
-#threshold = 0.5
-#y_pred = probs > threshold
-
-#print classification_report(y_true, y_pred)
-#print accuracy_score(y_true, y_pred)
-#print confusion_matrix(y_true, y_pred)
-
-scores = cross_val_score(model, x, y_true, scoring='f1', cv=10)
-print np.mean(scores)
-
-
-# In[37]:
-
-  
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
 
 
 
@@ -94,9 +66,7 @@ print np.mean(scores)
 
 
 
-# coding: utf-8
 
-# In[21]:
 
 import pandas as pd
 import numpy as np
@@ -107,82 +77,82 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 
 from sklearn.cross_validation import cross_val_score
-from sklearn.metrics import accuracy_score,                             precision_score,                             recall_score,                             classification_report,                             confusion_matrix                
-        
+from sklearn.metrics import accuracy_score,                            precision_score,                            recall_score,                            classification_report,                            confusion_matrix
 get_ipython().magic(u'matplotlib inline')
 
 
-# In[22]:
+# In[193]:
 
 df_transcripts = pd.read_csv('amicus/code/test_file.csv')
+dockets = df_transcripts['docket'].tolist()
+
+ok_cases_train_set = []
+with open('amicus/code/ok_cases_train_set') as f:
+    for line in f:
+        case = line.replace('\n', '')
+        ok_cases_train_set.append(case)
+        
+ok_cases_test_set = []
+with open('amicus/code/ok_cases_test_set') as f:
+    for line in f:
+        case = line.replace('\n', '')
+        ok_cases_test_set.append(case)
+
+train_set_mask = [True if d in ok_cases_train_set else False for d in dockets]
+test_set_mask = [True if d in ok_cases_test_set else False for d in dockets]
 
 
-# In[23]:
+# In[194]:
 
-df_transcripts.columns[-1]
-
-
-# In[24]:
-
-df_transcripts.pop('Unnamed: 50')
+df_train_set = df_transcripts[train_set_mask]
+df_test_set = df_transcripts[test_set_mask]
 
 
-# In[25]:
+# In[195]:
 
-df_transcripts
+y_true_train = df_train_set['decision'].values
+df_train_set.pop('decision')
+df_train_set.pop('docket')
+x_train = df_train_set.values
 
-
-# In[26]:
-
-y_true = df_transcripts['decision'].values
-
-df_transcripts.pop('decision')
-df_transcripts.pop('docket')
-
-x = df_transcripts.values
+y_true_test = df_test_set['decision'].values
+df_test_set.pop('decision')
+df_test_set.pop('docket')
+x_test = df_test_set.values
 
 
-# In[29]:
+# In[210]:
 
-x.shape
+lr_model = LogisticRegression()
+lr_model.fit(x_train, y_true_train)
+lr_model.get_params()
+
+probs = lr_model.predict_proba(x_test)[:, 1]
+threshold = 0.7
+y_pred = probs > threshold
+
+print classification_report(y_true_test, y_pred)
+print accuracy_score(y_true_test, y_pred)
+print confusion_matrix(y_true_test, y_pred)
+
+#scores = cross_val_score(lr_model, x, y_true, scoring='f1', cv=10)
+#print scores
+#print np.mean(scores)
 
 
-# In[68]:
+# In[197]:
 
-model = LogisticRegression()
-model.fit(x, y_true)
-model.get_params()
+rf_model = RandomForestClassifier()
+rf_model.fit(x_train, y_true_train)
 
-probs = model.predict_proba(x)[:, 1]
+probs = rf_model.predict_proba(x_test)[:, 1]
 threshold = 0.5
 y_pred = probs > threshold
 
-print classification_report(y_true, y_pred)
-print accuracy_score(y_true, y_pred)
-print confusion_matrix(y_true, y_pred)
+print classification_report(y_true_test, y_pred)
+print accuracy_score(y_true_test, y_pred)
+print confusion_matrix(y_true_test, y_pred)
 
-scores = cross_val_score(model, x, y_true, scoring='f1', cv=10)
-print np.mean(scores)
-
-
-# In[55]:
-
-model = RandomForestClassifier()
-model.fit(x, y_true)
-
-#probs = model.predict_proba(x)[:, 1]
-#threshold = 0.5
-#y_pred = probs > threshold
-
-#print classification_report(y_true, y_pred)
-#print accuracy_score(y_true, y_pred)
-#print confusion_matrix(y_true, y_pred)
-
-scores = cross_val_score(model, x, y_true, scoring='f1', cv=10)
-print np.mean(scores)
-
-
-# In[ ]:
-
-
-
+#scores = cross_val_score(rf_model, x, y_true, scoring='f1', cv=10)
+#print scores
+#print np.mean(scores)
