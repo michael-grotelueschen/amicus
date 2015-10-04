@@ -15,17 +15,7 @@ PRIORITIES:
 
 
 0)
-TEXT CLEAN UP:
-CASE 04-277
-
-
-1)
-FILENAME CLEAN UP:
-remove underscores
-(need to be able to use cases from latest term)
-
-
-
+Get list of cases from the 2014 term.
 
 
 
