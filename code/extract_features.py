@@ -1,28 +1,5 @@
 import pandas as pd
 
-# Possible features:
-# 1) Oral arguments:
-#  1)  interruptions
-#  2)  word counts
-#  3)  laughter
-#  4)  how many justices interact with a side
-#  5)  how many questions justices ask a side
-#  6)  key (positive/negative) words for petitioners/respondents
-#  7)  key (positive/negative) words for justices
-#  8)  whether lawyers use all of their time ("reserve the remainder...")
-#  9)  sentiment
-#  10) how many times lawyers say "Your honor"
-#  11) how many times justices interrupt each other
-#  12) how many questions lawyers ask justices
-#  13) how many pauses lawyers take
-#  14) how many pauses justices take
-#  15) how many times lawyers say "constitution"
-#  16) how many times justices say "constitution"
-#  17) whether an amicus curiae speaks
-#  18) which side the amicus curiae speaks for
-#  19) which justice speaks the most
-#  20) how much the Chief Justice speaks
-
 def extract_features(filename):
     """Extract features from a whitelist text file.
     Each whitelist text file has the same structure:
@@ -405,7 +382,7 @@ if __name__ == '__main__':
         output += ','.join([str(f) for f in features]) + ','
         output += str(decisions[docket]) + '\n'
 
-    with open('test_file.csv', 'w') as f:
+    with open('feature_matrix.csv', 'w') as f:
         f.write(output)
 
 
