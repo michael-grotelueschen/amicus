@@ -44,17 +44,14 @@ def extract_features(filename):
 
         respondent_line = f.readline().replace('\n', '')
         respondents = respondent_line.split(':')[1].split(',')
-
         # The third line of the file is always blank to make
         # visual inspection easier.
         f.readline()
 
         found_petitioner_argument_section = False
         found_respondent_argument_section = False
-
         found_lawyer_speech = False
         found_justice_speech = False
-
         # These are the features to extract.
         # Here are some brief descriptions:
         # 
@@ -98,8 +95,6 @@ def extract_features(filename):
         # p_justice_why_count : The number of times justices say 'why'.
         # p_justice_case_reference_count : The number of times justices reference
         #                                  cases.
-        # 
-
         num_petitioner_lawyers = len(petitioners)
         num_respondent_lawyers = len(respondents)
         amicus_curiae = False
@@ -366,7 +361,7 @@ def get_case_reference_count(line):
 
 def get_dockets():
     """Get all of the dockets to investigate."""
-    filename = '../debug_files/ok_case_names'
+    filename = 'ok_cases'
     with open(filename) as f:
         dockets = [line.split('.')[0] for line in f if '.txt' in line]
     return dockets
@@ -393,7 +388,6 @@ def get_decisions():
 
 
 if __name__ == '__main__':
-    #filename = '../txts_whitelist/02-1672.txt'
 
     output = 'docket,'
     for n in xrange(1, 49):
@@ -402,15 +396,16 @@ if __name__ == '__main__':
 
     dockets = get_dockets()
     decisions = get_decisions()
+
     for docket in dockets:
         filename = '../txts_whitelist/' + docket + '.txt'
         features = extract_features(filename)
 
         output += docket + ','
-        output += ','.join([str(f) for f in features])
+        output += ','.join([str(f) for f in features]) + ','
         output += str(decisions[docket]) + '\n'
 
-    with open('../debug_files/test_file.csv', 'w') as f:
+    with open('test_file.csv', 'w') as f:
         f.write(output)
 
 

@@ -16,13 +16,13 @@ PRIORITIES:
 
 0)
 TEXT CLEAN UP:
-quotation marks: \xe2\x80\x99
-
 CASE 04-277
 
+
 1)
-
-
+FILENAME CLEAN UP:
+remove underscores
+(need to be able to use cases from latest term)
 
 
 

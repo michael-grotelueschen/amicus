@@ -2,7 +2,7 @@ import re
 
 def get_dockets():
     """Get all of the dockets to investigate."""
-    filename = '../debug_files/ok_case_names'
+    filename = 'ok_cases'
     with open(filename) as f:
         dockets = [line.split('.')[0] for line in f if '.txt' in line]
     return dockets
