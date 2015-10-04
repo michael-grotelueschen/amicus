@@ -15,7 +15,7 @@ PRIORITIES:
 
 
 0)
-Get list of predictions for the 2014 term.
+MVP web app.
 
 
 
