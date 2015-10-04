@@ -13,8 +13,11 @@ from sklearn.metrics import accuracy_score, \
                             classification_report, \
                             confusion_matrix
 
-if __name__ == "__main__":
-    df_transcripts = pd.read_csv('amicus/code/test_file.csv')
+def get_train_set_and_test_set_dataframes():
+    """Return a train set dataframe and a test set dataframe
+    from the feature matrix.
+    """
+    df_transcripts = pd.read_csv('amicus/code/feature_matrix.csv')
     dockets = df_transcripts['docket'].tolist()
 
     ok_cases_train_set = []
@@ -35,21 +38,23 @@ if __name__ == "__main__":
     df_train_set = df_transcripts[train_set_mask]
     df_test_set = df_transcripts[test_set_mask]
 
+    return df_train_set, df_test_set
+
+def exlore_models():
+    """This is a placeholder function explore modeling."""
+    df_train_set, df_test_set = get_train_set_and_test_set_dataframes()
+
     y_true_train = df_train_set['decision'].values
-    df_train_set.pop('decision')
-    df_train_set.pop('docket')
-    x_train = df_train_set.values
+    x_train = df_train_set.drop(['docket', 'decision'], axis=1).values
 
     y_true_test = df_test_set['decision'].values
-    df_test_set.pop('decision')
-    df_test_set.pop('docket')
-    x_test = df_test_set.values
+    x_test = df_test_set.drop(['docket', 'decision'], axis=1).values
 
-    lr_model = LogisticRegression()
-    lr_model.fit(x_train, y_true_train)
-    probs = lr_model.predict_proba(x_test)[:, 1]
-    threshold = 0.7
-    y_pred = probs > threshold
+    #lr_model = LogisticRegression()
+    #lr_model.fit(x_train, y_true_train)
+    #probs = lr_model.predict_proba(x_test)[:, 1]
+    #threshold = 0.7
+    #y_pred = probs > threshold
 
     #print classification_report(y_true_test, y_pred)
     #print accuracy_score(y_true_test, y_pred)
@@ -70,3 +75,31 @@ if __name__ == "__main__":
     #scores = cross_val_score(rf_model, x, y_true, scoring='f1', cv=10)
     #print scores
     #print np.mean(scores)
+
+def get_predictions():
+    """Get predictions for a particular model."""
+    df_train_set, df_test_set = get_train_set_and_test_set_dataframes()
+
+    y_true_train = df_train_set['decision'].values
+    x_train = df_train_set.drop(['docket', 'decision'], axis=1).values
+
+    y_true_test = df_test_set['decision'].values
+    x_test = df_test_set.drop(['docket', 'decision'], axis=1).values
+
+    lr_model = LogisticRegression()
+    lr_model.fit(x_train, y_true_train)
+    probs = lr_model.predict_proba(x_test)[:, 1]
+    threshold = 0.7
+    y_pred = probs > threshold
+
+    predictions_dict = {}
+    for docket, prediction in zip(df_test_set['docket'].tolist(), y_pred):
+        if prediction == True:
+            winning_side = 'petitioner'
+        else:
+            winning_side = 'respondent'
+        predictions_dict[docket] = winning_side
+    return predictions_dict
+
+if __name__ == "__main__":
+    prediction_dict = get_predictions()
