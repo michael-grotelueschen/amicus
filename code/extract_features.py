@@ -283,7 +283,6 @@ def extract_features(filename):
 
     return features
 
-
 def get_interruption(line):
     return line.endswith('--\n')
 
@@ -384,11 +383,3 @@ if __name__ == '__main__':
 
     with open('feature_matrix.csv', 'w') as f:
         f.write(output)
-
-
-
-
-
-
-
-
