@@ -15,8 +15,7 @@ PRIORITIES:
 
 
 0)
-Get list of cases from the 2014 term.
-
+Get list of predictions for the 2014 term.
 
 
 
