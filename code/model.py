@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import pandas as pd
+import cPickle
 import matplotlib.pyplot as plt
 
 from sklearn.linear_model import LogisticRegression
@@ -17,17 +17,17 @@ def get_train_set_and_test_set_dataframes():
     """Return a train set dataframe and a test set dataframe
     from the feature matrix.
     """
-    df_transcripts = pd.read_csv('amicus/code/feature_matrix.csv')
+    df_transcripts = pd.read_csv('feature_matrix.csv')
     dockets = df_transcripts['docket'].tolist()
 
     ok_cases_train_set = []
-    with open('amicus/code/ok_cases_train_set') as f:
+    with open('ok_cases_train_set') as f:
         for line in f:
             case = line.replace('\n', '')
             ok_cases_train_set.append(case)
             
     ok_cases_test_set = []
-    with open('amicus/code/ok_cases_test_set') as f:
+    with open('ok_cases_test_set') as f:
         for line in f:
             case = line.replace('\n', '')
             ok_cases_test_set.append(case)
@@ -92,14 +92,16 @@ def get_predictions():
     threshold = 0.7
     y_pred = probs > threshold
 
-    predictions_dict = {}
+    predictions = []
     for docket, prediction in zip(df_test_set['docket'].tolist(), y_pred):
         if prediction == True:
             winning_side = 'petitioner'
         else:
             winning_side = 'respondent'
-        predictions_dict[docket] = winning_side
-    return predictions_dict
+        predictions.append(docket + ':' + winning_side)
+    return '\n'.join(predictions)
 
 if __name__ == "__main__":
-    prediction_dict = get_predictions()
+    predictions = get_predictions()
+    with open('predictions', 'w') as f:
+        f.write(predictions)
