@@ -268,8 +268,64 @@ def extract_transcript_features(filename):
 
                 p_num_justices,
                 r_num_justices]
-
     return features
+
+def get_feature_names():
+    """Get a list of feature names."""
+    feature_names = ['num_petitioner_lawyers', 
+                     'num_respondent_lawyers', 
+                     'amicus_curiae',
+
+                     'p_interruption_count',
+                     'p_word_count',
+                     'p_laughter',
+                     'p_pauses',
+                     'p_question_count',
+                     'p_your_honor_count',
+                     'p_yes_count',
+                     'p_no_count',
+                     'p_I_count',
+                     'p_rebuttal',
+                     'p_case_reference_count',
+
+                     'p_justice_word_count',
+                     'p_justice_interruption_count',
+                     'p_justice_pauses',
+                     'p_justice_laughter',
+                     'p_justice_question_count',
+                     'p_chief_justice_count',
+                     'p_justice_yes_count',
+                     'p_justice_no_count',
+                     'p_justice_I_count',
+                     'p_justice_why_count',
+                     'p_justice_case_reference_count',
+
+                     'r_interruption_count',
+                     'r_word_count',
+                     'r_laughter',
+                     'r_pauses',
+                     'r_question_count',
+                     'r_your_honor_count',
+                     'r_yes_count',
+                     'r_no_count',
+                     'r_I_count',
+                     'r_case_reference_count',
+
+                     'r_justice_word_count',
+                     'r_justice_interruption_count',
+                     'r_justice_pauses',
+                     'r_justice_laughter',
+                     'r_justice_question_count',
+                     'r_chief_justice_count',
+                     'r_justice_yes_count',
+                     'r_justice_no_count',
+                     'r_justice_I_count',
+                     'r_justice_why_count',
+                     'r_justice_case_reference_count',
+
+                     'p_num_justices',
+                     'r_num_justices']
+    return feature_names
 
 def get_interruption(line):
     return line.endswith('--\n')
@@ -348,38 +404,33 @@ def get_decisions(dockets):
     return decisions
 
 def get_scdb_dataframe(dockets):
-    """Get a SUpreme Court Database dataframe that only includes the dockets
+    """Get a Supreme Court Database dataframe that only includes the dockets
     we are interested in.
     """
     #df_scdb = pd.read_csv('../scdb/SCDB_2015_01_caseCentered_Citation.csv')
     #mask = [True if d in dockets else False for d in df_scdb['docket'].tolist()]
-
     #df_scdb_subset = df_scdb[mask]
     #df_scdb_subset['argument_month'] = df_scdb_subset['dateArgument'].apply(lambda d: int(d.split('/')[0]))
-    return ''
+    return None
 
 def extract_scdb_features(scdb_dataframe, docket):
     """Extract Supreme Court Database features for a particular docket.
     """
-    return []
+    return None
 
 if __name__ == '__main__':
 
     output = 'docket,'
-    num_features = 49
-    for n in xrange(1, num_features):
-        output += 'f' + str(n) + ','
-    output += 'decision\n'
+    output += ','.join(get_feature_names())
+    output += ',decision\n'
 
     dockets = get_dockets()
     decisions = get_decisions(dockets)
-    df_scdb = get_scdb_dataframe(dockets)
 
     for docket in dockets:
         filename = '../txts_whitelist/' + docket + '.txt'
         transcript_features = extract_transcript_features(filename)
-        scdb_features = extract_scdb_features(df_scdb, docket)
-        features = transcript_features + scdb_features
+        features = transcript_features
 
         output += docket + ','
         output += ','.join([str(f) for f in features]) + ','
