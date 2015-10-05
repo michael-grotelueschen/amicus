@@ -14,9 +14,13 @@ PRIORITIES:
 
 TASKS:
 1)
-More features/modeling.
+More feature engineering/modeling.
 
+2)
+Repo clean-up.
 
+3)
+Presentation.
 
 
 
