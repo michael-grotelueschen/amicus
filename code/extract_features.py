@@ -351,11 +351,11 @@ def get_scdb_dataframe(dockets):
     """Get a SUpreme Court Database dataframe that only includes the dockets
     we are interested in.
     """
-    df_scdb = pd.read_csv('../scdb/SCDB_2015_01_caseCentered_Citation.csv')
-    mask = [True if d in dockets else False for d in df_scdb['docket'].tolist()]
+    #df_scdb = pd.read_csv('../scdb/SCDB_2015_01_caseCentered_Citation.csv')
+    #mask = [True if d in dockets else False for d in df_scdb['docket'].tolist()]
 
-    df_scdb_subset = df_scdb[mask]
-    df_scdb_subset['argument_month'] = df_scdb_subset['dateArgument'].apply(lambda d: int(d.split('/')[0]))
+    #df_scdb_subset = df_scdb[mask]
+    #df_scdb_subset['argument_month'] = df_scdb_subset['dateArgument'].apply(lambda d: int(d.split('/')[0]))
     return ''
 
 def extract_scdb_features(scdb_dataframe, docket):
