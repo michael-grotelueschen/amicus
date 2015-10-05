@@ -1,7 +1,7 @@
 import pandas as pd
 
-def extract_features(filename):
-    """Extract features from a whitelist text file.
+def extract_transcript_features(filename):
+    """Extract transcript features from a whitelist text file.
     Each whitelist text file has the same structure:
 
     Line 1: The list of petitioner lawyers.
@@ -29,8 +29,7 @@ def extract_features(filename):
         found_respondent_argument_section = False
         found_lawyer_speech = False
         found_justice_speech = False
-        # These are the features to extract.
-        # Here are some brief descriptions:
+        # These are the transcript features to extract, with brief descriptions:
         # 
         # num_petitioner_lawyers : The number of lawyers arguing for the 
         #                          petitioners.
@@ -127,9 +126,7 @@ def extract_features(filename):
 
         for line in f:
             # Determine which section of the text we are in:
-            # petitioners' argument
-            # OR
-            # respondents' argument
+            # petitioners' argument OR respondents' argument
             if line.startswith('ORAL ARGUMENT OF') or \
                line.startswith('REBUTTAL ARGUMENT OF'):
                 if any(s in line for s in petitioners):
@@ -138,26 +135,18 @@ def extract_features(filename):
                 if any(s in line for s in respondents):
                     found_petitioner_argument_section = False
                     found_respondent_argument_section = True
-
                 if line.startswith('REBUTTAL ARGUMENT OF'):
                     p_rebuttal = True
-
                 if 'AMICUS' in line:
                     amicus_curiae = True
                 continue
-
-            # Determine the type of speaker
-            # lawyer
-            # OR
-            # justice
+            # Determine the type of speaker: lawyer OR justice
             if line.startswith('MR') or \
                line.startswith('MS') or \
                line.startswith('GENERAL'):
                 found_lawyer_speech = True
                 found_justice_speech = False
-
-            if line.startswith('JUSTICE') or \
-               line.startswith('CHIEF JUSTICE'):
+            else:
                 found_lawyer_speech = False
                 found_justice_speech = True
 
@@ -223,7 +212,6 @@ def extract_features(filename):
 
     amicus_curiae = int(amicus_curiae)
     p_rebuttal = int(p_rebuttal)
-
     p_num_justices = len(p_justice_set)
     r_num_justices = len(r_justice_set)
 
@@ -342,44 +330,60 @@ def get_dockets():
         dockets = [line.split('.')[0] for line in f if '.txt' in line]
     return dockets
 
-def get_decisions():
-    """Get the decisions for all of the dockets.
+def get_decisions(dockets):
+    """Get the decisions for a set of dockets.
     Return a dictionary with dockets as keys and decicions as values.
     The decicions are either 1 (petitioner won) or 0 (respondent won).
     """
-    dockets = get_dockets()
-
     # Use SCDB_2015_01_caseCentered_Citation.csv
     # Docket column is: 'docket'
     # Decision column is: 'partyWinning'
     # 'partyWinning' = 1: petitioner won
     # 'partyWinning' = 0: respondent won
-    df = pd.read_csv('../scdb/SCDB_2015_01_caseCentered_Citation.csv')    
-
+    df_scdb = pd.read_csv('../scdb/SCDB_2015_01_caseCentered_Citation.csv')
     decisions = {}
     for docket in dockets:
-        decision = df[df['docket'] == docket]['partyWinning'].values[0]
+        decision = df_scdb[df_scdb['docket']==docket]['partyWinning'].values[0]
         decisions[docket] = decision
     return decisions
 
+def get_scdb_dataframe(dockets):
+    """Get a SUpreme Court Database dataframe that only includes the dockets
+    we are interested in.
+    """
+    df_scdb = pd.read_csv('../scdb/SCDB_2015_01_caseCentered_Citation.csv')
+    mask = [True if d in dockets else False for d in df_scdb['docket'].tolist()]
+
+    df_scdb_subset = df_scdb[mask]
+    df_scdb_subset['argument_month'] = df_scdb_subset['dateArgument'].apply(lambda d: int(d.split('/')[0]))
+    return ''
+
+def extract_scdb_features(scdb_dataframe, docket):
+    """Extract Supreme Court Database features for a particular docket.
+    """
+    return []
 
 if __name__ == '__main__':
 
     output = 'docket,'
-    for n in xrange(1, 49):
+    num_features = 49
+    for n in xrange(1, num_features):
         output += 'f' + str(n) + ','
     output += 'decision\n'
 
     dockets = get_dockets()
-    decisions = get_decisions()
+    decisions = get_decisions(dockets)
+    df_scdb = get_scdb_dataframe(dockets)
 
     for docket in dockets:
         filename = '../txts_whitelist/' + docket + '.txt'
-        features = extract_features(filename)
+        transcript_features = extract_transcript_features(filename)
+        scdb_features = extract_scdb_features(df_scdb, docket)
+        features = transcript_features + scdb_features
 
         output += docket + ','
         output += ','.join([str(f) for f in features]) + ','
         output += str(decisions[docket]) + '\n'
 
-    with open('feature_matrix.csv', 'w') as f:
+    with open('test_feature_matrix.csv', 'w') as f:
         f.write(output)
