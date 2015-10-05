@@ -7,16 +7,14 @@ UNDERSTAND THE DEPENDENCIES AS EARLY AS POSSIBLE
 
 PRIORITIES:
 1) Model (need lots of signal)
-2) App/presentation (this will likely be simple)
 
 
 
 
 
-
-0)
-MVP web app.
-
+TASKS:
+1)
+More features/modeling.
 
 
 
