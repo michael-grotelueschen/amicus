@@ -89,7 +89,7 @@ def get_predictions_and_actual_outcomes():
     lr_model = LogisticRegression()
     lr_model.fit(x_train, y_true_train)
     probs = lr_model.predict_proba(x_test)[:, 1]
-    threshold = 0.7
+    threshold = 0.65
     y_pred = probs > threshold
 
     predictions_and_actual_outcomes = []
