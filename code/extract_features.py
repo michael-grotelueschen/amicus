@@ -413,6 +413,10 @@ def get_scdb_dataframe(dockets):
     df_scdb_subset = df_scdb[mask]
     # Enter a missing dateArgument for Docket 08-7621:
     # the correct date is Nov 9 2009
+    problem_case = '08-7621'
+    df_scdb_subset['dateArgument'].fillna('', inplace=True)
+    # The following line is wrong: it requires .loc/.iloc
+    #df_scdb_subset.loc[df_scdb_subset['docket']==problem_case]['dateArgument'].values[0] = '11/9/2009'
 
     df_scdb_subset['argument_month'] = df_scdb_subset['dateArgument'].apply(lambda d: int(d.split('/')[0]))
     return None
