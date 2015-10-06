@@ -423,6 +423,12 @@ def get_scdb_dataframe(dockets):
     # The following line is wrong: it requires .loc/.iloc
     #df_scdb_subset.loc[df_scdb_subset['docket']==problem_case]['dateArgument'].values[0] = '11/9/2009'
     df_scdb_subset['argument_month'] = df_scdb_subset['dateArgument'].apply(lambda d: int(d.split('/')[0]))
+
+    row_index_1 = df_scdb_subset['docket'].values.tolist().index(problem_case_1)
+    row_index_2 = df_scdb_subset['docket'].values.tolist().index(problem_case_2)
+
+
+
     return None
 
 def extract_scdb_features(scdb_dataframe, docket):
@@ -448,5 +454,5 @@ if __name__ == '__main__':
         output += ','.join([str(f) for f in features]) + ','
         output += str(decisions[docket]) + '\n'
 
-    with open('test_feature_matrix.csv', 'w') as f:
+with open('test_feature_matrix.csv', 'w') as f:
         f.write(output)
