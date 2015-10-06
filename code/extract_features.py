@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 def extract_transcript_features(filename):
     """Extract transcript features from a whitelist text file.
@@ -270,8 +271,8 @@ def extract_transcript_features(filename):
                 r_num_justices]
     return features
 
-def get_feature_names():
-    """Get a list of feature names."""
+def get_transcript_feature_names():
+    """Get a list of transcript feature names."""
     feature_names = ['num_petitioner_lawyers', 
                      'num_respondent_lawyers', 
                      'amicus_curiae',
@@ -326,6 +327,11 @@ def get_feature_names():
                      'p_num_justices',
                      'r_num_justices']
     return feature_names
+
+def get_scdb_feature_names():
+    """Get a list of Supreme Court database feature names."""
+    feature_names = ['argument_month']
+    return []
 
 def get_interruption(line):
     return line.endswith('--\n')
@@ -409,7 +415,6 @@ def get_scdb_dataframe(dockets):
     """
     df_scdb = pd.read_csv('../scdb/SCDB_2015_01_caseCentered_Citation.csv')
     mask = [True if d in dockets else False for d in df_scdb['docket'].tolist()]
-
     df_scdb_subset = df_scdb[mask]
     # Enter a missing dateArgument for:
     # Docket 06-984: the correct date is Oct 10 2007
@@ -418,37 +423,48 @@ def get_scdb_dataframe(dockets):
     correct_date_1 = '10/10/2007'
     problem_case_2 = '08-7621'
     correct_date_2 = '11/9/2009'
+    df_scdb_subset.loc[df_scdb_subset['docket']==problem_case_1, 'dateArgument'] = correct_date_1
+    df_scdb_subset.loc[df_scdb_subset['docket']==problem_case_2, 'dateArgument'] = correct_date_2
 
-    df_scdb_subset['dateArgument'].fillna('', inplace=True)
-    # The following line is wrong: it requires .loc/.iloc
-    #df_scdb_subset.loc[df_scdb_subset['docket']==problem_case]['dateArgument'].values[0] = '11/9/2009'
     df_scdb_subset['argument_month'] = df_scdb_subset['dateArgument'].apply(lambda d: int(d.split('/')[0]))
 
-    row_index_1 = df_scdb_subset['docket'].values.tolist().index(problem_case_1)
-    row_index_2 = df_scdb_subset['docket'].values.tolist().index(problem_case_2)
+    x = df_scdb_subset[['docket', 'argument_month']]
+    #x = np.hstack((x, pd.get_dummies(df_scdb_subset['certReason']).values))
+    #x = np.hstack((x, pd.get_dummies(df_scdb_subset['naturalCourt']).values))
+    #x = np.hstack((x, pd.get_dummies(df_scdb_subset['chief']).values))
+    #x = np.hstack((x, pd.get_dummies(df_scdb_subset['issueArea']).values))
+    #x = np.hstack((x, pd.get_dummies(df_scdb_subset['jurisdiction']).values))
 
-
-
-    return None
+    x = pd.concat([x, pd.get_dummies(df_scdb_subset['certReason'])], axis=1)
+    x = pd.concat([x, pd.get_dummies(df_scdb_subset['naturalCourt'])], axis=1)
+    x = pd.concat([x, pd.get_dummies(df_scdb_subset['chief'])], axis=1)
+    x = pd.concat([x, pd.get_dummies(df_scdb_subset['issueArea'])], axis=1)
+    x = pd.concat([x, pd.get_dummies(df_scdb_subset['jurisdiction'])], axis=1)
+    return x
 
 def extract_scdb_features(scdb_dataframe, docket):
     """Extract Supreme Court Database features for a particular docket.
     """
-    return None
+    row = scdb_dataframe[scdb_dataframe['docket']==docket].drop('docket', axis=1)
+    features = row.values[0].tolist()
+    return []
 
 if __name__ == '__main__':
 
     output = 'docket,'
-    output += ','.join(get_feature_names())
+    feature_names = get_transcript_feature_names() + get_scdb_feature_names()
+    output += ','.join(feature_names)
     output += ',decision\n'
 
     dockets = get_dockets()
     decisions = get_decisions(dockets)
+    df_scdb = get_scdb_dataframe(dockets)
 
     for docket in dockets:
         filename = '../txts_whitelist/' + docket + '.txt'
         transcript_features = extract_transcript_features(filename)
-        features = transcript_features
+        scdb_features = extract_scdb_features(df_scdb, docket)
+        features = transcript_features + scdb_features
 
         output += docket + ','
         output += ','.join([str(f) for f in features]) + ','
