@@ -429,12 +429,6 @@ def get_scdb_dataframe(dockets):
     df_scdb_subset['argument_month'] = df_scdb_subset['dateArgument'].apply(lambda d: int(d.split('/')[0]))
 
     x = df_scdb_subset[['docket', 'argument_month']]
-    #x = np.hstack((x, pd.get_dummies(df_scdb_subset['certReason']).values))
-    #x = np.hstack((x, pd.get_dummies(df_scdb_subset['naturalCourt']).values))
-    #x = np.hstack((x, pd.get_dummies(df_scdb_subset['chief']).values))
-    #x = np.hstack((x, pd.get_dummies(df_scdb_subset['issueArea']).values))
-    #x = np.hstack((x, pd.get_dummies(df_scdb_subset['jurisdiction']).values))
-
     x = pd.concat([x, pd.get_dummies(df_scdb_subset['certReason'])], axis=1)
     x = pd.concat([x, pd.get_dummies(df_scdb_subset['naturalCourt'])], axis=1)
     x = pd.concat([x, pd.get_dummies(df_scdb_subset['chief'])], axis=1)
