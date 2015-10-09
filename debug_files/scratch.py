@@ -94,6 +94,7 @@ logit_model = Logit(y_true, x_const).fit()
 logit_model.summary()
 
 
+
 # significant features:
 #
 # 1  : num_petitioner_lawyers
@@ -104,3 +105,15 @@ logit_model.summary()
 # 23 : p_justice_I_count
 # 27 : r_word_count
 # 29 : r_pauses
+
+
+
+lrcv = LogisticRegressionCV(penalty='l1', solver='liblinear')
+lrcv.fit(x, y_true, )
+
+lrcv.C_
+
+print lrcv.coef_
+import pylab as py
+%matplotlib inline
+py.plot(sorted(lrcv.coef_[0]))
