@@ -117,3 +117,102 @@ print lrcv.coef_
 import pylab as py
 %matplotlib inline
 py.plot(sorted(lrcv.coef_[0]))
+
+#######################################################################
+df = pd.read_csv('amicus/code/feature_matrix.csv')
+feature_names = df.columns[1:-1]
+
+y_true = df['decision'].values
+x = df.drop(['docket', 'decision'], axis=1).values
+
+
+accuracy_scores = []
+precision_scores = []
+recall_scores = []
+for train, test in KFold(df.shape[0], 10):
+    x_train, x_test, y_train, y_test = x[train], x[test], y_true[train], y_true[test]
+
+    # Added regularization term
+    lr_model_2 = LogisticRegression(penalty='l1', C=0.00599484)
+    lr_model_2.fit(x_train, y_train)
+    probs = lr_model_2.predict_proba(x_test)[:, 1]
+
+    threshold = 0.5
+    y_pred = probs > threshold
+    accuracy_scores.append(accuracy_score(y_test, y_pred))
+    precision_scores.append(precision_score(y_test, y_pred))
+    recall_scores.append(recall_score(y_test, y_pred))
+    
+    print confusion_matrix(y_test, y_pred)
+    print
+
+print 'ACCURACY SCORES:'
+print accuracy_scores
+print np.mean(accuracy_scores)
+
+print '\nPRECISION SCORES:'
+print precision_scores
+print np.mean(precision_scores)
+
+print '\nRECALL SCORES:'
+print recall_scores
+print np.mean(recall_scores)
+
+
+
+
+accuracy_scores = []
+precision_scores = []
+recall_scores = []
+for train, test in KFold(df.shape[0], 10):
+    x_train, x_test, y_train, y_test = x[train], x[test], y_true[train], y_true[test]
+
+    # Added regularization term
+    rf = RandomForestClassifier(max_depth=3, min_samples_split=10, oob_score=True)
+    rf.fit(x, y_true)
+    probs = rf.predict_proba(x_test)[:, 1]
+
+    threshold = 0.5
+    y_pred = probs > threshold
+    accuracy_scores.append(accuracy_score(y_test, y_pred))
+    precision_scores.append(precision_score(y_test, y_pred))
+    recall_scores.append(recall_score(y_test, y_pred))
+    
+    print confusion_matrix(y_test, y_pred)
+    print
+
+print 'ACCURACY SCORES:'
+print accuracy_scores
+print np.mean(accuracy_scores)
+
+print '\nPRECISION SCORES:'
+print precision_scores
+print np.mean(precision_scores)
+
+print '\nRECALL SCORES:'
+print recall_scores
+print np.mean(recall_scores)
+
+
+
+
+
+lr_model_3 = LogisticRegression(penalty='l1', C=0.00599484)
+lr_model_3.fit(x, y_true)
+
+for index, (name, coef) in enumerate(zip(feature_names, lr_model_3.coef_[0]), 1):
+    print str(index) + ':' + name + ':' + str(coef)
+
+plt.figure(figsize=(20, 20))
+plt.bar(range(1, 49), lr_model_3.coef_[0])
+
+
+
+rf_1 = RandomForestClassifier(max_depth=3, min_samples_split=10, oob_score=True)
+rf_1.fit(x, y_true)
+    
+for name, fi in zip(feature_names, rf_1.feature_importances_):
+    print name + ':' + str(fi)
+
+plt.figure(figsize=(20, 20))
+plt.bar(range(1, 49), rf_1.feature_importances_)
