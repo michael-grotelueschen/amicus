@@ -8,4 +8,4 @@ Amicus has 4 parts:
   - Extract behavioral features from the text
   - Modeling
 
-Amicus achieves accuracy comparable to Katz, et al., 2014, even without features based on legal expertise.
+Amicus achieves accuracy comparable to [Katz, et al., 2014](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2463244), even without features based on legal expertise.
