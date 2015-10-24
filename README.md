@@ -1,4 +1,4 @@
-# Amicus
+#Amicus
 ###Predicting Supreme Court decisions based on oral arguments.
 
 Amicus has 4 parts:
