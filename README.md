@@ -7,7 +7,7 @@ The purpose of Amicus is to predict Supreme Court decisions based on the behavio
 ![alt text](/court.jpg)
 
 ### Result
-Amicus achieves accuracy comparable to [Katz, et al., 2014](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2463244), even without features based on legal expertise. 
+Amicus achieves accuracy comparable to a system developed by law experts ([Katz, et al., 2014](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2463244)), even without features based on legal expertise. 
 
 ### Pipeline 
 Amicus has 4 parts:
