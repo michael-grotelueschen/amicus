@@ -16,7 +16,7 @@ Amicus has 4 parts:
   - Extract behavioral features from the text
   - Model
 
-### Next steps
+### Future Steps
   - Make data pipeline more robust
   - Explore interaction terms
   - Explore more data sources
