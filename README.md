@@ -17,3 +17,6 @@ Amicus has 4 parts:
   - Model
 
 ### Next steps
+  - Make data pipeline more robust
+  - Explore interaction terms
+  - Explore more data sources
