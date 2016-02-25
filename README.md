@@ -1,8 +1,8 @@
 #Amicus
 ### Overview
-The Supreme Court consists of nine justices who decide cases brought before them by petitioners. The petitioners' opponents in a case are called respondents. The court's decisions are based in part on oral arguments, during which the attorneys for both the petitioners and respondents answer questions from the justices. It turns out that the behavior of the attorneys and justices during oral argument can predict the court's decisions. 
+The Supreme Court consists of nine justices who decide cases brought before them by petitioners. The petitioners' opponents in a case are called respondents. The court's decisions are based in part on oral arguments, during which the attorneys for both the petitioners and respondents answer questions from the justices. 
 
-The purpose of Amicus is to predict Supreme Court decisions based on oral arguments. 
+The purpose of Amicus is to predict Supreme Court decisions based on the behavior of attorneys and justices during oral arguments. 
 
 ![alt text](/court.jpg)
 
