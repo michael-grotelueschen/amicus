@@ -8,3 +8,5 @@ Amicus has 4 parts:
   - Model
 
 Amicus achieves accuracy comparable to [Katz, et al., 2014](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2463244), even without features based on legal expertise.
+
+![alt text](/court.jpg)
