@@ -22,3 +22,5 @@ Supreme Court oral argument transcripts are public and freely available at ([sup
   - Make data pipeline more robust
   - Explore interaction terms
   - Explore more data sources
+
+This is project has lots of room for improvement. One idea is to make the data pipeline more robust, although this would be difficult due to the variability in the transcript PDFs and the text output from Apache Tika. Another is to explore interaction terms and different models. The most interesting improvement would be to explore and incorporate more data sources. Given that attempts to predict the Supreme Court so far achieve similar results irrespective of data source, whether it is my project that uses around 700 oral argument transcripts or the control model ([Katz, et al., 2014](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2463244)) that uses 60 years of complex case law and justice data, my intuition is that the best dataset for this problem has not been found.
