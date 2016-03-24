@@ -7,7 +7,7 @@ The purpose of Amicus is to predict Supreme Court decisions based on the behavio
 ![alt text](/court.jpg)
 
 ### Result
-Amicus achieves accuracy comparable to a system developed by law experts ([Katz, et al., 2014](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2463244)) even without features based on legal expertise. Instead, the features are simple textual details like laughter, pauses, or interruptions found in oral argument transcripts.
+Amicus achieves accuracy comparable to a control model based on legal information developed by expert legal analysts ([Katz, et al., 2014](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2463244)) even without features based on legal expertise. Instead, the features are law-agnostic textual details like laughter, pauses, or interruptions found in oral argument transcripts.
 
 ### Pipeline 
 Amicus has 4 parts:
@@ -15,6 +15,8 @@ Amicus has 4 parts:
   - Process them
   - Extract behavioral features from the text
   - Model
+
+Supreme Court oral argument transcripts are public and freely available at ([supremecourt.gov](http://www.supremecourt.gov)) I crawled the site and downloaded more than 700 transcripts in PDF format. Then, I used Apache Tika to extract raw text data from the PDFs. Next I wrote a few python scripts to clean the raw text and process it into a format to make analysis as easy as possible. (There are many examples of the format in [txts_whitelist](https://github.com/michael-grotelueschen/amicus/tree/master/txts_whitelist). Next, I came up with behavioral features like laughter, pauses, interruptions, or mentions of other cases and collected them from the text. These and other features are collected separately for justices, petitioner attorneys, and respondent attorneys. Finally, I used these features in a logistic regression model.
 
 ### Future Steps
   - Make data pipeline more robust
